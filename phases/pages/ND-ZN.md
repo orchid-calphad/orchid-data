@@ -1,20 +1,19 @@
 # Nd–Zn phases
 
-> Nd–Zn system: 17 phases (tier A 7, tier B 1, tier C 5, liquid 1, needs_review 3); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Nd–Zn system: 16 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/ND-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/ND-ZN.md
 
-17 phases (tier A 7, tier B 1, tier C 5, liquid 1, needs_review 3); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+16 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=ND-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/ND-ZN.json) · [Nd–Zn system page](https://data.orchid-project.org/systems/ND-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/ND-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Nd–Zn system (17)
+Table: Phases of the Nd–Zn system (16)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-nd-zn-bcc-a2); _phase:nd-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 5 calculated diagram(s): 891.57–1295.78 K, x(Zn) 0–0.08949 | 16 | 5 |
+| [BCC_A2](#phase-nd-zn-bcc-a2); _phase:nd-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 891.57–1295.78 K, x(Zn) 0–0.08949 | 16 | 5 |
 | [B2_BCC](#phase-nd-zn-bcc-b2); _phase:nd-zn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1193.52 K, x(Zn) 0.49657–0.50011 | 6 | 1 |
-| [DHCP](#phase-nd-zn-dhcp); _phase:nd-zn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-nd-zn-dhcp-a3); _phase:nd-zn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1287.22 K, x(Zn) 0–0.00402 | 8 | 4 |
 | [FCC_A1](#phase-nd-zn-fcc-a1); _phase:nd-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-nd-zn-hcp-a3); _phase:nd-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2498.93 K, x(Zn) 1–1 | 4 | 4 |
@@ -34,7 +33,7 @@ Table: Phases of the Nd–Zn system (17)
 
 - Id: `phase:nd-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 5 calculated diagram(s): 891.57–1295.78 K, x(Zn) 0–0.08949
+- Stability: stable in 4 of 4 calculated diagram(s): 891.57–1295.78 K, x(Zn) 0–0.08949
 - Literature: 16 values (16 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:bcc-a2)
 
@@ -128,24 +127,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Nd–Zn)
 
-- Id: `phase:nd-zn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:dhcp)
-
-Names (1): _corpus: _corpus:phase:nd-zn:dhcp  
-
-
-## DHCP (Nd–Zn)
-
 - Id: `phase:nd-zn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1287.22 K, x(Zn) 0–0.00402
 - Literature: 8 values (8 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-zn:dhcp-a3)
 
-Names (9): _corpus: _corpus:phase:nd-zn:dhcp-a3  
+Names (10): _corpus: _corpus:phase:nd-zn:dhcp-a3, corpus:phase:nd-zn:dhcp  
 _paper: _paper:10.1016/j.jallcom.2007.03.074:α-Nd(dhcp), paper:10.1016/j.jallcom.2007.03.134:dhcp, paper:10.1016/j.jallcom.2008.01.003:dhcp, paper:10.1016/j.jallcom.2010.07.056:DHCP  
 _tdb: _tdb:NdZn-08Li.tdb:DHCP, tdb:NdZn-08Qi.tdb:DHCP, tdb:NdZn-09Liu.tdb:DHCP, tdb:NdZn-11Qi.tdb:DHCP  
 

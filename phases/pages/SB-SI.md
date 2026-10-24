@@ -14,7 +14,7 @@ Table: Phases of the Sb–Si system (3)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-sb-si-a4-diamond); _phase:sb-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1686.95 K, x(Si) 0.99896–1 | 0 | 2 |
 | [RHOMBOHEDRAL_A7](#phase-sb-si-a7-rhombohedral); _phase:sb-si:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–903.78 K, x(Si) 0–0 | 0 | 2 |
-| [LIQUID](#phase-sb-si-liquid); _phase:sb-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 902.71–2500 K, x(Si) 0–1 | 25 | 2 |
+| [LIQUID](#phase-sb-si-liquid); _phase:sb-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 902.71–2500 K, x(Si) 0–1 | 29 | 2 |
 
 ## DIAMOND_A4 (Sb–Si)
 
@@ -92,11 +92,11 @@ _assessment that models this phase_
 - Id: `phase:sb-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 902.71–2500 K, x(Si) 0–1
-- Literature: 25 values (22 accepted) from 1 papers
+- Literature: 29 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-si:liquid)
 
-Names (4): _corpus: _corpus:phase:sb-si:liquid  
-_paper: _paper:10.1007/bf02869508:L  
+Names (5): _corpus: _corpus:phase:sb-si:liquid  
+_paper: _paper:10.1007/bf02869508:L, paper:10.1016/j.jallcom.2010.11.199:L  
 _tdb: _tdb:SbSi-11Wan.tdb:LIQUID, tdb:SbSi-85Ole-LB.tdb:LIQUID  
 
 
@@ -116,12 +116,16 @@ _tdb: _tdb:SbSi-11Wan.tdb:LIQUID, tdb:SbSi-85Ole-LB.tdb:LIQUID
 22: CONST LIQUID:L : SB SI : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02869508](https://doi.org/10.1007/BF02869508) R.W. Olesinski, G.J. Abbaschian, Bull. Alloy Phase Diag., 6, 445-48(1985).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2010.11.199](https://doi.org/10.1016/j.jallcom.2010.11.199) J. Wang, Y.J. Liu, L.B. Liu, H.Y. Zhou, Z.P. Jin, Thermodynamic modeling of the Au–Sb–Si ternary system, Journal of Alloys and Compounds 509, 3057-3064 (2011).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/j.1538-7305.1960.tb03927.x](https://doi.org/10.1002/j.1538-7305.1960.tb03927.x) C. D. Thurmond, M. Kowalchik, Germanium and Silicon Liquidus Curves, Bell System Technical Journal 39, 169-204 (1960).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19070550102](https://doi.org/10.1002/zaac.19070550102) Robert S. Williams, LI. Über die Legierungen des Antimons mit Mangan, Chrom, Silicium und Zinn; des Wismuts mit Chrom und Silicium und des Mangans mit Zinn und Blei, Z. Anorg. Chem. 55, 1-33 (1907).  
+_cited as the source of values for this phase_
 - [doi:10.1021/j150509a019](https://doi.org/10.1021/j150509a019) Carl D. Thurmond, Equilibrium Thermochemistry of Solid and Liquid Alloys of Germanium and of Silicon. I. The Solubility of Ge and Si in Elements of Groups III, IV and V, J. Phys. Chem. 57, 827-830 (1953).  
 _cited as the source of values for this phase_
 

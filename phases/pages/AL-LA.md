@@ -1,14 +1,14 @@
 # Al–La phases
 
-> Al–La system: 16 phases (tier A 9, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Al–La system: 15 phases (tier A 8, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/AL-LA.html · Markdown: https://data.orchid-project.org/phases/pages/AL-LA.md
 
-16 phases (tier A 9, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 8, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=AL-LA) · [full JSON](https://data.orchid-project.org/phases/systems/AL-LA.json) · [Al–La system page](https://data.orchid-project.org/systems/AL-LA.html) · [Markdown](https://data.orchid-project.org/phases/pages/AL-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Al–La system (16)
+Table: Phases of the Al–La system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -23,8 +23,7 @@ Table: Phases of the Al–La system (16)
 | [D019_ALLA](#phase-al-la-alla-d019); _phase:al-la:alla-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1445.51 K, x(La) 0.25–0.75 | 9 | 1 |
 | [ALLA3_D019](#phase-al-la-alla3-d019); _phase:al-la:alla3-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 3 | 3 |
 | [BCC_A2](#phase-al-la-bcc-a2); _phase:al-la:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1089–2499.01 K, x(La) 0.99222–1 | 3 | 4 |
-| [DHCP](#phase-al-la-dhcp); _phase:al-la:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-al-la-dhcp-a3); _phase:al-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1125 K, x(La) 1–1 | 2 | 4 |
+| [DHCP](#phase-al-la-dhcp-a3); _phase:al-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1125 K, x(La) 1–1 | 1 | 4 |
 | [FCC_A1](#phase-al-la-fcc-a1); _phase:al-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1189 K, x(La) 0–1 | 19 | 4 |
 | [HCP_A3](#phase-al-la-hcp-a3); _phase:al-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-al-la-liquid); _phase:al-la:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 792.84–2500 K, x(La) 0–1 | 40 | 4 |
@@ -545,25 +544,14 @@ _assessment that models this phase_
 
 ## DHCP (Al–La)
 
-- Id: `phase:al-la:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-la:dhcp)
-
-Names (1): _corpus: _corpus:phase:al-la:dhcp  
-
-
-## DHCP (Al–La)
-
 - Id: `phase:al-la:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1125 K, x(La) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-la:dhcp-a3)
 
-Names (7): _corpus: _corpus:phase:al-la:dhcp-a3  
-_paper: _paper:10.1016/j.actamat.2005.10.013:La, paper:10.1016/j.actamat.2005.10.013:dhcp  
+Names (7): _corpus: _corpus:phase:al-la:dhcp-a3, corpus:phase:al-la:dhcp  
+_paper: _paper:10.1016/j.actamat.2005.10.013:dhcp  
 _tdb: _tdb:AlLa-00Yin.tdb:DHCP, tdb:AlLa-01Cac.tdb:DHCP, tdb:AlLa-06Zho.tdb:DHCP, tdb:AlLa-18Lia.tdb:DHCP  
 
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Eu2Ni17.html · Markdown: https:
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, model 2); Materials Project -6.408 kJ/mol-atom (mp-aaacqixi); OQMD -12.136 kJ/mol-atom (oqmd-30108).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
+Systems: [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
 
 ## Literature values
 
@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Eu2Ni17 reported in the literature (4)
 |---:|---|---:|---|---|---|---|---|---|
 | -48 kJ/mol (basis unstated) ± 4 | Ni17Eu2 | 298.15 | experimental | Effusion and EMF | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
 | -9.9 kJ/mol (basis unstated) | Ni17Eu2 | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
-| -9 kJ/mol-atom | Ni17Eu2 | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
+| -9 kJ/mol-atom | Ni17Eu2 | 298.15 | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
 | -9 kJ/mol (basis unstated) | Ni17Eu2 |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
 
 ### Uncertainty budget
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Eu2Ni17
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48 | kJ/mol (basis unstated) | 4 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -9.9 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -9 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48 | kJ/mol (basis unstated) | 4 | 0.05 | 50.4 (kems_vapour, cleaned_below_threshold) |  |  |  | 50.4 |
+| -9.9 | kJ/mol (basis unstated) |  | 0.05 | 31.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 31.5 |
+| -9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -9 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
 
 ## DFT formation energies
 
@@ -40,8 +40,8 @@ Table: DFT formation energy of Eu2Ni17
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacqixi | -6.408 | -0.066415 | P6_3/mmc | 1.181 | 0.0122 | no |
-| OQMD | oqmd-30108 | -12.136 | -0.125779 | P63/mmc | 1.253 | 0.013 | no |
+| Materials Project | mp-aaacqixi | -6.408 | -0.066415 | P6_3/mmc | 1.1814 | 0.0122 | no |
+| OQMD | oqmd-30108 | -12.136 | -0.125779 | P63/mmc | 1.2124 | 0.0126 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

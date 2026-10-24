@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Pu2O3.html · Markdown: https://data.orchid-project.org/compounds/Pu2O3.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -337.031 kJ/mol-atom (mp-aaabkgqq); OQMD -350.52 kJ/mol-atom (oqmd-12710).
+6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -328.25 kJ/mol-atom (mp-aaaabfrz); OQMD -350.52 kJ/mol-atom (oqmd-12710).
 
 Systems: [O–Pu](https://data.orchid-project.org/systems/O-PU.html)
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Pu2O3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -337 kJ/mol-atom ± 25 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
-| -334 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
+| -337 kJ/mol-atom ± 5 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 5 |  |
+| -334 kJ/mol-atom ± 4 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 6 |  |
 | -331.24 kJ/mol-atom | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 1 |  |
 | -331.2 kJ/mol-atom | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Besmann 1987_ [doi](https://doi.org/10.1016/0022-3115%2887%2990289-3) | Table 5, p. 12, row 3 |  |
-| -331.2 kJ/mol-atom ± 10 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
-| -330.8 kJ/mol-atom ± 20 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
+| -331.2 kJ/mol-atom ± 2 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 7 |  |
+| -330.8 kJ/mol-atom ± 4 | Pu2O3 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 4 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Pu2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -337 | kJ/mol-atom | 25 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 25 |
-| -334 | kJ/mol-atom | 20 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 20 |
-| -331.24 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -331.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -331.2 | kJ/mol-atom | 10 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 10 |
-| -330.8 | kJ/mol-atom | 20 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 20 |
+| -337 | kJ/mol-atom | 5 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 5 |
+| -334 | kJ/mol-atom | 4 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 4 |
+| -331.24 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -331.2 | kJ/mol-atom |  | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -331.2 | kJ/mol-atom | 2 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -330.8 | kJ/mol-atom | 4 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 4 |
 
 ## DFT formation energies
 
@@ -44,7 +44,7 @@ Table: DFT formation energy of Pu2O3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabkgqq | -337.031 | -3.49309 | Ia-3 | 0 | 0 | no |
+| Materials Project | mp-aaaabfrz | -328.25 | -3.40209 | P-3m1 | 8.7804 | 0.091 | no |
 | OQMD | oqmd-12710 | -350.52 | -3.6329 | C2/m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

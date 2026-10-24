@@ -1,10 +1,10 @@
 # Ba–Ni system
 
-> Ba–Ni system: 45 accepted literature values (mixing / partial 23, crystal structure 18, invariant reaction 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ni system: 41 accepted literature values (mixing / partial 23, crystal structure 14, invariant reaction 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-NI.html · Markdown: https://data.orchid-project.org/systems/BA-NI.md
 
-45 accepted literature values from 1 paper(s) (experimental 2, model 2, DFT 41); 1 calculated phase diagram(s).
+41 accepted literature values from 1 paper(s) (experimental 2, model 2, DFT 37); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-NI.json) · [CSV](https://data.orchid-project.org/systems/BA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-NI/BaNi-07Sha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-NI.html) · [Markdown](https://data.orchid-project.org/systems/BA-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 2 |
 | model | 2 |
-| DFT | 41 |
+| DFT | 37 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 3 |
 | phase transition | 1 |
 | mixing / partial | 23 |
-| crystal structure | 18 |
+| crystal structure | 14 |
 
 ## Calculated phase diagrams
 
@@ -97,7 +97,7 @@ Table: Mixing / partial, Ba–Ni system
 | Enthalpy of mixing; _printed: ΔH a (M)_ | 81.83 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 13 |  |
 | Enthalpy of mixing; _printed: ΔHa (M)_ | 81.83 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 17 |  |
 
-### Crystal structure (18)
+### Crystal structure (14)
 
 Table: Crystal structure, Ba–Ni system
 
@@ -110,14 +110,10 @@ Table: Crystal structure, Ba–Ni system
 | Lattice a; _printed: a (M)_ | 4.999 Å | 0 | Bcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 1 |  |
 | Lattice a; _printed: a (M)_ | 3.303 Å | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
 | Lattice a; _printed: a_ | 3.3 Å | 0 | Bcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 4 |  |
-| Lattice a; _printed: a (M)_ | 2.799 Å | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
-| Lattice a; _printed: a_ | 2.792 Å | 0 | Bcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 5 |  |
 | Lattice a; _printed: a (M)_ | 4.158 Å | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
 | Lattice a; _printed: a_ | 4.154 Å | 0 | Fcc; _alloy: Ni 0.75_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 9 |  |
 | Lattice a; _printed: a (M)_ | 4.735 Å | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
 | Lattice a; _printed: a_ | 4.732 Å | 0 | Fcc; _alloy: Ni 0.5_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 8 |  |
-| Lattice a; _printed: a (M)_ | 3.518 Å | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
-| Lattice a; _printed: a_ | 3.513 Å | 0 | Fcc; _alloy: Ni 1_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 10 |  |
 | Lattice a; _printed: a_ | 6.316 Å | 0 | Fcc; _alloy: Ni 0_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 6 |  |
 | Lattice a; _printed: a_ | 5.548 Å | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |
 | Lattice a; _printed: a (M)_ | 5.551 Å | 0 | Fcc; _alloy: Ni 0.25_ | DFT | [1] Shang 2007 | Table 1, p. 2, row 7 |  |

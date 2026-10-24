@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "CU10ZR7",
-  "CU51ZR14",
   "CU8ZR3",
   "CUZR2",
   "FCC_A1",
@@ -16,49 +15,17 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   922.5895867,
    1021.089587,
    1492.089587,
    1733.589587,
    1241.089587,
    1246.089587,
    1286.089587,
-   1303.589587,
-   1338.589587,
-   1340.089587
+   1303.589587
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU8ZR3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.2438432581
-    ]
-   ]
-  ],
   [
    [
     "CU10ZR7",
@@ -225,64 +192,6 @@
      0.02547617813
     ]
    ]
-  ],
-  [
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.2533592547
-    ]
-   ]
-  ],
-  [
-   [
-    "CU51ZR14",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.1757287561
-    ]
-   ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 29(2), 204 (2008) doi:10.1007/s11669-008-9267-2; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
@@ -296,53 +205,30 @@
   "diagram": "CU-ZR-p371",
   "target_tdb": "CuZr-08Tur.tdb",
   "record_ids": [
-   "aspa-4a26286cb79c0a62",
    "aspa-0ad3d72465fd95a8",
    "aspa-3996db9475245348",
    "aspa-d5214d923b81d9e3",
    "aspa-e807391ada9c105a",
    "aspa-bcfed6e35d685aea",
    "aspa-1726aefb94ccd603",
-   "aspa-c40c8d4017318896",
-   "aspa-2998acfc75607a6c",
-   "aspa-489d404663ccad8c"
+   "aspa-c40c8d4017318896"
   ],
   "confidence": [
    "medium",
-   "medium",
    "high",
    "high",
    "high",
    "high",
-   "medium",
-   "medium",
    "medium",
    "medium"
   ],
-  "points_left_out": 10,
+  "points_left_out": 13,
   "source": "assessed-phase-assemblages/espei-zpf/CU-ZR-p371.json"
  },
  "orchid_uncertainty_budget": {
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
-   {
-    "record_id": "aspa-4a26286cb79c0a62",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.964,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 36.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0280471,
-     "sigma_effective": 0.02
-    }
-   },
    {
     "record_id": "aspa-0ad3d72465fd95a8",
     "temperature_K": {
@@ -459,40 +345,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0255429,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-2998acfc75607a6c",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.964,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 33.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0375631,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-489d404663ccad8c",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.964,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 31.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0390657,
      "sigma_effective": 0.02
     }
    }

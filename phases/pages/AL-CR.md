@@ -15,9 +15,9 @@ Table: Phases of the Al–Cr system (22)
 | [AL11CR2](#phase-al-cr-al11cr2); _phase:al-cr:al11cr2_ | Al5Cr · mC732 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 9 of 9 calculated diagram(s): 300–1254.78 K, x(Cr) 0.14511–0.15385 | 34 | 10 |
 | [AL11CR4](#phase-al-cr-al11cr4); _phase:al-cr:al11cr4_ | Al11Mn4 · aP15 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1101.29 K, x(Cr) 0.24526–0.26667 | 5 | 2 |
 | [AL13CR2](#phase-al-cr-al13cr2); _phase:al-cr:al13cr2_ | Al45V7 · mC104 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1100.92 K, x(Cr) 0.13333–0.13333 | 2 | 5 |
-| [AL45CR7](#phase-al-cr-al45cr7); _phase:al-cr:al45cr7_ | Al45V7 · mC104 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1059.49 K, x(Cr) 0.13462–0.13462 | 4 | 1 |
-| [AL4CR](#phase-al-cr-al4cr); _phase:al-cr:al4cr_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646 | 59 | 12 |
-| [AL5CR](#phase-al-cr-al5cr); _phase:al-cr:al5cr_ | Al5Cr · mC732 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1214.35 K, x(Cr) 0.12656–0.16667 | 19 | 2 |
+| [AL45CR7](#phase-al-cr-al45cr7); _phase:al-cr:al45cr7_ | Al45V7 · mC104 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1059.49 K, x(Cr) 0.13462–0.13462 | 7 | 1 |
+| [AL4CR](#phase-al-cr-al4cr); _phase:al-cr:al4cr_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646 | 61 | 12 |
+| [AL5CR](#phase-al-cr-al5cr); _phase:al-cr:al5cr_ | Al5Cr · mC732 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1214.35 K, x(Cr) 0.12656–0.16667 | 22 | 2 |
 | [AL7CR](#phase-al-cr-al7cr); _phase:al-cr:al7cr_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1108 K, x(Cr) 0.11098–0.13333 | 53 | 6 |
 | [AL8CR5](#phase-al-cr-al8cr5); _phase:al-cr:al8cr5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1700.26 K, x(Cr) 0.29972–0.42506 | 1 | 2 |
 | [AL8CR5_D810](#phase-al-cr-al8cr5-d810); _phase:al-cr:al8cr5-d810_ | Al8Cr5 · D8_10 · hR26 · R3m (160) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–1609.98 K, x(Cr) 0.29367–0.45159 | 49 | 9 |
@@ -28,12 +28,12 @@ Table: Phases of the Al–Cr system (22)
 | [AL9CR4_L](#phase-al-cr-al9cr4-l); _phase:al-cr:al9cr4-l_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1333.03 K, x(Cr) 0.30769–0.30769 | 0 | 3 |
 | [ALCR_X](#phase-al-cr-alcr-x); _phase:al-cr:alcr-x_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–694.53 K, x(Cr) 0.75101–0.79868 | 2 | 1 |
 | [ALCR2_C11B](#phase-al-cr-alcr2-c11b); _phase:al-cr:alcr2-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1284.41 K, x(Cr) 0.63861–0.73267 | 44 | 12 |
-| [BCC_A2](#phase-al-cr-bcc-a2); _phase:al-cr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 14 calculated diagram(s): 300–3999.98 K, x(Cr) 0.49234–1 | 85 | 16 |
+| [BCC_A2](#phase-al-cr-bcc-a2); _phase:al-cr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–3999.98 K, x(Cr) 0.49234–1 | 80 | 16 |
 | [B2_BCC](#phase-al-cr-bcc-b2); _phase:al-cr:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2814.98 K, x(Cr) 0.49234–1 | 4 | 4 |
 | [GAMMA_BRASS](#phase-al-cr-brass-gamma); _phase:al-cr:brass-gamma_ |  | unresolved_no_candidates | no calculated diagram | 2 | 1 |
 | [FCC_A1](#phase-al-cr-fcc-a1); _phase:al-cr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–936.25 K, x(Cr) 0–0.00547 | 23 | 12 |
 | [HCP_A3](#phase-al-cr-hcp-a3); _phase:al-cr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 0 | 12 |
-| [LIQUID](#phase-al-cr-liquid); _phase:al-cr:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 931.38–4000 K, x(Cr) 0–1 | 109 | 12 |
+| [LIQUID](#phase-al-cr-liquid); _phase:al-cr:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 931.38–4000 K, x(Cr) 0–1 | 111 | 12 |
 
 ## AL11CR2 (Al–Cr)
 
@@ -253,7 +253,7 @@ _assessment that models this phase_
 - Structure: Al45V7 · mC104 · C2/m (12); type `st:al45v7-mc104`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.8654, Cr 0.1346
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1059.49 K, x(Cr) 0.13462–0.13462
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:al45cr7)
 
 Names (5): _corpus: _corpus:phase:al-cr:al45cr7  
@@ -292,7 +292,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Al4Mn-mu · hP574 · P6_3/mmc — AlCr-13Hu.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'
 - Candidate (tdb_comment): Al4Mn-mu · hP574 · P6_3/mmc — AlCr-15Wit.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1348.96 K, x(Cr) 0.18174–0.21646
-- Literature: 59 values (58 accepted) from 7 papers
+- Literature: 61 values (60 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:al4cr)
 
 Names (20): _corpus: _corpus:phase:al-cr:al4cr  
@@ -416,7 +416,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1214.35 K, x(Cr) 0.12656–0.16667
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:al5cr)
 
 Names (5): _corpus: _corpus:phase:al-cr:al5cr  
@@ -1091,12 +1091,12 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-cr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 11 of 14 calculated diagram(s): 300–3999.98 K, x(Cr) 0.49234–1
-- Literature: 85 values (82 accepted) from 5 papers
+- Stability: stable in 11 of 11 calculated diagram(s): 300–3999.98 K, x(Cr) 0.49234–1
+- Literature: 80 values (77 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:bcc-a2)
 
-Names (24): _corpus: _corpus:phase:al-cr:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.06.046:bcc(Cr), paper:10.1016/j.jallcom.2015.04.231:A2, paper:10.1016/j.jallcom.2015.04.231:A2am, paper:10.1016/j.jallcom.2015.04.231:βCr5Al8, paper:10.1016/j.jallcom.2016.12.298:bcc_A2, paper:10.1016/j.tca.2013.03.033:(Cr), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+Names (23): _corpus: _corpus:phase:al-cr:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.06.046:bcc(Cr), paper:10.1016/j.jallcom.2015.04.231:A2, paper:10.1016/j.jallcom.2015.04.231:A2am, paper:10.1016/j.jallcom.2016.12.298:bcc_A2, paper:10.1016/j.tca.2013.03.033:(Cr), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
 _tdb: _tdb:AlCr-00Sub.tdb:A2_BCC, tdb:AlCr-00Sub.tdb:BCC_A2, tdb:AlCr-07Tok.tdb:BCC_A2, tdb:AlCr-08Lia.tdb:BCC_A2, tdb:AlCr-13Hu.tdb:A2_BCC, tdb:AlCr-13Hu.tdb:BCC_A2, tdb:AlCr-15Wit.tdb:A2_BCC, tdb:AlCr-15Wit.tdb:BCC_A2, tdb:AlCr-17Cui-incomplete.tdb:BCC_A2, tdb:AlCr-17Wan-mod.tdb:BCC_A2, tdb:AlCr-17Wan.tdb:BCC_A2, tdb:AlCr-86Sau.tdb:BCC_A2, tdb:AlCr-87Sau.tdb:BCC_A2, tdb:AlCr-98Mur.tdb:BCC_A2, tdb:AlCr-98Sau-LB.tdb:A2_BCC, tdb:AlCr-98Sau-LB.tdb:BCC_A2  
 
 
@@ -1564,7 +1564,7 @@ _assessment that models this phase_
 - Id: `phase:al-cr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 931.38–4000 K, x(Cr) 0–1
-- Literature: 109 values (105 accepted) from 5 papers
+- Literature: 111 values (107 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cr:liquid)
 
 Names (18): _corpus: _corpus:phase:al-cr:liquid  
@@ -1660,9 +1660,9 @@ _tdb: _tdb:AlCr-00Sub.tdb:LIQUID, tdb:AlCr-07Tok.tdb:LIQUID, tdb:AlCr-08Lia.tdb:
 
 Example references (10 of 15; assessments first): 
 
-- [doi:10.1016/j.jallcom.2016.12.298](https://doi.org/10.1016/j.jallcom.2016.12.298) Senlin Cui, In-Ho Jung, Junghwan Kim, Jinghua Xin, A coupled experimental and thermodynamic study of the Al-Cr and Al-Cr-Mg systems, Journal of Alloys and Compounds 698, 1038-1057 (2017).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2015.04.231](https://doi.org/10.1016/j.jallcom.2015.04.231) V.T. Witusiewicz, A.A. Bondar, U. Hecht, T.Ya. Velikanova, Thermodynamic re-modelling of the ternary Al–Cr–Ti system with refined Al–Cr description, Journal of Alloys and Compounds 644, 939-958 (2015).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2016.12.298](https://doi.org/10.1016/j.jallcom.2016.12.298) Senlin Cui, In-Ho Jung, Junghwan Kim, Jinghua Xin, A coupled experimental and thermodynamic study of the Al-Cr and Al-Cr-Mg systems, Journal of Alloys and Compounds 698, 1038-1057 (2017).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2007.06.046](https://doi.org/10.1016/j.jallcom.2007.06.046) Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the Al–Cr system, Journal of Alloys and Compounds 460, 314-319 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_

@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "ER2TE3",
   "ERTE3",
   "ERTE_B1",
   "HCP_A3",
@@ -16,14 +15,10 @@
   "P": 101325.0,
   "T": [
    908.3177468,
-   819.3177468,
-   613.3177468,
    495.3177468,
    822.3177468,
    1553.317747,
-   1160.317747,
    1512.817747,
-   1409.817747,
    1629.817747
   ]
  },
@@ -46,64 +41,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "ERTE_B1",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "ER2TE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.5497454042
-    ]
-   ]
-  ],
-  [
-   [
-    "ER2TE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "ERTE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.6747476591
     ]
    ]
   ],
@@ -160,26 +97,6 @@
   ],
   [
    [
-    "ER2TE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TE"
-    ],
-    [
-     0.7967498598
-    ]
-   ]
-  ],
-  [
-   [
     "ERTE_B1",
     [
      "TE"
@@ -195,35 +112,6 @@
     ],
     [
      0.5472453591
-    ]
-   ]
-  ],
-  [
-   [
-    "ER2TE3",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.5872460807
     ]
    ]
   ],
@@ -269,21 +157,13 @@
   "diagram": "ER-TE-p401",
   "record_ids": [
    "aspa-5f79bb0cdbab2c7c",
-   "aspa-94dd88481dd36c95",
-   "aspa-3151f6266856d155",
    "aspa-5fec86b0c40892e2",
    "aspa-0f6e07041e43f1a5",
    "aspa-427a94016fbf1a4e",
-   "aspa-f8e02b3c16715603",
    "aspa-5d366ecce27cd902",
-   "aspa-034cdd3b2ada1a80",
    "aspa-4f7923de64690655"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -311,42 +191,6 @@
      "sigma_reading": 0.000672005,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.250005,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-94dd88481dd36c95",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.259,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 543.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0490009,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-3151f6266856d155",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.259,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 339.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0665012,
      "sigma_effective": 0.02
     }
    },
@@ -405,24 +249,6 @@
     }
    },
    {
-    "record_id": "aspa-f8e02b3c16715603",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.259,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 207.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0950017,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-5d366ecce27cd902",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -437,24 +263,6 @@
      "sigma_reading": 0.000672005,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0225004,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-034cdd3b2ada1a80",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.259,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 46.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0120002,
      "sigma_effective": 0.02
     }
    },

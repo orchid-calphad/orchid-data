@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Ce2Sn5.html · Markdown: https://data.orchid-project.org/compounds/Ce2Sn5.md
 
-3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -53.715 kJ/mol-atom (mp-aaabeumt); OQMD -61.94 kJ/mol-atom (oqmd-11846).
+3 accepted literature formation-enthalpy value(s) (model 1, DFT 2); Materials Project -53.715 kJ/mol-atom (mp-aaabeumt); OQMD -61.94 kJ/mol-atom (oqmd-11846).
 
-Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
+Systems: [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ce2Sn5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -61.29 kJ/mol-atom | Ce2Sn5 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 40 |  |
-| -58.15 kJ/mol-atom | Ce2Sn5 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 39 |  |
-| -71.73 kJ/mol-atom | Ce2Sn5 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 14 |  |
+| -61.29 kJ/mol-atom | Ce2Sn5 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 40 |  |
+| -71.73 kJ/mol-atom | Ce2Sn5 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 14 |  |
+| -58.15 kJ/mol-atom | Ce2Sn5 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 39 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ce2Sn5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -61.29 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -58.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.73 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -61.29 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -71.73 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -58.15 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -38,8 +38,8 @@ Table: DFT formation energy of Ce2Sn5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabeumt | -53.715 | -0.55672 | Cmmm | 1.586 | 0.0164 | no |
-| OQMD | oqmd-11846 | -61.94 | -0.641965 | Cmmm | 0 | 0 | no |
+| Materials Project | mp-aaabeumt | -53.715 | -0.55672 | Cmmm | 1.5855 | 0.0164 | no |
+| OQMD | oqmd-11846 | -61.94 | -0.641965 | Cmmm | -0 | -0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GeSe.html · Markdown: https://d
 
 6 accepted literature formation-enthalpy value(s) (experimental 1, model 4, unspecified 1); experimental median -25.7 kJ/mol-atom (n = 1); Materials Project -43.583 kJ/mol-atom (mp-aaaaabay); OQMD -24.153 kJ/mol-atom (oqmd-1694091).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html)
+Systems: [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of GeSe reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.7 kJ/mol-atom ± 0.5 | αGeSe | 298.15 | experimental | Fluorine combination | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 47_ | Table II, p. 3, row 12 |  |
-| -25.95 kJ/mol-atom | αGeSe | 298.15 | model | Statistical mechanical | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 11 |  |
-| -23.979 kJ/mol-atom | αGeSe | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 16 |  |
-| -21.5 kJ/mol-atom | αGeSe | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 13 |  |
-| -19.15 kJ/mol-atom | αGeSe | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 14 |  |
-| -21.54 kJ/mol-atom | αGeSe | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 15 |  |
+| -25.7 kJ/mol-atom ± 0.5 | αGeSe | 298.15 | experimental | Fluorine combination | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 47_ | Table II, p. 3, row 12 |  |
+| -25.95 kJ/mol-atom | αGeSe | 298.15 | model | Statistical mechanical | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 48_ | Table II, p. 3, row 11 |  |
+| -23.979 kJ/mol-atom | αGeSe | 298.15 | model | CALPHAD | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 16 |  |
+| -21.5 kJ/mol-atom | αGeSe | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 13 |  |
+| -19.15 kJ/mol-atom | αGeSe | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 14 |  |
+| -21.54 kJ/mol-atom | αGeSe | 0 | unspecified | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 15 |  |
 
 ### Uncertainty budget
 
@@ -29,11 +29,11 @@ Table: Uncertainty budget of the literature values of GeSe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -25.7 | kJ/mol-atom | 0.5 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -25.95 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.979 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -25.7 | kJ/mol-atom | 0.5 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -25.95 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.979 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.15 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -21.54 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies

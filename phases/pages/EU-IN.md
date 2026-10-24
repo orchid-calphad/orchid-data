@@ -1,22 +1,21 @@
 # Eu–In phases
 
-> Eu–In system: 11 phases (tier A 6, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Eu–In system: 10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/EU-IN.html · Markdown: https://data.orchid-project.org/phases/pages/EU-IN.md
 
-11 phases (tier A 6, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=EU-IN) · [full JSON](https://data.orchid-project.org/phases/systems/EU-IN.json) · [Eu–In system page](https://data.orchid-project.org/systems/EU-IN.html) · [Markdown](https://data.orchid-project.org/phases/pages/EU-IN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Eu–In system (11)
+Table: Phases of the Eu–In system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-eu-in-a6-tetragonal); _phase:eu-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2332.31 K, x(In) 1–1 | 2 | 1 |
-| [BCC_A2](#phase-eu-in-bcc-a2); _phase:eu-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1104.27 K, x(In) 0–0 | 4 | 1 |
+| [BCC_A2](#phase-eu-in-bcc-a2); _phase:eu-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1104.27 K, x(In) 0–0 | 2 | 1 |
 | [EU2IN_HT](#phase-eu-in-eu2in); _phase:eu-in:eu2in_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 933.12–985.13 K, x(In) 0.33333–0.33333 | 0 | 1 |
 | [EU2IN_C37](#phase-eu-in-eu2in-c37); _phase:eu-in:eu2in-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–933.13 K, x(In) 0.33333–0.33333 | 2 | 1 |
-| [EU2IN-HT](#phase-eu-in-eu2in-ht); _phase:eu-in:eu2in-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [EUIN_B11](#phase-eu-in-euin-b11); _phase:eu-in:euin-b11_ | CuTi-gamma · B11 · tP4 · P4/nmm (129) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1193.39 K, x(In) 0.5–0.5 | 4 | 1 |
 | [EUIN2](#phase-eu-in-euin2); _phase:eu-in:euin2_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1253.25 K, x(In) 0.66667–0.66667 | 4 | 1 |
 | [EUIN4](#phase-eu-in-euin4); _phase:eu-in:euin4_ | EuIn4 · mC20 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–723.16 K, x(In) 0.8–0.8 | 4 | 1 |
@@ -58,11 +57,11 @@ _cited as the source of values for this phase_
 - Id: `phase:eu-in:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1104.27 K, x(In) 0–0
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-in:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:eu-in:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2010.10.003:(Eu), paper:10.1016/j.calphad.2010.10.003:βInEu2  
+Names (3): _corpus: _corpus:phase:eu-in:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2010.10.003:(Eu)  
 _tdb: _tdb:EuIn-11Gao.tdb:BCC_A2  
 
 
@@ -75,12 +74,10 @@ _tdb: _tdb:EuIn-11Gao.tdb:BCC_A2
 33: CONST BCC_A2 : EU% IN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.10.003](https://doi.org/10.1016/j.calphad.2010.10.003) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the In–Eu and In–Yb systems, Calphad 35, 1-5 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02841697](https://doi.org/10.1007/bf02841697) H. Okamoto, Bull. Alloy Phase Diagr. 11 (2) (1990) 140–143.  
-_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(83)90121-2](https://doi.org/10.1016/0022-5088%2883%2990121-2) S.P. Yatsenko, A.A. Semyannikov, H.O. Shakarov, E.G. Fedorova, Phase diagrams of binary rare earth metal-indium systems, Journal of the Less Common Metals 90, 95-108 (1983).  
 _cited as the source of values for this phase_
 
@@ -95,7 +92,7 @@ _cited as the source of values for this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-in:eu2in)
 
-Names (2): _corpus: _corpus:phase:eu-in:eu2in  
+Names (3): _corpus: _corpus:phase:eu-in:eu2in, corpus:phase:eu-in:eu2in-ht  
 _tdb: _tdb:EuIn-11Gao.tdb:EU2IN_HT  
 
 
@@ -142,17 +139,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(83)90121-2](https://doi.org/10.1016/0022-5088%2883%2990121-2) S.P. Yatsenko, A.A. Semyannikov, H.O. Shakarov, E.G. Fedorova, Phase diagrams of binary rare earth metal-indium systems, Journal of the Less Common Metals 90, 95-108 (1983).  
 _cited as the source of values for this phase_
-
-## EU2IN-HT (Eu–In)
-
-- Id: `phase:eu-in:eu2in-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-in:eu2in-ht)
-
-Names (1): _corpus: _corpus:phase:eu-in:eu2in-ht  
-
 
 ## EUIN_B11 (Eu–In)
 

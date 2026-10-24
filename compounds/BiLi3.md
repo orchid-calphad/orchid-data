@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of BiLi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70.75 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -63.85 | kJ/mol-atom |  | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -62.825 | kJ/mol-atom |  | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -67.575 | kJ/mol-atom |  | 0.0125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -70.75 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -63.85 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -62.825 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -67.575 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

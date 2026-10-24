@@ -1,10 +1,10 @@
 # Cr–Ni–V system
 
-> Cr–Ni–V system: 27 accepted literature values (formation 27) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ni–V system: 25 accepted literature values (formation 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NI-V.html · Markdown: https://data.orchid-project.org/systems/CR-NI-V.md
 
-27 accepted literature values from 1 paper(s) (DFT 27); 0 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (DFT 25); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NI-V.json) · [CSV](https://data.orchid-project.org/systems/CR-NI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NI-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NI-V.html) · [Markdown](https://data.orchid-project.org/systems/CR-NI-V.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 27 |
+| DFT | 25 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 27 |
+| formation | 25 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ni–V system (27)
+Table: Enthalpies of formation, Cr–Ni–V system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -37,7 +37,6 @@ Table: Enthalpies of formation, Cr–Ni–V system (27)
 | sigma |  | -1.635 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 20 |  |
 | sigma |  | -0.347 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 16 |  |
 | sigma |  | 0.89 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 9 |  |
-| sigma |  | 3.686 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 27 |  |
 | sigma |  | 4.072 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 10 |  |
 | sigma |  | 4.503 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 8 |  |
 | sigma |  | 5.085 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 3 |  |
@@ -47,7 +46,6 @@ Table: Enthalpies of formation, Cr–Ni–V system (27)
 | sigma |  | 8.54 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 24 |  |
 | sigma |  | 9.299 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 25 |  |
 | sigma |  | 9.394 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 6 |  |
-| sigma |  | 9.843 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 14 |  |
 | sigma |  | 10.175 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 11 |  |
 | sigma |  | 10.516 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 5 |  |
 | sigma |  | 11.912 kJ/mol-atom | 0 | DFT |  |  | [1] Tonyali 2024 | Table 4, p. 5, row 13 |  |

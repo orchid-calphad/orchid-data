@@ -1,10 +1,10 @@
 # Ba–Ti system
 
-> Ba–Ti system: 41 accepted literature values (crystal structure 21, mixing / partial 17, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ti system: 29 accepted literature values (crystal structure 15, mixing / partial 11, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-TI.html · Markdown: https://data.orchid-project.org/systems/BA-TI.md
 
-41 accepted literature values from 1 paper(s) (experimental 1, model 2, DFT 38); 1 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 1, model 2, DFT 26); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-TI.json) · [CSV](https://data.orchid-project.org/systems/BA-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-TI/BaTi-07Sha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-TI.html) · [Markdown](https://data.orchid-project.org/systems/BA-TI.md)
 
@@ -14,15 +14,15 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 2 |
-| DFT | 38 |
+| DFT | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| mixing / partial | 17 |
-| crystal structure | 21 |
+| mixing / partial | 11 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -61,56 +61,44 @@ Table: Invariant reactions reported in the literature for the Ba–Ti system (3)
 
 ## Other properties
 
-### Mixing / partial (17)
+### Mixing / partial (11)
 
 Table: Mixing / partial, Ba–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 20 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 16 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 101.736 kJ/mol (basis unstated) | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 67.674 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 21 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 95.688 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 76.684 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Fcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 25 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 99.832 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 26 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 30 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 68.979 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 81.87 kJ/mol (basis unstated) | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
 
-### Crystal structure (21)
+### Crystal structure (15)
 
 Table: Crystal structure, Ba–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 17 |  |
-| Lattice a; _printed: a_ | 3.231 Å | 0 | Bcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 20 |  |
 | Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 32 |  |
 | Lattice a; _printed: a_ | 3.517 Å | 0 | Bcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 19 |  |
 | Lattice a; _printed: a_ | 4.454 Å | 0 | Bcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 31 |  |
 | Lattice a; _printed: a_ | 3.923 Å | 0 | Bcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 18 |  |
-| Lattice a; _printed: a_ | 4.999 Å | 0 | Bcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 16 |  |
 | Lattice a; _printed: a_ | 4.917 Å | 0 | Fcc; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 23 |  |
-| Lattice a; _printed: a_ | 4.083 Å | 0 | Fcc; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 25 |  |
 | Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 24 |  |
 | Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 33 |  |
 | Lattice a; _printed: a_ | 5.564 Å | 0 | Fcc; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 22 |  |
 | Lattice a; _printed: a_ | 4.434 Å | 0 | Fcc; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 34 |  |
-| Lattice a; _printed: a_ | 6.316 Å | 0 | Fcc; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 21 |  |
-| Lattice a; _printed: a_ | 2.92 Å | 0 | Hcp; _alloy: Ba 0, Ti 1_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 30 |  |
 | Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 29 |  |
 | Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 27 |  |
 | Lattice a; _printed: a_ | 3.529 Å | 0 | Hcp; _alloy: Ti 0.5_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 28 |  |
 | Lattice a; _printed: a_ | 3.143 Å | 0 | Hcp; _alloy: Ti 0.75_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 36 |  |
-| Lattice a; _printed: a_ | 4.448 Å | 0 | Hcp; _alloy: Ba 1, Ti 0_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 26 |  |
 | Lattice a; _printed: a_ | 3.954 Å | 0 | Hcp; _alloy: Ti 0.25_ | DFT | [1] Shang 2007 | Table 2, p. 2, row 35 |  |
 
 ## Sources

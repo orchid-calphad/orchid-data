@@ -99,7 +99,7 @@
      "sigma_effective": 1.0,
      "method_class": "model_calculated",
      "method_basis": "prior",
-     "method_n_pairs": 227,
+     "method_n_pairs": 229,
      "method_entry": "model/CPM"
     },
     "sigma_effective_used": 1.0,

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HoNi2.html · Markdown: https://
 
 5 accepted literature formation-enthalpy value(s) (model 5); Materials Project -44.81 kJ/mol-atom (mp-aaaaaazx); OQMD -44.977 kJ/mol-atom (oqmd-17463).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
+Systems: [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
@@ -17,7 +17,7 @@ Table: Enthalpy of formation of HoNi2 reported in the literature (5)
 | -47.5 kJ/mol-atom | HoNi2 | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 16 |  |
 | -45 kJ/mol-atom | HoNi2 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 15 |  |
 | -45 kJ/mol-atom | HoNi2 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 18 |  |
-| -42.67 kJ/mol-atom | Ni2Ho | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9 |  |
+| -42.67 kJ/mol-atom | Ni2Ho | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 9 |  |
 | -42.67 kJ/mol-atom | HoNi2 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 17 |  |
 
 ### Uncertainty budget
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of HoNi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -47.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.67 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.67 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.67 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.67 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -15,7 +15,7 @@ Table: Phases of the Cu–Pt system (6)
 | [BCC_A2](#phase-cu-pt-bcc-a2); _phase:cu-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [CUPT_L11](#phase-cu-pt-cupt-l11); _phase:cu-pt:cupt-l11_ | CuPt · L1_1 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1094.25 K, x(Pt) 0.36146–0.68399 | 5 | 1 |
 | [FCC_4SL](#phase-cu-pt-fcc-4sl); _phase:cu-pt:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2041.5 K, x(Pt) 0–1 | 15 | 1 |
-| [A1_FCC](#phase-cu-pt-fcc-a1); _phase:cu-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–2030 K, x(Pt) 0–0.98 | 0 | 2 |
+| [FCC_A1](#phase-cu-pt-fcc-a1); _phase:cu-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2030 K, x(Pt) 0–0.98 | 0 | 2 |
 | [HCP_A3](#phase-cu-pt-hcp-a3); _phase:cu-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-cu-pt-liquid); _phase:cu-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1357.77–2500 K, x(Pt) 0–1 | 0 | 1 |
 
@@ -124,11 +124,11 @@ _cited as the source of values for this phase_
 - [doi:10.1143/jpsj.65.2178](https://doi.org/10.1143/jpsj.65.2178) Satoshi Takizawa, A New Phase of Cu–Pt Alloy – Theoretical Prediction and Experimental Support, J. Phys. Soc. Jpn. 65, 2178-2181 (1996).  
 _cited as the source of values for this phase_
 
-## A1_FCC (Cu–Pt)
+## FCC_A1 (Cu–Pt)
 
 - Id: `phase:cu-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–2030 K, x(Pt) 0–0.98
+- Stability: stable in 1 of 1 calculated diagram(s): 300–2030 K, x(Pt) 0–0.98
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pt:fcc-a1)
 
@@ -136,7 +136,7 @@ Names (3): _corpus: _corpus:phase:cu-pt:fcc-a1
 _tdb: _tdb:CuPt-06Abe.tdb:A1_FCC, tdb:CuPt-06Abe.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written
 
 [CuPt-06Abe.tdb](https://orchid-project.org/data/databases/sgte-binary/CuPt-06Abe.tdb): A1_FCC, type code %A, sha256 `22e617239e135878…`
 

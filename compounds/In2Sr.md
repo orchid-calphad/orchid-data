@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/In2Sr.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -43.13 kJ/mol-atom (mp-aaaabdsc); OQMD -45.494 kJ/mol-atom (oqmd-10871).
 
-Systems: [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html)
+Systems: [In–Sr](https://data.orchid-project.org/systems/IN-SR.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of In2Sr reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -45 kJ/mol-atom | SrIn2 | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 8 |  |
-| -45.45 kJ/mol-atom | SrIn2 | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 7 |  |
+| -45 kJ/mol-atom | SrIn2 | 298.15 | model | CALPHAD | [In–Sr](https://data.orchid-project.org/systems/IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 8 |  |
+| -45.45 kJ/mol-atom | SrIn2 | 298.15 | DFT | First-principles calculations | [In–Sr](https://data.orchid-project.org/systems/IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 7 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of In2Sr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -45 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45.45 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -45 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45.45 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

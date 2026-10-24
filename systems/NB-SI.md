@@ -1,10 +1,10 @@
 # Nb–Si system
 
-> Nb–Si system: 208 accepted literature values (invariant reaction 106, formation 73, phase transition 29) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Si system: 235 accepted literature values (invariant reaction 106, formation 83, phase transition 29, crystal structure 17) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-SI.html · Markdown: https://data.orchid-project.org/systems/NB-SI.md
 
-208 accepted literature values from 7 paper(s) (experimental 34, model 170, unspecified 4); 11 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+235 accepted literature values from 8 paper(s) (experimental 34, model 192, DFT 5, unspecified 4); 11 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-SI.json) · [CSV](https://data.orchid-project.org/systems/NB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-SI/NbSi-02Fer-alt.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NB-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-SI.html) · [Markdown](https://data.orchid-project.org/systems/NB-SI.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 34 |
-| model | 170 |
+| model | 192 |
+| DFT | 5 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 106 |
 | phase transition | 29 |
-| formation | 73 |
+| formation | 83 |
+| crystal structure | 17 |
 
 ## Calculated phase diagrams
 
@@ -321,58 +323,68 @@ Table: Invariant reactions reported in the literature for the Nb–Si system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Si system (73)
+Table: Enthalpies of formation, Nb–Si system (83)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 4.8 | 273.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 10 |  |
+| (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 1.6 | 273.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 10 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -51.2033 kJ/mol-atom | 273.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009 | Table 3, p. 4, row 7 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 273.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Barin 1977_ | Table 3, p. 4, row 8 |  |
 | (NbSi2) | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 273.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [5] Geng 2009; _cites Chart 1973_ | Table 3, p. 4, row 9 |  |
+| Nb3Si |  | -37.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -35.85 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 4 |  |
+| Nb3Si |  | -34.73 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15 |  |
 | Nb3Si |  | -33.75 per mol-atom | 298.15 | model |  |  | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 22 |  |
+| Nb3Si |  | -33.357 kJ/mol (basis unstated) | 298.15 | model |  |  | [7] Utton 2017 | Table 2, p. 6, row 12 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -33.163 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 1 |  |
+| Nb3Si |  | -32 kJ/mol (basis unstated) | 298.15 | model |  |  | [7] Utton 2017 | Table 2, p. 6, row 16 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -30.301 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 2 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -29.6425 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004 | Table 3, p. 6, row 5 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -28.175 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [4] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 9 |  |
 | Nb3Si | [Nb3Si](https://data.orchid-project.org/compounds/Nb3Si.html) | -28.175 kJ/mol-atom | 298.15 | model | -40.615 (mp-aaaabakm) | -42.633 (oqmd-2033) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 3 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.792 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 6 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 2.4 | 298.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
+| Nb5Si3 |  | -63.001 kJ/mol (basis unstated) | 298.15 | model |  |  | [7] Utton 2017 | Table 2, p. 6, row 4 |  |
 | Nb5Si3 |  | -62.658 per mol-atom | 298.15 | model |  |  | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 23 |  |
+| Nb5Si3 |  | -61.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 3 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -61 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Chart 1973_ | Table 3, p. 6, row 11 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -60.887 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004 | Table 3, p. 6, row 13 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -60.887 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 12 |  |
+| Nb5Si3 |  | -58.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 7 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -57 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Barin 2004_ | Table 3, p. 6, row 10 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -52 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 7 |  |
+| Nb5Si3 |  | -50.636 kJ/mol (basis unstated) | 298.15 | model |  |  | [7] Utton 2017 | Table 2, p. 6, row 8 |  |
 | Nb5Si3 | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -47.69 kJ/mol-atom | 298.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 8 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -90.7 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 7, p. 8, row 3 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -59.37 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 7 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -59.37 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 19 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 20 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [6] Fernandes 2002 | Table 3, p. 6, row 7 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -59.37 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 19 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 20 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [6] Fernandes 2002 | Table 3, p. 6, row 7 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 7, p. 8, row 8 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Shao 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.03.011) | Table 7, p. 8, row 10 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004 | Table 3, p. 6, row 21 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -56 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004 | Table 3, p. 6, row 21 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.5 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 7, p. 8, row 7 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.5 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 7, p. 8, row 9 |  |
 | NbSi2 |  | -55.483 per mol-atom | 298.15 | model |  |  | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 24 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.467 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 17 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.4667 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [6] Fernandes 2002 | Table 3, p. 6, row 6 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom | 298.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [6] Fernandes 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 8 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.467 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 17 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -55.4667 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [6] Fernandes 2002 | Table 3, p. 6, row 6 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom | 298.15 | experimental | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [6] Fernandes 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 8 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 7, p. 8, row 5 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 1.6 | 298.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 15 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -53.7 kJ/mol-atom ± 1.6 | 298.15 | experimental | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 15 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -51.5 kJ/mol-atom | 298.15 | unspecified | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006 | Table 7, p. 8, row 11 |  |
+| NbSi2 |  | -51.2 kJ/mol (basis unstated) | 298.15 | model |  |  | [7] Utton 2017 | Table 2, p. 6, row 20 |  |
+| NbSi2 |  | -49.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 19 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999 | Table 2, p. 4, row 5 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 7, p. 8, row 6 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 18 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Chart 1973_ | Table 3, p. 6, row 14 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -47 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 18 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Chart 1973_ | Table 3, p. 6, row 14 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 4, row 8 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | unspecified | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 7, p. 8, row 4 |  |
-| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [1] Shao 2004; _cites Barin 2004_ | Table 3, p. 6, row 16 |  |
+| NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | model | -48.426 (mp-aaaaadri) | -53.117 (oqmd-2027994) | [1] Shao 2004; _cites Barin 2004_ | Table 3, p. 6, row 16 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom ± 16 | 298.15 | model | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [4] Liang 1999; _cites Chart 1973_ | Table 2, p. 4, row 6 |  |
 | NbSi2 | [NbSi2](https://data.orchid-project.org/compounds/NbSi2.html) | -46 kJ/mol-atom | 298.15 | experimental | -48.427 (mp-aaaaarxo) | -53.121 (oqmd-30789) | [2] David 2006; _cites Chart 1973_ | Table 7, p. 8, row 2 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -65.379 kJ/mol-atom | 273.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 4, row 4 |  |
-| α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 19.2 | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
+| α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -64.6 kJ/mol-atom ± 2.4 | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -63.8 kJ/mol-atom | 273.15 | experimental | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Gorelkin 1972_ | Table 3, p. 4, row 3 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -63.0044 kJ/mol-atom | 273.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009 | Table 3, p. 4, row 1 |  |
 | α(Nb5Si3) | [Nb5Si3](https://data.orchid-project.org/compounds/Nb5Si3.html) | -61 kJ/mol-atom | 273.15 | model | -62.965 (mp-aaaaaugk) | -65.593 (oqmd-3572) | [5] Geng 2009; _cites Chart 1973_ | Table 3, p. 4, row 6 |  |
@@ -437,6 +449,30 @@ Table: Phase transition, Nb–Si system
 | Phase transition | 2799.15 K | 2799.15 | L -> β(Nb5Si3); _L: Si 0.39_ | model | [5] Geng 2009 | Table 2, p. 3, row 15 |  |
 | Phase transition | 2806 K | 2806 | L -> βNb5Si3; _L: Si 0.378; βNb5Si3: Si 0.378_ | model | [2] David 2006; _cites Shao 2004_ [doi](https://doi.org/10.1016/j.intermet.2004.03.011) | Table 6, p. 7, row 61 |  |
 
+### Crystal structure (17)
+
+Table: Crystal structure, Nb–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 10.23 Å | 298.15 | Nb3Si; _alloy: Si 0.25_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 10.224 Å | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice a | 4.81 Å | 298.15 | NbSi2; _alloy: Si 0.666667_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.81 Å | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.56 Å | 298.15 | αNb5Si3; _alloy: Si 0.375_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.571 Å | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 10.03 Å | 298.15 | βNb5Si3; _alloy: Si 0.375_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice a | 10.04 Å | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 5.18 Å | 298.15 | Nb3Si; _alloy: Si 0.25_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 5.189 Å | 298.15 | Nb3Si; _alloy: Nb 0.75, Si 0.25_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 6.61 Å | 298.15 | NbSi2; _alloy: Si 0.666667_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 6.61 Å | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 11.86 Å | 298.15 | αNb5Si3; _alloy: Si 0.375_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 11.889 Å | 298.15 | αNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.07 Å | 298.15 | βNb5Si3; _alloy: Si 0.375_ | model | [8] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.081 Å | 298.15 | βNb5Si3; _alloy: Nb 0.625, Si 0.375_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 5 |  |
+| lattice gamma | 120 ° | 298.15 | NbSi2; _alloy: Nb 0.333333, Si 0.666667_ | model | [1] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 7 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -448,6 +484,7 @@ Reporting papers the values were read from (a value cited from another work name
 5. Tai Geng, Changrong Li, Jing Bao, Xinqing Zhao, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Ti system, Intermetallics 17, 343-357 (2009). [doi:10.1016/j.intermet.2008.11.011](https://doi.org/10.1016/j.intermet.2008.11.011)
 6. P.B. Fernandes, G.C. Coelho, F. Ferreira, C.A. Nunes, B. Sundman, Thermodynamic modeling of the Nb–Si system, Intermetallics 10, 993-999 (2002). [doi:10.1016/s0966-9795(02)00125-5](https://doi.org/10.1016/s0966-9795%2802%2900125-5)
 7. Claire A. Utton, Ioannis Papadimitriou, Hajime Kinoshita, Panos Tsakiropoulos, Experimental and thermodynamic assessment of the Ge-Nb-Si ternary phase diagram, Journal of Alloys and Compounds 717, 303-316 (2017). [doi:10.1016/j.jallcom.2017.04.279](https://doi.org/10.1016/j.jallcom.2017.04.279)
+8. Yan Li, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic optimization of the Nb–Si–W ternary system, Calphad 43, 112-123 (2013). [doi:10.1016/j.calphad.2013.04.004](https://doi.org/10.1016/j.calphad.2013.04.004)
 
 ## Please cite
 

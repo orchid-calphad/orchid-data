@@ -1,10 +1,10 @@
 # C–W phases
 
-> C–W system: 7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–W system: 7 phases (tier A 4, tier C 1, liquid 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-W.html · Markdown: https://data.orchid-project.org/phases/pages/C-W.md
 
-7 phases (tier A 5, tier C 1, liquid 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier A 4, tier C 1, liquid 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-W) · [full JSON](https://data.orchid-project.org/phases/systems/C-W.json) · [C–W system page](https://data.orchid-project.org/systems/C-W.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-W.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -15,7 +15,7 @@ Table: Phases of the C–W system (7)
 | [DIAMOND_A4](#phase-c-w-a4-diamond); _phase:c-w:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 3 |
 | [GRAPHITE_A9](#phase-c-w-a9-graphite); _phase:c-w:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 3 |
 | [BCC_A2](#phase-c-w-bcc-a2); _phase:c-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.89 K, x(C) 0–0.00917 | 6 | 3 |
-| [FCC_A1](#phase-c-w-fcc-a1); _phase:c-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 2800.4–3024.19 K, x(C) 0.37193–0.39271 | 12 | 3 |
+| [FCC_A1](#phase-c-w-fcc-a1); _phase:c-w:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 2800.4–3024.19 K, x(C) 0.37193–0.39271 | 12 | 3 |
 | [HCP_A3](#phase-c-w-hcp-a3); _phase:c-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1519.61–3050 K, x(C) 0.26949–0.33153 | 15 | 3 |
 | [LIQUID](#phase-c-w-liquid); _phase:c-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2980.55–4000 K, x(C) 0–0.58533 | 18 | 3 |
 | [MC_SHP](#phase-c-w-mc-shp); _phase:c-w:mc-shp_ | WC · B_h · hP2 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–3047.41 K, x(C) 0.5–0.5 | 12 | 3 |
@@ -24,6 +24,7 @@ Table: Phases of the C–W system (7)
 
 - Id: `phase:c-w:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-w:a4-diamond)
@@ -66,6 +67,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-w:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-w:a9-graphite)
@@ -154,7 +156,7 @@ _cited as the source of values for this phase_
 ## FCC_A1 (C–W)
 
 - Id: `phase:c-w:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 2800.4–3024.19 K, x(C) 0.37193–0.39271
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-w:fcc-a1)
@@ -294,6 +296,7 @@ _cited as the source of values for this phase_
 - Structure: WC · B_h · hP2 · P-6m2 (187); type `st:b-h-wc-hp2`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MC,SHP, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: C 0.5000, W 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3047.41 K, x(C) 0.5–0.5
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-w:mc-shp)

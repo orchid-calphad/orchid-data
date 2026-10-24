@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cr2N.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -48.833 kJ/mol-atom (mp-aaaaamzs); OQMD -43.69 kJ/mol-atom (oqmd-12301).
 
-Systems: [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html)
+Systems: [Cr–N](https://data.orchid-project.org/systems/CR-N.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Cr2N reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.1 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
-| 41.8 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5 |  |
+| -43.1 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991 | Table I, p. 6, row 7 |  |
+| 41.8 kJ/mol-atom | ε(Cr2N) | 298.15 | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 5 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cr2N
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 41.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 41.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

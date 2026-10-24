@@ -24,6 +24,7 @@ Table: Phases of the Au–B system (5)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — AuB-98Che-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.28 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-b:b-beta-rhombo)

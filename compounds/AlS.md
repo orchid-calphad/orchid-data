@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlS.html · Markdown: https://da
 
 1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -132.5 kJ/mol-atom (n = 1); OQMD -98.741 kJ/mol-atom (oqmd-1971261).
 
-Systems: [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html)
+Systems: [Al–S](https://data.orchid-project.org/systems/AL-S.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AlS reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -132.5 kJ/mol-atom ± 20 | AlS | 298.15 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
+| -132.5 kJ/mol-atom ± 20 | AlS | 298.15 | experimental | Evaluation | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AlS
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -132.5 | kJ/mol-atom | 20 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 20 |
+| -132.5 | kJ/mol-atom | 20 | 0.05 | 3.5 (evaluated_compilation, calibrated) |  |  |  | 20 |
 
 ## DFT formation energies
 
@@ -34,7 +34,7 @@ Table: DFT formation energy of AlS
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1971261 | -98.741 | -1.02338 | Cm | 0.141 | 0.0015 | yes |
+| OQMD | oqmd-1971261 | -98.741 | -1.02338 | Cm | 0.1407 | 0.0015 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

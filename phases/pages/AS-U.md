@@ -224,11 +224,15 @@ _cited as the source of values for this phase_
 
 - Id: `phase:as-u:u3as4-d73`; status `assigned`
 - Structure: Th3P4 · D7_3 · cI28 · I-43d (220); type `st:d7-3-th3p4-ci28`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaaaxi and oqmd-7715, space group 220
+- Stoichiometry: As 0.5714, U 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1773.06 K, x(As) 0.57143–0.57143
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-u:u3as4-d73)
 
-Names (3): _corpus: _corpus:phase:as-u:u3as4-d73  
+Names (5): _corpus: _corpus:phase:as-u:u3as4-d73  
+_mp: _mp:mp-aaaaaaxi  
+_oqmd: _oqmd:oqmd-7715  
 _paper: _paper:10.1016/j.jnucmat.2013.04.066:As4U3  
 _tdb: _tdb:UAs-13Wan.tdb:U3AS4_D73  
 
@@ -251,11 +255,15 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:as-u:uas-b1`; status `assigned`
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaadcy and oqmd-8282, space group 225
+- Stoichiometry: As 0.5000, U 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2978.04 K, x(As) 0.5–0.5
 - Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-u:uas-b1)
 
-Names (3): _corpus: _corpus:phase:as-u:uas-b1  
+Names (5): _corpus: _corpus:phase:as-u:uas-b1  
+_mp: _mp:mp-aaaaadcy  
+_oqmd: _oqmd:oqmd-8282  
 _paper: _paper:10.1016/j.jnucmat.2013.04.066:AsU  
 _tdb: _tdb:UAs-13Wan.tdb:UAS_B1  
 
@@ -281,7 +289,8 @@ _cited as the source of values for this phase_
 - Id: `phase:as-u:uas2`; status `assigned`
 - Structure: UAs2 · tP6 · P4/nmm (129); type `st:uas2-tp6`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_129_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: As 0.6667, U 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1271.78 K, x(As) 0.66667–0.66667
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-u:uas2)

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CeB6.html · Markdown: https://d
 
 11 accepted literature formation-enthalpy value(s) (experimental 3, model 4, DFT 4); experimental median -48.4 kJ/mol-atom (n = 3); Materials Project -49.747 kJ/mol-atom (mp-aaaabfox); OQMD -47.134 kJ/mol-atom (oqmd-655892).
 
-Systems: [B–Ce](https://data.orchid-project.org/systems/B-CE.html) · [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Ce](https://data.orchid-project.org/systems/B-CE.html)
 
 ## Literature values
 
@@ -14,17 +14,17 @@ Table: Enthalpy of formation of CeB6 reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -48.4 kJ/mol-atom ± 9.6 | CeB6 | 298.15 | experimental | Experiment | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 28_ | Table 2, p. 25, row 9 |  |
+| -48.4 kJ/mol-atom ± 9.6 | CeB6 | 298.15 | experimental | Experiment | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 28_ | Table 2, p. 25, row 9 |  |
 | -48.4 kJ/mol-atom ± 9.6 | B6Ce | 298.15 | experimental | Experiments | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Premović 2017; _cites Samsonov 1956_ | Table 6, p. 8, row 1 |  |
-| -30.6 kJ/mol-atom ± 27 | CeB6 | 298.15 | experimental | Experiment | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 29_ | Table 2, p. 25, row 10 |  |
-| -50.541 kJ/mol-atom | CeB6 |  | model | Calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 7 |  |
-| -48.531 kJ/mol-atom | CeB6 |  | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 13 |  |
-| -46.457 kJ/mol-atom | CeB6 |  | model | Calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 8 |  |
+| -30.6 kJ/mol-atom ± 27 | CeB6 | 298.15 | experimental | Experiment | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 29_ | Table 2, p. 25, row 10 |  |
+| -50.541 kJ/mol-atom | CeB6 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 7 |  |
+| -48.531 kJ/mol-atom | CeB6 |  | model | Optimization | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020 | Table 2, p. 25, row 13 |  |
+| -46.457 kJ/mol-atom | CeB6 |  | model | Calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 8 |  |
 | -46.457 kJ/mol-atom | B6Ce |  | model | Optimized | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Premović 2017 | Table 6, p. 8, row 3 |  |
 | -53.76 kJ/mol-atom | B6Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Premović 2017 | Table 6, p. 8, row 7 |  |
 | -51.8 kJ/mol-atom | B6Ce |  | DFT | First-principles | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [2] Premović 2017; _cites Persson 2016_ | Table 6, p. 8, row 5 |  |
-| -49.712 kJ/mol-atom | CeB6 |  | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 11 |  |
-| -47.019 kJ/mol-atom | CeB6 |  | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 12 |  |
+| -49.712 kJ/mol-atom | CeB6 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 11 |  |
+| -47.019 kJ/mol-atom | CeB6 |  | DFT | First-principle calculation | [B–Ce](https://data.orchid-project.org/systems/B-CE.html) | [1] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 12 |  |
 
 ### Uncertainty budget
 
@@ -35,16 +35,16 @@ Table: Uncertainty budget of the literature values of CeB6
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -48.4 | kJ/mol-atom | 9.6 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 9.6 |
-| -48.4 | kJ/mol-atom | 9.6 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 9.6 |
+| -48.4 | kJ/mol-atom | 9.6 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 9.6 |
 | -30.6 | kJ/mol-atom | 27 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 27 |
-| -50.541 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.531 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -46.457 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -46.457 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53.76 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -51.8 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -49.712 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -47.019 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -50.541 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.531 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -46.457 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -46.457 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -53.76 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -51.8 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -49.712 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -47.019 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

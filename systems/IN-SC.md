@@ -1,10 +1,10 @@
 # In–Sc system
 
-> In–Sc system: 11 accepted literature values (invariant reaction 10, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sc system: 16 accepted literature values (invariant reaction 10, formation 5, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SC.html · Markdown: https://data.orchid-project.org/systems/IN-SC.md
 
-11 accepted literature values from 1 paper(s) (experimental 6, model 5); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 6, model 5, DFT 5); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SC.json) · [CSV](https://data.orchid-project.org/systems/IN-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SC/InSc-18Hu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/IN-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SC.html) · [Markdown](https://data.orchid-project.org/systems/IN-SC.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 6 |
 | model | 5 |
+| DFT | 5 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase transition | 1 |
+| formation | 5 |
 
 ## Calculated phase diagrams
 
@@ -74,6 +76,20 @@ Table: Invariant reactions reported in the literature for the In–Sc system (10
 | 1223.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
 | 1210.15 | peritectic: Liquid + In2Sc ↔ In3Sc |  | model | [1] Hu 2018 | p. 5 | “InSc3 is located at 1107 °C, the peritectic reactions Liquid + InSc2 ↔ InSc3, Liquid + InSc2 ↔ In4Sc5, Liquid + In4Sc5 ↔ InSc, Liquid + InSc ↔ In2Sc and Liquid + In2Sc ↔ In3Sc are located at 1347 °C, 1277 °C, 1127 °C, 967 °C and 937 °C, respectively.” |
 | 1183.15 | peritectic |  | experimental | [1] Hu 2018; _cites Yatsenko 1983_ | p. 1 | “Among them, InSc3, In3Sc5, InSc, In5Sc3 and In3Sc decompose in peritectic reactions at 1340 °C, 1330 °C, 1120 °C, 950 °C and 910 °C respectively, while InSc2 melts at 1420 °C congruently \[10\].” |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, In–Sc system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| In2Sc |  | -36.3 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 4 |  |
+| In3Sc |  | -29.9 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 5 |  |
+| InSc |  | -41.1 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 3 |  |
+| InSc2 |  | -37.5 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 2 |  |
+| InSc3 |  | -28.2 kJ/mol-atom | 0 | DFT |  |  | [1] Hu 2018 | Table 2, p. 3, row 1 |  |
 
 ## Other properties
 

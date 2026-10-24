@@ -6,11 +6,13 @@
  ],
  "phases": [
   "BCC_A2",
+  "DHCP",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
+   1104.11976,
    1214.61976,
    1496.11976,
    1350.61976,
@@ -19,6 +21,26 @@
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "DHCP",
+    [
+     "U"
+    ],
+    [
+     0.0
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "U"
+    ],
+    [
+     1.0
+    ]
+   ]
+  ],
   [
    [
     "BCC_A2",
@@ -102,12 +124,14 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "ND-U-p685",
   "record_ids": [
+   "aspa-c3f61b4c8ca9dc87",
    "aspa-f4f108d152c2c90d",
    "aspa-b6ad982ae10dc19b",
    "aspa-716d6bbf8ecb2b49",
    "aspa-41f150ed36959f4e"
   ],
   "boundary_basis": [
+   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -118,6 +142,24 @@
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
+   {
+    "record_id": "aspa-c3f61b4c8ca9dc87",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.398,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 31.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.500341,
+     "sigma_effective": 0.02
+    }
+   },
    {
     "record_id": "aspa-f4f108d152c2c90d",
     "boundary_basis": "printed_solid",

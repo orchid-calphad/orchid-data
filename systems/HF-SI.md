@@ -1,10 +1,10 @@
 # Hf–Si system
 
-> Hf–Si system: 65 accepted literature values (invariant reaction 41, crystal structure 14, formation 7, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Si system: 63 accepted literature values (invariant reaction 39, crystal structure 14, formation 7, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-SI.html · Markdown: https://data.orchid-project.org/systems/HF-SI.md
 
-65 accepted literature values from 2 paper(s) (experimental 26, model 22, unspecified 17); 3 calculated phase diagram(s).
+63 accepted literature values from 2 paper(s) (experimental 25, model 21, unspecified 17); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-SI.json) · [CSV](https://data.orchid-project.org/systems/HF-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-SI/HfSi-00Zha-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HF-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-SI.html) · [Markdown](https://data.orchid-project.org/systems/HF-SI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
-| model | 22 |
+| experimental | 25 |
+| model | 21 |
 | unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 41 |
+| invariant reaction | 39 |
 | phase transition | 2 |
 | phase equilibrium | 1 |
 | formation | 7 |
@@ -112,7 +112,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Si system (41)
+Table: Invariant reactions reported in the literature for the Hf–Si system (39)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -146,9 +146,7 @@ Table: Invariant reactions reported in the literature for the Hf–Si system (41
 | 2101.15 | eutectic: L -> bcc (Hf) + Hf2Si | L: Si 0.111; Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 2 |  |
 | 2100.15 | L->bcc(Hf)+Hf2Si | L: Si 0.12; bcc(Hf): Si 0; Hf2Si: Si 0.333 | model | [1] Yang 2003 | Table 3, p. 3, row 1 |  |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | model | [2] Zhao 2000 | Table 2, p. 2, row 4 |  |
-| 2016.15 | bcc(Hf)->hcp(Hf) | bcc(Hf): Si 0 | model | [1] Yang 2003 | Table 3, p. 3, row 18 |  |
 | 2016.15 | peritectoid: Bcc (Hf) + Hf2Si -> hcp (Hf) | Hf2Si: Si 0.333333 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 3 |  |
-| 2016.15 | bcc(Hf)->hcp(Hf) |  | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 19 |  |
 | 1819.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; L: Si 0.808; HfSi2: Si 0.666667 | model | [2] Zhao 2000 | Table 2, p. 2, row 18 |  |
 | 1816.15 | peritectic: HfSi + L -> HfSi2 | HfSi: Si 0.5; HfSi2: Si 0.666667 | experimental | [2] Zhao 2000; _cites ref. 68Bru_ | Table 2, p. 2, row 17 |  |
 | 1816.15 | L+HfSi->HfSi2 | HfSi: Hf 0.5, Si 0.5; HfSi2: Hf 0.333333, Si 0.666667 | experimental | [1] Yang 2003; _cites Brukl 1968_ | Table 3, p. 3, row 15 |  |

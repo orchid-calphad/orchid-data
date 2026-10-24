@@ -53,6 +53,7 @@ _assessment that models this phase_
 
 - Id: `phase:k-te:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–336.53 K, x(Te) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:bcc-a2)
@@ -79,6 +80,7 @@ _assessment that models this phase_
 
 - Id: `phase:k-te:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:fcc-a1)
@@ -105,6 +107,7 @@ _assessment that models this phase_
 
 - Id: `phase:k-te:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:hcp-a3)
@@ -131,11 +134,15 @@ _assessment that models this phase_
 
 - Id: `phase:k-te:k2te-c1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaacpf and oqmd-11320, space group 225
+- Stoichiometry: K 0.6667, Te 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1199.75 K, x(Te) 0.33333–0.33333
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:k2te-c1)
 
-Names (2): _corpus: _corpus:phase:k-te:k2te-c1  
+Names (4): _corpus: _corpus:phase:k-te:k2te-c1  
+_mp: _mp:mp-aaaaacpf  
+_oqmd: _oqmd:oqmd-11320  
 _tdb: _tdb:KTe-14Che.tdb:K2TE_C1  
 
 
@@ -158,7 +165,8 @@ _assessment that models this phase_
 - Id: `phase:k-te:k2te3`; status `assigned`
 - Structure: K2Te3 · oP20 · Pnma (62); type `st:k2te3-op20`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_7_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: K 0.4000, Te 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–696.91 K, x(Te) 0.6–0.6
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:k2te3)
@@ -187,7 +195,8 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:k-te:k5te3`; status `assigned`
 - Structure: K5Te3 · tI32 · I4/m (87); type `st:k5te3-ti32`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: K 0.6250, Te 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–914.75 K, x(Te) 0.375–0.375
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:k5te3)
@@ -214,12 +223,13 @@ _assessment that models this phase; reports values for this phase_
 ## KTE (K–Te)
 
 - Id: `phase:k-te:kte`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_rows_disagree
+- No structure assigned. Why: mp_oqmd_space_groups_differ; no_structure_token; sgte_mmc2_rows_disagree
 - Candidate (dft_mp): P6_3/mmc (194) — on-hull MP KTe at x(TE)=0.5000
 - Candidate (dft_oqmd): P-62m (189) — on-hull OQMD K1 Te1 at x(TE)=0.5000
 - Candidate (sgte_mmc2): Li2O2 · hP8 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for KTE: KTe (high T)
 - Candidate (sgte_mmc2): Na2O2 · hP12 · P-62m (189) — Hallstedt 2025 mmc2 row for KTE: KTe (low T)
 - Candidate (tdb_comment): Na2O2 · hP12 · P-62m — KTe-14Che.tdb: 'Prototype Na2O2 (hP12, P-62m), low T; Li2O2 (hP8, P6_3/mmc), high T'
+- Stoichiometry: K 0.5000, Te 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–684.65 K, x(Te) 0.5–0.5
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-te:kte)

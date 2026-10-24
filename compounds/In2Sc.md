@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/In2Sc.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [In–Sc–Y](https://data.orchid-project.org/systems/IN-SC-Y.html)
+Systems: [In–Sc](https://data.orchid-project.org/systems/IN-SC.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of In2Sc reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36.3 kJ/mol-atom | In2Sc | 0 | DFT | first-principles calculations | [In–Sc–Y](https://data.orchid-project.org/systems/IN-SC-Y.html) | [1] Hu 2018 | Table 2, p. 3, row 4 |  |
+| -36.3 kJ/mol-atom | In2Sc | 0 | DFT | first-principles calculations | [In–Sc](https://data.orchid-project.org/systems/IN-SC.html) | [1] Hu 2018 | Table 2, p. 3, row 4 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of In2Sc
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -36.3 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

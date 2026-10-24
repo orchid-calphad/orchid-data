@@ -12,9 +12,9 @@ Table: Phases of the Al–Tl system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-al-tl-bcc-a2); _phase:al-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 362–2499.45 K, x(Tl) 1–1 | 3 | 1 |
+| [BCC_A2](#phase-al-tl-bcc-a2); _phase:al-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 362–2499.45 K, x(Tl) 1–1 | 1 | 1 |
 | [FCC_A1](#phase-al-tl-fcc-a1); _phase:al-tl:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–941.47 K, x(Tl) 0–0 | 2 | 1 |
-| [HCP_A3](#phase-al-tl-hcp-a3); _phase:al-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–507 K, x(Tl) 1–1 | 1 | 1 |
+| [HCP_A3](#phase-al-tl-hcp-a3); _phase:al-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–507 K, x(Tl) 1–1 | 0 | 1 |
 | [LIQUID](#phase-al-tl-liquid); _phase:al-tl:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 576.95–2500 K, x(Tl) 0–1 | 5 | 1 |
 
 ## BCC_A2 (Al–Tl)
@@ -22,11 +22,11 @@ Table: Phases of the Al–Tl system (4)
 - Id: `phase:al-tl:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 362–2499.45 K, x(Tl) 1–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-tl:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:al-tl:bcc-a2  
-_paper: _paper:10.1007/bf02881414:(βTl), paper:10.1007/bf02881414:βTl  
+Names (3): _corpus: _corpus:phase:al-tl:bcc-a2  
+_paper: _paper:10.1007/bf02881414:βTl  
 _tdb: _tdb:AlTl-89McA.tdb:BCC_A2  
 
 
@@ -76,11 +76,10 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:al-tl:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–507 K, x(Tl) 1–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-tl:hcp-a3)
 
-Names (3): _corpus: _corpus:phase:al-tl:hcp-a3  
-_paper: _paper:10.1007/bf02881414:αTl  
+Names (2): _corpus: _corpus:phase:al-tl:hcp-a3  
 _tdb: _tdb:AlTl-89McA.tdb:HCP_A3  
 
 
@@ -96,7 +95,7 @@ _tdb: _tdb:AlTl-89McA.tdb:HCP_A3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02881414](https://doi.org/10.1007/BF02881414) A.J. McAlister, Bull. Alloy Phase Diag., 10, 112-14(1989).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## LIQUID (Al–Tl)
 

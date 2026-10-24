@@ -11,10 +11,10 @@
   "open-tdb/catalog/catalog.json": "d7000a40a0e0c875e6a9ee686d37db3d29f41ad7e609d2f469b6d451af48d2a4",
   "open-tdb/catalog/model-audit/bundled-summary.json": "9c19776be6d50437ff6a92dd8dea018d4e966fc81407ac6851173627a61db7ee",
   "open-tdb/databases (sha256 of 'sha256  path' lines, bundled confirmed binaries)": "2de57249211525cb0b549bf4a96c9cbd8b0bb376712a6dd963dcafbc41d7e1be",
-  "open-tdb/hulls/dft-mp/catalog.json": "c31d37ca2b0c72767ff2f2cd7e13a4bddddf420b4528c376cb367e35e25b2d27",
-  "open-tdb/hulls/dft-oqmd/catalog.json": "ea513be695d6e2aab7efaed9e064abd80bce482db57e1ca16922f8f8460aa46d",
-  "orchid-data/literature/papers.json": "29cd3cd104a8b5e1e14892fad9b5472e44a39c9d5f7f906e198749aa1a3c6c49",
-  "orchid-data/literature/systems/*.json (sha256 of 'sha256  name' lines)": "aa983bba3d393a9701c5753629322556dfb2f40f1455ab0c3ddd7d5689dd33de",
+  "open-tdb/hulls/dft-mp/catalog.json": "d5cbcdd8535214082b4fe7256af1d426edd1770c3df8253b69fb6b92a099d302",
+  "open-tdb/hulls/dft-oqmd/catalog.json": "442f2fd62b3acb628c29b600e30443728d290ce7d06ce77dd574eb92ae967d2c",
+  "orchid-data/literature/papers.json": "50f356fd234f83a280642176c0874e177e0434971747b0363453f1c726993534",
+  "orchid-data/literature/systems/*.json (sha256 of 'sha256  name' lines)": "093d4da822019bff4c6c9e830c4dc3291cc360a1cd02dbe2cd6e50ddba824d4d",
   "orchid-data/phase-diagrams/sgte/*.json (sha256 of 'sha256  name' lines)": "d64eb667e24b3ac46f51c996d28492c1a812c44cd7257621f309b03b6b191ca2",
   "orchid-pipeline origin/main:databases (git tree id)": "a8ed3aa4252a581510fb06fff73d87ab32b57024",
   "orchid-project.org/tools/doi_corrections.json": "1406a2c1b91197ce810bbced42af8ecf80fe2c58b53e5bef60091cdf47655d96",
@@ -4135,6 +4135,8 @@
      "rows": 2
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 2
   },
@@ -4158,7 +4160,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 0
   },
   {
    "id": "st:ni11as8-tp76",
@@ -5263,7 +5265,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 0
+   "registry_phases": 1
   },
   {
    "id": "st:v5b6-oc22",
@@ -6448,7 +6450,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:bi4rh-ci120",
@@ -6491,6 +6493,8 @@
      "rows": 2
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 2
   },
@@ -7010,6 +7014,8 @@
      "rows": 1
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 0
   },
@@ -15837,6 +15843,8 @@
      "rows": 3
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 1
   },
@@ -16854,6 +16862,8 @@
      "rows": 4
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 4
   },
@@ -18930,7 +18940,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 26
+   "registry_phases": 25
   },
   {
    "id": "st:ni19sm5-hp96",
@@ -19525,7 +19535,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 2
+   "registry_phases": 1
   },
   {
    "id": "st:ni8ti5-hr52",
@@ -22077,6 +22087,8 @@
      "rows": 1
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 1
   },
@@ -22946,6 +22958,8 @@
      "rows": 2
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 0
   },
@@ -23117,7 +23131,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 3
+   "registry_phases": 2
   },
   {
    "id": "st:tl2se",
@@ -28713,7 +28727,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 1200
+   "registry_phases": 1177
   },
   {
    "id": "st:a10-alpha-hg-hr1",
@@ -29053,7 +29067,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 138
+   "registry_phases": 107
   },
   {
    "id": "st:a4-c-diamond-cf8",
@@ -29443,7 +29457,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 67
+   "registry_phases": 84
   },
   {
    "id": "st:b10-pbo-l-tp4",
@@ -29607,7 +29621,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 7
+   "registry_phases": 6
   },
   {
    "id": "st:b19-niti-mp4",
@@ -29629,7 +29643,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 1
+   "registry_phases": 2
   },
   {
    "id": "st:b2-cscl-cp2",
@@ -30347,7 +30361,7 @@
     }
    ],
    "verification": "built-in row confirmed by Hallstedt 2025 mmc2 (Strukturbericht, Pearson, space group)",
-   "registry_phases": 37
+   "registry_phases": 43
   },
   {
    "id": "st:c10-sio2-hp12",
@@ -30391,7 +30405,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 8
+   "registry_phases": 7
   },
   {
    "id": "st:c11-b-mosi2-ti6",
@@ -32093,7 +32107,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 48
+   "registry_phases": 49
   },
   {
    "id": "st:d2-e-bahg11-cp36",
@@ -32389,7 +32403,7 @@
     }
    ],
    "verification": "in Hallstedt 2025 mmc2",
-   "registry_phases": 7
+   "registry_phases": 8
   },
   {
    "id": "st:d5-e-ni3s2-hr5",
@@ -32414,11 +32428,11 @@
    "registry_phases": 1
   },
   {
-   "id": "st:d7-1-al4c3-hr21",
+   "id": "st:d7-1-al4c3-hr7",
    "prototype": "Al4C3",
    "prototype_spellings": [],
    "strukturbericht": "D7_1",
-   "pearson": "hR21",
+   "pearson": "hR7",
    "space_group": {
     "number": 166,
     "symbol": "R-3m"
@@ -32432,6 +32446,8 @@
      "rows": 3
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 1
   },
@@ -32864,6 +32880,8 @@
      "rows": 6
     }
    ],
+   "pearson_as_printed_in_source": "hR21",
+   "pearson_note": "the source prints the hexagonal-cell atom count; the Pearson symbol counts the rhombohedral cell",
    "verification": "in Hallstedt 2025 mmc2",
    "registry_phases": 1
   },
@@ -33553,7 +33571,7 @@
    "stoichiometry": null,
    "sources": [],
    "verification": "definition (non-crystalline)",
-   "registry_phases": 1305
+   "registry_phases": 1304
   },
   {
    "id": "st:gas",

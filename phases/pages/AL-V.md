@@ -16,7 +16,7 @@ Table: Phases of the Al–V system (13)
 | [AL21V2](#phase-al-v-al21v2); _phase:al-v:al21v2_ | Al10V · cF176 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–964.28 K, x(V) 0.08696–0.08696 | 0 | 7 |
 | [AL23V4](#phase-al-v-al23v4); _phase:al-v:al23v4_ | Al23V4 · hP54 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1009.19 K, x(V) 0.14815–0.14815 | 2 | 8 |
 | [AL3M_D022](#phase-al-v-al3m-d022); _phase:al-v:al3m-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1640.77 K, x(V) 0.25–0.25033 | 2 | 8 |
-| [AL45V7](#phase-al-v-al45v7); _phase:al-v:al45v7_ | Al45V7 · mC104 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1004.47 K, x(V) 0.13462–0.13462 | 2 | 7 |
+| [AL45V7](#phase-al-v-al45v7); _phase:al-v:al45v7_ | Al45V7 · mC104 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1004.47 K, x(V) 0.13462–0.13462 | 10 | 7 |
 | [AL7V](#phase-al-v-al7v); _phase:al-v:al7v_ | Al45V7 · mC104 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–968.98 K, x(V) 0.125–0.125 | 0 | 1 |
 | [AL8V5_D82](#phase-al-v-al8v5-d82); _phase:al-v:al8v5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1932.72 K, x(V) 0.32971–0.39592 | 2 | 7 |
 | [ALV3_A15](#phase-al-v-alv3-a15); _phase:al-v:alv3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–912.2 K, x(V) 0.68691–0.8341 | 0 | 2 |
@@ -327,11 +327,11 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.8654, V 0.1346
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1004.47 K, x(V) 0.13462–0.13462
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-v:al45v7)
 
-Names (9): _corpus: _corpus:phase:al-v:al45v7  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al7V  
+Names (10): _corpus: _corpus:phase:al-v:al45v7  
+_paper: _paper:10.1016/j.jmst.2018.01.004:Al45V7, paper:10.1016/s0364-5916(98)00037-6:Al7V  
 _tdb: _tdb:AlV-04Gon.tdb:AL45V7, tdb:AlV-15Lin-mod.tdb:AL45V7, tdb:AlV-15Lin.tdb:AL45V7, tdb:AlV-17Kro.tdb:AL45V7, tdb:AlV-18Ber.tdb:AL45V7, tdb:AlV-23Wan.tdb:AL45V7, tdb:AlV-24Li.tdb:AL45V7  
 
 
@@ -386,7 +386,7 @@ _tdb: _tdb:AlV-04Gon.tdb:AL45V7, tdb:AlV-15Lin-mod.tdb:AL45V7, tdb:AlV-15Lin.tdb
 55: CONST AL45V7 : AL : V : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2015.07.002](https://doi.org/10.1016/j.calphad.2015.07.002) B. Lindahl, X.L. Liu, Z.-K. Liu, M. Selleby, Calphad, 51, 75-88(2015).  
 _assessment that models this phase_
@@ -400,8 +400,12 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2004-0180](https://doi.org/10.3139/ijmr-2004-0180) W. Gong, Y. Du, B. Huang, R. Schmid-Fetzer, C. Zhang, H. Xu, Z. Metallkd., 95, 978-86(2004).  
 _assessment that models this phase_
+- [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004) Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018).  
+_reports values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
+- [doi:10.3139/146.018057](https://doi.org/10.3139/146.018057) Weiping Gong, Yong Du, Baiyun Huang, Rainer Schmid-Fetzer, Chuanfu Zhang, Honghui Xu, Thermodynamic reassessment of the Al – V system, MEKU 95, 978-986 (2004).  
+_cited as the source of values for this phase_
 
 ## AL7V (Al–V)
 

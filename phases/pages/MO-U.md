@@ -12,20 +12,20 @@ Table: Phases of the Mo–U system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A20](#phase-mo-u-a20-orthorhombic); _phase:mo-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1693.95 K, x(U) 0.9606–1 | 6 | 3 |
-| [BCC_A2](#phase-mo-u-bcc-a2); _phase:mo-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.24 K, x(U) 0–1 | 14 | 3 |
+| [ORTHORHOMBIC_A20](#phase-mo-u-a20-orthorhombic); _phase:mo-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1693.95 K, x(U) 0.9606–1 | 5 | 3 |
+| [BCC_A2](#phase-mo-u-bcc-a2); _phase:mo-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.24 K, x(U) 0–1 | 13 | 3 |
 | [FCC_A1](#phase-mo-u-fcc-a1); _phase:mo-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mo-u-hcp-a3); _phase:mo-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-mo-u-liquid); _phase:mo-u:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1394.29–4000 K, x(U) 0–1 | 3 | 3 |
 | [MOU2_C11B](#phase-mo-u-mou2-c11b); _phase:mo-u:mou2-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–878.42 K, x(U) 0.66667–0.66667 | 8 | 3 |
-| [TETRAGONAL_U](#phase-mo-u-u-tetragonal); _phase:mo-u:u-tetragonal_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 913.61–2730.86 K, x(U) 0.96883–1 | 3 | 3 |
+| [TETRAGONAL_U](#phase-mo-u-u-tetragonal); _phase:mo-u:u-tetragonal_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 913.61–2730.86 K, x(U) 0.96883–1 | 2 | 3 |
 
 ## ORTHORHOMBIC_A20 (Mo–U)
 
 - Id: `phase:mo-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1693.95 K, x(U) 0.9606–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-u:a20-orthorhombic)
 
 Names (7): _corpus: _corpus:phase:mo-u:a20-orthorhombic, corpus:phase:mo-u:orthorhombic-a20  
@@ -72,7 +72,7 @@ _cited as the source of values for this phase_
 - Id: `phase:mo-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–3999.24 K, x(U) 0–1
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 13 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-u:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:mo-u:bcc-a2  
@@ -308,11 +308,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — MoU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — MoU-18Cor.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 3 of 3 calculated diagram(s): 913.61–2730.86 K, x(U) 0.96883–1
-- Literature: 3 values (3 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-u:u-tetragonal)
 
-Names (7): _corpus: _corpus:phase:mo-u:u-tetragonal, corpus:phase:mo-u:tetragonal-u  
-_paper: _paper:10.1016/j.jnucmat.2010.04.018:tetr_U, paper:10.1016/j.jnucmat.2011.01.043:(β-U)  
+Names (6): _corpus: _corpus:phase:mo-u:u-tetragonal, corpus:phase:mo-u:tetragonal-u  
+_paper: _paper:10.1016/j.jnucmat.2010.04.018:tetr_U  
 _tdb: _tdb:MoU-10Zha.tdb:TETRAGONAL_U, tdb:MoU-11Ber.tdb:TETRAGONAL_U, tdb:MoU-18Cor.tdb:TETRAGONAL_U  
 
 
@@ -343,9 +343,9 @@ Example references (4 of 4; assessments first):
 
 - [doi:10.1016/j.jnucmat.2010.04.018](https://doi.org/10.1016/j.jnucmat.2010.04.018) X. Zhang, Y.F. Cui, G.L. Xu, W.J. Zhu, H.S. Liu, B.Y. Yin et al., Thermodynamic assessment of the U–Mo–Al system, Journal of Nuclear Materials 402, 15-24 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2018.10.002](https://doi.org/10.1016/j.calphad.2018.10.002) E.C. Corcoran, J.-L. Fleche, N. Dupin, B. Sundman, C. Gueneau, Calphad, 63, 196-211(2018).  
+_assessment that models this phase_
+- [doi:10.1016/j.jnucmat.2011.01.043](https://doi.org/10.1016/j.jnucmat.2011.01.043) A. Berche, N. Dupin, C. Guéneau, C. Rado, B. Sundman, J.C. Dumas, Calphad thermodynamic description of some binary systems involving U, Journal of Nuclear Materials 411, 131-143 (2011).  
 _assessment that models this phase_
 - [doi:10.1016/0022-3115(60)90028-3](https://doi.org/10.1016/0022-3115%2860%2990028-3) Austin E Dwight, The uranium-molybdenum equilibrium diagram below 900° C, Journal of Nuclear Materials 2, 81-87 (1960).  
 _cited as the source of values for this phase_

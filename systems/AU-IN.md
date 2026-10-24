@@ -1,19 +1,19 @@
 # Au–In system
 
-> Au–In system: 174 accepted literature values (invariant reaction 96, crystal structure 38, phase transition 22, activity / EMF / Gibbs energy 17) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–In system: 180 accepted literature values (invariant reaction 96, crystal structure 44, phase transition 22, activity / EMF / Gibbs energy 17) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-IN.html · Markdown: https://data.orchid-project.org/systems/AU-IN.md
 
-174 accepted literature values from 4 paper(s) (experimental 54, model 110, unspecified 10); 5 calculated phase diagram(s).
+180 accepted literature values from 4 paper(s) (experimental 52, model 118, unspecified 10); 5 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-IN.json) · [CSV](https://data.orchid-project.org/systems/AU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-IN/AuIn-03Liu.json) · [phases (16)](https://data.orchid-project.org/phases/pages/AU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-IN.html) · [Markdown](https://data.orchid-project.org/systems/AU-IN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-IN.json) · [CSV](https://data.orchid-project.org/systems/AU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-IN/AuIn-03Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-IN.html) · [Markdown](https://data.orchid-project.org/systems/AU-IN.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
-| model | 110 |
+| experimental | 52 |
+| model | 118 |
 | unspecified | 10 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 22 |
 | phase equilibrium | 1 |
 | activity / EMF / Gibbs energy | 17 |
-| crystal structure | 38 |
+| crystal structure | 44 |
 
 ## Calculated phase diagrams
 
@@ -321,13 +321,12 @@ Table: Activity / EMF / Gibbs energy, Au–In system
 | Gibbs energy; _printed: ΔG_ | -16540 J/mol | 673.15 | Ψ | model | [3] Liu 2003 | Table 4, p. 7, row 13 |  |
 | Gibbs energy; _printed: ΔG_ | -14222 J/mol | 673.15 | γ | model | [3] Liu 2003 | Table 4, p. 7, row 10 |  |
 
-### Crystal structure (38)
+### Crystal structure (44)
 
 Table: Crystal structure, Au–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.157 Å |  | Au; _Au: Au 1, In 0_ | model | [1] Shen 2021 | Table 3, p. 6, row 2 |  |
 | Lattice a | 10.6875 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice a | 10.5387 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
 | Lattice a | 20.5948 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
@@ -337,21 +336,26 @@ Table: Crystal structure, Au–In system
 | Lattice a | 12.279 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
 | Lattice a | 9.9631 Å |  | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | model | [1] Shen 2021 | Table 3, p. 6, row 13 |  |
 | Lattice a | 6.6867 Å |  | AuIn2; _AuIn2: Au 0.333, In 0.667_ | model | [1] Shen 2021 | Table 3, p. 6, row 18 |  |
-| Lattice a | 3.2816 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
-| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1, In 0_ | unspecified | [1] Shen 2021 | Table 3, p. 6, row 1 |  |
 | Lattice a | 5.8572 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice a | 5.864 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
+| Lattice a | 4.538 Å | 298.15 | Au3In2 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
 | Lattice a | 4.54 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
+| Lattice a | 10.524 Å | 298.15 | Au4In-LT | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
+| Lattice a | 12.1 Å | 298.15 | Au7In3 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
 | Lattice a | 12.215 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
+| Lattice a | 9.843 Å | 298.15 | Au9In4; _alloy: In 0.307692_ | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 14 |  |
+| Lattice a | 9.843 Å | 298.15 | Au9In4 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 27 |  |
 | Lattice a | 9.843 Å | 298.15 | Au9In4 (γ); _Au9In4 (γ): Au 0.693, In 0.307_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 12 |  |
 | Lattice a | 6.515 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Zintl 1937_ [doi](https://doi.org/10.1515/zpch-1937-3528) | Table 3, p. 6, row 16 |  |
+| Lattice a | 6.515 Å | 298.15 | AuIn2; _alloy: In 0.666667_ | unspecified | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 18 |  |
 | Lattice a | 6.511 Å | 298.15 | AuIn2; _AuIn2: Au 0.333, In 0.667_ | experimental | [1] Shen 2021; _cites Jan 1965_ [doi](https://doi.org/10.1080/14786436508228675) | Table 3, p. 6, row 17 |  |
-| Lattice a | 3.252 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
+| Lattice a | 5.8572 Å | 298.15 | AuIn3 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
 | Lattice b | 5.1006 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
 | Lattice b | 5.071 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 3 |  |
 | Lattice b | 5.2624 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice b | 5.1504 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice b | 5.168 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
+| Lattice b | 4.7352 Å | 298.15 | AuIn3 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
 | Lattice c | 4.805 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | model | [1] Shen 2021 | Table 3, p. 6, row 6 |  |
 | Lattice c | 4.7862 Å |  | Au10In3(β′); _Au10In3(β′): Au 0.769, In 0.231_ | experimental | [1] Shen 2021; _cites Jandali 1982_ | Table 3, p. 6, row 5 |  |
 | Lattice c | 4.8739 Å |  | Au11In3 (β); _Au11In3 (β): Au 0.786, In 0.214_ | model | [1] Shen 2021 | Table 3, p. 6, row 4 |  |
@@ -359,12 +363,14 @@ Table: Crystal structure, Au–In system
 | Lattice c | 4.7686 Å |  | Au3In; _Au3In: Au 0.75, In 0.25_ | model | [1] Shen 2021 | Table 3, p. 6, row 9 |  |
 | Lattice c | 5.7883 Å |  | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | model | [1] Shen 2021 | Table 3, p. 6, row 15 |  |
 | Lattice c | 8.5941 Å |  | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | model | [1] Shen 2021 | Table 3, p. 6, row 11 |  |
-| Lattice c | 4.9362 Å |  | In; _In: Au 0, In 1_ | model | [1] Shen 2021 | Table 3, p. 6, row 20 |  |
 | Lattice c | 4.7532 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Hiscocks 1964_ [doi](https://doi.org/10.1098/rspa.1964.0235) | Table 3, p. 6, row 8 |  |
 | Lattice c | 4.746 Å | 298.15 | Au3In; _Au3In: Au 0.75, In 0.25_ | experimental | [1] Shen 2021; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 3, p. 6, row 7 |  |
+| Lattice c | 5.659 Å | 298.15 | Au3In2 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 16 |  |
 | Lattice c | 5.66 Å | 298.15 | Au3In2 (Ψ); _Au3In2 (Ψ): Au 0.6, In 0.4_ | experimental | [1] Shen 2021; _cites Schubert 1958_ [doi](https://doi.org/10.1007/bf00600681) | Table 3, p. 6, row 14 |  |
+| Lattice c | 4.759 Å | 298.15 | Au4In-LT | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 12 |  |
+| Lattice c | 8.51 Å | 298.15 | Au7In3 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 15 |  |
 | Lattice c | 8.509 Å | 298.15 | Au7In3(γ′); _Au7In3(γ′): Au 0.7, In 0.3_ | experimental | [1] Shen 2021; _cites Puselj 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990091-0) | Table 3, p. 6, row 10 |  |
-| Lattice c | 4.9466 Å | 298.15 | In; _In: Au 0, In 1_ | experimental | [1] Shen 2021; _cites Wolcyrz 1981_ | Table 3, p. 6, row 19 |  |
+| Lattice c | 5.1504 Å | 298.15 | AuIn3 | model | [4] Ghasemi 2014; _cites Liu 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900028-2) | Table 1, p. 2, row 13 |  |
 
 ## Sources
 

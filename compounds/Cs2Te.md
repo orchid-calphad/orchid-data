@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cs2Te reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -361.4 kJ/mol (basis unstated) ± 3.2 | Cs₂Te | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
-| -120.467 kJ/mol-atom ± 3.2 | Cs2Te | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
+| -120.467 kJ/mol-atom ± 1.06667 | Cs2Te | 298.15 | experimental | Solution calorimetry at 298.15 K | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs2Te
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -361.4 | kJ/mol (basis unstated) | 3.2 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -120.467 | kJ/mol-atom | 3.2 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -361.4 | kJ/mol (basis unstated) | 3.2 | 5.000e-5 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -120.467 | kJ/mol-atom | 1.067 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

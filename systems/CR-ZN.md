@@ -1,10 +1,10 @@
 # Cr–Zn system
 
-> Cr–Zn system: 30 accepted literature values (invariant reaction 19, phase equilibrium 8, phase transition 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Zn system: 29 accepted literature values (invariant reaction 19, phase equilibrium 8, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-ZN.html · Markdown: https://data.orchid-project.org/systems/CR-ZN.md
 
-30 accepted literature values from 3 paper(s) (experimental 22, model 8); 3 calculated phase diagram(s).
+29 accepted literature values from 3 paper(s) (experimental 21, model 8); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-ZN.json) · [CSV](https://data.orchid-project.org/systems/CR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-ZN/CrZn-03Reu-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CR-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
+| experimental | 21 |
 | model | 8 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 19 |
-| phase transition | 3 |
+| phase transition | 2 |
 | phase equilibrium | 8 |
 
 ## Calculated phase diagrams
@@ -91,13 +91,12 @@ Table: Invariant reactions reported in the literature for the Cr–Zn system (19
 
 ## Other properties
 
-### Phase transition (3)
+### Phase transition (2)
 
 Table: Phase transition, Cr–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 703.15 K | 703.15 | Solubility in the liquid phase; _L: Zn 0.995_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 3 |  |
 | Phase transition | 723.15 K | 723.15 | Solubility in the liquid phase; _L: Zn 0.99_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 4 |  |
 | Phase transition | 733.15 K | 733.15 | Solubility in the liquid phase; _L: Zn 0.987_ | experimental | [2] Reumont 2003 | Table 1, p. 3, row 5 |  |
 

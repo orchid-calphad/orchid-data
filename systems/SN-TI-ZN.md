@@ -1,10 +1,10 @@
 # Sn–Ti–Zn system
 
-> Sn–Ti–Zn system: 69 accepted literature values (phase transition 48, phase equilibrium 8, invariant reaction 7, crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ti–Zn system: 65 accepted literature values (phase transition 48, phase equilibrium 8, invariant reaction 7, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TI-ZN.html · Markdown: https://data.orchid-project.org/systems/SN-TI-ZN.md
 
-69 accepted literature values from 1 paper(s) (experimental 56, model 11, unspecified 2); 0 calculated phase diagram(s).
+65 accepted literature values from 1 paper(s) (experimental 56, model 7, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TI-ZN.json) · [CSV](https://data.orchid-project.org/systems/SN-TI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SN-TI-ZN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 56 |
-| model | 11 |
+| model | 7 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 7 |
 | phase transition | 48 |
 | phase equilibrium | 8 |
-| crystal structure | 6 |
+| crystal structure | 2 |
 
 ## Invariant reactions (literature)
 
@@ -111,7 +111,7 @@ Table: Phase equilibrium, Sn–Ti–Zn system
 | Phase composition |  | 973.15 | Liquid + Sn3Ti5Zn12; _Liquid: Sn 0.005754, Ti 0.002195, Zn 0.992051_ | experimental | [1] Doi 2006 | Table 2, p. 3, row 7 |  |
 | Phase composition |  | 973.15 | Liquid + Sn3Ti5Zn12 + Zn3Ti; _Liquid: Sn 0.001595, Ti 0.01173, Zn 0.986675; Zn3Ti: Sn 0.001662, Ti 0.224907, Zn 0.773432_ | experimental | [1] Doi 2006 | Table 2, p. 3, row 8 |  |
 
-### Crystal structure (6)
+### Crystal structure (2)
 
 Table: Crystal structure, Sn–Ti–Zn system
 
@@ -119,10 +119,6 @@ Table: Crystal structure, Sn–Ti–Zn system
 |---|---:|---:|---|---|---|---|---|
 | Molar volume; _printed: Vm,X_ | 17 10^-6 m^3/mol | 505 | UNKNOWN; _alloy: Ti 0, Zn 0_ | unspecified | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 1 |  |
 | Molar volume; _printed: VX at 723 K_ | 17.32 10^-6 m^3/mol | 505 | UNKNOWN; _alloy: Ti 0, Zn 0_ | unspecified | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 1 |  |
-| Molar volume; _printed: VX at 723 K_ | 9.98 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Ti 0, Zn 1_ | model | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3 |  |
-| Molar volume; _printed: Vm,X_ | 9.94 10^-6 m^3/mol | 693 | UNKNOWN; _alloy: Ti 0, Zn 1_ | model | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 3 |  |
-| Molar volume; _printed: VX at 723 K_ | 10.77 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1, Zn 0_ | model | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2 |  |
-| Molar volume; _printed: Vm,X_ | 11.6 10^-6 m^3/mol | 1998 | UNKNOWN; _alloy: Ti 1, Zn 0_ | model | [1] Doi 2006; _cites Tanaka 1994_ [doi](https://doi.org/10.1002/srin.199400921) | Table 7, p. 10, row 2 |  |
 
 ## Sources
 

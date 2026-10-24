@@ -1,10 +1,10 @@
 # Al–Mg–Zn system
 
-> Al–Mg–Zn system: 183 accepted literature values (invariant reaction 83, phase equilibrium 78, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Zn system: 182 accepted literature values (invariant reaction 82, phase equilibrium 78, phase transition 22) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/AL-MG-ZN.md
 
-183 accepted literature values from 3 paper(s) (experimental 115, model 46, unspecified 22); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+182 accepted literature values from 3 paper(s) (experimental 115, model 46, unspecified 21); 0 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-ZN.md)
 
@@ -14,19 +14,19 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 115 |
 | model | 46 |
-| unspecified | 22 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 83 |
+| invariant reaction | 82 |
 | phase transition | 22 |
 | phase equilibrium | 78 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (83)
+Table: Invariant reactions reported in the literature for the Al–Mg–Zn system (82)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -91,7 +91,6 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Zn syste
 | 626.5 | L + Mg2Zn3+ τ \<=> MgZn | L: Al 0.0462, Mg 0.6861, Zn 0.2677; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [1] Liang 1998 | Table 8, p. 18, row 29 |  |
 | 626.5 | L+AlMgZn\_τ+Mg2Zn3->MgZn | L: Al 0.046, Mg 0.686, Zn 0.268; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 15 |  |
 | 625.8 | L+AlMgZn\_τ+Mg2Zn3->MgZn | L: Al 0.046, Mg 0.683, Zn 0.271; Mg2Zn3: Al 0, Mg 0.4, Zn 0.6; MgZn: Al 0, Mg 0.48, Zn 0.52 | model | [3] Yuan 2014 | Table 3, p. 6, row 16 |  |
-| 617.82 | eutectic: L -> (Mg) + Mg12Zn13 + Mg51Zn20 | L: Mg 0.7145, Zn 0.2852 | unspecified | [2] Hayashi 2020 | Table 3, p. 9, row 2 |  |
 | 617.15 | eutectic: L \<-> (Al) + (Zn) + Mg2Zn11 | L: Zn 0.0869; (Al): Zn 0.3478; (Zn): Zn 0.0593; Mg2Zn11: Zn 0.8538 | model | [1] Liang 1998 | Table 8, p. 19, row 2 |  |
 | 616.6 | L->(Al)+Mg2Zn11+(Zn) | L: Al 0.087, Mg 0.06, Zn 0.854; Mg2Zn11: Al 0, Mg 0.153846, Zn 0.846154 | model | [3] Yuan 2014; _cites Liang 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900458-9) | Table 3, p. 6, row 17 |  |
 | 616.5 | L->(Al)+Mg2Zn11+(Zn) | L: Al 0.087, Mg 0.06, Zn 0.853; Mg2Zn11: Al 0, Mg 0.153846, Zn 0.846154 | model | [3] Yuan 2014 | Table 3, p. 6, row 18 |  |

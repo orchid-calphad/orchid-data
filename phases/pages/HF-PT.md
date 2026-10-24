@@ -12,10 +12,10 @@ Table: Phases of the Hf–Pt system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-hf-pt-bcc-a2); _phase:hf-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1660–2517.83 K, x(Pt) 0–0.09811 | 0 | 2 |
+| [BCC_A2](#phase-hf-pt-bcc-a2); _phase:hf-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1660–2517.83 K, x(Pt) 0–0.09811 | 0 | 2 |
 | [B2_BCC](#phase-hf-pt-bcc-b2); _phase:hf-pt:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1652.71–2517.98 K, x(Pt) 0–0.50186 | 0 | 1 |
 | [FCC_A1](#phase-hf-pt-fcc-a1); _phase:hf-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2183.35 K, x(Pt) 0.8398–1 | 0 | 1 |
-| [A3_HCP](#phase-hf-pt-hcp-a3); _phase:hf-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 890–1900 K | 0 | 2 |
+| [HCP_A3](#phase-hf-pt-hcp-a3); _phase:hf-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 890–1900 K | 0 | 2 |
 | [D024_HCP](#phase-hf-pt-hcp-d024); _phase:hf-pt:hcp-d024_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2522.04 K, x(Pt) 0–0.75 | 0 | 1 |
 | [HF2PT](#phase-hf-pt-hf2pt); _phase:hf-pt:hf2pt_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1933.11 K, x(Pt) 0.31463–0.33333 | 0 | 1 |
 | [HF2PT3](#phase-hf-pt-hf2pt3); _phase:hf-pt:hf2pt3_ | Pd3Ti2 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1960 K, x(Pt) 0.6–0.6 | 0 | 1 |
@@ -24,11 +24,11 @@ Table: Phases of the Hf–Pt system (11)
 | [HFPT4_L12](#phase-hf-pt-hfpt4-l12); _phase:hf-pt:hfpt4-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2373.29 K, x(Pt) 0.76992–0.79222 | 0 | 1 |
 | [LIQUID](#phase-hf-pt-liquid); _phase:hf-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1722.83–4000 K, x(Pt) 0–1 | 0 | 1 |
 
-## A2_BCC (Hf–Pt)
+## BCC_A2 (Hf–Pt)
 
 - Id: `phase:hf-pt:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1660–2517.83 K, x(Pt) 0–0.09811
+- Stability: stable in 1 of 1 calculated diagram(s): 1660–2517.83 K, x(Pt) 0–0.09811
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-pt:bcc-a2)
 
@@ -36,7 +36,7 @@ Names (3): _corpus: _corpus:phase:hf-pt:bcc-a2
 _tdb: _tdb:HfPt-18Yan.tdb:A2_BCC, tdb:HfPt-18Yan.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [HfPt-18Yan.tdb](https://orchid-project.org/data/databases/sgte-binary/HfPt-18Yan.tdb): A2_BCC, type code %B, sha256 `60cd809cc91cb6cb…`
 
@@ -111,11 +111,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.3139/146.111676](https://doi.org/10.3139/146.111676) B. Yang, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 109, 851-57(2018).  
 _assessment that models this phase_
 
-## A3_HCP (Hf–Pt)
+## HCP_A3 (Hf–Pt)
 
 - Id: `phase:hf-pt:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 890–1900 K
+- Stability: stable in 1 of 1 calculated diagram(s): 890–1900 K
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-pt:hcp-a3)
 
@@ -123,7 +123,7 @@ Names (3): _corpus: _corpus:phase:hf-pt:hcp-a3
 _tdb: _tdb:HfPt-18Yan.tdb:A3_HCP, tdb:HfPt-18Yan.tdb:HCP_A3  
 
 
-### TDB models of A3_HCP (2): PHASE and CONSTITUENT statements as written
+### TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written
 
 [HfPt-18Yan.tdb](https://orchid-project.org/data/databases/sgte-binary/HfPt-18Yan.tdb): A3_HCP, type code %A, sha256 `60cd809cc91cb6cb…`
 

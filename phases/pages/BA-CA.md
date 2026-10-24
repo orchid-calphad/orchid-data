@@ -12,7 +12,7 @@ Table: Phases of the Ba–Ca system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ba-ca-bcc-a2); _phase:ba-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Ca) 0–1 | 2 | 1 |
+| [BCC_A2](#phase-ba-ca-bcc-a2); _phase:ba-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Ca) 0–1 | 0 | 1 |
 | [FCC_A1](#phase-ba-ca-fcc-a1); _phase:ba-ca:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1111.03 K, x(Ca) 0.79225–1 | 0 | 1 |
 | [HCP_A3](#phase-ba-ca-hcp-a3); _phase:ba-ca:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ba-ca-liquid); _phase:ba-ca:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 894.08–2500 K, x(Ca) 0–1 | 9 | 1 |
@@ -22,11 +22,10 @@ Table: Phases of the Ba–Ca system (4)
 - Id: `phase:ba-ca:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Ca) 0–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ca:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:ba-ca:bcc-a2  
-_paper: _paper:10.1007/bf02873004:(βCa, Ba)  
+Names (2): _corpus: _corpus:phase:ba-ca:bcc-a2  
 _tdb: _tdb:BaCa-86Alc.tdb:BCC_A2  
 
 
@@ -42,7 +41,7 @@ _tdb: _tdb:BaCa-86Alc.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02873004](https://doi.org/10.1007/BF02873004) C.B. Alcock, V.P. Itkin, Bull. Alloy Phase Diag., 7, 338-40(1986).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ba–Ca)
 

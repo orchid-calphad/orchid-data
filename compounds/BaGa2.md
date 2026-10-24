@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BaGa2.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
+Systems: [Ba–Ga](https://data.orchid-project.org/systems/BA-GA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of BaGa2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.588 kJ/mol-atom | BaGa2 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 17 |  |
+| -44.588 kJ/mol-atom | BaGa2 | 0 | DFT | first-principles calculations | [Ba–Ga](https://data.orchid-project.org/systems/BA-GA.html) | [1] Li 2013 | Table 2, p. 3, row 17 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of BaGa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.588 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -44.588 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BiTi2.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Bi–Fe–Ti](https://data.orchid-project.org/systems/BI-FE-TI.html)
+Systems: [Bi–Ti](https://data.orchid-project.org/systems/BI-TI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of BiTi2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -12.5 kJ/mol (basis unstated) | BiTi2 | 0 | DFT | First-principle | [Bi–Fe–Ti](https://data.orchid-project.org/systems/BI-FE-TI.html) | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
+| -12.5 kJ/mol (basis unstated) | BiTi2 | 0 | DFT | First-principle | [Bi–Ti](https://data.orchid-project.org/systems/BI-TI.html) | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of BiTi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.5 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -12.5 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
 
 ## Sources
 

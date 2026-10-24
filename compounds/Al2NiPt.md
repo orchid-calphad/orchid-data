@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al2NiPt
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -77 | kJ/mol-atom |  | 0.5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -77 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of CuTi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11.12 | kJ/mol (basis unstated) | 1.72 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -9.61 | kJ/mol (basis unstated) | 0.37 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -17.534 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11.12 | kJ/mol (basis unstated) | 1.72 | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -9.61 | kJ/mol (basis unstated) | 0.37 | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -17.534 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources
 

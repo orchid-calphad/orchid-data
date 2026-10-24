@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ge3Ti5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70.8 | kJ/mol-atom | 2.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -69.7 | kJ/mol-atom | 2.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -70.8 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -69.7 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

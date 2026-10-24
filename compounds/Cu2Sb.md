@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu2Sb.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -4.205 kJ/mol-atom (n = 3); Materials Project -3.932 kJ/mol-atom (mp-aaaaacsf); OQMD 1.093 kJ/mol-atom (oqmd-3607).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html)
+Systems: [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Cu2Sb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.23 kJ/mol-atom | η(Cu2Sb) | 723.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 3, row 7 |  |
-| -4.205 kJ/mol-atom | η(Cu2Sb) | 775.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 8 |  |
-| -1.35 kJ/mol-atom | η(Cu2Sb) | 773.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000; _cites Brodowski 1982_ | Table 2, p. 3, row 9 |  |
-| -4.351 kJ/mol-atom | η(Cu2Sb) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 6 |  |
+| -4.23 kJ/mol-atom | η(Cu2Sb) | 723.15 | experimental |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 3, row 7 |  |
+| -4.205 kJ/mol-atom | η(Cu2Sb) | 775.15 | experimental |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 8 |  |
+| -1.35 kJ/mol-atom | η(Cu2Sb) | 773.15 | experimental |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000; _cites Brodowski 1982_ | Table 2, p. 3, row 9 |  |
+| -4.351 kJ/mol-atom | η(Cu2Sb) |  | model |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000 | Table 2, p. 3, row 6 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Cu2Sb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.23 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -4.205 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -1.35 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -4.351 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.23 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -4.205 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -1.35 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -4.351 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

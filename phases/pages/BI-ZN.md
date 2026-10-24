@@ -1,23 +1,22 @@
 # Bi–Zn phases
 
-> Bi–Zn system: 6 phases (tier A 4, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–Zn system: 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/BI-ZN.md
 
-6 phases (tier A 4, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/BI-ZN.json) · [Bi–Zn system page](https://data.orchid-project.org/systems/BI-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–Zn system (6)
+Table: Phases of the Bi–Zn system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-zn-a7-rhombohedral); _phase:bi-zn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–544.55 K, x(Zn) 0–0.01636 | 5 | 5 |
 | [BCC_A2](#phase-bi-zn-bcc-a2); _phase:bi-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-bi-zn-fcc-a1); _phase:bi-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [HCP_A3](#phase-bi-zn-hcp-a3); _phase:bi-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2498.93 K, x(Zn) 0.99584–1 | 14 | 5 |
+| [HCP_A3](#phase-bi-zn-hcp-a3); _phase:bi-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2498.93 K, x(Zn) 0.99584–1 | 8 | 5 |
 | [LIQUID](#phase-bi-zn-liquid); _phase:bi-zn:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 520.1–2500 K, x(Zn) 0–1 | 22 | 5 |
-| [LIQUID-2](#phase-bi-zn-liquid-2); _phase:bi-zn:liquid-2_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 
 ## RHOMBOHEDRAL_A7 (Bi–Zn)
 
@@ -189,7 +188,7 @@ _assessment that models this phase_
 - Id: `phase:bi-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–2498.93 K, x(Zn) 0.99584–1
-- Literature: 14 values (13 accepted) from 2 papers
+- Literature: 8 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-zn:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:bi-zn:hcp-a3  
@@ -234,7 +233,7 @@ _tdb: _tdb:BiZn-00Mal-LB.tdb:HCP_A3, tdb:BiZn-03Kim.tdb:HCP_A3, tdb:BiZn-05Dja.t
 37: CONST HCP_A3 : BI ZN% : VA: !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1088/0965-0393/13/3/006](https://doi.org/10.1088/0965-0393/13/3/006) Y Djaballah, L Bennour, F Bouharkat, A Belgacem-Bouzida, Thermodynamic assessment of the binary system (Bi–Zn), Modelling Simul. Mater. Sci. Eng. 13, 361-369 (2005).  
 _assessment that models this phase; reports values for this phase_
@@ -246,10 +245,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(95)02095-0](https://doi.org/10.1016/0925-8388%2895%2902095-0) F. Bouharkat, J.J. Counioux, J.R. Vignalou, J. Said, Miscibility study in the bismuth-zinc system extension to the isotherms 425 and 500°C of the ternary system BiSbZn, Journal of Alloys and Compounds 238, 149-154 (1996).  
 _cited as the source of values for this phase_
-- [doi:10.1515/ijmr-1955-461101](https://doi.org/10.1515/ijmr-1955-461101) Woligang Seith, Heinz Johnen, Jürgen Wagner, Zur Kenntnis von Mischungslücken im flüssigen Zustand bei metallischen Zwei- und Dreistoffsystemen, International Journal of Materials Research 46, 773-779 (1955).  
-_cited as the source of values for this phase_
-- [doi:10.3139/146.030390](https://doi.org/10.3139/146.030390) Sung S. Kim, Thomas H. Sanders, Thermodynamic Assessment of the Miscibility Gaps and the Metastable Liquidi in the Zn–Bi, Zn–Pb, and Zn–Tl Systems, MEKU 94, 390-395 (2003).  
-_cited as the source of values for this phase_
 
 ## LIQUID (Bi–Zn)
 
@@ -259,7 +254,7 @@ _cited as the source of values for this phase_
 - Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-zn:liquid)
 
-Names (10): _corpus: _corpus:phase:bi-zn:liquid  
+Names (11): _corpus: _corpus:phase:bi-zn:liquid, corpus:phase:bi-zn:liquid-2  
 _paper: _paper:10.1016/s0364-5916(00)00011-0:Liquid, paper:10.1088/0965-0393/13/3/006:1 liq, paper:10.1088/0965-0393/13/3/006:liq 1, paper:10.1088/0965-0393/13/3/006:liq 2  
 _tdb: _tdb:BiZn-00Mal-LB.tdb:LIQUID, tdb:BiZn-03Kim.tdb:LIQUID, tdb:BiZn-05Dja.tdb:LIQUID, tdb:BiZn-07Viz.tdb:LIQUID, tdb:BiZn-85Gir.tdb:LIQUID  
 
@@ -323,17 +318,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.2320/matertrans1960.21.226](https://doi.org/10.2320/matertrans1960.21.226) Kazuhisa Okajima, Hiroshi Sakao, Equilibria between the Two Immiscible Liquid Phases in the Zinc-Bismuth System, Trans. JIM 21, 226-236 (1980).  
 _cited as the source of values for this phase_
-
-## LIQUID-2 (Bi–Zn)
-
-- Id: `phase:bi-zn:liquid-2`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:2,LIQUID; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-zn:liquid-2)
-
-Names (1): _corpus: _corpus:phase:bi-zn:liquid-2  
-
 
 ## Please cite
 

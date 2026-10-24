@@ -14,9 +14,9 @@ Table: Phases of the Ag–Zn system (7)
 |---|---|---|---|---:|---:|
 | [AG5ZN8_D82](#phase-ag-zn-ag5zn8-d82); _phase:ag-zn:ag5zn8-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–934.53 K, x(Zn) 0.58099–0.65083 | 6 | 5 |
 | [AGZN_BB](#phase-ag-zn-agzn-bb); _phase:ag-zn:agzn-bb_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–552.02 K, x(Zn) 0.31652–0.52303 | 4 | 5 |
-| [BCC_A2](#phase-ag-zn-bcc-a2); _phase:ag-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 518.13–982.96 K, x(Zn) 0.36607–0.58648 | 12 | 5 |
-| [FCC_A1](#phase-ag-zn-fcc-a1); _phase:ag-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1234.93 K, x(Zn) 0–0.40408 | 4 | 5 |
-| [HCP_A3](#phase-ag-zn-hcp-a3); _phase:ag-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–711.89 K, x(Zn) 0.9568–1 | 2 | 5 |
+| [BCC_A2](#phase-ag-zn-bcc-a2); _phase:ag-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 518.13–982.96 K, x(Zn) 0.36607–0.58648 | 0 | 5 |
+| [FCC_A1](#phase-ag-zn-fcc-a1); _phase:ag-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1234.93 K, x(Zn) 0–0.40408 | 0 | 5 |
+| [HCP_A3](#phase-ag-zn-hcp-a3); _phase:ag-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–711.89 K, x(Zn) 0.9568–1 | 0 | 5 |
 | [HCP_IM_A3](#phase-ag-zn-hcp-a3-im); _phase:ag-zn:hcp-a3-im_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–918.44 K, x(Zn) 0.65568–0.92955 | 0 | 5 |
 | [LIQUID](#phase-ag-zn-liquid); _phase:ag-zn:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 692.68–2500 K, x(Zn) 0–1 | 8 | 5 |
 
@@ -151,11 +151,10 @@ _assessment that models this phase_
 - Id: `phase:ag-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 518.13–982.96 K, x(Zn) 0.36607–0.58648
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-zn:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:ag-zn:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00024-8:β, paper:10.1016/s0364-5916(98)00024-8:ε  
+Names (6): _corpus: _corpus:phase:ag-zn:bcc-a2  
 _tdb: _tdb:AgZn-02Fri-LB.tdb:BCC_A2, tdb:AgZn-02Fri-SGSOL.tdb:BCC_A2, tdb:AgZn-98Gom.tdb:BCC_A2, tdb:AgZn-99Lee.tdb:BCC_A2, tdb:AgZn-99Oht.tdb:BCC_A2  
 
 
@@ -199,7 +198,7 @@ _tdb: _tdb:AgZn-02Fri-LB.tdb:BCC_A2, tdb:AgZn-02Fri-SGSOL.tdb:BCC_A2, tdb:AgZn-9
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00024-8](https://doi.org/10.1016/S0364-5916%2898%2900024-8) T. Gomez-Acebo, Calphad, 22, 203-20(1998).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
 
@@ -208,11 +207,10 @@ _assessment that models this phase_
 - Id: `phase:ag-zn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1234.93 K, x(Zn) 0–0.40408
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-zn:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:ag-zn:fcc-a1  
-_paper: _paper:10.1016/s0364-5916(98)00024-8:α  
+Names (6): _corpus: _corpus:phase:ag-zn:fcc-a1  
 _tdb: _tdb:AgZn-02Fri-LB.tdb:FCC_A1, tdb:AgZn-02Fri-SGSOL.tdb:FCC_A1, tdb:AgZn-98Gom.tdb:FCC_A1, tdb:AgZn-99Lee.tdb:FCC_A1, tdb:AgZn-99Oht.tdb:FCC_A1  
 
 
@@ -256,7 +254,7 @@ _tdb: _tdb:AgZn-02Fri-LB.tdb:FCC_A1, tdb:AgZn-02Fri-SGSOL.tdb:FCC_A1, tdb:AgZn-9
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00024-8](https://doi.org/10.1016/S0364-5916%2898%2900024-8) T. Gomez-Acebo, Calphad, 22, 203-20(1998).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
 
@@ -265,11 +263,10 @@ _assessment that models this phase_
 - Id: `phase:ag-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–711.89 K, x(Zn) 0.9568–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-zn:hcp-a3)
 
-Names (7): _corpus: _corpus:phase:ag-zn:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(98)00024-8:η  
+Names (6): _corpus: _corpus:phase:ag-zn:hcp-a3  
 _tdb: _tdb:AgZn-02Fri-LB.tdb:HCP_A3, tdb:AgZn-02Fri-SGSOL.tdb:HCP_A3, tdb:AgZn-98Gom.tdb:HCP_A3, tdb:AgZn-99Lee.tdb:HCP_A3, tdb:AgZn-99Oht.tdb:HCP_A3  
 
 
@@ -313,7 +310,7 @@ _tdb: _tdb:AgZn-02Fri-LB.tdb:HCP_A3, tdb:AgZn-02Fri-SGSOL.tdb:HCP_A3, tdb:AgZn-9
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/S0364-5916(98)00024-8](https://doi.org/10.1016/S0364-5916%2898%2900024-8) T. Gomez-Acebo, Calphad, 22, 203-20(1998).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.2320/jinstmet1952.63.6_685](https://doi.org/10.2320/jinstmet1952.63.6_685) Hiroshi Ohtani, Masamitsu Miyashita, Kiyohito Ishida, Thermodynamic Study of Phase Equilibria in the Sn-Ag-Zn System, J.Japan Inst.Metals 63, 685-694 (1999).  
 _assessment that models this phase_
 

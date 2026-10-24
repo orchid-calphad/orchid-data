@@ -1,21 +1,20 @@
 # Mg–Pr phases
 
-> Mg–Pr system: 12 phases (tier A 10, tier C 1, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mg–Pr system: 11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MG-PR.html · Markdown: https://data.orchid-project.org/phases/pages/MG-PR.md
 
-12 phases (tier A 10, tier C 1, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 9, tier C 1, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MG-PR) · [full JSON](https://data.orchid-project.org/phases/systems/MG-PR.json) · [Mg–Pr system page](https://data.orchid-project.org/systems/MG-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/MG-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Mg–Pr system (12)
+Table: Phases of the Mg–Pr system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mg-pr-bcc-a2); _phase:mg-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 782.6–2499 K, x(Pr) 0.63957–1 | 19 | 3 |
+| [BCC_A2](#phase-mg-pr-bcc-a2); _phase:mg-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 782.6–2499 K, x(Pr) 0.63957–1 | 18 | 3 |
 | [B2_BCC](#phase-mg-pr-bcc-b2); _phase:mg-pr:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.13 K, x(Pr) 0.45989–1 | 10 | 1 |
-| [DHCP](#phase-mg-pr-dhcp); _phase:mg-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-mg-pr-dhcp-a3); _phase:mg-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Pr) 0.21896–1 | 11 | 3 |
+| [DHCP](#phase-mg-pr-dhcp-a3); _phase:mg-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Pr) 0.21896–1 | 9 | 3 |
 | [FCC_A1](#phase-mg-pr-fcc-a1); _phase:mg-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mg-pr-hcp-a3); _phase:mg-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–932.95 K, x(Pr) 0–0.00237 | 9 | 3 |
 | [LIQUID](#phase-mg-pr-liquid); _phase:mg-pr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 837.03–2500 K, x(Pr) 0–1 | 68 | 3 |
@@ -30,11 +29,11 @@ Table: Phases of the Mg–Pr system (12)
 - Id: `phase:mg-pr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 3 calculated diagram(s): 782.6–2499 K, x(Pr) 0.63957–1
-- Literature: 19 values (19 accepted) from 3 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pr:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:mg-pr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2007.05.007:bcc(Pr), paper:10.1016/j.commatsci.2014.11.050:βPr, paper:10.1016/j.commatsci.2014.11.050:βPra, paper:10.1016/j.jallcom.2005.03.033:bcc(Pr)  
+Names (7): _corpus: _corpus:phase:mg-pr:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2007.05.007:bcc(Pr), paper:10.1016/j.commatsci.2014.11.050:βPr, paper:10.1016/j.jallcom.2005.03.033:bcc(Pr)  
 _tdb: _tdb:MgPr-05Guo.tdb:BCC_A2, tdb:MgPr-08Guo.tdb:BCC_A2, tdb:MgPr-15Wan.tdb:BCC_A2  
 
 
@@ -111,24 +110,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Mg–Pr)
 
-- Id: `phase:mg-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:mg-pr:dhcp  
-
-
-## DHCP (Mg–Pr)
-
 - Id: `phase:mg-pr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Pr) 0.21896–1
-- Literature: 11 values (11 accepted) from 3 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pr:dhcp-a3)
 
-Names (7): _corpus: _corpus:phase:mg-pr:dhcp-a3  
+Names (8): _corpus: _corpus:phase:mg-pr:dhcp-a3, corpus:phase:mg-pr:dhcp  
 _paper: _paper:10.1016/j.calphad.2007.05.007:dhcp(Pr), paper:10.1016/j.commatsci.2014.11.050:αPr, paper:10.1016/j.jallcom.2005.03.033:dhcp(Pr)  
 _tdb: _tdb:MgPr-05Guo.tdb:DHCP, tdb:MgPr-08Guo.tdb:DHCP, tdb:MgPr-15Wan.tdb:DHCP  
 

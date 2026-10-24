@@ -1,10 +1,10 @@
 # Mg–O system
 
-> Mg–O system: 29 accepted literature values (phase equilibrium 26, phase transition 2, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–O system: 36 accepted literature values (phase equilibrium 26, formation 5, heat capacity / entropy / enthalpy 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-O.html · Markdown: https://data.orchid-project.org/systems/MG-O.md
 
-29 accepted literature values from 2 paper(s) (experimental 8, model 17, unspecified 4); 2 calculated phase diagram(s).
+36 accepted literature values from 3 paper(s) (experimental 8, model 21, DFT 3, unspecified 4); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-O.json) · [CSV](https://data.orchid-project.org/systems/MG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-O/MgO-18Lia.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-O.html) · [Markdown](https://data.orchid-project.org/systems/MG-O.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 17 |
+| model | 21 |
+| DFT | 3 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 2 |
 | phase equilibrium | 26 |
-| formation | 1 |
+| formation | 5 |
+| heat capacity / entropy / enthalpy | 3 |
 
 ## Calculated phase diagrams
 
@@ -41,11 +43,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mg–O system (1)
+Table: Enthalpies of formation, Mg–O system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | MgO |  | -602 kJ/(mol 0) | 298.15 | experimental |  |  | [1] Hallstedt 1993; _cites Fikner_ | p. 5 | “However, Fikner \[5J and Otsuka and Kozuka \[6J have found correlations between the enthalpy and entropy of dissolution of 0 into liquid metals and the enthalpy of formation of the oxide at 298 K. Using the expressions provided by Fitzner I5J with the enthalpy of formation of MgO (A?&s = -602 kJ/(mol 0)) gives A"G = -500000 + 90T J/mol for dissolution of 0 in liquid Mg (1 mol-W standard state).” |
+| MgO | [MgO](https://data.orchid-project.org/compounds/MgO.html) | -300.62 kJ/mol-atom |  | model | -294.608 (mp-aaaaabwr) | -284.268 (oqmd-1443261) | [2] Li 2023 | Table 5, p. 6, row 1 |  |
+| MgO |  | -282.82 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 2 |  |
+| MgO |  | -281.86 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 1 |  |
+| MgO |  | -263.71 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 3 |  |
 
 ## Other properties
 
@@ -55,8 +61,8 @@ Table: Phase transition, Mg–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 3249.2 K | 3249.2 | L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) | model | [2] Liang 2018 | p. 11 | “At 3249.2 K the three-phase equilibrium, L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) is calculated in” |
-| Phase transition | 3249.6 K | 3249.6 | congruent transformation | model | [2] Liang 2018 | p. 11 | “This stable range of liquid oxide extends from 49.98 to 50.01 at.% O at 1 bar with a calculated congruent melting point of MgO at 3249.6 K.” |
+| Phase transition | 3249.2 K | 3249.2 | L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) | model | [3] Liang 2018 | p. 11 | “At 3249.2 K the three-phase equilibrium, L (49.98 at.% O) = Gas (8.7 at.% O) + MgO(s) is calculated in” |
+| Phase transition | 3249.6 K | 3249.6 | congruent transformation | model | [3] Liang 2018 | p. 11 | “This stable range of liquid oxide extends from 49.98 to 50.01 at.% O at 1 bar with a calculated congruent melting point of MgO at 3249.6 K.” |
 
 ### Phase equilibrium (26)
 
@@ -76,27 +82,38 @@ Table: Phase equilibrium, Mg–O system
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 1, O 0_ | model | [1] Hallstedt 1993; _cites Otsuka 1981_ | Table 2, p. 6, row 12 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999998, O 2.000e-6_ | unspecified | [1] Hallstedt 1993 | Table 2, p. 6, row 10 |  |
 | Phase composition |  | 1373 | liquid Mg; _liquid Mg: Mg 0.999986, O 1.400e-5_ | model | [1] Hallstedt 1993; _cites Fikner_ | Table 2, p. 6, row 11 |  |
-| Phase composition |  | 2647.5 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 4, p. 8, row 1 |  |
-| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Riley 1966_ | Table 4, p. 8, row 4 |  |
-| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Kanolt 1913_ | Table 4, p. 8, row 2 |  |
-| Phase composition |  | 3096 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Panek 1979_ | Table 4, p. 8, row 5 |  |
-| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites McNally 1961_ | Table 4, p. 8, row 3 |  |
-| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Factsage 2017_ | Table 4, p. 8, row 12 |  |
-| Phase composition |  | 3099 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 4, p. 8, row 8 |  |
-| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites SGTE 2013_ | Table 4, p. 8, row 13 |  |
-| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874914) | Table 4, p. 8, row 9 |  |
-| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Chase 1998_ | Table 4, p. 8, row 11 |  |
-| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018; _cites Kubaschewski 1993_ | Table 4, p. 8, row 10 |  |
-| Phase composition |  | 3215 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Chernyshev 1993_ [doi](https://doi.org/10.1016/0040-6031%2893%2980422-7) | Table 4, p. 8, row 6 |  |
-| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [2] Liang 2018; _cites Ronchi 2001_ [doi](https://doi.org/10.1063/1.1398069) | Table 4, p. 8, row 7 |  |
-| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [2] Liang 2018 | Table 4, p. 8, row 14 |  |
+| Phase composition |  | 2647.5 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 4, p. 8, row 1 |  |
+| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Riley 1966_ | Table 4, p. 8, row 4 |  |
+| Phase composition |  | 3073 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Kanolt 1913_ | Table 4, p. 8, row 2 |  |
+| Phase composition |  | 3096 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Panek 1979_ | Table 4, p. 8, row 5 |  |
+| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites McNally 1961_ | Table 4, p. 8, row 3 |  |
+| Phase composition |  | 3098 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites Factsage 2017_ | Table 4, p. 8, row 12 |  |
+| Phase composition |  | 3099 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites Hlavac 1982_ [doi](https://doi.org/10.1351/pac198254030681) | Table 4, p. 8, row 8 |  |
+| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites SGTE 2013_ | Table 4, p. 8, row 13 |  |
+| Phase composition |  | 3100 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874914) | Table 4, p. 8, row 9 |  |
+| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites Chase 1998_ | Table 4, p. 8, row 11 |  |
+| Phase composition |  | 3105 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018; _cites Kubaschewski 1993_ | Table 4, p. 8, row 10 |  |
+| Phase composition |  | 3215 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Chernyshev 1993_ [doi](https://doi.org/10.1016/0040-6031%2893%2980422-7) | Table 4, p. 8, row 6 |  |
+| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | experimental | [3] Liang 2018; _cites Ronchi 2001_ [doi](https://doi.org/10.1063/1.1398069) | Table 4, p. 8, row 7 |  |
+| Phase composition |  | 3250 | congruent melting: MgO; _liquid: O 0.5; MgO: O 0.5_ | model | [3] Liang 2018 | Table 4, p. 8, row 14 |  |
+
+### Heat capacity / entropy / enthalpy (3)
+
+Table: Heat capacity / entropy / enthalpy, Mg–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Standard entropy_ | 28.1 J/mol (basis unstated)/K |  | MgO; _alloy: Mg 0.5, O 0.5_ | model | [2] Li 2023 | Table 5, p. 6, row 1 |  |
+| Heat capacity; _printed: Heat capacity of the liquid oxide_ | 33.47 J/mol-atom/K |  | liquid oxide; _alloy: Mg 0.5, O 0.5_ | model | [2] Li 2023 | Table 5, p. 6, row 1 |  |
+| Heat capacity; _printed: Heat capacity at 298.15 K_ | 18.65 J/mol-atom/K | 298.15 | MgO; _alloy: Mg 0.5, O 0.5_ | model | [2] Li 2023 | Table 5, p. 6, row 1 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Bengt Hallstedt, The Magnesium — Oxygen system, Calphad 17, 281-286 (1993). [doi:10.1016/0364-5916(93)90006-w](https://doi.org/10.1016/0364-5916%2893%2990006-w)
-2. Song-Mao Liang, Rainer Schmid-Fetzer, Complete thermodynamic description of the Mg-Ca-O phase diagram including the Ca-O, Mg-O and CaO-MgO subsystems, Journal of the European Ceramic Society 38, 4768-4785 (2018). [doi:10.1016/j.jeurceramsoc.2018.06.015](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015)
+2. X.-J. Li, S.-H. Liu, Thermodynamic description of the Mg-O and Al-O systems, J min metall B Metall 59, 395-405 (2023). [doi:10.2298/jmmb230621034l](https://doi.org/10.2298/jmmb230621034l)
+3. Song-Mao Liang, Rainer Schmid-Fetzer, Complete thermodynamic description of the Mg-Ca-O phase diagram including the Ca-O, Mg-O and CaO-MgO subsystems, Journal of the European Ceramic Society 38, 4768-4785 (2018). [doi:10.1016/j.jeurceramsoc.2018.06.015](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015)
 
 ## Please cite
 

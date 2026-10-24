@@ -12,9 +12,9 @@ Table: Phases of the Sc–Y system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-sc-y-bcc-a2); _phase:sc-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1453.08–2499.26 K, x(Y) 0–1 | 18 | 2 |
+| [BCC_A2](#phase-sc-y-bcc-a2); _phase:sc-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1453.08–2499.26 K, x(Y) 0–1 | 12 | 2 |
 | [FCC_A1](#phase-sc-y-fcc-a1); _phase:sc-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [HCP_A3](#phase-sc-y-hcp-a3); _phase:sc-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1784.13 K, x(Y) 0–1 | 9 | 2 |
+| [HCP_A3](#phase-sc-y-hcp-a3); _phase:sc-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1784.13 K, x(Y) 0–1 | 3 | 2 |
 | [LIQUID](#phase-sc-y-liquid); _phase:sc-y:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1641.14–2500 K, x(Y) 0–1 | 9 | 2 |
 
 ## BCC_A2 (Sc–Y)
@@ -22,7 +22,7 @@ Table: Phases of the Sc–Y system (4)
 - Id: `phase:sc-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1453.08–2499.26 K, x(Y) 0–1
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-y:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:sc-y:bcc-a2  
@@ -91,11 +91,11 @@ _assessment that models this phase_
 - Id: `phase:sc-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1784.13 K, x(Y) 0–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-y:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:sc-y:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2008.09.053:(αSc, αY), paper:10.1016/j.jallcom.2008.09.053:αSc, paper:10.1016/j.jallcom.2008.09.053:αY  
+Names (4): _corpus: _corpus:phase:sc-y:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2008.09.053:(αSc, αY)  
 _tdb: _tdb:ScY-00Nor.tdb:HCP_A3, tdb:ScY-09Wan.tdb:HCP_A3  
 
 

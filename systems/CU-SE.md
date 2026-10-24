@@ -1,12 +1,24 @@
 # Cu–Se system
 
-> Cu–Se system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Se system: 16 accepted literature values (crystal structure 16) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SE.html · Markdown: https://data.orchid-project.org/systems/CU-SE.md
 
-0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 16); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SE/CuSe-08Du.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SE.html) · [Markdown](https://data.orchid-project.org/systems/CU-SE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SE.json) · [CSV](https://data.orchid-project.org/systems/CU-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SE/CuSe-08Du.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SE.html) · [Markdown](https://data.orchid-project.org/systems/CU-SE.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 16 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -59,17 +71,60 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-SE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-SE.json) · [CALPHAD hull CuSe-08Du](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-SE--CuSe-08Du.json)
 
+## Other properties
+
+### Crystal structure (16)
+
+Table: Crystal structure, Cu–Se system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.86 Å |  | β-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 14 |  |
+| Lattice a | 3.954 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
+| Lattice a | 6.385 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15 |  |
+| Lattice a | 5.0046 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
+| Lattice a | 14.087 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
+| Lattice a | 14.203 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10 |  |
+| Lattice a | 3.983 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12 |  |
+| Lattice b | 6.856 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
+| Lattice b | 6.856 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
+| Lattice b | 20.481 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
+| Lattice c | 17.238 Å |  | β-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 11 |  |
+| Lattice c | 4.271 Å | 298.15 | Cu3Se2; _alloy: Se 0.4_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 15 |  |
+| Lattice c | 3.7397 Å | 298.15 | CuSe2; _alloy: Se 0.666667_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 16 |  |
+| Lattice c | 4.145 Å | 298.15 | α-Cu2Se; _alloy: Se 0.333333_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 13 |  |
+| Lattice c | 17.255 Å | 298.15 | α-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Stevels 1971_ [doi](https://doi.org/10.1002/recl.19710900307) | Table 1, p. 3, row 10 |  |
+| Lattice c | 17.26 Å | 298.15 | γ-CuSe; _alloy: Se 0.5_ | experimental | [1] Liu 2023; _cites Murray 1975_ [doi](https://doi.org/10.1139/v75-122) | Table 1, p. 3, row 12 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Runlin Liu, Jiong Wang, Dongyu Cui, Thermodynamic Modeling of the Cu-Sb-Se System, J. Phase Equilib. Diffus. 44, 687-703 (2023). [doi:10.1007/s11669-023-01074-8](https://doi.org/10.1007/s11669-023-01074-8)
+
 ## Please cite
 
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
 - R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
   title     = {{ORCHID calculated binary phase diagrams}},

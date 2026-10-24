@@ -1,10 +1,10 @@
 # Ga–U system
 
-> Ga–U system: 50 accepted literature values (invariant reaction 28, phase equilibrium 17, crystal structure 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–U system: 59 accepted literature values (invariant reaction 28, phase equilibrium 17, crystal structure 12, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-U.html · Markdown: https://data.orchid-project.org/systems/GA-U.md
 
-50 accepted literature values from 2 paper(s) (experimental 44, unspecified 6); 2 calculated phase diagram(s).
+59 accepted literature values from 2 paper(s) (experimental 53, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-U.json) · [CSV](https://data.orchid-project.org/systems/GA-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-U/GaU-08Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GA-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-U.html) · [Markdown](https://data.orchid-project.org/systems/GA-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 44 |
+| experimental | 53 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 28 |
 | phase transition | 2 |
 | phase equilibrium | 17 |
-| crystal structure | 3 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -132,15 +132,24 @@ Table: Phase equilibrium, Ga–U system
 | Phase assemblage |  | 1500 | UGa2; _alloy: Ga 0.64, U 0.36_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 13 |  |
 | Phase assemblage |  | 1500 | UGa3; _alloy: Ga 0.7, U 0.3_ | experimental | [2] Moussa 2018 | Table 2, p. 4, row 15 |  |
 
-### Crystal structure (3)
+### Crystal structure (12)
 
 Table: Crystal structure, Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 9.442 not_printed ± 6.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
+| Lattice a | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 9.396 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice a | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
 | Lattice b | 7.6291 not_printed ± 5.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
+| Lattice b | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice b | 7.575 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice b | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
 | Lattice c | 9.4486 not_printed ± 7.000e-4 | 1373 | U3Ga5; _alloy: U 0.375_ | experimental | [2] Moussa 2018 | Table 4, p. 5, row 1 |  |
+| Lattice c | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [2] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
+| Lattice c | 9.387 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [2] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
+| Lattice c | 4.024 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [2] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
 
 ## Sources
 

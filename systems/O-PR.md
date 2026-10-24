@@ -1,10 +1,10 @@
 # O–Pr system
 
-> O–Pr system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pr system: 13 accepted literature values (phase transition 8, crystal structure 3, formation 1, heat capacity / entropy / enthalpy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PR.html · Markdown: https://data.orchid-project.org/systems/O-PR.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 6, model 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PR.json) · [CSV](https://data.orchid-project.org/systems/O-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PR) · [phases (15)](https://data.orchid-project.org/phases/pages/O-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PR.html) · [Markdown](https://data.orchid-project.org/systems/O-PR.md)
 
@@ -12,13 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 6 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 8 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 1 |
+| crystal structure | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PR.json) · [CALPHAD hull PrO-16McM](https://data.orchid-project.org/hulls/calphad-sgte/O/O-PR--PrO-16McM.json)
 
@@ -31,6 +35,41 @@ Table: Enthalpies of formation, O–Pr system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A-Pr2O3 | [Pr2O3](https://data.orchid-project.org/compounds/Pr2O3.html) | -361.98 kJ/mol-atom | 298.15 | model | -360.381 (mp-aaaaaysn) | -345.037 (oqmd-16545) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
+
+## Other properties
+
+### Phase transition (8)
+
+Table: Phase transition, O–Pr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2223 K | 2223 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 25 |  |
+| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 29 |  |
+| Phase transition | 2318 K | 2318 | polymorphic: A ⟺ H; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 27 |  |
+| Phase transition | 2353 K | 2353 | polymorphic: A \<=> H; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 12 |  |
+| Phase transition | 2393 K | 2393 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 28 |  |
+| Phase transition | 2403 K | 2403 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 30 |  |
+| Phase transition | 2423 K | 2423 | polymorphic: H ⟺ X; _alloy: O 0.6, Pr 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 26 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: H \<=> X; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 26 |  |
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, O–Pr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 152.74 unknown | 298.15 | A-Pr2O3; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 25 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, O–Pr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 46.675 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
+| lattice molar volume | 47.545 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
+| lattice molar volume | 52.202 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pr 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 5 |  |
 
 ## Sources
 

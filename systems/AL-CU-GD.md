@@ -1,10 +1,10 @@
 # Al–Cu–Gd system
 
-> Al–Cu–Gd system: 51 accepted literature values (crystal structure 51) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cu–Gd system: 50 accepted literature values (crystal structure 50) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CU-GD.html · Markdown: https://data.orchid-project.org/systems/AL-CU-GD.md
 
-51 accepted literature values from 1 paper(s) (unspecified 51); 0 calculated phase diagram(s).
+50 accepted literature values from 1 paper(s) (unspecified 50); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CU-GD.json) · [CSV](https://data.orchid-project.org/systems/AL-CU-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CU-GD) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CU-GD.html) · [Markdown](https://data.orchid-project.org/systems/AL-CU-GD.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 51 |
+| unspecified | 50 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 51 |
+| crystal structure | 50 |
 
 ## Other properties
 
-### Crystal structure (51)
+### Crystal structure (50)
 
 Table: Crystal structure, Al–Cu–Gd system
 
@@ -40,7 +40,6 @@ Table: Crystal structure, Al–Cu–Gd system
 | Lattice a | 10.269 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 21 |  |
 | Lattice a | 6.742 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 12 |  |
 | Lattice a | 14.303 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 22 |  |
-| Lattice a | 3.501 Å | 298.15 | UNKNOWN; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19 |  |
 | Lattice a | 8.7023 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 5 |  |
 | Lattice a | 4.32 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 18 |  |
 | Lattice a | 4.2398 Å | 298.15 | UNKNOWN | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 24 |  |

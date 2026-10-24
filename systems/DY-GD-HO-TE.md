@@ -1,10 +1,10 @@
 # Dy–Gd–Ho–Te system
 
-> Dy–Gd–Ho–Te system: 82 accepted literature values (crystal structure 46, invariant reaction 36) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Gd–Ho–Te system: 33 accepted literature values (invariant reaction 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-GD-HO-TE.html · Markdown: https://data.orchid-project.org/systems/DY-GD-HO-TE.md
 
-82 accepted literature values from 1 paper(s) (experimental 57, model 16, DFT 2, unspecified 7); 0 calculated phase diagram(s).
+33 accepted literature values from 1 paper(s) (experimental 19, model 14); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-GD-HO-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-GD-HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-GD-HO-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-GD-HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-GD-HO-TE.md)
 
@@ -12,21 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 57 |
-| model | 16 |
-| DFT | 2 |
-| unspecified | 7 |
+| experimental | 19 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 36 |
-| crystal structure | 46 |
+| invariant reaction | 33 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Dy–Gd–Ho–Te system (36)
+Table: Invariant reactions reported in the literature for the Dy–Gd–Ho–Te system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -45,8 +42,6 @@ Table: Invariant reactions reported in the literature for the Dy–Gd–Ho–Te 
 | 1387 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.204; HoTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 37 |  |
 | 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.5 | experimental | [1] Cui 2023; _cites Ghamri 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.11.084) | Table 3, p. 7, row 36 |  |
 | 1383 | Liquid -> hcp(Ho) + HoTe | Liquid: Te 0.23; HoTe: Te 0.485 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 35 |  |
-| 1343 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 3, p. 7, row 21 |  |
-| 1342 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 22 |  |
 | 1273 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.9; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 9 |  |
 | 1272 | Liquid + Gd4Te7 -> GdTe2 | Liquid: Te 0.897; Gd4Te7: Te 0.636; GdTe2: Te 0.667 | model | [1] Cui 2023 | Table 3, p. 7, row 10 |  |
 | 1193 | Liquid + GdTe2 -> Gd2Te5 | Liquid: Te 0.91; GdTe2: Te 0.667; Gd2Te5: Te 0.714 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 11 |  |
@@ -64,63 +59,7 @@ Table: Invariant reactions reported in the literature for the Dy–Gd–Ho–Te 
 | 1053 | Liquid + Ho2Te5 -> HoTe3 | Ho2Te5: Te 0.714; HoTe3: Te 0.75 | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 3, p. 7, row 44 |  |
 | 728 | Liquid -> Dy4Te11 + hex(Te) | Dy4Te11: Te 0.733; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 3, p. 7, row 33 |  |
 | 723 | Liquid -> GdTe3 + hex(Te) | GdTe3: Te 0.75; hex(Te): Te 1 | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | Table 3, p. 7, row 15 |  |
-| 723 | Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34 |  |
 | 719 | Liquid -> GdTe3 + hex(Te) | Liquid: Te 0.99; GdTe3: Te 0.75; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 16 |  |
-
-## Other properties
-
-### Crystal structure (46)
-
-Table: Crystal structure, Dy–Gd–Ho–Te system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 21.922 Å | 298.15 | Dy2Te; _alloy: Gd 0, Ho 0, Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 12.2 Å | 298.15 | Dy2Te3; _alloy: Gd 0, Ho 0, Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 4.298 Å | 298.15 | Dy4Te11; _alloy: Gd 0, Ho 0, Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice a | 4.274 Å | 298.15 | Dy4Te7; _alloy: Gd 0, Ho 0, Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
-| Lattice a | 4.304 Å | 298.15 | Dy4Te9; _alloy: Gd 0, Ho 0, Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
-| Lattice a | 6.077 Å | 298.15 | DyTe; _alloy: Gd 0, Ho 0, Te 0.5_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 12.01 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Ho 0, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Ho 0, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 6.12 Å | 298.15 | Gd4Te7; _alloy: Gd 0.363636, Ho 0, Te 0.636364_ | unspecified | [1] Cui 2023; _cites Gd-Te 2012_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe; _alloy: Gd 0.5, Ho 0, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Ho 0, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
-| Lattice a | 4.32 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Ho 0, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 4.41 Å | 298.15 | Ho2Te5; _alloy: Gd 0, Ho 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice a | 6.07 Å | 298.15 | HoTe; _alloy: Gd 0, Ho 0.5, Te 0.5_ | experimental | [1] Cui 2023; _cites Brixner 1960_ [doi](https://doi.org/10.1016/0022-1902%2860%2980038-3) | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.29 Å | 298.15 | HoTe3; _alloy: Gd 0, Ho 0.25, Te 0.75_ | unspecified | [1] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice a | 35.93 Å | 298.15 | bcc(Dy); _alloy: Gd 0, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.05 Å | 298.15 | bcc(Gd); _alloy: Gd 1, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Miller 1964_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.98 Å | 298.15 | hcp(Dy); _alloy: Gd 0, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Dvorina 1967_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.36 Å | 298.15 | hcp(Gd); _alloy: Gd 1, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.58 Å | 298.15 | hcp(Ho); _alloy: Gd 0, Ho 1, Te 0_ | experimental | [1] Cui 2023; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 5 |  |
-| Lattice a | 4.45 Å | 298.15 | hex(Te); _alloy: Gd 0, Ho 0, Te 1_ | experimental | [1] Cui 2023; _cites Cherin 1967_ [doi](https://doi.org/10.1107/s0365110x6700341x) | Table 1, p. 2, row 6 |  |
-| Lattice b | 4.65 Å | 298.15 | Dy2Te; _alloy: Gd 0, Ho 0, Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice b | 8.645 Å | 298.15 | Dy2Te3; _alloy: Gd 0, Ho 0, Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 4.298 Å | 298.15 | Dy4Te11; _alloy: Gd 0, Ho 0, Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice b | 4.301 Å | 298.15 | Dy4Te9; _alloy: Gd 0, Ho 0, Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
-| Lattice b | 4.301 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Ho 0, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice b | 43.6 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Ho 0, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 25.28 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Ho 0, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _alloy: Gd 0, Ho 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice b | 25.4 Å | 298.15 | HoTe3; _alloy: Gd 0, Ho 0.25, Te 0.75_ | unspecified | [1] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice c | 11.428 Å | 298.15 | Dy2Te; _alloy: Gd 0, Ho 0, Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 25.85 Å | 298.15 | Dy2Te3; _alloy: Gd 0, Ho 0, Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 25.42 Å | 298.15 | Dy4Te11; _alloy: Gd 0, Ho 0, Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
-| Lattice c | 8.917 Å | 298.15 | Dy4Te7; _alloy: Gd 0, Ho 0, Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
-| Lattice c | 43.2 Å | 298.15 | Dy4Te9; _alloy: Gd 0, Ho 0, Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
-| Lattice c | 11.82 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Ho 0, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
-| Lattice c | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Ho 0, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.9 Å | 298.15 | GdTe; _alloy: Gd 0.5, Ho 0, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 8.95 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Ho 0, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
-| Lattice c | 4.33 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Ho 0, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 4.41 Å | 298.15 | Ho2Te5; _alloy: Gd 0, Ho 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
-| Lattice c | 4.29 Å | 298.15 | HoTe3; _alloy: Gd 0, Ho 0.25, Te 0.75_ | unspecified | [1] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
-| Lattice c | 56.537 Å | 298.15 | bcc(Dy); _alloy: Gd 0, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Harris 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990154-4) | Table 1, p. 2, row 4 |  |
-| Lattice c | 5.78 Å | 298.15 | hcp(Gd); _alloy: Gd 1, Ho 0, Te 0_ | experimental | [1] Cui 2023; _cites Wakabayashi 1968_ [doi](https://doi.org/10.1143/jpsj.25.227) | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.62 Å | 298.15 | hcp(Ho); _alloy: Gd 0, Ho 1, Te 0_ | experimental | [1] Cui 2023; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 1, p. 2, row 5 |  |
-| Lattice c | 5.93 Å | 298.15 | hex(Te); _alloy: Gd 0, Ho 0, Te 1_ | experimental | [1] Cui 2023; _cites Cherin 1967_ [doi](https://doi.org/10.1107/s0365110x6700341x) | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

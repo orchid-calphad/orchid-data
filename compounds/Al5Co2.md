@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al5Co2.html · Markdown: https:/
 
 7 accepted literature formation-enthalpy value(s) (DFT 7).
 
-Systems: [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) · [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html)
+Systems: [Al–Co](https://data.orchid-project.org/systems/AL-CO.html)
 
 ## Literature values
 
@@ -17,9 +17,9 @@ Table: Enthalpy of formation of Al5Co2 reported in the literature (7)
 | -48.65 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 11 |  |
 | -44.98 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 9 |  |
 | -44.59 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 12 |  |
-| -44.57 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7 |  |
-| -44.38 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5 |  |
-| -44.28 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6 |  |
+| -44.57 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7 |  |
+| -44.38 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5 |  |
+| -44.28 kJ/mol-atom | Al5Co2 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6 |  |
 | -44.21 kJ/mol-atom | Co2Al5 |  | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 8 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Al5Co2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48.65 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.98 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.59 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.57 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.38 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.28 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -44.21 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -48.65 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.98 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.59 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.57 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.38 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.28 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -44.21 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

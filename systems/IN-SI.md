@@ -1,10 +1,10 @@
 # In–Si system
 
-> In–Si system: 20 accepted literature values (phase equilibrium 14, crystal structure 3, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Si system: 17 accepted literature values (phase equilibrium 14, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SI.html · Markdown: https://data.orchid-project.org/systems/IN-SI.md
 
-20 accepted literature values from 1 paper(s) (experimental 14, model 3, unspecified 3); 1 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (experimental 14, model 3); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SI.json) · [CSV](https://data.orchid-project.org/systems/IN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SI/InSi-85Ole-LB.json) · [phases (3)](https://data.orchid-project.org/phases/pages/IN-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SI.html) · [Markdown](https://data.orchid-project.org/systems/IN-SI.md)
 
@@ -14,7 +14,6 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 14 |
 | model | 3 |
-| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -22,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 3 |
 | phase equilibrium | 14 |
-| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -74,16 +72,6 @@ Table: Phase equilibrium, In–Si system
 | Phase composition |  | 1593.15 | Liquid + L; _Liquid: In 0.42, Si 0.58; L: In 0.42, Si 0.58_ | experimental | [1] Olesinski 1985; _cites Klemm 1953_ | Table 2, p. 2, row 3 |  |
 | Phase composition |  | 1608.15 | Liquid + L; _Liquid: In 0.29, Si 0.71; L: In 0.29, Si 0.71_ | experimental | [1] Olesinski 1985; _cites Klemm 1953_ | Table 2, p. 2, row 2 |  |
 | Phase composition |  | 1613.15 | Liquid + L; _Liquid: In 0.12, Si 0.88; L: In 0.12, Si 0.88_ | experimental | [1] Olesinski 1985; _cites Klemm 1953_ | Table 2, p. 2, row 1 |  |
-
-### Crystal structure (3)
-
-Table: Crystal structure, In–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.599 Å | 298.15 | (In); _(In): In 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): In 0, Si 1_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.947 Å | 298.15 | (In); _(In): In 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

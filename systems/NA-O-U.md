@@ -57,22 +57,22 @@ Table: Enthalpies of formation, Na–O–U system (18)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Na4UO5 |  | -245.7 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2017 | Table 8, p. 12, row 8 |  |
-| Na4UO5 |  | -245.7 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
+| Na4UO5 |  | -245.7 kJ/mol-atom ± 0.22 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
 | Na4UO5 |  | -238.83 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 7 |  |
 | NaUO3 |  | -298.98 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2017 | Table 8, p. 12, row 15 |  |
-| NaUO3 |  | -298.98 kJ/mol-atom ± 10 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
+| NaUO3 |  | -298.98 kJ/mol-atom ± 2 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
 | NaUO3 |  | -298.92 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 14 |  |
 | α-Na2U2O7 |  | -291.255 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
-| α-Na2U2O7 |  | -291.255 kJ/mol-atom ± 4 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
+| α-Na2U2O7 |  | -291.255 kJ/mol-atom ± 0.363636 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
 | α-Na2U2O7 |  | -284.591 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
 | α-Na2UO4 |  | -271.6 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
-| α-Na2UO4 |  | -271.1 kJ/mol-atom ± 3.5 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
+| α-Na2UO4 |  | -271.1 kJ/mol-atom ± 0.5 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
 | α-Na2UO4 |  | -265.443 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
-| α-Na3UO4 |  | -253 kJ/mol-atom ± 8 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
+| α-Na3UO4 |  | -253 kJ/mol-atom ± 1 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
 | α-Na3UO4 |  | -253 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2017 | Table 8, p. 12, row 18 |  |
 | α-Na3UO4 |  | -251.838 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 17 |  |
 | β-Na2U2O7 |  | -284.618 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 12 |  |
-| β-Na2UO4 |  | -269.229 kJ/mol-atom ± 3.6 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4 |  |
+| β-Na2UO4 |  | -269.229 kJ/mol-atom ± 0.514286 | 298.15 | experimental |  |  | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4 |  |
 | β-Na2UO4 |  | -264.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Smith 2017 | Table 8, p. 12, row 5 |  |
 
 ## Other properties
@@ -85,17 +85,17 @@ Table: Formation, Na–O–U system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -223.47 kJ/mol-atom | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 7 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -230.17 kJ/mol-atom | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | model | [1] Smith 2017 | Table 8, p. 12, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -230.17 kJ/mol-atom ± 2.9 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
+| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -230.17 kJ/mol-atom ± 0.29 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -282.54 kJ/mol-atom | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 14 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -282.16 kJ/mol-atom | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | model | [1] Smith 2017 | Table 8, p. 12, row 15 |  |
-| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -282.5 kJ/mol-atom ± 10 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
+| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -282.5 kJ/mol-atom ± 2 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -273.773 kJ/mol-atom | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | model | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
-| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -273.773 kJ/mol-atom ± 4 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
+| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -273.773 kJ/mol-atom ± 0.363636 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -284.591 kJ/mol-atom | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -254.857 kJ/mol-atom | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | model | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -254.186 kJ/mol-atom ± 3.5 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
+| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -254.186 kJ/mol-atom ± 0.5 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -249.643 kJ/mol-atom | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -237.488 kJ/mol-atom ± 8 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
+| Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -237.488 kJ/mol-atom ± 1 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -237.488 kJ/mol-atom | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | model | [1] Smith 2017 | Table 8, p. 12, row 18 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -236.65 kJ/mol-atom | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 17 |  |
 | Gibbs energy of formation; _printed: ΔfG°m(298.15 K)_ | -268.1 kJ/mol-atom | 298.15 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 12 |  |
@@ -109,34 +109,34 @@ Table: Heat capacity / entropy / enthalpy, Na–O–U system
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S°m(298.15 K)_ | 25.24 J/mol-atom/K | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 7 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 24.75 J/mol-atom/K | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | model | [1] Smith 2017 | Table 8, p. 12, row 8 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 24.75 J/mol-atom/K ± 6.2 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
+| Entropy; _printed: S°m(298.15 K)_ | 24.75 J/mol-atom/K ± 0.62 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 26.86 J/mol-atom/K | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 14 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 25.4 J/mol-atom/K | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | model | [1] Smith 2017 | Table 8, p. 12, row 15 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 26.56 J/mol-atom/K ± 0.4 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
+| Entropy; _printed: S°m(298.15 K)_ | 26.56 J/mol-atom/K ± 0.08 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 25.0818 J/mol-atom/K | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | model | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 25.0818 J/mol-atom/K ± 1 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
+| Entropy; _printed: S°m(298.15 K)_ | 25.0818 J/mol-atom/K ± 0.0909091 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 30.1182 J/mol-atom/K | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 24.2857 J/mol-atom/K | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | model | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 23.7143 J/mol-atom/K ± 0.5 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
+| Entropy; _printed: S°m(298.15 K)_ | 23.7143 J/mol-atom/K ± 0.0714286 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 27.3571 J/mol-atom/K | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
-| Entropy; _printed: S°m(298.15 K)_ | 24.775 J/mol-atom/K ± 0.4 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
+| Entropy; _printed: S°m(298.15 K)_ | 24.775 J/mol-atom/K ± 0.05 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 24.775 J/mol-atom/K | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | model | [1] Smith 2017 | Table 8, p. 12, row 18 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 25.7875 J/mol-atom/K | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 17 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 28.2818 J/mol-atom/K | 298.15 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 12 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 25.9714 J/mol-atom/K | 298.15 | β-Na2UO4; _alloy: O 0.571429, U 0.142857_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 5 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.69 J/mol-atom/K | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 7 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 22.04 J/mol-atom/K | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | model | [1] Smith 2017 | Table 8, p. 12, row 8 |  |
-| Heat capacity; _printed: C°p,m(298.15 K)_ | 22.06 J/mol-atom/K ± 6.7 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
+| Heat capacity; _printed: C°p,m(298.15 K)_ | 22.06 J/mol-atom/K ± 0.67 | 298.15 | Na4UO5; _alloy: O 0.5, U 0.1_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 6 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.96 J/mol-atom/K | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 14 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.82 J/mol-atom/K | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | model | [1] Smith 2017 | Table 8, p. 12, row 15 |  |
-| Heat capacity; _printed: C°p,m(298.15 K)_ | 21.774 J/mol-atom/K ± 0.4 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
+| Heat capacity; _printed: C°p,m(298.15 K)_ | 21.774 J/mol-atom/K ± 0.08 | 298.15 | NaUO3; _alloy: O 0.6, U 0.2_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 20.7364 J/mol-atom/K | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | model | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
-| Heat capacity; _printed: C°p,m(298.15 K)_ | 20.6636 J/mol-atom/K ± 1 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
+| Heat capacity; _printed: C°p,m(298.15 K)_ | 20.6636 J/mol-atom/K ± 0.0909091 | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 20.8636 J/mol-atom/K | 298.15 | α-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.0143 J/mol-atom/K | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | model | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
-| Heat capacity; _printed: C°p,m(298.15 K)_ | 20.9571 J/mol-atom/K ± 0.5 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
+| Heat capacity; _printed: C°p,m(298.15 K)_ | 20.9571 J/mol-atom/K ± 0.0714286 | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.4571 J/mol-atom/K | 298.15 | α-Na2UO4; _alloy: O 0.571429, U 0.142857_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
-| Heat capacity; _printed: C°p,m(298.15 K)_ | 21.625 J/mol-atom/K ± 0.4 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
+| Heat capacity; _printed: C°p,m(298.15 K)_ | 21.625 J/mol-atom/K ± 0.05 | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | experimental | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 16 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.6 J/mol-atom/K | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | model | [1] Smith 2017 | Table 8, p. 12, row 18 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 21.9625 J/mol-atom/K | 298.15 | α-Na3UO4; _alloy: O 0.5, U 0.125_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 17 |  |
 | Heat capacity; _printed: C°p,m(298.15 K)_ | 20.9636 J/mol-atom/K | 298.15 | β-Na2U2O7; _alloy: O 0.636364, U 0.181818_ | DFT | [1] Smith 2017 | Table 8, p. 12, row 12 |  |

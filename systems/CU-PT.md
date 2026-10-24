@@ -50,9 +50,9 @@ Table: Enthalpies of formation, Cu–Pt system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -13 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1 |  |
-| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -11 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
-| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -9.6 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006 | Table 2, p. 7, row 7 |  |
+| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -13 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006; _cites Johannesson 2002_ [doi](https://doi.org/10.1103/physrevlett.88.255506) | Table 2, p. 7, row 1 |  |
+| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -11 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
+| L10-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -9.6 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | 3.241 (oqmd-339324) | [1] Abe 2006 | Table 2, p. 7, row 7 |  |
 | L10-CuPt |  | -9.5 kJ/mol-atom |  | DFT |  |  | [1] Abe 2006; _cites Lu 1991_ [doi](https://doi.org/10.1103/physrevb.44.512) | Table 2, p. 7, row 2 |  |
 | L11-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -20 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006; _cites Takizawa 1989_ [doi](https://doi.org/10.1103/physrevb.39.5792) | Table 2, p. 7, row 3 |  |
 | L11-CuPt | [CuPt](https://data.orchid-project.org/compounds/CuPt.html) | -18 kJ/mol-atom |  | model | -15.37 (mp-aaabkrdf) | -16.326 (oqmd-18532) | [1] Abe 2006; _cites FR 1988_ | Table 2, p. 7, row 4 |  |

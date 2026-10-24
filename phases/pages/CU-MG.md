@@ -16,8 +16,8 @@ Table: Phases of the Cu–Mg system (7)
 | [C15_LAVES](#phase-cu-mg-c15-laves); _phase:cu-mg:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1073.8 K, x(Mg) 0.3122–0.36157 | 23 | 5 |
 | [CU2MG_C15](#phase-cu-mg-cu2mg-c15); _phase:cu-mg:cu2mg-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1063.69 K, x(Mg) 0.33333–0.33333 | 0 | 1 |
 | [CUMG2_CB](#phase-cu-mg-cumg2-cb); _phase:cu-mg:cumg2-cb_ | CuMg2 · C_b · oF48 · Fddd (70) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–840.92 K, x(Mg) 0.66648–0.66737 | 22 | 6 |
-| [FCC_A1](#phase-cu-mg-fcc-a1); _phase:cu-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1363.35 K, x(Mg) 0–0.07837 | 8 | 6 |
-| [HCP_A3](#phase-cu-mg-hcp-a3); _phase:cu-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.71 K, x(Mg) 0.99779–1 | 8 | 6 |
+| [FCC_A1](#phase-cu-mg-fcc-a1); _phase:cu-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1363.35 K, x(Mg) 0–0.07837 | 7 | 6 |
+| [HCP_A3](#phase-cu-mg-hcp-a3); _phase:cu-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.71 K, x(Mg) 0.99779–1 | 7 | 6 |
 | [LIQUID](#phase-cu-mg-liquid); _phase:cu-mg:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 755.21–2500 K, x(Mg) 0–1 | 41 | 6 |
 
 ## BCC_A2 (Cu–Mg)
@@ -265,11 +265,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-mg:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1363.35 K, x(Mg) 0–0.07837
-- Literature: 8 values (7 accepted) from 1 papers
+- Literature: 7 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mg:fcc-a1)
 
-Names (9): _corpus: _corpus:phase:cu-mg:fcc-a1  
-_paper: _paper:10.1007/s11669-007-9022-0:Cu-fcc, paper:10.1007/s11669-007-9022-0:fcc  
+Names (8): _corpus: _corpus:phase:cu-mg:fcc-a1  
+_paper: _paper:10.1007/s11669-007-9022-0:fcc  
 _tdb: _tdb:CuMg-07Zho.tdb:FCC_A1, tdb:CuMg-16Hal.tdb:FCC_A1, tdb:CuMg-91Cou-alt.tdb:FCC_A1, tdb:CuMg-91Cou.tdb:FCC_A1, tdb:CuMg-93Zuo.tdb:FCC_A1, tdb:CuMg-98Lia-LB.tdb:FCC_A1  
 
 
@@ -337,11 +337,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-mg:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2499.71 K, x(Mg) 0.99779–1
-- Literature: 8 values (7 accepted) from 1 papers
+- Literature: 7 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mg:hcp-a3)
 
-Names (9): _corpus: _corpus:phase:cu-mg:hcp-a3  
-_paper: _paper:10.1007/s11669-007-9022-0:Mg-hcp, paper:10.1007/s11669-007-9022-0:hcp  
+Names (8): _corpus: _corpus:phase:cu-mg:hcp-a3  
+_paper: _paper:10.1007/s11669-007-9022-0:hcp  
 _tdb: _tdb:CuMg-07Zho.tdb:HCP_A3, tdb:CuMg-16Hal.tdb:HCP_A3, tdb:CuMg-91Cou-alt.tdb:HCP_A3, tdb:CuMg-91Cou.tdb:HCP_A3, tdb:CuMg-93Zuo.tdb:HCP_A3, tdb:CuMg-98Lia-LB.tdb:HCP_A3  
 
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ba8Ge43.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -20.97 kJ/mol-atom (mp-aaacqgxf).
 
-Systems: [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ba8Ge43 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.198 kJ/mol-atom | Ba8Ge43 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
+| -21.198 kJ/mol-atom | Ba8Ge43 |  | model | CALPHAD | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ba8Ge43
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.198 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21.198 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,7 +34,7 @@ Table: DFT formation energy of Ba8Ge43
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacqgxf | -20.97 | -0.217338 | Ia-3d | 3.106 | 0.0322 | no |
+| Materials Project | mp-aaacqgxf | -20.97 | -0.217338 | Ia-3d | 3.1063 | 0.0322 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

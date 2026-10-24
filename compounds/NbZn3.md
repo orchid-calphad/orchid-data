@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/NbZn3.html · Markdown: https://data.orchid-project.org/compounds/NbZn3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
 
 Systems: [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html)
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of NbZn3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.192 kJ/mol (basis unstated) | NbZn3 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 | -13.57 kJ/mol (basis unstated) | NbZn3 | 0 | model |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 3 |  |
+| -15.192 kJ/mol (basis unstated) | NbZn3 | 0 | DFT |  | [Nb–Zn](https://data.orchid-project.org/systems/NB-ZN.html) | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NbZn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.192 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.57 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -13.57 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -15.192 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
 
 ## Sources
 

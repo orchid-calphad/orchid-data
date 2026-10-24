@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al4Li9.html · Markdown: https:/
 
 5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 2); experimental median -15.1 kJ/mol-atom (n = 1); Materials Project -13.974 kJ/mol-atom (mp-aaabgivs); OQMD -15.411 kJ/mol-atom (oqmd-654950).
 
-Systems: [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html)
+Systems: [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Al4Li9 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.1 kJ/mol-atom | Al4Li9 | 298.15 | experimental |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 152 |  |
-| -15.1 kJ/mol-atom | Al4Li9 |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 4, p. 7, row 149 |  |
-| -14.9 kJ/mol-atom | Al4Li9 |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 153 |  |
-| -16.8 kJ/mol-atom | Al4Li9 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 151 |  |
-| -14.9 kJ/mol-atom | Al4Li9 |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 150 |  |
+| -15.1 kJ/mol-atom | Al4Li9 | 298.15 | experimental |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 152 |  |
+| -15.1 kJ/mol-atom | Al4Li9 |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 149 |  |
+| -14.9 kJ/mol-atom | Al4Li9 |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 153 |  |
+| -16.8 kJ/mol-atom | Al4Li9 |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 151 |  |
+| -14.9 kJ/mol-atom | Al4Li9 |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 150 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Al4Li9
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -15.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -14.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -14.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -15.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -15.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -14.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.8 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -14.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -42,7 +42,7 @@ Table: DFT formation energy of Al4Li9
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabgivs | -13.974 | -0.144831 | C2/m | 0.536 | 0.0056 | no |
+| Materials Project | mp-aaabgivs | -13.974 | -0.144831 | C2/m | 0.5358 | 0.0056 | no |
 | OQMD | oqmd-654950 | -15.411 | -0.159723 | C2/m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

@@ -12,7 +12,7 @@ Table: Phases of the H–Mn system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-h-mn-bcc-a2); _phase:h-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1410.37–2334 K, x(H) 0–0.00203 | 6 | 2 |
+| [BCC_A2](#phase-h-mn-bcc-a2); _phase:h-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1410.37–2334 K, x(H) 0–0.00203 | 4 | 2 |
 | [CBCC_A12](#phase-h-mn-cbcc-a12); _phase:h-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(H) 0–0.00076 | 2 | 2 |
 | [CUB_A13](#phase-h-mn-cub-a13); _phase:h-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 977.19–1359.99 K, x(H) 0–0.00164 | 4 | 2 |
 | [FCC_A1](#phase-h-mn-fcc-a1); _phase:h-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1358.05–1415.18 K, x(H) 0–0.002 | 4 | 2 |
@@ -26,11 +26,11 @@ Table: Phases of the H–Mn system (8)
 - Id: `phase:h-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1410.37–2334 K, x(H) 0–0.00203
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-mn:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:h-mn:bcc-a2  
-_paper: _paper:10.1007/s11669-018-0622-7:(δMn), paper:10.1007/s11669-018-0622-7:ε  
+Names (4): _corpus: _corpus:phase:h-mn:bcc-a2  
+_paper: _paper:10.1007/s11669-018-0622-7:(δMn)  
 _tdb: _tdb:MnH-11Lob.tdb:BCC_A2, tdb:MnH-18Lia.tdb:BCC_A2  
 
 

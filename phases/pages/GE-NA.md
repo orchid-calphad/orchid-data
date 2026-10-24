@@ -15,8 +15,8 @@ Table: Phases of the Ge–Na system (8)
 | [DIAMOND_A4](#phase-ge-na-a4-diamond); _phase:ge-na:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1216.5 K, x(Na) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-ge-na-bcc-a2); _phase:ge-na:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–370.83 K, x(Na) 1–1 | 0 | 1 |
 | [FCC_A1](#phase-ge-na-fcc-a1); _phase:ge-na:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GE4NA](#phase-ge-na-ge4na); _phase:ge-na:ge4na_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1430.13 K, x(Na) 0.2–0.2 | 0 | 1 |
-| [GENA](#phase-ge-na-gena); _phase:ge-na:gena_ | GeNa · mP32 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1426.36 K, x(Na) 0.5–0.5 | 0 | 1 |
+| [GE4NA](#phase-ge-na-ge4na); _phase:ge-na:ge4na_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1430.13 K, x(Na) 0.2–0.2 | 1 | 1 |
+| [GENA](#phase-ge-na-gena); _phase:ge-na:gena_ | GeNa · mP32 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1426.36 K, x(Na) 0.5–0.5 | 7 | 1 |
 | [GENA3](#phase-ge-na-gena3); _phase:ge-na:gena3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1104.2 K, x(Na) 0.75–0.75 | 0 | 1 |
 | [HCP_A3](#phase-ge-na-hcp-a3); _phase:ge-na:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ge-na-liquid); _phase:ge-na:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 370.83–2500 K, x(Na) 0–1 | 0 | 1 |
@@ -107,10 +107,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (Ge4Na) — Hallstedt 2025 mmc2 row for GE4NA: Ge4Na
 - Stoichiometry: Ge 0.8000, Na 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1430.13 K, x(Na) 0.2–0.2
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-na:ge4na)
 
-Names (2): _corpus: _corpus:phase:ge-na:ge4na  
+Names (3): _corpus: _corpus:phase:ge-na:ge4na  
+_paper: _paper:10.1016/j.calphad.2012.01.004:Ge4Na  
 _tdb: _tdb:GeNa-12Wan.tdb:GE4NA  
 
 
@@ -126,7 +127,7 @@ _tdb: _tdb:GeNa-12Wan.tdb:GE4NA
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.01.004](https://doi.org/10.1016/j.calphad.2012.01.004) Yaru Wang, Peisheng Wang, Dongdong Zhao, Biao Hu, Yong Du, Honghui Xu et al., Thermodynamic description of the Ge–Na and Ge–K systems using the CALPHAD approach supported by first-principles calculations, Calphad 37, 72-76 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GENA (Ge–Na)
 
@@ -136,10 +137,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_14_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.5000, Na 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1426.36 K, x(Na) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-na:gena)
 
-Names (2): _corpus: _corpus:phase:ge-na:gena  
+Names (3): _corpus: _corpus:phase:ge-na:gena  
+_paper: _paper:10.1016/j.calphad.2012.01.004:GeNa  
 _tdb: _tdb:GeNa-12Wan.tdb:GENA  
 
 
@@ -155,7 +157,7 @@ _tdb: _tdb:GeNa-12Wan.tdb:GENA
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.01.004](https://doi.org/10.1016/j.calphad.2012.01.004) Yaru Wang, Peisheng Wang, Dongdong Zhao, Biao Hu, Yong Du, Honghui Xu et al., Thermodynamic description of the Ge–Na and Ge–K systems using the CALPHAD approach supported by first-principles calculations, Calphad 37, 72-76 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GENA3 (Ge–Na)
 

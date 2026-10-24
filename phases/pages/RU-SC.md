@@ -12,7 +12,7 @@ Table: Phases of the Ru–Sc system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-ru-sc-bcc-a2); _phase:ru-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1320–1818.12 K, x(Sc) 0.93048–1 | 4 | 2 |
+| [BCC_A2](#phase-ru-sc-bcc-a2); _phase:ru-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1320–1818.12 K, x(Sc) 0.93048–1 | 4 | 2 |
 | [B2_BCC](#phase-ru-sc-bcc-b2); _phase:ru-sc:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2032.47 K, x(Sc) 0.49387–1 | 6 | 1 |
 | [FCC_A1](#phase-ru-sc-fcc-a1); _phase:ru-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-ru-sc-hcp-a3); _phase:ru-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2625.97 K, x(Sc) 0–1 | 6 | 1 |
@@ -24,11 +24,11 @@ Table: Phases of the Ru–Sc system (11)
 | [RU7SC44](#phase-ru-sc-ru7sc44); _phase:ru-sc:ru7sc44_ | Mg44Rh7 · cF408 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1222.99 K, x(Sc) 0.86275–0.86275 | 2 | 1 |
 | [RUSC2](#phase-ru-sc-rusc2); _phase:ru-sc:rusc2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1403.04 K, x(Sc) 0.66667–0.66667 | 4 | 1 |
 
-## A2_BCC (Ru–Sc)
+## BCC_A2 (Ru–Sc)
 
 - Id: `phase:ru-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1320–1818.12 K, x(Sc) 0.93048–1
+- Stability: stable in 1 of 1 calculated diagram(s): 1320–1818.12 K, x(Sc) 0.93048–1
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-sc:bcc-a2)
 
@@ -37,7 +37,7 @@ _paper: _paper:10.1016/j.jallcom.2006.03.029:bcc(Sc)
 _tdb: _tdb:RuSc-07Du.tdb:A2_BCC, tdb:RuSc-07Du.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [RuSc-07Du.tdb](https://orchid-project.org/data/databases/sgte-binary/RuSc-07Du.tdb): A2_BCC, type code %B, sha256 `69e3b912bc65c049…`
 

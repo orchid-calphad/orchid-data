@@ -16,9 +16,9 @@ Table: Phases of the Cr–Ga system (10)
 | [BCC_A2](#phase-cr-ga-bcc-a2); _phase:cr-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2192.58 K, x(Ga) 0–0.15749 | 4 | 2 |
 | [CR3GA_A15](#phase-cr-ga-cr3ga-a15); _phase:cr-ga:cr3ga-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1870.49 K, x(Ga) 0.23–0.25 | 18 | 2 |
 | [CR3GA_BETA](#phase-cr-ga-cr3ga-beta); _phase:cr-ga:cr3ga-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1373.64–1920.44 K, x(Ga) 0.23–0.23 | 5 | 1 |
-| [CR5GA6](#phase-cr-ga-cr5ga6); _phase:cr-ga:cr5ga6_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1048.12 K, x(Ga) 0.54545–0.567 | 13 | 2 |
+| [CR5GA6](#phase-cr-ga-cr5ga6); _phase:cr-ga:cr5ga6_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1048.12 K, x(Ga) 0.54545–0.567 | 16 | 2 |
 | [CRGA_D810](#phase-cr-ga-crga-d810); _phase:cr-ga:crga-d810_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1009–1179.89 K, x(Ga) 0.5–0.5 | 10 | 2 |
-| [CRGA4](#phase-cr-ga-crga4); _phase:cr-ga:crga4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–973.43 K, x(Ga) 0.77–0.8 | 10 | 2 |
+| [CRGA4](#phase-cr-ga-crga4); _phase:cr-ga:crga4_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–973.43 K, x(Ga) 0.77–0.8 | 13 | 2 |
 | [FCC_A1](#phase-cr-ga-fcc-a1); _phase:cr-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-cr-ga-hcp-a3); _phase:cr-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-cr-ga-liquid); _phase:cr-ga:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 302.91–4000 K, x(Ga) 0–1 | 10 | 2 |
@@ -180,11 +180,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Fe3Ga4 · mC42 · C2/m — CrGa-05Bel.tdb: 'Prototype Fe3Ga4 (mC42, C2/m), also Cr3Ga4'
 - Candidate (tdb_comment): Fe3Ga4 · mC42 · C2/m — CrGa-99Gro.tdb: 'Prototype Fe3Ga4 (mC42, C2/m), also Cr3Ga4'
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1048.12 K, x(Ga) 0.54545–0.567
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ga:cr5ga6)
 
-Names (5): _corpus: _corpus:phase:cr-ga:cr5ga6  
-_paper: _paper:10.1016/j.jallcom.2005.01.026:Cr5Ga, paper:10.1016/j.jallcom.2005.01.026:Cr5Ga6  
+Names (6): _corpus: _corpus:phase:cr-ga:cr5ga6  
+_paper: _paper:10.1016/j.jallcom.2005.01.026:Cr5Ga, paper:10.1016/j.jallcom.2005.01.026:Cr5Ga6, paper:10.1361/105497199770340608:Cr5Ga6  
 _tdb: _tdb:CrGa-05Bel.tdb:CR5GA6, tdb:CrGa-99Gro.tdb:CR5GA6  
 
 
@@ -209,7 +209,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.jallcom.2005.01.026](https://doi.org/10.1016/j.jallcom.2005.01.026) A. Belgacem-Bouzida, Y. Djaballah, M. Notin, Calorimetric measurement of the intermetallic compounds Cr3Ga and CrGa4 and thermodynamic assessment of the (Cr–Ga) system, Journal of Alloys and Compounds 397, 155-160 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608) J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(72)90149-x](https://doi.org/10.1016/0022-5088%2872%2990149-x) J.-D. Bornand, P. Feschotte, Le système binaire chrome-gallium, Journal of the Less Common Metals 29, 81-91 (1972).  
 _cited as the source of values for this phase_
 
@@ -267,11 +267,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Hg4Pt · cI10 · Im-3m — CrGa-05Bel.tdb: 'Prototype Hg4Pt (cI10, Im-3m), also CrGa3'
 - Candidate (tdb_comment): Hg4Pt · cI10 · Im-3m — CrGa-99Gro.tdb: 'Prototype Hg4Pt (cI10, Im-3m), also CrGa3'
 - Stability: stable in 2 of 2 calculated diagram(s): 300–973.43 K, x(Ga) 0.77–0.8
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ga:crga4)
 
-Names (4): _corpus: _corpus:phase:cr-ga:crga4  
-_paper: _paper:10.1016/j.jallcom.2005.01.026:CrGa4  
+Names (5): _corpus: _corpus:phase:cr-ga:crga4  
+_paper: _paper:10.1016/j.jallcom.2005.01.026:CrGa4, paper:10.1361/105497199770340608:CrGa4  
 _tdb: _tdb:CrGa-05Bel.tdb:CRGA4, tdb:CrGa-99Gro.tdb:CRGA4  
 
 
@@ -296,7 +296,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.jallcom.2005.01.026](https://doi.org/10.1016/j.jallcom.2005.01.026) A. Belgacem-Bouzida, Y. Djaballah, M. Notin, Calorimetric measurement of the intermetallic compounds Cr3Ga and CrGa4 and thermodynamic assessment of the (Cr–Ga) system, Journal of Alloys and Compounds 397, 155-160 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608) J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(72)90149-x](https://doi.org/10.1016/0022-5088%2872%2990149-x) J.-D. Bornand, P. Feschotte, Le système binaire chrome-gallium, Journal of the Less Common Metals 29, 81-91 (1972).  
 _cited as the source of values for this phase_
 

@@ -12,10 +12,10 @@ Table: Phases of the Mg–Sm system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mg-sm-bcc-a2); _phase:mg-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 852.98–2499.38 K, x(Sm) 0.65113–1 | 12 | 4 |
+| [BCC_A2](#phase-mg-sm-bcc-a2); _phase:mg-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 852.98–2499.38 K, x(Sm) 0.65113–1 | 9 | 4 |
 | [B2_BCC](#phase-mg-sm-bcc-b2); _phase:mg-sm:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.38 K, x(Sm) 0.49923–1 | 0 | 1 |
 | [FCC_A1](#phase-mg-sm-fcc-a1); _phase:mg-sm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [HCP_A3](#phase-mg-sm-hcp-a3); _phase:mg-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1340 K, x(Sm) 0–1 | 15 | 3 |
+| [HCP_A3](#phase-mg-sm-hcp-a3); _phase:mg-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1340 K, x(Sm) 0–1 | 12 | 3 |
 | [LIQUID](#phase-mg-sm-liquid); _phase:mg-sm:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 806.12–2500 K, x(Sm) 0–1 | 46 | 3 |
 | [MG2SM_C15](#phase-mg-sm-mg2sm-c15); _phase:mg-sm:mg2sm-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1022.35 K, x(Sm) 0.33333–0.34357 | 19 | 3 |
 | [MG3SM_D03](#phase-mg-sm-mg3sm-d03); _phase:mg-sm:mg3sm-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–982.7 K, x(Sm) 0.21593–0.25 | 18 | 3 |
@@ -28,12 +28,12 @@ Table: Phases of the Mg–Sm system (11)
 
 - Id: `phase:mg-sm:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 4 calculated diagram(s): 852.98–2499.38 K, x(Sm) 0.65113–1
-- Literature: 12 values (12 accepted) from 2 papers
+- Stability: stable in 3 of 3 calculated diagram(s): 852.98–2499.38 K, x(Sm) 0.65113–1
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-sm:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:mg-sm:bcc-a2  
-_paper: _paper:10.1007/s11669-024-01111-0:β-Sm, paper:10.1007/s11669-024-01111-0:γ-Sm, paper:10.1016/j.jallcom.2007.05.035:Bcc(Sm)  
+Names (7): _corpus: _corpus:phase:mg-sm:bcc-a2  
+_paper: _paper:10.1007/s11669-024-01111-0:γ-Sm, paper:10.1016/j.jallcom.2007.05.035:Bcc(Sm)  
 _tdb: _tdb:MgSm-08Jia.tdb:BCC_A2, tdb:MgSm-10Guo.tdb:A2_BCC, tdb:MgSm-10Guo.tdb:BCC_A2, tdb:MgSm-24Jia.tdb:BCC_A2  
 
 
@@ -69,9 +69,9 @@ _tdb: _tdb:MgSm-08Jia.tdb:BCC_A2, tdb:MgSm-10Guo.tdb:A2_BCC, tdb:MgSm-10Guo.tdb:
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1007/s11669-024-01111-0](https://doi.org/10.1007/s11669-024-01111-0) Ruyi Jiang, Xiaofen Duan, Dashi Li, Cuiyun He, Re-investigation of the Phase Equilibria and Thermodynamic Assessment of the Mg-Sm Binary System, J. Phase Equilib. Diffus. 45, 520-536 (2024).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2007.05.035](https://doi.org/10.1016/j.jallcom.2007.05.035) B.R. Jia, L.B. Liu, D.Q. Yi, Z.P. Jin, J.F. Nie, Thermodynamic assessment of the Al–Mg–Sm system, Journal of Alloys and Compounds 459, 267-273 (2008).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-024-01111-0](https://doi.org/10.1007/s11669-024-01111-0) Ruyi Jiang, Xiaofen Duan, Dashi Li, Cuiyun He, Re-investigation of the Phase Equilibria and Thermodynamic Assessment of the Mg-Sm Binary System, J. Phase Equilib. Diffus. 45, 520-536 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.12.006](https://doi.org/10.1016/j.calphad.2009.12.006) Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Sm system, Calphad 34, 90-97 (2010).  
 _assessment that models this phase_
@@ -155,11 +155,11 @@ _assessment that models this phase_
 - Id: `phase:mg-sm:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1340 K, x(Sm) 0–1
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-sm:hcp-a3)
 
-Names (9): _corpus: _corpus:phase:mg-sm:hcp-a3  
-_paper: _paper:10.1007/s11669-024-01111-0:Mg, paper:10.1007/s11669-024-01111-0:β-Sm, paper:10.1007/s11669-024-01111-0:γ-Sm, paper:10.1016/j.jallcom.2007.05.035:Hcp, paper:10.1016/j.jallcom.2007.05.035:Hcp(Sm)  
+Names (8): _corpus: _corpus:phase:mg-sm:hcp-a3  
+_paper: _paper:10.1007/s11669-024-01111-0:Mg, paper:10.1007/s11669-024-01111-0:β-Sm, paper:10.1016/j.jallcom.2007.05.035:Hcp, paper:10.1016/j.jallcom.2007.05.035:Hcp(Sm)  
 _tdb: _tdb:MgSm-08Jia.tdb:HCP_A3, tdb:MgSm-10Guo.tdb:HCP_A3, tdb:MgSm-24Jia.tdb:HCP_A3  
 
 

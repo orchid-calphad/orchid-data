@@ -15,7 +15,7 @@ Table: Phases of the Ca–H system (7)
 | [BCC_A2](#phase-ca-h-bcc-a2); _phase:ca-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 688.01–1306.02 K, x(H) 0–0.3427 | 0 | 2 |
 | [CAH2_BETA](#phase-ca-h-cah2-beta); _phase:ca-h:cah2-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1053.15–1257.01 K, x(H) 0.66667–0.66667 | 2 | 2 |
 | [CAH2_C37](#phase-ca-h-cah2-c37); _phase:ca-h:cah2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1053.28 K, x(H) 0.66667–0.66667 | 9 | 2 |
-| [FCC_A1](#phase-ca-h-fcc-a1); _phase:ca-h:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1306.02 K, x(H) 0–0.01797 | 2 | 2 |
+| [FCC_A1](#phase-ca-h-fcc-a1); _phase:ca-h:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1306.02 K, x(H) 0–0.01797 | 0 | 2 |
 | [GAS](#phase-ca-h-gas); _phase:ca-h:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(H) 0–1 | 0 | 2 |
 | [HCP_A3](#phase-ca-h-hcp-a3); _phase:ca-h:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 624.48–878.76 K, x(H) 0.01318–0.16929 | 1 | 2 |
 | [LIQUID](#phase-ca-h-liquid); _phase:ca-h:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1110–2111.52 K, x(H) 0–0.48736 | 0 | 2 |
@@ -137,11 +137,10 @@ _assessment that models this phase_
 - Id: `phase:ca-h:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1306.02 K, x(H) 0–0.01797
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-h:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:ca-h:fcc-a1  
-_paper: _paper:10.1016/j.ijhydene.2011.08.018:Ca fcc  
+Names (3): _corpus: _corpus:phase:ca-h:fcc-a1  
 _tdb: _tdb:CaH-11Wan.tdb:FCC_A1, tdb:CaH-12Wan.tdb:FCC_A1  
 
 
@@ -163,9 +162,9 @@ _tdb: _tdb:CaH-11Wan.tdb:FCC_A1, tdb:CaH-12Wan.tdb:FCC_A1
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.ijhydene.2011.08.018](https://doi.org/10.1016/j.ijhydene.2011.08.018) Kun Wang, Junlin Du, Xiangcheng Kong, Xiaoqin Zeng, Jianxin Zou, Zhilin Li et al., Ab initio and thermodynamic investigation on the Ca–H system, International Journal of Hydrogen Energy 36, 13632-13639 (2011).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-012-9997-z](https://doi.org/10.1007/s11669-012-9997-z) Man Wang, Weihua Sun, Chunsheng Sha, Biao Hu, Yong Du, Lixian Sun et al., Thermodynamic Modeling of the Li-H and Ca-H Systems, J. Phase Equilib. Diffus. 33, 89-96 (2012).  
+_assessment that models this phase_
+- [doi:10.1016/j.ijhydene.2011.08.018](https://doi.org/10.1016/j.ijhydene.2011.08.018) Kun Wang, Junlin Du, Xiangcheng Kong, Xiaoqin Zeng, Jianxin Zou, Zhilin Li et al., Ab initio and thermodynamic investigation on the Ca–H system, International Journal of Hydrogen Energy 36, 13632-13639 (2011).  
 _assessment that models this phase_
 
 ## GAS (Ca–H)

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of PuC0.87
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.51 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.51 | kJ/mol (basis unstated) |  | 0.005 | 37.4 (model_calculated, calibrated) |  |  |  | 37.4 |
 
 ## Sources
 

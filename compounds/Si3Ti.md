@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Si3Ti.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
+Systems: [Si–Ti](https://data.orchid-project.org/systems/SI-TI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Si3Ti reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.51 kJ/mol-atom | Si3Ti(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
+| -4.51 kJ/mol-atom | Si3Ti(L12) | 0 | DFT | Ab initio | [Si–Ti](https://data.orchid-project.org/systems/SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Si3Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.51 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -4.51 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

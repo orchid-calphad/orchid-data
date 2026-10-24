@@ -1,10 +1,10 @@
 # Co–Ta system
 
-> Co–Ta system: 165 accepted literature values (invariant reaction 76, formation 39, phase transition 26, phase equilibrium 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ta system: 159 accepted literature values (invariant reaction 76, formation 33, phase transition 26, phase equilibrium 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TA.html · Markdown: https://data.orchid-project.org/systems/CO-TA.md
 
-165 accepted literature values from 4 paper(s) (experimental 83, model 35, DFT 39, unspecified 8); 6 calculated phase diagram(s).
+159 accepted literature values from 4 paper(s) (experimental 83, model 35, DFT 33, unspecified 8); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TA.json) · [CSV](https://data.orchid-project.org/systems/CO-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TA/CoTa-02Har.json) · [phases (19)](https://data.orchid-project.org/phases/pages/CO-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TA.html) · [Markdown](https://data.orchid-project.org/systems/CO-TA.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 83 |
 | model | 35 |
-| DFT | 39 |
+| DFT | 33 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 76 |
 | phase transition | 26 |
 | phase equilibrium | 24 |
-| formation | 39 |
+| formation | 33 |
 
 ## Calculated phase diagrams
 
@@ -227,13 +227,12 @@ Table: Invariant reactions reported in the literature for the Co–Ta system (76
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Ta system (39)
+Table: Enthalpies of formation, Co–Ta system (33)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A15 |  | -8.6283 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 3 |  |
 | A15 |  | -4.9718 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 2 |  |
-| A15 |  | 3.0195 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 4 |  |
 | A15 |  | 9.2351 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 1 |  |
 | BCC |  | -9.0231 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 4 |  |
 | BCC |  | 1.3464 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 2 |  |
@@ -243,18 +242,15 @@ Table: Enthalpies of formation, Co–Ta system (39)
 | C14 |  | -20.866 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 11 |  |
 | C14 |  | -20.5623 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 9 |  |
 | C14 |  | 1.2747 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 10 |  |
-| C14 |  | 9.6703 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 12 |  |
 | C14 |  | 14.697 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 7 |  |
 | C14 |  | 16.3511 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 5 |  |
 | C14 |  | 44.7442 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 6 |  |
 | C14 |  | 77.3168 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 8 |  |
 | C15 |  | -20.9424 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 14 |  |
-| C15 |  | 11.1655 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 16 |  |
 | C15 |  | 19.2335 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 13 |  |
 | C15 |  | 72.2759 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 15 |  |
 | C16 |  | -24.1586 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 18 |  |
 | C16 |  | 24.3042 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 19 |  |
-| C16 |  | 48.1965 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 20 |  |
 | C16 |  | 49.0982 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 17 |  |
 | C36 |  | 17.483 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 21 |  |
 | C36 |  | 43.6063 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 2, p. 22, row 24 |  |
@@ -264,12 +260,10 @@ Table: Enthalpies of formation, Co–Ta system (39)
 | FCC |  | -11.5118 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 8 |  |
 | FCC |  | 1.7185 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 6 |  |
 | FCC |  | 15.4676 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 9 |  |
-| FCC |  | 23.3493 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 10 |  |
 | HCP |  | -21.5815 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 12 |  |
 | HCP |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 11 |  |
 | HCP |  | 17.1227 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 13 |  |
 | HCP |  | 18.2796 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 14 |  |
-| HCP |  | 26.9804 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Wang 2019 | Table 3, p. 27, row 15 |  |
 
 ## Other properties
 

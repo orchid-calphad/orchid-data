@@ -16,7 +16,7 @@ Table: Phases of the Co–Pt system (7)
 | [COPT_L10](#phase-co-pt-copt-l10); _phase:co-pt:copt-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1101.5 K, x(Pt) 0.39722–0.63247 | 0 | 1 |
 | [COPT3_L12](#phase-co-pt-copt3-l12); _phase:co-pt:copt3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1026.9 K, x(Pt) 0.69701–0.77468 | 0 | 1 |
 | [FCC_4SL](#phase-co-pt-fcc-4sl); _phase:co-pt:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2041.5 K, x(Pt) 0–1 | 0 | 1 |
-| [FCC_A1](#phase-co-pt-fcc-a1); _phase:co-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 300–2499 K, x(Pt) 0–1 | 0 | 4 |
+| [FCC_A1](#phase-co-pt-fcc-a1); _phase:co-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499 K, x(Pt) 0–1 | 0 | 4 |
 | [HCP_A3](#phase-co-pt-hcp-a3); _phase:co-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–887.96 K, x(Pt) 0–0.40323 | 0 | 3 |
 | [LIQUID](#phase-co-pt-liquid); _phase:co-pt:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1700.78–2500 K, x(Pt) 0–1 | 0 | 3 |
 
@@ -142,7 +142,7 @@ _assessment that models this phase_
 
 - Id: `phase:co-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 4 calculated diagram(s): 300–2499 K, x(Pt) 0–1
+- Stability: stable in 3 of 3 calculated diagram(s): 300–2499 K, x(Pt) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-pt:fcc-a1)
 

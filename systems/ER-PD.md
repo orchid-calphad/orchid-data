@@ -1,10 +1,10 @@
 # Er–Pd system
 
-> Er–Pd system: 31 accepted literature values (invariant reaction 21, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Pd system: 51 accepted literature values (invariant reaction 21, formation 20, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-PD.html · Markdown: https://data.orchid-project.org/systems/ER-PD.md
 
-31 accepted literature values from 1 paper(s) (experimental 15, model 16); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+51 accepted literature values from 2 paper(s) (experimental 15, model 36); 1 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-PD.json) · [CSV](https://data.orchid-project.org/systems/ER-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-PD/ErPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/ER-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-PD.html) · [Markdown](https://data.orchid-project.org/systems/ER-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 15 |
-| model | 16 |
+| model | 36 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 21 |
 | phase transition | 10 |
+| formation | 20 |
 
 ## Calculated phase diagrams
 
@@ -89,6 +90,22 @@ Table: Invariant reactions reported in the literature for the Er–Pd system (21
 | 821 | βErPd->αErPd+Er3Pd4 | βErPd: Pd 0.5; αErPd: Pd 0.5; Er3Pd4: Pd 0.571429 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 16 |  |
 | 723 | f.c.c.(Pd)+ErPd3->ErPd7 | f.c.c.(Pd): Pd 0.8913; ErPd3: Pd 0.7815; ErPd7: Pd 0.875 | model | [1] Du 2000 | Table 2, p. 5, row 31 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Er–Pd system (7)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd21Er10 |  | -94.07 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 44 |  |
+| Pd3Er | [ErPd3](https://data.orchid-project.org/compounds/ErPd3.html) | -94.07 kJ/mol-atom | 298.15 | model | -88.405 (mp-aaaaaeer) | -88.196 (oqmd-18320) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6 |  |
+| Pd3Er | [ErPd3](https://data.orchid-project.org/compounds/ErPd3.html) | -55.755 kJ/mol-atom | 298.15 | model | -88.405 (mp-aaaaaeer) | -88.196 (oqmd-18320) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Pd4Er3 | [Er3Pd4](https://data.orchid-project.org/compounds/Er3Pd4.html) | -92.573 kJ/mol-atom | 298.15 | model | -93.36 (mp-aaackwhi) | -93.559 (oqmd-30026) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 38 |  |
+| Pd7Er |  | -55.755 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Pd7RE |  | -55.755 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 10 |  |
+| PdEr | [ErPd](https://data.orchid-project.org/compounds/ErPd.html) | -90.231 kJ/mol-atom | 298.15 | model | -89.841 (mp-aaaaabgt) | -92.218 (oqmd-1372126) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 26 |  |
+
 ## Other properties
 
 ### Phase transition (10)
@@ -108,11 +125,32 @@ Table: Phase transition, Er–Pd system
 | Phase transition | 1983 K | 1983 | Liq.->ErPd3; _Liq.: Pd 0.75; ErPd3: Pd 0.75_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 5, row 28 |  |
 | Phase transition | 1983 K | 1983 | Liq.->ErPd3; _Liq.: Pd 0.7501; ErPd3: Pd 0.75_ | model | [1] Du 2000 | Table 2, p. 5, row 27 |  |
 
+### Formation (13)
+
+Table: Formation, Er–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | 5.723 J/mol-atom/K | 298.15 | Pd21Er10; _alloy: Er 0.322581, Pd 0.677419_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 44 |  |
+| Entropy of formation | 5.723 J/mol-atom/K | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | 7.36 J/mol-atom/K | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.549 J/mol-atom/K | 298.15 | Pd4Er3; _alloy: Er 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 38 |  |
+| Entropy of formation | 7.36 J/mol-atom/K | 298.15 | Pd7Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 7.36 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Er 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 10 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.862 J/mol-atom/K | 298.15 | PdEr; _alloy: Er 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 26 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -95.7763 kJ/mol-atom | 298.15 | Pd21Er10; _alloy: Er 0.322581, Pd 0.677419_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 44 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -95.7763 kJ/mol-atom | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 6 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -57.9494 kJ/mol-atom | 298.15 | Pd3Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -92.4093 kJ/mol-atom | 298.15 | Pd4Er3; _alloy: Er 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 38 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -57.9494 kJ/mol-atom | 298.15 | Pd7Er; _alloy: Er 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 76 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -89.974 kJ/mol-atom | 298.15 | PdEr; _alloy: Er 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 26 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Zhenmin Du, Haifang Yang, Thermodynamic modelling of the Er–Pd system, Journal of Alloys and Compounds 299, 199-204 (2000). [doi:10.1016/s0925-8388(99)00691-x](https://doi.org/10.1016/s0925-8388%2899%2900691-x)
+2. Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020). [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196)
 
 ## Please cite
 

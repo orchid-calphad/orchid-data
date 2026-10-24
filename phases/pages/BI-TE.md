@@ -15,13 +15,13 @@ Table: Phases of the Bi–Te system (13)
 | [RHOMBOHEDRAL_A7](#phase-bi-te-a7-rhombohedral); _phase:bi-te:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–544.55 K, x(Te) 0–0 | 10 | 4 |
 | [HEXAGONAL_A8](#phase-bi-te-a8-hexagonal); _phase:bi-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 10 | 4 |
 | [BCC_A2](#phase-bi-te-bcc-a2); _phase:bi-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [BI2TE](#phase-bi-te-bi2te); _phase:bi-te:bi2te_ | Sb2Te · hP9 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–694.45 K, x(Te) 0.33333–0.33333 | 19 | 4 |
+| [BI2TE](#phase-bi-te-bi2te); _phase:bi-te:bi2te_ | Sb2Te · hP9 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–694.45 K, x(Te) 0.33333–0.33333 | 22 | 4 |
 | [BI2TE3_C33](#phase-bi-te-bi2te3-c33); _phase:bi-te:bi2te3-c33_ | Bi2Te3 · C33 · hR5 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–860.19 K, x(Te) 0.59625–0.60707 | 30 | 4 |
-| [BI4TE3](#phase-bi-te-bi4te3); _phase:bi-te:bi4te3_ | Bi4Se3 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–725.96 K, x(Te) 0.42857–0.42857 | 4 | 3 |
-| [BI4TE5](#phase-bi-te-bi4te5); _phase:bi-te:bi4te5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–833.61 K, x(Te) 0.55556–0.55556 | 4 | 1 |
-| [BI7TE3](#phase-bi-te-bi7te3); _phase:bi-te:bi7te3_ | Sb8Te3 · hR11 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–604.83 K, x(Te) 0.3–0.3 | 20 | 2 |
-| [BI8TE9](#phase-bi-te-bi8te9); _phase:bi-te:bi8te9_ | Bi8Se9 · hR17 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–822.75 K, x(Te) 0.52941–0.52941 | 4 | 1 |
-| [BITE](#phase-bi-te-bite); _phase:bi-te:bite_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–832.68 K, x(Te) 0.27635–0.56605 | 22 | 4 |
+| [BI4TE3](#phase-bi-te-bi4te3); _phase:bi-te:bi4te3_ | Bi4Se3 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–725.96 K, x(Te) 0.42857–0.42857 | 7 | 3 |
+| [BI4TE5](#phase-bi-te-bi4te5); _phase:bi-te:bi4te5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–833.61 K, x(Te) 0.55556–0.55556 | 7 | 1 |
+| [BI7TE3](#phase-bi-te-bi7te3); _phase:bi-te:bi7te3_ | Sb8Te3 · hR11 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–604.83 K, x(Te) 0.3–0.3 | 21 | 2 |
+| [BI8TE9](#phase-bi-te-bi8te9); _phase:bi-te:bi8te9_ | Bi8Se9 · hR17 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–822.75 K, x(Te) 0.52941–0.52941 | 7 | 1 |
+| [BITE](#phase-bi-te-bite); _phase:bi-te:bite_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–832.68 K, x(Te) 0.27635–0.56605 | 25 | 4 |
 | [FCC_A1](#phase-bi-te-fcc-a1); _phase:bi-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-bi-te-hcp-a3); _phase:bi-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-bi-te-liquid); _phase:bi-te:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 536.46–2500 K, x(Te) 0–1 | 54 | 4 |
@@ -210,7 +210,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.6667, Te 0.3333
 - Stability: stable in 4 of 4 calculated diagram(s): 300–694.45 K, x(Te) 0.33333–0.33333
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bi2te)
 
 Names (7): _corpus: _corpus:phase:bi-te:bi2te  
@@ -255,12 +255,12 @@ _assessment that models this phase; cited as the source of values for this phase
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2017.11.007](https://doi.org/10.1016/j.calphad.2017.11.007) C. Mao, M. Tan, L. Zhang, D. Wu, W. Bai, and L. Liu, Experimental Reinvestigation and Thermodynamic Description of Bi-Te Binary System, Calphad, 2018, 60, p 81–89.  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2018.08.005](https://doi.org/10.1016/j.calphad.2018.08.005) W. Gierlotka, Calphad, 63, 6-11(2018).  
 _assessment that models this phase_
-- [doi:10.1007/978-1-4899-6373-4](https://doi.org/10.1007/978-1-4899-6373-4) Nikolai Khrisanfovich Abrikosov, V. F. Bankina, L. V. Poretskaya, L. E. Shelimova, E. V. Skudnova, Semiconducting II–VI, IV–VI, and V–VI Compounds, (1969).  
-_cited as the source of values for this phase_
 - [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1007/978-1-4899-6373-4](https://doi.org/10.1007/978-1-4899-6373-4) Nikolai Khrisanfovich Abrikosov, V. F. Bankina, L. V. Poretskaya, L. E. Shelimova, E. V. Skudnova, Semiconducting II–VI, IV–VI, and V–VI Compounds, (1969).  
 _cited as the source of values for this phase_
 - [doi:10.1107/s0567740879002788](https://doi.org/10.1107/s0567740879002788) K. Yamana, K. Kihara, T. Matsumoto, Bismuth tellurides: BiTe and Bi\<sub>4\</sub>Te\<sub>3\</sub>, Acta Crystallogr B Struct Sci 35, 147-149 (1979).  
 _cited as the source of values for this phase_
@@ -340,7 +340,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.5714, Te 0.4286
 - Stability: stable in 3 of 3 calculated diagram(s): 300–725.96 K, x(Te) 0.42857–0.42857
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bi4te3)
 
 Names (5): _corpus: _corpus:phase:bi-te:bi4te3  
@@ -371,7 +371,7 @@ _tdb: _tdb:BiTe-18Gie.tdb:BI4TE3, tdb:BiTe-18Mao.tdb:BI4TE3, tdb:BiTe-24Zho.tdb:
 69: CONST BI4TE3 : BI : TE : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
@@ -380,6 +380,8 @@ _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.08.005](https://doi.org/10.1016/j.calphad.2018.08.005) W. Gierlotka, Calphad, 63, 6-11(2018).  
 _assessment that models this phase_
 - [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1107/s0567740879002788](https://doi.org/10.1107/s0567740879002788) K. Yamana, K. Kihara, T. Matsumoto, Bismuth tellurides: BiTe and Bi\<sub>4\</sub>Te\<sub>3\</sub>, Acta Crystallogr B Struct Sci 35, 147-149 (1979).  
 _cited as the source of values for this phase_
 
 ## BI4TE5 (Bi–Te)
@@ -390,7 +392,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Bi4Te5) · P-3m1 (164) — Hallstedt 2025 mmc2 row for BI4TE5: Bi4Te5
 - Stoichiometry: Bi 0.4444, Te 0.5556
 - Stability: stable in 1 of 1 calculated diagram(s): 300–833.61 K, x(Te) 0.55556–0.55556
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bi4te5)
 
 Names (3): _corpus: _corpus:phase:bi-te:bi4te5  
@@ -407,11 +409,13 @@ _tdb: _tdb:BiTe-24Zho.tdb:BI4TE5
 84: CONST BI4TE5 : BI : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1107/s0021889868005406](https://doi.org/10.1107/s0021889868005406) R. F. Brebrick, Characterization of phases in the 50–60 at. % Te region of the Bi–Te system by X-ray powder diffraction patterns, J Appl Crystallogr 1, 241-246 (1968).  
 _cited as the source of values for this phase_
 
 ## BI7TE3 (Bi–Te)
@@ -422,7 +426,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.7000, Te 0.3000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–604.83 K, x(Te) 0.3–0.3
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bi7te3)
 
 Names (5): _corpus: _corpus:phase:bi-te:bi7te3  
@@ -452,9 +456,9 @@ Example references (6 of 6; assessments first):
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/978-1-4899-6373-4](https://doi.org/10.1007/978-1-4899-6373-4) Nikolai Khrisanfovich Abrikosov, V. F. Bankina, L. V. Poretskaya, L. E. Shelimova, E. V. Skudnova, Semiconducting II–VI, IV–VI, and V–VI Compounds, (1969).  
-_cited as the source of values for this phase_
 - [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1007/978-1-4899-6373-4](https://doi.org/10.1007/978-1-4899-6373-4) Nikolai Khrisanfovich Abrikosov, V. F. Bankina, L. V. Poretskaya, L. E. Shelimova, E. V. Skudnova, Semiconducting II–VI, IV–VI, and V–VI Compounds, (1969).  
 _cited as the source of values for this phase_
 - [doi:10.1107/s0567740879002788](https://doi.org/10.1107/s0567740879002788) K. Yamana, K. Kihara, T. Matsumoto, Bismuth tellurides: BiTe and Bi\<sub>4\</sub>Te\<sub>3\</sub>, Acta Crystallogr B Struct Sci 35, 147-149 (1979).  
 _cited as the source of values for this phase_
@@ -469,7 +473,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.4706, Te 0.5294
 - Stability: stable in 1 of 1 calculated diagram(s): 300–822.75 K, x(Te) 0.52941–0.52941
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bi8te9)
 
 Names (3): _corpus: _corpus:phase:bi-te:bi8te9  
@@ -486,11 +490,13 @@ _tdb: _tdb:BiTe-24Zho.tdb:BI8TE9
 79: CONST BI8TE9 : BI : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0025-5408(93)90055-i](https://doi.org/10.1016/0025-5408%2893%2990055-i) Y. Feutelais, B. Legendre, N. Rodier, V. Agafonov, A study of the phases in the bismuth - tellurium system, Materials Research Bulletin 28, 591-596 (1993).  
 _cited as the source of values for this phase_
 
 ## BITE (Bi–Te)
@@ -506,7 +512,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): BiSe · hP12 · P-3m1 — BiTe-23Drz.tdb: 'Prototype BiSe (hP12, P-3m1), beta'
 - Candidate (tdb_comment): BiSe · hP12 · P-3m1 — BiTe-24Zho.tdb: 'Prototype BiSe (hP12, P-3m1)'
 - Stability: stable in 4 of 4 calculated diagram(s): 300–832.68 K, x(Te) 0.27635–0.56605
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 25 values (25 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-te:bite)
 
 Names (7): _corpus: _corpus:phase:bi-te:bite  
@@ -544,7 +550,7 @@ _tdb: _tdb:BiTe-18Gie.tdb:BITE, tdb:BiTe-18Mao.tdb:BITE, tdb:BiTe-23Drz.tdb:BITE
 74: CONST BITE : BI : TE : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1007/s11669-023-01049-9](https://doi.org/10.1007/s11669-023-01049-9) S. Drzewowska, B. Onderka, Different Approach to Thermodynamic Description of Bi-Te Binary System, J. Phase Equilib. Diffus. 44, 429-444 (2023).  
 _assessment that models this phase; reports values for this phase_
@@ -554,9 +560,11 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2018.08.005](https://doi.org/10.1016/j.calphad.2018.08.005) W. Gierlotka, Calphad, 63, 6-11(2018).  
 _assessment that models this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
 - [doi:10.1007/978-1-4899-6373-4](https://doi.org/10.1007/978-1-4899-6373-4) Nikolai Khrisanfovich Abrikosov, V. F. Bankina, L. V. Poretskaya, L. E. Shelimova, E. V. Skudnova, Semiconducting II–VI, IV–VI, and V–VI Compounds, (1969).  
 _cited as the source of values for this phase_
-- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+- [doi:10.1107/s0567740879002788](https://doi.org/10.1107/s0567740879002788) K. Yamana, K. Kihara, T. Matsumoto, Bismuth tellurides: BiTe and Bi\<sub>4\</sub>Te\<sub>3\</sub>, Acta Crystallogr B Struct Sci 35, 147-149 (1979).  
 _cited as the source of values for this phase_
 - [doi:10.1021/j100849a043](https://doi.org/10.1021/j100849a043) Robert F. Brebrick, Tellurium vapor pressure and optical density at 370-615.degree., J. Phys. Chem. 72, 1032-1036 (1968).  
 _cited as the source of values for this phase_

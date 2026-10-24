@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Lu2O3.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (unspecified 1).
 
-Systems: [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.html)
+Systems: [Lu–O](https://data.orchid-project.org/systems/LU-O.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Lu2O3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -1877 kJ/mol (basis unstated) | C-Lu2O3 | 298.15 | unspecified |  | [Lu–O–Yb](https://data.orchid-project.org/systems/LU-O-YB.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
+| -1877 kJ/mol (basis unstated) | C-Lu2O3 | 298.15 | unspecified |  | [Lu–O](https://data.orchid-project.org/systems/LU-O.html) | [1] ZINKEVICH 2007 | Table 6.1, p. 26, row 7 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Lu2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -1877 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1877 | kJ/mol (basis unstated) |  | 5.000e-5 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
 
 ## Sources
 

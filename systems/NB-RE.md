@@ -1,10 +1,10 @@
 # Nb–Re system
 
-> Nb–Re system: 62 accepted literature values (invariant reaction 27, formation 19, crystal structure 15, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nb–Re system: 50 accepted literature values (invariant reaction 27, formation 14, crystal structure 6, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NB-RE.html · Markdown: https://data.orchid-project.org/systems/NB-RE.md
 
-62 accepted literature values from 2 paper(s) (experimental 20, model 29, DFT 13); 2 calculated phase diagram(s).
+50 accepted literature values from 2 paper(s) (experimental 17, model 26, DFT 7); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-RE.json) · [CSV](https://data.orchid-project.org/systems/NB-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-RE/NbRe-13Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NB-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-RE.html) · [Markdown](https://data.orchid-project.org/systems/NB-RE.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 29 |
-| DFT | 13 |
+| experimental | 17 |
+| model | 26 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 27 |
 | phase transition | 1 |
-| formation | 19 |
-| crystal structure | 15 |
+| formation | 14 |
+| heat capacity / entropy / enthalpy | 2 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -89,7 +90,7 @@ Table: Invariant reactions reported in the literature for the Nb–Re system (27
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Nb–Re system (7)
+Table: Enthalpies of formation, Nb–Re system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -99,7 +100,6 @@ Table: Enthalpies of formation, Nb–Re system (7)
 | (χ) |  | -13.542 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
 | (χ) |  | -10.519 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
 | (χ) |  | 4.359 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
-| (χ) |  | 4.423 kJ/mol-atom | 298.15 | model |  |  | [2] Liu 2013 | Table 3, p. 5, row 3 |  |
 
 ## Other properties
 
@@ -111,7 +111,7 @@ Table: Phase transition, Nb–Re system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 3073 K | 3073 | congruent transformation | experimental | [2] Liu 2013; _cites Knapton 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990065-7) | p. 2 | “Knapton also noted the congruent melting of χ at 3073 K \[6\].” |
 
-### Formation (12)
+### Formation (8)
 
 Table: Formation, Nb–Re system
 
@@ -121,35 +121,31 @@ Table: Formation, Nb–Re system
 | Entropy of formation; _printed: ΔfS_ | -0.068 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 1 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.692 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.023 J/mol-atom/K | 298.15 | (σ) | model | [2] Liu 2013 | Table 3, p. 5, row 2 |  |
-| Entropy of formation; _printed: ΔfS_ | 51.029 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
 | Entropy of formation; _printed: ΔfS_ | 0.88 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | 0.439 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [2] Liu 2013 | Table 3, p. 5, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | 25.456 J/mol-atom/K | 298.15 | (χ); _alloy: Re 1_ | model | [2] Liu 2013 | Table 3, p. 5, row 3 |  |
-| Entropy of formation; _printed: ΔfS_ | 28.528 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
 | Entropy of formation; _printed: ΔfS_ | 0.492 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
 | Entropy of formation; _printed: ΔfS_ | 0.237 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | 13.751 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 6 |  |
 
-### Crystal structure (15)
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, Nb–Re system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔfS_ | 51.029 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 5 |  |
+| Entropy; _printed: ΔfS_ | 28.528 J/mol-atom/K | 298.15 | (χ) | model | [2] Liu 2013 | Table 3, p. 5, row 4 |  |
+
+### Crystal structure (6)
 
 Table: Crystal structure, Nb–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.317 Å | 0 | Nb (bcc); _alloy: Re 0_ | DFT | [2] Liu 2013 | Table 1, p. 4, row 4 |  |
-| Lattice a | 3.3 Å | 0 | Nb (bcc); _alloy: Re 0_ | experimental | [2] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 6 |  |
-| Lattice a | 3.322 Å | 0 | Nb (bcc); _alloy: Re 0_ | DFT | [2] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 5 |  |
-| Lattice a | 2.771 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [2] Liu 2013 | Table 1, p. 4, row 1 |  |
-| Lattice a | 2.785 Å | 0 | Re (hcp); _alloy: Re 1_ | DFT | [2] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2 |  |
-| Lattice a | 2.76 Å | 0 | Re (hcp); _alloy: Re 1_ | experimental | [2] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3 |  |
-| Lattice a | 9.676 Å | 0 | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10 |  |
-| Lattice a | 9.782 Å | 0 | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
+| Lattice a | 9.676 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2009_ [doi](https://doi.org/10.1016/j.pmatsci.2009.04.002) | Table 1, p. 4, row 10 |  |
+| Lattice a | 9.782 Å |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
 | Lattice a | 9.677 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 9 |  |
 | Lattice a | 9.779 Å | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7 |  |
-| lattice c a | 1.613 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [2] Liu 2013 | Table 1, p. 4, row 1 |  |
-| lattice c a | 1.615 not_printed | 0 | Re (hcp); _alloy: Re 1_ | DFT | [2] Liu 2013; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 4, row 2 |  |
-| lattice c a | 1.62 not_printed | 0 | Re (hcp); _alloy: Re 1_ | experimental | [2] Liu 2013; _cites Kittel 1995_ | Table 1, p. 4, row 3 |  |
-| lattice c a | 0.521 not_printed | 0 | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
+| lattice c a | 0.521 not_printed |  | UNKNOWN | experimental | [2] Liu 2013; _cites Joubert 2008_ [doi](https://doi.org/10.1016/j.pmatsci.2007.04.001) | Table 1, p. 4, row 8 |  |
 | lattice c a | 0.523 not_printed | 0 | UNKNOWN | DFT | [2] Liu 2013 | Table 1, p. 4, row 7 |  |
 
 ## Sources

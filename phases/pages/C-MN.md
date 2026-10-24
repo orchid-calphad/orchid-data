@@ -14,8 +14,8 @@ Table: Phases of the C–Mn system (13)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-mn-a4-diamond); _phase:c-mn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [GRAPHITE_A9](#phase-c-mn-a9-graphite); _phase:c-mn:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 5 |
-| [BCC_A2](#phase-c-mn-bcc-a2); _phase:c-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201 | 4 | 5 |
-| [CBCC_A12](#phase-c-mn-cbcc-a12); _phase:c-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1184.9 K, x(C) 0–0.08007 | 35 | 5 |
+| [BCC_A2](#phase-c-mn-bcc-a2); _phase:c-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201 | 0 | 5 |
+| [CBCC_A12](#phase-c-mn-cbcc-a12); _phase:c-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1184.9 K, x(C) 0–0.08007 | 18 | 5 |
 | [CEMENTITE_D011](#phase-c-mn-cementite-d011); _phase:c-mn:cementite-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1240.92–1324.97 K, x(C) 0.25–0.25 | 22 | 5 |
 | [CUB_A13](#phase-c-mn-cub-a13); _phase:c-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 980.01–1359.99 K, x(C) 0–0.02689 | 0 | 5 |
 | [M7C3_D101](#phase-c-mn-d101-m7c3); _phase:c-mn:d101-m7c3_ | Cr7C3 · D10_1 · oP40 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1605.75 K, x(C) 0.3–0.3 | 24 | 5 |
@@ -30,6 +30,7 @@ Table: Phases of the C–Mn system (13)
 
 - Id: `phase:c-mn:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 5 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:a4-diamond)
@@ -88,6 +89,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-mn:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:a9-graphite)
@@ -147,11 +149,10 @@ _assessment that models this phase_
 - Id: `phase:c-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 1366.06–2594 K, x(C) 0–0.00201
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:c-mn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2010.05.002:β-Mn  
+Names (6): _corpus: _corpus:phase:c-mn:bcc-a2  
 _tdb: _tdb:MnC-10Dju.tdb:BCC_A2, tdb:MnC-18Tan.tdb:BCC_A2, tdb:MnC-19Mie.tdb:BCC_A2, tdb:MnC-89Lee.tdb:BCC_A2, tdb:MnC-90Hua-LB.tdb:BCC_A2  
 
 
@@ -192,27 +193,25 @@ _tdb: _tdb:MnC-10Dju.tdb:BCC_A2, tdb:MnC-18Tan.tdb:BCC_A2, tdb:MnC-19Mie.tdb:BCC
 37: CONST BCC_A2 : MN : C VA% : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.calphad.2010.05.002](https://doi.org/10.1016/j.calphad.2010.05.002) Dejan Djurovic, Bengt Hallstedt, Jörg von Appen, Richard Dronskowski, Thermodynamic assessment of the Mn–C system, Calphad 34, 279-285 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(89)90024-2](https://doi.org/10.1016/0364-5916%2889%2990024-2) B.-J. Lee, D.N. Lee, Calphad, 13, 345-54(1989).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2010.05.002](https://doi.org/10.1016/j.calphad.2010.05.002) Dejan Djurovic, Bengt Hallstedt, Jörg von Appen, Richard Dronskowski, Thermodynamic assessment of the Mn–C system, Calphad 34, 279-285 (2010).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.01.006](https://doi.org/10.1016/j.calphad.2018.01.006) F. Tang, D. Bogdanovski, I. Bajenova, A.V. Khvan, R. Dronskowski, B. Hallstedt, Calphad, 60, 231-39(2018).  
 _assessment that models this phase_
-- [doi:10.1002/srin.193500743](https://doi.org/10.1002/srin.193500743) Rudolf Vogel, Werner Döring, Das System Eisen-Zementit-Mangankarbid-Mangan, Archiv für das Eisenhüttenwesen 9, 247-252 (1935).  
-_cited as the source of values for this phase_
 
 ## CBCC_A12 (C–Mn)
 
 - Id: `phase:c-mn:cbcc-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1184.9 K, x(C) 0–0.08007
-- Literature: 35 values (35 accepted) from 1 papers
+- Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mn:cbcc-a12)
 
-Names (10): _corpus: _corpus:phase:c-mn:cbcc-a12  
-_paper: _paper:10.1016/j.calphad.2010.05.002:α-Mn, paper:10.1016/j.calphad.2010.05.002:γ-Mn, paper:10.1016/j.calphad.2010.05.002:δ-Mn, paper:10.1016/j.calphad.2010.05.002:ε-Mn  
+Names (8): _corpus: _corpus:phase:c-mn:cbcc-a12  
+_paper: _paper:10.1016/j.calphad.2010.05.002:α-Mn, paper:10.1016/j.calphad.2010.05.002:ε-Mn  
 _tdb: _tdb:MnC-10Dju.tdb:CBCC_A12, tdb:MnC-18Tan.tdb:CBCC_A12, tdb:MnC-19Mie.tdb:CBCC_A12, tdb:MnC-89Lee.tdb:CBCC_A12, tdb:MnC-90Hua-LB.tdb:CBCC_A12  
 
 
@@ -263,11 +262,11 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02665426](https://doi.org/10.1007/bf02665426) Robert Benz, John F. Elliott, John Chipman, Thermodynamics of the solid phases in the system Fe−Mn−C, Metall Trans 4, 1975-1986 (1973).  
 _cited as the source of values for this phase_
+- [doi:10.1002/srin.193500743](https://doi.org/10.1002/srin.193500743) Rudolf Vogel, Werner Döring, Das System Eisen-Zementit-Mangankarbid-Mangan, Archiv für das Eisenhüttenwesen 9, 247-252 (1935).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf02655933](https://doi.org/10.1007/bf02655933) Du Sichen, S. Seetharaman, L. -I. Staffansson, Some phase-diagram aspects of the manganese-carbon system, Metall Trans B 20, 747-754 (1989).  
 _cited as the source of values for this phase_
 - [doi:10.3139/146.101563](https://doi.org/10.3139/146.101563) Jo Fenstad, Johan Kr. Tuset, Detailed phase diagram mapping: T–X data for solidi and liquidi of the alloy system manganese–carbon, International Journal of Materials Research 98, 970-975 (2007).  
-_cited as the source of values for this phase_
-- [doi:10.1002/srin.193500743](https://doi.org/10.1002/srin.193500743) Rudolf Vogel, Werner Döring, Das System Eisen-Zementit-Mangankarbid-Mangan, Archiv für das Eisenhüttenwesen 9, 247-252 (1935).  
 _cited as the source of values for this phase_
 
 ## CEMENTITE_D011 (C–Mn)

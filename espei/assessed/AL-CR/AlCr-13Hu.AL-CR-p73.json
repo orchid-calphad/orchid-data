@@ -1,0 +1,314 @@
+{
+ "components": [
+  "AL",
+  "CR",
+  "VA"
+ ],
+ "phases": [
+  "AL8CR5_D810",
+  "ALCR2_C11B",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325.0,
+  "T": [
+   1105.265655,
+   549.7656553,
+   587.7656553,
+   565.2656553,
+   889.7656553,
+   1901.265655,
+   1121.765655
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "AL8CR5_D810",
+    [
+     "CR"
+    ],
+    [
+     0.3340953277
+    ]
+   ]
+  ],
+  [
+   [
+    "ALCR2_C11B",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL8CR5_D810",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.5353118811
+    ]
+   ]
+  ],
+  [
+   [
+    "ALCR2_C11B",
+    [
+     "CR"
+    ],
+    [
+     0.6834713334
+    ]
+   ]
+  ],
+  [
+   [
+    "ALCR2_C11B",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.7525456726
+    ]
+   ]
+  ],
+  [
+   [
+    "ALCR2_C11B",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL8CR5_D810",
+    [
+     "CR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CR"
+    ],
+    [
+     0.5368134972
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.3416034081
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "CR"
+    ],
+    [
+     0.1929434171
+    ]
+   ]
+  ]
+ ],
+ "reference": "H. Okamoto, J. Phase Equil. Diffusion, 29(1), 112-113 (2008) doi:10.1007/s11669-007-9225-4; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 73",
+ "tags": [
+  "assessed_phase_diagram",
+  "orchid"
+ ],
+ "comment": "evidence_class=assessed_phase_diagram (expert-drawn diagram, not experimental, not CALPHAD); ORCHID assessed-phase-assemblages v1.0.0, diagram AL-CR-p73; one point per phase field (centroid or pole of inaccessibility); single-phase: the phase at the point composition; two-phase: phases present, compositions unknown (null) with __HYPERPLANE__ at the point's overall composition. Phase names mapped to AlCr-13Hu.tdb through the ORCHID phase registry (points whose phases are not all in that TDB are left out).",
+ "orchid": {
+  "evidence_class": "assessed_phase_diagram",
+  "diagram": "AL-CR-p73",
+  "target_tdb": "AlCr-13Hu.tdb",
+  "record_ids": [
+   "aspa-b9c975755ad064ba",
+   "aspa-e3628e3b6871054a",
+   "aspa-2ecce4417559c14d",
+   "aspa-051c516de4776c58",
+   "aspa-80cd3390fe3a70e5",
+   "aspa-1e52504aa4df2393",
+   "aspa-b97d9e0442d870e5"
+  ],
+  "confidence": [
+   "high",
+   "high",
+   "high",
+   "medium",
+   "high",
+   "high",
+   "medium"
+  ],
+  "points_left_out": 11,
+  "source": "assessed-phase-assemblages/espei-zpf/AL-CR-p73.json"
+ },
+ "orchid_uncertainty_budget": {
+  "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
+  "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
+  "points": [
+   {
+    "record_id": "aspa-b9c975755ad064ba",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.341,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 242.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0345372,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-e3628e3b6871054a",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 15.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 76.0,
+     "sigma_effective": 15.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.03,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.121631,
+     "sigma_effective": 0.03
+    }
+   },
+   {
+    "record_id": "aspa-2ecce4417559c14d",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.341,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 78.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0255275,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-051c516de4776c58",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.341,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 91.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0435469,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-80cd3390fe3a70e5",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 15.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 262.0,
+     "sigma_effective": 15.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.03,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.119629,
+     "sigma_effective": 0.03
+    }
+   },
+   {
+    "record_id": "aspa-1e52504aa4df2393",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.341,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 333.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.299322,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-b97d9e0442d870e5",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 1.341,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 13.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00700754,
+     "sigma_effective": 0.02
+    }
+   }
+  ]
+ }
+}

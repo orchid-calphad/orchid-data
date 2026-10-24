@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of MoPt2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.9 | kJ/mol (basis unstated) | 1.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -34.639 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -4.053 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -34.707 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -4.049 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -36.9 | kJ/mol (basis unstated) | 1.8 | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -34.639 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -32.8 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -4.053 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -37.6 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -34.707 | kJ/mol (basis unstated) |  | 5.000e-4 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -4.049 | kJ/mol (basis unstated) |  | 5.000e-4 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
 
 ## Sources
 

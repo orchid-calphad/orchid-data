@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Sb9Zn11.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html)
+Systems: [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Sb9Zn11 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8.749 kJ/mol-atom | γ(Sb9Zn11) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 13 |  |
+| -8.749 kJ/mol-atom | γ(Sb9Zn11) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 13 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sb9Zn11
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.749 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -8.749 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

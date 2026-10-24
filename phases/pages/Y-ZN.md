@@ -1,10 +1,10 @@
 # Y–Zn phases
 
-> Y–Zn system: 13 phases (tier A 5, tier C 5, liquid 1, needs_review 2); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Y–Zn system: 13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/Y-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/Y-ZN.md
 
-13 phases (tier A 5, tier C 5, liquid 1, needs_review 2); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=Y-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/Y-ZN.json) · [Y–Zn system page](https://data.orchid-project.org/systems/Y-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/Y-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -14,17 +14,17 @@ Table: Phases of the Y–Zn system (13)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-y-zn-bcc-a2); _phase:y-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1749.53–1818.58 K, x(Zn) 0–0.00117 | 0 | 2 |
 | [FCC_A1](#phase-y-zn-fcc-a1); _phase:y-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [HCP_A3](#phase-y-zn-hcp-a3); _phase:y-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2498.93 K, x(Zn) 0–1 | 8 | 2 |
-| [LIQUID](#phase-y-zn-liquid); _phase:y-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 692.68–2500 K, x(Zn) 0–1 | 47 | 2 |
+| [HCP_A3](#phase-y-zn-hcp-a3); _phase:y-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2498.93 K, x(Zn) 0–1 | 4 | 2 |
+| [LIQUID](#phase-y-zn-liquid); _phase:y-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 692.68–2500 K, x(Zn) 0–1 | 43 | 2 |
 | [Y13ZN58](#phase-y-zn-y13zn58); _phase:y-zn:y13zn58_ | Y13Zn58 · hP146 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1155.25 K, x(Zn) 0.8169–0.8169 | 14 | 2 |
-| [Y2ZN17](#phase-y-zn-y2zn17); _phase:y-zn:y2zn17_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1168.77 K, x(Zn) 0.89474–0.89474 | 22 | 2 |
-| [Y3ZN11](#phase-y-zn-y3zn11); _phase:y-zn:y3zn11_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1167.68 K, x(Zn) 0.78571–0.78571 | 17 | 2 |
+| [Y2ZN17](#phase-y-zn-y2zn17); _phase:y-zn:y2zn17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1168.77 K, x(Zn) 0.89474–0.89474 | 25 | 2 |
+| [Y3ZN11](#phase-y-zn-y3zn11); _phase:y-zn:y3zn11_ | Al11La3 · oI28 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1167.68 K, x(Zn) 0.78571–0.78571 | 20 | 2 |
 | [YZN_B2](#phase-y-zn-yzn-b2); _phase:y-zn:yzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1377.42 K, x(Zn) 0.5–0.50005 | 15 | 2 |
 | [YZN12_D2B](#phase-y-zn-yzn12-d2b); _phase:y-zn:yzn12-d2b_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–963.49 K, x(Zn) 0.92308–0.92308 | 7 | 2 |
 | [YZN2_HT](#phase-y-zn-yzn2-ht); _phase:y-zn:yzn2-ht_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1022.22–1352.95 K, x(Zn) 0.66667–0.66667 | 23 | 2 |
 | [YZN2_LT](#phase-y-zn-yzn2-lt); _phase:y-zn:yzn2-lt_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1023.02 K, x(Zn) 0.66667–0.66667 | 11 | 2 |
-| [YZN3](#phase-y-zn-yzn3); _phase:y-zn:yzn3_ | YZn3 · oP16 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1177.95 K, x(Zn) 0.75–0.75 | 18 | 2 |
-| [YZN5](#phase-y-zn-yzn5); _phase:y-zn:yzn5_ | ErZn5 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1144.19 K, x(Zn) 0.83333–0.83333 | 18 | 2 |
+| [YZN3](#phase-y-zn-yzn3); _phase:y-zn:yzn3_ | YZn3 · oP16 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1177.95 K, x(Zn) 0.75–0.75 | 21 | 2 |
+| [YZN5](#phase-y-zn-yzn5); _phase:y-zn:yzn5_ | ErZn5 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1144.19 K, x(Zn) 0.83333–0.83333 | 21 | 2 |
 
 ## BCC_A2 (Y–Zn)
 
@@ -101,11 +101,11 @@ _assessment that models this phase_
 - Id: `phase:y-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2498.93 K, x(Zn) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:y-zn:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2006.11.029:hcp, paper:10.1016/j.jallcom.2006.11.029:hcp - Zn  
+Names (4): _corpus: _corpus:phase:y-zn:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2006.11.029:hcp  
 _tdb: _tdb:YZn-06Sha.tdb:HCP_A3, tdb:YZn-08Liu.tdb:HCP_A3  
 
 
@@ -139,7 +139,7 @@ _cited as the source of values for this phase_
 - Id: `phase:y-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 692.68–2500 K, x(Zn) 0–1
-- Literature: 47 values (47 accepted) from 1 papers
+- Literature: 43 values (43 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:liquid)
 
 Names (4): _corpus: _corpus:phase:y-zn:liquid  
@@ -177,7 +177,8 @@ _cited as the source of values for this phase_
 - Id: `phase:y-zn:y13zn58`; status `assigned`
 - Structure: Y13Zn58 · hP146 · P6_3/mmc (194); type `st:y13zn58-hp146`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Y 0.1831, Zn 0.8169
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1155.25 K, x(Zn) 0.8169–0.8169
 - Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:y13zn58)
@@ -214,12 +215,17 @@ _cited as the source of values for this phase_
 
 ## Y2ZN17 (Y–Zn)
 
-- Id: `phase:y-zn:y2zn17`; status `assigned`
-- Structure: Ni17Th2 · hP38 · P6_3/mmc (194); type `st:ni17th2-hp38`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Id: `phase:y-zn:y2zn17`; status `needs_review`
+- No structure assigned. Why: assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_dft; no_structure_token; sgte_mmc2_row_disagrees_with_dft
+- Candidate (dft_mp): R-3m (166) — on-hull MP Y2Zn17 at x(ZN)=0.8947
+- Candidate (dft_oqmd): R-3m (166) — on-hull OQMD Y2 Zn17 at x(ZN)=0.8947
+- Candidate (literature_printed): Ni17Th2 · hP38 — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): Ni17Th2 · hP38 · P6_3/mmc (194) — Hallstedt 2025 mmc2 row for Y2ZN17: Y2Zn17
+- Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — YZn-06Sha.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc)'
+- Candidate (tdb_comment): Ni17Th2 · hP38 · P6_3/mmc — YZn-08Liu.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc)'
+- Stoichiometry: Y 0.1053, Zn 0.8947
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1168.77 K, x(Zn) 0.89474–0.89474
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 25 values (25 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:y2zn17)
 
 Names (5): _corpus: _corpus:phase:y-zn:y2zn17  
@@ -243,7 +249,7 @@ _tdb: _tdb:YZn-06Sha.tdb:Y2ZN17, tdb:YZn-08Liu.tdb:Y2ZN17
 77: CONST Y2ZN17 : Y : ZN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.11.029](https://doi.org/10.1016/j.jallcom.2006.11.029) X.J. Liu, M.Z. Wen, C.P. Wang, F.S. Pan, Thermodynamic assessment of the Zn–Y and Al–Zn–Y systems, Journal of Alloys and Compounds 452, 283-290 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -251,15 +257,22 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02644469](https://doi.org/10.1007/bf02644469) J. T. Mason, P. Chiotti, Phase diagram and thermodynamic properties of the yttrium-zinc system, Metall Trans A 7, 287-291 (1976).  
 _cited as the source of values for this phase_
+- [doi:10.1007/bf02651927](https://doi.org/10.1007/bf02651927) Z. P. Luo, H. X. Sui, S. Q. Zhang, On the stable Mg-Zn-Y quasicrystals, Metall Mater Trans A 27, 1779-1784 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1080/01418610008212098](https://doi.org/10.1080/01418610008212098) An-Pang Tsai, Yoshihiro Murakami, Akio Niikura, The Zn-Mg-Y phase diagram involving quasicrystals, Philosophical Magazine A 80, 1043-1054 (2000).  
+_cited as the source of values for this phase_
+- [doi:10.1080/095008398178020](https://doi.org/10.1080/095008398178020) H. Takakura, A. Sato, A. Yamamoto, A. P. Tsai, Crystal structure of a hexagonal phase and its relation to a quasicrystalline phase in Zn-Mg-Y alloy, Philosophical Magazine Letters 78, 263-270 (1998).  
+_cited as the source of values for this phase_
 
 ## Y3ZN11 (Y–Zn)
 
 - Id: `phase:y-zn:y3zn11`; status `assigned`
 - Structure: Al11La3 · oI28 · Immm (71); type `st:al11la3-oi28`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_71_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Y 0.2143, Zn 0.7857
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1167.68 K, x(Zn) 0.78571–0.78571
-- Literature: 17 values (17 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:y3zn11)
 
 Names (5): _corpus: _corpus:phase:y-zn:y3zn11  
@@ -283,13 +296,19 @@ _tdb: _tdb:YZn-06Sha.tdb:Y3ZN11, tdb:YZn-08Liu.tdb:Y3ZN11
 62: CONST Y3ZN11 : Y : ZN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.11.029](https://doi.org/10.1016/j.jallcom.2006.11.029) X.J. Liu, M.Z. Wen, C.P. Wang, F.S. Pan, Thermodynamic assessment of the Zn–Y and Al–Zn–Y systems, Journal of Alloys and Compounds 452, 283-290 (2008).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005) G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02644469](https://doi.org/10.1007/bf02644469) J. T. Mason, P. Chiotti, Phase diagram and thermodynamic properties of the yttrium-zinc system, Metall Trans A 7, 287-291 (1976).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02651927](https://doi.org/10.1007/bf02651927) Z. P. Luo, H. X. Sui, S. Q. Zhang, On the stable Mg-Zn-Y quasicrystals, Metall Mater Trans A 27, 1779-1784 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1080/01418610008212098](https://doi.org/10.1080/01418610008212098) An-Pang Tsai, Yoshihiro Murakami, Akio Niikura, The Zn-Mg-Y phase diagram involving quasicrystals, Philosophical Magazine A 80, 1043-1054 (2000).  
+_cited as the source of values for this phase_
+- [doi:10.1080/095008398178020](https://doi.org/10.1080/095008398178020) H. Takakura, A. Sato, A. Yamamoto, A. P. Tsai, Crystal structure of a hexagonal phase and its relation to a quasicrystalline phase in Zn-Mg-Y alloy, Philosophical Magazine Letters 78, 263-270 (1998).  
 _cited as the source of values for this phase_
 
 ## YZN_B2 (Y–Zn)
@@ -334,11 +353,15 @@ _cited as the source of values for this phase_
 
 - Id: `phase:y-zn:yzn12-d2b`; status `assigned`
 - Structure: Mn12Th · D2_b · tI26 · I4/mmm (139); type `st:d2-b-mn12th-ti26`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaabtry and oqmd-18184, space group 139
+- Stoichiometry: Y 0.0769, Zn 0.9231
 - Stability: stable in 2 of 2 calculated diagram(s): 300–963.49 K, x(Zn) 0.92308–0.92308
 - Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:yzn12-d2b)
 
-Names (5): _corpus: _corpus:phase:y-zn:yzn12-d2b  
+Names (7): _corpus: _corpus:phase:y-zn:yzn12-d2b  
+_mp: _mp:mp-aaaabtry  
+_oqmd: _oqmd:oqmd-18184  
 _paper: _paper:10.1016/j.calphad.2006.03.005:YZn12, paper:10.1016/j.jallcom.2006.11.029:YZn12  
 _tdb: _tdb:YZn-06Sha.tdb:YZN12_D2B, tdb:YZn-08Liu.tdb:YZN12_D2B  
 
@@ -371,8 +394,10 @@ _cited as the source of values for this phase_
 ## YZN2_HT (Y–Zn)
 
 - Id: `phase:y-zn:yzn2-ht`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition
+- Candidate (dft_oqmd): Imma (74) — on-hull OQMD Y1 Zn2 at x(ZN)=0.6667
 - Candidate (sgte_mmc2): (YZn2-ht) — Hallstedt 2025 mmc2 row for YZN2_HT: YZn2-ht
+- Stoichiometry: Y 0.3333, Zn 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 1022.22–1352.95 K, x(Zn) 0.66667–0.66667
 - Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:yzn2-ht)
@@ -410,8 +435,10 @@ _cited as the source of values for this phase_
 ## YZN2_LT (Y–Zn)
 
 - Id: `phase:y-zn:yzn2-lt`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition
+- Candidate (dft_oqmd): Imma (74) — on-hull OQMD Y1 Zn2 at x(ZN)=0.6667
 - Candidate (sgte_mmc2): (YZn2-lt) — Hallstedt 2025 mmc2 row for YZN2_LT: YZn2-lt
+- Stoichiometry: Y 0.3333, Zn 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1023.02 K, x(Zn) 0.66667–0.66667
 - Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:yzn2-lt)
@@ -451,9 +478,10 @@ _cited as the source of values for this phase_
 - Id: `phase:y-zn:yzn3`; status `assigned`
 - Structure: YZn3 · oP16 · Pnma (62); type `st:yzn3-op16`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_4_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Y 0.2500, Zn 0.7500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1177.95 K, x(Zn) 0.75–0.75
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:yzn3)
 
 Names (5): _corpus: _corpus:phase:y-zn:yzn3  
@@ -477,7 +505,7 @@ _tdb: _tdb:YZn-06Sha.tdb:YZN3, tdb:YZn-08Liu.tdb:YZN3
 57: CONST YZN3 : Y : ZN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.11.029](https://doi.org/10.1016/j.jallcom.2006.11.029) X.J. Liu, M.Z. Wen, C.P. Wang, F.S. Pan, Thermodynamic assessment of the Zn–Y and Al–Zn–Y systems, Journal of Alloys and Compounds 452, 283-290 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -485,15 +513,22 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02644469](https://doi.org/10.1007/bf02644469) J. T. Mason, P. Chiotti, Phase diagram and thermodynamic properties of the yttrium-zinc system, Metall Trans A 7, 287-291 (1976).  
 _cited as the source of values for this phase_
+- [doi:10.1007/bf02651927](https://doi.org/10.1007/bf02651927) Z. P. Luo, H. X. Sui, S. Q. Zhang, On the stable Mg-Zn-Y quasicrystals, Metall Mater Trans A 27, 1779-1784 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1080/01418610008212098](https://doi.org/10.1080/01418610008212098) An-Pang Tsai, Yoshihiro Murakami, Akio Niikura, The Zn-Mg-Y phase diagram involving quasicrystals, Philosophical Magazine A 80, 1043-1054 (2000).  
+_cited as the source of values for this phase_
+- [doi:10.1080/095008398178020](https://doi.org/10.1080/095008398178020) H. Takakura, A. Sato, A. Yamamoto, A. P. Tsai, Crystal structure of a hexagonal phase and its relation to a quasicrystalline phase in Zn-Mg-Y alloy, Philosophical Magazine Letters 78, 263-270 (1998).  
+_cited as the source of values for this phase_
 
 ## YZN5 (Y–Zn)
 
 - Id: `phase:y-zn:yzn5`; status `assigned`
 - Structure: ErZn5 · hP36 · P6_3/mmc (194); type `st:erzn5-hp36`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: Y 0.1667, Zn 0.8333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1144.19 K, x(Zn) 0.83333–0.83333
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:y-zn:yzn5)
 
 Names (5): _corpus: _corpus:phase:y-zn:yzn5  
@@ -517,13 +552,19 @@ _tdb: _tdb:YZn-06Sha.tdb:YZN5, tdb:YZn-08Liu.tdb:YZN5
 72: CONST YZN5 : Y : ZN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2006.11.029](https://doi.org/10.1016/j.jallcom.2006.11.029) X.J. Liu, M.Z. Wen, C.P. Wang, F.S. Pan, Thermodynamic assessment of the Zn–Y and Al–Zn–Y systems, Journal of Alloys and Compounds 452, 283-290 (2008).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005) G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02644469](https://doi.org/10.1007/bf02644469) J. T. Mason, P. Chiotti, Phase diagram and thermodynamic properties of the yttrium-zinc system, Metall Trans A 7, 287-291 (1976).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02651927](https://doi.org/10.1007/bf02651927) Z. P. Luo, H. X. Sui, S. Q. Zhang, On the stable Mg-Zn-Y quasicrystals, Metall Mater Trans A 27, 1779-1784 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1080/01418610008212098](https://doi.org/10.1080/01418610008212098) An-Pang Tsai, Yoshihiro Murakami, Akio Niikura, The Zn-Mg-Y phase diagram involving quasicrystals, Philosophical Magazine A 80, 1043-1054 (2000).  
+_cited as the source of values for this phase_
+- [doi:10.1080/095008398178020](https://doi.org/10.1080/095008398178020) H. Takakura, A. Sato, A. Yamamoto, A. P. Tsai, Crystal structure of a hexagonal phase and its relation to a quasicrystalline phase in Zn-Mg-Y alloy, Philosophical Magazine Letters 78, 263-270 (1998).  
 _cited as the source of values for this phase_
 
 ## Please cite

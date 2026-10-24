@@ -1,10 +1,10 @@
 # Er–Zr system
 
-> Er–Zr system: 40 accepted literature values (phase equilibrium 20, phase transition 14, invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Zr system: 39 accepted literature values (phase equilibrium 20, phase transition 13, invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-ZR.html · Markdown: https://data.orchid-project.org/systems/ER-ZR.md
 
-40 accepted literature values from 1 paper(s) (experimental 38, unspecified 2); 1 calculated phase diagram(s).
+39 accepted literature values from 1 paper(s) (experimental 37, unspecified 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-ZR.json) · [CSV](https://data.orchid-project.org/systems/ER-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-ZR/ErZr-10Jou.json) · [phases (4)](https://data.orchid-project.org/phases/pages/ER-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-ZR.html) · [Markdown](https://data.orchid-project.org/systems/ER-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 37 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 6 |
-| phase transition | 14 |
+| phase transition | 13 |
 | phase equilibrium | 20 |
 
 ## Calculated phase diagrams
@@ -57,13 +57,12 @@ Table: Invariant reactions reported in the literature for the Er–Zr system (6)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (13)
 
 Table: Phase transition, Er–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1178.15 K | 1178.15 | other: Zr; _alloy: Zr 1_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 2 |  |
 | Phase transition | 1223.15 K | 1223.15 | other: Er20Zr80; _alloy: Er 0.2, Zr 0.8_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 5 |  |
 | Phase transition | 1283.15 K | 1283.15 | other: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 7 |  |
 | Phase transition | 1318.15 K | 1318.15 | peritectoid: Er25Zr75; _alloy: Er 0.25, Zr 0.75_ | experimental | [1] Jourdan 2010 | Table 2, p. 4, row 6 |  |

@@ -1,33 +1,32 @@
 # Cu–Fe phases
 
-> Cu–Fe system: 5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cu–Fe system: 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CU-FE.html · Markdown: https://data.orchid-project.org/phases/pages/CU-FE.md
 
-5 phases (tier A 3, liquid 1, needs_review 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CU-FE) · [full JSON](https://data.orchid-project.org/phases/systems/CU-FE.json) · [Cu–Fe system page](https://data.orchid-project.org/systems/CU-FE.html) · [Markdown](https://data.orchid-project.org/phases/pages/CU-FE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cu–Fe system (5)
+Table: Phases of the Cu–Fe system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cu-fe-bcc-a2); _phase:cu-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.7 K, x(Fe) 0.93114–1 | 55 | 6 |
+| [BCC_A2](#phase-cu-fe-bcc-a2); _phase:cu-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.7 K, x(Fe) 0.93114–1 | 33 | 6 |
 | [FCC_A1](#phase-cu-fe-fcc-a1); _phase:cu-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1781.58 K, x(Fe) 0–1 | 52 | 6 |
-| [FCC-A1-2](#phase-cu-fe-fcc-a1-2); _phase:cu-fe:fcc-a1-2_ |  | needs_review | no calculated diagram | 0 | 0 |
 | [HCP_A3](#phase-cu-fe-hcp-a3); _phase:cu-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [LIQUID](#phase-cu-fe-liquid); _phase:cu-fe:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1357.77–2500 K, x(Fe) 0–1 | 77 | 6 |
+| [LIQUID](#phase-cu-fe-liquid); _phase:cu-fe:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1357.77–2500 K, x(Fe) 0–1 | 74 | 6 |
 
 ## BCC_A2 (Cu–Fe)
 
 - Id: `phase:cu-fe:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2499.7 K, x(Fe) 0.93114–1
-- Literature: 55 values (55 accepted) from 2 papers
+- Literature: 33 values (33 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:cu-fe:bcc-a2  
-_paper: _paper:10.1007/bf02664678:α, paper:10.1007/bf02664678:δ, paper:10.1007/bf02664678:ε, paper:10.1361/105497103770330280:α, paper:10.1361/105497103770330280:δ, paper:10.1361/105497103770330280:ε  
+Names (11): _corpus: _corpus:phase:cu-fe:bcc-a2  
+_paper: _paper:10.1007/bf02664678:α, paper:10.1007/bf02664678:δ, paper:10.1361/105497103770330280:α, paper:10.1361/105497103770330280:δ  
 _tdb: _tdb:CuFe-03Tur.tdb:BCC_A2, tdb:CuFe-15Ste.tdb:BCC_A2, tdb:CuFe-87Jan.tdb:BCC_A2, tdb:CuFe-93Ans-LB.tdb:BCC_A2, tdb:CuFe-93Swa.tdb:BCC_A2, tdb:CuFe-95Che.tdb:BCC_A2  
 
 
@@ -77,17 +76,17 @@ _tdb: _tdb:CuFe-03Tur.tdb:BCC_A2, tdb:CuFe-15Ste.tdb:BCC_A2, tdb:CuFe-87Jan.tdb:
 
 Example references (6 of 6; assessments first): 
 
-- [doi:10.1361/105497103770330280](https://doi.org/10.1361/105497103770330280) M. A. Turchanin, P. G. Agraval, I. V. Nikolaenko, Thermodynamics of alloys and phase equilibria in the copper-iron system, JPE 24, 307-319 (2003).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02664678](https://doi.org/10.1007/BF02664678) Q. Chen, Z.P. Jin, Metall. Mater. Trans. A, 26A, 417-26(1995).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1361/105497103770330280](https://doi.org/10.1361/105497103770330280) M. A. Turchanin, P. G. Agraval, I. V. Nikolaenko, Thermodynamics of alloys and phase equilibria in the copper-iron system, JPE 24, 307-319 (2003).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2015.08.042](https://doi.org/10.1016/j.actamat.2015.08.042) G. Stechauner, E. Kozeschnik, Thermo-kinetic modeling of Cu precipitation in α-Fe, Acta Materialia 100, 135-146 (2015).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(80)90026-7](https://doi.org/10.1016/0364-5916%2880%2990026-7) Mitsuhiro Hasebe, Taiji Nishizawa, Calculation of phase diagrams of the iron-copper and cobalt-copper systems, Calphad 4, 83-100 (1980).  
 _cited as the source of values for this phase_
-- [doi:10.1098/rsta.1957.0004](https://doi.org/10.1098/rsta.1957.0004) A. Hellawell, William Hume-Rothery, The constitution of alloys of iron and manganese with transition elements of the first long period, Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences 249, 417-459 (1957).  
-_cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(81)90036-5](https://doi.org/10.1016/0364-5916%2881%2990036-5) M. Hasebe and T. Nishizawa: “Further Study on Phase Diagram of the Iron-Copper System,” Calphad, 1981, 5, pp. 105-108.  
+_cited as the source of values for this phase_
+- [doi:10.1098/rsta.1957.0004](https://doi.org/10.1098/rsta.1957.0004) A. Hellawell, William Hume-Rothery, The constitution of alloys of iron and manganese with transition elements of the first long period, Philosophical Transactions of the Royal Society of London. Series A, Mathematical and Physical Sciences 249, 417-459 (1957).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Cu–Fe)
@@ -98,7 +97,7 @@ _cited as the source of values for this phase_
 - Literature: 52 values (52 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:fcc-a1)
 
-Names (9): _corpus: _corpus:phase:cu-fe:fcc-a1  
+Names (10): _corpus: _corpus:phase:cu-fe:fcc-a1, corpus:phase:cu-fe:fcc-a1-2  
 _paper: _paper:10.1007/bf02664678:γ, paper:10.1361/105497103770330280:γ  
 _tdb: _tdb:CuFe-03Tur.tdb:FCC_A1, tdb:CuFe-15Ste.tdb:FCC_A1, tdb:CuFe-87Jan.tdb:FCC_A1, tdb:CuFe-93Ans-LB.tdb:FCC_A1, tdb:CuFe-93Swa.tdb:FCC_A1, tdb:CuFe-95Che.tdb:FCC_A1  
 
@@ -161,18 +160,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(81)90036-5](https://doi.org/10.1016/0364-5916%2881%2990036-5) M. Hasebe and T. Nishizawa: “Further Study on Phase Diagram of the Iron-Copper System,” Calphad, 1981, 5, pp. 105-108.  
 _cited as the source of values for this phase_
-
-## FCC-A1-2 (Cu–Fe)
-
-- Id: `phase:cu-fe:fcc-a1-2`; status `needs_review`
-- No structure assigned. Why: unrecognised_name_tokens:2
-- Candidate (name_token): Cu · A1 · cF4 · Fm-3m (225) — Strukturbericht/word 'A1' in the TDB name
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:fcc-a1-2)
-
-Names (1): _corpus: _corpus:phase:cu-fe:fcc-a1-2  
-
 
 ## HCP_A3 (Cu–Fe)
 
@@ -244,7 +231,7 @@ _assessment that models this phase_
 - Id: `phase:cu-fe:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1357.77–2500 K, x(Fe) 0–1
-- Literature: 77 values (77 accepted) from 2 papers
+- Literature: 74 values (74 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:liquid)
 
 Names (13): _corpus: _corpus:phase:cu-fe:liquid  

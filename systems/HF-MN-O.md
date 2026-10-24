@@ -1,10 +1,10 @@
 # Hf–Mn–O system
 
-> Hf–Mn–O system: 29 accepted literature values (phase equilibrium 23, crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Mn–O system: 26 accepted literature values (phase equilibrium 23, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-MN-O.html · Markdown: https://data.orchid-project.org/systems/HF-MN-O.md
 
-29 accepted literature values from 1 paper(s) (experimental 29); 0 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 26); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MN-O.json) · [CSV](https://data.orchid-project.org/systems/HF-MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MN-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MN-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-MN-O.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 23 |
-| crystal structure | 6 |
+| crystal structure | 3 |
 
 ## Other properties
 
@@ -53,17 +53,14 @@ Table: Phase equilibrium, Hf–Mn–O system
 | Phase composition |  | 1173.15 | Matrix + Second phase + ηHf-Mn + η-Hf-Mn(-O) + Overall + η-Hf-Mn; _Matrix: Hf 0.535, Mn 0.464, O 0.001; Second phase: Hf 0.907, Mn 0.093, O 0; ηHf-Mn: Hf 0.535, Mn 0.464, O 0.001; η-Hf-Mn(-O): Hf 0.535, Mn 0.464, O 0.001; Overall: Hf 0.5, Mn 0.5, O 0; η-Hf-Mn: Hf 0.535, Mn 0.464, O 0.001_ | experimental | [1] Brož 2024 | Table 4a, p. 9, row 13 |  |
 | Phase composition |  | 1173.15 | Matrix + Second phase + ηHf-Mn + η-Hf-Mn(-O) + Overall + η-Hf-Mn; _Matrix: Hf 0.526, Mn 0.474, O 0; Second phase: Hf 0.946, Mn 0.054, O 0; ηHf-Mn: Hf 0.526, Mn 0.474, O 0; η-Hf-Mn(-O): Hf 0.526, Mn 0.474, O 0; Overall: Hf 0.523, Mn 0.477, O 0; η-Hf-Mn: Hf 0.526, Mn 0.474, O 0_ | experimental | [1] Brož 2024 | Table 4a, p. 9, row 17 |  |
 
-### Crystal structure (6)
+### Crystal structure (3)
 
 Table: Crystal structure, Hf–Mn–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661, O 0_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice a | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2 |  |
-| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661, O 0_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice b | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2 |  |
-| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661, O 0_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice c | 1.17935 not_printed ± 3.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.516, Mn 0.429, O 0.055_ | experimental | [1] Brož 2024 | Table 2, p. 4, row 2 |  |
 
 ## Sources

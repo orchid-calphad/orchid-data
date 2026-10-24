@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CaIn2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -40.983 kJ/mol-atom (mp-aaaabfei); OQMD -43.57 kJ/mol-atom (oqmd-10870).
 
-Systems: [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html)
+Systems: [Ca–In](https://data.orchid-project.org/systems/CA-IN.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CaIn2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.41 kJ/mol-atom | CaIn2 | 298.15 | model |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 6 |  |
-| -43.4 kJ/mol-atom | CaIn2 | 0 | DFT |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 5 |  |
+| -43.41 kJ/mol-atom | CaIn2 | 298.15 | model |  | [Ca–In](https://data.orchid-project.org/systems/CA-IN.html) | [1] Qin 2015 | Table 3, p. 3, row 6 |  |
+| -43.4 kJ/mol-atom | CaIn2 | 0 | DFT |  | [Ca–In](https://data.orchid-project.org/systems/CA-IN.html) | [1] Qin 2015 | Table 3, p. 3, row 5 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CaIn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.41 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43.4 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -43.41 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -43.4 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

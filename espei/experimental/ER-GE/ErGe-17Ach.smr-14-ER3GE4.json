@@ -69,7 +69,7 @@
      "sigma_effective": 1.4,
      "method_class": "emf",
      "method_basis": "prior",
-     "method_n_pairs": 1,
+     "method_n_pairs": 3,
      "method_entry": "value_types/SM_FORM/classes/emf"
     },
     "printed": {

@@ -12,7 +12,7 @@ Table: Phases of the Bi–Rb system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBOHEDRAL_A7](#phase-bi-rb-a7-rhombohedral); _phase:bi-rb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Rb) 0–0 | 16 | 2 |
+| [RHOMBOHEDRAL_A7](#phase-bi-rb-a7-rhombohedral); _phase:bi-rb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Rb) 0–0 | 10 | 2 |
 | [BCC_A2](#phase-bi-rb-bcc-a2); _phase:bi-rb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–312.46 K, x(Rb) 1–1 | 4 | 2 |
 | [BI2RB_C15](#phase-bi-rb-bi2rb-c15); _phase:bi-rb:bi2rb-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–886.97 K, x(Rb) 0.33333–0.33333 | 35 | 2 |
 | [BI2RB3](#phase-bi-rb-bi2rb3); _phase:bi-rb:bi2rb3_ | Eu3Ga2 · mC20 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–750 K, x(Rb) 0.6–0.6 | 58 | 2 |
@@ -30,7 +30,7 @@ Table: Phases of the Bi–Rb system (11)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Rb) 0–0
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-rb:a7-rhombohedral)
 
 Names (6): _corpus: _corpus:phase:bi-rb:a7-rhombohedral, corpus:phase:bi-rb:rhombohedral-a7  
@@ -54,7 +54,7 @@ _tdb: _tdb:BiRb-13Liu.tdb:RHOMBOHEDRAL_A7, tdb:BiRb-22Dzi.tdb:RHOMBOHEDRAL_A7
 55: CONST RHOMBOHEDRAL_A7 : BI : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1007/s11669-022-00968-3](https://doi.org/10.1007/s11669-022-00968-3) F. Dziri, Y. Djaballah, E. Belbacha, A. Belgacem Bouzida, Thermodynamic Reassessment of the Bi-Rb System Supported by Ab-Initio Calculations, J. Phase Equilib. Diffus. 43, 382-392 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -63,8 +63,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19613090305](https://doi.org/10.1002/zaac.19613090305) Geert Gnutzmann, Wilhelm Klemm, Das Verhalten der Alkalimetalle zu Halbmetallen. IV. Die Systeme des Kaliums, Rubidiums und Caesiums mit Wismut, Zeitschrift anorg allge chemie 309, 181-188 (1961).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02668237](https://doi.org/10.1007/bf02668237) A. Pelton and A. Petric, The Bi-Rb (Bismuth-Rubidium) System, JPE, 1993, 14(3), p 368–372.  
-_cited as the source of values for this phase_
-- [doi:10.1103/physrevb.50.9595](https://doi.org/10.1103/physrevb.50.9595) R. A. Robinson, A. Purwanto, M. Kohgi, P. C. Canfield, T. Kamiyama, T. Ishigaki et al., Crystallography and magnetism of the heavy-fermion compound YbBiPt, Phys. Rev. B 50, 9595-9598 (1994).  
 _cited as the source of values for this phase_
 - [doi:10.1149/1.2095424](https://doi.org/10.1149/1.2095424) Anthony Petric, Arthur D. Pelton, Marie‐Louise Saboungi, Electromotive Force Measurements in Molten Rb‐Bi Alloys with a Rubidium β″‐Alumina Electrolyte, J. Electrochem. Soc. 135, 2754-2760 (1988).  
 _cited as the source of values for this phase_

@@ -42,7 +42,7 @@
    "X_ZR": 1.0
   }
  },
- "weight": 0.500068,
+ "weight": 0.17241,
  "bibtex": "zaitsev2003_306816",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -94,21 +94,21 @@
      "sigma_printed": null,
      "sigma_reading": 5e-05,
      "sigma_reading_mu_J_per_mol": 17.4382,
-     "sigma_method": 0.002867,
-     "sigma_method_mu_J_per_mol": 999.906365,
+     "sigma_method": 0.008315,
+     "sigma_method_mu_J_per_mol": 2899.972593,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 0.002867,
-     "sigma_effective_mu_J_per_mol": 999.906365,
+     "sigma_effective": 0.008315,
+     "sigma_effective_mu_J_per_mol": 2899.972593,
      "method_class": "unknown",
-     "method_basis": "prior",
+     "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 9,
      "method_entry": "value_types/ACTIVITY/classes/unknown"
     },
-    "sigma_effective_used": 999.906365,
-    "weight_per_value_equivalent": 0.500047,
-    "weight_used": 0.500068
+    "sigma_effective_used": 2899.972593,
+    "weight_per_value_equivalent": 0.172415,
+    "weight_used": 0.17241
    },
    {
     "sigma": null,
@@ -117,21 +117,21 @@
      "sigma_printed": null,
      "sigma_reading": 0.0005,
      "sigma_reading_mu_J_per_mol": 18.73732,
-     "sigma_method": 0.02668,
-     "sigma_method_mu_J_per_mol": 999.823421,
+     "sigma_method": 0.07739,
+     "sigma_method_mu_J_per_mol": 2900.162465,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 0.02668,
-     "sigma_effective_mu_J_per_mol": 999.823421,
+     "sigma_effective": 0.07739,
+     "sigma_effective_mu_J_per_mol": 2900.162465,
      "method_class": "unknown",
-     "method_basis": "prior",
+     "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 9,
      "method_entry": "value_types/ACTIVITY/classes/unknown"
     },
-    "sigma_effective_used": 999.823421,
-    "weight_per_value_equivalent": 0.500088,
-    "weight_used": 0.500068
+    "sigma_effective_used": 2900.162465,
+    "weight_per_value_equivalent": 0.172404,
+    "weight_used": 0.17241
    }
   ]
  },
@@ -150,7 +150,7 @@
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 1.0,
   "weight_before_2026_10_24": 1.0,
-  "weight_written": 0.500068,
+  "weight_written": 0.17241,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

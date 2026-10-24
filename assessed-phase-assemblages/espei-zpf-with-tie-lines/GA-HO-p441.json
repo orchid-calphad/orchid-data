@@ -9,7 +9,6 @@
   "GA3HO",
   "GA3HO5_D88",
   "GA6HO",
-  "GAHO_B33",
   "HCP_A3",
   "LIQUID"
  ],
@@ -18,16 +17,13 @@
   "T": [
    429.0806492,
    717.5806492,
-   889.5806492,
    748.0806492,
    844.0806492,
    1598.580649,
    1323.580649,
    1328.580649,
    1414.080649,
-   1518.580649,
-   1510.580649,
-   1523.080649
+   1518.580649
   ]
  },
  "output": "ZPF",
@@ -87,35 +83,6 @@
     ],
     [
      0.2912546162
-    ]
-   ]
-  ],
-  [
-   [
-    "GAHO_B33",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA3HO5_D88",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.5622414733
     ]
    ]
   ],
@@ -258,64 +225,6 @@
      0.368393204
     ]
    ]
-  ],
-  [
-   [
-    "GAHO_B33",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.4740830872
-    ]
-   ]
-  ],
-  [
-   [
-    "GAHO_B33",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.5502198752
-    ]
-   ]
   ]
  ],
  "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 1807, 1810-1811 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 441",
@@ -331,21 +240,15 @@
   "record_ids": [
    "aspa-efca3e422cbd9e2a",
    "aspa-f41dcad3b69a4722",
-   "aspa-34d2aa432f6e4532",
    "aspa-0897660703750c59",
    "aspa-3a854721b7ddab4a",
    "aspa-94ebb29f36cd83f1",
    "aspa-6253197f5390f57b",
    "aspa-2b075aa214c9af2d",
    "aspa-c01945d2da89ace1",
-   "aspa-4c924696a570c72d",
-   "aspa-e3a012ca9f13667e",
-   "aspa-07d8737b6cd04879"
+   "aspa-4c924696a570c72d"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -394,24 +297,6 @@
      "sigma_reading": 0.00105345,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0410738,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-34d2aa432f6e4532",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.158,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 612.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.00105345,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0616107,
      "sigma_effective": 0.02
     }
    },
@@ -538,42 +423,6 @@
      "sigma_reading": 0.00105345,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0345621,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-e3a012ca9f13667e",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.158,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 27.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.00105345,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0255459,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-07d8737b6cd04879",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.158,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 20.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.00105345,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0495891,
      "sigma_effective": 0.02
     }
    }

@@ -20,7 +20,7 @@ Table: Phases of the Al–Pd system (13)
 | [AL4PD](#phase-al-pd-al4pd); _phase:al-pd:al4pd_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–877.27 K, x(Pd) 0.2–0.2 | 4 | 3 |
 | [ALPD_B2](#phase-al-pd-alpd-b2); _phase:al-pd:alpd-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1918.84 K, x(Pd) 0.44239–0.57122 | 8 | 2 |
 | [ALPD2_C37](#phase-al-pd-alpd2-c37); _phase:al-pd:alpd2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1691.49 K, x(Pd) 0.6465–0.72644 | 12 | 3 |
-| [BCC_A2](#phase-al-pd-bcc-a2); _phase:al-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
+| [BCC_A2](#phase-al-pd-bcc-a2); _phase:al-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 4 |
 | [B2_BCC](#phase-al-pd-bcc-b2); _phase:al-pd:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1940.47 K, x(Pd) 0.45766–0.54792 | 0 | 1 |
 | [FCC_A1](#phase-al-pd-fcc-a1); _phase:al-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2433 K, x(Pd) 0–1 | 8 | 3 |
 | [HCP_A3](#phase-al-pd-hcp-a3); _phase:al-pd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -414,7 +414,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-pd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 4 calculated diagram(s)
+- Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pd:bcc-a2)
 

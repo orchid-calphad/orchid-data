@@ -1,10 +1,10 @@
 # Al–Fe–Mo–Nb–Sn–Ta–V system
 
-> Al–Fe–Mo–Nb–Sn–Ta–V system: 14 accepted literature values (activity / EMF / Gibbs energy 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Mo–Nb–Sn–Ta–V system: 2 accepted literature values (activity / EMF / Gibbs energy 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.html · Markdown: https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.md
 
-14 accepted literature values from 1 paper(s) (model 7, DFT 7); 0 calculated phase diagram(s).
+2 accepted literature values from 1 paper(s) (model 1, DFT 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-MO-NB-SN-TA-V.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-MO-NB-SN-TA-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-MO-NB-SN-TA-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-MO-NB-SN-TA-V.md)
 
@@ -12,37 +12,25 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 7 |
-| DFT | 7 |
+| model | 1 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| activity / EMF / Gibbs energy | 14 |
+| activity / EMF / Gibbs energy | 2 |
 
 ## Other properties
 
-### Activity / EMF / Gibbs energy (14)
+### Activity / EMF / Gibbs energy (2)
 
 Table: Activity / EMF / Gibbs energy, Al–Fe–Mo–Nb–Sn–Ta–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 6878 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 1, Sn 0, Ta 0, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 4 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | -74 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 1, Ta 0, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 13 |  |
 | Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 1606 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 0, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 12 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 13938 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 1, Nb 0, Sn 0, Ta 0, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 8 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 9962 J/mol | 0 | UNKNOWN; _alloy: Fe 1, Mo 0, Nb 0, Sn 0, Ta 0, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 10 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 19267 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 1, Sn 0, Ta 0, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 3 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 7795 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 1, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 6 |  |
 | Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 1606 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 0, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 11 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 21835 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 1, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 5 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 12655 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 0, V 1_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 1 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 8965 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 0, Ta 0, V 1_ | model | [1] Yan 2016 | Table 4, p. 5, row 2 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 27904 J/mol | 0 | UNKNOWN; _alloy: Fe 1, Mo 0, Nb 0, Sn 0, Ta 0, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 9 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | 39043 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 1, Nb 0, Sn 0, Ta 0, V 0_ | DFT | [1] Yan 2016 | Table 4, p. 5, row 7 |  |
-| Gibbs energy; _printed: Gm(ω)-Gm(β)_ | -74 J/mol | 0 | UNKNOWN; _alloy: Fe 0, Mo 0, Nb 0, Sn 1, Ta 0, V 0_ | model | [1] Yan 2016 | Table 4, p. 5, row 14 |  |
 
 ## Sources
 

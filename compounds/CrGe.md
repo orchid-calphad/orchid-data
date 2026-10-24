@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CrGe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -10.25 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -13.85 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -10.25 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -13.85 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of CrGe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabewj | 1.407 | 0.014582 | P2_13 | 8.607 | 0.0892 | no |
-| OQMD | oqmd-1790912 | -1.042 | -0.010804 | P6/mmm | 7.446 | 0.0772 | yes |
+| OQMD | oqmd-1790912 | -1.042 | -0.010804 | P6/mmm | 7.4456 | 0.0772 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

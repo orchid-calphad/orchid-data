@@ -14,7 +14,7 @@ Table: Phases of the Ag–Hg system (7)
 |---|---|---|---|---:|---:|
 | [RHOMBO_A10](#phase-ag-hg-a10-rhombo); _phase:ag-hg:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [AG11HG15](#phase-ag-hg-ag11hg15); _phase:ag-hg:ag11hg15_ | Ag11Hg15 · cI52 · I23 (197) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–399.22 K, x(Hg) 0.57692–0.57692 | 2 | 1 |
-| [AG11HG9_A3](#phase-ag-hg-ag11hg9-a3); _phase:ag-hg:ag11hg9-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–548.23 K, x(Hg) 0.45–0.45 | 3 | 1 |
+| [AG11HG9_A3](#phase-ag-hg-ag11hg9-a3); _phase:ag-hg:ag11hg9-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–548.23 K, x(Hg) 0.45–0.45 | 2 | 1 |
 | [BCC_A2](#phase-ag-hg-bcc-a2); _phase:ag-hg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ag-hg-fcc-a1); _phase:ag-hg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1234.93 K, x(Hg) 0–0.37508 | 2 | 1 |
 | [HCP_A3](#phase-ag-hg-hcp-a3); _phase:ag-hg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -84,7 +84,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stoichiometry: Ag 0.5500, Hg 0.4500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–548.23 K, x(Hg) 0.45–0.45
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-hg:ag11hg9-a3)
 
 Names (3): _corpus: _corpus:phase:ag-hg:ag11hg9-a3  

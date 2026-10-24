@@ -12,30 +12,30 @@ Table: Phases of the Co–Ti system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-co-ti-bcc-a2); _phase:co-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 12 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96 | 25 | 12 |
+| [BCC_A2](#phase-co-ti-bcc-a2); _phase:co-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96 | 18 | 12 |
 | [B2_BCC](#phase-co-ti-bcc-b2); _phase:co-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.95 K, x(Ti) 0.41482–1 | 50 | 6 |
 | [C15_LAVES](#phase-co-ti-c15-laves); _phase:co-ti:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1524.39 K, x(Ti) 0.31983–0.34062 | 33 | 6 |
 | [C36_LAVES](#phase-co-ti-c36-laves); _phase:co-ti:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1550 K, x(Ti) 0.28715–0.3333 | 36 | 6 |
 | [COTI2](#phase-co-ti-coti2); _phase:co-ti:coti2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1340 K, x(Ti) 0.66667–0.66667 | 47 | 6 |
-| [A1_FCC](#phase-co-ti-fcc-a1); _phase:co-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 12 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423 | 37 | 12 |
+| [FCC_A1](#phase-co-ti-fcc-a1); _phase:co-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423 | 37 | 12 |
 | [L12_FCC](#phase-co-ti-fcc-l12); _phase:co-ti:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1885.95 K, x(Ti) 0–0.25 | 55 | 6 |
-| [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 28 | 6 |
+| [HCP_A3](#phase-co-ti-hcp-a3); _phase:co-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1 | 17 | 6 |
 | [LIQUID](#phase-co-ti-liquid); _phase:co-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1282.88–2500 K, x(Ti) 0–1 | 120 | 6 |
 
-## A2_BCC (Co–Ti)
+## BCC_A2 (Co–Ti)
 
 - Id: `phase:co-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 12 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96
-- Literature: 25 values (25 accepted) from 4 papers
+- Stability: stable in 6 of 6 calculated diagram(s): 1050–1920 K, x(Ti) 0.89–0.96
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:bcc-a2)
 
-Names (19): _corpus: _corpus:phase:co-ti:bcc-a2  
-_paper: _paper:10.1007/s11661-001-0193-8:A2, paper:10.1007/s42243-021-00736-6:β-Co2Ti, paper:10.1007/s42243-021-00736-6:ε-Co, paper:10.1016/j.jct.2019.105995:A2, paper:10.1016/j.jct.2019.105995:A2(βTi), paper:10.1016/s0966-9795(99)00098-9:A2  
+Names (17): _corpus: _corpus:phase:co-ti:bcc-a2  
+_paper: _paper:10.1007/s11661-001-0193-8:A2, paper:10.1016/j.jct.2019.105995:A2, paper:10.1016/j.jct.2019.105995:A2(βTi), paper:10.1016/s0966-9795(99)00098-9:A2  
 _tdb: _tdb:CoTi-00Cac.tdb:A2_BCC, tdb:CoTi-00Cac.tdb:BCC_A2, tdb:CoTi-01Dav-LB.tdb:A2_BCC, tdb:CoTi-01Dav-LB.tdb:BCC_A2, tdb:CoTi-18Zho.tdb:A2_BCC, tdb:CoTi-18Zho.tdb:BCC_A2, tdb:CoTi-20Wu.tdb:A2_BCC, tdb:CoTi-20Wu.tdb:BCC_A2, tdb:CoTi-22Yan.tdb:A2_BCC, tdb:CoTi-22Yan.tdb:BCC_A2, tdb:CoTi-24Tur.tdb:A2_BCC, tdb:CoTi-24Tur.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (12): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (12): PHASE and CONSTITUENT statements as written
 
 [CoTi-00Cac.tdb](https://orchid-project.org/data/databases/sgte-binary/CoTi-00Cac.tdb): A2_BCC, type code %B, sha256 `6fb1ebbac943b8ac…`
 
@@ -121,11 +121,9 @@ _tdb: _tdb:CoTi-00Cac.tdb:A2_BCC, tdb:CoTi-00Cac.tdb:BCC_A2, tdb:CoTi-01Dav-LB.t
 58: CONST BCC_A2 : CO TI% : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995) Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-001-0193-8](https://doi.org/10.1007/s11661-001-0193-8) A. V. Davydov, U. R. Kattner, D. Josell, R. M. Waterstrat, W. J. Boettinger, J. E. Blendell et al., Determination of the CoTi congruent melting point and thermodynamic reassessment of the Co-Ti system, Metall Mater Trans A 32, 2175-2186 (2001).  
 _assessment that models this phase; reports values for this phase_
@@ -133,11 +131,11 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01094-y](https://doi.org/10.1007/s11669-024-01094-y) Mykhailo Turchanin, Pavlo Agraval, Anna Vodopyanova, Liya Dreval, Thermodynamic Assessment of the Co-Ti System, J. Phase Equilib. Diffus. 45, 434-446 (2024).  
 _assessment that models this phase_
+- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.08.011](https://doi.org/10.1016/j.calphad.2018.08.011) C. Zhou, C. Guo, C. Li, Z. Du, Calphad, 63, 61-76(2018).  
 _assessment that models this phase_
 - [doi:10.1007/bf02873414](https://doi.org/10.1007/bf02873414) Joanne L. Murray, The Co−Ti (Cobalt−Titanium) system, Bulletin of Alloy Phase Diagrams 3 (1982).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2019.101681](https://doi.org/10.1016/j.calphad.2019.101681) F. Stein, M. Merali, and P. Watermeyer, The Co-Ti System Revisited: About the Cubic-to-Hexagonal Laves Phase Transformation and Other Controversial Features of the Phase Diagram, Calphad, 2019, 67(2), 101681.  
 _cited as the source of values for this phase_
 
 ## B2_BCC (Co–Ti)
@@ -469,11 +467,11 @@ _assessment that models this phase_
 - [doi:10.1007/bf02873414](https://doi.org/10.1007/bf02873414) Joanne L. Murray, The Co−Ti (Cobalt−Titanium) system, Bulletin of Alloy Phase Diagrams 3 (1982).  
 _cited as the source of values for this phase_
 
-## A1_FCC (Co–Ti)
+## FCC_A1 (Co–Ti)
 
 - Id: `phase:co-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 12 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423
+- Stability: stable in 6 of 6 calculated diagram(s): 593.41–1885.95 K, x(Ti) 0–0.15423
 - Literature: 37 values (37 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:fcc-a1)
 
@@ -482,7 +480,7 @@ _paper: _paper:10.1007/s11661-001-0193-8:A1, paper:10.1007/s11669-024-01094-y:(�
 _tdb: _tdb:CoTi-00Cac.tdb:A1_FCC, tdb:CoTi-00Cac.tdb:FCC_A1, tdb:CoTi-01Dav-LB.tdb:A1_FCC, tdb:CoTi-01Dav-LB.tdb:FCC_A1, tdb:CoTi-18Zho.tdb:A1_FCC, tdb:CoTi-18Zho.tdb:FCC_A1, tdb:CoTi-20Wu.tdb:A1_FCC, tdb:CoTi-20Wu.tdb:FCC_A1, tdb:CoTi-22Yan.tdb:A1_FCC, tdb:CoTi-22Yan.tdb:FCC_A1, tdb:CoTi-24Tur.tdb:A1_FCC, tdb:CoTi-24Tur.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (12): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (12): PHASE and CONSTITUENT statements as written
 
 [CoTi-00Cac.tdb](https://orchid-project.org/data/databases/sgte-binary/CoTi-00Cac.tdb): A1_FCC, type code %A, sha256 `6fb1ebbac943b8ac…`
 
@@ -680,11 +678,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1163.96 K, x(Ti) 0–1
-- Literature: 28 values (28 accepted) from 5 papers
+- Literature: 17 values (17 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ti:hcp-a3)
 
-Names (14): _corpus: _corpus:phase:co-ti:hcp-a3  
-_paper: _paper:10.1007/s11661-001-0193-8:A3, paper:10.1007/s11669-024-01094-y:(εCo), paper:10.1007/s42243-021-00736-6:α-Ti, paper:10.1007/s42243-021-00736-6:β-Ti, paper:10.1016/j.jct.2019.105995:A3, paper:10.1016/j.jct.2019.105995:A3(αTi), paper:10.1016/s0966-9795(99)00098-9:A3  
+Names (13): _corpus: _corpus:phase:co-ti:hcp-a3  
+_paper: _paper:10.1007/s11661-001-0193-8:A3, paper:10.1007/s11669-024-01094-y:(εCo), paper:10.1007/s42243-021-00736-6:α-Ti, paper:10.1016/j.jct.2019.105995:A3, paper:10.1016/j.jct.2019.105995:A3(αTi), paper:10.1016/s0966-9795(99)00098-9:A3  
 _tdb: _tdb:CoTi-00Cac.tdb:HCP_A3, tdb:CoTi-01Dav-LB.tdb:HCP_A3, tdb:CoTi-18Zho.tdb:HCP_A3, tdb:CoTi-20Wu.tdb:HCP_A3, tdb:CoTi-22Yan.tdb:HCP_A3, tdb:CoTi-24Tur.tdb:HCP_A3  
 
 
@@ -734,13 +732,13 @@ _tdb: _tdb:CoTi-00Cac.tdb:HCP_A3, tdb:CoTi-01Dav-LB.tdb:HCP_A3, tdb:CoTi-18Zho.t
 
 Example references (7 of 7; assessments first): 
 
-- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01094-y](https://doi.org/10.1007/s11669-024-01094-y) Mykhailo Turchanin, Pavlo Agraval, Anna Vodopyanova, Liya Dreval, Thermodynamic Assessment of the Co-Ti System, J. Phase Equilib. Diffus. 45, 434-446 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jct.2019.105995](https://doi.org/10.1016/j.jct.2019.105995) Liying Wu, Yinping Zeng, Yafei Pan, Yong Du, Yingbiao Peng, Han Li et al., Thermodynamic description and simulation of solidification microstructure in the Co-Ti system, The Journal of Chemical Thermodynamics 142, 105995 (2020).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-001-0193-8](https://doi.org/10.1007/s11661-001-0193-8) A. V. Davydov, U. R. Kattner, D. Josell, R. M. Waterstrat, W. J. Boettinger, J. E. Blendell et al., Determination of the CoTi congruent melting point and thermodynamic reassessment of the Co-Ti system, Metall Mater Trans A 32, 2175-2186 (2001).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1007/s42243-021-00736-6](https://doi.org/10.1007/s42243-021-00736-6) Hua-kou Yang, Chen-yang Zhou, Hang Wang, Bin Yang, Phase equilibria in Ti-rich portion and thermodynamic re-optimization of Co–Ti system, J. Iron Steel Res. Int. 29, 914-924 (2022).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(99)00098-9](https://doi.org/10.1016/S0966-9795%2899%2900098-9) G. Cacciamani, R. Ferro, I. Ansara, N. Dupin, Intermetallics, 8, 213-22(2000).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_

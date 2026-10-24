@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Pd2Sc.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1); OQMD -85.935 kJ/mol-atom (oqmd-1339201).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Pd–Sc](https://data.orchid-project.org/systems/PD-SC.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Pd2Sc reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -84.788 kJ/mol-atom | Pd2Sc | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59 |  |
+| -84.788 kJ/mol-atom | Pd2Sc | 298.15 | model | Optimization | [Pd–Sc](https://data.orchid-project.org/systems/PD-SC.html) | [1] Kardellass 2020; _cites Du 2002_ | Table 3, p. 5, row 59 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Pd2Sc
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -84.788 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -84.788 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,7 +34,7 @@ Table: DFT formation energy of Pd2Sc
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1339201 | -85.935 | -0.890661 | Pmma | 1.005 | 0.0104 | yes |
+| OQMD | oqmd-1339201 | -85.935 | -0.890661 | Pmma | 1.0054 | 0.0104 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

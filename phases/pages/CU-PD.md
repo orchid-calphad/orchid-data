@@ -14,11 +14,11 @@ Table: Phases of the Cu–Pd system (10)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-pd-bcc-a2); _phase:cu-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [B2_BCC](#phase-cu-pd-bcc-b2); _phase:cu-pd:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–865 K, x(Pd) 0.30064–0.49997 | 4 | 2 |
-| [D1_LPS](#phase-cu-pd-d1-lps); _phase:cu-pd:d1-lps_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1670–1710 K, x(Pd) 0.97–0.97 | 4 | 1 |
+| [D1_LPS](#phase-cu-pd-d1-lps); _phase:cu-pd:d1-lps_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1670–1710 K, x(Pd) 0.97–0.97 | 0 | 1 |
 | [D2_LPS](#phase-cu-pd-d2-lps); _phase:cu-pd:d2-lps_ | Cu3Pd · oP320 · Pnnm (58) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1720 K, x(Pd) 0–0.97 | 4 | 1 |
 | [FCC_2](#phase-cu-pd-fcc-2); _phase:cu-pd:fcc-2_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_3](#phase-cu-pd-fcc-3); _phase:cu-pd:fcc-3_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-cu-pd-fcc-a1); _phase:cu-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 3 calculated diagram(s): 300–2499.25 K, x(Pd) 0–1 | 10 | 3 |
+| [FCC_A1](#phase-cu-pd-fcc-a1); _phase:cu-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–2499.25 K, x(Pd) 0–1 | 10 | 3 |
 | [L12_FCC](#phase-cu-pd-fcc-l12); _phase:cu-pd:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1828 K, x(Pd) 0–1 | 4 | 1 |
 | [HCP_A3](#phase-cu-pd-hcp-a3); _phase:cu-pd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-cu-pd-liquid); _phase:cu-pd:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1357.77–2500 K, x(Pd) 0–1 | 1 | 2 |
@@ -102,16 +102,14 @@ _cited as the source of values for this phase_
 
 - Id: `phase:cu-pd:d1-lps`; status `needs_review`
 - No structure assigned. Why: assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_name; sgte_mmc2_row_disagrees_with_name:D1_LPS; unrecognised_name_tokens:LPS
-- Candidate (literature_printed): Cu3Pd · tP28 — printed with a label mapped to this phase
 - Candidate (name_token): NH3 · D1 · cP16 · P2_13 (198) — Strukturbericht/word 'D1' in the TDB name
 - Candidate (sgte_mmc2): Cu3Pd · tP28 · P4/mmm (123) — Hallstedt 2025 mmc2 row for D1_LPS: Cu3Pd (1D-LPS)
 - Candidate (tdb_comment): Cu3Pd · tP28 · P4/mmm — CuPd-08Li.tdb: 'Prototype Cu3Pd (tP28, P4/mmm), 1D-LPS'
 - Stability: stable in 1 of 1 calculated diagram(s): 1670–1710 K, x(Pd) 0.97–0.97
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pd:d1-lps)
 
-Names (4): _corpus: _corpus:phase:cu-pd:d1-lps  
-_paper: _paper:10.1016/j.calphad.2008.04.004:1D - LPS, paper:10.1016/j.calphad.2008.04.004:1D-LPS  
+Names (2): _corpus: _corpus:phase:cu-pd:d1-lps  
 _tdb: _tdb:CuPd-08Li.tdb:D1_LPS  
 
 
@@ -124,12 +122,10 @@ _tdb: _tdb:CuPd-08Li.tdb:D1_LPS
 50: CONST D1_LPS : CU% PD : CU PD% : VA :  !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.04.004](https://doi.org/10.1016/j.calphad.2008.04.004) Mei Li, Zhenmin Du, Cuiping Guo, Changrong Li, A thermodynamic modeling of the Cu–Pd system, Calphad 32, 439-446 (2008).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02663663](https://doi.org/10.1007/bf02663663) P Huang, S Menon, D de Fontaine, On the Cu-Pd phase diagram, JPE 12, 3-5 (1991).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## D2_LPS (Cu–Pd)
 
@@ -220,7 +216,7 @@ _assessment that models this phase_
 
 - Id: `phase:cu-pd:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 3 calculated diagram(s): 300–2499.25 K, x(Pd) 0–1
+- Stability: stable in 1 of 2 calculated diagram(s): 300–2499.25 K, x(Pd) 0–1
 - Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pd:fcc-a1)
 

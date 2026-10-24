@@ -1,10 +1,10 @@
 # Al–Pr system
 
-> Al–Pr system: 28 accepted literature values (invariant reaction 28) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pr system: 29 accepted literature values (invariant reaction 28, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PR.html · Markdown: https://data.orchid-project.org/systems/AL-PR.md
 
-28 accepted literature values from 1 paper(s) (experimental 11, model 17); 2 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 12, model 17); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PR/AlPr-01Yin.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-PR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 12 |
 | model | 17 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 28 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -115,6 +116,16 @@ Table: Invariant reactions reported in the literature for the Al–Pr system (28
 | 895.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019 | Table 3, p. 6, row 26 |  |
 | 893.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | experimental | [1] Liao 2019; _cites Saccone 1996_ | Table 3, p. 6, row 28 |  |
 | 892.15 | bcc -> AlPr3 + dhcp | AlPr3: Al 0.25, Pr 0.75 | model | [1] Liao 2019; _cites Yin 2001_ | Table 3, p. 6, row 27 |  |
+
+## Other properties
+
+### Phase transition (1)
+
+Table: Phase transition, Al–Pr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1238.15 K | 1238.15 | polymorphic | experimental | [1] Liao 2019; _cites Buschow 1966_ | p. 3 | “Buschow et al \[19\] first determined the entire composition by metallography, thermal analysis and x-ray diffractometry, and found four solution phases (liquid, fcc, bcc and dhcp) and six intermetallic compounds (Al4Pr, Al3Pr, Al2Pr, AlPr, AlPr2 and AlPr3), including an allotropic transformation α\_Al4Pr/β\_Al4Pr at 965 °C.” |
 
 ## Sources
 

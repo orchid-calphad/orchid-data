@@ -1,10 +1,10 @@
 # C–Fe–Mo system
 
-> C–Fe–Mo system: 24 accepted literature values (invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Fe–Mo system: 23 accepted literature values (invariant reaction 23) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-FE-MO.html · Markdown: https://data.orchid-project.org/systems/C-FE-MO.md
 
-24 accepted literature values from 1 paper(s) (model 24); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (model 23); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-FE-MO.json) · [CSV](https://data.orchid-project.org/systems/C-FE-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-FE-MO) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-FE-MO.html) · [Markdown](https://data.orchid-project.org/systems/C-FE-MO.md)
 
@@ -12,22 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 24 |
+| model | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
+| invariant reaction | 23 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Fe–Mo system (24)
+Table: Invariant reactions reported in the literature for the C–Fe–Mo system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2802 | L+MC1-x -> MC(h)+M2C | L: C 0.362539, Fe 0.008171, Mo 0.629291; MC1-x: C 0.395109, Fe 0.002245, Mo 0.602646; MC(h): C 0.374762, Fe 0, Mo 0.625238; M2C: C 0.325695, Fe 0.026011, Mo 0.648294; MC(η): C 0.374762, Fe 0, Mo 0.625238 | model | [1] Andersson 1988 | Table I, p. 10, row 1 |  |
-| 2762 | L+MC1-x -> M2C+G | L: C 0.428133, Fe 0.045831, Mo 0.526035; MC1-x: C 0.42765, Fe 0.013216, Mo 0.559134; M2C: C 0.329339, Fe 0.101878, Mo 0.568784; G: C 1.09876, Fe -0.236312, Mo 0.137553 (basis unresolved) | model | [1] Andersson 1988 | Table I, p. 10, row 2 |  |
 | 2196 | M2C+MC(h)+G -> MC1-x | M2C: C 0.331883, Fe 0.038371, Mo 0.629746; MC(h): C 0.409232, Fe 0, Mo 0.590768; MC1-x: C 0.431075, Fe 0.002777, Mo 0.566148; MC(η): C 0.409232, Fe 0, Mo 0.590768 | model | [1] Andersson 1988 | Table I, p. 10, row 3 |  |
 | 1902 | L+bcc+M2C -> M6C | L: C 0.079434, Fe 0.450812, Mo 0.469755; bcc: C 6.900e-4, Fe 0.095775, Mo 0.903535; M2C: C 0.198389, Fe 0.171191, Mo 0.63042; M6C: C 0.142978, Fe 0.458794, Mo 0.398227 | model | [1] Andersson 1988 | Table I, p. 10, row 4 |  |
 | 1808 | L+bcc -> σ+M6C | L: C 0.043845, Fe 0.526161, Mo 0.429994; bcc: C 2.230e-4, Fe 0.167367, Mo 0.83241; M6C: C 0.143041, Fe 0.45794, Mo 0.399018 | model | [1] Andersson 1988 | Table I, p. 10, row 5 |  |

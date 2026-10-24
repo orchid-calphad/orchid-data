@@ -18,7 +18,7 @@ Table: Phases of the In–Y system (10)
 | [HCP_A3](#phase-in-y-hcp-a3); _phase:in-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1758.96 K, x(Y) 0.9341–1 | 0 | 1 |
 | [IN3Y_L12](#phase-in-y-in3y-l12); _phase:in-y:in3y-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1390.92 K, x(Y) 0.25–0.25 | 0 | 1 |
 | [IN3Y5_D88](#phase-in-y-in3y5-d88); _phase:in-y:in3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1614.39 K, x(Y) 0.58255–0.625 | 0 | 1 |
-| [IN5Y3](#phase-in-y-in5y3); _phase:in-y:in5y3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1424.24 K, x(Y) 0.375–0.375 | 0 | 1 |
+| [IN5Y3](#phase-in-y-in5y3); _phase:in-y:in5y3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1424.24 K, x(Y) 0.375–0.375 | 1 | 1 |
 | [INY_B2](#phase-in-y-iny-b2); _phase:in-y:iny-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1487.62 K, x(Y) 0.5–0.5 | 0 | 1 |
 | [INY2_B82](#phase-in-y-iny2-b82); _phase:in-y:iny2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1595.34 K, x(Y) 0.66667–0.66667 | 0 | 1 |
 | [LIQUID](#phase-in-y-liquid); _phase:in-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 429.75–2500 K, x(Y) 0–1 | 0 | 1 |
@@ -192,10 +192,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: In 0.6250, Y 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1424.24 K, x(Y) 0.375–0.375
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-y:in5y3)
 
-Names (2): _corpus: _corpus:phase:in-y:in5y3  
+Names (3): _corpus: _corpus:phase:in-y:in5y3  
+_paper: _paper:10.2298/jmmb171121004h:In5Y3  
 _tdb: _tdb:InY-18Hu.tdb:IN5Y3  
 
 
@@ -211,7 +212,7 @@ _tdb: _tdb:InY-18Hu.tdb:IN5Y3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2298/JMMB171121004H](https://doi.org/10.2298/JMMB171121004H) Z. Hu, C. Huang, J. Tu, Y. Huang, A. Dong, J. Mining Metall. B, 54, 161-67(2018).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## INY_B2 (In–Y)
 

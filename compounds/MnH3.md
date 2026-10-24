@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of MnH3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 3.48 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| 3.62 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| 34.8312 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| 36.2785 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 3.48 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 3.62 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 34.8312 | kJ/mol-atom |  | 0.04824 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 36.2785 | kJ/mol-atom |  | 0.04824 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

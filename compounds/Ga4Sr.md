@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga4Sr.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
+Systems: [Ga–Sr](https://data.orchid-project.org/systems/GA-SR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ga4Sr reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40.051 kJ/mol-atom | Ga4Sr | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 13 |  |
+| -40.051 kJ/mol-atom | Ga4Sr | 0 | DFT | first-principles calculations | [Ga–Sr](https://data.orchid-project.org/systems/GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 13 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ga4Sr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.051 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -40.051 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

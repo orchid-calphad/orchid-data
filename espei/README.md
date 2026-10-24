@@ -4,20 +4,20 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 984 | 2941 | 192 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 527 | 829 | 85 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
-| invariants | 1656 | 5486 | 483 | ZPF datasets from experimental invariant-reaction tables |
-| dft/literature | 441 | 1050 | 44 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
-| dft/mp | 1218 | 1218 | 373 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
-| dft/oqmd | 1218 | 1218 | 373 | OQMD on-hull formation energies, HM_FORM endmember datasets |
+| experimental | 947 | 2886 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| model | 486 | 776 | 82 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| invariants | 1535 | 4987 | 465 | ZPF datasets from experimental invariant-reaction tables |
+| dft/literature | 774 | 1859 | 90 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
+| dft/mp | 1251 | 1251 | 381 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
+| dft/oqmd | 1251 | 1251 | 381 | OQMD on-hull formation energies, HM_FORM endmember datasets |
 
 Optional phase constraints (separate folders; never mixed with measured data; see "Phase constraints"):
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 655 | 7700 | 484 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
-| derived/invariant-brackets | 1114 | 5090 | 399 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
-| derived/liquid-stability | 431 | 3879 | 310 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
+| assessed | 636 | 6683 | 471 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
+| derived/invariant-brackets | 1055 | 4693 | 385 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/liquid-stability | 418 | 3762 | 302 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
 
@@ -92,62 +92,61 @@ ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference
 |---|---|---:|---:|---|---:|---|---:|---|
 | ACTIVITY | emf | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol (chemical potential) |
 | ACTIVITY | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol (chemical potential) |
-| ACTIVITY | unknown | 9 | 9 | prior (kubaschewski) |  |  | 1 | kJ/mol (chemical potential) |
+| ACTIVITY | unknown | 9 | 9 | cleaned_below_threshold (kubaschewski) | 2.891 | 0.7333-4.29 | 2.9 | kJ/mol (chemical potential) |
 | ACTIVITY | model_calculated (vs experiment) | 73 | 67 | prior |  |  | 1 | kJ/mol (chemical potential) |
 | CPM | dsc_dta | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | CPM | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| CPM | heat_content_calorimetry | 42 | 7 | prior (espei) |  |  | 0.2 | J/K/mol |
-| CPM | unknown | 6 | 6 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| CPM | model_calculated (vs experiment) | 227 | 89 | prior |  |  | 1 | J/K/mol |
-| G_MIX_PARTIAL | emf | 95 | 15 | calibrated | 3.166 | 1.384-6.091 | 3.2 | kJ/mol |
-| G_MIX_PARTIAL | experimental_unspecified | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
+| CPM | heat_content_calorimetry | 43 | 8 | cleaned_below_threshold (espei) | 0.4193 | 0.1363-1.856 | 0.5 | J/K/mol |
+| CPM | unknown | 6 | 6 | cleaned_below_threshold (kubaschewski) | 0.5776 | 0.2563-1.118 | 0.6 | J/K/mol |
+| CPM | model_calculated (vs experiment) | 229 | 90 | prior |  |  | 1 | J/K/mol |
+| G_MIX_PARTIAL | emf | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
+| G_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | G_MIX_PARTIAL | kems_vapour | 3 | 3 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | unknown | 15 | 15 | prior (kubaschewski) |  |  | 1 | kJ/mol |
-| G_MIX_PARTIAL | model_calculated (vs experiment) | 157 | 103 | prior |  |  | 1 | kJ/mol |
-| HM_FORM | combustion_calorimetry | 15 | 4 | prior (kubaschewski) |  |  | 1 | kJ/mol-atom |
+| G_MIX_PARTIAL | unknown | 15 | 15 | cleaned_below_threshold (kubaschewski) | 1.348 | 1.109-1.98 | 1.4 | kJ/mol |
+| G_MIX_PARTIAL | model_calculated (vs experiment) | 115 | 87 | prior |  |  | 1 | kJ/mol |
+| HM_FORM | combustion_calorimetry | 15 | 4 | cleaned_below_threshold (kubaschewski) | 0.8806 | 0.08806-5.33 | 1 | kJ/mol-atom |
 | HM_FORM | dsc_dta | 2 | 2 | prior (kubaschewski) |  |  | 2 | kJ/mol-atom |
-| HM_FORM | emf | 32 | 12 | calibrated | 8.072 | 3.879-14.36 | 8.1 | kJ/mol-atom |
-| HM_FORM | experimental_unspecified | 35 | 13 | calibrated | 3.77 | 1.573-5.032 | 3.8 | kJ/mol-atom |
-| HM_FORM | kems_vapour | 14 | 12 | prior (drowart2005) |  |  | 3 | kJ/mol-atom |
+| HM_FORM | emf | 17 | 8 | cleaned_below_threshold (kubaschewski) | 4.566 | 1.887-14.82 | 4.6 | kJ/mol-atom |
+| HM_FORM | experimental_unspecified | 30 | 10 | calibrated | 3.77 | 2.133-6.594 | 3.8 | kJ/mol-atom |
+| HM_FORM | kems_vapour | 18 | 13 | cleaned_below_threshold (drowart2005) | 5.556 | 3.355-11.72 | 5.6 | kJ/mol-atom |
 | HM_FORM | kems_vapour_second_law | 1 | 1 | prior (drowart2005) |  |  | 3 | kJ/mol-atom |
 | HM_FORM | kems_vapour_third_law | 0 | 0 | prior (drowart2005) |  |  | 2 | kJ/mol-atom |
-| HM_FORM | solution_reaction_calorimetry | 74 | 36 | calibrated | 3.428 | 1.932-5.902 | 3.5 | kJ/mol-atom |
-| HM_FORM | unknown | 312 | 106 | calibrated | 4.035 | 2.568-4.414 | 4.1 | kJ/mol-atom |
-| HM_FORM | model_calculated (vs experiment) | 2186 | 378 | calibrated | 3.271 | 2.858-4.16 | 3.3 | kJ/mol-atom |
+| HM_FORM | solution_reaction_calorimetry | 75 | 42 | calibrated | 3.496 | 2.181-5.976 | 3.5 | kJ/mol-atom |
+| HM_FORM | unknown | 296 | 97 | calibrated | 3.46 | 2.411-4.298 | 3.5 | kJ/mol-atom |
+| HM_FORM | model_calculated (vs experiment) | 2075 | 372 | calibrated | 3.36 | 2.891-4.245 | 3.4 | kJ/mol-atom |
 | H_MIX_PARTIAL | experimental_unspecified | 6 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | solution_reaction_calorimetry | 0 | 0 | prior (espei) |  |  | 0.5 | kJ/mol |
 | H_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | kJ/mol |
 | H_MIX_PARTIAL | model_calculated (vs experiment) | 133 | 57 | prior |  |  | 1 | kJ/mol |
-| SM_FORM | emf | 1 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
+| SM_FORM | emf | 3 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
+| SM_FORM | equilibration_other | 1 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
 | SM_FORM | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
 | SM_FORM | heat_content_calorimetry | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol-atom |
-| SM_FORM | kems_vapour | 2 | 2 | prior (drowart2005) |  |  | 2 | J/K/mol-atom |
+| SM_FORM | kems_vapour | 1 | 1 | prior (drowart2005) |  |  | 2 | J/K/mol-atom |
 | SM_FORM | kems_vapour_second_law | 0 | 0 | prior (drowart2005) |  |  | 3 | J/K/mol-atom |
-| SM_FORM | solution_reaction_calorimetry | 1 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
 | SM_FORM | unknown | 4 | 4 | prior (kubaschewski) |  |  | 1 | J/K/mol-atom |
-| SM_FORM | model_calculated (vs experiment) | 116 | 51 | calibrated | 3.608 | 2.762-4.837 | 3.7 | J/K/mol-atom |
-| S_ABS | emf | 46 | 2 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
+| SM_FORM | model_calculated (vs experiment) | 115 | 39 | calibrated | 3.204 | 1.601-4.144 | 3.3 | J/K/mol-atom |
+| S_ABS | emf | 45 | 1 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_ABS | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| S_ABS | heat_content_calorimetry | 18 | 8 | prior (espei) |  |  | 0.2 | J/K/mol |
-| S_ABS | kems_vapour | 3 | 3 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
-| S_ABS | unknown | 91 | 21 | calibrated | 0.4493 | 0.2621-0.9645 | 0.5 | J/K/mol |
-| S_ABS | model_calculated (vs experiment) | 240 | 78 | prior |  |  | 1 | J/K/mol |
-| S_MIX_PARTIAL | emf | 30 | 10 | calibrated | 3.879 | 2.097-14.94 | 3.9 | J/K/mol |
+| S_ABS | heat_content_calorimetry | 19 | 9 | cleaned_below_threshold (espei) | 0.9121 | 0.07339-1.929 | 1 | J/K/mol |
+| S_ABS | kems_vapour | 4 | 4 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
+| S_ABS | unknown | 90 | 20 | calibrated | 0.5941 | 0.2851-1.174 | 0.6 | J/K/mol |
+| S_ABS | model_calculated (vs experiment) | 257 | 81 | prior |  |  | 1 | J/K/mol |
+| S_MIX_PARTIAL | emf | 0 | 0 | prior (kubaschewski) |  |  | 0.5 | J/K/mol |
 | S_MIX_PARTIAL | experimental_unspecified | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol |
-| S_MIX_PARTIAL | kems_vapour | 3 | 3 | prior (kubaschewski) |  |  | 1 | J/K/mol |
-| S_MIX_PARTIAL | unknown | 1 | 1 | prior (kubaschewski) |  |  | 1 | J/K/mol |
-| S_MIX_PARTIAL | model_calculated (vs experiment) | 27 | 13 | prior |  |  | 1 | J/K/mol |
+| S_MIX_PARTIAL | unknown | 0 | 0 | prior (kubaschewski) |  |  | 1 | J/K/mol |
+| S_MIX_PARTIAL | model_calculated (vs experiment) | 14 | 8 | prior |  |  | 1 | J/K/mol |
 | T_INVARIANT | emf | 1 | 1 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | experimental_unspecified | 0 | 0 | prior (orchid_assumed) |  |  | 10 | K |
 | T_INVARIANT | thermal_analysis | 0 | 0 | prior (orchid_assumed) |  |  | 5 | K |
-| T_INVARIANT | unknown | 4981 | 1688 | calibrated | 9.435 | 8.387-10.48 | 10 | K |
-| T_INVARIANT | model_calculated (vs experiment) | 14188 | 5391 | calibrated | 3.707 | 3.113-4.448 | 4 | K |
+| T_INVARIANT | unknown | 4914 | 1677 | calibrated | 10.48 | 9.435-10.48 | 11 | K |
+| T_INVARIANT | model_calculated (vs experiment) | 14080 | 5361 | calibrated | 3.707 | 3.113-4.388 | 4 | K |
 | X_PHASE | experimental_unspecified | 6 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | metallography_microscopy | 1 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
 | X_PHASE | microanalysis | 0 | 0 | prior (orchid_assumed) |  |  | 0.005 | mole fraction |
 | X_PHASE | thermal_analysis | 1 | 1 | prior (orchid_assumed) |  |  | 0.01 | mole fraction |
-| X_PHASE | unknown | 3139 | 1453 | calibrated | 0.01048 | 0.01048-0.01258 | 0.011 | mole fraction |
-| X_PHASE | model_calculated (vs experiment) | 16938 | 8871 | calibrated | 0.004448 | 0.003855-0.004448 | 0.005 | mole fraction |
+| X_PHASE | unknown | 3022 | 1425 | calibrated | 0.01048 | 0.01048-0.01153 | 0.011 | mole fraction |
+| X_PHASE | model_calculated (vs experiment) | 16679 | 8807 | calibrated | 0.004448 | 0.004448-0.004448 | 0.005 | mole fraction |
 
 Which sigma applies to which data:
 
@@ -180,7 +179,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Former optional minimum-sigma policy (E6, superseded)
 
-Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1404 datasets, weight lower than before in 1297, higher in 0, unchanged in 107.
+Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1332 datasets, weight lower than before in 1236, higher in 1, unchanged in 95.
 
 ## Phase constraints (optional)
 

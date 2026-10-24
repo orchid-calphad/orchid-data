@@ -1,39 +1,37 @@
 # La–Pu phases
 
-> La–Pu system: 11 phases (tier A 6, liquid 1, needs_review 4); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–Pu system: 9 phases (tier A 5, liquid 1, needs_review 3); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-PU.html · Markdown: https://data.orchid-project.org/phases/pages/LA-PU.md
 
-11 phases (tier A 6, liquid 1, needs_review 4); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+9 phases (tier A 5, liquid 1, needs_review 3); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-PU) · [full JSON](https://data.orchid-project.org/phases/systems/LA-PU.json) · [La–Pu system page](https://data.orchid-project.org/systems/LA-PU.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-PU.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–Pu system (11)
+Table: Phases of the La–Pu system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-la-pu-a6-tetragonal); _phase:la-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 736.13–760.89 K, x(Pu) 0.99815–1 | 9 | 1 |
+| [TETRAGONAL_A6](#phase-la-pu-a6-tetragonal); _phase:la-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 736.13–760.89 K, x(Pu) 0.99815–1 | 6 | 1 |
 | [BCC_A2](#phase-la-pu-bcc-a2); _phase:la-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 753.89–1240.14 K, x(Pu) 0–1 | 6 | 1 |
-| [DHCP](#phase-la-pu-dhcp); _phase:la-pu:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-la-pu-dhcp-a3); _phase:la-pu:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1134.99 K, x(Pu) 0–0 | 0 | 1 |
 | [FCC_A1](#phase-la-pu-fcc-a1); _phase:la-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 472.48–1134.99 K, x(Pu) 0–1 | 19 | 1 |
-| [FCC-A1-2](#phase-la-pu-fcc-a1-2); _phase:la-pu:fcc-a1-2_ |  | needs_review | no calculated diagram | 0 | 0 |
 | [HCP_A3](#phase-la-pu-hcp-a3); _phase:la-pu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-la-pu-liquid); _phase:la-pu:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 912.12–4000 K, x(Pu) 0–1 | 11 | 1 |
-| [ALPHA_PU](#phase-la-pu-pu-alpha); _phase:la-pu:pu-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Pu) 1–1 | 3 | 1 |
-| [BETA_PU](#phase-la-pu-pu-beta); _phase:la-pu:pu-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Pu) 1–1 | 5 | 1 |
-| [GAMMA_PU](#phase-la-pu-pu-gamma); _phase:la-pu:pu-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 487.9–727.04 K, x(Pu) 1–1 | 13 | 1 |
+| [ALPHA_PU](#phase-la-pu-pu-alpha); _phase:la-pu:pu-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Pu) 1–1 | 0 | 1 |
+| [BETA_PU](#phase-la-pu-pu-beta); _phase:la-pu:pu-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Pu) 1–1 | 3 | 1 |
+| [GAMMA_PU](#phase-la-pu-pu-gamma); _phase:la-pu:pu-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 487.9–727.04 K, x(Pu) 1–1 | 5 | 1 |
 
 ## TETRAGONAL_A6 (La–Pu)
 
 - Id: `phase:la-pu:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 736.13–760.89 K, x(Pu) 0.99815–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:a6-tetragonal)
 
-Names (5): _corpus: _corpus:phase:la-pu:a6-tetragonal, corpus:phase:la-pu:tetragonal-a6  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(δ'Pu), paper:10.1016/j.jnucmat.2014.07.001:(δPu)  
+Names (4): _corpus: _corpus:phase:la-pu:a6-tetragonal, corpus:phase:la-pu:tetragonal-a6  
+_paper: _paper:10.1016/j.jnucmat.2014.07.001:(δ'Pu)  
 _tdb: _tdb:LaPu-14Liu.tdb:TETRAGONAL_A6  
 
 
@@ -80,17 +78,6 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (La–Pu)
 
-- Id: `phase:la-pu:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-pu:dhcp  
-
-
-## DHCP (La–Pu)
-
 - Id: `phase:la-pu:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
@@ -98,7 +85,7 @@ Names (1): _corpus: _corpus:phase:la-pu:dhcp
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:dhcp-a3)
 
-Names (2): _corpus: _corpus:phase:la-pu:dhcp-a3  
+Names (3): _corpus: _corpus:phase:la-pu:dhcp-a3, corpus:phase:la-pu:dhcp  
 _tdb: _tdb:LaPu-14Liu.tdb:DHCP  
 
 
@@ -124,7 +111,7 @@ _assessment that models this phase_
 - Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:la-pu:fcc-a1  
+Names (4): _corpus: _corpus:phase:la-pu:fcc-a1, corpus:phase:la-pu:fcc-a1-2  
 _paper: _paper:10.1016/j.jnucmat.2014.07.001:(βLa)  
 _tdb: _tdb:LaPu-14Liu.tdb:FCC_A1  
 
@@ -142,18 +129,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
 _assessment that models this phase; reports values for this phase_
-
-## FCC-A1-2 (La–Pu)
-
-- Id: `phase:la-pu:fcc-a1-2`; status `needs_review`
-- No structure assigned. Why: unrecognised_name_tokens:2
-- Candidate (name_token): Cu · A1 · cF4 · Fm-3m (225) — Strukturbericht/word 'A1' in the TDB name
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:fcc-a1-2)
-
-Names (1): _corpus: _corpus:phase:la-pu:fcc-a1-2  
-
 
 ## HCP_A3 (La–Pu)
 
@@ -213,16 +188,14 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:la-pu:pu-alpha`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): alpha-Pu · mP16 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): alpha-Pu · mP16 · P2_1/m (11) — Hallstedt 2025 mmc2 row for ALPHA_PU: Pu (alpha)
 - Candidate (tdb_comment): alpha-Pu · mP16 · P2_1/m — LaPu-14Liu.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Pu) 1–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:pu-alpha)
 
-Names (4): _corpus: _corpus:phase:la-pu:pu-alpha  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(αLa), paper:10.1016/j.jnucmat.2014.07.001:(αPu)  
+Names (2): _corpus: _corpus:phase:la-pu:pu-alpha  
 _tdb: _tdb:LaPu-14Liu.tdb:ALPHA_PU  
 
 
@@ -238,7 +211,7 @@ _tdb: _tdb:LaPu-14Liu.tdb:ALPHA_PU
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BETA_PU (La–Pu)
 
@@ -249,7 +222,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): beta-Pu · mC34 · C2/m — LaPu-14Liu.tdb: 'Prototype beta-Pu (mC34, C2/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Pu) 1–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:pu-beta)
 
 Names (4): _corpus: _corpus:phase:la-pu:pu-beta, corpus:phase:la-pu:beta-pu  
@@ -280,11 +253,11 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): gamma-Pu · oF8 · Fddd — LaPu-14Liu.tdb: 'Prototype gamma-Pu (oF8, Fddd)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 487.9–727.04 K, x(Pu) 1–1
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pu:pu-gamma)
 
-Names (5): _corpus: _corpus:phase:la-pu:pu-gamma, corpus:phase:la-pu:gamma-pu  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(γLa), paper:10.1016/j.jnucmat.2014.07.001:(γPu)  
+Names (4): _corpus: _corpus:phase:la-pu:pu-gamma, corpus:phase:la-pu:gamma-pu  
+_paper: _paper:10.1016/j.jnucmat.2014.07.001:(γPu)  
 _tdb: _tdb:LaPu-14Liu.tdb:GAMMA_PU  
 
 

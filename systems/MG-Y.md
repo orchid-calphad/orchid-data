@@ -1,10 +1,10 @@
 # Mg–Y system
 
-> Mg–Y system: 50 accepted literature values (invariant reaction 27, formation 10, crystal structure 7, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Y system: 55 accepted literature values (invariant reaction 27, crystal structure 12, formation 10, activity / EMF / Gibbs energy 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-Y.html · Markdown: https://data.orchid-project.org/systems/MG-Y.md
 
-50 accepted literature values from 4 paper(s) (experimental 22, model 23, unspecified 5); 4 calculated phase diagram(s).
+55 accepted literature values from 5 paper(s) (experimental 22, model 23, unspecified 10); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y.json) · [CSV](https://data.orchid-project.org/systems/MG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-Y/MgY-03Fab-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 22 |
 | model | 23 |
-| unspecified | 5 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 27 |
 | formation | 10 |
 | activity / EMF / Gibbs energy | 6 |
-| crystal structure | 7 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -150,16 +150,21 @@ Table: Activity / EMF / Gibbs energy, Mg–Y system
 | Gibbs energy; _printed: ΔG_ | -11.94 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | model | [1] Fabrichnaya 2003 | Table 4, p. 5, row 11 |  |
 | Gibbs energy; _printed: ΔG_ | -12.56 kJ/mol-at |  | YMg2; _alloy: Y 0.333333_ | experimental | [1] Fabrichnaya 2003; _cites Smith 1965_ | Table 4, p. 5, row 10 |  |
 
-### Crystal structure (7)
+### Crystal structure (12)
 
 Table: Crystal structure, Mg–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1 |  |
+| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
+| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3 |  |
 | Lattice a | 3.81 Å | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
 | Lattice a | 3.81 Å | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
+| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
 | lattice alpha | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
 | lattice beta | 90 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
+| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333_ | unspecified | [5] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
 | lattice gamma | 120 ° | 298.15 | UNKNOWN | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 2 |  |
 | lattice unspecified angle | 120 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
 | lattice unspecified angle | 90 ° | 298.15 | γMg-Y, MgY; _alloy: Y 0.5_ | model | [4] Shakhshir 2006; _cites Villars 1991_ | Table 4, p. 8, row 1 |  |
@@ -172,6 +177,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
 3. Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007). [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004)
 4. S. Al Shakhshir, M. Medraj, Computational thermodynamic model for the Mg−Al−Y system, JPED 27, 231-244 (2006). [doi:10.1361/154770306x109782](https://doi.org/10.1361/154770306x109782)
+5. G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006). [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005)
 
 ## Please cite
 

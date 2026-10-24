@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu17Sb3.html · Markdown: https:
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -0.27 kJ/mol-atom (n = 1).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html)
+Systems: [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Cu17Sb3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -0.27 kJ/mol-atom | γ(Cu17Sb3) | 775.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 2 |  |
-| -2.68 kJ/mol-atom | γ(Cu17Sb3) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 1 |  |
+| -0.27 kJ/mol-atom | γ(Cu17Sb3) | 775.15 | experimental |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 2 |  |
+| -2.68 kJ/mol-atom | γ(Cu17Sb3) |  | model |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000 | Table 2, p. 3, row 1 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cu17Sb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -0.27 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -2.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -0.27 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -2.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

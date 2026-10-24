@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al3V.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -27.8 kJ/mol-atom (n = 1); Materials Project -27.874 kJ/mol-atom (mp-aaaaadug); OQMD -27.24 kJ/mol-atom (oqmd-10604).
 
-Systems: [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html)
+Systems: [Al–V](https://data.orchid-project.org/systems/AL-V.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Al3V reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.8 kJ/mol-atom | Al3V | 298.15 | experimental | Exp | [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13 |  |
-| 1.194 kJ/mol-atom | Al3V |  | model |  | [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html) | [1] Luo 2018 | Table 3, p. 5, row 14 |  |
-| -26.91 kJ/mol-atom | Al3V |  | DFT | DFT | [Al–Si–V](https://data.orchid-project.org/systems/AL-SI-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
+| -27.8 kJ/mol-atom | Al3V | 298.15 | experimental | Exp | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13 |  |
+| 1.194 kJ/mol-atom | Al3V |  | model |  | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018 | Table 3, p. 5, row 14 |  |
+| -26.91 kJ/mol-atom | Al3V |  | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
 
 ### Uncertainty budget
 
@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Al3V
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -27.8 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| 1.194 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.91 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 1.194 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.91 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

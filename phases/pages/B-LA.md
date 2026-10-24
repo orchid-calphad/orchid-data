@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/B-LA.html · Markdown: https:
 
 9 phases (tier A 5, liquid 1, needs_review 3); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=B-LA) · [full JSON](https://data.orchid-project.org/phases/systems/B-LA.json) · [Markdown](https://data.orchid-project.org/phases/pages/B-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=B-LA) · [full JSON](https://data.orchid-project.org/phases/systems/B-LA.json) · [B–La system page](https://data.orchid-project.org/systems/B-LA.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the B–La system (9)
 
@@ -19,7 +19,7 @@ Table: Phases of the B–La system (9)
 | [FCC_A1](#phase-b-la-fcc-a1); _phase:b-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 550–1189 K, x(B) 0–0 | 0 | 3 |
 | [LAB4_D1E](#phase-b-la-lab4-d1e); _phase:b-la:lab4-d1e_ | UB4 · D1_e · tP20 · P4/mbm (127) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2076.53 K, x(B) 0.8–0.8 | 0 | 3 |
 | [LAB6_D21](#phase-b-la-lab6-d21); _phase:b-la:lab6-d21_ | CaB6 · D2_1 · cP7 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2996.53 K, x(B) 0.85714–0.85714 | 0 | 3 |
-| [LAB9](#phase-b-la-lab9); _phase:b-la:lab9_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–2278.19 K, x(B) 0.9–0.9 | 0 | 3 |
+| [LAB9](#phase-b-la-lab9); _phase:b-la:lab9_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–2278.19 K, x(B) 0.9–0.9 | 3 | 3 |
 | [LIQUID](#phase-b-la-liquid); _phase:b-la:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1181.92–4000 K, x(B) 0–1 | 0 | 3 |
 
 ## ALPHA_RHOMBO_B (B–La)
@@ -30,6 +30,7 @@ Table: Phases of the B–La system (9)
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — LaB-13Tan-ass.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — LaB-13Tan.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — LaB-22Wei.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-la:b-alpha-rhombo)
@@ -76,6 +77,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — LaB-13Tan-ass.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — LaB-13Tan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — LaB-22Wei.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 1388–2351.4 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-la:b-beta-rhombo)
@@ -341,10 +343,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (LaB9) — Hallstedt 2025 mmc2 row for LAB9: LaB9
 - Stoichiometry: B 0.9000, La 0.1000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2278.19 K, x(B) 0.9–0.9
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-la:lab9)
 
-Names (4): _corpus: _corpus:phase:b-la:lab9  
+Names (5): _corpus: _corpus:phase:b-la:lab9  
+_paper: _paper:10.1007/s11669-013-0231-4:LaB9  
 _tdb: _tdb:LaB-13Tan-ass.tdb:LAB9, tdb:LaB-13Tan.tdb:LAB9, tdb:LaB-22Wei.tdb:LAB9  
 
 
@@ -374,7 +377,7 @@ _tdb: _tdb:LaB-13Tan-ass.tdb:LAB9, tdb:LaB-13Tan.tdb:LAB9, tdb:LaB-22Wei.tdb:LAB
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-2021-8340](https://doi.org/10.1515/ijmr-2021-8340) Q. Wei, M.H. Rong, S. Li, D. Su, Q.R. Yao, J. Wang, Q. Chen, G.H. Rao, H.Y. Zhou, Int. J. Mater. Res., 113, 400-418(2022).  
 _assessment that models this phase_
 

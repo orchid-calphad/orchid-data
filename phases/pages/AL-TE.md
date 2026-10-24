@@ -16,8 +16,8 @@ Table: Phases of the Al–Te system (11)
 | [AL2TE3](#phase-al-te-al2te3); _phase:al-te:al2te3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1167.29 K, x(Te) 0.6–0.6 | 2 | 1 |
 | [AL2TE3_ALPHA](#phase-al-te-al2te3-alpha); _phase:al-te:al2te3-alpha_ | Al2Te3 · mP240 · P2_1 (4) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–993.15 K, x(Te) 0.6–0.6 | 4 | 1 |
 | [AL2TE3_BETA](#phase-al-te-al2te3-beta); _phase:al-te:al2te3-beta_ | Al2Te3 · mP40 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 993.15–1165.36 K, x(Te) 0.6–0.6 | 2 | 1 |
-| [AL2TE5](#phase-al-te-al2te5); _phase:al-te:al2te5_ | Al2Te5 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 682.23–735.99 K, x(Te) 0.71429–0.71429 | 6 | 1 |
-| [ALTE](#phase-al-te-alte); _phase:al-te:alte_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1128.7 K, x(Te) 0.5–0.5 | 6 | 1 |
+| [AL2TE5](#phase-al-te-al2te5); _phase:al-te:al2te5_ | Al2Te5 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 682.23–735.99 K, x(Te) 0.71429–0.71429 | 10 | 1 |
+| [ALTE](#phase-al-te-alte); _phase:al-te:alte_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1128.7 K, x(Te) 0.5–0.5 | 7 | 1 |
 | [BCC_A2](#phase-al-te-bcc-a2); _phase:al-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-al-te-fcc-a1); _phase:al-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–933.47 K, x(Te) 0–0 | 2 | 2 |
 | [HCP_A3](#phase-al-te-hcp-a3); _phase:al-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -168,7 +168,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.2857, Te 0.7143
 - Stability: stable in 1 of 1 calculated diagram(s): 682.23–735.99 K, x(Te) 0.71429–0.71429
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-te:al2te5)
 
 Names (3): _corpus: _corpus:phase:al-te:al2te5  
@@ -185,10 +185,12 @@ _tdb: _tdb:AlTe-19Shi.tdb:AL2TE5
 69: CONST AL2TE5 : AL : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-019-00733-z](https://doi.org/10.1007/s11669-019-00733-z) Chenying Shi, Biaobiao Yang, Biao Hu, Yong Du, Sheng Yao, Thermodynamic Description of the Al–X (X = S, Se, Te) Systems, J. Phase Equilib. Diffus. 40, 392-402 (2019).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19966220611](https://doi.org/10.1002/zaac.19966220611) H. J. Deiseroth, P. Amann, H. Thurn, Die Pentatelluride M\<sub>2\</sub>Te\<sub>5\</sub> (M = Al, Ga, In): Polymorphie, Strukturbeziehungen und Homogenitätsbereiche, Zeitschrift anorg allge chemie 622, 985-993 (1996).  
+_cited as the source of values for this phase_
 - [doi:10.1515/znb-1988-0209](https://doi.org/10.1515/znb-1988-0209) Rüdiger Kniep, Peter Blees, Phasengleichgewichte und intermediäre Phasen im System Al–Te / Phase Relations and Intermediate Phases in the Al–Te System, Zeitschrift für Naturforschung B 43, 182-188 (1988).  
 _cited as the source of values for this phase_
 
@@ -201,7 +203,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (AlTe) — Hallstedt 2025 mmc2 row for ALTE: AlTe
 - Stoichiometry: Al 0.5000, Te 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1128.7 K, x(Te) 0.5–0.5
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-te:alte)
 
 Names (3): _corpus: _corpus:phase:al-te:alte  

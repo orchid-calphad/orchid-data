@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Np2O5 reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -310.286 kJ/mol-atom | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016 | Table 9, p. 12, row 3 |  |
-| -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
-| -308.957 kJ/mol-atom ± 9.3 | Np2O5(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
+| -308.957 kJ/mol-atom ± 1.32857 | Np2O5(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 4 |  |
+| -308.957 kJ/mol-atom ± 1.32857 | Np2O5(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 7 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Np2O5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -310.286 | kJ/mol-atom |  | 0.07143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -308.957 | kJ/mol-atom | 9.3 | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 9.3 |
-| -308.957 | kJ/mol-atom | 9.3 | 0.007143 | 4.1 (unknown, calibrated) |  |  |  | 9.3 |
+| -310.286 | kJ/mol-atom |  | 0.007143 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -308.957 | kJ/mol-atom | 1.329 | 0.007143 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -308.957 | kJ/mol-atom | 1.329 | 0.007143 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

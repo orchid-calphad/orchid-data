@@ -1,10 +1,10 @@
 # C–Y phases
 
-> C–Y system: 13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Y system: 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-Y.html · Markdown: https://data.orchid-project.org/phases/pages/C-Y.md
 
-13 phases (tier A 8, tier C 1, liquid 1, needs_review 3); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-Y) · [full JSON](https://data.orchid-project.org/phases/systems/C-Y.json) · [C–Y system page](https://data.orchid-project.org/systems/C-Y.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-Y.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -22,7 +22,7 @@ Table: Phases of the C–Y system (13)
 | [Y15C19_ALPHA](#phase-c-y-y15c19-alpha); _phase:c-y:y15c19-alpha_ | alpha-Y15C19 · oP18 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1577.78 K, x(C) 0.54024–0.55882 | 0 | 2 |
 | [Y15C19_BETA](#phase-c-y-y15c19-beta); _phase:c-y:y15c19-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1577–1802.7 K, x(C) 0.55247–0.55882 | 0 | 2 |
 | [Y2C3_BETA](#phase-c-y-y2c3-beta); _phase:c-y:y2c3-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1419.06–1939.61 K, x(C) 0.5625–0.59934 | 0 | 2 |
-| [Y2C3_D5C](#phase-c-y-y2c3-d5c); _phase:c-y:y2c3-d5c_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1458.9 K, x(C) 0.56893–0.6 | 0 | 2 |
+| [Y2C3_D5C](#phase-c-y-y2c3-d5c); _phase:c-y:y2c3-d5c_ | Pu2C3 · D5_c · cI40 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1458.9 K, x(C) 0.56893–0.6 | 0 | 2 |
 | [YC_B1](#phase-c-y-yc-b1); _phase:c-y:yc-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 362.2–2671.34 K, x(C) 0.17039–0.66533 | 6 | 2 |
 | [YC2_C11A](#phase-c-y-yc2-c11a); _phase:c-y:yc2-c11a_ | CaC2 · C11_a · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1614.54 K, x(C) 0.66667–0.66667 | 0 | 2 |
 
@@ -30,6 +30,7 @@ Table: Phases of the C–Y system (13)
 
 - Id: `phase:c-y:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-y:a4-diamond)
@@ -65,6 +66,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-y:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-y:a9-graphite)
@@ -161,6 +163,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-y:graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-y:graphite)
@@ -364,12 +367,8 @@ _assessment that models this phase_
 
 ## Y2C3_D5C (C–Y)
 
-- Id: `phase:c-y:y2c3-d5c`; status `needs_review`
-- No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D5_c; site_ratios_contradict_D5_c:YC-95Gro-LB.tdb
-- Candidate (name_token): Pu2C3 · D5_c · cI40 · I-43d (220) — Strukturbericht/word 'D5C' in the TDB name
-- Candidate (sgte_mmc2): Pu2C3 · D5_c · cI40 · I-43d (220) — Hallstedt 2025 mmc2 row for Y2C3_D5C: Y2C3
-- Candidate (tdb_comment): Pu2C3 · cI40 · I-43d — YC-19Xu.tdb: 'Prototype Pu2C3 (cI40, I-43d)'
-- Candidate (tdb_comment): Pu2C3 · cI40 · I-43d — YC-95Gro-LB.tdb: 'Prototype Pu2C3 (cI40, I-43d)'
+- Id: `phase:c-y:y2c3-d5c`; status `assigned`
+- Structure: Pu2C3 · D5_c · cI40 · I-43d (220); type `st:d5-c-pu2c3-ci40`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1458.9 K, x(C) 0.56893–0.6
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-y:y2c3-d5c)
@@ -447,6 +446,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:c-y:yc2-c11a`; status `assigned`
 - Structure: CaC2 · C11_a · tI6 · I4/mmm (139); type `st:c11-a-cac2-ti6`; tier A: standard phase name; confidence high
+- Stoichiometry: C 0.6667, Y 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1614.54 K, x(C) 0.66667–0.66667
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-y:yc2-c11a)

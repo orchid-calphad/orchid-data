@@ -2,6 +2,49 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Audit round 2 fixes A1-A4 (2026-10-24, PI "fix all").** Ledger: `~/projects/ORCHID_AUDIT_2026-10-24/FIXES_R2.md`
+(finding, fix, evidence, test). Page checks 1,251 -> 1,534 in `tools/literature_visual_checks.json` (rendered pages
+viewed by AI agents; hashes only). (A1, compositions and systems) fractions printed under an at.% header and divided
+by 100 twice, corrected per page-checked table (20 tables plus 26 stray cells; ZPF values were 100x too small);
+composition axes that contradict the printed header flipped where the page confirms it; compositions assigned to the
+wrong phase re-assigned by stoichiometry within the row (page-checked), remaining conflicts flagged
+`label_conflicts_composition` (184, flag precision 75 % on 20 page checks); every record is filed under the system
+of its own state (7,863 records moved to their binary or unary subsystem; the paper's system in `source_system`;
+folds recomputed; 1,400 -> 1,475 systems); element-symbol errors (Ta-N, cement notation Ca-Fe-O, S for Si, stale
+zero entries); accepted compositions outside [0, 1] not accepted. (A3, units and conditions) per-formula / per-atom
+basis and sign decided once per printed column on the page (Mg2Si, CuO, TaB2, HfB, Co17Y2 / Co5Y, ...); the
+DFT-driven conversion rule ("accept a conversion only if it lands near DFT") withdrawn; absolute entropies labelled
+SM_FORM relabelled SM (116); H(T)-H(298) at the row temperature (747); A + B.T coefficients stored as expression terms
+without a single temperature (623); 298-subscript, direct-synthesis and 0 K experimental temperatures corrected;
+printed sigma rescaled with its converted value (165); formation from compounds and energies referred to another
+phase (Ti-Ni martensites vs B2) are not _FORM; reading resolution counts printed decimals. Method classes: Knudsen
+cell -> KEMS (before EMF), evaluated compilations never paired; calibration pairs keyed on phase and reference
+state, per-formula / per-atom duplicates of one source screened, sources identified by (first author, year).
+Floors recalibrated after the cleaning; classes below the >= 20 pairs / >= 10 states rule with >= 5 independent pairs
+from >= 3 states take max(documented prior, cleaned robust sigma) (`cleaned_below_threshold`): formation enthalpy
+EMF 8.1 -> 4.6, KEMS 3.0 -> 5.6, method not printed 4.1 -> 3.5 kJ/mol-atom, calorimetry 3.5, unspecified 3.8;
+T_invariant 10 -> 11 K (table in `literature/UNCERTAINTY_CALIBRATION.md`). (A4, DFT) DFT entries matched within the
+printed structure (CuZr B2, NiTi B2, Fe2Ti C14, Mg2Sr C14; `dft_structure_match`, unmatched outside the default);
+`ehull` from ORCHID's own hulls for MP and OQMD (OQMD mismatches 364 -> 0; provider value in `ehull_upstream`);
+`NiSi_2` parsed as NiSi2; off-stoichiometric measurements carry |dx| x hull-slope sigma and leave the default beyond
+0.02; liquid / amorphous states never paired; non-integer formulas unified; parity folds equal the literature
+record's; hull catalogs `correction_model` MP2020 / OQMD fit-partial, `source_release` (was `mp_release`), exact
+unary ties resolved to known structures (`degenerate_endpoints` separate); calibration CIs also by system-cluster
+bootstrap (`ci95_cluster_system`; MP sigma 8.9 [7.1, 11.1], OQMD 7.5 [6.4, 9.3], literature DFT 7.1 [5.3, 9.8]).
+(A2, phases) literature model phases are no longer assigned from a bare Greek letter (eps / beta-compound -> BCC_A2,
+C-U phi -> GRAPHITE_A9; 3,706 mappings withdrawn, kept in `model_phase_rejected`; printed-structure fields carry
+`structure_basis`); `phase_mapper.py` under version control in orchid-project.org/tools (git blob in
+`assessed-phase-assemblages/summary.json`) with the polymorph, Greek-table, element-of-solution, '?' and ION-liquid
+fixes; registry: one-letter first sublattice kept (301 models), interstitial FCC_A1 carbides / nitrides as B1 (ZrH2
+and dihydrides C1), ordered phases over disordered ranges caveated, DIS_PART names never preferred, 66 orphan ids
+merged as aliases, liquid classes, NiTi B19', Al4C3 hR7. Dataset 6: unbounded schematic fields below 0 K excluded,
+BaH2 and (gamma Fe,Pt) names from the handbook pages, order/disorder partners agree in the SGTE cross-check (83.0 ->
+83.2 % of comparable comparisons). Counts: records 73,538 -> 73,550; accepted 72,359 -> 72,291; espei_ready 11,928
+-> 11,858; DFT parity points 7,696 -> 7,546 (default MP 1,199 -> 1,181, MAE 10.8 -> 10.4; OQMD 1,251 -> 1,222,
+9.4 -> 9.1 kJ/mol-atom); ESPEI datasets 6,044 -> 6,244 (experimental 984 -> 947, model 527 -> 486, invariants
+1,656 -> 1,535, DFT literature 441 -> 774, MP / OQMD 1,218 -> 1,251); ESPEI 0.9.1 likelihood of all 8,353 evaluated
+datasets finite. Permanent invariant tests: `tools/tests/test_r2_{compositions,thermo,dft,phases}.py`.
+
 **Audit fixes A5 (figures) and A6 (paper numbers and claims) (2026-10-24, PI-approved).** (1) Calculated invariants:
 `parquet/phase_diagram_invariants.parquet` has one row per distinct invariant (tools/calc_invariants.py: same phases
 with the mapper's `#n` suffix ignored, T within 0.1 K, sorted phase compositions within 0.01; 24,828 mapper hits ->

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/GE-Y.html · Markdown: https://dat
 
 62 accepted literature values from 1 paper(s) (experimental 28, model 34); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/GE-Y.json) · [CSV](https://data.orchid-project.org/systems/GE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-Y/GeY-13Idb.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-Y.html) · [Markdown](https://data.orchid-project.org/systems/GE-Y.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GE-Y.json) · [CSV](https://data.orchid-project.org/systems/GE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-Y/GeY-13Idb.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-Y.html) · [Markdown](https://data.orchid-project.org/systems/GE-Y.md)
 
 Table: Accepted values by evidence class
 
@@ -111,12 +111,12 @@ Table: Enthalpies of formation, Ge–Y system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ge1.5Y-HT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -84.1 kJ/mol-atom ± 3.7 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7 |  |
-| Ge1.5Y-HT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -83.025 kJ/mol-atom | 2985 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
-| Ge1.5Y-HT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -67.903 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
-| Ge1.5Y-LT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -84.785 kJ/mol-atom | 298.15 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
-| Ge1.5Y-LT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -77.8 kJ/mol-atom ± 3.4 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4 |  |
-| Ge1.5Y-LT | [Ge1.5Y](https://data.orchid-project.org/compounds/Ge1.5Y.html) | -69.664 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.1 kJ/mol-atom ± 3.7 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 7 |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -83.025 kJ/mol-atom | 2985 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 9 |  |
+| Ge1.5Y-HT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -67.903 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 8 |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -84.785 kJ/mol-atom | 298.15 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 6 |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -77.8 kJ/mol-atom ± 3.4 | 870 | experimental | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 4 |  |
+| Ge1.5Y-LT | [Ge3Y2](https://data.orchid-project.org/compounds/Ge3Y2.html) | -69.664 kJ/mol-atom | 870 | model | -48.013 (mp-aaacreze) |  | [1] Idbenali 2013 | Table 4, p. 5, row 5 |  |
 | Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -104.82 kJ/mol-atom | 298.15 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 16 |  |
 | Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -100.5 kJ/mol-atom ± 5.2 | 870 | experimental | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013; _cites Polotskaya 1996_ [doi](https://doi.org/10.1007/bf01328840) | Table 4, p. 5, row 14 |  |
 | Ge10Y11 | [Ge10Y11](https://data.orchid-project.org/compounds/Ge10Y11.html) | -89.461 kJ/mol-atom | 870 | model | -84.382 (mp-aaacqssw) |  | [1] Idbenali 2013 | Table 4, p. 5, row 15 |  |

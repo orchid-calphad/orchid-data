@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/InY.html · Markdown: https://da
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [In–Sc–Y](https://data.orchid-project.org/systems/IN-SC-Y.html)
+Systems: [In–Y](https://data.orchid-project.org/systems/IN-Y.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of InY reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.8 kJ/mol-atom | InY | 0 | DFT | first-principles calculations | [In–Sc–Y](https://data.orchid-project.org/systems/IN-SC-Y.html) | [1] Hu 2018 | Table 2, p. 3, row 8 |  |
+| -49.8 kJ/mol-atom | InY | 0 | DFT | first-principles calculations | [In–Y](https://data.orchid-project.org/systems/IN-Y.html) | [1] Hu 2018 | Table 2, p. 3, row 8 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of InY
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -49.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -49.8 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

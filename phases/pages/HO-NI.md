@@ -13,7 +13,7 @@ Table: Phases of the Ho–Ni system (13)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ho-ni-bcc-a2); _phase:ho-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 1 | 2 |
-| [FCC_A1](#phase-ho-ni-fcc-a1); _phase:ho-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.72 K, x(Ni) 0.99998–1 | 9 | 2 |
+| [FCC_A1](#phase-ho-ni-fcc-a1); _phase:ho-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.72 K, x(Ni) 0.99998–1 | 7 | 2 |
 | [HCP_A3](#phase-ho-ni-hcp-a3); _phase:ho-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1782.44 K, x(Ni) 0–8e-05 | 10 | 2 |
 | [HO2NI17](#phase-ho-ni-ho2ni17); _phase:ho-ni:ho2ni17_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1561.5 K, x(Ni) 0.89474–0.89474 | 20 | 2 |
 | [HO2NI7](#phase-ho-ni-ho2ni7); _phase:ho-ni:ho2ni7_ | Co7Gd2 · hR18 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1592.57 K, x(Ni) 0.77778–0.77778 | 19 | 2 |
@@ -24,7 +24,7 @@ Table: Phases of the Ho–Ni system (13)
 | [HONI2_C15](#phase-ho-ni-honi2-c15); _phase:ho-ni:honi2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1469.69 K, x(Ni) 0.65686–0.66667 | 18 | 2 |
 | [HONI3](#phase-ho-ni-honi3); _phase:ho-ni:honi3_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1560.42 K, x(Ni) 0.75–0.75 | 19 | 2 |
 | [HONI5_D2D](#phase-ho-ni-honi5-d2d); _phase:ho-ni:honi5-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1645.82 K, x(Ni) 0.83333–0.83333 | 24 | 2 |
-| [LIQUID](#phase-ho-ni-liquid); _phase:ho-ni:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1002.77–2500 K, x(Ni) 0–1 | 75 | 2 |
+| [LIQUID](#phase-ho-ni-liquid); _phase:ho-ni:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1002.77–2500 K, x(Ni) 0–1 | 73 | 2 |
 
 ## BCC_A2 (Ho–Ni)
 
@@ -67,11 +67,11 @@ _assessment that models this phase_
 - Id: `phase:ho-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.72 K, x(Ni) 0.99998–1
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-ni:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:ho-ni:fcc-a1  
-_paper: _paper:10.1007/s10853-022-08039-1:fcc(Ni), paper:10.1007/s10973-014-4189-1:(Ni), paper:10.1007/s10973-014-4189-1:(fcc_A1), paper:10.1007/s10973-014-4189-1:fcc_A1  
+Names (6): _corpus: _corpus:phase:ho-ni:fcc-a1  
+_paper: _paper:10.1007/s10853-022-08039-1:fcc(Ni), paper:10.1007/s10973-014-4189-1:(Ni), paper:10.1007/s10973-014-4189-1:fcc_A1  
 _tdb: _tdb:HoNi-15Kar.tdb:FCC_A1, tdb:HoNi-23Ye.tdb:FCC_A1  
 
 
@@ -495,7 +495,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ho-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1002.77–2500 K, x(Ni) 0–1
-- Literature: 75 values (75 accepted) from 2 papers
+- Literature: 73 values (73 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-ni:liquid)
 
 Names (5): _corpus: _corpus:phase:ho-ni:liquid  

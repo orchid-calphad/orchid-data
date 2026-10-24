@@ -1,10 +1,10 @@
 # NbSn2: enthalpy of formation
 
-> Enthalpy of formation of NbSn2: 10 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of NbSn2: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/NbSn2.html · Markdown: https://data.orchid-project.org/compounds/NbSn2.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 2, model 8).
+10 accepted literature formation-enthalpy value(s) (experimental 2, model 8); Materials Project -13.422 kJ/mol-atom (mp-aaaaabog); OQMD -19.065 kJ/mol-atom (oqmd-17753).
 
 Systems: [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html)
 
@@ -16,14 +16,14 @@ Table: Enthalpy of formation of NbSn2 reported in the literature (10)
 |---:|---|---:|---|---|---|---|---|---|
 | -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | -18.21 kJ/mol (basis unstated) ± 0.81 | NbSn2 | 860 | experimental | Electromotive force | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1 |  |
-| -20.143 kJ/mol (basis unstated) | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 6 |  |
+| -20.143 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 6 |  |
 | -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 4 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
+| -17.585 kJ/mol-atom | NbSn2 | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
 | -17.585 kJ/mol (basis unstated) | NbSn2 | 860 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| -17.585 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
-| -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
+| -17.585 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
+| -16 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
 | -16 kJ/mol (basis unstated) | NbSn2 | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
-| -15.495 kJ/mol (basis unstated) | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5 |  |
+| -15.495 kJ/mol-atom | NbSn2 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 4, p. 3, row 5 |  |
 
 ### Uncertainty budget
 
@@ -33,16 +33,29 @@ Table: Uncertainty budget of the literature values of NbSn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -18.21 | kJ/mol (basis unstated) | 0.81 | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -18.21 | kJ/mol (basis unstated) | 0.81 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -20.143 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -15.495 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -18.21 | kJ/mol (basis unstated) | 0.81 | 5.000e-4 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -18.21 | kJ/mol (basis unstated) | 0.81 | 0.005 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -20.143 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -17.585 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.585 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -17.585 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -15.495 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of NbSn2
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabog | -13.422 | -0.139109 | Fddd | 0 | 0 | no |
+| OQMD | oqmd-17753 | -19.065 | -0.197594 | Fddd | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 

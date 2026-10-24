@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cu4Ti3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -9.65 | kJ/mol (basis unstated) | 0.88 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.921 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.65 | kJ/mol (basis unstated) | 0.88 | 5.000e-4 | 24.5 (unknown, calibrated) |  |  |  | 24.5 |
+| -14.921 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
 
 ## Sources
 

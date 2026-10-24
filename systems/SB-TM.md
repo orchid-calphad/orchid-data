@@ -89,10 +89,10 @@ Table: Enthalpies of formation, Sb–Tm system (8)
 | Sb2Tm | [Sb2Tm](https://data.orchid-project.org/compounds/Sb2Tm.html) | -71 kJ/mol-atom |  | model | -30.191 (mp-aaacfycm) | -64.631 (oqmd-1436072) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 1 |  |
 | αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -83.519 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011 | Table 7, p. 5, row 8 |  |
 | αSb3Tm5 | [Sb3Tm5](https://data.orchid-project.org/compounds/Sb3Tm5.html) | -80 kJ/mol-atom |  | model | -89.518 (mp-aaacdiol) | -83 (oqmd-31049) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 7 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -157 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.099 (oqmd-1753832) | [1] Wang 2011; _cites Pratt 1970_ | Table 7, p. 5, row 4 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -115 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.099 (oqmd-1753832) | [1] Wang 2011; _cites Boer 1988_ | Table 7, p. 5, row 5 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -112.99 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.099 (oqmd-1753832) | [1] Wang 2011 | Table 7, p. 5, row 6 |  |
-| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -88 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.099 (oqmd-1753832) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3 |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -157 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Pratt 1970_ | Table 7, p. 5, row 4 |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -115 kJ/mol-atom | 298.15 | experimental | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Boer 1988_ | Table 7, p. 5, row 5 |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -112.99 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011 | Table 7, p. 5, row 6 |  |
+| αSbTm | [SbTm](https://data.orchid-project.org/compounds/SbTm.html) | -88 kJ/mol-atom |  | model | -111.529 (mp-aaaaadsy) | -103.093 (oqmd-8171) | [1] Wang 2011; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 7, p. 5, row 3 |  |
 
 ## Other properties
 

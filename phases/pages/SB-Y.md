@@ -20,7 +20,7 @@ Table: Phases of the Sb–Y system (9)
 | [SB3Y4_D73](#phase-sb-y-sb3y4-d73); _phase:sb-y:sb3y4-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1937.55–2393.33 K, x(Y) 0.57143–0.57143 | 6 | 1 |
 | [SB3Y5_D88](#phase-sb-y-sb3y5-d88); _phase:sb-y:sb3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1970.37 K, x(Y) 0.625–0.625 | 6 | 1 |
 | [SBY_B1](#phase-sb-y-sby-b1); _phase:sb-y:sby-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Y) 0.5–0.5 | 8 | 1 |
-| [SBY3](#phase-sb-y-sby3); _phase:sb-y:sby3_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1514.23 K, x(Y) 0.75–0.75 | 4 | 1 |
+| [SBY3](#phase-sb-y-sby3); _phase:sb-y:sby3_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1514.23 K, x(Y) 0.75–0.75 | 6 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Sb–Y)
 
@@ -266,7 +266,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sb 0.2500, Y 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1514.23 K, x(Y) 0.75–0.75
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-y:sby3)
 
 Names (3): _corpus: _corpus:phase:sb-y:sby3  

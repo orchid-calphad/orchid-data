@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CeMg.html · Markdown: https://d
 
 1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -8 kJ/mol-atom (n = 1); Materials Project 0.742 kJ/mol-atom (mp-aaachcsm); OQMD -11.851 kJ/mol-atom (oqmd-88154).
 
-Systems: [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html)
+Systems: [Ce–Mg](https://data.orchid-project.org/systems/CE-MG.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CeMg reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -8 kJ/mol-atom | CeMg | 298.15 | experimental | Vapor press. | [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html) | [1] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 6 |  |
+| -8 kJ/mol-atom | CeMg | 298.15 | experimental | Vapor press. | [Ce–Mg](https://data.orchid-project.org/systems/CE-MG.html) | [1] Hampl 2013; _cites ref. 1967Ogr_ | Table 6, p. 10, row 6 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CeMg
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8 | kJ/mol-atom |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -8 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of CeMg
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaachcsm | 0.742 | 0.007686 | C2/m | 2.564 | 0.0266 | yes |
-| OQMD | oqmd-88154 | -11.851 | -0.12283 | Pm-3m | 0.001 | 0 | no |
+| Materials Project | mp-aaachcsm | 0.742 | 0.007686 | C2/m | 2.5638 | 0.0266 | yes |
+| OQMD | oqmd-88154 | -11.851 | -0.12283 | Pm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

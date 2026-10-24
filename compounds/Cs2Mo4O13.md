@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cs2Mo4O13
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -201.453 | kJ/mol-atom |  | 0.002632 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -201.453 | kJ/mol-atom |  | 0.002632 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

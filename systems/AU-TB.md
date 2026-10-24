@@ -1,10 +1,10 @@
 # Au–Tb system
 
-> Au–Tb system: 83 accepted literature values (invariant reaction 68, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Tb system: 79 accepted literature values (invariant reaction 68, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TB.html · Markdown: https://data.orchid-project.org/systems/AU-TB.md
 
-83 accepted literature values from 2 paper(s) (experimental 53, model 30); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+79 accepted literature values from 2 paper(s) (experimental 51, model 28); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TB.json) · [CSV](https://data.orchid-project.org/systems/AU-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TB/AuTb-16Otm.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TB.html) · [Markdown](https://data.orchid-project.org/systems/AU-TB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
-| model | 30 |
+| experimental | 51 |
+| model | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 68 |
-| phase transition | 15 |
+| phase transition | 11 |
 
 ## Calculated phase diagrams
 
@@ -162,7 +162,7 @@ Table: Invariant reactions reported in the literature for the Au–Tb system (68
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (11)
 
 Table: Phase transition, Au–Tb system
 
@@ -176,10 +176,6 @@ Table: Phase transition, Au–Tb system
 | Phase transition | 1530 K | 1530 | congruent melting: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | model | [2] Otmani 2016 | Table 1, p. 3, row 20 |  |
 | Phase transition | 1538 K | 1538 | congruent melting: L -> TbAu2; _L: Tb 0.333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 19 |  |
 | Phase transition | 1553 K | 1553 | congruent melting: L⇔TbAu2; _L: Tb 0.333333; TbAu2: Tb 0.333333_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 38 |  |
-| Phase transition | 1562 K | 1562 | polymorphic: αTb -> βTb; _αTb: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 3 |  |
-| Phase transition | 1562 K | 1562 | polymorphic: αTb -> βTb; _αTb: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 4 |  |
-| Phase transition | 1629 K | 1629 | congruent melting: L -> βTb; _L: Tb 1_ | model | [2] Otmani 2016 | Table 1, p. 3, row 2 |  |
-| Phase transition | 1629 K | 1629 | congruent melting: L -> βTb; _L: Tb 1_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 1 |  |
 | Phase transition | 1863 K | 1863 | congruent melting: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 11 |  |
 | Phase transition | 1863 K | 1863 | congruent melting: L⇔βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | experimental | [2] Otmani 2016; _cites Saccone 2000_ [doi](https://doi.org/10.1016/s0966-9795%2899%2900099-0) | Table 1, p. 3, row 35 |  |
 | Phase transition | 1866 K | 1866 | congruent melting: L -> βTbAu; _L: Tb 0.5; βTbAu: Tb 0.5_ | model | [2] Otmani 2016 | Table 1, p. 3, row 12 |  |

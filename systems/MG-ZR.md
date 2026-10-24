@@ -1,28 +1,29 @@
 # Mg–Zr system
 
-> Mg–Zr system: 33 accepted literature values (mixing / partial 19, invariant reaction 12, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Zr system: 34 accepted literature values (mixing / partial 19, invariant reaction 11, heat capacity / entropy / enthalpy 2, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-ZR.html · Markdown: https://data.orchid-project.org/systems/MG-ZR.md
 
-33 accepted literature values from 2 paper(s) (experimental 3, model 17, DFT 13); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+34 accepted literature values from 3 paper(s) (experimental 5, model 16, DFT 13); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZR/MgZr-05Arr.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ZR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-ZR/MgZr-05Arr.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MG-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MG-ZR.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 17 |
+| experimental | 5 |
+| model | 16 |
 | DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 11 |
 | phase transition | 2 |
 | mixing / partial | 19 |
+| heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
 
@@ -56,11 +57,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Zr system (12)
+Table: Invariant reactions reported in the literature for the Mg–Zr system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2122.4 | L -> L#2 + bcc(Zr) | L: Zr 0.00766; L#2: Zr 9.92 (basis unresolved); bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 4, p. 8, row 8 |  |
 | 2121.16 | L -> L#2 + bcc(Zr) | L: Zr 0.00822; L#2: Zr 0.992; bcc(Zr): Zr 0.996 | model | [1] Arroyave 2005 | Table 4, p. 8, row 7 |  |
 | 2104.8 | monotectic: Liquid" -> Liquid' + bcc-A2 | Liquid": Zr 0.985; Liquid': Zr 0.015; bcc-A2: Zr 0.999 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 2 |  |
 | 1154.6 | peritectic: Liquid' + bcc-A2 -> hcp-A3 | Liquid': Zr 0.003; bcc-A2: Zr 1; hcp-A3: Zr 0.993 | model | [2] Hämäläinen 1998 | Table I, p. 251, row 1 |  |
@@ -110,12 +110,22 @@ Table: Mixing / partial, Mg–Zr system
 | Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 4.961 kJ/mol (basis unstated) |  | liquid | model | [1] Arroyave 2005 | Table 3, p. 7, row 1 |  |
 | Partial enthalpy; _printed: enthalpy of mixing at infinite dilution_ | 7.363 kJ/mol (basis unstated) |  | liquid | model | [1] Arroyave 2005; _cites Hamalainen 1998_ [doi](https://doi.org/10.1016/s0364-5916%2898%2900037-6) | Table 3, p. 7, row 2 |  |
 
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, Mg–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Heat capacity; _printed: Heat capacity Cp_ | 0.972 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.991, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 2 |  |
+| Heat capacity; _printed: Heat capacity Cp_ | 0.991 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.997, Zr 0.001_ | experimental | [3] Zhu 2018 | Table 5, p. 11, row 1 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. R. Arroyave, D. Shin, Z.K. Liu, Modification of the thermodynamic model for the Mg–Zr system, Calphad 29, 230-238 (2005). [doi:10.1016/j.calphad.2005.07.004](https://doi.org/10.1016/j.calphad.2005.07.004)
 2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+3. Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018). [doi:10.1016/j.jallcom.2017.10.013](https://doi.org/10.1016/j.jallcom.2017.10.013)
 
 ## Please cite
 

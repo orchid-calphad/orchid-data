@@ -1,10 +1,10 @@
 # Ca–Ga system
 
-> Ca–Ga system: 54 accepted literature values (invariant reaction 44, phase transition 7, formation 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ga system: 104 accepted literature values (invariant reaction 44, crystal structure 39, formation 14, phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-GA.html · Markdown: https://data.orchid-project.org/systems/CA-GA.md
 
-54 accepted literature values from 2 paper(s) (experimental 29, model 25); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+104 accepted literature values from 2 paper(s) (experimental 40, model 25, DFT 27, unspecified 12); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-GA.json) · [CSV](https://data.orchid-project.org/systems/CA-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-GA/CaGa-07Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/CA-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-GA.html) · [Markdown](https://data.orchid-project.org/systems/CA-GA.md)
 
@@ -12,8 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
+| experimental | 40 |
 | model | 25 |
+| DFT | 27 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
@@ -21,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 44 |
 | phase transition | 7 |
-| formation | 3 |
+| formation | 14 |
+| crystal structure | 39 |
 
 ## Calculated phase diagrams
 
@@ -179,13 +182,24 @@ Table: Invariant reactions reported in the literature for the Ca–Ga system (44
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–Ga system (3)
+Table: Enthalpies of formation, Ca–Ga system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | -38.8 kJ/mol-atom ± 4.8 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
 | — |  | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
 | — |  | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental |  |  | [2] Wang 2007; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | p. 2 | “The enthalpies of formation at 25 ◦ C for the intermetallic compounds CaGa4 , Ca3 Ga8 and CaGa2 , with reference to α-Ca and solid gallium, were first experimentally determined by high-temperature liquid gallium solution calorimetric measurement to be -24.9 ± 4.9 kJ/mol atom, -25.4 ± 2.4 kJ/mol atom and -38.8 ± 4.8 kJ/mol atom, respectively.” |
+| Ca11Ga7 |  | -37.258 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 3 |  |
+| Ca28Ga11 |  | -29.826 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 1 |  |
+| Ca3Ga5 |  | -48.725 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 5 |  |
+| Ca3Ga8 |  | -41.02 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 9 |  |
+| Ca3Ga8 | [Ca3Ga8](https://data.orchid-project.org/compounds/Ca3Ga8.html) | -25.4 kJ/mol-atom ± 2.4 | 298.15 | experimental | -42.173 (mp-aaaaasrb) | -42.5 (oqmd-18922) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10 |  |
+| Ca5Ga3 |  | -35.868 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 2 |  |
+| CaGa |  | -44.545 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 4 |  |
+| CaGa2 |  | -49.254 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 6 |  |
+| CaGa2 | [CaGa2](https://data.orchid-project.org/compounds/CaGa2.html) | -38.8 kJ/mol-atom ± 4.8 |  | unspecified | -50.078 (mp-aaaaaqsa) | -50.802 (oqmd-28952) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
+| CaGa4 |  | -34.155 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 2, p. 3, row 11 |  |
+| CaGa4 | [CaGa4](https://data.orchid-project.org/compounds/CaGa4.html) | -24.9 kJ/mol-atom ± 4.9 | 298.15 | experimental | -35.27 (mp-aaaaacya) | -35.178 (oqmd-647536) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12 |  |
 
 ## Other properties
 
@@ -202,6 +216,52 @@ Table: Phase transition, Ca–Ga system
 | Phase transition | 1263.15 K | 1263.15 | congruent transformation | experimental | [2] Wang 2007 | p. 2 | “CaGa2 remains the only phase with a congruent melting point at 990 ◦ C.” |
 | Phase transition | 1264.15 K | 1264.15 | L -> CaGa2; _L: Ga 0.667; CaGa2: Ga 0.667_ | model | [2] Wang 2007 | Table 3, p. 4, row 13 |  |
 | Phase transition | 1264.15 K | 1264.15 | congruent transformation | model | [2] Wang 2007 | p. 4 | “The calculated congruent-melting point of the CaGa2 phase is 991 ◦ C, which fits well with the work of Bruzzone \[17\].” |
+
+### Crystal structure (39)
+
+Table: Crystal structure, Ca–Ga system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.173 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
+| Lattice a | 4.45 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
+| Lattice a | 7.92 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33 |  |
+| Lattice a | 4.187 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
+| Lattice a | 16.072 Å | 0 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | DFT | [1] Li 2013 | Table 1, p. 2, row 31 |  |
+| Lattice a | 4.301 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41 |  |
+| Lattice a | 4.451 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39 |  |
+| Lattice a | 5.551 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
+| Lattice a | 6.184 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
+| Lattice a | 4.463 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
+| Lattice a | 16.109 Å | 298.15 | UNKNOWN; _alloy: Ca 0.611111, Ga 0.388889_ | experimental | [1] Li 2013; _cites Fornasini 1989_ [doi](https://doi.org/10.1524/zkri.1989.187.1-2.111) | Table 1, p. 2, row 30 |  |
+| Lattice a | 5.324 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
+| Lattice a | 7.954 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32 |  |
+| Lattice a | 4.323 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40 |  |
+| Lattice a | 4.467 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38 |  |
+| Lattice a | 4.191 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
+| Lattice a | 4.315 Å | 298.15 | UNKNOWN; _alloy: Ca 0.297619, Ga 0.702381_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 44 |  |
+| Lattice b | 6.131 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
+| Lattice b | 10.821 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
+| Lattice b | 11.48 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
+| Lattice b | 7.5 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
+| Lattice b | 6.132 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
+| Lattice b | 10.799 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
+| Lattice b | 7.488 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
+| Lattice b | 11.457 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
+| Lattice c | 6.104 Å | 0 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | DFT | [1] Li 2013 | Table 1, p. 2, row 43 |  |
+| Lattice c | 15.003 Å | 0 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | DFT | [1] Li 2013 | Table 1, p. 2, row 37 |  |
+| Lattice c | 15.072 Å | 0 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | DFT | [1] Li 2013 | Table 1, p. 2, row 33 |  |
+| Lattice c | 4.362 Å | 0 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | DFT | [1] Li 2013 | Table 1, p. 2, row 35 |  |
+| Lattice c | 25.86 Å | 0 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | DFT | [1] Li 2013 | Table 1, p. 2, row 41 |  |
+| Lattice c | 7.411 Å | 0 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | DFT | [1] Li 2013 | Table 1, p. 2, row 39 |  |
+| Lattice c | 31.237 Å | 0 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | DFT | [1] Li 2013 | Table 1, p. 2, row 29 |  |
+| Lattice c | 6.12 Å | 298.15 | UNKNOWN; _alloy: Ca 0.2, Ga 0.8_ | unspecified | [1] Li 2013; _cites He 1989_ | Table 1, p. 2, row 42 |  |
+| Lattice c | 15.025 Å | 298.15 | UNKNOWN; _alloy: Ca 0.375, Ga 0.625_ | unspecified | [1] Li 2013; _cites Cordier 1986_ [doi](https://doi.org/10.1002/zaac.19865390805) | Table 1, p. 2, row 36 |  |
+| Lattice c | 31.064 Å | 298.15 | UNKNOWN; _alloy: Ca 0.717949, Ga 0.282051_ | unspecified | [1] Li 2013; _cites Fornasini 1986_ | Table 1, p. 2, row 28 |  |
+| Lattice c | 15.084 Å | 298.15 | UNKNOWN; _alloy: Ca 0.625, Ga 0.375_ | experimental | [1] Li 2013; _cites Bruzzone 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990089-9) | Table 1, p. 2, row 32 |  |
+| Lattice c | 25.843 Å | 298.15 | UNKNOWN; _alloy: Ca 0.272727, Ga 0.727273_ | unspecified | [1] Li 2013; _cites Bruzzone 1988_ | Table 1, p. 2, row 40 |  |
+| Lattice c | 7.393 Å | 298.15 | UNKNOWN; _alloy: Ca 0.333333, Ga 0.666667_ | experimental | [1] Li 2013; _cites Bruzzone 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990171-9) | Table 1, p. 2, row 38 |  |
+| Lattice c | 4.387 Å | 298.15 | UNKNOWN; _alloy: Ca 0.5, Ga 0.5_ | experimental | [1] Li 2013; _cites Merlo 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990195-5) | Table 1, p. 2, row 34 |  |
 
 ## Sources
 

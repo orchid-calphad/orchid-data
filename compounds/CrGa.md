@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CrGa.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -1.491 kJ/mol-atom (mp-aaacphey); OQMD -0.148 kJ/mol-atom (oqmd-2052343).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
+Systems: [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of CrGa reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16 kJ/mol-atom | CrGa | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45 |  |
+| -16 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 45 |  |
 | -7.29 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 8 |  |
-| -7.29 kJ/mol-atom | CrGa | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46 |  |
+| -7.29 kJ/mol-atom | CrGa | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 46 |  |
 | -6.06 kJ/mol (basis unstated) | CrGa |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Belgacem-Bouzida 2005 | Table 4, p. 4, row 9 |  |
 
 ### Uncertainty budget
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of CrGa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -7.29 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -7.29 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.06 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -7.29 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -7.29 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.06 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## DFT formation energies
 
@@ -40,8 +40,8 @@ Table: DFT formation energy of CrGa
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacphey | -1.491 | -0.015457 | R-3m | 7.936 | 0.0823 | no |
-| OQMD | oqmd-2052343 | -0.148 | -0.001532 | R-3m | 9.508 | 0.0985 | yes |
+| Materials Project | mp-aaacphey | -1.491 | -0.015457 | R-3m | 7.9357 | 0.0822 | no |
+| OQMD | oqmd-2052343 | -0.148 | -0.001532 | R-3m | 9.5076 | 0.0985 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

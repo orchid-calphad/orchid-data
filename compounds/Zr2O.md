@@ -1,20 +1,22 @@
 # Zr2O: enthalpy of formation
 
-> Enthalpy of formation of Zr2O: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Zr2O: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Zr2O.html · Markdown: https://data.orchid-project.org/compounds/Zr2O.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -192.087 kJ/mol-atom (mp-aaabqwvt); OQMD -186.602 kJ/mol-atom (oqmd-2030404).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -192.087 kJ/mol-atom (mp-aaabqwvt); OQMD -186.602 kJ/mol-atom (oqmd-2030404).
 
 Systems: [O–Zr](https://data.orchid-project.org/systems/O-ZR.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Zr2O reported in the literature (2)
+Table: Enthalpy of formation of Zr2O reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -286 kJ/mol-atom | Zr2O |  | model | electronegativity model, Eq. (28) | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Arroyave 2002 | Table 3, p. 18, row 11 |  |
+| -286 kJ/mol-atom | ZrO0.5 |  | model | Electronegativities | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Arroyave 2002 | Table 2, p. 17, row 5 |  |
+| -217 kJ/mol-atom | ZrO0.5 |  | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Arroyave 2002 | Table 2, p. 17, row 6 |  |
 | -198 kJ/mol-atom | Zr2O |  | model |  | [O–Zr](https://data.orchid-project.org/systems/O-ZR.html) | [1] Arroyave 2002 | Table 3, p. 18, row 12 |  |
 
 ### Uncertainty budget
@@ -25,8 +27,10 @@ Table: Uncertainty budget of the literature values of Zr2O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -286 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -198 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -286 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -286 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -217 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -198 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,7 +40,7 @@ Table: DFT formation energy of Zr2O
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabqwvt | -192.087 | -1.99085 | P312 | 0.78 | 0.0081 | yes |
+| Materials Project | mp-aaabqwvt | -192.087 | -1.99085 | P312 | 0.7802 | 0.0081 | yes |
 | OQMD | oqmd-2030404 | -186.602 | -1.934 | P-31m | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

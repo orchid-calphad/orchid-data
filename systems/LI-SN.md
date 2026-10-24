@@ -1,10 +1,10 @@
 # Li–Sn system
 
-> Li–Sn system: 218 accepted literature values (invariant reaction 81, phase transition 43, formation 36, phase equilibrium 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Sn system: 213 accepted literature values (invariant reaction 81, phase transition 43, formation 36, phase equilibrium 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SN.html · Markdown: https://data.orchid-project.org/systems/LI-SN.md
 
-218 accepted literature values from 2 paper(s) (experimental 157, model 57, unspecified 4); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+213 accepted literature values from 2 paper(s) (experimental 154, model 57, unspecified 2); 3 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SN.json) · [CSV](https://data.orchid-project.org/systems/LI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SN/LiSn-05Yin-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LI-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SN.html) · [Markdown](https://data.orchid-project.org/systems/LI-SN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 157 |
+| experimental | 154 |
 | model | 57 |
-| unspecified | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase equilibrium | 28 |
 | formation | 36 |
 | activity / EMF / Gibbs energy | 2 |
-| crystal structure | 28 |
+| crystal structure | 23 |
 
 ## Calculated phase diagrams
 
@@ -321,7 +321,7 @@ Table: Activity / EMF / Gibbs energy, Li–Sn system
 | EMF | 0.46 V | 688 | LiSn + Li7Sn3 | experimental | [2] Li 2014; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | p. 1 | “(0.57 and 0.46 V for Li-Sn alloys in the liquid þ LiSn and LiSn þ Li7 Sn3 two-phase fields, respectively, vs. pure Li at 688 K \[5\]) they can be combined with cathode materials to produce batteries with high energy density.” |
 | EMF | 0.57 V | 688 | liquid + LiSn | experimental | [2] Li 2014; _cites Wen 1981_ [doi](https://doi.org/10.1149/1.2127590) | p. 1 | “(0.57 and 0.46 V for Li-Sn alloys in the liquid þ LiSn and LiSn þ Li7 Sn3 two-phase fields, respectively, vs. pure Li at 688 K \[5\]) they can be combined with cathode materials to produce batteries with high energy density.” |
 
-### Crystal structure (28)
+### Crystal structure (23)
 
 Table: Crystal structure, Li–Sn system
 
@@ -334,8 +334,6 @@ Table: Crystal structure, Li–Sn system
 | Lattice a | 9.8 Å | 298.15 | Li7Sn2; _alloy: Sn 0.222222_ | experimental | [2] Li 2014; _cites Frank 1975_ [doi](https://doi.org/10.1515/znb-1975-1-203) | Table 5, p. 4, row 3 |  |
 | Lattice a | 8.56 Å | 298.15 | Li7Sn3; _alloy: Sn 0.3_ | experimental | [2] Li 2014; _cites Muller 1974_ [doi](https://doi.org/10.1515/znb-1974-5-602) | Table 5, p. 4, row 6 |  |
 | Lattice a | 5.17 Å | 298.15 | LiSn; _alloy: Sn 0.5_ | experimental | [2] Li 2014; _cites Mueller 1973_ | Table 5, p. 4, row 7 |  |
-| Lattice a | 3.4785 Å | 298.15 | βLi; _alloy: Sn 0_ | unspecified | [2] Li 2014; _cites Berliner 1989_ [doi](https://doi.org/10.1103/physrevb.40.12086) | Table 5, p. 4, row 1 |  |
-| Lattice a | 5.7998 Å | 298.15 | βSn; _alloy: Sn 1_ | experimental | [2] Li 2014; _cites Helfrich 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990039-2) | Table 5, p. 4, row 9 |  |
 | Lattice b | 13.8 Å | 298.15 | Li7Sn2; _alloy: Sn 0.222222_ | experimental | [2] Li 2014; _cites Frank 1975_ [doi](https://doi.org/10.1515/znb-1975-1-203) | Table 5, p. 4, row 3 |  |
 | Lattice b | 4.72 Å | 298.15 | Li7Sn3; _alloy: Sn 0.3_ | experimental | [2] Li 2014; _cites Muller 1974_ [doi](https://doi.org/10.1515/znb-1974-5-602) | Table 5, p. 4, row 6 |  |
 | Lattice b | 3.18 Å | 298.15 | LiSn; _alloy: Sn 0.5_ | experimental | [2] Li 2014; _cites Mueller 1973_ | Table 5, p. 4, row 7 |  |
@@ -345,7 +343,6 @@ Table: Crystal structure, Li–Sn system
 | Lattice c | 4.75 Å | 298.15 | Li7Sn2; _alloy: Sn 0.222222_ | experimental | [2] Li 2014; _cites Frank 1975_ [doi](https://doi.org/10.1515/znb-1975-1-203) | Table 5, p. 4, row 3 |  |
 | Lattice c | 9.45 Å | 298.15 | Li7Sn3; _alloy: Sn 0.3_ | experimental | [2] Li 2014; _cites Muller 1974_ [doi](https://doi.org/10.1515/znb-1974-5-602) | Table 5, p. 4, row 6 |  |
 | Lattice c | 7.74 Å | 298.15 | LiSn; _alloy: Sn 0.5_ | experimental | [2] Li 2014; _cites Mueller 1973_ | Table 5, p. 4, row 7 |  |
-| Lattice c | 3.1642 Å | 298.15 | βSn; _alloy: Sn 1_ | experimental | [2] Li 2014; _cites Helfrich 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990039-2) | Table 5, p. 4, row 9 |  |
 | lattice beta | 90 ° | 298.15 | Li13Sn5; _alloy: Sn 0.277778_ | experimental | [2] Li 2014; _cites Frank 1975_ [doi](https://doi.org/10.1515/znb-1975-1-203) | Table 5, p. 4, row 4 |  |
 | lattice beta | 90 ° | 298.15 | Li17Sn4; _alloy: Sn 0.190476_ | unspecified | [2] Li 2014; _cites Lupu 2003_ [doi](https://doi.org/10.1021/ic026235o) | Table 5, p. 4, row 2 |  |
 | lattice beta | 90 ° | 298.15 | Li2Sn5; _alloy: Sn 0.714286_ | experimental | [2] Li 2014; _cites Hansen 1969_ [doi](https://doi.org/10.1107/s0567740869005760) | Table 5, p. 4, row 8 |  |
@@ -353,8 +350,6 @@ Table: Crystal structure, Li–Sn system
 | lattice beta | 90 ° | 298.15 | Li7Sn2; _alloy: Sn 0.222222_ | experimental | [2] Li 2014; _cites Frank 1975_ [doi](https://doi.org/10.1515/znb-1975-1-203) | Table 5, p. 4, row 3 |  |
 | lattice beta | 105.95 ° | 298.15 | Li7Sn3; _alloy: Sn 0.3_ | experimental | [2] Li 2014; _cites Muller 1974_ [doi](https://doi.org/10.1515/znb-1974-5-602) | Table 5, p. 4, row 6 |  |
 | lattice beta | 104.5 ° | 298.15 | LiSn; _alloy: Sn 0.5_ | experimental | [2] Li 2014; _cites Mueller 1973_ | Table 5, p. 4, row 7 |  |
-| lattice beta | 90 ° | 298.15 | βLi; _alloy: Sn 0_ | unspecified | [2] Li 2014; _cites Berliner 1989_ [doi](https://doi.org/10.1103/physrevb.40.12086) | Table 5, p. 4, row 1 |  |
-| lattice beta | 90 ° | 298.15 | βSn; _alloy: Sn 1_ | experimental | [2] Li 2014; _cites Helfrich 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990039-2) | Table 5, p. 4, row 9 |  |
 
 ## Sources
 

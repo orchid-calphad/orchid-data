@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Si3V.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (model 1, unspecified 1); OQMD 1.542 kJ/mol-atom (oqmd-2031400).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html)
+Systems: [Si–V](https://data.orchid-project.org/systems/SI-V.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Si3V reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 54.3 kJ/mol-atom | Si3V | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
-| 6.3 kJ/mol-atom | Si3V | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 19 |  |
+| 54.3 kJ/mol-atom | Si3V | 0 | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
+| 6.3 kJ/mol-atom | Si3V | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Broz 2013 | Table 2, p. 6, row 19 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Si3V
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 54.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 6.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 54.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 6.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -36,7 +36,7 @@ Table: DFT formation energy of Si3V
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-2031400 | 1.542 | 0.015982 | I-4 | 36.008 | 0.3732 | yes |
+| OQMD | oqmd-2031400 | 1.542 | 0.015982 | I-4 | 36.0083 | 0.3732 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

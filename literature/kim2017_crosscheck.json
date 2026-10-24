@@ -8,12 +8,12 @@
  "inputs": {
   "literature": {
    "path": "data/literature/orchid-literature.jsonl.gz",
-   "sha256": "befef97c22dd57323e16f2c3f392d9ca737645c71b70ca8b26b0fb9a6570337f"
+   "sha256": "84bf790a79f08cc53f21a3f8f027a00bce210863ad63de51d56f626c87058e9b"
   }
  },
  "orchid_candidates": {
-  "formulas": 598,
-  "records": 1419
+  "formulas": 588,
+  "records": 1404
  },
  "reference": {
   "citation": "G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162.",
@@ -46,20 +46,6 @@
      "ORC-RD3CLV2FOT.cf6f65"
     ],
     "orchid_median": -30.16
-   },
-   {
-    "difference": 32.332,
-    "formula": "TaB2",
-    "kim_median": -53.298,
-    "kim_values": [
-     -53.298
-    ],
-    "orchid_ids": [
-     "ORC-ENOMSME5IX",
-     "ORC-NWHOAUO467",
-     "ORC-PTU6CIJMOI"
-    ],
-    "orchid_median": -20.967
    },
    {
     "difference": -28.785,
@@ -104,18 +90,6 @@
     "orchid_median": -108.2
    },
    {
-    "difference": 16.658,
-    "formula": "LaMg",
-    "kim_median": -20.358,
-    "kim_values": [
-     -20.358
-    ],
-    "orchid_ids": [
-     "ORC-EQTOORKIKL.9c4590"
-    ],
-    "orchid_median": -3.7
-   },
-   {
     "difference": -15.904,
     "formula": "LaPt",
     "kim_median": -95.896,
@@ -143,18 +117,6 @@
      "ORC-ZI3WR77ALH.34226d"
     ],
     "orchid_median": -31.715
-   },
-   {
-    "difference": 14.596,
-    "formula": "MgSm",
-    "kim_median": -18.496,
-    "kim_values": [
-     -18.496
-    ],
-    "orchid_ids": [
-     "ORC-YT6SCNYYX5.2a1cae"
-    ],
-    "orchid_median": -3.9
    },
    {
     "difference": -13.698,
@@ -319,10 +281,10 @@
     "orchid_median": -14.225
    }
   ],
-  "mae": 3.879,
-  "median_abs_difference": 0.985,
-  "n_differ_more_than_10": 20,
-  "n_overlap_formulas": 159,
+  "mae": 3.601,
+  "median_abs_difference": 0.951,
+  "n_differ_more_than_10": 17,
+  "n_overlap_formulas": 155,
   "sign_agreement": 1.0
  },
  "schema": "orchid-kim2017-crosscheck-v1",

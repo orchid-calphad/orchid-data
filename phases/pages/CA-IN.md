@@ -12,16 +12,16 @@ Table: Phases of the Ca–In system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-ca-in-a6-tetragonal); _phase:ca-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–429.75 K, x(In) 1–1 | 4 | 2 |
-| [BCC_A2](#phase-ca-in-bcc-a2); _phase:ca-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 716.03–1155 K, x(In) 0–0 | 1 | 3 |
+| [TETRAGONAL_A6](#phase-ca-in-a6-tetragonal); _phase:ca-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–429.75 K, x(In) 1–1 | 2 | 2 |
+| [BCC_A2](#phase-ca-in-bcc-a2); _phase:ca-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 716.03–1155 K, x(In) 0–0 | 1 | 3 |
 | [B2_BCC](#phase-ca-in-bcc-b2); _phase:ca-in:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1164.08 K, x(In) 0–0.5 | 0 | 1 |
 | [CA3IN](#phase-ca-in-ca3in); _phase:ca-in:ca3in_ | Ca8In3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1037.11 K, x(In) 0.25–0.25 | 4 | 1 |
-| [CA8IN3](#phase-ca-in-ca8in3); _phase:ca-in:ca8in3_ | Ca8In3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1034.43 K, x(In) 0.27273–0.27273 | 0 | 1 |
-| [CAIN](#phase-ca-in-cain); _phase:ca-in:cain_ | GaPu · tI16 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1167.58 K, x(In) 0.5–0.5 | 6 | 1 |
-| [CAIN2](#phase-ca-in-cain2); _phase:ca-in:cain2_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1110.32 K, x(In) 0.66667–0.66667 | 6 | 2 |
+| [CA8IN3](#phase-ca-in-ca8in3); _phase:ca-in:ca8in3_ | Ca8In3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1034.43 K, x(In) 0.27273–0.27273 | 14 | 1 |
+| [CAIN](#phase-ca-in-cain); _phase:ca-in:cain_ | GaPu · tI16 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1167.58 K, x(In) 0.5–0.5 | 10 | 1 |
+| [CAIN2](#phase-ca-in-cain2); _phase:ca-in:cain2_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1110.32 K, x(In) 0.66667–0.66667 | 12 | 2 |
 | [FCC_A1](#phase-ca-in-fcc-a1); _phase:ca-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–716.03 K, x(In) 0–0 | 0 | 2 |
 | [HCP_A3](#phase-ca-in-hcp-a3); _phase:ca-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ca-in-liquid); _phase:ca-in:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 425.43–2500 K, x(In) 0–1 | 14 | 2 |
+| [LIQUID](#phase-ca-in-liquid); _phase:ca-in:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 425.43–2500 K, x(In) 0–1 | 12 | 2 |
 
 ## TETRAGONAL_A6 (Ca–In)
 
@@ -29,7 +29,7 @@ Table: Phases of the Ca–In system (10)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: In 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–429.75 K, x(In) 1–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:a6-tetragonal)
 
 Names (5): _corpus: _corpus:phase:ca-in:a6-tetragonal, corpus:phase:ca-in:tetragonal-a6  
@@ -66,7 +66,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:ca-in:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 716.03–1155 K, x(In) 0–0
+- Stability: stable in 2 of 2 calculated diagram(s): 716.03–1155 K, x(In) 0–0
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:bcc-a2)
 
@@ -173,10 +173,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_2_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.7273, In 0.2727
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1034.43 K, x(In) 0.27273–0.27273
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:ca8in3)
 
-Names (2): _corpus: _corpus:phase:ca-in:ca8in3  
+Names (3): _corpus: _corpus:phase:ca-in:ca8in3  
+_paper: _paper:10.1016/j.calphad.2014.10.008:Ca8In3  
 _tdb: _tdb:CaIn-15Qin.tdb:CA8IN3  
 
 
@@ -189,10 +190,12 @@ _tdb: _tdb:CaIn-15Qin.tdb:CA8IN3
 61: CONST CA8IN3 : CA : IN : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1107/s0108270187010904](https://doi.org/10.1107/s0108270187010904) R. E. Marsh, K. M. Slagle, On the structure of Ca8In3, Acta Crystallogr C Cryst Struct Commun 44, 395-396 (1988).  
+_cited as the source of values for this phase_
 
 ## CAIN (Ca–In)
 
@@ -202,11 +205,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.5000, In 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1167.58 K, x(In) 0.5–0.5
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:cain)
 
-Names (3): _corpus: _corpus:phase:ca-in:cain  
-_paper: _paper:10.1007/s11669-013-0258-6:CaIn  
+Names (4): _corpus: _corpus:phase:ca-in:cain  
+_paper: _paper:10.1007/s11669-013-0258-6:CaIn, paper:10.1016/j.calphad.2014.10.008:CaIn  
 _tdb: _tdb:CaIn-13Wan.tdb:CAIN  
 
 
@@ -219,12 +222,14 @@ _tdb: _tdb:CaIn-13Wan.tdb:CAIN
 51: CONST CAIN : CA : IN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-013-0258-6](https://doi.org/10.1007/s11669-013-0258-6) Lei Wang, Yajun Liu, Jing Liu, Thermodynamic Basis and Related Phase Equilibria for In-Na and In-Ca Binary Systems, J. Phase Equilib. Diffus. 34, 447-452 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(64)90081-5](https://doi.org/10.1016/0022-5088%2864%2990081-5) G. Bruzzone, A.F. Ruggiero, The equilibrium diagram of the calcium-indium system, Journal of the Less Common Metals 7, 368-372 (1964).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
+_reports values for this phase_
 
 ## CAIN2 (Ca–In)
 
@@ -234,11 +239,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_194_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.3333, In 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1110.32 K, x(In) 0.66667–0.66667
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:cain2)
 
-Names (4): _corpus: _corpus:phase:ca-in:cain2  
-_paper: _paper:10.1007/s11669-013-0258-6:CaIn2  
+Names (5): _corpus: _corpus:phase:ca-in:cain2  
+_paper: _paper:10.1007/s11669-013-0258-6:CaIn2, paper:10.1016/j.calphad.2014.10.008:CaIn2  
 _tdb: _tdb:CaIn-13Wan.tdb:CAIN2, tdb:CaIn-15Qin.tdb:CAIN2  
 
 
@@ -258,13 +263,15 @@ _tdb: _tdb:CaIn-13Wan.tdb:CAIN2, tdb:CaIn-15Qin.tdb:CAIN2
 66: CONST CAIN2 : CA : IN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-013-0258-6](https://doi.org/10.1007/s11669-013-0258-6) Lei Wang, Yajun Liu, Jing Liu, Thermodynamic Basis and Related Phase Equilibria for In-Na and In-Ca Binary Systems, J. Phase Equilib. Diffus. 34, 447-452 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(64)90081-5](https://doi.org/10.1016/0022-5088%2864%2990081-5) G. Bruzzone, A.F. Ruggiero, The equilibrium diagram of the calcium-indium system, Journal of the Less Common Metals 7, 368-372 (1964).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19643300315](https://doi.org/10.1002/zaac.19643300315) A. Iandelli, MX\<sub>2\</sub>‐Verbindungen der Erdalkali‐ und Seltenen Erdmetalle mit Gallium, Indium und Thallium, Zeitschrift anorg allge chemie 330, 221-232 (1964).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Ca–In)
@@ -342,7 +349,7 @@ _assessment that models this phase_
 - Id: `phase:ca-in:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 425.43–2500 K, x(In) 0–1
-- Literature: 14 values (14 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-in:liquid)
 
 Names (4): _corpus: _corpus:phase:ca-in:liquid  

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NaUO3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -298.98 kJ/mol-atom ± 10 | NaUO3 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
+| -298.98 kJ/mol-atom ± 2 | NaUO3 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 13 |  |
 | -298.98 kJ/mol-atom | NaUO3 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 15 |  |
 | -298.92 kJ/mol-atom | NaUO3 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 14 |  |
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of NaUO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -298.98 | kJ/mol-atom | 10 | 0.01 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10 |
-| -298.98 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -298.92 | kJ/mol-atom |  | 0.01 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -298.98 | kJ/mol-atom | 2 | 0.01 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -298.98 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -298.92 | kJ/mol-atom |  | 0.01 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

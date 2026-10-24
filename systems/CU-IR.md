@@ -1,10 +1,10 @@
 # Cu–Ir system
 
-> Cu–Ir system: 35 accepted literature values (phase equilibrium 24, crystal structure 10, activity / EMF / Gibbs energy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Ir system: 33 accepted literature values (phase equilibrium 24, crystal structure 8, activity / EMF / Gibbs energy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-IR.html · Markdown: https://data.orchid-project.org/systems/CU-IR.md
 
-35 accepted literature values from 1 paper(s) (experimental 9, model 15, unspecified 11); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+33 accepted literature values from 1 paper(s) (experimental 8, model 15, unspecified 10); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-IR.json) · [CSV](https://data.orchid-project.org/systems/CU-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-IR/CuIr-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-IR.html) · [Markdown](https://data.orchid-project.org/systems/CU-IR.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
+| experimental | 8 |
 | model | 15 |
-| unspecified | 11 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase equilibrium | 24 |
 | activity / EMF / Gibbs energy | 1 |
-| crystal structure | 10 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -85,14 +85,12 @@ Table: Activity / EMF / Gibbs energy, Cu–Ir system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: G (L)_ | -0.59 kJ/mol | 1273.15 |  | model | [1] Chakrabarti 1987 | p. 4 | “The corresponding integral molar Gibbs energy G (L) (based on pure liquid Cu and pure liquid Ir as standard states), estimated at 1000 ~ is -0.59 kJ/mol.” |
 
-### Crystal structure (10)
+### Crystal structure (8)
 
 Table: Crystal structure, Cu–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.6147 Å | 291.15 | (Cu); _alloy: Cu 1, Ir 0_ | unspecified | [1] Chakrabarti 1987 | Table 3, p. 3, row 1 |  |
-| Lattice a | 3.839 Å | 303.15 | (Ir); _alloy: Ir 1_ | experimental | [1] Chakrabarti 1987; _cites Singh 1969_ | Table 3, p. 3, row 6 |  |
 | Lattice a | 3.836 Å | 1073.15 | (Ir); _alloy: Cu 0.6, Ir 0.4_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 7 |  |
 | Lattice a | 3.623 Å | 1133.15 | (Cu); _alloy: Cu 0.97, Ir 0.03_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 3 |  |
 | Lattice a | 3.625 Å | 1133.15 | (Cu); _alloy: Cu 0.96, Ir 0.04_ | unspecified | [1] Chakrabarti 1987; _cites ref. 69Rau_ | Table 3, p. 3, row 4 |  |

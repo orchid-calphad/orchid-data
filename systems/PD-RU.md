@@ -1,10 +1,10 @@
 # Pd–Ru system
 
-> Pd–Ru system: 10 accepted literature values (invariant reaction 8, activity / EMF / Gibbs energy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Ru system: 20 accepted literature values (mixing / partial 10, invariant reaction 8, activity / EMF / Gibbs energy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-RU.html · Markdown: https://data.orchid-project.org/systems/PD-RU.md
 
-10 accepted literature values from 1 paper(s) (experimental 6, model 4); 2 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 6, model 4, DFT 10); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RU.json) · [CSV](https://data.orchid-project.org/systems/PD-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RU/PdRu-16Gos.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RU.html) · [Markdown](https://data.orchid-project.org/systems/PD-RU.md)
 
@@ -14,12 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 6 |
 | model | 4 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
+| mixing / partial | 10 |
 | activity / EMF / Gibbs energy | 2 |
 
 ## Calculated phase diagrams
@@ -58,6 +60,23 @@ Table: Invariant reactions reported in the literature for the Pd–Ru system (8)
 | 1852 | peritectic: peritectic reaction | FCC: Ru 0.18; HCP: Ru 0.83 | experimental | [1] Gossé 2016; _cites Darling 1960_ [doi](https://doi.org/10.1595/003214060x43104110) | Table 1, p. 3, row 1 |  |
 
 ## Other properties
+
+### Mixing / partial (10)
+
+Table: Mixing / partial, Pd–Ru system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.1722 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 8.9651 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.6291 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 7.6001 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 2.8853 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.8249 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 12.1563 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.5136 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 10.0727 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 9 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 5.0026 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 6 |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

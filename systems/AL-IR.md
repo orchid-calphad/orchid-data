@@ -1,10 +1,10 @@
 # Al–Ir system
 
-> Al–Ir system: 128 accepted literature values (crystal structure 66, formation 29, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ir system: 117 accepted literature values (crystal structure 59, formation 25, invariant reaction 17, phase equilibrium 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-IR.html · Markdown: https://data.orchid-project.org/systems/AL-IR.md
 
-128 accepted literature values from 3 paper(s) (experimental 47, model 45, DFT 32, unspecified 4); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+117 accepted literature values from 3 paper(s) (experimental 44, model 37, DFT 32, unspecified 4); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-IR.json) · [CSV](https://data.orchid-project.org/systems/AL-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-IR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-IR/AlIr-06Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-IR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-IR.html) · [Markdown](https://data.orchid-project.org/systems/AL-IR.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 47 |
-| model | 45 |
+| experimental | 44 |
+| model | 37 |
 | DFT | 32 |
 | unspecified | 4 |
 
@@ -24,8 +24,8 @@ Table: Accepted values by property group
 | invariant reaction | 17 |
 | phase transition | 1 |
 | phase equilibrium | 15 |
-| formation | 29 |
-| crystal structure | 66 |
+| formation | 25 |
+| crystal structure | 59 |
 
 ## Calculated phase diagrams
 
@@ -138,14 +138,10 @@ Table: Invariant reactions reported in the literature for the Al–Ir system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ir system (29)
+Table: Enthalpies of formation, Al–Ir system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| A1-Al |  | 0 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 21 |  |
-| A1-Ir |  | 0 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 21 |  |
-| A2-Al |  | 60.2 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 23 |  |
-| A2-Ir |  | 8.8 kJ/mol-atom | 0 | model |  |  | [2] Abe 2008 | Table 2, p. 3, row 24 |  |
 | Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.4 kJ/mol-atom |  | model |  | -57.448 (oqmd-1782493) | [2] Abe 2008 | Table 2, p. 3, row 8 |  |
 | Al13Ir4 | [Al13Ir4](https://data.orchid-project.org/compounds/Al13Ir4.html) | -64.1 kJ/mol-atom | 0 | model |  | -57.448 (oqmd-1782493) | [1] JIANG 2006 | Table 4, p. 4, row 2 |  |
 | Al13Ir4 |  | -63.5 kJ/mol-atom |  | DFT |  |  | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 9 |  |
@@ -170,7 +166,7 @@ Table: Enthalpies of formation, Al–Ir system (29)
 | Al–Ir fcc |  | -32.4 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 8 |  |
 | Al–Ir fcc |  | -5.7 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 5 |  |
 | Al–Ir fcc |  | -3.9 kJ/mol-atom | 0 | DFT |  |  | [1] JIANG 2006 | Table 1, p. 2, row 9 |  |
-| B2-AlIr | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | -118 kJ/mol-atom | 0 | experimental | -92.527 (mp-aaaaacun) | -91.306 (oqmd-10480) | [2] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
+| B2-AlIr | [AlIr](https://data.orchid-project.org/compounds/AlIr.html) | -118 kJ/mol-atom | 298.15 | experimental | -92.527 (mp-aaaaacun) | -91.306 (oqmd-10480) | [2] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
 
 ## Other properties
 
@@ -204,18 +200,12 @@ Table: Phase equilibrium, Al–Ir system
 | Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4778, Ir 0.5222; (Ir): Al 0.0987, Ir 0.9013_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 7 |  |
 | Phase composition |  | 1773.15 | B2 + (Ir); _B2: Al 0.4795, Ir 0.5205; (Ir): Al 0.0983, Ir 0.9017_ | experimental | [3] ZHANG 2008 | Table 1, p. 2, row 10 |  |
 
-### Crystal structure (66)
+### Crystal structure (59)
 
 Table: Crystal structure, Al–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.041 Å | 0 | A1-Al; _alloy: Ir 0_ | experimental | [2] Abe 2008; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 4.056 Å | 0 | A1-Al; _alloy: Ir 0_ | model | [2] Abe 2008 | Table 2, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.888 Å | 0 | A1-Ir; _alloy: Ir 1_ | model | [2] Abe 2008 | Table 2, p. 3, row 21 |  |
-| Lattice a; _printed: a_ | 3.839 Å | 0 | A1-Ir; _alloy: Ir 1_ | experimental | [2] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22 |  |
-| Lattice a; _printed: a_ | 3.242 Å | 0 | A2-Al; _alloy: Ir 0_ | model | [2] Abe 2008 | Table 2, p. 3, row 23 |  |
-| Lattice a; _printed: a_ | 3.119 Å | 0 | A2-Ir; _alloy: Ir 1_ | model | [2] Abe 2008 | Table 2, p. 3, row 24 |  |
 | Lattice a; _printed: a_ | 7.674 Å |  | Al2.7Ir; _alloy: Ir 0.27027_ | model | [2] Abe 2008 | Table 2, p. 3, row 15 |  |
 | Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | model | [2] Abe 2008 | Table 2, p. 3, row 10 |  |
 | Lattice a; _printed: a_ | 12.286 Å |  | Al28Ir9; _alloy: Ir 0.243243_ | experimental | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 11 |  |
@@ -227,10 +217,9 @@ Table: Crystal structure, Al–Ir system
 | Lattice a; _printed: a_ | 16.771 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
 | Lattice a; _printed: a_ | 8.906 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
 | Lattice a | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice a; _printed: a_ | 8.732 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
+| Lattice a; _printed: a_ | 8.732 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
 | Lattice a; _printed: a_ | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
 | Lattice a | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
-| Lattice a; _printed: a_ | 3.839 Å | 0 | Al–Ir; _alloy: Ir 1_ | experimental | [2] Abe 2008; _cites Schroder 1972_ | Table 2, p. 3, row 22 |  |
 | Lattice a; _printed: a_ | 2.985 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | unspecified | [2] Abe 2008; _cites Ferro 1968_ | Table 2, p. 3, row 19 |  |
 | Lattice a; _printed: a_ | 3.02 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 18 |  |
 | Lattice a; _printed: a_ | 3.028 Å | 0 | B2-AlIr; _alloy: Ir 0.5_ | model | [2] Abe 2008 | Table 2, p. 3, row 17 |  |
@@ -246,7 +235,7 @@ Table: Crystal structure, Al–Ir system
 | Lattice b; _printed: b_ | 12.327 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
 | Lattice b; _printed: b_ | 6.491 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
 | Lattice b | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice b; _printed: b_ | 6.43 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
+| Lattice b; _printed: b_ | 6.43 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
 | Lattice b; _printed: b_ | 6.47 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
 | Lattice b | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
 | Lattice b | 4.25 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |
@@ -262,7 +251,7 @@ Table: Crystal structure, Al–Ir system
 | Lattice c; _printed: c_ | 17.437 Å |  | Al45Ir13; _alloy: Ir 0.224138_ | unspecified | [2] Abe 2008; _cites Pavlyuchkov 2008_ [doi](https://doi.org/10.1016/j.intermet.2008.03.006) | Table 2, p. 3, row 7 |  |
 | Lattice c; _printed: c_ | 6.463 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | model | [2] Abe 2008 | Table 2, p. 3, row 3 |  |
 | Lattice c | 8.77 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 1 |  |
-| Lattice c; _printed: c_ | 6.378 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
+| Lattice c; _printed: c_ | 6.378 Å |  | Al9Ir2; _alloy: Ir 0.181818_ | experimental | [2] Abe 2008; _cites Bostrom 2005_ [doi](https://doi.org/10.1002/zaac.200400418) | Table 2, p. 3, row 5 |  |
 | Lattice c; _printed: c_ | 6.4 Å | 0 | Al9Ir2; _alloy: Ir 0.181818_ | DFT | [2] Abe 2008; _cites Jiang 2006_ | Table 2, p. 3, row 4 |  |
 | Lattice c | 3.02 Å | 0 | AlIr; _alloy: Ir 0.5_ | DFT | [1] JIANG 2006 | Table 2, p. 2, row 5 |  |
 | Lattice c | 7.76 Å | 298.15 | Al3Ir; _alloy: Ir 0.25_ | experimental | [1] JIANG 2006; _cites Edshammar 1967_ | Table 2, p. 2, row 4 |  |

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/DyB12.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -24.129 kJ/mol-atom (mp-aaackujk); OQMD -24.171 kJ/mol-atom (oqmd-28341).
 
-Systems: [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Dy](https://data.orchid-project.org/systems/B-DY.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of DyB12 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.212 kJ/mol-atom | DyB12 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
-| 24.038 kJ/mol-atom | DyB12 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
+| -24.212 kJ/mol-atom | DyB12 | 298.15 | model | Optimization | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
+| 24.038 kJ/mol-atom | DyB12 | 298.15 | DFT | First-principle calculation | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of DyB12
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24.212 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 24.038 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -24.212 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 24.038 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

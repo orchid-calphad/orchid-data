@@ -1,10 +1,10 @@
 # Bi–Cr system
 
-> Bi–Cr system: 3 accepted literature values (phase transition 2, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Cr system: 5 accepted literature values (invariant reaction 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CR.html · Markdown: https://data.orchid-project.org/systems/BI-CR.md
 
-3 accepted literature values from 2 paper(s) (experimental 1, model 2); 2 calculated phase diagram(s).
+5 accepted literature values from 2 paper(s) (experimental 2, model 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CR.json) · [CSV](https://data.orchid-project.org/systems/BI-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CR/BiCr-13Cao.json) · [phases (5)](https://data.orchid-project.org/phases/pages/BI-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CR.html) · [Markdown](https://data.orchid-project.org/systems/BI-CR.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 2 |
+| experimental | 2 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
+| invariant reaction | 3 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -49,11 +49,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Cr system (1)
+Table: Invariant reactions reported in the literature for the Bi–Cr system (3)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2095 | monotectic |  | model | [1] Gossé 2014 | p. 4 | “The monotectic reaction is calculated at 2095 K and the critical point of the liquid miscibility gap is 3091 K for a 67 at.% Cr composition (Fig. 2(a)).” |
+| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.999; (Cr): Bi 0; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 19 |  |
+| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 1; (Cr): Bi 0; (Bi): Bi 1 | experimental | [2] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18 |  |
 
 ## Other properties
 

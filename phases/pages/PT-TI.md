@@ -12,7 +12,7 @@ Table: Phases of the Pt–Ti system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-pt-ti-bcc-a2); _phase:pt-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1112.87–1940.98 K, x(Ti) 0.91726–1 | 19 | 1 |
+| [BCC_A2](#phase-pt-ti-bcc-a2); _phase:pt-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1112.87–1940.98 K, x(Ti) 0.91726–1 | 4 | 1 |
 | [FCC_A1](#phase-pt-ti-fcc-a1); _phase:pt-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2073.38 K, x(Ti) 0–0.11595 | 4 | 1 |
 | [HCP_A3](#phase-pt-ti-hcp-a3); _phase:pt-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1154.99 K, x(Ti) 0.97816–1 | 2 | 1 |
 | [LIQUID](#phase-pt-ti-liquid); _phase:pt-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1583.06–2500 K, x(Ti) 0–1 | 16 | 1 |
@@ -28,11 +28,11 @@ Table: Phases of the Pt–Ti system (10)
 - Id: `phase:pt-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1112.87–1940.98 K, x(Ti) 0.91726–1
-- Literature: 19 values (19 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-ti:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:pt-ti:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.07.047:Bcc, paper:10.1016/j.jallcom.2007.07.047:βTiPt  
+Names (3): _corpus: _corpus:phase:pt-ti:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.07.047:Bcc  
 _tdb: _tdb:PtTi-08Li.tdb:BCC_A2  
 
 
@@ -45,14 +45,10 @@ _tdb: _tdb:PtTi-08Li.tdb:BCC_A2
 35: CONST BCC_A2 : PT TI : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2007.07.047](https://doi.org/10.1016/j.jallcom.2007.07.047) Mei Li, Wei Han, Changrong Li, Thermodynamic assessment of the Pt–Ti system, Journal of Alloys and Compounds 461, 189-194 (2008).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02869304](https://doi.org/10.1007/bf02869304) J.L. Murray, Bull Alloy Phase Diagram 3 (1982) 329–335.  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2003.12.001](https://doi.org/10.1016/j.jallcom.2003.12.001) T Biggs, L.A Cornish, M.J Witcomb, M.B Cortie, Revised phase diagram for the Pt–Ti system from 30 to 60 at.% platinum, Journal of Alloys and Compounds 375, 120-127 (2004).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Pt–Ti)
 

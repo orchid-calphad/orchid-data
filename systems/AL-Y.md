@@ -1,10 +1,10 @@
 # Al–Y system
 
-> Al–Y system: 123 accepted literature values (invariant reaction 100, formation 12, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Y system: 162 accepted literature values (invariant reaction 108, crystal structure 31, formation 12, phase transition 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-Y.html · Markdown: https://data.orchid-project.org/systems/AL-Y.md
 
-123 accepted literature values from 4 paper(s) (experimental 51, model 72); 6 calculated phase diagram(s).
+162 accepted literature values from 5 paper(s) (experimental 52, model 97, unspecified 13); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-Y/AlY-06AlS.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-Y.md)
 
@@ -12,16 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
-| model | 72 |
+| experimental | 52 |
+| model | 97 |
+| unspecified | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 100 |
+| invariant reaction | 108 |
 | phase transition | 11 |
 | formation | 12 |
+| crystal structure | 31 |
 
 ## Calculated phase diagrams
 
@@ -145,7 +147,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Y system (100)
+Table: Invariant reactions reported in the literature for the Al–Y system (108)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -192,6 +194,7 @@ Table: Invariant reactions reported in the literature for the Al–Y system (100
 | 1361.15 | L \<=> AlY + Al2Y3 | L: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 22 |  |
 | 1361 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.58; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 29 |  |
 | 1359 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.573; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 31 |  |
+| 1359 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 73 |  |
 | 1358.15 | L \<=> AlY + Al2Y3 | L: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 23 |  |
 | 1358 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.57; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 30 |  |
 | 1356.15 | L \<=> AlY + Al2Y3 | L: Y 0.562; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [1] Liu 2006 | Table 2, p. 3, row 24 |  |
@@ -201,6 +204,7 @@ Table: Invariant reactions reported in the literature for the Al–Y system (100
 | 1353 | Liquid \<-> AlY + Al2Y3 | Liquid: Y 0.557; AlY: Al 0.5, Y 0.5; Al2Y3: Al 0.4, Y 0.6 | model | [2] Hu 2018 | Table 7, p. 10, row 33 |  |
 | 1308.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 31 |  |
 | 1308 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.7; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 42 |  |
+| 1261 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | experimental | [2] Hu 2018 | Table 5, p. 6, row 72 |  |
 | 1258.15 | peritectic |  | experimental | [3] Shakhshir 2006 | p. 2 | “The peritectic reactions for Al3Y, Al2Y, and AlY2 take place at 980, 1130, and 985 °C, respectively.” |
 | 1258.15 | L + Al2Y3 \<=> AlY2 | L: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | experimental | [1] Liu 2006; _cites Snyder 1960_ | Table 2, p. 3, row 30 |  |
 | 1258 | Liquid + Al2Y3 \<-> AlY2 | Liquid: Y 0.75; Al2Y3: Al 0.4, Y 0.6; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Snyder 1960_ | Table 7, p. 10, row 41 |  |
@@ -230,6 +234,8 @@ Table: Invariant reactions reported in the literature for the Al–Y system (100
 | 1227.15 | L \<=> AlY2 + (αY) | L: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [1] Liu 2006 | Table 2, p. 3, row 36 |  |
 | 1227 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.737; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 50 |  |
 | 1219 | Liquid \<-> AlY2 + hcp_Y | Liquid: Y 0.738; AlY2: Al 0.333333, Y 0.666667 | model | [2] Hu 2018 | Table 7, p. 10, row 51 |  |
+| 974 | Al2Y + βAl3Y/Al2Y + αAl3Y + βAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 43 |  |
+| 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [2] Hu 2018 | Table 5, p. 6, row 44 |  |
 | 923.15 | L \<=> (Al) + αAl3Y | L: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | experimental | [1] Liu 2006; _cites Lundin 1961_ | Table 2, p. 3, row 3 |  |
 | 923 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.033; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Lundin 1961_ | Table 7, p. 10, row 3 |  |
 | 919 | βAl3Y \<-> αAl3Y | βAl3Y: Al 0.75, Y 0.25; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 9 |  |
@@ -249,6 +255,10 @@ Table: Invariant reactions reported in the literature for the Al–Y system (100
 | 910 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.03; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Liu 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.06.078) | Table 7, p. 10, row 5 |  |
 | 908 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018 | Table 7, p. 10, row 6 |  |
 | 906 | Liquid \<-> fcc_Al + αAl3Y | Liquid: Y 0.032; αAl3Y: Al 0.75, Y 0.25 | model | [2] Hu 2018; _cites Shakhshir 2006_ [doi](https://doi.org/10.1361/154770306x109782) | Table 7, p. 10, row 4 |  |
+| 843 | Al2Y3 + Al3Y5/Al2Y3 + Al3Y5 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 74 |  |
+| 813 | Al2Y3 + Al3Y5 + AlY2/Al2Y3 + AlY2 |  | model | [2] Hu 2018 | Table 5, p. 6, row 75 |  |
+| 805 | AlY2 + Al3Y5/AlY2 + Al3Y5 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 93 |  |
+| 798 | AlY2 + Al3Y5 + Al2Y3/AlY2 + Al2Y3 |  | model | [2] Hu 2018 | Table 5, p. 6, row 94 |  |
 
 ## Formation enthalpies
 
@@ -259,14 +269,14 @@ Table: Enthalpies of formation, Al–Y system (12)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Y2Al | [AlY2](https://data.orchid-project.org/compounds/AlY2.html) | -35 kJ/mol-atom |  | model | -30.364 (mp-aaaaaqpy) | -30.446 (oqmd-10610) | [4] Gröbner 1995 | Table 1, p. 2, row 14 |  |
-| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom | 1473 | experimental | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 1, p. 2, row 11 |  |
+| Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom | 298.15 | experimental | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995; _cites Meschel 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990280-z) | Table 1, p. 2, row 11 |  |
 | Y3Al2 | [Al2Y3](https://data.orchid-project.org/compounds/Al2Y3.html) | -40 kJ/mol-atom |  | model | -34.207 (mp-aaaaaytf) | -34.421 (oqmd-27977) | [4] Gröbner 1995 | Table 1, p. 2, row 12 |  |
 | Y5Al3 | [Al3Y5](https://data.orchid-project.org/compounds/Al3Y5.html) | -38 kJ/mol-atom |  | model | -28.525 (mp-aaacpbsg) | -28.827 (oqmd-689961) | [4] Gröbner 1995 | Table 1, p. 2, row 13 |  |
 | YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -87.8 kJ/mol-atom | 298.15 | experimental | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 5 |  |
 | YAl | [AlY](https://data.orchid-project.org/compounds/AlY.html) | -45 kJ/mol-atom |  | model | -40.364 (mp-aaaaaqpw) | -42.255 (oqmd-1782622) | [4] Gröbner 1995 | Table 1, p. 2, row 6 |  |
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -80.9 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 3 |  |
 | YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom |  | model | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995 | Table 1, p. 2, row 4 |  |
-| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 1473 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
+| YAl2 | [Al2Y](https://data.orchid-project.org/compounds/Al2Y.html) | -50.4 kJ/mol-atom | 298.15 | experimental | -51.266 (mp-aaaaadli) | -51.513 (oqmd-10612) | [4] Gröbner 1995; _cites Jung 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990039-x) | Table 1, p. 2, row 9 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom |  | model | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995 | Table 1, p. 2, row 2 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.5 kJ/mol-atom | 763 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites F 1988_ | Table 1, p. 2, row 7 |  |
 | YAl3 | [Al3Y](https://data.orchid-project.org/compounds/Al3Y.html) | -47.1 kJ/mol-atom | 298.15 | experimental | -42.248 (mp-aaabxgjn) | -42.348 (oqmd-321899) | [4] Gröbner 1995; _cites Snyder 1960_ | Table 1, p. 2, row 1 |  |
@@ -291,6 +301,44 @@ Table: Phase transition, Al–Y system
 | Phase transition | 1758.15 K | 1758.15 | congruent melting | experimental | [3] Shakhshir 2006; _cites Snyder 1960_ | p. 2 | “He reported, with ±5 °C accuracy, the liquidus, two congruent compounds Al2Y and Al2Y3, which melt at 1485 and 1100 °C, respectively, and three incongruent melting compounds Al3Y, AlY, and AlY2.” |
 | Phase transition | 1795.15 K | 1795.15 | ␤Y | experimental | [3] Shakhshir 2006 | p. 2 | “They reported that ␤Y phase melts at 1522 °C and yttrium undergoes an ␣ ↔ ␤ allotropic phase transformation at 1478 °C.” |
 
+### Crystal structure (31)
+
+Table: Crystal structure, Al–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 4 |  |
+| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice a | 8.2411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6 |  |
+| Lattice a | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice a | 6.1884 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2 |  |
+| Lattice a | 6.276 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3 |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice a | 6.59 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 6.54 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice b | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice b | 8.239 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice b | 5.12 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice b | 5.08 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice b | 6.276 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice b | 6.204 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 7.8611 Å | 298.15 | Al2Y; _alloy: Y 0.333333_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 7.6411 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 6 |  |
+| Lattice c | 7.648 Å | 298.15 | Al2Y3; _alloy: Y 0.6_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
+| Lattice c | 21.094 Å | 298.15 | Al3Y_H; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 2 |  |
+| Lattice c | 4.582 Å | 298.15 | Al3Y_L; _alloy: Y 0.25_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 3 |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
+| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Y 0.5_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 5 |  |
+| Lattice c | 9.3 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 9.4 Å | 298.15 | AlY2; _alloy: Y 0.666667_ | unspecified | [5] Zhang 2009 | Table 1, p. 2, row 7 |  |
+| Lattice c | 4.582 Å | 298.15 | αAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 21.184 Å | 298.15 | βAl3Y; _alloy: Y 0.25_ | model | [2] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -299,6 +347,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018). [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018)
 3. S. Al Shakhshir, M. Medraj, Computational thermodynamic model for the Mg−Al−Y system, JPED 27, 231-244 (2006). [doi:10.1361/154770306x109782](https://doi.org/10.1361/154770306x109782)
 4. J. Gröbner, H.-L. Lukas, F. Aldinger, Thermodynamic calculations in the YAlC system, Journal of Alloys and Compounds 220, 8-14 (1995). [doi:10.1016/0925-8388(94)06028-2](https://doi.org/10.1016/0925-8388%2894%2906028-2)
+5. L.G. Zhang, H.M. Chen, H.Q. Dong, G.X. Huang, L.B. Liu, Z.P. Jin, Thermodynamic description of the Al–Sb–Y system, Journal of Alloys and Compounds 475, 233-237 (2009). [doi:10.1016/j.jallcom.2008.07.105](https://doi.org/10.1016/j.jallcom.2008.07.105)
 
 ## Please cite
 

@@ -1,7 +1,8 @@
 {
  "components": [
   "SB",
-  "YB"
+  "YB",
+  "VA"
  ],
  "phases": [
   "LIQUID",
@@ -400,7 +401,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 4,
   "source": "assessed-phase-assemblages/espei-zpf/SB-YB-p796.json"
  },
  "orchid_uncertainty_budget": {

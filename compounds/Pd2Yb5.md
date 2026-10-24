@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Pd2Yb5.html · Markdown: https:/
 
 6 accepted literature formation-enthalpy value(s) (model 5, DFT 1); OQMD -60.832 kJ/mol-atom (oqmd-1791175).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Pd2Yb5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.467 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
-| -56.8189 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 19 |  |
-| -56.723 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
-| -48.25 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
-| -45.3022 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
-| -60.35 kJ/mol-atom | Pd2Yb5 | 298.15 | DFT | Ab-initio | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 20 |  |
+| -60.467 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
+| -56.8189 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 19 |  |
+| -56.723 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
+| -48.25 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
+| -45.3022 kJ/mol-atom | Pd2Yb5 | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
+| -60.35 kJ/mol-atom | Pd2Yb5 | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 20 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Pd2Yb5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -60.467 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.8189 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.723 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.25 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45.3022 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.35 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -60.467 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.8189 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.723 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.25 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45.3022 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.35 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -44,7 +44,7 @@ Table: DFT formation energy of Pd2Yb5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1791175 | -60.832 | -0.630482 | C2/c | 0.012 | 1.000e-4 | yes |
+| OQMD | oqmd-1791175 | -60.832 | -0.630482 | C2/c | -0 | -0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

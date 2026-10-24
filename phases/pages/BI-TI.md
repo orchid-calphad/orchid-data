@@ -14,15 +14,15 @@ Table: Phases of the Bi–Ti system (11)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-ti-a7-rhombohedral); _phase:bi-ti:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.54 K, x(Ti) 0–0 | 2 | 2 |
 | [BCC_A2](#phase-bi-ti-bcc-a2); _phase:bi-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 992.62–2499.73 K, x(Ti) 0.89524–1 | 4 | 2 |
-| [BI2TI](#phase-bi-ti-bi2ti); _phase:bi-ti:bi2ti_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–960.59 K, x(Ti) 0.33333–0.33333 | 4 | 2 |
+| [BI2TI](#phase-bi-ti-bi2ti); _phase:bi-ti:bi2ti_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–960.59 K, x(Ti) 0.33333–0.33333 | 5 | 2 |
 | [BI2TI3](#phase-bi-ti-bi2ti3); _phase:bi-ti:bi2ti3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1249.02 K, x(Ti) 0.6–0.6 | 4 | 1 |
 | [BI3TI2](#phase-bi-ti-bi3ti2); _phase:bi-ti:bi3ti2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1090.32 K, x(Ti) 0.4–0.4 | 0 | 1 |
-| [BI9TI8](#phase-bi-ti-bi9ti8); _phase:bi-ti:bi9ti8_ | Sb9V8 · tP34 · P4/nmm (129) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1270.95 K, x(Ti) 0.47059–0.47059 | 4 | 2 |
-| [BITI2](#phase-bi-ti-biti2); _phase:bi-ti:biti2_ | BiTi2 · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1562.61 K, x(Ti) 0.66667–0.66667 | 3 | 2 |
-| [BITI3](#phase-bi-ti-biti3); _phase:bi-ti:biti3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1629.43 K, x(Ti) 0.75–0.75 | 5 | 2 |
+| [BI9TI8](#phase-bi-ti-bi9ti8); _phase:bi-ti:bi9ti8_ | Sb9V8 · tP34 · P4/nmm (129) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1270.95 K, x(Ti) 0.47059–0.47059 | 11 | 2 |
+| [BITI2](#phase-bi-ti-biti2); _phase:bi-ti:biti2_ | BiTi2 · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1562.61 K, x(Ti) 0.66667–0.66667 | 10 | 2 |
+| [BITI3](#phase-bi-ti-biti3); _phase:bi-ti:biti3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1629.43 K, x(Ti) 0.75–0.75 | 7 | 2 |
 | [FCC_A1](#phase-bi-ti-fcc-a1); _phase:bi-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-bi-ti-hcp-a3); _phase:bi-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1579.99 K, x(Ti) 0.99537–1 | 2 | 2 |
-| [LIQUID](#phase-bi-ti-liquid); _phase:bi-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 544.53–2500 K, x(Ti) 0–1 | 11 | 2 |
+| [LIQUID](#phase-bi-ti-liquid); _phase:bi-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 544.53–2500 K, x(Ti) 0–1 | 12 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Bi–Ti)
 
@@ -108,11 +108,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (Bi2Ti) — Hallstedt 2025 mmc2 row for BI2TI: Bi2Ti
 - Stoichiometry: Bi 0.6667, Ti 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–960.59 K, x(Ti) 0.33333–0.33333
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ti:bi2ti)
 
-Names (4): _corpus: _corpus:phase:bi-ti:bi2ti  
-_paper: _paper:10.1016/j.calphad.2014.01.001:Bi2Ti  
+Names (5): _corpus: _corpus:phase:bi-ti:bi2ti  
+_paper: _paper:10.1016/j.calphad.2014.01.001:Bi2Ti, paper:10.2298/jmmb130127033c:Bi2Ti  
 _tdb: _tdb:BiTi-13Cao.tdb:BI2TI, tdb:BiTi-14Hua.tdb:BI2TI  
 
 
@@ -137,7 +137,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001) L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB130127033C](https://doi.org/10.2298/JMMB130127033C) Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang, Y. Du, J. Mining Metall. B, 49, 307-13(2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0243-0](https://doi.org/10.1007/s11669-013-0243-0) Sho Maruyama, Yuya Kado, Tetsuya Uda, Phase Diagram Investigations of the Bi-Ti System, J. Phase Equilib. Diffus. 34, 289-296 (2013).  
 _cited as the source of values for this phase_
 
@@ -207,13 +207,13 @@ _assessment that models this phase_
 - Structure: Sb9V8 · tP34 · P4/nmm (129); type `st:sb9v8-tp34`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Bi 0.5294, Ti 0.4706
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1270.95 K, x(Ti) 0.47059–0.47059
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ti:bi9ti8)
 
-Names (6): _corpus: _corpus:phase:bi-ti:bi9ti8  
+Names (7): _corpus: _corpus:phase:bi-ti:bi9ti8  
 _mp: _mp:mp-aaabkkvd  
 _oqmd: _oqmd:oqmd-19247  
-_paper: _paper:10.1016/j.calphad.2014.01.001:Bi9Ti8  
+_paper: _paper:10.1016/j.calphad.2014.01.001:Bi9Ti8, paper:10.2298/jmmb130127033c:Bi9Ti8  
 _tdb: _tdb:BiTi-13Cao.tdb:BI9TI8, tdb:BiTi-14Hua.tdb:BI9TI8  
 
 
@@ -238,7 +238,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001) L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB130127033C](https://doi.org/10.2298/JMMB130127033C) Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang, Y. Du, J. Mining Metall. B, 49, 307-13(2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0243-0](https://doi.org/10.1007/s11669-013-0243-0) Sho Maruyama, Yuya Kado, Tetsuya Uda, Phase Diagram Investigations of the Bi-Ti System, J. Phase Equilib. Diffus. 34, 289-296 (2013).  
 _cited as the source of values for this phase_
 
@@ -250,11 +250,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.3333, Ti 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1562.61 K, x(Ti) 0.66667–0.66667
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ti:biti2)
 
-Names (4): _corpus: _corpus:phase:bi-ti:biti2  
-_paper: _paper:10.1016/j.calphad.2014.01.001:BiTi2  
+Names (5): _corpus: _corpus:phase:bi-ti:biti2  
+_paper: _paper:10.1016/j.calphad.2014.01.001:BiTi2, paper:10.2298/jmmb130127033c:BiTi2  
 _tdb: _tdb:BiTi-13Cao.tdb:BITI2, tdb:BiTi-14Hua.tdb:BITI2  
 
 
@@ -279,7 +279,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001) L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB130127033C](https://doi.org/10.2298/JMMB130127033C) Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang, Y. Du, J. Mining Metall. B, 49, 307-13(2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0243-0](https://doi.org/10.1007/s11669-013-0243-0) Sho Maruyama, Yuya Kado, Tetsuya Uda, Phase Diagram Investigations of the Bi-Ti System, J. Phase Equilib. Diffus. 34, 289-296 (2013).  
 _cited as the source of values for this phase_
 
@@ -292,11 +292,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (BiTi3) — Hallstedt 2025 mmc2 row for BITI3: BiTi3
 - Stoichiometry: Bi 0.2500, Ti 0.7500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1629.43 K, x(Ti) 0.75–0.75
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ti:biti3)
 
-Names (4): _corpus: _corpus:phase:bi-ti:biti3  
-_paper: _paper:10.1016/j.calphad.2014.01.001:BiTi3  
+Names (5): _corpus: _corpus:phase:bi-ti:biti3  
+_paper: _paper:10.1016/j.calphad.2014.01.001:BiTi3, paper:10.2298/jmmb130127033c:BiTi3  
 _tdb: _tdb:BiTi-13Cao.tdb:BITI3, tdb:BiTi-14Hua.tdb:BITI3  
 
 
@@ -321,7 +321,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001) L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB130127033C](https://doi.org/10.2298/JMMB130127033C) Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang, Y. Du, J. Mining Metall. B, 49, 307-13(2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## FCC_A1 (Bi–Ti)
 
@@ -399,11 +399,11 @@ _assessment that models this phase_
 - Id: `phase:bi-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 544.53–2500 K, x(Ti) 0–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-ti:liquid)
 
-Names (4): _corpus: _corpus:phase:bi-ti:liquid  
-_paper: _paper:10.1016/j.calphad.2014.01.001:L  
+Names (5): _corpus: _corpus:phase:bi-ti:liquid  
+_paper: _paper:10.1016/j.calphad.2014.01.001:L, paper:10.2298/jmmb130127033c:Liquid  
 _tdb: _tdb:BiTi-13Cao.tdb:LIQUID, tdb:BiTi-14Hua.tdb:LIQUID  
 
 
@@ -428,7 +428,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1016/j.calphad.2014.01.001](https://doi.org/10.1016/j.calphad.2014.01.001) L.H. Huang, Q. Chen, Y. He, X.M. Tao, G.M. Cai, H.S. Liu et al., Thermodynamic modeling of Fe–Ti–Bi system assisted with key experiments, Calphad 46, 34-41 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB130127033C](https://doi.org/10.2298/JMMB130127033C) Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang, Y. Du, J. Mining Metall. B, 49, 307-13(2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0243-0](https://doi.org/10.1007/s11669-013-0243-0) Sho Maruyama, Yuya Kado, Tetsuya Uda, Phase Diagram Investigations of the Bi-Ti System, J. Phase Equilib. Diffus. 34, 289-296 (2013).  
 _cited as the source of values for this phase_
 

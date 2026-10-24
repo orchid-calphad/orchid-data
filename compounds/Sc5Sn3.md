@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Sc5Sn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70.2 | kJ/mol-atom | 1.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -55.2 | kJ/mol-atom | 1.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -56.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -55.997 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -70.2 | kJ/mol-atom | 1.8 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -55.2 | kJ/mol-atom | 1.2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -56.02 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -55.997 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

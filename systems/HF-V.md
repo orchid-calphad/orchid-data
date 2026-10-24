@@ -1,10 +1,10 @@
 # Hf–V system
 
-> Hf–V system: 21 accepted literature values (invariant reaction 14, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–V system: 29 accepted literature values (invariant reaction 14, phase transition 7, formation 4, mixing / partial 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-V.html · Markdown: https://data.orchid-project.org/systems/HF-V.md
 
-21 accepted literature values from 1 paper(s) (experimental 12, model 9); 1 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+29 accepted literature values from 1 paper(s) (experimental 12, model 17); 1 calculated phase diagram(s). 10 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-V.json) · [CSV](https://data.orchid-project.org/systems/HF-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-V/HfV-05Ser.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HF-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-V.html) · [Markdown](https://data.orchid-project.org/systems/HF-V.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 9 |
+| model | 17 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 7 |
+| formation | 4 |
+| mixing / partial | 4 |
 
 ## Calculated phase diagrams
 
@@ -63,6 +65,19 @@ Table: Invariant reactions reported in the literature for the Hf–V system (14)
 | 1466.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [1] Servant 2005 | Table 3, p. 3, row 13 |  |
 | 1463.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | experimental | [1] Servant 2005; _cites Smith 1990_ | Table 3, p. 3, row 16 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Hf–V system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Laves |  | -3.344 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Laves |  | -3.204 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Laves phase |  | -3.5 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Laves phase |  | -2.813 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
+
 ## Other properties
 
 ### Phase transition (7)
@@ -78,6 +93,17 @@ Table: Phase transition, Hf–V system
 | Phase transition | 1825.15 K | 1825.15 | congruent melting: L -> C15 Laves | experimental | [1] Servant 2005; _cites Rudy 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990003-9) | Table 3, p. 3, row 3 |  |
 | Phase transition | 1825.15 K | 1825.15 | congruent transformation | experimental | [1] Servant 2005; _cites Rudy 1968_ | p. 1 | “The C15-Laves phase melts congruently at a temperature of 1552 °C (Ref 16) and 1550 °C (Ref 17), and has a homogeneity range.” |
 | Phase transition | 2446.15 K | 2446.15 |  | experimental | [1] Servant 2005; _cites Komjathy 1961_ | p. 1 | “On the other hand, according to Komjathy (Ref 18), its melting point is higher (2173 °C) and the phase is stoichiometric.” |
+
+### Mixing / partial (4)
+
+Table: Mixing / partial, Hf–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmelting_ | -5.528 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.67 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.42 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.692 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: Hf 0.5, V 0.5_ | model | [1] Servant 2005 | Table 1, p. 2, row 5 |  |
 
 ## Sources
 

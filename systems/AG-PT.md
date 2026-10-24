@@ -1,10 +1,10 @@
 # Ag–Pt system
 
-> Ag–Pt system: 74 accepted literature values (phase equilibrium 43, crystal structure 24, invariant reaction 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Pt system: 70 accepted literature values (phase equilibrium 43, crystal structure 20, invariant reaction 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-PT.html · Markdown: https://data.orchid-project.org/systems/AG-PT.md
 
-74 accepted literature values from 1 paper(s) (experimental 33, model 41); 2 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 29, model 41); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-PT.json) · [CSV](https://data.orchid-project.org/systems/AG-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-PT/AgPt-87Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-PT.html) · [Markdown](https://data.orchid-project.org/systems/AG-PT.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
+| experimental | 29 |
 | model | 41 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 7 |
 | phase equilibrium | 43 |
-| crystal structure | 24 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -109,13 +109,12 @@ Table: Phase equilibrium, Ag–Pt system
 | Phase composition |  | 2023.15 | L + (Pt); _L: Ag 0.019, Pt 0.981; (Pt): Ag 0.008, Pt 0.992_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 26 |  |
 | Phase composition |  | 2042.15 | L + (Pt); _L: Ag 0, Pt 1; (Pt): Ag 0, Pt 1_ | model | [1] Karakaya 1987 | Table 6, p. 7, row 27 |  |
 
-### Crystal structure (24)
+### Crystal structure (20)
 
 Table: Crystal structure, Ag–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1, Pt 0_ | experimental | [1] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
 | Lattice a | 3.89 Å | 298.15 | γ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 12 |  |
 | Lattice a | 4.061 Å | 1023.15 | (Ag); _(Ag): Ag 0.93, Pt 0.07_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 4 |  |
 | Lattice a | 4.068 Å | 1073.15 | (Ag); _(Ag): Ag 0.972, Pt 0.028_ | experimental | [1] Karakaya 1987; _cites Novikova 1957_ | Table 4, p. 4, row 2 |  |
@@ -124,10 +123,8 @@ Table: Crystal structure, Ag–Pt system
 | Lattice a | 4.067 Å | 1173.15 | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3 |  |
 | Lattice a | 3.932 Å | 1403.15 | (Pt); _(Pt): Ag 0.2, Pt 0.8_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 5 |  |
 | Lattice a | 3.921 Å | 1403.15 | (Pt); _(Pt): Ag 0.08, Pt 0.92_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 7 |  |
-| Lattice a | 3.913 Å | 1403.15 | (Pt); _(Pt): Ag 0, Pt 1_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
 | Lattice a | 3.917 Å | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8 |  |
 | Lattice a | 3.928 Å | 1403.15 | (Pt); _(Pt): Ag 0.14, Pt 0.86_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 6 |  |
-| lattice unspecified axis | 4.0861 Å | 298.15 | (Ag); _(Ag): Ag 1, Pt 0_ | experimental | [1] Karakaya 1987; _cites ref. 1_ | Table 4, p. 4, row 1 |  |
 | lattice unspecified axis | 3.89 Å | 298.15 | γ | experimental | [1] Karakaya 1987; _cites ref. 2_ | Table 4, p. 4, row 12 |  |
 | lattice unspecified axis | 4.061 Å | 1023.15 | (Ag); _(Ag): Ag 0.93, Pt 0.07_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 4 |  |
 | lattice unspecified axis | 4.068 Å | 1073.15 | (Ag); _(Ag): Ag 0.972, Pt 0.028_ | experimental | [1] Karakaya 1987; _cites Novikova 1957_ | Table 4, p. 4, row 2 |  |
@@ -136,7 +133,6 @@ Table: Crystal structure, Ag–Pt system
 | lattice unspecified axis | 4.067 Å | 1173.15 | (Ag); _(Ag): Ag 0.946, Pt 0.054_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 3 |  |
 | lattice unspecified axis | 3.932 Å | 1403.15 | (Pt); _(Pt): Ag 0.2, Pt 0.8_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 5 |  |
 | lattice unspecified axis | 3.921 Å | 1403.15 | (Pt); _(Pt): Ag 0.08, Pt 0.92_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 7 |  |
-| lattice unspecified axis | 3.913 Å | 1403.15 | (Pt); _(Pt): Ag 0, Pt 1_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 9 |  |
 | lattice unspecified axis | 3.917 Å | 1403.15 | (Pt); _(Pt): Ag 0.06, Pt 0.94_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 8 |  |
 | lattice unspecified axis | 3.928 Å | 1403.15 | (Pt); _(Pt): Ag 0.14, Pt 0.86_ | experimental | [1] Karakaya 1987; _cites ref. 43Sch_ | Table 4, p. 4, row 6 |  |
 

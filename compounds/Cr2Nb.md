@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cr2Nb.html · Markdown: https://
 
 6 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 2, unspecified 2).
 
-Systems: [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) · [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html)
+Systems: [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cr2Nb reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -7 kJ/mol (basis unstated) | Cr2Nb C14 | 0 | experimental | Experiment | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [1] Pavlů 2009; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 4, p. 4, row 4 |  |
+| -7 kJ/mol (basis unstated) | Cr2Nb C14 | 298.15 | experimental | Experiment | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [1] Pavlů 2009; _cites Martin 1970_ [doi](https://doi.org/10.1039/tf9706601065) | Table 4, p. 4, row 4 |  |
 | -9.93 kJ/mol (basis unstated) | C15 Cr2Nb | 0 | model |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [2] Schmetterer 2014; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.04.006) | Table 5, p. 6, row 1 |  |
 | -7.44 kJ/mol (basis unstated) | C15 Cr2Nb | 0 | DFT |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [2] Schmetterer 2014; _cites Hong 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900005-3) | Table 5, p. 6, row 2 |  |
 | -6.93 kJ/mol (basis unstated) | C15 Cr2Nb | 0 | DFT |  | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [2] Schmetterer 2014; _cites Yao 2006_ | Table 5, p. 6, row 3 |  |
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Cr2Nb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7 | kJ/mol (basis unstated) |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -9.93 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -7.44 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -6.93 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.02 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -6.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7 | kJ/mol (basis unstated) |  | 0.5 | 11.4 (experimental_unspecified, calibrated) |  |  |  | 11.4 |
+| -9.93 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -7.44 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| -6.93 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| -7.02 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -6.3 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## Sources
 

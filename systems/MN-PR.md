@@ -1,26 +1,26 @@
 # Mn–Pr system
 
-> Mn–Pr system: 17 accepted literature values (invariant reaction 11, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Pr system: 13 accepted literature values (invariant reaction 11, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-PR.html · Markdown: https://data.orchid-project.org/systems/MN-PR.md
 
-17 accepted literature values from 2 paper(s) (experimental 11, model 6); 2 calculated phase diagram(s).
+13 accepted literature values from 2 paper(s) (experimental 9, model 4); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MN-PR.json) · [CSV](https://data.orchid-project.org/systems/MN-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PR/MnPr-09Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/MN-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-PR.html) · [Markdown](https://data.orchid-project.org/systems/MN-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MN-PR.json) · [CSV](https://data.orchid-project.org/systems/MN-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-PR/MnPr-09Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-PR.html) · [Markdown](https://data.orchid-project.org/systems/MN-PR.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 6 |
+| experimental | 9 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 11 |
-| phase transition | 6 |
+| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -86,7 +86,7 @@ Table: Invariant reactions reported in the literature for the Mn–Pr system (11
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (2)
 
 Table: Phase transition, Mn–Pr system
 
@@ -94,10 +94,6 @@ Table: Phase transition, Mn–Pr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 923 K | 923 |  | experimental | [2] Ye 2024; _cites Saccone 1985_ | p. 4 | “It was found that Mn23Pr6 was formed by a peritectic reaction (L þ cubMn ↔ Mn23Pr6 at 1063 K) and was decomposed at 923 K.” |
 | Phase transition | 923.15 K | 923.15 | other: Mn23 Pr6 ↔ ␣Mn + ␣Pr | experimental | [1] Wang 2009; _cites Saccone 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990434-5) | p. 3 | “Saccone et al. \[14\] obtained the evidence of the peritectic formation of the Mn23 Pr6 compound (␣Mn + L ↔ Mn23 Pr6 , at 790 ◦ C) and its decomposition (Mn23 Pr6 ↔ ␣Mn + ␣Pr, at about 650 ◦ C) in the stable diagram, and also confirmed the disappearance of the Mn2 Pr compound using microprobe and X-ray analyses.” |
-| Phase transition | 1360.15 K | 1360.15 | polymorphic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 4 |  |
-| Phase transition | 1373.15 K | 1373.15 | polymorphic: γMn -> βMn; _γMn: Pr 0; βMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 3 |  |
-| Phase transition | 1405.15 K | 1405.15 | polymorphic: δMn -> γMn; _δMn: Pr 0_ | model | [1] Wang 2009 | Table 5, p. 5, row 2 |  |
-| Phase transition | 1411.15 K | 1411.15 | polymorphic: δMn -> γMn; _δMn: Pr 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 5, p. 5, row 1 |  |
 
 ## Sources
 

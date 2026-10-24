@@ -34,17 +34,17 @@ Table: Uncertainty budget of the literature values of Bi2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -590.2 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -587.5 | kJ/mol (basis unstated) |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -581.6 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -576.6 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -573.9 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -569 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -567.8 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -567.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -563.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -550.6 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -570.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -590.2 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -587.5 | kJ/mol (basis unstated) |  | 0.05 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -581.6 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -576.6 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -573.9 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -569 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -567.8 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -567.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -563.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -550.6 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -570.3 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
 
 ## Sources
 

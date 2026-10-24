@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au10Tm7.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Au10Tm7 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87.6 kJ/mol-atom | Au10Tm7 | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 47 |  |
+| -87.6 kJ/mol-atom | Au10Tm7 | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 47 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Au10Tm7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -87.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -87.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

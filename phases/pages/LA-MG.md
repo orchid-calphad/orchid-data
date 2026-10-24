@@ -1,28 +1,27 @@
 # La–Mg phases
 
-> La–Mg system: 18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–Mg system: 17 phases (tier A 9, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-MG.html · Markdown: https://data.orchid-project.org/phases/pages/LA-MG.md
 
-18 phases (tier A 10, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+17 phases (tier A 9, tier C 6, liquid 1, needs_review 1); 17 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-MG) · [full JSON](https://data.orchid-project.org/phases/systems/LA-MG.json) · [La–Mg system page](https://data.orchid-project.org/systems/LA-MG.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-MG.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–Mg system (18)
+Table: Phases of the La–Mg system (17)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-la-mg-bcc-a2); _phase:la-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 813.02–1198.51 K, x(Mg) 0–0.29651 | 12 | 6 |
+| [BCC_A2](#phase-la-mg-bcc-a2); _phase:la-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 813.02–1198.51 K, x(Mg) 0–0.29651 | 10 | 6 |
 | [B2_BCC](#phase-la-mg-bcc-b2); _phase:la-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1192.53 K, x(Mg) 0–0.50448 | 0 | 1 |
 | [MG2M_C15](#phase-la-mg-c15-mg2m); _phase:la-mg:c15-mg2m_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1076.73 K, x(Mg) 0.66667–0.66667 | 10 | 4 |
 | [MG3M_D03](#phase-la-mg-d03-mg3m); _phase:la-mg:d03-mg3m_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1071.43 K, x(Mg) 0.75–0.80818 | 11 | 4 |
 | [MG12R_D2B](#phase-la-mg-d2b-mg12r); _phase:la-mg:d2b-mg12r_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–913.18 K, x(Mg) 0.92308–0.92308 | 0 | 1 |
-| [DHCP](#phase-la-mg-dhcp); _phase:la-mg:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-la-mg-dhcp-a3); _phase:la-mg:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108 | 7 | 6 |
+| [DHCP](#phase-la-mg-dhcp-a3); _phase:la-mg:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108 | 2 | 6 |
 | [FCC_A1](#phase-la-mg-fcc-a1); _phase:la-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 518.04–1173.33 K, x(Mg) 0–0.09364 | 4 | 6 |
 | [HCP_A3](#phase-la-mg-hcp-a3); _phase:la-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.25 K, x(Mg) 0.99844–1 | 9 | 6 |
-| [LA2MG17](#phase-la-mg-la2mg17); _phase:la-mg:la2mg17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474 | 22 | 2 |
-| [LA5MG41](#phase-la-mg-la5mg41); _phase:la-mg:la5mg41_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913 | 16 | 2 |
+| [LA2MG17](#phase-la-mg-la2mg17); _phase:la-mg:la2mg17_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474 | 24 | 2 |
+| [LA5MG41](#phase-la-mg-la5mg41); _phase:la-mg:la5mg41_ | Ce5Mg41 · tI92 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913 | 18 | 2 |
 | [LAMG_B2](#phase-la-mg-lamg-b2); _phase:la-mg:lamg-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1027.91 K, x(Mg) 0.5–0.5 | 45 | 5 |
 | [LAMG12_D2B](#phase-la-mg-lamg12-d2b); _phase:la-mg:lamg12-d2b_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–924.77 K, x(Mg) 0.92308–0.92817 | 18 | 5 |
 | [LAMG2_C15](#phase-la-mg-lamg2-c15); _phase:la-mg:lamg2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 660–1057.59 K, x(Mg) 0.66667–0.66667 | 26 | 2 |
@@ -36,11 +35,11 @@ Table: Phases of the La–Mg system (18)
 - Id: `phase:la-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 6 calculated diagram(s): 813.02–1198.51 K, x(Mg) 0–0.29651
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:bcc-a2)
 
-Names (10): _corpus: _corpus:phase:la-mg:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2004.04.105:bcc(La), paper:10.1016/j.jallcom.2015.12.105:(βLa), paper:10.1016/j.jallcom.2015.12.105:(γLa)  
+Names (9): _corpus: _corpus:phase:la-mg:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2004.04.105:bcc(La), paper:10.1016/j.jallcom.2015.12.105:(γLa)  
 _tdb: _tdb:LaMg-04Guo-LB.tdb:BCC_A2, tdb:LaMg-10Guo.tdb:BCC_A2, tdb:LaMg-11Ber.tdb:BCC_A2, tdb:LaMg-12Gro.tdb:BCC_A2, tdb:LaMg-16Zha.tdb:BCC_A2, tdb:LaMg-18Zhu.tdb:BCC_A2  
 
 
@@ -88,7 +87,7 @@ _tdb: _tdb:LaMg-04Guo-LB.tdb:BCC_A2, tdb:LaMg-10Guo.tdb:BCC_A2, tdb:LaMg-11Ber.t
 34: CONST BCC_A2 : LA% MG : VA% : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase; reports values for this phase_
@@ -105,8 +104,6 @@ _assessment that models this phase_
 - [doi:10.1007/bf02890558](https://doi.org/10.1007/bf02890558) A. A. Nayeb-Hashemi, J. B. Clark, The La−Mg (Lanthanum-Magnesium) system, JPE 9, 172-178 (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(86)90135-9](https://doi.org/10.1016/0022-5088%2886%2990135-9) P. Manfrinetti, K.A. Gschneidner, Phase equilibrium in the LaMg (0 – 65 at.% Mg) and GdMg systems, Journal of the Less Common Metals 123, 267-275 (1986).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02663191](https://doi.org/10.1007/bf02663191) J. W. Herchenroeder, P. Manfrinetti, K. A. Gschneidner, Physical metallurgy of metastable bcc lanthanide-magnesium alloys for R = La, Gd, and Dy, Metall Trans A 20, 1575-1583 (1989).  
 _cited as the source of values for this phase_
 
 ## B2_BCC (La–Mg)
@@ -287,25 +284,14 @@ _assessment that models this phase_
 
 ## DHCP (La–Mg)
 
-- Id: `phase:la-mg:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-mg:dhcp  
-
-
-## DHCP (La–Mg)
-
 - Id: `phase:la-mg:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–602.74 K, x(Mg) 0–0.02108
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:dhcp-a3)
 
-Names (10): _corpus: _corpus:phase:la-mg:dhcp-a3  
-_paper: _paper:10.1016/j.calphad.2011.10.001:bcc-La, paper:10.1016/j.calphad.2011.10.001:fcc-La, paper:10.1016/j.jallcom.2015.12.105:(αLa)  
+Names (9): _corpus: _corpus:phase:la-mg:dhcp-a3, corpus:phase:la-mg:dhcp  
+_paper: _paper:10.1016/j.jallcom.2015.12.105:(αLa)  
 _tdb: _tdb:LaMg-04Guo-LB.tdb:DHCP, tdb:LaMg-10Guo.tdb:DHCP, tdb:LaMg-11Ber.tdb:DHCP, tdb:LaMg-12Gro.tdb:DHCP, tdb:LaMg-16Zha.tdb:DHCP, tdb:LaMg-18Zhu.tdb:DHCP  
 
 
@@ -355,10 +341,10 @@ _tdb: _tdb:LaMg-04Guo-LB.tdb:DHCP, tdb:LaMg-10Guo.tdb:DHCP, tdb:LaMg-11Ber.tdb:D
 
 Example references (7 of 7; assessments first): 
 
-- [doi:10.1016/j.calphad.2011.10.001](https://doi.org/10.1016/j.calphad.2011.10.001) A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2011.10.001](https://doi.org/10.1016/j.calphad.2011.10.001) A. Berche, P. Benigni, J. Rogez, M.-C. Record, Thermodynamic assessment of the La–Mg system, Calphad 35, 580-587 (2011).  
+_assessment that models this phase_
 - [doi:10.1016/j.intermet.2012.04.012](https://doi.org/10.1016/j.intermet.2012.04.012) Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Mark A. Easton, Suming Zhu, Mark A. Gibson et al., Phase analysis of Mg–La–Nd and Mg–La–Ce alloys, Intermetallics 28, 92-101 (2012).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2004.04.105](https://doi.org/10.1016/j.jallcom.2004.04.105) Cuiping Guo, Zhenmin Du, Thermodynamic assessment of the La–Mg system, Journal of Alloys and Compounds 385, 109-113 (2004).  
@@ -529,11 +515,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): CeMg10 · hP44 · P6_3/mmc — LaMg-16Zha.tdb: 'Prototype CeMg10 (hP44, P6_3/mmc)'
 - Stoichiometry: La 0.1053, Mg 0.8947
 - Stability: stable in 2 of 2 calculated diagram(s): 300–945.51 K, x(Mg) 0.89474–0.89474
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la2mg17)
 
-Names (5): _corpus: _corpus:phase:la-mg:la2mg17  
-_paper: _paper:10.1016/j.calphad.2011.10.001:La2Mg17, paper:10.1016/j.jallcom.2015.12.105:La2Mg17  
+Names (6): _corpus: _corpus:phase:la-mg:la2mg17  
+_paper: _paper:10.1016/j.calphad.2011.10.001:La2Mg17, paper:10.1016/j.jallcom.2009.09.171:La2Mg17, paper:10.1016/j.jallcom.2015.12.105:La2Mg17  
 _tdb: _tdb:LaMg-11Ber.tdb:LA2MG17, tdb:LaMg-16Zha.tdb:LA2MG17  
 
 
@@ -553,7 +539,7 @@ _tdb: _tdb:LaMg-11Ber.tdb:LA2MG17, tdb:LaMg-16Zha.tdb:LA2MG17
 67: CONST LA2MG17 : LA : MG : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase; reports values for this phase_
@@ -561,6 +547,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02669789](https://doi.org/10.1007/bf02669789) M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.09.171](https://doi.org/10.1016/j.jallcom.2009.09.171) Shaoxin Zhou, Libin Liu, Xiaoli Yuan, Feng Zheng, Zhanpeng Jin, Thermodynamic assessment of La–Si and Mg–La–Si systems, Journal of Alloys and Compounds 490, 253-259 (2010).  
+_reports values for this phase_
 
 ## LA5MG41 (La–Mg)
 
@@ -570,11 +558,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.1087, Mg 0.8913
 - Stability: stable in 2 of 2 calculated diagram(s): 550–945 K, x(Mg) 0.8913–0.8913
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mg:la5mg41)
 
-Names (5): _corpus: _corpus:phase:la-mg:la5mg41  
-_paper: _paper:10.1016/j.calphad.2011.10.001:La5Mg41, paper:10.1016/j.jallcom.2015.12.105:La5Mg41  
+Names (6): _corpus: _corpus:phase:la-mg:la5mg41  
+_paper: _paper:10.1016/j.calphad.2011.10.001:La5Mg41, paper:10.1016/j.jallcom.2009.09.171:La5Mg41, paper:10.1016/j.jallcom.2015.12.105:La5Mg41  
 _tdb: _tdb:LaMg-11Ber.tdb:LA5MG41, tdb:LaMg-16Zha.tdb:LA5MG41  
 
 
@@ -594,7 +582,7 @@ _tdb: _tdb:LaMg-11Ber.tdb:LA5MG41, tdb:LaMg-16Zha.tdb:LA5MG41
 62: CONST LA5MG41 : LA : MG : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105) Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016).  
 _assessment that models this phase; reports values for this phase_
@@ -602,6 +590,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02669789](https://doi.org/10.1007/bf02669789) M. Giovannini, A. Saccone, R. Marazza, R. Ferro, The isothermal section at 500 °C of the Y-La-Mg ternary system, Metall Mater Trans A 26, 5-10 (1995).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2009.09.171](https://doi.org/10.1016/j.jallcom.2009.09.171) Shaoxin Zhou, Libin Liu, Xiaoli Yuan, Feng Zheng, Zhanpeng Jin, Thermodynamic assessment of La–Si and Mg–La–Si systems, Journal of Alloys and Compounds 490, 253-259 (2010).  
+_reports values for this phase_
 
 ## LAMG_B2 (La–Mg)
 

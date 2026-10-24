@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ce16Ru9.html · Markdown: https:
 
 10 accepted literature formation-enthalpy value(s) (model 7, DFT 3); Materials Project -31.702 kJ/mol-atom (mp-aaabglth); OQMD -7.886 kJ/mol-atom (oqmd-94704).
 
-Systems: [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html)
+Systems: [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html)
 
 ## Literature values
 
@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Ce16Ru9 reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.8647 kJ/mol-atom | Ce16Ru9 |  | model | Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 37 |  |
-| -31.341 kJ/mol-atom | Ce16Ru9 |  | model | Calculation II | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36 |  |
-| -27.8668 kJ/mol-atom | Ce16Ru9 |  | model | Optimization LM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 32 |  |
-| -26.861 kJ/mol-atom | Ce16Ru9 |  | model | Modified Miedema’s model | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 41 |  |
-| -25.897 kJ/mol-atom | Ce16Ru9 |  | model | Calculation I | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 35 |  |
-| -25.7403 kJ/mol-atom | Ce16Ru9 |  | model | Optimization CM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 34 |  |
-| -21.4321 kJ/mol-atom | Ce16Ru9 |  | model | Optimization EM | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 33 |  |
-| -31.908 kJ/mol-atom | Ce16Ru9 |  | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 39 |  |
-| -29.329 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023 | Table 3, p. 9, row 38 |  |
-| -7.9048 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru–Sm](https://data.orchid-project.org/systems/CE-RU-SM.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 40 |  |
+| -33.8647 kJ/mol-atom | Ce16Ru9 |  | model | Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites De 2014_ | Table 3, p. 9, row 37 |  |
+| -31.341 kJ/mol-atom | Ce16Ru9 |  | model | Calculation II | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 36 |  |
+| -27.8668 kJ/mol-atom | Ce16Ru9 |  | model | Optimization LM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 32 |  |
+| -26.861 kJ/mol-atom | Ce16Ru9 |  | model | Modified Miedema’s model | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 3, p. 9, row 41 |  |
+| -25.897 kJ/mol-atom | Ce16Ru9 |  | model | Calculation I | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Selhaoui 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900125-x) | Table 3, p. 9, row 35 |  |
+| -25.7403 kJ/mol-atom | Ce16Ru9 |  | model | Optimization CM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 34 |  |
+| -21.4321 kJ/mol-atom | Ce16Ru9 |  | model | Optimization EM | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 33 |  |
+| -31.908 kJ/mol-atom | Ce16Ru9 |  | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Ceder 2010_ | Table 3, p. 9, row 39 |  |
+| -29.329 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023 | Table 3, p. 9, row 38 |  |
+| -7.9048 kJ/mol-atom | Ce16Ru9 | 0 | DFT | Ab-initio | [Ce–Ru](https://data.orchid-project.org/systems/CE-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 3, p. 9, row 40 |  |
 
 ### Uncertainty budget
 
@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Ce16Ru9
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -33.8647 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.341 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -27.8668 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.861 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.897 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.7403 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.4321 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.908 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -29.329 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -7.9048 | kJ/mol-atom |  | 5.000e-5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -33.8647 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.341 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -27.8668 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.861 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.897 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.7403 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.4321 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.908 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -29.329 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -7.9048 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -53,7 +53,7 @@ Table: DFT formation energy of Ce16Ru9
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabglth | -31.702 | -0.32857 | R-3m | 0 | 0 | no |
-| OQMD | oqmd-94704 | -7.886 | -0.081734 | R-3m | 3.51 | 0.0364 | no |
+| OQMD | oqmd-94704 | -7.886 | -0.081734 | R-3m | 3.5102 | 0.0364 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

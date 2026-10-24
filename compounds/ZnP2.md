@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/ZnP2.html · Markdown: https://d
 
 7 accepted literature formation-enthalpy value(s) (experimental 1, model 5, unspecified 1); experimental median -42.467 kJ/mol-atom (n = 1); Materials Project -23.975 kJ/mol-atom (mp-aaaaaqib); OQMD -40.016 kJ/mol-atom (oqmd-31359).
 
-Systems: [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) · [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) · [P–Zn](https://data.orchid-project.org/systems/P-ZN.html)
+Systems: [P–Zn](https://data.orchid-project.org/systems/P-ZN.html)
 
 ## Literature values
 
@@ -14,13 +14,13 @@ Table: Enthalpy of formation of ZnP2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.4667 kJ/mol-atom ± 7.5 | ZnP2 | 298.15 | experimental |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
+| -42.4667 kJ/mol-atom ± 2.5 | ZnP2 | 298.15 | experimental |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
 | -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
-| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
+| -126.85 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
 | -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
-| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7 |  |
-| -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [Al–P–Zn](https://data.orchid-project.org/systems/AL-P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
-| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Si–Zn](https://data.orchid-project.org/systems/P-SI-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| -92.9282 kJ/mol (basis unstated) | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016 | Table 4, p. 6, row 7 |  |
+| -42.2833 kJ/mol-atom | ZnP2 | 298.15 | model |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [1] Tu 2009 | Table 3, p. 4, row 12 |  |
+| -127.4 kJ/mol (basis unstated) ± 7.5 | ZnP2 | 298.15 | unspecified |  | [P–Zn](https://data.orchid-project.org/systems/P-ZN.html) | [3] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 
 ### Uncertainty budget
 
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of ZnP2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -42.4667 | kJ/mol-atom | 7.5 | 1.667e-4 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
-| -126.85 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -126.85 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.2833 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -127.4 | kJ/mol (basis unstated) | 7.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
+| -42.4667 | kJ/mol-atom | 2.5 | 1.667e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -126.85 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -126.85 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -92.9282 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -42.2833 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -127.4 | kJ/mol (basis unstated) | 7.5 | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## DFT formation energies
 

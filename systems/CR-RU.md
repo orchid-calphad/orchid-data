@@ -1,10 +1,10 @@
 # Cr–Ru system
 
-> Cr–Ru system: 17 accepted literature values (invariant reaction 17) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ru system: 25 accepted literature values (invariant reaction 25) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-RU.html · Markdown: https://data.orchid-project.org/systems/CR-RU.md
 
-17 accepted literature values from 2 paper(s) (experimental 1, model 5, unspecified 11); 2 calculated phase diagram(s).
+25 accepted literature values from 2 paper(s) (experimental 1, model 5, unspecified 19); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-RU.json) · [CSV](https://data.orchid-project.org/systems/CR-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-RU/CrRu-05Che-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-RU.html) · [Markdown](https://data.orchid-project.org/systems/CR-RU.md)
 
@@ -14,13 +14,13 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 5 |
-| unspecified | 11 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 25 |
 
 ## Calculated phase diagrams
 
@@ -58,7 +58,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Ru system (17)
+Table: Invariant reactions reported in the literature for the Cr–Ru system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -68,15 +68,23 @@ Table: Invariant reactions reported in the literature for the Cr–Ru system (17
 | 1883 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.37; bcc(Cr): Ru 0.32; hcp (Ru): Ru 0.48 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 1 |  |
 | 1881 | eutectic: L ↔ bcc(Cr) + hcp (Ru) | L: Ru 0.373; bcc(Cr): Ru 0.321; hcp (Ru): Ru 0.516 | unspecified | [1] Zhu 2015; _cites Chevalier 2007_ | Table 2, p. 3, row 2 |  |
 | 1858 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.312; hcp (Ru): Ru 0.471; σ: Ru 0.347 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 6 |  |
+| 1853.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.32; (Ru): Ru 0.48; Cr2Ru: Ru 0.33 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 13 |  |
 | 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.313; hcp (Ru): Ru 0.47; σ: Ru 0.342 | model | [1] Zhu 2015 | Table 2, p. 3, row 7 |  |
 | 1853 | peritectoid: bcc (Cr) + hcp (Ru) ↔ σ | bcc (Cr): Ru 0.32; hcp (Ru): Ru 0.48; σ: Ru 0.33 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 5 |  |
+| 1851.15 | peritectoid: (Cr) + (Ru) -> Cr2Ru | (Cr): Ru 0.324; (Ru): Ru 0.484; Cr2Ru: Ru 0.333 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 14 |  |
+| 1273.15 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.23; Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 15 |  |
 | 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.223; σ: Ru 0.32; Cr3Ru: Ru 0.315 | model | [1] Zhu 2015 | Table 2, p. 3, row 10 |  |
 | 1273 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.23; σ: Ru 0.32; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 8 |  |
 | 1268 | peritectoid: bcc (Cr) + σ ↔ Cr3Ru | bcc (Cr): Ru 0.226; σ: Ru 0.329; Cr3Ru: Ru 0.315 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 9 |  |
+| 1259.05 | peritectoid: (Cr) + Cr2Ru -> Cr3Ru | (Cr): Ru 0.221; Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.26 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 16 |  |
 | 1100 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.335; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.508 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 12 |  |
+| 1076.85 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.333; Cr3Ru: Ru 0.257; (Ru): Ru 0.506 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 18 |  |
+| 1073.15 | eutectoid: Cr2Ru -> Cr3Ru + (Ru) | Cr2Ru: Ru 0.33; Cr3Ru: Ru 0.32; (Ru): Ru 0.5 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 17 |  |
 | 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.341; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.594 | model | [1] Zhu 2015 | Table 2, p. 3, row 13 |  |
 | 1073 | eutectic: σ ↔ Cr3Ru + hcp (Ru) | σ: Ru 0.33; Cr3Ru: Ru 0.315; hcp (Ru): Ru 0.5 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 11 |  |
 | 1053 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.202; hcp (Ru): Ru 0.512 | unspecified | [1] Zhu 2015; _cites Zhu 2008_ | Table 2, p. 3, row 15 |  |
+| 1024.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.256; (Cr): Ru 0.19; (Ru): Ru 0.512 | unspecified | [2] WATSON 2006 | Table 1, p. 3, row 20 |  |
+| 1023.15 | eutectoid: Cr3Ru -> (Cr) + (Ru) | Cr3Ru: Ru 0.32; (Cr): Ru 0.18; (Ru): Ru 0.51 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 19 |  |
 | 1023 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.18; hcp (Ru): Ru 0.51 | unspecified | [1] Zhu 2015; _cites Venkatraman 1987_ [doi](https://doi.org/10.1007/bf02873189) | Table 2, p. 3, row 14 |  |
 | 1022 | eutectic: Cr3Ru ↔ bcc (Cr) + hcp (Ru) | Cr3Ru: Ru 0.315; bcc (Cr): Ru 0.192; hcp (Ru): Ru 0.601 | model | [1] Zhu 2015 | Table 2, p. 3, row 16 |  |
 

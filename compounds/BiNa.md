@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of BiNa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -78.3 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -41.6 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -39.75 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -39.15 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -42.45 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -78.3 | kJ/mol (basis unstated) |  | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -41.6 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -39.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -39.15 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -42.45 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

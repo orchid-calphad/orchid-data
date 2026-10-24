@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of YZn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -52 | kJ/mol-atom | 2 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -49 | kJ/mol-atom | 2 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -51 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -46 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -52 | kJ/mol-atom | 2 | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -49 | kJ/mol-atom | 2 | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -51 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -46 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -44,7 +44,7 @@ Table: DFT formation energy of YZn2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacjajm | -33.869 | -0.351025 | Fd-3m | 2.148 | 0.0223 | yes |
+| Materials Project | mp-aaacjajm | -33.869 | -0.351025 | Fd-3m | 2.1483 | 0.0223 | yes |
 | OQMD | oqmd-1370325 | -39.541 | -0.409812 | Imma | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

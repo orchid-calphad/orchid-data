@@ -25,6 +25,7 @@ Table: Phases of the Re–U system (8)
 
 - Id: `phase:re-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-u:a20-orthorhombic)

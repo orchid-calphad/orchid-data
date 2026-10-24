@@ -27,22 +27,29 @@ Table: Accepted values by property group
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–La–O system (10)
+Table: Enthalpies of formation, Fe–La–O system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| LaFeO3 |  | -274.696 kJ/mol-atom ± 2.61 | 298.15 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 2 |  |
+| LaFeO3 |  | -274.696 kJ/mol-atom ± 0.522 | 298.15 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 2 |  |
 | LaFeO3 |  | -273.64 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 1 |  |
 | LaFeO3 |  | -266.94 kJ/mol-atom | 298.15 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Parida 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900699-9) | Table 1, p. 4, row 3 |  |
-| LaFeO3 |  | -12.92 kJ/mol-atom ± 3.9 | 975 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7 |  |
-| LaFeO3 |  | -12.916 kJ/mol-atom ± 3.9 | 975 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6 |  |
-| LaFeO3 |  | -12.47 kJ/mol-atom | 975 | model |  |  | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 5 |  |
-| LaFeO3 |  | -12.15 kJ/mol-atom | 298.15 | model |  |  | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 4 |  |
 | UNKNOWN |  | -1373.48 kJ/mol (basis unstated) ± 2.61 | 298.15 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 2 |  |
-| UNKNOWN |  | -64.6 kJ/mol (basis unstated) ± 3.9 | 975 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7 |  |
-| UNKNOWN |  | -64.58 kJ/mol (basis unstated) ± 3.9 | 975 | experimental |  |  | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6 |  |
 
 ## Other properties
+
+### Formation (6)
+
+Table: Formation, Fe–La–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| hm from compounds; _printed: Δf,oxides °H_ | -12.15 kJ/mol-atom | 298.15 | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 4 |  |
+| hm from compounds; _printed: Δf,oxides °H_ | -12.47 kJ/mol-atom | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | model | [1] Povoden-Karadeniz 2009 | Table 1, p. 4, row 5 |  |
+| hm from compounds; _printed: Δf,oxides °H^LaFeO3_975 K_ | -12.916 kJ/mol-atom ± 0.78 | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6 |  |
+| hm from compounds; _printed: Δf,oxides °H^LaFeO3_975 K_ | -12.92 kJ/mol-atom ± 0.78 | 975 | LaFeO3; _alloy: La 0.2, O 0.6_ | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7 |  |
+| hm from compounds; _printed: Δf,oxides °H_ | -64.58 kJ/mol (basis unstated) ± 3.9 | 975 | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 6 |  |
+| hm from compounds; _printed: Δf,oxides °H_ | -64.6 kJ/mol (basis unstated) ± 3.9 | 975 | UNKNOWN | experimental | [1] Povoden-Karadeniz 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 4, row 7 |  |
 
 ### Heat capacity / entropy / enthalpy (5)
 

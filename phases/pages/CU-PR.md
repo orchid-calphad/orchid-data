@@ -1,14 +1,14 @@
 # Cu–Pr phases
 
-> Cu–Pr system: 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cu–Pr system: 10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CU-PR.html · Markdown: https://data.orchid-project.org/phases/pages/CU-PR.md
 
-11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 6, tier C 2, liquid 1, needs_review 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CU-PR) · [full JSON](https://data.orchid-project.org/phases/systems/CU-PR.json) · [Cu–Pr system page](https://data.orchid-project.org/systems/CU-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/CU-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cu–Pr system (11)
+Table: Phases of the Cu–Pr system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -18,8 +18,7 @@ Table: Phases of the Cu–Pr system (11)
 | [CU5PR_D2D](#phase-cu-pr-cu5pr-d2d); _phase:cu-pr:cu5pr-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1107.11 K, x(Pr) 0.16667–0.16667 | 2 | 1 |
 | [CU6PR](#phase-cu-pr-cu6pr); _phase:cu-pr:cu6pr_ | CeCu6 · oP28 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1218.29 K, x(Pr) 0.14286–0.14286 | 4 | 1 |
 | [CUPR_B27](#phase-cu-pr-cupr-b27); _phase:cu-pr:cupr-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 2 | 1 |
-| [DHCP](#phase-cu-pr-dhcp); _phase:cu-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-cu-pr-dhcp-a3); _phase:cu-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1203 K, x(Pr) 1–1 | 2 | 1 |
+| [DHCP](#phase-cu-pr-dhcp-a3); _phase:cu-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1203 K, x(Pr) 1–1 | 0 | 1 |
 | [FCC_A1](#phase-cu-pr-fcc-a1); _phase:cu-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1367.31 K, x(Pr) 0–0 | 1 | 1 |
 | [HCP_A3](#phase-cu-pr-hcp-a3); _phase:cu-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-cu-pr-liquid); _phase:cu-pr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 564.75–2500 K, x(Pr) 0–1 | 10 | 1 |
@@ -204,26 +203,14 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (Cu–Pr)
 
-- Id: `phase:cu-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:cu-pr:dhcp  
-
-
-## DHCP (Cu–Pr)
-
 - Id: `phase:cu-pr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: Pr 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1203 K, x(Pr) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pr:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:cu-pr:dhcp-a3  
-_paper: _paper:10.1007/bf02665998:Pr(bcc), paper:10.1007/bf02665998:Pr(dcph)  
+Names (3): _corpus: _corpus:phase:cu-pr:dhcp-a3, corpus:phase:cu-pr:dhcp  
 _tdb: _tdb:CuPr-96Zhu.tdb:DHCP  
 
 
@@ -239,7 +226,7 @@ _tdb: _tdb:CuPr-96Zhu.tdb:DHCP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02665998](https://doi.org/10.1007/BF02665998) W. Zhuang, Z.-Y. Qiao, S. Wei, J. Shen, J. Phase Equilib., 17, 508-21(1996).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Cu–Pr)
 

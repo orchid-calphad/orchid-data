@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/NB-ZN.html · Markdown: https://data.orchid-project.org/systems/NB-ZN.md
 
-31 accepted literature values from 1 paper(s) (experimental 1, model 23, unspecified 7); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 1, model 20, DFT 3, unspecified 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NB-ZN.json) · [CSV](https://data.orchid-project.org/systems/NB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NB-ZN/NbZn-16Lon.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/NB-ZN.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 23 |
+| model | 20 |
+| DFT | 3 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -87,11 +88,11 @@ Table: Enthalpies of formation, Nb–Zn system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NbZn15 |  | -3.637 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 5 |  |
+| NbZn15 |  | -3.637 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 5 |  |
 | NbZn15 |  | -3.636 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 5 |  |
-| NbZn2 |  | -15.236 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 1 |  |
+| NbZn2 |  | -15.236 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 1 |  |
 | NbZn2 |  | -15.233 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 1 |  |
-| NbZn3 |  | -15.192 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 3 |  |
+| NbZn3 |  | -15.192 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 | NbZn3 |  | -13.57 kJ/mol (basis unstated) | 0 | model |  |  | [1] Long 2016 | Table 1, p. 3, row 3 |  |
 
 ## Other properties

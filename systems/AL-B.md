@@ -1,10 +1,10 @@
 # Al–B system
 
-> Al–B system: 48 accepted literature values (invariant reaction 29, formation 10, phase transition 7, other property 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–B system: 46 accepted literature values (invariant reaction 27, formation 10, phase transition 7, other property 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-B.html · Markdown: https://data.orchid-project.org/systems/AL-B.md
 
-48 accepted literature values from 3 paper(s) (experimental 12, model 31, unspecified 5); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+46 accepted literature values from 3 paper(s) (experimental 11, model 30, unspecified 5); 5 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-B.json) · [CSV](https://data.orchid-project.org/systems/AL-B.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-B) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-B/AlB-01Luk-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-B.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-B.html) · [Markdown](https://data.orchid-project.org/systems/AL-B.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 31 |
+| experimental | 11 |
+| model | 30 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 29 |
+| invariant reaction | 27 |
 | phase transition | 7 |
 | formation | 10 |
 | other property | 2 |
@@ -85,14 +85,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–B system (29)
+Table: Invariant reactions reported in the literature for the Al–B system (27)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2448 | congruent melting: AlB12-H -> Liquid |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 5 |  |
 | 2367.15 | congruent melting: Liquid -> AlB12 | Liquid: B 0.923; AlB12: B 0.923 | model | [2] Mirković 2004 | Table 3, p. 5, row 1 |  |
-| 2365.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | experimental | [3] Campbell 1999; _cites Carlson 1990_ [doi](https://doi.org/10.1007/bf02841717) | Table 3, p. 3, row 14 |  |
-| 2348.15 | congruent melting: β ↔ L | β: B 1; L: B 1 | model | [3] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 3, row 15 |  |
 | 2336 | eutectic: Liquid -> AlB12-H + β-rhombo-B |  | unspecified | [1] Hämäläinen 1998 | Table I, p. 33, row 4 |  |
 | 2323.15 | peritectic: AlB12 ↔ β + L | AlB12: B 0.923; β: B 0.97 | experimental | [3] Campbell 1999; _cites Duschanek 1995_ [doi](https://doi.org/10.1007/bf02649415) | Table 3, p. 3, row 12 |  |
 | 2320.15 | eutectic: Liquid -> AlB12 + β-B | Liquid: B 0.975; AlB12: B 0.923; β-B: B 1 | model | [2] Mirković 2004 | Table 3, p. 5, row 2 |  |

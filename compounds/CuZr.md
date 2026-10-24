@@ -14,13 +14,13 @@ Table: Enthalpy of formation of CuZr reported in the literature (17)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.4 kJ/mol-atom | CuZr-B2 | 0 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 16 |  |
+| -24.4 kJ/mol-atom | CuZr-B2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 16 |  |
 | -24.4 kJ/mol-atom | CuZr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Turchanin 2008; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 3, p. 10, row 16 |  |
 | -24.4 kJ/mol-atom | CuZr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 1, p. 1, row 18 |  |
 | -24 kJ/mol-atom | CuZr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Turchanin 2008; _cites Sidorov 1989_ | Table 3, p. 10, row 17 |  |
 | -15.179 kJ/mol-atom | CuZr | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 19 |  |
 | -9.05 kJ/mol-atom | CuZr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 10, row 18 |  |
-| -9.05 kJ/mol-atom | CuZr-B2 | 0 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 17 |  |
+| -9.05 kJ/mol-atom | CuZr-B2 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 17 |  |
 | -9.05 kJ/mol-atom | CuZr | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 17 |  |
 | -24.012 kJ/mol-atom | CuZr |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [3] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 14 |  |
 | -17.014 kJ/mol-atom | CuZr | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Turchanin 2008 | Table 3, p. 10, row 20 |  |
@@ -40,23 +40,23 @@ Table: Uncertainty budget of the literature values of CuZr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -24.4 | kJ/mol-atom | 0.96 | 5.000e-4 | 4.1 (unknown, calibrated) |  | 8.749 |  | 8.749 |
-| -24.4 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -24 | kJ/mol-atom | 2 | 5.000e-4 | 4.1 (unknown, calibrated) |  | 8.749 |  | 8.749 |
-| -15.179 | kJ/mol-atom | 0.309 | 4.392e-4 | 4.1 (unknown, calibrated) |  | 8.749 | 0.2103 | 8.749 |
-| -9.05 | kJ/mol-atom | 1.18 | 5.000e-4 | 4.1 (unknown, calibrated) |  | 8.749 |  | 8.749 |
-| -9.05 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -9.05 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -24.012 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.014 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.0521 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -7.33717 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12.71 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -12.13 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -11.97 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -10.58 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -10.53 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24.4 | kJ/mol-atom | 0.96 | 5.000e-4 | 3.5 (unknown, calibrated) |  | 8.749 |  | 8.749 |
+| -24.4 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24 | kJ/mol-atom | 2 | 5.000e-4 | 3.5 (unknown, calibrated) |  | 8.749 |  | 8.749 |
+| -15.179 | kJ/mol-atom | 0.309 | 4.392e-4 | 3.5 (unknown, calibrated) |  | 8.749 | 0.2103 | 8.749 |
+| -9.05 | kJ/mol-atom | 1.18 | 5.000e-4 | 3.5 (unknown, calibrated) |  | 8.749 |  | 8.749 |
+| -9.05 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -9.05 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24.012 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.014 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.0521 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -7.33717 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -12.71 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -12.13 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -11.97 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -10.58 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -10.53 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -66,8 +66,10 @@ Table: DFT formation energy of CuZr
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacjlri | -12.296 | -0.127435 | Cm | 2.171 | 0.0225 | no |
-| OQMD | oqmd-756640 | -12.626 | -0.130864 | Pbcm | 2.047 | 0.0212 | yes |
+| Materials Project | mp-aaaaadha | -10.392 | -0.107705 | Pm-3m | 4.075 | 0.0422 | no |
+| Materials Project | mp-aaacjlri | -12.296 | -0.127435 | Cm | 2.1714 | 0.0225 | no |
+| OQMD | oqmd-116222 | -10.297 | -0.106722 | Pm-3m | 4.3766 | 0.0454 | no |
+| OQMD | oqmd-756640 | -12.626 | -0.130864 | Pbcm | 2.0472 | 0.0212 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

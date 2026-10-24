@@ -13,7 +13,7 @@ Table: Phases of the Cu–Er system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-er-bcc-a2); _phase:cu-er:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [CU2ER](#phase-cu-er-cu2er); _phase:cu-er:cu2er_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1174.08 K, x(Er) 0.33333–0.33333 | 4 | 1 |
+| [CU2ER](#phase-cu-er-cu2er); _phase:cu-er:cu2er_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1174.08 K, x(Er) 0.33333–0.33333 | 10 | 1 |
 | [CU5ER_C15B](#phase-cu-er-cu5er-c15b); _phase:cu-er:cu5er-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1273.15 K, x(Er) 0.16667–0.16667 | 4 | 1 |
 | [CU7ER2](#phase-cu-er-cu7er2); _phase:cu-er:cu7er2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1110.1–1209.96 K, x(Er) 0.22222–0.22222 | 4 | 1 |
 | [CU9ER2](#phase-cu-er-cu9er2); _phase:cu-er:cu9er2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1277.46 K, x(Er) 0.18182–0.18182 | 8 | 1 |
@@ -56,11 +56,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.6667, Er 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1174.08 K, x(Er) 0.33333–0.33333
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-er:cu2er)
 
-Names (3): _corpus: _corpus:phase:cu-er:cu2er  
-_paper: _paper:10.1016/j.calphad.2008.05.002:Cu2Er  
+Names (4): _corpus: _corpus:phase:cu-er:cu2er  
+_paper: _paper:10.1016/j.calphad.2008.05.002:Cu2Er, paper:10.1016/j.calphad.2009.04.001:Cu2Er  
 _tdb: _tdb:CuEr-08Zha.tdb:CU2ER  
 
 
@@ -73,10 +73,14 @@ _tdb: _tdb:CuEr-08Zha.tdb:CU2ER
 60: CONST CU2ER : CU : ER : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002) L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2009.04.001](https://doi.org/10.1016/j.calphad.2009.04.001) M. Palumbo, L. Battezzati, A. Pasturel, S. Gottlieb-Schönmeyer, W. Assmus, Thermodynamic and ab initio investigation of the Cu–Dy system, Calphad 33, 511-516 (2009).  
+_reports values for this phase_
+- [doi:10.1016/j.jallcom.2004.08.062](https://doi.org/10.1016/j.jallcom.2004.08.062) S.V. Meschel, O.J. Kleppa, Thermochemistry of some binary alloys of copper with the lanthanide metals by high-temperature direct synthesis calorimetry, Journal of Alloys and Compounds 388, 91-97 (2005).  
+_cited as the source of values for this phase_
 
 ## CU5ER_C15B (Cu–Er)
 

@@ -1,10 +1,10 @@
 # Al–Cr system
 
-> Al–Cr system: 279 accepted literature values (invariant reaction 201, crystal structure 35, phase transition 19, formation 16) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr system: 310 accepted literature values (invariant reaction 203, crystal structure 46, formation 21, phase transition 19) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR.html · Markdown: https://data.orchid-project.org/systems/AL-CR.md
 
-279 accepted literature values from 7 paper(s) (experimental 150, model 115, unspecified 14); 11 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+310 accepted literature values from 9 paper(s) (experimental 160, model 117, DFT 21, unspecified 12); 11 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR.json) · [CSV](https://data.orchid-project.org/systems/AL-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CR/AlCr-07Tok.json) · [phases (22)](https://data.orchid-project.org/phases/pages/AL-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR.md)
 
@@ -12,20 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 150 |
-| model | 115 |
-| unspecified | 14 |
+| experimental | 160 |
+| model | 117 |
+| DFT | 21 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 201 |
+| invariant reaction | 203 |
 | phase transition | 19 |
-| formation | 16 |
-| mixing / partial | 3 |
+| formation | 21 |
+| mixing / partial | 16 |
 | activity / EMF / Gibbs energy | 5 |
-| crystal structure | 35 |
+| crystal structure | 46 |
 
 ## Calculated phase diagrams
 
@@ -222,7 +223,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Cr system (201)
+Table: Invariant reactions reported in the literature for the Al–Cr system (203)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -283,6 +284,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr system (20
 | 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.279; L: Cr 0.158; αCr5Al8: Cr 0.312 | model | [1] Witusiewicz 2015; _cites Liang 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.06.046) | Table 3, p. 8, row 18 |  |
 | 1333 | metatectic/catatectic: βCr5Al8 ⇄ L + αCr5Al8 | βCr5Al8: Cr 0.311; L: Cr 0.138; αCr5Al8: Cr 0.31 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 19 |  |
 | 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.2787; L: Cr 0.1576; αAl8Cr5: Cr 0.3116 | model | [6] Liang 2008 | Table 2, p. 5, row 13 |  |
+| 1333 | quasi-peritectic: βCr5Al8 + γCr5Al8 -> L + αCr5Al8 | βCr5Al8: Al 0.681, Cr 0.319; γCr5Al8: Al 0.68, Cr 0.32; L: Al 0.826, Cr 0.174; αCr5Al8: Al 0.674, Cr 0.326 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 9 |  |
 | 1333 | polymorphic: Al9Cr4-H -> Al9Cr4-L | Al9Cr4-H: Cr 0.158; Al9Cr4-L: Cr 0.158 | unspecified | [4] Hämäläinen 1998 | Table I, p. 42, row 5 |  |
 | 1333 | βAl8Cr5 -> liq. + αAl8Cr5b | βAl8Cr5: Cr 0.29; L: Cr 0.17; αAl8Cr5: Cr 0.3 | model | [6] Liang 2008; _cites Mahdouk 2000_ [doi](https://doi.org/10.1361/105497100770340219) | Table 2, p. 5, row 14 |  |
 | 1332.7 | metatectic/catatectic: γCr5Al8 ⇄ L + αCr5Al8 | γCr5Al8: Cr 0.32; L: Cr 0.173; αCr5Al8: Cr 0.326 | model | [1] Witusiewicz 2015 | Table 3, p. 8, row 22 |  |
@@ -300,6 +302,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr system (20
 | 1308.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Costa 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990601-5) | Table 1, p. 3, row 24 |  |
 | 1308 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.131; αCr5Al8: Cr 0.3; CrAl4: Cr 0.216 | model | [1] Witusiewicz 2015; _cites Hu 2013_ [doi](https://doi.org/10.1016/j.tca.2013.03.033) | Table 3, p. 8, row 27 |  |
 | 1307 | peritectic: L + αCr5Al8 ⇄ CrAl4 | L: Cr 0.13; αCr5Al8: Cr 0.304; CrAl4: Cr 0.198 | model | [1] Witusiewicz 2015; _cites Chen 2009_ [doi](https://doi.org/10.1007/s11661-009-0014-z) | Table 3, p. 8, row 26 |  |
+| 1306 | quasi-peritectic: L + βCr5Al8 -> αCr5Al8 + CrAl4 | L: Al 0.837, Cr 0.161; βCr5Al8: Al 0.688, Cr 0.307; αCr5Al8: Al 0.679, Cr 0.319; CrAl4: Al 0.803, Cr 0.192 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 11 |  |
 | 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017; _cites Kster 1963_ | Table 1, p. 3, row 23 |  |
 | 1303.15 | peritectic: Liquid + γ\_L = Al4Cr | γ\_L: Al 0.615385, Cr 0.384615; Al4Cr: Al 0.8, Cr 0.2 | experimental | [2] Cui 2017 | Table 1, p. 3, row 28 |  |
 | 1303.15 | peritectic: Liquid + g_L -> Al4Cr |  | model | [2] Cui 2017 | p. 14 | “The Al4Cr phase forms via a peritectic reaction from the Liquid and g_L phases at €ster et al. \[16\]. Similarly, 1030 C which agrees with the results by Ko the Al11Cr2 and Al7Cr phases have peritectic reactions calculated at 904 C and 799 C, respectively.” |
@@ -432,7 +435,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr system (20
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Cr system (16)
+Table: Enthalpies of formation, Al–Cr system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -450,8 +453,13 @@ Table: Enthalpies of formation, Al–Cr system (16)
 | Al9Cr4 (l) |  | -16.17 kJ/mol-atom | 1273.15 | model |  |  | [7] Saunders 1986 | Table 1, p. 4, row 8 |  |
 | Al9Cr4 (l) |  | -15.9 kJ/mol-atom | 1273.15 | experimental |  |  | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7 |  |
 | AlCr2 | [AlCr2](https://data.orchid-project.org/compounds/AlCr2.html) | -10.878 kJ/mol-atom | 298.15 | experimental | -11.845 (mp-aaaaacnj) | -13.209 (oqmd-10426) | [3] Murray 1998; _cites ref. 60Kub_ | Table 4, p. 6, row 6 |  |
+| B2-β |  | -7.96 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 5 |  |
+| L12-γ’ |  | -19.04 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 4 |  |
+| L12-γ’ |  | -12.94 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 6 |  |
 | UNKNOWN |  | -15.5 kJ/mol-atom | 1273.15 | model |  |  | [7] Saunders 1986 | Table 1, p. 4, row 10 |  |
 | UNKNOWN |  | -15.06 kJ/mol-atom | 1273.15 | experimental |  |  | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9 |  |
+| γ' |  | -19.04 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 4 |  |
+| γ' |  | -12.94 kJ/mol-atom | 0 | DFT |  |  | [8] Liu 2016 | Table 7, p. 41, row 6 |  |
 
 ## Other properties
 
@@ -481,12 +489,25 @@ Table: Phase transition, Al–Cr system
 | Phase transition | 1634 K | 1634 | L + a ¡ A2 + c | model | [1] Witusiewicz 2015 | p. 12 | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
 | Phase transition | 1682 K | 1682 | L + a ¡ A2 + c | experimental | [1] Witusiewicz 2015; _cites Kriegel 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.09.067) | p. 12 | “According to the present description the temperature of the invariant reaction L + a ¡ A2 + c marked as U3 in the reaction scheme and on the liquidus surface is equal to 1634 K, instead of 1682 K given in \[17\].” |
 
-### Mixing / partial (3)
+### Mixing / partial (16)
 
 Table: Mixing / partial, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmix_ | 0.93 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.41 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Cr 0.5_ | DFT | [8] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.44 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Cr 0.5_ | DFT | [9] Liu 2015 | Table 4, p. 13, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.01 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Cr 0.75_ | DFT | [9] Liu 2015 | Table 4, p. 13, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 1.42 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Cr 0.75_ | DFT | [8] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 2.45 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Cr 0.25_ | DFT | [9] Liu 2015 | Table 4, p. 13, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.96 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Cr 0.5_ | DFT | [9] Liu 2015 | Table 4, p. 13, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.96 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Cr 0.5_ | DFT | [8] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -7.08 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Cr 0.75_ | DFT | [8] Liu 2016 | Table 7, p. 41, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.86 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Cr 0.5_ | DFT | [8] Liu 2016 | Table 7, p. 41, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -2.52 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016 | Table 7, p. 41, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -19.04 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Cr 0.25_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.94 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Cr 0.75_ | DFT | [8] Liu 2016 | Table 9, p. 43, row 3 |  |
 | Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -16.28 kJ/mol-atom | 1273.15 | Al4Cr; _alloy: Al 0.8, Cr 0.2_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 5 |  |
 | Gibbs energy of mixing; _printed: ΔG^exp at 1000°C_ | -21.51 kJ/mol-atom | 1273.15 | Al9Cr4 (l); _alloy: Al 0.69, Cr 0.31_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 7 |  |
 | Gibbs energy of mixing; _printed: ΔGexp_ | -23.79 kJ/mol-atom | 1273.15 | UNKNOWN; _alloy: Al 0.6, Cr 0.4_ | experimental | [7] Saunders 1986; _cites ref. 35_ | Table 1, p. 4, row 9 |  |
@@ -503,40 +524,51 @@ Table: Activity / EMF / Gibbs energy, Al–Cr system
 | Gibbs energy; _printed: ΔGcalc_ | -17.55 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.8, Cr 0.2_ | model | [7] Saunders 1986 | Table 1, p. 4, row 6 |  |
 | Gibbs energy; _printed: ΔGcalc_ | -21.96 kJ mol^-1 of atoms | 1273.15 | UNKNOWN; _alloy: Al 0.69, Cr 0.31_ | model | [7] Saunders 1986 | Table 1, p. 4, row 8 |  |
 
-### Crystal structure (35)
+### Crystal structure (46)
 
 Table: Crystal structure, Al–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Cr 0_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 1 |  |
 | Lattice a | 12.88 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
 | Lattice a | 12.88 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice a | 25.196 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
 | Lattice a | 8.716 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
 | Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
+| Lattice a | 12.88 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
 | Lattice a | 25.196 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
 | Lattice a | 25.196 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
+| Lattice a | 3.005 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
 | Lattice a | 3.0045 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
 | Lattice a | 2.99984 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
-| Lattice a | 2.8848 Å | 298.15 | Cr; _Cr: Al 0, Cr 1_ | unspecified | [3] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9 |  |
 | Lattice a | 7.8051 Å | 298.15 | αAl8Cr5; _αAl8Cr5: Al 0.58, Cr 0.42_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 6 |  |
 | Lattice a | 9.123 Å | 298.15 | αAl9Cr4; _αAl9Cr4: Al 0.665, Cr 0.335_ | unspecified | [3] Murray 1998; _cites ref. 63Kos_ | Table 3, p. 5, row 5 |  |
 | Lattice a | 9.065 Å | 298.15 | γ\_H | unspecified | [2] Cui 2017; _cites Ellner 1989_ | Table 2, p. 4, row 4 |  |
 | Lattice a | 12.719 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
 | Lattice b | 7.652 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
 | Lattice b | 7.652 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice b | 7.574 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
 | Lattice b | 23.946 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice b | 7.652 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
 | Lattice b | 7.574 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
 | Lattice b | 7.574 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
 | Lattice c | 10.639 Å | 298.15 | Al11Cr2; _Al11Cr2: Al 0.83, Cr 0.17_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 3 |  |
 | Lattice c | 10.639 Å | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
+| Lattice c | 10.949 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
 | Lattice c | 16.386 Å | 298.15 | Al4Cr; _Al4Cr: Al 0.8, Cr 0.2_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 4 |  |
+| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
 | Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
+| Lattice c | 10.639 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
 | Lattice c | 10.949 Å | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
 | Lattice c | 10.949 Å | 298.15 | Al7Cr; _Al7Cr: Al 0.863, Cr 0.137_ | experimental | [3] Murray 1998; _cites Ohnishi 1975_ | Table 3, p. 5, row 2 |  |
+| Lattice c | 8.645 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [5] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
 | Lattice c | 8.6477 Å | 298.15 | AlCr2; _AlCr2: Al 0.286, Cr 0.714_ | experimental | [3] Murray 1998; _cites Bradley 1937_ | Table 3, p. 5, row 7 |  |
 | Lattice c | 8.6303 Å | 298.15 | AlCr2; _alloy: Cr 0.666667_ | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 6 |  |
 | Lattice c | 7.936 Å | 298.15 | γ\_L | experimental | [2] Cui 2017; _cites Bradley 1937_ | Table 2, p. 4, row 5 |  |
+| Molar volume; _printed: V0_ | 14.031 Å3/atom | 298.15 | B2 AlCr; _alloy: Cr 0.5_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 4 |  |
+| Molar volume; _printed: V0_ | 14.838 Å3/atom | 298.15 | γ'-L12 Al3Cr; _alloy: Cr 0.25_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 20 |  |
+| Molar volume; _printed: V0_ | 12.431 Å3/atom | 298.15 | γ'-L12 Cr3Al; _alloy: Cr 0.75_ | DFT | [8] Liu 2016 | Table 2, p. 36, row 21 |  |
 | lattice beta | 128.41 ° | 298.15 | Al11Cr2; _alloy: Cr 0.153846_ | experimental | [2] Cui 2017; _cites Ohnishi 1975_ | Table 2, p. 4, row 2 |  |
 | lattice beta | 119.33 ° | 298.15 | Al4Cr; _alloy: Cr 0.2_ | experimental | [2] Cui 2017; _cites Audier 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906010-x) | Table 2, p. 4, row 3 |  |
 | lattice beta | 128.71 ° | 298.15 | Al7Cr; _alloy: Cr 0.125_ | experimental | [2] Cui 2017; _cites Cooper 1960_ [doi](https://doi.org/10.1107/s0365110x60000571) | Table 2, p. 4, row 1 |  |
@@ -556,6 +588,8 @@ Reporting papers the values were read from (a value cited from another work name
 5. Biao Hu, Wei-Wei Zhang, Yingbiao Peng, Yong Du, Shuhong Liu, Yuelan Zhang, Thermodynamic reassessment of the Al–Cr–Si system with the refined description of the Al–Cr system, Thermochimica Acta 561, 77-90 (2013). [doi:10.1016/j.tca.2013.03.033](https://doi.org/10.1016/j.tca.2013.03.033)
 6. Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the Al–Cr system, Journal of Alloys and Compounds 460, 314-319 (2008). [doi:10.1016/j.jallcom.2007.06.046](https://doi.org/10.1016/j.jallcom.2007.06.046)
 7. N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986). [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520)
+8. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+9. Xuan L. Liu, Thomas Gheno, Bonnie B. Lindahl, Greta Lindwall, Brian Gleeson, Zi-Kui Liu, First-Principles Calculations, Experimental Study, and Thermodynamic Modeling of the Al-Co-Cr System, PLoS ONE 10, e0121386 (2015). [doi:10.1371/journal.pone.0121386](https://doi.org/10.1371/journal.pone.0121386)
 
 ## Please cite
 

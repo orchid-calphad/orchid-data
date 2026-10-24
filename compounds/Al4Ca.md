@@ -45,28 +45,28 @@ Table: Uncertainty budget of the literature values of Al4Ca
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -219.5 | kJ/mol (basis unstated) | 20 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 20 |
-| -209 | kJ/mol (basis unstated) | 30 | 5.000e-4 | 1 (combustion_calorimetry, prior) |  |  |  | 30 |
-| -100.9 | kJ/mol (basis unstated) | 1.9 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -97 | kJ/mol (basis unstated) | 16.5 | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 16.5 |
-| -93.5 | kJ/mol (basis unstated) | 1.25 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -20.2 | kJ/mol-atom | 0.4 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -219.5 | kJ/mol (basis unstated) | 20 | 5.000e-5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 20 |
+| -209 | kJ/mol (basis unstated) | 30 | 5.000e-5 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 30 |
+| -100.9 | kJ/mol (basis unstated) | 1.9 | 5.000e-5 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
+| -97 | kJ/mol (basis unstated) | 16.5 | 5.000e-5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -93.5 | kJ/mol (basis unstated) | 1.25 | 5.000e-5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -20.2 | kJ/mol-atom | 0.4 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -20.18 | kJ/mol-atom | 0.38 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -19.4 | kJ/mol-atom | 3.3 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -19.4 | kJ/mol-atom | 3.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -19.4 | kJ/mol-atom | 3.3 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -19.4 | kJ/mol-atom | 3.3 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -18.7 | kJ/mol-atom | 0.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -18.7 | kJ/mol-atom | 0.3 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -100.509 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -93.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.968 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.248 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.27 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.615 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -20.034 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -19.56 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -19.208 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -18.7 | kJ/mol-atom | 0.3 | 5.000e-5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -100.509 | kJ/mol (basis unstated) |  | 5.000e-5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -93.5 | kJ/mol (basis unstated) |  | 5.000e-5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -28.968 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.248 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.27 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.615 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -20.034 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -19.56 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -19.208 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -76,8 +76,8 @@ Table: DFT formation energy of Al4Ca
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaacph | -18.794 | -0.19479 | I4/mmm | 0.468 | 0.0049 | no |
-| OQMD | oqmd-2168879 | -18.472 | -0.191446 | C2/m | 0.953 | 0.0099 | yes |
+| Materials Project | mp-aaaaacph | -18.794 | -0.19479 | I4/mmm | 0.4681 | 0.0049 | no |
+| OQMD | oqmd-2168879 | -18.472 | -0.191446 | C2/m | 0.9123 | 0.0095 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -19,7 +19,7 @@ Table: Phases of the Co–U system (12)
 | [CO3U](#phase-co-u-co3u); _phase:co-u:co3u_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1111.22 K, x(U) 0.25–0.25 | 2 | 1 |
 | [CO4U](#phase-co-u-co4u); _phase:co-u:co4u_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1387.89 K, x(U) 0.2–0.2 | 8 | 1 |
 | [COU_BA](#phase-co-u-cou-ba); _phase:co-u:cou-ba_ | CoU · B_a · cI16 · I2_13 (199) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1075.63 K, x(U) 0.5–0.5 | 4 | 1 |
-| [COU6_D2C](#phase-co-u-cou6-d2c); _phase:co-u:cou6-d2c_ | MnU6 · D2_c · tI28 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1097.55 K, x(U) 0.85714–0.85714 | 6 | 1 |
+| [COU6_D2C](#phase-co-u-cou6-d2c); _phase:co-u:cou6-d2c_ | MnU6 · D2_c · tI28 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1097.55 K, x(U) 0.85714–0.85714 | 4 | 1 |
 | [FCC_A1](#phase-co-u-fcc-a1); _phase:co-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 694.99–1799.64 K, x(U) 0–5e-05 | 2 | 1 |
 | [HCP_A3](#phase-co-u-hcp-a3); _phase:co-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–694.99 K, x(U) 0–0 | 0 | 1 |
 | [LIQUID](#phase-co-u-liquid); _phase:co-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1014.02–4000 K, x(U) 0–1 | 18 | 1 |
@@ -29,6 +29,7 @@ Table: Phases of the Co–U system (12)
 
 - Id: `phase:co-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-u:a20-orthorhombic)
@@ -233,7 +234,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: MnU6 · D2_c · tI28 · I4/mcm (140); type `st:d2-c-mnu6-ti28`; tier A: standard phase name; confidence high
 - Stoichiometry: Co 0.1429, U 0.8571
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1097.55 K, x(U) 0.85714–0.85714
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-u:cou6-d2c)
 
 Names (4): _corpus: _corpus:phase:co-u:cou6-d2c  
@@ -341,6 +342,7 @@ _assessment that models this phase; reports values for this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — CoU-08Wan.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 942.02–1406.83 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-u:u-tetragonal)

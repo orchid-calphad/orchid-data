@@ -1,10 +1,10 @@
 # Co–Sn system
 
-> Co–Sn system: 85 accepted literature values (invariant reaction 62, phase transition 15, crystal structure 3, formation 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Sn system: 108 accepted literature values (invariant reaction 62, crystal structure 24, phase transition 15, formation 4) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SN.html · Markdown: https://data.orchid-project.org/systems/CO-SN.md
 
-85 accepted literature values from 4 paper(s) (experimental 39, model 26, DFT 4, unspecified 16); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+108 accepted literature values from 5 paper(s) (experimental 48, model 27, DFT 8, unspecified 25); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SN.json) · [CSV](https://data.orchid-project.org/systems/CO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SN/CoSn-04Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CO-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SN.html) · [Markdown](https://data.orchid-project.org/systems/CO-SN.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 39 |
-| model | 26 |
-| DFT | 4 |
-| unspecified | 16 |
+| experimental | 48 |
+| model | 27 |
+| DFT | 8 |
+| unspecified | 25 |
 
 Table: Accepted values by property group
 
@@ -23,9 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 62 |
 | phase transition | 15 |
-| formation | 2 |
+| formation | 4 |
 | mixing / partial | 2 |
-| crystal structure | 3 |
+| crystal structure | 24 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -173,10 +173,12 @@ Table: Invariant reactions reported in the literature for the Co–Sn system (62
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Sn system (2)
+Table: Enthalpies of formation, Co–Sn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| NiAs-type CoSn |  | -3.82 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Dong 2009 | Table II, p. 4, row 1 |  |
+| NiAs-type CoSn |  | -3.75 kJ/mol (basis unstated) | 10 | model |  |  | [4] Dong 2009 | Table II, p. 4, row 2 |  |
 | PdSn4 type, AuSn4 |  | -7.2 kJ/mol (basis unstated) | 10 | model |  |  | [4] Dong 2009 | Table II, p. 4, row 10 |  |
 | PdSn4 type, AuSn4 |  | -7.19 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Dong 2009 | Table II, p. 4, row 9 |  |
 
@@ -213,15 +215,36 @@ Table: Mixing / partial, Co–Sn system
 | Partial enthalpy; _printed: partial mixing enthalpy_ | 11.96 kJ/mol-atom | 874 |  | experimental | [3] Jiang 2004; _cites Torgersen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900887-2) | p. 3 | “By using drop calorimetry, Torgersen et al. \[28\] determined the partial mixing enthalpy of Co in infinite dilute Sn melt at 874 and 1173 K. With solid Co at 298 K as reference state, the value is 11.96 kJ/mol-atoms at 874 K and 32 kJ/mol-atoms at 1173 K.” |
 | Partial enthalpy; _printed: partial mixing enthalpy_ | 32 kJ/mol-atom | 1173 |  | experimental | [3] Jiang 2004; _cites Torgersen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2900887-2) | p. 3 | “By using drop calorimetry, Torgersen et al. \[28\] determined the partial mixing enthalpy of Co in infinite dilute Sn melt at 874 and 1173 K. With solid Co at 298 K as reference state, the value is 11.96 kJ/mol-atoms at 874 K and 32 kJ/mol-atoms at 1173 K.” |
 
-### Crystal structure (3)
+### Crystal structure (24)
 
 Table: Crystal structure, Co–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.362 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [4] Dong 2009 | Table II, p. 4, row 1 |  |
 | Lattice a; _printed: a_ | 6.051 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [4] Dong 2009 | Table II, p. 4, row 9 |  |
+| Lattice a | 5.234 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [5] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
+| Lattice a | 6.361 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [5] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 7.085 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
+| Lattice a | 16.864 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 4.162 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
+| Lattice a | 6.275 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
+| Lattice b; _printed: b_ | 1.94 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [4] Dong 2009 | Table II, p. 4, row 1 |  |
 | Lattice b; _printed: b_ | 3.032 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [4] Dong 2009 | Table II, p. 4, row 9 |  |
+| Lattice b | 5.234 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [5] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
+| Lattice b | 6.361 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [5] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
+| Lattice b | 5.216 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
+| Lattice b | 6.268 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 4.162 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
+| Lattice b | 6.275 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
+| Lattice c; _printed: c_ | 5.258 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [4] Dong 2009 | Table II, p. 4, row 1 |  |
 | Lattice c; _printed: c_ | 5.98 Å | 0 | PdSn4 type, AuSn4; _alloy: Co 0, Sn 0.8_ | DFT | [4] Dong 2009 | Table II, p. 4, row 9 |  |
+| Lattice c | 4.166 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [5] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
+| Lattice c | 5.458 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [5] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 8.194 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
+| Lattice c | 6.27 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 5.233 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [5] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
+| Lattice c | 33.742 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [5] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
 
 ### Other property (1)
 
@@ -239,6 +262,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. Libin Liu, Cristina Andersson, Johan Liu, Thermodynamic assessment of the Sn-Co lead-free solder system, Journal of Elec Materi 33, 935-939 (2004). [doi:10.1007/s11664-004-0019-8](https://doi.org/10.1007/s11664-004-0019-8)
 3. M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004). [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001)
 4. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+5. Jingxian Hu, Na Su, Xinming Wang, Fucheng Yin, Xuemei Ouyang, Experimental investigation and thermodynamic calculation of the Co–Sn–Bi ternary system, Calphad 77, 102404 (2022). [doi:10.1016/j.calphad.2022.102404](https://doi.org/10.1016/j.calphad.2022.102404)
 
 ## Please cite
 

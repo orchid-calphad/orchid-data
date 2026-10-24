@@ -13,9 +13,9 @@ Table: Phases of the Sb–Zn system (24)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-sb-zn-a7-rhombohedral); _phase:sb-zn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–903.78 K, x(Zn) 0–0.01694 | 10 | 7 |
-| [BCC_A2](#phase-sb-zn-bcc-a2); _phase:sb-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 54 | 7 |
+| [BCC_A2](#phase-sb-zn-bcc-a2); _phase:sb-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [FCC_A1](#phase-sb-zn-fcc-a1); _phase:sb-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [HCP_A3](#phase-sb-zn-hcp-a3); _phase:sb-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.55 K, x(Zn) 0.99423–1 | 22 | 7 |
+| [HCP_A3](#phase-sb-zn-hcp-a3); _phase:sb-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.55 K, x(Zn) 0.99423–1 | 21 | 7 |
 | [LIQUID](#phase-sb-zn-liquid); _phase:sb-zn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 682.87–2500 K, x(Zn) 0–1 | 72 | 7 |
 | [SB17ZN23_H](#phase-sb-zn-sb17zn23-h); _phase:sb-zn:sb17zn23-h_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 764.91–833.76 K, x(Zn) 0.575–0.575 | 0 | 1 |
 | [SB17ZN23_L](#phase-sb-zn-sb17zn23-l); _phase:sb-zn:sb17zn23-l_ | Sb17Zn23 · hR22 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 489.61–764.91 K, x(Zn) 0.575–0.575 | 0 | 1 |
@@ -129,11 +129,10 @@ _cited as the source of values for this phase_
 - Id: `phase:sb-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 7 calculated diagram(s)
-- Literature: 54 values (54 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-zn:bcc-a2)
 
-Names (11): _corpus: _corpus:phase:sb-zn:bcc-a2  
-_paper: _paper:10.1016/j.tca.2022.179327:β-Zn13Sb10, paper:10.1016/j.tca.2022.179327:β-Zn3Sb2, paper:10.1016/j.tca.2022.179327:β-Zn9Sb7  
+Names (8): _corpus: _corpus:phase:sb-zn:bcc-a2  
 _tdb: _tdb:SbZn-00Liu-LB.tdb:BCC_A2, tdb:SbZn-07Li.tdb:BCC_A2, tdb:SbZn-09Liu.tdb:BCC_A2, tdb:SbZn-18Wan.tdb:BCC_A2, tdb:SbZn-22Zha.tdb:BCC_A2, tdb:SbZn-23Zha.tdb:BCC_A2, tdb:SbZn-97Zab.tdb:BCC_A2  
 
 
@@ -188,12 +187,8 @@ _tdb: _tdb:SbZn-00Liu-LB.tdb:BCC_A2, tdb:SbZn-07Li.tdb:BCC_A2, tdb:SbZn-09Liu.td
 31: CONST BCC_A2 : SB ZN : VA : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (7 of 7; assessments first): 
 
-- [doi:10.1016/j.tca.2022.179327](https://doi.org/10.1016/j.tca.2022.179327) Jiyuan Zhang, Yuan Yuan, A coupled experimental and thermodynamic assessment of the Mg-Bi-Sb and Zn-Bi-Sb ternary system and extrapolate to the Mg-Bi-Zn-Sb system, Thermochimica Acta 716, 179327 (2022).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608) X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000).  
-_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11664-017-5757-5](https://doi.org/10.1007/s11664-017-5757-5) W. Wang, L. Yang, N. Wang, H. Zhang, Y. Jia, J. Electron. Mater., 47, 261-71(2018).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2009.08.006](https://doi.org/10.1016/j.calphad.2009.08.006) Ya Liu, Jean-Claude Tedenac, Thermodynamic modeling of the Cd–Sb–Zn ternary system, Calphad 33, 684-694 (2009).  
@@ -202,14 +197,12 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2006.08.035](https://doi.org/10.1016/j.jallcom.2006.08.035) Jing-Bo Li, Marie-Christine Record, Jean-Claude Tedenac, A thermodynamic assessment of the Sb–Zn system, Journal of Alloys and Compounds 438, 171-177 (2007).  
 _assessment that models this phase_
+- [doi:10.1016/j.tca.2022.179327](https://doi.org/10.1016/j.tca.2022.179327) Jiyuan Zhang, Yuan Yuan, A coupled experimental and thermodynamic assessment of the Mg-Bi-Sb and Zn-Bi-Sb ternary system and extrapolate to the Mg-Bi-Zn-Sb system, Thermochimica Acta 716, 179327 (2022).  
+_assessment that models this phase_
 - [doi:10.1016/S0364-5916(97)00036-9](https://doi.org/10.1016/S0364-5916%2897%2900036-9) L.A. Zabdyr, Calphad, 21, 349-58(1997).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(02)00008-1](https://doi.org/10.1016/s0364-5916%2802%2900008-1) V. Izard, M.C. Record, J.C. Tedenac, S.G. Fries, Discussion on the stability of the antimony-zinc binary phases, Calphad 25 (2001) 567–581.  
-_cited as the source of values for this phase_
-- [doi:10.1039/c8dt02521e](https://doi.org/10.1039/c8dt02521e) Chun-Wan Timothy Lo, Volodymyr Svitlyk, Dmitry Chernyshov, Yurij Mozharivskyj, The updated Zn–Sb phase diagram. How to make pure Zn \<sub>13\</sub> Sb \<sub>10\</sub> (“Zn \<sub>4\</sub> Sb \<sub>3\</sub> ”)., Dalton Trans. 47, 11512-11520 (2018).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2006.04.051](https://doi.org/10.1016/j.jallcom.2006.04.051) Fouzia Adjadj, El-djemai Belbacha, Malek Bouharkat, Differential calorimetric analysis of the binary system Sb–Zn, Journal of Alloys and Compounds 430, 85-91 (2007).  
-_cited as the source of values for this phase_
+- [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608) X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000).  
+_assessment that models this phase_
 
 ## FCC_A1 (Sb–Zn)
 
@@ -296,7 +289,7 @@ _assessment that models this phase_
 - Id: `phase:sb-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2499.55 K, x(Zn) 0.99423–1
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-zn:hcp-a3)
 
 Names (10): _corpus: _corpus:phase:sb-zn:hcp-a3  
@@ -383,11 +376,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sb-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 682.87–2500 K, x(Zn) 0–1
-- Literature: 72 values (72 accepted) from 3 papers
+- Literature: 72 values (72 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-zn:liquid)
 
-Names (12): _corpus: _corpus:phase:sb-zn:liquid  
-_paper: _paper:10.1016/j.jallcom.2006.08.035:L, paper:10.1016/j.jallcom.2006.08.035:L1, paper:10.1016/j.tca.2022.179327:L, paper:10.1361/105497100770339608:liquid  
+Names (13): _corpus: _corpus:phase:sb-zn:liquid  
+_paper: _paper:10.1016/j.calphad.2009.08.006:L, paper:10.1016/j.jallcom.2006.08.035:L, paper:10.1016/j.jallcom.2006.08.035:L1, paper:10.1016/j.tca.2022.179327:L, paper:10.1361/105497100770339608:liquid  
 _tdb: _tdb:SbZn-00Liu-LB.tdb:LIQUID, tdb:SbZn-07Li.tdb:LIQUID, tdb:SbZn-09Liu.tdb:LIQUID, tdb:SbZn-18Wan.tdb:LIQUID, tdb:SbZn-22Zha.tdb:LIQUID, tdb:SbZn-23Zha.tdb:LIQUID, tdb:SbZn-97Zab.tdb:LIQUID  
 
 
@@ -451,7 +444,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608) X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.08.006](https://doi.org/10.1016/j.calphad.2009.08.006) Ya Liu, Jean-Claude Tedenac, Thermodynamic modeling of the Cd–Sb–Zn ternary system, Calphad 33, 684-694 (2009).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11664-017-5757-5](https://doi.org/10.1007/s11664-017-5757-5) W. Wang, L. Yang, N. Wang, H. Zhang, Y. Jia, J. Electron. Mater., 47, 261-71(2018).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102525](https://doi.org/10.1016/j.calphad.2022.102525) J. Zhang, Y. Yuan, Calphad, 80, 102525(2023).  

@@ -1,10 +1,10 @@
 # Ga–In system
 
-> Ga–In system: 35 accepted literature values (phase transition 23, crystal structure 8, invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–In system: 27 accepted literature values (phase transition 23, invariant reaction 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-IN.html · Markdown: https://data.orchid-project.org/systems/GA-IN.md
 
-35 accepted literature values from 3 paper(s) (experimental 24, model 3, unspecified 8); 3 calculated phase diagram(s).
+27 accepted literature values from 3 paper(s) (experimental 24, model 3); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-IN.json) · [CSV](https://data.orchid-project.org/systems/GA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-IN/GaIn-78Ans.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-IN.html) · [Markdown](https://data.orchid-project.org/systems/GA-IN.md)
 
@@ -14,7 +14,6 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 24 |
 | model | 3 |
-| unspecified | 8 |
 
 Table: Accepted values by property group
 
@@ -22,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 4 |
 | phase transition | 23 |
-| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -80,21 +78,6 @@ Table: Phase transition, Ga–In system
 | Phase transition | 289.15 K | 289.15 | eutectic | experimental | [3] Rugg 1990; _cites ref. 15_ | Table 1, p. 3, row 2 |  |
 | Phase transition | 289.65 K | 289.65 | eutectic | experimental | [2] Anderson 1991; _cites Boisbaudran 1938_ | Table I, p. 1, row 1 |  |
 | Phase transition | 289.65 K | 289.65 | eutectic | experimental | [3] Rugg 1990; _cites ref. 14_ | Table 1, p. 3, row 1 |  |
-
-### Crystal structure (8)
-
-Table: Crystal structure, Ga–In system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.7713 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice a | 4.599 Å | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
-| Lattice a | 4.5192 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice b | 8.0606 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice b | 7.6586 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
-| Lattice c | 3.3314 Å | 250.15 | γGa; _γGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 2 |  |
-| Lattice c | 4.947 Å | 298.15 | In; _In: Ga 0, In 1_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 3 |  |
-| Lattice c | 4.5258 Å | 298.15 | αGa; _αGa: Ga 1, In 0_ | unspecified | [2] Anderson 1991 | Table 4, p. 7, row 1 |  |
 
 ## Sources
 

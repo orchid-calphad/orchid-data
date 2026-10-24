@@ -1,10 +1,10 @@
 # Ta3B2: enthalpy of formation
 
-> Enthalpy of formation of Ta3B2: 2 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Ta3B2: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ta3B2.html · Markdown: https://data.orchid-project.org/compounds/Ta3B2.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -64.883 kJ/mol-atom (mp-aaaaatvz); OQMD -65.003 kJ/mol-atom (oqmd-18596).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [B–Ta](https://data.orchid-project.org/systems/B-TA.html)
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ta3B2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -71.3 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
-| -67.647 kJ/mol-atom | Ta3B2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
+| -71.3 kJ/mol-atom | Ta3B2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
+| -67.647 kJ/mol-atom | Ta3B2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
 
 ### Uncertainty budget
 
@@ -25,21 +25,8 @@ Table: Uncertainty budget of the literature values of Ta3B2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -71.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67.647 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-
-## DFT formation energies
-
-Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
-
-Table: DFT formation energy of Ta3B2
-
-| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
-|---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaatvz | -64.883 | -0.672464 | P4/mbm | 0 | 0 | no |
-| OQMD | oqmd-18596 | -65.003 | -0.673714 | P4/mbm | 0 | 0 | no |
-
-DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
+| -71.3 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -67.647 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # V–Y system
 
-> V–Y system: 9 accepted literature values (invariant reaction 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> V–Y system: 7 accepted literature values (invariant reaction 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/V-Y.html · Markdown: https://data.orchid-project.org/systems/V-Y.md
 
-9 accepted literature values from 1 paper(s) (experimental 3, model 3, unspecified 3); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 3, model 2, unspecified 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/V-Y.json) · [CSV](https://data.orchid-project.org/systems/V-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#V-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#V-Y/VY-10Cha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/V-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/V-Y.html) · [Markdown](https://data.orchid-project.org/systems/V-Y.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 3 |
-| unspecified | 3 |
+| model | 2 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
+| invariant reaction | 7 |
 
 ## Calculated phase diagrams
 
@@ -44,7 +44,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the V–Y system (9)
+Table: Invariant reactions reported in the literature for the V–Y system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -52,8 +52,6 @@ Table: Invariant reactions reported in the literature for the V–Y system (9)
 | 2176.15 | monotectic: L1 \<-> L2 + V | L1: Y 0.0043; L2: Y 0.8194; V: Y 6.000e-4 | model | [1] Chan 2010 | Table 4, p. 7, row 3 |  |
 | 2173.15 | monotectic: L1 \<-> L2 + V | L1: Y 6.000e-4; L2: Y 0.852 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 1 |  |
 | 1763.15 | L + βY \<-> αY |  | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 4 |  |
-| 1758.15 | L + βY \<-> αY | L: Y 0.9994; βY: Y 0.983; αY: Y 0.997 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 5 |  |
-| 1758.15 | L + βY \<-> αY | L: Y 0.9994; βY: Y 0.9821; αY: Y 0.998 | model | [1] Chan 2010 | Table 4, p. 7, row 6 |  |
 | 1728.15 | eutectic: L \<-> V + αY | L: Y 0.8839; V: Y 0; αY: Y 0.9965 | experimental | [1] Chan 2010; _cites Lundin 1962_ | Table 4, p. 7, row 7 |  |
 | 1723.15 | eutectic: L \<-> V + αY | L: Y 0.9419; V: Y 0; αY: Y 0.9956 | model | [1] Chan 2010 | Table 4, p. 7, row 9 |  |
 | 1723.15 | eutectic: L \<-> V + αY | L: Y 0.93; V: Y 0; αY: Y 0.999 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 4, p. 7, row 8 |  |

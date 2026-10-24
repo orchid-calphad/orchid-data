@@ -12,9 +12,9 @@ Table: Phases of the Ba–Ti system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ba-ti-bcc-a2); _phase:ba-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.73 K, x(Ti) 0–1 | 10 | 1 |
-| [FCC_A1](#phase-ba-ti-fcc-a1); _phase:ba-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 14 | 1 |
-| [HCP_A3](#phase-ba-ti-hcp-a3); _phase:ba-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1154.99 K, x(Ti) 1–1 | 14 | 1 |
+| [BCC_A2](#phase-ba-ti-bcc-a2); _phase:ba-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.73 K, x(Ti) 0–1 | 6 | 1 |
+| [FCC_A1](#phase-ba-ti-fcc-a1); _phase:ba-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 10 | 1 |
+| [HCP_A3](#phase-ba-ti-hcp-a3); _phase:ba-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1154.99 K, x(Ti) 1–1 | 10 | 1 |
 | [LIQUID](#phase-ba-ti-liquid); _phase:ba-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 999.92–2500 K, x(Ti) 0–1 | 0 | 1 |
 
 ## BCC_A2 (Ba–Ti)
@@ -22,7 +22,7 @@ Table: Phases of the Ba–Ti system (4)
 - Id: `phase:ba-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2499.73 K, x(Ti) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ti:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:ba-ti:bcc-a2  
@@ -49,7 +49,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ba-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 14 values (14 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ti:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:ba-ti:fcc-a1  
@@ -76,7 +76,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ba-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1154.99 K, x(Ti) 1–1
-- Literature: 14 values (14 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ti:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:ba-ti:hcp-a3  

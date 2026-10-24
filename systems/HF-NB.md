@@ -1,10 +1,10 @@
 # Hf–Nb system
 
-> Hf–Nb system: 38 accepted literature values (crystal structure 22, formation 12, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Nb system: 31 accepted literature values (crystal structure 15, formation 8, model expression 4, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NB.html · Markdown: https://data.orchid-project.org/systems/HF-NB.md
 
-38 accepted literature values from 2 paper(s) (experimental 8, model 2, DFT 28); 2 calculated phase diagram(s).
+31 accepted literature values from 2 paper(s) (experimental 5, model 2, DFT 24); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NB.json) · [CSV](https://data.orchid-project.org/systems/HF-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-NB/HfNb-02Gho.json) · [phases (4)](https://data.orchid-project.org/phases/pages/HF-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NB.html) · [Markdown](https://data.orchid-project.org/systems/HF-NB.md)
 
@@ -12,17 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 5 |
 | model | 2 |
-| DFT | 28 |
+| DFT | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 4 |
-| formation | 12 |
-| crystal structure | 22 |
+| formation | 8 |
+| crystal structure | 15 |
+| model expression | 4 |
 
 ## Calculated phase diagrams
 
@@ -41,22 +42,18 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Nb system (12)
+Table: Enthalpies of formation, Hf–Nb system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Hf3Nb |  | 4.04 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | Hf3Nb |  | 11.499 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| Hf3Nb (DO3) |  | 13.243 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
 | HfNb (B19) |  | -6.162 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
 | HfNb (B19) |  | 8.757 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 4 |  |
-| HfNb (B2) |  | 2.72 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 2 |  |
-| HfNb (B32) |  | 2.393 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 3 |  |
 | HfNb (B8₁) |  | 5.746 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
 | HfNb (B8₁) |  | 20.666 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 3 |  |
 | HfNb3 |  | 2.979 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
 | HfNb3 |  | 25.358 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Ghosh 2002 | Table 6, p. 11, row 5 |  |
-| HfNb3 (DO3) |  | 6.267 kJ/mol (basis unstated) |  | DFT |  |  | [1] Ghosh 2002 | Table 5, p. 10, row 4 |  |
 
 ## Other properties
 
@@ -71,7 +68,7 @@ Table: Phase transition, Hf–Nb system
 | Phase transition | 2338 K | 2338 | other | experimental | [2] Guillermet 1996; _cites Kubaschewski-von 1981_ | p. 3 | “The most recent reviews of the phase diagram \[18,19\] propose similar values, viz, 42 at% Nb and 2338 K.” |
 | Phase transition | 2373 K | 2373 | other | experimental | [1] Ghosh 2002 | p. 11 | “For example, the solidus and liquidus boundaries determined by \[1964Sie\], The minimum melting point was reported to be: (i) \[ 1964Tay\], \[ 1964Tyl\], and \[1969Rud\] differ significantly. at 25 at. % and 2373 K \[1964Sie\], (ii) between 32.5 at'.% and 55 at.% and 2353\*25 K \[1964Tyl\], and (iii) at 42 at.% and 2353+10 K \[1969Rud\].” |
 
-### Crystal structure (22)
+### Crystal structure (15)
 
 Table: Crystal structure, Hf–Nb system
 
@@ -82,23 +79,27 @@ Table: Crystal structure, Hf–Nb system
 | Lattice a | 4.8073 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
 | Lattice a | 3.9047 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
 | Lattice a | 4.2543 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 5 |  |
-| Lattice a | 3.4342 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3 |  |
-| Lattice a | 4.1999 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 9 |  |
-| Lattice a | 3.193 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
+| Lattice a | 3.4342 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 3 |  |
+| Lattice a | 3.193 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
 | Lattice a | 3.1866 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
 | Lattice a | 3.5121 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 1 |  |
-| Lattice a | 3.2929 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 7 |  |
 | Lattice a | 4.4454 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 4 |  |
-| Lattice a | 2.8453 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
-| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002 | Table 1, p. 6, row 12 |  |
-| Lattice a | 3.3024 Å | 4.2 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 8 |  |
-| Lattice a | 3.3024 Å | 298.15 | UNKNOWN; _alloy: Nb 1_ | experimental | [1] Ghosh 2002; _cites ref. 1964Val_ | Table 1, p. 6, row 13 |  |
 | Lattice c | 8.9507 Å | 0 | Hf3Nb; _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 2 |  |
 | Lattice c | 3.3818 Å | 0 | HfNb; _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 3 |  |
 | Lattice c | 9.8884 Å | 0 | HfNb3; _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 7, p. 12, row 4 |  |
-| Lattice c | 5.0395 Å | 0 | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
+| Lattice c | 5.0395 Å |  | UNKNOWN; _alloy: Nb 0_ | experimental | [1] Ghosh 2002; _cites ref. 1963Ros_ | Table 1, p. 6, row 6 |  |
 | Lattice c | 5.0296 Å | 0 | UNKNOWN; _alloy: Nb 0_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 5 |  |
-| Lattice c | 5.2551 Å | 0 | UNKNOWN; _alloy: Nb 1_ | DFT | [1] Ghosh 2002 | Table 1, p. 6, row 10 |  |
+
+### Model expression (4)
+
+Table: Model expression, Hf–Nb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| hm form expression term; _printed: ΔHf (b)_ | 13.243 kJ/mol (basis unstated) |  | Hf3Nb (DO3); _alloy: Nb 0.25_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
+| hm form expression term; _printed: ΔHf (a)_ | 2.72 kJ/mol (basis unstated) |  | HfNb (B2); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 2 |  |
+| hm form expression term; _printed: ΔHf (a)_ | 2.393 kJ/mol (basis unstated) |  | HfNb (B32); _alloy: Nb 0.5_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 3 |  |
+| hm form expression term; _printed: ΔHf (b)_ | 6.267 kJ/mol (basis unstated) |  | HfNb3 (DO3); _alloy: Nb 0.75_ | DFT | [1] Ghosh 2002 | Table 5, p. 10, row 4 |  |
 
 ## Sources
 

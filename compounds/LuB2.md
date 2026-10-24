@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/LuB2.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -66.723 kJ/mol-atom (mp-aaaaaqpn); OQMD -66.48 kJ/mol-atom (oqmd-115218).
 
-Systems: [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Lu](https://data.orchid-project.org/systems/B-LU.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of LuB2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -65.781 kJ/mol-atom | LuB2 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 30 |  |
-| -66.9 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 27 |  |
-| -66.538 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 28 |  |
-| -66.249 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 29 |  |
+| -65.781 kJ/mol-atom | LuB2 | 298.15 | model | Optimization | [B–Lu](https://data.orchid-project.org/systems/B-LU.html) | [1] Li 2020 | Table 2, p. 25, row 30 |  |
+| -66.9 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Lu](https://data.orchid-project.org/systems/B-LU.html) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 27 |  |
+| -66.538 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Lu](https://data.orchid-project.org/systems/B-LU.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 28 |  |
+| -66.249 kJ/mol-atom | LuB2 | 298.15 | DFT | First-principle calculation | [B–Lu](https://data.orchid-project.org/systems/B-LU.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 29 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of LuB2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -65.781 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.9 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -66.538 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -66.249 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -65.781 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.9 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -66.538 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -66.249 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

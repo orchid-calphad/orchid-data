@@ -38,6 +38,7 @@ Table: Phases of the O–U system (21)
 
 - Id: `phase:o-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–942.02 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:a20-orthorhombic)
@@ -109,6 +110,7 @@ _assessment that models this phase_
 
 - Id: `phase:o-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 1048.99–3115.49 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:bcc-a2)
@@ -323,6 +325,7 @@ _assessment that models this phase_
 
 - Id: `phase:o-u:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: not stable in 6 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:hcp-a3)
@@ -587,6 +590,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UO-08Bar.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UO-11Gue.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UO-23Jia.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 942.02–1048.99 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:u-tetragonal)
@@ -657,7 +661,8 @@ _assessment that models this phase_
 ## U3O8 (O–U)
 
 - Id: `phase:o-u:u3o8`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition
+- Candidate (dft_mp): P-62m (189) — on-hull MP U3O8 at x(U)=0.2727
 - Candidate (tdb_comment): U3O8-ht2 · hP11 · P-62m — UO-02Che.tdb: 'Prototype U3O8-ht2 (hP11, P-62m) (S3)'
 - Candidate (tdb_comment): alpha-U3O8 · oC22 · Amm2 — UO-02Che.tdb: 'Prototype alpha-U3O8 (oC22, Amm2) (S1)'
 - Candidate (tdb_comment): beta-U3O8 · oC44 · Cmcm — UO-02Che.tdb: 'Prototype beta-U3O8 (oC44, Cmcm) (S2)'
@@ -665,7 +670,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): alpha-U3O8 · oC22 · Amm2 — UO-04Che.tdb: 'Prototype alpha-U3O8 (oC22, Amm2) (S1)'
 - Candidate (tdb_comment): beta-U3O8 · oC44 · Cmcm — UO-04Che.tdb: 'Prototype beta-U3O8 (oC44, Cmcm) (S2)'
 - Candidate (tdb_comment): U3O8-ht2 · hP11 · P-62m — UO-08Bar.tdb: 'Prototype U3O8-ht2 (hP11, P-62m) (S3)'
-- Candidate (tdb_comment): alpha-U3O8 · oC22 · Amm2 — UO-08Bar.tdb: 'Prototype alpha-U3O8 (oC22, Amm2) (S1)'
+- Stoichiometry: O 0.7273, U 0.2727
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2165.88 K, x(O) 0.72727–0.72727
 - Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:u3o8)
@@ -880,7 +885,8 @@ _assessment that models this phase_
 ## U4O9 (O–U)
 
 - Id: `phase:o-u:u4o9`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition
+- Stoichiometry: O 0.6923, U 0.3077
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1703.75 K, x(O) 0.69231–0.69231
 - Literature: 32 values (32 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-u:u4o9)

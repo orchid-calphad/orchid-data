@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Pd3Yb.html · Markdown: https://
 
 8 accepted literature formation-enthalpy value(s) (experimental 1, model 6, DFT 1); experimental median -68 kJ/mol-atom (n = 1); OQMD -67.303 kJ/mol-atom (oqmd-17988).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html)
 
 ## Literature values
 
@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Pd3Yb reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
-| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
-| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
-| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
-| -40.1795 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
-| -32.2396 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
-| -32.0719 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
-| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
+| -68 kJ/mol-atom ± 2 | Pd3Yb | 1029.5 | experimental | KEML/KEMS\* | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
+| -64.7552 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
+| -60.7175 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| -60.1448 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| -40.1795 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization R-K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| -32.2396 kJ/mol-atom | Pd3Yb | 298.15 | model | Optimization K | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| -32.0719 kJ/mol-atom | Pd3Yb | 298.15 | model | Prediction | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
+| -21.084 kJ/mol-atom | Pd3Yb | 298.15 | DFT | Ab-initio | [Pd–Yb](https://data.orchid-project.org/systems/PD-YB.html) | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
 
 ### Uncertainty budget
 
@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of Pd3Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -68 | kJ/mol-atom | 2 | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -64.7552 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.7175 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.1448 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -40.1795 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.2396 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.0719 | kJ/mol-atom |  | 5.000e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.084 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -68 | kJ/mol-atom | 2 | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -64.7552 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.7175 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.1448 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -40.1795 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.2396 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.0719 | kJ/mol-atom |  | 5.000e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.084 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

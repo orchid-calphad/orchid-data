@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of ErGe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -92.2 | kJ/mol-atom | 1.8 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -94.15 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -93.66 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -92.2 | kJ/mol-atom | 1.8 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -94.15 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -93.66 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

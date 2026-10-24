@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cr3Ga.html · Markdown: https://
 
 15 accepted literature formation-enthalpy value(s) (experimental 9, model 6); experimental median -3.3 kJ/mol-atom (n = 1); Materials Project -4.035 kJ/mol-atom (mp-aaaaabvj); OQMD -5.328 kJ/mol-atom (oqmd-29544).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
+Systems: [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html)
 
 ## Literature values
 
@@ -21,12 +21,12 @@ Table: Enthalpy of formation of Cr3Ga reported in the literature (15)
 | -7.76 kJ/mol (basis unstated) | α-Cr3Ga | 1323.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 1, p. 3, row 3 |  |
 | -7.25 kJ/mol (basis unstated) | β-Cr3Ga | 1423.15 | experimental | calorimetry | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 2, p. 3, row 1 |  |
 | -7.25 kJ/mol (basis unstated) ± 0.7 | Cr3Ga (β) | 298.15 | experimental | Direct reaction | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 6 |  |
-| -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
+| -3.3 kJ/mol-atom | Cr3Ga | 850 | experimental |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites Gonchuruk 1981_ | Table 1, p. 2, row 42 |  |
 | -3.3 kJ/mol (basis unstated) | Cr3Ga (α) | 298.15 | experimental | EMF | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Goncharuk 1981_ | Table 4, p. 4, row 1 |  |
 | -12 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Semi-empirical model | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Djaballah 1999_ | Table 4, p. 4, row 3 |  |
-| -12 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
+| -12 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 44 |  |
 | -9.75 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005; _cites Grobner 1999_ [doi](https://doi.org/10.1361/105497199770340608) | Table 4, p. 4, row 2 |  |
-| -9.75 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
+| -9.75 kJ/mol-atom | Cr3Ga | 298.15 | model |  | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [2] Gröbner 1999 | Table 1, p. 2, row 43 |  |
 | -8.24 kJ/mol (basis unstated) | Cr3Ga (α) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 5 |  |
 | -6.98 kJ/mol (basis unstated) | Cr3Ga (β) |  | model | Assessed | [Cr–Ga](https://data.orchid-project.org/systems/CR-GA.html) | [1] Belgacem-Bouzida 2005 | Table 4, p. 4, row 7 |  |
 
@@ -38,21 +38,21 @@ Table: Uncertainty budget of the literature values of Cr3Ga
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -8.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -8.1 | kJ/mol (basis unstated) | 0.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -7.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -7.76 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -7.25 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -7.25 | kJ/mol (basis unstated) | 0.7 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -3.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -3.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -12 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.75 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.75 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -8.24 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.98 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -8.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -8.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -8.1 | kJ/mol (basis unstated) | 0.3 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -7.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -7.76 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -7.25 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -7.25 | kJ/mol (basis unstated) | 0.7 | 0.005 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -3.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -3.3 | kJ/mol (basis unstated) |  | 0.05 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
+| -12 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -12 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -9.75 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -9.75 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -8.24 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -6.98 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
 
 ## DFT formation energies
 

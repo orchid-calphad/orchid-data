@@ -30,6 +30,7 @@ Table: Phases of the B–Pr system (10)
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — PrB-13Wan.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — PrB-20Che.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-pr:b-alpha-rhombo)
@@ -68,6 +69,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — PrB-13Wan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — PrB-20Che.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 1388–2349 K, x(B) 1–1
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-pr:b-beta-rhombo)
@@ -177,6 +179,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-pr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: B 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-pr:fcc-a1)
@@ -212,6 +215,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-pr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: B 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-pr:hcp-a3)

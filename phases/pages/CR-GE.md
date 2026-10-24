@@ -1,25 +1,24 @@
 # Cr–Ge phases
 
-> Cr–Ge system: 12 phases (tier A 7, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cr–Ge system: 11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CR-GE.html · Markdown: https://data.orchid-project.org/phases/pages/CR-GE.md
 
-12 phases (tier A 7, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 7, tier C 2, liquid 1, needs_review 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CR-GE) · [full JSON](https://data.orchid-project.org/phases/systems/CR-GE.json) · [Cr–Ge system page](https://data.orchid-project.org/systems/CR-GE.html) · [Markdown](https://data.orchid-project.org/phases/pages/CR-GE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cr–Ge system (12)
+Table: Phases of the Cr–Ge system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-cr-ge-a4-diamond); _phase:cr-ge:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1211.4 K, x(Ge) 0.99413–1 | 9 | 3 |
-| [BCC_A2](#phase-cr-ge-bcc-a2); _phase:cr-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2179.98 K, x(Ge) 0–0.11906 | 19 | 3 |
+| [BCC_A2](#phase-cr-ge-bcc-a2); _phase:cr-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2179.98 K, x(Ge) 0–0.11906 | 8 | 3 |
 | [CR11GE19](#phase-cr-ge-cr11ge19); _phase:cr-ge:cr11ge19_ | Mn11Si19 · tP120 · P-4n2 (118) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1201.42 K, x(Ge) 0.63333–0.63333 | 27 | 3 |
 | [CR11GE8](#phase-cr-ge-cr11ge8); _phase:cr-ge:cr11ge8_ | Cr11Ge8 · oP76 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1459.64 K, x(Ge) 0.42105–0.42105 | 31 | 3 |
 | [CR3GE_A15](#phase-cr-ge-cr3ge-a15); _phase:cr-ge:cr3ge-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1842.19 K, x(Ge) 0.20096–0.25258 | 22 | 3 |
 | [CR5GE3_LT](#phase-cr-ge-cr5ge3); _phase:cr-ge:cr5ge3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1275.13 K, x(Ge) 0.37497–0.38218 | 11 | 2 |
 | [CR5GE3_D8M](#phase-cr-ge-cr5ge3-d8m); _phase:cr-ge:cr5ge3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1274.97–1535.51 K, x(Ge) 0.37229–0.39556 | 19 | 3 |
-| [CR5GE3-LT](#phase-cr-ge-cr5ge3-lt); _phase:cr-ge:cr5ge3-lt_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [CRGE_B20](#phase-cr-ge-crge-b20); _phase:cr-ge:crge-b20_ | FeSi · B20 · cP8 · P2_13 (198) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1271.38 K, x(Ge) 0.5–0.5 | 22 | 3 |
 | [FCC_A1](#phase-cr-ge-fcc-a1); _phase:cr-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-cr-ge-hcp-a3); _phase:cr-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -83,11 +82,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cr-ge:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2179.98 K, x(Ge) 0–0.11906
-- Literature: 19 values (17 accepted) from 2 papers
+- Literature: 8 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ge:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:cr-ge:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2009.11.001:(Cr), paper:10.1016/j.calphad.2009.11.001:βCr5Ge3, paper:10.1016/j.jallcom.2009.03.113:bcc  
+Names (6): _corpus: _corpus:phase:cr-ge:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2009.11.001:(Cr), paper:10.1016/j.jallcom.2009.03.113:bcc  
 _tdb: _tdb:CrGe-09Li.tdb:BCC_A2, tdb:CrGe-10Liu.tdb:BCC_A2, tdb:CrGe-15Ber.tdb:BCC_A2  
 
 
@@ -114,17 +113,15 @@ _tdb: _tdb:CrGe-09Li.tdb:BCC_A2, tdb:CrGe-10Liu.tdb:BCC_A2, tdb:CrGe-15Ber.tdb:B
 43: CONST BCC_A2 : CR% GE : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.calphad.2009.11.001](https://doi.org/10.1016/j.calphad.2009.11.001) Y.Q. Liu, Y. Du, Thermodynamic description of the Cr–Ge system, Calphad 34, 26-35 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2009.03.113](https://doi.org/10.1016/j.jallcom.2009.03.113) Mei Li, Cuiping Guo, Changrong Li, Zhenmin Du, A thermodynamic description of the Cr–Ge system, Journal of Alloys and Compounds 481, 283-290 (2009).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2009.11.001](https://doi.org/10.1016/j.calphad.2009.11.001) Y.Q. Liu, Y. Du, Thermodynamic description of the Cr–Ge system, Calphad 34, 26-35 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2015.02.004](https://doi.org/10.1016/j.calphad.2015.02.004) A. Berche, J.C. Tédenac, P. Jund, Ab-initio calculations and CALPHAD description of Cr–Ge–Mn and Cr–Ge–Si, Calphad 49, 50-57 (2015).  
 _assessment that models this phase_
 - [doi:10.1016/0022-5088(80)90248-9](https://doi.org/10.1016/0022-5088%2880%2990248-9) D. Godat, P. Feschotte, Diagramme de phase du système chrome-germanium, Journal of the Less Common Metals 72, 7-22 (1980).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf01140038](https://doi.org/10.1007/bf01140038) V. L. Zagryazhskii, A. K. Shtol'ts, P. V. Gel'd, N. V. Kuz'menko, Phase diagram of the system chromium-germanium, Powder Metall Met Ceram 5, 639-642 (1966).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02867813](https://doi.org/10.1007/bf02867813) A.B. Gokhale, G.J. Abbaschian, Bull. Alloy Phase Diagram 7 (1986) 477.  
 _cited as the source of values for this phase_
@@ -313,7 +310,7 @@ _cited as the source of values for this phase_
 - Literature: 11 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ge:cr5ge3)
 
-Names (5): _corpus: _corpus:phase:cr-ge:cr5ge3  
+Names (6): _corpus: _corpus:phase:cr-ge:cr5ge3, corpus:phase:cr-ge:cr5ge3-lt  
 _paper: _paper:10.1016/j.calphad.2009.11.001:αCr5Ge3, paper:10.1016/j.jallcom.2009.03.113:αCr5Ge3  
 _tdb: _tdb:CrGe-09Li.tdb:CR5GE3_LT, tdb:CrGe-10Liu.tdb:CR5GE3_LT  
 
@@ -398,17 +395,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2004.08.005](https://doi.org/10.1016/j.calphad.2004.08.005) G. Kaptay, Calphad 28 (2004) 115.  
 _cited as the source of values for this phase_
-
-## CR5GE3-LT (Cr–Ge)
-
-- Id: `phase:cr-ge:cr5ge3-lt`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ge:cr5ge3-lt)
-
-Names (1): _corpus: _corpus:phase:cr-ge:cr5ge3-lt  
-
 
 ## CRGE_B20 (Cr–Ge)
 

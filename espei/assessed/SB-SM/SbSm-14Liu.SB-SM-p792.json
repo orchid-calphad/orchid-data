@@ -11,6 +11,7 @@
   "SB2SM",
   "SB3SM4_D73",
   "SB3SM5_D88",
+  "SB3SM5_HT",
   "SBSM_B1"
  ],
  "conditions": {
@@ -23,6 +24,8 @@
    1212.696948,
    1987.196948,
    1263.196948,
+   1345.696948,
+   1770.196948,
    1868.696948,
    2029.696948,
    2118.696948
@@ -217,6 +220,64 @@
   ],
   [
    [
+    "SB3SM4_D73",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SB3SM5_HT",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.5977883509
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "SB3SM5_HT",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.7073123021
+    ]
+   ]
+  ],
+  [
+   [
     "LIQUID",
     [
      "SM"
@@ -321,6 +382,8 @@
    "aspa-617bbc9d10acb031",
    "aspa-6b2ecc070cdca722",
    "aspa-35318f33895d5764",
+   "aspa-b69d6ce145ed20e2",
+   "aspa-0791fd609e9b1798",
    "aspa-8dde64108152ff92",
    "aspa-498424f6f070e0cf",
    "aspa-e85c3c5e761a1a82"
@@ -335,9 +398,11 @@
    "high",
    "high",
    "high",
+   "high",
+   "high",
    "high"
   ],
-  "points_left_out": 4,
+  "points_left_out": 6,
   "source": "assessed-phase-assemblages/espei-zpf/SB-SM-p792.json"
  },
  "orchid_uncertainty_budget": {
@@ -460,6 +525,40 @@
      "sigma_reading": 0.000672055,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0285062,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-b69d6ce145ed20e2",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 53.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672055,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0265058,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-0791fd609e9b1798",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 168.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672055,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0820179,
      "sigma_effective": 0.02
     }
    },

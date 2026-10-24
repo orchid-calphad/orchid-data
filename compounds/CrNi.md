@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/CrNi.html · Markdown: https://data.orchid-project.org/compounds/CrNi.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 14.647 kJ/mol-atom (mp-aaacrtyu); OQMD 3.285 kJ/mol-atom (oqmd-2166062).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 24.772 kJ/mol-atom (mp-aaacrtxk); OQMD 24.862 kJ/mol-atom (oqmd-306955).
 
-Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
+Systems: [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CrNi reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 24.262 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 11 |  |
+| 24.262 kJ/mol-atom | B2 | 298.15 | model |  | [Cr–Ni](https://data.orchid-project.org/systems/CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 11 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CrNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 24.262 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 24.262 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of CrNi
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacrtyu | 14.647 | 0.151808 | R-3m | 15.982 | 0.1656 | yes |
-| OQMD | oqmd-2166062 | 3.285 | 0.034051 | Cmma | 4.718 | 0.0489 | yes |
+| Materials Project | mp-aaacrtxk | 24.772 | 0.256747 | Pm-3m | 26.1075 | 0.2706 | yes |
+| OQMD | oqmd-306955 | 24.862 | 0.257672 | Pm-3m | 26.2946 | 0.2725 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

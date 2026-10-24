@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/B-TA.html · Markdown: https://data.orchid-project.org/systems/B-TA.md
 
-82 accepted literature values from 2 paper(s) (experimental 36, model 32, DFT 7, unspecified 7); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+82 accepted literature values from 2 paper(s) (experimental 36, model 21, DFT 18, unspecified 7); 0 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-TA.json) · [CSV](https://data.orchid-project.org/systems/B-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-TA) · [phases (13)](https://data.orchid-project.org/phases/pages/B-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-TA.html) · [Markdown](https://data.orchid-project.org/systems/B-TA.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 36 |
-| model | 32 |
-| DFT | 7 |
+| model | 21 |
+| DFT | 18 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -107,20 +107,20 @@ Table: Enthalpies of formation, B–Ta system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ta2B | [Ta2B](https://data.orchid-project.org/compounds/Ta2B.html) | -21.2807 kJ/mol-atom | 0 | model | -50.564 (mp-aaaaabns) | -50.922 (oqmd-7795) | [1] OuYang 2017 | Table 1, p. 4, row 1 |  |
-| Ta2B | [Ta2B](https://data.orchid-project.org/compounds/Ta2B.html) | -17.3243 kJ/mol-atom | 0 | model | -50.564 (mp-aaaaabns) | -50.922 (oqmd-7795) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 3 |  |
-| Ta3B2 | [Ta3B2](https://data.orchid-project.org/compounds/Ta3B2.html) | -71.3 kJ/mol-atom | 0 | model | -64.883 (mp-aaaaatvz) | -65.003 (oqmd-18596) | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
-| Ta3B2 | [Ta3B2](https://data.orchid-project.org/compounds/Ta3B2.html) | -67.647 kJ/mol-atom | 0 | model | -64.883 (mp-aaaaatvz) | -65.003 (oqmd-18596) | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
-| Ta3B4 | [Ta3B4](https://data.orchid-project.org/compounds/Ta3B4.html) | -80.055 kJ/mol-atom | 0 | model | -74.597 (mp-aaaaapac) | -74.387 (oqmd-8470) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 13 |  |
-| Ta3B4 | [Ta3B4](https://data.orchid-project.org/compounds/Ta3B4.html) | -76.212 kJ/mol-atom | 0 | model | -74.597 (mp-aaaaapac) | -74.387 (oqmd-8470) | [1] OuYang 2017 | Table 1, p. 4, row 11 |  |
-| TaB | [TaB](https://data.orchid-project.org/compounds/TaB.html) | -41.75 kJ/mol-atom | 0 | model | -78.43 (mp-aaaaabqf) | -78.749 (oqmd-2017681) | [1] OuYang 2017; _cites Qi 2013_ | Table 1, p. 4, row 10 |  |
-| TaB | [TaB](https://data.orchid-project.org/compounds/TaB.html) | -41.609 kJ/mol-atom | 0 | model | -78.43 (mp-aaaaabqf) | -78.749 (oqmd-2017681) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 9 |  |
-| TaB | [TaB](https://data.orchid-project.org/compounds/TaB.html) | -40.5035 kJ/mol-atom | 0 | model | -78.43 (mp-aaaaabqf) | -78.749 (oqmd-2017681) | [1] OuYang 2017 | Table 1, p. 4, row 7 |  |
-| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -22.5667 kJ/mol-atom | 0 | model | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16 |  |
-| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -21.6333 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17 |  |
-| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -21.354 kJ/mol-atom | 0 | model | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017 | Table 1, p. 4, row 14 |  |
-| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -20.9667 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18 |  |
-| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -17.7667 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19 |  |
+| Ta2B |  | -63.842 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017 | Table 1, p. 4, row 1 |  |
+| Ta2B |  | -51.973 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 3 |  |
+| Ta3B2 |  | -71.3 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Qi 2014_ | Table 1, p. 4, row 6 |  |
+| Ta3B2 |  | -67.647 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017 | Table 1, p. 4, row 4 |  |
+| Ta3B4 |  | -80.055 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 13 |  |
+| Ta3B4 |  | -76.212 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017 | Table 1, p. 4, row 11 |  |
+| TaB |  | -83.5 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Qi 2013_ | Table 1, p. 4, row 10 |  |
+| TaB |  | -83.218 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 9 |  |
+| TaB |  | -81.007 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017 | Table 1, p. 4, row 7 |  |
+| TaB2 |  | -67.7 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16 |  |
+| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -64.9 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17 |  |
+| TaB2 |  | -64.062 kJ/mol-atom | 0 | DFT |  |  | [1] OuYang 2017 | Table 1, p. 4, row 14 |  |
+| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -62.9 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18 |  |
+| TaB2 | [TaB2](https://data.orchid-project.org/compounds/TaB2.html) | -53.3 kJ/mol-atom | 298.15 | experimental | -62.64 (mp-aaaaabqq) | -62.619 (oqmd-5807) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19 |  |
 
 ## Other properties
 

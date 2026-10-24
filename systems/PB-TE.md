@@ -1,10 +1,10 @@
 # Pb–Te system
 
-> Pb–Te system: 42 accepted literature values (formation 22, invariant reaction 13, phase transition 7) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Te system: 38 accepted literature values (formation 18, invariant reaction 13, phase transition 7) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-TE.html · Markdown: https://data.orchid-project.org/systems/PB-TE.md
 
-42 accepted literature values from 4 paper(s) (experimental 18, model 12, DFT 12); 5 calculated phase diagram(s).
+38 accepted literature values from 4 paper(s) (experimental 18, model 12, DFT 8); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-TE.json) · [CSV](https://data.orchid-project.org/systems/PB-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-TE/PbTe-09Gie.json) · [phases (7)](https://data.orchid-project.org/phases/pages/PB-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-TE.html) · [Markdown](https://data.orchid-project.org/systems/PB-TE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 18 |
 | model | 12 |
-| DFT | 12 |
+| DFT | 8 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 13 |
 | phase transition | 7 |
-| formation | 22 |
+| formation | 18 |
 
 ## Calculated phase diagrams
 
@@ -79,7 +79,7 @@ Table: Invariant reactions reported in the literature for the Pb–Te system (13
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pb–Te system (22)
+Table: Enthalpies of formation, Pb–Te system (18)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -95,16 +95,12 @@ Table: Enthalpies of formation, Pb–Te system (22)
 | PbTe |  | -23.809 kJ/mol (basis unstated) | 295 | experimental |  |  | [2] Gierlotka 2009; _cites Fabre 1887_ | Table 4, p. 5, row 3 |  |
 | PbTe |  | 0.35 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 7 |  |
 | PbTe |  | 0.72 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 1 |  |
-| PbTe |  | 0.87 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 8 |  |
 | PbTe |  | 0.95 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 2 |  |
 | PbTe |  | 1.32 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 9 |  |
 | PbTe |  | 1.44 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 3 |  |
 | PbTe |  | 1.49 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 4 |  |
 | PbTe |  | 2.04 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 10 |  |
-| PbTe |  | 2.71 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 5 |  |
-| PbTe |  | 2.78 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 11 |  |
 | PbTe |  | 3.29 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 12 |  |
-| PbTe |  | 3.73 eV/defect | 300 | DFT |  |  | [4] Bajaj 2015 | Table 1, p. 6, row 6 |  |
 
 ## Other properties
 

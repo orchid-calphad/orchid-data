@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HfMo2.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -16.577 kJ/mol-atom (mp-aaaaadmx); OQMD -16.409 kJ/mol-atom (oqmd-17365).
 
-Systems: [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html)
+Systems: [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of HfMo2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11 kJ/mol-atom ± 1.4 | HfMo2–C15 |  | model | Estimation | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 5, row 6 |  |
-| -10.6 kJ/mol-atom | HfMo2–C15 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002 | Table 1, p. 5, row 7 |  |
-| -9.6 kJ/mol-atom | HfMo2–C36 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002 | Table 1, p. 5, row 4 |  |
-| -5 kJ/mol-atom | HfMo2–C15 |  | model | Estimation | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 5 |  |
+| -11 kJ/mol-atom ± 1.4 | HfMo2–C15 |  | model | Estimation | [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html) | [1] Shao 2002; _cites Garg 1977_ [doi](https://doi.org/10.1007/bf02661635) | Table 1, p. 5, row 6 |  |
+| -10.6 kJ/mol-atom | HfMo2–C15 |  | model | CALPHAD | [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html) | [1] Shao 2002 | Table 1, p. 5, row 7 |  |
+| -9.6 kJ/mol-atom | HfMo2–C36 |  | model | CALPHAD | [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html) | [1] Shao 2002 | Table 1, p. 5, row 4 |  |
+| -5 kJ/mol-atom | HfMo2–C15 |  | model | Estimation | [Hf–Mo](https://data.orchid-project.org/systems/HF-MO.html) | [1] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 5 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of HfMo2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11 | kJ/mol-atom | 1.4 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -5 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -11 | kJ/mol-atom | 1.4 | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -9.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -5 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of HfMo2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadmx | -16.577 | -0.171809 | Fd-3m | 0 | 0 | no |
-| OQMD | oqmd-17365 | -16.409 | -0.170067 | Fd-3m | 0.019 | 2.000e-4 | no |
+| OQMD | oqmd-17365 | -16.409 | -0.170067 | Fd-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

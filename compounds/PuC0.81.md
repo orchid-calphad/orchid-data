@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of PuC0.81
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.76 | kJ/mol (basis unstated) |  | 0.005 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
+| -21.76 | kJ/mol (basis unstated) |  | 0.005 | 7 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 7 |
 
 ## Sources
 

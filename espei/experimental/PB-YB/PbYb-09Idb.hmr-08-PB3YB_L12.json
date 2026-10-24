@@ -79,7 +79,7 @@
      "sigma_effective": 3500.0,
      "method_class": "solution_reaction_calorimetry",
      "method_basis": "calibrated",
-     "method_n_pairs": 74,
+     "method_n_pairs": 75,
      "method_entry": "value_types/HM_FORM/classes/solution_reaction_calorimetry"
     },
     "printed": {

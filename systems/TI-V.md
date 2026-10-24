@@ -1,10 +1,10 @@
 # Ti–V system
 
-> Ti–V system: 22 accepted literature values (crystal structure 20, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–V system: 14 accepted literature values (crystal structure 12, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-V.html · Markdown: https://data.orchid-project.org/systems/TI-V.md
 
-22 accepted literature values from 3 paper(s) (experimental 1, model 1, DFT 20); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+14 accepted literature values from 3 paper(s) (experimental 1, model 1, DFT 12); 6 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-V.json) · [CSV](https://data.orchid-project.org/systems/TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-V/TiV-02Gho-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/TI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-V.html) · [Markdown](https://data.orchid-project.org/systems/TI-V.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 1 |
-| DFT | 20 |
+| DFT | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| crystal structure | 20 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -51,28 +51,20 @@ Table: Phase transition, Ti–V system
 | Phase transition | 1881 K | 1881 | congruent melting: bcc-A2 -> Liquid; _bcc-A2: V 0.333; Liquid: V 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 314, row 1 |  |
 | Phase transition | 1881 K | 1881 | other | experimental | [2] Ghosh 2002; _cites Rudy 1969_ | p. 3 | “The liquidus and solidus have a minima at 31 at.% V and 1881 ± 5 K \[1969Rud, 1975Col\].” |
 
-### Crystal structure (20)
+### Crystal structure (12)
 
 Table: Crystal structure, Ti–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.742 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 7 |  |
 | Lattice a | 3.252 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
 | Lattice a | 3.259 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 3 |  |
-| Lattice a | 4.256 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 6 |  |
 | Lattice a | 4.115 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
 | Lattice a | 4.109 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 4 |  |
-| Lattice a | 3 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 5 |  |
-| Lattice a | 2.993 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 5 |  |
 | Lattice a | 2.939 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
 | Lattice a | 2.933 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
-| Lattice a | 3.817 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 8 |  |
-| Lattice a | 3.819 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 8 |  |
 | Lattice a | 4.577 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
 | Lattice a | 4.572 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |
-| Lattice c | 4.325 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 7 |  |
-| Lattice c | 2.631 Å |  | UNKNOWN; _alloy: V 1_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 6 |  |
 | Lattice c | 4.641 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
 | Lattice c | 4.657 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 1 |  |
 | Lattice c | 2.828 Å |  | UNKNOWN; _alloy: V 0_ | DFT | [3] Hu 2020 | Table 9, p. 9, row 2 |  |

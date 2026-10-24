@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Gd3Pd4.html · Markdown: https:/
 
 1 accepted literature formation-enthalpy value(s) (model 1); OQMD -87.901 kJ/mol-atom (oqmd-1437083).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Gd–Pd](https://data.orchid-project.org/systems/GD-PD.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Gd3Pd4 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82.523 kJ/mol-atom | Pd4Gd3 | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36 |  |
+| -82.523 kJ/mol-atom | Pd4Gd3 | 298.15 | model | Optimization | [Gd–Pd](https://data.orchid-project.org/systems/GD-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Gd3Pd4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -82.523 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -82.523 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

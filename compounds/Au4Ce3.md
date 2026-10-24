@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Au4Ce3.html · Markdown: https://data.orchid-project.org/compounds/Au4Ce3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); OQMD -75.24 kJ/mol-atom (oqmd-1484238).
+2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); OQMD -75.24 kJ/mol-atom (oqmd-1484238).
 
-Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html)
+Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Au4Ce3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -74.32 kJ/mol-atom | Au4Ce3 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
-| -73.82 kJ/mol-atom | Au4Ce3 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
+| -73.82 kJ/mol-atom | Au4Ce3 | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
+| -74.32 kJ/mol-atom | Au4Ce3 | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Au4Ce3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -74.32 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.82 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -73.82 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -74.32 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

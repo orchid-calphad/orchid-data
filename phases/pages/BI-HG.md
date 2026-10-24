@@ -12,23 +12,22 @@ Table: Phases of the Bi–Hg system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBO_A10](#phase-bi-hg-a10-rhombo); _phase:bi-hg:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 1 | 2 |
-| [RHOMBOHEDRAL_A7](#phase-bi-hg-a7-rhombohedral); _phase:bi-hg:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Hg) 0–0 | 1 | 2 |
+| [RHOMBO_A10](#phase-bi-hg-a10-rhombo); _phase:bi-hg:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [RHOMBOHEDRAL_A7](#phase-bi-hg-a7-rhombohedral); _phase:bi-hg:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Hg) 0–0 | 0 | 2 |
 | [BCC_A2](#phase-bi-hg-bcc-a2); _phase:bi-hg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-bi-hg-fcc-a1); _phase:bi-hg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-bi-hg-hcp-a3); _phase:bi-hg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-bi-hg-liquid); _phase:bi-hg:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Hg) 0–1 | 4 | 2 |
+| [LIQUID](#phase-bi-hg-liquid); _phase:bi-hg:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Hg) 0–1 | 3 | 2 |
 
 ## RHOMBO_A10 (Bi–Hg)
 
 - Id: `phase:bi-hg:a10-rhombo`; status `assigned`
 - Structure: alpha-Hg · A10 · hR1 · R-3m (166); type `st:a10-alpha-hg-hr1`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-hg:a10-rhombo)
 
-Names (4): _corpus: _corpus:phase:bi-hg:a10-rhombo  
-_paper: _paper:10.1361/105497102770331578:Rhombo_A10(Hg)  
+Names (3): _corpus: _corpus:phase:bi-hg:a10-rhombo  
 _tdb: _tdb:BiHg-02Mai.tdb:RHOMBO_A10, tdb:BiHg-80Che-LB.tdb:RHOMBO_A10  
 
 
@@ -51,7 +50,7 @@ _tdb: _tdb:BiHg-02Mai.tdb:RHOMBO_A10, tdb:BiHg-80Che-LB.tdb:RHOMBO_A10
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/105497102770331578](https://doi.org/10.1361/105497102770331578) A. Maitre, J. M. Fiorani, M. Vilasi, Thermodynamic study of phase equilibria in the Pb-Bi-Hg system, JPE 23, 329-338 (2002).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## RHOMBOHEDRAL_A7 (Bi–Hg)
 
@@ -59,11 +58,10 @@ _assessment that models this phase; reports values for this phase_
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Hg) 0–0
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-hg:a7-rhombohedral)
 
-Names (4): _corpus: _corpus:phase:bi-hg:a7-rhombohedral  
-_paper: _paper:10.1361/105497102770331578:Rhombo_A7(Bi)  
+Names (3): _corpus: _corpus:phase:bi-hg:a7-rhombohedral  
 _tdb: _tdb:BiHg-02Mai.tdb:RHOMBOHEDRAL_A7, tdb:BiHg-80Che-LB.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -86,7 +84,7 @@ _tdb: _tdb:BiHg-02Mai.tdb:RHOMBOHEDRAL_A7, tdb:BiHg-80Che-LB.tdb:RHOMBOHEDRAL_A7
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/105497102770331578](https://doi.org/10.1361/105497102770331578) A. Maitre, J. M. Fiorani, M. Vilasi, Thermodynamic study of phase equilibria in the Pb-Bi-Hg system, JPE 23, 329-338 (2002).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Bi–Hg)
 
@@ -192,11 +190,11 @@ _assessment that models this phase_
 - Id: `phase:bi-hg:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Hg) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-hg:liquid)
 
-Names (5): _corpus: _corpus:phase:bi-hg:liquid  
-_paper: _paper:10.1361/105497102770331578:Liquid, paper:10.1361/105497102770331578:liquid  
+Names (4): _corpus: _corpus:phase:bi-hg:liquid  
+_paper: _paper:10.1361/105497102770331578:liquid  
 _tdb: _tdb:BiHg-02Mai.tdb:LIQUID, tdb:BiHg-80Che-LB.tdb:LIQUID  
 
 

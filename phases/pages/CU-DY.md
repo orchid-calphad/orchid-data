@@ -13,8 +13,8 @@ Table: Phases of the Cu–Dy system (12)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-dy-bcc-a2); _phase:cu-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 803.02–2499.97 K, x(Dy) 0.76541–1 | 6 | 2 |
-| [CU2DY](#phase-cu-dy-cu2dy); _phase:cu-dy:cu2dy_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1156.33 K, x(Dy) 0.33333–0.33333 | 23 | 2 |
-| [CU5DY](#phase-cu-dy-cu5dy); _phase:cu-dy:cu5dy_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1235.81 K, x(Dy) 0.16667–0.16667 | 8 | 1 |
+| [CU2DY](#phase-cu-dy-cu2dy); _phase:cu-dy:cu2dy_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1156.33 K, x(Dy) 0.33333–0.33333 | 27 | 2 |
+| [CU5DY](#phase-cu-dy-cu5dy); _phase:cu-dy:cu5dy_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1235.81 K, x(Dy) 0.16667–0.16667 | 11 | 1 |
 | [CU5DY_C15B](#phase-cu-dy-cu5dy-c15b); _phase:cu-dy:cu5dy-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1203 K, x(Dy) 0.16667–0.16667 | 8 | 1 |
 | [CU5DY_D2D](#phase-cu-dy-cu5dy-d2d); _phase:cu-dy:cu5dy-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1203–1235.15 K, x(Dy) 0.16667–0.16667 | 4 | 1 |
 | [CU7DY](#phase-cu-dy-cu7dy); _phase:cu-dy:cu7dy_ | Cu7Tb · hP8 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 1050.99–1174.15 K, x(Dy) 0.125–0.125 | 20 | 2 |
@@ -71,7 +71,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.6667, Dy 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1156.33 K, x(Dy) 0.33333–0.33333
-- Literature: 23 values (23 accepted) from 2 papers
+- Literature: 27 values (27 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-dy:cu2dy)
 
 Names (5): _corpus: _corpus:phase:cu-dy:cu2dy  
@@ -95,7 +95,7 @@ _tdb: _tdb:CuDy-09Pal.tdb:CU2DY, tdb:CuDy-09Zha.tdb:CU2DY
 69: CONST CU2DY : CU : DY : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.04.001](https://doi.org/10.1016/j.calphad.2009.04.001) M. Palumbo, L. Battezzati, A. Pasturel, S. Gottlieb-Schönmeyer, W. Assmus, Thermodynamic and ab initio investigation of the Cu–Dy system, Calphad 33, 511-516 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -104,6 +104,8 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(82)90092-3](https://doi.org/10.1016/0022-5088%2882%2990092-3) Enrico Franceschi, On the Dy-Cu system, Journal of the Less Common Metals 87, 249-256 (1982).  
 _cited as the source of values for this phase_
 - [doi:10.1107/s0365110x6300181x](https://doi.org/10.1107/s0365110x6300181x) A. R. Storm, K. E. Benson, Lanthanide–copper intermetallic compounds having the CeCu\<sub>2\</sub>and AlB\<sub>2\</sub>structure, Acta Cryst 16, 701-702 (1963).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2004.08.062](https://doi.org/10.1016/j.jallcom.2004.08.062) S.V. Meschel, O.J. Kleppa, Thermochemistry of some binary alloys of copper with the lanthanide metals by high-temperature direct synthesis calorimetry, Journal of Alloys and Compounds 388, 91-97 (2005).  
 _cited as the source of values for this phase_
 
 ## CU5DY (Cu–Dy)
@@ -116,7 +118,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — CuDy-09Pal.tdb: 'Prototype CaCu5 (hP6, P6/mmm), HT'
 - Stoichiometry: Cu 0.8333, Dy 0.1667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1235.81 K, x(Dy) 0.16667–0.16667
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-dy:cu5dy)
 
 Names (3): _corpus: _corpus:phase:cu-dy:cu5dy  
@@ -133,11 +135,13 @@ _tdb: _tdb:CuDy-09Pal.tdb:CU5DY
 49: CONST CU5DY : CU : DY : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.04.001](https://doi.org/10.1016/j.calphad.2009.04.001) M. Palumbo, L. Battezzati, A. Pasturel, S. Gottlieb-Schönmeyer, W. Assmus, Thermodynamic and ab initio investigation of the Cu–Dy system, Calphad 33, 511-516 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(82)90092-3](https://doi.org/10.1016/0022-5088%2882%2990092-3) Enrico Franceschi, On the Dy-Cu system, Journal of the Less Common Metals 87, 249-256 (1982).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2004.08.062](https://doi.org/10.1016/j.jallcom.2004.08.062) S.V. Meschel, O.J. Kleppa, Thermochemistry of some binary alloys of copper with the lanthanide metals by high-temperature direct synthesis calorimetry, Journal of Alloys and Compounds 388, 91-97 (2005).  
 _cited as the source of values for this phase_
 
 ## CU5DY_C15B (Cu–Dy)

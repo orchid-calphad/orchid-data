@@ -16,8 +16,8 @@ Table: Phases of the Al–Sr system (8)
 | [AL3SR8](#phase-al-sr-al3sr8); _phase:al-sr:al3sr8_ | Ca8In3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 615.07–880.87 K, x(Sr) 0.72727–0.72727 | 0 | 3 |
 | [AL4SR_D13](#phase-al-sr-al4sr-d13); _phase:al-sr:al4sr-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1333.21 K, x(Sr) 0.2–0.2 | 43 | 4 |
 | [AL7SR8](#phase-al-sr-al7sr8); _phase:al-sr:al7sr8_ | Ba8Ga7 · cP60 · P2_13 (198) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–941.4 K, x(Sr) 0.53333–0.53333 | 21 | 4 |
-| [BCC_A2](#phase-al-sr-bcc-a2); _phase:al-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300.01–2498.99 K, x(Sr) 0.99857–1 | 10 | 4 |
-| [FCC_A1](#phase-al-sr-fcc-a1); _phase:al-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1044.99 K, x(Sr) 0–1 | 19 | 4 |
+| [BCC_A2](#phase-al-sr-bcc-a2); _phase:al-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300.01–2498.99 K, x(Sr) 0.99857–1 | 6 | 4 |
+| [FCC_A1](#phase-al-sr-fcc-a1); _phase:al-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1044.99 K, x(Sr) 0–1 | 16 | 4 |
 | [HCP_A3](#phase-al-sr-hcp-a3); _phase:al-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-al-sr-liquid); _phase:al-sr:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 851.91–2500 K, x(Sr) 0–1 | 61 | 4 |
 
@@ -249,11 +249,11 @@ _cited as the source of values for this phase_
 - Id: `phase:al-sr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300.01–2498.99 K, x(Sr) 0.99857–1
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sr:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:al-sr:bcc-a2  
-_paper: _paper:10.1016/j.actamat.2004.02.022:Ni3Sn-type, paper:10.1016/s0925-8388(03)00046-x:(βSr)  
+Names (6): _corpus: _corpus:phase:al-sr:bcc-a2  
+_paper: _paper:10.1016/s0925-8388(03)00046-x:(βSr)  
 _tdb: _tdb:AlSr-03Wan-LB.tdb:BCC_A2, tdb:AlSr-04Zho-RK.tdb:BCC_A2, tdb:AlSr-04Zho-ass.tdb:BCC_A2, tdb:AlSr-14Lia.tdb:BCC_A2  
 
 
@@ -287,19 +287,17 @@ _tdb: _tdb:AlSr-03Wan-LB.tdb:BCC_A2, tdb:AlSr-04Zho-RK.tdb:BCC_A2, tdb:AlSr-04Zh
 34: CONST BCC_A2 : AL SR : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0925-8388(03)00046-X](https://doi.org/10.1016/S0925-8388%2803%2900046-X) C. Wang, Z. Jin, Y. Du, J. Alloys Compd., 358, 288-93(2003).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2004.02.022](https://doi.org/10.1016/j.actamat.2004.02.022) Yu Zhong, C. Wolverton, Y. Austin Chang, Zi-Kui Liu, A combined CALPHAD/first-principles remodeling of the thermodynamics of Al–Sr: unsuspected ground state energies by “rounding up the (un)usual suspects”, Acta Materialia 52, 2739-2754 (2004).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2014.05.018](https://doi.org/10.1016/j.jallcom.2014.05.018) Song-Mao Liang, Michael Engstler, Veronika Groten, Jenifer Barrirero, Frank Mücklich, Andreas Bührig-Polaczek et al., Key experiments and thermodynamic revision of the binary Al–Sr system, Journal of Alloys and Compounds 610, 443-450 (2014).  
 _assessment that models this phase_
 - [doi:10.1007/bf02665326](https://doi.org/10.1007/bf02665326) B. Closset, H. Dugas, M. Pekguleryuz, J. E. Gruzleski, The aluminum-strontium phase diagram, Metall Trans A 17, 1250-1253 (1986).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(75)90212-x](https://doi.org/10.1016/0022-5088%2875%2990212-x) G. Bruzzone, F. Merlo, The strontium-aluminium and barium-aluminium systems, Journal of the Less Common Metals 39, 1-6 (1975).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Al–Sr)
@@ -307,11 +305,11 @@ _cited as the source of values for this phase_
 - Id: `phase:al-sr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1044.99 K, x(Sr) 0–1
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sr:fcc-a1)
 
-Names (8): _corpus: _corpus:phase:al-sr:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2014.05.018:(Al), paper:10.1016/s0925-8388(03)00046-x:(Al), paper:10.1016/s0925-8388(03)00046-x:(αSr)  
+Names (7): _corpus: _corpus:phase:al-sr:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2014.05.018:(Al), paper:10.1016/s0925-8388(03)00046-x:(Al)  
 _tdb: _tdb:AlSr-03Wan-LB.tdb:FCC_A1, tdb:AlSr-04Zho-RK.tdb:FCC_A1, tdb:AlSr-04Zho-ass.tdb:FCC_A1, tdb:AlSr-14Lia.tdb:FCC_A1  
 
 
@@ -345,7 +343,7 @@ _tdb: _tdb:AlSr-03Wan-LB.tdb:FCC_A1, tdb:AlSr-04Zho-RK.tdb:FCC_A1, tdb:AlSr-04Zh
 29: CONST FCC_A1 : AL SR : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.05.018](https://doi.org/10.1016/j.jallcom.2014.05.018) Song-Mao Liang, Michael Engstler, Veronika Groten, Jenifer Barrirero, Frank Mücklich, Andreas Bührig-Polaczek et al., Key experiments and thermodynamic revision of the binary Al–Sr system, Journal of Alloys and Compounds 610, 443-450 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -354,8 +352,6 @@ _assessment that models this phase; cited as the source of values for this phase
 - [doi:10.1016/j.actamat.2004.02.022](https://doi.org/10.1016/j.actamat.2004.02.022) Yu Zhong, C. Wolverton, Y. Austin Chang, Zi-Kui Liu, A combined CALPHAD/first-principles remodeling of the thermodynamics of Al–Sr: unsuspected ground state energies by “rounding up the (un)usual suspects”, Acta Materialia 52, 2739-2754 (2004).  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02665326](https://doi.org/10.1007/bf02665326) B. Closset, H. Dugas, M. Pekguleryuz, J. E. Gruzleski, The aluminum-strontium phase diagram, Metall Trans A 17, 1250-1253 (1986).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (Al–Sr)

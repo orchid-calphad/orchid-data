@@ -14,7 +14,7 @@ Table: Phases of the Pd–Ru system (4)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-pd-ru-bcc-a2); _phase:pd-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-pd-ru-fcc-a1); _phase:pd-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1867.28 K, x(Ru) 0–0.19156 | 7 | 2 |
-| [HCP_A3](#phase-pd-ru-hcp-a3); _phase:pd-ru:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.5 K, x(Ru) 0.82653–1 | 7 | 2 |
+| [HCP_A3](#phase-pd-ru-hcp-a3); _phase:pd-ru:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.5 K, x(Ru) 0.82653–1 | 5 | 2 |
 | [LIQUID](#phase-pd-ru-liquid); _phase:pd-ru:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1828–4000 K, x(Ru) 0–1 | 7 | 2 |
 
 ## BCC_A2 (Pd–Ru)
@@ -95,7 +95,7 @@ _cited as the source of values for this phase_
 - Id: `phase:pd-ru:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.5 K, x(Ru) 0.82653–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-ru:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:pd-ru:hcp-a3  

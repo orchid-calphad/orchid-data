@@ -1,10 +1,10 @@
 # Sb–Zn system
 
-> Sb–Zn system: 245 accepted literature values (invariant reaction 107, formation 88, phase transition 25, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Zn system: 260 accepted literature values (invariant reaction 108, formation 98, phase transition 24, activity / EMF / Gibbs energy 20) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-ZN.html · Markdown: https://data.orchid-project.org/systems/SB-ZN.md
 
-245 accepted literature values from 4 paper(s) (experimental 132, model 104, unspecified 9); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+260 accepted literature values from 5 paper(s) (experimental 136, model 115, unspecified 9); 7 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-ZN.json) · [CSV](https://data.orchid-project.org/systems/SB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-ZN/SbZn-00Liu-LB.json) · [phases (24)](https://data.orchid-project.org/phases/pages/SB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SB-ZN.md)
 
@@ -12,19 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 132 |
-| model | 104 |
+| experimental | 136 |
+| model | 115 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 107 |
-| phase transition | 25 |
+| invariant reaction | 108 |
+| phase transition | 24 |
 | phase equilibrium | 5 |
-| formation | 88 |
+| formation | 98 |
 | activity / EMF / Gibbs energy | 20 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -147,7 +148,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sb–Zn system (107)
+Table: Invariant reactions reported in the literature for the Sb–Zn system (108)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -230,6 +231,7 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 | 705.75 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.593; β-Zn13Sb10: Zn 0.5652; α-Zn3Sb2: Zn 0.6 | model | [1] Zhang 2022 | Table 7, p. 12, row 60 |  |
 | 698.15 | β-Zn3Sb2 ↔ β-Zn13Sb10 + α-Zn3Sb2 | β-Zn3Sb2: Zn 0.593; β-Zn13Sb10: Zn 0.5652; α-Zn3Sb2: Zn 0.6 | experimental | [1] Zhang 2022; _cites Lo 2018_ [doi](https://doi.org/10.1039/c8dt02521e) | Table 7, p. 12, row 58 |  |
 | 689.75 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.9872; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 0.9942 | model | [1] Zhang 2022; _cites Liu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.08.006) | Table 7, p. 12, row 11 |  |
+| 687.97 | quasi-peritectic: L + η-Sb2Zn3 -> ε-Sb3Zn4 + (Zn) | L: Sb 0.013, Zn 0.983; (Zn): Sb 0.006, Zn 0.994; ε: Sb 0.43, Zn 0.565 | model | [3] Liu 2009 | Table 8, p. 11, row 4 |  |
 | 687.15 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.987; α-Zn3Sb2: Zn 0.608; Hcp(Zn): Zn 1 | experimental | [1] Zhang 2022; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 7, p. 12, row 8 |  |
 | 687 | eutectic: L -> ηSb2Zn3 + Zn | L: Zn 0.9875; ηSb2Zn3: Zn 0.6; Zn: Zn 1 | model | [2] Li 2007 | Table 2, p. 3, row 47 |  |
 | 686.95 | L ↔ α-Zn3Sb2 + Hcp(Zn) | L: Zn 0.984; α-Zn3Sb2: Zn 0.6; Hcp(Zn): Zn 1 | model | [1] Zhang 2022 | Table 7, p. 12, row 12 |  |
@@ -263,7 +265,7 @@ Table: Invariant reactions reported in the literature for the Sb–Zn system (10
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Sb–Zn system (48)
+Table: Enthalpies of formation, Sb–Zn system (58)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -295,6 +297,9 @@ Table: Enthalpies of formation, Sb–Zn system (48)
 | α-Zn9Sb7 |  | -12.6041 kJ/mol-atom | 800.15 | model |  |  | [1] Zhang 2022 | Table 8, p. 14, row 18 |  |
 | α-Zn9Sb7 |  | -12.379 kJ/mol-atom | 806.15 | experimental |  |  | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 15 |  |
 | α-Zn9Sb7 |  | -4.35 kJ/mol-atom | 800.15 | experimental |  |  | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 17 |  |
+| β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.89 kJ/mol-atom | 723.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [4] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 11 |  |
+| β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -11.541 kJ/mol-atom |  | model | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [4] Liu 2000 | Table 2, p. 3, row 10 |  |
+| β(SbZn) | [SbZn](https://data.orchid-project.org/compounds/SbZn.html) | -9.517 kJ/mol-atom ± 0.627 | 700.15 | experimental | -11.964 (mp-aaaaabcz) | -3.464 (oqmd-2031988) | [4] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 12 |  |
 | β-Zn13Sb10 | [Sb10Zn13](https://data.orchid-project.org/compounds/Sb10Zn13.html) | -10.7 kJ/mol-atom | 420.15 | experimental | -9.34 (mp-aaabgmhw) |  | [1] Zhang 2022; _cites Goryacheva 1997_ | Table 8, p. 14, row 19 |  |
 | β-Zn13Sb10 | [Sb10Zn13](https://data.orchid-project.org/compounds/Sb10Zn13.html) | -9.6151 kJ/mol-atom | 420.15 | model | -9.34 (mp-aaabgmhw) |  | [1] Zhang 2022 | Table 8, p. 14, row 20 |  |
 | β-Zn13Sb10 | [Sb10Zn13](https://data.orchid-project.org/compounds/Sb10Zn13.html) | -9.607 kJ/mol-atom | 600.15 | model | -9.34 (mp-aaabgmhw) |  | [1] Zhang 2022 | Table 8, p. 14, row 22 |  |
@@ -303,12 +308,19 @@ Table: Enthalpies of formation, Sb–Zn system (48)
 | β-Zn3Sb2 | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -5.78 kJ/mol-atom | 800.15 | experimental |  | -1.685 (oqmd-994658) | [1] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 23 |  |
 | β-Zn9Sb7 |  | -20.551 kJ/mol-atom | 826.15 | experimental |  |  | [1] Zhang 2022; _cites Seltz 1940_ [doi](https://doi.org/10.1149/1.3521200) | Table 8, p. 14, row 13 |  |
 | β-Zn9Sb7 |  | -18.6235 kJ/mol-atom | 826.15 | model |  |  | [1] Zhang 2022 | Table 8, p. 14, row 14 |  |
+| γ(Sb9Zn11) |  | -8.749 kJ/mol-atom |  | model |  |  | [4] Liu 2000 | Table 2, p. 3, row 13 |  |
+| δ(Sb17Zn23) |  | -7.348 kJ/mol-atom |  | model |  |  | [4] Liu 2000 | Table 2, p. 3, row 14 |  |
+| δ(Sb17Zn23) |  | -4.35 kJ/mol-atom | 298.15 | experimental |  |  | [4] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 15 |  |
+| δ(Sb4Zn6) | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -5.78 kJ/mol-atom | 298.15 | experimental |  | -1.685 (oqmd-994658) | [4] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
+| δ(Sb4Zn6) | [Sb2Zn3](https://data.orchid-project.org/compounds/Sb2Zn3.html) | -4.918 kJ/mol-atom |  | model |  | -1.685 (oqmd-994658) | [4] Liu 2000 | Table 2, p. 3, row 18 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -17.878 kJ/mol-atom | 806 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 17 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -12.379 kJ/mol-atom | 806 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 18 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.707 kJ/mol-atom | 800 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 19 |  |
 | δ-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -4.35 kJ/mol-atom | 800 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 20 |  |
 | δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -20.551 kJ/mol-atom | 826 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16 |  |
 | δ′-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -16.028 kJ/mol-atom | 826 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 15 |  |
+| ε(Sb17Zn23) |  | -7.731 kJ/mol-atom |  | model |  |  | [4] Liu 2000 | Table 2, p. 3, row 16 |  |
+| ε(Sb17Zn23) |  | -5.28 kJ/mol-atom | 298.15 | experimental |  |  | [4] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 17 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -10.7 kJ/mol-atom | 420 | experimental |  | 14.359 (oqmd-760143) | [2] Li 2007; _cites Goryacheva 1997_ | Table 4, p. 4, row 22 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 600 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 23 |  |
 | ε-Sb3Zn4 | [Sb3Zn4](https://data.orchid-project.org/compounds/Sb3Zn4.html) | -9.378 kJ/mol-atom | 420 | model |  | 14.359 (oqmd-760143) | [2] Li 2007 | Table 4, p. 4, row 21 |  |
@@ -318,27 +330,26 @@ Table: Enthalpies of formation, Sb–Zn system (48)
 
 ## Other properties
 
-### Phase transition (25)
+### Phase transition (24)
 
 Table: Phase transition, Sb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 15 |  |
-| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 12 |  |
-| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 11 |  |
-| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 13 |  |
-| Phase transition | 683.15 K | 683.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 14 |  |
-| Phase transition | 692 K | 692 | congruent melting: L -> Zn; _L: Zn 1; Zn: Zn 1_ | experimental | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | Table 2, p. 3, row 48 |  |
+| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.166, Zn 0.834_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 15 |  |
+| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.236, Zn 0.764_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 12 |  |
+| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.276, Zn 0.724_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 11 |  |
+| Phase transition | 682.15 K | 682.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.224, Zn 0.776_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 13 |  |
+| Phase transition | 683.15 K | 683.15 | eutectic: L -> η + (Zn); _alloy: Sb 0.187, Zn 0.813_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 14 |  |
 | Phase transition | 717.65 K | 717.65 | congruent transformation: ξSb2Zn3 -> ηSb2Zn3; _ξSb2Zn3: Zn 0.6; ηSb2Zn3: Zn 0.6_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 33 |  |
-| Phase transition | 720 K | 720 |  | experimental | [4] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
-| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 6 |  |
-| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 10 |  |
-| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 8 |  |
-| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 7 |  |
-| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 9 |  |
+| Phase transition | 720 K | 720 |  | experimental | [5] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
+| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.276, Zn 0.724_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 6 |  |
+| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.166, Zn 0.834_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 10 |  |
+| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.224, Zn 0.776_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 8 |  |
+| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.236, Zn 0.764_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 7 |  |
+| Phase transition | 728.15 K | 728.15 | peritectic: ζ + L -> η; _alloy: Sb 0.187, Zn 0.813_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 9 |  |
 | Phase transition | 765.25 K | 765.25 | congruent transformation: δSb3Zn4 -> εSb3Zn4; _δSb3Zn4: Zn 0.571; εSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 27 |  |
-| Phase transition | 766 K | 766 |  | experimental | [4] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
+| Phase transition | 766 K | 766 |  | experimental | [5] Zabdyr 1997 | p. 1 | “The following phases exist in the Cd-Sb-Zn system: ternary liquid, L; two hcp terminal solid solutions: (Cd) and (Zn); rhombohedraf (Sb); orthorombic (Cd,,Zn,)Sb solid solution - ternary phase cc; binary compound y-Sb,Zn, of unknown structure transforming at 766 K to low temperature f3-Sb,Zn, of structure defined as monoclinic or hexsagonaf, high temperature orthorhombic binary compound rf-Sb,Zn,…” |
 | Phase transition | 767 K | 767 | ␧ → ␦ | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1 | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
 | Phase transition | 800 K | 800 | ␦ → ␦  | model | [2] Li 2007; _cites Izard 2001_ [doi](https://doi.org/10.1016/s0364-5916%2802%2900008-1) | p. 1 | “The most recent one \[3\] shows two phase transformations for ␧-Sb3 Zn4 occurring at 767 K (␧ → ␦) and at about 800 K (␦ → ␦ ), respectively.” |
 | Phase transition | 835.75 K | 835.75 | congruent melting: L -> δSb3Zn4; _L: Zn 0.571; δSb3Zn4: Zn 0.571_ | unspecified | [2] Li 2007; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 2, p. 3, row 10 |  |
@@ -356,11 +367,11 @@ Table: Phase equilibrium, Sb–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase composition |  | 776.15 | other: Liquidus line; _liquid: Sb 0.166, Zn 0.834_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 5 |  |
-| Phase composition |  | 781.15 | other: Liquidus line; _liquid: Sb 0.187, Zn 0.813_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 4 |  |
-| Phase composition |  | 789.15 | other: Liquidus line; _liquid: Sb 0.224, Zn 0.776_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 3 |  |
-| Phase composition |  | 801.15 | other: Liquidus line; _liquid: Sb 0.236, Zn 0.764_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 2 |  |
-| Phase composition |  | 814.15 | other: Liquidus line; _liquid: Sb 0.276, Zn 0.724_ | experimental | [3] Liu 2000 | Table 5, p. 8, row 1 |  |
+| Phase composition |  | 776.15 | other: Liquidus line; _liquid: Sb 0.166, Zn 0.834_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 5 |  |
+| Phase composition |  | 781.15 | other: Liquidus line; _liquid: Sb 0.187, Zn 0.813_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 4 |  |
+| Phase composition |  | 789.15 | other: Liquidus line; _liquid: Sb 0.224, Zn 0.776_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 3 |  |
+| Phase composition |  | 801.15 | other: Liquidus line; _liquid: Sb 0.236, Zn 0.764_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 2 |  |
+| Phase composition |  | 814.15 | other: Liquidus line; _liquid: Sb 0.276, Zn 0.724_ | experimental | [4] Liu 2000 | Table 5, p. 8, row 1 |  |
 
 ### Formation (40)
 
@@ -436,14 +447,27 @@ Table: Activity / EMF / Gibbs energy, Sb–Zn system
 | Gibbs energy | -7.947 kJ/mol atom | 826 | δ′-Sb3Zn4; _alloy: Zn 0.571429_ | model | [2] Li 2007 | Table 4, p. 4, row 15 |  |
 | Gibbs energy | -8.032 kJ/mol atom | 826 | δ′-Sb3Zn4; _alloy: Zn 0.571429_ | experimental | [2] Li 2007; _cites DeWitt 1939_ [doi](https://doi.org/10.1021/ja01266a055) | Table 4, p. 4, row 16 |  |
 
+### Crystal structure (5)
+
+Table: Crystal structure, Sb–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 12.2282 not_printed ± 3.000e-4 | 298.15 | ε-Sb3Zn4; _alloy: Sb 0.428571, Zn 0.571429_ | model | [3] Liu 2009 | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.20393 not_printed ± 8.900e-5 | 298.15 | ω-SbZn; _alloy: Sb 0.5, Zn 0.5_ | model | [3] Liu 2009 | Table 1, p. 2, row 3 |  |
+| Lattice b | 7.7408 not_printed ± 1.000e-4 | 298.15 | ω-SbZn; _alloy: Sb 0.5, Zn 0.5_ | model | [3] Liu 2009 | Table 1, p. 2, row 3 |  |
+| Lattice c | 12.4067 not_printed ± 4.000e-4 | 298.15 | ε-Sb3Zn4; _alloy: Sb 0.428571, Zn 0.571429_ | model | [3] Liu 2009 | Table 1, p. 2, row 6 |  |
+| Lattice c | 8.0977 not_printed ± 1.000e-4 | 298.15 | ω-SbZn; _alloy: Sb 0.5, Zn 0.5_ | model | [3] Liu 2009 | Table 1, p. 2, row 3 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Jiyuan Zhang, Yuan Yuan, A coupled experimental and thermodynamic assessment of the Mg-Bi-Sb and Zn-Bi-Sb ternary system and extrapolate to the Mg-Bi-Zn-Sb system, Thermochimica Acta 716, 179327 (2022). [doi:10.1016/j.tca.2022.179327](https://doi.org/10.1016/j.tca.2022.179327)
 2. Jing-Bo Li, Marie-Christine Record, Jean-Claude Tedenac, A thermodynamic assessment of the Sb–Zn system, Journal of Alloys and Compounds 438, 171-177 (2007). [doi:10.1016/j.jallcom.2006.08.035](https://doi.org/10.1016/j.jallcom.2006.08.035)
-3. X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608)
-4. Leszek A. Zabdyr, Phase equilibria in ternary Cd-Sb-Zn system, Calphad 21, 349-358 (1997). [doi:10.1016/s0364-5916(97)00036-9](https://doi.org/10.1016/s0364-5916%2897%2900036-9)
+3. Ya Liu, Jean-Claude Tedenac, Thermodynamic modeling of the Cd–Sb–Zn ternary system, Calphad 33, 684-694 (2009). [doi:10.1016/j.calphad.2009.08.006](https://doi.org/10.1016/j.calphad.2009.08.006)
+4. X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608)
+5. Leszek A. Zabdyr, Phase equilibria in ternary Cd-Sb-Zn system, Calphad 21, 349-358 (1997). [doi:10.1016/s0364-5916(97)00036-9](https://doi.org/10.1016/s0364-5916%2897%2900036-9)
 
 ## Please cite
 

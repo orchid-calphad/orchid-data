@@ -12,17 +12,17 @@ Table: Phases of the Fe–Rh system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-fe-rh-bcc-a2); _phase:fe-rh:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–1810.25 K, x(Rh) 0–0.15 | 0 | 2 |
+| [BCC_A2](#phase-fe-rh-bcc-a2); _phase:fe-rh:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1810.25 K, x(Rh) 0–0.15 | 0 | 2 |
 | [B2_BCC](#phase-fe-rh-bcc-b2); _phase:fe-rh:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1810.95 K, x(Rh) 0–0.5162 | 0 | 1 |
 | [FCC_A1](#phase-fe-rh-fcc-a1); _phase:fe-rh:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2237 K, x(Rh) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-fe-rh-hcp-a3); _phase:fe-rh:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-fe-rh-liquid); _phase:fe-rh:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1791.48–4000 K, x(Rh) 0–1 | 0 | 1 |
 
-## A2_BCC (Fe–Rh)
+## BCC_A2 (Fe–Rh)
 
 - Id: `phase:fe-rh:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–1810.25 K, x(Rh) 0–0.15
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1810.25 K, x(Rh) 0–0.15
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-rh:bcc-a2)
 
@@ -30,7 +30,7 @@ Names (3): _corpus: _corpus:phase:fe-rh:bcc-a2
 _tdb: _tdb:FeRh-09Ohn.tdb:A2_BCC, tdb:FeRh-09Ohn.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [FeRh-09Ohn.tdb](https://orchid-project.org/data/databases/sgte-binary/FeRh-09Ohn.tdb): A2_BCC, type code %B, sha256 `fdd8b4ea76a74fdb…`
 

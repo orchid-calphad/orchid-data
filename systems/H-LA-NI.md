@@ -1,10 +1,10 @@
 # H–La–Ni system
 
-> H–La–Ni system: 64 accepted literature values (crystal structure 26, formation 24, phase transition 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–La–Ni system: 23 accepted literature values (formation 16, heat capacity / entropy / enthalpy 4, phase transition 2, crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-LA-NI.html · Markdown: https://data.orchid-project.org/systems/H-LA-NI.md
 
-64 accepted literature values from 2 paper(s) (experimental 28, model 9, DFT 1, unspecified 26); 0 calculated phase diagram(s).
+23 accepted literature values from 2 paper(s) (experimental 14, model 7, DFT 1, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-LA-NI.json) · [CSV](https://data.orchid-project.org/systems/H-LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-LA-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-LA-NI.md)
 
@@ -12,18 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 9 |
+| experimental | 14 |
+| model | 7 |
 | DFT | 1 |
-| unspecified | 26 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 14 |
-| formation | 24 |
-| crystal structure | 26 |
+| phase transition | 2 |
+| formation | 16 |
+| heat capacity / entropy / enthalpy | 4 |
+| crystal structure | 1 |
 
 ## Formation enthalpies
 
@@ -52,74 +53,33 @@ Table: Enthalpies of formation, H–La–Ni system (16)
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (2)
 
 Table: Phase transition, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 299 K | 299 | other: Peak A, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 1 |  |
-| Phase transition | 299 K | 299 | other: Peak A, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 3 |  |
-| Phase transition | 301 K | 301 | other: Peak A, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 2 |  |
-| Phase transition | 301 K | 301 | other: Peak A, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 4 |  |
-| Phase transition | 332 K | 332 | other: Peak C, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 10 |  |
-| Phase transition | 335 K | 335 | other: Peak C, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 9 |  |
-| Phase transition | 343 K | 343 | other: Peak B, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 5 |  |
-| Phase transition | 346 K | 346 | other: Peak B, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 6 |  |
 | Phase transition | 347 K | 347 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
-| Phase transition | 375 K | 375 | other: Peak C, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 11 |  |
 | Phase transition | 379 K | 379 | other | model | [2] An 2013 | p. 8 | “LaNi5H7 decomposed into LaNi5 and H2 at 347 and 379 K under 1 and 3 MPa, respectively.” |
-| Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 7 |  |
-| Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 12 |  |
-| Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [2] An 2013 | Table 2, p. 4, row 8 |  |
 
-### Formation (8)
+### Heat capacity / entropy / enthalpy (4)
 
-Table: Formation, H–La–Ni system
+Table: Heat capacity / entropy / enthalpy, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation | 45 unknown | 298.15 | LaH2; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4 |  |
-| Entropy of formation | 44.1 unknown | 298.15 | LaH2; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3 |  |
-| Entropy of formation | 49.3 unknown | 298.15 | LaH3; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6 |  |
-| Entropy of formation | 49.3 unknown | 298.15 | LaH3; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5 |  |
-| Entropy of formation | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4 |  |
-| Entropy of formation | 44.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3 |  |
-| Entropy of formation | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6 |  |
-| Entropy of formation | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5 |  |
+| Entropy; _printed: Entropy of formation_ | 45 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | experimental | [1] Palumbo 2009; _cites Bieganski 1971_ | Table 1, p. 2, row 4 |  |
+| Entropy; _printed: Entropy of formation_ | 44.1 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.333333, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 3 |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | experimental | [1] Palumbo 2009; _cites Ito 1983_ [doi](https://doi.org/10.1103/physrevb.27.2830) | Table 1, p. 2, row 6 |  |
+| Entropy; _printed: Entropy of formation_ | 49.3 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: La 0.25, Ni 0_ | model | [1] Palumbo 2009 | Table 1, p. 2, row 5 |  |
 
-### Crystal structure (26)
+### Crystal structure (1)
 
 Table: Crystal structure, H–La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.77 Å | 298.15 | (αLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 1 |  |
-| Lattice a | 5.303 Å | 298.15 | (βLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 3 |  |
-| Lattice a | 4.26 Å | 298.15 | (γLa); _alloy: La 1, Ni 0_ | unspecified | [2] An 2013 | Table 3, p. 5, row 2 |  |
-| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice a | 5.056 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice a | 5.058 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice a | 5.052 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 9 |  |
-| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice a | 5.02 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
 | Lattice a | 5.409 Å | 298.15 | LaNi5H7; _alloy: La 0.076923, Ni 0.384615_ | unspecified | [2] An 2013 | Table 3, p. 5, row 16 |  |
-| Lattice a | 3.523 Å | 298.15 | Ni; _alloy: La 0, Ni 1_ | unspecified | [2] An 2013 | Table 3, p. 5, row 4 |  |
-| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [2] An 2013 | Table 3, p. 5, row 8 |  |
-| Lattice c | 36.981 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 13 |  |
-| Lattice c | 24.71 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [2] An 2013 | Table 3, p. 5, row 12 |  |
-| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [2] An 2013 | Table 3, p. 5, row 5 |  |
-| Lattice c | 32.653 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [2] An 2013 | Table 3, p. 5, row 14 |  |
-| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [2] An 2013 | Table 3, p. 5, row 10 |  |
-| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [2] An 2013 | Table 3, p. 5, row 6 |  |
-| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [2] An 2013 | Table 3, p. 5, row 7 |  |
-| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [2] An 2013 | Table 3, p. 5, row 11 |  |
-| Lattice c | 3.98 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [2] An 2013 | Table 3, p. 5, row 15 |  |
 
 ## Sources
 

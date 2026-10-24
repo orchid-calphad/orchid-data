@@ -12,7 +12,7 @@ Table: Phases of the Pd–Ti system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-pd-ti-bcc-a2); _phase:pd-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 868.41–1890 K, x(Ti) 0.52–1 | 6 | 2 |
+| [BCC_A2](#phase-pd-ti-bcc-a2); _phase:pd-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 868.41–1890 K, x(Ti) 0.52–1 | 6 | 2 |
 | [B2_BCC](#phase-pd-ti-bcc-b2); _phase:pd-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 783–2499.73 K, x(Ti) 0.44392–1 | 11 | 1 |
 | [FCC_A1](#phase-pd-ti-fcc-a1); _phase:pd-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1829.99 K, x(Ti) 0–0.21354 | 4 | 1 |
 | [HCP_A3](#phase-pd-ti-hcp-a3); _phase:pd-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1163.41 K, x(Ti) 0.97157–1 | 2 | 1 |
@@ -23,11 +23,11 @@ Table: Phases of the Pd–Ti system (10)
 | [PDTI_C11B](#phase-pd-ti-pdti-c11b); _phase:pd-ti:pdti-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1684.79 K, x(Ti) 0.33603–0.66667 | 11 | 1 |
 | [PDTI3_A15](#phase-pd-ti-pdti3-a15); _phase:pd-ti:pdti3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–963.06 K, x(Ti) 0.75–0.75 | 4 | 1 |
 
-## A2_BCC (Pd–Ti)
+## BCC_A2 (Pd–Ti)
 
 - Id: `phase:pd-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 868.41–1890 K, x(Ti) 0.52–1
+- Stability: stable in 1 of 1 calculated diagram(s): 868.41–1890 K, x(Ti) 0.52–1
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-ti:bcc-a2)
 
@@ -36,7 +36,7 @@ _paper: _paper:10.1016/j.calphad.2011.07.004:bcc
 _tdb: _tdb:PdTi-11Guo.tdb:A2_BCC, tdb:PdTi-11Guo.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [PdTi-11Guo.tdb](https://orchid-project.org/data/databases/sgte-binary/PdTi-11Guo.tdb): A2_BCC, type code %B, sha256 `e8810155ee2f9664…`
 

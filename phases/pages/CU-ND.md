@@ -1,14 +1,14 @@
 # Cu–Nd phases
 
-> Cu–Nd system: 14 phases (tier A 8, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cu–Nd system: 13 phases (tier A 7, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CU-ND.html · Markdown: https://data.orchid-project.org/phases/pages/CU-ND.md
 
-14 phases (tier A 8, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 7, tier C 3, liquid 1, needs_review 2); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CU-ND) · [full JSON](https://data.orchid-project.org/phases/systems/CU-ND.json) · [Cu–Nd system page](https://data.orchid-project.org/systems/CU-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/CU-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cu–Nd system (14)
+Table: Phases of the Cu–Nd system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -21,8 +21,7 @@ Table: Phases of the Cu–Nd system (14)
 | [CUND](#phase-cu-nd-cund); _phase:cu-nd:cund_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–889.29 K, x(Nd) 0.5–0.5 | 2 | 1 |
 | [CUND_B2](#phase-cu-nd-cund-b2); _phase:cu-nd:cund-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 742.76–947.59 K, x(Nd) 0.5–0.5 | 0 | 2 |
 | [CUND_B27](#phase-cu-nd-cund-b27); _phase:cu-nd:cund-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–743 K, x(Nd) 0.5–0.5 | 2 | 2 |
-| [DHCP](#phase-cu-nd-dhcp); _phase:cu-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-cu-nd-dhcp-a3); _phase:cu-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1288.41 K, x(Nd) 1–1 | 2 | 3 |
+| [DHCP](#phase-cu-nd-dhcp-a3); _phase:cu-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1288.41 K, x(Nd) 1–1 | 0 | 3 |
 | [FCC_A1](#phase-cu-nd-fcc-a1); _phase:cu-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1401.61 K, x(Nd) 0–0.00046 | 1 | 3 |
 | [HCP_A3](#phase-cu-nd-hcp-a3); _phase:cu-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-cu-nd-liquid); _phase:cu-nd:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Nd) 0–1 | 9 | 3 |
@@ -417,26 +416,14 @@ _assessment that models this phase_
 
 ## DHCP (Cu–Nd)
 
-- Id: `phase:cu-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:cu-nd:dhcp  
-
-
-## DHCP (Cu–Nd)
-
 - Id: `phase:cu-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: Nd 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1288.41 K, x(Nd) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-nd:dhcp-a3)
 
-Names (6): _corpus: _corpus:phase:cu-nd:dhcp-a3  
-_paper: _paper:10.1007/bf02665998:Nd(bcc), paper:10.1007/bf02665998:Nd(dcph)  
+Names (5): _corpus: _corpus:phase:cu-nd:dhcp-a3, corpus:phase:cu-nd:dhcp  
 _tdb: _tdb:CuNd-11Wan.tdb:DHCP, tdb:CuNd-96Du.tdb:DHCP, tdb:CuNd-96Zhu.tdb:DHCP  
 
 
@@ -466,7 +453,7 @@ _tdb: _tdb:CuNd-11Wan.tdb:DHCP, tdb:CuNd-96Du.tdb:DHCP, tdb:CuNd-96Zhu.tdb:DHCP
 Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02665998](https://doi.org/10.1007/BF02665998) W. Zhuang, Z.-Y. Qiao, S. Wei, J. Shen, J. Phase Equilib., 17, 508-21(1996).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/1359-6462(96)00033-4](https://doi.org/10.1016/1359-6462%2896%2900033-4) Yong Du, Narcís Clavaguera, Thermodynamic assessment of the Cu-Nd system, Scripta Materialia 34, 1609-1613 (1996).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2010.11.160](https://doi.org/10.1016/j.jallcom.2010.11.160) Peisheng Wang, Liangcai Zhou, Yong Du, Honghui Xu, Shuhong Liu, Li Chen et al., Thermodynamic optimization of the Cu–Nd system, Journal of Alloys and Compounds 509, 2679-2683 (2011).  

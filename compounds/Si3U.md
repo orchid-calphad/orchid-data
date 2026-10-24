@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Si3U
 | -35.53 | kJ/mol-atom | 4.18 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 4.18 |
 | -33.02 | kJ/mol-atom | 0.13 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -32.19 | kJ/mol-atom | 0.84 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -32.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

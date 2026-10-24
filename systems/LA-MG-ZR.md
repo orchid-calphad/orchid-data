@@ -1,10 +1,10 @@
 # La–Mg–Zr system
 
-> La–Mg–Zr system: 14 accepted literature values (phase equilibrium 9, heat capacity / entropy / enthalpy 2, invariant reaction 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg–Zr system: 12 accepted literature values (phase equilibrium 9, invariant reaction 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG-ZR.html · Markdown: https://data.orchid-project.org/systems/LA-MG-ZR.md
 
-14 accepted literature values from 1 paper(s) (experimental 11, model 3); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (experimental 9, model 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG-ZR.json) · [CSV](https://data.orchid-project.org/systems/LA-MG-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG-ZR.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG-ZR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 9 |
 | model | 3 |
 
 Table: Accepted values by property group
@@ -22,7 +22,6 @@ Table: Accepted values by property group
 | invariant reaction | 2 |
 | phase transition | 1 |
 | phase equilibrium | 9 |
-| heat capacity / entropy / enthalpy | 2 |
 
 ## Invariant reactions (literature)
 
@@ -58,15 +57,6 @@ Table: Phase equilibrium, La–Mg–Zr system
 | Phase composition |  | 773.15 | La2Mg17 + LaMg3 + hcp(Zr); _La2Mg17: La 0.106, Mg 0.894, Zr 0; LaMg3: La 0.245, Mg 0.755, Zr 0; hcp(Zr): La 0, Mg 0, Zr 1_ | experimental | [1] Zhu 2018 | Table 3, p. 7, row 9 |  |
 | Phase composition |  | 773.15 | La2Mg17 + hcp(Zr); _La2Mg17: La 0.107, Mg 0.893, Zr 0; hcp(Zr): La 0, Mg 0, Zr 1_ | experimental | [1] Zhu 2018 | Table 3, p. 7, row 6 |  |
 | Phase composition |  | 773.15 | LaMg12 + hcp(Mg) + hcp(Zr); _LaMg12: La 0.085, Mg 0.915, Zr 0; hcp(Mg): La 0.001, Mg 0.996, Zr 0.003; hcp(Zr): La 0.001, Mg 0.013, Zr 0.986_ | experimental | [1] Zhu 2018 | Table 3, p. 7, row 3 |  |
-
-### Heat capacity / entropy / enthalpy (2)
-
-Table: Heat capacity / entropy / enthalpy, La–Mg–Zr system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Heat capacity; _printed: Heat capacity Cp_ | 0.972 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.991, Zr 0.001_ | experimental | [1] Zhu 2018 | Table 5, p. 11, row 2 |  |
-| Heat capacity; _printed: Heat capacity Cp_ | 0.991 J/mol (basis unstated)/K | 298.15 | UNKNOWN; _alloy: Mg 0.997, Zr 0.001_ | experimental | [1] Zhu 2018 | Table 5, p. 11, row 1 |  |
 
 ## Sources
 

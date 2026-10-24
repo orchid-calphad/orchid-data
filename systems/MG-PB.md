@@ -1,10 +1,10 @@
 # Mg–Pb system
 
-> Mg–Pb system: 113 accepted literature values (invariant reaction 39, mixing / partial 34, crystal structure 20, formation 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Pb system: 108 accepted literature values (invariant reaction 39, mixing / partial 34, formation 20, crystal structure 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-PB.html · Markdown: https://data.orchid-project.org/systems/MG-PB.md
 
-113 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 40); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+108 accepted literature values from 2 paper(s) (experimental 65, model 8, DFT 35); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PB.json) · [CSV](https://data.orchid-project.org/systems/MG-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PB/MgPb-14Zha-ass.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MG-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PB.html) · [Markdown](https://data.orchid-project.org/systems/MG-PB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 65 |
 | model | 8 |
-| DFT | 40 |
+| DFT | 35 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 39 |
 | formation | 20 |
 | mixing / partial | 34 |
-| crystal structure | 20 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -171,17 +171,12 @@ Table: Mixing / partial, Mg–Pb system
 | Partial enthalpy; _printed: Δ¯HMg_ | -17.077 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.3782, Pb 0.6218_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 6 |  |
 | Partial enthalpy; _printed: Δ¯HMg_ | -16.212 kJ/mol (basis unstated) | 1014 | liquid; _alloy: Mg 0.4889, Pb 0.5111_ | experimental | [2] Dębski 2021 | Table 2, p. 4, row 14 |  |
 
-### Crystal structure (20)
+### Crystal structure (15)
 
 Table: Crystal structure, Mg–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: Lattice constant a_ | 3.547 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 18 |  |
-| Lattice a; _printed: Lattice constant a_ | 3.467 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 22 |  |
-| Lattice a; _printed: Lattice constant a_ | 3.499 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Bouad 2003_ [doi](https://doi.org/10.1016/s0022-4596%2803%2900017-3) | Table 3, p. 4, row 21 |  |
-| Lattice a; _printed: Lattice constant a_ | 3.571 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Materials_ | Table 3, p. 4, row 19 |  |
-| Lattice a; _printed: Lattice constant a_ | 3.485 unknown | 0 | FCC_A1(Pb); _alloy: Pb 1_ | DFT | [2] Dębski 2021; _cites Davey 1925_ [doi](https://doi.org/10.1103/physrev.25.753) | Table 3, p. 4, row 20 |  |
 | Lattice a; _printed: Lattice constant a_ | 3.209 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 3, p. 4, row 4 |  |
 | Lattice a; _printed: Lattice constant a_ | 3.203 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021; _cites Wyckoff 1963_ | Table 3, p. 4, row 5 |  |
 | Lattice a; _printed: Lattice constant a_ | 3.206 unknown | 0 | HCP_A3 (Mg); _alloy: Pb 0_ | DFT | [2] Dębski 2021 | Table 3, p. 4, row 1 |  |

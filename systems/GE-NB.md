@@ -1,10 +1,10 @@
 # Ge–Nb system
 
-> Ge–Nb system: 41 accepted literature values (invariant reaction 33, phase equilibrium 5, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Nb system: 51 accepted literature values (invariant reaction 33, formation 10, phase equilibrium 5, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NB.html · Markdown: https://data.orchid-project.org/systems/GE-NB.md
 
-41 accepted literature values from 1 paper(s) (experimental 25, model 16); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+51 accepted literature values from 2 paper(s) (experimental 25, model 21, DFT 5); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NB.json) · [CSV](https://data.orchid-project.org/systems/GE-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NB/GeNb-11Gen.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NB.html) · [Markdown](https://data.orchid-project.org/systems/GE-NB.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 25 |
-| model | 16 |
+| model | 21 |
+| DFT | 5 |
 
 Table: Accepted values by property group
 
@@ -22,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 33 |
 | phase transition | 3 |
 | phase equilibrium | 5 |
+| formation | 10 |
 
 ## Calculated phase diagrams
 
@@ -90,6 +92,25 @@ Table: Invariant reactions reported in the literature for the Ge–Nb system (33
 | 1210.15 | eutectic: L ↔ (NbGe2 ) + Diamond-(Ge) |  | experimental | [1] Geng 2011; _cites Feschotte 1979_ | p. 1 | “Feschotte et al. \[10\] measured and estimated the homogeneity ranges of the phases in the Nb-Ge phase diagram in the temperature range from 600 to 1050 ◦ C and also determined the temperatures of the eutectic reactions L ↔ (Nb5 Ge3 ) + (NbGe2 ) at 1593 ◦ C and L ↔ (NbGe2 ) + Diamond-(Ge) at 937 ◦ C respectively.” |
 | 1210.15 | eutectic: L \<-> (NbGe2) + Diamond-(Ge) | L: Ge 1; (NbGe2): Ge 0.674; Diamond-(Ge): Ge 0.999 | experimental | [1] Geng 2011; _cites Feschotte 1979_ | Table 1, p. 2, row 25 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ge–Nb system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Nb3Ge |  | -30.213 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 9 |  |
+| Nb3Ge |  | -29.387 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 13 |  |
+| Nb3Ge |  | -26.41 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 14 |  |
+| Nb3Ge |  | -25 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 10 |  |
+| Nb5Ge3 |  | -46.63 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 5 |  |
+| Nb5Ge3 |  | -46.53 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 1 |  |
+| Nb5Ge3 |  | -42.892 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 6 |  |
+| Nb5Ge3 |  | -42 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 2 |  |
+| NbGe2 |  | -37.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 17 |  |
+| NbGe2 |  | -33.24 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Utton 2017 | Table 2, p. 6, row 18 |  |
+
 ## Other properties
 
 ### Phase transition (3)
@@ -119,6 +140,7 @@ Table: Phase equilibrium, Ge–Nb system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Tai Geng, Changrong Li, Zhenmin Du, Cuiping Guo, Xinqing Zhao, Huibin Xu, Thermodynamic assessment of the Nb–Ge system, Journal of Alloys and Compounds 509, 3080-3088 (2011). [doi:10.1016/j.jallcom.2010.12.005](https://doi.org/10.1016/j.jallcom.2010.12.005)
+2. Claire A. Utton, Ioannis Papadimitriou, Hajime Kinoshita, Panos Tsakiropoulos, Experimental and thermodynamic assessment of the Ge-Nb-Si ternary phase diagram, Journal of Alloys and Compounds 717, 303-316 (2017). [doi:10.1016/j.jallcom.2017.04.279](https://doi.org/10.1016/j.jallcom.2017.04.279)
 
 ## Please cite
 

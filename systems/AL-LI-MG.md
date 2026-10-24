@@ -1,10 +1,10 @@
 # Al–Li–Mg system
 
-> Al–Li–Mg system: 33 accepted literature values (invariant reaction 17, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li–Mg system: 19 accepted literature values (invariant reaction 17, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI-MG.html · Markdown: https://data.orchid-project.org/systems/AL-LI-MG.md
 
-33 accepted literature values from 1 paper(s) (experimental 9, model 24); 0 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 9, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-LI-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI-MG.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 24 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 17 |
-| crystal structure | 16 |
+| crystal structure | 2 |
 
 ## Invariant reactions (literature)
 
@@ -48,28 +48,14 @@ Table: Invariant reactions reported in the literature for the Al–Li–Mg syste
 
 ## Other properties
 
-### Crystal structure (16)
+### Crystal structure (2)
 
 Table: Crystal structure, Al–Li–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 20.31 Å | 298.15 | τ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 10 |  |
-| Lattice a | 19.1551 Å | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
-| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Li 0, Mg 0.566038_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 3.51 Å | 453.75 (\<) | (Li); _alloy: Li 1, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Li 0, Mg 0.4_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Li 0, Mg 0.586207_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 4.508 Å | 793.15 (\<) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
-| Lattice a | 3.2089 Å | 923.15 (\<) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
 | Lattice a | 4.0488 Å | 933.6 (\<) | (Al); _alloy: Li 0, Mg 0_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 6.37 Å | 973.15 (\<) | AlLi; _alloy: Li 0.5, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 4 |  |
-| Lattice b | 5.4288 Å | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.4988 Å | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
-| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Li 0, Mg 0.566038_ | model | [1] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 14.26 Å | 793.15 (\<) | Al2Li3; _alloy: Li 0.6, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
-| Lattice c | 5.2101 Å | 923.15 (\<) | (Mg); _alloy: Li 0, Mg 1_ | model | [1] Wang 2011; _cites Ghosh 2005_ | Table 1, p. 3, row 3 |  |
-| lattice beta | 107.67 ° | 302.5 | Al4Li9; _alloy: Li 0.692308, Mg 0_ | model | [1] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

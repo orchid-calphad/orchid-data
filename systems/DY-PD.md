@@ -1,10 +1,10 @@
 # Dy–Pd system
 
-> Dy–Pd system: 34 accepted literature values (invariant reaction 24, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Pd system: 55 accepted literature values (invariant reaction 24, formation 21, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-PD.html · Markdown: https://data.orchid-project.org/systems/DY-PD.md
 
-34 accepted literature values from 1 paper(s) (experimental 17, model 17); 1 calculated phase diagram(s).
+55 accepted literature values from 2 paper(s) (experimental 17, model 38); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-PD.json) · [CSV](https://data.orchid-project.org/systems/DY-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-PD/DyPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/DY-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-PD.html) · [Markdown](https://data.orchid-project.org/systems/DY-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 17 |
+| model | 38 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 24 |
 | phase transition | 10 |
+| formation | 21 |
 
 ## Calculated phase diagrams
 
@@ -91,6 +92,22 @@ Table: Invariant reactions reported in the literature for the Dy–Pd system (24
 | 767 | DyPd3+fcc(Pd)->DyPd7 | DyPd3: Pd 0.7662; fcc(Pd): Pd 0.8879; DyPd7: Pd 0.875 | model | [1] Du 2000 | Table 2, p. 4, row 33 |  |
 | 767 | DyPd3+fcc(Pd)->DyPd7 | DyPd3: Pd 0.76; fcc(Pd): Pd 0.895; DyPd7: Pd 0.875 | experimental | [1] Du 2000; _cites Takao 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990076-3) | Table 2, p. 4, row 34 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Dy–Pd system (7)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd2Dy | [DyPd2](https://data.orchid-project.org/compounds/DyPd2.html) | -81.376 kJ/mol-atom | 298.15 | model | -60.081 (mp-aaacimvv) | -79.201 (oqmd-1592414) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 63 |  |
+| Pd2Dy5 |  | -63.19 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 14 |  |
+| Pd3Dy | [DyPd3](https://data.orchid-project.org/compounds/DyPd3.html) | -79.821 kJ/mol-atom | 298.15 | model | -86.399 (mp-aaaaaber) | -86.219 (oqmd-18314) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 5 |  |
+| Pd3Dy | [DyPd3](https://data.orchid-project.org/compounds/DyPd3.html) | -48.326 kJ/mol-atom | 298.15 | model | -86.399 (mp-aaaaaber) | -86.219 (oqmd-18314) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| Pd4Dy3 | [Dy3Pd4](https://data.orchid-project.org/compounds/Dy3Pd4.html) | -81.371 kJ/mol-atom | 298.15 | model | -90.676 (mp-aaackvsx) | -90.926 (oqmd-29906) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 37 |  |
+| Pd7Dy |  | -48.326 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| PdDy | [DyPd](https://data.orchid-project.org/compounds/DyPd.html) | -80.946 kJ/mol-atom | 298.15 | model | -86.405 (mp-aaaaadhq) | -89.821 (oqmd-29907) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 25 |  |
+
 ## Other properties
 
 ### Phase transition (10)
@@ -110,11 +127,33 @@ Table: Phase transition, Dy–Pd system
 | Phase transition | 1983 K | 1983 | Liq.->DyPd3; _DyPd3: Pd 0.7505_ | model | [1] Du 2000 | Table 2, p. 4, row 29 |  |
 | Phase transition | 1983 K | 1983 | Liq.->DyPd3; _DyPd3: Pd 0.75_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990006-4) | Table 2, p. 4, row 30 |  |
 
+### Formation (14)
+
+Table: Formation, Dy–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | 5.2 J/mol-atom/K | 298.15 | Pd2Dy; _alloy: Pd 0.666667_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 63 |  |
+| Entropy of formation | 11.72 J/mol-atom/K | 298.15 | Pd2Dy5; _alloy: Pd 0.285714_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 14 |  |
+| Entropy of formation; _printed: ΔfS_ | 8.268 J/mol-atom/K | 298.15 | Pd3Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| Entropy of formation; _printed: ΔfS_ | 7.11 J/mol-atom/K | 298.15 | Pd3Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 5 |  |
+| Entropy of formation | 2.966 J/mol-atom/K | 298.15 | Pd4Dy3; _alloy: Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 37 |  |
+| Entropy of formation | 8.268 J/mol-atom/K | 298.15 | Pd7Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| Entropy of formation | 3.5 J/mol-atom/K | 298.15 | PdDy; _alloy: Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 25 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -82.9264 kJ/mol-atom | 298.15 | Pd2Dy; _alloy: Pd 0.666667_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 63 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -66.6843 kJ/mol-atom | 298.15 | Pd2Dy5; _alloy: Pd 0.285714_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 14 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -50.7911 kJ/mol-atom | 298.15 | Pd3Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -81.9408 kJ/mol-atom | 298.15 | Pd3Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 5 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -82.2553 kJ/mol-atom | 298.15 | Pd4Dy3; _alloy: Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 37 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -50.7911 kJ/mol-atom | 298.15 | Pd7Dy; _alloy: Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 75 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -81.9895 kJ/mol-atom | 298.15 | PdDy; _alloy: Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 25 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Zhenmin Du, Haifang Yang, Yunhua Xu, Thermodynamic modeling of the Dy–Pd system, Journal of Alloys and Compounds 302, 199-203 (2000). [doi:10.1016/s0925-8388(00)00693-9](https://doi.org/10.1016/s0925-8388%2800%2900693-9)
+2. Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020). [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196)
 
 ## Please cite
 

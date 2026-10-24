@@ -1,10 +1,10 @@
 # Co–Ti system
 
-> Co–Ti system: 283 accepted literature values (invariant reaction 130, phase transition 82, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ti system: 275 accepted literature values (invariant reaction 130, phase transition 82, phase equilibrium 29, formation 24) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TI.html · Markdown: https://data.orchid-project.org/systems/CO-TI.md
 
-283 accepted literature values from 6 paper(s) (experimental 147, model 116, unspecified 20); 6 calculated phase diagram(s).
+275 accepted literature values from 6 paper(s) (experimental 147, model 108, unspecified 20); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TI.json) · [CSV](https://data.orchid-project.org/systems/CO-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TI/CoTi-00Cac.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TI.html) · [Markdown](https://data.orchid-project.org/systems/CO-TI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 147 |
-| model | 116 |
+| model | 108 |
 | unspecified | 20 |
 
 Table: Accepted values by property group
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase equilibrium | 29 |
 | formation | 24 |
 | mixing / partial | 2 |
-| crystal structure | 16 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -450,7 +450,7 @@ Table: Mixing / partial, Co–Ti system
 | Enthalpy of mixing; _printed: DmH_ | -33.3 kJ/mol (basis unstated) | 1873 |  | model | [3] Turchanin 2024 | p. 8 | “The mixing enthalpy of the liquid Co-Ti alloys calculated at 1873 K is shown in Fig. 1(a) and shows satisfactory agreement with calorimetric data.\[19-21\] The minimum value of the mixing enthalpy is DmH = - 33.3 kJ/mol at xTi = 0.47.” |
 | Enthalpy of mixing; _printed: integral mixing enthalpy_ | -50.5 kJ/mol (basis unstated) | 1873 |  | experimental | [3] Turchanin 2024; _cites Ueda 1986_ [doi](https://doi.org/10.2320/jinstmet1952.50.12_1081) | p. 3 | “As an example, the minimum value of the integral mixing enthalpy of - 50.5 kJ/mol at xTi = 0.52 and 1873 K was reported in Ref \[22\], which contradicts the results of direct calorimetric measurements.\[19-21\]” |
 
-### Crystal structure (16)
+### Crystal structure (8)
 
 Table: Crystal structure, Co–Ti system
 
@@ -463,15 +463,7 @@ Table: Crystal structure, Co–Ti system
 | Lattice a | 4.732 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 3.618 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
 | Lattice a | 3.603 Å | 298.15 | UNKNOWN; _alloy: Ti 0.25_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.544 Å | 298.15 | αCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 2.956 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.313 Å | 298.15 | βTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 2.507 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.505 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
 | Lattice c | 15.427 Å | 298.15 | UNKNOWN; _alloy: Ti 0.333333_ | experimental | [5] Cacciamani 2000; _cites Pet'kov 1971_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.693 Å | 298.15 | αTi; _alloy: Ti 1_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 4.089 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 4.07 Å | 298.15 | εCo; _alloy: Ti 0_ | model | [5] Cacciamani 2000; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
 
 ## Sources
 

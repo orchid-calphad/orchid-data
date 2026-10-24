@@ -16,10 +16,10 @@ Table: Phases of the Nb–P system (10)
 | [FCC_A1](#phase-nb-p-fcc-a1); _phase:nb-p:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-nb-p-hcp-a3); _phase:nb-p:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-nb-p-liquid); _phase:nb-p:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 519–4000 K, x(P) 0–1 | 0 | 1 |
-| [NB3P](#phase-nb-p-nb3p); _phase:nb-p:nb3p_ | Ti3P · tP32 · P4_2/n (86) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–573.75 K, x(P) 0.25–0.25 | 0 | 1 |
-| [NB7P4](#phase-nb-p-nb7p4); _phase:nb-p:nb7p4_ | Nb7P4 · mC44 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1733.63 K, x(P) 0.36364–0.36364 | 0 | 1 |
-| [NBP](#phase-nb-p-nbp); _phase:nb-p:nbp_ | NbAs · tI8 · I4_1md (109) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–2003.03 K, x(P) 0.5–0.5 | 0 | 1 |
-| [NBP2](#phase-nb-p-nbp2); _phase:nb-p:nbp2_ | Ge2Os · mC12 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1302.59 K, x(P) 0.66667–0.66667 | 0 | 1 |
+| [NB3P](#phase-nb-p-nb3p); _phase:nb-p:nb3p_ | Ti3P · tP32 · P4_2/n (86) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–573.75 K, x(P) 0.25–0.25 | 4 | 1 |
+| [NB7P4](#phase-nb-p-nb7p4); _phase:nb-p:nb7p4_ | Nb7P4 · mC44 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1733.63 K, x(P) 0.36364–0.36364 | 8 | 1 |
+| [NBP](#phase-nb-p-nbp); _phase:nb-p:nbp_ | NbAs · tI8 · I4_1md (109) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–2003.03 K, x(P) 0.5–0.5 | 4 | 1 |
+| [NBP2](#phase-nb-p-nbp2); _phase:nb-p:nbp2_ | Ge2Os · mC12 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1302.59 K, x(P) 0.66667–0.66667 | 6 | 1 |
 | [RED_P](#phase-nb-p-p-red); _phase:nb-p:p-red_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–914 K, x(P) 1–1 | 0 | 1 |
 | [WHITE_P](#phase-nb-p-p-white); _phase:nb-p:p-white_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 
@@ -133,12 +133,13 @@ _assessment that models this phase_
 - Structure: Ti3P · tP32 · P4_2/n (86); type `st:ti3p-tp32`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Nb 0.7500, P 0.2500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–573.75 K, x(P) 0.25–0.25
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:nb3p)
 
-Names (4): _corpus: _corpus:phase:nb-p:nb3p  
+Names (5): _corpus: _corpus:phase:nb-p:nb3p  
 _mp: _mp:mp-aaabctvk  
 _oqmd: _oqmd:oqmd-8004  
+_paper: _paper:10.2355/isijinternational.49.947:Nb3P  
 _tdb: _tdb:NbP-09Tok.tdb:NB3P  
 
 
@@ -154,7 +155,7 @@ _tdb: _tdb:NbP-09Tok.tdb:NB3P
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2355/isijinternational.49.947](https://doi.org/10.2355/isijinternational.49.947) Tatsuya Tokunaga, Naoko Hanaya, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of Phase Equilibria in the Fe–Nb–P Ternary System, ISIJ Int. 49, 947-956 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## NB7P4 (Nb–P)
 
@@ -162,12 +163,13 @@ _assessment that models this phase_
 - Structure: Nb7P4 · mC44 · C2/m (12); type `st:nb7p4-mc44`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Nb 0.6364, P 0.3636
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1733.63 K, x(P) 0.36364–0.36364
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:nb7p4)
 
-Names (4): _corpus: _corpus:phase:nb-p:nb7p4  
+Names (5): _corpus: _corpus:phase:nb-p:nb7p4  
 _mp: _mp:mp-aaaabbac  
 _oqmd: _oqmd:oqmd-7444  
+_paper: _paper:10.2355/isijinternational.49.947:Nb7P4  
 _tdb: _tdb:NbP-09Tok.tdb:NB7P4  
 
 
@@ -183,7 +185,7 @@ _tdb: _tdb:NbP-09Tok.tdb:NB7P4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2355/isijinternational.49.947](https://doi.org/10.2355/isijinternational.49.947) Tatsuya Tokunaga, Naoko Hanaya, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of Phase Equilibria in the Fe–Nb–P Ternary System, ISIJ Int. 49, 947-956 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## NBP (Nb–P)
 
@@ -191,12 +193,13 @@ _assessment that models this phase_
 - Structure: NbAs · tI8 · I4_1md (109); type `st:nbas-ti8`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Nb 0.5000, P 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2003.03 K, x(P) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:nbp)
 
-Names (4): _corpus: _corpus:phase:nb-p:nbp  
+Names (5): _corpus: _corpus:phase:nb-p:nbp  
 _mp: _mp:mp-aaaaanvf  
 _oqmd: _oqmd:oqmd-14682  
+_paper: _paper:10.2355/isijinternational.49.947:NbP  
 _tdb: _tdb:NbP-09Tok.tdb:NBP  
 
 
@@ -212,7 +215,7 @@ _tdb: _tdb:NbP-09Tok.tdb:NBP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2355/isijinternational.49.947](https://doi.org/10.2355/isijinternational.49.947) Tatsuya Tokunaga, Naoko Hanaya, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of Phase Equilibria in the Fe–Nb–P Ternary System, ISIJ Int. 49, 947-956 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## NBP2 (Nb–P)
 
@@ -222,10 +225,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_12_matches_7_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nb 0.3333, P 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1302.59 K, x(P) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:nbp2)
 
-Names (2): _corpus: _corpus:phase:nb-p:nbp2  
+Names (3): _corpus: _corpus:phase:nb-p:nbp2  
+_paper: _paper:10.2355/isijinternational.49.947:NbP2  
 _tdb: _tdb:NbP-09Tok.tdb:NBP2  
 
 
@@ -241,13 +245,14 @@ _tdb: _tdb:NbP-09Tok.tdb:NBP2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2355/isijinternational.49.947](https://doi.org/10.2355/isijinternational.49.947) Tatsuya Tokunaga, Naoko Hanaya, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of Phase Equilibria in the Fe–Nb–P Ternary System, ISIJ Int. 49, 947-956 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## RED_P (Nb–P)
 
 - Id: `phase:nb-p:p-red`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token
 - Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P
+- Stoichiometry: P 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–914 K, x(P) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:p-red)
@@ -275,6 +280,7 @@ _assessment that models this phase_
 - Id: `phase:nb-p:p-white`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token
 - Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P
+- Stoichiometry: P 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-p:p-white)

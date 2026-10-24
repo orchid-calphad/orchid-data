@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au2Er.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -82.45 kJ/mol-atom (n = 2); Materials Project -84.933 kJ/mol-atom (mp-aaaaadqw); OQMD -85.367 kJ/mol-atom (oqmd-1979285).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–Er](https://data.orchid-project.org/systems/AU-ER.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Au2Er reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
-| -79 kJ/mol-atom | Au2Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
-| -88.4 kJ/mol-atom | Au2Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
-| -86 kJ/mol-atom | Au2Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
+| -85.9 kJ/mol-atom ± 1.9 | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
+| -79 kJ/mol-atom | Au2Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
+| -88.4 kJ/mol-atom | Au2Er | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| -86 kJ/mol-atom | Au2Er |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Au2Er
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -85.9 | kJ/mol-atom | 1.9 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -79 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -88.4 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -86 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -85.9 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -79 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -88.4 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -86 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

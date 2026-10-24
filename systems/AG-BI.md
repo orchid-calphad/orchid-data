@@ -1,10 +1,10 @@
 # Ag–Bi system
 
-> Ag–Bi system: 33 accepted literature values (crystal structure 29, phase transition 2, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Bi system: 24 accepted literature values (crystal structure 20, phase transition 2, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-BI.html · Markdown: https://data.orchid-project.org/systems/AG-BI.md
 
-33 accepted literature values from 1 paper(s) (experimental 3, unspecified 30); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+24 accepted literature values from 1 paper(s) (experimental 3, unspecified 21); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-BI.json) · [CSV](https://data.orchid-project.org/systems/AG-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-BI/AgBi-94Kat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-BI.html) · [Markdown](https://data.orchid-project.org/systems/AG-BI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| unspecified | 30 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase transition | 2 |
-| crystal structure | 29 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -68,7 +68,7 @@ Table: Phase transition, Ag–Bi system
 | Phase transition | 541.02 K | 541.02 | other | experimental | [1] Karakaya 1993; _cites ref. 1894Hey_ | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 | Phase transition | 544.592 K | 544.592 | other | unspecified | [1] Karakaya 1993 | p. 1 | “The measured Bi-liquidus \[1894Hey\] is lower than the assessed diagram by -4 ~ for pure Bi, \[1894Hey\] reported a melting point of 267.87 ~ compared with the accepted value of 271.442 ~ \[Melt\].” |
 
-### Crystal structure (29)
+### Crystal structure (20)
 
 Table: Crystal structure, Ag–Bi system
 
@@ -79,7 +79,6 @@ Table: Crystal structure, Ag–Bi system
 | Lattice a | 4.0832 Å | 298.15 | Ag; _Ag: Ag 0.99479, Bi 0.00521_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 6 |  |
 | Lattice a | 4.09 Å | 298.15 | Ag; _Ag: Ag 0.996, Bi 0.004_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 9 |  |
 | Lattice a | 4.093 Å | 298.15 | Ag; _Ag: Ag 0.993, Bi 0.007_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 11 |  |
-| Lattice a | 4.0782 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 2 |  |
 | Lattice a | 4.0809 Å | 298.15 | Ag; _Ag: Ag 0.99688, Bi 0.00312_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 5 |  |
 | Lattice a | 4.099 Å | 298.15 | Ag; _Ag: Ag 0.987, Bi 0.013_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 15 |  |
 | Lattice a | 4.103 Å | 298.15 | Ag; _Ag: Ag 0.983, Bi 0.017_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 18 |  |
@@ -88,21 +87,13 @@ Table: Crystal structure, Ag–Bi system
 | Lattice a | 4.101 Å | 298.15 | Ag; _Ag: Ag 0.985, Bi 0.015_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 16 |  |
 | Lattice a | 4.104 Å | 298.15 | Ag; _Ag: Ag 0.982, Bi 0.018_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 19 |  |
 | Lattice a | 4.105 Å | 298.15 | Ag; _Ag: Ag 0.981, Bi 0.019_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 20 |  |
-| Lattice a | 4.0857 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 3 |  |
-| Lattice a | 4.0861 Å | 298.15 | Ag; _Ag: Ag 1, Bi 0_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 1 |  |
 | Lattice a | 4.0805 Å | 298.15 | Ag; _Ag: Ag 0.9974, Bi 0.0026_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 4 |  |
 | Lattice a | 4.091 Å | 298.15 | Ag; _Ag: Ag 0.995, Bi 0.005_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 10 |  |
 | Lattice a | 4.097 Å | 298.15 | Ag; _Ag: Ag 0.989, Bi 0.011_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 14 |  |
 | Lattice a | 4.089 Å | 298.15 | Ag; _Ag: Ag 0.997, Bi 0.003_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 8 |  |
 | Lattice a | 4.102 Å | 298.15 | Ag; _Ag: Ag 0.984, Bi 0.016_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 17 |  |
-| Lattice a | 4.746 Å | 298.15 | αBi; _αBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 22 |  |
-| Lattice a | 6.674 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
 | Lattice a | 2.998 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
-| Lattice b | 6.117 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
-| Lattice c | 3.304 Å | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
 | Lattice c | 4.849 Å | 298.15 | ξ-phase | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 24 |  |
-| lattice alpha | 57.23 ° | 298.15 | αBi; _αBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 22 |  |
-| lattice beta | 110.33 ° | 298.15 | βBi (b); _βBi (b): Ag 0, Bi 1; βBi: Ag 0, Bi 1_ | unspecified | [1] Karakaya 1993 | Table 2, p. 4, row 23 |  |
 
 ## Sources
 

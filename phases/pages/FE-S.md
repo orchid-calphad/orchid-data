@@ -391,6 +391,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — FeS-81Fer.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — FeS-92Sun-LB.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — FeS-92Sun-newS.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 368.3–406.89 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-s:s-monoclinic)
@@ -445,6 +446,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — FeS-81Fer.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — FeS-92Sun-LB.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — FeS-92Sun-newS.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
+- Stoichiometry: S 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–368.33 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-s:s-orthorhombic)

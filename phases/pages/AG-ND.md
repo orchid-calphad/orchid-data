@@ -16,8 +16,8 @@ Table: Phases of the Ag–Nd system (9)
 | [AG2ND_BETA](#phase-ag-nd-ag2nd-beta); _phase:ag-nd:ag2nd-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 895.89–1103.17 K, x(Nd) 0.33333–0.33333 | 30 | 2 |
 | [AG51ND14](#phase-ag-nd-ag51nd14); _phase:ag-nd:ag51nd14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1296.15 K, x(Nd) 0.21538–0.21538 | 28 | 2 |
 | [AGND_B2](#phase-ag-nd-agnd-b2); _phase:ag-nd:agnd-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1233.39 K, x(Nd) 0.5–0.5 | 28 | 2 |
-| [BCC_A2](#phase-ag-nd-bcc-a2); _phase:ag-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 998.37–1724 K, x(Nd) 0.95649–1 | 10 | 2 |
-| [DHCP](#phase-ag-nd-dhcp-a3); _phase:ag-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1283 K, x(Nd) 0.99095–1 | 14 | 2 |
+| [BCC_A2](#phase-ag-nd-bcc-a2); _phase:ag-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 998.37–1724 K, x(Nd) 0.95649–1 | 7 | 2 |
+| [DHCP](#phase-ag-nd-dhcp-a3); _phase:ag-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1283 K, x(Nd) 0.99095–1 | 11 | 2 |
 | [FCC_A1](#phase-ag-nd-fcc-a1); _phase:ag-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1239.25 K, x(Nd) 0–0.00317 | 14 | 2 |
 | [HCP_A3](#phase-ag-nd-hcp-a3); _phase:ag-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ag-nd-liquid); _phase:ag-nd:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 911.8–2500 K, x(Nd) 0–1 | 67 | 2 |
@@ -228,7 +228,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-nd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 998.37–1724 K, x(Nd) 0.95649–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-nd:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:ag-nd:bcc-a2  
@@ -270,7 +270,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1283 K, x(Nd) 0.99095–1
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-nd:dhcp-a3)
 
 Names (6): _corpus: _corpus:phase:ag-nd:dhcp-a3, corpus:phase:ag-nd:dhcp  

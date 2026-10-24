@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Cs2MoO4 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -216.384 kJ/mol-atom ± 1.54 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2018_ [doi](https://doi.org/10.1016/j.jct.2018.01.016) | Table 2, p. 4, row 2 |  |
-| -216.384 kJ/mol-atom ± 7.54 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2017_ [doi](https://doi.org/10.1016/j.jssc.2017.05.032) | Table 3, p. 4, row 2 |  |
-| -216.357 kJ/mol-atom ± 7.45 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 1 |  |
-| -216.357 kJ/mol-atom ± 1 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
-| -216.223 kJ/mol-atom ± 1.11 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 3 |  |
-| -216.223 kJ/mol-atom ± 7.52 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 3 |  |
+| -216.384 kJ/mol-atom ± 0.22 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2018_ [doi](https://doi.org/10.1016/j.jct.2018.01.016) | Table 2, p. 4, row 2 |  |
+| -216.384 kJ/mol-atom ± 1.07714 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Smith 2017_ [doi](https://doi.org/10.1016/j.jssc.2017.05.032) | Table 3, p. 4, row 2 |  |
+| -216.357 kJ/mol-atom ± 1.06429 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 1 |  |
+| -216.357 kJ/mol-atom ± 0.142857 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
+| -216.223 kJ/mol-atom ± 0.158571 | α-Cs2MoO4 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 3 |  |
+| -216.223 kJ/mol-atom ± 1.07429 | α-Cs2MoO4 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 3 |  |
 | -216.829 kJ/mol-atom | α-Cs2MoO4 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 1 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Cs2MoO4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -216.384 | kJ/mol-atom | 1.54 | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -216.384 | kJ/mol-atom | 7.54 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.54 |
-| -216.357 | kJ/mol-atom | 7.45 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.45 |
-| -216.357 | kJ/mol-atom | 1 | 0.007143 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -216.223 | kJ/mol-atom | 1.11 | 7.143e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -216.223 | kJ/mol-atom | 7.52 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 7.52 |
-| -216.829 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -216.384 | kJ/mol-atom | 0.22 | 7.143e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -216.384 | kJ/mol-atom | 1.077 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -216.357 | kJ/mol-atom | 1.064 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -216.357 | kJ/mol-atom | 0.1429 | 0.007143 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -216.223 | kJ/mol-atom | 0.1586 | 7.143e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -216.223 | kJ/mol-atom | 1.074 | 7.143e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -216.829 | kJ/mol-atom |  | 0.007143 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

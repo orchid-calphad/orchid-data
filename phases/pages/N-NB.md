@@ -1,10 +1,10 @@
 # N–Nb phases
 
-> N–Nb system: 5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> N–Nb system: 5 phases (tier A 2, liquid 1, gas 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/N-NB.html · Markdown: https://data.orchid-project.org/phases/pages/N-NB.md
 
-5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 2, liquid 1, gas 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=N-NB) · [full JSON](https://data.orchid-project.org/phases/systems/N-NB.json) · [N–Nb system page](https://data.orchid-project.org/systems/N-NB.html) · [Markdown](https://data.orchid-project.org/phases/pages/N-NB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the N–Nb system (5)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-n-nb-bcc-a2); _phase:n-nb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2767.09 K, x(N) 0–0.20934 | 0 | 3 |
-| [FCC_A1](#phase-n-nb-fcc-a1); _phase:n-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2350 K, x(N) 0.40025–0.5 | 0 | 3 |
+| [FCC_A1](#phase-n-nb-fcc-a1); _phase:n-nb:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 3 of 3 calculated diagram(s): 300–2350 K, x(N) 0.40025–0.5 | 0 | 3 |
 | [HCP_A3](#phase-n-nb-hcp-a3); _phase:n-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2858.19 K, x(N) 0.2947–0.33333 | 0 | 3 |
 | [LIQUID](#phase-n-nb-liquid); _phase:n-nb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 2688.39–4000 K, x(N) 0–0.24595 | 3 | 3 |
 | [N2GAS](#phase-n-nb-n2gas); _phase:n-nb:n2gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 300–4000 K, x(N) 1–1 | 0 | 3 |
@@ -65,7 +65,7 @@ _assessment that models this phase_
 ## FCC_A1 (N–Nb)
 
 - Id: `phase:n-nb:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2350 K, x(N) 0.40025–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-nb:fcc-a1)

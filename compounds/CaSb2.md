@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CaSb2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -71.466 kJ/mol-atom (mp-aaaaalcf); OQMD -60.097 kJ/mol-atom (oqmd-1772).
 
-Systems: [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html)
+Systems: [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CaSb2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -75 kJ/mol-atom | CaSb2 | 298.15 | model |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 18 |  |
-| -60.18 kJ/mol-atom | CaSb2 | 0 | DFT |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 17 |  |
+| -75 kJ/mol-atom | CaSb2 | 298.15 | model |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 18 |  |
+| -60.18 kJ/mol-atom | CaSb2 | 0 | DFT |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 17 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CaSb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.18 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -75 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.18 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

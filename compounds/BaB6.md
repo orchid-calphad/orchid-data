@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BaB6.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -39.556 kJ/mol-atom (mp-aaaaabks); OQMD -39.486 kJ/mol-atom (oqmd-646731).
 
-Systems: [B–Ba–Ca–Sr](https://data.orchid-project.org/systems/B-BA-CA-SR.html)
+Systems: [B–Ba](https://data.orchid-project.org/systems/B-BA.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of BaB6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -40.8625 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba–Ca–Sr](https://data.orchid-project.org/systems/B-BA-CA-SR.html) | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
-| -40.8376 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba–Ca–Sr](https://data.orchid-project.org/systems/B-BA-CA-SR.html) | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
-| -40.2307 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba–Ca–Sr](https://data.orchid-project.org/systems/B-BA-CA-SR.html) | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
+| -40.8625 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba](https://data.orchid-project.org/systems/B-BA.html) | [1] Shang 2007 | Table 3, p. 3, row 9 |  |
+| -40.8376 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba](https://data.orchid-project.org/systems/B-BA.html) | [1] Shang 2007 | Table 3, p. 3, row 11 |  |
+| -40.2307 kJ/mol-atom | BaB6 | 298.15 | model |  | [B–Ba](https://data.orchid-project.org/systems/B-BA.html) | [1] Shang 2007 | Table 3, p. 3, row 12 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of BaB6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.8625 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -40.8376 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -40.2307 | kJ/mol-atom |  | 5.000e-7 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -40.8625 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -40.8376 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -40.2307 | kJ/mol-atom |  | 5.000e-7 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

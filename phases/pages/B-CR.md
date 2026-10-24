@@ -33,6 +33,7 @@ Table: Phases of the B–Cr system (12)
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CrB-02Cam.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CrB-08Yam.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CrB-91Pan-LB.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-cr:b-alpha-rhombo)
@@ -79,6 +80,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CrB-02Cam.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CrB-08Yam.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CrB-91Pan-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 1388–2348 K, x(B) 1–1
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-cr:b-beta-rhombo)

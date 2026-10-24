@@ -12,12 +12,12 @@ Table: Phases of the Cr–Zr system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cr-zr-bcc-a2); _phase:cr-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1 | 20 | 8 |
+| [BCC_A2](#phase-cr-zr-bcc-a2); _phase:cr-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1 | 12 | 8 |
 | [C14_LAVES](#phase-cr-zr-c14-laves); _phase:cr-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 1800–1969.21 K, x(Zr) 0.31145–0.36833 | 9 | 8 |
-| [C15_LAVES](#phase-cr-zr-c15-laves); _phase:cr-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1880 K, x(Zr) 0.3094–0.7 | 22 | 8 |
-| [C36_LAVES](#phase-cr-zr-c36-laves); _phase:cr-zr:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1740–1920 K, x(Zr) 0.30883–0.36923 | 71 | 7 |
+| [C15_LAVES](#phase-cr-zr-c15-laves); _phase:cr-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1880 K, x(Zr) 0.3094–0.7 | 20 | 8 |
+| [C36_LAVES](#phase-cr-zr-c36-laves); _phase:cr-zr:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1740–1920 K, x(Zr) 0.30883–0.36923 | 63 | 7 |
 | [FCC_A1](#phase-cr-zr-fcc-a1); _phase:cr-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 8 calculated diagram(s) | 0 | 8 |
-| [HCP_A3](#phase-cr-zr-hcp-a3); _phase:cr-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–2174 K, x(Zr) 0.69–1 | 11 | 8 |
+| [HCP_A3](#phase-cr-zr-hcp-a3); _phase:cr-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–2174 K, x(Zr) 0.69–1 | 3 | 8 |
 | [LIQUID](#phase-cr-zr-liquid); _phase:cr-zr:liquid_ | liquid | liquid | stable in 8 of 8 calculated diagram(s): 1597.45–4000 K, x(Zr) 0–1 | 18 | 8 |
 
 ## BCC_A2 (Cr–Zr)
@@ -25,11 +25,11 @@ Table: Phases of the Cr–Zr system (7)
 - Id: `phase:cr-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 8 of 8 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zr:bcc-a2)
 
-Names (11): _corpus: _corpus:phase:cr-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.11.003:BCC, paper:10.1016/j.calphad.2008.11.003:BCC Cr  
+Names (10): _corpus: _corpus:phase:cr-zr:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2008.11.003:BCC  
 _tdb: _tdb:CrZr-09Pav.tdb:BCC_A2, tdb:CrZr-13Yan.tdb:BCC_A2, tdb:CrZr-15Lu.tdb:BCC_A2, tdb:CrZr-17Liu.tdb:BCC_A2, tdb:CrZr-19Laf.tdb:BCC_A2, tdb:CrZr-93Zen.tdb:BCC_A2, tdb:CrZr-95Zen.tdb:BCC_A2, tdb:CrZr-98Zen-LB.tdb:BCC_A2  
 
 
@@ -221,7 +221,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in CrZr-95Zen.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrZr-98Zen-LB.tdb also describes the disordered state
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1880 K, x(Zr) 0.3094–0.7
-- Literature: 22 values (22 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zr:c15-laves)
 
 Names (10): _corpus: _corpus:phase:cr-zr:c15-laves  
@@ -318,7 +318,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in CrZr-95Zen.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrZr-98Zen-LB.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 1740–1920 K, x(Zr) 0.30883–0.36923
-- Literature: 71 values (71 accepted) from 1 papers
+- Literature: 63 values (63 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zr:c36-laves)
 
 Names (9): _corpus: _corpus:phase:cr-zr:c36-laves  
@@ -486,11 +486,11 @@ _assessment that models this phase_
 - Id: `phase:cr-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 8 of 8 calculated diagram(s): 300–2174 K, x(Zr) 0.69–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zr:hcp-a3)
 
-Names (11): _corpus: _corpus:phase:cr-zr:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2008.11.003:HCP, paper:10.1016/j.calphad.2008.11.003:HCP Zr  
+Names (10): _corpus: _corpus:phase:cr-zr:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2008.11.003:HCP  
 _tdb: _tdb:CrZr-09Pav.tdb:HCP_A3, tdb:CrZr-13Yan.tdb:HCP_A3, tdb:CrZr-15Lu.tdb:HCP_A3, tdb:CrZr-17Liu.tdb:HCP_A3, tdb:CrZr-19Laf.tdb:HCP_A3, tdb:CrZr-93Zen.tdb:HCP_A3, tdb:CrZr-95Zen.tdb:HCP_A3, tdb:CrZr-98Zen-LB.tdb:HCP_A3  
 
 
@@ -552,7 +552,7 @@ _tdb: _tdb:CrZr-09Pav.tdb:HCP_A3, tdb:CrZr-13Yan.tdb:HCP_A3, tdb:CrZr-15Lu.tdb:H
 39: CONST HCP_A3 : CR ZR% : VA : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.11.003](https://doi.org/10.1016/j.calphad.2008.11.003) J. Pavlů, J. Vřešt’ál, M. Šob, Stability of Laves phases in the Cr–Zr system, Calphad 33, 382-387 (2009).  
 _assessment that models this phase; reports values for this phase_
@@ -568,8 +568,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1993-840104](https://doi.org/10.1515/ijmr-1993-840104) K. Zeng, M. Hamalainen, I. Ansara, Z. Metallkd., 84, 23-28(1993).  
 _assessment that models this phase_
-- [doi:10.1103/physrevb.47.3255](https://doi.org/10.1103/physrevb.47.3255) E. G. Moroni, T. Jarlborg, Electronic structure, ordering effects, phase stability, and magnetism in\<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline">\<mml:mrow>\<mml:msub>\<mml:mrow>\<mml:mi mathvariant="normal">Fe\</mml:mi>\</mml:mrow>\<mml:mrow>\<mml:mn>1\</mml:mn>\<mml:mi mathvariant="normal">−\</mml:mi>\<mml:mi mathvariant="italic">x\</mml:mi>\</mml:mrow>\</mml:msub>\</mml:mrow>\</mml:math>\<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline">\<mml:mrow>\<mml:msub>\<mml:mrow>\<mml:mi mathvariant="normal">Cr\</mml:mi>\</mml:mrow>\<mml:mrow>\<mml:mi mathvariant="italic">x\</mml:mi>\</mml:mrow>\</mml:msub>\</mml:mrow>\</mml:math>systems, Phys. Rev. B 47, 3255-3267 (1993).  
-_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(69)90180-5](https://doi.org/10.1016/0022-5088%2869%2990180-5) W.M. Rumball, F.G. Elder, Phase equilibria in zirconium-rich zirconium-chromium-oxygen alloys, Journal of the Less Common Metals 19, 345-358 (1969).  
 _cited as the source of values for this phase_
 

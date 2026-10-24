@@ -1,10 +1,10 @@
 # Mn–Si system
 
-> Mn–Si system: 150 accepted literature values (invariant reaction 97, phase transition 44, phase equilibrium 5, activity / EMF / Gibbs energy 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Si system: 159 accepted literature values (invariant reaction 95, phase transition 44, crystal structure 11, phase equilibrium 5) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-SI.html · Markdown: https://data.orchid-project.org/systems/MN-SI.md
 
-150 accepted literature values from 4 paper(s) (experimental 101, model 37, unspecified 12); 5 calculated phase diagram(s).
+159 accepted literature values from 5 paper(s) (experimental 102, model 36, unspecified 21); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-SI.json) · [CSV](https://data.orchid-project.org/systems/MN-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-SI/MnSi-14Ber.json) · [phases (14)](https://data.orchid-project.org/phases/pages/MN-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-SI.html) · [Markdown](https://data.orchid-project.org/systems/MN-SI.md)
 
@@ -12,19 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 101 |
-| model | 37 |
-| unspecified | 12 |
+| experimental | 102 |
+| model | 36 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 97 |
+| invariant reaction | 95 |
 | phase transition | 44 |
 | phase equilibrium | 5 |
 | mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 3 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -151,12 +152,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mn–Si system (97)
+Table: Invariant reactions reported in the literature for the Mn–Si system (95)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | model | [1] Chevalier 1995 | Table 4, p. 9, row 46 |  |
-| 1687 | Si1(L) \<=> Si1(dia_A4) | Si1(L): Si 1 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 47 |  |
 | 1573.15 | L \<=> Mn5Si3 | L: Si 0.375; Mn5Si3: Mn 0.625, Si 0.375 | experimental | [1] Chevalier 1995; _cites ref. 2_ | Table 4, p. 9, row 36 |  |
 | 1556.35 | L \<=> Mn5Si3 | L: Si 0.375; Mn5Si3: Mn 0.625, Si 0.375 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 37 |  |
 | 1556 | congruent melting: Mn5Si3 -> Liquid | Mn5Si3: Si 0.375; Liquid: Si 0.375 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 6 |  |
@@ -207,7 +206,7 @@ Table: Invariant reactions reported in the literature for the Mn–Si system (97
 | 1422.15 | L \<=> Mn11Si19 + Si1(dia_A4) | L: Si 0.664; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 3_ | Table 4, p. 9, row 29 |  |
 | 1422 | Liquid -> MnSix + DIAMOND |  | experimental | [3] Berche 2014; _cites Dudkin 1961_ | Table 1, p. 3, row 34 |  |
 | 1419.7 | L \<=> Mn11Si19 + Si1(dia_A4) | L: Si 0.6708; Mn11Si19: Mn 0.366667, Si 0.633333 | model | [1] Chevalier 1995 | Table 4, p. 9, row 27 |  |
-| 1417.1 | eutectic: Liquid -> diamond + Mn11Si19 | Liquid: Si 0.674; diamond: Si 0.633; Mn11Si19: Si 1 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 10 |  |
+| 1417.1 | eutectic: Liquid -> diamond + Mn11Si19 | Liquid: Si 0.674; diamond: Si 1; Mn11Si19: Si 0.633 | unspecified | [2] Hämäläinen 1998 | Table I, p. 255, row 10 |  |
 | 1416.15 | L + Mn1Si1 \<=> Mn11Si19 | Mn1Si1: Mn 0.5, Si 0.5; Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 4_ | Table 4, p. 9, row 25 |  |
 | 1415.15 | L \<=> Mn11Si19 + Si1(dia_A4) | Mn11Si19: Mn 0.366667, Si 0.633333 | experimental | [1] Chevalier 1995; _cites ref. 9_ | Table 4, p. 9, row 31 |  |
 | 1415 | eutectic: liquid ? MnSix + silicon |  | experimental | [3] Berche 2014; _cites Mager 1970_ | p. 1 | “For higher silicon contents, the HMS phase is involved in the eutectic reaction: liquid ? MnSix + silicon. This reaction occurs between 1415 K \[26\] and 1423 K \[24\] (Table 1).” |
@@ -336,6 +335,24 @@ Table: Activity / EMF / Gibbs energy, Mn–Si system
 | Activity; _printed: aMn_ | 0.0305 unspecified | 1700 |  | experimental | [1] Chevalier 1995; _cites ref. 15_ | p. 3 | “The thermodynamic properties have been calculated at 1700 K and the activities of the components show very strong negative deviations from ideal&y : xsi, aMn. aSi = 0.1, 0.8645, 0.000067 ; 0.2, 0.5829, 0.0006 ; 0.3, 0.2852, 0.0052 ; 0.4, 0.0929, 0.0408 ; 0.5, 0.0305, 0.1656;0.6,0.0117,0.3613 ;0.7,0.0049,0.5830;0.8,0.0023,0.752;0.9,0.0008,0.8934.” |
 | Activity; _printed: aMn_ | 0.0591 unspecified | 1700 |  | experimental | [1] Chevalier 1995; _cites ref. 30_ | p. 3 | “The vapour pressure measurements of Zaitsev et al. (30) give at 1700K : Xsi, aMn. aSi, AH (kJ/g.atom) = 0.403, 0.153, 0.064, -35.83 + 4.7 ; 0.5, 0.0591, 0.209, -37.0 + 3.7 ; 0.602, 0.0258, 0.414, -32.7 + 4.5 ; 0.66, 0.0171, 0.525, -29.1 + 51.5; 0.699, 0.0131, 0.594, -25.5 + 3.6 ; 0.803, 0.00626, 0.761, -17.9 rf:2.8 ; 0.898, 0.00258, 0.891, 9.3 + 3.0.” |
 
+### Crystal structure (11)
+
+Table: Crystal structure, Mn–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.518 Å | 298.15 | Mn11Si19; _alloy: Mn 0.366667, Si 0.633333_ | experimental | [5] Long 2018; _cites Morozkin 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900742-7) | Table 1, p. 2, row 16 |  |
+| Lattice a | 5.722 Å | 298.15 | Mn3Si; _alloy: Mn 0.75, Si 0.25_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 13 |  |
+| Lattice a | 6.912 Å | 298.15 | Mn5Si3; _alloy: Mn 0.625, Si 0.375_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 14 |  |
+| Lattice a | 10.874 Å | 298.15 | Mn6Si; _alloy: Mn 0.857143, Si 0.142857_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 11 |  |
+| Lattice a | 16.922 Å | 298.15 | Mn9Si2; _alloy: Mn 0.818182, Si 0.181818_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 12 |  |
+| Lattice a | 4.558 Å | 298.15 | MnSi; _alloy: Mn 0.5, Si 0.5_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 15 |  |
+| Lattice b | 28.634 Å | 298.15 | Mn9Si2; _alloy: Mn 0.818182, Si 0.181818_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 12 |  |
+| Lattice c | 48.136 Å | 298.15 | Mn11Si19; _alloy: Mn 0.366667, Si 0.633333_ | experimental | [5] Long 2018; _cites Morozkin 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900742-7) | Table 1, p. 2, row 16 |  |
+| Lattice c | 4.812 Å | 298.15 | Mn5Si3; _alloy: Mn 0.625, Si 0.375_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 14 |  |
+| Lattice c | 19.177 Å | 298.15 | Mn6Si; _alloy: Mn 0.857143, Si 0.142857_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 11 |  |
+| Lattice c | 4.656 Å | 298.15 | Mn9Si2; _alloy: Mn 0.818182, Si 0.181818_ | unspecified | [5] Long 2018; _cites Berche 2014_ [doi](https://doi.org/10.1016/j.jallcom.2014.06.202) | Table 1, p. 2, row 12 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -344,6 +361,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
 3. A. Berche, E. Ruiz-Théron, J.-C. Tedenac, R.-M. Ayral, F. Rouessac, P. Jund, Thermodynamic description of the Mn–Si system: An experimental and theoretical work, Journal of Alloys and Compounds 615, 693-702 (2014). [doi:10.1016/j.jallcom.2014.06.202](https://doi.org/10.1016/j.jallcom.2014.06.202)
 4. Weisen Zheng, Xiao-Gang Lu, Yanlin He, Yuwen Cui, Lin Li, Thermodynamic assessment of the Fe–Mn–Si system and atomic mobility of its fcc phase, Journal of Alloys and Compounds 632, 661-675 (2015). [doi:10.1016/j.jallcom.2015.01.261](https://doi.org/10.1016/j.jallcom.2015.01.261)
+5. Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018). [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211)
 
 ## Please cite
 

@@ -98,8 +98,8 @@ Table: Invariant reactions reported in the literature for the Al–Th system (30
 | 1344.05 | eutectoid: Th3Al2 -> ThAl + Th2Al | Th3Al2: Al 0.4; ThAl: Al 0.5; Th2Al: Al 0.333 | model | [1] Li 2010 | Table 4, p. 4, row 18 |  |
 | 1152.35 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.924; ThAl3: Al 0.75; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 20 |  |
 | 1149.15 | peritectic: L + ThAl3 -> Th2Al7 | L: Al 0.929; ThAl3: Al 0.75; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 19 |  |
-| 903.15 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 0; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21 |  |
-| 901.55 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 0; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22 |  |
+| 903.15 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.971; (Al): Al 1; Th2Al7: Al 0.778 | unspecified | [1] Li 2010; _cites Kassner 1989_ [doi](https://doi.org/10.1007/bf02882381) | Table 4, p. 4, row 21 |  |
+| 901.55 | eutectic: L -> (Al) + Th2Al7 | L: Al 0.973; (Al): Al 1; Th2Al7: Al 0.778 | model | [1] Li 2010 | Table 4, p. 4, row 22 |  |
 
 ## Sources
 

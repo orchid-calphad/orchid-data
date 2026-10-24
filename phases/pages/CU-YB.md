@@ -12,7 +12,7 @@ Table: Phases of the Cu–Yb system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cu-yb-bcc-a2); _phase:cu-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1031.31–1096.99 K, x(Yb) 0.99962–1 | 2 | 1 |
+| [BCC_A2](#phase-cu-yb-bcc-a2); _phase:cu-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1031.31–1096.99 K, x(Yb) 0.99962–1 | 0 | 1 |
 | [CU2YB](#phase-cu-yb-cu2yb); _phase:cu-yb:cu2yb_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1025.43 K, x(Yb) 0.33333–0.33333 | 4 | 1 |
 | [CU5YB_D2D](#phase-cu-yb-cu5yb-d2d); _phase:cu-yb:cu5yb-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1151.01 K, x(Yb) 0.16667–0.16667 | 4 | 1 |
 | [CU7YB2](#phase-cu-yb-cu7yb2); _phase:cu-yb:cu7yb2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1095.2 K, x(Yb) 0.22222–0.22222 | 4 | 1 |
@@ -27,11 +27,10 @@ Table: Phases of the Cu–Yb system (9)
 - Id: `phase:cu-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1031.31–1096.99 K, x(Yb) 0.99962–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-yb:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:cu-yb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2006.11.003:BCC(Yb)  
+Names (2): _corpus: _corpus:phase:cu-yb:bcc-a2  
 _tdb: _tdb:CuYb-07Zha.tdb:BCC_A2  
 
 
@@ -44,12 +43,10 @@ _tdb: _tdb:CuYb-07Zha.tdb:BCC_A2
 41: CONST BCC_A2 : CU YB% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.11.003](https://doi.org/10.1016/j.calphad.2006.11.003) L.G. Zhang, L.B. Liu, H.S. Liu, Z.P. Jin, Thermodynamic assessment of Cu–Eu and Cu–Yb system, Calphad 31, 264-268 (2007).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## CU2YB (Cu–Yb)
 

@@ -1,10 +1,10 @@
 # B–Hf system
 
-> B–Hf system: 58 accepted literature values (invariant reaction 38, formation 9, heat capacity / entropy / enthalpy 8, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Hf system: 57 accepted literature values (invariant reaction 32, formation 9, heat capacity / entropy / enthalpy 8, crystal structure 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-HF.html · Markdown: https://data.orchid-project.org/systems/B-HF.md
 
-58 accepted literature values from 4 paper(s) (experimental 24, model 29, unspecified 5); 0 calculated phase diagram(s).
+57 accepted literature values from 4 paper(s) (experimental 20, model 27, unspecified 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-HF.json) · [CSV](https://data.orchid-project.org/systems/B-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-HF) · [phases (9)](https://data.orchid-project.org/phases/pages/B-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-HF.html) · [Markdown](https://data.orchid-project.org/systems/B-HF.md)
 
@@ -12,24 +12,25 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 29 |
-| unspecified | 5 |
+| experimental | 20 |
+| model | 27 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 38 |
+| invariant reaction | 32 |
 | phase transition | 3 |
 | formation | 9 |
 | heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 5 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-HF.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-HF.json) · [CALPHAD hull HfB-10Kau](https://data.orchid-project.org/hulls/calphad-sgte/B/B-HF--HfB-10Kau.json) · [CALPHAD hull HfB-11Cac](https://data.orchid-project.org/hulls/calphad-sgte/B/B-HF--HfB-11Cac.json) · [CALPHAD hull HfB-97Bit-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-HF--HfB-97Bit-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Hf system (38)
+Table: Invariant reactions reported in the literature for the B–Hf system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -40,15 +41,12 @@ Table: Invariant reactions reported in the literature for the B–Hf system (38)
 | 2506 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6 |  |
 | 2491 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 4 |  |
 | 2473 | congruent melting: L \<-> βHf | L: B 0; βHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 5 |  |
-| 2423 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 10 |  |
 | 2377.15 | peritectic: L + HfB2 -> HfB | L: B 0.219; HfB2: B 0.667; HfB: B 0.5 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 2 |  |
 | 2377.15 | peritectic: L+HfB2=HfB | L: B 0.22; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 3 |  |
 | 2377.1 | peritectic: Liquid + B2Hf -> + BHf | B2Hf: B 0.666667, Hf 0.333333; BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 2 |  |
 | 2377 | peritectic: L + HfB2 \<-> HfB | L: B 0.22; HfB2: B 0.667; HfB: B 0.5 | model | [1] Bittermann 1997 | Table 1, p. 2, row 8 |  |
 | 2373.15 | peritectic: L+HfB2=HfB | L: B 0.2213; HfB2: B 0.666667; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 4 |  |
 | 2373 | peritectic: L + HfB2 \<-> HfB | L: B 0.24; HfB2: B 0.66; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 7 |  |
-| 2373 | congruent melting: L \<-> B | L: B 1; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 9 |  |
-| 2348 | congruent melting: L \<-> B | L: B 1; B: B 1 | model | [1] Bittermann 1997 | Table 1, p. 2, row 11 |  |
 | 2343 | eutectic: L \<-> HfB2 + B | L: B 0.98; HfB2: B 0.667; B: B 1 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 13 |  |
 | 2338.15 | eutectic: L=HfB2+(βB) | L: B 0.99; HfB2: B 0.666667; (βB): B 1 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 5 |  |
 | 2338.15 | eutectic: L -> HfB2 + B | L: B 0.99; HfB2: B 0.677; B: B 1 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 3 |  |
@@ -63,14 +61,11 @@ Table: Invariant reactions reported in the literature for the B–Hf system (38)
 | 2153 | eutectic: L \<-> βHf + HfB | L: B 0.13; HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 15 |  |
 | 2148.15 | eutectic: L=(βHf)+HfB | L: B 0.1515; HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 8 |  |
 | 2073 | peritectoid: βHf + HfB \<-> αHf | HfB: B 0.5 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 17 |  |
-| 2073 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 1, p. 2, row 19 |  |
 | 2066.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021 | Table 2, p. 5, row 10 |  |
 | 2064.15 | peritectoid: (βHf)+HfB=(αHf) | HfB: B 0.5 | model | [4] Pan 2021; _cites Bittermann 1997_ [doi](https://doi.org/10.1007/bf02646757) | Table 2, p. 5, row 9 |  |
 | 2064 | peritectoid: βHf + HfB \<-> αHf | βHf: B 0.007; HfB: B 0.5; αHf: B 0.015 | model | [1] Bittermann 1997 | Table 1, p. 2, row 18 |  |
 | 2063.8 | peritectic: bcc-A2 + BHf -> hcp-A3 | BHf: B 0.5, Hf 0.5 | unspecified | [2] Hämäläinen 1998 | Table I, p. 138, row 4 |  |
 | 2063.15 | peritectoid: HfB + bcc-Hf -> hcp-Hf | HfB: B 0.5; bcc-Hf: B 0.007; hcp-Hf: B 0.015 | model | [3] Cacciamani 2011 | Table 1, p. 4, row 5 |  |
-| 2050 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | experimental | [1] Bittermann 1997; _cites ref. 71Por_ | Table 1, p. 2, row 20 |  |
-| 2016 | polymorphic: βHf \<-> αHf | βHf: B 0; αHf: B 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 21 |  |
 
 ## Formation enthalpies
 
@@ -80,15 +75,15 @@ Table: Enthalpies of formation, B–Hf system (9)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -98.95 kJ/mol-atom ± 6.3 | 298.15 | experimental | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -79.905 kJ/mol-atom |  | model | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
-| HfB | [HfB](https://data.orchid-project.org/compounds/HfB.html) | -49.475 kJ/mol-atom ± 6.3 | 298.15 | experimental | -39.896 (mp-aaaaaanh) | -40.239 (oqmd-13677) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -117.633 kJ/mol-atom | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13 |  |
-| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -109.633 kJ/mol-atom ± 8.8 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
+| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -109.633 kJ/mol-atom ± 2.93333 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -106.567 kJ/mol-atom | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -106.567 kJ/mol-atom |  | model | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
 | HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -105.033 kJ/mol-atom | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Paderno 1959_ | Table 3, p. 4, row 12 |  |
-| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -87.3 kJ/mol-atom ± 5 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
-| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -83.1333 kJ/mol-atom ± 5.9 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
+| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -87.3 kJ/mol-atom ± 1.66667 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
+| HfB2 | [HfB2](https://data.orchid-project.org/compounds/HfB2.html) | -83.1333 kJ/mol-atom ± 1.96667 | 298.15 | experimental | -98.211 (mp-aaaaacys) | -98.749 (oqmd-5848) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
 
 ## Other properties
 
@@ -108,14 +103,26 @@ Table: Heat capacity / entropy / enthalpy, B–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S0_ | 44.47 unknown |  | HfB; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
-| Entropy; _printed: S0_ | 43.1 unknown ± 0.4 |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites ref. 89Bol_ | Table 3, p. 4, row 19 |  |
-| Entropy; _printed: S0_ | 42.89 unknown |  | HfB2; _alloy: Hf 0.333333_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
-| Entropy; _printed: S0_ | 42.89 unknown |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites Westrum 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990048-9) | Table 3, p. 4, row 16 |  |
-| Heat capacity; _printed: Cp0_ | 36.77 unknown |  | HfB; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
-| Heat capacity; _printed: Cp0_ | 49.47 unknown |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites ref. 89Bol_ | Table 3, p. 4, row 19 |  |
-| Heat capacity; _printed: Cp0_ | 49.81 unknown |  | HfB2; _alloy: Hf 0.333333_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
-| Heat capacity; _printed: Cp0_ | 49.79 unknown |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites Westrum 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990048-9) | Table 3, p. 4, row 16 |  |
+| Entropy; _printed: S0_ | 22.235 J/mol-atom/K |  | HfB; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
+| Entropy; _printed: S0_ | 14.3667 J/mol-atom/K ± 0.133333 |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites ref. 89Bol_ | Table 3, p. 4, row 19 |  |
+| Entropy; _printed: S0_ | 14.2967 J/mol-atom/K |  | HfB2; _alloy: Hf 0.333333_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
+| Entropy; _printed: S0_ | 14.2967 J/mol-atom/K |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites Westrum 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990048-9) | Table 3, p. 4, row 16 |  |
+| Heat capacity; _printed: Cp0_ | 18.385 J/mol-atom/K |  | HfB; _alloy: Hf 0.5_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
+| Heat capacity; _printed: Cp0_ | 16.49 J/mol-atom/K |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites ref. 89Bol_ | Table 3, p. 4, row 19 |  |
+| Heat capacity; _printed: Cp0_ | 16.6033 J/mol-atom/K |  | HfB2; _alloy: Hf 0.333333_ | model | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
+| Heat capacity; _printed: Cp0_ | 16.5967 J/mol-atom/K |  | HfB2; _alloy: Hf 0.333333_ | experimental | [1] Bittermann 1997; _cites Westrum 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990048-9) | Table 3, p. 4, row 16 |  |
+
+### Crystal structure (5)
+
+Table: Crystal structure, B–Hf system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.65185 not_printed | 298.15 | HfB; _alloy: Hf 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
+| Lattice a | 0.31438 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
+| Lattice b | 0.3216 not_printed | 298.15 | HfB; _alloy: Hf 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
+| Lattice c | 0.492 not_printed | 298.15 | HfB; _alloy: Hf 0.5_ | unspecified | [1] Bittermann 1997; _cites ref. 65Rud1_ | Table 2, p. 3, row 6 |  |
+| Lattice c | 0.34793 not_printed ± 2.000e-5 | 298.15 | HfB2; _alloy: Hf 0.333333_ | unspecified | [1] Bittermann 1997; _cites ref. 85Vil_ | Table 2, p. 3, row 7 |  |
 
 ## Sources
 

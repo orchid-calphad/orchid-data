@@ -12,16 +12,16 @@ Table: Phases of the Au–Ho system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AU10HO7](#phase-au-ho-au10ho7); _phase:au-ho:au10ho7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1621.8 K, x(Ho) 0.41176–0.41176 | 4 | 1 |
+| [AU10HO7](#phase-au-ho-au10ho7); _phase:au-ho:au10ho7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1621.8 K, x(Ho) 0.41176–0.41176 | 7 | 1 |
 | [AU2HO_C11B](#phase-au-ho-au2ho-c11b); _phase:au-ho:au2ho-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1609.09 K, x(Ho) 0.33333–0.33333 | 6 | 1 |
 | [AU3HO_D0A](#phase-au-ho-au3ho-d0a); _phase:au-ho:au3ho-d0a_ | beta-Cu3Ti · D0_a · oP8 · Pmmn (59) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1519.31 K, x(Ho) 0.25–0.25 | 6 | 1 |
 | [AU4HO_D1A](#phase-au-ho-au4ho-d1a); _phase:au-ho:au4ho-d1a_ | MoNi4 · D1_a · tI10 · I4/m (87) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1223.25 K, x(Ho) 0.2–0.2 | 4 | 1 |
-| [AU51HO14](#phase-au-ho-au51ho14); _phase:au-ho:au51ho14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1333.26 K, x(Ho) 0.21538–0.21538 | 4 | 1 |
-| [AU6HO](#phase-au-ho-au6ho); _phase:au-ho:au6ho_ | Au6Sm · tP56 · P4_2/ncm (138) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1119.28 K, x(Ho) 0.14286–0.14286 | 4 | 1 |
+| [AU51HO14](#phase-au-ho-au51ho14); _phase:au-ho:au51ho14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1333.26 K, x(Ho) 0.21538–0.21538 | 7 | 1 |
+| [AU6HO](#phase-au-ho-au6ho); _phase:au-ho:au6ho_ | Au6Sm · tP56 · P4_2/ncm (138) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1119.28 K, x(Ho) 0.14286–0.14286 | 8 | 1 |
 | [AUHO_B2](#phase-au-ho-auho-b2); _phase:au-ho:auho-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1885.78–1973.28 K, x(Ho) 0.5–0.5 | 4 | 1 |
 | [AUHO_B33](#phase-au-ho-auho-b33); _phase:au-ho:auho-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1885.78 K, x(Ho) 0.5–0.5 | 4 | 1 |
-| [AUHO2_C37](#phase-au-ho-auho2-c37); _phase:au-ho:auho2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1375.3 K, x(Ho) 0.66667–0.66667 | 4 | 1 |
-| [BCC_A2](#phase-au-ho-bcc-a2); _phase:au-ho:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 2 | 1 |
+| [AUHO2_C37](#phase-au-ho-auho2-c37); _phase:au-ho:auho2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1375.3 K, x(Ho) 0.66667–0.66667 | 3 | 1 |
+| [BCC_A2](#phase-au-ho-bcc-a2); _phase:au-ho:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-au-ho-fcc-a1); _phase:au-ho:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1820.55 K, x(Ho) 0–0.05485 | 2 | 1 |
 | [HCP_A3](#phase-au-ho-hcp-a3); _phase:au-ho:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.48 K, x(Ho) 0.99197–1 | 2 | 1 |
 | [LIQUID](#phase-au-ho-liquid); _phase:au-ho:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1075.55–2500 K, x(Ho) 0–1 | 24 | 1 |
@@ -34,7 +34,7 @@ Table: Phases of the Au–Ho system (13)
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.5882, Ho 0.4118
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1621.8 K, x(Ho) 0.41176–0.41176
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ho:au10ho7)
 
 Names (3): _corpus: _corpus:phase:au-ho:au10ho7  
@@ -162,7 +162,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.7846, Ho 0.2154
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1333.26 K, x(Ho) 0.21538–0.21538
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ho:au51ho14)
 
 Names (3): _corpus: _corpus:phase:au-ho:au51ho14  
@@ -194,7 +194,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.8571, Ho 0.1429
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1119.28 K, x(Ho) 0.14286–0.14286
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ho:au6ho)
 
 Names (3): _corpus: _corpus:phase:au-ho:au6ho  
@@ -285,7 +285,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabsyr and oqmd-10737, space group 62
 - Stoichiometry: Au 0.3333, Ho 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1375.3 K, x(Ho) 0.66667–0.66667
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ho:auho2-c37)
 
 Names (5): _corpus: _corpus:phase:au-ho:auho2-c37  
@@ -316,11 +316,10 @@ _cited as the source of values for this phase_
 - Id: `phase:au-ho:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ho:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:au-ho:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2012.02.002:beta AuLa  
+Names (2): _corpus: _corpus:phase:au-ho:bcc-a2  
 _tdb: _tdb:AuHo-12Don.tdb:BCC_A2  
 
 
@@ -333,12 +332,10 @@ _tdb: _tdb:AuHo-12Don.tdb:BCC_A2
 43: CONST BCC_A2 : AU HO : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.02.002](https://doi.org/10.1016/j.calphad.2012.02.002) H.Q. Dong, X.M. Tao, T. Laurila, M. Paulasto-Kröckel, Thermodynamic assessment of Au–Ho and Au–Tm binary systems, Calphad 37, 87-93 (2012).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0966-9795(02)00093-6](https://doi.org/10.1016/s0966-9795%2802%2900093-6) A. Saccone, D. Macciò, S. Delfino, R. Ferro, Alloying behavior of the rare earth metals with gold: the Ho–Au, Er–Au and Tm–Au systems, Intermetallics 10, 903-913 (2002).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Au–Ho)
 

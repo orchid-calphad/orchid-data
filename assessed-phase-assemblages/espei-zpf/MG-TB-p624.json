@@ -6,7 +6,6 @@
  ],
  "phases": [
   "B2_BCC",
-  "BCC_A2",
   "HCP_A3",
   "LIQUID",
   "MG24TB5_A12",
@@ -26,11 +25,7 @@
    811.5456685,
    1372.545668,
    929.5456685,
-   1027.545668,
-   1162.545668,
-   1263.545668,
-   1053.045668,
-   1324.545668
+   1053.045668
   ]
  },
  "output": "ZPF",
@@ -266,75 +261,6 @@
   ],
   [
    [
-    "BCC_A2",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "B2_BCC",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.5872284338
-    ]
-   ]
-  ],
-  [
-   [
-    "HCP_A3",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.8502331781
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "TB"
-    ],
-    [
-     0.7822319514
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "TB"
@@ -361,35 +287,6 @@
      0.3997250515
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.7022305083
-    ]
-   ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 15(2), 227-228 (1994) doi:10.1007/bf02646374; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 624",
@@ -413,17 +310,9 @@
    "aspa-5d62b0f55292bd21",
    "aspa-e9cdfcb4df2cacb0",
    "aspa-fe6402d1b4fc9e42",
-   "aspa-01e6f0d6643deb0d",
-   "aspa-ce1ea0cb3759664f",
-   "aspa-4c040f4e85700c5a",
-   "aspa-691acc7e3cb3c8e7",
-   "aspa-48ee78cc0ecae835"
+   "aspa-691acc7e3cb3c8e7"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -641,60 +530,6 @@
     }
    },
    {
-    "record_id": "aspa-01e6f0d6643deb0d",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.803,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 83.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0830015,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-ce1ea0cb3759664f",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.803,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 140.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0525009,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-4c040f4e85700c5a",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.803,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 100.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0480009,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-691acc7e3cb3c8e7",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -709,24 +544,6 @@
      "sigma_reading": 0.000672005,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0800014,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-48ee78cc0ecae835",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.803,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 58.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672005,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0500009,
      "sigma_effective": 0.02
     }
    }

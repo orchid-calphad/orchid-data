@@ -13,10 +13,10 @@ Table: Phases of the Bi–Mn system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-mn-a7-rhombohedral); _phase:bi-mn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Mn) 0–0 | 3 | 2 |
-| [BCC_A2](#phase-bi-mn-bcc-a2); _phase:bi-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1 | 4 | 2 |
+| [BCC_A2](#phase-bi-mn-bcc-a2); _phase:bi-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1 | 0 | 2 |
 | [BIMN_B81](#phase-bi-mn-bimn-b81); _phase:bi-mn:bimn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–631.48 K, x(Mn) 0.5–0.5 | 7 | 2 |
 | [BIMN_B82](#phase-bi-mn-bimn-b82); _phase:bi-mn:bimn-b82_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 609.45–719.06 K, x(Mn) 0.5–0.51923 | 6 | 2 |
-| [CBCC_A12](#phase-bi-mn-cbcc-a12); _phase:bi-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(Mn) 1–1 | 12 | 2 |
+| [CBCC_A12](#phase-bi-mn-cbcc-a12); _phase:bi-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(Mn) 1–1 | 6 | 2 |
 | [CUB_A13](#phase-bi-mn-cub-a13); _phase:bi-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1404.99 K, x(Mn) 1–1 | 0 | 2 |
 | [FCC_A1](#phase-bi-mn-fcc-a1); _phase:bi-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1250–1411.03 K, x(Mn) 0.49–1 | 0 | 2 |
 | [HCP_A3](#phase-bi-mn-hcp-a3); _phase:bi-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -66,11 +66,10 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1396.03–2499.18 K, x(Mn) 0.99942–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-mn:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:bi-mn:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2011.02.021:βMn  
+Names (3): _corpus: _corpus:phase:bi-mn:bcc-a2  
 _tdb: _tdb:BiMn-11Oik.tdb:BCC_A2, tdb:BiMn-11Wan.tdb:BCC_A2  
 
 
@@ -93,7 +92,7 @@ _tdb: _tdb:BiMn-11Oik.tdb:BCC_A2, tdb:BiMn-11Wan.tdb:BCC_A2
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2011.02.021](https://doi.org/10.1016/j.jnucmat.2011.02.021) C.P. Wang, W.J. Yu, Z.S. Li, X.J. Liu, A.T. Tang, F.S. Pan, Thermodynamic assessments of the Bi–U and Bi–Mn systems, Journal of Nuclear Materials 412, 66-71 (2011).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.2320/matertrans.M2011229](https://doi.org/10.2320/matertrans.M2011229) K. Oikawa, Y. Mitsui, K. Koyama, K. Anzai, Mater. Trans. (JIM), 52, 2032-39(2011).  
 _assessment that models this phase_
 
@@ -183,11 +182,11 @@ _assessment that models this phase_
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–980 K, x(Mn) 1–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-mn:cbcc-a12)
 
-Names (6): _corpus: _corpus:phase:bi-mn:cbcc-a12  
-_paper: _paper:10.1016/j.jnucmat.2011.02.021:αMn, paper:10.1016/j.jnucmat.2011.02.021:γMn, paper:10.1016/j.jnucmat.2011.02.021:δMn  
+Names (4): _corpus: _corpus:phase:bi-mn:cbcc-a12  
+_paper: _paper:10.1016/j.jnucmat.2011.02.021:αMn  
 _tdb: _tdb:BiMn-11Oik.tdb:CBCC_A12, tdb:BiMn-11Wan.tdb:CBCC_A12  
 
 

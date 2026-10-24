@@ -1,10 +1,10 @@
 # Ag–Gd system
 
-> Ag–Gd system: 44 accepted literature values (invariant reaction 39, phase transition 4, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Gd system: 42 accepted literature values (invariant reaction 37, phase transition 4, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-GD.html · Markdown: https://data.orchid-project.org/systems/AG-GD.md
 
-44 accepted literature values from 2 paper(s) (experimental 29, model 15); 2 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 28, model 14); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-GD.json) · [CSV](https://data.orchid-project.org/systems/AG-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-GD/AgGd-08Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-GD.html) · [Markdown](https://data.orchid-project.org/systems/AG-GD.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 15 |
+| experimental | 28 |
+| model | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
+| invariant reaction | 37 |
 | phase transition | 4 |
 | other property | 1 |
 
@@ -65,15 +65,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Gd system (39)
+Table: Invariant reactions reported in the literature for the Ag–Gd system (37)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1588.15 | congruent melting: L ↔ βGd | βGd: Gd 1 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 1 |  |
 | 1586.15 | congruent melting: L ↔ βGd | βGd: Gd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 2 |  |
 | 1586.15 | congruent melting: L ↔ βGd | βGd: Gd 1 | model | [1] Wang 2009 | Table 3, p. 4, row 3 |  |
-| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | model | [1] Wang 2009 | Table 3, p. 4, row 5 |  |
-| 1508.15 | polymorphic: βGd ↔ αGd | αGd: Gd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 4 |  |
 | 1374.75 | congruent melting: L ↔ AgGd | L: Gd 0.5; AgGd: Gd 0.5 | model | [1] Wang 2009 | Table 3, p. 4, row 11 |  |
 | 1373.15 | congruent melting: L ↔ AgGd | L: Gd 0.5; AgGd: Gd 0.5 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 3, p. 4, row 10 |  |
 | 1373.15 | congruent melting: L ↔ AgGd | L: Gd 0.5; AgGd: Gd 0.5 | experimental | [1] Wang 2009; _cites Kiessler 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990049-5) | Table 3, p. 4, row 9 |  |

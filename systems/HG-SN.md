@@ -1,10 +1,10 @@
 # Hg–Sn system
 
-> Hg–Sn system: 73 accepted literature values (phase transition 31, invariant reaction 24, crystal structure 14, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Sn system: 70 accepted literature values (phase transition 31, invariant reaction 24, crystal structure 11, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-SN.html · Markdown: https://data.orchid-project.org/systems/HG-SN.md
 
-73 accepted literature values from 1 paper(s) (experimental 43, model 30); 1 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 43, model 27); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-SN.json) · [CSV](https://data.orchid-project.org/systems/HG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-SN/HgSn-03Yen-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HG-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-SN.html) · [Markdown](https://data.orchid-project.org/systems/HG-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 30 |
+| model | 27 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | phase transition | 31 |
 | mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 2 |
-| crystal structure | 14 |
+| crystal structure | 11 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -137,24 +137,21 @@ Table: Activity / EMF / Gibbs energy, Hg–Sn system
 | Activity; _printed: aSn_ | 0.927 unspecified | 298.15 |  | model | [1] Yen 2003 | p. 10 | “At 298 K for instance, aSn rises to 0.927 and then remains constant from xSn⳱ 0.027-0.923.” |
 | Vapour pressure; _printed: vapor pressure_ | 7.502e-4 bar | 344 | ␥ | experimental | [1] Yen 2003; _cites Reynolds 1974_ [doi](https://doi.org/10.1002/jbm.820080604) | p. 4 | “Reynolds also determined the vapor pressure of ␥ phase from weight loss data and gave this value as 7.502 × 10-4 bar at 344 K \[1974Rey\].” |
 
-### Crystal structure (14)
+### Crystal structure (11)
 
 Table: Crystal structure, Hg–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.005 Å | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
-| Lattice a | 6.4892 Å | 286.2 (\<) | (αSn); _(αSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 4 |  |
 | Lattice a | 5.8286 Å | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
 | Lattice a | 5.55104 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice a | 3.2109 Å | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
-| Lattice a | 5.8317 Å | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
 | Lattice a | 3.2415 Å | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
 | Lattice b | 3.1791 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice c | 3.1805 Å | 298.15 | (βSn); _(βSn): Hg 0.0072, Sn 0.9928_ | model | [1] Yen 2003 | Table 3, p. 6, row 3 |  |
 | Lattice c | 2.98311 Å | 363.5 (\<) | δ, HgSn7; _δ, HgSn7: Hg 0.1288, Sn 0.8712_ | model | [1] Yen 2003 | Table 3, p. 6, row 8 |  |
 | Lattice c | 2.9888 Å | 376.55 | γ, HgSn12; _alloy: Sn 0.923077_ | model | [1] Yen 2003 | Table 3, p. 6, row 6 |  |
-| Lattice c | 3.1813 Å | 395.634 | (βSn); _(βSn): Hg 0, Sn 1_ | model | [1] Yen 2003 | Table 3, p. 6, row 2 |  |
 | Lattice c | 3.0065 Å | 485.25 | β, HgSn38; _alloy: Sn 0.974359_ | model | [1] Yen 2003 | Table 3, p. 6, row 5 |  |
 | lattice alpha | 70.53 ° | 234.3 (\<) | (Hg); _alloy: Sn 0_ | model | [1] Yen 2003 | Table 3, p. 6, row 1 |  |
 

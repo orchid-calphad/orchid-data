@@ -13,7 +13,7 @@ Table: Phases of the Ce–Ga system (12)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ce-ga-a11-orthorhombic); _phase:ce-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 5 | 2 |
-| [BCC_A2](#phase-ce-ga-bcc-a2); _phase:ce-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1000–1085 K, x(Ga) 0–0 | 5 | 2 |
+| [BCC_A2](#phase-ce-ga-bcc-a2); _phase:ce-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1000–1085 K, x(Ga) 0–0 | 3 | 2 |
 | [CE3GA_L12](#phase-ce-ga-ce3ga-l12); _phase:ce-ga:ce3ga-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–850 K, x(Ga) 0.25–0.25 | 12 | 2 |
 | [CE3GA2](#phase-ce-ga-ce3ga2); _phase:ce-ga:ce3ga2_ | Ba5Si3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1147.03 K, x(Ga) 0.4–0.4 | 12 | 2 |
 | [CEGA_B33](#phase-ce-ga-cega-b33); _phase:ce-ga:cega-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1253.2 K, x(Ga) 0.5–0.5 | 13 | 2 |
@@ -21,7 +21,7 @@ Table: Phases of the Ce–Ga system (12)
 | [CEGA6_HT](#phase-ce-ga-cega6-ht); _phase:ce-ga:cega6-ht_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 748.26–929.57 K, x(Ga) 0.85714–0.85714 | 8 | 2 |
 | [CEGA6_LT](#phase-ce-ga-cega6-lt); _phase:ce-ga:cega6-lt_ | Ga6Pu · tP14 · P4/nbm (125) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–749.86 K, x(Ga) 0.85714–0.85714 | 12 | 2 |
 | [DHCP](#phase-ce-ga-dhcp-a3); _phase:ce-ga:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [FCC_A1](#phase-ce-ga-fcc-a1); _phase:ce-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ga) 0–0 | 9 | 2 |
+| [FCC_A1](#phase-ce-ga-fcc-a1); _phase:ce-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ga) 0–0 | 7 | 2 |
 | [HCP_A3](#phase-ce-ga-hcp-a3); _phase:ce-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ce-ga-liquid); _phase:ce-ga:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 300.44–2500 K, x(Ga) 0–1 | 48 | 2 |
 
@@ -67,11 +67,11 @@ _assessment that models this phase; cited as the source of values for this phase
 - Id: `phase:ce-ga:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1000–1085 K, x(Ga) 0–0
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-ga:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ce-ga:bcc-a2  
-_paper: _paper:10.1007/s00706-019-02420-8:bcc (Ce), paper:10.1007/s11669-013-0261-y:(Ce)HT_1  
+Names (4): _corpus: _corpus:phase:ce-ga:bcc-a2  
+_paper: _paper:10.1007/s00706-019-02420-8:bcc (Ce)  
 _tdb: _tdb:CeGa-13Idb.tdb:BCC_A2, tdb:CeGa-19Liu.tdb:BCC_A2  
 
 
@@ -96,7 +96,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1007/s00706-019-02420-8](https://doi.org/10.1007/s00706-019-02420-8) Jinming Liu, Fei Li, Jinping Liu, Xu Zhang, Tahir Ahmad, Tongxiang Liang, Thermodynamic description of the Ce–Ga and Ga–Gd systems, Monatsh Chem 150, 1225-1233 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0261-y](https://doi.org/10.1007/s11669-013-0261-y) Mohamed Idbenali, Colette Servant, M’barek Feddaoui, Thermodynamic Description of the Ce-Ga Binary System, J. Phase Equilib. Diffus. 34, 467-473 (2013).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 
 ## CE3GA_L12 (Ce–Ga)
 
@@ -378,11 +378,11 @@ _assessment that models this phase_
 - Id: `phase:ce-ga:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ga) 0–0
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-ga:fcc-a1)
 
-Names (6): _corpus: _corpus:phase:ce-ga:fcc-a1  
-_paper: _paper:10.1007/s00706-019-02420-8:fcc (Ce), paper:10.1007/s00706-019-02420-8:fcc(Ce), paper:10.1007/s11669-013-0261-y:(Ce)\_HT1  
+Names (5): _corpus: _corpus:phase:ce-ga:fcc-a1  
+_paper: _paper:10.1007/s00706-019-02420-8:fcc (Ce), paper:10.1007/s00706-019-02420-8:fcc(Ce)  
 _tdb: _tdb:CeGa-13Idb.tdb:FCC_A1, tdb:CeGa-19Liu.tdb:FCC_A1  
 
 
@@ -407,7 +407,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1007/s00706-019-02420-8](https://doi.org/10.1007/s00706-019-02420-8) Jinming Liu, Fei Li, Jinping Liu, Xu Zhang, Tahir Ahmad, Tongxiang Liang, Thermodynamic description of the Ce–Ga and Ga–Gd systems, Monatsh Chem 150, 1225-1233 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-013-0261-y](https://doi.org/10.1007/s11669-013-0261-y) Mohamed Idbenali, Colette Servant, M’barek Feddaoui, Thermodynamic Description of the Ce-Ga Binary System, J. Phase Equilib. Diffus. 34, 467-473 (2013).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(79)90170-x](https://doi.org/10.1016/0022-5088%2879%2990170-x) S.P Yatsenko, A.A Semyannikov, B.G Semenov, K.A Chuntonov, Phase diagrams of rare earth metals with gallium, Journal of the Less Common Metals 64, 185-199 (1979).  
 _cited as the source of values for this phase_
 

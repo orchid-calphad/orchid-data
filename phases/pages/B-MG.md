@@ -13,7 +13,7 @@ Table: Phases of the B–Mg system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BETA_RHOMBO_B](#phase-b-mg-b-beta-rhombo); _phase:b-mg:b-beta-rhombo_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2351.38 K, x(B) 1–1 | 0 | 2 |
-| [BCC_A2](#phase-b-mg-bcc-a2); _phase:b-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 1 | 2 |
+| [BCC_A2](#phase-b-mg-bcc-a2); _phase:b-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [MB2_C32](#phase-b-mg-c32-mb2); _phase:b-mg:c32-mb2_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1979.09 K, x(B) 0.66667–0.66667 | 27 | 2 |
 | [FCC_A1](#phase-b-mg-fcc-a1); _phase:b-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [GAS](#phase-b-mg-gas); _phase:b-mg:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1367.63–4000 K, x(B) 0–0.52475 | 4 | 2 |
@@ -30,6 +30,7 @@ Table: Phases of the B–Mg system (10)
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — MgB-01Liu-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — MgB-05Bal.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2351.38 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mg:b-beta-rhombo)
@@ -67,11 +68,10 @@ _assessment that models this phase_
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Mg 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mg:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:b-mg:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(01)00050-5:β-rho  
+Names (3): _corpus: _corpus:phase:b-mg:bcc-a2  
 _tdb: _tdb:MgB-01Liu-LB.tdb:BCC_A2, tdb:MgB-05Bal.tdb:BCC_A2  
 
 
@@ -93,9 +93,9 @@ _tdb: _tdb:MgB-01Liu-LB.tdb:BCC_A2, tdb:MgB-05Bal.tdb:BCC_A2
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/S0364-5916(01)00050-5](https://doi.org/10.1016/S0364-5916%2801%2900050-5) Z.-K. Liu, Y. Zhong, D.G. Schlom, X.X. Xi, Q. Li, Calphad, 25, 299-303(2001).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jpcs.2004.06.063](https://doi.org/10.1016/j.jpcs.2004.06.063) G. Balducci, S. Brutti, A. Ciccioli, G. Gigli, P. Manfrinetti, A. Palenzona et al., Thermodynamics of the intermediate phases in the Mg–B system, Journal of Physics and Chemistry of Solids 66, 292-297 (2005).  
+_assessment that models this phase_
+- [doi:10.1016/S0364-5916(01)00050-5](https://doi.org/10.1016/S0364-5916%2801%2900050-5) Z.-K. Liu, Y. Zhong, D.G. Schlom, X.X. Xi, Q. Li, Calphad, 25, 299-303(2001).  
 _assessment that models this phase_
 
 ## MB2_C32 (B–Mg)

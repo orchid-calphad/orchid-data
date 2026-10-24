@@ -1,10 +1,10 @@
 # Lu–Pb phases
 
-> Lu–Pb system: 10 phases (tier A 4, tier C 2, liquid 1, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Lu–Pb system: 10 phases (tier A 4, tier C 2, liquid 2, needs_review 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LU-PB.html · Markdown: https://data.orchid-project.org/phases/pages/LU-PB.md
 
-10 phases (tier A 4, tier C 2, liquid 1, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 4, tier C 2, liquid 2, needs_review 2); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LU-PB) · [full JSON](https://data.orchid-project.org/phases/systems/LU-PB.json) · [Lu–Pb system page](https://data.orchid-project.org/systems/LU-PB.html) · [Markdown](https://data.orchid-project.org/phases/pages/LU-PB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -12,9 +12,9 @@ Table: Phases of the Lu–Pb system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ASSOCI](#phase-lu-pb-associ); _phase:lu-pb:associ_ |  | unresolved_no_candidates | not stable in 1 calculated diagram(s) | 0 | 1 |
+| [ASSOCI](#phase-lu-pb-associ); _phase:lu-pb:associ_ | liquid | liquid | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [BCC_A2](#phase-lu-pb-bcc-a2); _phase:lu-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [FCC_A1](#phase-lu-pb-fcc-a1); _phase:lu-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.36 K, x(Pb) 1–1 | 4 | 2 |
+| [FCC_A1](#phase-lu-pb-fcc-a1); _phase:lu-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.36 K, x(Pb) 1–1 | 2 | 2 |
 | [HCP_A3](#phase-lu-pb-hcp-a3); _phase:lu-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1983.38 K, x(Pb) 0–0.01182 | 4 | 2 |
 | [LIQUID](#phase-lu-pb-liquid); _phase:lu-pb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 595.96–2500 K, x(Pb) 0–1 | 28 | 2 |
 | [LU5PB3_D88](#phase-lu-pb-lu5pb3-d88); _phase:lu-pb:lu5pb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1967.22 K, x(Pb) 0.375–0.375 | 14 | 2 |
@@ -25,8 +25,8 @@ Table: Phases of the Lu–Pb system (10)
 
 ## ASSOCI (Lu–Pb)
 
-- Id: `phase:lu-pb:associ`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:ASSOCI; no_structure_token
+- Id: `phase:lu-pb:associ`; status `assigned`
+- Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:lu-pb:associ)
@@ -90,11 +90,11 @@ _assessment that models this phase_
 - Id: `phase:lu-pb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.36 K, x(Pb) 1–1
-- Literature: 4 values (4 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:lu-pb:fcc-a1)
 
-Names (5): _corpus: _corpus:phase:lu-pb:fcc-a1  
-_paper: _paper:10.1007/s10973-011-1881-2:(pb), paper:10.1016/j.calphad.2013.01.007:(Pb)  
+Names (4): _corpus: _corpus:phase:lu-pb:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2013.01.007:(Pb)  
 _tdb: _tdb:LuPb-12Idd.tdb:FCC_A1, tdb:LuPb-13Wan.tdb:FCC_A1  
 
 
@@ -116,10 +116,10 @@ _tdb: _tdb:LuPb-12Idd.tdb:FCC_A1, tdb:LuPb-13Wan.tdb:FCC_A1
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1007/s10973-011-1881-2](https://doi.org/10.1007/s10973-011-1881-2) A. Iddaoudi, N. Selhaoui, M. Ait Amar, K. Mahdouk, A. Aharoune, L. Bouirden, Thermodynamic description of the Lu–Pb binary system, J Therm Anal Calorim 110, 923-928 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.01.007](https://doi.org/10.1016/j.calphad.2013.01.007) D. Wang, Y. Yu, X.J. Liu, C.P. Wang, Thermodynamic assessment of the Eu–Pb and Lu–Pb systems, Calphad 41, 20-25 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s10973-011-1881-2](https://doi.org/10.1007/s10973-011-1881-2) A. Iddaoudi, N. Selhaoui, M. Ait Amar, K. Mahdouk, A. Aharoune, L. Bouirden, Thermodynamic description of the Lu–Pb binary system, J Therm Anal Calorim 110, 923-928 (2012).  
+_assessment that models this phase_
 - [doi:10.1016/0022-5088(69)90179-9](https://doi.org/10.1016/0022-5088%2869%2990179-9) O.D. McMasters, K.A. Gschneidner, The lutetium-lead system, Journal of the Less Common Metals 19, 337-344 (1969).  
 _cited as the source of values for this phase_
 

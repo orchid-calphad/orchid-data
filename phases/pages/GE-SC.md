@@ -12,7 +12,7 @@ Table: Phases of the Ge–Sc system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-sc-a4-diamond); _phase:ge-sc:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Sc) 0–0 | 19 | 1 |
+| [DIAMOND_A4](#phase-ge-sc-a4-diamond); _phase:ge-sc:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Sc) 0–0 | 3 | 1 |
 | [BCC_A2](#phase-ge-sc-bcc-a2); _phase:ge-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1599.3–2109 K, x(Sc) 0.97735–1 | 4 | 1 |
 | [FCC_A1](#phase-ge-sc-fcc-a1); _phase:ge-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GE10SC11](#phase-ge-sc-ge10sc11); _phase:ge-sc:ge10sc11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1939.04 K, x(Sc) 0.52381–0.52381 | 5 | 1 |
@@ -29,11 +29,11 @@ Table: Phases of the Ge–Sc system (10)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Sc) 0–0
-- Literature: 19 values (19 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-sc:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:ge-sc:a4-diamond, corpus:phase:ge-sc:diamond-a4  
-_paper: _paper:10.1016/j.calphad.2011.12.010:(Ge), paper:10.1016/j.calphad.2011.12.010:(αSc)  
+Names (4): _corpus: _corpus:phase:ge-sc:a4-diamond, corpus:phase:ge-sc:diamond-a4  
+_paper: _paper:10.1016/j.calphad.2011.12.010:(Ge)  
 _tdb: _tdb:GeSc-12Che.tdb:DIAMOND_A4  
 
 
@@ -46,13 +46,11 @@ _tdb: _tdb:GeSc-12Che.tdb:DIAMOND_A4
 41: CONST DIAMOND_A4 : GE : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.12.010](https://doi.org/10.1016/j.calphad.2011.12.010) Kaiming Cheng, Biao Hu, Yong Du, Honghui Xu, Qiannan Gao, Thermodynamic modeling of the Ge–Sc system supported by key experiments and first-principles calculation, Calphad 37, 18-24 (2012).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02869862](https://doi.org/10.1007/bf02869862) A.B. Gokhale, G.J. Abbschian, Bull. Alloy Phase Diagrams 7 (1986) 540–543.  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02868307](https://doi.org/10.1007/bf02868307) H. W. King, Crystal structures of the elements at 25°C, Bulletin of Alloy Phase Diagrams 2, 401-402 (1981).  
 _cited as the source of values for this phase_
 
 ## BCC_A2 (Ge–Sc)

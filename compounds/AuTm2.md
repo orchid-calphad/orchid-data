@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuTm2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -63.921 kJ/mol-atom (mp-aaackivy); OQMD -64.161 kJ/mol-atom (oqmd-1800555).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of AuTm2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -70 kJ/mol-atom | AuTm2 | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 38 |  |
-| -65.5 kJ/mol-atom | AuTm2 | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 37 |  |
+| -70 kJ/mol-atom | AuTm2 | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 38 |  |
+| -65.5 kJ/mol-atom | AuTm2 | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 37 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of AuTm2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -70 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -65.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

@@ -1,12 +1,25 @@
 # Al–Pu system
 
-> Al–Pu system: 0 accepted literature values (none) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Pu system: 26 accepted literature values (heat capacity / entropy / enthalpy 19, formation 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-PU.html · Markdown: https://data.orchid-project.org/systems/AL-PU.md
 
-0 accepted literature values from 0 paper(s); 3 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (model 26); 3 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PU.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-PU.json) · [CSV](https://data.orchid-project.org/systems/AL-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-PU/AlPu-04Tur.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-PU.html) · [Markdown](https://data.orchid-project.org/systems/AL-PU.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| model | 26 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 7 |
+| heat capacity / entropy / enthalpy | 19 |
 
 ## Calculated phase diagrams
 
@@ -98,17 +111,86 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-PU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-PU.json) · [CALPHAD hull AlPu-04Tur](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-PU--AlPu-04Tur.json) · [CALPHAD hull AlPu-10Sed](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-PU--AlPu-10Sed.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–Pu system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| PuAl2 |  | -159.2 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| PuAl3-3H |  | -169.1 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| PuAl3-6H |  | -172.4 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
+| PuAl3-9H |  | -174.3 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
+| PuAl4 |  | -154.7 kJ/mol (basis unstated) |  | model |  |  | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
+
+## Other properties
+
+### Formation (2)
+
+Table: Formation, Al–Pu system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS°298_ | -1.4 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| Entropy of formation; _printed: ΔfS°298_ | -10.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+
+### Heat capacity / entropy / enthalpy (19)
+
+Table: Heat capacity / entropy / enthalpy, Al–Pu system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298 (ph.)_ | 105.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| Entropy; _printed: S°298 (el.)_ | 4.3 J/mol (basis unstated)/K | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| Entropy; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Entropy; _printed: S°298 (ph.)_ | 122.4 J/mol (basis unstated)/K | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Entropy; _printed: S°298 (el.)_ | 4.8 J/mol (basis unstated)/K | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
+| Entropy; _printed: S°298 (el.)_ | 5 J/mol (basis unstated)/K | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
+| Entropy; _printed: S°298 (el.)_ | 6.5 J/mol (basis unstated)/K | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.1 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.64 kJ mol^-1 | 298.15 | PuAl2; _alloy: Pu 0.333333_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 3 |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.97 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 32 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.97 kJ mol^-1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Heat content; _printed: H°298 − H°0 (ph.)_ | 32 kJ mol−1 | 298.15 | PuAl3-3H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 6 |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.71 kJ mol−1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.71 kJ mol^-1 | 298.15 | PuAl3-6H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 7 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.75 kJ mol^-1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.75 kJ mol−1 | 298.15 | PuAl3-9H; _alloy: Pu 0.25_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 8 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.98 kJ mol^-1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 0.98 kJ mol−1 | 298.15 | PuAl4; _alloy: Pu 0.2_ | model | [1] Sedmidubský 2010 | Table 2, p. 3, row 11 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. D. Sedmidubský, R.J.M. Konings, P. Souček, Ab-initio calculations and phase diagram assessments of An–Al systems (An= U, Np, Pu), Journal of Nuclear Materials 397, 1-7 (2010). [doi:10.1016/j.jnucmat.2009.11.023](https://doi.org/10.1016/j.jnucmat.2009.11.023)
+
 ## Please cite
 
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
 - R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
   title     = {{ORCHID calculated binary phase diagrams}},

@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/FeZr2.html · Markdown: https://data.orchid-project.org/compounds/FeZr2.md
 
-12 accepted literature formation-enthalpy value(s) (model 8, DFT 4); Materials Project -13.424 kJ/mol-atom (mp-aaaaabsp); OQMD -13.55 kJ/mol-atom (oqmd-30271).
+12 accepted literature formation-enthalpy value(s) (model 7, DFT 5); Materials Project -13.424 kJ/mol-atom (mp-aaaaabsp); OQMD -13.55 kJ/mol-atom (oqmd-30271).
 
-Systems: [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) · [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
+Systems: [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
@@ -21,11 +21,11 @@ Table: Enthalpy of formation of FeZr2 reported in the literature (12)
 | -20 kJ/mol-atom | FeZr2 |  | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 36 |  |
 | -17.6167 kJ/mol-atom | FeZr2 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 18 |  |
 | -17.6 kJ/mol-atom | FeZr2 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 26 |  |
-| -13.51 kJ/mol (basis unstated) | FeZr2 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 42 |  |
-| -16.88 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 41 |  |
-| 8.86 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 43 |  |
-| 26.3 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 39 |  |
-| 28.13 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 40 |  |
+| -16.88 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 41 |  |
+| -13.51 kJ/mol (basis unstated) | FeZr2 | 0 | DFT |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 42 |  |
+| 8.86 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 43 |  |
+| 26.3 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 39 |  |
+| 28.13 kJ/mol (basis unstated) | FeZr2 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 40 |  |
 
 ### Uncertainty budget
 
@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of FeZr2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -27 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20.44 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.6167 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.51 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.88 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 8.86 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 26.3 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 28.13 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -27 | kJ/mol-atom |  | 1.667e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -27 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20.44 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20 | kJ/mol-atom |  | 1.667e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.6167 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.88 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| -13.51 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 8.86 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 26.3 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 28.13 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
 
 ## DFT formation energies
 
@@ -56,8 +56,8 @@ Table: DFT formation energy of FeZr2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaabsp | -13.424 | -0.139135 | I4/mcm | 0.441 | 0.0046 | no |
-| OQMD | oqmd-30271 | -13.55 | -0.140432 | I4/mcm | 1.229 | 0.0127 | no |
+| Materials Project | mp-aaaaabsp | -13.424 | -0.139135 | I4/mcm | 0.4415 | 0.0046 | no |
+| OQMD | oqmd-30271 | -13.55 | -0.140432 | I4/mcm | 1.2293 | 0.0127 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

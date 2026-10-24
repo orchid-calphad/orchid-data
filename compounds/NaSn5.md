@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/NaSn5.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html)
+Systems: [Na–Sn](https://data.orchid-project.org/systems/NA-SN.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of NaSn5 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -0.36 eV | NaSn5 | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 29 |  |
+| -0.36 eV | NaSn5 | 0 | DFT | DFT | [Na–Sn](https://data.orchid-project.org/systems/NA-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 29 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NaSn5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -0.36 | eV |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -0.36 | eV |  | 0.005 | 0.5269 (dft, calibrated) |  |  |  | 0.5269 |
 
 ## Sources
 

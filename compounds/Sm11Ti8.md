@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sm11Ti8
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 13.0062 | kJ/mol-atom |  | 0.004824 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 13.0062 | kJ/mol-atom |  | 0.004824 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

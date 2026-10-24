@@ -1,10 +1,10 @@
 # Ce–V system
 
-> Ce–V system: 12 accepted literature values (invariant reaction 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–V system: 10 accepted literature values (invariant reaction 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-V.html · Markdown: https://data.orchid-project.org/systems/CE-V.md
 
-12 accepted literature values from 1 paper(s) (model 4, unspecified 8); 1 calculated phase diagram(s).
+10 accepted literature values from 1 paper(s) (model 4, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-V.json) · [CSV](https://data.orchid-project.org/systems/CE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-V/CeV-10Cha.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CE-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-V.html) · [Markdown](https://data.orchid-project.org/systems/CE-V.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 4 |
-| unspecified | 8 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 10 |
 
 ## Calculated phase diagrams
 
@@ -44,7 +44,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ce–V system (12)
+Table: Invariant reactions reported in the literature for the Ce–V system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -55,8 +55,6 @@ Table: Invariant reactions reported in the literature for the Ce–V system (12)
 | 1074.15 | L + V \<-> δCe | L: V 4.000e-5; δCe: V 1.100e-4 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 5 |  |
 | 1072.15 | L + V \<-> δCe | L: V 4.000e-5; V: V 1; δCe: V 1.100e-4 | model | [1] Chan 2010 | Table 2, p. 4, row 6 |  |
 | 999.85 | δCe \<-> V + γCe | δCe: V 0; V: V 1; γCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 9 |  |
-| 999.15 | δCe \<-> V + γCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 8 |  |
-| 978.15 | δCe \<-> V + γCe |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 2, p. 4, row 7 |  |
 | 334.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 2, p. 4, row 10 |  |
 | 283.15 | γCe \<-> V + βCe |  | unspecified | [1] Chan 2010; _cites Gschneidner 1999_ [doi](https://doi.org/10.1361/105497199770340590) | Table 2, p. 4, row 11 |  |
 | 283 | γCe \<-> V + βCe | γCe: V 0; V: V 1; βCe: V 0 | model | [1] Chan 2010 | Table 2, p. 4, row 12 |  |

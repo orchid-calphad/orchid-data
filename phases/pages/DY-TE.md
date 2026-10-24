@@ -14,14 +14,14 @@ Table: Phases of the Dy–Te system (10)
 |---|---|---|---|---:|---:|
 | [HEXAGONAL_A8](#phase-dy-te-a8-hexagonal); _phase:dy-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.63 K, x(Te) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-dy-te-bcc-a2); _phase:dy-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1654.15–1695.11 K, x(Te) 0–0 | 0 | 1 |
-| [DY2TE](#phase-dy-te-dy2te); _phase:dy-te:dy2te_ | Sc2Te · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1244.52 K, x(Te) 0.33333–0.33333 | 0 | 1 |
-| [DY2TE3](#phase-dy-te-dy2te3); _phase:dy-te:dy2te3_ | Sc2S3 · oF80 · Fddd (70) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1837.11 K, x(Te) 0.5714–0.59849 | 0 | 1 |
-| [DY4TE11](#phase-dy-te-dy4te11); _phase:dy-te:dy4te11_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1129.71 K, x(Te) 0.73333–0.73333 | 0 | 1 |
-| [DY4TE7](#phase-dy-te-dy4te7); _phase:dy-te:dy4te7_ | UAs2 · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1495.37 K, x(Te) 0.63636–0.63636 | 0 | 1 |
-| [DY4TE9](#phase-dy-te-dy4te9); _phase:dy-te:dy4te9_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1193.33 K, x(Te) 0.69231–0.69231 | 0 | 1 |
+| [DY2TE](#phase-dy-te-dy2te); _phase:dy-te:dy2te_ | Sc2Te · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1244.52 K, x(Te) 0.33333–0.33333 | 5 | 1 |
+| [DY2TE3](#phase-dy-te-dy2te3); _phase:dy-te:dy2te3_ | Sc2S3 · oF80 · Fddd (70) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1837.11 K, x(Te) 0.5714–0.59849 | 3 | 1 |
+| [DY4TE11](#phase-dy-te-dy4te11); _phase:dy-te:dy4te11_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1129.71 K, x(Te) 0.73333–0.73333 | 4 | 1 |
+| [DY4TE7](#phase-dy-te-dy4te7); _phase:dy-te:dy4te7_ | UAs2 · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1495.37 K, x(Te) 0.63636–0.63636 | 2 | 1 |
+| [DY4TE9](#phase-dy-te-dy4te9); _phase:dy-te:dy4te9_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1193.33 K, x(Te) 0.69231–0.69231 | 3 | 1 |
 | [DYTE_B1](#phase-dy-te-dyte-b1); _phase:dy-te:dyte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2113.43 K, x(Te) 0.5–0.5 | 0 | 1 |
 | [HCP_A3](#phase-dy-te-hcp-a3); _phase:dy-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1654.15 K, x(Te) 0–0 | 0 | 1 |
-| [LIQUID](#phase-dy-te-liquid); _phase:dy-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 722.63–2500 K, x(Te) 0–1 | 0 | 1 |
+| [LIQUID](#phase-dy-te-liquid); _phase:dy-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 722.63–2500 K, x(Te) 0–1 | 1 | 1 |
 
 ## HEXAGONAL_A8 (Dy–Te)
 
@@ -85,10 +85,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Dy 0.6667, Te 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1244.52 K, x(Te) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:dy2te)
 
-Names (2): _corpus: _corpus:phase:dy-te:dy2te  
+Names (3): _corpus: _corpus:phase:dy-te:dy2te  
+_paper: _paper:10.1007/s11669-023-01051-1:Dy2Te  
 _tdb: _tdb:DyTe-23Cui.tdb:DY2TE  
 
 
@@ -104,7 +105,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:DY2TE
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## DY2TE3 (Dy–Te)
 
@@ -113,10 +114,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1837.11 K, x(Te) 0.5714–0.59849
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:dy2te3)
 
-Names (2): _corpus: _corpus:phase:dy-te:dy2te3  
+Names (3): _corpus: _corpus:phase:dy-te:dy2te3  
+_paper: _paper:10.1007/s11669-023-01051-1:Dy2Te3  
 _tdb: _tdb:DyTe-23Cui.tdb:DY2TE3  
 
 
@@ -132,7 +134,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:DY2TE3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## DY4TE11 (Dy–Te)
 
@@ -142,10 +144,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Dy 0.2667, Te 0.7333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1129.71 K, x(Te) 0.73333–0.73333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:dy4te11)
 
-Names (2): _corpus: _corpus:phase:dy-te:dy4te11  
+Names (3): _corpus: _corpus:phase:dy-te:dy4te11  
+_paper: _paper:10.1007/s11669-023-01051-1:Dy4Te11  
 _tdb: _tdb:DyTe-23Cui.tdb:DY4TE11  
 
 
@@ -161,7 +164,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:DY4TE11
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## DY4TE7 (Dy–Te)
 
@@ -171,10 +174,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Dy 0.3636, Te 0.6364
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1495.37 K, x(Te) 0.63636–0.63636
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:dy4te7)
 
-Names (2): _corpus: _corpus:phase:dy-te:dy4te7  
+Names (3): _corpus: _corpus:phase:dy-te:dy4te7  
+_paper: _paper:10.1007/s11669-023-01051-1:Dy4Te7  
 _tdb: _tdb:DyTe-23Cui.tdb:DY4TE7  
 
 
@@ -190,7 +194,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:DY4TE7
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## DY4TE9 (Dy–Te)
 
@@ -200,10 +204,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Dy 0.3077, Te 0.6923
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1193.33 K, x(Te) 0.69231–0.69231
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:dy4te9)
 
-Names (2): _corpus: _corpus:phase:dy-te:dy4te9  
+Names (3): _corpus: _corpus:phase:dy-te:dy4te9  
+_paper: _paper:10.1007/s11669-023-01051-1:Dy4Te9  
 _tdb: _tdb:DyTe-23Cui.tdb:DY4TE9  
 
 
@@ -219,7 +224,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:DY4TE9
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## DYTE_B1 (Dy–Te)
 
@@ -280,10 +285,11 @@ _assessment that models this phase_
 - Id: `phase:dy-te:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 722.63–2500 K, x(Te) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-te:liquid)
 
-Names (2): _corpus: _corpus:phase:dy-te:liquid  
+Names (3): _corpus: _corpus:phase:dy-te:liquid  
+_paper: _paper:10.1007/s11669-023-01051-1:Liquid  
 _tdb: _tdb:DyTe-23Cui.tdb:LIQUID  
 
 
@@ -299,7 +305,7 @@ _tdb: _tdb:DyTe-23Cui.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

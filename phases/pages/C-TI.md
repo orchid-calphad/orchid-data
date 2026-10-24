@@ -1,10 +1,10 @@
 # C–Ti phases
 
-> C–Ti system: 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Ti system: 6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-TI.html · Markdown: https://data.orchid-project.org/phases/pages/C-TI.md
 
-6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-TI) · [full JSON](https://data.orchid-project.org/phases/systems/C-TI.json) · [C–Ti system page](https://data.orchid-project.org/systems/C-TI.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-TI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -15,7 +15,7 @@ Table: Phases of the C–Ti system (6)
 | [DIAMOND_A4](#phase-c-ti-a4-diamond); _phase:c-ti:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [GRAPHITE_A9](#phase-c-ti-a9-graphite); _phase:c-ti:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 5 |
 | [BCC_A2](#phase-c-ti-bcc-a2); _phase:c-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1129.99–1955.98 K, x(C) 0–0.03018 | 8 | 5 |
-| [FCC_A1](#phase-c-ti-fcc-a1); _phase:c-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5 | 25 | 5 |
+| [FCC_A1](#phase-c-ti-fcc-a1); _phase:c-ti:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5 | 31 | 5 |
 | [HCP_A3](#phase-c-ti-hcp-a3); _phase:c-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1220 K, x(C) 0–0.02091 | 4 | 5 |
 | [LIQUID](#phase-c-ti-liquid); _phase:c-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1910–4000 K, x(C) 0–0.80493 | 10 | 5 |
 
@@ -23,6 +23,7 @@ Table: Phases of the C–Ti system (6)
 
 - Id: `phase:c-ti:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 5 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:a4-diamond)
@@ -85,6 +86,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-ti:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:a9-graphite)
@@ -213,13 +215,13 @@ _cited as the source of values for this phase_
 ## FCC_A1 (C–Ti)
 
 - Id: `phase:c-ti:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–3368.23 K, x(C) 0.31029–0.5
-- Literature: 25 values (25 accepted) from 3 papers
+- Literature: 31 values (31 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ti:fcc-a1)
 
-Names (10): _corpus: _corpus:phase:c-ti:fcc-a1  
-_paper: _paper:10.1007/bf02648366:TiC, paper:10.1016/j.calphad.2004.01.004:TiC, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1\*  
+Names (11): _corpus: _corpus:phase:c-ti:fcc-a1  
+_paper: _paper:10.1007/bf02648366:TiC, paper:10.1016/j.calphad.2004.01.004:TiC, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1\*, paper:10.2355/isijinternational.isijint-2019-274:TiC  
 _tdb: _tdb:TiC-03Fri.tdb:FCC_A1, tdb:TiC-95Dus.tdb:FCC_A1, tdb:TiC-96Jon.tdb:FCC_A1, tdb:TiC-96Sei.tdb:FCC_A1, tdb:TiC-99Dum-LB.tdb:FCC_A1  
 
 
@@ -260,7 +262,7 @@ _tdb: _tdb:TiC-03Fri.tdb:FCC_A1, tdb:TiC-95Dus.tdb:FCC_A1, tdb:TiC-96Jon.tdb:FCC
 26: CONST FCC_A1 : TI : C VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/BF02648366](https://doi.org/10.1007/BF02648366) H.J. Seifert, H.L. Lukas, G. Petzow, J. Phase Equilib., 17, 24-35(1996).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -272,6 +274,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900712](https://doi.org/10.1515/ijmr-1999-900712) L.F.S. Dumitrescu, M. Hillert, B. Sundman, Z. Metallkd., 90, 534-41(1999).  
 _assessment that models this phase_
+- [doi:10.2355/isijinternational.isijint-2019-274](https://doi.org/10.2355/isijinternational.isijint-2019-274) Michitoshi Saeki, Takako Yamashita, Hiroshi Ohtani, Thermodynamic Study on Solubility Products of Ti&lt;sub&gt;4&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;2&lt;/sub&gt; in Fe Using First-Principles Calculations, ISIJ Int. 60, 745-755 (2020).  
+_reports values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 - [doi:10.21236/ada470307](https://doi.org/10.21236/ada470307) Erwin Rudy, Austin Y. Chang, Stefan Windisch, Ternary Phase Equilibria in Transition Metal-Boron-Carbon-Silicon Systems. Part 1. Related Binary Systems. Volume 1. Mo-C System, (1965).  

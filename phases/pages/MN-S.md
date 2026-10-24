@@ -389,6 +389,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — MnS-00Oht.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — MnS-15Dil.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — MnS-98Mie.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-s:s-monoclinic)
@@ -437,6 +438,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — MnS-00Oht.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — MnS-15Dil.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — MnS-98Mie.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
+- Stoichiometry: S 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2500 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-s:s-orthorhombic)

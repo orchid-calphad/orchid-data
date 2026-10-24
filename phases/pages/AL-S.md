@@ -15,7 +15,7 @@ Table: Phases of the Al–S system (9)
 | [ORTHORHOMBIC_A16](#phase-al-s-a16-orthorhombic); _phase:al-s:a16-orthorhombic_ | alpha-S · A16 · oF128 · Fddd (70) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–384.34 K, x(S) 1–1 | 0 | 1 |
 | [AL2S3_ALPHA](#phase-al-s-al2s3-alpha); _phase:al-s:al2s3-alpha_ | Al2S3-alpha · hP30 · P6_1 (169) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1273.69 K, x(S) 0.6–0.6 | 6 | 1 |
 | [AL2S3_D51](#phase-al-s-al2s3-d51); _phase:al-s:al2s3-d51_ | alpha-Al2O3 · D5_1 · hR10 · R-3c (167) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1273.69–1363.53 K, x(S) 0.6–0.6 | 9 | 1 |
-| [ALS](#phase-al-s-als); _phase:al-s:als_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1284.46–1332.74 K, x(S) 0.5–0.5 | 9 | 1 |
+| [ALS](#phase-al-s-als); _phase:al-s:als_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1284.46–1332.74 K, x(S) 0.5–0.5 | 10 | 1 |
 | [BCC_A2](#phase-al-s-bcc-a2); _phase:al-s:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 4 | 1 |
 | [FCC_A1](#phase-al-s-fcc-a1); _phase:al-s:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–933.47 K, x(S) 0–0 | 2 | 1 |
 | [HCP_A3](#phase-al-s-hcp-a3); _phase:al-s:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -26,6 +26,7 @@ Table: Phases of the Al–S system (9)
 
 - Id: `phase:al-s:a16-orthorhombic`; status `assigned`
 - Structure: alpha-S · A16 · oF128 · Fddd (70); type `st:a16-alpha-s-of128`; tier A: standard phase name; confidence high
+- Stoichiometry: S 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–384.34 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-s:a16-orthorhombic)
@@ -59,8 +60,8 @@ _assessment that models this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-s:al2s3-alpha)
 
-Names (4): _corpus: _corpus:phase:al-s:al2s3-alpha  
-_paper: _paper:10.1007/s11669-019-00733-z:(αS), paper:10.1007/s11669-019-00733-z:αAl2S3  
+Names (3): _corpus: _corpus:phase:al-s:al2s3-alpha  
+_paper: _paper:10.1007/s11669-019-00733-z:αAl2S3  
 _tdb: _tdb:AlS-19Shi.tdb:AL2S3_ALPHA  
 
 
@@ -118,7 +119,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (AlS) — Hallstedt 2025 mmc2 row for ALS: AlS
 - Stoichiometry: Al 0.5000, S 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 1284.46–1332.74 K, x(S) 0.5–0.5
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-s:als)
 
 Names (3): _corpus: _corpus:phase:al-s:als  
@@ -260,6 +261,7 @@ _cited as the source of values for this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:MONOCLINIC; no_structure_token
 - Candidate (sgte_mmc2): beta-S · mP48 · P2_1/c (14) — Hallstedt 2025 mmc2 row for MONOCLINIC_S: beta-S
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — AlS-19Shi.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-s:s-monoclinic)

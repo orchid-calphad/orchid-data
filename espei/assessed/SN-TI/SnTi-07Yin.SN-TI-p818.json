@@ -6,10 +6,8 @@
  ],
  "phases": [
   "BCC_A2",
-  "BCT_A5",
   "HCP_A3",
   "LIQUID",
-  "SN3TI2",
   "SN3TI5_D88",
   "SNTI2_B82",
   "SNTI3_D019"
@@ -17,14 +15,12 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   391.5409757,
    947.5409757,
    1040.540976,
    686.0409757,
    737.5409757,
    1226.540976,
    1365.040976,
-   754.0409757,
    1693.040976,
    1537.540976,
    1482.540976,
@@ -36,35 +32,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "BCT_A5",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "SN3TI2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.1996213477
-    ]
-   ]
-  ],
   [
    [
     "SN3TI5_D88",
@@ -182,35 +149,6 @@
     ],
     [
      0.7566743988
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "SN3TI2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.213134764
     ]
    ]
   ],
@@ -393,14 +331,12 @@
   "diagram": "SN-TI-p818",
   "target_tdb": "SnTi-07Yin.tdb",
   "record_ids": [
-   "aspa-05ed3438d68f5166",
    "aspa-a5c66b5db5603740",
    "aspa-18c2fdea8410371a",
    "aspa-3e118e5f5dfa21b5",
    "aspa-4a3ab8f8baeb6ea9",
    "aspa-5ce5cc36c6a707c4",
    "aspa-91fda8b83debf0c5",
-   "aspa-270524ad1a44fc7f",
    "aspa-62ff50d87a00c018",
    "aspa-1a014663b904a1c3",
    "aspa-cd0b2bfddf9f4b5d",
@@ -410,12 +346,10 @@
    "aspa-b353d6272c261dee"
   ],
   "confidence": [
-   "high",
    "medium",
    "high",
    "high",
    "high",
-   "medium",
    "medium",
    "medium",
    "high",
@@ -426,30 +360,13 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/SN-TI-p818.json"
  },
  "orchid_uncertainty_budget": {
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
-   {
-    "record_id": "aspa-05ed3438d68f5166",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 15.0,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 102.0,
-     "sigma_effective": 15.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.03,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.200199,
-     "sigma_effective": 0.03
-    }
-   },
    {
     "record_id": "aspa-a5c66b5db5603740",
     "temperature_K": {
@@ -549,23 +466,6 @@
      "sigma_reading": 0.000734248,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.00700696,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-270524ad1a44fc7f",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.341,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 244.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000734248,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.186685,
      "sigma_effective": 0.02
     }
    },

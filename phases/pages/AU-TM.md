@@ -12,7 +12,7 @@ Table: Phases of the Au–Tm system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AU10TM7](#phase-au-tm-au10tm7); _phase:au-tm:au10tm7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1625.81 K, x(Tm) 0.41176–0.41176 | 4 | 1 |
+| [AU10TM7](#phase-au-tm-au10tm7); _phase:au-tm:au10tm7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1625.81 K, x(Tm) 0.41176–0.41176 | 7 | 1 |
 | [AU2TM_C11B](#phase-au-tm-au2tm-c11b); _phase:au-tm:au2tm-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1689.8 K, x(Tm) 0.33333–0.33333 | 6 | 1 |
 | [AU3TM_D0A](#phase-au-tm-au3tm-d0a); _phase:au-tm:au3tm-d0a_ | beta-Cu3Ti · D0_a · oP8 · Pmmn (59) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1561.89 K, x(Tm) 0.25–0.25 | 6 | 1 |
 | [AU4TM_D1A](#phase-au-tm-au4tm-d1a); _phase:au-tm:au4tm-d1a_ | MoNi4 · D1_a · tI10 · I4/m (87) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1309.39 K, x(Tm) 0.2–0.2 | 4 | 1 |
@@ -32,7 +32,7 @@ Table: Phases of the Au–Tm system (11)
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.5882, Tm 0.4118
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1625.81 K, x(Tm) 0.41176–0.41176
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tm:au10tm7)
 
 Names (3): _corpus: _corpus:phase:au-tm:au10tm7  

@@ -1,12 +1,24 @@
 # Cd–Ga system
 
-> Cd–Ga system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Ga system: 18 accepted literature values (mixing / partial 18) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-GA.html · Markdown: https://data.orchid-project.org/systems/CD-GA.md
 
-0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+18 accepted literature values from 1 paper(s) (experimental 18); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-GA/CdGa-93Zak-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-GA.html) · [Markdown](https://data.orchid-project.org/systems/CD-GA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-GA.json) · [CSV](https://data.orchid-project.org/systems/CD-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-GA/CdGa-93Zak-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CD-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-GA.html) · [Markdown](https://data.orchid-project.org/systems/CD-GA.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 18 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| mixing / partial | 18 |
 
 ## Calculated phase diagrams
 
@@ -29,17 +41,62 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CD/CD-GA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CD/CD-GA.json)
 
+## Other properties
+
+### Mixing / partial (18)
+
+Table: Mixing / partial, Cd–Ga system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔH_ | 2.072 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.541 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 10 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.065 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 20 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.521 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.4, Ga 0.6_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 31 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24641, Ga 0.75359_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 1 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24678, Ga 0.75322_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.385 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.33181, Ga 0.66819_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 20 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 52 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 72 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 42 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1755, Ga 0.8245_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 6 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.41662, Ga 0.58338_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 36 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.2465, Ga 0.7535_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 16 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 62 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.33273, Ga 0.66727_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 26 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.916 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 35 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.343 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 28 |  |
+| Enthalpy of mixing; _printed: ΔH_ | 2.357 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 44 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. W. Zakulski, Z. Moser, K. Rzyman, H. L. Lukas, S. G. Fries, M. Sukiennik et al., Thermodynamic studies and phase diagrams of the Cd-Ga-In system, JPE 14, 184-196 (1993). [doi:10.1007/bf02667807](https://doi.org/10.1007/bf02667807)
+
 ## Please cite
 
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
 - R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
   title     = {{ORCHID calculated binary phase diagrams}},

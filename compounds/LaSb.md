@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/LaSb.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1).
 
-Systems: [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html)
+Systems: [La–Sb](https://data.orchid-project.org/systems/LA-SB.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of LaSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -148.197 kJ/mol (basis unstated) | LaSb | 0 | experimental |  | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 7 |  |
-| -130.5 kJ/mol (basis unstated) | LaSb | 0 | experimental |  | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6 |  |
-| -118 kJ/mol (basis unstated) | LaSb | 0 | model | Miedema model | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8 |  |
-| -123.511 kJ/mol (basis unstated) | LaSb | 0 | DFT | first-principles | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
+| -148.197 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 7 |  |
+| -130.5 kJ/mol (basis unstated) | LaSb | 298.15 | experimental |  | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6 |  |
+| -118 kJ/mol (basis unstated) | LaSb | 0 | model | Miedema model | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8 |  |
+| -123.511 kJ/mol (basis unstated) | LaSb | 0 | DFT | first-principles | [La–Sb](https://data.orchid-project.org/systems/LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of LaSb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -148.197 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -130.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -118 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -123.511 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -148.197 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -130.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -118 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -123.511 | kJ/mol (basis unstated) |  | 5.000e-4 | 20.38 (dft, calibrated) |  |  |  | 20.38 |
 
 ## Sources
 

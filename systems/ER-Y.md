@@ -1,10 +1,10 @@
 # Er–Y system
 
-> Er–Y system: 16 accepted literature values (phase transition 12, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Y system: 8 accepted literature values (invariant reaction 4, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-Y.html · Markdown: https://data.orchid-project.org/systems/ER-Y.md
 
-16 accepted literature values from 1 paper(s) (experimental 12, model 4); 1 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 6, model 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-Y.json) · [CSV](https://data.orchid-project.org/systems/ER-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-Y/ErY-10Wan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/ER-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-Y.html) · [Markdown](https://data.orchid-project.org/systems/ER-Y.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 4 |
+| experimental | 6 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 12 |
+| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -53,21 +53,13 @@ Table: Invariant reactions reported in the literature for the Er–Y system (4)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (4)
 
 Table: Phase transition, Er–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 6 |  |
-| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 8 |  |
-| Phase transition | 1751.15 K | 1751.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 7 |  |
-| Phase transition | 1753.15 K | 1753.15 | polymorphic: βY -> αY; _βY: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 5 |  |
 | Phase transition | 1763.15 K | 1763.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 13 |  |
-| Phase transition | 1788.15 K | 1788.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Markova 1964_ | Table 5, p. 4, row 1 |  |
-| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 2 |  |
-| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | model | [1] Wang 2010 | Table 5, p. 4, row 4 |  |
-| Phase transition | 1795.15 K | 1795.15 | congruent melting: L -> βY; _L: Y 1_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 3 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Spedding 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990126-4) | Table 5, p. 4, row 14 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | experimental | [1] Wang 2010; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02880324) | Table 5, p. 4, row 15 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> (Er); _L: Y 0_ | model | [1] Wang 2010 | Table 5, p. 4, row 16 |  |

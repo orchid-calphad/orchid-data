@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi2Te3.html · Markdown: https:/
 
 6 accepted literature formation-enthalpy value(s) (experimental 6); experimental median -16.46 kJ/mol-atom (n = 6); Materials Project -47.208 kJ/mol-atom (mp-aaaabypm); OQMD -22.887 kJ/mol-atom (oqmd-3206).
 
-Systems: [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html)
+Systems: [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Bi2Te3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.8 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 110 |  |
-| -16.903 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Semenkovich 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_27) | Table 3, p. 5, row 108 |  |
-| -16.82 kJ/mol-atom ± 0.67 | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Vecher 1968_ | Table 3, p. 5, row 109 |  |
-| -16.1 kJ/mol-atom ± 1 | Bi2Te3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_26) | Table 3, p. 5, row 107 |  |
-| -15.84 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 112 |  |
-| -15.7 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 106 |  |
+| -39.8 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 110 |  |
+| -16.903 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Semenkovich 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_27) | Table 3, p. 5, row 108 |  |
+| -16.82 kJ/mol-atom ± 0.67 | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Vecher 1968_ | Table 3, p. 5, row 109 |  |
+| -16.1 kJ/mol-atom ± 1 | Bi2Te3 | 298.15 | experimental | Vapour pressure measurements | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Boncheva-Mladenova 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_26) | Table 3, p. 5, row 107 |  |
+| -15.84 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 112 |  |
+| -15.7 kJ/mol-atom | Bi2Te3 | 298.15 | experimental | Calorimetry | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 106 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Bi2Te3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.8 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -16.903 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -16.82 | kJ/mol-atom | 0.67 | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -16.1 | kJ/mol-atom | 1 | 5.000e-4 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -15.84 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -15.7 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -39.8 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -16.903 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -16.82 | kJ/mol-atom | 0.67 | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -16.1 | kJ/mol-atom | 1 | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -15.84 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -15.7 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

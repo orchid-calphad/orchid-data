@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of RuZr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -68.65 | kJ/mol (basis unstated) | 2.5 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -55.8 | kJ/mol (basis unstated) | 2.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -88 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -88 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -55.95 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -55.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -68.7 | kJ/mol (basis unstated) |  | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -68.65 | kJ/mol (basis unstated) | 2.5 | 0.005 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -55.8 | kJ/mol (basis unstated) | 2.3 | 0.05 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -88 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -88 | kJ/mol (basis unstated) |  | 0.5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -61 | kJ/mol (basis unstated) |  | 0.5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -55.95 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -55.8 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -53 | kJ/mol (basis unstated) |  | 0.5 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources
 

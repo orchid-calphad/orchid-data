@@ -1,10 +1,10 @@
 # Mo–N system
 
-> Mo–N system: 41 accepted literature values (formation 40, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–N system: 43 accepted literature values (formation 42, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-N.html · Markdown: https://data.orchid-project.org/systems/MO-N.md
 
-41 accepted literature values from 1 paper(s) (experimental 1, model 28, unspecified 12); 2 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (experimental 1, model 30, unspecified 12); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-N.json) · [CSV](https://data.orchid-project.org/systems/MO-N.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-N) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-N/MoN-23Dac.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MO-N.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-N.html) · [Markdown](https://data.orchid-project.org/systems/MO-N.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 28 |
+| model | 30 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| formation | 40 |
+| formation | 42 |
 
 ## Calculated phase diagrams
 
@@ -53,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–N system (40)
+Table: Enthalpies of formation, Mo–N system (41)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -67,6 +67,7 @@ Table: Enthalpies of formation, Mo–N system (40)
 | Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -22.079 kJ/mol-atom | 0 | model | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 5 |  |
 | Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -21.1081 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
 | Mo2N-gamma | [Mo2N](https://data.orchid-project.org/compounds/Mo2N.html) | -21.108 kJ/mol-atom | 0 | unspecified | -34.8 (mp-aaaabpjd) | -32.521 (oqmd-2032475) | [1] Daclan 2023 | Table 2, p. 6, row 4 |  |
+| MoN | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -24.5 kJ/mol-atom | 298.15 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [2] Frisk 1991 | Table I, p. 6, row 9 |  |
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -53.7423 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -53.742 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites JARVIS 2020_ | Table 2, p. 6, row 10 |  |
 | MoN-delta | [MoN](https://data.orchid-project.org/compounds/MoN.html) | -51.8126 kJ/mol-atom | 0 | model | -52.788 (mp-aaaaaeed) | -45.43 (oqmd-19511) | [1] Daclan 2023; _cites Materials 2019_ | Table 2, p. 6, row 8 |  |
@@ -108,11 +109,20 @@ Table: Phase transition, Mo–N system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2133 K | 2133 | Liquid = BCC_A2 + Mo2Ngamma | experimental | [1] Daclan 2023; _cites Jehn 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990073-5) | p. 2 | “The reaction takes place at 2133 K and the following compositions: 0.0108, 0.19, 0.27 mole fraction of N were reported for BCC_A2, liquid, and Mo2N_gamma phases, respectively.” |
 
+### Formation (1)
+
+Table: Formation, Mo–N system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: Entropy of Formation_ | -24.3 J/mol-atom/K | 298.15 | MoN; _alloy: Mo 0.5, N 0.5_ | model | [2] Frisk 1991 | Table I, p. 6, row 12 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. R.A. Daclan, M.G. Mena, M.R. Vasquez, W. Gierlotka, Ab-initio combined the Calphad approach to the phase equilibria in the ternary Ti-Mo-N system, J min metall B Metall 59, 125-136 (2023). [doi:10.2298/jmmb210330011d](https://doi.org/10.2298/jmmb210330011d)
+2. Karin Frisk, A thermodynamic evaluation of the Cr-N, Fe-N, Mo-N and Cr-Mo-N systems, Calphad 15, 79-106 (1991). [doi:10.1016/0364-5916(91)90028-i](https://doi.org/10.1016/0364-5916%2891%2990028-i)
 
 ## Please cite
 

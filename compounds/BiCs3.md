@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BiCs3.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 2); experimental median -43.5 kJ/mol-atom (n = 1); Materials Project -27.378 kJ/mol-atom (mp-aaabkdyz); OQMD -33.261 kJ/mol-atom (oqmd-1521866).
 
-Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
+Systems: [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of BiCs3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.5 kJ/mol-atom | BiCs3 | 298.15 | experimental | EMF | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 12 |  |
-| -32.568 kJ/mol-atom | BiCs3 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 15 |  |
-| -44.202 kJ/mol-atom | BiCs3 | 0 | DFT | LDA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 14 |  |
-| -31.394 kJ/mol-atom | BiCs3 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 13 |  |
+| -43.5 kJ/mol-atom | BiCs3 | 298.15 | experimental | EMF | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 12 |  |
+| -32.568 kJ/mol-atom | BiCs3 |  | model | CALPHAD | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 15 |  |
+| -44.202 kJ/mol-atom | BiCs3 | 0 | DFT | LDA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 14 |  |
+| -31.394 kJ/mol-atom | BiCs3 | 0 | DFT | GGA | [Bi–Cs](https://data.orchid-project.org/systems/BI-CS.html) | [1] Djaballah 2015 | Table 2, p. 4, row 13 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of BiCs3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.5 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -32.568 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -44.202 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -31.394 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -43.5 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -32.568 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -44.202 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -31.394 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of BiCs3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabkdyz | -27.378 | -0.283757 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1521866 | -33.261 | -0.34473 | P63/mmc | 0.286 | 0.003 | yes |
+| OQMD | oqmd-1521866 | -33.261 | -0.34473 | P63/mmc | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

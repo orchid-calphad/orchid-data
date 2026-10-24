@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of LiO
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -158.155 | kJ/mol-atom |  | 0.00125 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -151.475 | kJ/mol-atom |  | 0.0125 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -161.07 | kJ/mol-atom |  | 0.00125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -158.155 | kJ/mol-atom | 2.1 | 0.00125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -161.07 | kJ/mol-atom |  | 0.00125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -158.155 | kJ/mol-atom | 2.1 | 0.00125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

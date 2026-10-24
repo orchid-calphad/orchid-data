@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuSn2.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -12.827 kJ/mol-atom (mp-aaaaaceg); OQMD -18.403 kJ/mol-atom (oqmd-10801).
 
-Systems: [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) · [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
+Systems: [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AuSn2 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.38 kJ/mol (basis unstated) | AuSn2 | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 8 |  |
+| -13.38 kJ/mol (basis unstated) | AuSn2 | 10 | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 8 |  |
 | -13.38 kJ/mol-atom | AuSn2 |  | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [2] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 5 |  |
-| -13.1 kJ/mol (basis unstated) | AuSn2 | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 7 |  |
+| -13.1 kJ/mol (basis unstated) | AuSn2 | 0 | DFT |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 7 |  |
 | -13.1 kJ/mol-atom | AuSn2 | 0 | DFT | ab initio | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [2] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 4 |  |
 
 ### Uncertainty budget
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of AuSn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13.38 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.38 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -13.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -13.38 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -13.38 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.1 | kJ/mol (basis unstated) |  | 0.05 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
+| -13.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

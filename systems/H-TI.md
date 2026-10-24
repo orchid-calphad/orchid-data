@@ -1,10 +1,10 @@
 # H–Ti system
 
-> H–Ti system: 35 accepted literature values (formation 14, invariant reaction 10, heat capacity / entropy / enthalpy 9, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ti system: 88 accepted literature values (crystal structure 42, formation 25, invariant reaction 10, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-TI.html · Markdown: https://data.orchid-project.org/systems/H-TI.md
 
-35 accepted literature values from 3 paper(s) (experimental 9, model 15, unspecified 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+88 accepted literature values from 4 paper(s) (experimental 9, model 27, DFT 41, unspecified 11); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-TI.json) · [CSV](https://data.orchid-project.org/systems/H-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-TI) · [phases (7)](https://data.orchid-project.org/phases/pages/H-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-TI.html) · [Markdown](https://data.orchid-project.org/systems/H-TI.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 15 |
+| model | 27 |
+| DFT | 41 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
@@ -22,8 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase transition | 2 |
-| formation | 14 |
+| formation | 25 |
 | heat capacity / entropy / enthalpy | 9 |
+| crystal structure | 42 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-TI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-TI.json) · [CALPHAD hull TiH-00Koe](https://data.orchid-project.org/hulls/calphad-sgte/H/H-TI--TiH-00Koe.json) · [CALPHAD hull TiH-07Uki](https://data.orchid-project.org/hulls/calphad-sgte/H/H-TI--TiH-07Uki.json) · [CALPHAD hull TiH-08Qiu](https://data.orchid-project.org/hulls/calphad-sgte/H/H-TI--TiH-08Qiu.json) · [CALPHAD hull TiH-87Kiv](https://data.orchid-project.org/hulls/calphad-sgte/H/H-TI--TiH-87Kiv.json)
 
@@ -48,7 +50,7 @@ Table: Invariant reactions reported in the literature for the H–Ti system (10)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, H–Ti system (12)
+Table: Enthalpies of formation, H–Ti system (23)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -64,6 +66,17 @@ Table: Enthalpies of formation, H–Ti system (12)
 | TiH2 |  | -134 kJ/mol (basis unstated) |  | unspecified |  |  | [1] Wang 2010; _cites Shusuke 2007_ | Table 3, p. 4, row 8 |  |
 | TiH2 |  | -133.2 kJ/mol (basis unstated) |  | model |  |  | [2] Königsberger 2000 | Table 2, p. 2, row 9 |  |
 | TiH2 |  | -129 kJ/mol (basis unstated) |  | model |  |  | [1] Wang 2010; _cites Kivilahti 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990014-9) | Table 3, p. 4, row 6 |  |
+| α |  | -28.63 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 39 |  |
+| α |  | -11.99 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 36 |  |
+| α |  | 2.524 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 44 |  |
+| β |  | -46.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 48 |  |
+| β |  | -36.3 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 47 |  |
+| β |  | -26.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 49 |  |
+| β |  | -16.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 46 |  |
+| β |  | 1.3 kJ/mol (basis unstated) |  | DFT |  |  | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| γ-TiH |  | -35.66 kJ/mol (basis unstated) |  | model |  |  | [3] Ukita 2007 | Table 2, p. 5, row 1 |  |
+| δ-TiH2 |  | -47.1 kJ/mol (basis unstated) |  | model |  |  | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
+| ε-TiH2 |  | -47.3 kJ/mol (basis unstated) |  | model |  |  | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
 
 ## Other properties
 
@@ -73,8 +86,8 @@ Table: Phase transition, H–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 573.15 K | 573.15 | bcc -> hcp + fcc | experimental | [3] Kivilahti 1987 | p. 1 | “At the temperature of about 300 'C the bee (8) phase containing 38 at% hydrogen decomposes into the hcp (a) phase and fee (y) conjugate solution phases, the equilibrium compositions of which were estimated to be approximately 8 and 47 at%, respectively.” |
-| Phase transition | 1155 K | 1155 |  | experimental | [3] Kivilahti 1987 | p. 6 | “Using the equation oGbcc + 2.010-3T2 - 1.367\*10-73f400T-'(9) Ti - 'GFcp= 6082 - 4.902T - 0.35trTlnT for the difference between the chemical potentials of the bee and hcp titanium (281, being based also on recent experimental heat capacity and enthalpy data, and the above functions the o and 13solvi can be calculated near the transformation temperature (1155 K) of pure titanium.” |
+| Phase transition | 573.15 K | 573.15 | bcc -> hcp + fcc | experimental | [4] Kivilahti 1987 | p. 1 | “At the temperature of about 300 'C the bee (8) phase containing 38 at% hydrogen decomposes into the hcp (a) phase and fee (y) conjugate solution phases, the equilibrium compositions of which were estimated to be approximately 8 and 47 at%, respectively.” |
+| Phase transition | 1155 K | 1155 |  | experimental | [4] Kivilahti 1987 | p. 6 | “Using the equation oGbcc + 2.010-3T2 - 1.367\*10-73f400T-'(9) Ti - 'GFcp= 6082 - 4.902T - 0.35trTlnT for the difference between the chemical potentials of the bee and hcp titanium (281, being based also on recent experimental heat capacity and enthalpy data, and the above functions the o and 13solvi can be calculated near the transformation temperature (1155 K) of pure titanium.” |
 
 ### Formation (2)
 
@@ -101,13 +114,63 @@ Table: Heat capacity / entropy / enthalpy, H–Ti system
 | Entropy; _printed: ΔSf0(TiH2)_ | -152 J mol-1 K-1 |  | TiH2; _alloy: Ti 0.333333_ | unspecified | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5 |  |
 | Entropy; _printed: ΔSf0(TiH2)_ | -136 J mol-1 K-1 |  | TiH2; _alloy: Ti 0.333333_ | model | [1] Wang 2010; _cites E Konigsberger 2000_ | Table 3, p. 4, row 7 |  |
 
+### Crystal structure (42)
+
+Table: Crystal structure, H–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: lattice parameter a_ | 3.016 Å |  | α; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 39 |  |
+| Lattice a; _printed: lattice parameter a_ | 2.871 Å |  | α; _alloy: H 0.25, Ti 0.75_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 36 |  |
+| Lattice a; _printed: lattice parameter a_ | 6.449 Å |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| Lattice a; _printed: lattice parameter a_ | 3.194 Å |  | β; _alloy: H 0.75, Ti 0.25_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 49 |  |
+| Lattice a; _printed: lattice parameter a_ | 3.684 Å |  | β; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 47 |  |
+| Lattice a; _printed: lattice parameter a_ | 4.214 Å |  | γ-TiH; _alloy: Ti 0.5_ | model | [3] Ukita 2007 | Table 2, p. 5, row 1 |  |
+| Lattice a; _printed: lattice parameter a_ | 4.445 Å |  | δ-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
+| Lattice a; _printed: lattice parameter a_ | 3.202 Å |  | ε-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
+| Lattice b; _printed: lattice parameter b_ | 14.91 Å |  | α; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 39 |  |
+| Lattice b; _printed: lattice parameter b_ | 15.643 Å |  | α; _alloy: H 0.25, Ti 0.75_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 36 |  |
+| Lattice b; _printed: lattice parameter b_ | 3.241 Å |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| Lattice b; _printed: lattice parameter b_ | 5.368 Å |  | β; _alloy: H 0.75, Ti 0.25_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 49 |  |
+| Lattice b; _printed: lattice parameter b_ | 4.551 Å |  | β; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 47 |  |
+| Lattice b; _printed: lattice parameter b_ | 3.234 Å |  | β; _alloy: H 0.333, Ti 0.667_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 46 |  |
+| Lattice b; _printed: b_ | 4.214 Å |  | γ-TiH; _alloy: Ti 0.5_ | model | [3] Ukita 2007 | Table 2, p. 5, row 1 |  |
+| Lattice b; _printed: b_ | 4.445 Å |  | δ-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
+| Lattice b; _printed: b_ | 3.202 Å |  | ε-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
+| Lattice c; _printed: lattice parameter c_ | 4.897 Å |  | α; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 39 |  |
+| Lattice c; _printed: lattice parameter c_ | 5.961 Å |  | α; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 44 |  |
+| Lattice c; _printed: lattice parameter c_ | 4.663 Å |  | α; _alloy: H 0.25, Ti 0.75_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 36 |  |
+| Lattice c; _printed: lattice parameter c_ | 3.153 Å |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| Lattice c; _printed: lattice parameter c_ | 5.507 Å |  | β; _alloy: H 0.75, Ti 0.25_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 49 |  |
+| Lattice c; _printed: lattice parameter c_ | 4.039 Å |  | β; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 48 |  |
+| Lattice c; _printed: lattice parameter c_ | 4.643 Å |  | β; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 47 |  |
+| Lattice c; _printed: c_ | 4.602 Å |  | γ-TiH; _alloy: Ti 0.5_ | model | [3] Ukita 2007 | Table 2, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 4.445 Å |  | δ-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
+| Lattice c; _printed: c_ | 4.279 Å |  | ε-TiH2; _alloy: Ti 0.333333_ | model | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 39 |  |
+| lattice unspecified axis; _printed: γ_ | 120 ° |  | α; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 44 |  |
+| lattice unspecified axis; _printed: lattice parameter a=b_ | 2.927 Å |  | α; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 44 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 44 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | α; _alloy: H 0.25, Ti 0.75_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 36 |  |
+| lattice unspecified axis; _printed: γ_ | 76.96 ° |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| lattice unspecified axis; _printed: α_ | 118.76 ° |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| lattice unspecified axis; _printed: β_ | 90.57 ° |  | β; _alloy: H 0.8, Ti 0.2_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 50 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.75, Ti 0.25_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 49 |  |
+| lattice unspecified axis; _printed: lattice parameter a=b_ | 3.232 Å |  | β; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 48 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.667, Ti 0.333_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 48 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.5, Ti 0.5_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 47 |  |
+| lattice unspecified axis; _printed: lattice parameter a=c_ | 4.763 Å |  | β; _alloy: H 0.333, Ti 0.667_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 46 |  |
+| lattice unspecified axis; _printed: α_ | 90 ° |  | β; _alloy: H 0.333, Ti 0.667_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 46 |  |
+| lattice unspecified axis; _printed: β_ | 95.1 ° |  | β; _alloy: H 0.333, Ti 0.667_ | DFT | [3] Ukita 2007 | Table 1, p. 4, row 46 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Kun Wang, Xiangcheng Kong, Junlin Du, Chonghe Li, Zhilin Li, Zhu Wu, Thermodynamic description of the Ti–H system, Calphad 34, 317-323 (2010). [doi:10.1016/j.calphad.2010.07.001](https://doi.org/10.1016/j.calphad.2010.07.001)
 2. E. Königsberger, G. Eriksson, W.A. Oates, Optimisation of the thermodynamic properties of the Ti–H and Zr–H systems, Journal of Alloys and Compounds 299, 148-152 (2000). [doi:10.1016/s0925-8388(99)00816-6](https://doi.org/10.1016/s0925-8388%2899%2900816-6)
-3. J.K. Kivilahti, J.M. Miettinen, A thermodynamic analysis of the ti-h system, Calphad 11, 187-199 (1987). [doi:10.1016/0364-5916(87)90014-9](https://doi.org/10.1016/0364-5916%2887%2990014-9)
+3. Shusuke Ukita, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ti-H and Zr-H Binary Phase Diagrams, J. Japan Inst. Metals 71, 721-729 (2007). [doi:10.2320/jinstmet.71.721](https://doi.org/10.2320/jinstmet.71.721)
+4. J.K. Kivilahti, J.M. Miettinen, A thermodynamic analysis of the ti-h system, Calphad 11, 187-199 (1987). [doi:10.1016/0364-5916(87)90014-9](https://doi.org/10.1016/0364-5916%2887%2990014-9)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # N–Ta system
 
-> N–Ta system: 8 accepted literature values (crystal structure 4, formation 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> N–Ta system: 9 accepted literature values (crystal structure 4, phase transition 3, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/N-TA.html · Markdown: https://data.orchid-project.org/systems/N-TA.md
 
-8 accepted literature values from 1 paper(s) (experimental 5, model 1, unspecified 2); 0 calculated phase diagram(s).
+9 accepted literature values from 2 paper(s) (experimental 6, model 1, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/N-TA.json) · [CSV](https://data.orchid-project.org/systems/N-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#N-TA) · [phases (6)](https://data.orchid-project.org/phases/pages/N-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/N-TA.html) · [Markdown](https://data.orchid-project.org/systems/N-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 6 |
 | model | 1 |
 | unspecified | 2 |
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 3 |
 | formation | 2 |
 | crystal structure | 4 |
 
@@ -39,12 +39,13 @@ Table: Enthalpies of formation, N–Ta system (2)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (3)
 
 Table: Phase transition, N–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1950 K | 1950 | fcc dTaNx + hcp e-TaN | experimental | [2] Danon 2003; _cites Frisk 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900582-9) | p. 8 | “In this point it is worth to mention that the fcc dTaNx nitride is not stable below 1950 K in the binary Ta-N system \[14\]; the equilibrium phase of TaN formed at lower temperatures is hcp e-TaN.” |
 | Phase transition | 3203 K | 3203 |  | experimental | [1] Frisk 1998 | p. 8 | “They reported a melting temperature of Ta 2 N of 3203 K at 80 atm N 2 .” |
 | Phase transition | 3203 K | 3203 |  | model | [1] Frisk 1998 | p. 8 | “The calculated melting temperature of Ta 2 N is 3203 K.” |
 
@@ -64,6 +65,7 @@ Table: Crystal structure, N–Ta system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Karin Frisk, Analysis of the phase diagram and thermochemistry in the Ta–N and the Ta–C–N systems, Journal of Alloys and Compounds 278, 216-226 (1998). [doi:10.1016/s0925-8388(98)00582-9](https://doi.org/10.1016/s0925-8388%2898%2900582-9)
+2. A Danon, C Servant, Contribution to a thermodynamic database and phase equilibria calculations for low activation Ta-containing steels, Journal of Nuclear Materials 321, 8-18 (2003). [doi:10.1016/s0022-3115(03)00196-x](https://doi.org/10.1016/s0022-3115%2803%2900196-x)
 
 ## Please cite
 

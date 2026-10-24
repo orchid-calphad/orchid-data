@@ -1,10 +1,10 @@
 # Al–Co–W system
 
-> Al–Co–W system: 21 accepted literature values (formation 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co–W system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO-W.html · Markdown: https://data.orchid-project.org/systems/AL-CO-W.md
 
-21 accepted literature values from 1 paper(s) (DFT 21); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (DFT 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO-W.json) · [CSV](https://data.orchid-project.org/systems/AL-CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO-W.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO-W.md)
 
@@ -12,42 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 21 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 21 |
+| formation | 1 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co–W system (21)
+Table: Enthalpies of formation, Al–Co–W system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al12W |  | -7.57 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 13 |  |
-| Al12W |  | -7.53 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 11 |  |
-| Al12W |  | -7.24 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 12 |  |
-| Al2W |  | -3.09 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 18 |  |
-| Al4W |  | -14.86 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 17 |  |
-| Al5Co2 |  | -44.57 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7 |  |
-| Al5Co2 |  | -44.38 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5 |  |
-| Al5Co2 |  | -44.28 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6 |  |
-| Al5W |  | -15.82 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 16 |  |
-| Al5W |  | -15.73 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 14 |  |
-| Al5W |  | -15.44 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 15 |  |
-| Al9Co2 |  | -31.64 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 9 |  |
-| Al9Co2 |  | -31.45 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10 |  |
-| BCC_B2, AlCo |  | -58.46 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
-| BCC_B2, AlCo |  | -58.37 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
-| BCC_B2, AlCo |  | -58.18 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
-| Co3W |  | -7.94 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21 |  |
-| Co3W |  | -7.81 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20 |  |
-| Co3W |  | -7.72 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 19 |  |
-| o’-Al13Co4 |  | -39.46 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 8 |  |
 | μ |  | -3.66 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 22 |  |
 
 ## Sources

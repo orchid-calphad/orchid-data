@@ -12,11 +12,11 @@ Table: Phases of the Hf–Mn system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-hf-mn-bcc-a2); _phase:hf-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1389.46–3999 K, x(Mn) 0–1 | 7 | 2 |
+| [BCC_A2](#phase-hf-mn-bcc-a2); _phase:hf-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1389.46–3999 K, x(Mn) 0–1 | 5 | 2 |
 | [C14_LAVES](#phase-hf-mn-c14-laves); _phase:hf-mn:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1993.64 K, x(Mn) 0.63086–0.7451 | 4 | 1 |
 | [CBCC_A12](#phase-hf-mn-cbcc-a12); _phase:hf-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1355 K, x(Mn) 0.99817–1 | 2 | 2 |
-| [CUB_A13](#phase-hf-mn-cub-a13); _phase:hf-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.04–1411.49 K, x(Mn) 0.98186–1 | 6 | 2 |
-| [FCC_A1](#phase-hf-mn-fcc-a1); _phase:hf-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 985.48–1411 K, x(Mn) 0.99979–1 | 2 | 2 |
+| [CUB_A13](#phase-hf-mn-cub-a13); _phase:hf-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.04–1411.49 K, x(Mn) 0.98186–1 | 4 | 2 |
+| [FCC_A1](#phase-hf-mn-fcc-a1); _phase:hf-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 985.48–1411 K, x(Mn) 0.99979–1 | 0 | 2 |
 | [HCP_A3](#phase-hf-mn-hcp-a3); _phase:hf-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2017.02 K, x(Mn) 0–0.0435 | 2 | 2 |
 | [HFMN](#phase-hf-mn-hfmn); _phase:hf-mn:hfmn_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1570.7 K, x(Mn) 0.5–0.5 | 4 | 1 |
 | [HFMN2_C14](#phase-hf-mn-hfmn2-c14); _phase:hf-mn:hfmn2-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2000 K, x(Mn) 0.62856–0.75378 | 10 | 1 |
@@ -27,7 +27,7 @@ Table: Phases of the Hf–Mn system (9)
 - Id: `phase:hf-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1389.46–3999 K, x(Mn) 0–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-mn:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:hf-mn:bcc-a2  
@@ -131,7 +131,7 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-mn:cub-a13`; status `assigned`
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300.04–1411.49 K, x(Mn) 0.98186–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-mn:cub-a13)
 
 Names (4): _corpus: _corpus:phase:hf-mn:cub-a13  
@@ -169,11 +169,10 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 985.48–1411 K, x(Mn) 0.99979–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-mn:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:hf-mn:fcc-a1  
-_paper: _paper:10.1007/s11669-011-9976-9:γMn  
+Names (3): _corpus: _corpus:phase:hf-mn:fcc-a1  
 _tdb: _tdb:HfMn-12Zho.tdb:FCC_A1, tdb:HfMn-24Bro.tdb:FCC_A1  
 
 
@@ -193,14 +192,12 @@ _tdb: _tdb:HfMn-12Zho.tdb:FCC_A1, tdb:HfMn-24Bro.tdb:FCC_A1
 33: CONST FCC_A1 : HF MN% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-011-9976-9](https://doi.org/10.1007/s11669-011-9976-9) Peng Zhou, Shuhong Liu, Peisheng Wang, Honghui Xu, Yingbiao Peng, Xiaoming Yuan et al., Experimental Investigation and Thermodynamic Assessment of the Hf-Mn System, J. Phase Equilib. Diffus. 33, 20-28 (2012).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2023.173060](https://doi.org/10.1016/j.jallcom.2023.173060) Pavel Brož, Xinlin Yan, Vitaliy Romaka, Olga Fabrichnaya, Mario J. Kriegel, Vilma Buršíková et al., Constitution, physical properties and thermodynamic modeling of the Hf-Mn system, Journal of Alloys and Compounds 976, 173060 (2024).  
 _assessment that models this phase_
-- [doi:10.1007/bf02645298](https://doi.org/10.1007/bf02645298) H. Okamoto, The Hf-Mn (hafnium-manganese) system, JPE 16, 361-363 (1995).  
-_cited as the source of values for this phase_
 
 ## HCP_A3 (Hf–Mn)
 

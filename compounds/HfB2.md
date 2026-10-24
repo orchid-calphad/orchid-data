@@ -15,11 +15,11 @@ Table: Enthalpy of formation of HfB2 reported in the literature (7)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -117.633 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Krupka 1962_ | Table 3, p. 4, row 13 |  |
-| -109.633 kJ/mol-atom ± 8.8 | HfB2 | 298.15 | experimental | Fluorine bomb calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
+| -109.633 kJ/mol-atom ± 2.93333 | HfB2 | 298.15 | experimental | Fluorine bomb calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 67Joh_ | Table 3, p. 4, row 15 |  |
 | -106.567 kJ/mol-atom | HfB2 | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 14 |  |
 | -105.033 kJ/mol-atom | HfB2 | 298.15 | experimental | Tensimetric (reduction of HfO2 to HfB2 with B and B4C) | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Paderno 1959_ | Table 3, p. 4, row 12 |  |
-| -87.3 kJ/mol-atom ± 5 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
-| -83.1333 kJ/mol-atom ± 5.9 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
+| -87.3 kJ/mol-atom ± 1.66667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Maslov 1978_ | Table 3, p. 4, row 17 |  |
+| -83.1333 kJ/mol-atom ± 1.96667 | HfB2 | 298.15 | experimental | Self-sustaining high-temperature synthesis calorimetry | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites Kitpichev 1979_ | Table 3, p. 4, row 18 |  |
 | -106.567 kJ/mol-atom | HfB2 |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 20 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of HfB2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -117.633 | kJ/mol-atom |  | 0.01667 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -109.633 | kJ/mol-atom | 8.8 | 0.01667 | 1 (combustion_calorimetry, prior) |  |  |  | 8.8 |
-| -106.567 | kJ/mol-atom |  | 0.01667 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -117.633 | kJ/mol-atom |  | 0.01667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -109.633 | kJ/mol-atom | 2.933 | 0.01667 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.933 |
+| -106.567 | kJ/mol-atom |  | 0.01667 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -105.033 | kJ/mol-atom |  | 0.01667 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -87.3 | kJ/mol-atom | 5 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
-| -83.1333 | kJ/mol-atom | 5.9 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5.9 |
-| -106.567 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -87.3 | kJ/mol-atom | 1.667 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -83.1333 | kJ/mol-atom | 1.967 | 0.01667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -106.567 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -47,7 +47,7 @@ Table: DFT formation energy of HfB2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaacys | -98.211 | -1.01789 | P6/mmm | 0 | 0 | no |
-| OQMD | oqmd-5848 | -98.749 | -1.02347 | P6/mmm | 0.002 | 0 | no |
+| OQMD | oqmd-5848 | -98.749 | -1.02347 | P6/mmm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/B-CO.html · Markdown: https:
 
 8 phases (tier A 4, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=B-CO) · [full JSON](https://data.orchid-project.org/phases/systems/B-CO.json) · [Markdown](https://data.orchid-project.org/phases/pages/B-CO.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=B-CO) · [full JSON](https://data.orchid-project.org/phases/systems/B-CO.json) · [B–Co system page](https://data.orchid-project.org/systems/B-CO.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-CO.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the B–Co system (8)
 
@@ -27,6 +27,7 @@ Table: Phases of the B–Co system (8)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CoB-02Du-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2353.52 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-co:b-beta-rhombo)

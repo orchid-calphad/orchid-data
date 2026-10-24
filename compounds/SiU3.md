@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of SiU3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.02 | kJ/mol-atom | 4.8 | 0.005 | 1 (combustion_calorimetry, prior) |  |  |  | 4.8 |
-| -24.93 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.99 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.02 | kJ/mol-atom | 4.8 | 0.005 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 4.8 |
+| -24.93 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.99 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

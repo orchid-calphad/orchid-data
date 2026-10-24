@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/TaB2.html · Markdown: https://data.orchid-project.org/compounds/TaB2.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 3, model 2); experimental median -20.967 kJ/mol-atom (n = 3); Materials Project -62.64 kJ/mol-atom (mp-aaaaabqq); OQMD -62.619 kJ/mol-atom (oqmd-5807).
+5 accepted literature formation-enthalpy value(s) (experimental 3, DFT 2); experimental median -62.9 kJ/mol-atom (n = 3); Materials Project -62.64 kJ/mol-atom (mp-aaaaabqq); OQMD -62.619 kJ/mol-atom (oqmd-5807).
 
 Systems: [B–Ta](https://data.orchid-project.org/systems/B-TA.html)
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of TaB2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -21.6333 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17 |  |
-| -20.9667 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18 |  |
-| -17.7667 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19 |  |
-| -22.5667 kJ/mol-atom | TaB2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16 |  |
-| -21.354 kJ/mol-atom | TaB2 | 0 | model |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 14 |  |
+| -64.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Kirpichev 1979_ | Table 1, p. 4, row 17 |  |
+| -62.9 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Johnson 1967_ [doi](https://doi.org/10.1021/je60035a034) | Table 1, p. 4, row 18 |  |
+| -53.3 kJ/mol-atom | TaB2 | 298.15 | experimental |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 1, p. 4, row 19 |  |
+| -67.7 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017; _cites Zhang 2015_ [doi](https://doi.org/10.1016/j.jallcom.2015.01.144) | Table 1, p. 4, row 16 |  |
+| -64.062 kJ/mol-atom | TaB2 | 0 | DFT |  | [B–Ta](https://data.orchid-project.org/systems/B-TA.html) | [1] OuYang 2017 | Table 1, p. 4, row 14 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of TaB2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -21.6333 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -20.9667 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -17.7667 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -22.5667 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.354 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -62.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -53.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -67.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -64.062 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of TaB2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaabqq | -62.64 | -0.649217 | P6/mmm | 0 | 0 | no |
-| OQMD | oqmd-5807 | -62.619 | -0.649001 | P6/mmm | 2.605 | 0.027 | no |
+| OQMD | oqmd-5807 | -62.619 | -0.649001 | P6/mmm | 2.6053 | 0.027 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

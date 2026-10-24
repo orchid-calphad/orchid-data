@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Al3Co.html · Markdown: https://data.orchid-project.org/compounds/Al3Co.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -39.153 kJ/mol-atom (mp-aaacrxmd); OQMD -39.73 kJ/mol-atom (oqmd-1787083).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -39.153 kJ/mol-atom (mp-aaacrxmd); OQMD -20.871 kJ/mol-atom (oqmd-349288).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Al3Co
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20.035 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20.035 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of Al3Co
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacrxmd | -39.153 | -0.405795 | Cm | 1.038 | 0.0108 | yes |
-| OQMD | oqmd-1787083 | -39.73 | -0.411769 | Pnma | 0.797 | 0.0083 | yes |
+| Materials Project | mp-aaacrxmd | -39.153 | -0.405795 | Cm | 1.0382 | 0.0108 | yes |
+| OQMD | oqmd-349288 | -20.871 | -0.216311 | Pm-3m | 19.6557 | 0.2037 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

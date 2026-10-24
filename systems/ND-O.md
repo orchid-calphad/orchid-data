@@ -1,10 +1,10 @@
 # Nd–O system
 
-> Nd–O system: 1 accepted literature values (formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–O system: 19 accepted literature values (phase transition 14, crystal structure 3, formation 1, heat capacity / entropy / enthalpy 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-O.html · Markdown: https://data.orchid-project.org/systems/ND-O.md
 
-1 accepted literature values from 1 paper(s) (model 1); 2 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 12, model 7); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ND-O.json) · [CSV](https://data.orchid-project.org/systems/ND-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-O/NdO-07Zin.json) · [phases (10)](https://data.orchid-project.org/phases/pages/ND-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-O.html) · [Markdown](https://data.orchid-project.org/systems/ND-O.md)
 
@@ -12,13 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 12 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 14 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 1 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -48,6 +52,47 @@ Table: Enthalpies of formation, Nd–O system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | A-Nd2O3 | [Nd2O3](https://data.orchid-project.org/compounds/Nd2O3.html) | -361.38 kJ/mol-atom | 298.15 | model | -364.863 (mp-aaaaabof) | -349.317 (oqmd-30801) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
+
+## Other properties
+
+### Phase transition (14)
+
+Table: Phase transition, Nd–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 2333 K | 2333 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 37 |  |
+| Phase transition | 2340 K | 2340 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 41 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A \<=> H; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 13 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 33 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 39 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 31 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: A ⟺ H; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 35 |  |
+| Phase transition | 2435 K | 2435 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Adylov 1987_ | Table 2.1, p. 6, row 42 |  |
+| Phase transition | 2453 K | 2453 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 38 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H \<=> X; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 27 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 36 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1985_ | Table 2.1, p. 6, row 40 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 34 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: H ⟺ X; _alloy: Nd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 32 |  |
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, Nd–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 157.89 unknown | 298.15 | A-Nd2O3; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 31 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Nd–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 51.198 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
+| lattice molar volume | 46.796 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
+| lattice molar volume | 45.893 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Nd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 6 |  |
 
 ## Sources
 

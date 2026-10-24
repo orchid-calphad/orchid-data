@@ -13,8 +13,8 @@ Table: Phases of the Cr–Ru system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cr-ru-bcc-a2); _phase:cr-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2180.98 K, x(Ru) 0–0.32063 | 13 | 2 |
-| [CR2RU_D8B](#phase-cr-ru-cr2ru-d8b); _phase:cr-ru:cr2ru-d8b_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1106.06–1841.2 K, x(Ru) 0.33333–0.33333 | 0 | 1 |
-| [CR3RU_A15](#phase-cr-ru-cr3ru-a15); _phase:cr-ru:cr3ru-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1022.26–1272.95 K, x(Ru) 0.25–0.315 | 9 | 2 |
+| [CR2RU_D8B](#phase-cr-ru-cr2ru-d8b); _phase:cr-ru:cr2ru-d8b_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1106.06–1841.2 K, x(Ru) 0.33333–0.33333 | 6 | 1 |
+| [CR3RU_A15](#phase-cr-ru-cr3ru-a15); _phase:cr-ru:cr3ru-a15_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1022.26–1272.95 K, x(Ru) 0.25–0.315 | 15 | 2 |
 | [SIGMA_D8B](#phase-cr-ru-d8b-sigma); _phase:cr-ru:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1072.87–1852.76 K, x(Ru) 0.31166–0.35329 | 9 | 1 |
 | [FCC_A1](#phase-cr-ru-fcc-a1); _phase:cr-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-cr-ru-hcp-a3); _phase:cr-ru:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.5 K, x(Ru) 0.46554–1 | 13 | 2 |
@@ -60,15 +60,17 @@ _cited as the source of values for this phase_
 
 - Id: `phase:cr-ru:cr2ru-d8b`; status `needs_review`
 - No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_D8_b; stoichiometry_contradicts_D8_b:CrRu-05Che-LB.tdb
+- Candidate (literature_printed): CrFe · tP30 — printed with a label mapped to this phase
 - Candidate (name_token): sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) — Strukturbericht/word 'D8B' in the TDB name
 - Candidate (sgte_mmc2): sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for CR2RU_D8B: Cr2Ru
 - Candidate (tdb_comment): CrFe · tP30 · P4_2/mnm — CrRu-05Che-LB.tdb: 'Prototype CrFe (tP30, P4_2/mnm) sigma'
 - Stoichiometry: Cr 0.6667, Ru 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 1106.06–1841.2 K, x(Ru) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ru:cr2ru-d8b)
 
-Names (2): _corpus: _corpus:phase:cr-ru:cr2ru-d8b  
+Names (3): _corpus: _corpus:phase:cr-ru:cr2ru-d8b  
+_paper: _paper:10.1016/s1001-0521(06)60106-x:Cr2Ru  
 _tdb: _tdb:CrRu-05Che-LB.tdb:CR2RU_D8B  
 
 
@@ -81,6 +83,11 @@ _tdb: _tdb:CrRu-05Che-LB.tdb:CR2RU_D8B
 47: CONST CR2RU_D8B : CR : RU : !
 ~~~~
 
+Example references (1 of 1; assessments first): 
+
+- [doi:10.1016/s1001-0521(06)60106-x](https://doi.org/10.1016/s1001-0521%2806%2960106-x) A WATSON, L CORNISH, R SUSS, Development of a database for the prediction of phases in Pt-based Superalloys: Cr-Pt-Ru, Rare Metals 25, 597-607 (2006).  
+_reports values for this phase_
+
 ## CR3RU_A15 (Cr–Ru)
 
 - Id: `phase:cr-ru:cr3ru-a15`; status `needs_review`
@@ -91,11 +98,11 @@ _tdb: _tdb:CrRu-05Che-LB.tdb:CR2RU_D8B
 - Candidate (tdb_comment): Cr3Si · cP8 · Pm-3n — CrRu-05Che-LB.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'
 - Candidate (tdb_comment): Cr3Si · cP8 · Pm-3n — CrRu-15Zhu.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'
 - Stability: stable in 2 of 2 calculated diagram(s): 1022.26–1272.95 K, x(Ru) 0.25–0.315
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ru:cr3ru-a15)
 
-Names (4): _corpus: _corpus:phase:cr-ru:cr3ru-a15  
-_paper: _paper:10.1016/j.intermet.2015.04.011:Cr3Ru  
+Names (5): _corpus: _corpus:phase:cr-ru:cr3ru-a15  
+_paper: _paper:10.1016/j.intermet.2015.04.011:Cr3Ru, paper:10.1016/s1001-0521(06)60106-x:Cr3Ru  
 _tdb: _tdb:CrRu-05Che-LB.tdb:CR3RU_A15, tdb:CrRu-15Zhu.tdb:CR3RU_A15  
 
 
@@ -115,10 +122,12 @@ _tdb: _tdb:CrRu-05Che-LB.tdb:CR3RU_A15, tdb:CrRu-15Zhu.tdb:CR3RU_A15
 41: CONST CR3RU_A15 : CR : RU : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.intermet.2015.04.011](https://doi.org/10.1016/j.intermet.2015.04.011) L.L. Zhu, H.Y. Qi, L. Jiang, Z.P. Jin, J.-C. Zhao, Experimental determination of the Ni–Cr–Ru phase diagram and thermodynamic reassessments of the Cr–Ru and Ni–Cr–Ru systems, Intermetallics 64, 86-95 (2015).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/s1001-0521(06)60106-x](https://doi.org/10.1016/s1001-0521%2806%2960106-x) A WATSON, L CORNISH, R SUSS, Development of a database for the prediction of phases in Pt-based Superalloys: Cr-Pt-Ru, Rare Metals 25, 597-607 (2006).  
+_reports values for this phase_
 - [doi:10.1007/bf02873189](https://doi.org/10.1007/bf02873189) M. Venkatraman, J. P. Neumann, The Cr−Ru (chromium-ruthenium) system, JPE 8, 109-112 (1987).  
 _cited as the source of values for this phase_
 

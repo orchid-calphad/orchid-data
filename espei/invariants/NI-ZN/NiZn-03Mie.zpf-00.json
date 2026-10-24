@@ -95,15 +95,7 @@
     "id": "ORC-2XJYEYFMG2",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2003.09.002",
-    "measured_in": "ref:038a46ffda0f93a7",
-    "also_reported_as": [
-     {
-      "id": "ORC-BDQETFWLRW",
-      "paper": "doi:10.1016/j.calphad.2011.03.003",
-      "measured_in": "ref:a3a29140fabdde13",
-      "dataset": "invariants/NI-ZN/NiZn-11Xio.zpf-01.json"
-     }
-    ]
+    "measured_in": "ref:038a46ffda0f93a7"
    },
    {
     "id": "ORC-DXNV4SGPV4",
@@ -114,16 +106,12 @@
   ],
   "papers": [
    "ref:038a46ffda0f93a7",
-   "doi:10.1016/j.calphad.2003.09.002",
-   "ref:a3a29140fabdde13",
-   "doi:10.1016/j.calphad.2011.03.003"
+   "doi:10.1016/j.calphad.2003.09.002"
   ],
   "dois": [
-   "10.1016/j.calphad.2003.09.002",
-   "10.1016/j.calphad.2011.03.003"
+   "10.1016/j.calphad.2003.09.002"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiZn-03Mie/zpf-00.json",
-  "e3_merged": 1
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-03Mie/zpf-00.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -135,14 +123,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.5,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -155,7 +143,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -167,14 +155,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.5,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -187,7 +175,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }

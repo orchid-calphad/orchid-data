@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/SB-YB.html · Markdown: https://da
 
 61 accepted literature values from 2 paper(s) (experimental 31, model 18, DFT 12); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/SB-YB.json) · [CSV](https://data.orchid-project.org/systems/SB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-YB/SbYb-12Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/systems/SB-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/SB-YB.json) · [CSV](https://data.orchid-project.org/systems/SB-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-YB/SbYb-12Liu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SB-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/systems/SB-YB.md)
 
 Table: Accepted values by evidence class
 

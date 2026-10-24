@@ -1,29 +1,25 @@
 # CaO: enthalpy of formation
 
-> Enthalpy of formation of CaO: 10 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of CaO: 6 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaO.html · Markdown: https://data.orchid-project.org/compounds/CaO.md
 
-10 accepted literature formation-enthalpy value(s) (model 9, DFT 1); Materials Project -318.981 kJ/mol-atom (mp-aaaaadwf); OQMD -308.324 kJ/mol-atom (oqmd-1443085).
+6 accepted literature formation-enthalpy value(s) (model 5, DFT 1); Materials Project -318.981 kJ/mol-atom (mp-aaaaadwf); OQMD -308.324 kJ/mol-atom (oqmd-1443085).
 
 Systems: [Ca–O](https://data.orchid-project.org/systems/CA-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaO reported in the literature (10)
+Table: Enthalpy of formation of CaO reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -600.9 kJ/mol-atom | CaO(liq-am) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
-| -565.6 kJ/mol-atom | CaO(liq-am) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
-| -557.3 kJ/mol-atom | CaO(liq-am) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
-| -555.6 kJ/mol-atom | CaO(liq-am) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
 | -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
 | -317.55 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
 | -317.3 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
 | -317 kJ/mol-atom | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
 | -317 kJ/mol-atom ± 0.75 | CaO(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
-| -634.6 kJ/mol-atom | CaO(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
+| -317.3 kJ/mol-atom | CaO(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
 
 ### Uncertainty budget
 
@@ -33,16 +29,12 @@ Table: Uncertainty budget of the literature values of CaO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -600.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -565.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -557.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -555.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -317.55 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -317.55 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -317.3 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -317 | kJ/mol-atom |  | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -317 | kJ/mol-atom | 0.75 | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -634.6 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -317.55 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -317.55 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -317.3 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -317 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -317 | kJ/mol-atom | 0.75 | 0.25 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -317.3 | kJ/mol-atom |  | 0.025 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -53,7 +45,7 @@ Table: DFT formation energy of CaO
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadwf | -318.981 | -3.30602 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1443085 | -308.324 | -3.19557 | Pca21 | 0.037 | 4.000e-4 | yes |
+| OQMD | oqmd-1443085 | -308.324 | -3.19557 | Pca21 | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

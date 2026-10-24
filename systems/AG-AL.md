@@ -1,10 +1,10 @@
 # Ag–Al system
 
-> Ag–Al system: 98 accepted literature values (mixing / partial 58, invariant reaction 31, phase equilibrium 5, phase transition 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Al system: 95 accepted literature values (mixing / partial 55, invariant reaction 31, phase equilibrium 5, phase transition 3) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-AL.html · Markdown: https://data.orchid-project.org/systems/AG-AL.md
 
-98 accepted literature values from 2 paper(s) (experimental 76, model 16, unspecified 6); 5 calculated phase diagram(s).
+95 accepted literature values from 2 paper(s) (experimental 73, model 16, unspecified 6); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-AL.json) · [CSV](https://data.orchid-project.org/systems/AG-AL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-AL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-AL/AgAl-04Wit.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AG-AL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-AL.html) · [Markdown](https://data.orchid-project.org/systems/AG-AL.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 73 |
 | model | 16 |
 | unspecified | 6 |
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 31 |
 | phase transition | 3 |
 | phase equilibrium | 5 |
-| mixing / partial | 58 |
+| mixing / partial | 55 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -135,13 +135,12 @@ Table: Phase equilibrium, Ag–Al system
 | Phase composition |  | 773.15 | (Al) + ζ; _(Al): Ag 0.08183, Al 0.91817; ζ: Ag 0.6176, Al 0.3824_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 4 |  |
 | Phase composition |  | 838.15 | (Al) + ζ; _(Al): Ag 0.2647, Al 0.7353; ζ: Ag 0.6129, Al 0.3871_ | experimental | [1] Witusiewicz 2004 | Table 1, p. 2, row 5 |  |
 
-### Mixing / partial (58)
+### Mixing / partial (55)
 
 Table: Mixing / partial, Ag–Al system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 32 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0.075 kJ/mol (basis unstated) | 1257 | liquid; _alloy: Ag 0.01119, Al 0.98881_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 33 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -1.102 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.241, Al 0.759_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 21 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -2.757 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.4178, Al 0.5822_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 28 |  |
@@ -149,8 +148,6 @@ Table: Mixing / partial, Ag–Al system
 | Enthalpy of mixing; _printed: ΔH_ | -0.002 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0215, Al 0.9785_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 14 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.6667, Al 0.3333_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 9 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -1.917 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.3212, Al 0.6788_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0, Al 1_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 1, Al 0_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 2 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0.009 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.0405, Al 0.9595_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 15 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -2.891 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.432, Al 0.568_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 30 |  |
 | Enthalpy of mixing; _printed: ΔH_ | -4.765 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ag 0.7502, Al 0.2498_ | experimental | [1] Witusiewicz 2004 | Table 2, p. 4, row 7 |  |

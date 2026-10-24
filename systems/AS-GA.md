@@ -1,10 +1,10 @@
 # As–Ga system
 
-> As–Ga system: 60 accepted literature values (phase transition 44, formation 12, heat capacity / entropy / enthalpy 3, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> As–Ga system: 63 accepted literature values (phase transition 44, formation 13, heat capacity / entropy / enthalpy 5, invariant reaction 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AS-GA.html · Markdown: https://data.orchid-project.org/systems/AS-GA.md
 
-60 accepted literature values from 2 paper(s) (experimental 60); 0 calculated phase diagram(s).
+63 accepted literature values from 3 paper(s) (experimental 60, model 2, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AS-GA.json) · [CSV](https://data.orchid-project.org/systems/AS-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AS-GA) · [phases (8)](https://data.orchid-project.org/phases/pages/AS-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AS-GA.html) · [Markdown](https://data.orchid-project.org/systems/AS-GA.md)
 
@@ -13,6 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 60 |
+| model | 2 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -20,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 44 |
-| formation | 12 |
-| heat capacity / entropy / enthalpy | 3 |
+| formation | 13 |
+| heat capacity / entropy / enthalpy | 5 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AS/AS-GA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AS/AS-GA.json)
 
@@ -37,22 +39,23 @@ Table: Invariant reactions reported in the literature for the As–Ga system (1)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, As–Ga system (12)
+Table: Enthalpies of formation, As–Ga system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| UNKNOWN |  | -53.12 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 9 |  |
-| UNKNOWN |  | -48.55 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 23_ | Table II, p. 4, row 12 |  |
-| UNKNOWN |  | -47.1 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 20_ | Table II, p. 4, row 7 |  |
-| UNKNOWN |  | -46.22 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 19_ | Table II, p. 4, row 6 |  |
-| UNKNOWN |  | -46.15 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 10 |  |
-| UNKNOWN |  | -46.02 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 18_ | Table II, p. 4, row 5 |  |
-| UNKNOWN |  | -46.02 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 8 |  |
-| UNKNOWN |  | -45.22 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 11 |  |
-| UNKNOWN |  | -43.85 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 16_ | Table II, p. 4, row 3 |  |
-| UNKNOWN |  | -39.75 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 17_ | Table II, p. 4, row 4 |  |
-| UNKNOWN |  | -39.68 kJ/mol (basis unstated) ± 0.6 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 14_ | Table II, p. 4, row 1 |  |
-| UNKNOWN |  | -39.32 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [2] Ansara 1984; _cites ref. 15_ | Table II, p. 4, row 2 |  |
+| Ga0.5As0.5(s) |  | -44.4256 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Chatillon 1990 | Table 4, p. 11, row 4 |  |
+| UNKNOWN |  | -53.12 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 9 |  |
+| UNKNOWN |  | -48.55 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 23_ | Table II, p. 4, row 12 |  |
+| UNKNOWN |  | -47.1 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 20_ | Table II, p. 4, row 7 |  |
+| UNKNOWN |  | -46.22 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 19_ | Table II, p. 4, row 6 |  |
+| UNKNOWN |  | -46.15 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 10 |  |
+| UNKNOWN |  | -46.02 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 18_ | Table II, p. 4, row 5 |  |
+| UNKNOWN |  | -46.02 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 21_ | Table II, p. 4, row 8 |  |
+| UNKNOWN |  | -45.22 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 22_ | Table II, p. 4, row 11 |  |
+| UNKNOWN |  | -43.85 kJ/mol (basis unstated) ± 2 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 16_ | Table II, p. 4, row 3 |  |
+| UNKNOWN |  | -39.75 kJ/mol (basis unstated) ± 1.7 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 17_ | Table II, p. 4, row 4 |  |
+| UNKNOWN |  | -39.68 kJ/mol (basis unstated) ± 0.6 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 14_ | Table II, p. 4, row 1 |  |
+| UNKNOWN |  | -39.32 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [3] Ansara 1984; _cites ref. 15_ | Table II, p. 4, row 2 |  |
 
 ## Other properties
 
@@ -62,67 +65,70 @@ Table: Phase transition, As–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 960 K | 960 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 9 |  |
-| Phase transition | 964 K | 964 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 24 |  |
-| Phase transition | 965 K | 965 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 23 |  |
-| Phase transition | 965 K | 965 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 10 |  |
-| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 26 |  |
-| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 25 |  |
-| Phase transition | 1000 K | 1000 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 11 |  |
-| Phase transition | 1003 K | 1003 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 12 |  |
-| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 28 |  |
-| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 27 |  |
-| Phase transition | 1023 K | 1023 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 30 |  |
-| Phase transition | 1024 K | 1024 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 29 |  |
-| Phase transition | 1026 K | 1026 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 1 |  |
-| Phase transition | 1028 K | 1028 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 2 |  |
-| Phase transition | 1034 K | 1034 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 3 |  |
-| Phase transition | 1037 K | 1037 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 4 |  |
-| Phase transition | 1049 K | 1049 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 32 |  |
-| Phase transition | 1050 K | 1050 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 13 |  |
-| Phase transition | 1051 K | 1051 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 31 |  |
-| Phase transition | 1052 K | 1052 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 14 |  |
-| Phase transition | 1071 K | 1071 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 5 |  |
-| Phase transition | 1073 K | 1073 | other: Ankri (6) | experimental | [2] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 7 |  |
-| Phase transition | 1073 K | 1073 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 34 |  |
-| Phase transition | 1073 K | 1073 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 15 |  |
-| Phase transition | 1074 K | 1074 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 36 |  |
-| Phase transition | 1074 K | 1074 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 16 |  |
-| Phase transition | 1075 K | 1075 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 6 |  |
-| Phase transition | 1075 K | 1075 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 33 |  |
-| Phase transition | 1076 K | 1076 | other: Ankri (6) | experimental | [2] Ansara 1984 | Table I, p. 3, row 8 |  |
-| Phase transition | 1077 K | 1077 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 35 |  |
-| Phase transition | 1100 K | 1100 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 17 |  |
-| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 38 |  |
-| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 37 |  |
-| Phase transition | 1101 K | 1101 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 18 |  |
-| Phase transition | 1125 K | 1125 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 40 |  |
-| Phase transition | 1126 K | 1126 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 39 |  |
-| Phase transition | 1150 K | 1150 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 19 |  |
-| Phase transition | 1152 K | 1152 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 20 |  |
-| Phase transition | 1172 K | 1172 | other: Dutartre (8) | experimental | [2] Ansara 1984 | Table I, p. 3, row 42 |  |
-| Phase transition | 1173 K | 1173 | other: Dutartre (8) | experimental | [2] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 41 |  |
-| Phase transition | 1190 K | 1190 | other: Hsieh (7) | experimental | [2] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 21 |  |
-| Phase transition | 1196 K | 1196 | other: Hsieh (7) | experimental | [2] Ansara 1984 | Table I, p. 3, row 22 |  |
+| Phase transition | 960 K | 960 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 9 |  |
+| Phase transition | 964 K | 964 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 24 |  |
+| Phase transition | 965 K | 965 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 23 |  |
+| Phase transition | 965 K | 965 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 10 |  |
+| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 26 |  |
+| Phase transition | 981 K | 981 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 25 |  |
+| Phase transition | 1000 K | 1000 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 11 |  |
+| Phase transition | 1003 K | 1003 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 12 |  |
+| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 28 |  |
+| Phase transition | 1009 K | 1009 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 27 |  |
+| Phase transition | 1023 K | 1023 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 30 |  |
+| Phase transition | 1024 K | 1024 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 29 |  |
+| Phase transition | 1026 K | 1026 | other: Ankri (6) | experimental | [3] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 1 |  |
+| Phase transition | 1028 K | 1028 | other: Ankri (6) | experimental | [3] Ansara 1984 | Table I, p. 3, row 2 |  |
+| Phase transition | 1034 K | 1034 | other: Ankri (6) | experimental | [3] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 3 |  |
+| Phase transition | 1037 K | 1037 | other: Ankri (6) | experimental | [3] Ansara 1984 | Table I, p. 3, row 4 |  |
+| Phase transition | 1049 K | 1049 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 32 |  |
+| Phase transition | 1050 K | 1050 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 13 |  |
+| Phase transition | 1051 K | 1051 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 31 |  |
+| Phase transition | 1052 K | 1052 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 14 |  |
+| Phase transition | 1071 K | 1071 | other: Ankri (6) | experimental | [3] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 5 |  |
+| Phase transition | 1073 K | 1073 | other: Ankri (6) | experimental | [3] Ansara 1984; _cites ref. 6_ | Table I, p. 3, row 7 |  |
+| Phase transition | 1073 K | 1073 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 34 |  |
+| Phase transition | 1073 K | 1073 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 15 |  |
+| Phase transition | 1074 K | 1074 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 36 |  |
+| Phase transition | 1074 K | 1074 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 16 |  |
+| Phase transition | 1075 K | 1075 | other: Ankri (6) | experimental | [3] Ansara 1984 | Table I, p. 3, row 6 |  |
+| Phase transition | 1075 K | 1075 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 33 |  |
+| Phase transition | 1076 K | 1076 | other: Ankri (6) | experimental | [3] Ansara 1984 | Table I, p. 3, row 8 |  |
+| Phase transition | 1077 K | 1077 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 35 |  |
+| Phase transition | 1100 K | 1100 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 17 |  |
+| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 38 |  |
+| Phase transition | 1101 K | 1101 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 37 |  |
+| Phase transition | 1101 K | 1101 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 18 |  |
+| Phase transition | 1125 K | 1125 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 40 |  |
+| Phase transition | 1126 K | 1126 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 39 |  |
+| Phase transition | 1150 K | 1150 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 19 |  |
+| Phase transition | 1152 K | 1152 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 20 |  |
+| Phase transition | 1172 K | 1172 | other: Dutartre (8) | experimental | [3] Ansara 1984 | Table I, p. 3, row 42 |  |
+| Phase transition | 1173 K | 1173 | other: Dutartre (8) | experimental | [3] Ansara 1984; _cites ref. 8_ | Table I, p. 3, row 41 |  |
+| Phase transition | 1190 K | 1190 | other: Hsieh (7) | experimental | [3] Ansara 1984; _cites ref. 7_ | Table I, p. 3, row 21 |  |
+| Phase transition | 1196 K | 1196 | other: Hsieh (7) | experimental | [3] Ansara 1984 | Table I, p. 3, row 22 |  |
 | Phase transition | 1510 K | 1510 | congruent transformation | experimental | [1] Ghasemi 2015 | p. 1 | “In the As-Ga system, there are three solution phases, liquid, (Ga) and (As) and one stoichiometric phase, GaAs, with zinc-blende structure which melts congruently at 1510 K.” |
-| Phase transition | 1511 K | 1511 | GaAs | experimental | [2] Ansara 1984 | p. 1 | “Klister and Thoma ( ) using a differential temperature analysis, measured a melting temperature qf 1511 K.” |
+| Phase transition | 1511 K | 1511 | GaAs | experimental | [3] Ansara 1984 | p. 1 | “Klister and Thoma ( ) using a differential temperature analysis, measured a melting temperature qf 1511 K.” |
 
-### Heat capacity / entropy / enthalpy (3)
+### Heat capacity / entropy / enthalpy (5)
 
 Table: Heat capacity / entropy / enthalpy, As–Ga system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: ΔS°298_ | 9.62 kJ/mol°K ± 5 | 298.15 | UNKNOWN | experimental | [2] Ansara 1984; _cites ref. 15_ | Table II, p. 4, row 2 |  |
-| Entropy; _printed: ΔS°298_ | -19.5 kJ/mol°K ± 4 | 298.15 | UNKNOWN | experimental | [2] Ansara 1984; _cites ref. 16_ | Table II, p. 4, row 3 |  |
-| Entropy; _printed: ΔS°298_ | -14.31 kJ/mol°K ± 1.7 | 298.15 | UNKNOWN | experimental | [2] Ansara 1984; _cites ref. 17_ | Table II, p. 4, row 4 |  |
+| Entropy; _printed: S°(298.15K)_ | 31.442 J/mol (basis unstated)/K | 298.15 | Ga0.5As0.5(s); _alloy: Ga 0.5_ | model | [2] Chatillon 1990 | Table 4, p. 11, row 4 |  |
+| Entropy; _printed: ΔS°298_ | 9.62 kJ/mol°K ± 5 | 298.15 | UNKNOWN | experimental | [3] Ansara 1984; _cites ref. 15_ | Table II, p. 4, row 2 |  |
+| Entropy; _printed: ΔS°298_ | -19.5 kJ/mol°K ± 4 | 298.15 | UNKNOWN | experimental | [3] Ansara 1984; _cites ref. 16_ | Table II, p. 4, row 3 |  |
+| Entropy; _printed: ΔS°298_ | -14.31 kJ/mol°K ± 1.7 | 298.15 | UNKNOWN | experimental | [3] Ansara 1984; _cites ref. 17_ | Table II, p. 4, row 4 |  |
+| Entropy; _printed: °S^L - °S^f.c.c._ | 34.68 J/mol (basis unstated)/K | 1513 | Ga0.5As0.5; _alloy: As 0.5, Ga 0.5_ | unspecified | [3] Ansara 1984 | Table VI, p. 13, row 4 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Masoomeh Ghasemi, Jonas Johansson, Thermodynamic assessment of the As–Zn and As–Ga–Zn systems, Journal of Alloys and Compounds 638, 95-102 (2015). [doi:10.1016/j.jallcom.2015.03.051](https://doi.org/10.1016/j.jallcom.2015.03.051)
-2. I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984). [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x)
+2. C. Chatillon, I. Ansara, A. Watson, B.B. Argent, Re-assessment of the thermodynamic properties and phase diagrams of the Ga-As and In-As systems, Calphad 14, 203-214 (1990). [doi:10.1016/0364-5916(90)90021-q](https://doi.org/10.1016/0364-5916%2890%2990021-q)
+3. I. Ansara, D. Dutartre, Thermodynamic study of the Al-Ga-As-Ge system, Calphad 8, 323-342 (1984). [doi:10.1016/0364-5916(84)90035-x](https://doi.org/10.1016/0364-5916%2884%2990035-x)
 
 ## Please cite
 

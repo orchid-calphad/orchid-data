@@ -13,7 +13,7 @@ Table: Phases of the In–Yb system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-in-yb-a6-tetragonal); _phase:in-yb:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.65 K, x(Yb) 0–0 | 2 | 1 |
-| [BCC_A2](#phase-in-yb-bcc-a2); _phase:in-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1023–1748 K, x(Yb) 0.99031–1 | 4 | 1 |
+| [BCC_A2](#phase-in-yb-bcc-a2); _phase:in-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1023–1748 K, x(Yb) 0.99031–1 | 2 | 1 |
 | [FCC_A1](#phase-in-yb-fcc-a1); _phase:in-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1088 K, x(Yb) 0.98607–1 | 0 | 1 |
 | [HCP_A3](#phase-in-yb-hcp-a3); _phase:in-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [IN2YB](#phase-in-yb-in2yb); _phase:in-yb:in2yb_ | CaIn2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1157.51 K, x(Yb) 0.33333–0.33333 | 5 | 1 |
@@ -59,11 +59,11 @@ _cited as the source of values for this phase_
 - Id: `phase:in-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1023–1748 K, x(Yb) 0.99031–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-yb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:in-yb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2010.10.003:(βYb), paper:10.1016/j.calphad.2010.10.003:(γYb)  
+Names (3): _corpus: _corpus:phase:in-yb:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2010.10.003:(γYb)  
 _tdb: _tdb:InYb-11Gao.tdb:BCC_A2  
 
 
@@ -80,9 +80,9 @@ Example references (3 of 3; assessments first):
 
 - [doi:10.1016/j.calphad.2010.10.003](https://doi.org/10.1016/j.calphad.2010.10.003) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the In–Eu and In–Yb systems, Calphad 35, 1-5 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(71)90139-1](https://doi.org/10.1016/0022-5088%2871%2990139-1) O.D. McMasters, C.L. Nipper, K.A. Gschneidner, The ytterbium-indium system, Journal of the Less Common Metals 23, 253-262 (1971).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02882418](https://doi.org/10.1007/bf02882418) A. Palenzona, S. Clraflcl, Bull. Alloy Phase Diagr. 10 (5) (1989) 588–592.  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(71)90139-1](https://doi.org/10.1016/0022-5088%2871%2990139-1) O.D. McMasters, C.L. Nipper, K.A. Gschneidner, The ytterbium-indium system, Journal of the Less Common Metals 23, 253-262 (1971).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (In–Yb)

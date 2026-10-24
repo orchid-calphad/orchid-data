@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/HfB.html · Markdown: https://data.orchid-project.org/compounds/HfB.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -49.475 kJ/mol-atom (n = 1); Materials Project -39.896 kJ/mol-atom (mp-aaaaaanh); OQMD -40.239 kJ/mol-atom (oqmd-13677).
+2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -98.95 kJ/mol-atom (n = 1); Materials Project -39.896 kJ/mol-atom (mp-aaaaaanh); OQMD -40.239 kJ/mol-atom (oqmd-13677).
 
 Systems: [B–Hf](https://data.orchid-project.org/systems/B-HF.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of HfB reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.475 kJ/mol-atom ± 6.3 | HfB | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
+| -98.95 kJ/mol-atom ± 6.3 | HfB | 298.15 | experimental | Langmuir vaporization | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997; _cites ref. 64_ | Table 3, p. 4, row 21 |  |
 | -79.905 kJ/mol-atom | HfB |  | model |  | [B–Hf](https://data.orchid-project.org/systems/B-HF.html) | [1] Bittermann 1997 | Table 3, p. 4, row 22 |  |
 
 ### Uncertainty budget
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of HfB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -49.475 | kJ/mol-atom | 6.3 | 0.0125 | 3 (kems_vapour, prior) |  |  |  | 6.3 |
-| -79.905 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -98.95 | kJ/mol-atom | 6.3 | 0.025 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 6.3 |
+| -79.905 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of HfB
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaaanh | -39.896 | -0.413498 | Fm-3m | 33.762 | 0.3499 | no |
-| OQMD | oqmd-13677 | -40.239 | -0.41705 | Fm-3m | 33.825 | 0.3506 | no |
+| Materials Project | mp-aaaaaanh | -39.896 | -0.413498 | Fm-3m | 33.7617 | 0.3499 | no |
+| OQMD | oqmd-13677 | -40.239 | -0.41705 | Fm-3m | 33.8227 | 0.3505 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sn5Y2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -62.6 | kJ/mol-atom | 5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -62.6 | kJ/mol-atom | 5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 5 |
 
 ## DFT formation energies
 

@@ -7,7 +7,7 @@
  "phases": [
   "BCC_A2",
   "BILI3_D03",
-  "BILI_HT",
+  "BILI_L10",
   "LIQUID",
   "RHOMBOHEDRAL_A7"
  ],
@@ -38,7 +38,7 @@
     ]
    ],
    [
-    "BILI_HT",
+    "BILI_L10",
     [
      "LI"
     ],
@@ -58,7 +58,7 @@
   ],
   [
    [
-    "BILI_HT",
+    "BILI_L10",
     [
      "LI"
     ],
@@ -169,7 +169,7 @@
     ]
    ],
    [
-    "BILI_HT",
+    "BILI_L10",
     [
      "LI"
     ],

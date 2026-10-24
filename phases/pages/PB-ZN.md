@@ -14,8 +14,8 @@ Table: Phases of the Pb–Zn system (4)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-pb-zn-bcc-a2); _phase:pb-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-pb-zn-fcc-a1); _phase:pb-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–600.61 K, x(Zn) 0–0.00265 | 8 | 4 |
-| [HCP_A3](#phase-pb-zn-hcp-a3); _phase:pb-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–693.48 K, x(Zn) 0.99595–1 | 13 | 4 |
-| [LIQUID](#phase-pb-zn-liquid); _phase:pb-zn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 590.91–2500 K, x(Zn) 0–1 | 13 | 4 |
+| [HCP_A3](#phase-pb-zn-hcp-a3); _phase:pb-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–693.48 K, x(Zn) 0.99595–1 | 12 | 4 |
+| [LIQUID](#phase-pb-zn-liquid); _phase:pb-zn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 590.91–2500 K, x(Zn) 0–1 | 12 | 4 |
 
 ## BCC_A2 (Pb–Zn)
 
@@ -129,7 +129,7 @@ _assessment that models this phase_
 - Id: `phase:pb-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–693.48 K, x(Zn) 0.99595–1
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-zn:hcp-a3)
 
 Names (6): _corpus: _corpus:phase:pb-zn:hcp-a3  
@@ -183,11 +183,11 @@ _assessment that models this phase_
 - Id: `phase:pb-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 590.91–2500 K, x(Zn) 0–1
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-zn:liquid)
 
-Names (7): _corpus: _corpus:phase:pb-zn:liquid  
-_paper: _paper:10.1007/bf02667882:L1, paper:10.1007/bf02667882:L2  
+Names (6): _corpus: _corpus:phase:pb-zn:liquid  
+_paper: _paper:10.1007/bf02667882:L1  
 _tdb: _tdb:PbZn-03Dav.tdb:LIQUID, tdb:PbZn-03Kim.tdb:LIQUID, tdb:PbZn-93Sri-LB.tdb:LIQUID, tdb:PbZn-98Jan.tdb:LIQUID  
 
 

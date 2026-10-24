@@ -1,10 +1,10 @@
 # Au–Pt–Sn system
 
-> Au–Pt–Sn system: 129 accepted literature values (invariant reaction 63, crystal structure 54, phase equilibrium 5, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Pt–Sn system: 75 accepted literature values (invariant reaction 63, phase equilibrium 5, formation 4, heat capacity / entropy / enthalpy 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-PT-SN.html · Markdown: https://data.orchid-project.org/systems/AU-PT-SN.md
 
-129 accepted literature values from 2 paper(s) (experimental 83, model 14, DFT 27, unspecified 5); 0 calculated phase diagram(s).
+75 accepted literature values from 2 paper(s) (experimental 56, model 14, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-PT-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-PT-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-PT-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-PT-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-PT-SN.md)
 
@@ -12,9 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 83 |
+| experimental | 56 |
 | model | 14 |
-| DFT | 27 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -25,7 +24,6 @@ Table: Accepted values by property group
 | phase equilibrium | 5 |
 | formation | 4 |
 | heat capacity / entropy / enthalpy | 3 |
-| crystal structure | 54 |
 
 ## Invariant reactions (literature)
 
@@ -140,67 +138,6 @@ Table: Heat capacity / entropy / enthalpy, Au–Pt–Sn system
 | Entropy; _printed: ΔS_fusion_ | 21.98 J · (mol-atom)^-1 · K^-1 |  | AuPt2Sn4; _alloy: Pt 0.285714, Sn 0.571429_ | unspecified | [1] Grolier 2008 | Table VI, p. 13, row 9 |  |
 | Entropy; _printed: ΔS_fusion_ | 21.98 J · (mol-atom)⁻¹ · K⁻¹ |  | AuPt2Sn4; _alloy: Pt 0.285714, Sn 0.571429_ | unspecified | [1] Grolier 2008 | Table VI, p. 13, row 9 |  |
 | Entropy; _printed: S⁰\_298_ | 42.21 J/mol-atom/K | 298.15 | AuPt2Sn4; _alloy: Pt 0.285714, Sn 0.571429_ | unspecified | [1] Grolier 2008 | Table VI, p. 13, row 6 |  |
-
-### Crystal structure (54)
-
-Table: Crystal structure, Au–Pt–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.465 Å | 0 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 7 |  |
-| Lattice a | 4.397 Å | 0 | AuSn; _alloy: Pt 0, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 1 |  |
-| Lattice a | 7.128 Å | 0 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 3 |  |
-| Lattice a | 6.664 Å | 0 | AuSn4; _alloy: Pt 0, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 5 |  |
-| Lattice a | 4.42 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 17 |  |
-| Lattice a | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 15 |  |
-| Lattice a | 4.216 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 9 |  |
-| Lattice a | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 11 |  |
-| Lattice a | 6.839 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 13 |  |
-| Lattice a | 5.092 Å | 298.15 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
-| Lattice a | 4.322 Å | 298.15 | AuSn; _alloy: Pt 0, Sn 0.5_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
-| Lattice a | 6.898 Å | 298.15 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
-| Lattice a | 6.512 Å | 298.15 | AuSn4; _alloy: Pt 0, Sn 0.8_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
-| Lattice a | 4.325 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
-| Lattice a | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [2] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
-| Lattice a | 4.104 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
-| Lattice a | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
-| Lattice a | 6.418 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
-| Lattice b | 5.465 Å | 0 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 7 |  |
-| Lattice b | 4.397 Å | 0 | AuSn; _alloy: Pt 0, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 1 |  |
-| Lattice b | 7.25 Å | 0 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 3 |  |
-| Lattice b | 6.534 Å | 0 | AuSn4; _alloy: Pt 0, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 5 |  |
-| Lattice b | 4.42 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 17 |  |
-| Lattice b | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 15 |  |
-| Lattice b | 4.216 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 9 |  |
-| Lattice b | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 11 |  |
-| Lattice b | 12.893 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 13 |  |
-| Lattice b | 5.092 Å | 298.15 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
-| Lattice b | 4.397 Å | 298.15 | AuSn; _alloy: Pt 0, Sn 0.5_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
-| Lattice b | 7.011 Å | 298.15 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
-| Lattice b | 6.516 Å | 298.15 | AuSn4; _alloy: Pt 0, Sn 0.8_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
-| Lattice b | 4.325 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
-| Lattice b | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [2] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
-| Lattice b | 4.104 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
-| Lattice b | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
-| Lattice b | 11.366 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
-| Lattice c | 13.669 Å | 0 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 7 |  |
-| Lattice c | 5.758 Å | 0 | AuSn; _alloy: Pt 0, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 1 |  |
-| Lattice c | 11.788 Å | 0 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 3 |  |
-| Lattice c | 11.917 Å | 0 | AuSn4; _alloy: Pt 0, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 5 |  |
-| Lattice c | 13.394 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 17 |  |
-| Lattice c | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 15 |  |
-| Lattice c | 5.534 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 9 |  |
-| Lattice c | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 11 |  |
-| Lattice c | 6.669 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [2] Hu 2022 | Table 6, p. 8, row 13 |  |
-| Lattice c | 14.333 Å | 298.15 | Au5Sn; _alloy: Pt 0, Sn 0.166667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
-| Lattice c | 5.523 Å | 298.15 | AuSn; _alloy: Pt 0, Sn 0.5_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
-| Lattice c | 11.773 Å | 298.15 | AuSn2; _alloy: Pt 0, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
-| Lattice c | 11.707 Å | 298.15 | AuSn4; _alloy: Pt 0, Sn 0.8_ | experimental | [2] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
-| Lattice c | 12.934 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
-| Lattice c | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [2] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
-| Lattice c | 5.436 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [2] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
-| Lattice c | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
-| Lattice c | 6.384 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [2] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
 
 ## Sources
 

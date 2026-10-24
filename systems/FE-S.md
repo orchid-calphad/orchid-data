@@ -1,10 +1,10 @@
 # Fe–S system
 
-> Fe–S system: 17 accepted literature values (invariant reaction 15, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–S system: 2 accepted literature values (phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-S.html · Markdown: https://data.orchid-project.org/systems/FE-S.md
 
-17 accepted literature values from 2 paper(s) (experimental 7, model 10); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+2 accepted literature values from 1 paper(s) (experimental 2); 4 calculated phase diagram(s). 16 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-S.json) · [CSV](https://data.orchid-project.org/systems/FE-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-S/FeS-07Lee.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-S.html) · [Markdown](https://data.orchid-project.org/systems/FE-S.md)
 
@@ -12,14 +12,12 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 10 |
+| experimental | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -75,28 +73,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/FE/FE-S.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/FE/FE-S.json) · [CALPHAD hull FeS-81Fer](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-S--FeS-81Fer.json) · [CALPHAD hull FeS-92Sun-LB](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-S--FeS-92Sun-LB.json) · [CALPHAD hull FeS-92Sun-newS](https://data.orchid-project.org/hulls/calphad-sgte/FE/FE-S--FeS-92Sun-newS.json)
 
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–S system (15)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1638.15 | fcc + bcc + L | fcc: S 0.052; bcc: S 0.138; L: S 12.5 (basis unresolved) | experimental | [1] Miettinen 1998; _cites ref. 11_ | Table 1, p. 4, row 3 |  |
-| 1633.15 | fcc + bcc + L | fcc: S 0.05; bcc: S 0.116; L: S 10.4 (basis unresolved) | model | [1] Miettinen 1998 | Table 1, p. 4, row 1 |  |
-| 1630.15 | fcc + bcc + L | fcc: S 0.05; bcc: S 0.124; L: S 10.5 (basis unresolved) | model | [1] Miettinen 1998; _cites Fernandez 1981_ | Table 1, p. 4, row 2 |  |
-| 1473.15 | fcc + bcc + L | fcc: S 0.023; L: S 27 (basis unresolved) | experimental | [1] Miettinen 1998; _cites ref. 11_ | Table 1, p. 4, row 6 |  |
-| 1473.15 | fcc + bcc + L | fcc: S 0.029; L: S 26.3 (basis unresolved) | model | [1] Miettinen 1998 | Table 1, p. 4, row 4 |  |
-| 1473.15 | fcc + bcc + L | fcc: S 0.029; L: S 26 (basis unresolved) | model | [1] Miettinen 1998; _cites Fernandez 1981_ | Table 1, p. 4, row 5 |  |
-| 1464.15 | fcc + bcc + L | fcc: S 38.3 (basis unresolved); L: S 38.3 (basis unresolved) | model | [1] Miettinen 1998; _cites Fernandez 1981_ | Table 1, p. 4, row 8 |  |
-| 1461.15 | fcc + bcc + L | fcc: S 38.3 (basis unresolved); L: S 39 (basis unresolved) | experimental | [1] Miettinen 1998; _cites ref. 11_ | Table 1, p. 4, row 9 |  |
-| 1461.15 | fcc + bcc + L | fcc: S 36.5 (basis unresolved); L: S 36.5 (basis unresolved) | model | [1] Miettinen 1998 | Table 1, p. 4, row 7 |  |
-| 1261.15 | fcc + bcc + L | fcc: S 0.009; bcc: S 36.5 (basis unresolved); L: S 30.7 (basis unresolved) | model | [1] Miettinen 1998 | Table 1, p. 4, row 10 |  |
-| 1261.15 | fcc + bcc + L | fcc: S 0.01; bcc: S 36.5 (basis unresolved); L: S 31.6 (basis unresolved) | experimental | [1] Miettinen 1998; _cites ref. 11_ | Table 1, p. 4, row 12 |  |
-| 1261.15 | fcc + bcc + L | fcc: S 0.009; bcc: S 36.5 (basis unresolved); L: S 30.2 (basis unresolved) | model | [1] Miettinen 1998; _cites Fernandez 1981_ | Table 1, p. 4, row 11 |  |
-| 1200.15 | fcc + bcc + L | fcc: S 0.003; bcc: S 0.019; L: S 36.5 (basis unresolved) | experimental | [1] Miettinen 1998; _cites ref. 11_ | Table 1, p. 4, row 15 |  |
-| 1189.15 | fcc + bcc + L | fcc: S 0.004; bcc: S 0.023; L: S 36.5 (basis unresolved) | model | [1] Miettinen 1998; _cites Fernandez 1981_ | Table 1, p. 4, row 14 |  |
-| 1189.15 | fcc + bcc + L | fcc: S 0.005; bcc: S 0.027; L: S 36.5 (basis unresolved) | model | [1] Miettinen 1998 | Table 1, p. 4, row 13 |  |
-
 ## Other properties
 
 ### Phase transition (2)
@@ -105,15 +81,14 @@ Table: Phase transition, Fe–S system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1016 K | 1016 | pyrite | experimental | [2] Guillermet 1981 | p. 8 | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
-| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [2] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4 | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
+| Phase transition | 1016 K | 1016 | pyrite | experimental | [1] Guillermet 1981 | p. 8 | “Values of the Gibbs energy of formation of FeS 2 were evaluated using reported composition values of pyrrhotite in equilibrium with pyrite 1:.4~-47and the incongruent melting point of pyrite at 1016 K. 4~” |
+| Phase transition | 1463 K | 1463 | congruent transformation | experimental | [1] Guillermet 1981; _cites Jensen 1942_ [doi](https://doi.org/10.2475/ajs.240.10.695) | p. 4 | “When the result was used to calculate the sulfur activity at the experimental point of congruent melting, x s = 0.52 at 1463 K (Ref. 18), a value of 0.49 was obtained whereas experiments in the liquid just above the melting point have suggested a value of about 0.6.13,19-21” |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Jyrki Miettinen, Bengt Hallstedt, Thermodynamic assessment of the Fe-FeS-MnS-Mn system, Calphad 22, 257-273 (1998). [doi:10.1016/s0364-5916(98)00027-3](https://doi.org/10.1016/s0364-5916%2898%2900027-3)
-2. A. Fernandez Guillermet, M. Hillert, B. Jansson, B. Sundman, An assessment of the Fe-S system using a two-sublattice model for the liquid phase, Metall Trans B 12, 745-754 (1981). [doi:10.1007/bf02654144](https://doi.org/10.1007/bf02654144)
+1. A. Fernandez Guillermet, M. Hillert, B. Jansson, B. Sundman, An assessment of the Fe-S system using a two-sublattice model for the liquid phase, Metall Trans B 12, 745-754 (1981). [doi:10.1007/bf02654144](https://doi.org/10.1007/bf02654144)
 
 ## Please cite
 

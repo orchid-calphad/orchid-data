@@ -33,6 +33,7 @@ Table: Phases of the B–Ta system (13)
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — TaB-17OuY.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — TaB-18DaS.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3361.75 K, x(B) 1–1
 - Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ta:b-beta-rhombo)

@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Co4Y.html · Markdown: https://data.orchid-project.org/compounds/Co4Y.md
 
-2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median 12.2 kJ/mol-atom (n = 1).
+2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -12.2 kJ/mol-atom (n = 1).
 
 Systems: [Co–Y](https://data.orchid-project.org/systems/CO-Y.html)
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Co4Y reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 12.2 kJ/mol-atom ± 0.87 | Y(Co)4(Co) | 298.15 | experimental |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 15 |  |
+| -12.2 kJ/mol-atom ± 0.87 | Y(Co)4(Co) | 298.15 | experimental |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 15 |  |
 | -9.42 kJ/mol-atom | Y(Co)4(Co) | 0 | DFT |  | [Co–Y](https://data.orchid-project.org/systems/CO-Y.html) | [1] Golumbfskie 2006 | Table 4, p. 3, row 3 |  |
 
 ### Uncertainty budget
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Co4Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 12.2 | kJ/mol-atom | 0.87 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -9.42 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -12.2 | kJ/mol-atom | 0.87 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -9.42 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

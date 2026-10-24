@@ -1,10 +1,10 @@
 # Co–Gd phases
 
-> Co–Gd system: 13 phases (tier A 6, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Co–Gd system: 13 phases (tier A 6, tier C 2, liquid 2, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CO-GD.html · Markdown: https://data.orchid-project.org/phases/pages/CO-GD.md
 
-13 phases (tier A 6, tier C 2, liquid 1, needs_review 4); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 6, tier C 2, liquid 2, needs_review 3); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CO-GD) · [full JSON](https://data.orchid-project.org/phases/systems/CO-GD.json) · [Co–Gd system page](https://data.orchid-project.org/systems/CO-GD.html) · [Markdown](https://data.orchid-project.org/phases/pages/CO-GD.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -23,7 +23,7 @@ Table: Phases of the Co–Gd system (13)
 | [DELTA_PHASE](#phase-co-gd-delta-phase); _phase:co-gd:delta-phase_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1642.9 K, x(Gd) 0.10526–0.16278 | 0 | 1 |
 | [FCC_A1](#phase-co-gd-fcc-a1); _phase:co-gd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 479.99–1801.43 K, x(Gd) 0–0.00043 | 4 | 2 |
 | [HCP_A3](#phase-co-gd-hcp-a3); _phase:co-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1508.27 K, x(Gd) 0–1 | 5 | 2 |
-| [KAP_LIQ](#phase-co-gd-kap-liq); _phase:co-gd:kap-liq_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 921.72–2500 K, x(Gd) 0–1 | 0 | 1 |
+| [KAP_LIQ](#phase-co-gd-kap-liq); _phase:co-gd:kap-liq_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 921.72–2500 K, x(Gd) 0–1 | 0 | 1 |
 | [LIQUID](#phase-co-gd-liquid); _phase:co-gd:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 889.76–2500 K, x(Gd) 0–1 | 27 | 2 |
 
 ## BCC_A2 (Co–Gd)
@@ -451,16 +451,8 @@ _cited as the source of values for this phase_
 
 ## KAP_LIQ (Co–Gd)
 
-- Id: `phase:co-gd:kap-liq`; status `needs_review`
-- No structure assigned. Why: name_has_descriptive_tokens:KAP,LIQ; no_structure_token
-- Candidate (dft_mp): P-3 (147) — on-hull MP Gd4Co3 at x(GD)=0.5714
-- Candidate (dft_mp): P6/mmm (191) — on-hull MP GdCo5 at x(GD)=0.1667
-- Candidate (dft_oqmd): Cmcm (63) — on-hull OQMD Co1 Gd1 at x(GD)=0.5000
-- Candidate (dft_oqmd): I4/mmm (139) — on-hull OQMD Co12 Gd1 at x(GD)=0.0769
-- Candidate (dft_oqmd): Fd-3m (227) — on-hull OQMD Co2 Gd1 at x(GD)=0.3333
-- Candidate (dft_oqmd): C2/c (15) — on-hull OQMD Co2 Gd5 at x(GD)=0.7143
-- Candidate (dft_oqmd): Fm-3m (225) — on-hull OQMD Co23 Gd6 at x(GD)=0.2069
-- Candidate (dft_oqmd): Cmca (64) — on-hull OQMD Co3 Gd2 at x(GD)=0.4000
+- Id: `phase:co-gd:kap-liq`; status `assigned`
+- Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 921.72–2500 K, x(Gd) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-gd:kap-liq)

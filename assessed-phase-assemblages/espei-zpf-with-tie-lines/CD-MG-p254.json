@@ -5,7 +5,7 @@
   "VA"
  ],
  "phases": [
-  "A3_HCP",
+  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
@@ -20,7 +20,7 @@
  "values": [
   [
    [
-    "A3_HCP",
+    "HCP_A3",
     [
      "MG"
     ],
@@ -51,7 +51,7 @@
     ]
    ],
    [
-    "A3_HCP",
+    "HCP_A3",
     [
      "MG"
     ],

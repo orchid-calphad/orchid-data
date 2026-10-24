@@ -1,10 +1,10 @@
 # Sc–Zr system
 
-> Sc–Zr system: 1 accepted literature values (phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Zr system: 3 accepted literature values (mixing / partial 2, phase transition 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-ZR.html · Markdown: https://data.orchid-project.org/systems/SC-ZR.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 4 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (experimental 1, model 2); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-ZR.json) · [CSV](https://data.orchid-project.org/systems/SC-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-ZR/ScZr-08GTT.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SC-ZR.md)
 
@@ -13,12 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -44,6 +46,15 @@ Table: Phase transition, Sc–Zr system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1688.15 K | 1688.15 |  | experimental | [1] Wang 2015; _cites Bcaudry 1963_ | p. 2 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Zr system was established by Beaudry and Daane,\[20\] who indicated the maximum transition temperature from the hcp phase to the bcc phase at 70 at.% Sc is 1415 °C.” |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Sc–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4 kJ/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 9 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 4 kJ/mol (basis unstated) | 2173.15 | liquid; _alloy: Sc 0.5, Zr 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 10 |  |
 
 ## Sources
 

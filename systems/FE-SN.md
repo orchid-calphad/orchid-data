@@ -1,10 +1,10 @@
 # Fe–Sn system
 
-> Fe–Sn system: 57 accepted literature values (invariant reaction 45, activity / EMF / Gibbs energy 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sn system: 59 accepted literature values (invariant reaction 45, activity / EMF / Gibbs energy 12, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SN.html · Markdown: https://data.orchid-project.org/systems/FE-SN.md
 
-57 accepted literature values from 2 paper(s) (experimental 45, model 12); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+59 accepted literature values from 3 paper(s) (experimental 45, model 13, DFT 1); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN.json) · [CSV](https://data.orchid-project.org/systems/FE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-SN/FeSn-10Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SN.html) · [Markdown](https://data.orchid-project.org/systems/FE-SN.md)
 
@@ -13,13 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 45 |
-| model | 12 |
+| model | 13 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 45 |
+| formation | 2 |
 | activity / EMF / Gibbs energy | 12 |
 
 ## Calculated phase diagrams
@@ -152,6 +154,17 @@ Table: Invariant reactions reported in the literature for the Fe–Sn system (45
 | 505.05 | Liquid = FeSn2 + BCT_A5 | Liquid: Sn 0.999; FeSn2: Sn 0.666; BCT_A5: Sn 1 | model | [1] Huang 2010 | Table 1, p. 3, row 40 |  |
 | 501.15 | Liquid = FeSn2 + BCT_A5 | FeSn2: Sn 0.666667; BCT_A5: Sn 1 | experimental | [1] Huang 2010; _cites Isaac 1907_ | Table 1, p. 3, row 41 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Fe–Sn system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Fe5Sn3 | [Fe5Sn3](https://data.orchid-project.org/compounds/Fe5Sn3.html) | 2.79 kJ/mol-atom |  | model |  | 18.263 (oqmd-1277778) | [2] Lafaye 2020 | Table 2, p. 4, row 8 |  |
+| Fe5Sn3 |  | 2.79 kJ/mol-atom | 0 | DFT |  |  | [2] Lafaye 2020 | Table 2, p. 4, row 7 |  |
+
 ## Other properties
 
 ### Activity / EMF / Gibbs energy (12)
@@ -160,25 +173,26 @@ Table: Activity / EMF / Gibbs energy, Fe–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27790 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [2] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 23.65 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [2] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 20.334 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [2] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -21142 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [2] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -23013 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [2] Kumar 1996 | Table 4, p. 7, row 1 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 19.702 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [2] Kumar 1996 | Table 4, p. 7, row 1 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27624 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [2] Kumar 1996 | Table 4, p. 7, row 4 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 28.803 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [2] Kumar 1996 | Table 4, p. 7, row 4 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 30.52 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [2] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -24140 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [2] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
-| Gibbs energy; _printed: Gibbs energy (T)_ | 28.368 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [2] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
-| Gibbs energy; _printed: Gibbs energy (const)_ | -27916 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [2] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27790 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 23.65 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 3 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 20.334 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -21142 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 2 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -23013 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 19.702 J/ mole of atoms |  | FeSn; _alloy: Sn 0.5_ | model | [3] Kumar 1996 | Table 4, p. 7, row 1 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27624 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 28.803 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | model | [3] Kumar 1996 | Table 4, p. 7, row 4 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 30.52 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -24140 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites ref. 78Ere_ | Table 4, p. 7, row 6 |  |
+| Gibbs energy; _printed: Gibbs energy (T)_ | 28.368 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
+| Gibbs energy; _printed: Gibbs energy (const)_ | -27916 J/ mole of atoms |  | FeSn2; _alloy: Sn 0.666667_ | experimental | [3] Kumar 1996; _cites Zabyr 1984_ | Table 4, p. 7, row 5 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Yu-Chih Huang, Wojciech Gierlotka, Sinn-Wen Chen, Sn–Bi–Fe thermodynamic modeling and Sn–Bi/Fe interfacial reactions, Intermetallics 18, 984-991 (2010). [doi:10.1016/j.intermet.2010.01.026](https://doi.org/10.1016/j.intermet.2010.01.026)
-2. K.C.Hari Kumar, P. Wollants, L. Delaey, Thermodynamic evaluation of Fe-Sn phase diagram, Calphad 20, 139-149 (1996). [doi:10.1016/s0364-5916(96)00021-1](https://doi.org/10.1016/s0364-5916%2896%2900021-1)
+2. Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020). [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200)
+3. K.C.Hari Kumar, P. Wollants, L. Delaey, Thermodynamic evaluation of Fe-Sn phase diagram, Calphad 20, 139-149 (1996). [doi:10.1016/s0364-5916(96)00021-1](https://doi.org/10.1016/s0364-5916%2896%2900021-1)
 
 ## Please cite
 

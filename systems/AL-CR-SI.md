@@ -1,10 +1,10 @@
 # Al–Cr–Si system
 
-> Al–Cr–Si system: 88 accepted literature values (invariant reaction 54, crystal structure 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Si system: 70 accepted literature values (invariant reaction 54, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-SI.html · Markdown: https://data.orchid-project.org/systems/AL-CR-SI.md
 
-88 accepted literature values from 1 paper(s) (experimental 31, model 57); 0 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 21, model 49); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-SI.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-SI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-SI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 57 |
+| experimental | 21 |
+| model | 49 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 54 |
-| crystal structure | 34 |
+| crystal structure | 16 |
 
 ## Invariant reactions (literature)
 
@@ -85,7 +85,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr–Si syste
 
 ## Other properties
 
-### Crystal structure (34)
+### Crystal structure (16)
 
 Table: Crystal structure, Al–Cr–Si system
 
@@ -94,33 +94,15 @@ Table: Crystal structure, Al–Cr–Si system
 | Lattice a | 10.903 Å |  | τ1 | model | [1] Hu 2013 | Table 3, p. 4, row 15 |  |
 | Lattice a | 7.508 Å |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
 | Lattice a | 4.05 Å | 298.15 | (Al); _alloy: Cr 0, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 1 |  |
-| Lattice a | 2.885 Å | 298.15 | (Cr); _alloy: Cr 1, Si 0_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2 |  |
-| Lattice a | 5.431 Å | 298.15 | (Si); _alloy: Cr 0, Si 1_ | model | [1] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 3 |  |
-| Lattice a | 25.196 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice a | 19.98 Å | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
-| Lattice a | 12.88 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
-| Lattice a | 3.005 Å | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
-| Lattice a | 4.558 Å | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7 |  |
-| Lattice a | 4.62 Å | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5 |  |
-| Lattice a | 4.428 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice a | 9.17 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
 | Lattice a | 9.104 Å | 298.15 | γ-H; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 9 |  |
 | Lattice a | 12.719 Å | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
 | Lattice a | 10.927 Å | 298.15 | τ1 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 14 |  |
 | Lattice a | 7.535 Å | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
 | Lattice a | 5.126 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
 | Lattice a | 14.842 Å | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
-| Lattice b | 7.574 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice b | 7.652 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
 | Lattice b | 8.98 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |
 | Lattice b | 12.452 Å | 298.15 | τ4 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 19 |  |
 | Lattice c | 7.819 Å |  | τ2 | model | [1] Hu 2013 | Table 3, p. 4, row 17 |  |
-| Lattice c | 10.949 Å | 298.15 | Al45Cr7; _alloy: Cr 0.134615, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 13 |  |
-| Lattice c | 24.67 Å | 298.15 | Al4Cr; _alloy: Cr 0.2, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 11 |  |
-| Lattice c | 10.639 Å | 298.15 | Al5Cr; _alloy: Cr 0.166667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 12 |  |
-| Lattice c | 8.645 Å | 298.15 | AlCr2; _alloy: Cr 0.666667, Si 0_ | experimental | [1] Hu 2013; _cites Murray 2013_ | Table 3, p. 4, row 8 |  |
-| Lattice c | 6.368 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
-| Lattice c | 4.636 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [1] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
 | Lattice c | 7.936 Å | 298.15 | γ-L; _alloy: Cr 0.42_ | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 10 |  |
 | Lattice c | 7.839 Å | 298.15 | τ2 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 16 |  |
 | Lattice c | 5.047 Å | 298.15 | τ3 | model | [1] Hu 2013; _cites Chen 2008_ | Table 3, p. 4, row 18 |  |

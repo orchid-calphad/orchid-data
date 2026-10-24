@@ -14,7 +14,7 @@ Table: Enthalpy of formation of SiZr2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -112.967 kJ/mol-atom ± 12.55 | SiZr2 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 20 |  |
+| -112.967 kJ/mol-atom ± 4.18333 | SiZr2 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 20 |  |
 | -77.06 kJ/mol-atom | SiZr2 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 22 |  |
 | -69.388 kJ/mol-atom | SiZr2 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 21 |  |
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of SiZr2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -112.967 | kJ/mol-atom | 12.55 | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 12.55 |
-| -77.06 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -69.388 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -112.967 | kJ/mol-atom | 4.183 | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 4.183 |
+| -77.06 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -69.388 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

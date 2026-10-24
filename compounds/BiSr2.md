@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BiSr2.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -104 kJ/mol-atom (n = 1); Materials Project -72.467 kJ/mol-atom (mp-aaaabrvf); OQMD -74.05 kJ/mol-atom (oqmd-7610).
 
-Systems: [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html)
+Systems: [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of BiSr2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -104 kJ/mol-atom ± 1.67 | Sr2Bi | 298.15 | experimental |  | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
-| -76.47 kJ/mol-atom | Sr2Bi | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
-| -73.23 kJ/mol-atom | Sr2Bi | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 23 |  |
+| -104 kJ/mol-atom ± 1.67 | Sr2Bi | 298.15 | experimental |  | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
+| -76.47 kJ/mol-atom | Sr2Bi | 298.15 | model | CALPHAD | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
+| -73.23 kJ/mol-atom | Sr2Bi | 298.15 | DFT | First-principles calculations | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 23 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of BiSr2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -104 | kJ/mol-atom | 1.67 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -76.47 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.23 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -104 | kJ/mol-atom | 1.67 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -76.47 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -73.23 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -38,8 +38,8 @@ Table: DFT formation energy of BiSr2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaabrvf | -72.467 | -0.751074 | I4/mmm | 2.43 | 0.0252 | no |
-| OQMD | oqmd-7610 | -74.05 | -0.767472 | I4/mmm | 1.975 | 0.0205 | no |
+| Materials Project | mp-aaaabrvf | -72.467 | -0.751074 | I4/mmm | 2.4298 | 0.0252 | no |
+| OQMD | oqmd-7610 | -74.05 | -0.767472 | I4/mmm | 1.9747 | 0.0205 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

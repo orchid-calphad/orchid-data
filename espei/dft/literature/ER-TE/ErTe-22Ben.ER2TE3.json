@@ -1,0 +1,230 @@
+{
+ "components": [
+  "ER",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "ER2TE3"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ER",
+    "TE"
+   ],
+   [
+    "ER",
+    "TE"
+   ],
+   [
+    "ER",
+    "TE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -133951.0,
+    -133731.0,
+    -157965.0
+   ]
+  ]
+ ],
+ "reference": "Bennoui 2022, doi:10.1007/s11669-022-00947-8",
+ "bibtex": "bennoui2022_12e58b",
+ "weight": [
+  0.052849,
+  0.052849,
+  0.052849
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB ErTe-22Ben.tdb (sha256 f2f2246d321ba2f9d67d4cff558e27fb59a6d0643cf094a02b3ba8914d27d9d5), phase ER2TE3. Ids, in value order: ORC-HPKJF6GDPI ORC-JUOO7MQ5EN ORC-SC3LCWNFYX. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "ErTe-22Ben.tdb",
+   "path": "databases/sgte-binary/ErTe-22Ben.tdb",
+   "sha256": "f2f2246d321ba2f9d67d4cff558e27fb59a6d0643cf094a02b3ba8914d27d9d5",
+   "phase": "ER2TE3"
+  },
+  "registry_phase": "phase:er-te:er2te3",
+  "mapping": [
+   {
+    "id": "ORC-HPKJF6GDPI",
+    "compound": "Er2Te3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-JUOO7MQ5EN",
+    "compound": "Er2Te3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-SC3LCWNFYX",
+    "compound": "Er2Te3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-022-00947-8"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00947-8"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 9461.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ER-TE",
+     "n": 116,
+     "sigma_robust_kJ": 9.461,
+     "bias_median_kJ_not_applied": 0.55,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.052849,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -133.951,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-HPKJF6GDPI",
+    "compound": "Er2Te3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9461.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9461.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 116,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|ER-TE"
+    }
+   },
+   {
+    "sigma": 9461.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ER-TE",
+     "n": 116,
+     "sigma_robust_kJ": 9.461,
+     "bias_median_kJ_not_applied": 0.55,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.052849,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -133.731,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-JUOO7MQ5EN",
+    "compound": "Er2Te3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9461.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9461.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 116,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|ER-TE"
+    }
+   },
+   {
+    "sigma": 9461.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "ER-TE",
+     "n": 116,
+     "sigma_robust_kJ": 9.461,
+     "bias_median_kJ_not_applied": 0.55,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.052849,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -157.965,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-SC3LCWNFYX",
+    "compound": "Er2Te3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9461.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9461.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 116,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|ER-TE"
+    }
+   }
+  ]
+ }
+}

@@ -1,10 +1,10 @@
 # Pb–Sb–Sn system
 
-> Pb–Sb–Sn system: 172 accepted literature values (phase transition 148, phase equilibrium 12, crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Sb–Sn system: 165 accepted literature values (phase transition 148, phase equilibrium 12, crystal structure 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-SB-SN.html · Markdown: https://data.orchid-project.org/systems/PB-SB-SN.md
 
-172 accepted literature values from 1 paper(s) (experimental 161, model 8, unspecified 3); 0 calculated phase diagram(s).
+165 accepted literature values from 1 paper(s) (experimental 160, model 4, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SB-SN.json) · [CSV](https://data.orchid-project.org/systems/PB-SB-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SB-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-SB-SN.html) · [Markdown](https://data.orchid-project.org/systems/PB-SB-SN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 161 |
-| model | 8 |
-| unspecified | 3 |
+| experimental | 160 |
+| model | 4 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 148 |
 | phase equilibrium | 12 |
-| crystal structure | 12 |
+| crystal structure | 5 |
 
 ## Other properties
 
@@ -200,23 +200,16 @@ Table: Phase equilibrium, Pb–Sb–Sn system
 | Phase composition |  | 573.15 | L + β; _β: Pb 0.053697, Sb 0.508219, Sn 0.438083_ | experimental | [1] Ohtani 1995 | Table 8, p. 11, row 9 |  |
 | Phase composition |  | 573.15 | L + β; _β: Pb 0.027205, Sb 0.466979, Sn 0.505816_ | experimental | [1] Ohtani 1995 | Table 8, p. 11, row 10 |  |
 
-### Crystal structure (12)
+### Crystal structure (5)
 
 Table: Crystal structure, Pb–Sb–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Molar volume | 18.7 cm3/mol |  | L; _alloy: Sb 1, Sn 0_ | unspecified | [1] Ohtani 1995; _cites Kaufman 1963_ | Table 3, p. 2, row 10 |  |
 | Molar volume | 19.38 cm3/mol |  | L; _alloy: Sb 0, Sn 0_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 1 |  |
-| Molar volume | 16.98 cm3/mol |  | L; _alloy: Sb 0, Sn 1_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 6 |  |
-| Molar volume | 18.775 cm3/mol |  | α; _alloy: Sb 1, Sn 0_ | experimental | [1] Ohtani 1995; _cites Clark 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990020-x) | Table 3, p. 2, row 11 |  |
 | Molar volume | 19.38 cm3/mol |  | α; _alloy: Sb 0, Sn 0_ | unspecified | [1] Ohtani 1995 | Table 3, p. 2, row 2 |  |
 | Molar volume | 18.4 cm3/mol |  | γ; _alloy: Sb 0, Sn 0_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 3 |  |
-| Molar volume | 16.555 cm3/mol |  | γ; _alloy: Sb 0, Sn 1_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 7 |  |
 | Molar volume | 18.7 cm3/mol |  | δ; _alloy: Sb 0, Sn 0_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 4 |  |
-| Molar volume | 18.7 cm3/mol |  | δ; _alloy: Sb 1, Sn 0_ | unspecified | [1] Ohtani 1995 | Table 3, p. 2, row 12 |  |
-| Molar volume | 16.855 cm3/mol |  | δ; _alloy: Sb 0, Sn 1_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 8 |  |
-| Molar volume | 16.548 cm3/mol |  | ε; _alloy: Sb 0, Sn 1_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 9 |  |
 | Molar volume | 18.873 cm3/mol |  | ε; _alloy: Sb 0, Sn 0_ | model | [1] Ohtani 1995; _cites Karakaya 1988_ [doi](https://doi.org/10.1007/bf02890552) | Table 3, p. 2, row 5 |  |
 
 ## Sources

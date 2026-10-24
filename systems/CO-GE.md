@@ -1,10 +1,10 @@
 # Co–Ge system
 
-> Co–Ge system: 153 accepted literature values (invariant reaction 78, formation 55, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ge system: 152 accepted literature values (invariant reaction 77, formation 55, crystal structure 17, phase transition 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GE.html · Markdown: https://data.orchid-project.org/systems/CO-GE.md
 
-153 accepted literature values from 3 paper(s) (experimental 56, model 97); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+152 accepted literature values from 3 paper(s) (experimental 56, model 96); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GE.json) · [CSV](https://data.orchid-project.org/systems/CO-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GE/CoGe-04Kor-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GE.html) · [Markdown](https://data.orchid-project.org/systems/CO-GE.md)
 
@@ -13,13 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 56 |
-| model | 97 |
+| model | 96 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 78 |
+| invariant reaction | 77 |
 | phase transition | 3 |
 | formation | 55 |
 | crystal structure | 17 |
@@ -108,7 +108,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Ge system (78)
+Table: Invariant reactions reported in the literature for the Co–Ge system (77)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -186,7 +186,6 @@ Table: Invariant reactions reported in the literature for the Co–Ge system (78
 | 909 | peritectoid: Co3Ge + βCo5Ge3 \<-> Co2Ge | Co3Ge: Ge 0.25; βCo5Ge3: Ge 0.347; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 35 |  |
 | 909 | peritectoid: ε(Co) + βCo5Ge3 -> Co5Ge2 | ε(Co): Ge 0.167; βCo5Ge3: Ge 0.35; Co5Ge2: Ge 0.286 | model | [3] Dong 2013; _cites Ishida 1991_ [doi](https://doi.org/10.1007/bf02663679) | Table 7, p. 6, row 25 |  |
 | 901 | eutectoid: Co3Ge \<-> ε(Co) + Co2Ge | Co3Ge: Ge 0.25; ε(Co): Ge 0.157; Co2Ge: Ge 0.333 | model | [2] Zeng 2019 | Table 2, p. 3, row 37 |  |
-| 695.15 | polymorphic: αCo -> εCo | εCo: Ge 0 | model | [1] Ansara 1991 | Table 1, p. 5, row 13 |  |
 | 656 | eutectoid: Co5Ge2 -> ε(Co) + βCo5Ge3 | Co5Ge2: Ge 0.286; ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388 | model | [3] Dong 2013 | Table 7, p. 6, row 27 |  |
 | 655.15 | eutectoid: Co5Ge2 -> (εCo) + (αCo5Ge3) | Co5Ge2: Ge 0.286; (εCo): Ge 0.16; (αCo5Ge3): Ge 0.365 | model | [1] Ansara 1991 | Table 1, p. 5, row 14 |  |
 | 655 | peritectoid: ε(Co) + βCo5Ge3 -> αCo5G3 | ε(Co): Ge 0.153; βCo5Ge3: Ge 0.388; αCo5G3: Ge 0.375 | model | [3] Dong 2013 | Table 7, p. 6, row 28 |  |

@@ -1,10 +1,10 @@
 # Sc–Zn system
 
-> Sc–Zn system: 42 accepted literature values (crystal structure 26, invariant reaction 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Zn system: 38 accepted literature values (crystal structure 22, invariant reaction 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-ZN.html · Markdown: https://data.orchid-project.org/systems/SC-ZN.md
 
-42 accepted literature values from 1 paper(s) (experimental 20, model 9, DFT 13); 1 calculated phase diagram(s).
+38 accepted literature values from 1 paper(s) (experimental 18, model 9, DFT 11); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-ZN.json) · [CSV](https://data.orchid-project.org/systems/SC-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-ZN/ScZn-12Tan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SC-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-ZN.html) · [Markdown](https://data.orchid-project.org/systems/SC-ZN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 18 |
 | model | 9 |
-| DFT | 13 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 2 |
-| crystal structure | 26 |
+| crystal structure | 22 |
 
 ## Calculated phase diagrams
 
@@ -87,7 +87,7 @@ Table: Phase transition, Sc–Zn system
 | Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | experimental | [1] Tang 2012; _cites Palenzona 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902576-5) | Table 3, p. 6, row 2 |  |
 | Phase transition | 1503.15 K | 1503.15 | congruent melting: Liquid -> ScZn; _L: Zn 0.5; ScZn: Zn 0.5_ | model | [1] Tang 2012 | Table 3, p. 6, row 3 |  |
 
-### Crystal structure (26)
+### Crystal structure (22)
 
 Table: Crystal structure, Sc–Zn system
 
@@ -107,8 +107,6 @@ Table: Crystal structure, Sc–Zn system
 | Lattice a | 8.807 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11 |  |
 | Lattice a | 5.251 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10 |  |
 | Lattice a | 5.277 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9 |  |
-| Lattice a | 2.665 Å |  | Zn; _alloy: Zn 1_ | experimental | [1] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6 |  |
-| Lattice a | 2.634 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 5 |  |
 | Lattice c | 5.265 Å |  | (αSc); _alloy: Zn 0_ | experimental | [1] Tang 2012; _cites Saw 1968_ | Table 1, p. 4, row 2 |  |
 | Lattice c | 5.154 Å | 0 | (αSc); _alloy: Zn 0_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 1 |  |
 | Lattice c | 13.698 Å | 0 | Sc13Zn58; _alloy: Zn 0.816901_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 13 |  |
@@ -117,8 +115,6 @@ Table: Crystal structure, Sc–Zn system
 | Lattice c | 5.181 Å | 0 | ScZn12; _alloy: Zn 0.923077_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 11 |  |
 | Lattice c | 8.477 Å |  | ScZn2; _alloy: Zn 0.666667_ | experimental | [1] Tang 2012; _cites Xiaoyang 1996_ | Table 1, p. 4, row 10 |  |
 | Lattice c | 8.481 Å | 0 | ScZn2; _alloy: Zn 0.666667_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 9 |  |
-| Lattice c | 4.945 Å |  | Zn; _alloy: Zn 1_ | experimental | [1] Tang 2012; _cites Brown 1965_ | Table 1, p. 4, row 6 |  |
-| Lattice c | 5.142 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Tang 2012 | Table 1, p. 4, row 5 |  |
 
 ## Sources
 

@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Na2UO4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -271.1 kJ/mol-atom ± 3.5 | α-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
-| -269.229 kJ/mol-atom ± 3.6 | β-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4 |  |
+| -271.1 kJ/mol-atom ± 0.5 | α-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 1 |  |
+| -269.229 kJ/mol-atom ± 0.514286 | β-Na2UO4 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 4 |  |
 | -271.6 kJ/mol-atom | α-Na2UO4 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 3 |  |
 | -265.443 kJ/mol-atom | α-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 2 |  |
 | -264.6 kJ/mol-atom | β-Na2UO4 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 5 |  |
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Na2UO4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -271.1 | kJ/mol-atom | 3.5 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -269.229 | kJ/mol-atom | 3.6 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
-| -271.6 | kJ/mol-atom |  | 0.007143 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -265.443 | kJ/mol-atom |  | 0.007143 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -264.6 | kJ/mol-atom |  | 0.007143 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -271.1 | kJ/mol-atom | 0.5 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -269.229 | kJ/mol-atom | 0.5143 | 0.007143 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -271.6 | kJ/mol-atom |  | 0.007143 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -265.443 | kJ/mol-atom |  | 0.007143 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -264.6 | kJ/mol-atom |  | 0.007143 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

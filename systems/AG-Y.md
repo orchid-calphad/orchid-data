@@ -1,10 +1,10 @@
 # Ag–Y system
 
-> Ag–Y system: 27 accepted literature values (invariant reaction 27) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Y system: 25 accepted literature values (invariant reaction 25) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-Y.html · Markdown: https://data.orchid-project.org/systems/AG-Y.md
 
-27 accepted literature values from 1 paper(s) (experimental 17, model 10); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+25 accepted literature values from 1 paper(s) (experimental 16, model 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-Y.json) · [CSV](https://data.orchid-project.org/systems/AG-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-Y/AgY-09Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-Y.html) · [Markdown](https://data.orchid-project.org/systems/AG-Y.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 10 |
+| experimental | 16 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
+| invariant reaction | 25 |
 
 ## Calculated phase diagrams
 
@@ -51,15 +51,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Y system (27)
+Table: Invariant reactions reported in the literature for the Ag–Y system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | model | [1] Wang 2009 | Table 3, p. 3, row 3 |  |
 | 1795.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 1 |  |
 | 1782.15 | congruent melting: L ↔ βY | βY: Y 1 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 2 |  |
-| 1751.15 | polymorphic: βY ↔ αY | αY: Y 1 | experimental | [1] Wang 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868085) | Table 3, p. 3, row 4 |  |
-| 1751.15 | polymorphic: βY ↔ αY | αY: Y 1 | model | [1] Wang 2009 | Table 3, p. 3, row 5 |  |
 | 1436.85 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | model | [1] Wang 2009 | Table 3, p. 3, row 9 |  |
 | 1433.15 | congruent melting: L ↔ AgY | L: Y 0.5; AgY: Y 0.5 | experimental | [1] Wang 2009; _cites Gebhardt 1964_ | Table 3, p. 3, row 8 |  |
 | 1236.05 | congruent melting: L ↔ Ag2Y | L: Y 0.333; Ag2Y: Y 0.333 | model | [1] Wang 2009 | Table 3, p. 3, row 13 |  |

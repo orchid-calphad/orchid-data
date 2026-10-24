@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/ReB2.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -41.281 kJ/mol-atom (mp-aaaaacqf); OQMD -40.537 kJ/mol-atom (oqmd-4449).
 
-Systems: [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html)
+Systems: [B–Re](https://data.orchid-project.org/systems/B-RE.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of ReB2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.1 kJ/mol-atom | ReB2 |  | model | FP calculation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 23 |  |
-| -40 kJ/mol-atom | ReB2 |  | model | This work | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010 | Table 2, p. 3, row 26 |  |
-| -28 kJ/mol-atom | ReB2 |  | model | Estimation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 24 |  |
+| -43.1 kJ/mol-atom | ReB2 |  | model | FP calculation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 23 |  |
+| -40 kJ/mol-atom | ReB2 |  | model | This work | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010 | Table 2, p. 3, row 26 |  |
+| -28 kJ/mol-atom | ReB2 |  | model | Estimation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 24 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of ReB2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -40 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -40 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

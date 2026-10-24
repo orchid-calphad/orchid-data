@@ -1,10 +1,10 @@
 # Fe–Ni–W system
 
-> Fe–Ni–W system: 122 accepted literature values (phase equilibrium 118, invariant reaction 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni–W system: 118 accepted literature values (phase equilibrium 118) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI-W.html · Markdown: https://data.orchid-project.org/systems/FE-NI-W.md
 
-122 accepted literature values from 1 paper(s) (experimental 120, model 2); 0 calculated phase diagram(s).
+118 accepted literature values from 1 paper(s) (experimental 118); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI-W.json) · [CSV](https://data.orchid-project.org/systems/FE-NI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NI-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-NI-W.md)
 
@@ -12,26 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 120 |
-| model | 2 |
+| experimental | 118 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
 | phase equilibrium | 118 |
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Fe–Ni–W system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 1748 | bcc/fcc/liq./μ-phase | bcc: W 5.97 (basis unresolved); fcc: W 21.82 (basis unresolved); L: W 26.32 (basis unresolved); μ-phase: W 67.71 (basis unresolved) | model | [1] Guillermet 1986 | Table Xll, p. 13, row 2 |  |
-| 1738 | bcc/fcc/liq./μ-phase | bcc: W 15 (basis unresolved); fcc: W 25 (basis unresolved); L: W 29 (basis unresolved); μ-phase: W 56 (basis unresolved) | experimental | [1] Guillermet 1986; _cites Winkler 1932_ [doi](https://doi.org/10.1002/srin.193200334) | Table Xll, p. 13, row 1 |  |
-| 1728 | bcc(W)/fcc/liq./μ-phase | bcc(W): W 27.5 (basis unresolved); fcc: W 25.5 (basis unresolved); L: W 30 (basis unresolved); μ-phase: W 42.5 (basis unresolved) | experimental | [1] Guillermet 1986; _cites Winkler 1932_ [doi](https://doi.org/10.1002/srin.193200334) | Table Xll, p. 13, row 3 |  |
-| 1726 | bcc(W)/fcc/liq./μ-phase | bcc(W): W 21.04 (basis unresolved); fcc: W 23.82 (basis unresolved); L: W 29.28 (basis unresolved); μ-phase: W 49.68 (basis unresolved) | model | [1] Guillermet 1986 | Table Xll, p. 13, row 4 |  |
 
 ## Other properties
 

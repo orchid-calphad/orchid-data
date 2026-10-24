@@ -1,12 +1,12 @@
 # Al–La system
 
-> Al–La system: 78 accepted literature values (invariant reaction 64, phase transition 10, formation 4) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–La system: 76 accepted literature values (invariant reaction 64, phase transition 10, formation 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LA.html · Markdown: https://data.orchid-project.org/systems/AL-LA.md
 
-78 accepted literature values from 4 paper(s) (experimental 33, model 43, DFT 2); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+76 accepted literature values from 4 paper(s) (experimental 33, model 43); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LA.json) · [CSV](https://data.orchid-project.org/systems/AL-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LA/AlLa-00Yin.json) · [phases (16)](https://data.orchid-project.org/phases/pages/AL-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LA.html) · [Markdown](https://data.orchid-project.org/systems/AL-LA.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LA.json) · [CSV](https://data.orchid-project.org/systems/AL-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LA/AlLa-00Yin.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LA.html) · [Markdown](https://data.orchid-project.org/systems/AL-LA.md)
 
 Table: Accepted values by evidence class
 
@@ -14,7 +14,6 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 33 |
 | model | 43 |
-| DFT | 2 |
 
 Table: Accepted values by property group
 
@@ -22,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 64 |
 | phase transition | 10 |
-| formation | 4 |
+| formation | 2 |
 
 ## Calculated phase diagrams
 
@@ -187,14 +186,12 @@ Table: Invariant reactions reported in the literature for the Al–La system (64
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–La system (4)
+Table: Enthalpies of formation, Al–La system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2006 | Table 3, p. 6, row 27 |  |
 | Al11La3-α |  | -41 unknown | 298.15 | experimental |  |  | [1] Zhou 2006; _cites Sommer 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990092-6) | Table 3, p. 6, row 51 |  |
 | AlLa |  | -45.9 unknown | 298.15 | experimental |  |  | [1] Zhou 2006; _cites Borzone 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902605-9) | Table 3, p. 6, row 49 |  |
-| La |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2006 | Table 3, p. 6, row 28 |  |
 
 ## Other properties
 

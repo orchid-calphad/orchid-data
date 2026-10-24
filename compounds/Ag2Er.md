@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ag2Er.html · Markdown: https://
 
 5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 2); experimental median -24 kJ/mol-atom (n = 1); Materials Project -32.114 kJ/mol-atom (mp-aaaabswx); OQMD -33.095 kJ/mol-atom (oqmd-1976497).
 
-Systems: [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html)
+Systems: [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ag2Er reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24 kJ/mol-atom ± 2.3 | Ag2Er | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17 |  |
-| -39 kJ/mol-atom | Ag2Er |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18 |  |
-| -24 kJ/mol-atom ± 2.3 | Ag2Er |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16 |  |
-| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles (VASP PAW-GGA) | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33 |  |
+| -24 kJ/mol-atom ± 2.3 | Ag2Er | 298.15 | experimental |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17 |  |
+| -39 kJ/mol-atom | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18 |  |
+| -24 kJ/mol-atom ± 2.3 | Ag2Er |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles calculations | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 16 |  |
+| -34.119 kJ/mol-atom | Ag2Er | 298.15 | DFT | first-principles (VASP PAW-GGA) | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 33 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Ag2Er
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24 | kJ/mol-atom | 2.3 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -39 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24 | kJ/mol-atom | 2.3 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -34.119 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -34.119 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24 | kJ/mol-atom | 2.3 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -39 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24 | kJ/mol-atom | 2.3 | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -34.119 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -34.119 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of Ag2Er
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabswx | -32.114 | -0.332838 | I4/mmm | 0 | 0 | no |
-| OQMD | oqmd-1976497 | -33.095 | -0.343003 | Fmmm | 0.013 | 1.000e-4 | yes |
+| OQMD | oqmd-1976497 | -33.095 | -0.343003 | Fmmm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

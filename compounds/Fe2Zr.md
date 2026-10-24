@@ -18,10 +18,10 @@ Table: Enthalpy of formation of Fe2Zr reported in the literature (29)
 | -32.43 kJ/mol-atom | Fe2Zr | 1673 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Fleming 1985_ | Table 2, p. 3, row 6 |  |
 | -30.63 kJ/mol-atom | Fe2Zr | 1673 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Fleming 1985_ | Table 2, p. 3, row 5 |  |
 | -30.63 kJ/mol-atom | Fe2Zr | 1673.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Fleming 1985_ | Table 2, p. 5, row 12 |  |
-| -29.7 kJ/mol-atom ± 5.1 | Fe2Zr | 1760 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
+| -29.7 kJ/mol-atom ± 1.7 | Fe2Zr | 1760 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
 | -29.7 kJ/mol-atom ± 1.7 | Fe2Zr | 1760.15 | experimental | Calorimetry | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 5, row 9 |  |
 | -24.7 kJ/mol-atom ± 3.5 | Fe2Zr | 1023.15 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Jiang 2001; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 5, row 16 |  |
-| -24.7 kJ/mol-atom ± 10.5 | UNKNOWN | 1023 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
+| -24.7 kJ/mol-atom ± 3.5 | UNKNOWN | 1023 | experimental | Solubility | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
 | -40.7 kJ/mol-atom | Fe2Zr | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 15 |  |
 | -37.2667 kJ/mol-atom | Fe2Zr | 1023 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 11 |  |
 | -37 kJ/mol-atom | Fe2Zr | 1760 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Servant 1995 | Table 2, p. 3, row 4 |  |
@@ -56,31 +56,31 @@ Table: Uncertainty budget of the literature values of Fe2Zr
 | -32.43 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -30.63 | kJ/mol-atom |  | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -30.63 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -29.7 | kJ/mol-atom | 5.1 | 1.667e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5.1 |
+| -29.7 | kJ/mol-atom | 1.7 | 1.667e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -29.7 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -24.7 | kJ/mol-atom | 3.5 | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -24.7 | kJ/mol-atom | 10.5 | 1.667e-4 | 4.1 (equilibration_other, calibrated) |  |  |  | 10.5 |
-| -40.7 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.2667 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -34 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -34 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.7333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.93 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.197 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.846 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.65 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.559 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.3333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.333 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.2333 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.233 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.317 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24.667 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24.6667 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -24.7 | kJ/mol-atom | 3.5 | 0.05 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
+| -24.7 | kJ/mol-atom | 3.5 | 1.667e-4 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
+| -40.7 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.2667 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -34 | kJ/mol-atom |  | 1.667e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -34 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -33.7333 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.93 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.197 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.846 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.65 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.65 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.559 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.3333 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.333 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.2333 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.233 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.317 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24.667 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24.6667 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23 | kJ/mol-atom |  | 1.667e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

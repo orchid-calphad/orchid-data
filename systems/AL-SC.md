@@ -1,10 +1,10 @@
 # Al–Sc system
 
-> Al–Sc system: 116 accepted literature values (invariant reaction 77, crystal structure 25, formation 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc system: 123 accepted literature values (invariant reaction 76, crystal structure 33, formation 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC.html · Markdown: https://data.orchid-project.org/systems/AL-SC.md
 
-116 accepted literature values from 3 paper(s) (experimental 55, model 29, unspecified 32); 3 calculated phase diagram(s).
+123 accepted literature values from 4 paper(s) (experimental 55, model 40, unspecified 28); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC.json) · [CSV](https://data.orchid-project.org/systems/AL-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SC/AlSc-10Bo.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC.md)
 
@@ -13,17 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 55 |
-| model | 29 |
-| unspecified | 32 |
+| model | 40 |
+| unspecified | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 77 |
+| invariant reaction | 76 |
 | phase transition | 5 |
 | formation | 9 |
-| crystal structure | 25 |
+| crystal structure | 33 |
 
 ## Calculated phase diagrams
 
@@ -82,7 +82,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sc system (77)
+Table: Invariant reactions reported in the literature for the Al–Sc system (76)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -94,7 +94,6 @@ Table: Invariant reactions reported in the literature for the Al–Sc system (77
 | 1693 | Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | experimental | [2] Bo 2010; _cites Naumkin 1965_ | Table 2, p. 6, row 9 |  |
 | 1664.65 | L->ScAl2 | L: Sc 0.333; ScAl2: Sc 0.333 | unspecified | [3] Cacciamani 1999 | Table 4, p. 7, row 8 |  |
 | 1664.5 | Liquid -> Al2Sc | L: Sc 0.333; Al2Sc: Sc 0.333 | unspecified | [2] Bo 2010; _cites Cacciamani 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900022-3) | Table 2, p. 6, row 10 |  |
-| 1610.15 | polymorphic: βSc -> αSc | αSc: Sc 1 | model | [1] Murray 1998 | Table 1, p. 1, row 11 |  |
 | 1610.15 | peritectic: (αSc) -> L + (βSc) | (αSc): Sc 0.97; L: Sc 0.92; (βSc): Sc 0.98 | model | [1] Murray 1998 | Table 1, p. 1, row 10 |  |
 | 1593.15 | peritectic: L + Al2Sc -> Al3Sc | L: Sc 0.24; Al2Sc: Sc 0.333; Al3Sc: Sc 0.25 | model | [1] Murray 1998 | Table 1, p. 1, row 3 |  |
 | 1593.15 | L+ScAl2->ScAl3 | L: Sc 0.24; ScAl2: Sc 0.333; ScAl3: Sc 0.25 | experimental | [3] Cacciamani 1999; _cites Naumkin 1965_ | Table 4, p. 7, row 5 |  |
@@ -196,16 +195,19 @@ Table: Phase transition, Al–Sc system
 | Phase transition | 1513.15 K | 1513.15 | congruent transformation | experimental | [3] Cacciamani 1999 | p. 6 | “ScAl melts congruently at about 1240 C and forms two eutectic equilibria with ScAl2 and Sc2Al.” |
 | Phase transition | 1573.15 K | 1573.15 |  | experimental | [3] Cacciamani 1999 | p. 6 | “The Sc2Al melting point has been evaluated at about 1300 C.” |
 
-### Crystal structure (25)
+### Crystal structure (33)
 
 Table: Crystal structure, Al–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Sc 0_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 1 |  |
+| Lattice a | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 7.582 Å | 298.15 | Al2Sc; _Al2Sc: Al 0.667, Sc 0.333_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 3 |  |
+| Lattice a | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
 | Lattice a | 4.103 Å | 298.15 | Al3Sc; _Al3Sc: Al 0.75, Sc 0.25_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 2 |  |
+| Lattice a | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
 | Lattice a | 3.45 Å | 298.15 | AlSc; _AlSc: Al 0.5, Sc 0.5_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 4 |  |
+| Lattice a | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
 | Lattice a | 4.888 Å | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
 | Lattice a | 4.8813 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
 | Lattice a | 4.888 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
@@ -218,15 +220,20 @@ Table: Crystal structure, Al–Sc system
 | Lattice a | 4.1 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Rechkin 1964_ | Table 1, p. 2, row 9 |  |
 | Lattice a | 4.103 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 11 |  |
 | Lattice a | 4.101 Å | 298.15 | ScAl3; _alloy: Sc 0.25_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 10 |  |
-| Lattice a | 3.3088 Å | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
-| Lattice a | 4.541 Å | 298.15 | βSc; _βSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 6 |  |
+| Lattice b | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice b | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice b | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice b | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
 | Lattice b | 9.882 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
+| Lattice c | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
+| Lattice c | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 6.166 Å | 298.15 | AlSc2; _alloy: Sc 0.666667_ | model | [4] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
 | Lattice c | 6.166 Å | 298.15 | AlSc2; _AlSc2: Al 0.333, Sc 0.667_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 5 |  |
 | Lattice c | 6.167 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 2 |  |
 | Lattice c | 6.166 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999; _cites Eymond 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990191-x) | Table 1, p. 2, row 1 |  |
 | Lattice c | 6.173 Å | 298.15 | Sc2Al; _alloy: Sc 0.666667_ | experimental | [3] Cacciamani 1999 | Table 1, p. 2, row 3 |  |
 | Lattice c | 3.652 Å | 298.15 | ScAl; _alloy: Sc 0.5_ | experimental | [3] Cacciamani 1999; _cites Schuster 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990066-9) | Table 1, p. 2, row 5 |  |
-| Lattice c | 5.268 Å | 298.15 | αSc; _αSc: Al 0, Sc 1_ | unspecified | [1] Murray 1998 | Table 3, p. 1, row 7 |  |
 
 ## Sources
 
@@ -235,6 +242,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. J. L. Murray, The Al-Sc (aluminum-scandium) system, JPE 19, 380-384 (1998). [doi:10.1361/105497198770342120](https://doi.org/10.1361/105497198770342120)
 2. H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic analysis of Al–Sc, Cu–Sc and Al–Cu–Sc system, Journal of Alloys and Compounds 490, 318-325 (2010). [doi:10.1016/j.jallcom.2009.10.003](https://doi.org/10.1016/j.jallcom.2009.10.003)
 3. G. Cacciamani, P. Riani, G. Borzone, N. Parodi, A. Saccone, R. Ferro et al., Thermodynamic measurements and assessment of the Al–Sc system, Intermetallics 7, 101-108 (1999). [doi:10.1016/s0966-9795(98)00022-3](https://doi.org/10.1016/s0966-9795%2898%2900022-3)
+4. J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018). [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018)
 
 ## Please cite
 

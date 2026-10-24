@@ -12,18 +12,18 @@ Table: Phases of the Be–Cu system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-be-cu-bcc-a2); _phase:be-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 894.15–1560.09 K, x(Cu) 0–0.72382 | 19 | 2 |
+| [BCC_A2](#phase-be-cu-bcc-a2); _phase:be-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 894.15–1560.09 K, x(Cu) 0–0.72382 | 19 | 2 |
 | [B2_BCC](#phase-be-cu-bcc-b2); _phase:be-cu:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1560.09 K, x(Cu) 0–0.72382 | 11 | 1 |
 | [C15_LAVES](#phase-be-cu-c15-laves); _phase:be-cu:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1489.49 K, x(Cu) 0.19343–0.36442 | 12 | 1 |
 | [FCC_A1](#phase-be-cu-fcc-a1); _phase:be-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.6 K, x(Cu) 0.85163–1 | 13 | 1 |
 | [HCP_A3](#phase-be-cu-hcp-a3); _phase:be-cu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1540.47 K, x(Cu) 0–0.08532 | 4 | 1 |
 | [LIQUID](#phase-be-cu-liquid); _phase:be-cu:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1132.1–2500 K, x(Cu) 0–1 | 12 | 1 |
 
-## A2_BCC (Be–Cu)
+## BCC_A2 (Be–Cu)
 
 - Id: `phase:be-cu:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 894.15–1560.09 K, x(Cu) 0–0.72382
+- Stability: stable in 1 of 1 calculated diagram(s): 894.15–1560.09 K, x(Cu) 0–0.72382
 - Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:be-cu:bcc-a2)
 
@@ -32,7 +32,7 @@ _paper: _paper:10.1007/s10853-017-1777-z:(βBe), paper:10.1007/s10853-017-1777-z
 _tdb: _tdb:BeCu-18Liu.tdb:A2_BCC, tdb:BeCu-18Liu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [BeCu-18Liu.tdb](https://orchid-project.org/data/databases/sgte-binary/BeCu-18Liu.tdb): A2_BCC, type code %B, sha256 `a0c9e1104448efba…`
 

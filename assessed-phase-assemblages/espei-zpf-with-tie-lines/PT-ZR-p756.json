@@ -5,14 +5,14 @@
   "VA"
  ],
  "phases": [
-  "A2_BCC",
-  "A3_HCP",
+  "B2_BCC",
+  "BCC_A2",
   "FCC_A1",
+  "HCP_A3",
   "LIQUID",
   "PT10ZR7",
   "PT3ZR5_D88",
-  "PT4ZR",
-  "PTZR_B33"
+  "PT4ZR"
  ],
  "conditions": {
   "P": 101325.0,
@@ -21,8 +21,6 @@
    1453.612078,
    1472.112078,
    1430.612078,
-   1806.112078,
-   1366.612078,
    1416.112078,
    982.1120779,
    1270.612078,
@@ -96,37 +94,6 @@
   ],
   [
    [
-    "PTZR_B33",
-    [
-     "ZR"
-    ],
-    [
-     0.5062629902
-    ]
-   ]
-  ],
-  [
-   [
-    "PTZR_B33",
-    [
-     "ZR"
-    ],
-    [
-     0.522780767
-    ]
-   ],
-   [
-    "PT3ZR5_D88",
-    [
-     "ZR"
-    ],
-    [
-     0.6203858116
-    ]
-   ]
-  ],
-  [
-   [
     "PT3ZR5_D88",
     [
      "ZR"
@@ -138,7 +105,7 @@
   ],
   [
    [
-    "A3_HCP",
+    "HCP_A3",
     [
      "ZR"
     ],
@@ -176,7 +143,7 @@
     ]
    ],
    [
-    "A2_BCC",
+    "BCC_A2",
     [
      "ZR"
     ],
@@ -187,7 +154,7 @@
   ],
   [
    [
-    "A2_BCC",
+    "BCC_A2",
     [
      "ZR"
     ],
@@ -227,7 +194,7 @@
     ]
    ],
    [
-    "A2_BCC",
+    "BCC_A2",
     [
      "ZR"
     ],
@@ -249,7 +216,7 @@
   ],
   [
    [
-    "PTZR_B33",
+    "B2_BCC",
     [
      "ZR"
     ],
@@ -260,7 +227,7 @@
   ],
   [
    [
-    "PTZR_B33",
+    "B2_BCC",
     [
      "ZR"
     ],
@@ -280,7 +247,7 @@
   ],
   [
    [
-    "PTZR_B33",
+    "B2_BCC",
     [
      "ZR"
     ],
@@ -360,7 +327,7 @@
     ]
    ],
    [
-    "PTZR_B33",
+    "B2_BCC",
     [
      "ZR"
     ],
@@ -385,8 +352,6 @@
    "aspa-439e45bd38c499e3",
    "aspa-27ef0525b0cb9115",
    "aspa-f1944c014db2358c",
-   "aspa-b9211785f0b809a0",
-   "aspa-a2aff498b7fc8ffa",
    "aspa-af7ccf3e9722c982",
    "aspa-2a91f01c10ba118c",
    "aspa-b2c80099d82d4153",
@@ -403,8 +368,6 @@
    "aspa-0d081762d2420c93"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -498,42 +461,6 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.00750808,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-b9211785f0b809a0",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.086,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 36.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0190205,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-a2aff498b7fc8ffa",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.086,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 493.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0480517,
      "sigma_effective": 0.02
     }
    },

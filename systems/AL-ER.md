@@ -1,12 +1,24 @@
 # Al–Er system
 
-> Al–Er system: 0 accepted literature values (none) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Er system: 8 accepted literature values (crystal structure 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-ER.html · Markdown: https://data.orchid-project.org/systems/AL-ER.md
 
-0 accepted literature values from 0 paper(s); 2 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (unspecified 8); 2 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ER/AlEr-02Cac.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ER.html) · [Markdown](https://data.orchid-project.org/systems/AL-ER.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AL-ER.json) · [CSV](https://data.orchid-project.org/systems/AL-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-ER/AlEr-02Cac.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-ER.html) · [Markdown](https://data.orchid-project.org/systems/AL-ER.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| unspecified | 8 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -50,17 +62,52 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/AL/AL-ER.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/AL/AL-ER.json) · [CALPHAD hull AlEr-02Cac](https://data.orchid-project.org/hulls/calphad-sgte/AL/AL-ER--AlEr-02Cac.json)
 
+## Other properties
+
+### Crystal structure (8)
+
+Table: Crystal structure, Al–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.7967 Å | 298.15 | Al2Er; _alloy: Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
+| Lattice a | 8.123 Å | 298.15 | Al2Er3; _alloy: Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
+| Lattice a | 5.57 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice a | 6.516 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice b | 5.801 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice b | 5.015 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+| Lattice c | 11.272 Å | 298.15 | AlEr; _alloy: Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
+| Lattice c | 9.279 Å | 298.15 | AlEr2; _alloy: Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008). [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002)
+
 ## Please cite
 
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
 - R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
   title     = {{ORCHID calculated binary phase diagrams}},

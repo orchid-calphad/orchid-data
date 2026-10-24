@@ -33,31 +33,31 @@ Table: Invariant reactions reported in the literature for the C–W system (26)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 3058 | peritectic |  | experimental | [1] Gustafson 1986; _cites ref. 6_ | p. 3 | “Sara suggests a phase transformation at 3028 K from stoichiometric simple hexagonal WC to non-stoichiometric fcc WC1-x, before peritectic melting occurs at 3058 K.” |
-| 3051 | L-> hcp | L: C 0.0031; hcp: C 0.0031 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 5 |  |
-| 3051 | L-> hcp | L: C 0.0031; hcp: C 0.0031 | model | [2] He 2022 | Table 3, p. 4, row 6 |  |
-| 3049 | L+graphite -> WC | L: C 0.0042; graphite: C 0.01; WC: C 0.005 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 16 |  |
+| 3051 | L-> hcp | L: C 0.31; hcp: C 0.31 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 5 |  |
+| 3051 | L-> hcp | L: C 0.31; hcp: C 0.31 | model | [2] He 2022 | Table 3, p. 4, row 6 |  |
+| 3049 | L+graphite -> WC | L: C 0.42; graphite: C 1; WC: C 0.5 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 16 |  |
 | 3049 | peritectic |  | experimental | [1] Gustafson 1986 | p. 3 | “Rudy et al. show peritectic melting of WC at 3049 ± 4 K in contact with graphite while WC1-x melts congruently at 3020± 12 K.” |
-| 3048 | L-> hcp | L: C 0.0031; hcp: C 0.0031 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 4 |  |
-| 3047 | L+graphite -> WC | L: C 0.00421; graphite: C 0.01; WC: C 0.005 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 17 |  |
-| 3045 | L+graphite -> WC | L: C 0.00423; graphite: C 0.01; WC: C 0.005 | model | [2] He 2022 | Table 3, p. 4, row 18 |  |
-| 3020 | L->fcc | L: C 0.0039; fcc: C 0.0039 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 10 |  |
-| 3008 | L->hcp+fcc | L: C 0.00365; hcp: C 0.00345; fcc: C 0.00375 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 7 |  |
-| 3006 | L->hcp+fcc | L: C 0.0037; hcp: C 0.00323; fcc: C 0.00371 | model | [2] He 2022 | Table 3, p. 4, row 9 |  |
-| 3006 | L->fcc | L: C 0.00373; fcc: C 0.00376 | model | [2] He 2022 | Table 3, p. 4, row 12 |  |
-| 3005 | L->fcc | L: C 0.00374; fcc: C 0.00374 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 11 |  |
-| 3004 | L->hcp+fcc | L: C 0.00369; hcp: C 0.00323; fcc: C 0.00372 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 8 |  |
-| 3002 | L-> fcc+WC | L: C 0.00396; fcc: C 0.00387; WC: C 0.005 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 14 |  |
-| 3002 | L-> fcc+WC | L: C 0.00398; fcc: C 0.00388; WC: C 0.005 | model | [2] He 2022 | Table 3, p. 4, row 15 |  |
-| 2993 | L-> fcc+WC | L: C 0.0041; fcc: C 0.00395; WC: C 0.00495 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 13 |  |
-| 2983 | L->bcc+hcp | L: C 0.0022; bcc: C 1.000e-4; hcp: C 0.00256 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 1 |  |
-| 2983 | L->bcc+hcp | L: C 0.002224; bcc: C 1.000e-4; hcp: C 0.00267 | model | [2] He 2022 | Table 3, p. 4, row 3 |  |
-| 2980 | L->bcc+hcp | L: C 0.002285; bcc: C 7.000e-5; hcp: C 0.00273 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 2 |  |
-| 2803 | fcc-> hcp+WC | fcc: C 0.0038; hcp: C 0.00334; WC: C 0.00494 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 19 |  |
-| 2803 | fcc-> hcp+WC | fcc: C 0.0038; hcp: C 0.00325; WC: C 0.005 | model | [2] He 2022 | Table 3, p. 4, row 21 |  |
-| 2801 | fcc-> hcp+WC | fcc: C 0.0038; hcp: C 0.00325; WC: C 0.005 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 20 |  |
-| 1525 | hcp->bcc+WC | hcp: C 0.00321; WC: C 0.005 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 23 |  |
-| 1523 | hcp->bcc+WC | hcp: C 0.00328; WC: C 0.005 | model | [2] He 2022 | Table 3, p. 4, row 24 |  |
-| 1523 | hcp->bcc+WC | hcp: C 0.00326; WC: C 0.005 | experimental | [2] He 2022; _cites Kurlov 2006_ [doi](https://doi.org/10.1134/s0020168506020051) | Table 3, p. 4, row 22 |  |
+| 3048 | L-> hcp | L: C 0.31; hcp: C 0.31 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 4 |  |
+| 3047 | L+graphite -> WC | L: C 0.421; graphite: C 1; WC: C 0.5 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 17 |  |
+| 3045 | L+graphite -> WC | L: C 0.423; graphite: C 1; WC: C 0.5 | model | [2] He 2022 | Table 3, p. 4, row 18 |  |
+| 3020 | L->fcc | L: C 0.39; fcc: C 0.39 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 10 |  |
+| 3008 | L->hcp+fcc | L: C 0.365; hcp: C 0.345; fcc: C 0.375 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 7 |  |
+| 3006 | L->hcp+fcc | L: C 0.37; hcp: C 0.323; fcc: C 0.371 | model | [2] He 2022 | Table 3, p. 4, row 9 |  |
+| 3006 | L->fcc | L: C 0.373; fcc: C 0.376 | model | [2] He 2022 | Table 3, p. 4, row 12 |  |
+| 3005 | L->fcc | L: C 0.374; fcc: C 0.374 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 11 |  |
+| 3004 | L->hcp+fcc | L: C 0.369; hcp: C 0.323; fcc: C 0.372 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 8 |  |
+| 3002 | L-> fcc+WC | L: C 0.396; fcc: C 0.387; WC: C 0.5 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 14 |  |
+| 3002 | L-> fcc+WC | L: C 0.398; fcc: C 0.388; WC: C 0.5 | model | [2] He 2022 | Table 3, p. 4, row 15 |  |
+| 2993 | L-> fcc+WC | L: C 0.41; fcc: C 0.395; WC: C 0.495 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 13 |  |
+| 2983 | L->bcc+hcp | L: C 0.22; bcc: C 0.01; hcp: C 0.256 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 1 |  |
+| 2983 | L->bcc+hcp | L: C 0.2224; bcc: C 0.01; hcp: C 0.267 | model | [2] He 2022 | Table 3, p. 4, row 3 |  |
+| 2980 | L->bcc+hcp | L: C 0.2285; bcc: C 0.007; hcp: C 0.273 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 2 |  |
+| 2803 | fcc-> hcp+WC | fcc: C 0.38; hcp: C 0.334; WC: C 0.494 | experimental | [2] He 2022; _cites Rudy 1969_ | Table 3, p. 4, row 19 |  |
+| 2803 | fcc-> hcp+WC | fcc: C 0.38; hcp: C 0.325; WC: C 0.5 | model | [2] He 2022 | Table 3, p. 4, row 21 |  |
+| 2801 | fcc-> hcp+WC | fcc: C 0.38; hcp: C 0.325; WC: C 0.5 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 20 |  |
+| 1525 | hcp->bcc+WC | hcp: C 0.321; WC: C 0.5 | model | [2] He 2022; _cites Gustafson 1986_ [doi](https://doi.org/10.1016/0008-6223%2886%2990113-2) | Table 3, p. 4, row 23 |  |
+| 1523 | hcp->bcc+WC | hcp: C 0.328; WC: C 0.5 | model | [2] He 2022 | Table 3, p. 4, row 24 |  |
+| 1523 | hcp->bcc+WC | hcp: C 0.326; WC: C 0.5 | experimental | [2] He 2022; _cites Kurlov 2006_ [doi](https://doi.org/10.1134/s0020168506020051) | Table 3, p. 4, row 22 |  |
 
 ## Formation enthalpies
 

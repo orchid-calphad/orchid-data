@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlTe.html · Markdown: https://d
 
 1 accepted literature formation-enthalpy value(s) (model 1); OQMD -37.082 kJ/mol-atom (oqmd-1374663).
 
-Systems: [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html)
+Systems: [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AlTe reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87.6 kJ/mol-atom | AlTe | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
+| -87.6 kJ/mol-atom | AlTe | 298.15 | model | CALPHAD | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AlTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -87.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -87.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

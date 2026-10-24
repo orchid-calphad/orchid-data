@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al4U.html · Markdown: https://d
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html)
+Systems: [Al–U](https://data.orchid-project.org/systems/AL-U.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al4U reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -91.4 kJ/mol (basis unstated) | UAl4 |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+| -91.4 kJ/mol (basis unstated) | UAl4 |  | model |  | [Al–U](https://data.orchid-project.org/systems/AL-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al4U
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -91.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -91.4 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 
 ## Sources
 

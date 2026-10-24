@@ -12,8 +12,8 @@ Table: Phases of the Nb–Ni system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-nb-ni-bcc-a2); _phase:nb-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2754.88 K, x(Ni) 0–0.0685 | 17 | 7 |
-| [MU_D85](#phase-nb-ni-d85-mu); _phase:nb-ni:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1591.29 K, x(Ni) 0.40288–0.52768 | 46 | 7 |
+| [BCC_A2](#phase-nb-ni-bcc-a2); _phase:nb-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2754.88 K, x(Ni) 0–0.0685 | 15 | 7 |
+| [MU_D85](#phase-nb-ni-d85-mu); _phase:nb-ni:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1591.29 K, x(Ni) 0.40288–0.52768 | 44 | 7 |
 | [FCC_A1](#phase-nb-ni-fcc-a1); _phase:nb-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–3999.49 K, x(Ni) 0.85795–1 | 32 | 7 |
 | [HCP_A3](#phase-nb-ni-hcp-a3); _phase:nb-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [LIQUID](#phase-nb-ni-liquid); _phase:nb-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1428.15–4000 K, x(Ni) 0–1 | 75 | 7 |
@@ -25,7 +25,7 @@ Table: Phases of the Nb–Ni system (7)
 - Id: `phase:nb-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2754.88 K, x(Ni) 0–0.0685
-- Literature: 17 values (17 accepted) from 5 papers
+- Literature: 15 values (15 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-ni:bcc-a2)
 
 Names (13): _corpus: _corpus:phase:nb-ni:bcc-a2  
@@ -113,7 +113,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in NbNi-20Zho.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NbNi-23Sun.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1591.29 K, x(Ni) 0.40288–0.52768
-- Literature: 46 values (46 accepted) from 5 papers
+- Literature: 44 values (44 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-ni:d85-mu)
 
 Names (16): _corpus: _corpus:phase:nb-ni:d85-mu, corpus:phase:nb-ni:mu-d85  

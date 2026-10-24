@@ -1,10 +1,10 @@
 # B–Nb system
 
-> B–Nb system: 62 accepted literature values (invariant reaction 34, crystal structure 19, heat capacity / entropy / enthalpy 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Nb system: 70 accepted literature values (invariant reaction 34, crystal structure 19, heat capacity / entropy / enthalpy 9, formation 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-NB.html · Markdown: https://data.orchid-project.org/systems/B-NB.md
 
-62 accepted literature values from 2 paper(s) (experimental 22, model 21, unspecified 19); 0 calculated phase diagram(s).
+70 accepted literature values from 3 paper(s) (experimental 22, model 23, DFT 6, unspecified 19); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-NB.json) · [CSV](https://data.orchid-project.org/systems/B-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NB) · [phases (11)](https://data.orchid-project.org/phases/pages/B-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-NB.html) · [Markdown](https://data.orchid-project.org/systems/B-NB.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 22 |
-| model | 21 |
+| model | 23 |
+| DFT | 6 |
 | unspecified | 19 |
 
 Table: Accepted values by property group
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
+| formation | 8 |
 | heat capacity / entropy / enthalpy | 9 |
 | crystal structure | 19 |
 
@@ -66,6 +68,23 @@ Table: Invariant reactions reported in the literature for the B–Nb system (34)
 | 2113 | peritectic: L + NbB \<-> Nb3B2 | L: B 0.385; NbB: B 0.5; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 7 |  |
 | 1973 | other: ? \<-> Nb2B3 | ?: B 0.6, Nb 0.4; Nb2B3: B 0.6, Nb 0.4 | experimental | [1] Witusiewicz 2008; _cites Okada 1991_ | Table 5, p. 5, row 23 |  |
 | 1873 | eutectic: L \<-> bcc + Nb3B2 | L: B 0.2; bcc: B 0.03; Nb3B2: B 0.4 | experimental | [1] Witusiewicz 2008; _cites Nowotny 1959_ | Table 5, p. 5, row 1 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, B–Nb system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| NbB |  | -82.6 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 18 |  |
+| NbB |  | -82.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 17 |  |
+| NbB |  | -82.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 16 |  |
+| NbB |  | -79.4 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 15 |  |
+| NbB |  | -79.2 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 14 |  |
+| NbB |  | -78.7 kJ/mol-atom | 0 | DFT |  |  | [3] Nakama 2009 | Table 4, p. 7, row 12 |  |
+| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -78.7 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
+| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -67.9 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [3] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
 
 ## Other properties
 
@@ -117,6 +136,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. V.T. Witusiewicz, A.A. Bondar, U. Hecht, S. Rex, T.Ya. Velikanova, The Al–B–Nb–Ti system, Journal of Alloys and Compounds 448, 185-194 (2008). [doi:10.1016/j.jallcom.2006.10.034](https://doi.org/10.1016/j.jallcom.2006.10.034)
 2. Rockfeller Maciel Peçanha, Flávio Ferreira, Gilberto Carvalho Coelho, Carlos Angelo Nunes, Bo Sundman, Thermodynamic modeling of the Nb–B system, Intermetallics 15, 999-1005 (2007). [doi:10.1016/j.intermet.2006.10.054](https://doi.org/10.1016/j.intermet.2006.10.054)
+3. Yu Nakama, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Nb&amp;ndash;Ti&amp;ndash;B Ternary Phase Diagram, Mater. Trans. 50, 984-993 (2009). [doi:10.2320/matertrans.mc200820](https://doi.org/10.2320/matertrans.mc200820)
 
 ## Please cite
 

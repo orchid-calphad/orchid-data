@@ -1,10 +1,10 @@
 # Cr–Pt system
 
-> Cr–Pt system: 27 accepted literature values (phase transition 14, invariant reaction 12, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Pt system: 28 accepted literature values (phase transition 14, invariant reaction 13, phase equilibrium 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-PT.html · Markdown: https://data.orchid-project.org/systems/CR-PT.md
 
-27 accepted literature values from 1 paper(s) (experimental 20, model 7); 3 calculated phase diagram(s).
+28 accepted literature values from 2 paper(s) (experimental 20, model 7, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-PT.json) · [CSV](https://data.orchid-project.org/systems/CR-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-PT/CrPt-01Oik.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CR-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-PT.html) · [Markdown](https://data.orchid-project.org/systems/CR-PT.md)
 
@@ -14,12 +14,13 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 20 |
 | model | 7 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 13 |
 | phase transition | 14 |
 | phase equilibrium | 1 |
 
@@ -53,7 +54,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Pt system (12)
+Table: Invariant reactions reported in the literature for the Cr–Pt system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -69,6 +70,7 @@ Table: Invariant reactions reported in the literature for the Cr–Pt system (12
 | 1440 | order-disorder: Pt fcc ↔ L10 CrPt |  | model | [1] Preußner 2009 | Table 3, p. 5, row 9 |  |
 | 1425 | order-disorder: Pt fcc ↔ L12 CrPt3 |  | model | [1] Preußner 2009 | Table 3, p. 5, row 11 |  |
 | 1403 | order-disorder: Pt fcc ↔ L12 CrPt3 | Pt fcc: Pt 0.67; L12 CrPt3: Pt 0.67 | experimental | [1] Preußner 2009 | Table 3, p. 5, row 10 |  |
+| 1243.15 | eutectoid: (Pt) -> Cr3Pt + CrPt3 | (Pt): Pt 0.34; Cr3Pt: Pt 0.23 | unspecified | [2] WATSON 2006; _cites ref. 3_ | Table 1, p. 3, row 9 |  |
 
 ## Other properties
 
@@ -106,6 +108,7 @@ Table: Phase equilibrium, Cr–Pt system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Johannes Preußner, Sara Prins, Rainer Völkl, Zi-Kui Liu, Uwe Glatzel, Determination of phases in the system chromium–platinum (Cr–Pt) and thermodynamic calculations, Materials Science and Engineering: A 510-511, 322-327 (2009). [doi:10.1016/j.msea.2008.10.059](https://doi.org/10.1016/j.msea.2008.10.059)
+2. A WATSON, L CORNISH, R SUSS, Development of a database for the prediction of phases in Pt-based Superalloys: Cr-Pt-Ru, Rare Metals 25, 597-607 (2006). [doi:10.1016/s1001-0521(06)60106-x](https://doi.org/10.1016/s1001-0521%2806%2960106-x)
 
 ## Please cite
 

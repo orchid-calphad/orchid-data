@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of HfC0.97
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -238.1 | kJ/mol (basis unstated) | 29.3 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 29.3 |
+| -238.1 | kJ/mol (basis unstated) | 29.3 | 0.05 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 29.3 |
 
 ## Sources
 

@@ -182,8 +182,9 @@ _assessment that models this phase_
 ## V3H2 (H–V)
 
 - Id: `phase:h-v:v3h2`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model; sgte_mmc2_row_incomplete
+- No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete
 - Candidate (sgte_mmc2): (V3H2) — Hallstedt 2025 mmc2 row for V3H2: V3H2
+- Stoichiometry: H 0.4000, V 0.6000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-v:v3h2)

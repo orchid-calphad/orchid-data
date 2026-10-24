@@ -1,10 +1,10 @@
 # Al–Sc–Y system
 
-> Al–Sc–Y system: 164 accepted literature values (invariant reaction 91, crystal structure 45, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sc–Y system: 111 accepted literature values (invariant reaction 83, phase equilibrium 20, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SC-Y.html · Markdown: https://data.orchid-project.org/systems/AL-SC-Y.md
 
-164 accepted literature values from 1 paper(s) (experimental 49, model 110, unspecified 5); 0 calculated phase diagram(s).
+111 accepted literature values from 1 paper(s) (experimental 48, model 58, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SC-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-SC-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SC-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SC-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-SC-Y.md)
 
@@ -12,22 +12,21 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 110 |
+| experimental | 48 |
+| model | 58 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 91 |
+| invariant reaction | 83 |
 | phase transition | 8 |
 | phase equilibrium | 20 |
-| crystal structure | 45 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Sc–Y system (91)
+Table: Invariant reactions reported in the literature for the Al–Sc–Y system (83)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -65,14 +64,12 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 1404 | quasi-peritectic: Liquid + AlY -> AlSc + Al3Y5 |  | model | [1] Hu 2018 | Table 8, p. 11, row 6 |  |
 | 1384 | Liquid + τ1/Liquid + Al3Sc + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 5 |  |
 | 1372 | quasi-peritectic: Liquid + AlSc -> Al3Y5 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 7 |  |
-| 1359 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 73 |  |
 | 1352 | Al2Y + AlSc/Al2Y + AlSc + AlY |  | model | [1] Hu 2018 | Table 5, p. 6, row 55 |  |
 | 1345 | Al2Y + AlSc/Al2Y + AlSc + AlY |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 54 |  |
 | 1304 | Liquid + AlY + Al3Y5/AlY + Al3Y5 + Al2Y3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 70 |  |
 | 1276 | Liquid + AlY + Al3Y5/AlY + Al3Y5 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 65 |  |
 | 1274 | Liquid + Al2Y/Liquid + Al2Y + βAl3Y |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 39 |  |
 | 1269 | quasi-peritectic: Liquid + bcc_A2 -> hcp_A3 + AlSc2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 8 |  |
-| 1261 | AlY + Al3Y5 + Al2Y3/Al3Y5 + Al2Y3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 72 |  |
 | 1261 | peritectic: Liquid + Al3Y5 + Al2Y3 -> AlY2 |  | model | [1] Hu 2018 | Table 8, p. 11, row 9 |  |
 | 1242 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 78 |  |
 | 1241 | Liquid + Al3Y5/Liquid + Al3Y5 + hcp_A3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 98 |  |
@@ -103,11 +100,9 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 1058 | Al3Y5 + hcp_A3/Al3Y5 + hcp_A3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 82 |  |
 | 1057 | Al3Y5 + hcp_A3 + AlY2/hcp_A3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 83 |  |
 | 1025 | τ1 + Al2Y + βAl3Y/Al2Y + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 42 |  |
-| 974 | Al2Y + βAl3Y/Al2Y + αAl3Y + βAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 43 |  |
 | 974 | Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 20 |  |
 | 974 | peritectic: Liquid + τ1 + βAl3Y -> αAl3Y |  | model | [1] Hu 2018 | Table 8, p. 11, row 13 |  |
 | 973 | Liquid + αAl3Y + βAl3Y/Liquid + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 21 |  |
-| 967 | Al2Y + αAl3Y + βAl3Y/Al2Y + αAl3Y |  | model | [1] Hu 2018 | Table 5, p. 6, row 44 |  |
 | 931 | Liquid + Al3Sc -> fcc_A1 + τ1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 8 |  |
 | 931 | quasi-peritectic: Liquid + Al3Sc -> τ1 + fcc_A1 |  | model | [1] Hu 2018 | Table 8, p. 11, row 14 |  |
 | 914 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | model | [1] Hu 2018 | Table 5, p. 6, row 15 |  |
@@ -118,10 +113,6 @@ Table: Invariant reactions reported in the literature for the Al–Sc–Y system
 | 912 | Liquid + Al3Sc -> fcc_A1 + τ1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 7 |  |
 | 911 | Liquid + τ1 -> αAl3Y + fcc_A1 |  | experimental | [1] Hu 2018 | Table 5, p. 6, row 14 |  |
 | 882 | Al2Y + Al3Sc + Al2Sc/Al2Y + Al3Sc |  | model | [1] Hu 2018 | Table 5, p. 6, row 38 |  |
-| 843 | Al2Y3 + Al3Y5/Al2Y3 + Al3Y5 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 74 |  |
-| 813 | Al2Y3 + Al3Y5 + AlY2/Al2Y3 + AlY2 |  | model | [1] Hu 2018 | Table 5, p. 6, row 75 |  |
-| 805 | AlY2 + Al3Y5/AlY2 + Al3Y5 + Al2Y3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 93 |  |
-| 798 | AlY2 + Al3Y5 + Al2Y3/AlY2 + Al2Y3 |  | model | [1] Hu 2018 | Table 5, p. 6, row 94 |  |
 
 ## Other properties
 
@@ -166,58 +157,6 @@ Table: Phase equilibrium, Al–Sc–Y system
 | Phase composition |  | 298.15 | τ1 + Al2Y; _τ1: Al 0.744, Sc 0.171, Y 0.085; Al2Y: Al 0.678, Sc 0.078, Y 0.244_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 7 |  |
 | Phase composition |  | 298.15 | τ1 + αAl3Y; _τ1: Al 0.759, Sc 0.159, Y 0.082; αAl3Y: Al 0.746, Sc 0.053, Y 0.201_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 4 |  |
 | Phase composition |  | 298.15 | τ1 + αAl3Y + Al2Y; _τ1: Al 0.762, Sc 0.143, Y 0.095; αAl3Y: Al 0.746, Sc 0.057, Y 0.197; Al2Y: Al 0.672, Sc 0.059, Y 0.269_ | experimental | [1] Hu 2018 | Table 4, p. 3, row 8 |  |
-
-### Crystal structure (45)
-
-Table: Crystal structure, Al–Sc–Y system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice a | 8.239 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice a | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice a | 6.59 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice a | 6.276 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.6474 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 6.204 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice a | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice b | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice b | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice b | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice b | 8.239 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice b | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice b | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice b | 4.888 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice b | 5.12 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 6.276 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 3.3088 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice b | 3.6474 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice b | 6.204 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice b | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice b | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.05 Å | 298.15 | Al; _alloy: Sc 0, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 1 |  |
-| Lattice c | 7.6 Å | 298.15 | Al2Sc; _alloy: Sc 0.333333, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 7.8611 Å | 298.15 | Al2Y; _alloy: Sc 0, Y 0.333333_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 12 |  |
-| Lattice c | 7.648 Å | 298.15 | Al2Y3; _alloy: Sc 0, Y 0.6_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 14 |  |
-| Lattice c | 4.1 Å | 298.15 | Al3Sc; _alloy: Sc 0.25, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 6 |  |
-| Lattice c | 3.45 Å | 298.15 | AlSc; _alloy: Sc 0.5, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 6.166 Å | 298.15 | AlSc2; _alloy: Sc 0.666667, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Sc 0, Y 0.5_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 13 |  |
-| Lattice c | 9.3 Å | 298.15 | AlY2; _alloy: Sc 0, Y 0.666667_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 15 |  |
-| Lattice c | 4.582 Å | 298.15 | αAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 5.268 Å | 298.15 | αSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.7306 Å | 298.15 | αY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 21.184 Å | 298.15 | βAl3Y; _alloy: Sc 0, Y 0.25_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 11 |  |
-| Lattice c | 3.73 Å | 298.15 | βSc; _alloy: Sc 1, Y 0_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 3 |  |
-| Lattice c | 4.07 Å | 298.15 | βY; _alloy: Sc 0, Y 1_ | model | [1] Hu 2018; _cites Villars 1997_ | Table 1, p. 2, row 5 |  |
 
 ## Sources
 

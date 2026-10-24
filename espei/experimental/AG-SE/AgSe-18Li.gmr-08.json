@@ -45,7 +45,7 @@
    }
   }
  },
- "weight": 0.000909,
+ "weight": 0.000833,
  "bibtex": "olin2005_8167c5",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -89,19 +89,19 @@
     "budget": {
      "sigma_printed": null,
      "sigma_reading": 16.67,
-     "sigma_method": 1100.0,
+     "sigma_method": 1200.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 1100.0,
+     "sigma_effective": 1200.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 38,
+     "method_n_pairs": 37,
      "method_entry": "value_types/GM_FORM/classes/unknown"
     },
-    "sigma_effective_used": 1100.0,
-    "weight_per_value_equivalent": 0.000909,
-    "weight_used": 0.000909
+    "sigma_effective_used": 1200.0,
+    "weight_per_value_equivalent": 0.000833,
+    "weight_used": 0.000833
    }
   ]
  },

@@ -17,11 +17,11 @@ Table: Phases of the Ga–Pt system (13)
 | [FCC_A1](#phase-ga-pt-fcc-a1); _phase:ga-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499 K, x(Pt) 0.87794–1 | 2 | 2 |
 | [GA2PT_C1](#phase-ga-pt-ga2pt-c1); _phase:ga-pt:ga2pt-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 437.47–1197.77 K, x(Pt) 0.33333–0.33333 | 10 | 2 |
 | [GA3PT2_D513](#phase-ga-pt-ga3pt2-d513); _phase:ga-pt:ga3pt2-d513_ | Ni2Al3 · D5_13 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1215.1 K, x(Pt) 0.4–0.4 | 9 | 2 |
-| [GA3PT5](#phase-ga-pt-ga3pt5); _phase:ga-pt:ga3pt5_ | Ga3Pt5 · oC16 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1404.57 K, x(Pt) 0.625–0.625 | 5 | 2 |
+| [GA3PT5](#phase-ga-pt-ga3pt5); _phase:ga-pt:ga3pt5_ | Ga3Pt5 · oC16 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1404.57 K, x(Pt) 0.625–0.625 | 7 | 2 |
 | [GA6PT](#phase-ga-pt-ga6pt); _phase:ga-pt:ga6pt_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–564.71 K, x(Pt) 0.14286–0.14286 | 5 | 2 |
 | [GA7PT3_D8F](#phase-ga-pt-ga7pt3-d8f); _phase:ga-pt:ga7pt3-d8f_ | Ru3Sn7 · D8_f · cI40 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1097.49 K, x(Pt) 0.3–0.3 | 9 | 2 |
 | [GAPT_B20](#phase-ga-pt-gapt-b20); _phase:ga-pt:gapt-b20_ | FeSi · B20 · cP8 · P2_13 (198) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1375.12 K, x(Pt) 0.5–0.5 | 5 | 2 |
-| [GAPT2](#phase-ga-pt-gapt2); _phase:ga-pt:gapt2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1416.36 K, x(Pt) 0.66667–0.66667 | 4 | 2 |
+| [GAPT2](#phase-ga-pt-gapt2); _phase:ga-pt:gapt2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1416.36 K, x(Pt) 0.66667–0.66667 | 6 | 2 |
 | [GAPT3_L12](#phase-ga-pt-gapt3-l12); _phase:ga-pt:gapt3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1654.17 K, x(Pt) 0.70153–0.77285 | 6 | 2 |
 | [HCP_A3](#phase-ga-pt-hcp-a3); _phase:ga-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ga-pt-liquid); _phase:ga-pt:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 302.91–2500 K, x(Pt) 0–1 | 26 | 2 |
@@ -219,11 +219,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.3750, Pt 0.6250
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1404.57 K, x(Pt) 0.625–0.625
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-pt:ga3pt5)
 
-Names (5): _corpus: _corpus:phase:ga-pt:ga3pt5  
-_paper: _paper:10.1016/j.intermet.2005.12.002:Ga3Pt5, paper:10.1016/j.intermet.2005.12.002:Ga5Pt3  
+Names (6): _corpus: _corpus:phase:ga-pt:ga3pt5  
+_paper: _paper:10.1016/j.calphad.2009.05.002:Ga3Pt5, paper:10.1016/j.intermet.2005.12.002:Ga3Pt5, paper:10.1016/j.intermet.2005.12.002:Ga5Pt3  
 _tdb: _tdb:GaPt-06Li.tdb:GA3PT5, tdb:GaPt-09Wan.tdb:GA3PT5  
 
 
@@ -248,7 +248,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1016/j.intermet.2005.12.002](https://doi.org/10.1016/j.intermet.2005.12.002) Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Thermodynamic assessment of the Ga–Pt system, Intermetallics 14, 826-831 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GA6PT (Ga–Pt)
 
@@ -380,11 +380,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): GaPt2 · oP24 · Pmma — GaPt-09Wan.tdb: 'Prototype GaPt2 (oP24, Pmma), low T'
 - Stoichiometry: Ga 0.3333, Pt 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1416.36 K, x(Pt) 0.66667–0.66667
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-pt:gapt2)
 
-Names (4): _corpus: _corpus:phase:ga-pt:gapt2  
-_paper: _paper:10.1016/j.intermet.2005.12.002:GaPt2  
+Names (5): _corpus: _corpus:phase:ga-pt:gapt2  
+_paper: _paper:10.1016/j.calphad.2009.05.002:GaPt2, paper:10.1016/j.intermet.2005.12.002:GaPt2  
 _tdb: _tdb:GaPt-06Li.tdb:GAPT2, tdb:GaPt-09Wan.tdb:GAPT2  
 
 
@@ -409,7 +409,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1016/j.intermet.2005.12.002](https://doi.org/10.1016/j.intermet.2005.12.002) Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Thermodynamic assessment of the Ga–Pt system, Intermetallics 14, 826-831 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GAPT3_L12 (Ga–Pt)
 

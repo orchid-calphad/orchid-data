@@ -1,21 +1,25 @@
 # Nb6Sn5: enthalpy of formation
 
-> Enthalpy of formation of Nb6Sn5: 2 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Nb6Sn5: 6 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nb6Sn5.html · Markdown: https://data.orchid-project.org/compounds/Nb6Sn5.md
 
-2 accepted literature formation-enthalpy value(s) (model 2).
+6 accepted literature formation-enthalpy value(s) (model 6).
 
 Systems: [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Nb6Sn5 reported in the literature (2)
+Table: Enthalpy of formation of Nb6Sn5 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -22 kJ/mol (basis unstated) | Nb6Sn5 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
+| -22 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
+| -17.983 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 4 |  |
+| -14.814 kJ/mol-atom | Nb0.545Sn0.455 | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002 | Table 3, p. 3, row 3 |  |
 | -2.653 kJ/mol (basis unstated) | Nb6Sn5 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 1998 | Table 2, p. 1, row 2 |  |
+| -2.653 kJ/mol-atom | Nb0.545Sn0.455 | 1173 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
 
 ### Uncertainty budget
 
@@ -25,12 +29,17 @@ Table: Uncertainty budget of the literature values of Nb6Sn5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.653 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -22 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.983 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -14.814 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -2.653 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -2.653 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 
 1. C. Toffolon, C. Servant, B. Sundman, Thermodynamic assessment of the Nb-Sn system, JPE 19, 479-485 (1998). [doi:10.1361/105497198770341978](https://doi.org/10.1361/105497198770341978)
+2. C. Toffolon, C. Servant, J. C. Gachon, B. Sundman, Reassessment of the Nb-Sn system, JPE 23, 134-139 (2002). [doi:10.1361/1054971023604071](https://doi.org/10.1361/1054971023604071)
 
 ## Please cite
 

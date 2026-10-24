@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of AlLi2Zr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -3.8946 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -3.4662 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -3.8946 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -3.4662 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
 
 ## Sources
 

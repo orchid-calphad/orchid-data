@@ -1,10 +1,10 @@
 # Ga–Sn system
 
-> Ga–Sn system: 183 accepted literature values (phase equilibrium 124, phase transition 29, mixing / partial 18, crystal structure 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Sn system: 164 accepted literature values (phase equilibrium 124, mixing / partial 18, phase transition 16, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SN.html · Markdown: https://data.orchid-project.org/systems/GA-SN.md
 
-183 accepted literature values from 2 paper(s) (experimental 166, model 2, unspecified 15); 2 calculated phase diagram(s).
+164 accepted literature values from 2 paper(s) (experimental 154, model 2, unspecified 8); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SN.json) · [CSV](https://data.orchid-project.org/systems/GA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SN/GaSn-79Ans.json) · [phases (7)](https://data.orchid-project.org/phases/pages/GA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SN.html) · [Markdown](https://data.orchid-project.org/systems/GA-SN.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 166 |
+| experimental | 154 |
 | model | 2 |
-| unspecified | 15 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| phase transition | 29 |
+| phase transition | 16 |
 | phase equilibrium | 124 |
 | mixing / partial | 18 |
-| crystal structure | 9 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -51,13 +51,12 @@ Table: Invariant reactions reported in the literature for the Ga–Sn system (3)
 
 ## Other properties
 
-### Phase transition (29)
+### Phase transition (16)
 
 Table: Phase transition, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 286.15 K | 286.15 | polymorphic: βSn -> αSn; _βSn: Sn 1; αSn: Sn 1_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 4 |  |
 | Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites ref. 32Pus_ | Table 3, p. 5, row 1 |  |
 | Phase transition | 293.15 K | 293.15 | eutectic | experimental | [1] Anderson 1992; _cites Siede 1963_ | Table 3, p. 5, row 4 |  |
 | Phase transition | 293.35 K | 293.35 | eutectic | experimental | [1] Anderson 1992; _cites Trebukhov 1985_ | Table 3, p. 5, row 7 |  |
@@ -66,23 +65,11 @@ Table: Phase transition, Ga–Sn system
 | Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 74Shu1_ | Table 3, p. 5, row 6 |  |
 | Phase transition | 293.75 K | 293.75 | eutectic | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 3, p. 5, row 5 |  |
 | Phase transition | 293.81 K | 293.81 | eutectic | model | [1] Anderson 1992 | Table 3, p. 5, row 8 |  |
-| Phase transition | 294.15 K | 294.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 23 |  |
-| Phase transition | 294.15 K | 294.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 75 |  |
 | Phase transition | 302.924 K | 302.924 | congruent melting: L -> αGa; _αGa: Sn 0_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 2 |  |
-| Phase transition | 445.15 K | 445.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 22 |  |
-| Phase transition | 445.15 K | 445.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 74 |  |
 | Phase transition | 454.15 K | 454.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 1 |  |
 | Phase transition | 463.15 K | 463.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 2 |  |
-| Phase transition | 471.15 K | 471.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 21 |  |
-| Phase transition | 471.15 K | 471.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 73 |  |
-| Phase transition | 481.15 K | 481.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 72 |  |
-| Phase transition | 481.15 K | 481.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 20 |  |
 | Phase transition | 486.15 K | 486.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 3 |  |
-| Phase transition | 488.15 K | 488.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 71 |  |
-| Phase transition | 488.15 K | 488.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 19 |  |
 | Phase transition | 493.15 K | 493.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 4 |  |
-| Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 3, row 70 |  |
-| Phase transition | 497.15 K | 497.15 | other: L + (Sn); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 18 |  |
 | Phase transition | 499.15 K | 499.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 5 |  |
 | Phase transition | 503.15 K | 503.15 | other: \[64Pre\] liquidus | experimental | [1] Anderson 1992; _cites ref. 64Pre_ | Table 2, p. 4, row 6 |  |
 | Phase transition | 505.118 K | 505.118 | congruent melting: L -> βSn; _βSn: Sn 1_ | unspecified | [1] Anderson 1992 | Table 1, p. 1, row 3 |  |
@@ -243,21 +230,15 @@ Table: Mixing / partial, Ga–Sn system
 | Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | UNKNOWN | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6 |  |
 | Partial enthalpy; _printed: Partial molar heat of solution_ | 3.2 kJ/mol (basis unstated) ± 0.17 | 750.15 | liquid Sn (infinite dilution); _alloy: Sn 1_ | experimental | [1] Anderson 1992; _cites Pool 1964_ | Table 5, p. 6, row 6 |  |
 
-### Crystal structure (9)
+### Crystal structure (3)
 
 Table: Crystal structure, Ga–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.4892 Å | 13 (\<) | (αSn); _(αSn): Ga 0, Sn 1_ | unspecified | [1] Anderson 1992; _cites ref. 2_ | Table 4, p. 5, row 4 |  |
-| Lattice a | 5.8316 Å | 122.484 | (βSn); _(βSn): Ga 0, Sn 1_ | unspecified | [1] Anderson 1992; _cites ref. 1_ | Table 4, p. 5, row 3 |  |
 | Lattice a | 2.7713 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
-| Lattice a | 4.5192 Å | 298.15 | (αGa); _(αGa): Ga 1, Sn 0_ | unspecified | [1] Anderson 1992 | Table 4, p. 5, row 1 |  |
 | Lattice b | 8.0606 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
-| Lattice b | 7.6586 Å | 298.15 | (αGa); _(αGa): Ga 1, Sn 0_ | unspecified | [1] Anderson 1992 | Table 4, p. 5, row 1 |  |
-| Lattice c | 3.1815 Å | 122.484 | (βSn); _(βSn): Ga 0, Sn 1_ | unspecified | [1] Anderson 1992; _cites ref. 1_ | Table 4, p. 5, row 3 |  |
 | Lattice c | 3.3314 Å | 296.15 | (γGa); _(γGa): Ga 0.9998, Sn 2.000e-4_ | unspecified | [1] Anderson 1992; _cites ref. 77Def_ | Table 4, p. 5, row 2 |  |
-| Lattice c | 4.5258 Å | 298.15 | (αGa); _(αGa): Ga 1, Sn 0_ | unspecified | [1] Anderson 1992 | Table 4, p. 5, row 1 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Mo–Ni–Ta system
 
-> Mo–Ni–Ta system: 118 accepted literature values (formation 70, phase equilibrium 42, mixing / partial 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni–Ta system: 58 accepted literature values (phase equilibrium 42, formation 10, mixing / partial 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI-TA.html · Markdown: https://data.orchid-project.org/systems/MO-NI-TA.md
 
-118 accepted literature values from 2 paper(s) (experimental 42, DFT 76); 0 calculated phase diagram(s).
+58 accepted literature values from 2 paper(s) (experimental 42, DFT 16); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI-TA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI-TA.md)
 
@@ -13,94 +13,34 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 42 |
-| DFT | 76 |
+| DFT | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 42 |
-| formation | 70 |
+| formation | 10 |
 | mixing / partial | 6 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Ni–Ta system (70)
+Table: Enthalpies of formation, Mo–Ni–Ta system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| C11b |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
-| C11b |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
-| C11b |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
-| C11b |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
-| C16 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
-| C16 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
-| C16 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
-| C16 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
-| D022 |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
-| D0a |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
-| D0a |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
-| D0a |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
-| Mo3Mo |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
-| Mo3Ni |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
-| Mo3Ta |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
-| Ni1Ni2 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
-| Ni1Ta2 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
 | Ni24Mo20Ta12 |  | -10.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 28 |  |
 | Ni24Ni20Ta12 |  | -16.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 29 |  |
 | Ni24Ta20Mo12 |  | -16.79 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 27 |  |
 | Ni24Ta20Ta12 |  | 0.62 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 30 |  |
-| Ni2Ni |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
-| Ni2Ta |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
-| Ni3Mo |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
-| Ni3Ni |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
-| Ni3Ta |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
-| Ni3Ta |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
-| Ni3Ta |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
-| Ni8Ta |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
-| NiTa4Ni2Ni6 |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
-| NiTa4Ta2Ni6 |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
-| Ta1Ni2 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
-| Ta1Ta2 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
-| Ta2Ni |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
-| Ta2Ta |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
-| Ta3Mo |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
-| Ta3Ni |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
-| Ta3Ni |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
-| Ta3Ta |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
-| Ta3Ta |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
-| TaTa4Mo2Ni6 |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
-| TaTa4Ni2Ni6 |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
-| TaTa4Ta2Ni6 |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
-| TaTa4Ta2Ta6 |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
-| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 6 |  |
 | UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 3 |  |
-| UNKNOWN |  | 0 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 1 |  |
-| UNKNOWN |  | 9.33 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 2 |  |
-| UNKNOWN |  | 26.23 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 5 |  |
 | UNKNOWN |  | 39.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 4 |  |
 | δ |  | -16.79 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 27 |  |
 | δ |  | -16.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 29 |  |
 | δ |  | -10.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 28 |  |
 | δ |  | 0.62 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 30 |  |
-| ζ |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
-| κ |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
-| κ |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
-| κ |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
-| κ |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
-| κ |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
-| κ |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
-| κ |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
-| κ |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
-| κ |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
-| μ |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
-| μ |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
-| μ |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
-| μ |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
-| μ |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
-| μ |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
 
 ## Other properties
 

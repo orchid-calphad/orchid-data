@@ -16,7 +16,7 @@ Table: Phases of the Hf–V system (5)
 | [C15_LAVES](#phase-hf-v-c15-laves); _phase:hf-v:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1807.52 K, x(V) 0.64035–0.67472 | 26 | 1 |
 | [FCC_A1](#phase-hf-v-fcc-a1); _phase:hf-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-hf-v-hcp-a3); _phase:hf-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2191.02 K, x(V) 0–0.02651 | 7 | 1 |
-| [LIQUID](#phase-hf-v-liquid); _phase:hf-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1733.12–4000 K, x(V) 0–1 | 19 | 1 |
+| [LIQUID](#phase-hf-v-liquid); _phase:hf-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1733.12–4000 K, x(V) 0–1 | 23 | 1 |
 
 ## BCC_A2 (Hf–V)
 
@@ -137,11 +137,11 @@ _cited as the source of values for this phase_
 - Id: `phase:hf-v:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1733.12–4000 K, x(V) 0–1
-- Literature: 19 values (12 accepted) from 1 papers
+- Literature: 23 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-v:liquid)
 
-Names (4): _corpus: _corpus:phase:hf-v:liquid  
-_paper: _paper:10.1361/15477030522464:L, paper:10.1361/15477030522464:Liq  
+Names (5): _corpus: _corpus:phase:hf-v:liquid  
+_paper: _paper:10.1361/15477030522464:L, paper:10.1361/15477030522464:Liq, paper:10.1361/15477030522464:liquid  
 _tdb: _tdb:HfV-05Ser.tdb:LIQUID  
 
 

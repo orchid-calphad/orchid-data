@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Ce3Sn7.html · Markdown: https://data.orchid-project.org/compounds/Ce3Sn7.md
 
-3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -56.75 kJ/mol-atom (mp-aaaabqay); OQMD -63.654 kJ/mol-atom (oqmd-11847).
+3 accepted literature formation-enthalpy value(s) (model 1, DFT 2); Materials Project -56.75 kJ/mol-atom (mp-aaaabqay); OQMD -63.654 kJ/mol-atom (oqmd-11847).
 
-Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
+Systems: [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ce3Sn7 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -62.19 kJ/mol-atom | Ce3Sn7 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 38 |  |
-| -60.02 kJ/mol-atom | Ce3Sn7 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 37 |  |
-| -73.449 kJ/mol-atom | Ce3Sn7 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 12 |  |
+| -62.19 kJ/mol-atom | Ce3Sn7 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 38 |  |
+| -73.449 kJ/mol-atom | Ce3Sn7 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 12 |  |
+| -60.02 kJ/mol-atom | Ce3Sn7 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 37 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ce3Sn7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -62.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.449 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -62.19 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -73.449 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -60.02 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

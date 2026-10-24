@@ -1,0 +1,230 @@
+{
+ "components": [
+  "BI",
+  "SE",
+  "VA"
+ ],
+ "phases": [
+  "BI2SE3_C33"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "BI",
+    "SE"
+   ],
+   [
+    "BI",
+    "SE"
+   ],
+   [
+    "BI",
+    "SE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -37437.0,
+    -66479.0,
+    -39764.0
+   ]
+  ]
+ ],
+ "reference": "Zhou 2024, doi:10.1007/s11669-024-01093-z",
+ "bibtex": "zhou2024_cc23e5",
+ "weight": [
+  0.054657,
+  0.054657,
+  0.054657
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB BiSe-20Che.tdb (sha256 3896c882c74c844786ec3c9eaa72d3773fe6713a2ba0949b1319cc8f5d9abbf9), phase BI2SE3_C33. Ids, in value order: ORC-F6WPSSDUDS ORC-QQOHUOXWAB ORC-RLXLRHKT2M. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "BiSe-20Che.tdb",
+   "path": "databases/sgte-binary/BiSe-20Che.tdb",
+   "sha256": "3896c882c74c844786ec3c9eaa72d3773fe6713a2ba0949b1319cc8f5d9abbf9",
+   "phase": "BI2SE3_C33"
+  },
+  "registry_phase": "phase:bi-se:bi2se3-c33",
+  "mapping": [
+   {
+    "id": "ORC-F6WPSSDUDS",
+    "compound": "Bi2Se3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-QQOHUOXWAB",
+    "compound": "Bi2Se3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-RLXLRHKT2M",
+    "compound": "Bi2Se3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-024-01093-z"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01093-z"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 9148.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BI-SE",
+     "n": 107,
+     "sigma_robust_kJ": 9.148,
+     "bias_median_kJ_not_applied": 3.6,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.054657,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -37.437,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-F6WPSSDUDS",
+    "compound": "Bi2Se3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9148.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9148.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 107,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|BI-SE"
+    }
+   },
+   {
+    "sigma": 9148.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BI-SE",
+     "n": 107,
+     "sigma_robust_kJ": 9.148,
+     "bias_median_kJ_not_applied": 3.6,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.054657,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -66.479,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-QQOHUOXWAB",
+    "compound": "Bi2Se3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9148.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9148.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 107,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|BI-SE"
+    }
+   },
+   {
+    "sigma": 9148.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BI-SE",
+     "n": 107,
+     "sigma_robust_kJ": 9.148,
+     "bias_median_kJ_not_applied": 3.6,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.054657,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -39.764,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-RLXLRHKT2M",
+    "compound": "Bi2Se3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 9148.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 9148.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 107,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|BI-SE"
+    }
+   }
+  ]
+ }
+}

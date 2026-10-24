@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/AuCe2.html · Markdown: https://data.orchid-project.org/compounds/AuCe2.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -55 kJ/mol-atom (n = 2); Materials Project -33.544 kJ/mol-atom (mp-aaacksso); OQMD -50.205 kJ/mol-atom (oqmd-1520580).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 2); experimental median -55 kJ/mol-atom (n = 2); Materials Project -33.544 kJ/mol-atom (mp-aaacksso); OQMD -50.205 kJ/mol-atom (oqmd-1520580).
 
-Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) · [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html)
+Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of AuCe2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -55 kJ/mol-atom ± 1 | AuCe2 | 300 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
+| -55 kJ/mol-atom ± 1 | AuCe2 | 300 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
 | -55 kJ/mol-atom ± 1 | Ce2Au | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 2, p. 3, row 1 |  |
 | -61 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016 | Table 2, p. 3, row 4 |  |
 | -59.39 kJ/mol-atom | Ce2Au | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 3 |  |
-| -59.39 kJ/mol-atom | AuCe2 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
-| -50.99 kJ/mol-atom | AuCe2 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
+| -59.39 kJ/mol-atom | AuCe2 | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
+| -50.99 kJ/mol-atom | AuCe2 | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
 | -50.99 kJ/mol-atom | Ce2Au | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 2 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of AuCe2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
+| -55 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -55 | kJ/mol-atom | 1 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -55 | kJ/mol-atom | 1 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -61 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.39 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.39 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.99 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.99 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -61 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.39 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.39 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.99 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -50.99 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -46,8 +46,8 @@ Table: DFT formation energy of AuCe2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacksso | -33.544 | -0.34766 | Pnma | 7.779 | 0.0806 | no |
-| OQMD | oqmd-1520580 | -50.205 | -0.520344 | Pnma | 0.231 | 0.0024 | yes |
+| Materials Project | mp-aaacksso | -33.544 | -0.34766 | Pnma | 7.7793 | 0.0806 | no |
+| OQMD | oqmd-1520580 | -50.205 | -0.520344 | Pnma | 2.000e-4 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

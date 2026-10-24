@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Rh2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -451.9 | kJ/mol (basis unstated) | 16.7 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 16.7 |
-| -405.96 | kJ/mol (basis unstated) | 1.15 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -405.53 | kJ/mol (basis unstated) | 0.26 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -387.586 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -360 | kJ/mol (basis unstated) | 3 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -340.72 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -338.21 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -451.9 | kJ/mol (basis unstated) | 16.7 | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -405.96 | kJ/mol (basis unstated) | 1.15 | 0.005 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -405.53 | kJ/mol (basis unstated) | 0.26 | 0.005 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -387.586 | kJ/mol (basis unstated) |  | 5.000e-4 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
+| -360 | kJ/mol (basis unstated) | 3 | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -340.72 | kJ/mol (basis unstated) |  | 0.005 | 19 (experimental_unspecified, calibrated) |  |  |  | 19 |
+| -338.21 | kJ/mol (basis unstated) |  | 0.005 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
 
 ## Sources
 

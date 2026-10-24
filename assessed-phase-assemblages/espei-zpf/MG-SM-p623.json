@@ -11,19 +11,17 @@
   "MG2SM_C15",
   "MG3SM_D03",
   "MG41SM5",
-  "MG5SM"
+  "RHOMB_C19"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
    541.9923213,
-   306.9923213,
-   554.9923213,
    622.9923213,
+   682.9923213,
    1048.492321,
    851.9923213,
    1252.492321,
-   827.4923213,
    891.4923213,
    958.4923213,
    1101.492321,
@@ -64,64 +62,6 @@
   ],
   [
    [
-    "MG41SM5",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MG5SM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.1376647697
-    ]
-   ]
-  ],
-  [
-   [
-    "MG3SM_D03",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MG5SM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.2082834813
-    ]
-   ]
-  ],
-  [
-   [
     "MG2SM_C15",
     [
      "SM"
@@ -146,6 +86,17 @@
     ],
     [
      0.2914232411
+    ]
+   ]
+  ],
+  [
+   [
+    "RHOMB_C19",
+    [
+     "SM"
+    ],
+    [
+     0.9926019382
     ]
    ]
   ],
@@ -197,35 +148,6 @@
     ],
     [
      0.3920924683
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MG5SM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.1391672954
     ]
    ]
   ],
@@ -368,13 +290,11 @@
   "diagram": "MG-SM-p623",
   "record_ids": [
    "aspa-05fe426758333367",
-   "aspa-9169a85868717b52",
-   "aspa-3ea9ff6ed69381cc",
    "aspa-1eec40864c42aef4",
+   "aspa-2002bfceb7cb52f3",
    "aspa-8007736ce5087622",
    "aspa-79bc2b5720311b0a",
    "aspa-77ba861bcd875a8c",
-   "aspa-4e39c42770247c80",
    "aspa-98d6cc4ff9f67567",
    "aspa-7cc8cf57d2500ebc",
    "aspa-ff2da8875335fffd",
@@ -382,8 +302,6 @@
    "aspa-d2ee6705851d138b"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -420,42 +338,6 @@
     }
    },
    {
-    "record_id": "aspa-9169a85868717b52",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.783,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 34.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0280471,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-3ea9ff6ed69381cc",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.783,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 21.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0135227,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-1eec40864c42aef4",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -470,6 +352,24 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.041069,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-2002bfceb7cb52f3",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.783,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 153.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00801347,
      "sigma_effective": 0.02
     }
    },
@@ -524,24 +424,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.39266,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-4e39c42770247c80",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.783,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 8.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0270455,
      "sigma_effective": 0.02
     }
    },

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HoNi.html · Markdown: https://d
 
 6 accepted literature formation-enthalpy value(s) (experimental 2, model 4); experimental median -45.15 kJ/mol-atom (n = 2); Materials Project -45.179 kJ/mol-atom (mp-aaaaarop); OQMD -45.907 kJ/mol-atom (oqmd-18379).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
+Systems: [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
@@ -18,7 +18,7 @@ Table: Enthalpy of formation of HoNi reported in the literature (6)
 | -41.7 kJ/mol-atom ± 1.4 | HoNi | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 11 |  |
 | -48.8 kJ/mol-atom | HoNi | 298.15 | model | Interpolation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 13 |  |
 | -48.23 kJ/mol-atom | HoNi | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 14 |  |
-| -48.23 kJ/mol-atom | NiHo | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13 |  |
+| -48.23 kJ/mol-atom | NiHo | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 13 |  |
 | -45 kJ/mol-atom | HoNi | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 10 |  |
 
 ### Uncertainty budget
@@ -31,10 +31,10 @@ Table: Uncertainty budget of the literature values of HoNi
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -48.6 | kJ/mol-atom | 0.77 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -41.7 | kJ/mol-atom | 1.4 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
-| -48.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.23 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.23 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.23 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.23 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -45,7 +45,7 @@ Table: DFT formation energy of HoNi
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaarop | -45.179 | -0.468249 | Pnma | 0 | 0 | no |
-| OQMD | oqmd-18379 | -45.907 | -0.47579 | Pnma | 0.217 | 0.0022 | no |
+| OQMD | oqmd-18379 | -45.907 | -0.47579 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

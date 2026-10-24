@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CaLi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.5 | kJ/mol (basis unstated) | 1.6 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -3.89 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -4.5 | kJ/mol (basis unstated) | 1.6 | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -3.89 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## Sources
 

@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Sc5Si3 reported in the literature (5)
 |---:|---|---:|---|---|---|---|---|---|
 | -161.1 kJ/mol-atom | Sc5Si3 | 298.15 | experimental | Acid solution calorimetry | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015; _cites Golutvin 1984_ | Table 2, p. 3, row 1 |  |
 | -102.8 kJ/mol-atom ± 3.8 | Sc5Si3 | 935 | experimental | EMF | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015; _cites Lukashenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990229-3) | Table 2, p. 3, row 3 |  |
-| -89.9 kJ/mol-atom ± 4.3 | Sc5Si3 | 1473 | experimental | Solute–solvent drop calorimetry | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015; _cites Topor 1989_ [doi](https://doi.org/10.1007/bf02670193) | Table 2, p. 3, row 2 |  |
+| -89.9 kJ/mol-atom ± 4.3 | Sc5Si3 | 298.15 | experimental | Solute–solvent drop calorimetry | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015; _cites Topor 1989_ [doi](https://doi.org/10.1007/bf02670193) | Table 2, p. 3, row 2 |  |
 | -90.3 kJ/mol-atom | Sc5Si3 | 298.15 | model | Calculated | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015 | Table 2, p. 3, row 7 |  |
 | 4.236 kJ/mol-atom | Sc5Si3 | 298.15 | model | Calculated | [Sc–Si](https://data.orchid-project.org/systems/SC-SI.html) | [1] Qin 2015; _cites Sychev 1980_ | Table 2, p. 3, row 6 |  |
 
@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of Sc5Si3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -161.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -102.8 | kJ/mol-atom | 3.8 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -102.8 | kJ/mol-atom | 3.8 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -89.9 | kJ/mol-atom | 4.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.3 |
-| -90.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 4.236 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -90.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 4.236 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

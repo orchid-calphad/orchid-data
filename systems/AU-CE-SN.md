@@ -1,10 +1,10 @@
 # Au–Ce–Sn system
 
-> Au–Ce–Sn system: 180 accepted literature values (crystal structure 90, formation 56, invariant reaction 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ce–Sn system: 60 accepted literature values (invariant reaction 34, crystal structure 15, formation 11) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CE-SN.html · Markdown: https://data.orchid-project.org/systems/AU-CE-SN.md
 
-180 accepted literature values from 1 paper(s) (experimental 35, model 83, unspecified 62); 0 calculated phase diagram(s).
+60 accepted literature values from 1 paper(s) (experimental 15, model 43, DFT 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-CE-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CE-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-CE-SN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
-| model | 83 |
-| unspecified | 62 |
+| experimental | 15 |
+| model | 43 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
-| formation | 56 |
-| crystal structure | 90 |
+| formation | 11 |
+| crystal structure | 15 |
 
 ## Invariant reactions (literature)
 
@@ -69,112 +69,31 @@ Table: Invariant reactions reported in the literature for the Au–Ce–Sn syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Ce–Sn system (56)
+Table: Enthalpies of formation, Au–Ce–Sn system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -71.46 kJ/mol-atom | 0 | model | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013 | Table 4, p. 4, row 10 |  |
-| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -70 kJ/mol-atom | 289 | model | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013 | Table 4, p. 4, row 12 |  |
-| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -57.5 kJ/mol-atom ± 4.7 | 298.15 | experimental | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 11 |  |
-| Au4Ce3 | [Au4Ce3](https://data.orchid-project.org/compounds/Au4Ce3.html) | -74.32 kJ/mol-atom | 0 | model |  | -75.24 (oqmd-1484238) | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
-| Au4Ce3 | [Au4Ce3](https://data.orchid-project.org/compounds/Au4Ce3.html) | -73.82 kJ/mol-atom | 289 | model |  | -75.24 (oqmd-1484238) | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
-| Au51Ce14 |  | -57.71 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 14 |  |
-| Au51Ce14 |  | -49.5 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 13 |  |
-| Au6Ce | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -41.59 kJ/mol-atom | 289 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [1] Dong 2013 | Table 4, p. 4, row 16 |  |
-| Au6Ce | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -39.76 kJ/mol-atom | 0 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [1] Dong 2013 | Table 4, p. 4, row 15 |  |
-| AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -59.39 kJ/mol-atom | 289 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
-| AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -55 kJ/mol-atom ± 1 | 300 | experimental | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
-| AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -50.99 kJ/mol-atom | 0 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
-| Ce11Sn10 | [Ce11Sn10](https://data.orchid-project.org/compounds/Ce11Sn10.html) | -73.85 kJ/mol-atom | 0 | model |  | -76.918 (oqmd-662927) | [1] Dong 2013 | Table 4, p. 4, row 31 |  |
-| Ce11Sn10 | [Ce11Sn10](https://data.orchid-project.org/compounds/Ce11Sn10.html) | -72.21 kJ/mol-atom | 289 | model |  | -76.918 (oqmd-662927) | [1] Dong 2013 | Table 4, p. 4, row 32 |  |
-| Ce2Sn5 | [Ce2Sn5](https://data.orchid-project.org/compounds/Ce2Sn5.html) | -61.29 kJ/mol-atom | 289 | model | -53.715 (mp-aaabeumt) | -61.94 (oqmd-11846) | [1] Dong 2013 | Table 4, p. 4, row 40 |  |
-| Ce2Sn5 | [Ce2Sn5](https://data.orchid-project.org/compounds/Ce2Sn5.html) | -58.15 kJ/mol-atom | 0 | model | -53.715 (mp-aaabeumt) | -61.94 (oqmd-11846) | [1] Dong 2013 | Table 4, p. 4, row 39 |  |
-| Ce3Sn | [Ce3Sn](https://data.orchid-project.org/compounds/Ce3Sn.html) | -53.72 kJ/mol-atom | 289 | model | -39.857 (mp-aaaabern) | -45.291 (oqmd-29193) | [1] Dong 2013 | Table 4, p. 4, row 20 |  |
-| Ce3Sn | [Ce3Sn](https://data.orchid-project.org/compounds/Ce3Sn.html) | -53 kJ/mol-atom | 300 | model | -39.857 (mp-aaaabern) | -45.291 (oqmd-29193) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 19 |  |
-| Ce3Sn | [Ce3Sn](https://data.orchid-project.org/compounds/Ce3Sn.html) | -49.37 kJ/mol-atom ± 2.1 | 300 | experimental | -39.857 (mp-aaaabern) | -45.291 (oqmd-29193) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 18 |  |
-| Ce3Sn | [Ce3Sn](https://data.orchid-project.org/compounds/Ce3Sn.html) | -43.82 kJ/mol-atom | 0 | model | -39.857 (mp-aaaabern) | -45.291 (oqmd-29193) | [1] Dong 2013 | Table 4, p. 4, row 17 |  |
-| Ce3Sn5 | [Ce3Sn5](https://data.orchid-project.org/compounds/Ce3Sn5.html) | -80 kJ/mol-atom | 300 | model | -57.146 (mp-aaacpraa) | -70.63 (oqmd-1799732) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 35 |  |
-| Ce3Sn5 | [Ce3Sn5](https://data.orchid-project.org/compounds/Ce3Sn5.html) | -75.31 kJ/mol-atom ± 4.2 | 300 | experimental | -57.146 (mp-aaacpraa) | -70.63 (oqmd-1799732) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 34 |  |
-| Ce3Sn5 | [Ce3Sn5](https://data.orchid-project.org/compounds/Ce3Sn5.html) | -66.98 kJ/mol-atom | 0 | model | -57.146 (mp-aaacpraa) | -70.63 (oqmd-1799732) | [1] Dong 2013 | Table 4, p. 4, row 33 |  |
-| Ce3Sn5 | [Ce3Sn5](https://data.orchid-project.org/compounds/Ce3Sn5.html) | -65.38 kJ/mol-atom | 289 | model | -57.146 (mp-aaacpraa) | -70.63 (oqmd-1799732) | [1] Dong 2013 | Table 4, p. 4, row 36 |  |
-| Ce3Sn7 | [Ce3Sn7](https://data.orchid-project.org/compounds/Ce3Sn7.html) | -62.19 kJ/mol-atom | 289 | model | -56.75 (mp-aaaabqay) | -63.654 (oqmd-11847) | [1] Dong 2013 | Table 4, p. 4, row 38 |  |
-| Ce3Sn7 | [Ce3Sn7](https://data.orchid-project.org/compounds/Ce3Sn7.html) | -60.02 kJ/mol-atom | 0 | model | -56.75 (mp-aaaabqay) | -63.654 (oqmd-11847) | [1] Dong 2013 | Table 4, p. 4, row 37 |  |
-| Ce5Sn4 | [Ce5Sn4](https://data.orchid-project.org/compounds/Ce5Sn4.html) | -83.68 kJ/mol-atom ± 4.2 | 300 | experimental | -55.641 (mp-aaaabgcj) | -76.267 (oqmd-18283) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 28 |  |
-| Ce5Sn4 | [Ce5Sn4](https://data.orchid-project.org/compounds/Ce5Sn4.html) | -83 kJ/mol-atom | 300 | model | -55.641 (mp-aaaabgcj) | -76.267 (oqmd-18283) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 29 |  |
-| Ce5Sn4 | [Ce5Sn4](https://data.orchid-project.org/compounds/Ce5Sn4.html) | -73.46 kJ/mol-atom | 289 | model | -55.641 (mp-aaaabgcj) | -76.267 (oqmd-18283) | [1] Dong 2013 | Table 4, p. 4, row 30 |  |
-| Ce5Sn4 | [Ce5Sn4](https://data.orchid-project.org/compounds/Ce5Sn4.html) | -73.25 kJ/mol-atom | 0 | model | -55.641 (mp-aaaabgcj) | -76.267 (oqmd-18283) | [1] Dong 2013 | Table 4, p. 4, row 27 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -58.58 kJ/mol-atom ± 2.1 | 300 | experimental | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 42 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -58 kJ/mol-atom | 300 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 44 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -57.62 kJ/mol-atom | 289 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 45 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -51.64 kJ/mol-atom | 0 | model | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013 | Table 4, p. 4, row 41 |  |
-| CeSn3 | [CeSn3](https://data.orchid-project.org/compounds/CeSn3.html) | -49.1 kJ/mol-atom | 298.15 | experimental | -51.678 (mp-aaaaacvn) | -55.531 (oqmd-29195) | [1] Dong 2013; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0040-6031%2873%2980026-7) | Table 4, p. 4, row 43 |  |
-| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 289 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 7 |  |
-| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.36 kJ/mol-atom | 0 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 5 |  |
-| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298.15 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6 |  |
-| αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -75.3 kJ/mol-atom ± 4.2 | 300 | experimental | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
-| αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -75 kJ/mol-atom | 300 | model | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
-| αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -73.22 kJ/mol-atom ± 4.2 | 300 | experimental | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |
-| αCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -65.89 kJ/mol-atom | 0 | model | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013 | Table 4, p. 4, row 23 |  |
-| βAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -74.71 kJ/mol-atom | 0 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 4 |  |
-| βCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -70.03 kJ/mol-atom | 289 | model | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013 | Table 4, p. 4, row 22 |  |
-| βCe5Sn3 | [Ce5Sn3](https://data.orchid-project.org/compounds/Ce5Sn3.html) | -65.34 kJ/mol-atom | 0 | model | -51.357 (mp-aaabkgtw) | -68.361 (oqmd-18282) | [1] Dong 2013 | Table 4, p. 4, row 21 |  |
 | τ1 |  | -50.89 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 46 |  |
 | τ1 |  | -41.85 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 46 |  |
 | τ2 |  | -85.61 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 48 |  |
 | τ2 |  | -70.38 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 48 |  |
 | τ3 |  | -79 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 47 |  |
 | τ4 |  | -86.46 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 50 |  |
-| τ4 |  | -80.99 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 49 |  |
+| τ4 |  | -80.99 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 49 |  |
 | τ5 |  | -74.77 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 52 |  |
-| τ5 |  | -71.26 kJ/mol-atom | 0 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 51 |  |
+| τ5 |  | -71.26 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 51 |  |
 | τ6 |  | -70 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 53 |  |
 | τ7 |  | -71.89 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 54 |  |
 
 ## Other properties
 
-### Crystal structure (90)
+### Crystal structure (15)
 
 Table: Crystal structure, Au–Ce–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0784 Å | 298.15 | Au; _alloy: Ce 0, Sn 0_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.528 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333, Sn 0_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
-| Lattice a | 13.887 Å | 298.15 | Au4Ce3; _alloy: Ce 0.428571, Sn 0_ | experimental | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 1, p. 2, row 9 |  |
-| Lattice a | 12.77 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 12 |  |
-| Lattice a | 12.81 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 11 |  |
-| Lattice a | 7.8 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
-| Lattice a | 7.271 Å ± 7 | 298.15 | AuCe2; _alloy: Ce 0.666667, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 19.7 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 29 |  |
-| Lattice a | 12.06 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 30 |  |
-| Lattice a | 12.2 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 28 |  |
-| Lattice a | 4.559 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 34 |  |
-| Lattice a | 4.59 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 35 |  |
-| Lattice a | 4.93 Å | 298.15 | Ce3Sn; _alloy: Ce 0.75, Sn 0.25_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 17 |  |
-| Lattice a | 4.929 Å | 298.15 | Ce3Sn; _alloy: Ce 0.75, Sn 0.25_ | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 2, row 16 |  |
-| Lattice a | 4.926 Å | 298.15 | Ce3Sn; _alloy: Ce 0.75, Sn 0.25_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.927 Å | 298.15 | Ce3Sn; _alloy: Ce 0.75, Sn 0.25_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 18 |  |
-| Lattice a | 10.243 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 32 |  |
-| Lattice a | 10.255 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 31 |  |
-| Lattice a | 4.524 Å | 298.15 | Ce3Sn7; _alloy: Ce 0.3, Sn 0.7_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 33 |  |
-| Lattice a | 8.337 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 25 |  |
-| Lattice a | 8.36 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 27 |  |
-| Lattice a | 8.348 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 26 |  |
-| Lattice a | 4.724 Å | 298.15 | CeSn3; _alloy: Ce 0.25, Sn 0.75_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 37 |  |
-| Lattice a | 4.721 Å | 298.15 | CeSn3; _alloy: Ce 0.25, Sn 0.75_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 36 |  |
 | Lattice a | 8.313 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 2 |  |
-| Lattice a | 7.43 Å | 298.15 | αAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
-| Lattice a | 4.85 Å | 298.15 | αCe; _alloy: Ce 1, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 2 |  |
-| Lattice a | 12.58 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 24 |  |
-| Lattice a | 12.6 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 22 |  |
-| Lattice a | 12.599 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 23 |  |
-| Lattice a | 12.591 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 2, row 21 |  |
-| Lattice a | 3.9 Å | 298.15 | βAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.681 Å | 298.15 | βCe; _alloy: Ce 1, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 3 |  |
-| Lattice a | 9.33 Å | 298.15 | βCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 2, row 20 |  |
-| Lattice a | 5.829 Å | 298.15 | βSn; _alloy: Ce 0, Sn 1_ | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 2, row 14 |  |
-| Lattice a | 5.161 Å | 298.15 | γCe; _alloy: Ce 1, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.12 Å | 298.15 | δCe; _alloy: Ce 1, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 5 |  |
 | Lattice a | 15.096 Å ± 0.002 | 298.15 | τ1: Au5CeSn to Au13Ce3Sn4; _alloy: Ce 0.148148, Sn 0.185185_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 1 |  |
 | Lattice a | 15.127 Å ± 0.003 | 298.15 | τ1: Au5CeSn to Au13Ce3Sn4; _alloy: Ce 0.148148, Sn 0.185185_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 1 |  |
 | Lattice a | 9.517 Å ± 0.001 | 298.15 | τ3: Au2CeSn; _alloy: Ce 0.25, Sn 0.25_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 3 |  |
@@ -182,47 +101,8 @@ Table: Crystal structure, Au–Ce–Sn system
 | Lattice a | 9.645 Å ± 0.005 | 298.15 | τ5: AuCe5Sn3; _alloy: Ce 0.555556, Sn 0.333333_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 5 |  |
 | Lattice a | 4.575 Å ± 0.001 | 298.15 | τ6: Au2CeSn2; _alloy: Ce 0.2, Sn 0.4_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 6 |  |
 | Lattice a | 9.142 Å ± 0.002 | 298.15 | τ7: Au3Ce2Sn4; _alloy: Ce 0.222222, Sn 0.444444_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 7 |  |
-| Lattice b | 7.203 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333, Sn 0_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
-| Lattice b | 7.78 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
-| Lattice b | 5.073 Å ± 6 | 298.15 | AuCe2; _alloy: Ce 0.666667, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
-| Lattice b | 35.014 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 34 |  |
-| Lattice b | 35.14 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 35 |  |
-| Lattice b | 8.214 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 32 |  |
-| Lattice b | 8.225 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 31 |  |
-| Lattice b | 25.742 Å | 298.15 | Ce3Sn7; _alloy: Ce 0.3, Sn 0.7_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 33 |  |
-| Lattice b | 16.05 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 25 |  |
-| Lattice b | 16.074 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 27 |  |
-| Lattice b | 16.03 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 26 |  |
-| Lattice b | 4.66 Å | 298.15 | αAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
-| Lattice b | 11.14 Å | 298.15 | βAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
 | Lattice b | 13.59 Å ± 0.01 | 298.15 | τ6: Au2CeSn2; _alloy: Ce 0.2, Sn 0.4_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 6 |  |
-| Lattice c | 8.068 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333, Sn 0_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
-| Lattice c | 6.17 Å | 298.15 | Au4Ce3; _alloy: Ce 0.428571, Sn 0_ | experimental | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 1, p. 2, row 9 |  |
-| Lattice c | 9.29 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 12 |  |
-| Lattice c | 9.327 Å ± 3 | 298.15 | Au51Ce14; _alloy: Ce 0.215385, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 11 |  |
-| Lattice c | 9.08 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
-| Lattice c | 9.32 Å ± 9 | 298.15 | AuCe2; _alloy: Ce 0.666667, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 17.82 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 29 |  |
-| Lattice c | 17.81 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 30 |  |
-| Lattice c | 17.9 Å | 298.15 | Ce11Sn10; _alloy: Ce 0.52381, Sn 0.47619_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 28 |  |
-| Lattice c | 4.619 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 34 |  |
-| Lattice c | 4.66 Å | 298.15 | Ce2Sn5; _alloy: Ce 0.285714, Sn 0.714286_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 35 |  |
-| Lattice c | 10.652 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 32 |  |
-| Lattice c | 10.58 Å | 298.15 | Ce3Sn5; _alloy: Ce 0.375, Sn 0.625_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 31 |  |
-| Lattice c | 4.61 Å | 298.15 | Ce3Sn7; _alloy: Ce 0.3, Sn 0.7_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 33 |  |
-| Lattice c | 8.48 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 25 |  |
-| Lattice c | 8.484 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 27 |  |
-| Lattice c | 8.492 Å | 298.15 | Ce5Sn4; _alloy: Ce 0.555556, Sn 0.444444_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 26 |  |
 | Lattice c | 9.517 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 2 |  |
-| Lattice c | 5.93 Å | 298.15 | αAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
-| Lattice c | 6.153 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 24 |  |
-| Lattice c | 6.17 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 22 |  |
-| Lattice c | 6.179 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 23 |  |
-| Lattice c | 6.174 Å | 298.15 | αCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | experimental | [1] Dong 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 2, row 21 |  |
-| Lattice c | 4.75 Å | 298.15 | βAuCe; _alloy: Ce 0.5, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
-| Lattice c | 11.857 Å | 298.15 | βCe; _alloy: Ce 1, Sn 0_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 3 |  |
-| Lattice c | 6.79 Å | 298.15 | βCe5Sn3; _alloy: Ce 0.625, Sn 0.375_ | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 2, row 20 |  |
-| Lattice c | 3.18 Å | 298.15 | βSn; _alloy: Ce 0, Sn 1_ | experimental | [1] Dong 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 2, row 14 |  |
 | Lattice c | 9.591 Å ± 0.003 | 298.15 | τ3: Au2CeSn; _alloy: Ce 0.25, Sn 0.25_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 3 |  |
 | Lattice c | 7.712 Å ± 0.003 | 298.15 | τ4: AuCeSn; _alloy: Ce 0.333333, Sn 0.333333_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 4 |  |
 | Lattice c | 6.754 Å ± 0.004 | 298.15 | τ5: AuCe5Sn3; _alloy: Ce 0.555556, Sn 0.333333_ | experimental | [1] Dong 2013; _cites Boulet 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901429-8) | Table 6, p. 5, row 5 |  |

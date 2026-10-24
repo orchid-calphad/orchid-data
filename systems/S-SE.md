@@ -1,10 +1,10 @@
 # S–Se system
 
-> S–Se system: 60 accepted literature values (other property 22, crystal structure 21, phase transition 9, invariant reaction 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> S–Se system: 31 accepted literature values (phase transition 9, other property 8, invariant reaction 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/S-SE.html · Markdown: https://data.orchid-project.org/systems/S-SE.md
 
-60 accepted literature values from 1 paper(s) (experimental 17, model 6, DFT 37); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 12, model 6, DFT 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/S-SE.json) · [CSV](https://data.orchid-project.org/systems/S-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#S-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#S-SE/SSe-17Gua.json) · [phases (6)](https://data.orchid-project.org/phases/pages/S-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/S-SE.html) · [Markdown](https://data.orchid-project.org/systems/S-SE.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
+| experimental | 12 |
 | model | 6 |
-| DFT | 37 |
+| DFT | 13 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 8 |
 | phase transition | 9 |
-| crystal structure | 21 |
-| other property | 22 |
+| crystal structure | 6 |
+| other property | 8 |
 
 ## Calculated phase diagrams
 
@@ -77,59 +77,30 @@ Table: Phase transition, S–Se system
 | Phase transition | 428 K | 428 |  | model | [1] Guan 2017 | p. 5 | “The a-S/b-S transition temperature is predicted to be 428 K, which is reasonably close to the experimental value, 369 K \[74\].” |
 | Phase transition | 1029 K | 1029 | congruent transformation | model | [1] Guan 2017 | p. 8 | “The present assessment indicates a congruent volatilization temperature at 1029 K and composition 76 at.% Se at 1 bar, which is suitable for experimental verification as well as evaluating the accuracy of the present description of the gas phase.” |
 
-### Crystal structure (21)
+### Crystal structure (6)
 
 Table: Crystal structure, S–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| volume; _printed: Volume_ | 25.76 Å3/atom | 0 | α-S; _alloy: Se 0_ | experimental | [1] Guan 2017; _cites Rettig 1987_ [doi](https://doi.org/10.1107/s0108270187088152) | Table 1, p. 5, row 1 |  |
-| volume; _printed: Volume_ | 23.51 Å3/atom | 0 | α-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 3 |  |
-| volume; _printed: Volume_ | 27.29 Å3/atom | 0 | α-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 2 |  |
-| volume; _printed: Volume_ | 28.19 Å3/atom | 0 | α-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 13 |  |
-| volume; _printed: Volume_ | 32.13 Å3/atom | 0 | α-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 12 |  |
 | volume; _printed: Volume_ | 23.66 Å3/atom | 0 | α′-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 11 |  |
 | volume; _printed: Volume_ | 27.49 Å3/atom | 0 | α′-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 10 |  |
-| volume; _printed: Volume_ | 31.49 Å3/atom | 0 | α′-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 20 |  |
-| volume; _printed: Volume_ | 26.68 Å3/atom | 0 | α′-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 21 |  |
-| volume; _printed: Volume_ | 29.78 Å3/atom | 0 | α′-Se; _alloy: Se 1_ | experimental | [1] Guan 2017; _cites Gattow 1964_ [doi](https://doi.org/10.1002/zaac.19643310504) | Table 1, p. 5, row 19 |  |
-| volume; _printed: Volume_ | 27.74 Å3/atom | 0 | β-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 15 |  |
-| volume; _printed: Volume_ | 32.52 Å3/atom | 0 | β-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 14 |  |
 | volume; _printed: Volume_ | 27.81 Å3/atom | 0 | β1-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 5 |  |
-| volume; _printed: Volume_ | 25.5 Å3/atom | 0 | β1-S; _alloy: Se 0_ | experimental | [1] Guan 2017; _cites Lewis 1911_ [doi](https://doi.org/10.1021/ja02217a005) | Table 1, p. 5, row 4 |  |
+| volume; _printed: Volume_ | 25.5 Å3/atom |  | β1-S; _alloy: Se 0_ | experimental | [1] Guan 2017; _cites Lewis 1911_ [doi](https://doi.org/10.1021/ja02217a005) | Table 1, p. 5, row 4 |  |
 | volume; _printed: Volume_ | 24.22 Å3/atom | 0 | β1-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 6 |  |
 | volume; _printed: Volume_ | 24.35 Å3/atom | 0 | β2-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 7 |  |
-| volume; _printed: Volume_ | 26.86 Å3/atom | 0 | δ-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 8 |  |
-| volume; _printed: Volume_ | 22.2 Å3/atom | 0 | δ-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 9 |  |
-| volume; _printed: Volume_ | 23.08 Å3/atom | 0 | δ-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 18 |  |
-| volume; _printed: Volume_ | 25.99 Å3/atom | 0 | δ-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 17 |  |
-| volume; _printed: Volume_ | 26.57 Å3/atom | 0 | δ-Se; _alloy: Se 1_ | experimental | [1] Guan 2017; _cites Hamilton 1974_ [doi](https://doi.org/10.1016/s0022-3697%2874%2980126-5) | Table 1, p. 5, row 16 |  |
 
-### Other property (22)
+### Other property (8)
 
 Table: Other property, S–Se system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B0_ | 11.096 GPa (range 7.692 to 14.5) | 0 | α-S; _alloy: Se 0_ | experimental | [1] Guan 2017; _cites Rettig 1987_ [doi](https://doi.org/10.1107/s0108270187088152) | Table 1, p. 5, row 1 |  |
-| bulk modulus; _printed: B0_ | 12.242 GPa | 0 | α-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 3 |  |
-| bulk modulus; _printed: B0_ | 5.804 GPa | 0 | α-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 2 |  |
-| bulk modulus; _printed: B0_ | 15.142 GPa | 0 | α-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 13 |  |
-| bulk modulus; _printed: B0_ | 9.058 GPa | 0 | α-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 12 |  |
 | bulk modulus; _printed: B0_ | 10.265 GPa | 0 | α′-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 11 |  |
 | bulk modulus; _printed: B0_ | 6.383 GPa | 0 | α′-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 10 |  |
-| bulk modulus; _printed: B0_ | 7.737 GPa | 0 | α′-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 20 |  |
-| bulk modulus; _printed: B0_ | 13.342 GPa | 0 | α′-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 21 |  |
-| bulk modulus; _printed: B0_ | 14.033 GPa | 0 | β-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 15 |  |
-| bulk modulus; _printed: B0_ | 8.393 GPa | 0 | β-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 14 |  |
 | bulk modulus; _printed: B0_ | 7.046 GPa | 0 | β1-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 5 |  |
 | bulk modulus; _printed: B0_ | 10.867 GPa | 0 | β1-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 6 |  |
 | bulk modulus; _printed: B0_ | 10.393 GPa | 0 | β2-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 7 |  |
-| bulk modulus; _printed: B0_ | 7.252 GPa | 0 | δ-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 8 |  |
-| bulk modulus; _printed: B0_ | 9.349 GPa | 0 | δ-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 9 |  |
-| bulk modulus; _printed: B0_ | 34.163 GPa | 0 | δ-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 18 |  |
-| bulk modulus; _printed: B0_ | 14.359 GPa | 0 | δ-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 17 |  |
-| bulk modulus; _printed: B0_ | 10.9925 GPa (range 7.085 to 14.9) | 0 | δ-Se; _alloy: Se 1_ | experimental | [1] Guan 2017; _cites Hamilton 1974_ [doi](https://doi.org/10.1016/s0022-3697%2874%2980126-5) | Table 1, p. 5, row 16 |  |
 | deviation from experiment; _printed: %Error_ | 5.9 % | 0 | α-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 2 |  |
 | deviation from experiment; _printed: %Error_ | 5.7 % | 0 | α′-Se; _alloy: Se 1_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 20 |  |
 | deviation from experiment; _printed: %Error_ | 9.1 % | 0 | β1-S; _alloy: Se 0_ | DFT | [1] Guan 2017 | Table 1, p. 5, row 5 |  |

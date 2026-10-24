@@ -1,10 +1,10 @@
 # Cr–Mn system
 
-> Cr–Mn system: 15 accepted literature values (invariant reaction 8, activity / EMF / Gibbs energy 5, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Mn system: 16 accepted literature values (invariant reaction 8, activity / EMF / Gibbs energy 5, phase transition 2, mixing / partial 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-MN.html · Markdown: https://data.orchid-project.org/systems/CR-MN.md
 
-15 accepted literature values from 3 paper(s) (experimental 7, unspecified 8); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+16 accepted literature values from 4 paper(s) (experimental 7, DFT 1, unspecified 8); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-MN.json) · [CSV](https://data.orchid-project.org/systems/CR-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-MN/CrMn-93Lee-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CR-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-MN.html) · [Markdown](https://data.orchid-project.org/systems/CR-MN.md)
 
@@ -13,6 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
+| DFT | 1 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 8 |
 | phase transition | 2 |
+| mixing / partial | 1 |
 | activity / EMF / Gibbs energy | 5 |
 
 ## Calculated phase diagrams
@@ -101,6 +103,14 @@ Table: Phase transition, Cr–Mn system
 | Phase transition | 973 K | 973 | β-spinel + Mn2O3 + Cr2O3 | experimental | [2] Kjellqvist 2010; _cites Golikov 1985_ [doi](https://doi.org/10.1016/0022-3697%2885%2990073-3) | p. 4 | “They suggest that the temperature for the threephase equilibrium ␤-spinel + Mn2 O3 + Cr2 O3 equilibrated in air is 973 K, but they did not perform any experiments at lower temperatures.” |
 | Phase transition | 1073.15 K | 1073.15 | other | experimental | [3] Lee 1993 | p. 3 | “Wachtel and Bartelt also reported another transformation in the sigma phase at about 800 ~” |
 
+### Mixing / partial (1)
+
+Table: Mixing / partial, Cr–Mn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -4.128 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Mn 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 6 |  |
+
 ### Activity / EMF / Gibbs energy (5)
 
 Table: Activity / EMF / Gibbs energy, Cr–Mn system
@@ -120,6 +130,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
 2. Lina Kjellqvist, Malin Selleby, Thermodynamic assessment of the Cr–Mn–O system, Journal of Alloys and Compounds 507, 84-92 (2010). [doi:10.1016/j.jallcom.2010.04.252](https://doi.org/10.1016/j.jallcom.2010.04.252)
 3. Byeong-Joo Lee, A Thermodynamic Evaluation of the Cr-Mn and Fe-Cr-Mn Systems, Metall Trans A 24, 1919-1933 (1993). [doi:10.1007/bf02666327](https://doi.org/10.1007/bf02666327)
+4. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

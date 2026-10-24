@@ -1,10 +1,10 @@
 # B–Mn system
 
-> B–Mn system: 73 accepted literature values (invariant reaction 42, crystal structure 28, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Mn system: 67 accepted literature values (invariant reaction 42, crystal structure 22, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-MN.html · Markdown: https://data.orchid-project.org/systems/B-MN.md
 
-73 accepted literature values from 1 paper(s) (experimental 11, model 62); 0 calculated phase diagram(s).
+67 accepted literature values from 1 paper(s) (experimental 11, model 56); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-MN.json) · [CSV](https://data.orchid-project.org/systems/B-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-MN) · [phases (13)](https://data.orchid-project.org/phases/pages/B-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-MN.html) · [Markdown](https://data.orchid-project.org/systems/B-MN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 62 |
+| model | 56 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 42 |
 | phase transition | 3 |
-| crystal structure | 28 |
+| crystal structure | 22 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-MN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-MN.json)
 
@@ -86,16 +86,12 @@ Table: Phase transition, B–Mn system
 | Phase transition | 1453.15 K | 1453.15 | L M Mn4B + a(Mn) | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2 | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
 | Phase transition | 1558.15 K | 1558.15 | L + t-Mn2B M Mn4B | experimental | [1] Sun 2010; _cites Markovskii 1967_ | p. 2 | “In the composition range from pure Mn to t-Mn2B, Markovskii and Bezruk\[11\] reported two reactions: L M Mn4B + a(Mn) at 1180 C and L + t-Mn2B M Mn4B at 1285 C.” |
 
-### Crystal structure (28)
+### Crystal structure (22)
 
 Table: Crystal structure, B–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 8.9139 Å | 298.15 | (αMn); _alloy: Mn 1_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 5 |  |
-| Lattice a | 6.3152 Å | 298.15 | (βMn); _alloy: Mn 1_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.8624 Å | 298.15 | (γMn); _alloy: Mn 1_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.0806 Å | 298.15 | (δMn); _alloy: Mn 1_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 2 |  |
 | Lattice a | 3.03 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
 | Lattice a | 14.53 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
 | Lattice a | 5.56 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |
@@ -104,13 +100,11 @@ Table: Crystal structure, B–Mn system
 | Lattice a | 5.503 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
 | Lattice a | 14.54 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
 | Lattice a | 5.148 Å | 298.15 | t-Mn2B; _alloy: Mn 0.666667_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 7 |  |
-| Lattice a | 10.925 Å | 298.15 | βB; _alloy: Mn 0_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13 |  |
 | Lattice b | 12.86 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
 | Lattice b | 7.293 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
 | Lattice b | 2.977 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |
 | Lattice b | 5.369 Å | 298.15 | MnB4; _alloy: Mn 0.2_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 11 |  |
 | Lattice b | 7.291 Å | 298.15 | o-Mn2B0.982; _alloy: Mn 0.670691_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 6 |  |
-| Lattice b | 23.81 Å | 298.15 | βB; _alloy: Mn 0_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 13 |  |
 | Lattice c | 2.96 Å | 298.15 | Mn3B4; _alloy: Mn 0.428571_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 9 |  |
 | Lattice c | 4.209 Å | 298.15 | Mn4B; _alloy: Mn 0.8_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 14 |  |
 | Lattice c | 4.145 Å | 298.15 | MnB; _alloy: Mn 0.5_ | model | [1] Sun 2010; _cites Liao 1986_ [doi](https://doi.org/10.1007/bf02869863) | Table 1, p. 2, row 8 |  |

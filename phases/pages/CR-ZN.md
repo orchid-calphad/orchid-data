@@ -17,7 +17,7 @@ Table: Phases of the Cr–Zn system (6)
 | [CRZN17](#phase-cr-zn-crzn17); _phase:cr-zn:crzn17_ | Au2.5Cr7.5Zn90 · cF548 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–736.52 K, x(Zn) 0.94444–0.94444 | 15 | 3 |
 | [FCC_A1](#phase-cr-zn-fcc-a1); _phase:cr-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-cr-zn-hcp-a3); _phase:cr-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3998.93 K, x(Zn) 1–1 | 5 | 3 |
-| [LIQUID](#phase-cr-zn-liquid); _phase:cr-zn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 691.46–4000 K, x(Zn) 0–1 | 23 | 3 |
+| [LIQUID](#phase-cr-zn-liquid); _phase:cr-zn:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 691.46–4000 K, x(Zn) 0–1 | 22 | 3 |
 
 ## BCC_A2 (Cr–Zn)
 
@@ -249,7 +249,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cr-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 691.46–4000 K, x(Zn) 0–1
-- Literature: 23 values (23 accepted) from 3 papers
+- Literature: 22 values (22 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-zn:liquid)
 
 Names (9): _corpus: _corpus:phase:cr-zn:liquid  

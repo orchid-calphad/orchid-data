@@ -15,7 +15,7 @@ Table: Phases of the Cr–Sc system (4)
 | [BCC_A2](#phase-cr-sc-bcc-a2); _phase:cr-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999 K, x(Sc) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-cr-sc-fcc-a1); _phase:cr-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-cr-sc-hcp-a3); _phase:cr-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2172.99 K, x(Sc) 0.98615–1 | 0 | 2 |
-| [LIQUID](#phase-cr-sc-liquid); _phase:cr-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1363.17–4000 K, x(Sc) 0–1 | 0 | 2 |
+| [LIQUID](#phase-cr-sc-liquid); _phase:cr-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1363.17–4000 K, x(Sc) 0–1 | 2 | 2 |
 
 ## BCC_A2 (Cr–Sc)
 
@@ -127,10 +127,11 @@ _assessment that models this phase_
 - Id: `phase:cr-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1363.17–4000 K, x(Sc) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-sc:liquid)
 
-Names (3): _corpus: _corpus:phase:cr-sc:liquid  
+Names (4): _corpus: _corpus:phase:cr-sc:liquid  
+_paper: _paper:10.1007/s11669-014-0340-8:liquid  
 _tdb: _tdb:CrSc-12Bu.tdb:LIQUID, tdb:CrSc-15Wan.tdb:LIQUID  
 
 
@@ -152,9 +153,9 @@ _tdb: _tdb:CrSc-12Bu.tdb:LIQUID, tdb:CrSc-15Wan.tdb:LIQUID
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1007/s11669-011-9978-7](https://doi.org/10.1007/s11669-011-9978-7) M. J. Bu, Y. B. Peng, M. Wang, Y. Du, H. H. Xu, D. D. Zhao et al., Thermodynamic Optimization of the Sc-X (X = La, Li, Ca, Cr) Systems, J. Phase Equilib. Diffus. 33, 40-45 (2012).  
-_assessment that models this phase_
 - [doi:10.1007/s11669-014-0340-8](https://doi.org/10.1007/s11669-014-0340-8) S. L. Wang, L. J. Zhou, Y. Ye, X. H. Wang, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Sc-M (M: Cr, Gd, Mo, W and Zr) Systems, J. Phase Equilib. Diffus. 36, 3-9 (2015).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-011-9978-7](https://doi.org/10.1007/s11669-011-9978-7) M. J. Bu, Y. B. Peng, M. Wang, Y. Du, H. H. Xu, D. D. Zhao et al., Thermodynamic Optimization of the Sc-X (X = La, Li, Ca, Cr) Systems, J. Phase Equilib. Diffus. 33, 40-45 (2012).  
 _assessment that models this phase_
 
 ## Please cite

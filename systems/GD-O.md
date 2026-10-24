@@ -1,10 +1,10 @@
 # Gd–O system
 
-> Gd–O system: 7 accepted literature values (crystal structure 4, formation 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–O system: 44 accepted literature values (phase transition 19, heat capacity / entropy / enthalpy 11, crystal structure 7, other property 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-O.html · Markdown: https://data.orchid-project.org/systems/GD-O.md
 
-7 accepted literature values from 2 paper(s) (experimental 1, model 3, DFT 3); 2 calculated phase diagram(s).
+44 accepted literature values from 2 paper(s) (experimental 19, model 22, DFT 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-O.json) · [CSV](https://data.orchid-project.org/systems/GD-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-O/GdO-14McM.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-O.html) · [Markdown](https://data.orchid-project.org/systems/GD-O.md)
 
@@ -12,17 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 3 |
+| experimental | 19 |
+| model | 22 |
 | DFT | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
+| phase transition | 19 |
 | formation | 2 |
-| crystal structure | 4 |
+| heat capacity / entropy / enthalpy | 11 |
+| crystal structure | 7 |
+| other property | 5 |
 
 ## Calculated phase diagrams
 
@@ -50,15 +52,51 @@ Table: Enthalpies of formation, Gd–O system (2)
 
 ## Other properties
 
-### Phase transition (1)
+### Phase transition (19)
 
 Table: Phase transition, Gd–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1425 K | 1425 | polymorphic: C \<=> B; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 3 |  |
 | Phase transition | 1823.15 K | 1823.15 | other | model | [2] McMurray 2014 | p. 2 | “High temperature X-ray diffraction measurements in the ULaO system suggest the d phase is stable at least up to 1550 °C exhibiting some degree of oxygen non-stoichiometry \[17\] but the limited extent and significant scatter in the reported data does not sufficiently describe a homogeneity range; therefore, it is assumed that UGd6O12 is a stoichiometric compound.” |
+| Phase transition | 2353 K | 2353 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 65 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B \<=> A; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 9 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Rykova 1976_ | Table 2.1, p. 6, row 73 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 62 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 67 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 2.1, p. 6, row 74 |  |
+| Phase transition | 2443 K | 2443 | polymorphic: B ⟺ A; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 70 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: A ⟺ H; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 63 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: A ⟺ H; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 68 |  |
+| Phase transition | 2473 K | 2473 | polymorphic: A ⟺ H; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 71 |  |
+| Phase transition | 2481 K | 2481 | polymorphic: A \<=> H; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 16 |  |
+| Phase transition | 2481 K | 2481 | polymorphic: A ⟺ H; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 2.1, p. 6, row 75 |  |
+| Phase transition | 2633 K | 2633 | polymorphic: H \<=> X; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 30 |  |
+| Phase transition | 2633 K | 2633 | polymorphic: H ⟺ X; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 66 |  |
+| Phase transition | 2633 K | 2633 | polymorphic: H ⟺ X; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 69 |  |
+| Phase transition | 2633 K | 2633 | polymorphic: H ⟺ X; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 64 |  |
+| Phase transition | 2643 K | 2643 | polymorphic: H ⟺ X; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 72 |  |
 
-### Crystal structure (4)
+### Heat capacity / entropy / enthalpy (11)
+
+Table: Heat capacity / entropy / enthalpy, Gd–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 157.37 unknown | 298.15 | B-Gd₂O₃; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 11 |  |
+| Entropy; _printed: °S_ | 150.61 unknown | 298.15 | C-Gd2O3; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 10 |  |
+| Entropy; _printed: Δtrs°S_ | 3.737 unknown | 1425 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
+| Entropy; _printed: Δtrs°S_ | 2.579 unknown | 2443 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
+| Entropy; _printed: ΔS_ | 2.579 J mol−1 K−1 | 2443 | Gd2O3; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 5.1, p. 18, row 13 |  |
+| Entropy; _printed: ΔS_ | 2.579 J mol^-1 K^-1 | 2443 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 5.1, p. 18, row 13 |  |
+| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2481 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
+| Entropy; _printed: ΔS_ | 13.986 J mol−1 K−1 | 2481 | Gd2O3; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 5.1, p. 18, row 14 |  |
+| Entropy; _printed: ΔS_ | 13.986 J mol^-1 K^-1 | 2481 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Barkhatov 1981_ | Table 5.1, p. 18, row 14 |  |
+| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2633 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
+| Entropy; _printed: Δtrs°S_ | 26.625 unknown | 2693 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
+
+### Crystal structure (7)
 
 Table: Crystal structure, Gd–O system
 
@@ -68,6 +106,21 @@ Table: Crystal structure, Gd–O system
 | Lattice a | 10.805 Å | 0 | Gd2O3; _alloy: O 0.6_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 1 |  |
 | Lattice a | 5.496 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 3 |  |
 | Lattice a | 5.497 Å | 0 | GdO2; _alloy: O 0.666667_ | DFT | [2] McMurray 2014 | Table 1, p. 4, row 4 |  |
+| lattice molar volume | 47.574 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10 |  |
+| lattice molar volume | 43.403 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10 |  |
+| lattice molar volume | 43.265 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Gd 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 10 |  |
+
+### Other property (5)
+
+Table: Other property, Gd–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 5325 unknown | 1425 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 12 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 6300 unknown | 2443 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 13 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 34700 unknown | 2481 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 14 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12031 unknown | 2633 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 15 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 71702 unknown | 2693 | B-Gd₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 16 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Cr–Fe system
 
-> Cr–Fe system: 72 accepted literature values (phase transition 30, crystal structure 25, formation 15, invariant reaction 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Fe system: 71 accepted literature values (phase transition 30, crystal structure 25, formation 13, invariant reaction 2) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-FE.html · Markdown: https://data.orchid-project.org/systems/CR-FE.md
 
-72 accepted literature values from 6 paper(s) (experimental 13, model 19, DFT 38, unspecified 2); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 7 paper(s) (experimental 13, model 19, DFT 37, unspecified 2); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE.json) · [CSV](https://data.orchid-project.org/systems/CR-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-FE/CrFe-11Xio.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CR-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-FE.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 13 |
 | model | 19 |
-| DFT | 38 |
+| DFT | 37 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase transition | 30 |
-| formation | 15 |
+| formation | 13 |
+| mixing / partial | 1 |
 | crystal structure | 25 |
 
 ## Calculated phase diagrams
@@ -73,7 +74,7 @@ Table: Invariant reactions reported in the literature for the Cr–Fe system (2)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Fe system (15)
+Table: Enthalpies of formation, Cr–Fe system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -88,10 +89,8 @@ Table: Enthalpies of formation, Cr–Fe system (15)
 | σ |  | 14.11 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 2 |  |
 | σ |  | 14.89 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 6 |  |
 | σ |  | 15.27 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
-| σ |  | 17.3 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 5, row 8 |  |
 | σ |  | 18.4 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 7 |  |
 | σ |  | 19.74 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018 | Table 2, p. 5, row 6 |  |
-| σ |  | 25.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jacob 2018; _cites Pavlu 2010_ | Table 2, p. 5, row 9 |  |
 
 ## Other properties
 
@@ -131,6 +130,14 @@ Table: Phase transition, Cr–Fe system
 | Phase transition | 2103 K | 2103 |  | experimental | [5] Andersson 1987; _cites ref. 4_ | p. 8 | “He reports a boiling point at slightly below 2173 K and a melting point of 2103 K.” |
 | Phase transition | 2136 K | 2136 |  | model | [3] Xiong 2011; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 6 | “It should be kept in mind that the melting temperature of pure Cr was suggested to be 2136 K \[3\] instead of 2180 K as adopted currently by SGTE \[22\].” |
 | Phase transition | 2180 K | 2180 |  | model | [3] Xiong 2011; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “It should be kept in mind that the melting temperature of pure Cr was suggested to be 2136 K \[3\] instead of 2180 K as adopted currently by SGTE \[22\].” |
+
+### Mixing / partial (1)
+
+Table: Mixing / partial, Cr–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.782 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Fe 0.5_ | DFT | [7] Bracq 2021 | Table 1, p. 4, row 5 |  |
 
 ### Crystal structure (25)
 
@@ -174,6 +181,7 @@ Reporting papers the values were read from (a value cited from another work name
 4. Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Experimental study, first-principles calculation and thermodynamic modelling of the Cr–Fe–Nb–Sn–Zr quinary system for application as cladding materials in nuclear reactors., Journal of Nuclear Materials 544, 152692 (2021). [doi:10.1016/j.jnucmat.2020.152692](https://doi.org/10.1016/j.jnucmat.2020.152692)
 5. Jan-Olof Andersson, Bo Sundman, Thermodynamic properties of the CrFe system, Calphad 11, 83-92 (1987). [doi:10.1016/0364-5916(87)90021-6](https://doi.org/10.1016/0364-5916%2887%2990021-6)
 6. Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013). [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061)
+7. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

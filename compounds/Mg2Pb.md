@@ -43,26 +43,26 @@ Table: Uncertainty budget of the literature values of Mg2Pb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11.6747 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -11.674 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -6.13647 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -6.136 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -6.07858 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -6.078 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.978 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.97244 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.9 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.89525 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.855 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.855 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.84701 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.84701 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.533 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.52861 | kJ/mol-atom |  | 0.004824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.5 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5.49966 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -4.24535 | kJ/mol-atom |  | 0.04824 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -4.245 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -11.6747 | kJ/mol-atom |  | 0.04824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -11.674 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -6.13647 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -6.136 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -6.07858 | kJ/mol-atom |  | 0.04824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -6.078 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.978 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.97244 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.9 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.89525 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.855 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.855 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.84701 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.84701 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.533 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.52861 | kJ/mol-atom |  | 0.004824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.5 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5.49966 | kJ/mol-atom |  | 0.04824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -4.24535 | kJ/mol-atom |  | 0.04824 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -4.245 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

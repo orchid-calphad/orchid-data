@@ -26,19 +26,19 @@ Table: Invariant reactions reported in the literature for the Co–Fe–Zr syste
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1705 | peritectic: liq. + λ2 ↔ CoZr | L: Co 0.00407, Fe 5.700e-4, Zr 0.00536 | model | [1] Zhou 2021 | Table 5, p. 11, row 1 |  |
-| 1627 | peritectic: liq. + λ2 ↔ Fe23Zr6 | L: Co 0.00175, Fe 0.00732, Zr 9.300e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 2 |  |
-| 1587 | eutectic: liq. ↔ Fe23Zr6 + fcc(Co,Fe) | L: Co 0.0013, Fe 0.00787, Zr 8.300e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 3 |  |
-| 1579 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 3.800e-4, Fe 0.00872, Zr 9.000e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 8 |  |
-| 1577 | eutectic: liq. ↔ λ2 + λ3 + fcc(Co,Fe) | L: Co 3.000e-5, Fe 0.00905, Zr 9.200e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 9 |  |
-| 1559 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.00479, Fe 0.00444, Zr 7.700e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 10 |  |
-| 1557 | peritectic: liq. + λ2 + fcc(Co,Fe) ↔ Co23Zr6 | L: Co 0.00506, Fe 0.00417, Zr 7.700e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 11 |  |
-| 1556 | eutectic: liq. ↔ λ2 + Co23Zr6 | L: Co 0.00522, Fe 0.004, Zr 7.800e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 4 |  |
-| 1543 | eutectic: liq. ↔ Co23Zr6 + Co11Zr2 | L: Co 0.00837, Fe 5.600e-4, Zr 0.00107 | model | [1] Zhou 2021 | Table 5, p. 11, row 5 |  |
-| 1525 | quasi-peritectic: liq. + Co23Zr6 ↔ Co11Zr2+ fcc(Co,Fe) | L: Co 0.0074, Fe 0.00174, Zr 8.600e-4 | model | [1] Zhou 2021 | Table 5, p. 11, row 12 |  |
-| 1408 | peritectic: liq. + CoZr ↔ (Co,Fe)Zr2 | L: Co 0.00217, Fe 0.00137, Zr 0.00646 | model | [1] Zhou 2021 | Table 5, p. 11, row 6 |  |
-| 1402 | peritectic: liq. + λ2 ↔ (Co,Fe)Zr2 | L: Co 0.00184, Fe 0.00177, Zr 0.00639 | model | [1] Zhou 2021 | Table 5, p. 11, row 7 |  |
-| 1401 | eutectic: liq. ↔ (Co,Fe)Zr2 + CoZr + λ2 | L: Co 0.00195, Fe 0.00166, Zr 0.00639 | model | [1] Zhou 2021 | Table 5, p. 11, row 13 |  |
+| 1705 | peritectic: liq. + λ2 ↔ CoZr | L: Co 0.407, Fe 0.057, Zr 0.536 | model | [1] Zhou 2021 | Table 5, p. 11, row 1 |  |
+| 1627 | peritectic: liq. + λ2 ↔ Fe23Zr6 | L: Co 0.175, Fe 0.732, Zr 0.093 | model | [1] Zhou 2021 | Table 5, p. 11, row 2 |  |
+| 1587 | eutectic: liq. ↔ Fe23Zr6 + fcc(Co,Fe) | L: Co 0.13, Fe 0.787, Zr 0.083 | model | [1] Zhou 2021 | Table 5, p. 11, row 3 |  |
+| 1579 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.038, Fe 0.872, Zr 0.09 | model | [1] Zhou 2021 | Table 5, p. 11, row 8 |  |
+| 1577 | eutectic: liq. ↔ λ2 + λ3 + fcc(Co,Fe) | L: Co 0.003, Fe 0.905, Zr 0.092 | model | [1] Zhou 2021 | Table 5, p. 11, row 9 |  |
+| 1559 | quasi-peritectic: liq. + Fe23Zr6 ↔ λ2 + fcc(Co,Fe) | L: Co 0.479, Fe 0.444, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 10 |  |
+| 1557 | peritectic: liq. + λ2 + fcc(Co,Fe) ↔ Co23Zr6 | L: Co 0.506, Fe 0.417, Zr 0.077 | model | [1] Zhou 2021 | Table 5, p. 11, row 11 |  |
+| 1556 | eutectic: liq. ↔ λ2 + Co23Zr6 | L: Co 0.522, Fe 0.4, Zr 0.078 | model | [1] Zhou 2021 | Table 5, p. 11, row 4 |  |
+| 1543 | eutectic: liq. ↔ Co23Zr6 + Co11Zr2 | L: Co 0.837, Fe 0.056, Zr 0.107 | model | [1] Zhou 2021 | Table 5, p. 11, row 5 |  |
+| 1525 | quasi-peritectic: liq. + Co23Zr6 ↔ Co11Zr2+ fcc(Co,Fe) | L: Co 0.74, Fe 0.174, Zr 0.086 | model | [1] Zhou 2021 | Table 5, p. 11, row 12 |  |
+| 1408 | peritectic: liq. + CoZr ↔ (Co,Fe)Zr2 | L: Co 0.217, Fe 0.137, Zr 0.646 | model | [1] Zhou 2021 | Table 5, p. 11, row 6 |  |
+| 1402 | peritectic: liq. + λ2 ↔ (Co,Fe)Zr2 | L: Co 0.184, Fe 0.177, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 7 |  |
+| 1401 | eutectic: liq. ↔ (Co,Fe)Zr2 + CoZr + λ2 | L: Co 0.195, Fe 0.166, Zr 0.639 | model | [1] Zhou 2021 | Table 5, p. 11, row 13 |  |
 
 ## Sources
 

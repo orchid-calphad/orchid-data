@@ -1,10 +1,10 @@
 # Si–Yb system
 
-> Si–Yb system: 152 accepted literature values (phase transition 45, formation 31, invariant reaction 27, phase equilibrium 21) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Yb system: 149 accepted literature values (phase transition 44, formation 31, invariant reaction 25, phase equilibrium 21) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-YB.html · Markdown: https://data.orchid-project.org/systems/SI-YB.md
 
-152 accepted literature values from 1 paper(s) (experimental 124, model 28); 1 calculated phase diagram(s).
+149 accepted literature values from 1 paper(s) (experimental 122, model 27); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-YB.json) · [CSV](https://data.orchid-project.org/systems/SI-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-YB/SiYb-05Bru.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-YB.html) · [Markdown](https://data.orchid-project.org/systems/SI-YB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 124 |
-| model | 28 |
+| experimental | 122 |
+| model | 27 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 27 |
-| phase transition | 45 |
+| invariant reaction | 25 |
+| phase transition | 44 |
 | phase equilibrium | 21 |
 | formation | 31 |
 | activity / EMF / Gibbs energy | 13 |
@@ -62,7 +62,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/SI/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Si–Yb system (27)
+Table: Invariant reactions reported in the literature for the Si–Yb system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -88,11 +88,9 @@ Table: Invariant reactions reported in the literature for the Si–Yb system (27
 | 1096 | eutectic: L = Yb(bcc) + Yb5Si3 | L: Si 0.001; Yb5Si3: Si 0.375, Yb 0.625 | model | [1] Brutti 2005 | Table 5, p. 6, row 3 |  |
 | 1088 | eutectic: L = Yb(bcc) + Yb5Si3 | Yb5Si3: Si 0.375, Yb 0.625 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 4 |  |
 | 1056 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Brutti 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900152-3) | Table 5, p. 6, row 26 |  |
-| 1053 | other: Yb(bcc) = Yb(fcc) |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 2 |  |
 | 1043 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 5, p. 6, row 24 |  |
 | 1036 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | experimental | [1] Brutti 2005; _cites Grytsiv 2002_ [doi](https://doi.org/10.1006/jssc.2001.9390) | Table 5, p. 6, row 25 |  |
 | 1036 | eutectoid: YbSi1.74 = Yb3Si5 + Si | YbSi1.74: Si 0.635036, Yb 0.364964; Yb3Si5: Si 0.625, Yb 0.375 | model | [1] Brutti 2005 | Table 5, p. 6, row 23 |  |
-| 1033 | other: Yb(bcc) = Yb(fcc) |  | model | [1] Brutti 2005 | Table 5, p. 6, row 1 |  |
 
 ## Formation enthalpies
 
@@ -119,7 +117,7 @@ Table: Enthalpies of formation, Si–Yb system (14)
 
 ## Other properties
 
-### Phase transition (45)
+### Phase transition (44)
 
 Table: Phase transition, Si–Yb system
 
@@ -135,7 +133,6 @@ Table: Phase transition, Si–Yb system
 | Phase transition | 1043 K | 1043 | eutectoid: YbSi1.74 = Yb3Si5 + Si; _alloy: Si 0.7, Yb 0.3_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 32 |  |
 | Phase transition | 1043 K | 1043 | eutectoid: YbSi1.74 = Yb3Si5 + Si; _alloy: Si 0.8, Yb 0.2_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 33 |  |
 | Phase transition | 1053 K | 1053 |  | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | p. 5 | “Experimentally this transition for the pure Yb takes place at 1005 K \[30\] and at 1053 K for the Yb-rich Yb-Si alloys \[16\], while the computed temperature is 1033 K.” |
-| Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Yb 1_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 40 |  |
 | Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Si 0.25, Yb 0.75_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 43 |  |
 | Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Si 0.2, Yb 0.8_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 42 |  |
 | Phase transition | 1053 K | 1053 | polymorphic: Yb(bcc) = Yb(fcc); _alloy: Si 0.1, Yb 0.9_ | experimental | [1] Brutti 2005; _cites Palenzona 2002_ | Table 2, p. 3, row 41 |  |

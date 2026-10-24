@@ -1,10 +1,10 @@
 # Al–Co system
 
-> Al–Co system: 115 accepted literature values (invariant reaction 55, phase transition 28, formation 17, phase equilibrium 15) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Co system: 145 accepted literature values (invariant reaction 55, formation 28, phase transition 28, phase equilibrium 15) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CO.html · Markdown: https://data.orchid-project.org/systems/AL-CO.md
 
-115 accepted literature values from 6 paper(s) (experimental 63, model 9, DFT 16, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+145 accepted literature values from 6 paper(s) (experimental 63, model 11, DFT 44, unspecified 27); 13 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CO.json) · [CSV](https://data.orchid-project.org/systems/AL-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CO/AlCo-13Ste.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-CO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CO.html) · [Markdown](https://data.orchid-project.org/systems/AL-CO.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 63 |
-| model | 9 |
-| DFT | 16 |
+| model | 11 |
+| DFT | 44 |
 | unspecified | 27 |
 
 Table: Accepted values by property group
@@ -24,7 +24,9 @@ Table: Accepted values by property group
 | invariant reaction | 55 |
 | phase transition | 28 |
 | phase equilibrium | 15 |
-| formation | 17 |
+| formation | 28 |
+| mixing / partial | 14 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -388,16 +390,25 @@ Table: Invariant reactions reported in the literature for the Al–Co system (55
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Co system (17)
+Table: Enthalpies of formation, Al–Co system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | 2 kJ/mol-atom | 473 | experimental |  |  | [4] Liu 2016; _cites ref. 14_ | p. 19 | “This corresponds to enthalpies of formation much lower than those measured by Downie et al. at 473 K \[14\], which range between +2 to +7 kJ/mol-atom around the composition range where σ is present.” |
+| Al5Co2 |  | -44.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 7 |  |
+| Al5Co2 |  | -44.38 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 5 |  |
+| Al5Co2 |  | -44.28 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 6 |  |
+| Al9Co2 |  | -31.64 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 9 |  |
+| Al9Co2 |  | -31.45 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 10 |  |
 | B2 |  | -59.65 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites NIST_ | Table 2, p. 2, row 15 |  |
 | B2 |  | -59.26 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 14 |  |
 | B2 |  | -58.49 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 17 |  |
 | B2 |  | -58.11 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 13 |  |
 | B2 |  | -54.44 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 16 |  |
+| B2-β |  | -67.75 kJ/mol-atom | 0 | DFT |  |  | [4] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 2 |  |
+| BCC_B2, AlCo |  | -58.46 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
+| BCC_B2, AlCo |  | -58.37 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
+| BCC_B2, AlCo |  | -58.18 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
 | Co2Al5 |  | -48.65 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 11 |  |
 | Co2Al5 |  | -44.98 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 9 |  |
 | Co2Al5 |  | -44.59 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 12 |  |
@@ -406,9 +417,11 @@ Table: Enthalpies of formation, Al–Co system (17)
 | Co2Al9 |  | -32.04 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites OQMD_ | Table 2, p. 2, row 2 |  |
 | Co2Al9 |  | -31.47 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 1 |  |
 | Co2Al9 |  | -31.18 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 4 |  |
-| m-(Co,Fe)4Al13 |  | -40.44 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites Shevchenko 2014_ [doi](https://doi.org/10.1134/s003602441405029x) | Table 2, p. 2, row 6 |  |
-| m-(Co,Fe)4Al13 |  | -37.64 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites AFLOW_ | Table 2, p. 2, row 7 |  |
-| m-(Co,Fe)4Al13 |  | -37.26 kJ/mol-atom |  | DFT |  |  | [3] Ostrowska 2019; _cites materialsproject_ | Table 2, p. 2, row 5 |  |
+| L12-γ’ |  | -20.8 kJ/mol-atom | 0 | DFT |  |  | [4] Liu 2016 | Table 7, p. 41, row 1 |  |
+| L12-γ’ |  | -18.62 kJ/mol-atom | 0 | DFT |  |  | [4] Liu 2016 | Table 7, p. 41, row 3 |  |
+| o’-Al13Co4 |  | -39.46 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 8 |  |
+| γ' |  | -20.8 kJ/mol-atom | 0 | DFT |  |  | [4] Liu 2016 | Table 7, p. 41, row 1 |  |
+| γ' |  | -18.62 kJ/mol-atom | 0 | DFT |  |  | [4] Liu 2016 | Table 7, p. 41, row 3 |  |
 
 ## Other properties
 
@@ -468,6 +481,39 @@ Table: Phase equilibrium, Al–Co system
 | Phase composition |  | 1943.15 | other: 48; _liquid: Al 0.514, Co 0.486_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 6 |  |
 | Phase composition |  | 1946.15 | other: 49; _liquid: Al 0.502, Co 0.498_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 8 |  |
 | Phase composition |  | 1949.15 | other: 50; _liquid: Al 0.496, Co 0.504_ | experimental | [1] Stein 2013 | Table 1, p. 3, row 10 |  |
+
+### Mixing / partial (14)
+
+Table: Mixing / partial, Al–Co system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.69 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.5_ | DFT | [5] Liu 2015 | Table 4, p. 13, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.71 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Co 0.25_ | DFT | [5] Liu 2015 | Table 4, p. 13, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -8.99 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Co 0.25_ | DFT | [4] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.42 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.75_ | DFT | [4] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.58 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Co 0.5_ | DFT | [4] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.57 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Co 0.75_ | DFT | [5] Liu 2015 | Table 4, p. 13, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -67.75 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [4] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -67.75 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [5] Liu 2015 | Table 4, p. 13, row 26 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -67.75 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Co 0.5_ | DFT | [4] Liu 2016 | Table 8, p. 42, row 13 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Co 0.5_ | DFT | [4] Liu 2016 | Table 7, p. 41, row 2 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.28 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Co 0.25_ | DFT | [4] Liu 2016 | Table 7, p. 41, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -13.54 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Co 0.75_ | DFT | [4] Liu 2016 | Table 7, p. 41, row 3 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -20.8 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Co 0.25_ | DFT | [4] Liu 2016 | Table 9, p. 43, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -18.62 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Co 0.75_ | DFT | [4] Liu 2016 | Table 9, p. 43, row 10 |  |
+
+### Crystal structure (5)
+
+Table: Crystal structure, Al–Co system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Molar volume; _printed: V0_ | 12.932 Å3/atom |  | γ'-L12 Al3Co; _alloy: Co 0.25_ | model | [4] Liu 2016; _cites ref. 86_ | Table 2, p. 36, row 17 |  |
+| Molar volume; _printed: V0_ | 10.857 Å3/atom |  | γ'-L12 Co3Al; _alloy: Co 0.75_ | model | [4] Liu 2016; _cites ref. 86_ | Table 2, p. 36, row 19 |  |
+| Molar volume; _printed: V0_ | 11.615 Å3/atom | 298.15 | B2 CoAl; _alloy: Co 0.5_ | DFT | [4] Liu 2016 | Table 2, p. 36, row 1 |  |
+| Molar volume; _printed: V0_ | 13.663 Å3/atom | 298.15 | γ'-L12 Al3Co; _alloy: Co 0.25_ | DFT | [4] Liu 2016 | Table 2, p. 36, row 16 |  |
+| Molar volume; _printed: V0_ | 11.472 Å3/atom | 298.15 | γ'-L12 Co3Al; _alloy: Co 0.75_ | DFT | [4] Liu 2016 | Table 2, p. 36, row 18 |  |
 
 ## Sources
 

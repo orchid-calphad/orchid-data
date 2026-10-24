@@ -13,7 +13,7 @@ Table: Phases of the Ag–Co system (4)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ag-co-bcc-a2); _phase:ag-co:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [FCC_A1](#phase-ag-co-fcc-a1); _phase:ag-co:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.22 K, x(Co) 0–1 | 12 | 2 |
+| [FCC_A1](#phase-ag-co-fcc-a1); _phase:ag-co:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.22 K, x(Co) 0–1 | 10 | 2 |
 | [HCP_A3](#phase-ag-co-hcp-a3); _phase:ag-co:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–695.31 K, x(Co) 0.99997–1 | 2 | 2 |
 | [LIQUID](#phase-ag-co-liquid); _phase:ag-co:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1086.48–2500 K, x(Co) 0–1 | 8 | 2 |
 
@@ -57,7 +57,7 @@ _assessment that models this phase_
 - Id: `phase:ag-co:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.22 K, x(Co) 0–1
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-co:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:ag-co:fcc-a1  

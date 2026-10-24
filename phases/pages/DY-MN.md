@@ -12,14 +12,14 @@ Table: Phases of the Dy–Mn system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-dy-mn-bcc-a2); _phase:dy-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1390–2499.94 K, x(Mn) 0–1 | 4 | 2 |
+| [BCC_A2](#phase-dy-mn-bcc-a2); _phase:dy-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1390–2499.94 K, x(Mn) 0–1 | 2 | 2 |
 | [CBCC_A12](#phase-dy-mn-cbcc-a12); _phase:dy-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–984.84 K, x(Mn) 0.99827–1 | 1 | 2 |
 | [CUB_A13](#phase-dy-mn-cub-a13); _phase:dy-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 301.09–1404.99 K, x(Mn) 0.99392–1 | 3 | 2 |
 | [DY6MN23_D8A](#phase-dy-mn-dy6mn23-d8a); _phase:dy-mn:dy6mn23-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1377.19 K, x(Mn) 0.7931–0.7931 | 4 | 2 |
 | [DYMN12_D2B](#phase-dy-mn-dymn12-d2b); _phase:dy-mn:dymn12-d2b_ | Mn12Th · D2_b · tI26 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1350.96 K, x(Mn) 0.92308–0.92308 | 7 | 2 |
 | [DYMN2_C15](#phase-dy-mn-dymn2-c15); _phase:dy-mn:dymn2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1386.09 K, x(Mn) 0.66667–0.66667 | 4 | 2 |
 | [FCC_A1](#phase-dy-mn-fcc-a1); _phase:dy-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1348.14–1516 K, x(Mn) 0.99197–1 | 6 | 2 |
-| [HCP_A3](#phase-dy-mn-hcp-a3); _phase:dy-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1659 K, x(Mn) 0–0.00157 | 4 | 2 |
+| [HCP_A3](#phase-dy-mn-hcp-a3); _phase:dy-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1659 K, x(Mn) 0–0.00157 | 2 | 2 |
 | [LIQUID](#phase-dy-mn-liquid); _phase:dy-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1126.9–2500 K, x(Mn) 0–1 | 10 | 2 |
 
 ## BCC_A2 (Dy–Mn)
@@ -27,11 +27,11 @@ Table: Phases of the Dy–Mn system (9)
 - Id: `phase:dy-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1390–2499.94 K, x(Mn) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-mn:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:dy-mn:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2008.01.092:βDy, paper:10.1016/j.jallcom.2008.01.092:δMn  
+Names (4): _corpus: _corpus:phase:dy-mn:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2008.01.092:δMn  
 _tdb: _tdb:DyMn-09Wan.tdb:BCC_A2, tdb:DyMn-19Wan.tdb:BCC_A2  
 
 
@@ -288,7 +288,7 @@ _cited as the source of values for this phase_
 - Id: `phase:dy-mn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1659 K, x(Mn) 0–0.00157
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-mn:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:dy-mn:hcp-a3  

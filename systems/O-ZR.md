@@ -72,8 +72,8 @@ Table: Enthalpies of formation, O–Zr system (26)
 | Zr3O | [Zr3O](https://data.orchid-project.org/compounds/Zr3O.html) | -151 kJ/mol-atom |  | model | -149.095 (mp-aaabfyna) | -142.679 (oqmd-5214) | [2] Arroyave 2002 | Table 3, p. 18, row 10 |  |
 | Zr6O | [Zr6O](https://data.orchid-project.org/compounds/Zr6O.html) | -122 kJ/mol-atom |  | model |  | -82.626 (oqmd-2132007) | [2] Arroyave 2002 | Table 3, p. 18, row 7 |  |
 | Zr6O | [Zr6O](https://data.orchid-project.org/compounds/Zr6O.html) | -93 kJ/mol-atom |  | model |  | -82.626 (oqmd-2132007) | [2] Arroyave 2002 | Table 3, p. 18, row 8 |  |
-| ZrO0.5 | [ZrO0.5](https://data.orchid-project.org/compounds/ZrO0.5.html) | -286 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 5 |  |
-| ZrO0.5 | [ZrO0.5](https://data.orchid-project.org/compounds/ZrO0.5.html) | -217 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 6 |  |
+| ZrO0.5 | [Zr2O](https://data.orchid-project.org/compounds/Zr2O.html) | -286 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 5 |  |
+| ZrO0.5 | [Zr2O](https://data.orchid-project.org/compounds/Zr2O.html) | -217 kJ/mol-atom |  | model | -192.087 (mp-aaabqwvt) | -186.602 (oqmd-2030404) | [2] Arroyave 2002 | Table 2, p. 17, row 6 |  |
 | ZrO2 |  | -1101 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004; _cites Liang 2001_ | Table 2, p. 3, row 6 |  |
 | ZrO2 |  | -1100.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [4] CHEN 2004; _cites Huber 1964_ | Table 2, p. 3, row 2 |  |
 | ZrO2 |  | -1100.7 kJ/mol (basis unstated) | 298.15 | model |  |  | [4] CHEN 2004 | Table 2, p. 3, row 7 |  |

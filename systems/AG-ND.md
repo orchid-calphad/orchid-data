@@ -1,10 +1,10 @@
 # Ag–Nd system
 
-> Ag–Nd system: 82 accepted literature values (invariant reaction 67, phase transition 14, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Nd system: 79 accepted literature values (invariant reaction 64, phase transition 14, other property 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-ND.html · Markdown: https://data.orchid-project.org/systems/AG-ND.md
 
-82 accepted literature values from 2 paper(s) (experimental 57, model 18, unspecified 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+79 accepted literature values from 2 paper(s) (experimental 55, model 17, unspecified 7); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-ND.json) · [CSV](https://data.orchid-project.org/systems/AG-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-ND) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-ND/AgNd-09Hua.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-ND.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-ND.html) · [Markdown](https://data.orchid-project.org/systems/AG-ND.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 57 |
-| model | 18 |
+| experimental | 55 |
+| model | 17 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 67 |
+| invariant reaction | 64 |
 | phase transition | 14 |
 | other property | 1 |
 
@@ -70,7 +70,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Nd system (67)
+Table: Invariant reactions reported in the literature for the Ag–Nd system (64)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -92,9 +92,6 @@ Table: Invariant reactions reported in the literature for the Ag–Nd system (67
 | 1223.35 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | model | [1] Wang 2009 | Table 5, p. 5, row 19 |  |
 | 1218.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Stapf 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990206-0) | Table 5, p. 5, row 16 |  |
 | 1218.15 | congruent melting: L ↔ AgNd | L: Nd 0.5; AgNd: Nd 0.5 | experimental | [1] Wang 2009; _cites Mulokozi 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990247-3) | Table 5, p. 5, row 17 |  |
-| 1136.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | model | [1] Wang 2009 | Table 5, p. 5, row 7 |  |
-| 1136.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Gschneidner 1985_ [doi](https://doi.org/10.1007/bf02869227) | Table 5, p. 5, row 6 |  |
-| 1120.15 | polymorphic: βNd ↔ αNd | αNd: Nd 1 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 5 |  |
 | 1104.15 | peritectic: L + Ag51Nd14 ↔ βAg2Nd | Ag51Nd14: Nd 0.215; βAg2Nd: Nd 0.333 | experimental | [1] Wang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 5, p. 5, row 25 |  |
 | 1104 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.34; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | experimental | [2] Huang 2009; _cites Ferro 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990143-x) | Table 2, p. 3, row 10 |  |
 | 1103 | peritectic: L + Ag51Nd14 -> β-Ag2Nd | L: Nd 0.346; Ag51Nd14: Nd 0.215; β-Ag2Nd: Nd 0.333 | model | [2] Huang 2009 | Table 2, p. 3, row 9 |  |

@@ -276,62 +276,15 @@ Property codes (528 records; raw code in `property_code_raw`):
 
 ## 4. DFT parity outliers
 
-Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose single binary formula matches a Materials Project or OQMD entry and that differ from DFT by more than 50 kJ/mol-atom, or have the opposite sign with |DFT - lit| > 10 (238 records), classified in this order:
+Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose single binary formula matches a Materials Project or OQMD entry and that differ from DFT by more than 50 kJ/mol-atom, or have the opposite sign with |DFT - lit| > 10 (234 records), classified in this order:
 
-* `basis_corrected_from_formula` (47): a large-residual case where lit / n_atoms (or lit x n_atoms, undoing an earlier per-formula division) lies within 15 kJ/mol-atom of every matched DFT source, and the printed unit has no per-atom marker or the caption/quote says per mole of compound. Value converted; original in `value_before_quality_fix`, operation in `basis_correction`.
+* `basis_corrected_from_formula`: removed in audit round 2 (2026-10-24). The rule accepted a per-formula / per-atom conversion only when the converted value landed within 15 kJ/mol-atom of DFT, and the converted values then calibrated the DFT error (circular). The basis is now read on the page, one decision per printed column (`tools/literature_r2_thermo.py`, ledger keys `table_basis:<asset>`; gate R2 in the gates section).
 * `sign_from_heading` (0): printed without a minus sign, -lit within 15 of DFT, and the record's printed heading carries the minus (e.g. "-ΔfH"): sign applied, heading in `sign_heading_printed`.
 * `unsigned_in_print` (31): printed without a minus sign, -lit within 15 of DFT (and lit itself more than twice that far, so small values near zero are not classified), no negated heading in the record: value kept as printed, flagged, excluded from the default parity set.
-* `dft_outlier_unexplained` (160): no rule applies; flagged `flags.dft_outlier_unexplained`, value unchanged.
+* `dft_outlier_unexplained` (203): no rule applies; flagged `flags.dft_outlier_unexplained`, value unchanged.
 
 | id | class | formula | before | after | evidence |
 |---|---|---|---:|---:|---|
-| ORC-JDJTGHPS4K | basis_corrected_from_formula | HfB | -98.95 | -49.475 | printed unit 'kJ/mol' has no per-atom marker; HfB has 2 atoms per formula unit; -98.95 divided by 2 = -49.48, within 15 of DFT (MP -39.9, OQMD -40.2) |
-| ORC-7BRGOIHAWY | basis_corrected_from_formula | Ta3B2 | -13.5294 | -67.647 | printed unit 'kJ/mol' has no per-atom marker; Ta3B2 has 5 atoms per formula unit; -13.5294 multiplied by 5 = -67.65, within 15 of DFT (MP -64.9, OQMD -65.0) |
-| ORC-JNRM625MX5 | basis_corrected_from_formula | Ta3B4 | -10.88742857 | -76.212 | printed unit 'kJ/mol' has no per-atom marker; Ta3B4 has 7 atoms per formula unit; -10.8874 multiplied by 7 = -76.21, within 15 of DFT (MP -74.6, OQMD -74.4) |
-| ORC-KM6Q5LMCOG | basis_corrected_from_formula | Ta3B4 | -11.43642857 | -80.055 | printed unit 'kJ/mol' has no per-atom marker; Ta3B4 has 7 atoms per formula unit; -11.4364 multiplied by 7 = -80.05, within 15 of DFT (MP -74.6, OQMD -74.4) |
-| ORC-VGMMQLZODX | basis_corrected_from_formula | Ta3B2 | -14.26 | -71.3 | printed unit 'kJ/mol' has no per-atom marker; Ta3B2 has 5 atoms per formula unit; -14.26 multiplied by 5 = -71.30, within 15 of DFT (MP -64.9, OQMD -65.0) |
-| ORC-2XXL6EGLXQ.a44990 | basis_corrected_from_formula | CaO2(cr) | -659.0 | -219.666667 | printed unit 'kJ.mol-1' has no per-atom marker; CaO2(cr) has 3 atoms per formula unit; -659 divided by 3 = -219.67, within 15 of DFT (MP -212.9, OQMD -220.0) |
-| ORC-EONGZNVMF4.e5cd6e | basis_corrected_from_formula | CaO2(cr) | -648.1 | -216.033333 | printed unit 'kJ.mol-1' has no per-atom marker; CaO2(cr) has 3 atoms per formula unit; -648.1 divided by 3 = -216.03, within 15 of DFT (MP -212.9, OQMD -220.0) |
-| ORC-FDK7VGPM2Z.234c60 | basis_corrected_from_formula | CaO(cr) | -635.1 | -317.55 | printed unit 'kJ.mol-1' has no per-atom marker; CaO(cr) has 2 atoms per formula unit; -635.1 divided by 2 = -317.55, within 15 of DFT (MP -319.0, OQMD -308.3) |
-| ORC-IOMQXHHZHX.39b429 | basis_corrected_from_formula | CaO2(cr) | -652.7 | -217.566667 | printed unit 'kJ.mol-1' has no per-atom marker; CaO2(cr) has 3 atoms per formula unit; -652.7 divided by 3 = -217.57, within 15 of DFT (MP -212.9, OQMD -220.0) |
-| ORC-MOABLTWFHR.fd3a6b | basis_corrected_from_formula | CaO(cr) | -634.0 | -317.0 | printed unit 'kJ.mol-1' has no per-atom marker; CaO(cr) has 2 atoms per formula unit; -634 divided by 2 = -317.00, within 15 of DFT (MP -319.0, OQMD -308.3) |
-| ORC-N6RZ52LOV5.b9b0c1 | basis_corrected_from_formula | CaO(cr) | -634.6 | -317.3 | printed unit 'kJ.mol-1' has no per-atom marker; CaO(cr) has 2 atoms per formula unit; -634.6 divided by 2 = -317.30, within 15 of DFT (MP -319.0, OQMD -308.3) |
-| ORC-XQRAM3624L | basis_corrected_from_formula | CaO(cr) | -634.0 | -317.0 | printed unit 'kJ.mol-1' has no per-atom marker; CaO(cr) has 2 atoms per formula unit; -634 divided by 2 = -317.00, within 15 of DFT (MP -319.0, OQMD -308.3) |
-| ORC-YHMSI6IKE4.81e7a6 | basis_corrected_from_formula | CaO(cr) | -635.1 | -317.55 | printed unit 'kJ.mol-1' has no per-atom marker; CaO(cr) has 2 atoms per formula unit; -635.1 divided by 2 = -317.55, within 15 of DFT (MP -319.0, OQMD -308.3) |
-| ORC-4TQ3RYV4BP | basis_corrected_from_formula | CuO | -152.3 | -76.15 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -152.3 divided by 2 = -76.15, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-AJGT674S4D.aad2e0 | basis_corrected_from_formula | CuO | -155.77 | -77.885 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.77 divided by 2 = -77.89, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-AJGT674S4D.b11196 | basis_corrected_from_formula | Cu2O | -170.83 | -56.943333 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -170.83 divided by 3 = -56.94, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-ALFTX6OZRM.1e7619 | basis_corrected_from_formula | CuO | -161.71 | -80.855 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -161.71 divided by 2 = -80.86, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-ALFTX6OZRM.279a7f | basis_corrected_from_formula | Cu2O | -173.18 | -57.726667 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -173.18 divided by 3 = -57.73, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-ALFTX6OZRM.b67909 | basis_corrected_from_formula | CuO | -157.07 | -78.535 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -157.07 divided by 2 = -78.53, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-C7MXYNKNHW | basis_corrected_from_formula | CuO | -156.06 | -78.03 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -156.06 divided by 2 = -78.03, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-GMNQNEO2HB | basis_corrected_from_formula | CuO | -155.48 | -77.74 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.48 divided by 2 = -77.74, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-I5UR2MQHUO | basis_corrected_from_formula | CuO | -157.07 | -78.535 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -157.07 divided by 2 = -78.53, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-J56QLHWYW7 | basis_corrected_from_formula | CuO | -161.08 | -80.54 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -161.08 divided by 2 = -80.54, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-LAWLJGIQGF | basis_corrected_from_formula | CuO | -154.03 | -77.015 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -154.03 divided by 2 = -77.02, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-LGOKEWXJHR.56dd6b | basis_corrected_from_formula | Cu2O | -164.85 | -54.95 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -164.85 divided by 3 = -54.95, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-LGOKEWXJHR.e36160 | basis_corrected_from_formula | CuO | -152.3 | -76.15 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -152.3 divided by 2 = -76.15, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-QQXJ6OCZ6G | basis_corrected_from_formula | CuO | -155.77 | -77.885 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.77 divided by 2 = -77.89, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-QZDH5SGEEG | basis_corrected_from_formula | CuO | -155.19 | -77.595 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.19 divided by 2 = -77.59, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-SNTTKLS5GR.c8b64e | basis_corrected_from_formula | Cu2O | -170.26 | -56.753333 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -170.26 divided by 3 = -56.75, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-SNTTKLS5GR.ce4045 | basis_corrected_from_formula | CuO | -155.19 | -77.595 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.19 divided by 2 = -77.59, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-T4WZFE2TJJ.006290 | basis_corrected_from_formula | CuO | -155.48 | -77.74 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -155.48 divided by 2 = -77.74, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-T4WZFE2TJJ.eef88f | basis_corrected_from_formula | Cu2O | -170.29 | -56.763333 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -170.29 divided by 3 = -56.76, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-UDWXTWFN6Y.049c73 | basis_corrected_from_formula | CuO | -154.03 | -77.015 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -154.03 divided by 2 = -77.02, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-UDWXTWFN6Y.223526 | basis_corrected_from_formula | Cu2O | -172.48 | -57.493333 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -172.48 divided by 3 = -57.49, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-UEENQAKLM2.5a9513 | basis_corrected_from_formula | Cu2O | -179.91 | -59.97 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -179.91 divided by 3 = -59.97, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-UQ5FDHCSKH | basis_corrected_from_formula | CuO | -161.71 | -80.855 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -161.71 divided by 2 = -80.86, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-XCCWO6H7LI.d9fe69 | basis_corrected_from_formula | Cu2O | -170.71 | -56.903333 | printed unit 'kJ/mol' has no per-atom marker; Cu2O has 3 atoms per formula unit; -170.71 divided by 3 = -56.90, within 15 of DFT (MP -62.2, OQMD -66.0) |
-| ORC-XCCWO6H7LI.fa10e4 | basis_corrected_from_formula | CuO | -156.06 | -78.03 | printed unit 'kJ/mol' has no per-atom marker; CuO has 2 atoms per formula unit; -156.06 divided by 2 = -78.03, within 15 of DFT (MP -91.0, OQMD -80.2) |
-| ORC-2BKKRXR33O | basis_corrected_from_formula | Li2O2 | -632.62 | -158.155 | printed unit 'kJ/mol' has no per-atom marker; Li2O2 has 4 atoms per formula unit; -632.62 divided by 4 = -158.16, within 15 of DFT (MP -159.2, OQMD -156.4) |
-| ORC-6MGAPSXOS4 | basis_corrected_from_formula | Li2O | -597.0 | -199.0 | printed unit 'kJ/mol' has no per-atom marker; Li2O has 3 atoms per formula unit; -597 divided by 3 = -199.00, within 15 of DFT (MP -198.9, OQMD -191.0) |
-| ORC-AKI6NGQPUL | basis_corrected_from_formula | Li2O | -598.73 | -199.576667 | printed unit 'kJ/mol' has no per-atom marker; Li2O has 3 atoms per formula unit; -598.73 divided by 3 = -199.58, within 15 of DFT (MP -198.9, OQMD -191.0) |
-| ORC-AZT4WLCRAM | basis_corrected_from_formula | Li2O | -597.902 | -199.300667 | printed unit 'kJ/mol' has no per-atom marker; Li2O has 3 atoms per formula unit; -597.902 divided by 3 = -199.30, within 15 of DFT (MP -198.9, OQMD -191.0) |
-| ORC-C5DY6KUUTC | basis_corrected_from_formula | Li2O2 | -644.28 | -161.07 | printed unit 'kJ/mol' has no per-atom marker; Li2O2 has 4 atoms per formula unit; -644.28 divided by 4 = -161.07, within 15 of DFT (MP -159.2, OQMD -156.4) |
-| ORC-CBPWWARGVT | basis_corrected_from_formula | Li2O2 | -605.9 | -151.475 | printed unit 'kJ/mol' has no per-atom marker; Li2O2 has 4 atoms per formula unit; -605.9 divided by 4 = -151.47, within 15 of DFT (MP -159.2, OQMD -156.4) |
-| ORC-CLLKMPH32B | basis_corrected_from_formula | Li2O | -597.48 | -199.16 | printed unit 'kJ/mol' has no per-atom marker; Li2O has 3 atoms per formula unit; -597.48 divided by 3 = -199.16, within 15 of DFT (MP -198.9, OQMD -191.0) |
-| ORC-OCTG4OQW4X | basis_corrected_from_formula | Li2O2 | -632.62 | -158.155 | printed unit 'kJ/mol' has no per-atom marker; Li2O2 has 4 atoms per formula unit; -632.62 divided by 4 = -158.16, within 15 of DFT (MP -159.2, OQMD -156.4) |
-| ORC-ZL6CQL3CB7 | basis_corrected_from_formula | Li2O | -596.5 | -198.833333 | printed unit 'kJ/mol' has no per-atom marker; Li2O has 3 atoms per formula unit; -596.5 divided by 3 = -198.83, within 15 of DFT (MP -198.9, OQMD -191.0) |
 | ORC-7BHMNQTERA.e9b4e0 | dft_outlier_unexplained | AlB12 | -7.13 | -7.13 | opposite sign would match DFT but a minus sign is printed |
 | ORC-7SENU32VE5.a9c6bc | dft_outlier_unexplained | AlB12 | -15.45 | -15.45 | opposite sign would match DFT but a minus sign is printed |
 | ORC-BZBVIVDFD3.641832 | dft_outlier_unexplained | AlB12 | -15.253 | -15.253 | opposite sign would match DFT but a minus sign is printed |
@@ -356,6 +309,7 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-6TKVKGZUN7.67693c | dft_outlier_unexplained | GeP | 1.44 | 1.44 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-GPEQGVYTET.cad93e | dft_outlier_unexplained | GeP | -11.442 | -11.442 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-XUKMNJEPBE.b70504 | dft_outlier_unexplained | GeP | -11.44 | -11.44 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-JDJTGHPS4K | dft_outlier_unexplained | HfB | -98.95 | -98.95 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-N2BPBLFSN3 | dft_outlier_unexplained | Mg2B | -0.01423 | -0.01423 | no deterministic rule applies (DFT OQMD 24.1) |
 | ORC-2QS3QXVB7F | dft_outlier_unexplained | Re2Si | -19.367 | -19.367 | no deterministic rule applies (DFT MP 12.8, OQMD -21.9) |
 | ORC-FLO5GRSVGD | dft_outlier_unexplained | Re2Si | -22.7 | -22.7 | no deterministic rule applies (DFT MP 12.8, OQMD -21.9) |
@@ -364,6 +318,10 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-TGOMFDVI6F | dft_outlier_unexplained | Re2Si | -20.0 | -20.0 | no deterministic rule applies (DFT MP 12.8, OQMD -21.9) |
 | ORC-VN47E3AARD.9cef4e | dft_outlier_unexplained | Re2Si | -12.7 | -12.7 | no deterministic rule applies (DFT MP 12.8, OQMD -21.9) |
 | ORC-VN47E3AARD.f5a708 | dft_outlier_unexplained | Re2Si | -12.7 | -12.7 | no deterministic rule applies (DFT MP 12.8, OQMD -21.9) |
+| ORC-7BRGOIHAWY | dft_outlier_unexplained | Ta3B2 | -13.5294 | -13.5294 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-JNRM625MX5 | dft_outlier_unexplained | Ta3B4 | -10.88742857 | -10.88742857 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-KM6Q5LMCOG | dft_outlier_unexplained | Ta3B4 | -11.43642857 | -11.43642857 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-VGMMQLZODX | dft_outlier_unexplained | Ta3B2 | -14.26 | -14.26 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-S3AYA55WXC.5775a5 | dft_outlier_unexplained | Ti3Be(D03) | 3.6 | 3.6 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-S3AYA55WXC.841996 | dft_outlier_unexplained | Ti3Be(D03) | 3.6 | 3.6 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-EKJ27B36M7.e79e21 | dft_outlier_unexplained | ErBi2 | 15.2241 | 15.2241 | no deterministic rule applies (DFT OQMD -46.4) |
@@ -377,10 +335,14 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-PVGKDA2GYI | dft_outlier_unexplained | ZrC3 | -25.0 | -25.0 | no deterministic rule applies (DFT OQMD 75.5) |
 | ORC-J4C54RBMBL.c06885 | dft_outlier_unexplained | Sr2Mg-C14 | 36.4176 | 36.4176 | no deterministic rule applies (DFT MP -3.4, OQMD -3.4) |
 | ORC-OOZ4JZME4Z.5bf5d2 | dft_outlier_unexplained | Ca2Mg-C14 | 26.8549 | 26.8549 | per-formula reading would match DFT but the printed unit is explicitly per atom |
-| ORC-2RQQARKD4D.a020f1 | dft_outlier_unexplained | CaO(liq-am) | -557.3 | -557.3 | no deterministic rule applies (DFT MP -319.0, OQMD -308.3) |
-| ORC-BWUGY4RCBI.19f6e9 | dft_outlier_unexplained | CaO(liq-am) | -565.6 | -565.6 | no deterministic rule applies (DFT MP -319.0, OQMD -308.3) |
-| ORC-S7YOHYNZRJ.30327b | dft_outlier_unexplained | CaO(liq-am) | -600.9 | -600.9 | no deterministic rule applies (DFT MP -319.0, OQMD -308.3) |
-| ORC-SAKKEEI5SE.2d0105 | dft_outlier_unexplained | CaO(liq-am) | -555.6 | -555.6 | no deterministic rule applies (DFT MP -319.0, OQMD -308.3) |
+| ORC-2XXL6EGLXQ.a44990 | dft_outlier_unexplained | CaO2(cr) | -659.0 | -659.0 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-EONGZNVMF4.e5cd6e | dft_outlier_unexplained | CaO2(cr) | -648.1 | -648.1 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-FDK7VGPM2Z.234c60 | dft_outlier_unexplained | CaO(cr) | -635.1 | -635.1 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-IOMQXHHZHX.39b429 | dft_outlier_unexplained | CaO2(cr) | -652.7 | -652.7 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-MOABLTWFHR.fd3a6b | dft_outlier_unexplained | CaO(cr) | -634.0 | -634.0 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-N6RZ52LOV5.b9b0c1 | dft_outlier_unexplained | CaO(cr) | -634.6 | -634.6 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-XQRAM3624L | dft_outlier_unexplained | CaO(cr) | -634.0 | -634.0 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-YHMSI6IKE4.81e7a6 | dft_outlier_unexplained | CaO(cr) | -635.1 | -635.1 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-3HYDEZEJHJ.a45823 | dft_outlier_unexplained | CaSi | -210.41 | -210.41 | no deterministic rule applies (DFT MP -48.5, OQMD -53.1) |
 | ORC-3HYDEZEJHJ.ec7553 | dft_outlier_unexplained | CaSi2 | -200.34 | -200.34 | no deterministic rule applies (DFT MP -32.3, OQMD -37.6) |
 | ORC-4M4CL2ZEFR.01d466 | dft_outlier_unexplained | CaSi | -151.0 | -151.0 | no deterministic rule applies (DFT MP -48.5, OQMD -53.1) |
@@ -407,8 +369,33 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-VYDTBVQGR6.7e076a | dft_outlier_unexplained | αCr5Ge3 | -15.7 | -15.7 | per-formula reading would match DFT but the printed unit is explicitly per atom; opposite sign would match DFT but a minus sign is printed |
 | ORC-WMW5QZIUMC.fe8401 | dft_outlier_unexplained | Cr11Ge8 | -16.19 | -16.19 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-HRJTWRGIKE.c68ad1 | dft_outlier_unexplained | Cu8Hf3 | -192.72 | -192.72 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-4TQ3RYV4BP | dft_outlier_unexplained | CuO | -152.3 | -152.3 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-AJGT674S4D.aad2e0 | dft_outlier_unexplained | CuO | -155.77 | -155.77 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-AJGT674S4D.b11196 | dft_outlier_unexplained | Cu2O | -170.83 | -170.83 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-ALFTX6OZRM.1e7619 | dft_outlier_unexplained | CuO | -161.71 | -161.71 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-ALFTX6OZRM.279a7f | dft_outlier_unexplained | Cu2O | -173.18 | -173.18 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-ALFTX6OZRM.b67909 | dft_outlier_unexplained | CuO | -157.07 | -157.07 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-C7MXYNKNHW | dft_outlier_unexplained | CuO | -156.06 | -156.06 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-GMNQNEO2HB | dft_outlier_unexplained | CuO | -155.48 | -155.48 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-I5UR2MQHUO | dft_outlier_unexplained | CuO | -157.07 | -157.07 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-J56QLHWYW7 | dft_outlier_unexplained | CuO | -161.08 | -161.08 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-LAWLJGIQGF | dft_outlier_unexplained | CuO | -154.03 | -154.03 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-LGOKEWXJHR.56dd6b | dft_outlier_unexplained | Cu2O | -164.85 | -164.85 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-LGOKEWXJHR.e36160 | dft_outlier_unexplained | CuO | -152.3 | -152.3 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-PYVAEHKD5K | dft_outlier_unexplained | CuO | -138.16 | -138.16 | no deterministic rule applies (DFT MP -91.0, OQMD -80.2) |
+| ORC-QQXJ6OCZ6G | dft_outlier_unexplained | CuO | -155.77 | -155.77 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-QZDH5SGEEG | dft_outlier_unexplained | CuO | -155.19 | -155.19 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-SNTTKLS5GR.c8b64e | dft_outlier_unexplained | Cu2O | -170.26 | -170.26 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-SNTTKLS5GR.ce4045 | dft_outlier_unexplained | CuO | -155.19 | -155.19 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-T4WZFE2TJJ.006290 | dft_outlier_unexplained | CuO | -155.48 | -155.48 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-T4WZFE2TJJ.eef88f | dft_outlier_unexplained | Cu2O | -170.29 | -170.29 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-UDWXTWFN6Y.049c73 | dft_outlier_unexplained | CuO | -154.03 | -154.03 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-UDWXTWFN6Y.223526 | dft_outlier_unexplained | Cu2O | -172.48 | -172.48 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-UEENQAKLM2.5a9513 | dft_outlier_unexplained | Cu2O | -179.91 | -179.91 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-UEENQAKLM2.d6b8e9 | dft_outlier_unexplained | CuO | -138.16 | -138.16 | no deterministic rule applies (DFT MP -91.0, OQMD -80.2) |
+| ORC-UQ5FDHCSKH | dft_outlier_unexplained | CuO | -161.71 | -161.71 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-XCCWO6H7LI.d9fe69 | dft_outlier_unexplained | Cu2O | -170.71 | -170.71 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-XCCWO6H7LI.fa10e4 | dft_outlier_unexplained | CuO | -156.06 | -156.06 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-BUGOBEY2SA.8253a8 | dft_outlier_unexplained | L12-CuPt3 | -10.0 | -10.0 | no deterministic rule applies (DFT MP 232.8, OQMD -11.3) |
 | ORC-DGXLGCDH4A.307a73 | dft_outlier_unexplained | L12-CuPt3 | -13.0 | -13.0 | no deterministic rule applies (DFT MP 232.8, OQMD -11.3) |
 | ORC-X346LL47CP.06d331 | dft_outlier_unexplained | L12-CuPt3 | -8.0 | -8.0 | no deterministic rule applies (DFT MP 232.8, OQMD -11.3) |
@@ -432,6 +419,15 @@ Formation enthalpies (kJ/mol-atom, experimental / model / unspecified) whose sin
 | ORC-JNA7PDKMQ2.8cc84f | dft_outlier_unexplained | Ge1P1 | -13.82 | -13.82 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-KZ6SOQYB5E | dft_outlier_unexplained | Ge1P1 | -12.56 | -12.56 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-THZKCHGMJH.5d4e3b | dft_outlier_unexplained | Ge1P1 | -10.5 | -10.5 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-2BKKRXR33O | dft_outlier_unexplained | Li2O2 | -632.62 | -632.62 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-6MGAPSXOS4 | dft_outlier_unexplained | Li2O | -597.0 | -597.0 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-AKI6NGQPUL | dft_outlier_unexplained | Li2O | -598.73 | -598.73 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-AZT4WLCRAM | dft_outlier_unexplained | Li2O | -597.902 | -597.902 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-C5DY6KUUTC | dft_outlier_unexplained | Li2O2 | -644.28 | -644.28 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-CBPWWARGVT | dft_outlier_unexplained | Li2O2 | -605.9 | -605.9 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-CLLKMPH32B | dft_outlier_unexplained | Li2O | -597.48 | -597.48 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-OCTG4OQW4X | dft_outlier_unexplained | Li2O2 | -632.62 | -632.62 | per-formula reading would match DFT but the printed unit is explicitly per atom |
+| ORC-ZL6CQL3CB7 | dft_outlier_unexplained | Li2O | -596.5 | -596.5 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-4NIT2EUNUZ | dft_outlier_unexplained | Mg2Si | -63.3 | -63.3 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-4P7GS3EMYE | dft_outlier_unexplained | Mg2Si | -64.11 | -64.11 | per-formula reading would match DFT but the printed unit is explicitly per atom |
 | ORC-7UMSNJ5ULE | dft_outlier_unexplained | Mg2Si | -65.22 | -65.22 | per-formula reading would match DFT but the printed unit is explicitly per atom |
@@ -548,15 +544,15 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | count | n |
 |---|---:|
 | espei_certified | 1917 |
-| espei_ready | 11928 |
-| espei_ready_calphad_disagrees | 323 |
-| espei_ready_no_prediction | 9688 |
-| phase_rule_fail_compound_property_not_fittable | 359 |
+| espei_ready | 11858 |
+| espei_ready_calphad_disagrees | 322 |
+| espei_ready_no_prediction | 9619 |
+| phase_rule_fail_compound_property_not_fittable | 406 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
-| phase_rule_fail_phase_label_ambiguous | 71 |
-| phase_rule_fail_phase_label_not_mapped | 619 |
+| phase_rule_fail_phase_label_ambiguous | 79 |
+| phase_rule_fail_phase_label_not_mapped | 564 |
 | phase_rule_fail_phase_not_printed | 265 |
-| phase_rule_pass | 11928 |
+| phase_rule_pass | 11858 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -566,8 +562,18 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-V7YJ5MPN3I | AL-NI | SM | 298.15 | Al3Ni | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-IHDYFUIRSU | B-NB | SM | 298.15 | Nb3B4 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-PC4VPHHPN2 | B-NB | SM | 298.15 | Nb3B2 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-5VUGUVM3S2 | B-U | CPM | 348.31 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-C6N5EOAVSR | B-U | CPM | 320.84 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-F6SG6DC6YS | B-U | CPM | 340.91 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ID2CY4V6EX | B-U | CPM | 310.6 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SX6ETL5J4Y | B-U | CPM | 300.4 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-XK3PPBGLE7 | B-U | CPM | 298.15 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ZDI62FNVY5 | B-U | CPM | 330.94 | B2U | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-KEI2TY2L4J.c69d64 | BI-K | GM_FORM | 838.0 | Bi2K | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-BOPH4LJCD6 | C-SI | SM | 298.15 | αSiC(Hex) | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-OYSX326MRK.e94686 | C-U | SM | 298.15 | U2C3 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ZDYH7IJLFP.b81126 | C-U | SM | 298.15 | U2C3 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-P5CQER2LTC | C-W | SM | 298.15 | WC | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-4T5HFCFJIC | CE-ZN | GM_FORM | 773.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-7IY7WMYAU7 | CE-ZN | GM_FORM | 773.15 | CeZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-7NGCG5VXFB | CE-ZN | GM_FORM | 773.15 | CeZn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -608,23 +614,28 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-SWEHTSC4LB.f524bc | CS-O | CPM | 298.15 | Cs7O2 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.de9739 | CS-O | SM | 298.15 | Cs3O | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-TSATJTWL4X.f55708 | CS-O | CPM | 298.15 | Cs3O | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-2T3W5BF2L4.4e597c | ER-GE | GM_MIX | 950.0 | LT_ErGe2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-3Z7R6C4RJD.fc409f | ER-GE | GM_MIX | 950.0 | Er11Ge10 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-AIUQQK7SCB.65be9e | ER-GE | GM_MIX | 950.0 | MT_ErGe2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-CAIUJ7QU3I.af9293 | ER-GE | GM_MIX | 950.0 | Er3Ge4 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-DQF45FYYVS.ab0d4a | ER-GE | GM_MIX | 950.0 | LT_Er2Ge3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-EH46YZZVT7.7340ac | ER-GE | GM_MIX | 950.0 | ErGe | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-LPVBNOE2IG.61f1dc | ER-GE | GM_MIX | 950.0 | HT_Er2Ge3 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-O4EBHRWJPH.2ba01d | ER-GE | GM_MIX | 950.0 | Er2Ge5 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-SJMNJSI46L.3a1910 | ER-GE | GM_MIX | 950.0 | Er5Ge4 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
-| ORC-VL7CG4ITOP.fc705a | ER-GE | GM_MIX | 950.0 | HT_ErGe2 | compound_property_not_fittable | GM_MIX of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-2T3W5BF2L4.4e597c | ER-GE | GM_FORM | 950.0 | LT_ErGe2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3Z7R6C4RJD.fc409f | ER-GE | GM_FORM | 950.0 | Er11Ge10 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-AIUQQK7SCB.65be9e | ER-GE | GM_FORM | 950.0 | MT_ErGe2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-CAIUJ7QU3I.af9293 | ER-GE | GM_FORM | 950.0 | Er3Ge4 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-DQF45FYYVS.ab0d4a | ER-GE | GM_FORM | 950.0 | LT_Er2Ge3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-EH46YZZVT7.7340ac | ER-GE | GM_FORM | 950.0 | ErGe | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-LPVBNOE2IG.61f1dc | ER-GE | GM_FORM | 950.0 | HT_Er2Ge3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-O4EBHRWJPH.2ba01d | ER-GE | GM_FORM | 950.0 | Er2Ge5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-SJMNJSI46L.3a1910 | ER-GE | GM_FORM | 950.0 | Er5Ge4 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-VL7CG4ITOP.fc705a | ER-GE | GM_FORM | 950.0 | HT_ErGe2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-3CGZJZTPCB.875a26 | FE-GD | SM | 298.15 | Fe2Gd | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-7XTBZMJVLP | FE-GD | SM | 298.15 | Fe2Gd | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-XV3BI7QYUX.1323e3 | FE-GD | CPM | 298.15 | Fe2Gd | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-6RGAKANZZY.b63bed | FE-LU | CPM | 300.0 | Fe2Lu | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-6RGAKANZZY.e2bf9c | FE-LU | SM | 300.0 | Fe2Lu | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-PIU2NHVH32.18f6d2 | FE-LU | CPM | 290.0 | Fe2Lu | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-PIU2NHVH32.892683 | FE-LU | SM | 290.0 | Fe2Lu | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-3DFCHE5IR2.0d65b1 | FE-TM | SM | 290.0 | Fe2Tm | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-3DFCHE5IR2.11713e | FE-TM | CPM | 290.0 | Fe2Tm | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-NUHO6HHWO3.8dcb77 | FE-TM | SM | 300.0 | Fe2Tm | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-NUHO6HHWO3.b76be8 | FE-TM | CPM | 300.0 | Fe2Tm | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QI2OQCE5ZB | FE-TM | SM | 298.15 | Fe2Tm | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-6LBYYMRF75.603efa | FE-Y | GM_FORM | 973.0 | Fe17Y2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-KU7WUHD2V2.f6b958 | FE-Y | GM_FORM | 973.0 | Fe3Y | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-YIWT6AZWC6.d0b6b1 | FE-Y | GM_FORM | 895.0 | Fe17Y2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -724,6 +735,11 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-VUJTPRAOJY | ND-ZN | GM_FORM | 973.15 | Nd13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-W4A6Z3CVZQ | ND-ZN | GM_FORM | 773.15 | Nd3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-X464TN5H34 | ND-ZN | GM_FORM | 973.15 | NdZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-2QTBGDKN7R.be139a | O-U | SM | 298.15 | U3O8 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-7IP3Y4UNA3.6d7e2b | O-U | SM | 298.15 | U4O9 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-GSUCRMLDTW | O-U | SM | 298.15 | U4O9 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-R7K6J2XEJJ | O-U | SM | 298.15 | U4O9 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-WDLVUYG56E | O-U | SM | 298.15 | U4O9 | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-WR54NXQDJY | P-SI | SM | 298.15 | SiP | compound_property_not_fittable | SM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2UVFZKE7S2.510392 | PB-Y | CPM | 743.0 | YPb3 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-2UVFZKE7S2.a5a14d | PB-Y | CPM | 743.0 | Y5Pb4 | compound_property_not_fittable | CPM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -900,6 +916,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-X2C2KWPUJS | PR-ZN | GM_FORM | 773.15 | Pr3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-VURWOO5JZR.a2b842 | RE-TA | GM_FORM | 298.15 | TaRe1.5 (σ or χ) | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-VURWOO5JZR.d36f92 | RE-TA | GM_FORM | 298.15 | TaRe1.5 (σ or χ) | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-EVZXBKPOLW.5b7b0c | SB-ZN | GM_FORM | 600.15 | β-Zn13Sb10 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-TIHVTPDIMR.f1d784 | SB-ZN | GM_FORM | 420.15 | β-Zn13Sb10 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-32RUX5I6LW | SM-ZN | GM_FORM | 973.15 | Sm3Zn22 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-34PUB3JLDB | SM-ZN | GM_FORM | 973.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-3GSTV6FR7O | SM-ZN | GM_FORM | 973.15 | SmZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
@@ -921,6 +939,31 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-T2W7HHQI4L | SM-ZN | GM_FORM | 1173.15 | Sm2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-XHOHAWLLOO | SM-ZN | GM_FORM | 1173.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-ZTYQWQQDBR | SM-ZN | GM_FORM | 773.15 | Sm13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-37FWLR52XC | Y-ZN | GM_FORM | 1173.15 | βYZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-4CV4EVXVXH | Y-ZN | GM_FORM | 773.15 | YZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-7NL4OM42MO | Y-ZN | GM_FORM | 773.15 | Y2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-AQQW4WZFCL | Y-ZN | GM_FORM | 773.15 | YZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-EAPMZ57DO4 | Y-ZN | GM_FORM | 773.15 | Y3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-G5Y45RZ6TD | Y-ZN | GM_FORM | 1173.15 | Y2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-GB2SIFVF6C | Y-ZN | GM_FORM | 1173.15 | YZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-H5FYP57CKH | Y-ZN | GM_FORM | 1173.15 | YZn12 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-HNF47QMGED | Y-ZN | GM_FORM | 773.15 | αYZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ISAX62FUFR | Y-ZN | GM_FORM | 773.15 | YZn12 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-JP3WERVVDX | Y-ZN | GM_FORM | 773.15 | YZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-KURJIRUXMN | Y-ZN | GM_FORM | 773.15 | αYZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-OWLHFM4GOR | Y-ZN | GM_FORM | 773.15 | Y3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QNRWY44J53 | Y-ZN | GM_FORM | 773.15 | Y13Zn58 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-QQSGPEZY6Y | Y-ZN | GM_FORM | 973.15 | αYZn2 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-RKWBI757VK | Y-ZN | GM_FORM | 773.15 | YZn12 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-T3VGUK7VNP | Y-ZN | GM_FORM | 773.15 | Y2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-UAWE4UXNVE | Y-ZN | GM_FORM | 773.15 | YZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-UMASVPDMZM | Y-ZN | GM_FORM | 1173.15 | YZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-WIJNHVWWPC | Y-ZN | GM_FORM | 973.15 | YZn12 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-WN3VMHD2O3 | Y-ZN | GM_FORM | 973.15 | Y3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-XRQ7EIS5PR | Y-ZN | GM_FORM | 973.15 | Y2Zn17 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-YGB6DF2VIF | Y-ZN | GM_FORM | 973.15 | YZn3 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ZAGX362XDV | Y-ZN | GM_FORM | 973.15 | YZn5 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
+| ORC-ZDY5VS3FGO | Y-ZN | GM_FORM | 1173.15 | Y3Zn11 | compound_property_not_fittable | GM_FORM of a stoichiometric compound (ESPEI 0.9.1 fits only HM_FORM/SM_FORM of compound endmembers) |
 | ORC-CIPJAZEEG7 | MO-O | INVARIANT_TEMPERATURE | 1053.15 | L, Mo8O23, Mo9O26 | liquid_impossible_at_T | liquid at 1053.15 K, below 1985 K (calculated_sgte_diagram) |
 | ORC-DUVVS2WS3I | MO-O | INVARIANT_TEMPERATURE | 1051.15 | L, Mo9O26, MoO3 | liquid_impossible_at_T | liquid at 1051.15 K, below 1985 K (calculated_sgte_diagram) |
 | ORC-UUOU4YRKZL | MO-O | INVARIANT_TEMPERATURE | 1091.15 | L, MoO2, Mo4O11 | liquid_impossible_at_T | liquid at 1091.15 K, below 1985 K (calculated_sgte_diagram) |
@@ -928,6 +971,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-UVWYIQWC3J | AL-HF | HM_FORM | 298.15 | HfAl3 | phase_label_ambiguous | label 'HfAl3' |
 | ORC-7X7QCYYHAV | AL-Y | HM_FORM | 298.15 | YAl3 | phase_label_ambiguous | label 'YAl3' |
 | ORC-QQHP64NZUS | AL-Y | HM_FORM | 763.0 | YAl3 | phase_label_ambiguous | label 'YAl3' |
+| ORC-HV5YWBUZLU.7c0cf1 | AU-HO | HM_FORM | 298.15 | αAuHo | phase_label_ambiguous | label 'αAuHo' |
+| ORC-ERUWHO6TNF.7818e1 | BA-PB | HM_FORM | 300.0 | βBa0.375Pb0.625 | phase_label_ambiguous | label 'βBa0.375Pb0.625' |
 | ORC-XPGR46OSAB.1518c7 | BA-PB | HM_FORM | 300.0 | αBa0.375Pb0.625 | phase_label_ambiguous | label 'αBa0.375Pb0.625' |
 | ORC-K4G26RVS4P.4000e4 | BI-K | GM_FORM | 848.0 | BiK3 | phase_label_ambiguous | label 'BiK3' |
 | ORC-K4G26RVS4P.72381c | BI-K | HM_FORM | 848.0 | BiK3 | phase_label_ambiguous | label 'BiK3' |
@@ -978,6 +1023,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-NNBDCYEADO.98dc51 | SB-ZN | HM_FORM | 800.0 | ξ-Sb2Zn3 | phase_label_ambiguous | label 'ξ-Sb2Zn3' |
 | ORC-NZUTUZNKYH.3f1124 | SB-ZN | HM_FORM | 800.0 | δ-Sb3Zn4 | phase_label_ambiguous | label 'δ-Sb3Zn4' |
 | ORC-NZUTUZNKYH.b1f117 | SB-ZN | GM_FORM | 800.0 | δ-Sb3Zn4 | phase_label_ambiguous | label 'δ-Sb3Zn4' |
+| ORC-O44M4ZW6TJ.030335 | SB-ZN | GM_FORM | 800.15 | β-Zn3Sb2 | phase_label_ambiguous | label 'β-Zn3Sb2' |
+| ORC-O44M4ZW6TJ.25c16b | SB-ZN | HM_FORM | 800.15 | β-Zn3Sb2 | phase_label_ambiguous | label 'β-Zn3Sb2' |
 | ORC-2CEFS6VVEV.afeb02 | SE-SN | HM_FORM | 298.15 | SnSe | phase_label_ambiguous | label 'SnSe' |
 | ORC-OTLJ2QNFR6 | SE-SN | HM_FORM | 298.15 | SnSe | phase_label_ambiguous | label 'SnSe' |
 | ORC-SXCESCRLPN.a39dda | SE-SN | HM_FORM | 298.15 | SnSe | phase_label_ambiguous | label 'SnSe' |
@@ -993,11 +1040,16 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-WLRX6KX33K.3c6241 | SI-TA | SM_FORM | 1900.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-WLRX6KX33K.5fec23 | SI-TA | HM_FORM | 1900.0 | Si0.375Ta0.625_HT | phase_label_ambiguous | label 'Si0.375Ta0.625_HT' |
 | ORC-FSYVSAZKHR | SI-U | HM_FORM | 298.15 | U3Si | phase_label_ambiguous | label 'U3Si' |
+| ORC-3E7T6VEXR2 | SI-Y | HM_FORM | 0.0 | Y3Si5 (R) | phase_label_ambiguous | label 'Y3Si5 (R)' |
+| ORC-BFAMJ2DIA5.917539 | SI-Y | HM_FORM | 298.15 | Y3Si5 | phase_label_ambiguous | label 'Y3Si5' |
+| ORC-BFAMJ2DIA5.f3bc8b | SI-Y | SM_FORM | 298.15 | Y3Si5 | phase_label_ambiguous | label 'Y3Si5' |
+| ORC-XAWUXWICRX | SI-Y | HM_FORM | 0.0 | Y3Si5 (H) | phase_label_ambiguous | label 'Y3Si5 (H)' |
 | ORC-C3QDI5675C | SN-TI | HM_FORM | 298.15 | Sn5Ti6-L | phase_label_ambiguous | label 'Sn5Ti6-L' |
 | ORC-YTPULMUAG2.147391 | SN-TI | HM_FORM | 298.15 | Sn5Ti6-L | phase_label_ambiguous | label 'Sn5Ti6-L' |
+| ORC-UR7LCFHVIW.276c54 | AL | HM_FORM | 0.0 | fcc-Al | phase_label_not_mapped | label 'fcc-Al' |
+| ORC-X2WBMXYDLJ | AL | HM_FORM | 0.0 | Al | phase_label_not_mapped | label 'Al' |
 | ORC-3QIK7OVINP.90029a | AL-CA | HM_FORM | 0.0 | C15-Al2Al | phase_label_not_mapped | label 'C15-Al2Al' |
 | ORC-4AIGKIGSRZ.f2f361 | AL-CA | HM_FORM | 0.0 | C15-Al2Al | phase_label_not_mapped | label 'C15-Al2Al' |
-| ORC-4T6PPMNMVH.c19ed3 | AL-CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
 | ORC-56LEO63NHI.173bf6 | AL-CA | HM_FORM | 0.0 | C15-Al2Al | phase_label_not_mapped | label 'C15-Al2Al' |
 | ORC-6WOBDFQDT6.aa92cb | AL-CA | HM_FORM | 298.15 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
 | ORC-7WTP4LTZGH.dc5f91 | AL-CA | HM_FORM | 298.15 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
@@ -1008,144 +1060,77 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-H3W2VXUOCC.dc7e94 | AL-CA | HM_FORM | 0.0 | C15-Ca2Al | phase_label_not_mapped | label 'C15-Ca2Al' |
 | ORC-HH5P332BD5.027576 | AL-CA | HM_FORM | 0.0 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
 | ORC-LDRKSJQLLM.0b304d | AL-CA | HM_FORM | 0.0 | C15-Ca2Al | phase_label_not_mapped | label 'C15-Ca2Al' |
-| ORC-OHVOHPTKPU.3d337a | AL-CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
-| ORC-RBRLISTFX3.c24d82 | AL-CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
 | ORC-RRTXNAEBFG.4b59a8 | AL-CA | HM_FORM | 0.0 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
-| ORC-RU5SWY7JGW.072bed | AL-CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
 | ORC-SGGMA66RLQ.98325d | AL-CA | HM_FORM | 0.0 | C15-Ca2Al | phase_label_not_mapped | label 'C15-Ca2Al' |
 | ORC-TCPC77DHKK.452f64 | AL-CA | HM_FORM | 298.15 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
 | ORC-WAZ6UJADGF.8da616 | AL-CA | HM_FORM | 0.0 | C15-Al2Ca | phase_label_not_mapped | label 'C15-Al2Ca' |
 | ORC-ZKD74CCMXO.fb87dd | AL-CA | HM_FORM | 0.0 | C15-Al2Al | phase_label_not_mapped | label 'C15-Al2Al' |
-| ORC-4GEM5JXZRL | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-52RX4KJCDS | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-5DVIFPHSFN | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-3VAP5U3PYE | AL-CO | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-4EGJ77QJYM | AL-CO | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-E7AOQYLW7C | AL-CO | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
+| ORC-ETBNSP746Y | AL-CO | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-KO4O6TOD2C.cb06e3 | AL-CO | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-VKJQHODF5T.d1c4e1 | AL-CO | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-4EP7XRAXPS | AL-CO-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-65JDHAPWG3 | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
 | ORC-66QDO5IYIG | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-67RITL3LR6 | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-6G3EKW4XCM | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-6OYLJDF5W6 | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-7LWVQ5UDUI | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-A4YFGUJQFA | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-E7AOQYLW7C | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
+| ORC-E3SGIIH26O | AL-CO-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-F6V7ZTZOXE | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
 | ORC-IGICY273VQ | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-IGTLLSONGK | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-L4FSTSSWWM | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-LBNVYX7MKG | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-LMPO46BMIF | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
 | ORC-MVK4ZWOCGE | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
 | ORC-OVPAV4MJMS | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-UQKZUDGG6O | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-PWPIZMRW2O | AL-CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-SHRYIPOXBJ | AL-CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-UT62E76MOR | AL-CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-Y4J4UL4PVK | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-YLKF46ZAQF | AL-CO-CR | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-326E3OHRXX | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-32GMQ4UZPY | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-3D4W5TGD42 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-YNUBAUOYL6 | AL-CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-ZDUO6PKZ3H | AL-CO-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-3TOSQGHNGM | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-3UZ3TZACIU | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-3VAP5U3PYE | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-4AVGOLDRYY.862ddc | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-4AVGOLDRYY.d5c876 | AL-CO-CR-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
-| ORC-4EGJ77QJYM | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-4EP7XRAXPS | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-4NPP2JSIVO.147cf7 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-4RXVDM6W2U | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-56UQQ3KDZU | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-5I6MP4KN2N | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-5SQ6ZVI24R.5bc4e5 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-5WMXIEWM4J | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-74RBDPJKYV | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-7BZ4YFYJFR | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-7GQJDWDHJQ | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-BJCC23KTCK.7c92d8 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-BQZ45U6GCO.c1d891 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-BSYOVSRLCW | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-BZVTAKWUEV | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-CG6B7EHP2R.127230 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-CJF25RA3S4.a678d8 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-COMWLLIR2L.4ebb85 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-CWVXPYGUEK | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-DDS6WWAX23 | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-DES3Y567OU | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-DOSQLG6EWU | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-E3SGIIH26O | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-EAJVUJJ3L3 | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-ECXY5ARLCL | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-ETBNSP746Y | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-FCRRH4IFTR | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-G4BGOQUI73 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-GEAL46TYRL.c8a88f | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-GEKREDAI23 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-GFVKETY64Q | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-GJY57XUCBP | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-HJBML33MP4 | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-HRT7A33QUN | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-I5JKIVXLI4 | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-IAB2LXFNOY.55268e | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-KO4O6TOD2C.cb06e3 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-LOZBGVYVAU.4ec080 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-M2X72TAQEQ.0c03a2 | AL-CO-CR-NI | SM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M2X72TAQEQ.8a1e5a | AL-CO-CR-NI | GM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M2X72TAQEQ.ad4d3f | AL-CO-CR-NI | GM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M2X72TAQEQ.c95868 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M2X72TAQEQ.d019cc | AL-CO-CR-NI | GM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M2X72TAQEQ.ecef70 | AL-CO-CR-NI | GM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-M7BUHEGWBV | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-MIQXBA63Y6 | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-MRYCPD3MGU | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-MZSAEGOTBR | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-NLD4Z6JLS6 | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-NNQH4SF765 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
 | ORC-OS5IVTXPX6 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-P4ZSEXFBEG | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-PWPIZMRW2O | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-QL67TSGS6J | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-R4JVCNQOUL.88a673 | AL-CO-CR-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
-| ORC-R4JVCNQOUL.d14830 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-RBFFWS6ZQH.8da9a7 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-RNMZLTA3EG | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-RUQIJPW7LX | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-S77VZEGXQ3 | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-SHRYIPOXBJ | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-T4USAJZHMV | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-TJ27BEONTE.3fade8 | AL-CO-CR-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
-| ORC-TJ27BEONTE.492673 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-TLQAOJDQI2 | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-TVEF5FPR33.0f9888 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-UDK532NRBY.74c81e | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-UHOV5ETA3J | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-UWBYNJLERZ | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-VKJQHODF5T.d1c4e1 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-VTB72Y5OXM.0759bb | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-VTB72Y5OXM.690228 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-VTB72Y5OXM.6dd106 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-VTB72Y5OXM.d37d98 | AL-CO-CR-NI | HM_FORM | 298.15 | γ'-L12 | phase_label_not_mapped | label "γ'-L12" |
-| ORC-VUZ7SP4VUX | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-WSKLBJ7O6R | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-WT7PXP52PW | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-X7EHOUKTPD | AL-CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
-| ORC-XMHR27DSFK | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-XYCE5GPHM6 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-YFI3VYJ3UQ | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-YNUBAUOYL6 | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-Z6W4NXL7QJ.80139e | AL-CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-Z7PJJFOXX3 | AL-CO-CR-NI | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZDUO6PKZ3H | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-ZE6LY3IVHZ | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-ZMIZRHWGHR | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-ZOPMVSLEXO.0e91fe | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZOPMVSLEXO.47e6a8 | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZOPMVSLEXO.8d90bb | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZOPMVSLEXO.b07d0a | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZOPMVSLEXO.bce74c | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZOPMVSLEXO.e80675 | AL-CO-CR-NI | HM_FORM | 298.15 | B2 | phase_label_not_mapped | label 'B2' |
-| ORC-ZRJTZFU5YP | AL-CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-3D4W5TGD42 | AL-CO-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-56UQQ3KDZU | AL-CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-7GQJDWDHJQ | AL-CO-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-HRT7A33QUN | AL-CO-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-MZSAEGOTBR | AL-CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-P4ZSEXFBEG | AL-CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-RNMZLTA3EG | AL-CO-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-XMHR27DSFK | AL-CO-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-ZRJTZFU5YP | AL-CO-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-A4YFGUJQFA | AL-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
+| ORC-CJF25RA3S4.a678d8 | AL-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-DDS6WWAX23 | AL-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-PDPECKEWAL.dcee83 | AL-CR | HM_FORM | 1273.15 | Al9Cr4 (l) | phase_label_not_mapped | label 'Al9Cr4 (l)' |
-| ORC-X2WBMXYDLJ | AL-LA | HM_FORM | 0.0 | Al | phase_label_not_mapped | label 'Al' |
+| ORC-QL67TSGS6J | AL-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-UWBYNJLERZ | AL-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-Z6W4NXL7QJ.80139e | AL-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-4NPK7P5GRQ | AL-FE | CPM | 1440.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-54YDYKMATH | AL-FE | CPM | 1415.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-5TNYKHKWRK | AL-FE | CPM | 1430.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-D5KQJQELKF | AL-FE | CPM | 1405.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-LCHH7KCE3J | AL-FE | CPM | 1455.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-MJD7XBVFTA | AL-FE | CPM | 1410.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-PHSPK3J5L5 | AL-FE | CPM | 1400.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-PISPO7TC7M | AL-FE | CPM | 1445.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-SKKA6YFMAR | AL-FE | CPM | 1425.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-SPVEMYPFHH | AL-FE | CPM | 1395.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-URKGI5XYRG | AL-FE | CPM | 1435.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-V4IGIN4OMQ | AL-FE | CPM | 1420.0 | ε | phase_label_not_mapped | label 'ε' |
+| ORC-XV3NXQANGS | AL-FE | CPM | 1450.0 | ε | phase_label_not_mapped | label 'ε' |
 | ORC-5N5TJPYRTK.a04419 | AL-MG | HM_FORM | 0.0 | Al2Mg-C15 | phase_label_not_mapped | label 'Al2Mg-C15' |
 | ORC-RNUDMKJN4F.a61040 | AL-MG | HM_FORM | 0.0 | Al2Mg-C36 | phase_label_not_mapped | label 'Al2Mg-C36' |
 | ORC-YZTJPJLSUX.2fae14 | AL-MG | HM_FORM | 0.0 | Al2Mg-C14 | phase_label_not_mapped | label 'Al2Mg-C14' |
+| ORC-4NPP2JSIVO.147cf7 | AL-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-5SQ6ZVI24R.5bc4e5 | AL-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-M7BUHEGWBV | AL-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-TJ27BEONTE.3fade8 | AL-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
+| ORC-ZE6LY3IVHZ | AL-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-ZMIZRHWGHR | AL-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-BCJLH5QZP3.d8e17e | AL-NI-Y | HM_FORM | 298.15 | τ7 NiAl2Y | phase_label_not_mapped | label 'τ7 NiAl2Y' |
 | ORC-ERGDTKCCNO.dbe85d | AL-NI-Y | HM_FORM | 298.15 | τ2 Ni3Al9Y | phase_label_not_mapped | label 'τ2 Ni3Al9Y' |
 | ORC-HPNGKBHL7Q.7e48ad | AL-NI-Y | HM_FORM | 298.15 | τ10 Ni6Al2Y3 | phase_label_not_mapped | label 'τ10 Ni6Al2Y3' |
@@ -1158,26 +1143,16 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-3HPITLRFFC.237487 | AL-RU | HM_FORM | 298.15 | RuAl | phase_label_not_mapped | label 'RuAl' |
 | ORC-2R3RSFLVML | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-ANTPBC2LYC | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
-| ORC-BLE5GGHL7A | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-FFQKM5UWR6 | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-PHBWW54AYA | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-QCFMJ36AAG | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-SVJTYZQSOO | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
 | ORC-YWMCF3MY3L | AL-TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
-| ORC-HV5YWBUZLU.7c0cf1 | AU-HO-TM | HM_FORM | 298.15 | αAuHo | phase_label_not_mapped | label 'αAuHo' |
 | ORC-3LPA54QJQD | B-MG | HM_FORM | 298.15 | MgB6 | phase_label_not_mapped | label 'MgB6' |
 | ORC-7PI7ACDB6X | B-MG | HM_FORM | 298.15 | MgB12 | phase_label_not_mapped | label 'MgB12' |
 | ORC-KIP2CJSBMK | B-MG | HM_FORM | 298.15 | MgB6 | phase_label_not_mapped | label 'MgB6' |
 | ORC-N2BPBLFSN3 | B-MG | HM_FORM | 298.15 | Mg2B | phase_label_not_mapped | label 'Mg2B' |
 | ORC-TDP6IBGSN3 | B-MG | HM_FORM | 298.15 | Mg4B | phase_label_not_mapped | label 'Mg4B' |
-| ORC-5VUGUVM3S2 | B-U | CPM | 348.31 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-C6N5EOAVSR | B-U | CPM | 320.84 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-F6SG6DC6YS | B-U | CPM | 340.91 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-ID2CY4V6EX | B-U | CPM | 310.6 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-SX6ETL5J4Y | B-U | CPM | 300.4 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-XK3PPBGLE7 | B-U | CPM | 298.15 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-ZDI62FNVY5 | B-U | CPM | 330.94 | B2U | phase_label_not_mapped | label 'B2U' |
-| ORC-S3QCHLIENU | BI-ER-TE | HM_FORM | 0.0 | ErTe2 | phase_label_not_mapped | label 'ErTe2' |
 | ORC-5P2WKOP3S6 | C-NB | HM_FORM | 0.0 | Nb3C | phase_label_not_mapped | label 'Nb3C' |
 | ORC-BDWBO3XXDG | C-NB | HM_FORM | 0.0 | Nb7C3 | phase_label_not_mapped | label 'Nb7C3' |
 | ORC-YX7DW62EWY | C-NB | HM_FORM | 0.0 | Nb5C2 | phase_label_not_mapped | label 'Nb5C2' |
@@ -1187,36 +1162,9 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-4ZUW262ENE.4af561 | C-PU | CPM | 298.15 | C₀.₈₇Pu | phase_label_not_mapped | label 'C₀.₈₇Pu' |
 | ORC-ICTO4YCG3I.755cf3 | C-PU | SM | 298.15 | C₀.₈Pu | phase_label_not_mapped | label 'C₀.₈Pu' |
 | ORC-ICTO4YCG3I.be37c6 | C-PU | CPM | 298.15 | C₀.₈Pu | phase_label_not_mapped | label 'C₀.₈Pu' |
-| ORC-3E7T6VEXR2 | C-SI-Y | HM_FORM | 0.0 | Y3Si5 (R) | phase_label_not_mapped | label 'Y3Si5 (R)' |
-| ORC-3F4IKD7X5A | C-SI-Y | HM_FORM | 0.0 | Y5Si4 | phase_label_not_mapped | label 'Y5Si4' |
-| ORC-3KKWBH2XDZ.b64d86 | C-SI-Y | HM_FORM | 298.15 | Y5Si4 | phase_label_not_mapped | label 'Y5Si4' |
-| ORC-3KKWBH2XDZ.b73182 | C-SI-Y | SM_FORM | 298.15 | Y5Si4 | phase_label_not_mapped | label 'Y5Si4' |
-| ORC-4GRDKBOGIM.4fa341 | C-SI-Y | HM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
-| ORC-4OKQZZFQ5L | C-SI-Y | HM_FORM | 0.0 | YC2 | phase_label_not_mapped | label 'YC2' |
-| ORC-5J5H3KGZYE.5184e3 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
-| ORC-6S6FJDBDPS.361c7d | C-SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
-| ORC-6S6FJDBDPS.5c9f32 | C-SI-Y | SM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
-| ORC-AYWJZHYTRS.aeb0ce | C-SI-Y | HM_FORM | 298.15 | YSi | phase_label_not_mapped | label 'YSi' |
-| ORC-AYWJZHYTRS.b60942 | C-SI-Y | SM_FORM | 298.15 | YSi | phase_label_not_mapped | label 'YSi' |
-| ORC-BFAMJ2DIA5.917539 | C-SI-Y | HM_FORM | 298.15 | Y3Si5 | phase_label_not_mapped | label 'Y3Si5' |
-| ORC-BFAMJ2DIA5.f3bc8b | C-SI-Y | SM_FORM | 298.15 | Y3Si5 | phase_label_not_mapped | label 'Y3Si5' |
 | ORC-BUO7XSPB2I | C-SI-Y | HM_FORM | 0.0 | Y3Si2C2 | phase_label_not_mapped | label 'Y3Si2C2' |
-| ORC-BXE4DG4MGE | C-SI-Y | HM_FORM | 0.0 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
-| ORC-DI7K5WNBQD.9f1700 | C-SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
-| ORC-DSMEXZLUVF.79fcd5 | C-SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
 | ORC-FFDZZDXLP6 | C-SI-Y | HM_FORM | 0.0 | Y15Si9C | phase_label_not_mapped | label 'Y15Si9C' |
-| ORC-HXREVNZHBF | C-SI-Y | HM_FORM | 0.0 | YSi | phase_label_not_mapped | label 'YSi' |
 | ORC-IGXZ3PKXEP | C-SI-Y | HM_FORM | 0.0 | Y1.8Si0.2C2.7 | phase_label_not_mapped | label 'Y1.8Si0.2C2.7' |
-| ORC-K47LECRQ4P | C-SI-Y | HM_FORM | 0.0 | YSi2 (H) | phase_label_not_mapped | label 'YSi2 (H)' |
-| ORC-M5W5YRWCXR.cc9321 | C-SI-Y | HM_FORM | 298.15 | YSi | phase_label_not_mapped | label 'YSi' |
-| ORC-MV6VDIBSCZ | C-SI-Y | HM_FORM | 0.0 | Y2C3 (R) | phase_label_not_mapped | label 'Y2C3 (R)' |
-| ORC-PXWJTJAKXJ | C-SI-Y | HM_FORM | 0.0 | YSi2 (R) | phase_label_not_mapped | label 'YSi2 (R)' |
-| ORC-RHK3CZSOYD.f4ddb9 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
-| ORC-URIPMRCZ3I.8cc05d | C-SI-Y | HM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
-| ORC-URIPMRCZ3I.d59230 | C-SI-Y | SM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
-| ORC-W37THFZ6PU.4c9892 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
-| ORC-XAWUXWICRX | C-SI-Y | HM_FORM | 0.0 | Y3Si5 (H) | phase_label_not_mapped | label 'Y3Si5 (H)' |
-| ORC-ZQPMERZ45A.425703 | C-SI-Y | HM_FORM | 298.15 | YC2 | phase_label_not_mapped | label 'YC2' |
 | ORC-23ZIGYN2CV.7c099c | C-U | HM_FORM | 298.15 | C0.655U0.345 | phase_label_not_mapped | label 'C0.655U0.345' |
 | ORC-242GA7RIKL.112092 | C-U | SM | 298.15 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-2D5S4G5EI4.e27a79 | C-U | HM_FORM | 298.15 | UCx | phase_label_not_mapped | label 'UCx' |
@@ -1379,12 +1327,35 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZS6L6RA7WP.0a4ae6 | C-U | CPM | 2700.0 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-ZT5QUPW7FY.270847 | C-U | CPM | 800.0 | UC | phase_label_not_mapped | label 'UC' |
 | ORC-ZZ6XETLP3U.623533 | C-U | HM_FORM | 298.15 | UC1.90 | phase_label_not_mapped | label 'UC1.90' |
-| ORC-D5OBI4CF5M | CA-IN-SB | HM_FORM | 0.0 | Ca5Sb3 | phase_label_not_mapped | label 'Ca5Sb3' |
-| ORC-JMPRIJBETK.134036 | CA-IN-SB | HM_FORM | 1078.0 | Ca5Sb3 | phase_label_not_mapped | label 'Ca5Sb3' |
-| ORC-PQUJF6BZJW | CA-IN-SB | HM_FORM | 0.0 | Ca2Sb | phase_label_not_mapped | label 'Ca2Sb' |
-| ORC-TLXXDM6ZUO | CA-IN-SB | HM_FORM | 0.0 | CaSb2 | phase_label_not_mapped | label 'CaSb2' |
+| ORC-MV6VDIBSCZ | C-Y | HM_FORM | 0.0 | Y2C3 (R) | phase_label_not_mapped | label 'Y2C3 (R)' |
+| ORC-4T6PPMNMVH.c19ed3 | CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
+| ORC-OHVOHPTKPU.3d337a | CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
+| ORC-RBRLISTFX3.c24d82 | CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
+| ORC-RU5SWY7JGW.072bed | CA | HM_FORM | 0.0 | C15-Ca2Ca | phase_label_not_mapped | label 'C15-Ca2Ca' |
 | ORC-377G72NYL5.16f26c | CE-GA | HM_FORM | 298.15 | Ce0.21Ga0.79 | phase_label_not_mapped | label 'Ce0.21Ga0.79' |
 | ORC-P74KIVIPMK.138e01 | CE-GA | HM_FORM | 298.15 | Ce0.21Ga0.79 | phase_label_not_mapped | label 'Ce0.21Ga0.79' |
+| ORC-5I6MP4KN2N | CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-6OYLJDF5W6 | CO-CR | HM_MIX | 0.0 | B2 | phase_label_not_mapped | label 'B2' |
+| ORC-BQZ45U6GCO.c1d891 | CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-I5JKIVXLI4 | CO-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-RUQIJPW7LX | CO-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-TVEF5FPR33.0f9888 | CO-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-BZVTAKWUEV | CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-DES3Y567OU | CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-EAJVUJJ3L3 | CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-FCRRH4IFTR | CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-GEKREDAI23 | CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-MRYCPD3MGU | CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-WSKLBJ7O6R | CO-CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-X7EHOUKTPD | CO-CR-NI | HM_MIX | 0.0 | A2 | phase_label_not_mapped | label 'A2' |
+| ORC-YFI3VYJ3UQ | CO-CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-5WMXIEWM4J | CO-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-LOZBGVYVAU.4ec080 | CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-NLD4Z6JLS6 | CO-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-R4JVCNQOUL.88a673 | CO-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
+| ORC-UDK532NRBY.74c81e | CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-UHOV5ETA3J | CO-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-7V5ZKCLAPY.1099e3 | CR | HM_FORM | 0.0 | sigma CrCrCrCrCr | phase_label_not_mapped | label 'sigma CrCrCrCrCr' |
 | ORC-2J4IQSP6P5.455370 | CR-GE | GM_FORM | 1530.0 | Cr0.63Ge0.37 | phase_label_not_mapped | label 'Cr0.63Ge0.37' |
 | ORC-5DSEUH4NK2.4030f3 | CR-GE | GM_FORM | 1530.0 | Cr0.75Ge0.25 | phase_label_not_mapped | label 'Cr0.75Ge0.25' |
 | ORC-D4GO4RDBQ3.0b66ef | CR-GE | GM_FORM | 1530.0 | Cr0.8Ge0.2 | phase_label_not_mapped | label 'Cr0.8Ge0.2' |
@@ -1392,14 +1363,18 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-SHBHPLOWRZ.b6ec88 | CR-GE | GM_FORM | 1530.0 | Cr0.75Ge0.25 | phase_label_not_mapped | label 'Cr0.75Ge0.25' |
 | ORC-SQKDM2MIIO.7c252f | CR-GE | GM_FORM | 1530.0 | Cr0.8Ge0.2 | phase_label_not_mapped | label 'Cr0.8Ge0.2' |
 | ORC-ZDS7SVJW37.6c99b2 | CR-GE | GM_FORM | 1530.0 | Cr0.75Ge0.25 | phase_label_not_mapped | label 'Cr0.75Ge0.25' |
+| ORC-4AVGOLDRYY.d5c876 | CR-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
+| ORC-7BZ4YFYJFR | CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-BJCC23KTCK.7c92d8 | CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-BSYOVSRLCW | CR-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
+| ORC-CG6B7EHP2R.127230 | CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
+| ORC-XYCE5GPHM6 | CR-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-2DC2JED7OP.95d3f8 | CR-RE | HM_FORM | 0.0 | sigma CrReCrReRe | phase_label_not_mapped | label 'sigma CrReCrReRe' |
 | ORC-2G5X7WUZNV.f3ad86 | CR-RE | HM_FORM | 0.0 | sigma CrReCrCrCr | phase_label_not_mapped | label 'sigma CrReCrCrCr' |
 | ORC-3BBKXWFDLX.db9632 | CR-RE | HM_FORM | 0.0 | sigma ReCrCrReRe | phase_label_not_mapped | label 'sigma ReCrCrReRe' |
-| ORC-3SL7ENTGNY.4a82b7 | CR-RE | HM_FORM | 0.0 | sigma ReReReReRe | phase_label_not_mapped | label 'sigma ReReReReRe' |
 | ORC-6C6U4O32PW.7a5458 | CR-RE | HM_FORM | 0.0 | sigma CrCrCrReCr | phase_label_not_mapped | label 'sigma CrCrCrReCr' |
 | ORC-7Q67Y5AAUP.c0b705 | CR-RE | HM_FORM | 0.0 | sigma ReReCrCrRe | phase_label_not_mapped | label 'sigma ReReCrCrRe' |
 | ORC-7U3QE7COIV.262b3f | CR-RE | HM_FORM | 0.0 | sigma ReCrCrCrRe | phase_label_not_mapped | label 'sigma ReCrCrCrRe' |
-| ORC-7V5ZKCLAPY.1099e3 | CR-RE | HM_FORM | 0.0 | sigma CrCrCrCrCr | phase_label_not_mapped | label 'sigma CrCrCrCrCr' |
 | ORC-ABAFGO6RFJ.fb2ccd | CR-RE | HM_FORM | 0.0 | sigma ReCrReReCr | phase_label_not_mapped | label 'sigma ReCrReReCr' |
 | ORC-CPDKPV5EPK.fb522a | CR-RE | HM_FORM | 0.0 | sigma CrCrReCrRe | phase_label_not_mapped | label 'sigma CrCrReCrRe' |
 | ORC-ECFNA3MRAU.17b53d | CR-RE | HM_FORM | 0.0 | sigma ReReCrReCr | phase_label_not_mapped | label 'sigma ReReCrReCr' |
@@ -1440,12 +1415,10 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-SVOB5GY4NR.a974c5 | CS-O | SM | 298.15 | CsO2 | phase_label_not_mapped | label 'CsO2' |
 | ORC-VICVK7W5MI.4eb1cb | CS-O | HM_FORM | 298.15 | Cs2O | phase_label_not_mapped | label 'Cs2O' |
 | ORC-VICVK7W5MI.87e1e2 | CS-O | SM | 298.15 | Cs2O | phase_label_not_mapped | label 'Cs2O' |
+| ORC-CRKNTRUNLX.931c23 | CU | HM_FORM | 0.0 | fcc-Cu | phase_label_not_mapped | label 'fcc-Cu' |
 | ORC-43XXWNSX7A.90f41f | CU-HF | HM_FORM | 0.0 | Cu54Hf14 | phase_label_not_mapped | label 'Cu54Hf14' |
 | ORC-CSUTXAAKBW.5d83f6 | CU-HF | HM_FORM | 0.0 | Cu54Hf14 | phase_label_not_mapped | label 'Cu54Hf14' |
-| ORC-2KBA7NMGGX.1f473d | DY-GD-LA-ND-RU | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
-| ORC-GCTRSE5LJP.8a76a6 | DY-GD-LA-ND-RU | HM_FORM | 0.0 | Dy3Ru | phase_label_not_mapped | label 'Dy3Ru' |
-| ORC-N2B42IOD2X.1ce4aa | DY-GD-LA-ND-RU | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
-| ORC-O5DYYRMDTC.45de04 | DY-GD-LA-ND-RU | HM_FORM | 0.0 | Dy3Ru | phase_label_not_mapped | label 'Dy3Ru' |
+| ORC-S3QCHLIENU | ER-TE | HM_FORM | 0.0 | ErTe2 | phase_label_not_mapped | label 'ErTe2' |
 | ORC-2QKXLHGQBF | FE-GD-MO | CPM | 450.0 | τ | phase_label_not_mapped | label 'τ' |
 | ORC-4AQVX33PV2 | FE-GD-MO | CPM | 600.0 | τ | phase_label_not_mapped | label 'τ' |
 | ORC-AHZAQMSQKA | FE-GD-MO | CPM | 681.0 | τ | phase_label_not_mapped | label 'τ' |
@@ -1476,11 +1449,14 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-HZPR4ESTX6 | FE-TA | HM_FORM | 0.0 | Fe3Ta10 | phase_label_not_mapped | label 'Fe3Ta10' |
 | ORC-TDPDNRKB6I | FE-TA | HM_FORM | 0.0 | Fe8Ta5 | phase_label_not_mapped | label 'Fe8Ta5' |
 | ORC-U24HI3NZA2 | FE-TA | HM_FORM | 0.0 | Fe2Ta11 | phase_label_not_mapped | label 'Fe2Ta11' |
-| ORC-VPO6TJUC6Z | FE-TA | HM_FORM | 0.0 | Ta13 | phase_label_not_mapped | label 'Ta13' |
 | ORC-RYYYSEVZSO.c3a675 | FE-TI | HM_FORM | 0.0 | Fe₂Ti | phase_label_not_mapped | label 'Fe₂Ti' |
 | ORC-VDN6MXRL2P.4d25f4 | FE-ZR | HM_FORM | 1573.15 | Fe23Zr6, γ | phase_label_not_mapped | label 'γ' |
+| ORC-4JQQ3TFAUG | GE-NI | HM_FORM | 0.0 | βNi3Ge | phase_label_not_mapped | label 'βNi3Ge' |
 | ORC-YH7G2WPY74.c322d4 | GE-NI | HM_FORM | 0.0 | ε'Ni5Ge3 | phase_label_not_mapped | label "ε'Ni5Ge3" |
 | ORC-36JRTTLT2M.c91987 | H-ZR | HM_FORM | 0.0 | δ-ZrH2 | phase_label_not_mapped | label 'δ-ZrH2' |
+| ORC-O62YLDXJZW | LA | HM_FORM | 0.0 | La | phase_label_not_mapped | label 'La' |
+| ORC-FJ27JVPBJZ.0796f2 | MG | HM_FORM | 0.0 | hcp-Mg | phase_label_not_mapped | label 'hcp-Mg' |
+| ORC-YKAUVRLVC3.a77c6d | MG | HM_FORM | 0.0 | γ-Mg5Mg12Mg12 | phase_label_not_mapped | label 'γ-Mg5Mg12Mg12' |
 | ORC-LOEUZNK44H.0d74e1 | MG-SB | HM_FORM | 773.0 | Mg3Sb2 | phase_label_not_mapped | label 'Mg3Sb2' |
 | ORC-762YX4YIBD.b779ea | MG-Y | HM_FORM | 298.15 | YMg | phase_label_not_mapped | label 'YMg' |
 | ORC-CYC6AI774I.f54d0e | MG-Y | HM_FORM | 298.15 | YMg | phase_label_not_mapped | label 'YMg' |
@@ -1561,6 +1537,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-UZM6JPBUE2.c22fe6 | NB-NI | HM_FORM | 0.0 | μ-Nb7Ni6, µ-Nb7Ni6 | phase_label_not_mapped | label 'µ-Nb7Ni6' |
 | ORC-V6DVVRGG5E.11e0a4 | NB-NI | HM_FORM | 600.15 | Nb7Ni6 | phase_label_not_mapped | label 'Nb7Ni6' |
 | ORC-MDJMCVRYSE.1f557a | NB-SI | HM_FORM | 273.15 | (NbSi2) | phase_label_not_mapped | label '(NbSi2)' |
+| ORC-2KBA7NMGGX.1f473d | ND | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
+| ORC-N2B42IOD2X.1ce4aa | ND | HM_FORM | 0.0 | Nd3Ru | phase_label_not_mapped | label 'Nd3Ru' |
 | ORC-TJTQXRTTEQ | NI-PT | HM_FORM | 0.0 | NiPt | phase_label_not_mapped | label 'NiPt' |
 | ORC-22FCDAQURR | NI-RU | HM_FORM | 0.0 | NiRu | phase_label_not_mapped | label 'NiRu' |
 | ORC-EEJVYGIGY3 | NI-RU | HM_FORM | 0.0 | Ni3Ru | phase_label_not_mapped | label 'Ni3Ru' |
@@ -1569,20 +1547,19 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-DJW67EF4ZM.2ce8e3 | NI-SI | HM_FORM | 298.15 | L12 | phase_label_not_mapped | label 'L12' |
 | ORC-DYBIVMPQDE.17e4c5 | NI-SI | HM_FORM | 298.15 | Ni3Si(β1) | phase_label_not_mapped | label 'Ni3Si(β1)' |
 | ORC-GD6EKDN36L.0c78bd | NI-SI | HM_FORM | 298.15 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-3VGEQTV6FF | NI-SI-TI | HM_FORM | 298.15 | Ni3Ti(D024) | phase_label_not_mapped | label 'Ni3Ti(D024)' |
-| ORC-W2AEPF25IN | NI-SI-TI | HM_FORM | 298.15 | NiTi(B2) | phase_label_not_mapped | label 'NiTi(B2)' |
 | ORC-2YDOIF7YWA | NI-TI | HM_FORM | 1460.0 | NiTi(B2) | phase_label_not_mapped | label 'NiTi(B2)' |
+| ORC-3VGEQTV6FF | NI-TI | HM_FORM | 298.15 | Ni3Ti(D024) | phase_label_not_mapped | label 'Ni3Ti(D024)' |
 | ORC-4R2G2JJ6I6.0053d5 | NI-TI | HM_FORM | 0.0 | TiNi-B2 | phase_label_not_mapped | label 'TiNi-B2' |
 | ORC-BEB5Y4LZT2 | NI-TI | HM_FORM | 999.0 | NiTi(B2) | phase_label_not_mapped | label 'NiTi(B2)' |
 | ORC-HYPU3NBXDV | NI-TI | HM_FORM | 298.15 | NiTi(B2) | phase_label_not_mapped | label 'NiTi(B2)' |
 | ORC-L2OPU6DDBU.b904a0 | NI-TI | HM_FORM | 0.0 | TiNi3 | phase_label_not_mapped | label 'TiNi3' |
 | ORC-PEPGNW2DTY.86597c | NI-TI | HM_FORM | 298.15 | Ti2Ni | phase_label_not_mapped | label 'Ti2Ni' |
+| ORC-W2AEPF25IN | NI-TI | HM_FORM | 298.15 | NiTi(B2) | phase_label_not_mapped | label 'NiTi(B2)' |
 | ORC-YEW6RRQCYU.9b4e30 | NI-TI | HM_FORM | 298.15 | TiNi-B2 | phase_label_not_mapped | label 'TiNi-B2' |
 | ORC-AC5XP45GUD.931f48 | O-PB | SM | 298.15 | PbO-L | phase_label_not_mapped | label 'PbO-L' |
 | ORC-GHCN4AU6KY.0f4f25 | O-PB | GM_FORM | 298.15 | PbO-L | phase_label_not_mapped | label 'PbO-L' |
 | ORC-H6CAMZNZB6.9934b5 | O-PB | GM_FORM | 298.15 | Pb3O4-T | phase_label_not_mapped | label 'Pb3O4-T' |
 | ORC-OMX5IAEZKZ.9bd070 | O-PB | HM_FORM | 298.15 | Pb3O4-T | phase_label_not_mapped | label 'Pb3O4-T' |
-| ORC-RQM5UTYKXI.4dfee6 | O-PB | GM_FORM | 298.15 | PbO-L | phase_label_not_mapped | label 'PbO-L' |
 | ORC-SRQYCLOPWT.a90ea0 | O-PB | GM_FORM | 298.15 | Pb3O4-T | phase_label_not_mapped | label 'Pb3O4-T' |
 | ORC-RWSO6GJ6PB.31c653 | O-U | SM | 298.15 | UO2 | phase_label_not_mapped | label 'UO2' |
 | ORC-T4WJT4BQP5.64d6b9 | O-U | SM | 298.15 | UO2 | phase_label_not_mapped | label 'UO2' |
@@ -1594,15 +1571,22 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZLK2AFKPJQ.c4d86a | PD-SN | HM_FORM | 320.0 | PdSn4 | phase_label_not_mapped | label 'PdSn4' |
 | ORC-2Z6HTHMIDZ.1076b3 | PD-ZN | HM_FORM | 0.0 | γ phase | phase_label_not_mapped | label 'γ phase' |
 | ORC-I5ERKJ6ASU.0d9345 | PD-ZN | HM_FORM | 300.0 | γ phase | phase_label_not_mapped | label 'γ phase' |
+| ORC-LQVRUTMRZB.80a30c | PD-ZN | HM_FORM | 1273.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
+| ORC-QCJMEXFBBK.7200da | PD-ZN | HM_FORM | 0.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
+| ORC-XA7QNJ77Y6.469806 | PD-ZN | HM_FORM | 0.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
+| ORC-XVHMK36SNQ.1a8a1b | PD-ZN | HM_FORM | 1273.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
 | ORC-AZHIIJFVVN.0f8013 | PU-U | CPM | 773.0 | α | phase_label_not_mapped | label 'α' |
 | ORC-K3HZTEHG2L.f8e0f3 | PU-U | CPM | 673.0 | α | phase_label_not_mapped | label 'α' |
 | ORC-KSXPAH2RSB.4db829 | PU-U | CPM | 840.0 | α | phase_label_not_mapped | label 'α' |
+| ORC-3SL7ENTGNY.4a82b7 | RE | HM_FORM | 0.0 | sigma ReReReReRe | phase_label_not_mapped | label 'sigma ReReReReRe' |
 | ORC-YQE3JLSV6E | RE-SI | HM_FORM | 298.15 | ReSi1.8 | phase_label_not_mapped | label 'ReSi1.8' |
 | ORC-VURWOO5JZR.83958d | RE-TA | GM_FORM | 298.15 | TaRe1.85 (χ) | phase_label_not_mapped | label 'TaRe1.85 (χ)' |
 | ORC-VURWOO5JZR.841657 | RE-TA | GM_FORM | 298.15 | TaRe1.85 (χ) | phase_label_not_mapped | label 'TaRe1.85 (χ)' |
 | ORC-VURWOO5JZR.f2d89c | RE-TA | GM_FORM | 298.15 | TaRe3.6 (χ) | phase_label_not_mapped | label 'TaRe3.6 (χ)' |
 | ORC-37FC3SIAD7.bccaa4 | SB-ZN | HM_FORM | 806.15 | α-Zn9Sb7 | phase_label_not_mapped | label 'α-Zn9Sb7' |
 | ORC-37FC3SIAD7.ecb149 | SB-ZN | GM_FORM | 806.15 | α-Zn9Sb7 | phase_label_not_mapped | label 'α-Zn9Sb7' |
+| ORC-5XSEGZQBR3.c07b17 | SB-ZN | HM_FORM | 826.15 | β-Zn9Sb7 | phase_label_not_mapped | label 'β-Zn9Sb7' |
+| ORC-5XSEGZQBR3.c2c961 | SB-ZN | GM_FORM | 826.15 | β-Zn9Sb7 | phase_label_not_mapped | label 'β-Zn9Sb7' |
 | ORC-HTTS63YOJG.2f0354 | SB-ZN | GM_FORM | 800.15 | α-Zn9Sb7 | phase_label_not_mapped | label 'α-Zn9Sb7' |
 | ORC-HTTS63YOJG.aceeb6 | SB-ZN | HM_FORM | 800.15 | α-Zn9Sb7 | phase_label_not_mapped | label 'α-Zn9Sb7' |
 | ORC-AVCIAILA5H | SI-U | HM_FORM | 298.15 | USi | phase_label_not_mapped | label 'USi' |
@@ -1611,9 +1595,21 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-PN7BWE5QAM | SI-U | HM_FORM | 298.15 | USi2 | phase_label_not_mapped | label 'USi2' |
 | ORC-Q6OGIGUYRX | SI-U | HM_FORM | 298.15 | USi2 | phase_label_not_mapped | label 'USi2' |
 | ORC-ZBLVBWLP4M | SI-U | HM_FORM | 298.15 | USi2 | phase_label_not_mapped | label 'USi2' |
+| ORC-4GRDKBOGIM.4fa341 | SI-Y | HM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
+| ORC-6S6FJDBDPS.361c7d | SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
+| ORC-BXE4DG4MGE | SI-Y | HM_FORM | 0.0 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
+| ORC-DI7K5WNBQD.9f1700 | SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
+| ORC-DSMEXZLUVF.79fcd5 | SI-Y | HM_FORM | 298.15 | Y5Si3 | phase_label_not_mapped | label 'Y5Si3' |
+| ORC-K47LECRQ4P | SI-Y | HM_FORM | 0.0 | YSi2 (H) | phase_label_not_mapped | label 'YSi2 (H)' |
+| ORC-PXWJTJAKXJ | SI-Y | HM_FORM | 0.0 | YSi2 (R) | phase_label_not_mapped | label 'YSi2 (R)' |
+| ORC-URIPMRCZ3I.8cc05d | SI-Y | HM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
+| ORC-URIPMRCZ3I.d59230 | SI-Y | SM_FORM | 298.15 | YSi2 | phase_label_not_mapped | label 'YSi2' |
 | ORC-YTPULMUAG2.38164d | SN-TI | HM_FORM | 298.15 | SnTi2 | phase_label_not_mapped | label 'SnTi2' |
 | ORC-YTPULMUAG2.3a933d | SN-TI | HM_FORM | 298.15 | Sn3Ti5 | phase_label_not_mapped | label 'Sn3Ti5' |
 | ORC-YTPULMUAG2.da0b8e | SN-TI | HM_FORM | 298.15 | SnTi3 | phase_label_not_mapped | label 'SnTi3' |
+| ORC-VPO6TJUC6Z | TA | HM_FORM | 0.0 | Ta13 | phase_label_not_mapped | label 'Ta13' |
+| ORC-BLE5GGHL7A | TI | HM_FORM | 0.0 | Laves C14 | phase_label_not_mapped | label 'Laves C14' |
+| ORC-RGTIP2LC4R.8f3744 | ZR | HM_FORM | 0.0 | hcp-Zr | phase_label_not_mapped | label 'hcp-Zr' |
 | ORC-2ARHPO6ULI.9c5c44 | AG-PB | CPM | 680.646 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-2HZ4HO7VKQ.eca7c0 | AG-PB | CPM | 917.968 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-3DTAFVIJ57.14fb4f | AG-PB | CPM | 674.664 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
@@ -1810,11 +1806,9 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-OAM7DL5O44.a1313c | BI-K | GM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-OAM7DL5O44.db5826 | BI-K | SM_FORM | 523.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-RBLTNNPVR3.1458d7 | C-SI-Y | HM_FORM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-7SDDUNMFWD | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-BKJI2BHPNQ | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-KDA4DDUPS3 | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-QSJGIAPGCT | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
-| ORC-XFMFG5NJ7G | CR-NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CVGPP2EES2.280500 | CR-V | CPM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-CVGPP2EES2.902166 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-EPYUWME3S2.4b91f9 | CR-V | SM | 298.15 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
@@ -1879,6 +1873,8 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-YFEPYD4OTH.790ebb | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZGOVESY4GA.9f76f9 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 | ORC-ZOINEUQ6R5.fbd9e8 | LI-SB | HM_MIX | 979.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
+| ORC-7SDDUNMFWD | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
+| ORC-XFMFG5NJ7G | NB | HM_FORM | 0.0 | UNKNOWN | phase_not_printed | no phase label printed and the caption does not name the liquid |
 
 
 ## 7. Literature-level consistency gates (literature-gates 2026-10-24 (cleanup))
@@ -1887,18 +1883,33 @@ Every value was checked against its table, its paper, the physics of its quantit
 
 | | before | after |
 |---|---:|---:|
-| records | 77540 | 73538 |
-| extraction_accepted | 76600 | 72359 |
-| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13245 |
-| records with corrections | | 4094 |
-| records with gate failures | | 1993 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 1251 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 1292 |
+| records | 77540 | 73550 |
+| extraction_accepted | 76600 | 72291 |
+| espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13175 |
+| records with corrections | | 13902 |
+| records with gate failures | | 2779 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 1534 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 1575 |
 
 | gate | code | action | n |
 |---|---|---|---:|
+| A1 elements, chemical systems, compositions (audit round 2) | `c1_double_division_cell` | corrected | 19 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c1_double_division_table` | corrected | 410 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c1_genuinely_dilute_on_page` | kept | 10 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c2_axis_flipped_row` | corrected | 10 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c2_axis_flipped_table` | corrected | 60 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_phase_permutation` | corrected | 28 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c3_composition_read_from_page` | corrected | 65 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c4_system_of_the_state` | corrected | 7669 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c6_page_fix` | corrected | 6 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c6_stale_zero_dropped` | corrected | 52 |
+| A1 elements, chemical systems, compositions (audit round 2) | `c7_basis_resolved_on_page` | corrected | 15 |
+| A1 elements, chemical systems, compositions (audit round 2) | `composition_axis_suspect_row` | flagged | 2 |
+| A1 elements, chemical systems, compositions (audit round 2) | `composition_basis_unresolved` | flagged | 103 |
+| A1 elements, chemical systems, compositions (audit round 2) | `composition_outside_unit_interval` | demoted | 36 |
+| A1 elements, chemical systems, compositions (audit round 2) | `label_conflicts_composition` | flagged | 238 |
 | G1 temperatures | `liquid_below_physical_minimum` | demoted | 10 |
-| G1 temperatures | `liquid_below_physical_minimum` | flagged | 26 |
+| G1 temperatures | `liquid_below_physical_minimum` | flagged | 24 |
 | G1 temperatures | `liquid_temperature_corrected_from_page` | corrected | 2 |
 | G1 temperatures | `non_temperature_corrected_from_page` | corrected | 4 |
 | G1 temperatures | `sibling_row_celsius_corrected` | corrected | 5 |
@@ -1919,17 +1930,17 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G2 energies, entropies, heat capacities, activities | `table_unit_scale_applied` | corrected | 289 |
 | G2 energies, entropies, heat capacities, activities | `table_unit_scale_suspect` | demoted | 8 |
 | G2 energies, entropies, heat capacities, activities | `unit_not_printed` | corrected | 13 |
-| G2 energies, entropies, heat capacities, activities | `unit_not_read_value_out_of_range` | flagged | 29 |
+| G2 energies, entropies, heat capacities, activities | `unit_not_read_value_out_of_range` | flagged | 21 |
 | G2 energies, entropies, heat capacities, activities | `value_corrected_from_page` | corrected | 3 |
-| G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | demoted | 77 |
+| G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | demoted | 34 |
 | G2 energies, entropies, heat capacities, activities | `value_out_of_physical_range` | flagged | 1 |
-| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 98 |
+| G2 energies, entropies, heat capacities, activities | `value_outside_typical_range_as_printed` | flagged | 94 |
 | G3 signs | `formation_positive_check_sign` | flagged | 1 |
-| G3 signs | `positive_formation_confirmed_on_page` | checked | 62 |
-| G3 signs | `sign_corrected_from_page` | corrected | 12 |
+| G3 signs | `positive_formation_confirmed_on_page` | checked | 59 |
+| G3 signs | `sign_corrected_from_page` | corrected | 10 |
 | G3 signs | `sign_from_heading_applied` | corrected | 31 |
 | G3 signs | `sign_heading_not_applied` | flagged | 1 |
-| G3 signs | `unsigned_in_print_blocks_espei` | flagged | 44 |
+| G3 signs | `unsigned_in_print_blocks_espei` | flagged | 43 |
 | G4 system assignment | `magnitude_suspect_blocks_espei` | flagged | 17 |
 | G4 system assignment | `system_confirmed_label_typo` | flagged | 50 |
 | G4 system assignment | `system_mismatch` | demoted | 3 |
@@ -1941,7 +1952,7 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G5 property semantics | `liquid_property_at_room_temperature` | flagged | 20 |
 | G5 property semantics | `mix_to_form` | corrected | 286 |
 | G5 property semantics | `model_parameter_not_property` | demoted | 185 |
-| G5 property semantics | `printed_entropy_of_formation` | corrected | 29 |
+| G5 property semantics | `printed_entropy_of_formation` | corrected | 26 |
 | G5 property semantics | `printed_excess_entropy` | corrected | 1 |
 | G5 property semantics | `printed_magnetic_contribution` | corrected | 16 |
 | G5 property semantics | `unary_fusion_quantity` | corrected | 12 |
@@ -1957,9 +1968,9 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G6 invariant phase lists | `reaction_phase_count_inconsistent_as_printed` | flagged | 14 |
 | G6 invariant phase lists | `reaction_type_corrected_on_page` | corrected | 17 |
 | G6 invariant phase lists | `ternary_more_than_four_phases` | flagged | 89 |
-| G7 duplicates | `cosmetic_duplicate_merged` | merged | 3987 |
-| G7 duplicates | `phase_label_readings_disagree` | flagged | 541 |
-| G7 duplicates | `records_removed` | merged | 4002 |
+| G7 duplicates | `cosmetic_duplicate_merged` | merged | 3975 |
+| G7 duplicates | `phase_label_readings_disagree` | flagged | 509 |
+| G7 duplicates | `records_removed` | merged | 3990 |
 | G8 evidence class | `assessed_source_not_experimental` | corrected | 1 |
 | G8 evidence class | `evidence_change_rejected_on_check` | checked | 31 |
 | G8 evidence class | `from_evaluation_paper_flagged` | flagged | 734 |
@@ -1969,71 +1980,111 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G9 compositions | `composition_copied_across_rows` | flagged | 10 |
 | G9 compositions | `composition_from_formula` | corrected | 4 |
 | G9 compositions | `composition_label_mismatch` | flagged | 183 |
-| G9 compositions | `overall_composition_sum_not_one` | flagged | 49 |
-| G9 compositions | `phase_composition_sum_not_one` | flagged | 72 |
+| G9 compositions | `overall_composition_sum_not_one` | flagged | 40 |
+| G9 compositions | `phase_composition_sum_not_one` | flagged | 27 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `absolute_entropy_labelled_formation` | corrected | 130 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `column_property_read_from_page` | corrected | 51 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `experimental_value_from_0K_caption` | corrected | 210 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `expression_coefficient` | corrected | 623 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `first_principles_row_of_mixed_table` | corrected | 101 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `formation_entropy_out_of_range` | demoted | 24 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `formation_from_compounds` | corrected | 21 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `heat_content_row_temperature` | corrected | 901 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `heat_content_temperature_missing` | demoted | 35 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `non_crystalline_state` | flagged | 16 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `per_atom_unit_printed_mol_per_at` | corrected | 25 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `quantity_printed_at_298` | corrected | 47 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `reference_state_text_not_a_phase` | corrected | 43 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `sigma_rescaled_with_value` | corrected | 172 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `standard_enthalpy_at_calorimeter_temperature` | corrected | 14 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `table_basis_value` | corrected | 125 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `table_sign_value` | corrected | 4 |
+| R2 audit round 2 (2026-10-24): per-column basis and sign read on the page, printed sigma rescaled with its value, absolute entropies, heat-content and expression temperatures, 298-subscript and calorimeter temperatures, first-principles rows, formation from compounds, reference-state text (tools/literature_r2_thermo.py) | `temperature_printed_in_quantity_label` | corrected | 69 |
 | page page checks (visual) | `composition_misread_on_page` | flagged | 2 |
 | page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
+| page page checks (visual) | `energy_basis_not_printed_rows_inconsistent` | flagged | 11 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
 | page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
 | page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
-| page page checks (visual) | `page_fix_evidence_class` | corrected | 24 |
+| page page checks (visual) | `page_fix_evidence_class` | corrected | 35 |
 | page page checks (visual) | `page_fix_property` | corrected | 8 |
 | page page checks (visual) | `page_fix_quote_page` | corrected | 2 |
 | page page checks (visual) | `page_fix_reference_state` | corrected | 12 |
-| page page checks (visual) | `page_fix_temperature_K` | corrected | 28 |
+| page page checks (visual) | `page_fix_temperature_K` | corrected | 29 |
 | page page checks (visual) | `page_fix_temperature_basis` | corrected | 12 |
 | page page checks (visual) | `page_fix_uncertainty` | corrected | 13 |
 | page page checks (visual) | `page_fix_unit` | corrected | 113 |
-| page page checks (visual) | `page_fix_value` | corrected | 98 |
+| page page checks (visual) | `page_fix_value` | corrected | 107 |
 | page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
 | page page checks (visual) | `pressure_1_atm_withdrawn` | corrected | 5 |
 | page page checks (visual) | `pressure_not_1_atm_on_page` | flagged | 5 |
 | page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
+| page page checks (visual) | `row_basis_contradicts_column_header` | flagged | 15 |
 | page page checks (visual) | `same_measurement_listed_in_other_paper` | flagged | 6 |
+| page page checks (visual) | `source_marks_value_unreliable` | flagged | 1 |
 | page page checks (visual) | `stoichiometry_mismatch` | flagged | 7 |
 | page page checks (visual) | `temperature_not_printed` | flagged | 12 |
+| page page checks (visual) | `unit_inconsistent_with_figure_on_page` | flagged | 9 |
 | page page checks (visual) | `unsigned_magnitude_in_print` | flagged | 15 |
 
 Visual checks (rendered PDF pages inspected one by one: every table-level group, every system reassignment, and samples of at least 50 per demotion category where the category is larger; `verdict_reader` keeps the reader's verdict where a decision was curated):
 
 | kind | verdict | n |
 |---|---|---:|
-| composition_table | confirmed | 2 |
-| composition_table | rejected | 1 |
+| class_rule | rule_confirmed | 11 |
+| composition_row | as_printed | 2 |
+| composition_row | confirmed | 57 |
+| composition_row | corrected | 65 |
+| composition_row | rejected | 10 |
+| composition_table | confirmed | 27 |
+| composition_table | corrected | 1 |
+| composition_table | rejected | 2 |
+| dft_pairing | exact | 8 |
+| dft_pairing | formula_parse_corrected | 2 |
+| dft_pairing | no_structure_printed_offstoichiometric | 1 |
 | evidence | confirmed | 56 |
 | evidence | rejected | 31 |
 | evidence_table | experimental_cited | 25 |
 | evidence_table | experimental_own | 2 |
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
+| flag_precision_sample | false_positive | 5 |
+| flag_precision_sample | true_positive | 15 |
 | invariant_table | checked | 160 |
-| page_fix | corrected | 191 |
+| page_fix | corrected | 200 |
 | page_flag | confirmed | 93 |
 | per_formula | corrected | 1 |
 | record_T | as_stored | 28 |
 | record_T | corrected | 11 |
 | record_T | misread | 16 |
 | record_comp | as_stored | 50 |
-| record_flag | flagged | 5 |
+| record_composition | confirmed | 1 |
+| record_composition | corrected | 2 |
+| record_flag | flagged | 41 |
 | record_phases | as_stored | 5 |
 | record_phases | higher_order | 50 |
 | record_phases | misread | 34 |
+| record_system | confirmed | 5 |
+| record_system | corrected | 4 |
 | record_system | misread | 30 |
 | record_value | as_stored | 164 |
 | record_value | confirmed | 90 |
-| record_value | corrected | 15 |
+| record_value | corrected | 27 |
 | record_value | misread | 96 |
 | system | confirmed | 85 |
 | system | misread | 9 |
 | table_T_unit | as_stored | 3 |
 | table_T_unit | confirmed | 8 |
 | table_T_unit_sibling | confirmed | 2 |
+| table_basis | decided | 8 |
+| table_property | decided | 2 |
 | table_scale | as_stored | 1 |
 | table_scale | confirmed | 14 |
 | table_scale | rejected | 2 |
 | table_scale | unit_not_printed | 3 |
 | table_sign | confirmed | 1 |
+| table_sign | decided | 1 |
 | table_sign | rejected | 1 |
 | table_unit | confirmed | 1 |
 
@@ -2055,3 +2106,67 @@ Gate rules:
 * G11 plausibility. `flags.plausibility` carries dx (mole-fraction differences per phase) and the calculation; fails with |dT| < 5 K have `fail_reason` (composition; pure-element label compared on the other axis).
 * G12 pressure. 1 atm defaults (stated_default_1_atm, unstated_assumed) are relabelled `assumed_default_1_atm_not_printed` (`pressure_basis_stored` kept).
 
+
+## Model-phase mapping check (audit round 2, A2 class 1)
+
+`tools/phase_label_check.py` (phase-label-check 2026-10-24 (audit round 2, A2 class 1)). A model phase attached by the corpus mapping is removed when the printed label cannot name it; the printed label is unchanged, the removed model phase, its Pearson symbol / prototype and the reason are kept in `phases[].model_phase_rejected`, and the record gets a `corrections` entry (gate `PL`). Pearson symbols and prototypes that remain come from the mapped model phase, not from the page: `phases[].structure_basis = mapped_model_phase`.
+
+Rules: (a rejected mapping is removed; the model phase, its structure and the reason are kept in `model_phase_rejected`; the printed label is never changed): R1 element-structure model (FCC_A1, BCC_A2, HCP_A3, DIAMOND_A4 ... GRAPHITE_A9, DHCP, A1_FCC ...): kept only when the printed label names a terminal solution or pure element ("(Fe)", "(alphaTi)", "gamma-Fe", "(Cu,Ni)"), names the structure itself ("beta (bcc)", "A2", "fcc"), or is an interstitial compound M X_n (X = C, N, H, O, B) that the target model holds on an interstitial (X, VA) sublattice (SGTE convention, e.g. TiC -> FCC_A1, V2C -> HCP_A3). A bare Greek letter is kept only when it is the conventional name of a polymorph of one of the system's elements with that structure (no other Greek -> structure fallback; Hume-Rothery names such as beta brass are left unmapped) (alpha-Ti hcp, beta-Zr bcc, gamma-Fe fcc, delta-Pu fcc ...; POLYMORPH); a Greek-prefixed compound, a primed / numbered Greek label or any other compound is never mapped to an element structure; an element label whose Greek polymorph contradicts the model (beta-B -> BCC_A2) is rejected. R2 a structure word in the label that contradicts the model (label "bcc", model FCC_A1) rejects the mapping. R3 a label that names a liquid ("L(phi2)", "L + ...") is never mapped to a non-liquid model. R3b a Greek / compound label mapped to the same model as a terminal-solution label of the same row ("(deltaMn)" and "eps" both BCC_A2) is rejected: two printed phases of one equilibrium are not one model phase. R4 a printed mole-fraction composition of the phase must lie inside the model phase's calculated stability range in the system (data/phases stability rows, any assessment) +- 0.1; otherwise the mapping is rejected.
+
+| result | phase mentions |
+|---|---:|
+| kept | 75576 |
+| rejected | 3093 |
+| rejected:composition_outside_model_phase_range | 293 |
+| rejected:element_polymorph_contradicts_model | 412 |
+| rejected:greek_label_not_an_element_polymorph_of_this_structure | 1067 |
+| rejected:greek_or_compound_label_mapped_to_element_structure | 949 |
+| rejected:label_not_a_solution_or_structure_name | 209 |
+| rejected:liquid_label_mapped_to_non_liquid_model | 52 |
+| rejected:same_model_as_another_phase_of_the_row | 66 |
+| rejected:structure_word_contradicts_model | 45 |
+
+Most frequent rejected mappings:
+
+| system | label | model phase | reason | n |
+|---|---|---|---|---:|
+| AL-FE | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 128 |
+| C-U | φ1 | GRAPHITE_A9 | greek_or_compound_label_mapped_to_element_structure | 97 |
+| C-U | φ2 | GRAPHITE_A9 | greek_or_compound_label_mapped_to_element_structure | 97 |
+| CU-SI | κ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 41 |
+| GE-NI | βNi3Ge | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 38 |
+| MN-ZN | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 38 |
+| CU-SN | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 36 |
+| NI-SB | (βNi5Sb2) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 34 |
+| C-U | L(φ1) | GRAPHITE_A9 | liquid_label_mapped_to_non_liquid_model | 34 |
+| CU-SI | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 32 |
+| AU-CE | βCeAu | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 31 |
+| CU-FE | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 31 |
+| AG-IN | ζ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 30 |
+| AL-MO | AlMo | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 30 |
+| NI-ZN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 29 |
+| AL-TI | ε(h) | BCC_A2 | label_not_a_solution_or_structure_name | 28 |
+| AG-AL | ζ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
+| AL-SM | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
+| FE-TA | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
+| CO-SB | (βCoSb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 26 |
+| FE-TA | ε | BCC_A2 | same_model_as_another_phase_of_the_row | 26 |
+| SB-ZN | β-Zn3Sb2 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 26 |
+| SB-ZN | β-Zn9Sb7 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 23 |
+| AL-CU | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 22 |
+| AL-NB-TI | α2 | DIAMOND_A4 | greek_or_compound_label_mapped_to_element_structure | 22 |
+| AG-IN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 21 |
+| AL-NB | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 21 |
+| AG-AL | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
+| AL-MN | γ | A2_BCC | greek_label_not_an_element_polymorph_of_this_structure | 20 |
+| AL-NB-TI | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
+| CU-ZN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
+| SB-ZN | β-Zn13Sb10 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 20 |
+| CU-SI | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 19 |
+| AG-IN | α | FCC_A1 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
+| CO-GA | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
+| CU-IN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
+| FE-SB | β(FeSb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 18 |
+| AL-TA | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 17 |
+| AU-CE | βCe14Au51 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 17 |
+| AL-CU | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 16 |

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cd6Yb.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html)
+Systems: [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cd6Yb reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -20.973 kJ/mol-atom | YbCd6 |  | model | Calphad | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 9 |  |
+| -20.973 kJ/mol-atom | YbCd6 |  | model | Calphad | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 9 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cd6Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -20.973 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.973 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -39,22 +39,22 @@ Table: Uncertainty budget of the literature values of ZrO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -1100.92 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -1100.8 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1100.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -1094.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -366 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -1101 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.7 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.69 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.31 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1097.46 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -573 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1100.92 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -1100.8 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -1100.56 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -1094.1 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -366 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -1101 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.97 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.7 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.69 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.6 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1100.31 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -1097.46 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -573 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -1100.57 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## DFT formation energies
 

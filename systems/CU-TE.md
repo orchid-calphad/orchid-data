@@ -1,10 +1,10 @@
 # Cu–Te system
 
-> Cu–Te system: 194 accepted literature values (phase transition 86, invariant reaction 79, phase equilibrium 25, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Te system: 229 accepted literature values (phase transition 86, invariant reaction 79, crystal structure 35, phase equilibrium 25) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-TE.html · Markdown: https://data.orchid-project.org/systems/CU-TE.md
 
-194 accepted literature values from 3 paper(s) (experimental 142, model 45, unspecified 7); 3 calculated phase diagram(s).
+229 accepted literature values from 3 paper(s) (experimental 142, model 80, unspecified 7); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-TE.json) · [CSV](https://data.orchid-project.org/systems/CU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-TE/CuTe-21Hua.json) · [phases (22)](https://data.orchid-project.org/phases/pages/CU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-TE.html) · [Markdown](https://data.orchid-project.org/systems/CU-TE.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 142 |
-| model | 45 |
+| model | 80 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -24,6 +24,7 @@ Table: Accepted values by property group
 | phase transition | 86 |
 | phase equilibrium | 25 |
 | activity / EMF / Gibbs energy | 4 |
+| crystal structure | 35 |
 
 ## Calculated phase diagrams
 
@@ -174,7 +175,7 @@ Table: Invariant reactions reported in the literature for the Cu–Te system (79
 | 618 | ιCu2Te -> γCu2Te + αCu4Te3 | ιCu2Te: Te 0.357; γCu2Te: Te 0.333; αCu4Te3: Te 0.429 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 44 |  |
 | 617.15 | L ↔ H-CuTe + (Te) | L: Cu 0.291421, Te 0.708579; H-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Chikashige 1907_ [doi](https://doi.org/10.1002/zaac.19070540106) | Table 4, p. 11, row 25 |  |
 | 613.15 | H-CuTe ↔ L-CuTe | H-CuTe: Cu 0.5, Te 0.5; L-CuTe: Cu 0.5, Te 0.5 | experimental | [1] Huang 2021; _cites Koneshova 2001_ | Table 4, p. 11, row 30 |  |
-| 613.15 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Te 0.5; (Te): Te 0 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 27 |  |
+| 613.15 | L ↔ H-CuTe + (Te) | L: Te 0.71; H-CuTe: Te 0.5; (Te): Te 1 | model | [1] Huang 2021; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 11, row 27 |  |
 | 613 | L1 -> HEX + βCuTe | L1: Te 0.71; HEX: Te 1; βCuTe: Te 0.5 | experimental | [2] Yu 2022; _cites Pashinkin 2003_ [doi](https://doi.org/10.1023/a:1024003932461) | Table 4, p. 9, row 26 |  |
 | 613 | αCuTe -> βCuTe | αCuTe: Cu 0.5, Te 0.5; βCuTe: Cu 0.5, Te 0.5 | experimental | [2] Yu 2022; _cites Koneshova 2001_ | Table 4, p. 9, row 30 |  |
 | 593 | ηCu2Te -> γCu2Te +ιCu2Te | ηCu2Te: Te 0.345; γCu2Te: Te 0.333; ιCu2Te: Te 0.357 | model | [2] Yu 2022 | Table 4, p. 9, row 41 |  |
@@ -327,6 +328,48 @@ Table: Activity / EMF / Gibbs energy, Cu–Te system
 | Activity; _printed: a(Te)_ | 0.0012 unspecified | 1473.15 |  | experimental | [1] Huang 2021; _cites Azakami 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.111) | p. 11 | “It should be noticed that a relatively small activity, around 0.0012, at 1200 C and in the composition variation of the miscibility gap of liquid was reported in the work of Azakami and Yazawa \[36\], whereas a result of 0.0226 is finally obtained in this work.” |
 | EMF | 268.76 mV | 673.15 |  | model | [1] Huang 2021 | p. 11 | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
 | EMF | 189.41 mV | 673.15 |  | model | [1] Huang 2021 | p. 11 | “For example, the computed EMF at 400 C and at the composition Cu4Te3 is 189.41 mV using the present parameters while that by fitting Azakami and Yazawas's dataset \[36\] rises to 268.76 mV, which is much higher than the experimental results of 166e214 mV at 360e435 C.” |
+
+### Crystal structure (35)
+
+Table: Crystal structure, Cu–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.003 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
+| Lattice a | 7.319 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 3.98 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18 |  |
+| Lattice a | 3.16 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.227 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 6.032 Å | 298.15 | βCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 19 |  |
+| Lattice a | 8.37 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.246 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
+| Lattice a | 6.03 Å | 298.15 | εCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 9 |  |
+| Lattice a | 7.189 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 10.136 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
+| Lattice a | 8.453 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
+| Lattice a | 8.73 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
+| Lattice a | 8.373 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15 |  |
+| Lattice a | 8.328 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16 |  |
+| Lattice b | 3.979 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
+| Lattice b | 22.236 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 4.08 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
+| Lattice b | 7.403 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| Lattice b | 4.187 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
+| Lattice b | 10.306 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
+| Lattice b | 14.6 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
+| Lattice c | 6.11 Å | 298.15 | Cu0.63Te0.37; _alloy: Te 0.37_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 17 |  |
+| Lattice c | 36.458 Å | 298.15 | αCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 6.12 Å | 298.15 | αCu4Te3; _alloy: Te 0.428571_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 18 |  |
+| Lattice c | 6.93 Å | 298.15 | αCuTe; _alloy: Te 0.5_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 20 |  |
+| Lattice c | 7.29 Å | 298.15 | βCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 21.6 Å | 298.15 | γCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 7.289 Å | 298.15 | δCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
+| Lattice c | 7.207 Å | 298.15 | ηCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 11 |  |
+| Lattice c | 4.234 Å | 298.15 | θCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 12 |  |
+| Lattice c | 21.793 Å | 298.15 | ιCu2Te | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
+| Lattice c | 7.199 Å | 298.15 | κCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 14 |  |
+| Lattice c | 10.877 Å | 298.15 | λCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 15 |  |
+| Lattice c | 7.219 Å | 298.15 | μCu2Te; _alloy: Te 0.333333_ | model | [2] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 16 |  |
 
 ## Sources
 

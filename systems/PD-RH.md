@@ -1,10 +1,10 @@
 # Pd–Rh system
 
-> Pd–Rh system: 7 accepted literature values (phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Rh system: 17 accepted literature values (mixing / partial 10, phase transition 7) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-RH.html · Markdown: https://data.orchid-project.org/systems/PD-RH.md
 
-7 accepted literature values from 1 paper(s) (experimental 5, model 2); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+17 accepted literature values from 1 paper(s) (experimental 5, model 2, DFT 10); 3 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-RH.json) · [CSV](https://data.orchid-project.org/systems/PD-RH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-RH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-RH/PdRh-04Kor-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PD-RH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-RH.html) · [Markdown](https://data.orchid-project.org/systems/PD-RH.md)
 
@@ -14,12 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 5 |
 | model | 2 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 7 |
+| mixing / partial | 10 |
 
 ## Calculated phase diagrams
 
@@ -50,6 +52,23 @@ Table: Phase transition, Pd–Rh system
 | Phase transition | 1833.3 K | 1833.3 | other; _alloy: Pd 0.9456, Rh 0.0544_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 3 |  |
 | Phase transition | 1842.2 K | 1842.2 | other; _alloy: Pd 0.8961, Rh 0.1039_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 4 |  |
 | Phase transition | 1878.6 K | 1878.6 | other; _alloy: Pd 0.7583, Rh 0.2417_ | experimental | [1] Gossé 2016 | Table 4, p. 5, row 5 |  |
+
+### Mixing / partial (10)
+
+Table: Mixing / partial, Pd–Rh system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 6.44 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.7264 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.1741 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 4.955 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 1.9837 kJ/mol (basis unstated) | 0 | FCC; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 6.2174 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.5, Rh 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 3 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.9894 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.25, Rh 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 2 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 1.0935 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.94, Rh 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 5 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 4.8144 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.75, Rh 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 4 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 2.4254 kJ/mol (basis unstated) | 0 | HCP; _alloy: Pd 0.06, Rh 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 1 |  |
 
 ## Sources
 

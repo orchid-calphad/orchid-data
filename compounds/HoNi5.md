@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HoNi5.html · Markdown: https://
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); experimental median -32.695 kJ/mol-atom (n = 2); Materials Project -32.138 kJ/mol-atom (mp-aaaaacht); OQMD -32.728 kJ/mol-atom (oqmd-17464).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
+Systems: [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
@@ -16,7 +16,7 @@ Table: Enthalpy of formation of HoNi5 reported in the literature (5)
 |---:|---|---:|---|---|---|---|---|---|
 | -35.49 kJ/mol-atom ± 0.04 | HoNi5 | 1476 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900509-x) | Table 3, p. 4, row 29 |  |
 | -29.9 kJ/mol-atom ± 0.8 | HoNi5 | 1474 | experimental | DSC | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Pot 1993_ | Table 3, p. 4, row 28 |  |
-| -34.04 kJ/mol-atom | Ni5Ho | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5 |  |
+| -34.04 kJ/mol-atom | Ni5Ho | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 5 |  |
 | -34.04 kJ/mol-atom | HoNi5 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 30 |  |
 | -26 kJ/mol-atom | HoNi5 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 27 |  |
 
@@ -30,9 +30,9 @@ Table: Uncertainty budget of the literature values of HoNi5
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -35.49 | kJ/mol-atom | 0.04 | 0.005 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -29.9 | kJ/mol-atom | 0.8 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
-| -34.04 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -34.04 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -34.04 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -34.04 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Hf–N phases
 
-> Hf–N system: 8 phases (tier A 3, tier C 2, liquid 1, gas 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Hf–N system: 8 phases (tier A 2, tier C 2, liquid 1, gas 2, interstitial_fcc_a1_compound 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/HF-N.html · Markdown: https://data.orchid-project.org/phases/pages/HF-N.md
 
-8 phases (tier A 3, tier C 2, liquid 1, gas 2); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 2, tier C 2, liquid 1, gas 2, interstitial_fcc_a1_compound 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=HF-N) · [full JSON](https://data.orchid-project.org/phases/systems/HF-N.json) · [Hf–N system page](https://data.orchid-project.org/systems/HF-N.html) · [Markdown](https://data.orchid-project.org/phases/pages/HF-N.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the Hf–N system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-hf-n-bcc-a2); _phase:hf-n:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 2016.03–3999.75 K, x(N) 0–0 | 0 | 1 |
-| [FCC_A1](#phase-hf-n-fcc-a1); _phase:hf-n:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3650.81 K, x(N) 0.37756–0.52058 | 0 | 1 |
+| [FCC_A1](#phase-hf-n-fcc-a1); _phase:hf-n:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–3650.81 K, x(N) 0.37756–0.52058 | 0 | 1 |
 | [GAS](#phase-hf-n-gas); _phase:hf-n:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300.72–4000 K, x(N) 0.99285–1 | 0 | 1 |
 | [HCP_A3](#phase-hf-n-hcp-a3); _phase:hf-n:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3187.99 K, x(N) 0–0.31441 | 0 | 1 |
 | [HF3N2](#phase-hf-n-hf3n2); _phase:hf-n:hf3n2_ | TiS-9R · hR6 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2245.01 K, x(N) 0.4–0.4 | 0 | 1 |
@@ -50,7 +50,7 @@ _assessment that models this phase_
 ## FCC_A1 (Hf–N)
 
 - Id: `phase:hf-n:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3650.81 K, x(N) 0.37756–0.52058
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-n:fcc-a1)

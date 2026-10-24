@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Si5Zr6 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -96.2273 kJ/mol-atom ± 42.7 | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 26 |  |
+| -96.2273 kJ/mol-atom ± 3.88182 | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 26 |  |
 | -77.748 kJ/mol-atom | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 27 |  |
 | -77.33 kJ/mol-atom | Si5Zr6 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 25 |  |
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Si5Zr6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -96.2273 | kJ/mol-atom | 42.7 | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 42.7 |
-| -77.748 | kJ/mol-atom |  | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -77.33 | kJ/mol-atom |  | 4.545e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -96.2273 | kJ/mol-atom | 3.882 | 4.545e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.882 |
+| -77.748 | kJ/mol-atom |  | 4.545e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -77.33 | kJ/mol-atom |  | 4.545e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

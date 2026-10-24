@@ -144,42 +144,42 @@ Table: Enthalpies of formation, Nb–Sn system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Nb0.545Sn0.455 |  | -22 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
-| Nb0.545Sn0.455 |  | -17.983 kJ/mol (basis unstated) | 1173 | model |  |  | [1] Toffolon 2002 | Table 3, p. 3, row 4 |  |
-| Nb0.545Sn0.455 |  | -14.814 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002 | Table 3, p. 3, row 3 |  |
-| Nb0.545Sn0.455 |  | -2.653 kJ/mol (basis unstated) | 1173 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
+| Nb0.545Sn0.455 |  | -22 kJ/mol-atom | 298.15 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 3, p. 3, row 1 |  |
+| Nb0.545Sn0.455 |  | -17.983 kJ/mol-atom | 1173 | model |  |  | [1] Toffolon 2002 | Table 3, p. 3, row 4 |  |
+| Nb0.545Sn0.455 |  | -14.814 kJ/mol-atom | 298.15 | model |  |  | [1] Toffolon 2002 | Table 3, p. 3, row 3 |  |
+| Nb0.545Sn0.455 |  | -2.653 kJ/mol-atom | 1173 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 3, p. 3, row 2 |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 1 |  |
 | Nb3Sn |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 1, p. 1, row 1 |  |
-| Nb3Sn |  | -18.307 kJ/mol (basis unstated) | 860 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
-| Nb3Sn |  | -18.241 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
-| Nb3Sn |  | -17.876 kJ/mol (basis unstated) | 1473 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
-| Nb3Sn |  | -17.095 kJ/mol (basis unstated) | 1623 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -18.307 kJ/mol-atom | 860 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -18.241 kJ/mol-atom | 1273 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -17.876 kJ/mol-atom | 1473 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -17.095 kJ/mol-atom | 1623 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
 | Nb3Sn |  | -16.7 unspecified ± 1.8 | 1623.15 | experimental |  |  | [1] Toffolon 2002 | p. 3 | “Five experiments were carried out, and the average value of the enthalpy of formation of Nb3Sn at 1350 °C was equal to -16.7 ± 1.8 kJ/mol.” |
 | Nb3Sn |  | -16.7 kJ/mol (basis unstated) ± 1.8 | 1623 | experimental |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 6 |  |
 | Nb3Sn |  | -16.57 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 3 |  |
 | Nb3Sn |  | -16.57 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 2 |  |
-| Nb3Sn |  | -16.564 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
-| Nb3Sn |  | -16.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -16.564 kJ/mol-atom | 298.15 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -16.4 kJ/mol-atom | 298.15 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
 | Nb3Sn |  | -16.4 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Toffolon 1998; _cites ref. 80Mie_ | Table 1, p. 1, row 4 |  |
 | Nb3Sn |  | -16.19 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 4 |  |
 | Nb3Sn |  | -16.19 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 3 |  |
 | Nb3Sn |  | -16 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 1, p. 1, row 5 |  |
-| Nb3Sn |  | -16 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | -16 kJ/mol-atom | 298.15 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
 | Nb3Sn |  | -15.2 kJ/mol (basis unstated) ± 2.3 | 1473 | experimental |  |  | [1] Toffolon 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 1, p. 1, row 5 |  |
 | Nb3Sn |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
-| Nb3Sn |  | 2.768 kJ/mol (basis unstated) | 1273 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
+| Nb3Sn | [Nb3Sn](https://data.orchid-project.org/compounds/Nb3Sn.html) | 2.768 kJ/mol-atom | 1273 | model | -15.81 (mp-aaaaabza) | -18.84 (oqmd-17754) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 | Nb6Sn5 |  | -22 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 2, p. 1, row 1 |  |
 | Nb6Sn5 |  | -2.653 kJ/mol (basis unstated) | 1173 | model |  |  | [2] Toffolon 1998 | Table 2, p. 1, row 2 |  |
-| NbSn2 |  | -20.143 kJ/mol (basis unstated) | 860 | model |  |  | [1] Toffolon 2002 | Table 4, p. 3, row 6 |  |
+| NbSn2 | [NbSn2](https://data.orchid-project.org/compounds/NbSn2.html) | -20.143 kJ/mol-atom | 860 | model | -13.422 (mp-aaaaabog) | -19.065 (oqmd-17753) | [1] Toffolon 2002 | Table 4, p. 3, row 6 |  |
 | NbSn2 |  | -18.21 kJ/mol (basis unstated) ± 0.81 | 860 | experimental |  |  | [2] Toffolon 1998; _cites ref. 75Mal_ | Table 3, p. 2, row 1 |  |
 | NbSn2 |  | -18.21 kJ/mol (basis unstated) ± 0.81 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 4, p. 3, row 1 |  |
 | NbSn2 |  | -17.585 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Toffolon 1998 | Table 3, p. 2, row 4 |  |
-| NbSn2 |  | -17.585 kJ/mol (basis unstated) | 860 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
+| NbSn2 | [NbSn2](https://data.orchid-project.org/compounds/NbSn2.html) | -17.585 kJ/mol-atom | 860 | model | -13.422 (mp-aaaaabog) | -19.065 (oqmd-17753) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 3 |  |
 | NbSn2 |  | -17.585 kJ/mol (basis unstated) | 860 | model |  |  | [2] Toffolon 1998 | Table 3, p. 2, row 3 |  |
-| NbSn2 |  | -17.585 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
-| NbSn2 |  | -16 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
+| NbSn2 | [NbSn2](https://data.orchid-project.org/compounds/NbSn2.html) | -17.585 kJ/mol-atom | 298.15 | model | -13.422 (mp-aaaaabog) | -19.065 (oqmd-17753) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 4, p. 3, row 4 |  |
+| NbSn2 | [NbSn2](https://data.orchid-project.org/compounds/NbSn2.html) | -16 kJ/mol-atom | 298.15 | model | -13.422 (mp-aaaaabog) | -19.065 (oqmd-17753) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 4, p. 3, row 2 |  |
 | NbSn2 |  | -16 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 3, p. 2, row 2 |  |
-| NbSn2 |  | -15.495 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Toffolon 2002 | Table 4, p. 3, row 5 |  |
+| NbSn2 | [NbSn2](https://data.orchid-project.org/compounds/NbSn2.html) | -15.495 kJ/mol-atom | 298.15 | model | -13.422 (mp-aaaaabog) | -19.065 (oqmd-17753) | [1] Toffolon 2002 | Table 4, p. 3, row 5 |  |
 | UNKNOWN |  | -32.06 kJ/mol (basis unstated) ± 1.97 | 860 | experimental |  |  | [1] Toffolon 2002; _cites Malets 1975_ | Table 1, p. 1, row 2 |  |
 
 ## Other properties

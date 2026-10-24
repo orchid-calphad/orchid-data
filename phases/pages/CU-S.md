@@ -31,6 +31,7 @@ Table: Phases of the Cu–S system (14)
 
 - Id: `phase:cu-s:a16-orthorhombic`; status `assigned`
 - Structure: alpha-S · A16 · oF128 · Fddd (70); type `st:a16-alpha-s-of128`; tier A: standard phase name; confidence high
+- Stoichiometry: S 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2499.34 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-s:a16-orthorhombic)
@@ -568,6 +569,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — CuS-07Lee.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — CuS-92Sun-LB.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — CuS-92Sun-newS.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: stable in 1 of 3 calculated diagram(s): 368.33–2499.6 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-s:s-monoclinic)

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au3Ho.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -67.1 kJ/mol-atom (n = 1); Materials Project -69.705 kJ/mol-atom (mp-aaaabsys); OQMD -69.899 kJ/mol-atom (oqmd-10739).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Au3Ho reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -67.1 kJ/mol-atom ± 2.1 | Au3Ho | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 22 |  |
-| -68.1 kJ/mol-atom | Au3Ho | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 23 |  |
-| -70.8 kJ/mol-atom | Au3Ho | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 21 |  |
+| -67.1 kJ/mol-atom ± 2.1 | Au3Ho | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 22 |  |
+| -68.1 kJ/mol-atom | Au3Ho | 298.15 | model | CALPHAD assessment | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 23 |  |
+| -70.8 kJ/mol-atom | Au3Ho | 0 | DFT | ab initio | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 21 |  |
 
 ### Uncertainty budget
 
@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Au3Ho
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -67.1 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -68.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -70.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -68.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -70.8 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of Au3Ho
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabsys | -69.705 | -0.722445 | Pmmn | 0 | 0 | no |
-| OQMD | oqmd-10739 | -69.899 | -0.724454 | Pmmn | 0.294 | 0.003 | no |
+| OQMD | oqmd-10739 | -69.899 | -0.724454 | Pmmn | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Ca–In system
 
-> Ca–In system: 17 accepted literature values (invariant reaction 14, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–In system: 39 accepted literature values (crystal structure 18, invariant reaction 12, formation 6, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-IN.html · Markdown: https://data.orchid-project.org/systems/CA-IN.md
 
-17 accepted literature values from 2 paper(s) (experimental 10, model 7); 2 calculated phase diagram(s).
+39 accepted literature values from 2 paper(s) (experimental 12, model 18, DFT 3, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN.json) · [CSV](https://data.orchid-project.org/systems/CA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-IN/CaIn-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CA-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-IN.html) · [Markdown](https://data.orchid-project.org/systems/CA-IN.md)
 
@@ -12,15 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 7 |
+| experimental | 12 |
+| model | 18 |
+| DFT | 3 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 12 |
 | phase transition | 3 |
+| formation | 6 |
+| crystal structure | 18 |
 
 ## Calculated phase diagrams
 
@@ -63,7 +67,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–In system (14)
+Table: Invariant reactions reported in the literature for the Ca–In system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -77,10 +81,23 @@ Table: Invariant reactions reported in the literature for the Ca–In system (14
 | 1038 | liq -> Ca3In | L: In 0.25; Ca3In: In 0.25 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 2 |  |
 | 938.4 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | model | [1] Wang 2013 | Table 4, p. 5, row 3 |  |
 | 933 | liq -> Ca3In + CaIn | L: In 0.25; Ca3In: In 0.25; CaIn: Ca 0.5, In 0.5 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 4 |  |
-| 430.3 | L + (In) | L: In 1; (In): In 1 | model | [1] Wang 2013 | Table 4, p. 5, row 13 |  |
-| 429.643 | L + (In) | L: In 1; (In): In 1 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 14 |  |
 | 429 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | experimental | [1] Wang 2013; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 4, p. 5, row 12 |  |
 | 428.3 | liq -> CaIn2 + (In) | L: In 0.667; CaIn2: In 0.667 | model | [1] Wang 2013 | Table 4, p. 5, row 11 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ca–In system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ca8In3 |  | -32.87 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 1 |  |
+| Ca8In3 | [Ca8In3](https://data.orchid-project.org/compounds/Ca8In3.html) | -32.28 kJ/mol-atom | 298.15 | model | -31.681 (mp-aaacpuqk) | -33.711 (oqmd-10994) | [2] Qin 2015 | Table 3, p. 3, row 2 |  |
+| CaIn | [CaIn](https://data.orchid-project.org/compounds/CaIn.html) | -47.42 kJ/mol-atom | 298.15 | model | -45.305 (mp-aaaabdzj) | -47.119 (oqmd-2168902) | [2] Qin 2015 | Table 3, p. 3, row 4 |  |
+| CaIn |  | -46.76 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 3 |  |
+| CaIn2 | [CaIn2](https://data.orchid-project.org/compounds/CaIn2.html) | -43.41 kJ/mol-atom | 298.15 | model | -40.983 (mp-aaaabfei) | -43.57 (oqmd-10870) | [2] Qin 2015 | Table 3, p. 3, row 6 |  |
+| CaIn2 |  | -43.4 kJ/mol-atom | 0 | DFT |  |  | [2] Qin 2015 | Table 3, p. 3, row 5 |  |
 
 ## Other properties
 
@@ -93,6 +110,31 @@ Table: Phase transition, Ca–In system
 | Phase transition | 1038.15 K | 1038.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
 | Phase transition | 1108.15 K | 1108.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
 | Phase transition | 1168.15 K | 1168.15 | congruent transformation | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | p. 1 | “The congruent melting temperatures for Ca3In, CaIn and CaIn2 were reported to be 765, 895, and 835 °C, respectively.” |
+
+### Crystal structure (18)
+
+Table: Crystal structure, Ca–In system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 95.72 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice a | 38.66 Å |  | CaIn; _alloy: In 0.5_ | model | [2] Qin 2015 | Table 1, p. 2, row 9 |  |
+| Lattice a | 54.96 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11 |  |
+| Lattice a | 96.06 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice a | 38.56 Å | 298.15 | CaIn; _alloy: In 0.5_ | experimental | [2] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8 |  |
+| Lattice a | 48.95 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
+| Lattice b | 97.08 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice b | 97.17 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice c | 97.83 Å |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| Lattice c | 77.2 Å |  | CaIn2; _alloy: In 0.666667_ | model | [2] Qin 2015 | Table 1, p. 2, row 11 |  |
+| Lattice c | 97.82 Å | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| Lattice c | 77.5 Å | 298.15 | CaIn2; _alloy: In 0.666667_ | experimental | [2] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
+| lattice alpha | 69.72 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| lattice alpha | 69.65 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| lattice beta | 78.93 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| lattice beta | 78.85 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
+| lattice gamma | 60.27 deg |  | Ca8In3; _alloy: In 0.272727_ | model | [2] Qin 2015 | Table 1, p. 2, row 7 |  |
+| lattice gamma | 60.34 deg | 298.15 | Ca8In3; _alloy: In 0.272727_ | unspecified | [2] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

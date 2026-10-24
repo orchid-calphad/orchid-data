@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ni3Ta.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (DFT 3).
 
-Systems: [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html)
+Systems: [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ni3Ta reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.29 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
-| -34.81 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
-| -29.29 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
+| -35.29 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
+| -34.81 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
+| -29.29 kJ/mol-atom | Ni3Ta |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ni3Ta
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.29 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -34.81 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -29.29 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -35.29 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -34.81 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -29.29 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

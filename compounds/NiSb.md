@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of NiSb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -33.472 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -32.543 | kJ/mol (basis unstated) | 0.494 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -32.659 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.171 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.472 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -32.543 | kJ/mol (basis unstated) | 0.494 | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -32.659 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -32.171 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources
 

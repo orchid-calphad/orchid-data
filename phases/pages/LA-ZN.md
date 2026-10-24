@@ -1,21 +1,20 @@
 # La–Zn phases
 
-> La–Zn system: 16 phases (tier A 9, tier B 3, tier C 2, liquid 1, needs_review 1); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–Zn system: 15 phases (tier A 8, tier B 3, tier C 2, liquid 1, needs_review 1); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/LA-ZN.md
 
-16 phases (tier A 9, tier B 3, tier C 2, liquid 1, needs_review 1); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 8, tier B 3, tier C 2, liquid 1, needs_review 1); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/LA-ZN.json) · [La–Zn system page](https://data.orchid-project.org/systems/LA-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–Zn system (16)
+Table: Phases of the La–Zn system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-la-zn-bcc-a2); _phase:la-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 1074.26–1194.26 K, x(Zn) 0–0.02112 | 0 | 3 |
+| [BCC_A2](#phase-la-zn-bcc-a2); _phase:la-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1074.26–1194.26 K, x(Zn) 0–0.02112 | 0 | 3 |
 | [B2_BCC](#phase-la-zn-bcc-b2); _phase:la-zn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1198.92 K, x(Zn) 0–0.5 | 6 | 1 |
-| [DHCP](#phase-la-zn-dhcp); _phase:la-zn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-la-zn-dhcp-a3); _phase:la-zn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–749.99 K, x(Zn) 0–0 | 5 | 2 |
+| [DHCP](#phase-la-zn-dhcp-a3); _phase:la-zn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–749.99 K, x(Zn) 0–0 | 0 | 2 |
 | [FCC_A1](#phase-la-zn-fcc-a1); _phase:la-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 519.19–1174.33 K, x(Zn) 0–0.02718 | 2 | 2 |
 | [HCP_A3](#phase-la-zn-hcp-a3); _phase:la-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2498.93 K, x(Zn) 1–1 | 2 | 2 |
 | [LA2ZN17](#phase-la-zn-la2zn17); _phase:la-zn:la2zn17_ | Th2Zn17 · hR19 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1245.8 K, x(Zn) 0.89474–0.89474 | 11 | 2 |
@@ -33,7 +32,7 @@ Table: Phases of the La–Zn system (16)
 
 - Id: `phase:la-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 1074.26–1194.26 K, x(Zn) 0–0.02112
+- Stability: stable in 2 of 2 calculated diagram(s): 1074.26–1194.26 K, x(Zn) 0–0.02112
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-zn:bcc-a2)
 
@@ -102,25 +101,13 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (La–Zn)
 
-- Id: `phase:la-zn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-zn:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-zn:dhcp  
-
-
-## DHCP (La–Zn)
-
 - Id: `phase:la-zn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–749.99 K, x(Zn) 0–0
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-zn:dhcp-a3)
 
-Names (5): _corpus: _corpus:phase:la-zn:dhcp-a3  
-_paper: _paper:10.1016/j.calphad.2011.11.004:bcc-La, paper:10.1016/j.calphad.2011.11.004:fcc-La  
+Names (4): _corpus: _corpus:phase:la-zn:dhcp-a3, corpus:phase:la-zn:dhcp  
 _tdb: _tdb:LaZn-10Qi.tdb:DHCP, tdb:LaZn-12Ber.tdb:DHCP  
 
 
@@ -140,14 +127,12 @@ _tdb: _tdb:LaZn-10Qi.tdb:DHCP, tdb:LaZn-12Ber.tdb:DHCP
 52: CONST DHCP : LA% ZN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.11.004](https://doi.org/10.1016/j.calphad.2011.11.004) Alexandre Berche, Pierre Benigni, Jacques Rogez, Marie-Christine Record, Thermodynamic assessment of the La–Zn system, Calphad 36, 65-70 (2012).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2010.03.062](https://doi.org/10.1016/j.jallcom.2010.03.062) H.Y. Qi, G.X. Huang, R.D. Liu, K. Zhang, L.B. Liu, Z.P. Jin, Thermodynamic optimization of La–Zn and La–Mg–Zn systems, Journal of Alloys and Compounds 497, 336-343 (2010).  
 _assessment that models this phase_
-- [doi:10.1016/j.tca.2011.05.001](https://doi.org/10.1016/j.tca.2011.05.001) A. Berche, P. Benigni, J. Rogez, M.C. Record, New experimental investigation of the lanthanum zinc phase diagram, Thermochimica Acta 523, 70-78 (2011).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (La–Zn)
 

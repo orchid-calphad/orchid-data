@@ -13,10 +13,10 @@ Table: Phases of the B–Ni system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BETA_RHOMBO_B](#phase-b-ni-b-beta-rhombo); _phase:b-ni:b-beta-rhombo_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(B) 1–1 | 0 | 6 |
-| [BCC_A2](#phase-b-ni-bcc-a2); _phase:b-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 5 | 6 |
+| [BCC_A2](#phase-b-ni-bcc-a2); _phase:b-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [FCC_A1](#phase-b-ni-fcc-a1); _phase:b-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.86 K, x(B) 0–0.00409 | 3 | 6 |
 | [HCP_A3](#phase-b-ni-hcp-a3); _phase:b-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [LIQUID](#phase-b-ni-liquid); _phase:b-ni:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1281.25–4000 K, x(B) 0–1 | 35 | 6 |
+| [LIQUID](#phase-b-ni-liquid); _phase:b-ni:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1281.25–4000 K, x(B) 0–1 | 33 | 6 |
 | [NI2B_C16](#phase-b-ni-ni2b-c16); _phase:b-ni:ni2b-c16_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–1397.24 K, x(B) 0.333–0.33333 | 9 | 6 |
 | [NI3B_D011](#phase-b-ni-ni3b-d011); _phase:b-ni:ni3b-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1438.25 K, x(B) 0.25–0.25 | 9 | 6 |
 | [NI4B3](#phase-b-ni-ni4b3); _phase:b-ni:ni4b3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1281.99 K, x(B) 0.42857–0.42857 | 0 | 1 |
@@ -35,6 +35,7 @@ Table: Phases of the B–Ni system (11)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-10Kau.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-91Pan-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-99Cam.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ni:b-beta-rhombo)
@@ -105,11 +106,10 @@ _assessment that models this phase_
 - Id: `phase:b-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 6 calculated diagram(s)
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ni:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:b-ni:bcc-a2  
-_paper: _paper:10.1361/105497199770340743:β  
+Names (7): _corpus: _corpus:phase:b-ni:bcc-a2  
 _tdb: _tdb:NiB-01Tok.tdb:BCC_A2, tdb:NiB-03Tok.tdb:BCC_A2, tdb:NiB-09Sun.tdb:BCC_A2, tdb:NiB-10Kau.tdb:BCC_A2, tdb:NiB-91Pan-LB.tdb:BCC_A2, tdb:NiB-99Cam.tdb:BCC_A2  
 
 
@@ -157,22 +157,18 @@ _tdb: _tdb:NiB-01Tok.tdb:BCC_A2, tdb:NiB-03Tok.tdb:BCC_A2, tdb:NiB-09Sun.tdb:BCC
 44: CONST BCC_A2 : NI : B VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) This is actually the assessment from 91Pan, but with B modelled as substitutional in fcc.  
 _assessment that models this phase_
 - [doi:10.1361/105497101770338798](https://doi.org/10.1361/105497101770338798) T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).  
+_assessment that models this phase_
+- [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase_
 - [doi:10.2320/matertrans.44.1651](https://doi.org/10.2320/matertrans.44.1651) Tatsuya Tokunaga, Kazumasa Nishio, Hiroshi Ohtani, Mitsuhiro Hasebe, Phase Equilibria in the Ni-Si-B System, Mater. Trans. 44, 1651-1654 (2003).  
 _assessment that models this phase_
 - [doi:10.3139/146.101786](https://doi.org/10.3139/146.101786) W.-H. Sun, Y. Du, Y. Kong, H.-H. Xu, W. Xiong, S.-H. Liu, Int. J. Mater. Res., 100, 59-67(2009).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.1179/mst.1993.9.3.205](https://doi.org/10.1179/mst.1993.9.3.205) O. Teppo and P. Taskinen, Thermodynamic assessment of NiB Phase Diagram, Mater. Sci. Technol., Vol 9, 1993, p 205-212  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (B–Ni)
 
@@ -320,7 +316,7 @@ _assessment that models this phase_
 - Id: `phase:b-ni:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1281.25–4000 K, x(B) 0–1
-- Literature: 35 values (35 accepted) from 2 papers
+- Literature: 33 values (33 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ni:liquid)
 
 Names (9): _corpus: _corpus:phase:b-ni:liquid  
@@ -372,7 +368,7 @@ _tdb: _tdb:NiB-01Tok.tdb:LIQUID, tdb:NiB-03Tok.tdb:LIQUID, tdb:NiB-09Sun.tdb:LIQ
 34: CONST LIQUID:L : B NI : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -388,8 +384,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _reports values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 
 ## NI2B_C16 (B–Ni)
 

@@ -1,10 +1,10 @@
 # Co–Ga system
 
-> Co–Ga system: 50 accepted literature values (invariant reaction 27, formation 9, crystal structure 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Ga system: 55 accepted literature values (invariant reaction 27, formation 14, crystal structure 9, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-GA.html · Markdown: https://data.orchid-project.org/systems/CO-GA.md
 
-50 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 12); 3 calculated phase diagram(s).
+55 accepted literature values from 3 paper(s) (experimental 31, model 14, DFT 10); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-GA.json) · [CSV](https://data.orchid-project.org/systems/CO-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-GA/CoGa-05Su.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CO-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-GA.html) · [Markdown](https://data.orchid-project.org/systems/CO-GA.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 13 |
-| DFT | 12 |
+| experimental | 31 |
+| model | 14 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 27 |
 | phase transition | 5 |
-| formation | 9 |
+| formation | 14 |
 | crystal structure | 9 |
 
 ## Calculated phase diagrams
@@ -91,19 +91,24 @@ Table: Invariant reactions reported in the literature for the Co–Ga system (27
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Ga system (9)
+Table: Enthalpies of formation, Co–Ga system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -41 kJ/mol-atom | 298.15 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20 |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -38 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24 |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -36 kJ/mol-atom | 1173 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23 |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -35.5 kJ/mol-atom | 298.15 | model | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999 | Table 1, p. 2, row 21 |  |
+| CoGa | [CoGa](https://data.orchid-project.org/compounds/CoGa.html) | -32 kJ/mol-atom | 1100 | experimental | -27.209 (mp-aaaaabrd) | -27.73 (oqmd-88346) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22 |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -45 kJ/mol-atom | 298.15 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 25 |  |
 | CoGa3 |  | -32.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 8 |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999 | Table 1, p. 2, row 26 |  |
+| CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -29 kJ/mol-atom | 1100 | experimental | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [3] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 27 |  |
 | CoGa3 | [CoGa3](https://data.orchid-project.org/compounds/CoGa3.html) | -28.666 kJ/mol-atom | 298.15 | model | -25.895 (mp-aaaabekt) | -25.771 (oqmd-29254) | [1] Chari 2010 | Table 2, p. 4, row 9 |  |
 | CoGa3 |  | -25.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 7 |  |
 | β (Ga:Co) |  | -39.4 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 2 |  |
 | β (Ga:Co) |  | -37.833 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 3 |  |
 | β (Ga:Co) |  | -26.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 1 |  |
-| β (Ga:Va) |  | 7.25 kJ/mol-atom | 298.15 | model |  |  | [1] Chari 2010 | Table 2, p. 4, row 6 |  |
-| β (Ga:Va) |  | 7.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 4 |  |
-| β (Ga:Va) |  | 8.6 kJ/mol-atom | 298.15 | DFT |  |  | [1] Chari 2010 | Table 2, p. 4, row 5 |  |
 
 ## Other properties
 
@@ -141,6 +146,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Arpita Chari, Andres Garay, Raymundo Arróyave, Thermodynamic remodeling of the Co–Ga system, Calphad 34, 189-195 (2010). [doi:10.1016/j.calphad.2010.02.004](https://doi.org/10.1016/j.calphad.2010.02.004)
 2. Xuping Su, Jean-Claude Tedenac, Thermodynamic modeling of the cobalt–gallium system, Intermetallics 13, 467-473 (2005). [doi:10.1016/j.intermet.2004.08.003](https://doi.org/10.1016/j.intermet.2004.08.003)
+3. J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999). [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608)
 
 ## Please cite
 

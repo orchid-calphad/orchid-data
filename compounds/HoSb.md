@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HoSb.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1).
 
-Systems: [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html)
+Systems: [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of HoSb reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -126.5 kJ/mol (basis unstated) | HoSb | 0 | experimental |  | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 12 |  |
-| -64 kJ/mol (basis unstated) | HoSb | 0 | experimental |  | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Pratt 1970_ | Table 3, p. 3, row 13 |  |
-| -91 kJ/mol (basis unstated) | HoSb | 0 | model | Miedema model | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 14 |  |
-| -108.284 kJ/mol (basis unstated) | HoSb | 0 | DFT | first-principles | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
+| -126.5 kJ/mol (basis unstated) | HoSb | 298.15 | experimental |  | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 12 |  |
+| -64 kJ/mol (basis unstated) | HoSb | 298.15 | experimental |  | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013; _cites Pratt 1970_ | Table 3, p. 3, row 13 |  |
+| -91 kJ/mol (basis unstated) | HoSb | 0 | model | Miedema model | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 14 |  |
+| -108.284 kJ/mol (basis unstated) | HoSb | 0 | DFT | first-principles | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of HoSb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -126.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -64 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -91 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -108.284 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -126.5 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -64 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -91 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -108.284 | kJ/mol (basis unstated) |  | 5.000e-4 | 20.38 (dft, calibrated) |  |  |  | 20.38 |
 
 ## Sources
 

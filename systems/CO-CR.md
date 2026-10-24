@@ -1,10 +1,10 @@
 # Co–Cr system
 
-> Co–Cr system: 15 accepted literature values (phase equilibrium 7, formation 6, activity / EMF / Gibbs energy 2) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cr system: 48 accepted literature values (formation 21, mixing / partial 15, phase equilibrium 7, crystal structure 3) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CR.html · Markdown: https://data.orchid-project.org/systems/CO-CR.md
 
-15 accepted literature values from 4 paper(s) (experimental 9, model 6); 10 calculated phase diagram(s).
+48 accepted literature values from 5 paper(s) (experimental 10, model 15, DFT 23); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR.json) · [CSV](https://data.orchid-project.org/systems/CO-CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CR/CoCr-01Oik.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-CR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CR.html) · [Markdown](https://data.orchid-project.org/systems/CO-CR.md)
 
@@ -12,16 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 6 |
+| experimental | 10 |
+| model | 15 |
+| DFT | 23 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 7 |
-| formation | 6 |
+| formation | 21 |
+| mixing / partial | 15 |
 | activity / EMF / Gibbs energy | 2 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -125,7 +128,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–Cr system (6)
+Table: Enthalpies of formation, Co–Cr system (15)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -134,6 +137,15 @@ Table: Enthalpies of formation, Co–Cr system (6)
 | — |  | 6.77 kJ/mol-atom | 473 | experimental |  |  | [2] Liu 2015; _cites ref. 67_ | p. 9 | “However, Downie and Arslan \[67\] measured the formation enthalpy of one σCoCr sample close to the composition of the end-member σ-(Co)8(Cr)18(Cr)4 at 473 K and found ΔfH = 6.77 kJ/mol-atom.” |
 | — |  | 9.62 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2016 | p. 19 | “Present DFT calculations indicate that the enthalpies of formation of the end-members σ-(Co)8(Co)18(Cr)4 and σ-(Co)8(Cr)18(Cr)4 are 9.62 and 6.29 kJ/mol-atom at 298 K, respectively.” |
 | — |  | 9.83 kJ/mol-atom | 298.15 | model |  |  | [1] Liu 2016; _cites ref. 51_ | p. 19 | “The modeling by Kusoffsky et al. \[51\] resulted in end-member enthalpies of 9.83 and 0.003 kJ/mol-atom at 298 K for σ-(Co)8(Co)18(Cr)4 and σ-(Co)8(Cr)18(Cr)4, which are both positive and in agreement with findings by Downie et al. \[14\].” |
+| B2 | [CoCr](https://data.orchid-project.org/compounds/CoCr.html) | 16.597 kJ/mol-atom | 298.15 | model | 14.816 (mp-aaacfmex) | 15.834 (oqmd-304700) | [1] Liu 2016 | Table 4, p. 38, row 9 |  |
+| B2-β |  | 11.99 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 11 |  |
+| L12-γ’ |  | -10.48 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 12 |  |
+| L12-γ’ |  | -5.04 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 10 |  |
+| γ' |  | -10.48 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 12 |  |
+| γ' |  | -5.04 kJ/mol-atom | 0 | DFT |  |  | [1] Liu 2016 | Table 7, p. 41, row 10 |  |
+| γ'-L12 | [Co3Cr](https://data.orchid-project.org/compounds/Co3Cr.html) | 6.475 kJ/mol-atom | 298.15 | model | 6.073 (mp-aaacfjoa) | 4.759 (oqmd-348280) | [1] Liu 2016 | Table 4, p. 38, row 27 |  |
+| γ'-L12 | [CoCr3](https://data.orchid-project.org/compounds/CoCr3.html) | 18.079 kJ/mol-atom | 298.15 | model | 24.326 (mp-aaacgjal) | 17.209 (oqmd-343545) | [1] Liu 2016 | Table 4, p. 38, row 28 |  |
+| σ |  | 6.77 per mol-atom ± 0.05 | 298.15 | experimental |  |  | [1] Liu 2016; _cites ref. 14_ | Table 5, p. 39, row 7 |  |
 | σ |  | 6.77 kJ/mol-atom | 473 | experimental |  |  | [1] Liu 2016; _cites ref. 14_ | p. 17 | “Downie and Arslan \[14\] studied the formation enthalpy of one σ-CoCr sample close to the composition of the end-member σ-(Co)8(Cr)18(Cr)4 at 473 K and measured enthalpies of formation of 6.77 kJ/molatom.” |
 
 ## Other properties
@@ -152,14 +164,59 @@ Table: Phase equilibrium, Co–Cr system
 | Phase composition |  | 1173.15 | fcc_ferro + fcc_para + fccferro + fccpara; _fcc_ferro: Co 0.969, Cr 0.031; fcc_para: Co 0.942, Cr 0.058; fccferro: Co 0.969, Cr 0.031; fccpara: Co 0.942, Cr 0.058_ | experimental | [3] Oikawa 2002 | Table 1, p. 5, row 1 |  |
 | Phase composition |  | 1173.15 | fcc_para + hcp_para + fccpara + hcppara; _fcc_para: Co 0.741, Cr 0.259; hcp_para: Co 0.724, Cr 0.276; fccpara: Co 0.741, Cr 0.259; hcppara: Co 0.724, Cr 0.276_ | experimental | [3] Oikawa 2002 | Table 1, p. 5, row 2 |  |
 
+### Formation (6)
+
+Table: Formation, Co–Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS298_ | 1.031 J/mol-atom/K | 298.15 | B2; _alloy: Co 0.5, Cr 0.5_ | model | [1] Liu 2016 | Table 4, p. 38, row 9 |  |
+| Entropy of formation; _printed: ΔfS298_ | -2.176 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 27 |  |
+| Entropy of formation; _printed: ΔfS298_ | 4.662 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 28 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 16.289 kJ/mol-atom | 298.15 | B2; _alloy: Co 0.5, Cr 0.5_ | model | [1] Liu 2016 | Table 4, p. 38, row 9 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 7.123 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.75, Cr 0.25_ | model | [1] Liu 2016 | Table 4, p. 38, row 27 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 16.69 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Co 0.25, Cr 0.75_ | model | [1] Liu 2016 | Table 4, p. 38, row 28 |  |
+
+### Mixing / partial (15)
+
+Table: Mixing / partial, Co–Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.59 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.75_ | DFT | [2] Liu 2015 | Table 4, p. 13, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.99 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Cr 0.25_ | DFT | [2] Liu 2015 | Table 4, p. 13, row 4 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.59 kJ/mol-atom | 0 | A2; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.98 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.5_ | DFT | [2] Liu 2015 | Table 4, p. 13, row 5 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.98 kJ/mol-atom | 0 | A2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.99 kJ/mol-atom | 0 | A2; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 6, p. 40, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.99 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [2] Liu 2015 | Table 4, p. 13, row 19 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.99 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 8, p. 42, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 11.99 kJ/mol-atom | 0 | B2; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016; _cites Al11Cr2_ | Table 8, p. 42, row 6 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -7.568 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Cr 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.46 kJ/mol-atom | 0 | γ; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 11 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -0.9 kJ/mol-atom | 0 | γ; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -6.86 kJ/mol-atom | 0 | γ; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 7, p. 41, row 12 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -10.48 kJ/mol-atom | 0 | γ’; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 6 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.04 kJ/mol-atom | 0 | γ’; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 9, p. 43, row 9 |  |
+
 ### Activity / EMF / Gibbs energy (2)
 
 Table: Activity / EMF / Gibbs energy, Co–Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magG Co_ | -9.917 kJ/mol | 0.1 | HCP | model | [4] Wang 2019; _cites Fernandez 1987_ [doi](https://doi.org/10.1007/bf00567107) | p. 4 | “Using the current CALPHAD description of Co \[50\], the magnetic contribution HCP to the total Gibbs energy of the HCP Co, magG Co , is -8.531 kJ/mol at 0 K and -6.417 kJ/mol at 298.25 K compared to -9.917 kJ/mol at 0.1 K if the experimental magnetic moment is used.” |
-| Gibbs energy; _printed: magG Co_ | -6.417 kJ/mol | 298.25 | HCP | model | [4] Wang 2019; _cites Fernandez 1987_ [doi](https://doi.org/10.1007/bf00567107) | p. 4 | “Using the current CALPHAD description of Co \[50\], the magnetic contribution HCP to the total Gibbs energy of the HCP Co, magG Co , is -8.531 kJ/mol at 0 K and -6.417 kJ/mol at 298.25 K compared to -9.917 kJ/mol at 0.1 K if the experimental magnetic moment is used.” |
+| Gibbs energy; _printed: magG Co_ | -9.917 kJ/mol | 0.1 | HCP | model | [5] Wang 2019; _cites Fernandez 1987_ [doi](https://doi.org/10.1007/bf00567107) | p. 4 | “Using the current CALPHAD description of Co \[50\], the magnetic contribution HCP to the total Gibbs energy of the HCP Co, magG Co , is -8.531 kJ/mol at 0 K and -6.417 kJ/mol at 298.25 K compared to -9.917 kJ/mol at 0.1 K if the experimental magnetic moment is used.” |
+| Gibbs energy; _printed: magG Co_ | -6.417 kJ/mol | 298.25 | HCP | model | [5] Wang 2019; _cites Fernandez 1987_ [doi](https://doi.org/10.1007/bf00567107) | p. 4 | “Using the current CALPHAD description of Co \[50\], the magnetic contribution HCP to the total Gibbs energy of the HCP Co, magG Co , is -8.531 kJ/mol at 0 K and -6.417 kJ/mol at 298.25 K compared to -9.917 kJ/mol at 0.1 K if the experimental magnetic moment is used.” |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Co–Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Molar volume; _printed: V0_ | 11.6 Å3/atom | 298.15 | B2 CoCr; _alloy: Co 0.5, Cr 0.5_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 13 |  |
+| Molar volume; _printed: V0_ | 10.56 Å3/atom | 298.15 | γ'-L12 Co3Cr; _alloy: Co 0.75, Cr 0.25_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 29 |  |
+| Molar volume; _printed: V0_ | 11.367 Å3/atom | 298.15 | γ'-L12 Cr3Co; _alloy: Co 0.25, Cr 0.75_ | DFT | [1] Liu 2016 | Table 2, p. 36, row 30 |  |
 
 ## Sources
 
@@ -168,7 +225,8 @@ Reporting papers the values were read from (a value cited from another work name
 1. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
 2. Xuan L. Liu, Thomas Gheno, Bonnie B. Lindahl, Greta Lindwall, Brian Gleeson, Zi-Kui Liu, First-Principles Calculations, Experimental Study, and Thermodynamic Modeling of the Al-Co-Cr System, PLoS ONE 10, e0121386 (2015). [doi:10.1371/journal.pone.0121386](https://doi.org/10.1371/journal.pone.0121386)
 3. Katsunari Oikawa, Gao-Wu Qin, Tamio Ikeshoji, Ryosuke Kainuma, Kiyohito Ishida, Direct evidence of magnetically induced phase separation in the fcc phase and thermodynamic calculations of phase equilibria of the Co–Cr system, Acta Materialia 50, 2223-2232 (2002). [doi:10.1016/s1359-6454(01)00433-5](https://doi.org/10.1016/s1359-6454%2801%2900433-5)
-4. Peisheng Wang, Matthew C. Peters, Ursula R. Kattner, Kamal Choudhary, Gregory B. Olson, Thermodynamic analysis of the topologically close packed σ phase in the Co Cr system, Intermetallics 105, 13-20 (2019). [doi:10.1016/j.intermet.2018.11.004](https://doi.org/10.1016/j.intermet.2018.11.004)
+4. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
+5. Peisheng Wang, Matthew C. Peters, Ursula R. Kattner, Kamal Choudhary, Gregory B. Olson, Thermodynamic analysis of the topologically close packed σ phase in the Co Cr system, Intermetallics 105, 13-20 (2019). [doi:10.1016/j.intermet.2018.11.004](https://doi.org/10.1016/j.intermet.2018.11.004)
 
 ## Please cite
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ba3Ge4.html · Markdown: https:/
 
 3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -54.983 kJ/mol-atom (mp-aaaaaope); OQMD -54.784 kJ/mol-atom (oqmd-24528).
 
-Systems: [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ba3Ge4 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59.09 kJ/mol-atom | α- Ba3Ge4 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
-| -58.599 kJ/mol-atom | β- Ba3Ge4 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
-| -58.317 kJ/mol-atom | β- Ba3Ge4 | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 26 |  |
+| -59.09 kJ/mol-atom | α- Ba3Ge4 |  | model | CALPHAD | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
+| -58.599 kJ/mol-atom | β- Ba3Ge4 |  | model | CALPHAD | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
+| -58.317 kJ/mol-atom | β- Ba3Ge4 | 0 | DFT | Ab-initio | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 26 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ba3Ge4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59.09 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -58.599 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -58.317 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -59.09 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -58.599 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -58.317 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

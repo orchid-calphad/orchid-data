@@ -1,6 +1,6 @@
 # Al–Bi system
 
-> Al–Bi system: 147 accepted literature values (phase equilibrium 113, activity / EMF / Gibbs energy 16, mixing / partial 14, invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Bi system: 147 accepted literature values (phase equilibrium 113, mixing / partial 14, model expression 13, activity / EMF / Gibbs energy 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BI.html · Markdown: https://data.orchid-project.org/systems/AL-BI.md
 
@@ -24,7 +24,8 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | phase equilibrium | 113 |
 | mixing / partial | 14 |
-| activity / EMF / Gibbs energy | 16 |
+| activity / EMF / Gibbs energy | 3 |
+| model expression | 13 |
 
 ## Calculated phase diagrams
 
@@ -217,28 +218,35 @@ Table: Mixing / partial, Al–Bi system
 | Enthalpy of mixing; _printed: ΔmixH_ | 0.832 kJ/mol (basis unstated) | 975.15 | liquid; _alloy: Al 0.04, Bi 0.96_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 14 |  |
 | Enthalpy of mixing; _printed: ΔmixH_ | 0.433 kJ/mol (basis unstated) | 1077.15 | liquid; _alloy: Al 0.98, Bi 0.02_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 4, p. 3, row 10 |  |
 
-### Activity / EMF / Gibbs energy (16)
+### Activity / EMF / Gibbs energy (3)
 
 Table: Activity / EMF / Gibbs energy, Al–Bi system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 18125 J/mol | 1036.5 | liquid; _alloy: Al 0.125, Bi 0.875_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 9 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 23662 J/mol | 1036.5 | liquid; _alloy: Al 0.015, Bi 0.985_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 16 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 21963 J/mol | 1036.5 | liquid; _alloy: Al 0.02, Bi 0.98_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 15 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 19339 J/mol | 1036.5 | liquid; _alloy: Al 0.08, Bi 0.92_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 11 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 15204 J/mol | 1036.5 | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 5 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 18134 J/mol | 1036.5 | liquid; _alloy: Al 0.155, Bi 0.845_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 7 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 23051 J/mol | 1036.5 | liquid; _alloy: Al 0.01, Bi 0.99_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 17 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 18606 J/mol | 1036.5 | liquid; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 10 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 21030 J/mol | 1036.5 | liquid; _alloy: Al 0.065, Bi 0.935_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 12 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 17451 J/mol | 1036.5 | liquid; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 8 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 12702 J/mol | 1036.5 | liquid; _alloy: Al 0.275, Bi 0.725_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 3 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 22666 J/mol | 1036.5 | liquid; _alloy: Al 0.05, Bi 0.95_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 13 |  |
-| Chemical potential; _printed: ΔmixGAl (constant)_ | 21109 J/mol | 1036.5 | liquid; _alloy: Al 0.03, Bi 0.97_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 14 |  |
 | Chemical potential; _printed: ΔmixGAl = x²(A + Bx) + 8.314T ln(1-x): A_ | 32384 J/mol | 1173.15 | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 2 |  |
 | Chemical potential; _printed: ΔmixGAl = x²(A + Bx + Cx²) + 8.314T ln(1-x): A_ | 52178 J/mol | 1173.15 | liquid; _alloy: Al 0.35, Bi 0.65_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 1 |  |
 | Chemical potential; _printed: ... C_ | 25397 J/mol | 1173.15 | liquid; _alloy: Al 0.35, Bi 0.65_ | experimental | [1] McAlister 1984; _cites ref. 63Wit_ | Table 5, p. 3, row 1 |  |
+
+### Model expression (13)
+
+Table: Model expression, Al–Bi system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 18125 J/mol |  | liquid; _alloy: Al 0.125, Bi 0.875_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 9 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 23662 J/mol |  | liquid; _alloy: Al 0.015, Bi 0.985_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 16 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 21963 J/mol |  | liquid; _alloy: Al 0.02, Bi 0.98_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 15 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 19339 J/mol |  | liquid; _alloy: Al 0.08, Bi 0.92_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 11 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 15204 J/mol |  | liquid; _alloy: Al 0.2, Bi 0.8_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 5 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 18134 J/mol |  | liquid; _alloy: Al 0.155, Bi 0.845_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 7 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 23051 J/mol |  | liquid; _alloy: Al 0.01, Bi 0.99_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 17 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 18606 J/mol |  | liquid; _alloy: Al 0.1, Bi 0.9_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 10 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 21030 J/mol |  | liquid; _alloy: Al 0.065, Bi 0.935_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 12 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 17451 J/mol |  | liquid; _alloy: Al 0.15, Bi 0.85_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 8 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 12702 J/mol |  | liquid; _alloy: Al 0.275, Bi 0.725_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 3 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 22666 J/mol |  | liquid; _alloy: Al 0.05, Bi 0.95_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 13 |  |
+| chemical potential expression term; _printed: ΔmixGAl (constant)_ | 21109 J/mol |  | liquid; _alloy: Al 0.03, Bi 0.97_ | experimental | [1] McAlister 1984; _cites ref. 66Mar_ | Table 5, p. 3, row 14 |  |
 
 ## Sources
 

@@ -1,20 +1,19 @@
 # Cr–La phases
 
-> Cr–La system: 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cr–La system: 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CR-LA.html · Markdown: https://data.orchid-project.org/phases/pages/CR-LA.md
 
-6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CR-LA) · [full JSON](https://data.orchid-project.org/phases/systems/CR-LA.json) · [Cr–La system page](https://data.orchid-project.org/systems/CR-LA.html) · [Markdown](https://data.orchid-project.org/phases/pages/CR-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cr–La system (6)
+Table: Phases of the Cr–La system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cr-la-bcc-a2); _phase:cr-la:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1 | 11 | 2 |
-| [DHCP](#phase-cr-la-dhcp); _phase:cr-la:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-cr-la-dhcp-a3); _phase:cr-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1125 K, x(La) 1–1 | 2 | 2 |
+| [BCC_A2](#phase-cr-la-bcc-a2); _phase:cr-la:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1 | 10 | 2 |
+| [DHCP](#phase-cr-la-dhcp-a3); _phase:cr-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1125 K, x(La) 1–1 | 1 | 2 |
 | [FCC_A1](#phase-cr-la-fcc-a1); _phase:cr-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 549.93–1189 K, x(La) 0.99553–1 | 0 | 2 |
 | [HCP_A3](#phase-cr-la-hcp-a3); _phase:cr-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-cr-la-liquid); _phase:cr-la:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1126.03–4000 K, x(La) 0–1 | 12 | 2 |
@@ -24,11 +23,11 @@ Table: Phases of the Cr–La system (6)
 - Id: `phase:cr-la:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.16 K, x(La) 0–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-la:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:cr-la:bcc-a2  
-_paper: _paper:10.1007/s11669-009-9581-3:Cr, paper:10.1007/s11669-009-9581-3:βLa  
+Names (4): _corpus: _corpus:phase:cr-la:bcc-a2  
+_paper: _paper:10.1007/s11669-009-9581-3:Cr  
 _tdb: _tdb:CrLa-09Cha.tdb:BCC_A2, tdb:CrLa-09Pov.tdb:BCC_A2  
 
 
@@ -57,26 +56,15 @@ _assessment that models this phase_
 
 ## DHCP (Cr–La)
 
-- Id: `phase:cr-la:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-la:dhcp)
-
-Names (1): _corpus: _corpus:phase:cr-la:dhcp  
-
-
-## DHCP (Cr–La)
-
 - Id: `phase:cr-la:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1125 K, x(La) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-la:dhcp-a3)
 
-Names (5): _corpus: _corpus:phase:cr-la:dhcp-a3  
-_paper: _paper:10.1007/s11669-009-9581-3:αLa, paper:10.1007/s11669-009-9581-3:γLa  
+Names (5): _corpus: _corpus:phase:cr-la:dhcp-a3, corpus:phase:cr-la:dhcp  
+_paper: _paper:10.1007/s11669-009-9581-3:αLa  
 _tdb: _tdb:CrLa-09Cha.tdb:DHCP, tdb:CrLa-09Pov.tdb:DHCP  
 
 

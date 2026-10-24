@@ -1,10 +1,10 @@
 # Fe–Th system
 
-> Fe–Th system: 59 accepted literature values (formation 33, invariant reaction 26) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Th system: 57 accepted literature values (formation 33, invariant reaction 24) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TH.html · Markdown: https://data.orchid-project.org/systems/FE-TH.md
 
-59 accepted literature values from 1 paper(s) (experimental 28, model 31); 1 calculated phase diagram(s).
+57 accepted literature values from 1 paper(s) (experimental 27, model 30); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TH.json) · [CSV](https://data.orchid-project.org/systems/FE-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TH/FeTh-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TH.html) · [Markdown](https://data.orchid-project.org/systems/FE-TH.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 31 |
+| experimental | 27 |
+| model | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
+| invariant reaction | 24 |
 | formation | 33 |
 
 ## Calculated phase diagrams
@@ -64,12 +64,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Th system (26)
+Table: Invariant reactions reported in the literature for the Fe–Th system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2028.15 | congruent melting: L -> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 23 |  |
-| 2022.65 | congruent melting: L -> βTh | L: Th 1 | model | [1] Wang 2008 | Table 4, p. 5, row 24 |  |
 | 1811.15 | congruent melting: L -> δFe | L: Th 0 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 4, p. 5, row 1 |  |
 | 1810.65 | congruent melting: L -> δFe | L: Th 0 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
 | 1735.55 | congruent melting: L -> Fe17Th2 | L: Th 0.105; Fe17Th2: Fe 0.894737, Th 0.105263 | model | [1] Wang 2008 | Table 4, p. 5, row 10 |  |

@@ -51,10 +51,10 @@ Table: Invariant reactions reported in the literature for the Cd–Se system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1269 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.005; liq#1: Se 0.0066 | model | [1] Liu 2012 | Table II, p. 5, row 3 |  |
-| 1264 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.005; liq#2: Se 0.0099 | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table II, p. 5, row 2 |  |
-| 594 | liq -> (Cd) + CdSe | CdSe: Se 0.005 | model | [1] Liu 2012 | Table II, p. 5, row 1 |  |
-| 494 | liq -> (Se) + CdSe | CdSe: Se 0.005 | model | [1] Liu 2012 | Table II, p. 5, row 4 |  |
+| 1269 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#1: Se 0.66 | model | [1] Liu 2012 | Table II, p. 5, row 3 |  |
+| 1264 | liq#1 -> liq#2 + CdSe | CdSe: Se 0.5; liq#2: Se 0.99 | experimental | [1] Liu 2012; _cites Reisman 1962_ [doi](https://doi.org/10.1021/j100817a032) | Table II, p. 5, row 2 |  |
+| 594 | liq -> (Cd) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 1 |  |
+| 494 | liq -> (Se) + CdSe | CdSe: Se 0.5 | model | [1] Liu 2012 | Table II, p. 5, row 4 |  |
 
 ## Formation enthalpies
 

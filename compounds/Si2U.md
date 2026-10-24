@@ -31,8 +31,8 @@ Table: Uncertainty budget of the literature values of Si2U
 | -43.89 | kJ/mol-atom | 4.18 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 4.18 |
 | -43.47 | kJ/mol-atom | 0.42 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -42.64 | kJ/mol-atom | 1.25 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -43.33 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -43.19 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -42,8 +42,8 @@ Table: DFT formation energy of Si2U
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaabls | -27.301 | -0.282954 | P6/mmm | 2.304 | 0.0239 | no |
-| OQMD | oqmd-670765 | -31.404 | -0.325479 | P6/mmm | 2.631 | 0.0273 | no |
+| Materials Project | mp-aaaaabls | -27.301 | -0.282954 | P6/mmm | 2.3038 | 0.0239 | no |
+| OQMD | oqmd-670765 | -31.404 | -0.325479 | P6/mmm | 2.6314 | 0.0273 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

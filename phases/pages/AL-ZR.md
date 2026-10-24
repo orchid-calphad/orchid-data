@@ -13,15 +13,15 @@ Table: Phases of the Al–Zr system (14)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AL2ZR_C14](#phase-al-zr-al2zr-c14); _phase:al-zr:al2zr-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1930.56 K, x(Zr) 0.33333–0.33333 | 63 | 8 |
-| [AL2ZR3](#phase-al-zr-al2zr3); _phase:al-zr:al2zr3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1752.49 K, x(Zr) 0.6–0.6 | 71 | 8 |
-| [AL3ZR_D023](#phase-al-zr-al3zr-d023); _phase:al-zr:al3zr-d023_ | Al3Zr · D0_23 · tI16 · I4/mmm (139) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1892.26 K, x(Zr) 0.25–0.25 | 65 | 8 |
-| [AL3ZR2](#phase-al-zr-al3zr2); _phase:al-zr:al3zr2_ | Al3Zr2 · oF40 · Fdd2 (43) | tier B: DFT-supported (unique MP + OQMD match) | stable in 8 of 8 calculated diagram(s): 300–1871.8 K, x(Zr) 0.4–0.4 | 61 | 8 |
-| [AL3ZR4](#phase-al-zr-al3zr4); _phase:al-zr:al3zr4_ | Al3Zr4 · hP7 · P6/mmm (191) | tier B: DFT-supported (unique MP + OQMD match) | stable in 6 of 6 calculated diagram(s): 300–1305.21 K, x(Zr) 0.57143–0.57143 | 37 | 6 |
-| [AL3ZR5_D8M](#phase-al-zr-al3zr5-d8m); _phase:al-zr:al3zr5-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 1148.79–1676.01 K, x(Zr) 0.625–0.625 | 61 | 8 |
-| [AL4ZR5](#phase-al-zr-al4zr5); _phase:al-zr:al4zr5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1831.58 K, x(Zr) 0.55556–0.55556 | 90 | 8 |
+| [AL2ZR3](#phase-al-zr-al2zr3); _phase:al-zr:al2zr3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1752.49 K, x(Zr) 0.6–0.6 | 87 | 8 |
+| [AL3ZR_D023](#phase-al-zr-al3zr-d023); _phase:al-zr:al3zr-d023_ | Al3Zr · D0_23 · tI16 · I4/mmm (139) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1892.26 K, x(Zr) 0.25–0.25 | 63 | 8 |
+| [AL3ZR2](#phase-al-zr-al3zr2); _phase:al-zr:al3zr2_ | Al3Zr2 · oF40 · Fdd2 (43) | tier B: DFT-supported (unique MP + OQMD match) | stable in 8 of 8 calculated diagram(s): 300–1871.8 K, x(Zr) 0.4–0.4 | 78 | 8 |
+| [AL3ZR4](#phase-al-zr-al3zr4); _phase:al-zr:al3zr4_ | Al3Zr4 · hP7 · P6/mmm (191) | tier B: DFT-supported (unique MP + OQMD match) | stable in 6 of 6 calculated diagram(s): 300–1305.21 K, x(Zr) 0.57143–0.57143 | 49 | 6 |
+| [AL3ZR5_D8M](#phase-al-zr-al3zr5-d8m); _phase:al-zr:al3zr5-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 1148.79–1676.01 K, x(Zr) 0.625–0.625 | 59 | 8 |
+| [AL4ZR5](#phase-al-zr-al4zr5); _phase:al-zr:al4zr5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 8 of 8 calculated diagram(s): 300–1831.58 K, x(Zr) 0.55556–0.55556 | 107 | 8 |
 | [ALZR_B33](#phase-al-zr-alzr-b33); _phase:al-zr:alzr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1551.96 K, x(Zr) 0.5–0.5 | 46 | 8 |
-| [ALZR2_B82](#phase-al-zr-alzr2-b82); _phase:al-zr:alzr2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1524.26 K, x(Zr) 0.66667–0.66667 | 59 | 8 |
-| [ALZR3_L12](#phase-al-zr-alzr3-l12); _phase:al-zr:alzr3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1295.54 K, x(Zr) 0.75–0.75 | 45 | 8 |
+| [ALZR2_B82](#phase-al-zr-alzr2-b82); _phase:al-zr:alzr2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1524.26 K, x(Zr) 0.66667–0.66667 | 56 | 8 |
+| [ALZR3_L12](#phase-al-zr-alzr3-l12); _phase:al-zr:alzr3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1295.54 K, x(Zr) 0.75–0.75 | 42 | 8 |
 | [BCC_A2](#phase-al-zr-bcc-a2); _phase:al-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 584–4000 K, x(Zr) 0.7483–1 | 49 | 8 |
 | [FCC_A1](#phase-al-zr-fcc-a1); _phase:al-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–944.7 K, x(Zr) 0–0.00084 | 12 | 8 |
 | [HCP_A3](#phase-al-zr-hcp-a3); _phase:al-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1212.15 K, x(Zr) 0.87911–1 | 12 | 8 |
@@ -133,11 +133,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Zr 0.6000
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1752.49 K, x(Zr) 0.6–0.6
-- Literature: 71 values (71 accepted) from 6 papers
+- Literature: 87 values (87 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al2zr3)
 
-Names (15): _corpus: _corpus:phase:al-zr:al2zr3  
-_paper: _paper:10.1007/s10973-017-6635-3:Al2Zr3, paper:10.1007/s11669-015-0398-y:Al2Zr3, paper:10.1007/s11669-020-00827-z:Al2Zr3, paper:10.1007/s12385-001-0072-4:Zr3Al2, paper:10.1016/s0364-5916(98)00037-6:Al2Zr3, paper:10.1179/mst.1986.2.6.520:Al2Zr3  
+Names (16): _corpus: _corpus:phase:al-zr:al2zr3  
+_paper: _paper:10.1007/s10973-017-6635-3:Al2Zr3, paper:10.1007/s11669-015-0398-y:Al2Zr3, paper:10.1007/s11669-020-00827-z:Al2Zr3, paper:10.1007/s12385-001-0072-4:Zr3Al2, paper:10.1016/j.calphad.2008.08.007:Al2Zr3, paper:10.1016/s0364-5916(98)00037-6:Al2Zr3, paper:10.1179/mst.1986.2.6.520:Al2Zr3  
 _tdb: _tdb:AlZr-01Wan.tdb:AL2ZR3, tdb:AlZr-10Hir.tdb:AL2ZR3, tdb:AlZr-15Fis.tdb:AL2ZR3, tdb:AlZr-18Khv.tdb:AL2ZR3, tdb:AlZr-18Tam.tdb:AL2ZR3, tdb:AlZr-20Lon.tdb:AL2ZR3, tdb:AlZr-86Sau.tdb:AL2ZR3, tdb:AlZr-98Sau-LB.tdb:AL2ZR3  
 
 
@@ -199,18 +199,18 @@ _tdb: _tdb:AlZr-01Wan.tdb:AL2ZR3, tdb:AlZr-10Hir.tdb:AL2ZR3, tdb:AlZr-15Fis.tdb:
 73: CONST AL2ZR3 : AL : ZR : !
 ~~~~
 
-Example references (10 of 20; assessments first): 
+Example references (10 of 21; assessments first): 
 
 - [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s12385-001-0072-4](https://doi.org/10.1007/s12385-001-0072-4) T. Wang, Z. Jin, J.-C. Zhao, J. Phase Equilib., 22, 544-51(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520) N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023) A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018).  
 _assessment that models this phase_
 - [doi:10.1515/HTMP.2010.29.5–6.347](https://doi.org/10.1515/HTMP.2010.29.5–6.347) T. Hirano, H. Ohtani, M. Hasebe, High Temp. Mater. Proc., 29, 347-71(2010).  
@@ -229,7 +229,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaaapf and oqmd-18198, space group 139
 - Stoichiometry: Al 0.7500, Zr 0.2500
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1892.26 K, x(Zr) 0.25–0.25
-- Literature: 65 values (65 accepted) from 6 papers
+- Literature: 63 values (63 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al3zr-d023)
 
 Names (18): _corpus: _corpus:phase:al-zr:al3zr-d023  
@@ -326,13 +326,13 @@ _cited as the source of values for this phase_
 - Structure: Al3Zr2 · oF40 · Fdd2 (43); type `st:al3zr2-of40`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.6000, Zr 0.4000
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1871.8 K, x(Zr) 0.4–0.4
-- Literature: 61 values (61 accepted) from 6 papers
+- Literature: 78 values (78 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al3zr2)
 
-Names (17): _corpus: _corpus:phase:al-zr:al3zr2  
+Names (18): _corpus: _corpus:phase:al-zr:al3zr2  
 _mp: _mp:mp-aaaaacfa  
 _oqmd: _oqmd:oqmd-10622  
-_paper: _paper:10.1007/s10973-017-6635-3:Al3Zr2, paper:10.1007/s11669-015-0398-y:Al3Zr2, paper:10.1007/s11669-020-00827-z:Al3Zr2, paper:10.1007/s12385-001-0072-4:Zr2Al3, paper:10.1016/s0364-5916(98)00037-6:Al3Zr2, paper:10.1179/mst.1986.2.6.520:Al3Zr2  
+_paper: _paper:10.1007/s10973-017-6635-3:Al3Zr2, paper:10.1007/s11669-015-0398-y:Al3Zr2, paper:10.1007/s11669-020-00827-z:Al3Zr2, paper:10.1007/s12385-001-0072-4:Zr2Al3, paper:10.1016/j.calphad.2008.08.007:Al3Zr2, paper:10.1016/s0364-5916(98)00037-6:Al3Zr2, paper:10.1179/mst.1986.2.6.520:Al3Zr2  
 _tdb: _tdb:AlZr-01Wan.tdb:AL3ZR2, tdb:AlZr-10Hir.tdb:AL3ZR2, tdb:AlZr-15Fis.tdb:AL3ZR2, tdb:AlZr-18Khv.tdb:AL3ZR2, tdb:AlZr-18Tam.tdb:AL3ZR2, tdb:AlZr-20Lon.tdb:AL3ZR2, tdb:AlZr-86Sau.tdb:AL3ZR2, tdb:AlZr-98Sau-LB.tdb:AL3ZR2  
 
 
@@ -394,27 +394,27 @@ _tdb: _tdb:AlZr-01Wan.tdb:AL3ZR2, tdb:AlZr-10Hir.tdb:AL3ZR2, tdb:AlZr-15Fis.tdb:
 58: CONST AL3ZR2 : AL : ZR : !
 ~~~~
 
-Example references (10 of 20; assessments first): 
+Example references (10 of 21; assessments first): 
 
-- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s12385-001-0072-4](https://doi.org/10.1007/s12385-001-0072-4) T. Wang, Z. Jin, J.-C. Zhao, J. Phase Equilib., 22, 544-51(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520) N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023) A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018).  
 _assessment that models this phase_
 - [doi:10.1515/HTMP.2010.29.5–6.347](https://doi.org/10.1515/HTMP.2010.29.5–6.347) T. Hirano, H. Ohtani, M. Hasebe, High Temp. Mater. Proc., 29, 347-71(2010).  
 _assessment that models this phase_
 - [doi:10.1007/bf02667556](https://doi.org/10.1007/bf02667556) J. Murray, A. Peruzzi, J. P. Abriata, The Al-Zr (aluminum-zirconium) system, JPE 13, 277-291 (1992).  
 _cited as the source of values for this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
-- [doi:10.1007/s10973-013-3113-4](https://doi.org/10.1007/s10973-013-3113-4) A. Janghorban, A. Antoni-Zdziobek, M. Lomello-Tafin, C. Antion, Th. Mazingue, A. Pisch, Phase equilibria in the aluminium-rich side of the Al–Zr system, J Therm Anal Calorim 114, 1015-1020 (2013).  
+- [doi:10.1007/s11669-001-0072-4](https://doi.org/10.1007/s11669-001-0072-4) T. Wang, Z.P. Jin, and J.C. Zhao, Thermodynamic Assessment of the Al-Zr Binary System, J. Phase Equilib., 2001, 22, p 544-551. https://doi.org/10.1007/s11669-001-0072-4  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.actamat.2005.03.028](https://doi.org/10.1016/j.actamat.2005.03.028) G. Ghosh, M. Asta, First-principles calculation of structural energetics of Al–TM (TM=Ti, Zr, Hf) intermetallics, Acta Materialia 53, 3225-3252 (2005).  
 _cited as the source of values for this phase_
 
 ## AL3ZR4 (Al–Zr)
@@ -423,13 +423,13 @@ _cited as the source of values for this phase_
 - Structure: Al3Zr4 · hP7 · P6/mmm (191); type `st:al3zr4-hp7`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.4286, Zr 0.5714
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1305.21 K, x(Zr) 0.57143–0.57143
-- Literature: 37 values (37 accepted) from 4 papers
+- Literature: 49 values (49 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al3zr4)
 
-Names (13): _corpus: _corpus:phase:al-zr:al3zr4  
+Names (14): _corpus: _corpus:phase:al-zr:al3zr4  
 _mp: _mp:mp-aaaaaswm  
 _oqmd: _oqmd:oqmd-27981  
-_paper: _paper:10.1007/s10973-017-6635-3:Al3Zr4, paper:10.1007/s11669-015-0398-y:Al3Zr4, paper:10.1007/s11669-020-00827-z:Al3Zr4, paper:10.1007/s12385-001-0072-4:Zr4Al3  
+_paper: _paper:10.1007/s10973-017-6635-3:Al3Zr4, paper:10.1007/s11669-015-0398-y:Al3Zr4, paper:10.1007/s11669-020-00827-z:Al3Zr4, paper:10.1007/s12385-001-0072-4:Zr4Al3, paper:10.1016/j.calphad.2008.08.007:Al3Zr4  
 _tdb: _tdb:AlZr-01Wan.tdb:AL3ZR4, tdb:AlZr-10Hir.tdb:AL3ZR4, tdb:AlZr-15Fis.tdb:AL3ZR4, tdb:AlZr-18Khv.tdb:AL3ZR4, tdb:AlZr-18Tam.tdb:AL3ZR4, tdb:AlZr-20Lon.tdb:AL3ZR4  
 
 
@@ -477,12 +477,12 @@ _tdb: _tdb:AlZr-01Wan.tdb:AL3ZR4, tdb:AlZr-10Hir.tdb:AL3ZR4, tdb:AlZr-15Fis.tdb:
 73: CONST AL3ZR4 : AL : ZR : !
 ~~~~
 
-Example references (10 of 15; assessments first): 
+Example references (10 of 16; assessments first): 
 
 - [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s12385-001-0072-4](https://doi.org/10.1007/s12385-001-0072-4) T. Wang, Z. Jin, J.-C. Zhao, J. Phase Equilib., 22, 544-51(2001).  
@@ -506,7 +506,7 @@ _cited as the source of values for this phase_
 - Structure: W5Si3 · D8_m · tI32 · I4/mcm (140); type `st:d8-m-w5si3-ti32`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.3750, Zr 0.6250
 - Stability: stable in 8 of 8 calculated diagram(s): 1148.79–1676.01 K, x(Zr) 0.625–0.625
-- Literature: 61 values (61 accepted) from 6 papers
+- Literature: 59 values (59 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al3zr5-d8m)
 
 Names (15): _corpus: _corpus:phase:al-zr:al3zr5-d8m  
@@ -603,11 +603,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4444, Zr 0.5556
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1831.58 K, x(Zr) 0.55556–0.55556
-- Literature: 90 values (90 accepted) from 6 papers
+- Literature: 107 values (107 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:al4zr5)
 
-Names (15): _corpus: _corpus:phase:al-zr:al4zr5  
-_paper: _paper:10.1007/s10973-017-6635-3:Al4Zr5, paper:10.1007/s11669-015-0398-y:Al4Zr5, paper:10.1007/s11669-020-00827-z:Al4Zr5, paper:10.1007/s12385-001-0072-4:Zr5Al4, paper:10.1016/s0364-5916(98)00037-6:Al4Zr5, paper:10.1179/mst.1986.2.6.520:Al4Zr5  
+Names (16): _corpus: _corpus:phase:al-zr:al4zr5  
+_paper: _paper:10.1007/s10973-017-6635-3:Al4Zr5, paper:10.1007/s11669-015-0398-y:Al4Zr5, paper:10.1007/s11669-020-00827-z:Al4Zr5, paper:10.1007/s12385-001-0072-4:Zr5Al4, paper:10.1016/j.calphad.2008.08.007:Al4Zr5, paper:10.1016/s0364-5916(98)00037-6:Al4Zr5, paper:10.1179/mst.1986.2.6.520:Al4Zr5  
 _tdb: _tdb:AlZr-01Wan.tdb:AL4ZR5, tdb:AlZr-10Hir.tdb:AL4ZR5, tdb:AlZr-15Fis.tdb:AL4ZR5, tdb:AlZr-18Khv.tdb:AL4ZR5, tdb:AlZr-18Tam.tdb:AL4ZR5, tdb:AlZr-20Lon.tdb:AL4ZR5, tdb:AlZr-86Sau.tdb:AL4ZR5, tdb:AlZr-98Sau-LB.tdb:AL4ZR5  
 
 
@@ -669,18 +669,18 @@ _tdb: _tdb:AlZr-01Wan.tdb:AL4ZR5, tdb:AlZr-10Hir.tdb:AL4ZR5, tdb:AlZr-15Fis.tdb:
 68: CONST AL4ZR5 : AL : ZR : !
 ~~~~
 
-Example references (10 of 19; assessments first): 
+Example references (10 of 20; assessments first): 
 
 - [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s12385-001-0072-4](https://doi.org/10.1007/s12385-001-0072-4) T. Wang, Z. Jin, J.-C. Zhao, J. Phase Equilib., 22, 544-51(2001).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1179/mst.1986.2.6.520](https://doi.org/10.1179/mst.1986.2.6.520) N. Saunders, V. G. Rivlin, Thermodynamic characterization of Al–Cr, Al–Zr, and Al–Cr–Zr alloy systems, Materials Science and Technology 2, 520-527 (1986).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.02.023](https://doi.org/10.1016/j.jallcom.2018.02.023) A.V. Khvan, D.G. Eskin, K.F. Starodub, A.T. Dinsdale, F. Wang, C. Fang et al., New insights into solidification and phase equilibria in the Al-Al3Zr system: Theoretical and experimental investigations, Journal of Alloys and Compounds 743, 626-638 (2018).  
 _assessment that models this phase_
 - [doi:10.1515/HTMP.2010.29.5–6.347](https://doi.org/10.1515/HTMP.2010.29.5–6.347) T. Hirano, H. Ohtani, M. Hasebe, High Temp. Mater. Proc., 29, 347-71(2010).  
@@ -689,7 +689,7 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
-- [doi:10.1016/j.tca.2018.07.009](https://doi.org/10.1016/j.tca.2018.07.009) Biswajit Samanta, S. Balakrishnan, Ramkrishna Pagoti, K. Ananthasivan, Kitheri Joseph, Arup Dasgupta, Measurement of solidus and liquidus in the system Zr-Al (20–95 at.% Zr) by using the spot-technique, Thermochimica Acta 667, 132-139 (2018).  
+- [doi:10.1007/s11669-001-0072-4](https://doi.org/10.1007/s11669-001-0072-4) T. Wang, Z.P. Jin, and J.C. Zhao, Thermodynamic Assessment of the Al-Zr Binary System, J. Phase Equilib., 2001, 22, p 544-551. https://doi.org/10.1007/s11669-001-0072-4  
 _cited as the source of values for this phase_
 
 ## ALZR_B33 (Al–Zr)
@@ -793,7 +793,7 @@ _cited as the source of values for this phase_
 - Structure: InNi2 · B8_2 · hP6 · P6_3/mmc (194); type `st:b8-2-inni2-hp6`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.3333, Zr 0.6667
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1524.26 K, x(Zr) 0.66667–0.66667
-- Literature: 59 values (59 accepted) from 5 papers
+- Literature: 56 values (56 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:alzr2-b82)
 
 Names (16): _corpus: _corpus:phase:al-zr:alzr2-b82  
@@ -889,7 +889,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaacep and oqmd-18197, space group 221
 - Stoichiometry: Al 0.2500, Zr 0.7500
 - Stability: stable in 8 of 8 calculated diagram(s): 300–1295.54 K, x(Zr) 0.75–0.75
-- Literature: 45 values (45 accepted) from 5 papers
+- Literature: 42 values (42 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-zr:alzr3-l12)
 
 Names (17): _corpus: _corpus:phase:al-zr:alzr3-l12  
@@ -959,9 +959,9 @@ _tdb: _tdb:AlZr-01Wan.tdb:ALZR3_L12, tdb:AlZr-10Hir.tdb:ALZR3_L12, tdb:AlZr-15Fi
 
 Example references (10 of 17; assessments first): 
 
-- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-017-6635-3](https://doi.org/10.1007/s10973-017-6635-3) Rkia Tamim, Kamal Mahdouk, Thermodynamic reassessment of the Al–Zr binary system, J Therm Anal Calorim 131, 1187-1200 (2018).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-015-0398-y](https://doi.org/10.1007/s11669-015-0398-y) Evelyne Fischer, Catherine Colinet, An Updated Thermodynamic Modeling of the Al-Zr System, J. Phase Equilib. Diffus. 36, 404-413 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_

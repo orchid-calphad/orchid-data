@@ -1,10 +1,10 @@
 # Ni–Si system
 
-> Ni–Si system: 216 accepted literature values (invariant reaction 135, formation 50, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Si system: 230 accepted literature values (invariant reaction 142, formation 53, phase transition 25, activity / EMF / Gibbs energy 6) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SI.html · Markdown: https://data.orchid-project.org/systems/NI-SI.md
 
-216 accepted literature values from 5 paper(s) (experimental 115, model 70, DFT 1, unspecified 30); 10 calculated phase diagram(s).
+230 accepted literature values from 6 paper(s) (experimental 115, model 77, DFT 8, unspecified 30); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SI.json) · [CSV](https://data.orchid-project.org/systems/NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SI/NiSi-01Tok.json) · [phases (19)](https://data.orchid-project.org/phases/pages/NI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SI.md)
 
@@ -13,18 +13,19 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 115 |
-| model | 70 |
-| DFT | 1 |
+| model | 77 |
+| DFT | 8 |
 | unspecified | 30 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 135 |
+| invariant reaction | 142 |
 | phase transition | 25 |
-| formation | 50 |
+| formation | 53 |
 | activity / EMF / Gibbs energy | 6 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -265,13 +266,14 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ni–Si system (135)
+Table: Invariant reactions reported in the literature for the Ni–Si system (142)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1558.15 | congruent melting: Liquid -> θ | Liquid: Si 0.333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Iwase 1936_ | Table 3, p. 6, row 33 |  |
 | 1556.15 | congruent melting: Liquid -> θ | Liquid: Ni 0.666667, Si 0.333333; θ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 34 |  |
 | 1554.15 | congruent melting: Liquid -> θ | Liquid: Si 0.337; θ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 32 |  |
+| 1545.15 | L -> θ + C | L: Ni 0.6606, Si 0.3303; θ: Ni 0.6632, Si 0.3308; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 35 |  |
 | 1540.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 47 |  |
 | 1529.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 23 |  |
 | 1528.15 | peritectic: Liquid + θ -> δ | Liquid: Si 0.308; θ: Si 0.334; δ: Si 0.333 | experimental | [1] Tokunaga 2003; _cites Nash 1987_ [doi](https://doi.org/10.1007/bf02868885) | Table 3, p. 6, row 30 |  |
@@ -280,6 +282,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 46 |  |
 | 1524.15 | L + θ ↔ δ | θ: Si 0.333333; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 45 |  |
 | 1524.15 | peritectic: Liquid + θ -> δ | θ: Ni 0.666667, Si 0.333333; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 31 |  |
+| 1519.15 | L + θ -> δ + C | L: Ni 0.6886, Si 0.3024; θ: Ni 0.6645, Si 0.3355; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 5 |  |
 | 1517.15 | L–γ–δ | L: Si 0.296; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 14 |  |
 | 1517.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 39 |  |
 | 1517.15 | congruent melting: Liquid -> γ | Liquid: Ni 0.714286, Si 0.285714; γ: Ni 0.714286, Si 0.285714 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 21 |  |
@@ -289,8 +292,10 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1515.15 | eutectic: Liquid -> γ + δ | Liquid: Si 0.295; γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 25 |  |
 | 1513.15 | L–γ–δ | L: Si 0.297; γ: Si 0.289; δ: Si 0.333 | model | [3] Miettinen 2005 | Table 4, p. 6, row 15 |  |
 | 1513.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | unspecified | [2] Du 1999 | Table IV, p. 4, row 38 |  |
+| 1506.15 | L -> γ + C | L: Ni 0.7075, Si 0.283; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 38 |  |
 | 1505.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999 | Table IV, p. 4, row 37 |  |
 | 1505.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 28 |  |
+| 1504.15 | L -> γ + δ + C | L: Ni 0.6976, Si 0.2935; γ: Ni 0.7143, Si 0.2857; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 7 |  |
 | 1504.15 | L–γ–δ | L: Si 0.314; γ: Si 0.289; δ: Si 0.333333 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 13 |  |
 | 1504.15 | eutectic: Liquid -> γ + δ | γ: Ni 0.714286, Si 0.285714; δ: Ni 0.666667, Si 0.333333 | experimental | [1] Tokunaga 2003; _cites Lebaili 1984_ | Table 3, p. 6, row 27 |  |
 | 1504.15 | L ↔ γ + δ | γ: Si 0.285714; δ: Si 0.333333 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 36 |  |
@@ -328,6 +333,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1416.15 | L ↔ (Ni) + β3 | β3: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 23 |  |
 | 1416.15 | L–fcc–β3 | L: Si 0.214; fcc: Si 0.158; β3: Si 0.249 | experimental | [3] Miettinen 2005; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table 4, p. 6, row 2 |  |
 | 1415.15 | eutectic: Liquid -> (Ni) + β3 | Liquid: Si 0.202; (Ni): Si 0.152; β3: Ni 0.75, Si 0.25 | model | [1] Tokunaga 2003 | Table 3, p. 6, row 1 |  |
+| 1400.15 | β3 -> β2, γ, C | β3: Ni 0.75, Si 0.25; β2: Ni 0.75, Si 0.25; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 17 |  |
 | 1400.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | experimental | [2] Du 1999 | Table IV, p. 4, row 4 |  |
 | 1400.15 | β3 ↔ β2, (Ni), γ | β3: Si 0.25; β2: Si 0.25; γ: Si 0.285714 | unspecified | [2] Du 1999 | Table IV, p. 4, row 5 |  |
 | 1400.15 | polymorphic: β2 -> β3 | β2: Ni 0.75, Si 0.25; β3: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 8 |  |
@@ -341,6 +347,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1320.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999 | Table IV, p. 4, row 10 |  |
 | 1320.15 | peritectoid: (Ni) + β2 -> β1 | β2: Ni 0.75, Si 0.25 | experimental | [1] Tokunaga 2003; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 3, p. 6, row 12 |  |
 | 1315.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 11 |  |
+| 1314.15 | (Ni) + β2 -> β1 + C | (Ni): Ni 0.831, Si 0.168; β2: Ni 0.75, Si 0.25; β1: Ni 0.7706, Si 0.2294; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 19 |  |
 | 1313.15 | fcc–β1–β2 | β1: Si 0.24; β2: Si 0.25 | experimental | [3] Miettinen 2005; _cites Iwase 1936_ | Table 4, p. 6, row 28 |  |
 | 1313.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Iwase 1936_ | Table IV, p. 4, row 7 |  |
 | 1309.15 | fcc–β1–β2 | fcc: Si 0.16; β1: Si 0.232; β2: Si 0.25 | model | [3] Miettinen 2005; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 6, row 31 |  |
@@ -350,6 +357,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 | 1308.15 | fcc–β1–β2 | fcc: Si 0.149; β1: Si 0.24; β2: Si 0.25 | model | [3] Miettinen 2005 | Table 4, p. 6, row 32 |  |
 | 1308.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Oya 1983_ [doi](https://doi.org/10.1515/ijmr-1983-740105) | Table IV, p. 4, row 8 |  |
 | 1307.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | model | [2] Du 1999; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table IV, p. 4, row 12 |  |
+| 1288.15 | β2 -> β1 + γ, C | β2: Ni 0.75, Si 0.25; β1: Ni 0.7579, Si 0.2421; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [2] Du 1999 | Table V, p. 6, row 21 |  |
 | 1288.15 | β1 + γ ↔ β2 | γ: Si 0.285714; β2: Si 0.25 | unspecified | [2] Du 1999 | Table IV, p. 4, row 16 |  |
 | 1283.15 | β1 ↔ β2 + (Ni) | β2: Si 0.25 | experimental | [2] Du 1999; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table IV, p. 4, row 9 |  |
 | 1283.15 | fcc–β1–β2 | fcc: Si 0.15; β1: Si 0.239; β2: Si 0.248 | experimental | [3] Miettinen 2005; _cites Lebaili 1984_ [doi](https://doi.org/10.1515/ijmr-1984-751005) | Table 4, p. 6, row 30 |  |
@@ -409,7 +417,7 @@ Table: Invariant reactions reported in the literature for the Ni–Si system (13
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Si system (50)
+Table: Enthalpies of formation, Ni–Si system (53)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -422,6 +430,7 @@ Table: Enthalpies of formation, Ni–Si system (50)
 | Ni2Si(δ) | [Ni2Si](https://data.orchid-project.org/compounds/Ni2Si.html) | -47.6 kJ/mol-atom |  | model | -53.015 (mp-aaaaabra) | -53.941 (oqmd-4675) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | Ni2Si(δ) | [Ni2Si](https://data.orchid-project.org/compounds/Ni2Si.html) | -46.9 kJ/mol-atom | 298.15 | experimental | -53.015 (mp-aaaaabra) | -53.941 (oqmd-4675) | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
 | Ni2Si(δ) | [Ni2Si](https://data.orchid-project.org/compounds/Ni2Si.html) | -41.7 kJ/mol-atom |  | model | -53.015 (mp-aaaaabra) | -53.941 (oqmd-4675) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
+| Ni3Si(D024) |  | -40.02 kJ/mol-atom | 0 | DFT |  |  | [6] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
 | Ni3Si(β1) |  | -49.2 kJ/mol-atom | 0 | DFT |  |  | [1] Tokunaga 2003 | Table 4, p. 7, row 4 |  |
 | Ni3Si(β1) | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -47.1 kJ/mol-atom |  | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | Ni3Si(β1) | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -40.1 kJ/mol-atom |  | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
@@ -432,7 +441,7 @@ Table: Enthalpies of formation, Ni–Si system (50)
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.672 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 1, p. 4, row 5 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -44.671 kJ/mol-atom | 0 | unspecified | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012 | Table 1, p. 4, row 4 |  |
 | Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -40.582 kJ/mol-atom | 0 | model | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 2, p. 4, row 6 |  |
-| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -37.7 kJ/mol-atom | 0 | experimental | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7 |  |
+| Ni3Si–L12 | [Ni3Si](https://data.orchid-project.org/compounds/Ni3Si.html) | -37.7 kJ/mol-atom | 298.15 | experimental | -44.25 (mp-aaaaabfw) | -44.834 (oqmd-17803) | [4] Yuan 2012; _cites Oelsen 1936_ | Table 1, p. 4, row 7 |  |
 | Ni5Si2(γ) |  | -48.8 kJ/mol-atom |  | model |  |  | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | Ni5Si2(γ) |  | -45.1 kJ/mol-atom | 298.15 | experimental |  |  | [1] Tokunaga 2003; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 4, p. 7, row 3 |  |
 | Ni5Si2(γ) |  | -43.5 kJ/mol-atom |  | model |  |  | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
@@ -443,6 +452,7 @@ Table: Enthalpies of formation, Ni–Si system (50)
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -41.9 kJ/mol-atom |  | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -38.7 kJ/mol-atom |  | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | NiSi | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -38.7 kJ/mol-atom | 298.15 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996 | Table I, p. 2, row 13 |  |
+| NiSi(B2) |  | -25.99 kJ/mol-atom | 0 | DFT |  |  | [6] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -34 kJ/mol-atom |  | model | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003; _cites Lindholm 1996_ [doi](https://doi.org/10.1007/bf02663838) | Table 4, p. 7, row 6 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -30.7 kJ/mol-atom |  | model | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003 | Table 4, p. 7, row 5 |  |
 | NiSi2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -29.3 kJ/mol-atom | 298.15 | experimental | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [1] Tokunaga 2003; _cites Oelson 1936_ | Table 4, p. 7, row 1 |  |
@@ -452,8 +462,9 @@ Table: Enthalpies of formation, Ni–Si system (50)
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -40.169 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Du 1999_ [doi](https://doi.org/10.1007/s11661-999-0249-8) | Table 1, p. 4, row 13 |  |
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -28.028 kJ/mol-atom | 0 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012 | Table 2, p. 4, row 11 |  |
 | NiSi–L10 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -27.981 kJ/mol-atom | 0 | model | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [4] Yuan 2012; _cites Connetable 2011_ [doi](https://doi.org/10.1016/j.jallcom.2010.10.118) | Table 2, p. 4, row 12 |  |
-| αNiSi_2 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -34 kJ/mol-atom | 298.15 | unspecified | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996 | Table I, p. 2, row 15 |  |
-| αNiSi_2 | [NiSi](https://data.orchid-project.org/compounds/NiSi.html) | -29.3 kJ/mol-atom | 298.15 | experimental | -48.213 (mp-aaaaaann) | -48.61 (oqmd-5883) | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 14 |  |
+| Si3Ni(L12) |  | 20.6 kJ/mol-atom | 0 | DFT |  |  | [6] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
+| αNiSi_2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -34 kJ/mol-atom | 298.15 | unspecified | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [5] Lindholm 1996 | Table I, p. 2, row 15 |  |
+| αNiSi_2 | [NiSi2](https://data.orchid-project.org/compounds/NiSi2.html) | -29.3 kJ/mol-atom | 298.15 | experimental | -34.03 (mp-aaaaadkd) | -33.712 (oqmd-20679) | [5] Lindholm 1996; _cites Oelsen 1936_ | Table I, p. 2, row 14 |  |
 | β2 |  | -36.7 kJ/mol-atom | 298.15 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 3 |  |
 | β\_3 |  | -36.6 kJ/mol-atom | 298.15 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 4 |  |
 | γ |  | -43.5 kJ/mol-atom | 298.15 | unspecified |  |  | [5] Lindholm 1996 | Table I, p. 2, row 6 |  |
@@ -511,6 +522,17 @@ Table: Activity / EMF / Gibbs energy, Ni–Si system
 | Gibbs energy; _printed: Gibbs energy of formation_ | -42 kJ/mol | 1073.15 |  | model | [3] Miettinen 2005 | p. 5 | “As an example, the Gibbs energies of formation of Ni5 Si2 (γ ) (in kJ/mol) at 800 ◦ C are -41.0 (this study), -43.1 \[3\] and -47.4 \[5\]. For Ni2 Si(δ ), the corresponding values are -42.0 (this study), -44.8 \[3\] and -48.9 \[5\].” |
 | Gibbs energy; _printed: Gibbs energy of formation_ | -41 kJ/mol | 1073.15 |  | model | [3] Miettinen 2005 | p. 5 | “As an example, the Gibbs energies of formation of Ni5 Si2 (γ ) (in kJ/mol) at 800 ◦ C are -41.0 (this study), -43.1 \[3\] and -47.4 \[5\].” |
 
+### Crystal structure (4)
+
+Table: Crystal structure, Ni–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 4.9641 Å | 0 | Ni3Si(D024); _alloy: Si 0.25_ | DFT | [6] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+| Lattice a; _printed: a_ | 2.8541 Å | 0 | NiSi(B2); _alloy: Si 0.5_ | DFT | [6] Tokunaga 2004 | Table 2, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 3.7446 Å | 0 | Si3Ni(L12); _alloy: Si 0.75_ | DFT | [6] Tokunaga 2004; _cites Tokunaga 2003_ [doi](https://doi.org/10.1016/s0364-5916%2803%2900049-x) | Table 2, p. 3, row 5 |  |
+| Lattice c; _printed: c_ | 8.1908 Å | 0 | Ni3Si(D024); _alloy: Si 0.25_ | DFT | [6] Tokunaga 2004 | Table 2, p. 3, row 10 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -520,6 +542,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Si system in the copper-rich corner above 700 ∘C, Calphad 29, 212-221 (2005). [doi:10.1016/j.calphad.2005.08.001](https://doi.org/10.1016/j.calphad.2005.08.001)
 4. Xiaoming Yuan, Lijun Zhang, Yong Du, Wei Xiong, Ying Tang, Aijun Wang et al., A new approach to establish both stable and metastable phase equilibria for fcc ordered/disordered phase transition: application to the Al–Ni and Ni–Si systems, Materials Chemistry and Physics 135, 94-105 (2012). [doi:10.1016/j.matchemphys.2012.04.028](https://doi.org/10.1016/j.matchemphys.2012.04.028)
 5. Mikael Lindholm, Bo Sundman, A thermodynamic evaluation of the nickel-silicon system, Metall Mater Trans A 27, 2897-2903 (1996). [doi:10.1007/bf02663838](https://doi.org/10.1007/bf02663838)
+6. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
 
 ## Please cite
 

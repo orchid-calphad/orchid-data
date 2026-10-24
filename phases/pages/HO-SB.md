@@ -1,14 +1,14 @@
 # Ho–Sb phases
 
-> Ho–Sb system: 13 phases (tier A 7, tier C 1, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ho–Sb system: 11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/HO-SB.html · Markdown: https://data.orchid-project.org/phases/pages/HO-SB.md
 
-13 phases (tier A 7, tier C 1, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 7, tier C 1, liquid 1, needs_review 2); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=HO-SB) · [full JSON](https://data.orchid-project.org/phases/systems/HO-SB.json) · [Ho–Sb system page](https://data.orchid-project.org/systems/HO-SB.html) · [Markdown](https://data.orchid-project.org/phases/pages/HO-SB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ho–Sb system (13)
+Table: Phases of the Ho–Sb system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -18,12 +18,10 @@ Table: Phases of the Ho–Sb system (13)
 | [HCP_A3](#phase-ho-sb-hcp-a3); _phase:ho-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1754 K, x(Sb) 0–0 | 4 | 2 |
 | [HO4SB3_HT](#phase-ho-sb-ho4sb3); _phase:ho-sb:ho4sb3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1721.1–2106.42 K, x(Sb) 0.42857–0.42857 | 10 | 2 |
 | [HO4SB3_D73](#phase-ho-sb-ho4sb3-d73); _phase:ho-sb:ho4sb3-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1727.82–2144.11 K, x(Sb) 0.42857–0.42857 | 8 | 2 |
-| [HO4SB3-HT](#phase-ho-sb-ho4sb3-ht); _phase:ho-sb:ho4sb3-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [HO5SB3_D88](#phase-ho-sb-ho5sb3-d88); _phase:ho-sb:ho5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1986.5 K, x(Sb) 0.375–0.375 | 14 | 2 |
 | [HOSB_HT](#phase-ho-sb-hosb); _phase:ho-sb:hosb_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2434.93 K, x(Sb) 0.5–0.5 | 10 | 2 |
 | [HOSB_B1](#phase-ho-sb-hosb-b1); _phase:ho-sb:hosb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2463.02 K, x(Sb) 0.5–0.5 | 20 | 2 |
-| [HOSB-HT](#phase-ho-sb-hosb-ht); _phase:ho-sb:hosb-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
-| [HOSB2](#phase-ho-sb-hosb2); _phase:ho-sb:hosb2_ | HoSb2 · oC6 · C222 (21) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–942.97 K, x(Sb) 0.66667–0.66667 | 8 | 2 |
+| [HOSB2](#phase-ho-sb-hosb2); _phase:ho-sb:hosb2_ | HoSb2 · oC6 · C222 (21) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–942.97 K, x(Sb) 0.66667–0.66667 | 14 | 2 |
 | [LIQUID](#phase-ho-sb-liquid); _phase:ho-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 895.57–2500 K, x(Sb) 0–1 | 24 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Ho–Sb)
@@ -183,7 +181,7 @@ _cited as the source of values for this phase_
 - Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-sb:ho4sb3)
 
-Names (5): _corpus: _corpus:phase:ho-sb:ho4sb3  
+Names (6): _corpus: _corpus:phase:ho-sb:ho4sb3, corpus:phase:ho-sb:ho4sb3-ht  
 _paper: _paper:10.1016/j.calphad.2012.02.004:βHo4Sb3, paper:10.1016/j.tca.2012.10.026:β-Ho4Sb3  
 _tdb: _tdb:HoSb-12Liu.tdb:HO4SB3_HT, tdb:HoSb-13Wan.tdb:HO4SB3_HT  
 
@@ -254,17 +252,6 @@ _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90504-g](https://doi.org/10.1016/0925-8388%2893%2990504-g) M.N. Abdusalyamova, Phase diagrams and thermodynamic properties of rare earth-antimony systems, Journal of Alloys and Compounds 202, L15-L20 (1993).  
 _cited as the source of values for this phase_
 
-## HO4SB3-HT (Ho–Sb)
-
-- Id: `phase:ho-sb:ho4sb3-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-sb:ho4sb3-ht)
-
-Names (1): _corpus: _corpus:phase:ho-sb:ho4sb3-ht  
-
-
 ## HO5SB3_D88 (Ho–Sb)
 
 - Id: `phase:ho-sb:ho5sb3-d88`; status `assigned`
@@ -321,7 +308,7 @@ _cited as the source of values for this phase_
 - Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-sb:hosb)
 
-Names (5): _corpus: _corpus:phase:ho-sb:hosb  
+Names (6): _corpus: _corpus:phase:ho-sb:hosb, corpus:phase:ho-sb:hosb-ht  
 _paper: _paper:10.1016/j.calphad.2012.02.004:βHoSb, paper:10.1016/j.tca.2012.10.026:β-HoSb  
 _tdb: _tdb:HoSb-12Liu.tdb:HOSB_HT, tdb:HoSb-13Wan.tdb:HOSB_HT  
 
@@ -394,17 +381,6 @@ _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90504-g](https://doi.org/10.1016/0925-8388%2893%2990504-g) M.N. Abdusalyamova, Phase diagrams and thermodynamic properties of rare earth-antimony systems, Journal of Alloys and Compounds 202, L15-L20 (1993).  
 _cited as the source of values for this phase_
 
-## HOSB-HT (Ho–Sb)
-
-- Id: `phase:ho-sb:hosb-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-sb:hosb-ht)
-
-Names (1): _corpus: _corpus:phase:ho-sb:hosb-ht  
-
-
 ## HOSB2 (Ho–Sb)
 
 - Id: `phase:ho-sb:hosb2`; status `assigned`
@@ -413,7 +389,7 @@ Names (1): _corpus: _corpus:phase:ho-sb:hosb-ht
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ho 0.3333, Sb 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–942.97 K, x(Sb) 0.66667–0.66667
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-sb:hosb2)
 
 Names (5): _corpus: _corpus:phase:ho-sb:hosb2  
@@ -437,13 +413,15 @@ _tdb: _tdb:HoSb-12Liu.tdb:HOSB2, tdb:HoSb-13Wan.tdb:HOSB2
 83: CONST HOSB2 : HO : SB : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2012.02.004](https://doi.org/10.1016/j.calphad.2012.02.004) X.J. Liu, S.X. Gan, Z.S. Li, C.P. Wang, A.T. Tang, F.S. Pan, Thermodynamic assessment of the Ho–Sb and Sb–Yb systems, Calphad 37, 132-136 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2012.10.026](https://doi.org/10.1016/j.tca.2012.10.026) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Xushan Zhao, Jianyun Shen, Thermodynamic assessment of the La–Sb and the Ho–Sb systems using the associate model, Thermochimica Acta 551, 104-109 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2012.02.004](https://doi.org/10.1016/j.calphad.2012.02.004) X.J. Liu, S.X. Gan, Z.S. Li, C.P. Wang, A.T. Tang, F.S. Pan, Thermodynamic assessment of the Ho–Sb and Sb–Yb systems, Calphad 37, 132-136 (2012).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(84)90403-x](https://doi.org/10.1016/0022-5088%2884%2990403-x) M.N. Abdusaljamova, O.R. Burnashev, K.E. Mironov, The Ho-Sb alloy system, Journal of the Less Common Metals 102, L19-L22 (1984).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(84)90320-5](https://doi.org/10.1016/0022-5088%2884%2990320-5) C. Colinet, A. Pasturel, A. Percheron-Guégan, J.C. Achard, Enthalpies of formation of liquid and solid binary alloys of lead, antimony and bismuth with rare earth elements, Journal of the Less Common Metals 102, 239-249 (1984).  
 _cited as the source of values for this phase_
 
 ## LIQUID (Ho–Sb)

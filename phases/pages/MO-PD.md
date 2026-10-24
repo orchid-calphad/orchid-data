@@ -12,7 +12,7 @@ Table: Phases of the Mo–Pd system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mo-pd-bcc-a2); _phase:mo-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2901.01 K, x(Pd) 0–0.04805 | 9 | 1 |
+| [BCC_A2](#phase-mo-pd-bcc-a2); _phase:mo-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2901.01 K, x(Pd) 0–0.04805 | 7 | 1 |
 | [FCC_A1](#phase-mo-pd-fcc-a1); _phase:mo-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2028.73 K, x(Pd) 0.55905–1 | 41 | 1 |
 | [HCP_A3](#phase-mo-pd-hcp-a3); _phase:mo-pd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1654.34–2000.93 K, x(Pd) 0.50157–0.53788 | 0 | 1 |
 | [LIQUID](#phase-mo-pd-liquid); _phase:mo-pd:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1828–4000 K, x(Pd) 0–1 | 7 | 1 |
@@ -22,11 +22,11 @@ Table: Phases of the Mo–Pd system (4)
 - Id: `phase:mo-pd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2901.01 K, x(Pd) 0–0.04805
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-pd:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:mo-pd:bcc-a2  
-_paper: _paper:10.1361/105497100770340390:(Mo), paper:10.1361/105497100770340390:ε  
+Names (3): _corpus: _corpus:phase:mo-pd:bcc-a2  
+_paper: _paper:10.1361/105497100770340390:(Mo)  
 _tdb: _tdb:MoPd-00Gho.tdb:BCC_A2  
 
 

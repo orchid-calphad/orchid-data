@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/KF.html · Markdown: https://dat
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -284.305 kJ/mol-atom (n = 1); Materials Project -283.123 kJ/mol-atom (mp-aaaaaarv); OQMD -281.083 kJ/mol-atom (oqmd-1442813).
 
-Systems: [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)
+Systems: [F–K](https://data.orchid-project.org/systems/F-K.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of KF reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -284.305 kJ/mol-atom | KF | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27 |  |
-| -264.865 kJ/mol-atom | KF | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
+| -284.305 kJ/mol-atom | KF | 298.15 | experimental |  | [F–K](https://data.orchid-project.org/systems/F-K.html) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27 |  |
+| -264.865 kJ/mol-atom | KF | 0 | DFT | first-principle calculations | [F–K](https://data.orchid-project.org/systems/F-K.html) | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of KF
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -284.305 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -264.865 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -284.305 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -264.865 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of KF
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaaarv | -283.123 | -2.93437 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1442813 | -281.083 | -2.91323 | Fmmm | 0.017 | 2.000e-4 | yes |
+| OQMD | oqmd-1442813 | -281.083 | -2.91323 | Fmmm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

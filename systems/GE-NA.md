@@ -1,10 +1,10 @@
 # Ge–Na system
 
-> Ge–Na system: 5 accepted literature values (invariant reaction 3, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Na system: 13 accepted literature values (crystal structure 8, invariant reaction 3, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-NA.html · Markdown: https://data.orchid-project.org/systems/GE-NA.md
 
-5 accepted literature values from 1 paper(s) (experimental 5); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 9, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-NA.json) · [CSV](https://data.orchid-project.org/systems/GE-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-NA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-NA/GeNa-12Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-NA.html) · [Markdown](https://data.orchid-project.org/systems/GE-NA.md)
 
@@ -12,7 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 9 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
@@ -20,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 3 |
 | phase transition | 2 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -65,6 +67,21 @@ Table: Phase transition, Ge–Na system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1093.15 K | 1093.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
 | Phase transition | 1442.15 K | 1442.15 | congruent transformation | experimental | [1] Wang 2012; _cites Drits 1982_ | p. 1 | “Two compounds GeNa and GeNa3 were found, which melt congruently at 1169 and 820 °C, respectively \[12\].” |
+
+### Crystal structure (8)
+
+Table: Crystal structure, Ge–Na system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 12.43 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice a | 6.4 Å | 298.15 | Ge4Na; _alloy: Na 0.2_ | unspecified | [1] Wang 2012; _cites Potemkin 1989_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 12.33 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice b | 6.67 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice b | 6.7 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.59 Å |  | GeNa; _alloy: Na 0.5_ | unspecified | [1] Wang 2012 | Table 1, p. 3, row 7 |  |
+| Lattice c | 11.42 Å | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
+| lattice beta | 119.9 ° | 298.15 | GeNa; _alloy: Na 0.5_ | experimental | [1] Wang 2012; _cites von J 1964_ | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

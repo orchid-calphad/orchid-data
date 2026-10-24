@@ -13,7 +13,7 @@ Table: Phases of the La–Pt system (12)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-la-pt-bcc-a2); _phase:la-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1134–1209 K, x(Pt) 0–0 | 0 | 1 |
-| [DHCP](#phase-la-pt-dhcp-a3); _phase:la-pt:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–550 K, x(Pt) 0–0 | 2 | 1 |
+| [DHCP](#phase-la-pt-dhcp-a3); _phase:la-pt:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–550 K, x(Pt) 0–0 | 0 | 1 |
 | [FCC_A1](#phase-la-pt-fcc-a1); _phase:la-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499 K, x(Pt) 0–1 | 2 | 1 |
 | [HCP_A3](#phase-la-pt-hcp-a3); _phase:la-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LA2PT7](#phase-la-pt-la2pt7); _phase:la-pt:la2pt7_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 745.96–2350.25 K, x(Pt) 0.77778–0.77778 | 2 | 1 |
@@ -57,11 +57,10 @@ _assessment that models this phase_
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–550 K, x(Pt) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-pt:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:la-pt:dhcp-a3  
-_paper: _paper:10.1016/j.jallcom.2005.10.016:La(fcc)  
+Names (2): _corpus: _corpus:phase:la-pt:dhcp-a3  
 _tdb: _tdb:LaPt-06Rei.tdb:DHCP  
 
 
@@ -77,7 +76,7 @@ _tdb: _tdb:LaPt-06Rei.tdb:DHCP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2005.10.016](https://doi.org/10.1016/j.jallcom.2005.10.016) S. Reimann, H.-J. Schaller, Constitution and thermodynamics of Pt–La alloys, Journal of Alloys and Compounds 419, 133-139 (2006).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (La–Pt)
 

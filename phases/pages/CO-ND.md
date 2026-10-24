@@ -1,14 +1,14 @@
 # Co–Nd phases
 
-> Co–Nd system: 17 phases (tier A 8, tier C 5, liquid 1, needs_review 3); 16 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Co–Nd system: 16 phases (tier A 7, tier C 5, liquid 1, needs_review 3); 16 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CO-ND.html · Markdown: https://data.orchid-project.org/phases/pages/CO-ND.md
 
-17 phases (tier A 8, tier C 5, liquid 1, needs_review 3); 16 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+16 phases (tier A 7, tier C 5, liquid 1, needs_review 3); 16 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CO-ND) · [full JSON](https://data.orchid-project.org/phases/systems/CO-ND.json) · [Co–Nd system page](https://data.orchid-project.org/systems/CO-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/CO-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Co–Nd system (17)
+Table: Phases of the Co–Nd system (16)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -24,7 +24,6 @@ Table: Phases of the Co–Nd system (17)
 | [CO5ND_D2D](#phase-co-nd-co5nd-d2d); _phase:co-nd:co5nd-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1538.27 K, x(Nd) 0.16667–0.16667 | 5 | 1 |
 | [CO7ND2](#phase-co-nd-co7nd2); _phase:co-nd:co7nd2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1415.73 K, x(Nd) 0.22222–0.22222 | 5 | 1 |
 | [COND3_D011](#phase-co-nd-cond3-d011); _phase:co-nd:cond3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–918.57 K, x(Nd) 0.75–0.75 | 7 | 1 |
-| [DHCP](#phase-co-nd-dhcp); _phase:co-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-co-nd-dhcp-a3); _phase:co-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1282.95 K, x(Nd) 0.99992–1 | 2 | 1 |
 | [FCC_A1](#phase-co-nd-fcc-a1); _phase:co-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 694.99–1796.48 K, x(Nd) 0–0.00242 | 4 | 1 |
 | [HCP_A3](#phase-co-nd-hcp-a3); _phase:co-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–694.99 K, x(Nd) 0–0 | 0 | 1 |
@@ -392,24 +391,13 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (Co–Nd)
 
-- Id: `phase:co-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:co-nd:dhcp  
-
-
-## DHCP (Co–Nd)
-
 - Id: `phase:co-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1282.95 K, x(Nd) 0.99992–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nd:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:co-nd:dhcp-a3  
+Names (4): _corpus: _corpus:phase:co-nd:dhcp-a3, corpus:phase:co-nd:dhcp  
 _paper: _paper:10.1016/j.jallcom.2006.08.081:dhcp(Nd)  
 _tdb: _tdb:CoNd-07Liu.tdb:DHCP  
 

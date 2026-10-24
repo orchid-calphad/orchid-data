@@ -1,10 +1,10 @@
 # Au–La system
 
-> Au–La system: 20 accepted literature values (invariant reaction 10, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–La system: 45 accepted literature values (crystal structure 19, invariant reaction 10, phase transition 10, formation 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-LA.html · Markdown: https://data.orchid-project.org/systems/AU-LA.md
 
-20 accepted literature values from 1 paper(s) (experimental 8, model 12); 1 calculated phase diagram(s).
+45 accepted literature values from 1 paper(s) (experimental 9, model 12, DFT 24); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-LA.json) · [CSV](https://data.orchid-project.org/systems/AU-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-LA/AuLa-11Don.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-LA.html) · [Markdown](https://data.orchid-project.org/systems/AU-LA.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 9 |
 | model | 12 |
+| DFT | 24 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase transition | 10 |
+| formation | 6 |
+| crystal structure | 19 |
 
 ## Calculated phase diagrams
 
@@ -74,6 +77,21 @@ Table: Invariant reactions reported in the literature for the Au–La system (10
 | 834 | L \<=> La(fcc) + AuLa2 | L: La 0.84; AuLa2: La 0.666667 | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
 | 827 | L \<=> La(fcc) + AuLa2 | L: La 0.834; AuLa2: La 0.666667 | model | [1] Dong 2011 | Table 3, p. 4, row 2 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Au–La system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Au2La |  | -81.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Au51La14 | [Au51La14](https://data.orchid-project.org/compounds/Au51La14.html) | -57.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -64.007 (mp-aaacrqeg) |  | [1] Dong 2011 | Table 1, p. 3, row 9 |  |
+| AuLa2 |  | -56.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
+| AuLa6 |  | -45.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 11 |  |
+| αAuLa |  | -82 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| βAuLa |  | -82.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+
 ## Other properties
 
 ### Phase transition (10)
@@ -92,6 +110,32 @@ Table: Phase transition, Au–La system
 | Phase transition | 1490 K | 1490 | L \<=> Au2La; _L: La 0.333333; Au2La: La 0.333333_ | model | [1] Dong 2011 | Table 3, p. 4, row 6 |  |
 | Phase transition | 1596 K | 1596 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | model | [1] Dong 2011 | Table 3, p. 4, row 4 |  |
 | Phase transition | 1598 K | 1598 | L \<=> βAuLa; _L: La 0.5; βAuLa: La 0.5_ | experimental | [1] Dong 2011; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
+
+### Crystal structure (19)
+
+Table: Crystal structure, Au–La system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 4.7 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
+| Lattice a; _printed: Lattice parameter a_ | 4.7 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice a; _printed: a_ | 12.87 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
+| Lattice a; _printed: a_ | 7.397 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
+| Lattice a; _printed: a_ | 7.52 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
+| Lattice a; _printed: Lattice parameter a_ | 7.52 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice a; _printed: a_ | 3.95 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
+| Lattice a; _printed: a_ | 3.95 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice b; _printed: b_ | 7.295 Å |  | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 8 |  |
+| Lattice b; _printed: b_ | 7.295 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice b; _printed: b_ | 4.69 Å |  | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 4 |  |
+| Lattice b; _printed: Lattice parameter b_ | 4.69 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice b; _printed: b_ | 11.2 Å |  | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 6 |  |
+| Lattice b; _printed: b_ | 11.2 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| Lattice c; _printed: Lattice parameter c_ | 8.155 Å | 0 | Au2La; _alloy: La 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 7 |  |
+| Lattice c; _printed: c_ | 9.388 Å |  | Au51La14; _alloy: La 0.215385_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 10 |  |
+| Lattice c; _printed: c_ | 9.41 Å | 0 | AuLa2; _alloy: La 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 1 |  |
+| Lattice c; _printed: Lattice parameter c_ | 5.96 Å | 0 | αAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| Lattice c; _printed: c_ | 4.78 Å | 0 | βAuLa; _alloy: La 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
 
 ## Sources
 

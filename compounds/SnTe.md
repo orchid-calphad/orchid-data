@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/SnTe.html · Markdown: https://data.orchid-project.org/compounds/SnTe.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -30.35 kJ/mol-atom (n = 3); Materials Project -47.968 kJ/mol-atom (mp-aaaaacul); OQMD -32.116 kJ/mol-atom (oqmd-2170064).
+4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -30.35 kJ/mol-atom (n = 3); Materials Project -47.968 kJ/mol-atom (mp-aaaaacul); OQMD -32.026 kJ/mol-atom (oqmd-646930).
 
 Systems: [Sn–Te](https://data.orchid-project.org/systems/SN-TE.html)
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of SnTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32.1 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.35 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -29.7 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.05 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -32.1 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.35 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -29.7 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.05 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of SnTe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaacul | -47.968 | -0.497159 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-2170064 | -32.116 | -0.332862 | P4/nmm | 0 | 0 | yes |
+| OQMD | oqmd-646930 | -32.026 | -0.331932 | Fm-3m | 0.0898 | 9.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

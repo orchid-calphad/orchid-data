@@ -12,7 +12,7 @@ Table: Phases of the Ni–Tb system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ni-tb-bcc-a2); _phase:ni-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1562–2499.51 K, x(Tb) 0.99971–1 | 4 | 3 |
+| [BCC_A2](#phase-ni-tb-bcc-a2); _phase:ni-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1562–2499.51 K, x(Tb) 0.99971–1 | 2 | 3 |
 | [FCC_A1](#phase-ni-tb-fcc-a1); _phase:ni-tb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1796.93 K, x(Tb) 0–0 | 10 | 3 |
 | [HCP_A3](#phase-ni-tb-hcp-a3); _phase:ni-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1562.02 K, x(Tb) 0.99953–1 | 12 | 3 |
 | [LIQUID](#phase-ni-tb-liquid); _phase:ni-tb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 991.93–2500 K, x(Tb) 0–1 | 110 | 3 |
@@ -30,11 +30,11 @@ Table: Phases of the Ni–Tb system (12)
 - Id: `phase:ni-tb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1562–2499.51 K, x(Tb) 0.99971–1
-- Literature: 4 values (4 accepted) from 2 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-tb:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ni-tb:bcc-a2  
-_paper: _paper:10.1007/s10853-022-08039-1:bcc(Tb), paper:10.1007/s11669-024-01089-9:(β-Tb)  
+Names (5): _corpus: _corpus:phase:ni-tb:bcc-a2  
+_paper: _paper:10.1007/s10853-022-08039-1:bcc(Tb)  
 _tdb: _tdb:NiTb-04Ron.tdb:BCC_A2, tdb:NiTb-23Ye.tdb:BCC_A2, tdb:NiTb-24Rah.tdb:BCC_A2  
 
 
@@ -66,7 +66,7 @@ Example references (3 of 3; assessments first):
 - [doi:10.1007/s10853-022-08039-1](https://doi.org/10.1007/s10853-022-08039-1) Hongjian Ye, Maohua Rong, Qingrong Yao, Qing Chen, Jiang Wang, Guanghui Rao et al., Phase equilibria and thermodynamic properties in the RE-Ni (RE = rare earth metals) binary systems, J Mater Sci 58, 1260-1292 (2023).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01089-9](https://doi.org/10.1007/s11669-024-01089-9) Z. Rahou, D. Moustaine, Y. Ben-Ali, A. Hallaoui, CALPHAD-Based Thermodynamic Reassessment of Tb-Ni Binary System Supported by Ab-Initio Calculations, J. Phase Equilib. Diffus. 45, 75-85 (2024).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/S0925-8388(03)00667-4](https://doi.org/10.1016/S0925-8388%2803%2900667-4) Q. Rong, H.-J. Schaller, J. Alloys Compd., 365, 188-96(2004).  
 _assessment that models this phase_
 

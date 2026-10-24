@@ -1,10 +1,10 @@
 # Cu–In system
 
-> Cu–In system: 140 accepted literature values (formation 95, invariant reaction 16, heat capacity / entropy / enthalpy 13, activity / EMF / Gibbs energy 13) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–In system: 136 accepted literature values (formation 95, invariant reaction 16, activity / EMF / Gibbs energy 13, heat capacity / entropy / enthalpy 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-IN.html · Markdown: https://data.orchid-project.org/systems/CU-IN.md
 
-140 accepted literature values from 3 paper(s) (experimental 70, model 45, unspecified 25); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+136 accepted literature values from 3 paper(s) (experimental 70, model 45, unspecified 21); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-IN.json) · [CSV](https://data.orchid-project.org/systems/CU-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-IN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-IN/CuIn-02Her.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-IN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-IN.html) · [Markdown](https://data.orchid-project.org/systems/CU-IN.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 70 |
 | model | 45 |
-| unspecified | 25 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 16 |
 | phase transition | 2 |
 | formation | 95 |
-| heat capacity / entropy / enthalpy | 13 |
+| heat capacity / entropy / enthalpy | 9 |
 | activity / EMF / Gibbs energy | 13 |
 | other property | 1 |
 
@@ -259,18 +259,14 @@ Table: Phase transition, Cu–In system
 | Phase transition | 847 K | 847 | ␤ ↔ ␣ + ␦ | experimental | [2] Hertz 2002 | p. 5 | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
 | Phase transition | 852.5 K | 852.5 | ␤ ↔ ␣ + ␦ | model | [2] Hertz 2002 | p. 5 | “The peritectic (␤ ↔ ␣ + L) temperature is calculated at 982 K (experimental 983 K) and the (␤ ↔ ␣ + ␦) eutectoid temperature at 852.5 K (experimental 847 K).” |
 
-### Heat capacity / entropy / enthalpy (13)
+### Heat capacity / entropy / enthalpy (9)
 
 Table: Heat capacity / entropy / enthalpy, Cu–In system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: Entropy of fusion (-B)_ | 9.627 J/mol (basis unstated)/K |  | Cu (fcc); _alloy: In 0_ | unspecified | [1] Kao 1993; _cites ref. 7_ | Table 1, p. 3, row 1 |  |
 | Entropy; _printed: ΔmS_ | 14.4 J/K · mol |  | Cu11In9; _alloy: In 0.45_ | model | [1] Kao 1993; _cites ref. 34_ | Table 5, p. 7, row 9 |  |
 | Entropy; _printed: ΔmS_ | 8.7 J/K · mol |  | Cu11In9; _alloy: In 0.45_ | model | [1] Kao 1993; _cites ref. 34_ | Table 5, p. 7, row 8 |  |
-| Entropy; _printed: Entropy of fusion (-B)_ | 7.586 J/mol (basis unstated)/K |  | In (bct); _alloy: In 1_ | unspecified | [1] Kao 1993; _cites ref. 7_ | Table 1, p. 3, row 2 |  |
-| Entropy; _printed: Entropy of fusion (-B)_ | 7.582 J/mol (basis unstated)/K |  | In (fcc, metastable); _alloy: In 1_ | unspecified | [1] Kao 1993; _cites ref. 8_ | Table 1, p. 3, row 3 |  |
-| Entropy; _printed: Entropy of fusion (-B)_ | 7.394 J/mol (basis unstated)/K |  | In (fcc, metastable); _alloy: In 1_ | unspecified | [1] Kao 1993; _cites ref. 9_ | Table 1, p. 3, row 4 |  |
 | Entropy; _printed: ΔmS_ | 9 J/K · mol |  | δCu7In3; _alloy: In 0.3_ | model | [1] Kao 1993; _cites ref. 34_ | Table 5, p. 7, row 2 |  |
 | Entropy; _printed: ΔmS_ | 14.1 J/K · mol |  | δCu7In3; _alloy: In 0.3_ | model | [1] Kao 1993; _cites ref. 34_ | Table 5, p. 7, row 3 |  |
 | Entropy; _printed: ΔmS_ | 14.2 J/K · mol |  | ηCu2In; _alloy: In 0.333333_ | model | [1] Kao 1993; _cites ref. 34_ | Table 5, p. 7, row 6 |  |

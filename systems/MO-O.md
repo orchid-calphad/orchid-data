@@ -91,13 +91,13 @@ Table: Enthalpies of formation, Mo–O system (56)
 | Mo4O11·oP60 |  | -195.827 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 16 |  |
 | Mo4O11·oP60 |  | -194.254 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 17 |  |
 | Mo4O11·oP60 |  | -190.346 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 18 |  |
-| Mo4O11·oP60 |  | -188.961 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 20 |  |
+| Mo4O11·oP60 |  | -188.961 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 20 |  |
 | Mo4O11·oP60 |  | -188.91 kJ/mol-atom | 0 | model |  |  | [1] Zhang 2014 | Table 1, p. 2, row 15 |  |
 | Mo4O11·oP60 |  | -187.055 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 19 |  |
 | Mo8O23·mP124 |  | -194.042 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 26 |  |
 | Mo8O23·mP124 |  | -191.224 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 27 |  |
 | Mo8O23·mP124 |  | -188.435 kJ/mol-atom | 0 | model |  |  | [1] Zhang 2014 | Table 1, p. 2, row 25 |  |
-| Mo8O23·mP124 |  | -188.162 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 30 |  |
+| Mo8O23·mP124 |  | -188.162 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 30 |  |
 | Mo8O23·mP124 |  | -187.847 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 28 |  |
 | Mo8O23·mP124 |  | -184.798 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 29 |  |
 | Mo8O23·mP62 |  | -194.148 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 31 |  |
@@ -108,17 +108,17 @@ Table: Enthalpies of formation, Mo–O system (56)
 | Mo9O26·mC280 |  | -191.166 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 37 |  |
 | Mo9O26·mC280 |  | -187.567 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 38 |  |
 | Mo9O26·mC280 |  | -187.494 kJ/mol-atom | 0 | model |  |  | [1] Zhang 2014 | Table 1, p. 2, row 35 |  |
-| Mo9O26·mC280 |  | -187.49 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 40 |  |
+| Mo9O26·mC280 |  | -187.49 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 40 |  |
 | Mo9O26·mC280 |  | -184.769 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 39 |  |
 | Mo9O26·mP70 |  | -193.858 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 41 |  |
 | Mo9O26·mP70 |  | -191.224 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 42 |  |
 | Mo9O26·mP70 |  | -187.751 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 43 |  |
 | Mo9O26·mP70 |  | -184.798 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 44 |  |
 | MoO2·mP12 |  | -204.366 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 8 |  |
-| MoO2·mP12 |  | -197.427 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Jacob 2007_ [doi](https://doi.org/10.1016/j.jct.2007.09.005) | Table 1, p. 2, row 14 |  |
-| MoO2·mP12 |  | -197.167 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites H 1986_ | Table 1, p. 2, row 13 |  |
+| MoO2·mP12 |  | -197.427 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Jacob 2007_ [doi](https://doi.org/10.1016/j.jct.2007.09.005) | Table 1, p. 2, row 14 |  |
+| MoO2·mP12 |  | -197.167 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites H 1986_ | Table 1, p. 2, row 13 |  |
 | MoO2·mP12 |  | -196.433 kJ/mol-atom | 0 | model |  |  | [1] Zhang 2014 | Table 1, p. 2, row 7 |  |
-| MoO2·mP12 |  | -195.933 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 12 |  |
+| MoO2·mP12 |  | -195.933 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 12 |  |
 | MoO2·mP12 |  | -191.736 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 10 |  |
 | MoO2·mP12 |  | -190.027 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 11 |  |
 | MoO2·mP12 |  | -188.503 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 9 |  |
@@ -133,7 +133,7 @@ Table: Enthalpies of formation, Mo–O system (56)
 | MoO3·oP16 |  | -186.236 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 54 |  |
 | MoO3·oP16 |  | -186.15 kJ/mol-atom | 0 | model |  |  | [1] Zhang 2014 | Table 1, p. 2, row 53 |  |
 | MoO3·oP16 |  | -185.57 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 55 |  |
-| MoO3·oP16 |  | -184.418 kJ/mol-atom | 0 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 58 |  |
+| MoO3·oP16 |  | -184.418 kJ/mol-atom | 298.15 | experimental |  |  | [1] Zhang 2014; _cites Brewer 1980_ | Table 1, p. 2, row 58 |  |
 | MoO3·oP16 |  | -181.488 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 57 |  |
 | MoO3·oP16 |  | -180.765 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2014 | Table 1, p. 2, row 56 |  |
 

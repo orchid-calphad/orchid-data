@@ -1,10 +1,10 @@
 # Pb–Y system
 
-> Pb–Y system: 175 accepted literature values (heat capacity / entropy / enthalpy 164, crystal structure 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Y system: 170 accepted literature values (heat capacity / entropy / enthalpy 164, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-Y.html · Markdown: https://data.orchid-project.org/systems/PB-Y.md
 
-175 accepted literature values from 1 paper(s) (experimental 170, model 1, unspecified 4); 1 calculated phase diagram(s).
+170 accepted literature values from 1 paper(s) (experimental 170); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-Y.json) · [CSV](https://data.orchid-project.org/systems/PB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-Y/PbY-93Vas.json) · [phases (8)](https://data.orchid-project.org/phases/pages/PB-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-Y.html) · [Markdown](https://data.orchid-project.org/systems/PB-Y.md)
 
@@ -13,15 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 170 |
-| model | 1 |
-| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | heat capacity / entropy / enthalpy | 164 |
-| crystal structure | 11 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -226,21 +224,16 @@ Table: Heat capacity / entropy / enthalpy, Pb–Y system
 | Heat capacity; _printed: Cp_ | 28.6 J/mol-atom/K | 773 | YPb2; _alloy: Y 0.333333_ | experimental | [1] Vasslliev 1993 | Table 2, p. 3, row 41 |  |
 | Heat capacity; _printed: Cp_ | 28.3 J/mol-atom/K | 773 | YPb3; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993 | Table 2, p. 3, row 41 |  |
 
-### Crystal structure (11)
+### Crystal structure (6)
 
 Table: Crystal structure, Pb–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.04 Å | 298.15 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 3 |  |
-| Lattice a | 4.9502 Å | 600.65 (\<) | Pb; _alloy: Y 0_ | model | [1] Vasslliev 1993; _cites Massalski 1990_ | Table 1, p. 1, row 8 |  |
 | Lattice a | 4.814 Å | 1013.15 (\<) | UNKNOWN; _alloy: Y 0.25_ | experimental | [1] Vasslliev 1993; _cites Yu 1964_ | Table 1, p. 1, row 7 |  |
-| Lattice a | 4.11 Å | 1500 | βY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 2 |  |
-| Lattice a | 3.6482 Å | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
 | Lattice a | 7.994 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
 | Lattice a | 8.971 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
 | Lattice b | 15.1 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
-| Lattice c | 5.7318 Å | 1751.15 (\<) | αY; _alloy: Y 1_ | unspecified | [1] Vasslliev 1993; _cites Gschneidner 1986_ | Table 1, p. 1, row 1 |  |
 | Lattice c | 8.241 Å | 1923.15 (\<) | UNKNOWN; _alloy: Y 0.555556_ | experimental | [1] Vasslliev 1993; _cites Carlson 1967_ | Table 1, p. 1, row 5 |  |
 | Lattice c | 6.614 Å | 2033.15 (\<) | UNKNOWN; _alloy: Y 0.625_ | experimental | [1] Vasslliev 1993; _cites Jeitschkoand 1965_ | Table 1, p. 1, row 4 |  |
 

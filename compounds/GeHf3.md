@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of GeHf3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28.4 | kJ/mol-atom | 8.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 8.2 |
-| -56.392 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45.435 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.4 | kJ/mol-atom | 8.2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 8.2 |
+| -56.392 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45.435 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -38,8 +38,8 @@ Table: DFT formation energy of GeHf3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacqlam | -45.349 | -0.470011 | P4_2/n | 2.168 | 0.0225 | no |
-| OQMD | oqmd-2052547 | -45.623 | -0.472855 | P42/n | 1.782 | 0.0185 | yes |
+| Materials Project | mp-aaacqlam | -45.349 | -0.470011 | P4_2/n | 2.1679 | 0.0225 | no |
+| OQMD | oqmd-2052547 | -45.623 | -0.472855 | P42/n | 1.7823 | 0.0185 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

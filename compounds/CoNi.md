@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/CoNi.html · Markdown: https://data.orchid-project.org/compounds/CoNi.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 0.608 kJ/mol-atom (mp-aaacrtsu); OQMD -0.922 kJ/mol-atom (oqmd-1219805).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 14.703 kJ/mol-atom (mp-aaacfhmh); OQMD 14.332 kJ/mol-atom (oqmd-304574).
 
-Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
+Systems: [Co–Ni](https://data.orchid-project.org/systems/CO-NI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CoNi reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 5.66 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 10 |  |
+| 5.66 kJ/mol-atom | B2 | 298.15 | model |  | [Co–Ni](https://data.orchid-project.org/systems/CO-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 10 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CoNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 5.66 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 5.66 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of CoNi
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacrtsu | 0.608 | 0.006304 | R-3m | 2.267 | 0.0235 | yes |
-| OQMD | oqmd-1219805 | -0.922 | -0.009552 | Pmma | 1.637 | 0.017 | yes |
+| Materials Project | mp-aaacfhmh | 14.703 | 0.152385 | Pm-3m | 16.3617 | 0.1696 | yes |
+| OQMD | oqmd-304574 | 14.332 | 0.148538 | Pm-3m | 16.8439 | 0.1746 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

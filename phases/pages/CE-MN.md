@@ -12,7 +12,7 @@ Table: Phases of the Ce–Mn system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ce-mn-bcc-a2); _phase:ce-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 911.37–2498.99 K, x(Mn) 0–1 | 9 | 2 |
+| [BCC_A2](#phase-ce-mn-bcc-a2); _phase:ce-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 911.37–2498.99 K, x(Mn) 0–1 | 5 | 2 |
 | [CBCC_A12](#phase-ce-mn-cbcc-a12); _phase:ce-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1355 K, x(Mn) 1–1 | 5 | 2 |
 | [CUB_A13](#phase-ce-mn-cub-a13); _phase:ce-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 898.39–1404.99 K, x(Mn) 0.97167–1 | 0 | 2 |
 | [FCC_A1](#phase-ce-mn-fcc-a1); _phase:ce-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1418 K, x(Mn) 0–1 | 10 | 2 |
@@ -24,11 +24,11 @@ Table: Phases of the Ce–Mn system (6)
 - Id: `phase:ce-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 911.37–2498.99 K, x(Mn) 0–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mn:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ce-mn:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2006.07.071:(βMn), paper:10.1016/j.jallcom.2006.07.071:(δCe), paper:10.1016/j.jallcom.2006.07.071:(δMn)  
+Names (5): _corpus: _corpus:phase:ce-mn:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2006.07.071:(δCe), paper:10.1016/j.jallcom.2006.07.071:(δMn)  
 _tdb: _tdb:CeMn-07Tan.tdb:BCC_A2, tdb:CeMn-24Ye.tdb:BCC_A2  
 
 

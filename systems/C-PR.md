@@ -1,10 +1,10 @@
 # C–Pr system
 
-> C–Pr system: 3 accepted literature values (invariant reaction 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Pr system: 15 accepted literature values (invariant reaction 9, crystal structure 3, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-PR.html · Markdown: https://data.orchid-project.org/systems/C-PR.md
 
-3 accepted literature values from 1 paper(s) (model 3); 0 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 9, model 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-PR.json) · [CSV](https://data.orchid-project.org/systems/C-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-PR) · [phases (8)](https://data.orchid-project.org/phases/pages/C-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-PR.html) · [Markdown](https://data.orchid-project.org/systems/C-PR.md)
 
@@ -12,25 +12,58 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 3 |
+| experimental | 9 |
+| model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 3 |
+| invariant reaction | 9 |
+| formation | 3 |
+| crystal structure | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-PR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-PR.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Pr system (3)
+Table: Invariant reactions reported in the literature for the C–Pr system (9)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2527.15 | eutectic: L → β PrC2 + (C) |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
 | 1818.15 | peritectic: L + β PrC2 → Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “Eremenko et al. \[5\] determined the temperature of peritectic reaction (L + β PrC2 → Pr2 C3 ) to be 1545 ± 4 °C at about 50 at.% C, which is in good agreement with the reported temperature (1560 °C) by Kosolapova et al. \[48\].” |
+| 1424.55 | βPrC2 + (C) \<-> αPrC2 | βPrC2: C 0.666; (C): C 1; αPrC2: C 0.6667 | model | [1] Peng 2011 | Table 4, p. 6, row 35 |  |
+| 1424.55 | βPrC2 \<-> Pr2C3 + αPrC2 | βPrC2: C 0.666; Pr2C3: C 0.598; αPrC2: C 0.667 | model | [1] Peng 2011 | Table 4, p. 6, row 33 |  |
+| 1418.15 | βPrC2 \<-> Pr2C3 + αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 34 |  |
+| 1407.15 | βPrC2 + (C) \<-> αPrC2 |  | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 36 |  |
 | 1073.15 | eutectic: L → (β Pr) + Pr2 C3 |  | model | [1] Peng 2011; _cites Conclusions_ | p. 3 | “In addition, two eutectic reactions were also found in the C-Pr system by Eremenko et al. \[5\], i.e. L → (β Pr) + Pr2 C3 and L → β PrC2 + (C) at 800 ± 4 °C at about 15 at.% C and 2254 ± 6 °C at about 71.5 at.% C, respectively.” |
+| 949.05 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.065; Pr2C3: C 0.548; (αPr): C 0.044 | model | [1] Peng 2011 | Table 4, p. 6, row 29 |  |
+| 948.15 | (βPr) \<-> Pr2C3 + (αPr) | (βPr): C 0.062 | experimental | [1] Peng 2011; _cites Conclusions_ | Table 4, p. 6, row 30 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, C–Pr system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pr2C3 | [Pr2C3](https://data.orchid-project.org/compounds/Pr2C3.html) | -27.9 kJ/mol-atom | 298.15 | experimental | -13.558 (mp-aaaaabah) | -14.229 (oqmd-2191) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17 |  |
+| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -29.4 kJ/mol-atom ± 1.6 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906009-6) | Table 2, p. 2, row 19 |  |
+| PrC2 | [PrC2](https://data.orchid-project.org/compounds/PrC2.html) | -28.2 kJ/mol-atom ± 3.5 | 298.15 | experimental | -9.857 (mp-aaaaacyt) | -10.23 (oqmd-3666) | [1] Peng 2011; _cites Anderson 2011_ | Table 2, p. 2, row 18 |  |
+
+## Other properties
+
+### Crystal structure (3)
+
+Table: Crystal structure, C–Pr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.59 Å | 298.15 | Pr2C3; _alloy: Pr 0.4_ | experimental | [1] Peng 2011; _cites Atoji 1978_ [doi](https://doi.org/10.1016/0022-4596%2878%2990132-9) | Table 1, p. 2, row 14 |  |
+| Lattice a | 3.85 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 6.42 Å | 298.15 | α PrC2; _alloy: Pr 0.333333_ | experimental | [1] Peng 2011; _cites Atoji 1967_ | Table 1, p. 2, row 15 |  |
 
 ## Sources
 

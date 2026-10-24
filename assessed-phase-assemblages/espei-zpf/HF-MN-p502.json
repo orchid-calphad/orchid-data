@@ -19,9 +19,7 @@
    1187.246919,
    1463.246919,
    1768.246919,
-   1684.246919,
-   1908.746919,
-   1739.246919
+   1908.746919
   ]
  },
  "output": "ZPF",
@@ -119,35 +117,6 @@
   ],
   [
    [
-    "LIQUID",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HFMN2_C14",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "MN"
-    ],
-    [
-     0.813593746
-    ]
-   ]
-  ],
-  [
-   [
     "BCC_A2",
     [
      "MN"
@@ -174,35 +143,6 @@
      0.1043304221
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HFMN2_C14",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "MN"
-    ],
-    [
-     0.4912468295
-    ]
-   ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 16(4), 361-363 (1995) doi:10.1007/bf02645298; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 502",
@@ -220,13 +160,9 @@
    "aspa-296ce8068298c3a5",
    "aspa-36fab89c0bb15b29",
    "aspa-a269a913e67a8e79",
-   "aspa-753b667b578f0365",
-   "aspa-8e803a7d42ce5910",
-   "aspa-23fee6e5e91d10ea"
+   "aspa-8e803a7d42ce5910"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -330,24 +266,6 @@
     }
    },
    {
-    "record_id": "aspa-753b667b578f0365",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.333,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 192.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0785846,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-8e803a7d42ce5910",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -362,24 +280,6 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0555598,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-23fee6e5e91d10ea",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.333,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 165.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.138649,
      "sigma_effective": 0.02
     }
    }

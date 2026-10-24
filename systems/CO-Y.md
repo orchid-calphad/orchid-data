@@ -1,10 +1,10 @@
 # Co–Y system
 
-> Co–Y system: 93 accepted literature values (invariant reaction 66, phase transition 15, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Y system: 89 accepted literature values (invariant reaction 62, phase transition 15, formation 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-Y.html · Markdown: https://data.orchid-project.org/systems/CO-Y.md
 
-93 accepted literature values from 2 paper(s) (experimental 33, model 36, DFT 8, unspecified 16); 4 calculated phase diagram(s).
+89 accepted literature values from 2 paper(s) (experimental 31, model 34, DFT 8, unspecified 16); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-Y.json) · [CSV](https://data.orchid-project.org/systems/CO-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-Y/CoY-04Du-LB.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CO-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-Y.html) · [Markdown](https://data.orchid-project.org/systems/CO-Y.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
-| model | 36 |
+| experimental | 31 |
+| model | 34 |
 | DFT | 8 |
 | unspecified | 16 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 66 |
+| invariant reaction | 62 |
 | phase transition | 15 |
 | formation | 12 |
 
@@ -166,7 +166,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Y system (66)
+Table: Invariant reactions reported in the literature for the Co–Y system (62)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -174,8 +174,6 @@ Table: Invariant reactions reported in the literature for the Co–Y system (66)
 | 1795 | L -> β-Y | β-Y: Y 1 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 35 |  |
 | 1768 | L -> α-Co | α-Co: Y 0 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 3 |  |
 | 1768 | L -> α-Co | α-Co: Y 0 | experimental | [1] Golumbfskie 2006; _cites Okamoto 1992_ [doi](https://doi.org/10.1007/bf02667566) | Table 2, p. 2, row 4 |  |
-| 1751 | β-Y -> α-Y | α-Y: Y 1 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 33 |  |
-| 1751 | β-Y -> α-Y | α-Y: Y 1 | experimental | [1] Golumbfskie 2006; _cites Gschneidner 1986_ [doi](https://doi.org/10.1016/s0168-1273%2886%2908004-2) | Table 2, p. 2, row 34 |  |
 | 1751 | Liq. + bcc(Y) -> hcp(Y) | L: Y 0.9814; bcc(Y): Y 0.9999; hcp(Y): Y 0.9998 | model | [2] Du 2004 | Table 4, p. 7, row 31 |  |
 | 1751 | Liq. + bcc(Y) -> hcp(Y) | L: Y 0.98; bcc(Y): Y 1; hcp(Y): Y 1 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 32 |  |
 | 1630 | L -> β-Co17Y2 | L: Y 0.11; β-Co17Y2: Y 0.11 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 8 |  |
@@ -217,7 +215,7 @@ Table: Invariant reactions reported in the literature for the Co–Y system (66)
 | 1071 | Liq. + Co3Y2 -> CoY | L: Y 0.5712; Co3Y2: Y 0.4; CoY: Y 0.5 | model | [2] Du 2004 | Table 4, p. 7, row 19 |  |
 | 1069 | L + Co3Y2 -> CoY | L: Y 0.5825; Co3Y2: Co 0.6, Y 0.4; CoY: Co 0.5, Y 0.5 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 23 |  |
 | 1048 | Co3Y2 + CoY -> Co7Y6 | Co3Y2: Y 0.4; CoY: Y 0.5; Co7Y6: Y 0.461538 | model | [2] Du 2004 | Table 4, p. 7, row 21 |  |
-| 1048 | Co3Y2 + CoY -> Co7Y6 | Co3Y2: Y 0.5; CoY: Y 0.4; Co7Y6: Y 0.454 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 22 |  |
+| 1048 | Co3Y2 + CoY -> Co7Y6 | Co3Y2: Y 0.4; CoY: Y 0.5; Co7Y6: Y 0.454 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 22 |  |
 | 1048 | Co3Y2 + CoY -> Co7Y6 | Co3Y2: Y 0.4; CoY: Y 0.5; Co7Y6: Y 0.461538 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 22 |  |
 | 1048 | Co3Y2 + CoY -> Co7Y6 | Co3Y2: Y 0.5; CoY: Y 0.5; Co7Y6: Co 0.538462, Y 0.461538 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 21 |  |
 | 1013 | Liq. + CoY -> Co5Y8 | L: Y 0.63; CoY: Y 0.5; Co5Y8: Y 0.615385 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 24 |  |
@@ -229,12 +227,10 @@ Table: Invariant reactions reported in the literature for the Co–Y system (66)
 | 1011 | Liq. -> Co5Y8 + CoY3 | L: Y 0.63; Co5Y8: Y 0.615385; CoY3: Y 0.75 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 28 |  |
 | 1011 | Liq. -> Co5Y8 + CoY3 | L: Y 0.6278; Co5Y8: Y 0.615385; CoY3: Y 0.75 | model | [2] Du 2004 | Table 4, p. 7, row 27 |  |
 | 1005 | Co5Y8 + CoY -> Co3Y4 | Co5Y8: Y 0.615385; CoY: Y 0.5; Co3Y4: Y 0.571429 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 26 |  |
-| 1005 | YCo + Co5Y8 -> Co3Y4 | YCo: Y 0.615; Co5Y8: Y 0.5; Co3Y4: Y 0.571 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 26 |  |
+| 1005 | YCo + Co5Y8 -> Co3Y4 | YCo: Y 0.5; Co5Y8: Y 0.615; Co3Y4: Y 0.571 | experimental | [1] Golumbfskie 2006; _cites Wu 1991_ | Table 2, p. 2, row 26 |  |
 | 1005 | YCo + Co5Y8 -> Co3Y4 | YCo: Y 0.615; Co5Y8: Y 0.615; Co3Y4: Co 0.428571, Y 0.571429 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 25 |  |
 | 1005 | Co5Y8 + CoY -> Co3Y4 | Co5Y8: Y 0.615385; CoY: Y 0.5; Co3Y4: Y 0.571429 | model | [2] Du 2004 | Table 4, p. 7, row 25 |  |
 | 695 | fcc(Co) -> Co17Y2+hcp(Co) | fcc(Co): Y 0; Co17Y2: Y 0.105; hcp(Co): Y 0 | unspecified | [2] Du 2004; _cites Conclusions_ | Table 4, p. 7, row 4 |  |
-| 695 | α-Co -> ε-Co | ε-Co: Y 0 | experimental | [1] Golumbfskie 2006; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 2, row 2 |  |
-| 695 | α-Co -> ε-Co | ε-Co: Y 0 | model | [1] Golumbfskie 2006 | Table 2, p. 2, row 1 |  |
 | 695 | fcc(Co) -> Co17Y2+hcp(Co) | fcc(Co): Y 0; Co17Y2: Y 0.1053; hcp(Co): Y 0 | model | [2] Du 2004 | Table 4, p. 7, row 3 |  |
 
 ## Formation enthalpies
@@ -249,14 +245,14 @@ Table: Enthalpies of formation, Co–Y system (12)
 | (Co2)(Co)4(Va) |  | 25.81 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 6 |  |
 | (Y)(Co)4(Va) |  | 16.31 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 5 |  |
 | Co17Y2 |  | -10.35 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 1 |  |
-| Co17Y2 | [Co17Y2](https://data.orchid-project.org/compounds/Co17Y2.html) | 7.6 kJ/mol-atom ± 0.8 | 298.15 | experimental | -9.092 (mp-aaackyhw) | -10.589 (oqmd-29527) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 14 |  |
+| Co17Y2 | [Co17Y2](https://data.orchid-project.org/compounds/Co17Y2.html) | -7.6 kJ/mol-atom ± 0.8 | 298.15 | experimental | -9.092 (mp-aaackyhw) | -10.589 (oqmd-29527) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 14 |  |
 | Co2Y | [Co2Y](https://data.orchid-project.org/compounds/Co2Y.html) | -22.76 kJ/mol-atom ± 1.33 | 298.15 | experimental | -17.069 (mp-aaaaabxu) | -18.206 (oqmd-19394) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 17 |  |
 | Co2Y |  | -19.29 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 16 |  |
 | CoY |  | -23.14 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 10 |  |
 | CoY3 |  | -16.96 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 12 |  |
 | CoY3 | [CoY3](https://data.orchid-project.org/compounds/CoY3.html) | -15.8 kJ/mol-atom ± 4.98 | 298.15 | experimental | -13.914 (mp-aaackxna) | -14.674 (oqmd-664091) | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 18 |  |
+| Y(Co)4(Co) |  | -12.2 kJ/mol-atom ± 0.87 | 298.15 | experimental |  |  | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 15 |  |
 | Y(Co)4(Co) |  | -9.42 kJ/mol-atom | 0 | DFT |  |  | [1] Golumbfskie 2006 | Table 4, p. 3, row 3 |  |
-| Y(Co)4(Co) |  | 12.2 kJ/mol-atom ± 0.87 | 298.15 | experimental |  |  | [1] Golumbfskie 2006; _cites Subramanian 1985_ [doi](https://doi.org/10.1007/bf02670324) | Table 4, p. 3, row 15 |  |
 
 ## Other properties
 

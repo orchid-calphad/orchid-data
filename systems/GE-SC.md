@@ -1,10 +1,10 @@
 # Ge–Sc system
 
-> Ge–Sc system: 88 accepted literature values (crystal structure 41, invariant reaction 23, phase transition 13, phase equilibrium 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Sc system: 84 accepted literature values (crystal structure 37, invariant reaction 23, phase transition 13, phase equilibrium 11) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SC.html · Markdown: https://data.orchid-project.org/systems/GE-SC.md
 
-88 accepted literature values from 1 paper(s) (experimental 43, model 14, DFT 16, unspecified 15); 1 calculated phase diagram(s).
+84 accepted literature values from 1 paper(s) (experimental 42, model 13, DFT 14, unspecified 15); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SC.json) · [CSV](https://data.orchid-project.org/systems/GE-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SC/GeSc-12Che.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GE-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SC.html) · [Markdown](https://data.orchid-project.org/systems/GE-SC.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
-| model | 14 |
-| DFT | 16 |
+| experimental | 42 |
+| model | 13 |
+| DFT | 14 |
 | unspecified | 15 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 23 |
 | phase transition | 13 |
 | phase equilibrium | 11 |
-| crystal structure | 41 |
+| crystal structure | 37 |
 
 ## Calculated phase diagrams
 
@@ -128,21 +128,18 @@ Table: Phase equilibrium, Ge–Sc system
 | Phase assemblage |  | 1323 | (αSc) + Sc5Ge3; _alloy: Ge 0.12, Sc 0.88_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 2 |  |
 | Phase assemblage |  | 1323 | ScGe2 + (Ge); _alloy: Ge 0.41, Sc 0.59_ | experimental | [1] Cheng 2012 | Table 2, p. 3, row 10 |  |
 
-### Crystal structure (41)
+### Crystal structure (37)
 
 Table: Crystal structure, Ge–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.62 Å | 0 | (Ge); _alloy: Sc 0_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 20 |  |
-| Lattice a | 3.3082 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
 | Lattice a | 10.32 Å | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
 | Lattice a | 7.972 Å | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
 | Lattice a | 7.172 Å | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |
 | Lattice a | 4.025 Å | 0 | ScGe; _alloy: Sc 0.5_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 14 |  |
 | Lattice a | 3.88 Å | 0 | ScGe2; _alloy: Sc 0.333333_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 17 |  |
-| Lattice a | 5.62 Å | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 19 |  |
-| Lattice a | 5.657 Å | 298.15 | (Ge); _(Ge): Ge 1, Sc 0_ | model | [1] Cheng 2012; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 3, p. 3, row 18 |  |
 | Lattice a | 3.3107 Å | 298.15 | (αSc); _(αSc): Ge 0.0241, Sc 0.9759_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 2 |  |
 | Lattice a | 3.3088 Å | 298.15 | (αSc); _(αSc): Ge 0.027, Sc 0.973_ | unspecified | [1] Cheng 2012; _cites Beaudry 1978_ | Table 3, p. 3, row 1 |  |
 | Lattice a | 3.73 Å | 298.15 | (βSc); _(βSc): Ge 0.02, Sc 0.98_ | model | [1] Cheng 2012; _cites Massalski 1986_ | Table 3, p. 3, row 4 |  |
@@ -160,7 +157,6 @@ Table: Crystal structure, Ge–Sc system
 | Lattice b | 10.06 Å | 298.15 | ScGe; _ScGe: Ge 0.5, Sc 0.5_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 13 |  |
 | Lattice b | 14.87 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | unspecified | [1] Cheng 2012; _cites Eremenko 1981_ | Table 3, p. 3, row 15 |  |
 | Lattice b | 14.85 Å | 298.15 | ScGe2; _ScGe2: Ge 0.6667, Sc 0.3333_ | experimental | [1] Cheng 2012 | Table 3, p. 3, row 16 |  |
-| Lattice c | 5.1769 Å | 0 | (αSc); _alloy: Sc 1_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 3 |  |
 | Lattice c | 15.3 Å | 0 | Sc11Ge10; _alloy: Sc 0.52381_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 12 |  |
 | Lattice c | 5.905 Å | 0 | Sc5Ge3; _alloy: Sc 0.625_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 8 |  |
 | Lattice c | 7.251 Å | 0 | Sc5Ge4; _alloy: Sc 0.555556_ | DFT | [1] Cheng 2012 | Table 3, p. 3, row 10 |  |

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ni5H7.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 2).
 
-Systems: [Ce–H–Ni](https://data.orchid-project.org/systems/CE-H-NI.html)
+Systems: [H–Ni](https://data.orchid-project.org/systems/H-NI.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ni5H7 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -19.257 kJ/mol (basis unstated) | (Ce)(Ni)5(H)7 |  | model | DFT, CALPHAD | [Ce–H–Ni](https://data.orchid-project.org/systems/CE-H-NI.html) | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
-| -11.176 kJ/mol (basis unstated) | (Ce)(Ni)5(H)7 |  | model | DFT, CALPHAD | [Ce–H–Ni](https://data.orchid-project.org/systems/CE-H-NI.html) | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
+| -19.257 kJ/mol (basis unstated) | (Ce)(Ni)5(H)7 |  | model | DFT, CALPHAD | [H–Ni](https://data.orchid-project.org/systems/H-NI.html) | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
+| -11.176 kJ/mol (basis unstated) | (Ce)(Ni)5(H)7 |  | model | DFT, CALPHAD | [H–Ni](https://data.orchid-project.org/systems/H-NI.html) | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ni5H7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -19.257 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.176 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -19.257 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -11.176 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 
 ## Sources
 

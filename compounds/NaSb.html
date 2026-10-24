@@ -42,7 +42,7 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <main>
 <h1>NaSb: enthalpy of formation</h1>
 <p>6 accepted literature formation-enthalpy value(s) (experimental 3, model 1, DFT 2); experimental median -35 kJ/mol-atom (n = 3); Materials Project -40.415 kJ/mol-atom (mp-aaaaalto); OQMD -37.498 kJ/mol-atom (oqmd-5018).</p>
-<p>Systems: <a href="../systems/NA-SB.html">Na–Sb</a> · <a href="../systems/NA-SB-SN.html">Na–Sb–Sn</a></p>
+<p>Systems: <a href="../systems/NA-SB.html">Na–Sb</a></p>
 <h2 id="literature">Literature values</h2>
 <div class="tw"><table>
 <caption>Enthalpy of formation of NaSb reported in the literature (6)</caption>
@@ -52,8 +52,8 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <tr><th scope="row">-35 kJ/mol-atom</th><td>NaSb(s)</td><td class="n">298.15</td><td><span class="b b-experimental">experimental</span></td><td></td><td><a href="../systems/NA-SB.html">Na–Sb</a></td><td><a href="#s1">[1]</a> Liu 2013<br><small>cites Voronin 1967</small></td><td>Table 2, p. 4, row 7</td><td></td></tr>
 <tr><th scope="row">-33 kJ/mol-atom</th><td>NaSb(s)</td><td class="n">298.15</td><td><span class="b b-experimental">experimental</span></td><td></td><td><a href="../systems/NA-SB.html">Na–Sb</a></td><td><a href="#s1">[1]</a> Liu 2013<br><small>cites Kubaschewski 1938</small></td><td>Table 2, p. 4, row 9</td><td></td></tr>
 <tr><th scope="row">-37.5 kJ/mol-atom</th><td>NaSb(s)</td><td class="n"></td><td><span class="b b-model">model</span></td><td></td><td><a href="../systems/NA-SB.html">Na–Sb</a></td><td><a href="#s1">[1]</a> Liu 2013</td><td>Table 2, p. 4, row 6</td><td></td></tr>
-<tr><th scope="row">-0.679 eV</th><td>NaSb</td><td class="n">0</td><td><span class="b b-dft">DFT</span></td><td>DFT</td><td><a href="../systems/NA-SB-SN.html">Na–Sb–Sn</a></td><td><a href="#s2">[2]</a> Dreval 2017</td><td>Table 3, p. 7, row 21</td><td></td></tr>
-<tr><th scope="row">-0.663 eV</th><td>NaSb</td><td class="n">0</td><td><span class="b b-dft">DFT</span></td><td>DFT</td><td><a href="../systems/NA-SB-SN.html">Na–Sb–Sn</a></td><td><a href="#s2">[2]</a> Dreval 2017</td><td>Table 3, p. 7, row 22</td><td></td></tr>
+<tr><th scope="row">-0.679 eV</th><td>NaSb</td><td class="n">0</td><td><span class="b b-dft">DFT</span></td><td>DFT</td><td><a href="../systems/NA-SB.html">Na–Sb</a></td><td><a href="#s2">[2]</a> Dreval 2017</td><td>Table 3, p. 7, row 21</td><td></td></tr>
+<tr><th scope="row">-0.663 eV</th><td>NaSb</td><td class="n">0</td><td><span class="b b-dft">DFT</span></td><td>DFT</td><td><a href="../systems/NA-SB.html">Na–Sb</a></td><td><a href="#s2">[2]</a> Dreval 2017</td><td>Table 3, p. 7, row 22</td><td></td></tr>
 </tbody>
 </table></div>
 <h3>Uncertainty budget</h3>
@@ -62,12 +62,12 @@ footer{border-top:1px solid var(--line);margin-top:40px;padding:18px 16px 40px;c
 <caption>Uncertainty budget of the literature values of NaSb</caption>
 <thead><tr><th scope="col">Value</th><th scope="col">Unit</th><th scope="col">Printed</th><th scope="col">Reading</th><th scope="col">Method (class, basis)</th><th scope="col">Composition</th><th scope="col">Scatter</th><th scope="col">Conversion</th><th scope="col">Effective</th></tr></thead>
 <tbody>
-<tr><th scope="row">-36</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
-<tr><th scope="row">-35</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
-<tr><th scope="row">-33</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>4.1 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">4.1</td></tr>
-<tr><th scope="row">-37.5</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>3.3 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.3</td></tr>
-<tr><th scope="row">-0.679</th><td>eV</td><td class="n"></td><td class="n">5.000e-4</td><td>0.07134 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">0.07134</td></tr>
-<tr><th scope="row">-0.663</th><td>eV</td><td class="n"></td><td class="n">5.000e-4</td><td>0.07134 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">0.07134</td></tr>
+<tr><th scope="row">-36</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>3.5 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.5</td></tr>
+<tr><th scope="row">-35</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>3.5 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.5</td></tr>
+<tr><th scope="row">-33</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>3.5 (unknown, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.5</td></tr>
+<tr><th scope="row">-37.5</th><td>kJ/mol-atom</td><td class="n"></td><td class="n">0.25</td><td>3.4 (model_calculated, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">3.4</td></tr>
+<tr><th scope="row">-0.679</th><td>eV</td><td class="n"></td><td class="n">5.000e-4</td><td>0.2112 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">0.2112</td></tr>
+<tr><th scope="row">-0.663</th><td>eV</td><td class="n"></td><td class="n">5.000e-4</td><td>0.2112 (dft, calibrated)</td><td class="n"></td><td class="n"></td><td class="n"></td><td class="n">0.2112</td></tr>
 </tbody>
 </table></div>
 <h2 id="dft">DFT formation energies</h2>

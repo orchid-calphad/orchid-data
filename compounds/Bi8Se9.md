@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi8Se9.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (experimental 1, DFT 3); experimental median -29.429 kJ/mol-atom (n = 1); Materials Project -56.882 kJ/mol-atom (mp-aaacpsue); OQMD -32.736 kJ/mol-atom (oqmd-47595).
 
-Systems: [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html)
+Systems: [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Bi8Se9 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -29.429 kJ/mol-atom | Bi8Se9 | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 70 |  |
-| -59.146 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 71 |  |
-| -35.125 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024 | Table 3, p. 5, row 73 |  |
-| -32.709 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 72 |  |
+| -29.429 kJ/mol-atom | Bi8Se9 | 298.15 | experimental | EMF | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 70 |  |
+| -59.146 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 3, p. 5, row 71 |  |
+| -35.125 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024 | Table 3, p. 5, row 73 |  |
+| -32.709 kJ/mol-atom | Bi8Se9 | 0 | DFT | First-principles | [Bi–Se](https://data.orchid-project.org/systems/BI-SE.html) | [1] Zhou 2024; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 3, p. 5, row 72 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Bi8Se9
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -29.429 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -59.146 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -35.125 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -32.709 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -29.429 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -59.146 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -35.125 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -32.709 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -40,8 +40,8 @@ Table: DFT formation energy of Bi8Se9
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacpsue | -56.882 | -0.589542 | R-3m | 0.108 | 0.0011 | no |
-| OQMD | oqmd-47595 | -32.736 | -0.339281 | R-3m | 0.988 | 0.0102 | no |
+| Materials Project | mp-aaacpsue | -56.882 | -0.589542 | R-3m | 0.1084 | 0.0011 | no |
+| OQMD | oqmd-47595 | -32.736 | -0.339281 | R-3m | 0.2542 | 0.0026 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

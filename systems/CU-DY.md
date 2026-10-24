@@ -1,10 +1,10 @@
 # Cu–Dy system
 
-> Cu–Dy system: 104 accepted literature values (invariant reaction 56, crystal structure 39, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Dy system: 115 accepted literature values (invariant reaction 56, crystal structure 39, formation 11, phase transition 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-DY.html · Markdown: https://data.orchid-project.org/systems/CU-DY.md
 
-104 accepted literature values from 2 paper(s) (experimental 66, model 26, DFT 12); 2 calculated phase diagram(s).
+115 accepted literature values from 2 paper(s) (experimental 71, model 26, DFT 18); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-DY.json) · [CSV](https://data.orchid-project.org/systems/CU-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-DY/CuDy-09Pal.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CU-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-DY.html) · [Markdown](https://data.orchid-project.org/systems/CU-DY.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 66 |
+| experimental | 71 |
 | model | 26 |
-| DFT | 12 |
+| DFT | 18 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 56 |
 | phase transition | 9 |
+| formation | 11 |
 | crystal structure | 39 |
 
 ## Calculated phase diagrams
@@ -149,14 +150,34 @@ Table: Invariant reactions reported in the literature for the Cu–Dy system (56
 | 1063 | eutectic: L ↔ CuDy + Bcc | L: Dy 0.654; CuDy: Dy 0.5; Bcc: Dy 0.775 | model | [2] Zhang 2009 | Table 3, p. 3, row 29 |  |
 | 1063 | eutectic: L ↔ CuDy + Bcc | L: Dy 0.7; CuDy: Dy 0.5 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 30 |  |
 | 1063 | eutectic |  | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | p. 1 | “They found a lower value (1048 K) for the eutectic temperature between liquid, CuDy and hcp Dy with respect to Franceschi (1063 K).” |
-| 1063 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 0.01; liquid: Dy 0.7 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 26 |  |
+| 1063 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.7 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 26 |  |
 | 1054 | eutectoid: Cu7Dy ↔ Fcc + Cu5Dy.L | Cu7Dy: Dy 0.125; Fcc: Dy 0; Cu5Dy.L: Dy 0.083 | model | [2] Zhang 2009 | Table 3, p. 3, row 6 |  |
 | 1048 | eutectoid: Cu7Dy ↔ Fcc + Cu5Dy.L | Cu7Dy: Dy 0.125; Fcc: Dy 0; Cu5Dy.L: Dy 0.083 | experimental | [2] Zhang 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 3, row 7 |  |
 | 1048 | Cu7Dy -> Cu fcc + Cu5Dy | Cu7Dy: Dy 0.125; Cu fcc: Dy 0; Cu5Dy: Dy 0.167 | model | [1] Palumbo 2009 | Table 3, p. 5, row 6 |  |
 | 1048 | eutectic |  | experimental | [1] Palumbo 2009; _cites Copeland 1964_ | p. 1 | “They found a lower value (1048 K) for the eutectic temperature between liquid, CuDy and hcp Dy with respect to Franceschi (1063 K).” |
 | 1048 | Cu7Dy -> Cu fcc + Cu5Dy | Cu7Dy: Dy 0.125; Cu fcc: Dy 0; Cu5Dy: Dy 0.167 | experimental | [1] Palumbo 2009; _cites Franceschi 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990092-3) | Table 3, p. 5, row 7 |  |
-| 1020 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 0.01; liquid: Dy 0.691 | model | [1] Palumbo 2009 | Table 3, p. 5, row 25 |  |
+| 1020 | liquid -> CuDy + Dy bcc | CuDy: Dy 0.5; Dy bcc: Dy 1; liquid: Dy 0.691 | model | [1] Palumbo 2009 | Table 3, p. 5, row 25 |  |
 | 803 | eutectoid: Bcc ↔ CuDy + Hcp | Bcc: Dy 0.832; CuDy: Dy 0.5; Hcp: Dy 0.879 | model | [2] Zhang 2009 | Table 3, p. 3, row 32 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Dy system (11)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Cu2Dy |  | -27.9 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 4 |  |
+| Cu2Dy |  | -26.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 5 |  |
+| Cu2Dy | [Cu2Dy](https://data.orchid-project.org/compounds/Cu2Dy.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -26.052 (mp-aaacizol) | -26.104 (oqmd-1435876) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 7 |  |
+| Cu2Dy | [Cu2Dy](https://data.orchid-project.org/compounds/Cu2Dy.html) | -16.4 kJ/mol-atom | 298.15 | experimental | -26.052 (mp-aaacizol) | -26.104 (oqmd-1435876) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 6 |  |
+| Cu5Dy |  | -19.4 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 1 |  |
+| Cu5Dy |  | -18.8 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 2 |  |
+| Cu5Dy | [Cu5Dy](https://data.orchid-project.org/compounds/Cu5Dy.html) | -15.7 kJ/mol-atom | 298.15 | experimental | -18.422 (mp-aaacrspf) | -18.593 (oqmd-1519615) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 3 |  |
+| CuDy |  | -27.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 8 |  |
+| CuDy |  | -25.5 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2009 | Table 2, p. 4, row 9 |  |
+| CuDy | [CuDy](https://data.orchid-project.org/compounds/CuDy.html) | -24 kJ/mol-atom | 298.15 | experimental | -23.951 (mp-aaaaadlu) | -25.4 (oqmd-1369598) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 11 |  |
+| CuDy | [CuDy](https://data.orchid-project.org/compounds/CuDy.html) | -12.5 kJ/mol-atom | 298.15 | experimental | -23.951 (mp-aaaaadlu) | -25.4 (oqmd-1369598) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 10 |  |
 
 ## Other properties
 

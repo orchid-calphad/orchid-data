@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga2Pt.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -56.063 kJ/mol-atom (mp-aaaabgrv); OQMD -56.439 kJ/mol-atom (oqmd-17288).
 
-Systems: [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html)
+Systems: [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga2Pt reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.45 kJ/mol-atom | Ga2Pt | 298.15 | model | assessed | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 22 |  |
-| -59.79 kJ/mol-atom | Ga2Pt | 0 | DFT | first-principles | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 21 |  |
+| -60.45 kJ/mol-atom | Ga2Pt | 298.15 | model | assessed | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 22 |  |
+| -59.79 kJ/mol-atom | Ga2Pt | 0 | DFT | first-principles | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 21 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ga2Pt
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -60.45 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.79 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -60.45 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.79 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

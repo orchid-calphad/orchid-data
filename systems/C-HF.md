@@ -1,10 +1,10 @@
 # C–Hf system
 
-> C–Hf system: 53 accepted literature values (invariant reaction 23, formation 13, crystal structure 7, heat capacity / entropy / enthalpy 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Hf system: 49 accepted literature values (invariant reaction 20, formation 13, heat capacity / entropy / enthalpy 7, crystal structure 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-HF.html · Markdown: https://data.orchid-project.org/systems/C-HF.md
 
-53 accepted literature values from 2 paper(s) (experimental 25, model 16, unspecified 12); 0 calculated phase diagram(s).
+49 accepted literature values from 2 paper(s) (experimental 24, model 15, unspecified 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-HF.json) · [CSV](https://data.orchid-project.org/systems/C-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-HF) · [phases (6)](https://data.orchid-project.org/phases/pages/C-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-HF.html) · [Markdown](https://data.orchid-project.org/systems/C-HF.md)
 
@@ -12,25 +12,25 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 16 |
-| unspecified | 12 |
+| experimental | 24 |
+| model | 15 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 23 |
+| invariant reaction | 20 |
 | phase transition | 3 |
 | formation | 13 |
 | heat capacity / entropy / enthalpy | 7 |
-| crystal structure | 7 |
+| crystal structure | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/C/C-HF.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/C/C-HF.json) · [CALPHAD hull HfC-97Bit-LB](https://data.orchid-project.org/hulls/calphad-sgte/C/C-HF--HfC-97Bit-LB.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Hf system (23)
+Table: Invariant reactions reported in the literature for the C–Hf system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -54,9 +54,6 @@ Table: Invariant reactions reported in the literature for the C–Hf system (23)
 | 2480 | eutectic: L \<-> βHf + αHf | L: C 0.0137; βHf: C 0.005; αHf: C 0.0293 | model | [1] Bittermann 1997 | Table 1, p. 2, row 6 |  |
 | 2453 | eutectic: L \<-> βHf + αHf | L: C 0.015; βHf: C 0.01; αHf: C 0.02 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 4 |  |
 | 2453 | eutectic: L ~ ~Hf + ~ H f |  | model | [1] Bittermann 1997 | p. 10 | “It was found that the drastic change of the relative stabilities of t~Hf and liquid from the eutectic reaction, L ~ ~Hf + ~ H f at 2453 K, to the peritectic reaction, L + HfCl_x ~ txHf at 2633 K, could only be reproduced by the additional introduction of the parameters L l,aHf L 2'aHf and L 3,L.” |
-| 2043 | polymorphic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | experimental | [1] Bittermann 1997; _cites Rudy 1965_ | Table 1, p. 2, row 1 |  |
-| 2016 | polymorphic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 1, p. 2, row 2 |  |
-| 2016 | polymorphic: βHf \<-> αHf | βHf: C 0; αHf: C 0 | model | [1] Bittermann 1997 | Table 1, p. 2, row 3 |  |
 
 ## Formation enthalpies
 
@@ -106,7 +103,7 @@ Table: Heat capacity / entropy / enthalpy, C–Hf system
 | Heat capacity; _printed: Cp (298)_ | 37.37 J/mol (basis unstated)/K | 298.15 | HfC0.968; _alloy: Hf 0.50813_ | experimental | [1] Bittermann 1997; _cites E 1977_ | Table 4a, p. 5, row 4 |  |
 | Heat capacity; _printed: Cp (298)_ | 41.82 J/mol (basis unstated)/K | 298.15 | HfC0.99; _alloy: Hf 0.502513_ | experimental | [1] Bittermann 1997; _cites Buravoi 1974_ | Table 4a, p. 5, row 3 |  |
 
-### Crystal structure (7)
+### Crystal structure (6)
 
 Table: Crystal structure, C–Hf system
 
@@ -115,7 +112,6 @@ Table: Crystal structure, C–Hf system
 | Lattice a | 3.1946 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
 | Lattice a | 4.62225 Å (range 4.606 to 4.6385) | 298.15 | HfC1−x | experimental | [1] Bittermann 1997; _cites Rudy 1969_ | Table 2, p. 2, row 4 |  |
 | Lattice a | 2.4612 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
-| Lattice a | 3.61 Å | 298.15 | UNKNOWN; _alloy: Hf 1_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 2 |  |
 | Lattice c | 5.051 Å | 298.15 | (αHf); _(αHf): C 0.15, Hf 0.85_ | unspecified | [1] Bittermann 1997 | Table 2, p. 2, row 1 |  |
 | Lattice c | 6.709 Å | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |
 | lattice c a | 2.7258 not_printed | 298.15 | UNKNOWN; _alloy: Hf 0_ | unspecified | [1] Bittermann 1997; _cites ref. 2_ | Table 2, p. 2, row 3 |  |

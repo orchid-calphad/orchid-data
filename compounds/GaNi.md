@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GaNi.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (experimental 4, model 1); experimental median -43 kJ/mol-atom (n = 4); Materials Project -35.224 kJ/mol-atom (mp-aaaaacwr); OQMD -39.78 kJ/mol-atom (oqmd-1370618).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of GaNi reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47 kJ/mol-atom | NiGa | 298.15 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Predel 1999_ | Table 1, p. 2, row 11 |  |
-| -43 kJ/mol-atom | NiGa | 1223 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Katayama 1973_ | Table 1, p. 2, row 13 |  |
-| -43 kJ/mol-atom | NiGa | 1023 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Jacobi 1971_ | Table 1, p. 2, row 12 |  |
-| -38 kJ/mol-atom | NiGa | 300 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Martosudirjo 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2985025-3) | Table 1, p. 2, row 9 |  |
-| -38.5 kJ/mol-atom | NiGa | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 10 |  |
+| -47 kJ/mol-atom | NiGa | 298.15 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Predel 1999_ | Table 1, p. 2, row 11 |  |
+| -43 kJ/mol-atom | NiGa | 1223 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Katayama 1973_ | Table 1, p. 2, row 13 |  |
+| -43 kJ/mol-atom | NiGa | 1023 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Jacobi 1971_ | Table 1, p. 2, row 12 |  |
+| -38 kJ/mol-atom | NiGa | 300 | experimental |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites Martosudirjo 1976_ [doi](https://doi.org/10.1016/0040-6031%2876%2985025-3) | Table 1, p. 2, row 9 |  |
+| -38.5 kJ/mol-atom | NiGa | 298.15 | model |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999 | Table 1, p. 2, row 10 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of GaNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -47 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -47 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -43 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -43 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

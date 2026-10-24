@@ -15,7 +15,7 @@ Table: Phases of the Sb–Sn system (10)
 | [DIAMOND_A4](#phase-sb-sn-a4-diamond); _phase:sb-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 5 | 7 |
 | [BCT_A5](#phase-sb-sn-a5-bct); _phase:sb-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–532.43 K, x(Sn) 0.88303–1 | 17 | 7 |
 | [RHOMBOHEDRAL_A7](#phase-sb-sn-a7-rhombohedral); _phase:sb-sn:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–903.78 K, x(Sn) 0–0.15923 | 15 | 7 |
-| [BCC_A2](#phase-sb-sn-bcc-a2); _phase:sb-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 11 | 7 |
+| [BCC_A2](#phase-sb-sn-bcc-a2); _phase:sb-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [FCC_A1](#phase-sb-sn-fcc-a1); _phase:sb-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-sb-sn-hcp-a3); _phase:sb-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [LIQUID](#phase-sb-sn-liquid); _phase:sb-sn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 505.08–2500 K, x(Sn) 0–1 | 46 | 7 |
@@ -278,11 +278,10 @@ _cited as the source of values for this phase_
 - Id: `phase:sb-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 7 calculated diagram(s)
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sn:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:sb-sn:bcc-a2  
-_paper: _paper:10.1007/s11664-008-0464-x:β-SnSb  
+Names (8): _corpus: _corpus:phase:sb-sn:bcc-a2  
 _tdb: _tdb:SbSn-07Kro.tdb:BCC_A2, tdb:SbSn-08Che.tdb:BCC_A2, tdb:SbSn-19Lys.tdb:BCC_A2, tdb:SbSn-20Gie.tdb:BCC_A2, tdb:SbSn-21Zha.tdb:BCC_A2, tdb:SbSn-86Jon.tdb:BCC_A2, tdb:SbSn-96Oh-LB.tdb:BCC_A2  
 
 
@@ -339,9 +338,9 @@ _tdb: _tdb:SbSn-07Kro.tdb:BCC_A2, tdb:SbSn-08Che.tdb:BCC_A2, tdb:SbSn-19Lys.tdb:
 
 Example references (6 of 6; assessments first): 
 
-- [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x) Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10853-019-03934-6](https://doi.org/10.1007/s10853-019-03934-6) Wojciech Gierlotka, On the binary Sb–Sn system: ab initio calculation and thermodynamic remodeling, J Mater Sci 55, 347-357 (2020).  
+_assessment that models this phase_
+- [doi:10.1007/s11664-008-0464-x](https://doi.org/10.1007/s11664-008-0464-x) Sinn-Wen Chen, Chih-Chi Chen, Wojcieh Gierlotka, An-Ren Zi, Po-Yin Chen, Hsin-Jay Wu, Phase Equilibria of the Sn-Sb Binary System, Journal of Elec Materi 37, 992-1002 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
 _assessment that models this phase_

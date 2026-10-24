@@ -1,10 +1,10 @@
 # Ga–Si system
 
-> Ga–Si system: 24 accepted literature values (crystal structure 12, phase equilibrium 11, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Si system: 13 accepted literature values (phase equilibrium 11, crystal structure 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-SI.html · Markdown: https://data.orchid-project.org/systems/GA-SI.md
 
-24 accepted literature values from 1 paper(s) (experimental 20, unspecified 4); 2 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 12, unspecified 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-SI.json) · [CSV](https://data.orchid-project.org/systems/GA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-SI/GaSi-05Fra-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-SI.html) · [Markdown](https://data.orchid-project.org/systems/GA-SI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| unspecified | 4 |
+| experimental | 12 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase equilibrium | 11 |
-| crystal structure | 12 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -71,24 +71,13 @@ Table: Phase equilibrium, Ga–Si system
 | Phase composition |  | 1273.15 | Liquid + L; _Liquid: Ga 0.8, Si 0.2; L: Ga 0.8, Si 0.2_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 2 |  |
 | Phase composition |  | 1423.15 | Liquid + L; _Liquid: Ga 0.6, Si 0.4; L: Ga 0.6, Si 0.4_ | experimental | [1] Olesinski 1985; _cites ref. 48Kle_ | Table 1, p. 1, row 1 |  |
 
-### Crystal structure (12)
+### Crystal structure (1)
 
 Table: Crystal structure, Ga–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.593 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice a | 2.7713 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice a | 9.09 Å | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
 | Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Ga 0.001, Si 0.999_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 1 |  |
-| Lattice a | 4.5192 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice b | 13.523 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice b | 8.0606 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice b | 7.6586 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
-| Lattice c | 5.203 Å | 237.15 | (γGa); _(γGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 4 |  |
-| Lattice c | 3.3314 Å | 250.15 | (βGa); _(βGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 3 |  |
-| Lattice c | 17.02 Å | 254.15 | (δGa); _(δGa): Ga 1, Si 0_ | experimental | [1] Olesinski 1985; _cites Defrain 1977_ [doi](https://doi.org/10.1051/jcp/1977740851) | Table 4, p. 2, row 5 |  |
-| Lattice c | 4.5258 Å | 298.15 | (αGaI); _(αGaI): Ga 1, Si 0_ | unspecified | [1] Olesinski 1985; _cites ref. 1_ | Table 4, p. 2, row 2 |  |
 
 ## Sources
 

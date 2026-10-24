@@ -12,12 +12,12 @@ Table: Phases of the Ca–Pb system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ca-pb-bcc-a2); _phase:ca-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 716.03–1115 K, x(Pb) 0–0 | 8 | 3 |
+| [BCC_A2](#phase-ca-pb-bcc-a2); _phase:ca-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 716.03–1115 K, x(Pb) 0–0 | 6 | 3 |
 | [CA2PB_C37](#phase-ca-pb-ca2pb-c37); _phase:ca-pb:ca2pb-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1483.04 K, x(Pb) 0.33333–0.33333 | 25 | 3 |
 | [CA5PB3](#phase-ca-pb-ca5pb3); _phase:ca-pb:ca5pb3_ | Ca5Pb3 · hP48 · P6_3mc (186) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1435.57 K, x(Pb) 0.375–0.375 | 17 | 3 |
 | [CAPB_L10](#phase-ca-pb-capb-l10); _phase:ca-pb:capb-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1250 K, x(Pb) 0.5–0.5 | 18 | 3 |
 | [CAPB3_L12](#phase-ca-pb-capb3-l12); _phase:ca-pb:capb3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–925.81 K, x(Pb) 0.75–0.75 | 28 | 3 |
-| [FCC_A1](#phase-ca-pb-fcc-a1); _phase:ca-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2174.07 K, x(Pb) 0–1 | 8 | 3 |
+| [FCC_A1](#phase-ca-pb-fcc-a1); _phase:ca-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2174.07 K, x(Pb) 0–1 | 6 | 3 |
 | [HCP_A3](#phase-ca-pb-hcp-a3); _phase:ca-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-ca-pb-liquid); _phase:ca-pb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 598.1–2500 K, x(Pb) 0–1 | 43 | 3 |
 
@@ -26,7 +26,7 @@ Table: Phases of the Ca–Pb system (8)
 - Id: `phase:ca-pb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 716.03–1115 K, x(Pb) 0–0
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-pb:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:ca-pb:bcc-a2  
@@ -292,11 +292,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ca-pb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2174.07 K, x(Pb) 0–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-pb:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:ca-pb:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2007.10.004:(Pb), paper:10.1016/j.tca.2004.01.001:Pb, paper:10.1016/j.tca.2004.01.001:αCa  
+Names (6): _corpus: _corpus:phase:ca-pb:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2007.10.004:(Pb), paper:10.1016/j.tca.2004.01.001:Pb  
 _tdb: _tdb:CaPb-04Car.tdb:FCC_A1, tdb:CaPb-08Idb.tdb:FCC_A1, tdb:CaPb-89Not.tdb:FCC_A1  
 
 

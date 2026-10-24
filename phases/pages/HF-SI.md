@@ -13,7 +13,7 @@ Table: Phases of the Hf–Si system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-hf-si-a4-diamond); _phase:hf-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.18 K, x(Si) 1–1 | 4 | 3 |
-| [BCC_A2](#phase-hf-si-bcc-a2); _phase:hf-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 2013.35–2548.99 K, x(Si) 0–0.00211 | 8 | 3 |
+| [BCC_A2](#phase-hf-si-bcc-a2); _phase:hf-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 2013.35–2548.99 K, x(Si) 0–0.00211 | 6 | 3 |
 | [FCC_A1](#phase-hf-si-fcc-a1); _phase:hf-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-hf-si-hcp-a3); _phase:hf-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2016.03 K, x(Si) 0–0.00067 | 2 | 3 |
 | [HF2SI_C16](#phase-hf-si-hf2si-c16); _phase:hf-si:hf2si-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2365.31 K, x(Si) 0.33333–0.33333 | 15 | 3 |
@@ -75,7 +75,7 @@ _assessment that models this phase_
 - Id: `phase:hf-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 2013.35–2548.99 K, x(Si) 0–0.00211
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-si:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:hf-si:bcc-a2  
@@ -108,9 +108,9 @@ _tdb: _tdb:HfSi-00Zha-LB.tdb:BCC_A2, tdb:HfSi-03Yan.tdb:BCC_A2, tdb:HfSi-19Hon.t
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497100770340408](https://doi.org/10.1361/105497100770340408) J. -C. Zhao, B. P. Bewlay, M. R. Jackson, Q. Chen, Hf-Si binary phase diagram determination and thermodynamic modeling, JPE 21, 40-45 (2000).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2018.11.007](https://doi.org/10.1016/j.actamat.2018.11.007) P. Honarmandi, T.C. Duong, S.F. Ghoreishi, D. Allaire, R. Arroyave, Acta Mater., 164, 636-47(2019).  
 _assessment that models this phase_

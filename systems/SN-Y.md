@@ -1,10 +1,10 @@
 # Sn–Y system
 
-> Sn–Y system: 25 accepted literature values (invariant reaction 16, formation 7, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Y system: 47 accepted literature values (invariant reaction 22, crystal structure 16, formation 7, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-Y.html · Markdown: https://data.orchid-project.org/systems/SN-Y.md
 
-25 accepted literature values from 2 paper(s) (experimental 16, model 9); 2 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 35, model 12); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-Y.json) · [CSV](https://data.orchid-project.org/systems/SN-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-Y/SnY-12Tan.json) · [phases (12)](https://data.orchid-project.org/phases/pages/SN-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-Y.html) · [Markdown](https://data.orchid-project.org/systems/SN-Y.md)
 
@@ -12,16 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 9 |
+| experimental | 35 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 22 |
 | phase transition | 2 |
 | formation | 7 |
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -80,7 +81,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Y system (16)
+Table: Invariant reactions reported in the literature for the Sn–Y system (22)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -94,12 +95,18 @@ Table: Invariant reactions reported in the literature for the Sn–Y system (16)
 | 1533 | liq.-> Sn3Y5+hcp(Y) | L: Y 0.89; Sn3Y5: Y 0.625; hcp(Y): Y 0.98 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 16 |  |
 | 1413 | liq.+Sn10Y11->Sn2Y | L: Y 0.3036; Sn10Y11: Y 0.5238; Sn2Y: Y 0.3333 | model | [1] LÜ 2014 | Table 2, p. 4, row 7 |  |
 | 1413 | liq.+Sn10Y11->Sn2Y | L: Y 0.32; Sn10Y11: Y 0.524; Sn2Y: Y 0.333 | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 8 |  |
+| 798.15 | Liquid + Sn2Y ↔ Sn5Y2 | Liquid: Sn 0.9955; Sn2Y: Sn 0.6667; Sn5Y2: Sn 0.7143 | model | [2] Tang 2012 | Table 1, p. 2, row 27 |  |
 | 798 | liq.+Sn2Y-> Sn5Y2 | L: Y 0.022; Sn2Y: Y 0.333; Sn5Y2: Y 0.286 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 6 |  |
 | 798 | liq.+Sn2Y-> Sn5Y2 | L: Y 0.0743; Sn2Y: Y 0.3333; Sn5Y2: Y 0.2857 | model | [1] LÜ 2014 | Table 2, p. 4, row 5 |  |
+| 703.15 | Liquid + Sn5Y2 ↔ Sn3Y | Liquid: Sn 0.9962; Sn5Y2: Sn 0.7143; Sn3Y: Sn 0.75 | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 28 |  |
+| 703.15 | Liquid + Sn5Y2 ↔ Sn3Y | Liquid: Sn 0.9993; Sn5Y2: Sn 0.7143; Sn3Y: Sn 0.75 | model | [2] Tang 2012 | Table 1, p. 2, row 29 |  |
 | 703 | liq.+Sn5Y2-> Sn3Y | L: Y 0.0479; Sn5Y2: Y 0.2857; Sn3Y: Y 0.25 | model | [1] LÜ 2014 | Table 2, p. 4, row 3 |  |
 | 703 | liq.+Sn5Y2-> Sn3Y | L: Y 0.016; Sn5Y2: Y 0.286; Sn3Y: Y 0.25 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 4 |  |
+| 504.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 1; Sn3Y: Sn 0.75; (βSn): Sn 1 | model | [2] Tang 2012 | Table 1, p. 2, row 32 |  |
+| 503.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 1; Sn3Y: Sn 0.75; (βSn): Sn 1 | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 1, p. 2, row 31 |  |
 | 503 | liq.->Sn3Y+bct(Sn) | L: Y 0.005; Sn3Y: Y 0.25; bct(Sn): Y 0 | experimental | [1] LÜ 2014; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 2, p. 4, row 2 |  |
 | 503 | liq.->Sn3Y+bct(Sn) | L: Y 0.0052; Sn3Y: Y 0.25; bct(Sn): Y 0 | model | [1] LÜ 2014 | Table 2, p. 4, row 1 |  |
+| 502.15 | Liquid ↔ Sn3Y + (βSn) | Liquid: Sn 0.9938; Sn3Y: Sn 0.75 | experimental | [2] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 1, p. 2, row 30 |  |
 
 ## Formation enthalpies
 
@@ -127,6 +134,29 @@ Table: Phase transition, Sn–Y system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2213 K | 2213 | liq. -> Sn3Y5; _L: Y 0.625; Sn3Y5: Y 0.625_ | experimental | [1] LÜ 2014; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 2, p. 4, row 14 |  |
 | Phase transition | 2213 K | 2213 | liq. -> Sn3Y5; _L: Y 0.625; Sn3Y5: Y 0.625_ | model | [1] LÜ 2014 | Table 2, p. 4, row 13 |  |
+
+### Crystal structure (16)
+
+Table: Crystal structure, Sn–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 11.54 Å | 298.15 | Sn10Y11; _alloy: Sn 0.47619, Y 0.52381_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 19 |  |
+| Lattice a | 4.398 Å | 298.15 | Sn2Y; _alloy: Sn 0.666667, Y 0.333333_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 20 |  |
+| Lattice a | 4.345 Å | 298.15 | Sn3Y; _alloy: Sn 0.75, Y 0.25_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 22 |  |
+| Lattice a | 8.902 Å | 298.15 | Sn3Y5; _alloy: Sn 0.375, Y 0.625_ | experimental | [2] Tang 2012; _cites Holmen 1964_ [doi](https://doi.org/10.3891/acta.chem.scand.18-2394) | Table 4, p. 5, row 17 |  |
+| Lattice a | 8.05 Å | 298.15 | Sn4Y5; _alloy: Sn 0.444444, Y 0.555556_ | experimental | [2] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 4, p. 5, row 18 |  |
+| Lattice a | 4.322 Å | 298.15 | Sn5Y2; _alloy: Sn 0.714286, Y 0.285714_ | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 4, p. 5, row 21 |  |
+| Lattice b | 16.32 Å | 298.15 | Sn2Y; _alloy: Sn 0.666667, Y 0.333333_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 20 |  |
+| Lattice b | 4.391 Å | 298.15 | Sn3Y; _alloy: Sn 0.75, Y 0.25_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 22 |  |
+| Lattice b | 15.29 Å | 298.15 | Sn4Y5; _alloy: Sn 0.444444, Y 0.555556_ | experimental | [2] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 4, p. 5, row 18 |  |
+| Lattice b | 4.409 Å | 298.15 | Sn5Y2; _alloy: Sn 0.714286, Y 0.285714_ | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 4, p. 5, row 21 |  |
+| Lattice c | 16.92 Å | 298.15 | Sn10Y11; _alloy: Sn 0.47619, Y 0.52381_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 19 |  |
+| Lattice c | 4.304 Å | 298.15 | Sn2Y; _alloy: Sn 0.666667, Y 0.333333_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 20 |  |
+| Lattice c | 21.937 Å | 298.15 | Sn3Y; _alloy: Sn 0.75, Y 0.25_ | experimental | [2] Tang 2012; _cites Borzone 1983_ [doi](https://doi.org/10.1002/zaac.19835010624) | Table 4, p. 5, row 22 |  |
+| Lattice c | 6.536 Å | 298.15 | Sn3Y5; _alloy: Sn 0.375, Y 0.625_ | experimental | [2] Tang 2012; _cites Holmen 1964_ [doi](https://doi.org/10.3891/acta.chem.scand.18-2394) | Table 4, p. 5, row 17 |  |
+| Lattice c | 8.05 Å | 298.15 | Sn4Y5; _alloy: Sn 0.444444, Y 0.555556_ | experimental | [2] Tang 2012; _cites Schmidt 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990002-7) | Table 4, p. 5, row 18 |  |
+| Lattice c | 19.089 Å | 298.15 | Sn5Y2; _alloy: Sn 0.714286, Y 0.285714_ | experimental | [2] Tang 2012; _cites Palenzona 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990859-l) | Table 4, p. 5, row 21 |  |
 
 ## Sources
 

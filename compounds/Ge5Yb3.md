@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Ge5Yb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -49.8 | kJ/mol-atom | 13.2 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 13.2 |
-| -49.8 | kJ/mol-atom | 13.2 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 13.2 |
-| -63 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.952 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.426 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -49.8 | kJ/mol-atom | 13.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 13.2 |
+| -49.8 | kJ/mol-atom | 13.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 13.2 |
+| -63 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -63 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.952 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.426 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -55.9 | kJ/mol-atom | 6.2 | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -52,7 +52,7 @@ Table: DFT formation energy of Ge5Yb3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1823083 | -58.344 | -0.604696 | Cmcm | 0.354 | 0.0037 | yes |
+| OQMD | oqmd-1823083 | -58.344 | -0.604696 | Cmcm | 0.3539 | 0.0037 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

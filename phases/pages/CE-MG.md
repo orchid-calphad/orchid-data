@@ -12,7 +12,7 @@ Table: Phases of the Ce–Mg system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ce-mg-bcc-a2); _phase:ce-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 6 calculated diagram(s): 768.67–1073.64 K, x(Mg) 0–0.31831 | 4 | 6 |
+| [BCC_A2](#phase-ce-mg-bcc-a2); _phase:ce-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 768.67–1073.64 K, x(Mg) 0–0.31831 | 4 | 6 |
 | [B2_BCC](#phase-ce-mg-bcc-b2); _phase:ce-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1072 K, x(Mg) 0–0.51941 | 0 | 2 |
 | [MG2Y_C14](#phase-ce-mg-c14-mg2y); _phase:ce-mg:c14-mg2y_ |  | needs_review | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [MG2M_C15](#phase-ce-mg-c15-mg2m); _phase:ce-mg:c15-mg2m_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 887.65–1023.34 K, x(Mg) 0.66667–0.66667 | 7 | 4 |
@@ -31,7 +31,7 @@ Table: Phases of the Ce–Mg system (14)
 
 - Id: `phase:ce-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 6 calculated diagram(s): 768.67–1073.64 K, x(Mg) 0–0.31831
+- Stability: stable in 4 of 4 calculated diagram(s): 768.67–1073.64 K, x(Mg) 0–0.31831
 - Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mg:bcc-a2)
 

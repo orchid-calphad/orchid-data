@@ -1,10 +1,10 @@
 # Cd–Zn system
 
-> Cd–Zn system: 5 accepted literature values (invariant reaction 3, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Zn system: 4 accepted literature values (invariant reaction 3, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-ZN.html · Markdown: https://data.orchid-project.org/systems/CD-ZN.md
 
-5 accepted literature values from 1 paper(s) (experimental 4, model 1); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 3, model 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-ZN.json) · [CSV](https://data.orchid-project.org/systems/CD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-ZN/CdZn-93Zab.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/CD-ZN.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 3 |
 | model | 1 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| phase transition | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -54,14 +54,13 @@ Table: Invariant reactions reported in the literature for the Cd–Zn system (3)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Cd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 594.11 K | 594.11 | congruent melting: L \<-> (Cd); _L: Zn 0; (Cd): Zn 0_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 2 |  |
-| Phase transition | 692.58 K | 692.58 | congruent melting: L \<-> (Zn); _L: Zn 1; (Zn): Zn 1_ | experimental | [1] Liu 2009; _cites Adjadj 2007_ [doi](https://doi.org/10.1016/j.jallcom.2006.04.051) | Table 6, p. 5, row 1 |  |
 
 ## Sources
 

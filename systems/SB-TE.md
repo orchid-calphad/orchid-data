@@ -70,29 +70,29 @@ Table: Invariant reactions reported in the literature for the Sb–Te system (24
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 833.15 | peritectic |  | experimental | [1] Guo 2014; _cites Eckerlin 1966_ | p. 2 | “Eckerlin and Stegherr38 measured the phase equilibria between Sb and Sb2Te3 using thermal analysis, metallography and XRD techniques. A peritectic reaction at 560C was confirmed.” |
-| 833 | liq. + Sb2Te3 -> gamma | liq.: Te 0.5936; Sb2Te3: Te 0.4; gamma: Te 0.5141 | model | [1] Guo 2014 | Table II, p. 4, row 20 |  |
-| 832 | liq. + Sb2Te3 -> gamma | liq.: Te 0.5877; Sb2Te3: Te 0.4; gamma: Te 0.5141 | model | [1] Guo 2014 | Table II, p. 4, row 19 |  |
-| 831 | liq. + Sb2Te3 -> gamma | liq.: Te 0.59; Sb2Te3: Te 0.4; gamma: Te 0.45 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 16 |  |
-| 831 | liq. + Sb2Te3 -> gamma | liq.: Te 0.619; Sb2Te3: Te 0.41; gamma: Te 0.461 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 17 |  |
-| 830 | liq. + Sb2Te3 -> gamma | liq.: Te 0.633; Sb2Te3: Te 0.404; gamma: Te 0.51 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 18 |  |
-| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.7444; rhom(Sb): Te 0.9719; delta: Te 0.8395 | model | [1] Guo 2014 | Table II, p. 4, row 4 |  |
-| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.753; rhom(Sb): Te 0.975; delta: Te 0.831 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 2 |  |
-| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.75; rhom(Sb): Te 0.99; delta: Te 0.82 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 1 |  |
-| 822 | liq. + rhom(Sb) -> delta | liq.: Te 0.7557; rhom(Sb): Te 0.9721; delta: Te 0.8395 | model | [1] Guo 2014 | Table II, p. 4, row 5 |  |
-| 821 | liq. + gamma -> delta | liq.: Te 0.65; gamma: Te 0.594; delta: Te 0.63 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 12 |  |
-| 821 | liq. + rhom(Sb) -> delta | liq.: Te 0.769; rhom(Sb): Te 0.987; delta: Te 0.836 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 3 |  |
-| 821 | liq. + gamma -> delta | liq.: Te 0.6553; gamma: Te 0.5743; delta: Te 0.605 | model | [1] Guo 2014 | Table II, p. 4, row 15 |  |
-| 821 | liq. + gamma -> delta | liq.: Te 0.63; gamma: Te 0.58; delta: Te 0.61 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 11 |  |
-| 820 | liq. + gamma -> delta | liq.: Te 0.6486; gamma: Te 0.5743; delta: Te 0.6051 | model | [1] Guo 2014 | Table II, p. 4, row 14 |  |
-| 819 | liq. + gamma -> delta | liq.: Te 0.692; gamma: Te 0.589; delta: Te 0.632 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 13 |  |
-| 725 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.1; Sb2Te3: Te 0.4; hex(Te): Te 0 | experimental | [1] Guo 2014; _cites Pelabon 1906_ | Table II, p. 4, row 31 |  |
-| 719 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.1; Sb2Te3: Te 0.4; hex(Te): Te 0 | experimental | [1] Guo 2014; _cites Fay 1902_ | Table II, p. 4, row 30 |  |
-| 715 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.1; Sb2Te3: Te 0.4; hex(Te): Te 0 | experimental | [1] Guo 2014; _cites Kimata 1915_ | Table II, p. 4, row 29 |  |
-| 697 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.11; Sb2Te3: Te 0.4; hex(Te): Te 0 | experimental | [1] Guo 2014; _cites Brown 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990242-1) | Table II, p. 4, row 28 |  |
-| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.0792; Sb2Te3: Te 0.4; hex(Te): Te 0 | model | [1] Guo 2014 | Table II, p. 4, row 33 |  |
-| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.074; Sb2Te3: Te 0.4; hex(Te): Te 0 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 32 |  |
-| 693 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.09; Sb2Te3: Te 0.4; hex(Te): Te 0 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 27 |  |
-| 688 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.0738; Sb2Te3: Te 0.4; hex(Te): Te 0 | model | [1] Guo 2014 | Table II, p. 4, row 34 |  |
+| 833 | liq. + Sb2Te3 -> gamma | liq.: Te 0.4064; Sb2Te3: Te 0.6; gamma: Te 0.4859 | model | [1] Guo 2014 | Table II, p. 4, row 20 |  |
+| 832 | liq. + Sb2Te3 -> gamma | liq.: Te 0.4123; Sb2Te3: Te 0.6; gamma: Te 0.4859 | model | [1] Guo 2014 | Table II, p. 4, row 19 |  |
+| 831 | liq. + Sb2Te3 -> gamma | liq.: Te 0.41; Sb2Te3: Te 0.6; gamma: Te 0.55 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 16 |  |
+| 831 | liq. + Sb2Te3 -> gamma | liq.: Te 0.381; Sb2Te3: Te 0.59; gamma: Te 0.539 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 17 |  |
+| 830 | liq. + Sb2Te3 -> gamma | liq.: Te 0.367; Sb2Te3: Te 0.596; gamma: Te 0.49 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 18 |  |
+| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.2556; rhom(Sb): Te 0.0281; delta: Te 0.1605 | model | [1] Guo 2014 | Table II, p. 4, row 4 |  |
+| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.247; rhom(Sb): Te 0.025; delta: Te 0.169 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 2 |  |
+| 823 | liq. + rhom(Sb) -> delta | liq.: Te 0.25; rhom(Sb): Te 0.01; delta: Te 0.18 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 1 |  |
+| 822 | liq. + rhom(Sb) -> delta | liq.: Te 0.2443; rhom(Sb): Te 0.0279; delta: Te 0.1605 | model | [1] Guo 2014 | Table II, p. 4, row 5 |  |
+| 821 | liq. + gamma -> delta | liq.: Te 0.35; gamma: Te 0.406; delta: Te 0.37 | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 12 |  |
+| 821 | liq. + rhom(Sb) -> delta | liq.: Te 0.231; rhom(Sb): Te 0.013; delta: Te 0.164 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 3 |  |
+| 821 | liq. + gamma -> delta | liq.: Te 0.3447; gamma: Te 0.4257; delta: Te 0.395 | model | [1] Guo 2014 | Table II, p. 4, row 15 |  |
+| 821 | liq. + gamma -> delta | liq.: Te 0.37; gamma: Te 0.42; delta: Te 0.39 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 11 |  |
+| 820 | liq. + gamma -> delta | liq.: Te 0.3514; gamma: Te 0.4257; delta: Te 0.3949 | model | [1] Guo 2014 | Table II, p. 4, row 14 |  |
+| 819 | liq. + gamma -> delta | liq.: Te 0.308; gamma: Te 0.411; delta: Te 0.368 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 13 |  |
+| 725 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Pelabon 1906_ | Table II, p. 4, row 31 |  |
+| 719 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Fay 1902_ | Table II, p. 4, row 30 |  |
+| 715 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Kimata 1915_ | Table II, p. 4, row 29 |  |
+| 697 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.89; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites Brown 1962_ [doi](https://doi.org/10.1016/0022-3697%2862%2990242-1) | Table II, p. 4, row 28 |  |
+| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9208; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 33 |  |
+| 695 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.926; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 32 |  |
+| 693 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.91; Sb2Te3: Te 0.6; hex(Te): Te 1 | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 27 |  |
+| 688 | liq. -> Sb2Te3 + hex(Te) | liq.: Te 0.9262; Sb2Te3: Te 0.6; hex(Te): Te 1 | model | [1] Guo 2014 | Table II, p. 4, row 34 |  |
 
 ## Formation enthalpies
 
@@ -113,11 +113,11 @@ Table: Phase transition, Sb–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 811 K | 811 | liq. -> delta; _liq.: Te 0.68; delta: Te 0.68_ | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 6 |  |
-| Phase transition | 817 K | 817 | liq. -> delta; _liq.: Te 0.69; delta: Te 0.69_ | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 7 |  |
-| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.7073; delta: Te 0.7073_ | model | [1] Guo 2014 | Table II, p. 4, row 10 |  |
-| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.6948; delta: Te 0.6948_ | model | [1] Guo 2014 | Table II, p. 4, row 9 |  |
-| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.723; delta: Te 0.723_ | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 8 |  |
+| Phase transition | 811 K | 811 | liq. -> delta; _liq.: Te 0.32; delta: Te 0.32_ | experimental | [1] Guo 2014; _cites NKh 1959_ | Table II, p. 4, row 6 |  |
+| Phase transition | 817 K | 817 | liq. -> delta; _liq.: Te 0.31; delta: Te 0.31_ | experimental | [1] Guo 2014; _cites Bordas 1986_ [doi](https://doi.org/10.1016/0040-6031%2886%2985051-1) | Table II, p. 4, row 7 |  |
+| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.2927; delta: Te 0.2927_ | model | [1] Guo 2014 | Table II, p. 4, row 10 |  |
+| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.3052; delta: Te 0.3052_ | model | [1] Guo 2014 | Table II, p. 4, row 9 |  |
+| Phase transition | 818 K | 818 | liq. -> delta; _liq.: Te 0.277; delta: Te 0.277_ | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 8 |  |
 | Phase transition | 889 K | 889 | liq. -> Sb2Te3; _liq.: Te 0.6; Sb2Te3: Te 0.6_ | unspecified | [1] Guo 2014; _cites Poretskaya 1963_ | Table II, p. 4, row 21 |  |
 | Phase transition | 890 K | 890 | liq. -> Sb2Te3; _liq.: Te 0.6; Sb2Te3: Te 0.6_ | model | [1] Guo 2014 | Table II, p. 4, row 25 |  |
 | Phase transition | 891 K | 891 | liq. -> Sb2Te3; _liq.: Te 0.6; Sb2Te3: Te 0.6_ | model | [1] Guo 2014; _cites Ghosh 1989_ [doi](https://doi.org/10.1515/ijmr-1989-801009) | Table II, p. 4, row 24 |  |

@@ -18,7 +18,7 @@ Table: Phases of the Gd–Sb system (10)
 | [GD16SB39](#phase-gd-sb-gd16sb39); _phase:gd-sb:gd16sb39_ | Gd16Sb39 · mC124 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1053.73 K, x(Sb) 0.70909–0.70909 | 4 | 1 |
 | [GD4SB3_D73](#phase-gd-sb-gd4sb3-d73); _phase:gd-sb:gd4sb3-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2047.6 K, x(Sb) 0.42857–0.42857 | 4 | 1 |
 | [GD5SB3_D88](#phase-gd-sb-gd5sb3-d88); _phase:gd-sb:gd5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1917.33 K, x(Sb) 0.375–0.375 | 4 | 1 |
-| [GDSB_B1](#phase-gd-sb-gdsb-b1); _phase:gd-sb:gdsb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2113.15 K, x(Sb) 0.5–0.5 | 10 | 1 |
+| [GDSB_B1](#phase-gd-sb-gdsb-b1); _phase:gd-sb:gdsb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2113.15 K, x(Sb) 0.5–0.5 | 6 | 1 |
 | [GDSB_BETA](#phase-gd-sb-gdsb-beta); _phase:gd-sb:gdsb-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 2113.15–2400.73 K, x(Sb) 0.5–0.5 | 4 | 1 |
 | [HCP_A3](#phase-gd-sb-hcp-a3); _phase:gd-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.15 K, x(Sb) 0–0.04024 | 0 | 1 |
 | [LIQUID](#phase-gd-sb-liquid); _phase:gd-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 902.91–2500 K, x(Sb) 0–1 | 16 | 1 |
@@ -206,11 +206,11 @@ _cited as the source of values for this phase_
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Gd 0.5000, Sb 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2113.15 K, x(Sb) 0.5–0.5
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-sb:gdsb-b1)
 
-Names (5): _corpus: _corpus:phase:gd-sb:gdsb-b1  
-_paper: _paper:10.1016/j.intermet.2007.04.003:GdSb, paper:10.1016/j.intermet.2007.04.003:αGd, paper:10.1016/j.intermet.2007.04.003:αGdSb  
+Names (4): _corpus: _corpus:phase:gd-sb:gdsb-b1  
+_paper: _paper:10.1016/j.intermet.2007.04.003:GdSb, paper:10.1016/j.intermet.2007.04.003:αGdSb  
 _tdb: _tdb:GdSb-07Li.tdb:GDSB_B1  
 
 

@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Co2Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -34.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -32.2062 | kJ/mol (basis unstated) |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -34.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -32.2062 | kJ/mol (basis unstated) |  | 5.000e-5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

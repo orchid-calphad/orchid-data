@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GeS2.html · Markdown: https://d
 
 9 accepted literature formation-enthalpy value(s) (experimental 4, model 4, unspecified 1); experimental median -46.3 kJ/mol-atom (n = 4); Materials Project -64.065 kJ/mol-atom (mp-aaabgpmi); OQMD -50.116 kJ/mol-atom (oqmd-2017).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html)
+Systems: [Ge–S](https://data.orchid-project.org/systems/GE-S.html)
 
 ## Literature values
 
@@ -14,15 +14,15 @@ Table: Enthalpy of formation of GeS2 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.3 kJ/mol-atom ± 4.3 | GeS2 | 298.15 | experimental | Fluorine bomb calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 42 |  |
-| -50 kJ/mol-atom ± 6.7 | GeS2 | 298.15 | experimental | Third law | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 64_ | Table II, p. 3, row 43 |  |
-| -42.6 kJ/mol-atom ± 0.4 | GeS2 | 298.15 | experimental | Calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39 |  |
-| -41.6 kJ/mol-atom ± 0.9 | GeS2 | 298.15 | experimental | Fluorine bomb calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40 |  |
-| -69.55 kJ/mol-atom | GeS2 | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 45 |  |
-| -50.03 kJ/mol-atom | GeS2 | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 44 |  |
-| -48.733 kJ/mol-atom | GeS2 | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 47 |  |
-| -45.91 kJ/mol-atom | GeS2 | 298.15 | model | Statistical mechanical | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 41 |  |
-| -31.88 kJ/mol-atom | GeS2 | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 46 |  |
+| -52.3 kJ/mol-atom ± 4.3 | GeS2 | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 42 |  |
+| -50 kJ/mol-atom ± 6.7 | GeS2 | 298.15 | experimental | Third law | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 64_ | Table II, p. 3, row 43 |  |
+| -42.6 kJ/mol-atom ± 0.4 | GeS2 | 298.15 | experimental | Calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 66_ | Table II, p. 3, row 39 |  |
+| -41.6 kJ/mol-atom ± 0.9 | GeS2 | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 65_ | Table II, p. 3, row 40 |  |
+| -69.55 kJ/mol-atom | GeS2 | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 45 |  |
+| -50.03 kJ/mol-atom | GeS2 | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 44 |  |
+| -48.733 kJ/mol-atom | GeS2 | 298.15 | model | CALPHAD | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 47 |  |
+| -45.91 kJ/mol-atom | GeS2 | 298.15 | model | Statistical mechanical | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 41 |  |
+| -31.88 kJ/mol-atom | GeS2 | 0 | unspecified | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 46 |  |
 
 ### Uncertainty budget
 
@@ -32,14 +32,14 @@ Table: Uncertainty budget of the literature values of GeS2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -52.3 | kJ/mol-atom | 4.3 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 4.3 |
+| -52.3 | kJ/mol-atom | 4.3 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 4.3 |
 | -50 | kJ/mol-atom | 6.7 | 0.5 | 2 (kems_vapour_third_law, prior) |  |  |  | 6.7 |
 | -42.6 | kJ/mol-atom | 0.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -41.6 | kJ/mol-atom | 0.9 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -69.55 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.03 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.733 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45.91 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41.6 | kJ/mol-atom | 0.9 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -69.55 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.03 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.733 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45.91 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -31.88 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies

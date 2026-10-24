@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ge3Se7.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 2).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html)
+Systems: [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ge3Se7 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -23.92 kJ/mol-atom | Ge3Se7 | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 28 |  |
-| -22.065 kJ/mol-atom | Ge3Se7 | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 29 |  |
+| -23.92 kJ/mol-atom | Ge3Se7 | 0 | model | First–principles | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 28 |  |
+| -22.065 kJ/mol-atom | Ge3Se7 | 298.15 | model | CALPHAD | [Ge–Se](https://data.orchid-project.org/systems/GE-SE.html) | [1] Chen 2022 | Table II, p. 3, row 29 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ge3Se7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -23.92 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.065 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.92 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.065 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

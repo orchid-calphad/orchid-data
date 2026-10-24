@@ -26,6 +26,7 @@ Table: Phases of the C–Cr system (9)
 
 - Id: `phase:c-cr:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 5 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:a4-diamond)
@@ -88,6 +89,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-cr:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-cr:a9-graphite)

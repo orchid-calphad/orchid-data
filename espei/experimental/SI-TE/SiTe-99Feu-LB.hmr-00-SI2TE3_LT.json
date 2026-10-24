@@ -28,7 +28,7 @@
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4WEMGUOLGR ORC-CWG2DBYN6M",
- "weight": 0.03125,
+ "weight": 0.147059,
  "bibtex": "feutelais1999_94887a",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -63,64 +63,64 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
-    "sigma": 13000.0,
+    "sigma": 2600.0,
     "sigma_basis": "printed",
     "budget": {
-     "sigma_printed": 13000.0,
+     "sigma_printed": 2600.0,
      "sigma_reading": 100.0,
      "sigma_method": 3000.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 13000.0,
+     "sigma_effective": 3000.0,
      "method_class": "kems_vapour_second_law",
      "method_basis": "prior",
      "method_n_pairs": 1,
      "method_entry": "value_types/HM_FORM/classes/kems_vapour_second_law"
     },
     "printed": {
-     "value": 13.0,
+     "value": 2.6,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_effective_used": 13000.0,
-    "weight_per_value_equivalent": 0.038462,
-    "weight_used": 0.03125
+    "sigma_effective_used": 3000.0,
+    "weight_per_value_equivalent": 0.166667,
+    "weight_used": 0.147059
    },
    {
-    "sigma": 19000.0,
+    "sigma": 3800.0,
     "sigma_basis": "printed",
     "budget": {
-     "sigma_printed": 19000.0,
+     "sigma_printed": 3800.0,
      "sigma_reading": 100.0,
      "sigma_method": 2000.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 19000.0,
+     "sigma_effective": 3800.0,
      "method_class": "kems_vapour_third_law",
      "method_basis": "prior",
      "method_n_pairs": 0,
      "method_entry": "value_types/HM_FORM/classes/kems_vapour_third_law"
     },
     "printed": {
-     "value": 19.0,
+     "value": 3.8,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_effective_used": 19000.0,
-    "weight_per_value_equivalent": 0.026316,
-    "weight_used": 0.03125
+    "sigma_effective_used": 3800.0,
+    "weight_per_value_equivalent": 0.131579,
+    "weight_used": 0.147059
    }
   ]
  },
  "orchid_weight_floor": {
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
-  "suggested_weight": 0.03125,
-  "weight_before_2026_10_24": 0.03125,
-  "weight_written": 0.03125,
+  "suggested_weight": 0.15625,
+  "weight_before_2026_10_24": 0.15625,
+  "weight_written": 0.147059,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

@@ -1,10 +1,10 @@
 # Fe–Lu system
 
-> Fe–Lu system: 90 accepted literature values (invariant reaction 40, formation 22, phase transition 19, heat capacity / entropy / enthalpy 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Lu system: 99 accepted literature values (heat capacity / entropy / enthalpy 43, invariant reaction 40, phase transition 12, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-LU.html · Markdown: https://data.orchid-project.org/systems/FE-LU.md
 
-90 accepted literature values from 2 paper(s) (experimental 29, model 61); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+99 accepted literature values from 2 paper(s) (experimental 25, model 74); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-LU.json) · [CSV](https://data.orchid-project.org/systems/FE-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-LU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-LU/FeLu-14Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-LU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-LU.html) · [Markdown](https://data.orchid-project.org/systems/FE-LU.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 61 |
+| experimental | 25 |
+| model | 74 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 40 |
-| phase transition | 19 |
-| formation | 22 |
-| heat capacity / entropy / enthalpy | 9 |
+| phase transition | 12 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 43 |
 
 ## Calculated phase diagrams
 
@@ -141,14 +141,12 @@ Table: Enthalpies of formation, Fe–Lu system (4)
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (12)
 
 Table: Phase transition, Fe–Lu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: Lu 0; αFe: Lu 0_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 8 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe -> αFe; _γFe: Lu 0; αFe: Lu 0_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 9 |  |
 | Phase transition | 1188.15 K | 1188.15 | αFe17Lu2_HT -> Fe17Lu2_LT; _αFe17Lu2_HT: Lu 0.105; Fe17Lu2_LT: Lu 0.105_ | experimental | [2] Kardellass 2014; _cites Kolesnichenko 1972_ | Table 6, p. 7, row 26 |  |
 | Phase transition | 1188.15 K | 1188.15 | αFe17Lu2_HT -> Fe17Lu2_LT; _αFe17Lu2_HT: Lu 0.105; Fe17Lu2_LT: Lu 0.105_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 27 |  |
 | Phase transition | 1618 K | 1618 | congruent melting: L ↔ Fe2Lu; _L: Lu 0.333_ | experimental | [1] Ye 2023; _cites ref. 88_ | Table 9, p. 15, row 23 |  |
@@ -161,52 +159,56 @@ Table: Phase transition, Fe–Lu system
 | Phase transition | 1809.15 K | 1809.15 | δFe -> Liq; _δFe: Lu 0_ | experimental | [2] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 7, row 2 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe -> Liq; _δFe: Lu 0_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 3 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe -> Liq; _δFe: Lu 0; Liq: Lu 0_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 1 |  |
-| Phase transition | 1873.15 K | 1873.15 | αLu -> βLu | model | [2] Kardellass 2014 | Table 6, p. 7, row 22 |  |
-| Phase transition | 1873.15 K | 1873.15 | αLu -> βLu; _αLu: Lu 1; βLu: Lu 1_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 21 |  |
-| Phase transition | 1923.15 K | 1923.15 | L -> (Lu); _L: Lu 1; (Lu): Lu 1_ | experimental | [2] Kardellass 2014; _cites Okamoto 1993_ | Table 6, p. 7, row 23 |  |
-| Phase transition | 1935.15 K | 1935.15 | L -> (Lu); _L: Lu 1; (Lu): Lu 1_ | experimental | [2] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 7, row 24 |  |
-| Phase transition | 1936.15 K | 1936.15 | L -> (Lu); _L: Lu 1; (Lu): Lu 1_ | model | [2] Kardellass 2014 | Table 6, p. 7, row 25 |  |
 
-### Formation (18)
-
-Table: Formation, Fe–Lu system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | 34.56 J/mol-atom/K | 290 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 23 |  |
-| Entropy of formation; _printed: ΔfS_ | 35.42 J/mol-atom/K | 298.15 | Fe17Lu2_HT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 1 |  |
-| Entropy of formation; _printed: ΔfS_ | 34.05 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014; _cites Konar 2012_ | Table 2, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔfS (experimental, ▼)_ | 34.1 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | 35.37 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014; _cites Kardellass 2013_ | Table 2, p. 3, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | 34.48 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 7 |  |
-| Entropy of formation; _printed: ΔfS_ | 38.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.25_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 12 |  |
-| Entropy of formation; _printed: ΔfS_ | 35.64 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | 32 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | 41.42 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 29 |  |
-| Entropy of formation; _printed: ΔfS_ | 36 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 26 |  |
-| Entropy of formation; _printed: ΔfS_ | 36.25 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 28 |  |
-| Entropy of formation; _printed: ΔfS (experimental, ▼)_ | 35.8 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 27 |  |
-| Entropy of formation; _printed: ΔfS_ | 39.49 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 17 |  |
-| Entropy of formation; _printed: ΔfS_ | 37.02 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | 33.1 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 16 |  |
-| Entropy of formation; _printed: ΔfS_ | 35.48 J/mol-atom/K | 300 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 24 |  |
-| Entropy of formation; _printed: ΔfS_ | 35.3 J/mol-atom/K | 300 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 2, p. 3, row 19 |  |
-
-### Heat capacity / entropy / enthalpy (9)
+### Heat capacity / entropy / enthalpy (43)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Lu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔfS_ | 34.56 J/mol-atom/K | 290 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 23 |  |
+| Entropy; _printed: ΔfS_ | 35.42 J/mol-atom/K | 298.15 | Fe17Lu2_HT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 1 |  |
+| Entropy; _printed: ΔfS_ | 34.05 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014; _cites Konar 2012_ | Table 2, p. 3, row 5 |  |
+| Entropy; _printed: ΔfS (experimental, ▼)_ | 34.1 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 6 |  |
+| Entropy; _printed: ΔfS_ | 35.37 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014; _cites Kardellass 2013_ | Table 2, p. 3, row 8 |  |
+| Entropy; _printed: ΔfS_ | 34.48 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 7 |  |
+| Entropy; _printed: ΔfS_ | 38.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.25_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 12 |  |
+| Entropy; _printed: ΔfS_ | 35.64 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 10 |  |
+| Entropy; _printed: ΔfS_ | 32 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 11 |  |
+| Entropy; _printed: ΔfS_ | 41.42 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 29 |  |
+| Entropy; _printed: ΔfS_ | 36 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 26 |  |
+| Entropy; _printed: ΔfS_ | 36.25 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 28 |  |
+| Entropy; _printed: ΔfS (experimental, ▼)_ | 35.8 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 27 |  |
+| Entropy; _printed: ΔfS_ | 39.49 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 17 |  |
+| Entropy; _printed: ΔfS_ | 37.02 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 15 |  |
+| Entropy; _printed: ΔfS_ | 33.1 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 16 |  |
+| Entropy; _printed: ΔfS_ | 35.48 J/mol-atom/K | 300 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 24 |  |
+| Entropy; _printed: ΔfS_ | 35.3 J/mol-atom/K | 300 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 2, p. 3, row 19 |  |
 | Heat capacity; _printed: Cp_ | 26.94 J/mol-atom/K | 290 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 23 |  |
 | Heat capacity; _printed: Cp_ | 24.67 J/mol-atom/K | 298.15 | Fe17Lu2_HT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 1 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 4.34 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 4 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 3 |  |
 | Heat capacity; _printed: Cp_ | 26.67 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014; _cites Kardellass 2013_ | Table 2, p. 3, row 8 |  |
 | Heat capacity; _printed: Cp_ | 29.56 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 7 |  |
 | Heat capacity; _printed: Cp_ | 24.91 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.25_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 12 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 3.89 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 5 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 3.88 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 6 |  |
 | Heat capacity; _printed: Cp_ | 28.8 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 11 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 1.49 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 9 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 1.488 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 10 |  |
 | Heat capacity; _printed: Cp_ | 25.01 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites De 1988_ | Table 2, p. 3, row 17 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 2.77 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 8 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 2.76 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 7 |  |
 | Heat capacity; _printed: Cp_ | 27.77 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 2, p. 3, row 16 |  |
 | Heat capacity; _printed: Cp_ | 27.77 J/mol-atom/K | 300 | Fe2Lu; _alloy: Lu 0.333333_ | experimental | [2] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 2, p. 3, row 24 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.868 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 4 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Lu2_LT; _alloy: Lu 0.105263_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 3 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 5 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.37 J/mol-atom/K | 298.15 | Fe23Lu6; _alloy: Lu 0.206897_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 6 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -5.17 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 9 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -5.15 J/mol-atom/K | 298.15 | Fe2Lu; _alloy: Lu 0.333333_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 10 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.34 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 8 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -6.4 J/mol-atom/K | 298.15 | Fe3Lu; _alloy: Lu 0.25_ | model | [2] Kardellass 2014 | Table 9, p. 11, row 7 |  |
 
 ## Sources
 

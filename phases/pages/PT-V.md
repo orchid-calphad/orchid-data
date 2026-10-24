@@ -13,9 +13,9 @@ Table: Phases of the Pt–V system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-pt-v-bcc-a2); _phase:pt-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2187.75 K, x(V) 0.89535–1 | 4 | 1 |
-| [FCC_A1](#phase-pt-v-fcc-a1); _phase:pt-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2076.05 K, x(V) 0–0.56405 | 18 | 1 |
+| [FCC_A1](#phase-pt-v-fcc-a1); _phase:pt-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2076.05 K, x(V) 0–0.56405 | 16 | 1 |
 | [HCP_A3](#phase-pt-v-hcp-a3); _phase:pt-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-pt-v-liquid); _phase:pt-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 300.5–4000 K, x(V) 0–1 | 10 | 1 |
+| [LIQUID](#phase-pt-v-liquid); _phase:pt-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 300.5–4000 K, x(V) 0–1 | 8 | 1 |
 | [PT2V](#phase-pt-v-pt2v); _phase:pt-v:pt2v_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1372.35 K, x(V) 0.31971–0.33579 | 6 | 1 |
 | [PT3V_D022](#phase-pt-v-pt3v-d022); _phase:pt-v:pt3v-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1286.39 K, x(V) 0.20991–0.2555 | 4 | 1 |
 | [PTV_B19](#phase-pt-v-ptv-b19); _phase:pt-v:ptv-b19_ | AuCd · B19 · oP4 · Pmma (51) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1777.74 K, x(V) 0.49963–0.51893 | 6 | 1 |
@@ -53,7 +53,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:pt-v:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2076.05 K, x(V) 0–0.56405
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 16 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-v:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:pt-v:fcc-a1  
@@ -106,7 +106,7 @@ _assessment that models this phase_
 - Id: `phase:pt-v:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300.5–4000 K, x(V) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-v:liquid)
 
 Names (3): _corpus: _corpus:phase:pt-v:liquid  

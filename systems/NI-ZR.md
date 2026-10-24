@@ -185,158 +185,158 @@ Table: Invariant reactions reported in the literature for the Ni–Zr system (15
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1848 | L ⇌ Ni7Zr2 | L: Ni 0.777778, Zr 0.222222; Ni7Zr2: Ni 0.777778, Zr 0.222222 | experimental | [1] Jana 2020; _cites Kramer 1959_ | Table 3, p. 3, row 59 |  |
-| 1848 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 4 |  |
+| 1848 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 4 |  |
 | 1743 | L ⇌ NiZr | L: Ni 0.5, Zr 0.5; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Hayes 1953_ | Table 3, p. 3, row 64 |  |
-| 1743 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 3, row 32 |  |
+| 1743 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 3, row 32 |  |
 | 1723 | L ⇌ Ni7Zr2 | L: Ni 0.777778, Zr 0.222222; Ni7Zr2: Ni 0.777778, Zr 0.222222 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 58 |  |
-| 1723 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 3 |  |
+| 1723 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 3 |  |
 | 1713 | L ⇌ Ni7Zr2 | L: Ni 0.777778, Zr 0.222222; Ni7Zr2: Ni 0.777778, Zr 0.222222 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 56 |  |
-| 1713 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 1 |  |
+| 1713 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 1 |  |
 | 1713 | L ⇌ Ni7Zr2 | L: Ni 0.777778, Zr 0.222222; Ni7Zr2: Ni 0.777778, Zr 0.222222 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 60 |  |
-| 1713 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 6 |  |
-| 1711 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 7 |  |
-| 1711 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 5 |  |
+| 1713 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 6 |  |
+| 1711 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 7 |  |
+| 1711 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 5 |  |
 | 1707 | L ⇌ Ni7Zr2 | L: Zr 0.2222; Ni7Zr2: Zr 0.2222 | model | [1] Jana 2020 | Table 3, p. 3, row 61 |  |
 | 1693 | L ⇌ Ni7Zr2 | L: Ni 0.777778, Zr 0.222222; Ni7Zr2: Ni 0.777778, Zr 0.222222 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 57 |  |
-| 1693 | congruent melting: L → Ni7Zr2 | L: Zr 0.0022; Ni7Zr2: Zr 0.0022 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 2 |  |
-| 1623 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 33 |  |
-| 1613 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.0021; (Ni5Zr): Zr 0.0018 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 11 |  |
+| 1693 | congruent melting: L → Ni7Zr2 | L: Zr 0.22; Ni7Zr2: Zr 0.22 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 2 |  |
+| 1623 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 33 |  |
+| 1613 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.21; (Ni5Zr): Zr 0.18 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 11 |  |
 | 1613 | L + Ni7Zr2 ⇌ Ni5Zr | Ni7Zr2: Zr 0.21; Ni5Zr: Zr 0.18 | experimental | [1] Jana 2020; _cites Kramer 1959_ | Table 3, p. 3, row 2 |  |
-| 1577 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.00149; Ni7Zr2: Zr 0.0022; (Ni5Zr): Zr 0.00157 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 12 |  |
-| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.0016; Ni7Zr2: Zr 0.0022; (Ni5Zr): Zr 0.00167 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 8 |  |
+| 1577 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.149; Ni7Zr2: Zr 0.22; (Ni5Zr): Zr 0.157 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 12 |  |
+| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.16; Ni7Zr2: Zr 0.22; (Ni5Zr): Zr 0.167 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 8 |  |
 | 1573 | L + Ni7Zr2 ⇌ Ni5Zr | Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni5Zr: Ni 0.833333, Zr 0.166667 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 4 |  |
-| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.0022; (Ni5Zr): Ni 0.833333, Zr 0.166667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 9 |  |
+| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.22; (Ni5Zr): Ni 0.833333, Zr 0.166667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 9 |  |
 | 1573 | L + Ni7Zr2 ⇌ Ni5Zr | Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni5Zr: Ni 0.833333, Zr 0.166667 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 5 |  |
-| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.00144; Ni7Zr2: Zr 0.0022; (Ni5Zr): Zr 0.00167 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 13 |  |
-| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.00146; Ni7Zr2: Zr 0.0022; (Ni5Zr): Zr 0.00172 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 14 |  |
+| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.144; Ni7Zr2: Zr 0.22; (Ni5Zr): Zr 0.167 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 13 |  |
+| 1573 | peritectic: L + Ni7Zr2 → (Ni5Zr) | L: Zr 0.146; Ni7Zr2: Zr 0.22; (Ni5Zr): Zr 0.172 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 14 |  |
 | 1573 | L + Ni7Zr2 ⇌ Ni5Zr | L: Zr 0.16; Ni7Zr2: Zr 0.22; Ni5Zr: Zr 0.167 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 1 |  |
 | 1569 | L + Ni7Zr2 ⇌ Ni5Zr | L: Zr 0.144; Ni7Zr2: Zr 0.2222; Ni5Zr: Zr 0.1634 | model | [1] Jana 2020 | Table 3, p. 3, row 6 |  |
 | 1553 | L + Ni7Zr2 ⇌ Ni5Zr | Ni7Zr2: Zr 0.22; Ni5Zr: Zr 0.167 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 3 |  |
-| 1553 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.0022; (Ni5Zr): Zr 0.00167 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 10 |  |
-| 1542 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 35 |  |
-| 1533 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 30 |  |
-| 1533 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 36 |  |
+| 1553 | peritectic: L + Ni7Zr2 → (Ni5Zr) | Ni7Zr2: Zr 0.22; (Ni5Zr): Zr 0.167 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 10 |  |
+| 1542 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 35 |  |
+| 1533 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 30 |  |
+| 1533 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 36 |  |
 | 1533 | L ⇌ NiZr | L: Ni 0.5, Zr 0.5; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 62 |  |
-| 1529 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 34 |  |
-| 1483 | congruent melting: L → NiZr | L: Zr 0.005; NiZr: Zr 0.005 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 31 |  |
-| 1483 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 9.700e-4; (Ni5Zr): Zr 0.00167 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 17 |  |
+| 1529 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 34 |  |
+| 1483 | congruent melting: L → NiZr | L: Zr 0.5; NiZr: Zr 0.5 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 31 |  |
+| 1483 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.097; (Ni5Zr): Zr 0.167 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 17 |  |
 | 1483 | L ⇌ (Ni) + (Ni5Zr) | L: Zr 0.097; (Ni5Zr): Zr 0.167 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 14 |  |
 | 1483 | L ⇌ NiZr | L: Zr 0.097; NiZr: Ni 0.5, Zr 0.5; (Ni5Zr): Zr 0.167 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 63 |  |
-| 1473 | congruent melting: L -> NiZr2 | L: Zr 0.00667; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 6 |  |
+| 1473 | congruent melting: L -> NiZr2 | L: Zr 0.667; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 6 |  |
 | 1470 | L + Ni7Zr2 ⇌ Ni21Zr8 | Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni21Zr8: Ni 0.724138, Zr 0.275862 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 10 |  |
 | 1468 | L + NiZr ⇌ Ni11Zr9 | NiZr: Ni 0.5, Zr 0.5; Ni11Zr9: Ni 0.55, Zr 0.45 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 19 |  |
 | 1468 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 43 |  |
 | 1468 | L + Ni11Zr9 ⇌ Ni10Zr7 | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 23 |  |
-| 1468 | peritectic: L + NiZr → Ni11Zr9 | NiZr: Zr 0.005; Ni11Zr9: Zr 0.0044 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 38 |  |
+| 1468 | peritectic: L + NiZr → Ni11Zr9 | NiZr: Zr 0.5; Ni11Zr9: Zr 0.44 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 38 |  |
 | 1462 | L + Ni7Zr2 ⇌ Ni21Zr8 | L: Zr 0.3293; Ni7Zr2: Zr 0.2222; Ni21Zr8: Zr 0.2759 | model | [1] Jana 2020 | Table 3, p. 3, row 11 |  |
 | 1458 | L ⇌ (Ni) + (Ni5Zr) | L: Zr 0.085; (Ni5Zr): Zr 0.15 | experimental | [1] Jana 2020; _cites Kramer 1959_ | Table 3, p. 3, row 13 |  |
-| 1458 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 8.500e-4; (Ni5Zr): Zr 0.0015 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 18 |  |
-| 1454 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.0032; Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 24 |  |
+| 1458 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.085; (Ni5Zr): Zr 0.15 | experimental | [2] Wang 2007; _cites Kramer 1959_ | Table 1, p. 3, row 18 |  |
+| 1454 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.32; Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 24 |  |
 | 1453 | L ⇌ (Ni) + (Ni5Zr) |  | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 16 |  |
-| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.0033; Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 26 |  |
-| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.0034; Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00286 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 22 |  |
+| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.33; Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 26 |  |
+| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.34; Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.286 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 22 |  |
 | 1453 | L + Ni7Zr2 ⇌ Ni21Zr8 | L: Zr 0.333; Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni21Zr8: Ni 0.724138, Zr 0.275862 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 8 |  |
-| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.00333; Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00286 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 23 |  |
+| 1453 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.333; Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.286 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 23 |  |
 | 1453 | L + Ni7Zr2 ⇌ Ni21Zr8 | L: Zr 0.34; Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni21Zr8: Ni 0.724138, Zr 0.275862 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 7 |  |
-| 1452 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.00326; Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 25 |  |
-| 1450 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.00424; NiZr: Zr 0.005; Ni11Zr9: Zr 0.0045 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 40 |  |
+| 1452 | peritectic: L + Ni7Zr2 → Ni21Zr8 | L: Zr 0.326; Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 25 |  |
+| 1450 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.424; NiZr: Zr 0.5; Ni11Zr9: Zr 0.45 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 40 |  |
 | 1448 | L ⇌ (Ni) + (Ni5Zr) | L: Zr 0.098; (Ni): Zr 0.006 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 15 |  |
-| 1448 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 9.800e-4; (Ni): Zr 6.000e-5; (Ni5Zr): Ni 0.833333, Zr 0.166667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 16 |  |
+| 1448 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.098; (Ni): Zr 0.006; (Ni5Zr): Ni 0.833333, Zr 0.166667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 16 |  |
 | 1447 | L ⇌ (Ni) + (Ni5Zr) | L: Zr 0.0888; (Ni): Zr 0.0107; (Ni5Zr): Zr 0.1404 | model | [1] Jana 2020 | Table 3, p. 3, row 17 |  |
-| 1444 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 9.500e-4; (Ni): Zr 1.260e-4; (Ni5Zr): Zr 0.00167 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 20 |  |
-| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.0042; NiZr: Zr 0.005; Ni11Zr9: Zr 0.0045 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 37 |  |
-| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.00438; NiZr: Zr 0.005; Ni11Zr9: Zr 0.0045 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 41 |  |
-| 1443 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 8.800e-4; (Ni5Zr): Zr 0.00167 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 15 |  |
+| 1444 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.095; (Ni): Zr 0.0126; (Ni5Zr): Zr 0.167 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 20 |  |
+| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.42; NiZr: Zr 0.5; Ni11Zr9: Zr 0.45 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 37 |  |
+| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.438; NiZr: Zr 0.5; Ni11Zr9: Zr 0.45 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 41 |  |
+| 1443 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.088; (Ni5Zr): Zr 0.167 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 15 |  |
 | 1443 | L + NiZr ⇌ Ni11Zr9 | L: Zr 0.42; NiZr: Ni 0.5, Zr 0.5; Ni11Zr9: Ni 0.55, Zr 0.45 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 18 |  |
 | 1443 | L ⇌ (Ni) + (Ni5Zr) | L: Zr 0.088; (Ni5Zr): Zr 0.167 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 12 |  |
-| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.00432; NiZr: Zr 0.005; Ni11Zr9: Zr 0.0045 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 39 |  |
-| 1443 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 9.000e-4; (Ni): Zr 9.200e-5; (Ni5Zr): Zr 0.00149 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 21 |  |
-| 1438 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00523; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 4, row 11 |  |
+| 1443 | peritectic: L + NiZr → Ni11Zr9 | L: Zr 0.432; NiZr: Zr 0.5; Ni11Zr9: Zr 0.45 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 39 |  |
+| 1443 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.09; (Ni): Zr 0.0092; (Ni5Zr): Zr 0.149 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 21 |  |
+| 1438 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.523; NiZr: Zr 0.5; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 4, row 11 |  |
 | 1438 | L ⇌ NiZr + NiZr2 | L: Zr 0.523; NiZr: Ni 0.5, Zr 0.5; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 34 |  |
 | 1438 | eutectic |  | experimental | [2] Wang 2007; _cites Pogodin 1954_ | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
-| 1437 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 8.900e-4; (Ni): Zr 9.500e-5; (Ni5Zr): Zr 0.00149 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 19 |  |
+| 1437 | eutectic: L → (Ni) + (Ni5Zr) | L: Zr 0.089; (Ni): Zr 0.0095; (Ni5Zr): Zr 0.149 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 19 |  |
 | 1434 | L + NiZr ⇌ Ni11Zr9 | L: Zr 0.4364; NiZr: Zr 0.5; Ni11Zr9: Zr 0.45 | model | [1] Jana 2020 | Table 3, p. 3, row 21 |  |
 | 1433 | L + Ni11Zr9 ⇌ Ni10Zr7 | L: Zr 0.42; Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 22 |  |
-| 1433 | eutectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.0042; Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.0041 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 42 |  |
+| 1433 | eutectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.42; Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.41 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 42 |  |
 | 1432.15 | eutectic: L -> Ni + ZrNi5 | L: Zr 0.09; Ni: Zr 0.01; ZrNi5: Zr 0.149 | model | [3] Cacciamani 2011 | Table 8, p. 9, row 4 |  |
-| 1431 | peritectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.0041; Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00412 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 44 |  |
+| 1431 | peritectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.41; Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.412 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 44 |  |
 | 1430 | L + NiZr ⇌ Ni11Zr9 | NiZr: Ni 0.5, Zr 0.5; Ni11Zr9: Ni 0.55, Zr 0.45 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 20 |  |
-| 1430 | eutectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.00426; Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00412 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 45 |  |
-| 1425 | peritectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.00416; Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00419 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 43 |  |
-| 1402 | congruent melting: L -> NiZr2 | L: Zr 0.00667; NiZr2: Zr 0.00667 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 7 |  |
+| 1430 | eutectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.426; Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.412 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 45 |  |
+| 1425 | peritectic: L → Ni11Zr9 + Ni10Zr7 | L: Zr 0.416; Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.419 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 43 |  |
+| 1402 | congruent melting: L -> NiZr2 | L: Zr 0.667; NiZr2: Zr 0.667 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 7 |  |
 | 1401 | L + Ni11Zr9 ⇌ Ni10Zr7 | L: Zr 0.4098; Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.4118 | model | [1] Jana 2020 | Table 3, p. 3, row 25 |  |
 | 1393 | L + Ni11Zr9 ⇌ Ni10Zr7 | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 24 |  |
-| 1393 | congruent melting: L -> NiZr2 | L: Zr 0.00667; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 5 |  |
-| 1393 | congruent melting: L -> NiZr2 | L: Zr 0.00667; NiZr2: Zr 0.00667 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 9 |  |
-| 1392 | congruent melting: L -> NiZr2 | L: Zr 0.00667; NiZr2: Zr 0.00667 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 8 |  |
+| 1393 | congruent melting: L -> NiZr2 | L: Zr 0.667; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 5 |  |
+| 1393 | congruent melting: L -> NiZr2 | L: Zr 0.667; NiZr2: Zr 0.667 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 9 |  |
+| 1392 | congruent melting: L -> NiZr2 | L: Zr 0.667; NiZr2: Zr 0.667 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 8 |  |
 | 1384 | eutectic |  | model | [2] Wang 2007; _cites Conclusions_ | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
 | 1359.15 | eutectic: L -> Zr8Ni21 + Zr7Ni10 | L: Zr 0.346; Zr8Ni21: Zr 0.276; Zr7Ni10: Zr 0.396 | model | [3] Cacciamani 2011 | Table 8, p. 9, row 5 |  |
-| 1351 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00617; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 15 |  |
+| 1351 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.617; NiZr: Zr 0.5; NiZr2: Zr 0.667 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 15 |  |
 | 1351 | eutectic |  | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
 | 1348 | L ⇌ Ni21Zr8 + Ni10Zr7 | L: Zr 0.36; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 3, p. 3, row 27 |  |
 | 1348 | L ⇌ Ni21Zr8 + Ni10Zr7 | Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 31 |  |
-| 1348 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.0036; Ni21Zr8: Zr 0.00276; Ni10Zr7: Zr 0.00412 | experimental | [2] Wang 2007; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 1, p. 3, row 49 |  |
-| 1347 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.00355; Ni21Zr8: Zr 0.00276; Ni10Zr7: Zr 0.00412 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 51 |  |
-| 1345 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.00358; Ni21Zr8: Zr 0.00276; Ni10Zr7: Zr 0.00412 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 52 |  |
-| 1344 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.00356; Ni21Zr8: Zr 0.00275; Ni10Zr7: Zr 0.0041 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 50 |  |
+| 1348 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.36; Ni21Zr8: Zr 0.276; Ni10Zr7: Zr 0.412 | experimental | [2] Wang 2007; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 1, p. 3, row 49 |  |
+| 1347 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.355; Ni21Zr8: Zr 0.276; Ni10Zr7: Zr 0.412 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 3, row 51 |  |
+| 1345 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.358; Ni21Zr8: Zr 0.276; Ni10Zr7: Zr 0.412 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 52 |  |
+| 1344 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.356; Ni21Zr8: Zr 0.275; Ni10Zr7: Zr 0.41 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 50 |  |
 | 1343 | L ⇌ Ni21Zr8 + Ni10Zr7 | L: Zr 0.375; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Pogodin 1954_ | Table 3, p. 3, row 29 |  |
-| 1343 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.0037; Ni21Zr8: Zr 0.00286; Ni10Zr7: Zr 0.0044 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 48 |  |
+| 1343 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.37; Ni21Zr8: Zr 0.286; Ni10Zr7: Zr 0.44 | experimental | [2] Wang 2007; _cites Smith 1957_ | Table 1, p. 3, row 48 |  |
 | 1343 | L ⇌ Ni21Zr8 + Ni10Zr7 | L: Zr 0.37; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Smith 1957_ | Table 3, p. 3, row 28 |  |
-| 1343 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.00375; Ni21Zr8: Zr 0.00286; Ni10Zr7: Zr 0.0041 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 47 |  |
+| 1343 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.375; Ni21Zr8: Zr 0.286; Ni10Zr7: Zr 0.41 | experimental | [2] Wang 2007; _cites Pogodin 1954_ | Table 1, p. 3, row 47 |  |
 | 1340 | L ⇌ Ni21Zr8 + Ni10Zr7 | L: Zr 0.3628; Ni21Zr8: Zr 0.2759; Ni10Zr7: Zr 0.4118 | model | [1] Jana 2020 | Table 3, p. 3, row 32 |  |
-| 1338 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00607; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 14 |  |
+| 1338 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.607; NiZr: Zr 0.5; NiZr2: Zr 0.667 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 14 |  |
 | 1338 | eutectic |  | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
-| 1333 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.00363; Ni21Zr8: Zr 0.00286; Ni10Zr7: Zr 0.0041 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 46 |  |
+| 1333 | eutectic: L → Ni21Zr8 + Ni10Zr7 | L: Zr 0.363; Ni21Zr8: Zr 0.286; Ni10Zr7: Zr 0.41 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 3, row 46 |  |
 | 1333 | L ⇌ Ni21Zr8 + Ni10Zr7 | L: Zr 0.363; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 26 |  |
 | 1333 | eutectic |  | model | [2] Wang 2007; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
 | 1323 | L ⇌ Ni21Zr8 + Ni10Zr7 | Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni10Zr7: Ni 0.588235, Zr 0.411765 | experimental | [1] Jana 2020; _cites PetKov 1972_ | Table 3, p. 3, row 30 |  |
 | 1307.15 | eutectic: L -> ZrNi + Zr2Ni | L: Zr 0.61; ZrNi: Zr 0.5; Zr2Ni: Zr 0.667 | model | [3] Cacciamani 2011 | Table 8, p. 9, row 6 |  |
 | 1298 | L ⇌ NiZr + NiZr2 | L: Zr 0.645; NiZr: Ni 0.5, Zr 0.5; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 37 |  |
-| 1295 | eutectic: L -> NiZr + NiZr2 | NiZr: Zr 0.005; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007 | Table 1, p. 4, row 13 |  |
-| 1295 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00601; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 16 |  |
+| 1295 | eutectic: L -> NiZr + NiZr2 | NiZr: Zr 0.5; NiZr2: Zr 0.667 | experimental | [2] Wang 2007 | Table 1, p. 4, row 13 |  |
+| 1295 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.601; NiZr: Zr 0.5; NiZr2: Zr 0.667 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 16 |  |
 | 1295 | L ⇌ NiZr + NiZr2 | NiZr: Ni 0.5, Zr 0.5; NiZr2: Ni 0.333333, Zr 0.666667 | unspecified | [1] Jana 2020; _cites Wang 2020_ | Table 3, p. 3, row 36 |  |
 | 1293 | L ⇌ NiZr + NiZr2 | L: Zr 0.6182; NiZr: Zr 0.5; NiZr2: Zr 0.6667 | model | [1] Jana 2020 | Table 3, p. 3, row 38 |  |
-| 1283 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00635; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 10 |  |
+| 1283 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.635; NiZr: Zr 0.5; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 10 |  |
 | 1283 | L ⇌ NiZr + NiZr2 | L: Zr 0.635; NiZr: Ni 0.5, Zr 0.5; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 33 |  |
 | 1283 | eutectic |  | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
 | 1280 | eutectic |  | model | [2] Wang 2007; _cites Abe 2005_ [doi](https://doi.org/10.2320/matertrans.46.2838) | p. 1 | “The eutectic temperature calculated by Abe et al. \[8\] is about 1280 K and close to the measured value \[10\], while their calculated melting points of NiZr and NiZr2 are much lower than the experimental data.” |
 | 1261 | Ni7Zr2 + Ni21Zr8 ⇌ Ni3Zr | Ni7Zr2: Zr 0.2222; Ni21Zr8: Zr 0.2759; Ni3Zr: Zr 0.25 | model | [1] Jana 2020 | Table 3, p. 3, row 41 |  |
 | 1261 | Ni7Zr2 + Ni21Zr8 ⇌ Ni3Zr | Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni3Zr: Ni 0.75, Zr 0.25 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 40 |  |
-| 1258 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.00635; NiZr: Zr 0.005; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 12 |  |
+| 1258 | eutectic: L -> NiZr + NiZr2 | L: Zr 0.635; NiZr: Zr 0.5; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 12 |  |
 | 1258 | eutectic |  | experimental | [2] Wang 2007; _cites Hayes 1953_ | p. 1 | “This eutectic temperature has been experimentally measured by Kirkpatrick and Larsen \[10\], Hayes et al. \[11\] and Pogodin and Sokorobogatova \[12\], and the value is 1283 K, 1258 K and 1438 K respectively, while the calculated temperature is about 1333 K \[4\], 1338 K \[5\], 1384 K \[6\] and 1351 K \[7\].” |
 | 1258 | L ⇌ NiZr + NiZr2 | L: Zr 0.635; NiZr: Ni 0.5, Zr 0.5; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Hayes 1953_ | Table 3, p. 3, row 35 |  |
 | 1251 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Takeshita 2004_ [doi](https://doi.org/10.1016/j.jallcom.2004.01.064) | Table 3, p. 3, row 44 |  |
 | 1250 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.4118; NiZr: Zr 0.5 | model | [1] Jana 2020 | Table 3, p. 3, row 47 |  |
-| 1250 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00422; NiZr: Zr 0.005 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 2 |  |
+| 1250 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.422; NiZr: Zr 0.5 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 2 |  |
 | 1248 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 42 |  |
-| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00412; NiZr: Zr 0.005 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 3 |  |
+| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.412; NiZr: Zr 0.5 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 3 |  |
 | 1248 | L ⇌ NiZr2 + (βZr) | NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 51 |  |
-| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.0041; NiZr: Zr 0.005 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 1 |  |
-| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.0045; Ni10Zr7: Zr 0.00412; NiZr: Zr 0.005 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 4 |  |
+| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.41; NiZr: Zr 0.5 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 1 |  |
+| 1248 | eutectoid: Ni11Zr9 -> Ni10Zr7 + NiZr | Ni11Zr9: Zr 0.45; Ni10Zr7: Zr 0.412; NiZr: Zr 0.5 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 4 |  |
 | 1248 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Kosorukova 2013_ | Table 3, p. 3, row 45 |  |
-| 1235 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.00765; NiZr2: Zr 0.00667; (βZr): Zr 0.00972 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 20 |  |
+| 1235 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.765; NiZr2: Zr 0.667; (βZr): Zr 0.972 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 20 |  |
 | 1235 | L ⇌ NiZr2 + (βZr) | L: Zr 0.7441; NiZr2: Zr 0.6667; (βZr): Zr 0.97 | model | [1] Jana 2020 | Table 3, p. 3, row 52 |  |
-| 1234 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.00759; NiZr2: Zr 0.00667; (βZr): Zr 0.00971 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 18 |  |
+| 1234 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.759; NiZr2: Zr 0.667; (βZr): Zr 0.971 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 18 |  |
 | 1234 | L ⇌ NiZr2 + (βZr) | L: Zr 0.759; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Hayes 1953_ | Table 3, p. 3, row 49 |  |
 | 1233 | L ⇌ NiZr2 + (βZr) | L: Zr 0.759; NiZr2: Ni 0.333333, Zr 0.666667; (βZr): Zr 0.971 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 48 |  |
-| 1233 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.00759; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 17 |  |
-| 1232 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.00757; NiZr2: Zr 0.00667; (βZr): Zr 0.00971 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 21 |  |
-| 1227 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.00773; NiZr2: Zr 0.00667; (βZr): Zr 0.00974 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 19 |  |
+| 1233 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.759; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 17 |  |
+| 1232 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.757; NiZr2: Zr 0.667; (βZr): Zr 0.971 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 21 |  |
+| 1227 | eutectic: L -> NiZr2 + (βZr) | L: Zr 0.773; NiZr2: Zr 0.667; (βZr): Zr 0.974 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 19 |  |
 | 1218 | L ⇌ NiZr2 + (βZr) | NiZr2: Ni 0.333333, Zr 0.666667 | unspecified | [1] Jana 2020; _cites Ohsaka 1993_ [doi](https://doi.org/10.1063/1.109404) | Table 3, p. 3, row 50 |  |
 | 1210.15 | eutectic: L -> Zr2Ni + bcc - Zr | L: Zr 0.772; Zr2Ni: Zr 0.667; bcc - Zr: Zr 0.973 | model | [3] Cacciamani 2011 | Table 8, p. 9, row 7 |  |
 | 1206 | Ni11Zr9 ⇌ Ni10Zr7 + NiZr | Ni11Zr9: Ni 0.55, Zr 0.45; Ni10Zr7: Ni 0.588235, Zr 0.411765; NiZr: Ni 0.5, Zr 0.5 | experimental | [1] Jana 2020; _cites Tao 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.04.019) | Table 3, p. 3, row 46 |  |
-| 1197 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276; Ni3Zr: Zr 0.0025 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 28 |  |
+| 1197 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276; Ni3Zr: Zr 0.25 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 3, row 28 |  |
 | 1193 | Ni7Zr2 + Ni21Zr8 ⇌ Ni3Zr | Ni7Zr2: Ni 0.777778, Zr 0.222222; Ni21Zr8: Ni 0.724138, Zr 0.275862; Ni3Zr: Ni 0.75, Zr 0.25 | experimental | [1] Jana 2020; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 3, p. 3, row 39 |  |
-| 1193 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276; Ni3Zr: Zr 0.0025 | experimental | [2] Wang 2007; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 1, p. 3, row 27 |  |
-| 1193 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.0022; Ni21Zr8: Zr 0.00276; Ni3Zr: Zr 0.0025 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 29 |  |
+| 1193 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276; Ni3Zr: Zr 0.25 | experimental | [2] Wang 2007; _cites Bsenko 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990241-8) | Table 1, p. 3, row 27 |  |
+| 1193 | peritectoid: Ni7Zr2 + Ni21Zr8 → Ni3Zr | Ni7Zr2: Zr 0.22; Ni21Zr8: Zr 0.276; Ni3Zr: Zr 0.25 | unspecified | [2] Wang 2007 | Table 1, p. 3, row 29 |  |
 | 1147.15 | eutectic |  | model | [3] Cacciamani 2011 | p. 12 | “Characteristic features of the projection are as follows: (a) the large primary solidification area of ZrB2 , (b) the deep valley close to the Zr-Ni binary subsystem which includes the lowest ternary eutectic of the system Liquid ZrB2 + Zr7 Ni10 + Zr8 Ni21 at 874 °C.” |
-| 1118 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.0098; NiZr2: Zr 0.00667; (αZr): Zr 0.0099 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 26 |  |
-| 1118 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.0098; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 22 |  |
+| 1118 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.98; NiZr2: Zr 0.667; (αZr): Zr 0.99 | unspecified | [2] Wang 2007 | Table 1, p. 4, row 26 |  |
+| 1118 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.98; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Kirkpatrick 1961_ | Table 1, p. 4, row 22 |  |
 | 1118 | (βZr) ⇌ NiZr2 + (αZr) | (βZr): Zr 0.98; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Kirkpatrick 1961_ | Table 3, p. 3, row 53 |  |
 | 1108 | (βZr) ⇌ NiZr2 + (αZr) | (βZr): Zr 0.9803; NiZr2: Zr 0.6667; (αZr): Zr 0.99 | model | [1] Jana 2020 | Table 3, p. 3, row 55 |  |
-| 1100 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.00982; NiZr2: Zr 0.00667; (αZr): Zr 0.00998 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 24 |  |
-| 1091 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.00983; NiZr2: Zr 0.00667; (αZr): Zr 0.01 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 25 |  |
-| 1081 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.0098; NiZr2: Zr 0.00667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 23 |  |
+| 1100 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.982; NiZr2: Zr 0.667; (αZr): Zr 0.998 | model | [2] Wang 2007; _cites Ghosh 1994_ [doi](https://doi.org/10.1557/jmr.1994.0598) | Table 1, p. 4, row 24 |  |
+| 1091 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.983; NiZr2: Zr 0.667; (αZr): Zr 1 | model | [2] Wang 2007; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 1, p. 4, row 25 |  |
+| 1081 | eutectoid: (βZr) -> NiZr2 + (αZr) | (βZr): Zr 0.98; NiZr2: Zr 0.667 | experimental | [2] Wang 2007; _cites Hayes 1953_ | Table 1, p. 4, row 23 |  |
 | 1081 | (βZr) ⇌ NiZr2 + (αZr) | (βZr): Zr 0.98; NiZr2: Ni 0.333333, Zr 0.666667 | experimental | [1] Jana 2020; _cites Hayes 1953_ | Table 3, p. 3, row 54 |  |
 
 ## Formation enthalpies
@@ -381,13 +381,13 @@ Table: Enthalpies of formation, Ni–Zr system (83)
 | Ni21Zr8 | [Ni21Zr8](https://data.orchid-project.org/compounds/Ni21Zr8.html) | -42.821 kJ/mol-atom |  | model | -41.892 (mp-aaaabstw) | -42.642 (oqmd-24762) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 30 |  |
 | Ni21Zr8 | [Ni21Zr8](https://data.orchid-project.org/compounds/Ni21Zr8.html) | -42.235 kJ/mol-atom |  | model | -41.892 (mp-aaaabstw) | -42.642 (oqmd-24762) | [1] Jana 2020 | Table 6, p. 7, row 33 |  |
 | Ni21Zr8 |  | -41.392 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 31 |  |
-| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -49.841 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -45.036 (oqmd-1795566) | [1] Jana 2020 | Table 6, p. 7, row 26 |  |
+| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -49.841 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -44.887 (oqmd-17867) | [1] Jana 2020 | Table 6, p. 7, row 26 |  |
 | Ni3Zr |  | -49.486 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 25 |  |
-| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -49 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -45.036 (oqmd-1795566) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 21 |  |
+| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -49 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -44.887 (oqmd-17867) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 21 |  |
 | Ni3Zr |  | -44.866 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 23 |  |
 | Ni3Zr |  | -44.384 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 24 |  |
-| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -39.635 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -45.036 (oqmd-1795566) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 22 |  |
-| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -39.247 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -45.036 (oqmd-1795566) | [1] Jana 2020 | Table 6, p. 7, row 27 |  |
+| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -39.635 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -44.887 (oqmd-17867) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 22 |  |
+| Ni3Zr | [Ni3Zr](https://data.orchid-project.org/compounds/Ni3Zr.html) | -39.247 kJ/mol-atom |  | model | -44.234 (mp-aaaaaasr) | -44.887 (oqmd-17867) | [1] Jana 2020 | Table 6, p. 7, row 27 |  |
 | Ni5Zr |  | -39.109 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 8 |  |
 | Ni5Zr | [Ni5Zr](https://data.orchid-project.org/compounds/Ni5Zr.html) | -39 kJ/mol-atom |  | model | -30.872 (mp-aaaaadpv) | -31.344 (oqmd-669588) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 4 |  |
 | Ni5Zr | [Ni5Zr](https://data.orchid-project.org/compounds/Ni5Zr.html) | -36.112 kJ/mol-atom |  | model | -30.872 (mp-aaaaadpv) | -31.344 (oqmd-669588) | [1] Jana 2020 | Table 6, p. 7, row 9 |  |
@@ -408,17 +408,17 @@ Table: Enthalpies of formation, Ni–Zr system (83)
 | Ni7Zr2 | [Ni7Zr2](https://data.orchid-project.org/compounds/Ni7Zr2.html) | -40.6 kJ/mol-atom ± 0.7 | 298.15 | experimental | -41.229 (mp-aaaaaean) | -41.505 (oqmd-2288) | [1] Jana 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 7, row 12 |  |
 | Ni7Zr2 | [Ni7Zr2](https://data.orchid-project.org/compounds/Ni7Zr2.html) | -36.594 kJ/mol-atom |  | model | -41.229 (mp-aaaaaean) | -41.505 (oqmd-2288) | [1] Jana 2020 | Table 6, p. 7, row 20 |  |
 | Ni7Zr2 | [Ni7Zr2](https://data.orchid-project.org/compounds/Ni7Zr2.html) | -35.821 kJ/mol-atom |  | model | -41.229 (mp-aaaaaean) | -41.505 (oqmd-2288) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 15 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -53 kJ/mol-atom ± 3 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Sidorov 1989_ | Table 6, p. 7, row 53 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50.87 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 58 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50.5 kJ/mol-atom ± 1.5 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 7, row 54 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 57 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.53 kJ/mol-atom ± 2.47 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 52 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -53 kJ/mol-atom ± 3 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Sidorov 1989_ | Table 6, p. 7, row 53 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50.87 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 58 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50.5 kJ/mol-atom ± 1.5 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 6, p. 7, row 54 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -50 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 6, p. 7, row 57 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.53 kJ/mol-atom ± 2.47 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 52 |  |
 | NiZr |  | -48.384 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Hennig 2005_ [doi](https://doi.org/10.1103/physrevb.71.144103) | Table 6, p. 7, row 60 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.369 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020 | Table 6, p. 7, row 62 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.243 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Watson 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990015-8) | Table 6, p. 7, row 56 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.369 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020 | Table 6, p. 7, row 62 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -48.243 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Watson 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990015-8) | Table 6, p. 7, row 56 |  |
 | NiZr |  | -48.137 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Du 2014_ [doi](https://doi.org/10.1016/j.intermet.2014.05.021) | Table 6, p. 7, row 61 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -46.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 55 |  |
-| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -46.23 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -44.079 (oqmd-1926888) | [1] Jana 2020 | Table 6, p. 7, row 63 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -46.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020; _cites Zaitsev 2002_ [doi](https://doi.org/10.1039/b201036b) | Table 6, p. 7, row 55 |  |
+| NiZr | [NiZr](https://data.orchid-project.org/compounds/NiZr.html) | -46.23 kJ/mol-atom |  | model | -43.971 (mp-aaaaaavk) | -43.978 (oqmd-17864) | [1] Jana 2020 | Table 6, p. 7, row 63 |  |
 | NiZr |  | -43.997 kJ/mol-atom |  | DFT |  |  | [1] Jana 2020; _cites Kirklin_ | Table 6, p. 7, row 59 |  |
 | NiZr2 | [NiZr2](https://data.orchid-project.org/compounds/NiZr2.html) | -37.288 kJ/mol-atom |  | model | -31.171 (mp-aaaaaamq) | -31.327 (oqmd-103369) | [1] Jana 2020; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 6, p. 7, row 68 |  |
 | NiZr2 | [NiZr2](https://data.orchid-project.org/compounds/NiZr2.html) | -37.24 kJ/mol-atom ± 6.11 | 298.15 | experimental | -31.171 (mp-aaaaaamq) | -31.327 (oqmd-103369) | [1] Jana 2020; _cites Henaff 1984_ [doi](https://doi.org/10.1063/1.333963) | Table 6, p. 7, row 65 |  |

@@ -1,20 +1,20 @@
 # In–Pt phases
 
-> In–Pt system: 16 phases (tier A 9, tier C 4, liquid 1, needs_review 1, unresolved_no_candidates 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> In–Pt system: 15 phases (tier A 9, tier C 4, liquid 1, needs_review 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/IN-PT.html · Markdown: https://data.orchid-project.org/phases/pages/IN-PT.md
 
-16 phases (tier A 9, tier C 4, liquid 1, needs_review 1, unresolved_no_candidates 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 9, tier C 4, liquid 1, needs_review 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=IN-PT) · [full JSON](https://data.orchid-project.org/phases/systems/IN-PT.json) · [In–Pt system page](https://data.orchid-project.org/systems/IN-PT.html) · [Markdown](https://data.orchid-project.org/phases/pages/IN-PT.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the In–Pt system (16)
+Table: Phases of the In–Pt system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-in-pt-a6-tetragonal); _phase:in-pt:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–441.81 K, x(Pt) 0–0 | 2 | 1 |
+| [TETRAGONAL_A6](#phase-in-pt-a6-tetragonal); _phase:in-pt:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–441.81 K, x(Pt) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-in-pt-bcc-a2); _phase:in-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [A1_FCC](#phase-in-pt-fcc-a1); _phase:in-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–2499 K, x(Pt) 0.87676–1 | 2 | 2 |
+| [FCC_A1](#phase-in-pt-fcc-a1); _phase:in-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499 K, x(Pt) 0.87676–1 | 2 | 2 |
 | [L12_FCC](#phase-in-pt-fcc-l12); _phase:in-pt:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2020 K, x(Pt) 0.7236–0.99 | 6 | 1 |
 | [HCP_A3](#phase-in-pt-hcp-a3); _phase:in-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [IN2PT_C1](#phase-in-pt-in2pt-c1); _phase:in-pt:in2pt-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1305.32 K, x(Pt) 0.33333–0.33333 | 5 | 1 |
@@ -25,7 +25,6 @@ Table: Phases of the In–Pt system (16)
 | [IN7PT3_D8F](#phase-in-pt-in7pt3-d8f); _phase:in-pt:in7pt3-d8f_ | Ru3Sn7 · D8_f · cI40 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1168.76 K, x(Pt) 0.3–0.3 | 4 | 1 |
 | [IN9PT13](#phase-in-pt-in9pt13); _phase:in-pt:in9pt13_ | Ga9Ni13 · mC44 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1372.53 K, x(Pt) 0.57875–0.59091 | 8 | 1 |
 | [INPT_HT](#phase-in-pt-inpt); _phase:in-pt:inpt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1217.05–1302.87 K, x(Pt) 0.5216–0.5378 | 6 | 1 |
-| [INPT-HT](#phase-in-pt-inpt-ht); _phase:in-pt:inpt-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [INPT2](#phase-in-pt-inpt2); _phase:in-pt:inpt2_ | Ga3Pt5 · oC16 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1274.68 K, x(Pt) 0.66667–0.66667 | 6 | 1 |
 | [LIQUID](#phase-in-pt-liquid); _phase:in-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 426.81–2500 K, x(Pt) 0–1 | 21 | 1 |
 
@@ -34,11 +33,10 @@ Table: Phases of the In–Pt system (16)
 - Id: `phase:in-pt:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–441.81 K, x(Pt) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pt:a6-tetragonal)
 
-Names (4): _corpus: _corpus:phase:in-pt:a6-tetragonal, corpus:phase:in-pt:tetragonal-a6  
-_paper: _paper:10.1016/j.jallcom.2008.07.086:tetra(In)  
+Names (3): _corpus: _corpus:phase:in-pt:a6-tetragonal, corpus:phase:in-pt:tetragonal-a6  
 _tdb: _tdb:InPt-09Lia.tdb:TETRAGONAL_A6  
 
 
@@ -51,12 +49,10 @@ _tdb: _tdb:InPt-09Lia.tdb:TETRAGONAL_A6
 51: CONST TETRAGONAL_A6 : IN% PT : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.07.086](https://doi.org/10.1016/j.jallcom.2008.07.086) Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the In–Pt system, Journal of Alloys and Compounds 475, 220-226 (2009).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-005-0104-6](https://doi.org/10.1007/s11669-005-0104-6) H. Okamoto, In-Pt (Indium-Platinum), J Phs Eqil and Diff 26, 399-399 (2005).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (In–Pt)
 
@@ -84,11 +80,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.1016/j.jallcom.2008.07.086](https://doi.org/10.1016/j.jallcom.2008.07.086) Yu Liang, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic modeling of the In–Pt system, Journal of Alloys and Compounds 475, 220-226 (2009).  
 _assessment that models this phase_
 
-## A1_FCC (In–Pt)
+## FCC_A1 (In–Pt)
 
 - Id: `phase:in-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–2499 K, x(Pt) 0.87676–1
+- Stability: stable in 1 of 1 calculated diagram(s): 300–2499 K, x(Pt) 0.87676–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pt:fcc-a1)
 
@@ -97,7 +93,7 @@ _paper: _paper:10.1016/j.jallcom.2008.07.086:fcc(Pt)
 _tdb: _tdb:InPt-09Lia.tdb:A1_FCC, tdb:InPt-09Lia.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written
 
 [InPt-09Lia.tdb](https://orchid-project.org/data/databases/sgte-binary/InPt-09Lia.tdb): A1_FCC, type code %A, sha256 `15a3f542090db76b…`
 
@@ -409,7 +405,7 @@ _cited as the source of values for this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pt:inpt)
 
-Names (3): _corpus: _corpus:phase:in-pt:inpt  
+Names (4): _corpus: _corpus:phase:in-pt:inpt, corpus:phase:in-pt:inpt-ht  
 _paper: _paper:10.1016/j.jallcom.2008.07.086:InPt  
 _tdb: _tdb:InPt-09Lia.tdb:INPT_HT  
 
@@ -429,17 +425,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-005-0104-6](https://doi.org/10.1007/s11669-005-0104-6) H. Okamoto, In-Pt (Indium-Platinum), J Phs Eqil and Diff 26, 399-399 (2005).  
 _cited as the source of values for this phase_
-
-## INPT-HT (In–Pt)
-
-- Id: `phase:in-pt:inpt-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pt:inpt-ht)
-
-Names (1): _corpus: _corpus:phase:in-pt:inpt-ht  
-
 
 ## INPT2 (In–Pt)
 

@@ -1,14 +1,14 @@
 # Dy–Sb phases
 
-> Dy–Sb system: 12 phases (tier A 7, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Dy–Sb system: 10 phases (tier A 7, liquid 1, needs_review 2); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/DY-SB.html · Markdown: https://data.orchid-project.org/phases/pages/DY-SB.md
 
-12 phases (tier A 7, liquid 1, needs_review 2, unresolved_no_candidates 2); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 7, liquid 1, needs_review 2); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=DY-SB) · [full JSON](https://data.orchid-project.org/phases/systems/DY-SB.json) · [Dy–Sb system page](https://data.orchid-project.org/systems/DY-SB.html) · [Markdown](https://data.orchid-project.org/phases/pages/DY-SB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Dy–Sb system (12)
+Table: Phases of the Dy–Sb system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,11 +16,9 @@ Table: Phases of the Dy–Sb system (12)
 | [BCC_A2](#phase-dy-sb-bcc-a2); _phase:dy-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1648.83–1685.1 K, x(Sb) 0–0.00169 | 2 | 1 |
 | [DY4SB3_HT](#phase-dy-sb-dy4sb3); _phase:dy-sb:dy4sb3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1903.97–2040.3 K, x(Sb) 0.42857–0.42857 | 6 | 1 |
 | [DY4SB3_D73](#phase-dy-sb-dy4sb3-d73); _phase:dy-sb:dy4sb3-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1095.44–1903.97 K, x(Sb) 0.42857–0.42857 | 4 | 1 |
-| [DY4SB3-HT](#phase-dy-sb-dy4sb3-ht); _phase:dy-sb:dy4sb3-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [DY5SB3_D88](#phase-dy-sb-dy5sb3-d88); _phase:dy-sb:dy5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1944.87 K, x(Sb) 0.375–0.375 | 6 | 1 |
 | [DYSB_HT](#phase-dy-sb-dysb); _phase:dy-sb:dysb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 2162.56–2422.56 K, x(Sb) 0.5–0.5 | 8 | 1 |
 | [DYSB_B1](#phase-dy-sb-dysb-b1); _phase:dy-sb:dysb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2162.56 K, x(Sb) 0.5–0.5 | 12 | 1 |
-| [DYSB-HT](#phase-dy-sb-dysb-ht); _phase:dy-sb:dysb-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [FCC_A1](#phase-dy-sb-fcc-a1); _phase:dy-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-dy-sb-hcp-a3); _phase:dy-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1654.15 K, x(Sb) 0–0.00505 | 4 | 1 |
 | [LIQUID](#phase-dy-sb-liquid); _phase:dy-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 897.96–2500 K, x(Sb) 0–1 | 16 | 1 |
@@ -91,7 +89,7 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-sb:dy4sb3)
 
-Names (3): _corpus: _corpus:phase:dy-sb:dy4sb3  
+Names (4): _corpus: _corpus:phase:dy-sb:dy4sb3, corpus:phase:dy-sb:dy4sb3-ht  
 _paper: _paper:10.1016/j.tca.2009.09.006:β.Dy4Sb3  
 _tdb: _tdb:DySb-10Lon.tdb:DY4SB3_HT  
 
@@ -140,17 +138,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(03)00080-x](https://doi.org/10.1016/s0925-8388%2803%2900080-x) A.V. Morozkin, Dy–Sb–Si system at 1100 K and ternary intermetallic phases in the Dy–Sb–Si and Gd–Sb–Si systems, Journal of Alloys and Compounds 358, L6-L8 (2003).  
 _cited as the source of values for this phase_
 
-## DY4SB3-HT (Dy–Sb)
-
-- Id: `phase:dy-sb:dy4sb3-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-sb:dy4sb3-ht)
-
-Names (1): _corpus: _corpus:phase:dy-sb:dy4sb3-ht  
-
-
 ## DY5SB3_D88 (Dy–Sb)
 
 - Id: `phase:dy-sb:dy5sb3-d88`; status `assigned`
@@ -197,7 +184,7 @@ _cited as the source of values for this phase_
 - Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-sb:dysb)
 
-Names (3): _corpus: _corpus:phase:dy-sb:dysb  
+Names (4): _corpus: _corpus:phase:dy-sb:dysb, corpus:phase:dy-sb:dysb-ht  
 _paper: _paper:10.1016/j.tca.2009.09.006:β.DySb  
 _tdb: _tdb:DySb-10Lon.tdb:DYSB_HT  
 
@@ -245,17 +232,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(03)00080-x](https://doi.org/10.1016/s0925-8388%2803%2900080-x) A.V. Morozkin, Dy–Sb–Si system at 1100 K and ternary intermetallic phases in the Dy–Sb–Si and Gd–Sb–Si systems, Journal of Alloys and Compounds 358, L6-L8 (2003).  
 _cited as the source of values for this phase_
-
-## DYSB-HT (Dy–Sb)
-
-- Id: `phase:dy-sb:dysb-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-sb:dysb-ht)
-
-Names (1): _corpus: _corpus:phase:dy-sb:dysb-ht  
-
 
 ## FCC_A1 (Dy–Sb)
 

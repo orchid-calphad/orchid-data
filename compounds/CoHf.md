@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CoHf.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -42.8 kJ/mol-atom (n = 1); Materials Project -38.703 kJ/mol-atom (mp-aaacipkv); OQMD -41.963 kJ/mol-atom (oqmd-1375082).
 
-Systems: [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html)
+Systems: [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of CoHf reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.8 kJ/mol-atom | CoHf | 298.15 | experimental |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
-| -52 kJ/mol-atom | CoHf | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006 | Table 6, p. 5, row 12 |  |
-| -51 kJ/mol-atom | CoHf | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
+| -42.8 kJ/mol-atom | CoHf | 298.15 | experimental |  | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html) | [1] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
+| -52 kJ/mol-atom | CoHf | 298.15 | model |  | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html) | [1] Bratberg 2006 | Table 6, p. 5, row 12 |  |
+| -51 kJ/mol-atom | CoHf | 298.15 | model |  | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of CoHf
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -42.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -52 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -42.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -52 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -12,26 +12,26 @@ Table: Phases of the Co–Zr system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-zr-bcc-a2); _phase:co-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 11 calculated diagram(s): 1100–3999.37 K, x(Zr) 0.898–1 | 49 | 11 |
+| [BCC_A2](#phase-co-zr-bcc-a2); _phase:co-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1100–3999.37 K, x(Zr) 0.898–1 | 47 | 11 |
 | [B2_BCC](#phase-co-zr-bcc-b2); _phase:co-zr:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.1 K, x(Zr) 0.49883–1 | 31 | 4 |
 | [C15_LAVES](#phase-co-zr-c15-laves); _phase:co-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1853.32 K, x(Zr) 0.2525–0.34111 | 71 | 6 |
-| [CO11ZR2](#phase-co-zr-co11zr2); _phase:co-zr:co11zr2_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–1548.49 K, x(Zr) 0.15385–0.15385 | 50 | 6 |
-| [CO23ZR6_D8A](#phase-co-zr-co23zr6-d8a); _phase:co-zr:co23zr6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1628.06 K, x(Zr) 0.2069–0.2069 | 50 | 6 |
+| [CO11ZR2](#phase-co-zr-co11zr2); _phase:co-zr:co11zr2_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–1548.49 K, x(Zr) 0.15385–0.15385 | 51 | 6 |
+| [CO23ZR6_D8A](#phase-co-zr-co23zr6-d8a); _phase:co-zr:co23zr6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1628.06 K, x(Zr) 0.2069–0.2069 | 51 | 6 |
 | [CO2ZR_C15](#phase-co-zr-co2zr-c15); _phase:co-zr:co2zr-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2073.51 K, x(Zr) 0.33333–0.33333 | 0 | 1 |
 | [COZR_B2](#phase-co-zr-cozr-b2); _phase:co-zr:cozr-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1821.89 K, x(Zr) 0.5–0.5 | 48 | 3 |
-| [COZR2](#phase-co-zr-cozr2); _phase:co-zr:cozr2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1582.37 K, x(Zr) 0.66667–0.66667 | 0 | 1 |
+| [COZR2](#phase-co-zr-cozr2); _phase:co-zr:cozr2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1582.37 K, x(Zr) 0.66667–0.66667 | 3 | 1 |
 | [COZR2_C16](#phase-co-zr-cozr2-c16); _phase:co-zr:cozr2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1398.53 K, x(Zr) 0.66667–0.66845 | 80 | 6 |
 | [COZR3](#phase-co-zr-cozr3); _phase:co-zr:cozr3_ | Re3B · E1_a · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1254.33 K, x(Zr) 0.7468–0.75592 | 28 | 6 |
-| [FCC_A1](#phase-co-zr-fcc-a1); _phase:co-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 619.99–1794.78 K, x(Zr) 0–0.01229 | 13 | 7 |
+| [FCC_A1](#phase-co-zr-fcc-a1); _phase:co-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 619.99–1794.78 K, x(Zr) 0–0.01229 | 14 | 7 |
 | [HCP_A3](#phase-co-zr-hcp-a3); _phase:co-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2060.04 K, x(Zr) 0–1 | 12 | 7 |
-| [LIQUID](#phase-co-zr-liquid); _phase:co-zr:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1256.32–4000 K, x(Zr) 0–1 | 164 | 7 |
+| [LIQUID](#phase-co-zr-liquid); _phase:co-zr:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1256.32–4000 K, x(Zr) 0–1 | 165 | 7 |
 
 ## BCC_A2 (Co–Zr)
 
 - Id: `phase:co-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 11 calculated diagram(s): 1100–3999.37 K, x(Zr) 0.898–1
-- Literature: 49 values (49 accepted) from 4 papers
+- Stability: stable in 7 of 7 calculated diagram(s): 1100–3999.37 K, x(Zr) 0.898–1
+- Literature: 47 values (47 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:bcc-a2)
 
 Names (17): _corpus: _corpus:phase:co-zr:bcc-a2  
@@ -295,11 +295,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (Co11Zr2) · Pban (50) — Hallstedt 2025 mmc2 row for CO11ZR2: Co11Zr2
 - Stoichiometry: Co 0.8462, Zr 0.1538
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1548.49 K, x(Zr) 0.15385–0.15385
-- Literature: 50 values (50 accepted) from 4 papers
+- Literature: 51 values (51 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:co11zr2)
 
-Names (11): _corpus: _corpus:phase:co-zr:co11zr2  
-_paper: _paper:10.1007/s11669-020-00805-5:Co11Zr2, paper:10.1007/s11669-020-00859-5:Co11Zr2, paper:10.1016/j.calphad.2010.02.006:Co11Zr2, paper:10.1016/j.jallcom.2009.04.032:Co11Zr2  
+Names (12): _corpus: _corpus:phase:co-zr:co11zr2  
+_paper: _paper:10.1007/s11661-023-07089-7:Co11Zr2, paper:10.1007/s11669-020-00805-5:Co11Zr2, paper:10.1007/s11669-020-00859-5:Co11Zr2, paper:10.1016/j.calphad.2010.02.006:Co11Zr2, paper:10.1016/j.jallcom.2009.04.032:Co11Zr2  
 _tdb: _tdb:CoZr-09Liu.tdb:CO11ZR2, tdb:CoZr-10Dur.tdb:CO11ZR2, tdb:CoZr-20Agr.tdb:CO11ZR2, tdb:CoZr-21Zho.tdb:CO11ZR2, tdb:CoZr-22Zho.tdb:CO11ZR2, tdb:CoZr-23Sun.tdb:CO11ZR2  
 
 
@@ -358,7 +358,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006) A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-023-07089-7](https://doi.org/10.1007/s11661-023-07089-7) Jiaxing Sun, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental Investigation and Thermodynamic Description of the Co–Nb–Zr System, Metall Mater Trans A 54, 3021-3044 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnoncrysol.2022.121615](https://doi.org/10.1016/j.jnoncrysol.2022.121615) Chenyang Zhou, Haipeng Jin, Huakou Yang, Jinming Liu, Hang Wang, Bin Yang, Phase diagram, thermodynamic modeling and predictions of glass-forming range and ability in the Co–Cu–Zr system, Journal of Non-Crystalline Solids 588, 121615 (2022).  
 _assessment that models this phase_
 
@@ -368,11 +368,11 @@ _assessment that models this phase_
 - Structure: Mn23Th6 · D8_a · cF116 · Fm-3m (225); type `st:d8-a-mn23th6-cf116`; tier A: standard phase name; confidence high
 - Stoichiometry: Co 0.7931, Zr 0.2069
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1628.06 K, x(Zr) 0.2069–0.2069
-- Literature: 50 values (50 accepted) from 4 papers
+- Literature: 51 values (51 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:co23zr6-d8a)
 
-Names (11): _corpus: _corpus:phase:co-zr:co23zr6-d8a  
-_paper: _paper:10.1007/s11669-020-00805-5:Co23Zr6, paper:10.1007/s11669-020-00859-5:Co23Zr6, paper:10.1016/j.calphad.2010.02.006:Co23Zr6, paper:10.1016/j.jallcom.2009.04.032:Co23Zr6  
+Names (12): _corpus: _corpus:phase:co-zr:co23zr6-d8a  
+_paper: _paper:10.1007/s11661-023-07089-7:Co23Zr6, paper:10.1007/s11669-020-00805-5:Co23Zr6, paper:10.1007/s11669-020-00859-5:Co23Zr6, paper:10.1016/j.calphad.2010.02.006:Co23Zr6, paper:10.1016/j.jallcom.2009.04.032:Co23Zr6  
 _tdb: _tdb:CoZr-09Liu.tdb:CO23ZR6_D8A, tdb:CoZr-10Dur.tdb:CO23ZR6_D8A, tdb:CoZr-20Agr.tdb:CO23ZR6_D8A, tdb:CoZr-21Zho.tdb:CO23ZR6_D8A, tdb:CoZr-22Zho.tdb:CO23ZR6_D8A, tdb:CoZr-23Sun.tdb:CO23ZR6_D8A  
 
 
@@ -431,7 +431,7 @@ _assessment that models this phase; cited as the source of values for this phase
 - [doi:10.1007/s11669-020-00859-5](https://doi.org/10.1007/s11669-020-00859-5) Chenyang Zhou, Hang Wang, Thermodynamic Descriptions of the Co–Zr and Co–Fe–Zr Systems, J. Phase Equilib. Diffus. 42, 77-90 (2021).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-023-07089-7](https://doi.org/10.1007/s11661-023-07089-7) Jiaxing Sun, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental Investigation and Thermodynamic Description of the Co–Nb–Zr System, Metall Mater Trans A 54, 3021-3044 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnoncrysol.2022.121615](https://doi.org/10.1016/j.jnoncrysol.2022.121615) Chenyang Zhou, Haipeng Jin, Huakou Yang, Jinming Liu, Hang Wang, Bin Yang, Phase diagram, thermodynamic modeling and predictions of glass-forming range and ability in the Co–Cu–Zr system, Journal of Non-Crystalline Solids 588, 121615 (2022).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(83)90024-x](https://doi.org/10.1016/0364-5916%2883%2990024-x) J.C. Gachon, Enthalpies of formation of binary phases in the systems FeTi, FeZr, CoTi, CoZr, NiTi, and NiZr, by direct reaction calorimetry, Calphad (1983).  
@@ -523,10 +523,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): NiTi2 · cF96 · Fd-3m — CoZr-06Bra.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'
 - Stoichiometry: Co 0.3333, Zr 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1582.37 K, x(Zr) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:cozr2)
 
-Names (2): _corpus: _corpus:phase:co-zr:cozr2  
+Names (3): _corpus: _corpus:phase:co-zr:cozr2  
+_paper: _paper:10.1361/154770306x109746:CoZr2  
 _tdb: _tdb:CoZr-06Bra.tdb:COZR2  
 
 
@@ -542,7 +543,7 @@ _tdb: _tdb:CoZr-06Bra.tdb:COZR2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1361/154770306X109746](https://doi.org/10.1361/154770306X109746) J. Bratberg, B. Jansson, J. Phase Equilib. Diffus., 27, 213-19(2006).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## COZR2_C16 (Co–Zr)
 
@@ -707,11 +708,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-zr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 619.99–1794.78 K, x(Zr) 0–0.01229
-- Literature: 13 values (13 accepted) from 3 papers
+- Literature: 14 values (14 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:fcc-a1)
 
-Names (11): _corpus: _corpus:phase:co-zr:fcc-a1  
-_paper: _paper:10.1007/s11669-020-00859-5:fcc(Co), paper:10.1016/j.calphad.2010.02.006:FCC_A1, paper:10.1016/j.jallcom.2009.04.032:(αCo)  
+Names (12): _corpus: _corpus:phase:co-zr:fcc-a1  
+_paper: _paper:10.1007/s11661-023-07089-7:fcc(Co), paper:10.1007/s11669-020-00859-5:fcc(Co), paper:10.1016/j.calphad.2010.02.006:FCC_A1, paper:10.1016/j.jallcom.2009.04.032:(αCo)  
 _tdb: _tdb:CoZr-06Bra.tdb:FCC_A1, tdb:CoZr-09Liu.tdb:FCC_A1, tdb:CoZr-10Dur.tdb:FCC_A1, tdb:CoZr-20Agr.tdb:FCC_A1, tdb:CoZr-21Zho.tdb:FCC_A1, tdb:CoZr-22Zho.tdb:FCC_A1, tdb:CoZr-23Sun.tdb:FCC_A1  
 
 
@@ -777,7 +778,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-020-00805-5](https://doi.org/10.1007/s11669-020-00805-5) Pavel Agraval, Liya Dreval, Mikhail Turchanin, Tamara Velikanova, Thermodynamic Assessment of the Co-Zr System, J. Phase Equilib. Diffus. 41, 491-499 (2020).  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11661-023-07089-7](https://doi.org/10.1007/s11661-023-07089-7) Jiaxing Sun, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental Investigation and Thermodynamic Description of the Co–Nb–Zr System, Metall Mater Trans A 54, 3021-3044 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnoncrysol.2022.121615](https://doi.org/10.1016/j.jnoncrysol.2022.121615) Chenyang Zhou, Haipeng Jin, Huakou Yang, Jinming Liu, Hang Wang, Bin Yang, Phase diagram, thermodynamic modeling and predictions of glass-forming range and ability in the Co–Cu–Zr system, Journal of Non-Crystalline Solids 588, 121615 (2022).  
 _assessment that models this phase_
 - [doi:10.1361/154770306X109746](https://doi.org/10.1361/154770306X109746) J. Bratberg, B. Jansson, J. Phase Equilib. Diffus., 27, 213-19(2006).  
@@ -869,11 +870,11 @@ _assessment that models this phase_
 - Id: `phase:co-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1256.32–4000 K, x(Zr) 0–1
-- Literature: 164 values (164 accepted) from 4 papers
+- Literature: 165 values (165 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zr:liquid)
 
-Names (13): _corpus: _corpus:phase:co-zr:liquid  
-_paper: _paper:10.1007/s11669-020-00805-5:L, paper:10.1007/s11669-020-00859-5:L, paper:10.1016/j.calphad.2010.02.006:L, paper:10.1016/j.jallcom.2009.04.032:Liquid, paper:10.1016/j.jallcom.2009.04.032:liquid  
+Names (14): _corpus: _corpus:phase:co-zr:liquid  
+_paper: _paper:10.1007/s11661-023-07089-7:Liq., paper:10.1007/s11669-020-00805-5:L, paper:10.1007/s11669-020-00859-5:L, paper:10.1016/j.calphad.2010.02.006:L, paper:10.1016/j.jallcom.2009.04.032:Liquid, paper:10.1016/j.jallcom.2009.04.032:liquid  
 _tdb: _tdb:CoZr-06Bra.tdb:LIQUID, tdb:CoZr-09Liu.tdb:LIQUID, tdb:CoZr-10Dur.tdb:LIQUID, tdb:CoZr-20Agr.tdb:LIQUID, tdb:CoZr-21Zho.tdb:LIQUID, tdb:CoZr-22Zho.tdb:LIQUID, tdb:CoZr-23Sun.tdb:LIQUID  
 
 
@@ -939,7 +940,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2010.02.006](https://doi.org/10.1016/j.calphad.2010.02.006) A. Durga, K.C. Hari Kumar, Thermodynamic optimization of the Co–Zr system, Calphad 34, 200-205 (2010).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-023-07089-7](https://doi.org/10.1007/s11661-023-07089-7) Jiaxing Sun, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental Investigation and Thermodynamic Description of the Co–Nb–Zr System, Metall Mater Trans A 54, 3021-3044 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnoncrysol.2022.121615](https://doi.org/10.1016/j.jnoncrysol.2022.121615) Chenyang Zhou, Haipeng Jin, Huakou Yang, Jinming Liu, Hang Wang, Bin Yang, Phase diagram, thermodynamic modeling and predictions of glass-forming range and ability in the Co–Cu–Zr system, Journal of Non-Crystalline Solids 588, 121615 (2022).  
 _assessment that models this phase_
 - [doi:10.1361/154770306X109746](https://doi.org/10.1361/154770306X109746) J. Bratberg, B. Jansson, J. Phase Equilib. Diffus., 27, 213-19(2006).  

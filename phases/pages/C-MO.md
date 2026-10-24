@@ -1,10 +1,10 @@
 # C–Mo phases
 
-> C–Mo system: 8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Mo system: 8 phases (tier A 4, tier C 1, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-MO.html · Markdown: https://data.orchid-project.org/phases/pages/C-MO.md
 
-8 phases (tier A 5, tier C 1, liquid 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 4, tier C 1, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-MO) · [full JSON](https://data.orchid-project.org/phases/systems/C-MO.json) · [Markdown](https://data.orchid-project.org/phases/pages/C-MO.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -16,7 +16,7 @@ Table: Phases of the C–Mo system (8)
 | [GRAPHITE_A9](#phase-c-mo-a9-graphite); _phase:c-mo:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-c-mo-bcc-a2); _phase:c-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2895.99 K, x(C) 0–0.00877 | 0 | 1 |
 | [MC_ETA](#phase-c-mo-eta-mc); _phase:c-mo:eta-mc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1930–2826.05 K, x(C) 0.35528–0.40968 | 0 | 1 |
-| [FCC_A1](#phase-c-mo-fcc-a1); _phase:c-mo:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 2236.75–2866.05 K, x(C) 0.3974–0.43199 | 0 | 1 |
+| [FCC_A1](#phase-c-mo-fcc-a1); _phase:c-mo:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 2236.75–2866.05 K, x(C) 0.3974–0.43199 | 0 | 1 |
 | [HCP_A3](#phase-c-mo-hcp-a3); _phase:c-mo:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2788.61 K, x(C) 0.27109–0.33333 | 0 | 1 |
 | [LIQUID](#phase-c-mo-liquid); _phase:c-mo:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2477.77–4000 K, x(C) 0–0.58357 | 0 | 1 |
 | [MC_SHP](#phase-c-mo-mc-shp); _phase:c-mo:mc-shp_ | WC · B_h · hP2 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1422.95 K, x(C) 0.5–0.5 | 0 | 1 |
@@ -25,6 +25,7 @@ Table: Phases of the C–Mo system (8)
 
 - Id: `phase:c-mo:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mo:a4-diamond)
@@ -51,6 +52,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-mo:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mo:a9-graphite)
@@ -130,7 +132,7 @@ _assessment that models this phase_
 ## FCC_A1 (C–Mo)
 
 - Id: `phase:c-mo:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 2236.75–2866.05 K, x(C) 0.3974–0.43199
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-mo:fcc-a1)

@@ -1,10 +1,10 @@
 # Mo–Sc system
 
-> Mo–Sc system: 2 accepted literature values (invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Sc system: 6 accepted literature values (invariant reaction 4, mixing / partial 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-SC.html · Markdown: https://data.orchid-project.org/systems/MO-SC.md
 
-2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 1, model 5); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-SC.json) · [CSV](https://data.orchid-project.org/systems/MO-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-SC/MoSc-15Wan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/MO-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-SC.html) · [Markdown](https://data.orchid-project.org/systems/MO-SC.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| experimental | 1 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 2 |
+| invariant reaction | 4 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -41,12 +43,25 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–Sc system (2)
+Table: Invariant reactions reported in the literature for the Mo–Sc system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1643.15 | eutectic: L -> (Mo) + bSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2 | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
 | 1603.15 | eutectoid: bSc -> (Cr) + aSc |  | model | [1] Wang 2015; _cites Massalski 1996_ | p. 2 | “The Sc-Mo phase diagram consisted of three solid solution phases ((Mo), aSc and bSc phases) is mainly based on the work of Massalski,\[15\] who indicated a eutectic reaction (L (89.5 at.% Sc) M (Mo) (0.2 at.% Sc) + bSc (98.5 at.% Sc) at 1370 ± 50 °C) and a eutectoid reaction (bSc (98.5 at.% Sc) M (Cr) (0.2 at.% Sc) + aSc (99.5 at.% Sc) at 1330 °C).” |
+| 1603.15 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.995 | experimental | [1] Wang 2015; _cites Massalski 1996_ | Table 1, p. 3, row 13 |  |
+| 1603.05 | βSc -> (Mo) + αSc | βSc: Sc 0.985; (Mo): Sc 0.002; αSc: Sc 0.998 | model | [1] Wang 2015 | Table 1, p. 3, row 14 |  |
+
+## Other properties
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Mo–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 11 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 5 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 10.86 kJ/mol (basis unstated) | 2973.15 | liquid; _alloy: Mo 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 6 |  |
 
 ## Sources
 

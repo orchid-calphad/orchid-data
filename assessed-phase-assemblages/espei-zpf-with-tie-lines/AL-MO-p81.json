@@ -22,7 +22,6 @@
   "P": 101325.0,
   "T": [
    851.9877101,
-   847.4877101,
    821.9877101,
    1256.48771,
    1341.98771,
@@ -66,26 +65,6 @@
     ],
     [
      0.07584638868
-    ]
-   ]
-  ],
-  [
-   [
-    "AL12MO",
-    [
-     "MO"
-    ],
-    [
-     0.08135110453
-    ]
-   ],
-   [
-    "AL5MO",
-    [
-     "MO"
-    ],
-    [
-     0.167925272
     ]
    ]
   ],
@@ -560,7 +539,6 @@
   "diagram": "AL-MO-p81",
   "record_ids": [
    "aspa-f5e59d7eba12977e",
-   "aspa-99b11145e7981157",
    "aspa-2a9dfc015b4fd351",
    "aspa-254b2000b7a73e7b",
    "aspa-a1697f0c595a6b5c",
@@ -607,7 +585,6 @@
    "printed_solid",
    "printed_solid",
    "printed_solid",
-   "printed_solid",
    "printed_solid"
   ]
  },
@@ -630,24 +607,6 @@
      "sigma_reading": 0.000642214,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0375322,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-99b11145e7981157",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.664,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 74.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000642214,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0425364,
      "sigma_effective": 0.02
     }
    },

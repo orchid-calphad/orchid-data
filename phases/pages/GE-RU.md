@@ -13,7 +13,7 @@ Table: Phases of the Ge–Ru system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ge-ru-a4-diamond); _phase:ge-ru:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Ru) 0–0 | 2 | 1 |
-| [BCC_A2](#phase-ge-ru-bcc-a2); _phase:ge-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 10 | 1 |
+| [BCC_A2](#phase-ge-ru-bcc-a2); _phase:ge-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ge-ru-fcc-a1); _phase:ge-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GE3RU2_ALPHA](#phase-ge-ru-ge3ru2-alpha); _phase:ge-ru:ge3ru2-alpha_ | Ge3Ru2 · oP40 · Pbcn (60) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–859.97 K, x(Ru) 0.4–0.4 | 2 | 1 |
 | [GE3RU2_BETA](#phase-ge-ru-ge3ru2-beta); _phase:ge-ru:ge3ru2-beta_ | Ru2Sn3 · tP20 · P-4c2 (116) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 859.97–1822.35 K, x(Ru) 0.4–0.4 | 0 | 1 |
@@ -56,11 +56,10 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-ru:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ru:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:ge-ru:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2009.01.079:βRu2Ge3  
+Names (2): _corpus: _corpus:phase:ge-ru:bcc-a2  
 _tdb: _tdb:GeRu-09Lon.tdb:BCC_A2  
 
 
@@ -73,16 +72,10 @@ _tdb: _tdb:GeRu-09Lon.tdb:BCC_A2
 35: CONST BCC_A2 : GE RU : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.01.079](https://doi.org/10.1016/j.jallcom.2009.01.079) Z.H. Long, H.S. Liu, Z.P. Jin, Thermodynamic description of Ru–Ge–Si ternary system, Journal of Alloys and Compounds 479, 262-267 (2009).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02665783](https://doi.org/10.1007/bf02665783) L. Perring, P. Feschotte, J. C. Gachon, The germanium-ruthenium system, JPE 17, 101-106 (1996).  
-_cited as the source of values for this phase_
-- [doi:10.1006/jssc.1997.7508](https://doi.org/10.1006/jssc.1997.7508) J.J. Kuntz, L. Perring, P. Feschotte, J.C. Gachon, Heat Capacity and Heat Content Measurements on Binary Compounds in the Ru–Si, Ru–Ge, and Ru–Sn Systems, Journal of Solid State Chemistry 133, 439-444 (1997).  
-_cited as the source of values for this phase_
-- [doi:10.1361/105497198770341932](https://doi.org/10.1361/105497198770341932) J. Charles, L. Perring, J. C. Gachon, Optimization of the binary Ge-Ru system, JPE 19, 449-454 (1998).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ge–Ru)
 

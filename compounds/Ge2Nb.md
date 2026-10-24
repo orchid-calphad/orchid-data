@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ge2Nb.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
 
-Systems: [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html)
+Systems: [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ge2Nb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -33.24 kJ/mol (basis unstated) | NbGe2 | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 18 |  |
-| -37.87 kJ/mol (basis unstated) | NbGe2 | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 17 |  |
+| -33.24 kJ/mol (basis unstated) | NbGe2 | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 18 |  |
+| -37.87 kJ/mol (basis unstated) | NbGe2 | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 17 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ge2Nb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -33.24 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.87 | kJ/mol (basis unstated) |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -33.24 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -37.87 | kJ/mol (basis unstated) |  | 0.005 | 25.42 (dft, calibrated) |  |  |  | 25.42 |
 
 ## Sources
 

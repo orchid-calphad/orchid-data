@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CuH.html · Markdown: https://da
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html)
+Systems: [Cu–H](https://data.orchid-project.org/systems/CU-H.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CuH reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 12.08 kJ/mol-atom | CuH bcc | 298.15 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
+| 12.08 kJ/mol-atom | CuH bcc | 298.15 | DFT | first principles | [Cu–H](https://data.orchid-project.org/systems/CU-H.html) | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CuH
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 12.08 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 12.08 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

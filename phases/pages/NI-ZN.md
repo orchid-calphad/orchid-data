@@ -12,7 +12,7 @@ Table: Phases of the Ni–Zn system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ni-zn-bcc-a2); _phase:ni-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 39 | 5 |
+| [BCC_A2](#phase-ni-zn-bcc-a2); _phase:ni-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 10 | 5 |
 | [B2_BCC](#phase-ni-zn-bcc-b2); _phase:ni-zn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 925.16–1306.86 K, x(Zn) 0.46454–0.57489 | 0 | 1 |
 | [FCC_A1](#phase-ni-zn-fcc-a1); _phase:ni-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1753.24 K, x(Zn) 0–0.39715 | 20 | 4 |
 | [HCP_A3](#phase-ni-zn-hcp-a3); _phase:ni-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.86 K, x(Zn) 0.99968–1 | 13 | 4 |
@@ -21,7 +21,7 @@ Table: Phases of the Ni–Zn system (12)
 | [NI2ZN15](#phase-ni-zn-ni2zn15); _phase:ni-zn:ni2zn15_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–762.99 K, x(Zn) 0.88235–0.88235 | 0 | 1 |
 | [NIZN_B11](#phase-ni-zn-nizn-b11); _phase:ni-zn:nizn-b11_ | CuTi-gamma · B11 · tP4 · P4/nmm (129) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1082.02 K, x(Zn) 0.43998–0.5218 | 0 | 1 |
 | [NIZN_B2](#phase-ni-zn-nizn-b2); _phase:ni-zn:nizn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 928.25–1313.13 K, x(Zn) 0.47195–0.564 | 0 | 3 |
-| [NIZN_L10](#phase-ni-zn-nizn-l10); _phase:ni-zn:nizn-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1083.86 K, x(Zn) 0.44403–0.52229 | 6 | 2 |
+| [NIZN_L10](#phase-ni-zn-nizn-l10); _phase:ni-zn:nizn-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1083.86 K, x(Zn) 0.44403–0.52229 | 0 | 2 |
 | [NIZN_L2A](#phase-ni-zn-nizn-l2a); _phase:ni-zn:nizn-l2a_ | CuTi-delta · L2_a · tP2 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1087.66 K, x(Zn) 0.43389–0.51197 | 0 | 1 |
 | [NIZN8](#phase-ni-zn-nizn8); _phase:ni-zn:nizn8_ | Ni3Zn22 · mC50 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–765.22 K, x(Zn) 0.88889–0.88889 | 20 | 3 |
 
@@ -29,12 +29,12 @@ Table: Phases of the Ni–Zn system (12)
 
 - Id: `phase:ni-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 5 calculated diagram(s)
-- Literature: 39 values (39 accepted) from 3 papers
+- Stability: not stable in 4 calculated diagram(s)
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-zn:bcc-a2)
 
-Names (10): _corpus: _corpus:phase:ni-zn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2003.09.002:bcc, paper:10.1016/j.calphad.2011.03.003:β, paper:10.1361/1054971023604125:β, paper:10.1361/1054971023604125:β1  
+Names (7): _corpus: _corpus:phase:ni-zn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2003.09.002:bcc  
 _tdb: _tdb:NiZn-02Su.tdb:BCC_A2, tdb:NiZn-03Mie.tdb:BCC_A2, tdb:NiZn-05Jia.tdb:BCC_A2, tdb:NiZn-11Xio.tdb:A2_BCC, tdb:NiZn-11Xio.tdb:BCC_A2  
 
 
@@ -75,18 +75,16 @@ _tdb: _tdb:NiZn-02Su.tdb:BCC_A2, tdb:NiZn-03Mie.tdb:BCC_A2, tdb:NiZn-05Jia.tdb:B
 38: CONST BCC_A2 : NI ZN : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1361/1054971023604125](https://doi.org/10.1361/1054971023604125) Xuping Su, Nai-Yong Tang, Jim M. Toguri, Thermodynamic assessment of the Ni-Zn system, JPE 23, 140-148 (2002).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2003.09.002](https://doi.org/10.1016/j.calphad.2003.09.002) Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Zn system above 600∘C, Calphad 27, 263-274 (2003).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2011.03.003](https://doi.org/10.1016/j.calphad.2011.03.003) Wei Xiong, Honghui Xu, Yong Du, Thermodynamic investigation of the galvanizing systems, II: Thermodynamic evaluation of the Ni–Zn system, Calphad 35, 276-283 (2011).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1361/1054971023604125](https://doi.org/10.1361/1054971023604125) Xuping Su, Nai-Yong Tang, Jim M. Toguri, Thermodynamic assessment of the Ni-Zn system, JPE 23, 140-148 (2002).  
+_assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.03.003](https://doi.org/10.1016/j.calphad.2011.03.003) Wei Xiong, Honghui Xu, Yong Du, Thermodynamic investigation of the galvanizing systems, II: Thermodynamic evaluation of the Ni–Zn system, Calphad 35, 276-283 (2011).  
+_assessment that models this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
-- [doi:10.1007/978-3-642-47516-0](https://doi.org/10.1007/978-3-642-47516-0) M. Hansen, Der Aufbau der Zweistofflegierungen, (1936).  
-_cited as the source of values for this phase_
 - [doi:10.1361/105497100770340075](https://doi.org/10.1361/105497100770340075) George Penev Vassilev, Tomas Gomez-Acebo, Jean-Claude Tedenac, Thermodynamic optimization of the Ni-Zn system, JPE 21, 287-301 (2000).  
 _cited as the source of values for this phase_
 
@@ -457,11 +455,10 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in NiZn-02Su.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiZn-05Jia.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1083.86 K, x(Zn) 0.44403–0.52229
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-zn:nizn-l10)
 
-Names (4): _corpus: _corpus:phase:ni-zn:nizn-l10  
-_paper: _paper:10.1361/1054971023604125:δ  
+Names (3): _corpus: _corpus:phase:ni-zn:nizn-l10  
 _tdb: _tdb:NiZn-02Su.tdb:NIZN_L10, tdb:NiZn-05Jia.tdb:NIZN_L10  
 
 
@@ -481,14 +478,12 @@ _tdb: _tdb:NiZn-02Su.tdb:NIZN_L10, tdb:NiZn-05Jia.tdb:NIZN_L10
 52: CONST NIZN_L10 : NI% ZN : NI ZN% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1361/1054971023604125](https://doi.org/10.1361/1054971023604125) Xuping Su, Nai-Yong Tang, Jim M. Toguri, Thermodynamic assessment of the Ni-Zn system, JPE 23, 140-148 (2002).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jpcs.2004.08.039](https://doi.org/10.1016/j.jpcs.2004.08.039) M. Jiang, C.P. Wang, X.J. Liu, I. Ohnuma, R. Kainuma, G.P. Vassilev, K. Ishida, J. Phys. Chem. Solids, 66, 246-50(2005).  
 _assessment that models this phase_
-- [doi:10.1007/978-3-642-47516-0](https://doi.org/10.1007/978-3-642-47516-0) M. Hansen, Der Aufbau der Zweistofflegierungen, (1936).  
-_cited as the source of values for this phase_
+- [doi:10.1361/1054971023604125](https://doi.org/10.1361/1054971023604125) Xuping Su, Nai-Yong Tang, Jim M. Toguri, Thermodynamic assessment of the Ni-Zn system, JPE 23, 140-148 (2002).  
+_assessment that models this phase_
 
 ## NIZN_L2A (Ni–Zn)
 

@@ -1,10 +1,10 @@
 # B–U system
 
-> B–U system: 149 accepted literature values (heat capacity / entropy / enthalpy 110, crystal structure 21, phase transition 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–U system: 155 accepted literature values (heat capacity / entropy / enthalpy 113, crystal structure 21, phase transition 18, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-U.html · Markdown: https://data.orchid-project.org/systems/B-U.md
 
-149 accepted literature values from 1 paper(s) (experimental 114, model 35); 0 calculated phase diagram(s).
+155 accepted literature values from 1 paper(s) (experimental 114, model 41); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-U.json) · [CSV](https://data.orchid-project.org/systems/B-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-U) · [phases (10)](https://data.orchid-project.org/phases/pages/B-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-U.html) · [Markdown](https://data.orchid-project.org/systems/B-U.md)
 
@@ -13,17 +13,30 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 114 |
-| model | 35 |
+| model | 41 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 18 |
-| heat capacity / entropy / enthalpy | 110 |
+| formation | 3 |
+| heat capacity / entropy / enthalpy | 113 |
 | crystal structure | 21 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-U.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-U.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, B–U system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| B0.667U0.333(S) |  | -54.81 kJ/mol-atom | 298.15 | model |  |  | [1] Chevalier 2001 | Table 34, p. 28, row 12 |  |
+| B0.800U0.200(S) | [UB4](https://data.orchid-project.org/compounds/UB4.html) | -46.837 kJ/mol-atom | 298.15 | model | -49.016 (mp-aaaaaaxv) | -49.041 (oqmd-4686) | [1] Chevalier 2001 | Table 34, p. 28, row 13 |  |
+| B0.923U0.077(S) |  | -29.753 kJ/mol-atom | 298.15 | model |  |  | [1] Chevalier 2001 | Table 34, p. 28, row 11 |  |
 
 ## Other properties
 
@@ -52,12 +65,15 @@ Table: Phase transition, B–U system
 | Phase transition | 2703 K | 2703 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 7 |  |
 | Phase transition | 2768 K | 2768 | other | experimental | [1] Chevalier 2001; _cites Howlett 1960_ | Table 26, p. 23, row 10 |  |
 
-### Heat capacity / entropy / enthalpy (110)
+### Heat capacity / entropy / enthalpy (113)
 
 Table: Heat capacity / entropy / enthalpy, B–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298.15_ | 18.175 J/mol-atom/K | 298.15 | B0.667U0.333(S); _alloy: U 0.333_ | model | [1] Chevalier 2001 | Table 34, p. 28, row 12 |  |
+| Entropy; _printed: S°298.15_ | 13.682 J/mol-atom/K | 298.15 | B0.800U0.200(S); _alloy: U 0.2_ | model | [1] Chevalier 2001 | Table 34, p. 28, row 13 |  |
+| Entropy; _printed: S°298.15_ | 7.5191 J/mol-atom/K | 298.15 | B0.923U0.077(S); _alloy: U 0.077_ | model | [1] Chevalier 2001 | Table 34, p. 28, row 11 |  |
 | Heat capacity; _printed: Cp_ | 18.575 J/mol-atom/K | 298.15 | B2U; _alloy: U 0.333333_ | model | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 29, p. 24, row 1 |  |
 | Heat capacity; _printed: Cp_ | 18.587 J/mol-atom/K | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Flotow 1969_ [doi](https://doi.org/10.1063/1.1672038) | Table 27, p. 23, row 1 |  |
 | Heat capacity; _printed: Cp_ | 18.66 J/mol-atom/K | 300 | B2U; _alloy: U 0.333333_ | model | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 29, p. 24, row 2 |  |
@@ -90,84 +106,84 @@ Table: Heat capacity / entropy / enthalpy, B–U system
 | Heat capacity; _printed: Cp_ | 50.657 J/mol-atom/K | 2300 | B2U; _alloy: U 0.333333_ | model | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 29, p. 24, row 23 |  |
 | Heat capacity; _printed: Cp_ | 55.88 J/mol-atom/K | 2400 | B2U; _alloy: U 0.333333_ | model | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 29, p. 24, row 24 |  |
 | Heat capacity; _printed: Cp_ | 61.973 J/mol-atom/K | 2500 | B2U; _alloy: U 0.333333_ | model | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 29, p. 24, row 25 |  |
-| Heat content; _printed: HT-H298_ | 26186 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 4 |  |
-| Heat content; _printed: HT-H298_ | 38166 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 12 |  |
-| Heat content; _printed: HT-H298_ | 41707 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 14 |  |
-| Heat content; _printed: HT-H298_ | 44840 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 15 |  |
-| Heat content; _printed: HT-H298_ | 34680 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 9 |  |
-| Heat content; _printed: HT-H298_ | 47490 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 17 |  |
-| Heat content; _printed: HT-H298_ | 31957 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 8 |  |
-| Heat content; _printed: HT-H298_ | 47550 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 18 |  |
-| Heat content; _printed: HT-H298_ | 31660 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 7 |  |
-| Heat content; _printed: HT-H298_ | 28740 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 5 |  |
-| Heat content; _printed: HT-H298_ | 44676 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 16 |  |
-| Heat content; _printed: HT-H298_ | 37810 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 11 |  |
-| Heat content; _printed: HT-H298_ | 23328 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 2 |  |
-| Heat content; _printed: HT-H298_ | 26230 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 3 |  |
-| Heat content; _printed: HT-H298_ | 50130 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 19 |  |
-| Heat content; _printed: HT-H298_ | 23577 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 1 |  |
-| Heat content; _printed: HT-H298_ | 50259 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 20 |  |
-| Heat content; _printed: HT-H298_ | 41440 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 13 |  |
-| Heat content; _printed: HT-H298_ | 34918 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 10 |  |
-| Heat content; _printed: HT-H298_ | 29045 J/g at. | 298.15 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 6 |  |
-| Heat content; _printed: HT-H298_ | 47059 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 49 |  |
-| Heat content; _printed: HT-H298_ | 6342 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 1 |  |
-| Heat content; _printed: HT-H298_ | 16328 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 13 |  |
-| Heat content; _printed: HT-H298_ | 18758 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 16 |  |
-| Heat content; _printed: HT-H298_ | 23769 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 22 |  |
-| Heat content; _printed: HT-H298_ | 59767 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 55 |  |
-| Heat content; _printed: HT-H298_ | 30332 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 40 |  |
-| Heat content; _printed: HT-H298_ | 43585 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 47 |  |
-| Heat content; _printed: HT-H298_ | 29977 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 31 |  |
-| Heat content; _printed: HT-H298_ | 28495 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 29 |  |
-| Heat content; _printed: HT-H298_ | 23819 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 23 |  |
-| Heat content; _printed: HT-H298_ | 27327 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 37 |  |
-| Heat content; _printed: HT-H298_ | 33487 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 41 |  |
-| Heat content; _printed: HT-H298_ | 59897 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 56 |  |
-| Heat content; _printed: HT-H298_ | 64459 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 58 |  |
-| Heat content; _printed: HT-H298_ | 27068 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 28 |  |
-| Heat content; _printed: HT-H298_ | 33497 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 42 |  |
-| Heat content; _printed: HT-H298_ | 27366 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 38 |  |
-| Heat content; _printed: HT-H298_ | 25452 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 25 |  |
-| Heat content; _printed: HT-H298_ | 36989 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 44 |  |
-| Heat content; _printed: HT-H298_ | 11618 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 7 |  |
-| Heat content; _printed: HT-H298_ | 8730 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 3 |  |
-| Heat content; _printed: HT-H298_ | 22195 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 19 |  |
-| Heat content; _printed: HT-H298_ | 8760 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 4 |  |
-| Heat content; _printed: HT-H298_ | 30012 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 32 |  |
-| Heat content; _printed: HT-H298_ | 50726 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 52 |  |
-| Heat content; _printed: HT-H298_ | 55265 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 53 |  |
-| Heat content; _printed: HT-H298_ | 37035 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 43 |  |
-| Heat content; _printed: HT-H298_ | 23849 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 24 |  |
-| Heat content; _printed: HT-H298_ | 10231 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 6 |  |
-| Heat content; _printed: HT-H298_ | 6396 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 2 |  |
-| Heat content; _printed: HT-H298_ | 10209 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 5 |  |
-| Heat content; _printed: HT-H298_ | 18755 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 15 |  |
-| Heat content; _printed: HT-H298_ | 44122 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 48 |  |
-| Heat content; _printed: HT-H298_ | 47099 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 50 |  |
-| Heat content; _printed: HT-H298_ | 55611 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 54 |  |
-| Heat content; _printed: HT-H298_ | 13069 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 9 |  |
-| Heat content; _printed: HT-H298_ | 28469 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 30 |  |
-| Heat content; _printed: HT-H298_ | 14359 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 12 |  |
-| Heat content; _printed: HT-H298_ | 39466 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 46 |  |
-| Heat content; _printed: HT-H298_ | 27095 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 27 |  |
-| Heat content; _printed: HT-H298_ | 64623 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 57 |  |
-| Heat content; _printed: HT-H298_ | 22195 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 20 |  |
-| Heat content; _printed: HT-H298_ | 39189 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 45 |  |
-| Heat content; _printed: HT-H298_ | 31576 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 33 |  |
-| Heat content; _printed: HT-H298_ | 14329 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 11 |  |
-| Heat content; _printed: HT-H298_ | 20733 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 18 |  |
-| Heat content; _printed: HT-H298_ | 23759 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 21 |  |
-| Heat content; _printed: HT-H298_ | 11577 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 8 |  |
-| Heat content; _printed: HT-H298_ | 16352 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 14 |  |
-| Heat content; _printed: HT-H298_ | 30066 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 39 |  |
-| Heat content; _printed: HT-H298_ | 50699 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 51 |  |
-| Heat content; _printed: HT-H298_ | 13077 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 10 |  |
-| Heat content; _printed: HT-H298_ | 20787 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 17 |  |
-| Heat content; _printed: HT-H298_ | 33165 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 35 |  |
-| Heat content; _printed: HT-H298_ | 31571 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 34 |  |
-| Heat content; _printed: HT-H298_ | 33169 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 36 |  |
-| Heat content; _printed: HT-H298_ | 25422 J/g at. | 298.15 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 26 |  |
+| Heat content; _printed: HT-H298_ | 6342 J/g at. | 579.3 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 1 |  |
+| Heat content; _printed: HT-H298_ | 6396 J/g at. | 579.3 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 2 |  |
+| Heat content; _printed: HT-H298_ | 8730 J/g at. | 669.5 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 3 |  |
+| Heat content; _printed: HT-H298_ | 8760 J/g at. | 669.5 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 4 |  |
+| Heat content; _printed: HT-H298_ | 10231 J/g at. | 723.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 6 |  |
+| Heat content; _printed: HT-H298_ | 10209 J/g at. | 723.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 5 |  |
+| Heat content; _printed: HT-H298_ | 11618 J/g at. | 772.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 7 |  |
+| Heat content; _printed: HT-H298_ | 11577 J/g at. | 772.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 8 |  |
+| Heat content; _printed: HT-H298_ | 13069 J/g at. | 826.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 9 |  |
+| Heat content; _printed: HT-H298_ | 13077 J/g at. | 826.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 10 |  |
+| Heat content; _printed: HT-H298_ | 14359 J/g at. | 871.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 12 |  |
+| Heat content; _printed: HT-H298_ | 14329 J/g at. | 871.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 11 |  |
+| Heat content; _printed: HT-H298_ | 16328 J/g at. | 940.1 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 13 |  |
+| Heat content; _printed: HT-H298_ | 16352 J/g at. | 940.1 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 14 |  |
+| Heat content; _printed: HT-H298_ | 18758 J/g at. | 1021.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 16 |  |
+| Heat content; _printed: HT-H298_ | 18755 J/g at. | 1021.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 15 |  |
+| Heat content; _printed: HT-H298_ | 20733 J/g at. | 1087.6 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 18 |  |
+| Heat content; _printed: HT-H298_ | 20787 J/g at. | 1087.6 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 17 |  |
+| Heat content; _printed: HT-H298_ | 22195 J/g at. | 1135.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 19 |  |
+| Heat content; _printed: HT-H298_ | 22195 J/g at. | 1135.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 20 |  |
+| Heat content; _printed: HT-H298_ | 23769 J/g at. | 1187.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 22 |  |
+| Heat content; _printed: HT-H298_ | 23759 J/g at. | 1187.2 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 21 |  |
+| Heat content; _printed: HT-H298_ | 23819 J/g at. | 1189.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 23 |  |
+| Heat content; _printed: HT-H298_ | 23849 J/g at. | 1189.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 24 |  |
+| Heat content; _printed: HT-H298_ | 25452 J/g at. | 1240.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 25 |  |
+| Heat content; _printed: HT-H298_ | 25422 J/g at. | 1240.7 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 26 |  |
+| Heat content; _printed: HT-H298_ | 27068 J/g at. | 1293.5 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 28 |  |
+| Heat content; _printed: HT-H298_ | 27095 J/g at. | 1293.5 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 27 |  |
+| Heat content; _printed: HT-H298_ | 27327 J/g at. | 1303 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 37 |  |
+| Heat content; _printed: HT-H298_ | 27366 J/g at. | 1303 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 38 |  |
+| Heat content; _printed: HT-H298_ | 23328 J/g at. | 1324 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 2 |  |
+| Heat content; _printed: HT-H298_ | 23577 J/g at. | 1324 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 1 |  |
+| Heat content; _printed: HT-H298_ | 28495 J/g at. | 1338.1 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 29 |  |
+| Heat content; _printed: HT-H298_ | 28469 J/g at. | 1338.1 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 30 |  |
+| Heat content; _printed: HT-H298_ | 29977 J/g at. | 1386.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 31 |  |
+| Heat content; _printed: HT-H298_ | 30012 J/g at. | 1386.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 32 |  |
+| Heat content; _printed: HT-H298_ | 30332 J/g at. | 1397 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 40 |  |
+| Heat content; _printed: HT-H298_ | 30066 J/g at. | 1397 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 39 |  |
+| Heat content; _printed: HT-H298_ | 26186 J/g at. | 1426 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 4 |  |
+| Heat content; _printed: HT-H298_ | 26230 J/g at. | 1426 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 3 |  |
+| Heat content; _printed: HT-H298_ | 31576 J/g at. | 1435.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 33 |  |
+| Heat content; _printed: HT-H298_ | 31571 J/g at. | 1435.9 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 34 |  |
+| Heat content; _printed: HT-H298_ | 33165 J/g at. | 1485.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1969_ | Table 28, p. 24, row 35 |  |
+| Heat content; _printed: HT-H298_ | 33169 J/g at. | 1485.8 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 36 |  |
+| Heat content; _printed: HT-H298_ | 33487 J/g at. | 1496 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 41 |  |
+| Heat content; _printed: HT-H298_ | 33497 J/g at. | 1496 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 42 |  |
+| Heat content; _printed: HT-H298_ | 28740 J/g at. | 1526 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 5 |  |
+| Heat content; _printed: HT-H298_ | 29045 J/g at. | 1526 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 6 |  |
+| Heat content; _printed: HT-H298_ | 36989 J/g at. | 1604 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 44 |  |
+| Heat content; _printed: HT-H298_ | 37035 J/g at. | 1604 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 43 |  |
+| Heat content; _printed: HT-H298_ | 31957 J/g at. | 1626 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 8 |  |
+| Heat content; _printed: HT-H298_ | 31660 J/g at. | 1626 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 7 |  |
+| Heat content; _printed: HT-H298_ | 39466 J/g at. | 1679 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 46 |  |
+| Heat content; _printed: HT-H298_ | 39189 J/g at. | 1679 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 45 |  |
+| Heat content; _printed: HT-H298_ | 34680 J/g at. | 1726 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 9 |  |
+| Heat content; _printed: HT-H298_ | 34918 J/g at. | 1726 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 10 |  |
+| Heat content; _printed: HT-H298_ | 43585 J/g at. | 1814 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 47 |  |
+| Heat content; _printed: HT-H298_ | 44122 J/g at. | 1814 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 48 |  |
+| Heat content; _printed: HT-H298_ | 38166 J/g at. | 1834 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 12 |  |
+| Heat content; _printed: HT-H298_ | 37810 J/g at. | 1834 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 11 |  |
+| Heat content; _printed: HT-H298_ | 47059 J/g at. | 1896 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 49 |  |
+| Heat content; _printed: HT-H298_ | 47099 J/g at. | 1896 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 50 |  |
+| Heat content; _printed: HT-H298_ | 41707 J/g at. | 1950 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 14 |  |
+| Heat content; _printed: HT-H298_ | 41440 J/g at. | 1950 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 13 |  |
+| Heat content; _printed: HT-H298_ | 50726 J/g at. | 1991 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 52 |  |
+| Heat content; _printed: HT-H298_ | 50699 J/g at. | 1991 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 51 |  |
+| Heat content; _printed: HT-H298_ | 44840 J/g at. | 2046 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 15 |  |
+| Heat content; _printed: HT-H298_ | 44676 J/g at. | 2046 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 16 |  |
+| Heat content; _printed: HT-H298_ | 55265 J/g at. | 2110 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 53 |  |
+| Heat content; _printed: HT-H298_ | 55611 J/g at. | 2110 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 54 |  |
+| Heat content; _printed: HT-H298_ | 47490 J/g at. | 2138 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 17 |  |
+| Heat content; _printed: HT-H298_ | 47550 J/g at. | 2138 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 18 |  |
+| Heat content; _printed: HT-H298_ | 59767 J/g at. | 2206 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 55 |  |
+| Heat content; _printed: HT-H298_ | 59897 J/g at. | 2206 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 56 |  |
+| Heat content; _printed: HT-H298_ | 50130 J/g at. | 2224 | B12U; _alloy: U 0.076923_ | experimental | [1] Chevalier 2001; _cites Mar 1972_ [doi](https://doi.org/10.1063/1.1678228) | Table 30, p. 24, row 19 |  |
+| Heat content; _printed: HT-H298_ | 50259 J/g at. | 2224 | B12U; _alloy: U 0.076923_ | model | [1] Chevalier 2001 | Table 30, p. 24, row 20 |  |
+| Heat content; _printed: HT-H298_ | 64459 J/g at. | 2300 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001 | Table 28, p. 24, row 58 |  |
+| Heat content; _printed: HT-H298_ | 64623 J/g at. | 2300 | B2U; _alloy: U 0.333333_ | experimental | [1] Chevalier 2001; _cites Fredrickson 1970_ | Table 28, p. 24, row 57 |  |
 
 ### Crystal structure (21)
 

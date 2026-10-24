@@ -6,7 +6,6 @@
  ],
  "phases": [
   "AL4CR",
-  "AL8CR5_D810",
   "AL8CR5_D82",
   "BCC_A2",
   "LIQUID"
@@ -14,52 +13,13 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1333.15,
-   1293.15,
-   1613.15,
-   1573.15
+   1291.15,
+   1615.15,
+   1571.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "CR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AL8CR5_D810",
-    [
-     "CR"
-    ],
-    [
-     0.384615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "CR"
-    ],
-    [
-     0.19
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "CR"
-    ],
-    [
-     0.21
-    ]
-   ]
-  ],
   [
    [
     "AL4CR",
@@ -174,29 +134,10 @@
   "points": [
    {
     "source_observation": "ORC-ET43NXVPK3",
-    "side": "above",
-    "T_invariant_K": 1313.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.2,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + γ_L = Al4Cr",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "AL8CR5_D810"
-    ],
-    "phases_below": [
-     "AL4CR"
-    ]
-   },
-   {
-    "source_observation": "ORC-ET43NXVPK3",
     "side": "below",
     "T_invariant_K": 1313.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.2,
     "hyperplane_delta": 0.01,
@@ -214,8 +155,8 @@
     "source_observation": "ORC-Z2CBRMYNJU",
     "side": "above",
     "T_invariant_K": 1593.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.384615,
     "hyperplane_delta": 0.01,
@@ -233,8 +174,8 @@
     "source_observation": "ORC-Z2CBRMYNJU",
     "side": "below",
     "T_invariant_K": 1593.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.384615,
     "hyperplane_delta": 0.01,
@@ -271,25 +212,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-ET43NXVPK3",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -303,9 +228,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -319,9 +244,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

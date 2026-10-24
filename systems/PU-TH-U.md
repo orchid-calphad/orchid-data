@@ -1,10 +1,10 @@
 # Pu–Th–U system
 
-> Pu–Th–U system: 49 accepted literature values (invariant reaction 19, heat capacity / entropy / enthalpy 16, formation 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–Th–U system: 28 accepted literature values (invariant reaction 19, heat capacity / entropy / enthalpy 5, formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-TH-U.html · Markdown: https://data.orchid-project.org/systems/PU-TH-U.md
 
-49 accepted literature values from 1 paper(s) (experimental 7, model 42); 0 calculated phase diagram(s). 95 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+28 accepted literature values from 1 paper(s) (experimental 7, model 21); 0 calculated phase diagram(s). 95 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-TH-U.json) · [CSV](https://data.orchid-project.org/systems/PU-TH-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-TH-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-TH-U.html) · [Markdown](https://data.orchid-project.org/systems/PU-TH-U.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 42 |
+| model | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 19 |
-| formation | 14 |
-| heat capacity / entropy / enthalpy | 16 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 5 |
 
 ## Invariant reactions (literature)
 
@@ -53,49 +53,28 @@ Table: Invariant reactions reported in the literature for the Pu–Th–U system
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pu–Th–U system (14)
+Table: Enthalpies of formation, Pu–Th–U system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Puliquid |  | 6.6081 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 34 |  |
 | Thliquid |  | 23.7655 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 3 |  |
 | Uliquid |  | 12.3555 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 11 |  |
-| α-Pu |  | 0 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 13 |  |
-| α-Th |  | 0 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 1 |  |
-| α-U |  | 0 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 5 |  |
-| β-Pu |  | 3.8809 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 16 |  |
-| β-Th |  | 9.9655 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 2 |  |
-| β-U |  | 3.1661 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 7 |  |
-| γ-Pu |  | 4.4525 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 19 |  |
-| γ-U |  | 9.5149 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 9 |  |
-| δ-Pu |  | 5.0503 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 23 |  |
 | δ′-Pu |  | 5.1995 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 26 |  |
-| ϵ-Pu |  | 7.5591 kJ/mol-atom | 298.15 | model |  |  | [1] Beneš 2014 | Table 1, p. 2, row 30 |  |
 
 ## Other properties
 
-### Heat capacity / entropy / enthalpy (16)
+### Heat capacity / entropy / enthalpy (5)
 
 Table: Heat capacity / entropy / enthalpy, Pu–Th–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0(298.15)_ | 66.974 J/mol (basis unstated)/K | 298.15 | Puliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 34 |  |
-| Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | Th3Pu7; _alloy: Th 0.3, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 37 |  |
 | Entropy; _printed: S0(298.15)_ | 69.86 J/mol (basis unstated)/K | 298.15 | Thliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 3 |  |
 | Entropy; _printed: S0(298.15)_ | 53.6618 J/mol-atom/K | 298.15 | UNKNOWN; _alloy: Th 0.3, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 38 |  |
 | Entropy; _printed: S0(298.15)_ | 60.524 J/mol (basis unstated)/K | 298.15 | Uliquid | model | [1] Beneš 2014 | Table 1, p. 2, row 11 |  |
-| Entropy; _printed: S0(298.15)_ | 54.461 J/mol-atom/K | 298.15 | α-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 13 |  |
-| Entropy; _printed: S0(298.15)_ | 51.8 J/mol-atom/K | 298.15 | α-Th; _alloy: Th 1, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 1 |  |
-| Entropy; _printed: S0(298.15)_ | 50.2 J/mol-atom/K | 298.15 | α-U; _alloy: Th 0, U 1_ | model | [1] Beneš 2014 | Table 1, p. 2, row 5 |  |
-| Entropy; _printed: S0(298.15)_ | 64.266 J/mol-atom/K | 298.15 | β-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 16 |  |
-| Entropy; _printed: S0(298.15)_ | 63.028 J/mol-atom/K | 298.15 | β-Th; _alloy: Th 1, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 2 |  |
-| Entropy; _printed: S0(298.15)_ | 53.385 J/mol-atom/K | 298.15 | β-U; _alloy: Th 0, U 1_ | model | [1] Beneš 2014 | Table 1, p. 2, row 7 |  |
-| Entropy; _printed: S0(298.15)_ | 65.477 J/mol-atom/K | 298.15 | γ-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 19 |  |
-| Entropy; _printed: S0(298.15)_ | 59.774 J/mol-atom/K | 298.15 | γ-U; _alloy: Th 0, U 1_ | model | [1] Beneš 2014 | Table 1, p. 2, row 9 |  |
-| Entropy; _printed: S0(298.15)_ | 66.37 J/mol-atom/K | 298.15 | δ-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 23 |  |
 | Entropy; _printed: S0(298.15)_ | 66.609 J/mol-atom/K | 298.15 | δ′-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 26 |  |
-| Entropy; _printed: S0(298.15)_ | 69.975 J/mol-atom/K | 298.15 | ϵ-Pu; _alloy: Th 0, U 0_ | model | [1] Beneš 2014 | Table 1, p. 2, row 30 |  |
 
 ## Sources
 

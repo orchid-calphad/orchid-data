@@ -1,10 +1,10 @@
 # Cr–U system
 
-> Cr–U system: 6 accepted literature values (invariant reaction 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–U system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-U.html · Markdown: https://data.orchid-project.org/systems/CR-U.md
 
-6 accepted literature values from 1 paper(s) (experimental 3, model 3); 1 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 2, model 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-U.json) · [CSV](https://data.orchid-project.org/systems/CR-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-U/CrU-11Ber.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-U.html) · [Markdown](https://data.orchid-project.org/systems/CR-U.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 3 |
+| experimental | 2 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -45,14 +45,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–U system (6)
+Table: Invariant reactions reported in the literature for the Cr–U system (4)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1133 | Liquid -> (Cr) + (γ-U) |  | model | [1] Berche 2011 | Table 4, p. 8, row 1 |  |
 | 1133 | Liquid -> (Cr) + (γ-U) |  | experimental | [1] Berche 2011; _cites Venkatraman 1980_ | Table 4, p. 8, row 2 |  |
-| 1012 | (γ-U) -> (Cr) + (β-U) |  | model | [1] Berche 2011 | Table 4, p. 8, row 3 |  |
-| 1011 | (γ-U) -> (Cr) + (β-U) |  | experimental | [1] Berche 2011; _cites Venkatraman 1980_ | Table 4, p. 8, row 4 |  |
 | 912 | (β-U) -> (Cr) + (α-U) |  | model | [1] Berche 2011 | Table 4, p. 8, row 5 |  |
 | 903 | (β-U) -> (Cr) + (α-U) |  | experimental | [1] Berche 2011; _cites Venkatraman 1980_ | Table 4, p. 8, row 6 |  |
 

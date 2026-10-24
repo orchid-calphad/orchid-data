@@ -1,10 +1,10 @@
 # Mo–U system
 
-> Mo–U system: 14 accepted literature values (invariant reaction 12, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–U system: 13 accepted literature values (invariant reaction 11, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-U.html · Markdown: https://data.orchid-project.org/systems/MO-U.md
 
-14 accepted literature values from 2 paper(s) (experimental 4, model 9, unspecified 1); 3 calculated phase diagram(s).
+13 accepted literature values from 2 paper(s) (experimental 4, model 8, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-U.json) · [CSV](https://data.orchid-project.org/systems/MO-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-U/MoU-10Zha.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MO-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-U.html) · [Markdown](https://data.orchid-project.org/systems/MO-U.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 4 |
-| model | 9 |
+| model | 8 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 11 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -63,14 +63,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mo–U system (12)
+Table: Invariant reactions reported in the literature for the Mo–U system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1575 | Liquid + (Mo) -> (γ-U) | L: U 0.722; (Mo): U 0.009; (γ-U): U 0.563 | model | [1] Berche 2011 | Table 3, p. 6, row 1 |  |
 | 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.713; Mo: U 0.009; BCC_A2: U 0.582 | model | [2] Zhang 2010 | Table 3, p. 6, row 2 |  |
 | 1557 | peritectic: L + Mo -> BCC_A2 | L: U 0.7; Mo: U 0.61 | experimental | [2] Zhang 2010; _cites Ackermann 1977_ [doi](https://doi.org/10.1016/0022-3115%2877%2990078-2) | Table 3, p. 6, row 1 |  |
-| 916 | (β-U) -> (α-U) + (γ-U) | (β-U): U 0.987; (α-U): U 0.999; (γ-U): U 0.872 | model | [1] Berche 2011 | Table 3, p. 6, row 2 |  |
 | 913 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.969; BCC_A2: U 0.979; ort_A20: U 0.874 | model | [2] Zhang 2010 | Table 3, p. 6, row 8 |  |
 | 912 | eutectoid: tetr_U -> BCC_A2 + ort_A20 | tetr_U: U 0.895 | experimental | [2] Zhang 2010; _cites Dwight 1960_ [doi](https://doi.org/10.1016/0022-3115%2860%2990028-3) | Table 3, p. 6, row 7 |  |
 | 854 | eutectoid: BCC_A2 -> Mo + MoU2 | BCC_A2: U 0.581; Mo: U 0.001; MoU2: U 0.667 | model | [2] Zhang 2010 | Table 3, p. 6, row 4 |  |

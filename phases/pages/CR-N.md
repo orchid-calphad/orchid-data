@@ -1,10 +1,10 @@
 # Cr–N phases
 
-> Cr–N system: 5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cr–N system: 5 phases (tier A 2, liquid 1, gas 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CR-N.html · Markdown: https://data.orchid-project.org/phases/pages/CR-N.md
 
-5 phases (tier A 3, liquid 1, gas 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 2, liquid 1, gas 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CR-N) · [full JSON](https://data.orchid-project.org/phases/systems/CR-N.json) · [Cr–N system page](https://data.orchid-project.org/systems/CR-N.html) · [Markdown](https://data.orchid-project.org/phases/pages/CR-N.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the Cr–N system (5)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cr-n-bcc-a2); _phase:cr-n:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2464.98 K, x(N) 0–0.04835 | 0 | 1 |
-| [FCC_A1](#phase-cr-n-fcc-a1); _phase:cr-n:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1318.13 K, x(N) 0.49571–0.5 | 0 | 1 |
+| [FCC_A1](#phase-cr-n-fcc-a1); _phase:cr-n:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1318.13 K, x(N) 0.49571–0.5 | 3 | 1 |
 | [HCP_A3](#phase-cr-n-hcp-a3); _phase:cr-n:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1956.58 K, x(N) 0.22559–0.33333 | 0 | 1 |
 | [LIQUID](#phase-cr-n-liquid); _phase:cr-n:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1920.54–4000 K, x(N) 0–0.1814 | 0 | 1 |
 | [N2GAS](#phase-cr-n-n2gas); _phase:cr-n:n2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–4000 K, x(N) 1–1 | 0 | 1 |
@@ -47,12 +47,13 @@ _assessment that models this phase_
 ## FCC_A1 (Cr–N)
 
 - Id: `phase:cr-n:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1318.13 K, x(N) 0.49571–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-n:fcc-a1)
 
-Names (2): _corpus: _corpus:phase:cr-n:fcc-a1  
+Names (3): _corpus: _corpus:phase:cr-n:fcc-a1  
+_paper: _paper:10.1016/0364-5916(91)90028-i:CrN  
 _tdb: _tdb:CrN-91Fri-LB.tdb:FCC_A1  
 
 
@@ -68,7 +69,7 @@ _tdb: _tdb:CrN-91Fri-LB.tdb:FCC_A1
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0364-5916(91)90028-I](https://doi.org/10.1016/0364-5916%2891%2990028-I) K. Frisk, Calphad, 15, 79-106(1991).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## HCP_A3 (Cr–N)
 

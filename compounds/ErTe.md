@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/ErTe.html · Markdown: https://d
 
 6 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 3); experimental median -168.225 kJ/mol-atom (n = 2); Materials Project -136.706 kJ/mol-atom (mp-aaaaabxg); OQMD -120.964 kJ/mol-atom (oqmd-1880751).
 
-Systems: [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html)
+Systems: [Er–Te](https://data.orchid-project.org/systems/ER-TE.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of ErTe reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -179.45 kJ/mol-atom ± 0.6 | ErTe | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40 |  |
-| -157 kJ/mol-atom ± 60 | ErTe | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41 |  |
-| -118.947 kJ/mol-atom | ErTe |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 37 |  |
-| -136.485 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39 |  |
-| -119.399 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38 |  |
-| -115.927 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 36 |  |
+| -179.45 kJ/mol-atom ± 0.6 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40 |  |
+| -157 kJ/mol-atom ± 60 | ErTe | 298.15 | experimental | EMF | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41 |  |
+| -118.947 kJ/mol-atom | ErTe |  | model | CALPHAD | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 37 |  |
+| -136.485 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39 |  |
+| -119.399 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38 |  |
+| -115.927 kJ/mol-atom | ErTe | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 36 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of ErTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -179.45 | kJ/mol-atom | 0.6 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -157 | kJ/mol-atom | 60 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 60 |
-| -118.947 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -136.485 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -119.399 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -115.927 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -179.45 | kJ/mol-atom | 0.6 | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -157 | kJ/mol-atom | 60 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 60 |
+| -118.947 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -136.485 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -119.399 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -115.927 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al2Te3.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (experimental 3, model 1); experimental median -63.6 kJ/mol-atom (n = 3); Materials Project -67.973 kJ/mol-atom (mp-aaaabrqs); OQMD -43.474 kJ/mol-atom (oqmd-648344).
 
-Systems: [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html)
+Systems: [Al–Te](https://data.orchid-project.org/systems/AL-TE.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Al2Te3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -63.8 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Direct synthesis calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
-| -63.6 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
-| -52 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Torsion-effusion method for temperature | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
-| -85.9 kJ/mol-atom | βAl2Te3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
+| -63.8 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Direct synthesis calorimetry | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
+| -63.6 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Evaluation | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
+| -52 kJ/mol-atom | βAl2Te3 | 298.15 | experimental | Torsion-effusion method for temperature | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
+| -85.9 kJ/mol-atom | βAl2Te3 | 298.15 | model | CALPHAD | [Al–Te](https://data.orchid-project.org/systems/AL-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
 
 ### Uncertainty budget
 
@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of Al2Te3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -63.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -63.6 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -52 | kJ/mol-atom |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -85.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -63.6 | kJ/mol-atom |  | 0.05 | 3.5 (evaluated_compilation, calibrated) |  |  |  | 3.5 |
+| -52 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -85.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

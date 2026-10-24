@@ -1,10 +1,10 @@
 # Fe–Ta system
 
-> Fe–Ta system: 249 accepted literature values (invariant reaction 96, phase transition 80, formation 32, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ta system: 251 accepted literature values (invariant reaction 96, phase transition 79, formation 36, crystal structure 27) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TA.html · Markdown: https://data.orchid-project.org/systems/FE-TA.md
 
-249 accepted literature values from 3 paper(s) (experimental 142, model 86, DFT 7, unspecified 14); 3 calculated phase diagram(s).
+251 accepted literature values from 3 paper(s) (experimental 146, model 85, DFT 6, unspecified 14); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TA.json) · [CSV](https://data.orchid-project.org/systems/FE-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TA/FeTa-03Dan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/FE-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TA.html) · [Markdown](https://data.orchid-project.org/systems/FE-TA.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 142 |
-| model | 86 |
-| DFT | 7 |
+| experimental | 146 |
+| model | 85 |
+| DFT | 6 |
 | unspecified | 14 |
 
 Table: Accepted values by property group
@@ -22,10 +22,10 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 96 |
-| phase transition | 80 |
+| phase transition | 79 |
 | phase equilibrium | 13 |
-| formation | 32 |
-| crystal structure | 28 |
+| formation | 36 |
+| crystal structure | 27 |
 
 ## Calculated phase diagrams
 
@@ -168,10 +168,15 @@ Table: Invariant reactions reported in the literature for the Fe–Ta system (96
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ta system (21)
+Table: Enthalpies of formation, Fe–Ta system (25)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Fe0.359Ta0.641 |  | -5.8 kJ/mol (basis unstated) ± 2.1 | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
+| Fe0.477Ta0.523 |  | -7.1 kJ/mol (basis unstated) ± 1.4 | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 6 |  |
+| Fe0.638Ta0.362 |  | -5.4 kJ/mol (basis unstated) ± 1.5 | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 5 |  |
+| Fe0.678Ta0.322 |  | -5.7 kJ/mol (basis unstated) ± 1.8 | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 4 |  |
+| Fe0.844Ta0.156 |  | -2.6 kJ/mol (basis unstated) ± 1.9 | 298.15 | experimental |  |  | [3] Witusiewicz 2011 | Table 4, p. 10, row 3 |  |
 | Fe1Ta12 |  | 6.15538 kJ/mol-atom | 0 | DFT |  |  | [2] Rajkumar 2015 | Table 9, p. 6, row 7 |  |
 | Fe2Ta11 |  | 28.3285 kJ/mol-atom | 0 | DFT |  |  | [2] Rajkumar 2015 | Table 9, p. 6, row 6 |  |
 | Fe3Ta10 |  | 31.9038 kJ/mol-atom | 0 | DFT |  |  | [2] Rajkumar 2015 | Table 9, p. 6, row 5 |  |
@@ -192,11 +197,10 @@ Table: Enthalpies of formation, Fe–Ta system (21)
 | Mu phase (μ) |  | -17.224 kJ/mol (basis unstated) |  | unspecified |  |  | [2] Rajkumar 2015 | Table 7, p. 6, row 15 |  |
 | Mu phase (μ) |  | -7.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 9 |  |
 | Mu phase (μ) |  | -5.8 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Rajkumar 2015; _cites Witusiewicz 2011_ [doi](https://doi.org/10.1016/j.intermet.2011.03.018) | Table 7, p. 6, row 10 |  |
-| Ta13 |  | 10.71 kJ/mol-atom | 0 | DFT |  |  | [2] Rajkumar 2015 | Table 9, p. 6, row 8 |  |
 
 ## Other properties
 
-### Phase transition (80)
+### Phase transition (79)
 
 Table: Phase transition, Fe–Ta system
 
@@ -222,7 +226,6 @@ Table: Phase transition, Fe–Ta system
 | Phase transition | 1724 K | 1724 | L ↔ δ + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 8 |  |
 | Phase transition | 1945 K | 1945 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 4 |  |
 | Phase transition | 1950 K | 1950 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 2 |  |
-| Phase transition | 1950 K | 1950 | fcc dTaNx + hcp e-TaN | experimental | [1] Danon 2003; _cites Frisk 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900582-9) | p. 8 | “In this point it is worth to mention that the fcc dTaNx nitride is not stable below 1950 K in the binary Ta-N system \[14\]; the equilibrium phase of TaN formed at lower temperatures is hcp e-TaN.” |
 | Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | experimental | [3] Witusiewicz 2011 | Table 3, p. 8, row 3 |  |
 | Phase transition | 1959 K | 1959 | L/L + λ; _alloy: Fe 0.844, Ta 0.156_ | model | [3] Witusiewicz 2011 | Table 3, p. 8, row 5 |  |
 | Phase transition | 1959 K | 1959 | other | experimental | [3] Witusiewicz 2011 | p. 6 | “Melting finally finishes at 1959 K, close to liquidus.” |
@@ -321,14 +324,13 @@ Table: Formation, Fe–Ta system
 | Gibbs energy of formation; _printed: ΔfG°_ | -18.725 kJ/mol (basis unstated) | 1340 | ε; _alloy: Fe 0.6667, Ta 0.3333_ | model | [2] Rajkumar 2015 | Table 11, p. 8, row 12 |  |
 | Gibbs energy of formation; _printed: ΔfG°_ | -22.217 kJ/mol (basis unstated) | 1340 | ε; _alloy: Fe 0.6667, Ta 0.3333_ | experimental | [2] Rajkumar 2015; _cites Rezukhina 1973_ | Table 11, p. 8, row 11 |  |
 
-### Crystal structure (28)
+### Crystal structure (27)
 
 Table: Crystal structure, Fe–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 2.8665 Å | 298.15 | α, (αFe); _alloy: Ta 0_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.3065 Å | 298.15 | β, (Ta); _alloy: Ta 1_ | model | [3] Witusiewicz 2011; _cites Massalski 1990_ | Table 1, p. 2, row 3 |  |
 | Lattice a | 4.816 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Kuo 1953_ [doi](https://doi.org/10.1016/0001-6160%2853%2990031-5) | Table 1, p. 2, row 7 |  |
 | Lattice a | 4.8 Å | 298.15 | λ, ε, TaFe2; _λ: Fe 0.67, Ta 0.33; λ, ε, TaFe2: Fe 0.67, Ta 0.33_ | experimental | [3] Witusiewicz 2011; _cites Wallbaum 1941_ | Table 1, p. 2, row 6 |  |
 | Lattice a | 4.8 Å | 298.15 | λ, ε, TaFe2; _alloy: Ta 0.333333_ | experimental | [3] Witusiewicz 2011; _cites Raman 1966_ | Table 1, p. 2, row 9 |  |

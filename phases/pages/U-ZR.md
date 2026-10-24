@@ -12,7 +12,7 @@ Table: Phases of the U–Zr system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A20](#phase-u-zr-a20-orthorhombic); _phase:u-zr:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–964.93 K, x(Zr) 0–0.01709 | 17 | 9 |
+| [ORTHORHOMBIC_A20](#phase-u-zr-a20-orthorhombic); _phase:u-zr:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–964.93 K, x(Zr) 0–0.01709 | 9 | 9 |
 | [BCC_A2](#phase-u-zr-bcc-a2); _phase:u-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 872.18–3999.6 K, x(Zr) 0–1 | 46 | 9 |
 | [FCC_A1](#phase-u-zr-fcc-a1); _phase:u-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 9 calculated diagram(s) | 0 | 9 |
 | [HCP_A3](#phase-u-zr-hcp-a3); _phase:u-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2123.99 K, x(Zr) 0.98173–1 | 0 | 9 |
@@ -26,11 +26,11 @@ Table: Phases of the U–Zr system (8)
 - Id: `phase:u-zr:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 300–964.93 K, x(Zr) 0–0.01709
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-zr:a20-orthorhombic)
 
-Names (13): _corpus: _corpus:phase:u-zr:a20-orthorhombic, corpus:phase:u-zr:orthorhombic-a20  
-_paper: _paper:10.1016/j.jnucmat.2013.07.034:α(U), paper:10.1016/j.jnucmat.2013.07.034:α(Zr)  
+Names (12): _corpus: _corpus:phase:u-zr:a20-orthorhombic, corpus:phase:u-zr:orthorhombic-a20  
+_paper: _paper:10.1016/j.jnucmat.2013.07.034:α(U)  
 _tdb: _tdb:UZr-04Che-LB.tdb:ORTHORHOMBIC_A20, tdb:UZr-10Kur.tdb:ORTHORHOMBIC_A20, tdb:UZr-13Xio.tdb:ORTHORHOMBIC_A20, tdb:UZr-18Qua.tdb:ORTHORHOMBIC_A20, tdb:UZr-18Xie.tdb:ORTHORHOMBIC_A20, tdb:UZr-25Wil.tdb:ORTHORHOMBIC_A20, tdb:UZr-98AEA.tdb:ORTHORHOMBIC_A20, tdb:UZr-98Che.tdb:ORTHORHOMBIC_A20, tdb:UZr-98Kur.tdb:ORTHORHOMBIC_A20  
 
 
@@ -130,8 +130,8 @@ _cited as the source of values for this phase_
 - Literature: 46 values (46 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-zr:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:u-zr:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2013.07.034:γ, paper:10.1016/j.jnucmat.2013.07.034:γ', paper:10.1016/s0022-3115(98)00450-4:bcc_A2  
+Names (12): _corpus: _corpus:phase:u-zr:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2013.07.034:γ, paper:10.1016/s0022-3115(98)00450-4:bcc_A2  
 _tdb: _tdb:UZr-04Che-LB.tdb:BCC_A2, tdb:UZr-10Kur.tdb:BCC_A2, tdb:UZr-13Xio.tdb:BCC_A2, tdb:UZr-18Qua.tdb:BCC_A2, tdb:UZr-18Xie.tdb:BCC_A2, tdb:UZr-25Wil.tdb:BCC_A2, tdb:UZr-98AEA.tdb:BCC_A2, tdb:UZr-98Che.tdb:BCC_A2, tdb:UZr-98Kur.tdb:BCC_A2  
 
 
@@ -615,8 +615,9 @@ _cited as the source of values for this phase_
 ## U3ZR7 (U–Zr)
 
 - Id: `phase:u-zr:u3zr7`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token
 - Candidate (tdb_comment): Hg2U · hP3 · P6/mmm — UZr-98Che.tdb: 'Prototype Hg2U (hP3, P6/mmm)'
+- Stoichiometry: U 0.3000, Zr 0.7000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–880.85 K, x(Zr) 0.7–0.7
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-zr:u3zr7)

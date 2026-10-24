@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Al255Zr
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -132.6 | unknown |  | 0.05 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
-| -119.8 | eV/kJ mol−1 |  | 0.05 | 0.06509 (dft, calibrated) |  |  |  | 0.06509 |
-| -1.242 | eV/f.u. |  | 5.000e-4 | 0.06509 (dft, calibrated) |  |  |  | 0.06509 |
+| -119.8 | eV/kJ mol−1 |  | 0.05 | 0.08781 (dft, calibrated) |  |  |  | 0.08781 |
+| -1.242 | eV/f.u. |  | 5.000e-4 | 0.08781 (dft, calibrated) |  |  |  | 0.08781 |
 
 ## Sources
 

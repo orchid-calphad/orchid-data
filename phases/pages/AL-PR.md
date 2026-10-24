@@ -20,7 +20,7 @@ Table: Phases of the Al–Pr system (13)
 | [ALPR](#phase-al-pr-alpr); _phase:al-pr:alpr_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1171.55 K, x(Pr) 0.5–0.5 | 7 | 2 |
 | [ALPR2_C37](#phase-al-pr-alpr2-c37); _phase:al-pr:alpr2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1011.8 K, x(Pr) 0.66667–0.66667 | 7 | 2 |
 | [ALPR3](#phase-al-pr-alpr3); _phase:al-pr:alpr3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–957.2 K, x(Pr) 0.75–0.75 | 9 | 2 |
-| [BCC_A2](#phase-al-pr-bcc-a2); _phase:al-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 890–1204 K, x(Pr) 0.91437–1 | 15 | 2 |
+| [BCC_A2](#phase-al-pr-bcc-a2); _phase:al-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 890–1204 K, x(Pr) 0.91437–1 | 6 | 2 |
 | [DHCP](#phase-al-pr-dhcp-a3); _phase:al-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1133 K, x(Pr) 0.97157–1 | 3 | 2 |
 | [FCC_A1](#phase-al-pr-fcc-a1); _phase:al-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–937.69 K, x(Pr) 0–0.00011 | 3 | 2 |
 | [HCP_A3](#phase-al-pr-hcp-a3); _phase:al-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -317,11 +317,11 @@ _reports values for this phase_
 - Id: `phase:al-pr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 890–1204 K, x(Pr) 0.91437–1
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pr:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:al-pr:bcc-a2  
-_paper: _paper:10.1088/2053-1591/ab19fa:bcc, paper:10.1088/2053-1591/ab19fa:β\_Al11Pr3  
+Names (4): _corpus: _corpus:phase:al-pr:bcc-a2  
+_paper: _paper:10.1088/2053-1591/ab19fa:bcc  
 _tdb: _tdb:AlPr-01Yin.tdb:BCC_A2, tdb:AlPr-19Lia.tdb:BCC_A2  
 
 

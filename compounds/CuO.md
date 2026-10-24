@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CuO.html · Markdown: https://data.orchid-project.org/compounds/CuO.md
 
-19 accepted literature formation-enthalpy value(s) (experimental 13, model 6); experimental median -78.535 kJ/mol-atom (n = 13); Materials Project -90.966 kJ/mol-atom (mp-aaaaacnc); OQMD -80.231 kJ/mol-atom (oqmd-1343583).
+19 accepted literature formation-enthalpy value(s) (experimental 13, model 6); experimental median -77.885 kJ/mol-atom (n = 13); Materials Project -90.966 kJ/mol-atom (mp-aaaaacnc); OQMD -80.231 kJ/mol-atom (oqmd-1343583).
 
 Systems: [Cu–O](https://data.orchid-project.org/systems/CU-O.html)
 
@@ -14,8 +14,6 @@ Table: Enthalpy of formation of CuO reported in the literature (19)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -138.16 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 5 |  |
-| -138.16 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
 | -80.855 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
 | -80.855 kJ/mol-atom | CuO | 298.15 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 12 |  |
 | -80.54 kJ/mol-atom | CuO | 295 | experimental | React. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites H 1932_ | Table 8, p. 13, row 3 |  |
@@ -27,6 +25,8 @@ Table: Enthalpy of formation of CuO reported in the literature (19)
 | -77.74 kJ/mol-atom | CuO | 298.15 | experimental | Aq. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
 | -76.15 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 7 |  |
 | -76.15 kJ/mol-atom | CuO | 293 | experimental | Sol. Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
+| -69.08 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 5 |  |
+| -69.08 kJ/mol-atom | CuO | 298.15 | experimental | Cal. | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
 | -78.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 14 |  |
 | -78.03 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994; _cites Chase 1985_ | Table 8, p. 13, row 13 |  |
 | -77.595 kJ/mol-atom | CuO | 298.15 | model | Assessed | [Cu–O](https://data.orchid-project.org/systems/CU-O.html) | [1] Hallstedt 1994 | Table 8, p. 13, row 18 |  |
@@ -42,8 +42,6 @@ Table: Uncertainty budget of the literature values of CuO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -138.16 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -138.16 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -80.855 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -80.855 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -80.54 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
@@ -55,12 +53,14 @@ Table: Uncertainty budget of the literature values of CuO
 | -77.74 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -76.15 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -76.15 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -78.03 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -78.03 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -77.595 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -77.595 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -77.015 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -77.015 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -69.08 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -69.08 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -78.03 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -78.03 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -77.595 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -77.595 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -77.015 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -77.015 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -71,7 +71,7 @@ Table: DFT formation energy of CuO
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaacnc | -90.966 | -0.942795 | P4_2/mmc | 0 | 0 | yes |
-| OQMD | oqmd-1343583 | -80.231 | -0.831534 | P42/mmc | 0.075 | 8.000e-4 | yes |
+| OQMD | oqmd-1343583 | -80.231 | -0.831534 | P42/mmc | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

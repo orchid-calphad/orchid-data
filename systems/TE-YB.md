@@ -1,10 +1,10 @@
 # Te–Yb system
 
-> Te–Yb system: 15 accepted literature values (invariant reaction 8, phase transition 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Te–Yb system: 11 accepted literature values (invariant reaction 8, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TE-YB.html · Markdown: https://data.orchid-project.org/systems/TE-YB.md
 
-15 accepted literature values from 1 paper(s) (experimental 9, model 6); 0 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 6, model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TE-YB.json) · [CSV](https://data.orchid-project.org/systems/TE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TE-YB) · [phases (6)](https://data.orchid-project.org/phases/pages/TE-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TE-YB.html) · [Markdown](https://data.orchid-project.org/systems/TE-YB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 6 |
+| experimental | 6 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 8 |
-| phase transition | 7 |
+| phase transition | 3 |
 
 Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/TE/TE-YB.json) · [CALPHAD hull YbTe-15Wan](https://data.orchid-project.org/hulls/calphad-sgte/TE/TE-YB--YbTe-15Wan.json)
 
@@ -41,16 +41,12 @@ Table: Invariant reactions reported in the literature for the Te–Yb system (8)
 
 ## Other properties
 
-### Phase transition (7)
+### Phase transition (3)
 
 Table: Phase transition, Te–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1033 K | 1033 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 10 |  |
-| Phase transition | 1061 K | 1061 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 7 |  |
-| Phase transition | 1068 K | 1068 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Okamoto 1990_ | Table 5, p. 6, row 9 |  |
-| Phase transition | 1071 K | 1071 | polymorphic: (βYb) -> (γYb); _(βYb): Te 0_ | experimental | [1] Ghamri 2015; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | Table 5, p. 6, row 8 |  |
 | Phase transition | 2003 K | 2003 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | experimental | [1] Ghamri 2015; _cites Kh 1970_ | Table 5, p. 6, row 3 |  |
 | Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Ghamri 2015 | p. 2 | “This later melts congruently at about 2003 K.” |
 | Phase transition | 2003.46 K | 2003.46 | congruent melting: Liq -> TeYb; _L: Te 0.5; TeYb: Te 0.5_ | model | [1] Ghamri 2015 | Table 5, p. 6, row 4 |  |

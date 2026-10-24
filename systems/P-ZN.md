@@ -1,10 +1,10 @@
 # P–Zn system
 
-> P–Zn system: 65 accepted literature values (phase transition 30, invariant reaction 20, formation 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Zn system: 92 accepted literature values (formation 34, phase transition 30, invariant reaction 20, crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-ZN.html · Markdown: https://data.orchid-project.org/systems/P-ZN.md
 
-65 accepted literature values from 2 paper(s) (experimental 28, model 26, unspecified 11); 0 calculated phase diagram(s).
+92 accepted literature values from 3 paper(s) (experimental 43, model 36, unspecified 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-ZN) · [phases (13)](https://data.orchid-project.org/phases/pages/P-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-ZN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 26 |
-| unspecified | 11 |
+| experimental | 43 |
+| model | 36 |
+| unspecified | 13 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 20 |
 | phase transition | 30 |
-| formation | 15 |
+| formation | 34 |
+| crystal structure | 8 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/P/P-ZN.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/P/P-ZN.json) · [CALPHAD hull ZnP-09Tu](https://data.orchid-project.org/hulls/calphad-sgte/P/P-ZN--ZnP-09Tu.json) · [CALPHAD hull ZnP-16Liu](https://data.orchid-project.org/hulls/calphad-sgte/P/P-ZN--ZnP-16Liu.json)
 
@@ -57,19 +58,30 @@ Table: Invariant reactions reported in the literature for the P–Zn system (20)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, P–Zn system (9)
+Table: Enthalpies of formation, P–Zn system (20)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Zn3P2 |  | -181.78 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 2 |  |
 | Zn3P2 |  | -151.839 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 1 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -46.06 kJ/mol-atom ± 6300 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 4 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -46.06 kJ/mol-atom ± 1.26 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [3] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 8 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -44.66 kJ/mol-atom ± 1500 | 298.15 | unspecified | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016; _cites Karvelis 1959_ | Table 4, p. 6, row 5 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -44.66 kJ/mol-atom ± 0.3 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [3] Tu 2009; _cites Karvelis 1959_ | Table 3, p. 4, row 9 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -36.356 kJ/mol-atom | 298.15 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [3] Tu 2009 | Table 3, p. 4, row 10 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -36.356 kJ/mol-atom | 298.15 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -34.64 kJ/mol-atom ± 10400 | 298.15 | unspecified | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -34.64 kJ/mol-atom ± 2.08 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [3] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 6 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -33.06 kJ/mol-atom ± 4.18 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [3] Tu 2009; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 3, p. 4, row 7 |  |
 | Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -33.06 kJ/mol-atom ± 20900 | 298.15 | experimental | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016; _cites Schoonmaker 1967_ [doi](https://doi.org/10.1021/j100867a043) | Table 4, p. 6, row 3 |  |
+| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -30.3678 kJ/mol-atom | 298.15 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
+| ZnP2 |  | -127.4 kJ/mol (basis unstated) ± 7.5 | 298.15 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
 | ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
+| ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
 | ZnP2 |  | -92.9282 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
+| ZnP2 |  | -92.9282 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
+| ZnP2 | [ZnP2](https://data.orchid-project.org/compounds/ZnP2.html) | -42.4667 kJ/mol-atom ± 2.5 | 298.15 | experimental | -23.975 (mp-aaaaaqib) | -40.016 (oqmd-31359) | [3] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
+| ZnP2 | [ZnP2](https://data.orchid-project.org/compounds/ZnP2.html) | -42.2833 kJ/mol-atom | 298.15 | model | -23.975 (mp-aaaaaqib) | -40.016 (oqmd-31359) | [3] Tu 2009 | Table 3, p. 4, row 12 |  |
 
 ## Other properties
 
@@ -110,18 +122,41 @@ Table: Phase transition, P–Zn system
 | Phase transition | 1448.15 K | 1448.15 | congruent melting: L -> Zn3P2; _L: P 0.004; Zn3P2: P 0.4_ | unspecified | [1] Liu 2016 | Table 5, p. 6, row 5 |  |
 | Phase transition | 1466.15 K | 1466.15 | congruent melting: L -> βZn3P2; _L: P 0.4; βZn3P2: P 0.4_ | experimental | [2] Ghasemi 2019; _cites Berak 1969_ | Table 4, p. 6, row 14 |  |
 
-### Formation (6)
+### Formation (14)
 
 Table: Formation, P–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Gibbs energy of formation; _printed: ΔfG298_ | -31.7414 kJ/mol-atom | 298.15 | Zn3P2; _alloy: Zn 0.6_ | model | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -33.762 kJ/mol-atom | 298.15 | Zn3P2; _alloy: P 0.4, Zn 0.6_ | model | [3] Tu 2009 | Table 3, p. 4, row 10 |  |
 | Gibbs energy of formation; _printed: ΔfG°298_ | -168.81 kJ/mol (basis unstated) | 298.15 | Zn3P2; _alloy: Zn 0.6_ | model | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -36.02 kJ/mol-atom ± 13000 | 298.15 | Zn3P2; _alloy: Si 0, Zn 0.6_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -33.762 kJ/mol-atom | 298.15 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -36.02 kJ/mol-atom ± 13000 | 298.15 | Zn3P2; _alloy: Zn 0.6_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 2 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -36.02 kJ/mol-atom ± 2.6 | 298.15 | Zn3P2; _alloy: P 0.4, Zn 0.6_ | experimental | [3] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 6 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -33.762 kJ/mol-atom | 298.15 | Zn3P2; _alloy: Zn 0.6_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 6 |  |
 | Gibbs energy of formation; _printed: ΔfG°298_ | -158.707 kJ/mol (basis unstated) | 298.15 | Zn3P2; _alloy: Zn 0.6_ | model | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 1 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -40.9667 kJ/mol-atom ± 1.83333 | 298.15 | ZnP2; _alloy: P 0.666667, Zn 0.333333_ | experimental | [3] Tu 2009; _cites Sirota 1975_ | Table 3, p. 4, row 11 |  |
 | Gibbs energy of formation; _printed: ΔfG°298_ | -118.032 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Zn 0.333333_ | model | [2] Ghasemi 2019; _cites Liu 2016_ [doi](https://doi.org/10.1016/j.surfcoat.2016.01.016) | Table 2, p. 3, row 11 |  |
 | Gibbs energy of formation; _printed: ΔfG°298_ | -126.2 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Zn 0.333333_ | model | [2] Ghasemi 2019; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 2, p. 3, row 12 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -122.9 kJ/mol (basis unstated) ± 5.5 | 298.15 | ZnP2; _alloy: Zn 0.333333_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -126.2 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Zn 0.333333_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -42.0667 kJ/mol-atom | 298.15 | ZnP2; _alloy: P 0.666667, Zn 0.333333_ | model | [3] Tu 2009 | Table 3, p. 4, row 12 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -118.032 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Zn 0.333333_ | model | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
+
+### Crystal structure (8)
+
+Table: Crystal structure, P–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.08 Å |  | β-Zn3P2; _alloy: Zn 0.6_ | experimental | [1] Liu 2016; _cites Berak 1969_ | Table 1, p. 3, row 6 |  |
+| Lattice a | 8.85 Å |  | β-ZnP2; _alloy: Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
+| Lattice a | 8.089 Å | 298.15 | α-Zn3P2; _alloy: Zn 0.6_ | experimental | [1] Liu 2016; _cites Pistorius 1977_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 5.08 Å | 298.15 | α-ZnP2; _alloy: Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 3 |  |
+| Lattice b | 7.29 Å |  | β-ZnP2; _alloy: Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
+| Lattice c | 7.56 Å |  | β-ZnP2; _alloy: Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
+| Lattice c | 11.407 Å | 298.15 | α-Zn3P2; _alloy: Zn 0.6_ | experimental | [1] Liu 2016; _cites Pistorius 1977_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 18.59 Å | 298.15 | α-ZnP2; _alloy: Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 3 |  |
 
 ## Sources
 
@@ -129,6 +164,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016). [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016)
 2. Masoomeh Ghasemi, E. Stutz, S. Escobar Steinvall, M. Zamani, A. Fontcuberta i Morral, Thermodynamic re-assessment of the Zn–P binary system, Materialia 6, 100301 (2019). [doi:10.1016/j.mtla.2019.100301](https://doi.org/10.1016/j.mtla.2019.100301)
+3. Hao Tu, Fucheng Yin, Xuping Su, Ya Liu, Xinming Wang, Experimental investigation and thermodynamic modeling of the Al–P–Zn ternary system, Calphad 33, 755-760 (2009). [doi:10.1016/j.calphad.2009.10.003](https://doi.org/10.1016/j.calphad.2009.10.003)
 
 ## Please cite
 

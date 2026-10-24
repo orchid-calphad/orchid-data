@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Mo2Zr.html · Markdown: https://data.orchid-project.org/compounds/Mo2Zr.md
 
-3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -13.443 kJ/mol-atom (mp-aaaaadav); OQMD -13.282 kJ/mol-atom (oqmd-17718).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -13.443 kJ/mol-atom (mp-aaaaadav); OQMD -13.282 kJ/mol-atom (oqmd-17718).
 
 Systems: [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html)
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Mo2Zr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.48 kJ/mol-atom | Mo2Zr (Laves_c15) |  | model | FP-LMTO | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
 | -9.3 kJ/mol-atom | Mo2Zr (Laves_c15) |  | model |  | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003; _cites Brewer 1980_ | Table 2, p. 7, row 1 |  |
 | -7.49 kJ/mol-atom | Mo2Zr (Laves_c15) | 298.15 | model | Miedema’s method | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
+| -13.48 kJ/mol-atom | Mo2Zr (Laves_c15) |  | DFT | FP-LMTO | [Mo–Zr](https://data.orchid-project.org/systems/MO-ZR.html) | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Mo2Zr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13.48 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -7.49 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -7.49 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.48 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of Mo2Zr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadav | -13.443 | -0.139329 | Fd-3m | 0 | 0 | no |
-| OQMD | oqmd-17718 | -13.282 | -0.137657 | Fd-3m | 0.02 | 2.000e-4 | no |
+| OQMD | oqmd-17718 | -13.282 | -0.137657 | Fd-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

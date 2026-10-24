@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Sb2Zn3.html · Markdown: https:/
 
 6 accepted literature formation-enthalpy value(s) (experimental 3, model 3); experimental median -5.78 kJ/mol-atom (n = 3); OQMD -1.685 kJ/mol-atom (oqmd-994658).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) · [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html)
+Systems: [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html)
 
 ## Literature values
 
@@ -16,10 +16,10 @@ Table: Enthalpy of formation of Sb2Zn3 reported in the literature (6)
 |---:|---|---:|---|---|---|---|---|---|
 | -5.78 kJ/mol-atom | ξ-Sb2Zn3 | 800 | experimental | emf | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007; _cites Zabdyr 1981_ | Table 4, p. 4, row 26 |  |
 | -5.78 kJ/mol-atom | β-Zn3Sb2 | 800.15 | experimental | EMF | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022; _cites Zabdyr 1981_ | Table 8, p. 14, row 23 |  |
-| -5.78 kJ/mol-atom | δ(Sb4Zn6) | 298.15 | experimental |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
+| -5.78 kJ/mol-atom | δ(Sb4Zn6) | 298.15 | experimental |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000; _cites Zabdyr 1981_ | Table 2, p. 3, row 19 |  |
 | -10.434 kJ/mol-atom | β-Zn3Sb2 | 800.15 | model | Calculation | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [2] Zhang 2022 | Table 8, p. 14, row 24 |  |
 | -9.839 kJ/mol-atom | ξ-Sb2Zn3 | 800 | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [1] Li 2007 | Table 4, p. 4, row 25 |  |
-| -4.918 kJ/mol-atom | δ(Sb4Zn6) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 18 |  |
+| -4.918 kJ/mol-atom | δ(Sb4Zn6) |  | model |  | [Sb–Zn](https://data.orchid-project.org/systems/SB-ZN.html) | [3] Liu 2000 | Table 2, p. 3, row 18 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Sb2Zn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.78 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -5.78 | kJ/mol-atom |  | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -5.78 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -10.434 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.839 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -4.918 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.78 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -5.78 | kJ/mol-atom |  | 0.005 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -5.78 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -10.434 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -9.839 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -4.918 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -44,7 +44,7 @@ Table: DFT formation energy of Sb2Zn3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-994658 | -1.685 | -0.017466 | C2/m | 1.086 | 0.0113 | yes |
+| OQMD | oqmd-994658 | -1.685 | -0.017466 | C2/m | 1.0858 | 0.0113 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -12,14 +12,14 @@ Table: Phases of the Cd–Sb system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBOHEDRAL_A7](#phase-cd-sb-a7-rhombohedral); _phase:cd-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 13 | 3 |
+| [RHOMBOHEDRAL_A7](#phase-cd-sb-a7-rhombohedral); _phase:cd-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 12 | 3 |
 | [BCC_A2](#phase-cd-sb-bcc-a2); _phase:cd-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [CD3SB2](#phase-cd-sb-cd3sb2); _phase:cd-sb:cd3sb2_ | Cd3Sb2 · cP15 · P432 (207) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [CD4SB3](#phase-cd-sb-cd4sb3); _phase:cd-sb:cd4sb3_ | Sb17Zn23 · hR22 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [CDSB_BE](#phase-cd-sb-cdsb-be); _phase:cd-sb:cdsb-be_ | CdSb · B_e · oP16 · Pbca (61) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–732.22 K, x(Sb) 0.5–0.51008 | 32 | 3 |
 | [FCC_A1](#phase-cd-sb-fcc-a1); _phase:cd-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-cd-sb-hcp-a3); _phase:cd-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–594.22 K, x(Sb) 0–0.0052 | 13 | 3 |
-| [LIQUID](#phase-cd-sb-liquid); _phase:cd-sb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 567.25–2500 K, x(Sb) 0–1 | 37 | 3 |
+| [LIQUID](#phase-cd-sb-liquid); _phase:cd-sb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 567.25–2500 K, x(Sb) 0–1 | 36 | 3 |
 
 ## RHOMBOHEDRAL_A7 (Cd–Sb)
 
@@ -27,7 +27,7 @@ Table: Phases of the Cd–Sb system (8)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Sb 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-sb:a7-rhombohedral)
 
 Names (7): _corpus: _corpus:phase:cd-sb:a7-rhombohedral, corpus:phase:cd-sb:rhombohedral-a7  
@@ -324,7 +324,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cd-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 567.25–2500 K, x(Sb) 0–1
-- Literature: 37 values (37 accepted) from 2 papers
+- Literature: 36 values (36 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-sb:liquid)
 
 Names (7): _corpus: _corpus:phase:cd-sb:liquid  
@@ -363,9 +363,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0364-5916(97)00036-9](https://doi.org/10.1016/S0364-5916%2897%2900036-9) L.A. Zabdyr, Calphad, 21, 349-58(1997).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(93)90005-v](https://doi.org/10.1016/0364-5916%2893%2990005-v) L.A. Zabdyr, CALPHAD 17 (3) (1993) 269.  
-_cited as the source of values for this phase_
 - [doi:10.1016/s0966-9795(03)00157-2](https://doi.org/10.1016/s0966-9795%2803%2900157-2) M.C. Record, V. Izard, M. Bulanova, J.C. Tedenac, Phase transformations in the Zn–Cd–Sb system, Intermetallics 11, 1189-1194 (2003).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0364-5916(93)90005-v](https://doi.org/10.1016/0364-5916%2893%2990005-v) L.A. Zabdyr, CALPHAD 17 (3) (1993) 269.  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2006.04.051](https://doi.org/10.1016/j.jallcom.2006.04.051) Fouzia Adjadj, El-djemai Belbacha, Malek Bouharkat, Differential calorimetric analysis of the binary system Sb–Zn, Journal of Alloys and Compounds 430, 85-91 (2007).  
 _cited as the source of values for this phase_

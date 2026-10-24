@@ -1,14 +1,14 @@
 # Ga–Se phases
 
-> Ga–Se system: 10 phases (tier A 6, tier C 2, liquid 2); 0 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ga–Se system: 9 phases (tier A 6, tier C 2, liquid 1); 0 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/GA-SE.html · Markdown: https://data.orchid-project.org/phases/pages/GA-SE.md
 
-10 phases (tier A 6, tier C 2, liquid 2); 0 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+9 phases (tier A 6, tier C 2, liquid 1); 0 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=GA-SE) · [full JSON](https://data.orchid-project.org/phases/systems/GA-SE.json) · [Ga–Se system page](https://data.orchid-project.org/systems/GA-SE.html) · [Markdown](https://data.orchid-project.org/phases/pages/GA-SE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ga–Se system (10)
+Table: Phases of the Ga–Se system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -21,7 +21,6 @@ Table: Phases of the Ga–Se system (10)
 | [GASE](#phase-ga-se-gase); _phase:ga-se:gase_ | GaSe · hP8 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 52 | 1 |
 | [HCP_A3](#phase-ga-se-hcp-a3); _phase:ga-se:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [ION](#phase-ga-se-ion); _phase:ga-se:ion_ | liquid | liquid | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-ga-se-liquid); _phase:ga-se:liquid_ | liquid | liquid | no calculated diagram | 0 | 0 |
 
 ## ORTHORHOMBIC_A11 (Ga–Se)
 
@@ -287,7 +286,7 @@ _assessment that models this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:ion)
 
-Names (2): _corpus: _corpus:phase:ga-se:ion  
+Names (3): _corpus: _corpus:phase:ga-se:ion, corpus:phase:ga-se:liquid  
 _tdb: _tdb:GaSe-08Zhe.tdb:ION  
 
 
@@ -304,17 +303,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1016/j.calphad.2008.03.004](https://doi.org/10.1016/j.calphad.2008.03.004) F. Zheng, J.Y. Shen, Y.Q. Liu, W.K. Kim, M.Y. Chu, M. Ider et al., Thermodynamic optimization of the Ga–Se system, Calphad 32, 432-438 (2008).  
 _assessment that models this phase_
-
-## LIQUID (Ga–Se)
-
-- Id: `phase:ga-se:liquid`; status `assigned`
-- Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-se:liquid)
-
-Names (1): _corpus: _corpus:phase:ga-se:liquid  
-
 
 ## Please cite
 

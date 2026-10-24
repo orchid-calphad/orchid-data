@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu5Dy.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, DFT 2); experimental median -15.7 kJ/mol-atom (n = 1); Materials Project -18.422 kJ/mol-atom (mp-aaacrspf); OQMD -18.593 kJ/mol-atom (oqmd-1519615).
 
-Systems: [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html)
+Systems: [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Cu5Dy reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.7 kJ/mol-atom | Cu5Dy | 298.15 | experimental |  | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 3 |  |
-| -19.4 kJ/mol-atom | Cu5Dy | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 1 |  |
-| -18.8 kJ/mol-atom | Cu5Dy | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 2 |  |
+| -15.7 kJ/mol-atom | Cu5Dy | 298.15 | experimental |  | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 3 |  |
+| -19.4 kJ/mol-atom | Cu5Dy | 0 | DFT | ab initio | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009 | Table 2, p. 4, row 1 |  |
+| -18.8 kJ/mol-atom | Cu5Dy | 0 | DFT | ab initio | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009 | Table 2, p. 4, row 2 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Cu5Dy
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -19.4 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -18.8 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -15.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -19.4 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -18.8 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

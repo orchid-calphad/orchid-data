@@ -1,10 +1,10 @@
 # Ga–Zr system
 
-> Ga–Zr system: 142 accepted literature values (crystal structure 102, invariant reaction 27, phase equilibrium 11, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Zr system: 130 accepted literature values (crystal structure 90, invariant reaction 27, phase equilibrium 11, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-ZR.html · Markdown: https://data.orchid-project.org/systems/GA-ZR.md
 
-142 accepted literature values from 1 paper(s) (experimental 89, model 3, unspecified 50); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+130 accepted literature values from 1 paper(s) (experimental 83, model 3, unspecified 44); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZR.json) · [CSV](https://data.orchid-project.org/systems/GA-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZR/GaZr-14Luo.json) · [phases (15)](https://data.orchid-project.org/phases/pages/GA-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-ZR.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZR.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 89 |
+| experimental | 83 |
 | model | 3 |
-| unspecified | 50 |
+| unspecified | 44 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 27 |
 | phase transition | 2 |
 | phase equilibrium | 11 |
-| crystal structure | 102 |
+| crystal structure | 90 |
 
 ## Calculated phase diagrams
 
@@ -133,15 +133,13 @@ Table: Phase equilibrium, Ga–Zr system
 | Phase assemblage |  | 1373 | Ga5Zr3 + Ga3Zr2; _alloy: Ga 0.62, Zr 0.38_ | experimental | [1] Luo 2014 | Table 2, p. 3, row 3 |  |
 | Phase assemblage |  | 1373 | αGaZr + Ga2Zr3; _alloy: Ga 0.45, Zr 0.55_ | experimental | [1] Luo 2014 | Table 2, p. 3, row 5 |  |
 
-### Crystal structure (102)
+### Crystal structure (90)
 
 Table: Crystal structure, Ga–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.45847 not_printed |  | (Ga); _alloy: Zr 0_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 2 |  |
-| Lattice a | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice a | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 31 |  |
 | Lattice a | 1.29833 not_printed |  | Ga2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 7 |  |
 | Lattice a | 0.73694 not_printed |  | Ga2Zr3; _alloy: Zr 0.6_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 22 |  |
 | Lattice a | 0.39875 not_printed |  | Ga3Zr; _alloy: Zr 0.25_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 4 |  |
@@ -151,9 +149,7 @@ Table: Crystal structure, Ga–Zr system
 | Lattice a | 0.88937 not_printed |  | Ga5Zr3; _alloy: Zr 0.375_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 10 |  |
 | Lattice a | 0.67117 not_printed |  | GaZr2; _alloy: Zr 0.666667_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 28 |  |
 | Lattice a | 0.38906 not_printed |  | αGaZr; _alloy: Zr 0.5_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 16 |  |
-| Lattice a | 0.4519 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1, Zr 0_ | experimental | [1] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
 | Lattice a | 0.32327 not_printed | 298.15 | (αZr); _(αZr): Ga 0.008, Zr 0.992_ | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | Table 3, p. 3, row 33 |  |
-| Lattice a | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 35 |  |
 | Lattice a | 0.35453 not_printed | 298.15 | (βZr); _(βZr): Ga 0.08, Zr 0.92_ | experimental | [1] Luo 2014; _cites Russell 1954_ | Table 3, p. 3, row 30 |  |
 | Lattice a | 1.29 not_printed ± 0.002 | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.672, Zr 0.328_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 8 |  |
 | Lattice a | 1.289 not_printed | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.667, Zr 0.333_ | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 3, p. 3, row 6 |  |
@@ -174,8 +170,6 @@ Table: Crystal structure, Ga–Zr system
 | Lattice a | 0.3866 not_printed ± 5.000e-4 | 298.15 | αGaZr; _αGaZr: Ga 0.497, Zr 0.503_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 17 |  |
 | Lattice a | 0.3865 not_printed | 298.15 | αGaZr; _αGaZr: Ga 0.5, Zr 0.5_ | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 3, p. 3, row 15 |  |
 | Lattice b | 0.77712 not_printed |  | (Ga); _alloy: Zr 0_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 2 |  |
-| Lattice b | 0.3233 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice b | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 31 |  |
 | Lattice b | 0.40172 not_printed |  | Ga2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 7 |  |
 | Lattice b | 0.73694 not_printed |  | Ga2Zr3; _alloy: Zr 0.6_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 22 |  |
 | Lattice b | 0.39875 not_printed |  | Ga3Zr; _alloy: Zr 0.25_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 4 |  |
@@ -185,9 +179,7 @@ Table: Crystal structure, Ga–Zr system
 | Lattice b | 0.715 not_printed |  | Ga5Zr3; _alloy: Zr 0.375_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 10 |  |
 | Lattice b | 0.67117 not_printed |  | GaZr2; _alloy: Zr 0.666667_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 28 |  |
 | Lattice b | 0.38906 not_printed |  | αGaZr; _alloy: Zr 0.5_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 16 |  |
-| Lattice b | 0.7658 not_printed ± 3.000e-4 | 298.15 | (Ga); _(Ga): Ga 1, Zr 0_ | experimental | [1] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
 | Lattice b | 0.32327 not_printed | 298.15 | (αZr); _(αZr): Ga 0.008, Zr 0.992_ | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | Table 3, p. 3, row 33 |  |
-| Lattice b | 0.3229 not_printed ± 3.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 35 |  |
 | Lattice b | 0.35453 not_printed | 298.15 | (βZr); _(βZr): Ga 0.08, Zr 0.92_ | experimental | [1] Luo 2014; _cites Russell 1954_ | Table 3, p. 3, row 30 |  |
 | Lattice b | 0.3996 not_printed ± 2.000e-4 | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.672, Zr 0.328_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 8 |  |
 | Lattice b | 0.3994 not_printed | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.667, Zr 0.333_ | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 3, p. 3, row 6 |  |
@@ -208,8 +200,6 @@ Table: Crystal structure, Ga–Zr system
 | Lattice b | 0.38665 not_printed ± 5.000e-5 | 298.15 | αGaZr; _αGaZr: Ga 0.497, Zr 0.503_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 17 |  |
 | Lattice b | 0.3865 not_printed | 298.15 | αGaZr; _αGaZr: Ga 0.5, Zr 0.5_ | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 3, p. 3, row 15 |  |
 | Lattice c | 0.4584 not_printed |  | (Ga); _alloy: Zr 0_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 2 |  |
-| Lattice c | 0.51696 not_printed |  | (αZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 34 |  |
-| Lattice c | 0.3571 not_printed |  | (βZr); _alloy: Zr 1_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 31 |  |
 | Lattice c | 0.41497 not_printed |  | Ga2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 7 |  |
 | Lattice c | 0.36983 not_printed |  | Ga2Zr3; _alloy: Zr 0.6_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 22 |  |
 | Lattice c | 0.87961 not_printed |  | Ga3Zr; _alloy: Zr 0.25_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 4 |  |
@@ -219,9 +209,7 @@ Table: Crystal structure, Ga–Zr system
 | Lattice c | 0.90875 not_printed |  | Ga5Zr3; _alloy: Zr 0.375_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 10 |  |
 | Lattice c | 0.54561 not_printed |  | GaZr2; _alloy: Zr 0.666667_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 28 |  |
 | Lattice c | 2.05783 not_printed |  | αGaZr; _alloy: Zr 0.5_ | unspecified | [1] Luo 2014 | Table 3, p. 3, row 16 |  |
-| Lattice c | 0.4526 not_printed ± 2.000e-4 | 298.15 | (Ga); _(Ga): Ga 1, Zr 0_ | experimental | [1] Luo 2014; _cites H 1991_ | Table 3, p. 3, row 1 |  |
 | Lattice c | 0.51471 not_printed | 298.15 | (αZr); _(αZr): Ga 0.008, Zr 0.992_ | experimental | [1] Luo 2014; _cites Easton 1970_ [doi](https://doi.org/10.1007/bf03037856) | Table 3, p. 3, row 33 |  |
-| Lattice c | 0.5138 not_printed ± 4.000e-4 | 298.15 | (αZr); _alloy: Zr 1_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 35 |  |
 | Lattice c | 0.35453 not_printed | 298.15 | (βZr); _(βZr): Ga 0.08, Zr 0.92_ | experimental | [1] Luo 2014; _cites Russell 1954_ | Table 3, p. 3, row 30 |  |
 | Lattice c | 0.4131 not_printed ± 1.000e-4 | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.672, Zr 0.328_ | experimental | [1] Luo 2014 | Table 3, p. 3, row 8 |  |
 | Lattice c | 0.4123 not_printed | 298.15 | Ga2Zr; _Ga2Zr: Ga 0.667, Zr 0.333_ | experimental | [1] Luo 2014; _cites Potzschke 1962_ | Table 3, p. 3, row 6 |  |

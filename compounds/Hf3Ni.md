@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Hf3Ni.html · Markdown: https://data.orchid-project.org/compounds/Hf3Ni.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 3.481 kJ/mol-atom (mp-aaacpkik); OQMD -24.055 kJ/mol-atom (oqmd-1912905).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 3.481 kJ/mol-atom (mp-aaacpkik); OQMD 3.469 kJ/mol-atom (oqmd-345248).
 
 Systems: [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -1.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -1.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of Hf3Ni
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacpkik | 3.481 | 0.036078 | Pm-3m | 28.526 | 0.2957 | yes |
-| OQMD | oqmd-1912905 | -24.055 | -0.249317 | Cmcm | 0.984 | 0.0102 | yes |
+| Materials Project | mp-aaacpkik | 3.481 | 0.036078 | Pm-3m | 28.5261 | 0.2957 | yes |
+| OQMD | oqmd-345248 | 3.469 | 0.035953 | Pm-3m | 28.5082 | 0.2955 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

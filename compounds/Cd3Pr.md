@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Cd3Pr.html · Markdown: https://data.orchid-project.org/compounds/Cd3Pr.md
 
-1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -38.8 kJ/mol-atom (n = 1); Materials Project -29.803 kJ/mol-atom (mp-aaabxcgx); OQMD -30.438 kJ/mol-atom (oqmd-1788181).
+1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -38.8 kJ/mol-atom (n = 1); Materials Project -29.803 kJ/mol-atom (mp-aaabxcgx); OQMD -26.884 kJ/mol-atom (oqmd-314794).
 
 Systems: [Cd–Pr](https://data.orchid-project.org/systems/CD-PR.html)
 
@@ -35,7 +35,7 @@ Table: DFT formation energy of Cd3Pr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabxcgx | -29.803 | -0.308891 | Fm-3m | 0 | 0 | yes |
-| OQMD | oqmd-1788181 | -30.438 | -0.315464 | Pnma | 0.282 | 0.0029 | yes |
+| OQMD | oqmd-314794 | -26.884 | -0.278633 | Fm-3m | 3.5536 | 0.0368 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

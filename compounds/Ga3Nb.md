@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga3Nb.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); Materials Project -29.762 kJ/mol-atom (mp-aaaaacxx); OQMD -29.551 kJ/mol-atom (oqmd-30302).
 
-Systems: [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
+Systems: [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga3Nb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38.5 per mol-atom ± 3 | Ga3Nb | 298.15 | experimental | Calorimetry | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 3 |  |
-| -26.911 kJ/mol-atom | Ga3Nb | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 4 |  |
+| -38.5 per mol-atom ± 3 | Ga3Nb | 298.15 | experimental | Calorimetry | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Belgacem-Bouzida 2016_ | Table 2, p. 8, row 3 |  |
+| -26.911 kJ/mol-atom | Ga3Nb | 298.15 | model |  | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 4 |  |
 
 ### Uncertainty budget
 
@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of Ga3Nb
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -38.5 | per mol-atom | 3 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 3 |
-| -26.911 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.911 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Bi–Si system
 
-> Bi–Si system: 11 accepted literature values (phase equilibrium 6, crystal structure 3, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Si system: 9 accepted literature values (phase equilibrium 6, invariant reaction 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SI.html · Markdown: https://data.orchid-project.org/systems/BI-SI.md
 
-11 accepted literature values from 1 paper(s) (experimental 6, model 2, unspecified 3); 1 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 6, model 2, unspecified 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SI.json) · [CSV](https://data.orchid-project.org/systems/BI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SI/BiSi-85Ole-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SI.html) · [Markdown](https://data.orchid-project.org/systems/BI-SI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 6 |
 | model | 2 |
-| unspecified | 3 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase equilibrium | 6 |
-| crystal structure | 3 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -68,15 +68,13 @@ Table: Phase equilibrium, Bi–Si system
 | Phase composition |  | 1473.15 | liquid + L; _liquid: Bi 0.9887, Si 0.0113; L: Bi 0.9887, Si 0.0113_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 2 |  |
 | Phase composition |  | 1548.15 | liquid + L; _liquid: Bi 0.9807, Si 0.0193; L: Bi 0.9807, Si 0.0193_ | experimental | [1] Olesinski 1985; _cites ref. 60Thu_ | Table 1, p. 2, row 1 |  |
 
-### Crystal structure (3)
+### Crystal structure (1)
 
 Table: Crystal structure, Bi–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.546 Å | 298.15 | (Bi); _(Bi): Bi 1, Si 0_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 2 |  |
 | Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Bi 1.800e-5, Si 0.999982_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 1 |  |
-| Lattice c | 11.862 Å | 298.15 | (Bi); _(Bi): Bi 1, Si 0_ | unspecified | [1] Olesinski 1985 | Table 3, p. 3, row 2 |  |
 
 ## Sources
 

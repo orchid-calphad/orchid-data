@@ -20,7 +20,7 @@ Table: Phases of the Al–Hf system (12)
 | [AL3HF4](#phase-al-hf-al3hf4); _phase:al-hf:al3hf4_ | Al3Zr4 · hP7 · P6/mmm (191) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1673.17 K, x(Hf) 0.57143–0.57143 | 2 | 1 |
 | [ALHF_B33](#phase-al-hf-alhf-b33); _phase:al-hf:alhf-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2033.63 K, x(Hf) 0.5–0.5 | 8 | 1 |
 | [ALHF2_C16](#phase-al-hf-alhf2-c16); _phase:al-hf:alhf2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1473.27 K, x(Hf) 0.66667–0.66667 | 2 | 1 |
-| [BCC_A2](#phase-al-hf-bcc-a2); _phase:al-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1726.93–3999.75 K, x(Hf) 0.68997–1 | 12 | 1 |
+| [BCC_A2](#phase-al-hf-bcc-a2); _phase:al-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1726.93–3999.75 K, x(Hf) 0.68997–1 | 4 | 1 |
 | [FCC_A1](#phase-al-hf-fcc-a1); _phase:al-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–934.73 K, x(Hf) 0–0.00243 | 2 | 1 |
 | [HCP_A3](#phase-al-hf-hcp-a3); _phase:al-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2031.93 K, x(Hf) 0.72776–1 | 4 | 1 |
 | [LIQUID](#phase-al-hf-liquid); _phase:al-hf:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 933.48–4000 K, x(Hf) 0–1 | 21 | 1 |
@@ -261,11 +261,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:al-hf:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1726.93–3999.75 K, x(Hf) 0.68997–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-hf:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:al-hf:bcc-a2  
-_paper: _paper:10.1361/105497102770331361:HfAl3(β), paper:10.1361/105497102770331361:bcc  
+Names (3): _corpus: _corpus:phase:al-hf:bcc-a2  
+_paper: _paper:10.1361/105497102770331361:bcc  
 _tdb: _tdb:AlHf-02Wan.tdb:BCC_A2  
 
 

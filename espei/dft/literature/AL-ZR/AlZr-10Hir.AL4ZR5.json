@@ -1,0 +1,283 @@
+{
+ "components": [
+  "AL",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "AL4ZR5"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   4.0,
+   5.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "ZR"
+   ],
+   [
+    "AL",
+    "ZR"
+   ],
+   [
+    "AL",
+    "ZR"
+   ],
+   [
+    "AL",
+    "ZR"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -40060.0,
+    -40175.0,
+    -42002.0,
+    -35208.0
+   ]
+  ]
+ ],
+ "reference": "Long 2020, doi:10.1007/s11669-020-00827-z",
+ "bibtex": "long2020_2df2a2",
+ "weight": [
+  0.066516,
+  0.066516,
+  0.066516,
+  0.066516
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlZr-10Hir.tdb (sha256 4806bb3f89606d7f3fa574035392e63b783efe226d8bbafc5f1aa4668d5f802d), phase AL4ZR5. Ids, in value order: ORC-BTVDPU6MOD.4617c9 ORC-BZSWUXUC6A.c13832 ORC-OCFFCVSJRV.626abf ORC-UBMLEPFSK6.257cd3. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlZr-10Hir.tdb",
+   "path": "databases/sgte-binary/AlZr-10Hir.tdb",
+   "sha256": "4806bb3f89606d7f3fa574035392e63b783efe226d8bbafc5f1aa4668d5f802d",
+   "phase": "AL4ZR5"
+  },
+  "registry_phase": "phase:al-zr:al4zr5",
+  "mapping": [
+   {
+    "id": "ORC-BTVDPU6MOD.4617c9",
+    "compound": "Al4Zr5",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-BZSWUXUC6A.c13832",
+    "compound": "Al4Zr5",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-OCFFCVSJRV.626abf",
+    "compound": "Al4Zr5",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-UBMLEPFSK6.257cd3",
+    "compound": "Al4Zr5",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-020-00827-z"
+  ],
+  "dois": [
+   "10.1007/s11669-020-00827-z"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 7517.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-ZR",
+     "n": 205,
+     "sigma_robust_kJ": 7.517,
+     "bias_median_kJ_not_applied": 0.4,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.066516,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -40.06,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-BTVDPU6MOD.4617c9",
+    "compound": "Al4Zr5",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7517.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7517.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 205,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
+    }
+   },
+   {
+    "sigma": 7517.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-ZR",
+     "n": 205,
+     "sigma_robust_kJ": 7.517,
+     "bias_median_kJ_not_applied": 0.4,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.066516,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -40.175,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-BZSWUXUC6A.c13832",
+    "compound": "Al4Zr5",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7517.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7517.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 205,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
+    }
+   },
+   {
+    "sigma": 7517.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-ZR",
+     "n": 205,
+     "sigma_robust_kJ": 7.517,
+     "bias_median_kJ_not_applied": 0.4,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.066516,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -42.002,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-OCFFCVSJRV.626abf",
+    "compound": "Al4Zr5",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7517.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7517.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 205,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
+    }
+   },
+   {
+    "sigma": 7517.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-ZR",
+     "n": 205,
+     "sigma_robust_kJ": 7.517,
+     "bias_median_kJ_not_applied": 0.4,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.066516,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -35.208,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-UBMLEPFSK6.257cd3",
+    "compound": "Al4Zr5",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 7517.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 7517.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 205,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|AL-ZR"
+    }
+   }
+  ]
+ }
+}

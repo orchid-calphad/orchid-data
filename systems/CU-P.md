@@ -1,10 +1,10 @@
 # Cu–P system
 
-> Cu–P system: 10 accepted literature values (phase equilibrium 6, phase transition 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–P system: 11 accepted literature values (phase equilibrium 6, phase transition 4, invariant reaction 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-P.html · Markdown: https://data.orchid-project.org/systems/CU-P.md
 
-10 accepted literature values from 1 paper(s) (experimental 10); 5 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 10, model 1); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-P.json) · [CSV](https://data.orchid-project.org/systems/CU-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-P/CuP-01Mie.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-P.html) · [Markdown](https://data.orchid-project.org/systems/CU-P.md)
 
@@ -13,11 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 1 |
 | phase transition | 4 |
 | phase equilibrium | 6 |
 
@@ -74,6 +76,14 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CuP-87Cha.tdb | 704.7 | LIQUID (x(P) 0.86282) + RED_P (x(P) 1) + GAS (x(P) 1) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-P.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-P.json) · [CALPHAD hull CuP-01Mie](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-P--CuP-01Mie.json) · [CALPHAD hull CuP-09Nod](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-P--CuP-09Nod.json) · [CALPHAD hull CuP-11Hin](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-P--CuP-11Hin.json) · [CALPHAD hull CuP-87Cha](https://data.orchid-project.org/hulls/calphad-sgte/CU/CU-P--CuP-87Cha.json)
+
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Cu–P system (1)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 863.95 | Liq. + CuP2 -> Cu2P7 | Liq.: P 0.9996; Liquid: P 0.9996 | model | [1] Oikawa 2024 | Table 3, p. 8, row 19 |  |
 
 ## Other properties
 

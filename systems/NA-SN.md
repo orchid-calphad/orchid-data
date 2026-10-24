@@ -1,10 +1,10 @@
 # Na–Sn system
 
-> Na–Sn system: 43 accepted literature values (invariant reaction 40, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sn system: 52 accepted literature values (invariant reaction 40, formation 9, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SN.html · Markdown: https://data.orchid-project.org/systems/NA-SN.md
 
-43 accepted literature values from 1 paper(s) (experimental 26, model 17); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+52 accepted literature values from 1 paper(s) (experimental 26, model 17, DFT 9); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SN.json) · [CSV](https://data.orchid-project.org/systems/NA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SN/NaSn-17Dre.json) · [phases (16)](https://data.orchid-project.org/phases/pages/NA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SN.html) · [Markdown](https://data.orchid-project.org/systems/NA-SN.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 26 |
 | model | 17 |
+| DFT | 9 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 40 |
 | phase transition | 3 |
+| formation | 9 |
 
 ## Calculated phase diagrams
 
@@ -99,6 +101,24 @@ Table: Invariant reactions reported in the literature for the Na–Sn system (40
 | 370 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Mathewson 1905_ [doi](https://doi.org/10.1002/zaac.19050460107) | Table 8, p. 12, row 1 |  |
 | 370 | L -> (βNa) + Na15Sn4 | L: Sn 0.001; Na15Sn4: Sn 0.2105 | model | [1] Dreval 2017 | Table 8, p. 12, row 5 |  |
 | 370 | L -> (βNa) + Na15Sn4 | Na15Sn4: Sn 0.2 | experimental | [1] Dreval 2017; _cites Hume-Rothery 1928_ [doi](https://doi.org/10.1039/jr9280000947) | Table 8, p. 12, row 2 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Na–Sn system (9)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Na5Sn13 |  | -2.025 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 27 |  |
+| Na5Sn13 |  | -1.843 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 28 |  |
+| Na7Sn12 |  | -3.421 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 30 |  |
+| Na7Sn12 |  | -3.335 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 31 |  |
+| Na9Sn4 |  | -2.51 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 23 |  |
+| Na9Sn4 |  | -1.774 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 24 |  |
+| NaSn5 |  | -0.36 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 29 |  |
+| βNaSn |  | -0.452 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 25 |  |
+| βNaSn |  | -0.445 eV | 0 | DFT |  |  | [1] Dreval 2017 | Table 3, p. 7, row 26 |  |
 
 ## Other properties
 

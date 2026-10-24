@@ -1,10 +1,10 @@
 # Hg–Te system
 
-> Hg–Te system: 32 accepted literature values (phase equilibrium 11, formation 8, invariant reaction 8, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Te system: 36 accepted literature values (phase equilibrium 11, formation 10, invariant reaction 8, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-TE.html · Markdown: https://data.orchid-project.org/systems/HG-TE.md
 
-32 accepted literature values from 2 paper(s) (experimental 21, model 8, unspecified 3); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 2 paper(s) (experimental 21, model 10, unspecified 5); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-TE.json) · [CSV](https://data.orchid-project.org/systems/HG-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-TE/HgTe-10Gie.json) · [phases (7)](https://data.orchid-project.org/phases/pages/HG-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-TE.html) · [Markdown](https://data.orchid-project.org/systems/HG-TE.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 21 |
-| model | 8 |
-| unspecified | 3 |
+| model | 10 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 | invariant reaction | 8 |
 | phase transition | 5 |
 | phase equilibrium | 11 |
-| formation | 8 |
+| formation | 10 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -66,14 +67,16 @@ Table: Invariant reactions reported in the literature for the Hg–Te system (8)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hg–Te system (8)
+Table: Enthalpies of formation, Hg–Te system (10)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | HgTe |  | -44.02 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
+| HgTe |  | -44.002 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 | HgTe |  | -43.802 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
 | HgTe |  | -43.69 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
 | HgTe |  | -43.648 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
+| HgTe |  | -43.538 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
 | HgTe |  | -41.2 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
 | HgTe |  | -36.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Nasar 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990316-c) | Table 4, p. 4, row 5 |  |
 | HgTe |  | -33.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Gierlotka 2010; _cites Ratajczak 1969_ | Table 4, p. 4, row 1 |  |
@@ -110,6 +113,15 @@ Table: Phase equilibrium, Hg–Te system
 | Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 34_ | Table 1B, p. 4, row 2 |  |
 | Phase composition |  | 943.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 31_ | Table 1B, p. 4, row 1 |  |
 | Phase composition |  | 958.15 | other: Melting Point of HgTe; _liquid: Te 0.5_ | experimental | [2] Jianrong 1995; _cites ref. 42_ | Table 1B, p. 4, row 10 |  |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Hg–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of mixing; _printed: S°298(HgTe)_ | 103.83 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
+| Entropy of mixing; _printed: S°298(HgTe)_ | 104.6 J/mol (basis unstated)/K | 298.15 | HgTe; _alloy: Hg 0.5, Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 
 ## Sources
 

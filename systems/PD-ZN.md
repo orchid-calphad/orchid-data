@@ -1,10 +1,10 @@
 # Pd–Zn system
 
-> Pd–Zn system: 70 accepted literature values (crystal structure 29, invariant reaction 11, phase transition 10, other property 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Zn system: 52 accepted literature values (crystal structure 17, invariant reaction 11, phase transition 10, formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-ZN.html · Markdown: https://data.orchid-project.org/systems/PD-ZN.md
 
-70 accepted literature values from 2 paper(s) (experimental 38, model 6, DFT 26); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+52 accepted literature values from 2 paper(s) (experimental 31, model 6, DFT 15); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-ZN.json) · [CSV](https://data.orchid-project.org/systems/PD-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-ZN/PdZn-06Viz.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PD-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PD-ZN.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
+| experimental | 31 |
 | model | 6 |
-| DFT | 26 |
+| DFT | 15 |
 
 Table: Accepted values by property group
 
@@ -24,8 +24,8 @@ Table: Accepted values by property group
 | phase transition | 10 |
 | phase equilibrium | 4 |
 | formation | 8 |
-| crystal structure | 29 |
-| other property | 8 |
+| crystal structure | 17 |
+| other property | 2 |
 
 ## Calculated phase diagrams
 
@@ -136,56 +136,38 @@ Table: Phase equilibrium, Pd–Zn system
 | Phase composition |  | 673.15 | γ + η; _γ: Pd 0.196, Zn 0.804; η: Pd 0.122, Zn 0.878_ | experimental | [2] Vizdal 2006 | Table 1, p. 3, row 4 |  |
 | Phase composition |  | 673.15 | η + HCP_Zn; _η: Pd 0.085, Zn 0.915; HCP_Zn: Pd 0.009, Zn 0.991_ | experimental | [2] Vizdal 2006 | Table 1, p. 3, row 2 |  |
 
-### Crystal structure (29)
+### Crystal structure (17)
 
 Table: Crystal structure, Pd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.8902 Å | 0 | Pd; _alloy: Zn 0_ | experimental | [1] Gong 2022; _cites ref. 50_ | Table 3, p. 29, row 2 |  |
-| Lattice a | 3.9309 Å | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 1 |  |
 | Lattice a | 5.3975 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| Lattice a | 5.35 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
+| Lattice a | 5.35 Å |  | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
 | Lattice a | 7.4235 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| Lattice a | 7.363 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
-| Lattice a | 2.6594 Å | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| Lattice a | 2.6426 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 3 |  |
+| Lattice a | 7.363 Å |  | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
 | Lattice a | 9.1024 Å | 0 | γ phase | DFT | [1] Gong 2022 | Table 3, p. 29, row 9 |  |
-| Lattice a | 9.1022 Å | 0 | γ phase | experimental | [1] Gong 2022; _cites ref. 8_ | Table 3, p. 29, row 10 |  |
-| Lattice a | 9.0906 Å | 0 | γ phase | experimental | [1] Gong 2022; _cites ref. 42_ | Table 3, p. 29, row 11 |  |
+| Lattice a | 9.1022 Å |  | γ phase | experimental | [1] Gong 2022; _cites ref. 8_ | Table 3, p. 29, row 10 |  |
+| Lattice a | 9.0906 Å |  | γ phase | experimental | [1] Gong 2022; _cites ref. 42_ | Table 3, p. 29, row 11 |  |
 | Lattice b | 4.1917 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| Lattice b | 4.14 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
+| Lattice b | 4.14 Å |  | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
 | Lattice b | 7.5773 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| Lattice b | 7.525 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
+| Lattice b | 7.525 Å |  | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
 | Lattice c | 7.8343 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 5 |  |
-| Lattice c | 7.65 Å | 0 | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
+| Lattice c | 7.65 Å |  | Pd2Zn; _alloy: Zn 0.333333_ | experimental | [1] Gong 2022; _cites ref. 40_ | Table 3, p. 29, row 6 |  |
 | Lattice c | 12.3196 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 7 |  |
-| Lattice c | 12.307 Å | 0 | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
-| Lattice c | 4.9328 Å | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 51_ | Table 3, p. 29, row 4 |  |
-| Lattice c | 5.0268 Å | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 3, p. 29, row 3 |  |
-| volume; _printed: V0_ | 15.3 Å3/atom | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 1 |  |
-| volume; _printed: V0_ | 14.716 Å3/atom | 0 | Pd; _alloy: Zn 0_ | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3 |  |
-| volume; _printed: V0_ | 15.34 Å3/atom | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2 |  |
+| Lattice c | 12.307 Å |  | PdZn2; _alloy: Zn 0.666667_ | experimental | [1] Gong 2022; _cites ref. 46_ | Table 3, p. 29, row 8 |  |
 | volume; _printed: V0_ | 14.824 Å3/atom | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 7 |  |
 | volume; _printed: V0_ | 14.576 Å3/atom | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 8 |  |
-| volume; _printed: V0_ | 15.185 Å3/atom | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6 |  |
-| volume; _printed: V0_ | 15.491 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5 |  |
-| volume; _printed: V0_ | 15.336 Å3/atom | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 4 |  |
 
-### Other property (8)
+### Other property (2)
 
 Table: Other property, Pd–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| bulk modulus; _printed: B_ | 167.9 GPa | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 1 |  |
-| bulk modulus; _printed: B_ | 195.5 GPa | 0 | Pd; _alloy: Zn 0_ | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 3 |  |
-| bulk modulus; _printed: B_ | 163.3 GPa | 0 | Pd; _alloy: Zn 0_ | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 2 |  |
 | bulk modulus; _printed: B_ | 146 GPa | 0 | Pd2Zn; _alloy: Zn 0.333333_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 7 |  |
 | bulk modulus; _printed: B_ | 118.1 GPa | 0 | PdZn2; _alloy: Zn 0.666667_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 8 |  |
-| bulk modulus; _printed: B_ | 73.2 GPa | 0 | Zn; _alloy: Zn 1_ | experimental | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 6 |  |
-| bulk modulus; _printed: B_ | 58.6 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022; _cites ref. 43_ | Table 4, p. 30, row 5 |  |
-| bulk modulus; _printed: B_ | 57.5 GPa | 0 | Zn; _alloy: Zn 1_ | DFT | [1] Gong 2022 | Table 4, p. 30, row 4 |  |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Cr–Ni system
 
-> Cr–Ni system: 18 accepted literature values (phase transition 12, invariant reaction 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ni system: 45 accepted literature values (formation 14, phase transition 12, mixing / partial 10, invariant reaction 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-NI.html · Markdown: https://data.orchid-project.org/systems/CR-NI.md
 
-18 accepted literature values from 2 paper(s) (experimental 9, model 9); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+45 accepted literature values from 4 paper(s) (experimental 9, model 18, DFT 18); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-NI.json) · [CSV](https://data.orchid-project.org/systems/CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-NI/CrNi-06Hal.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-NI.html) · [Markdown](https://data.orchid-project.org/systems/CR-NI.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 9 |
+| model | 18 |
+| DFT | 18 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 12 |
+| formation | 14 |
+| mixing / partial | 10 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -78,6 +82,23 @@ Table: Invariant reactions reported in the literature for the Cr–Ni system (6)
 | 1263 | γ + β -> γ' + α |  | experimental | [2] Dupin 2001; _cites ref. 82Tu_ | Table 2, p. 10, row 8 |  |
 | 611 | peritectic |  | model | [1] Hao 2021 | p. 13 | “The predicted peritectic temperature (611 K) is in accordance with that evaluated by Nash \[156\].” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cr–Ni system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| B2 | [CrNi](https://data.orchid-project.org/compounds/CrNi.html) | 24.262 kJ/mol-atom | 298.15 | model | 24.772 (mp-aaacrtxk) | 24.862 (oqmd-306955) | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
+| B2-β |  | 20.12 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 6, p. 40, row 17 |  |
+| L12-γ’ |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
+| L12-γ’ |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
+| γ' |  | -13.88 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
+| γ' |  | -10.03 kJ/mol-atom | 0 | DFT |  |  | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
+| γ'-L12 | [CrNi3](https://data.orchid-project.org/compounds/CrNi3.html) | -0.719 kJ/mol-atom | 298.15 | model | -0.568 (mp-aaacfjcg) | -0.58 (oqmd-348114) | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
+| γ'-L12 | [Cr3Ni](https://data.orchid-project.org/compounds/Cr3Ni.html) | 14.291 kJ/mol-atom | 298.15 | model | 14.506 (mp-aaacfjny) | 13.921 (oqmd-344860) | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
+
 ## Other properties
 
 ### Phase transition (12)
@@ -99,12 +120,54 @@ Table: Phase transition, Cr–Ni system
 | Phase transition | 2180 K | 2180 | liquid | model | [1] Hao 2021 | p. 16 | “From the calculated lattice stabilities of Cr by the second-generation and third-generation databases, as shown in Fig. 3, it can be observed that the melting point of Cr is changed from 2180 K to 2136 K in this work, based on the reason mentioned in Section 4.1.1.” |
 | Phase transition | 2180 K | 2180 | liquid | experimental | [1] Hao 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “The SGTE database \[9\] accepted the melting point of Cr to be 2180 K, as recommended by Gurvich et al. \[47\].” |
 
+### Formation (6)
+
+Table: Formation, Cr–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS298_ | 5.925 J/mol-atom/K | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
+| Entropy of formation; _printed: ΔfS298_ | 2.291 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
+| Entropy of formation; _printed: ΔfS298_ | -1.52 J/mol-atom/K | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 22.497 kJ/mol-atom | 298.15 | B2; _alloy: Cr 0.5, Ni 0.5_ | model | [3] Liu 2016 | Table 4, p. 38, row 11 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | 13.609 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.75, Ni 0.25_ | model | [3] Liu 2016 | Table 4, p. 38, row 31 |  |
+| Gibbs energy of formation; _printed: ΔfG298_ | -0.266 kJ/mol-atom | 298.15 | γ'-L12; _alloy: Cr 0.25, Ni 0.75_ | model | [3] Liu 2016 | Table 4, p. 38, row 32 |  |
+
+### Mixing / partial (10)
+
+Table: Mixing / partial, Cr–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmix_ | 9.15 kJ/mol-atom | 0 | A2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 10.02 kJ/mol-atom | 0 | A2; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 4.98 kJ/mol-atom | 0 | A2; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 6, p. 40, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | 20.12 kJ/mol-atom | 0 | B2; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 8, p. 42, row 25 |  |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -9.719 kJ/mol-atom |  | fcc; _alloy: Cr 0.5, Ni 0.5_ | DFT | [4] Bracq 2021 | Table 1, p. 4, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -12.69 kJ/mol-atom | 0 | γ; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -5.79 kJ/mol-atom | 0 | γ; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 18 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -9.03 kJ/mol-atom | 0 | γ; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 7, p. 41, row 17 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -10.03 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 22 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -13.88 kJ/mol-atom | 0 | γ’; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 9, p. 43, row 27 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Cr–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Molar volume; _printed: V0_ | 12.175 Å3/atom | 298.15 | B2 CrNi; _alloy: Cr 0.5, Ni 0.5_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 15 |  |
+| Molar volume; _printed: V0_ | 11.44 Å3/atom | 298.15 | γ'-L12 Cr3Ni; _alloy: Cr 0.75, Ni 0.25_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 33 |  |
+| Molar volume; _printed: V0_ | 11.261 Å3/atom | 298.15 | γ'-L12 Ni3Cr; _alloy: Cr 0.25, Ni 0.75_ | DFT | [3] Liu 2016 | Table 2, p. 36, row 34 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Liangyan Hao, Andrei Ruban, Wei Xiong, CALPHAD modeling based on Gibbs energy functions from zero kevin and improved magnetic model: A case study on the Cr–Ni system, Calphad 73, 102268 (2021). [doi:10.1016/j.calphad.2021.102268](https://doi.org/10.1016/j.calphad.2021.102268)
 2. N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001). [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9)
+3. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+4. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

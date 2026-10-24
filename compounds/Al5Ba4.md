@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al5Ba4.html · Markdown: https:/
 
 6 accepted literature formation-enthalpy value(s) (experimental 2, model 3, DFT 1); experimental median -44.47 kJ/mol-atom (n = 2); Materials Project -21.401 kJ/mol-atom (mp-aaaaadxf); OQMD -21.61 kJ/mol-atom (oqmd-2029).
 
-Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) · [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Al5Ba4 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.47 kJ/mol-atom | Al5Ba4 | 298.15 | experimental | Vapor pressure | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 17 |  |
+| -44.47 kJ/mol-atom | Al5Ba4 | 298.15 | experimental | Vapor pressure | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 17 |  |
 | -44.47 kJ/mol-atom | Al5Ba4 | 298.15 | experimental |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 4, p. 6, row 8 |  |
 | -50.94 kJ/mol-atom | Al5Ba4 |  | model |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Azza 2017 | Table 4, p. 6, row 9 |  |
-| -48.16 kJ/mol-atom | Al5Ba4 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
-| -22.928 kJ/mol-atom | Al5Ba4 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
-| -22.927 kJ/mol-atom | Al5Ba4 | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 15 |  |
+| -48.16 kJ/mol-atom | Al5Ba4 |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
+| -22.928 kJ/mol-atom | Al5Ba4 |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
+| -22.927 kJ/mol-atom | Al5Ba4 | 0 | DFT | Ab-initio | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Benhafid 2019 | Table 3, p. 4, row 15 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Al5Ba4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.47 | kJ/mol-atom |  | 0.005 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -44.47 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -50.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.16 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.928 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.927 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -44.47 | kJ/mol-atom |  | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -44.47 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -50.94 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.16 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.928 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.927 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

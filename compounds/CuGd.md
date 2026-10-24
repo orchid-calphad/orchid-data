@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CuGd.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -10.6 kJ/mol-atom (n = 1); Materials Project -20.386 kJ/mol-atom (mp-aaabiyyx); OQMD -22.451 kJ/mol-atom (oqmd-1976400).
 
-Systems: [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html)
+Systems: [Cu–Gd](https://data.orchid-project.org/systems/CU-GD.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CuGd reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10.6 kJ/mol-atom | CuGd | 298.15 | experimental |  | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 21 |  |
-| -26.4 kJ/mol-atom | CuGd | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 20 |  |
+| -10.6 kJ/mol-atom | CuGd | 298.15 | experimental |  | [Cu–Gd](https://data.orchid-project.org/systems/CU-GD.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 21 |  |
+| -26.4 kJ/mol-atom | CuGd | 0 | DFT | ab initio | [Cu–Gd](https://data.orchid-project.org/systems/CU-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 20 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CuGd
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -10.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -26.4 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -10.6 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -26.4 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

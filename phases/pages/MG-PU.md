@@ -12,7 +12,7 @@ Table: Phases of the Mg–Pu system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-mg-pu-a6-tetragonal); _phase:mg-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 730.29–756.52 K, x(Pu) 0.99959–1 | 4 | 1 |
+| [TETRAGONAL_A6](#phase-mg-pu-a6-tetragonal); _phase:mg-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 730.29–756.52 K, x(Pu) 0.99959–1 | 0 | 1 |
 | [BCC_A2](#phase-mg-pu-bcc-a2); _phase:mg-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 755.26–913 K, x(Pu) 0.99965–1 | 4 | 1 |
 | [FCC_A1](#phase-mg-pu-fcc-a1); _phase:mg-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 593.02–755.26 K, x(Pu) 0.99981–1 | 0 | 1 |
 | [HCP_A3](#phase-mg-pu-hcp-a3); _phase:mg-pu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–926 K, x(Pu) 0–0.03635 | 4 | 1 |
@@ -29,11 +29,10 @@ Table: Phases of the Mg–Pu system (11)
 - Id: `phase:mg-pu:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 730.29–756.52 K, x(Pu) 0.99959–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-pu:a6-tetragonal)
 
-Names (3): _corpus: _corpus:phase:mg-pu:a6-tetragonal  
-_paper: _paper:10.1016/j.jnucmat.2009.04.017:δPu  
+Names (2): _corpus: _corpus:phase:mg-pu:a6-tetragonal  
 _tdb: _tdb:MgPu-09Wan.tdb:TETRAGONAL_A6  
 
 
@@ -46,12 +45,10 @@ _tdb: _tdb:MgPu-09Wan.tdb:TETRAGONAL_A6
 45: CONST TETRAGONAL_A6 : MG PU% : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2009.04.017](https://doi.org/10.1016/j.jnucmat.2009.04.017) C.P. Wang, W. Fang, Z.S. Li, X.J. Liu, Thermodynamic modeling of the Mg–Pu and Cu–Pu systems, Journal of Nuclear Materials 392, 525-530 (2009).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0022-3115(89)90474-1](https://doi.org/10.1016/0022-3115%2889%2990474-1) K.M. Axler, E.M. Foltyn, D.E. Peterson, R.I. Sheldon, W.B. Hutchinson, The plutonium-magnesium system, Journal of Nuclear Materials 161, 132-139 (1989).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Mg–Pu)
 

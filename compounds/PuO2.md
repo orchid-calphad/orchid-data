@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/PuO2.html · Markdown: https://data.orchid-project.org/compounds/PuO2.md
 
-6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -352.148 kJ/mol-atom (mp-aaaaacxj); OQMD -328.016 kJ/mol-atom (oqmd-1234115).
+6 accepted literature formation-enthalpy value(s) (model 6); Materials Project -352.148 kJ/mol-atom (mp-aaaaacxj); OQMD -314.622 kJ/mol-atom (oqmd-6102).
 
 Systems: [O–Pu](https://data.orchid-project.org/systems/O-PU.html)
 
@@ -15,11 +15,11 @@ Table: Enthalpy of formation of PuO2 reported in the literature (6)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -353.433 kJ/mol-atom | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 14 |  |
-| -352.667 kJ/mol-atom ± 1.6 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Holley 1958_ | Table 5, p. 12, row 16 |  |
-| -352 kJ/mol-atom ± 4 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 5, p. 12, row 15 |  |
-| -351.933 kJ/mol-atom ± 0.8 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
-| -351.933 kJ/mol-atom ± 1 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
-| -351.9 kJ/mol-atom ± 0.72 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Johnson 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990039-1) | Table 5, p. 12, row 17 |  |
+| -352.667 kJ/mol-atom ± 0.533333 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Holley 1958_ | Table 5, p. 12, row 16 |  |
+| -352 kJ/mol-atom ± 1.33333 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Popov 1957_ [doi](https://doi.org/10.1007/bf01489634) | Table 5, p. 12, row 15 |  |
+| -351.933 kJ/mol-atom ± 0.266667 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Glushko 1982_ | Table 5, p. 12, row 19 |  |
+| -351.933 kJ/mol-atom ± 0.333333 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 20 |  |
+| -351.9 kJ/mol-atom ± 0.24 | PuO2 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Johnson 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990039-1) | Table 5, p. 12, row 17 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of PuO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -353.433 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -352.667 | kJ/mol-atom | 1.6 | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -352 | kJ/mol-atom | 4 | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 4 |
-| -351.933 | kJ/mol-atom | 0.8 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -351.933 | kJ/mol-atom | 1 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -351.9 | kJ/mol-atom | 0.72 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -353.433 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -352.667 | kJ/mol-atom | 0.5333 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -352 | kJ/mol-atom | 1.333 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -351.933 | kJ/mol-atom | 0.2667 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -351.933 | kJ/mol-atom | 0.3333 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -351.9 | kJ/mol-atom | 0.24 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -45,7 +45,7 @@ Table: DFT formation energy of PuO2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaacxj | -352.148 | -3.64976 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1234115 | -328.016 | -3.39966 | P42/mnm | 0.361 | 0.0037 | yes |
+| OQMD | oqmd-6102 | -314.622 | -3.26084 | Fm-3m | 13.3944 | 0.1388 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

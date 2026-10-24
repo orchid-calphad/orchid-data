@@ -1,10 +1,10 @@
 # Au–Ga system
 
-> Au–Ga system: 128 accepted literature values (invariant reaction 109, phase transition 14, activity / EMF / Gibbs energy 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ga system: 131 accepted literature values (invariant reaction 109, phase transition 14, activity / EMF / Gibbs energy 5, crystal structure 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GA.html · Markdown: https://data.orchid-project.org/systems/AU-GA.md
 
-128 accepted literature values from 3 paper(s) (experimental 81, model 47); 3 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+131 accepted literature values from 4 paper(s) (experimental 82, model 49); 3 calculated phase diagram(s). 25 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GA.json) · [CSV](https://data.orchid-project.org/systems/AU-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-GA/AuGa-10Liu.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GA.html) · [Markdown](https://data.orchid-project.org/systems/AU-GA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 81 |
-| model | 47 |
+| experimental | 82 |
+| model | 49 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 109 |
 | phase transition | 14 |
 | activity / EMF / Gibbs energy | 5 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -247,6 +248,16 @@ Table: Activity / EMF / Gibbs energy, Au–Ga system
 | EMF; _printed: A_ | 0.486 V |  | UNKNOWN; _alloy: Au 0, Ga 1_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 1 |  |
 | EMF; _printed: A_ | 0.186 V |  | UNKNOWN; _alloy: Au 0.8, Ga 0.2_ | experimental | [3] Jendrzejczyk-Handzlik 2017 | Table 1, p. 5, row 5 |  |
 
+### Crystal structure (3)
+
+Table: Crystal structure, Au–Ga system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.7258 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.0758 Å | 298.15 | AuGa2; _alloy: Ga 0.666667_ | experimental | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 10 |  |
+| Lattice c | 8.7413 Å |  | Au7Ga2-HT | model | [4] Ghasemi 2014; _cites Cooke 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990044-0) | Table 1, p. 2, row 6 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -254,6 +265,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. J. Wang, Y.J. Liu, L.B. Liu, H.Y. Zhou, Z.P. Jin, Thermodynamic assessment of the Au–Ga binary system, Calphad 35, 242-248 (2011). [doi:10.1016/j.calphad.2010.10.009](https://doi.org/10.1016/j.calphad.2010.10.009)
 2. Jinming Liu, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic assessment of the Au–Ga system, Journal of Alloys and Compounds 508, 62-70 (2010). [doi:10.1016/j.jallcom.2010.08.044](https://doi.org/10.1016/j.jallcom.2010.08.044)
 3. Dominika Jendrzejczyk-Handzlik, Thermodynamic Study and Re-optimization of the Au-Ga Binary System, J. Phase Equilib. Diffus. 38, 305-318 (2017). [doi:10.1007/s11669-017-0543-x](https://doi.org/10.1007/s11669-017-0543-x)
+4. M. Ghasemi, B. Sundman, S.G. Fries, J. Johansson, The thermodynamic assessment of the Au–In–Ga system, Journal of Alloys and Compounds 600, 178-185 (2014). [doi:10.1016/j.jallcom.2014.02.071](https://doi.org/10.1016/j.jallcom.2014.02.071)
 
 ## Please cite
 

@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Au2Ce.html · Markdown: https://data.orchid-project.org/compounds/Au2Ce.md
 
-10 accepted literature formation-enthalpy value(s) (experimental 5, model 4, DFT 1); experimental median -70.6 kJ/mol-atom (n = 5); Materials Project -65.398 kJ/mol-atom (mp-aaacjhwc); OQMD -73.098 kJ/mol-atom (oqmd-2025792).
+10 accepted literature formation-enthalpy value(s) (experimental 5, model 3, DFT 2); experimental median -70.6 kJ/mol-atom (n = 5); Materials Project -65.398 kJ/mol-atom (mp-aaacjhwc); OQMD -73.098 kJ/mol-atom (oqmd-2025792).
 
-Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) · [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html)
+Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html)
 
 ## Literature values
 
@@ -17,13 +17,13 @@ Table: Enthalpy of formation of Au2Ce reported in the literature (10)
 | -73 kJ/mol-atom | CeAu2 | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 16 |  |
 | -71.5 kJ/mol-atom ± 2 | CeAu2 | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 15 |  |
 | -70.6 kJ/mol-atom ± 2 | CeAu2 | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 19 |  |
-| -57.5 kJ/mol-atom ± 4.7 | Au2Ce | 298.15 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 11 |  |
+| -57.5 kJ/mol-atom ± 4.7 | Au2Ce | 298.15 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 11 |  |
 | -57.5 kJ/mol-atom ± 4.7 | CeAu2 | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 17 |  |
-| -71.46 kJ/mol-atom | Au2Ce | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 10 |  |
-| -70 kJ/mol-atom | Au2Ce | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 12 |  |
+| -70 kJ/mol-atom | Au2Ce | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 12 |  |
 | -70 kJ/mol-atom | CeAu2 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 20 |  |
 | -66 kJ/mol-atom | CeAu2 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 21 |  |
 | -71.46 kJ/mol-atom | CeAu2 | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 18 |  |
+| -71.46 kJ/mol-atom | Au2Ce | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 10 |  |
 
 ### Uncertainty budget
 
@@ -38,11 +38,11 @@ Table: Uncertainty budget of the literature values of Au2Ce
 | -70.6 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
 | -57.5 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.7 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -70 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -70 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.46 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -70 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -70 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -71.46 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

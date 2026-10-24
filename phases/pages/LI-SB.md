@@ -13,7 +13,7 @@ Table: Phases of the Li–Sb system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-li-sb-a7-rhombohedral); _phase:li-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 7 | 2 |
-| [BCC_A2](#phase-li-sb-bcc-a2); _phase:li-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–453.6 K, x(Sb) 0–0 | 9 | 2 |
+| [BCC_A2](#phase-li-sb-bcc-a2); _phase:li-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–453.6 K, x(Sb) 0–0 | 4 | 2 |
 | [FCC_A1](#phase-li-sb-fcc-a1); _phase:li-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-li-sb-hcp-a3); _phase:li-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LI2SB](#phase-li-sb-li2sb); _phase:li-sb:li2sb_ | GaMg2 · hP18 · P-62c (190) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–864.15 K, x(Sb) 0.33333–0.33333 | 26 | 2 |
@@ -63,11 +63,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:li-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–453.6 K, x(Sb) 0–0
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sb:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:li-sb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2017.01.005:(Li), paper:10.1016/j.calphad.2017.01.005:βLi3Sb, paper:10.1016/j.jallcom.2016.12.399:(Li)  
+Names (5): _corpus: _corpus:phase:li-sb:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2017.01.005:(Li), paper:10.1016/j.jallcom.2016.12.399:(Li)  
 _tdb: _tdb:LiSb-17Li.tdb:BCC_A2, tdb:LiSb-17Zha.tdb:BCC_A2  
 
 

@@ -15,7 +15,7 @@ Table: Phases of the Fe–Si system (12)
 | [DIAMOND_A4](#phase-fe-si-a4-diamond); _phase:fe-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.97 K, x(Si) 1–1 | 4 | 5 |
 | [MSI_B20](#phase-fe-si-b20-msi); _phase:fe-si:b20-msi_ | FeSi · B20 · cP8 · P2_13 (198) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1683.86 K, x(Si) 0.48824–0.5122 | 12 | 5 |
 | [BCC_4SL](#phase-fe-si-bcc-4sl); _phase:fe-si:bcc-4sl_ |  | needs_review | no calculated diagram | 0 | 2 |
-| [A2_BCC](#phase-fe-si-bcc-a2); _phase:fe-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 6 calculated diagram(s): 300–1800 K, x(Si) 0–0.19 | 4 | 10 |
+| [BCC_A2](#phase-fe-si-bcc-a2); _phase:fe-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1800 K, x(Si) 0–0.19 | 4 | 10 |
 | [B2_BCC](#phase-fe-si-bcc-b2); _phase:fe-si:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1823.25 K, x(Si) 0–0.31807 | 6 | 5 |
 | [M5SI3_D88](#phase-fe-si-d88-m5si3); _phase:fe-si:d88-m5si3_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 1070–1364.45 K, x(Si) 0.375–0.375 | 3 | 5 |
 | [FCC_A1](#phase-fe-si-fcc-a1); _phase:fe-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1179.97–1696.48 K, x(Si) 0–0.03391 | 0 | 5 |
@@ -196,11 +196,11 @@ _assessment that models this phase_
 - [doi:10.2355/isijinternational.52.540](https://doi.org/10.2355/isijinternational.52.540) Ikuo Ohnuma, Shinya Abe, Shota Shimenouchi, Toshihiro Omori, Ryosuke Kainuma, Kiyohito Ishida, Experimental and Thermodynamic Studies of the Fe–Si Binary System, ISIJ Int. 52, 540-548 (2012).  
 _assessment that models this phase_
 
-## A2_BCC (Fe–Si)
+## BCC_A2 (Fe–Si)
 
 - Id: `phase:fe-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 6 calculated diagram(s): 300–1800 K, x(Si) 0–0.19
+- Stability: stable in 3 of 3 calculated diagram(s): 300–1800 K, x(Si) 0–0.19
 - Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-si:bcc-a2)
 
@@ -209,7 +209,7 @@ _paper: _paper:10.1016/j.calphad.2013.07.007:BCC_B2, paper:10.2355/isijinternati
 _tdb: _tdb:FeSi-12Ohn.tdb:A2_BCC, tdb:FeSi-12Ohn.tdb:BCC_A2, tdb:FeSi-14Yua.tdb:A2_BCC, tdb:FeSi-14Yua.tdb:BCC_A2, tdb:FeSi-17Cui.tdb:A2_BCC, tdb:FeSi-17Cui.tdb:BCC_A2, tdb:FeSi-23Wit.tdb:A2_BCC, tdb:FeSi-23Wit.tdb:BCC_A2, tdb:FeSi-91Lac-LB.tdb:A2_BCC, tdb:FeSi-91Lac-LB.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (10): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (10): PHASE and CONSTITUENT statements as written
 
 [FeSi-12Ohn.tdb](https://orchid-project.org/data/databases/sgte-binary/FeSi-12Ohn.tdb): A2_BCC, type code %B, sha256 `e67d734746ab4b1c…`
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GaPd3.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, model 1); experimental median -59 kJ/mol-atom (n = 1); Materials Project -43.858 kJ/mol-atom (mp-aaacpjxe); OQMD -47.778 kJ/mol-atom (oqmd-1338998).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of GaPd3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59 kJ/mol-atom | Pd3Ga(b) | 1000 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
-| -50.3 kJ/mol-atom | Pd3Ga(b) | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
+| -59 kJ/mol-atom | Pd3Ga(b) | 1000 | experimental |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
+| -50.3 kJ/mol-atom | Pd3Ga(b) | 298.15 | model |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of GaPd3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -50.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -59 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -50.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of GaPd3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacpjxe | -43.858 | -0.454556 | P6_3/mmc | 3.885 | 0.0403 | yes |
-| OQMD | oqmd-1338998 | -47.778 | -0.495188 | I41/acd | 0.666 | 0.0069 | yes |
+| Materials Project | mp-aaacpjxe | -43.858 | -0.454556 | P6_3/mmc | 3.8851 | 0.0403 | yes |
+| OQMD | oqmd-1338998 | -47.778 | -0.495188 | I41/acd | 0.6656 | 0.0069 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

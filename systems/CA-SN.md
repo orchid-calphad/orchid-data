@@ -1,10 +1,10 @@
 # Ca–Sn system
 
-> Ca–Sn system: 50 accepted literature values (formation 34, heat capacity / entropy / enthalpy 12, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sn system: 53 accepted literature values (formation 34, crystal structure 17, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SN.html · Markdown: https://data.orchid-project.org/systems/CA-SN.md
 
-50 accepted literature values from 1 paper(s) (experimental 13, model 24, DFT 13); 2 calculated phase diagram(s).
+53 accepted literature values from 2 paper(s) (experimental 7, model 22, DFT 7, unspecified 17); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SN.json) · [CSV](https://data.orchid-project.org/systems/CA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SN/CaSn-05Car.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SN.html) · [Markdown](https://data.orchid-project.org/systems/CA-SN.md)
 
@@ -12,17 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 24 |
-| DFT | 13 |
+| experimental | 7 |
+| model | 22 |
+| DFT | 7 |
+| unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
+| phase transition | 2 |
 | formation | 34 |
-| heat capacity / entropy / enthalpy | 12 |
+| crystal structure | 17 |
 
 ## Calculated phase diagrams
 
@@ -106,41 +107,45 @@ Table: Enthalpies of formation, Ca–Sn system (34)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (2)
 
 Table: Phase transition, Ca–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 285 K | 285 | b-Sn | model | [1] OHNO 2006 | p. 5 | “By lowering the free energy of b-Sn by just a few kJ/mol it is shown that now the transition temperature calculated from first-principles is about 285 K, much closer to the experimental value (286 K) and without any adjustments to the calculated finite temperature thermodynamic properties.” |
-| Phase transition | 286 K | 286 | a-Sn -> b-Sn | model | [1] OHNO 2006; _cites Dinsdale 1991_ | p. 5 | “In the case of Sn, both a-Sn and b-Sn are dynamically stable at low temperatures and it is possible to use the present methods to try to estimate the a ! b transition, which occurs at 286 K \[41\].” |
 | Phase transition | 583 K | 583 |  | model | [1] OHNO 2006 | p. 5 | “Without the correction, the calculated transition temperature is about 583 K.” |
 | Phase transition | 1613 K | 1613 | Ca2Sn + liquid | experimental | [1] OHNO 2006; _cites Palenzona 2000_ | p. 2 | “The Ca2Sn phase melts at the highest temperature, about 1613 K, which is much higher than the melting temperatures of the pure elements.” |
 
-### Heat capacity / entropy / enthalpy (12)
+### Crystal structure (17)
 
-Table: Heat capacity / entropy / enthalpy, Ca–Sn system
+Table: Crystal structure, Ca–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S,298_ | 43.38 J/mol (basis unstated)/K | 0 | α-Ca; _alloy: Sn 0_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 1 |  |
-| Entropy; _printed: S,298_ | 46.34 J/mol (basis unstated)/K | 0 | α-Sn; _alloy: Sn 1_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 5 |  |
-| Entropy; _printed: S,298_ | 53.66 J/mol (basis unstated)/K | 0 | β-Sn; _alloy: Sn 1_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 3 |  |
-| Entropy; _printed: S,298_ | 41.42 J/mol (basis unstated)/K | 298.15 | α-Ca; _alloy: Sn 0_ | experimental | [1] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2 |  |
-| Entropy; _printed: S,298_ | 44.26 J/mol (basis unstated)/K | 298.15 | α-Sn; _alloy: Sn 1_ | experimental | [1] OHNO 2006; _cites Ravelo 1997_ | Table 2, p. 4, row 6 |  |
-| Entropy; _printed: S,298_ | 51.2 J/mol (basis unstated)/K | 298.15 | β-Sn; _alloy: Sn 1_ | experimental | [1] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 4 |  |
-| Heat capacity; _printed: CP298_ | 25.98 J/mol (basis unstated)/K | 0 | α-Ca; _alloy: Sn 0_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 1 |  |
-| Heat capacity; _printed: CP298_ | 24.65 J/mol (basis unstated)/K | 0 | α-Sn; _alloy: Sn 1_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 5 |  |
-| Heat capacity; _printed: CP298_ | 26.22 J/mol (basis unstated)/K | 0 | β-Sn; _alloy: Sn 1_ | DFT | [1] OHNO 2006 | Table 2, p. 4, row 3 |  |
-| Heat capacity; _printed: CP298_ | 25.31 J/mol (basis unstated)/K | 298.15 | α-Ca; _alloy: Sn 0_ | experimental | [1] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 2 |  |
-| Heat capacity; _printed: CP298_ | 25.79 J/mol (basis unstated)/K | 298.15 | α-Sn; _alloy: Sn 1_ | experimental | [1] OHNO 2006; _cites Ravelo 1997_ | Table 2, p. 4, row 6 |  |
-| Heat capacity; _printed: CP298_ | 26.99 J/mol (basis unstated)/K | 298.15 | β-Sn; _alloy: Sn 1_ | experimental | [1] OHNO 2006; _cites Dederichs 1981_ | Table 2, p. 4, row 4 |  |
+| Lattice a | 4.741 not_printed ± 0.002 | 630 (\<) | CaSn3; _alloy: Sn 0.75_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 8 |  |
+| Lattice a | 7.867 not_printed ± 0.001 | 1000 (\<) | Ca7Sn6; _alloy: Sn 0.461538_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice a | 4.813 not_printed ± 0.002 | 1010 (\<) | CaSn; _alloy: Sn 0.5_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice a | 12.521 not_printed ± 0.002 | 1130 (\<) | Ca31Sn20; _alloy: Sn 0.392157_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 11 |  |
+| Lattice a | 12.499 not_printed ± 0.001 | 1130 (\<) | Ca36Sn23; _alloy: Sn 0.389831_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 12 |  |
+| Lattice a | 7.992 not_printed ± 0.003 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice a | 7.981 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice b | 23.818 not_printed ± 0.002 | 1000 (\<) | Ca7Sn6; _alloy: Sn 0.461538_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice b | 11.544 not_printed ± 0.002 | 1010 (\<) | CaSn; _alloy: Sn 0.5_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice b | 5.043 not_printed ± 0.001 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice b | 5.037 not_printed ± 0.003 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice c | 8.465 not_printed ± 0.001 | 1000 (\<) | Ca7Sn6; _alloy: Sn 0.461538_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 10 |  |
+| Lattice c | 4.351 not_printed ± 0.001 | 1010 (\<) | CaSn; _alloy: Sn 0.5_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 9 |  |
+| Lattice c | 39.87 not_printed ± 0.02 | 1130 (\<) | Ca31Sn20; _alloy: Sn 0.392157_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 11 |  |
+| Lattice c | 22.883 not_printed ± 0.005 | 1130 (\<) | Ca36Sn23; _alloy: Sn 0.389831_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 12 |  |
+| Lattice c | 9.566 not_printed ± 0.002 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
+| Lattice c | 9.554 not_printed ± 0.005 | 1340 (\<) | Ca2Sn; _alloy: Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 14 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. M OHNO, A KOZLOV, R ARROYAVE, Z LIU, R SCHMIDFETZER, Thermodynamic modeling of the Ca–Sn system based on finite temperature quantities from first-principles and experiment, Acta Materialia 54, 4939-4951 (2006). [doi:10.1016/j.actamat.2006.06.017](https://doi.org/10.1016/j.actamat.2006.06.017)
+2. A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008). [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010)
 
 ## Please cite
 

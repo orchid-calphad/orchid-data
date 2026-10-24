@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/AlCr3.html · Markdown: https://data.orchid-project.org/compounds/AlCr3.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); OQMD -8.687 kJ/mol-atom (oqmd-1280331).
+1 accepted literature formation-enthalpy value(s) (model 1); OQMD 15.904 kJ/mol-atom (oqmd-344563).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AlCr3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.94 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,7 +34,7 @@ Table: DFT formation energy of AlCr3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1280331 | -8.687 | -0.090032 | Pm-3n | 1.22 | 0.0126 | yes |
+| OQMD | oqmd-344563 | 15.904 | 0.164833 | Pm-3m | 25.8109 | 0.2675 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

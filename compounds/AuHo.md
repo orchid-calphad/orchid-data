@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuHo.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 2); experimental median -81.8 kJ/mol-atom (n = 1); Materials Project -86.06 kJ/mol-atom (mp-aaacfiqk); OQMD -86.188 kJ/mol-atom (oqmd-28172).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AuHo reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.8 kJ/mol-atom ± 3.6 | αAuHo | 298.15 | experimental | High temperature direct synthesis calorimetry at 1473 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Fitzner 1997_ [doi](https://doi.org/10.1007/s11661-997-0094-6) | Table 1, p. 2, row 9 |  |
-| -86 kJ/mol-atom | αAuHo | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 10 |  |
-| -67.3 kJ/mol-atom | βAuHo | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 13 |  |
-| -87.5 kJ/mol-atom | αAuHo | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 8 |  |
-| -64.1 kJ/mol-atom | βAuHo | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 12 |  |
+| -81.8 kJ/mol-atom ± 3.6 | αAuHo | 298.15 | experimental | High temperature direct synthesis calorimetry at 1473 ± 2 K | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012; _cites Fitzner 1997_ [doi](https://doi.org/10.1007/s11661-997-0094-6) | Table 1, p. 2, row 9 |  |
+| -86 kJ/mol-atom | αAuHo | 298.15 | model | CALPHAD assessment | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 10 |  |
+| -67.3 kJ/mol-atom | βAuHo | 298.15 | model | CALPHAD assessment | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 13 |  |
+| -87.5 kJ/mol-atom | αAuHo | 0 | DFT | ab initio | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 8 |  |
+| -64.1 kJ/mol-atom | βAuHo | 0 | DFT | ab initio | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 12 |  |
 
 ### Uncertainty budget
 
@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of AuHo
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -81.8 | kJ/mol-atom | 3.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.6 |
-| -86 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -87.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -64.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -86 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -87.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -64.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

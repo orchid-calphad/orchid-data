@@ -314,6 +314,7 @@ _assessment that models this phase_
 - Id: `phase:p-sn:p-red`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token
 - Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P
+- Stoichiometry: P 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–852.48 K, x(P) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-sn:p-red)
@@ -359,6 +360,7 @@ _assessment that models this phase_
 - Id: `phase:p-sn:p-white`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token
 - Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P
+- Stoichiometry: P 1.0000
 - Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-sn:p-white)
@@ -442,7 +444,7 @@ _assessment that models this phase_
 - Id: `phase:p-sn:sn4p3`; status `assigned`
 - Structure: Sn4As3 · hR7 · R-3m (166); type `st:sn4as3-hr7`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_5_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: P 0.4286, Sn 0.5714
 - Stability: stable in 3 of 3 calculated diagram(s): 300–833.06 K, x(P) 0.42857–0.42857
 - Literature: 0 values (0 accepted) from 0 papers

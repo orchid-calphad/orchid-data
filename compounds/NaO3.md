@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NaO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -188 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -188 | kJ/mol (basis unstated) |  | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
 
 ## Sources
 

@@ -16,7 +16,7 @@ Table: Phases of the Cr–Si system (12)
 | [MSI_B20](#phase-cr-si-b20-msi); _phase:cr-si:b20-msi_ | FeSi · B20 · cP8 · P2_13 (198) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1740.66 K, x(Si) 0.5–0.5 | 18 | 7 |
 | [BCC_A2](#phase-cr-si-bcc-a2); _phase:cr-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2183.98 K, x(Si) 0–0.13249 | 8 | 7 |
 | [MSI2_C40](#phase-cr-si-c40-msi2); _phase:cr-si:c40-msi2_ | CrSi2 · C40 · hP9 · P6_222 (180) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1726.59 K, x(Si) 0.66227–0.6787 | 0 | 2 |
-| [CR3SI_A15](#phase-cr-si-cr3si-a15); _phase:cr-si:cr3si-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2066.92 K, x(Si) 0.20616–0.28925 | 27 | 7 |
+| [CR3SI_A15](#phase-cr-si-cr3si-a15); _phase:cr-si:cr3si-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2066.92 K, x(Si) 0.20616–0.28925 | 26 | 7 |
 | [CR5SI3_D8M](#phase-cr-si-cr5si3-d8m); _phase:cr-si:cr5si3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1970.96 K, x(Si) 0.375–0.40311 | 27 | 6 |
 | [CRSI2_C40](#phase-cr-si-crsi2-c40); _phase:cr-si:crsi2-c40_ | CrSi2 · C40 · hP9 · P6_222 (180) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1751.52 K, x(Si) 0.65565–0.6787 | 27 | 5 |
 | [M5SI3_D88](#phase-cr-si-d88-m5si3); _phase:cr-si:d88-m5si3_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 1761.07–1937.13 K, x(Si) 0.36976–0.37485 | 0 | 2 |
@@ -315,7 +315,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrSi-95Lee.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrSi-99Lee.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2066.92 K, x(Si) 0.20616–0.28925
-- Literature: 27 values (27 accepted) from 3 papers
+- Literature: 26 values (26 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-si:cr3si-a15)
 
 Names (11): _corpus: _corpus:phase:cr-si:cr3si-a15  

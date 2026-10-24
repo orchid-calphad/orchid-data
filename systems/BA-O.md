@@ -1,6 +1,6 @@
 # Ba–O system
 
-> Ba–O system: 41 accepted literature values (formation 18, phase transition 10, heat capacity / entropy / enthalpy 8, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–O system: 41 accepted literature values (formation 14, heat capacity / entropy / enthalpy 12, phase transition 10, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-O.html · Markdown: https://data.orchid-project.org/systems/BA-O.md
 
@@ -21,8 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 10 |
-| formation | 18 |
-| heat capacity / entropy / enthalpy | 8 |
+| formation | 14 |
+| heat capacity / entropy / enthalpy | 12 |
 
 ## Calculated phase diagrams
 
@@ -99,18 +99,7 @@ Table: Phase transition, Ba–O system
 | Phase transition | 2290 K | 2290 | liquid | experimental | [1] Zhou 2005; _cites Moissan 1902_ | p. 1 | “For example, Glushko,18 Moissan,19 Foex20 and Schumacher21 measured melting temperatures of 2290, 2273, 2286, and 2197 K, respectively.” |
 | Phase transition | 3249 K | 3249 | congruent melting: Gas -> liquid; _Gas: O 0.539; L: O 0.539_ | model | [1] Zhou 2005 | Table III, p. 6, row 1 |  |
 
-### Formation (4)
-
-Table: Formation, Ba–O system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropy of formation at 298 K_ | 34.99 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | model | [1] Zhou 2005 | Table I, p. 3, row 10 |  |
-| Entropy of formation; _printed: Entropy of formation at 298 K_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Zaitseva 1956_ | Table I, p. 3, row 3 |  |
-| Entropy of formation | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
-| Entropy of formation | 29.18 J/mol (basis unstated)/K | 298.15 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8 |  |
-
-### Heat capacity / entropy / enthalpy (8)
+### Heat capacity / entropy / enthalpy (12)
 
 Table: Heat capacity / entropy / enthalpy, Ba–O system
 
@@ -120,9 +109,13 @@ Table: Heat capacity / entropy / enthalpy, Ba–O system
 | Entropy; _printed: entropy_ | 29.18 J/K/mole of atoms | 298.15 |  | experimental | [1] Zhou 2005; _cites Gavrichev_ | p. 3 | “The heat capacity of the BaO2 phase was measured by Gavrichev et al.35 by means of a calorimeter (see Fig. 2) and was used to calculate its entropy35 as 29.18 J/K/mole of atoms at 298K.” |
 | Entropy; _printed: S298_ | 89.475 J/mol-atom/K | 298.15 | Ba2O2(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
 | Entropy; _printed: S298_ | 71.58 J/mol-atom/K | 298.15 | Ba2O3(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 9 |  |
+| Entropy; _printed: Entropy of formation at 298 K_ | 34.99 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | model | [1] Zhou 2005 | Table I, p. 3, row 10 |  |
+| Entropy; _printed: Entropy of formation at 298 K_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Zaitseva 1956_ | Table I, p. 3, row 3 |  |
+| Entropy; _printed: Entropy of formation_ | 35.01 J/mol (basis unstated)/K | 298.15 | BaO; _alloy: O 0.5_ | experimental | [1] Zhou 2005; _cites Hedvall 1918_ | Table I, p. 3, row 2 |  |
 | Entropy; _printed: S298_ | 117.73 J/mol-atom/K | 298.15 | BaO(G); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 6 |  |
 | Entropy; _printed: S298_ | 47.438 J/mol-atom/K | 298.15 | BaO(L); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 3 |  |
 | Entropy; _printed: S298_ | 36.035 J/mol-atom/K | 298.15 | BaO(S); _alloy: O 0.5_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 1 |  |
+| Entropy; _printed: Entropy of formation_ | 29.18 J/mol (basis unstated)/K | 298.15 | BaO2; _alloy: O 0.666667_ | experimental | [1] Zhou 2005 | Table I, p. 3, row 8 |  |
 | Entropy; _printed: S298_ | 30.9167 J/mol-atom/K | 298.15 | BaO2(S); _alloy: O 0.666667_ | model | [2] Zimmermann 1995 | Table 2, p. 5, row 5 |  |
 
 ## Sources

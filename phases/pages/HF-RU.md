@@ -12,17 +12,17 @@ Table: Phases of the Hf–Ru system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-hf-ru-bcc-a2); _phase:hf-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1583.01–2507.97 K, x(Ru) 0–0.09759 | 0 | 2 |
+| [BCC_A2](#phase-hf-ru-bcc-a2); _phase:hf-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1583.01–2507.97 K, x(Ru) 0–0.09759 | 0 | 2 |
 | [B2_BCC](#phase-hf-ru-bcc-b2); _phase:hf-ru:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2722.49 K, x(Ru) 0–0.52378 | 0 | 1 |
 | [FCC_A1](#phase-hf-ru-fcc-a1); _phase:hf-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-hf-ru-hcp-a3); _phase:hf-ru:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3042.95 K, x(Ru) 0–1 | 0 | 1 |
 | [LIQUID](#phase-hf-ru-liquid); _phase:hf-ru:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1882.97–4000 K, x(Ru) 0–1 | 0 | 1 |
 
-## A2_BCC (Hf–Ru)
+## BCC_A2 (Hf–Ru)
 
 - Id: `phase:hf-ru:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1583.01–2507.97 K, x(Ru) 0–0.09759
+- Stability: stable in 1 of 1 calculated diagram(s): 1583.01–2507.97 K, x(Ru) 0–0.09759
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ru:bcc-a2)
 
@@ -30,7 +30,7 @@ Names (3): _corpus: _corpus:phase:hf-ru:bcc-a2
 _tdb: _tdb:HfRu-21Liu.tdb:A2_BCC, tdb:HfRu-21Liu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [HfRu-21Liu.tdb](https://orchid-project.org/data/databases/sgte-binary/HfRu-21Liu.tdb): A2_BCC, type code %B, sha256 `57aca576778f9191…`
 

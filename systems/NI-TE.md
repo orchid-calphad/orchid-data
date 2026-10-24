@@ -1,20 +1,20 @@
 # Ni–Te system
 
-> Ni–Te system: 51 accepted literature values (crystal structure 28, invariant reaction 16, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Te system: 47 accepted literature values (crystal structure 24, invariant reaction 16, phase transition 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TE.html · Markdown: https://data.orchid-project.org/systems/NI-TE.md
 
-51 accepted literature values from 1 paper(s) (experimental 21, model 22, DFT 6, unspecified 2); 1 calculated phase diagram(s).
+47 accepted literature values from 1 paper(s) (experimental 19, model 22, DFT 4, unspecified 2); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TE.json) · [CSV](https://data.orchid-project.org/systems/NI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TE/NiTe-19Arv.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TE.html) · [Markdown](https://data.orchid-project.org/systems/NI-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TE.json) · [CSV](https://data.orchid-project.org/systems/NI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TE/NiTe-19Arv.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TE.html) · [Markdown](https://data.orchid-project.org/systems/NI-TE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
+| experimental | 19 |
 | model | 22 |
-| DFT | 6 |
+| DFT | 4 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 7 |
-| crystal structure | 28 |
+| crystal structure | 24 |
 
 ## Calculated phase diagrams
 
@@ -89,18 +89,16 @@ Table: Phase transition, Ni–Te system
 | Phase transition | 1294.7 K | 1294.7 | congruent melting: Liq -> β1; _L: Te 0.5; β1: Te 0.5_ | model | [1] Arvhult 2019; _cites Lee 1990_ | Table 7, p. 13, row 2 |  |
 | Phase transition | 1295.17 K | 1295.17 | congruent melting: Liq -> β1; _L: Te 0.3814; β1: Te 0.3814_ | model | [1] Arvhult 2019 | Table 7, p. 13, row 1 |  |
 
-### Crystal structure (28)
+### Crystal structure (24)
 
 Table: Crystal structure, Ni–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.06 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 5 |  |
 | Lattice a | 3.88 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
 | Lattice a | 3.75 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice a | 3.78 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
+| Lattice a | 3.78 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
 | Lattice a | 3.99 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
-| Lattice a | 4.466 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [1] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11 |  |
 | Lattice a | 11.44 Å | 298.15 | UNKNOWN | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 3 |  |
 | Lattice a | 5.71 Å | 298.15 | β1 | experimental | [1] Arvhult 2019; _cites Stevels 1969_ | Table 1, p. 3, row 2 |  |
 | Lattice a | 7.54 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
@@ -111,12 +109,10 @@ Table: Crystal structure, Ni–Te system
 | Lattice b | 3.79 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
 | Lattice b | 3.79 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
 | Lattice b | 3.92 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.39 Å | 0 | UNKNOWN; _alloy: Te 1_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 5 |  |
 | Lattice c | 6.02 Å | 0 | UNKNOWN; _alloy: Te 0.333333_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 1 |  |
 | Lattice c | 6.03 Å | 0 | UNKNOWN; _alloy: Te 0.5_ | DFT | [1] Arvhult 2019 | Table 5, p. 7, row 2 |  |
-| Lattice c | 6.06 Å | 0 | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
+| Lattice c | 6.06 Å |  | UNKNOWN; _alloy: Te 0_ | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 5, p. 7, row 3 |  |
 | Lattice c | 6.09 Å |  | β2 (ht) | unspecified | [1] Arvhult 2019; _cites Kok 1965_ [doi](https://doi.org/10.1002/recl.19650841208) | Table 1, p. 3, row 4 |  |
-| Lattice c | 5.919 Å | 298.15 | Te; _alloy: Te 1_ | experimental | [1] Arvhult 2019; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 3, row 11 |  |
 | Lattice c | 6.09 Å | 298.15 | β2 (hn) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 5 |  |
 | Lattice c | 6.06 Å | 298.15 | β2 (ln) | experimental | [1] Arvhult 2019; _cites Gulay 2004_ | Table 1, p. 3, row 6 |  |
 | Lattice c | 6.88 Å | 298.15 | γ1 | experimental | [1] Arvhult 2019; _cites Gulay 2007_ [doi](https://doi.org/10.1107/s1600536807050568) | Table 1, p. 3, row 9 |  |

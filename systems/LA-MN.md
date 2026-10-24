@@ -1,27 +1,27 @@
 # La–Mn system
 
-> La–Mn system: 48 accepted literature values (invariant reaction 24, phase transition 21, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mn system: 45 accepted literature values (invariant reaction 23, phase transition 19, phase equilibrium 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MN.html · Markdown: https://data.orchid-project.org/systems/LA-MN.md
 
-48 accepted literature values from 2 paper(s) (experimental 35, model 8, unspecified 5); 2 calculated phase diagram(s).
+45 accepted literature values from 2 paper(s) (experimental 34, model 6, unspecified 5); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MN.json) · [CSV](https://data.orchid-project.org/systems/LA-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MN/LaMn-12Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/LA-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MN.html) · [Markdown](https://data.orchid-project.org/systems/LA-MN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MN.json) · [CSV](https://data.orchid-project.org/systems/LA-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MN/LaMn-12Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/LA-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MN.html) · [Markdown](https://data.orchid-project.org/systems/LA-MN.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
-| model | 8 |
+| experimental | 34 |
+| model | 6 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 24 |
-| phase transition | 21 |
+| invariant reaction | 23 |
+| phase transition | 19 |
 | phase equilibrium | 3 |
 
 ## Calculated phase diagrams
@@ -70,13 +70,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Mn system (24)
+Table: Invariant reactions reported in the literature for the La–Mn system (23)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1411.05 | (δMn) ↔ (γMn), Liquid | (δMn): Mn 1; (γMn): Mn 1 | experimental | [1] Wang 2012; _cites This_ | Table 2, p. 4, row 1 |  |
 | 1411 | peritectic: δ-Mn->γ-Mn+L | δ-Mn: Mn 0.999; γ-Mn: Mn 0.999; L: Mn 0.864 | unspecified | [2] Zhu 2016 | Table 3, p. 5, row 2 |  |
-| 1410.95 | (δMn) ↔ (γMn), Liquid | (δMn): Mn 0.999; (γMn): Mn 0.867; Liquid: Mn 0.999 | model | [1] Wang 2012 | Table 2, p. 4, row 2 |  |
 | 1410.9 | peritectic: δ-Mn->γ-Mn+L | δ-Mn: Mn 1; γ-Mn: Mn 1 | experimental | [2] Zhu 2016; _cites Massalski 1986_ | Table 3, p. 5, row 1 |  |
 | 1360.3 | peritectic: γ-Mn->β-Mn+L | γ-Mn: Mn 0.999; β-Mn: Mn 0.999; L: Mn 0.703 | unspecified | [2] Zhu 2016 | Table 3, p. 5, row 4 |  |
 | 1359.95 | (γMn) ↔ (βMn), Liquid | (γMn): Mn 1; (βMn): Mn 1 | experimental | [1] Wang 2012; _cites This_ | Table 2, p. 4, row 3 |  |
@@ -101,14 +100,12 @@ Table: Invariant reactions reported in the literature for the La–Mn system (24
 
 ## Other properties
 
-### Phase transition (21)
+### Phase transition (19)
 
 Table: Phase transition, La–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): Mn 0; (αLa): Mn 0_ | experimental | [1] Wang 2012; _cites This_ | Table 2, p. 4, row 11 |  |
-| Phase transition | 550.05 K | 550.05 | (βLa) ↔ (αLa); _(βLa): Mn 0; (αLa): Mn 0_ | model | [1] Wang 2012 | Table 2, p. 4, row 12 |  |
 | Phase transition | 991.1 K | 991.1 | Mn10La90; _alloy: La 0.9, Mn 0.1_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 2 |  |
 | Phase transition | 991.9 K | 991.9 | Mn5La95; _alloy: La 0.95, Mn 0.05_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 1 |  |
 | Phase transition | 992.4 K | 992.4 | Mn20La80; _alloy: La 0.8, Mn 0.2_ | experimental | [2] Zhu 2016 | Table 1, p. 4, row 4 |  |

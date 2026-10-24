@@ -1,10 +1,10 @@
 # O–Tb system
 
-> O–Tb system: 2 accepted literature values (formation 1, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Tb system: 31 accepted literature values (phase transition 14, heat capacity / entropy / enthalpy 8, other property 5, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TB.html · Markdown: https://data.orchid-project.org/systems/O-TB.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 0 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 13, model 18); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TB.json) · [CSV](https://data.orchid-project.org/systems/O-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TB) · [phases (8)](https://data.orchid-project.org/phases/pages/O-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TB.html) · [Markdown](https://data.orchid-project.org/systems/O-TB.md)
 
@@ -12,15 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
-| model | 1 |
+| experimental | 13 |
+| model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 1 |
+| phase transition | 14 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 3 |
+| other property | 5 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TB.json)
 
@@ -36,13 +39,63 @@ Table: Enthalpies of formation, O–Tb system (1)
 
 ## Other properties
 
-### Phase transition (1)
+### Phase transition (14)
 
 Table: Phase transition, O–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 12 |  |
+| Phase transition | 1773 K | 1773 | polymorphic: C ⟺ B; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 78 |  |
 | Phase transition | 1823 K | 1823 | B | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | p. 17 | “For Tb2O3, the straight line is obtained with the lowest measured transition temperature at normal pressure, 1823 K \[3\], which is selected as a probable value.” |
+| Phase transition | 1823 K | 1823 | polymorphic: C \<=> B; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 4 |  |
+| Phase transition | 1823 K | 1823 | polymorphic: C ⟺ B; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 76 |  |
+| Phase transition | 1873 K | 1873 | polymorphic: C ⟺ B; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Brauer 1965_ | Table 2.1, p. 6, row 84 |  |
+| Phase transition | 2148 K | 2148 | polymorphic: C ⟺ B; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Warshaw 1961_ | Table 2.1, p. 6, row 83 |  |
+| Phase transition | 2433 K | 2433 | polymorphic: B ⟺ H; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 77 |  |
+| Phase transition | 2440 K | 2440 | polymorphic: B \<=> H; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 17 |  |
+| Phase transition | 2448 K | 2448 | polymorphic: B ⟺ H; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 81 |  |
+| Phase transition | 2448 K | 2448 | polymorphic: B ⟺ H; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 79 |  |
+| Phase transition | 2613 K | 2613 | polymorphic: H ⟺ X; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 80 |  |
+| Phase transition | 2643 K | 2643 | polymorphic: H \<=> X; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 31 |  |
+| Phase transition | 2643 K | 2643 | polymorphic: H ⟺ X; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 82 |  |
+
+### Heat capacity / entropy / enthalpy (8)
+
+Table: Heat capacity / entropy / enthalpy, O–Tb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Δtrs°S_ | 5.668 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
+| Entropy; _printed: ΔS_ | 3.925 J mol−1 K−1 |  | Tb2O3; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 15 |  |
+| Entropy; _printed: ΔS_ | 3.925 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 15 |  |
+| Entropy; _printed: °S_ | 156.91 unknown | 298.15 | C-Tb₂O₃; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 17 |  |
+| Entropy; _printed: Δtrs°S_ | 4.211 unknown | 1823 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
+| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2440 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
+| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2643 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
+| Entropy; _printed: Δtrs°S_ | 28.056 unknown | 2683 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, O–Tb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 42.818 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11 |  |
+| lattice molar volume | 42.036 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11 |  |
+| lattice molar volume | 46.473 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tb 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 11 |  |
+
+### Other property (5)
+
+Table: Other property, O–Tb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 13027 unknown |  | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 22 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 7676 unknown | 1823 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 18 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 34126 unknown | 2440 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 19 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12076 unknown | 2643 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 20 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 75273 unknown | 2683 | C-Tb₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 21 |  |
 
 ## Sources
 

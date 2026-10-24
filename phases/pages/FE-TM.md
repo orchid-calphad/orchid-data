@@ -12,14 +12,14 @@ Table: Phases of the Fe–Tm system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-tm-bcc-a2); _phase:fe-tm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1828.72 K, x(Tm) 0–0 | 11 | 2 |
-| [FCC_A1](#phase-fe-tm-fcc-a1); _phase:fe-tm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1184.81–1667.47 K, x(Tm) 0–0 | 10 | 2 |
-| [FE17TM2](#phase-fe-tm-fe17tm2); _phase:fe-tm:fe17tm2_ | CeMg10 · hP44 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1573.32 K, x(Tm) 0.10526–0.10526 | 20 | 2 |
+| [BCC_A2](#phase-fe-tm-bcc-a2); _phase:fe-tm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1828.72 K, x(Tm) 0–0 | 7 | 2 |
+| [FCC_A1](#phase-fe-tm-fcc-a1); _phase:fe-tm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1184.81–1667.47 K, x(Tm) 0–0 | 6 | 2 |
+| [FE17TM2](#phase-fe-tm-fe17tm2); _phase:fe-tm:fe17tm2_ | CeMg10 · hP44 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1573.32 K, x(Tm) 0.10526–0.10526 | 24 | 2 |
 | [FE23TM6_D8A](#phase-fe-tm-fe23tm6-d8a); _phase:fe-tm:fe23tm6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1547.2 K, x(Tm) 0.2069–0.2069 | 8 | 2 |
 | [FE2TM_C15](#phase-fe-tm-fe2tm-c15); _phase:fe-tm:fe2tm-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1575.26 K, x(Tm) 0.33333–0.33333 | 10 | 2 |
-| [FE3TM](#phase-fe-tm-fe3tm); _phase:fe-tm:fe3tm_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1552.52 K, x(Tm) 0.25–0.25 | 16 | 2 |
-| [HCP_A3](#phase-fe-tm-hcp-a3); _phase:fe-tm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.47 K, x(Tm) 0.99552–1 | 6 | 2 |
-| [LIQUID](#phase-fe-tm-liquid); _phase:fe-tm:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1182.58–2500 K, x(Tm) 0–1 | 25 | 2 |
+| [FE3TM](#phase-fe-tm-fe3tm); _phase:fe-tm:fe3tm_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1552.52 K, x(Tm) 0.25–0.25 | 20 | 2 |
+| [HCP_A3](#phase-fe-tm-hcp-a3); _phase:fe-tm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.47 K, x(Tm) 0.99552–1 | 0 | 2 |
+| [LIQUID](#phase-fe-tm-liquid); _phase:fe-tm:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1182.58–2500 K, x(Tm) 0–1 | 23 | 2 |
 
 ## BCC_A2 (Fe–Tm)
 
@@ -27,7 +27,7 @@ Table: Phases of the Fe–Tm system (8)
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Fe 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1828.72 K, x(Tm) 0–0
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:fe-tm:bcc-a2  
@@ -64,7 +64,7 @@ _assessment that models this phase_
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stoichiometry: Fe 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 1184.81–1667.47 K, x(Tm) 0–0
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:fcc-a1)
 
 Names (4): _corpus: _corpus:phase:fe-tm:fcc-a1  
@@ -103,7 +103,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.8947, Tm 0.1053
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1573.32 K, x(Tm) 0.10526–0.10526
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 24 values (24 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:fe17tm2)
 
 Names (5): _corpus: _corpus:phase:fe-tm:fe17tm2  
@@ -127,12 +127,14 @@ _tdb: _tdb:FeTm-14Kar.tdb:FE17TM2, tdb:FeTm-19Xu.tdb:FE17TM2
 49: CONST FE17TM2 : FE : TM : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.01.003](https://doi.org/10.1016/j.calphad.2014.01.003) S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, Thermodynamic evaluations of the iron–lutetium and iron–thulium systems, Calphad 46, 42-54 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101646](https://doi.org/10.1016/j.calphad.2019.101646) L. Xu, J. Wang, S. Li, X.L. Chen, M.H. Rong, G.H. Rao, H.Y. Zhou, Calphad, 66, 101646(2019).  
 _assessment that models this phase_
+- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
+_cited as the source of values for this phase_
 - [doi:10.1021/je7003353](https://doi.org/10.1021/je7003353) D. Gozzi, M. Iervolino, A. Latini, Thermodynamics of Fe-Rich Intermetallics along the Rare Earth Series, J. Chem. Eng. Data 52, 2350-2358 (2007).  
 _cited as the source of values for this phase_
 
@@ -221,7 +223,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Fe 0.7500, Tm 0.2500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1552.52 K, x(Tm) 0.25–0.25
-- Literature: 16 values (16 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:fe3tm)
 
 Names (4): _corpus: _corpus:phase:fe-tm:fe3tm  
@@ -245,23 +247,24 @@ _tdb: _tdb:FeTm-14Kar.tdb:FE3TM, tdb:FeTm-19Xu.tdb:FE3TM
 59: CONST FE3TM : FE : TM : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.01.003](https://doi.org/10.1016/j.calphad.2014.01.003) S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, Thermodynamic evaluations of the iron–lutetium and iron–thulium systems, Calphad 46, 42-54 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101646](https://doi.org/10.1016/j.calphad.2019.101646) L. Xu, J. Wang, S. Li, X.L. Chen, M.H. Rong, G.H. Rao, H.Y. Zhou, Calphad, 66, 101646(2019).  
 _assessment that models this phase_
+- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (Fe–Tm)
 
 - Id: `phase:fe-tm:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.47 K, x(Tm) 0.99552–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:fe-tm:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2014.01.003:(alphaTm), paper:10.1016/j.calphad.2014.01.003:(betaTm), paper:10.1016/j.calphad.2014.01.003:alphaTm  
+Names (3): _corpus: _corpus:phase:fe-tm:hcp-a3  
 _tdb: _tdb:FeTm-14Kar.tdb:HCP_A3, tdb:FeTm-19Xu.tdb:HCP_A3  
 
 
@@ -284,7 +287,7 @@ _tdb: _tdb:FeTm-14Kar.tdb:HCP_A3, tdb:FeTm-19Xu.tdb:HCP_A3
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.01.003](https://doi.org/10.1016/j.calphad.2014.01.003) S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, Thermodynamic evaluations of the iron–lutetium and iron–thulium systems, Calphad 46, 42-54 (2014).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101646](https://doi.org/10.1016/j.calphad.2019.101646) L. Xu, J. Wang, S. Li, X.L. Chen, M.H. Rong, G.H. Rao, H.Y. Zhou, Calphad, 66, 101646(2019).  
 _assessment that models this phase_
 
@@ -293,7 +296,7 @@ _assessment that models this phase_
 - Id: `phase:fe-tm:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1182.58–2500 K, x(Tm) 0–1
-- Literature: 25 values (25 accepted) from 1 papers
+- Literature: 23 values (23 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-tm:liquid)
 
 Names (5): _corpus: _corpus:phase:fe-tm:liquid  

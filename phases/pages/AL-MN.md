@@ -22,14 +22,14 @@ Table: Phases of the Al–Mn system (18)
 | [AL8MN5_D810](#phase-al-mn-al8mn5-d810); _phase:al-mn:al8mn5-d810_ | Al8Cr5 · D8_10 · hR26 · R3m (160) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1433.19 K, x(Mn) 0.32466–0.53846 | 25 | 9 |
 | [AL8MN5_D82](#phase-al-mn-al8mn5-d82); _phase:al-mn:al8mn5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1190–1322.94 K, x(Mn) 0.33805–0.3715 | 0 | 3 |
 | [BCC_4SL](#phase-al-mn-bcc-4sl); _phase:al-mn:bcc-4sl_ |  | needs_review | no calculated diagram | 0 | 3 |
-| [BCC_A2](#phase-al-mn-bcc-a2); _phase:al-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 7 calculated diagram(s): 1119.09–1585.09 K, x(Mn) 0.36474–1 | 39 | 13 |
+| [BCC_A2](#phase-al-mn-bcc-a2); _phase:al-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 1119.09–1585.09 K, x(Mn) 0.36474–1 | 11 | 13 |
 | [B2_BCC](#phase-al-mn-bcc-b2); _phase:al-mn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2329.01 K, x(Mn) 0.45592–1 | 0 | 5 |
-| [CBCC_A12](#phase-al-mn-cbcc-a12); _phase:al-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–985 K, x(Mn) 0.8359–1 | 1 | 9 |
-| [CUB_A13](#phase-al-mn-cub-a13); _phase:al-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1404.99 K, x(Mn) 0.58036–1 | 24 | 9 |
+| [CBCC_A12](#phase-al-mn-cbcc-a12); _phase:al-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–985 K, x(Mn) 0.8359–1 | 0 | 9 |
+| [CUB_A13](#phase-al-mn-cub-a13); _phase:al-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1404.99 K, x(Mn) 0.58036–1 | 19 | 9 |
 | [FCC_4SL](#phase-al-mn-fcc-4sl); _phase:al-mn:fcc-4sl_ |  | needs_review | no calculated diagram | 0 | 3 |
-| [FCC_A1](#phase-al-mn-fcc-a1); _phase:al-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1412.06 K, x(Mn) 0–1 | 23 | 12 |
+| [FCC_A1](#phase-al-mn-fcc-a1); _phase:al-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1412.06 K, x(Mn) 0–1 | 15 | 12 |
 | [HCP_A3](#phase-al-mn-hcp-a3); _phase:al-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 1138.22–1553.68 K, x(Mn) 0.51876–0.72254 | 8 | 9 |
-| [LIQUID](#phase-al-mn-liquid); _phase:al-mn:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 929.08–2500 K, x(Mn) 0–1 | 43 | 9 |
+| [LIQUID](#phase-al-mn-liquid); _phase:al-mn:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 929.08–2500 K, x(Mn) 0–1 | 42 | 9 |
 
 ## AL11MN4_LT (Al–Mn)
 
@@ -750,12 +750,12 @@ _assessment that models this phase_
 
 - Id: `phase:al-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 5 of 7 calculated diagram(s): 1119.09–1585.09 K, x(Mn) 0.36474–1
-- Literature: 39 values (39 accepted) from 3 papers
+- Stability: stable in 5 of 6 calculated diagram(s): 1119.09–1585.09 K, x(Mn) 0.36474–1
+- Literature: 11 values (11 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mn:bcc-a2)
 
-Names (19): _corpus: _corpus:phase:al-mn:bcc-a2  
-_paper: _paper:10.1007/bf02646113:Bcc, paper:10.1007/bf02646113:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497199770335938:γ, paper:10.1361/105497199770335938:δMn  
+Names (18): _corpus: _corpus:phase:al-mn:bcc-a2  
+_paper: _paper:10.1007/bf02646113:Bcc, paper:10.1007/bf02646113:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497199770335938:δMn  
 _tdb: _tdb:AlMn-07Du.tdb:BCC_A2, tdb:AlMn-12Dju.tdb:A2_BCC, tdb:AlMn-12Dju.tdb:BCC_A2, tdb:AlMn-17Cui.tdb:BCC_A2, tdb:AlMn-18Zhe-mod.tdb:A2_BCC, tdb:AlMn-18Zhe-mod.tdb:BCC_A2, tdb:AlMn-18Zhe.tdb:A2_BCC, tdb:AlMn-18Zhe.tdb:BCC_A2, tdb:AlMn-19Mie.tdb:BCC_A2, tdb:AlMn-92Jan.tdb:BCC_A2, tdb:AlMn-98Jan.tdb:BCC_A2, tdb:AlMn-99Liu-LB.tdb:A2_BCC, tdb:AlMn-99Liu-LB.tdb:BCC_A2  
 
 
@@ -852,26 +852,18 @@ _tdb: _tdb:AlMn-07Du.tdb:BCC_A2, tdb:AlMn-12Dju.tdb:A2_BCC, tdb:AlMn-12Dju.tdb:B
 48: CONST BCC_A2 : AL MN% : VA : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1361/105497199770335938](https://doi.org/10.1361/105497199770335938) X. J. Liu, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the Aluminum-Manganese (Al-Mn) binary phase diagram, JPE 20, 45-56 (1999).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02646113](https://doi.org/10.1007/BF02646113) A. Jansson, Metall. Trans. A, 23A, 2953-62(1992).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1361/105497199770335938](https://doi.org/10.1361/105497199770335938) X. J. Liu, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the Aluminum-Manganese (Al-Mn) binary phase diagram, JPE 20, 45-56 (1999).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.01.291](https://doi.org/10.1016/j.jallcom.2018.01.291) Weisen Zheng, Huahai Mao, Xiao-Gang Lu, Yanlin He, Lin Li, Malin Selleby et al., Thermodynamic investigation of the Al-Fe-Mn system over the whole composition and wide temperature ranges, Journal of Alloys and Compounds 742, 1046-1057 (2018).  
 _assessment that models this phase_
 - [doi:10.3139/146.101547](https://doi.org/10.3139/146.101547) Y. Du, J. Wang, J. Zhao, J.C. Schuster, F. Weitzer, R. Schmid-Fetzer, M. Ohno, H. Xu, Z.-K. Liu, S. Shang, W. Zhang, Int. J. Mater. Res., 98, 855-71(2007).  
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
-- [doi:10.1515/ijmr-1996-870713](https://doi.org/10.1515/ijmr-1996-870713) C. Muller, H.H. Stadelmaier, B. Reinsch, and G. Petzow, Z. Metallkd., Vol 87, 1996, p 594-597  
-_cited as the source of values for this phase_
-- [doi:10.1016/0925-8388(95)02144-2](https://doi.org/10.1016/0925-8388%2895%2902144-2) X.J. Liu, R. Kainuma, H. Ohtani, K. Ishida, Phase equilibria in the Mn-rich portion of the binary system Mn-Al, Journal of Alloys and Compounds 235, 256-261 (1996).  
-_cited as the source of values for this phase_
-- [doi:10.1063/1.1984610](https://doi.org/10.1063/1.1984610) A. J. J. Koch, P. Hokkeling, M. G. v. d. Steeg, K. J. de Vos, New Material for Permanent Magnets on a Base of Mn and Al, Journal of Applied Physics 31, S75-S77 (1960).  
-_cited as the source of values for this phase_
-- [doi:10.1143/jpsj.13.1444](https://doi.org/10.1143/jpsj.13.1444) Hiroshi Kōno, On the Ferromagnetic Phase in Manganese-Aluminum System, J. Phys. Soc. Jpn. 13, 1444-1451 (1958).  
-_cited as the source of values for this phase_
 
 ## B2_BCC (Al–Mn)
 
@@ -942,11 +934,10 @@ _assessment that models this phase_
 - Id: `phase:al-mn:cbcc-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–985 K, x(Mn) 0.8359–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mn:cbcc-a12)
 
-Names (11): _corpus: _corpus:phase:al-mn:cbcc-a12  
-_paper: _paper:10.1007/bf02646113:α-Mn  
+Names (10): _corpus: _corpus:phase:al-mn:cbcc-a12  
 _tdb: _tdb:AlMn-07Du.tdb:CBCC_A12, tdb:AlMn-12Dju.tdb:CBCC_A12, tdb:AlMn-17Cui.tdb:CBCC_A12, tdb:AlMn-18Zhe-mod.tdb:CBCC_A12, tdb:AlMn-18Zhe.tdb:CBCC_A12, tdb:AlMn-19Mie.tdb:CBCC_A12, tdb:AlMn-92Jan.tdb:CBCC_A12, tdb:AlMn-98Jan.tdb:CBCC_A12, tdb:AlMn-99Liu-LB.tdb:CBCC_A12  
 
 
@@ -1018,7 +1009,7 @@ _tdb: _tdb:AlMn-07Du.tdb:CBCC_A12, tdb:AlMn-12Dju.tdb:CBCC_A12, tdb:AlMn-17Cui.t
 Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02646113](https://doi.org/10.1007/BF02646113) A. Jansson, Metall. Trans. A, 23A, 2953-62(1992).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.01.291](https://doi.org/10.1016/j.jallcom.2018.01.291) Weisen Zheng, Huahai Mao, Xiao-Gang Lu, Yanlin He, Lin Li, Malin Selleby et al., Thermodynamic investigation of the Al-Fe-Mn system over the whole composition and wide temperature ranges, Journal of Alloys and Compounds 742, 1046-1057 (2018).  
 _assessment that models this phase_
 - [doi:10.1361/105497199770335938](https://doi.org/10.1361/105497199770335938) X. J. Liu, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the Aluminum-Manganese (Al-Mn) binary phase diagram, JPE 20, 45-56 (1999).  
@@ -1031,7 +1022,7 @@ _assessment that models this phase_
 - Id: `phase:al-mn:cub-a13`; status `assigned`
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1404.99 K, x(Mn) 0.58036–1
-- Literature: 24 values (24 accepted) from 3 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mn:cub-a13)
 
 Names (13): _corpus: _corpus:phase:al-mn:cub-a13  
@@ -1174,11 +1165,11 @@ _assessment that models this phase_
 - Id: `phase:al-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1412.06 K, x(Mn) 0–1
-- Literature: 23 values (23 accepted) from 3 papers
+- Literature: 15 values (15 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mn:fcc-a1)
 
-Names (19): _corpus: _corpus:phase:al-mn:fcc-a1  
-_paper: _paper:10.1007/bf02646113:Fcc, paper:10.1007/bf02646113:fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-Al, paper:10.1361/105497199770335938:(Al), paper:10.1361/105497199770335938:γMn  
+Names (18): _corpus: _corpus:phase:al-mn:fcc-a1  
+_paper: _paper:10.1007/bf02646113:Fcc, paper:10.1007/bf02646113:fcc, paper:10.1016/s0364-5916(98)00037-6:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-Al, paper:10.1361/105497199770335938:(Al)  
 _tdb: _tdb:AlMn-07Du.tdb:FCC_A1, tdb:AlMn-12Dju.tdb:A1_FCC, tdb:AlMn-12Dju.tdb:FCC_A1, tdb:AlMn-17Cui.tdb:FCC_A1, tdb:AlMn-18Zhe-mod.tdb:A1_FCC, tdb:AlMn-18Zhe-mod.tdb:FCC_A1, tdb:AlMn-18Zhe.tdb:A1_FCC, tdb:AlMn-18Zhe.tdb:FCC_A1, tdb:AlMn-19Mie.tdb:FCC_A1, tdb:AlMn-92Jan.tdb:FCC_A1, tdb:AlMn-98Jan.tdb:FCC_A1, tdb:AlMn-99Liu-LB.tdb:FCC_A1  
 
 
@@ -1270,10 +1261,10 @@ _tdb: _tdb:AlMn-07Du.tdb:FCC_A1, tdb:AlMn-12Dju.tdb:A1_FCC, tdb:AlMn-12Dju.tdb:F
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1361/105497199770335938](https://doi.org/10.1361/105497199770335938) X. J. Liu, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the Aluminum-Manganese (Al-Mn) binary phase diagram, JPE 20, 45-56 (1999).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02646113](https://doi.org/10.1007/BF02646113) A. Jansson, Metall. Trans. A, 23A, 2953-62(1992).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1361/105497199770335938](https://doi.org/10.1361/105497199770335938) X. J. Liu, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the Aluminum-Manganese (Al-Mn) binary phase diagram, JPE 20, 45-56 (1999).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2018.01.291](https://doi.org/10.1016/j.jallcom.2018.01.291) Weisen Zheng, Huahai Mao, Xiao-Gang Lu, Yanlin He, Lin Li, Malin Selleby et al., Thermodynamic investigation of the Al-Fe-Mn system over the whole composition and wide temperature ranges, Journal of Alloys and Compounds 742, 1046-1057 (2018).  
 _assessment that models this phase_
 - [doi:10.3139/146.101547](https://doi.org/10.3139/146.101547) Y. Du, J. Wang, J. Zhao, J.C. Schuster, F. Weitzer, R. Schmid-Fetzer, M. Ohno, H. Xu, Z.-K. Liu, S. Shang, W. Zhang, Int. J. Mater. Res., 98, 855-71(2007).  
@@ -1377,7 +1368,7 @@ _reports values for this phase_
 - Id: `phase:al-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 929.08–2500 K, x(Mn) 0–1
-- Literature: 43 values (43 accepted) from 3 papers
+- Literature: 42 values (42 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mn:liquid)
 
 Names (13): _corpus: _corpus:phase:al-mn:liquid  

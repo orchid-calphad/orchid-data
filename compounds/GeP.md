@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GeP.html · Markdown: https://da
 
 17 accepted literature formation-enthalpy value(s) (experimental 2, model 6, DFT 8, unspecified 1); experimental median -12.56 kJ/mol-atom (n = 1); Materials Project 0.383 kJ/mol-atom (mp-aaackifz); OQMD -11.483 kJ/mol-atom (oqmd-1349377).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) · [Ge–P](https://data.orchid-project.org/systems/GE-P.html)
+Systems: [Ge–P](https://data.orchid-project.org/systems/GE-P.html)
 
 ## Literature values
 
@@ -18,10 +18,10 @@ Table: Enthalpy of formation of GeP reported in the literature (17)
 | -12.19 per mol-atom ± 1.5 | Ge1P1 | 298.15 | experimental |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
 | -13.82 kJ/mol-atom | Ge1P1 | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table II, p. 6, row 6 |  |
 | -13.6 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table II, p. 6, row 5 |  |
-| -11.442 kJ/mol-atom | GeP | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022 | Table II, p. 3, row 51 |  |
-| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48 |  |
+| -11.442 kJ/mol-atom | GeP | 298.15 | model | CALPHAD | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 51 |  |
+| -11.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48 |  |
 | -10.5 kJ/mol-atom | Ge1P1 | 298.15 | model |  | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
-| 1.44 kJ/mol-atom | GeP | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
+| 1.44 kJ/mol-atom | GeP | 0 | model | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
 | -11.4818 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
 | -11.48 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
 | -3.86 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
@@ -30,7 +30,7 @@ Table: Enthalpy of formation of GeP reported in the literature (17)
 | -0.072 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021 | Table I, p. 5, row 6 |  |
 | 1.44728 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | 1.45 kJ/mol-atom | GeP | 0 | DFT | DFT, GGA | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
-| -0.17 kJ/mol-atom | GeP | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [2] Chen 2022 | Table II, p. 3, row 50 |  |
+| -0.17 kJ/mol-atom | GeP | 0 | unspecified | First–principles | [Ge–P](https://data.orchid-project.org/systems/GE-P.html) | [2] Chen 2022 | Table II, p. 3, row 50 |  |
 
 ### Uncertainty budget
 
@@ -40,22 +40,22 @@ Table: Uncertainty budget of the literature values of GeP
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.56 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -12.56 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -12.19 | per mol-atom | 1.5 | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.5 |
-| -13.82 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.442 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.44 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 1.44 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.4818 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -11.48 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -3.86 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -3.85941 | kJ/mol-atom |  | 0.4824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -0.072364 | kJ/mol-atom |  | 4.824e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -0.072 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| 1.44728 | kJ/mol-atom |  | 0.04824 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| 1.45 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -13.82 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.442 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.44 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 1.44 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.4818 | kJ/mol-atom |  | 0.04824 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -11.48 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -3.86 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -3.85941 | kJ/mol-atom |  | 0.4824 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -0.072364 | kJ/mol-atom |  | 4.824e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -0.072 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 1.44728 | kJ/mol-atom |  | 0.04824 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| 1.45 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 | -0.17 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies
@@ -66,8 +66,8 @@ Table: DFT formation energy of GeP
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaackifz | 0.383 | 0.003971 | C2/m | 0.383 | 0.004 | no |
-| OQMD | oqmd-1349377 | -11.483 | -0.119014 | C2/m | 0.773 | 0.008 | yes |
+| Materials Project | mp-aaackifz | 0.383 | 0.003971 | C2/m | 0.3831 | 0.004 | no |
+| OQMD | oqmd-1349377 | -11.483 | -0.119014 | C2/m | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

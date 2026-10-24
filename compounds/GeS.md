@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GeS.html · Markdown: https://da
 
 9 accepted literature formation-enthalpy value(s) (experimental 4, model 4, unspecified 1); experimental median -37.9 kJ/mol-atom (n = 4); Materials Project -48.403 kJ/mol-atom (mp-aaaaadig); OQMD -38.311 kJ/mol-atom (oqmd-1877).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html)
+Systems: [Ge–S](https://data.orchid-project.org/systems/GE-S.html)
 
 ## Literature values
 
@@ -14,15 +14,15 @@ Table: Enthalpy of formation of GeS reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -38.1 kJ/mol-atom ± 4.2 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |
-| -38.1 kJ/mol-atom ± 2.1 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33 |  |
-| -37.7 kJ/mol-atom ± 1.5 | αGeS | 298.15 | experimental | DTA | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34 |  |
-| -30.6 kJ/mol-atom ± 0.6 | αGeS | 298.15 | experimental | Calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31 |  |
-| -56.42 kJ/mol-atom | αGeS | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
-| -38.27 kJ/mol-atom | αGeS | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35 |  |
-| -37.172 kJ/mol-atom | αGeS | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 38 |  |
-| -29.96 kJ/mol-atom | αGeS | 298.15 | model | Statistical mechanical | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32 |  |
-| -24.6 kJ/mol-atom | αGeS | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 37 |  |
+| -38.1 kJ/mol-atom ± 4.2 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 59_ | Table II, p. 3, row 30 |  |
+| -38.1 kJ/mol-atom ± 2.1 | αGeS | 298.15 | experimental | Fluorine bomb calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 60_ | Table II, p. 3, row 33 |  |
+| -37.7 kJ/mol-atom ± 1.5 | αGeS | 298.15 | experimental | DTA | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 61_ | Table II, p. 3, row 34 |  |
+| -30.6 kJ/mol-atom ± 0.6 | αGeS | 298.15 | experimental | Calorimetry | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 62_ | Table II, p. 3, row 31 |  |
+| -56.42 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 36 |  |
+| -38.27 kJ/mol-atom | αGeS | 0 | model | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 35 |  |
+| -37.172 kJ/mol-atom | αGeS | 298.15 | model | CALPHAD | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 38 |  |
+| -29.96 kJ/mol-atom | αGeS | 298.15 | model | Statistical mechanical | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022; _cites ref. 63_ | Table II, p. 3, row 32 |  |
+| -24.6 kJ/mol-atom | αGeS | 0 | unspecified | First–principles | [Ge–S](https://data.orchid-project.org/systems/GE-S.html) | [1] Chen 2022 | Table II, p. 3, row 37 |  |
 
 ### Uncertainty budget
 
@@ -32,14 +32,14 @@ Table: Uncertainty budget of the literature values of GeS
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -38.1 | kJ/mol-atom | 4.2 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 4.2 |
-| -38.1 | kJ/mol-atom | 2.1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 2.1 |
+| -38.1 | kJ/mol-atom | 4.2 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 4.2 |
+| -38.1 | kJ/mol-atom | 2.1 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.1 |
 | -37.7 | kJ/mol-atom | 1.5 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -30.6 | kJ/mol-atom | 0.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -56.42 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.27 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.172 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -29.96 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.42 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.27 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.172 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -29.96 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -24.6 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies

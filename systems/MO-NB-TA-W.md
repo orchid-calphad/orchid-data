@@ -1,10 +1,10 @@
 # Mo–Nb–Ta–W system
 
-> Mo–Nb–Ta–W system: 32 accepted literature values (phase transition 32) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Nb–Ta–W system: 21 accepted literature values (phase transition 21) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NB-TA-W.html · Markdown: https://data.orchid-project.org/systems/MO-NB-TA-W.md
 
-32 accepted literature values from 1 paper(s) (model 32); 0 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (model 21); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NB-TA-W.json) · [CSV](https://data.orchid-project.org/systems/MO-NB-TA-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NB-TA-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NB-TA-W.html) · [Markdown](https://data.orchid-project.org/systems/MO-NB-TA-W.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 32 |
+| model | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 32 |
+| phase transition | 21 |
 
 ## Other properties
 
-### Phase transition (32)
+### Phase transition (21)
 
 Table: Phase transition, Mo–Nb–Ta–W system
 
@@ -30,20 +30,12 @@ Table: Phase transition, Mo–Nb–Ta–W system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 135 K | 135 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 20 |  |
 | Phase transition | 152 K | 152 | other: MoW; _alloy: Nb 0, Ta 0, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 19 |  |
-| Phase transition | 284 K | 284 | other: NbTaW; _alloy: Nb 0.333333, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 24 |  |
-| Phase transition | 288 K | 288 | other: NbTaW; _alloy: Nb 0.333333, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 23 |  |
-| Phase transition | 318 K | 318 | other: NbW; _alloy: Nb 0.5, Ta 0, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 16 |  |
-| Phase transition | 320 K | 320 | other: NbW; _alloy: Nb 0.5, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 18 |  |
-| Phase transition | 320 K | 320 | other: NbW; _alloy: Nb 0.5, Ta 0, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 17 |  |
-| Phase transition | 360 K | 360 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 12 |  |
 | Phase transition | 465 K | 465 | other: MoNbW; _alloy: Nb 0.333333, Ta 0, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 25 |  |
 | Phase transition | 508 K | 508 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Kormann 2016_ [doi](https://doi.org/10.3390/e18080403) | Table 3, p. 10, row 32 |  |
 | Phase transition | 526 K | 526 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 22 |  |
 | Phase transition | 540 K | 540 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 8 |  |
 | Phase transition | 568 K | 568 | other: MoNbTa; _alloy: Nb 0.333333, Ta 0.333333, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 21 |  |
 | Phase transition | 572 K | 572 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022 | Table 3, p. 10, row 27 |  |
-| Phase transition | 573 K | 573 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022 | Table 3, p. 10, row 10 |  |
-| Phase transition | 575 K | 575 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 11 |  |
 | Phase transition | 594 K | 594 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 30 |  |
 | Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 7 |  |
 | Phase transition | 682 K | 682 | other: MoNb; _alloy: Nb 0.5, Ta 0, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 6 |  |
@@ -52,9 +44,6 @@ Table: Phase transition, Mo–Nb–Ta–W system
 | Phase transition | 800 K | 800 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Blum 2005_ | Table 3, p. 10, row 3 |  |
 | Phase transition | 859 K | 859 | other: MoTaW; _alloy: Nb 0, Ta 0.333333, W 0.333333_ | model | [1] Zhang 2022 | Table 3, p. 10, row 26 |  |
 | Phase transition | 900 K | 900 | other: MoNbTaW; _alloy: Nb 0.25, Ta 0.25, W 0.25_ | model | [1] Zhang 2022; _cites Widom 2014_ | Table 3, p. 10, row 28 |  |
-| Phase transition | 920 K | 920 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 14 |  |
-| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022; _cites Turchi 2005_ [doi](https://doi.org/10.1103/physrevb.71.094206) | Table 3, p. 10, row 13 |  |
-| Phase transition | 1000 K | 1000 | other: TaW; _alloy: Nb 0, Ta 0.5, W 0.5_ | model | [1] Zhang 2022; _cites Jindo 2008_ [doi](https://doi.org/10.1016/j.jallcom.2006.12.163) | Table 3, p. 10, row 15 |  |
 | Phase transition | 1040 K | 1040 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Sigli 1988_ [doi](https://doi.org/10.1016/0001-6160%2888%2990012-0) | Table 3, p. 10, row 5 |  |
 | Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022; _cites Wang 2022_ | Table 3, p. 10, row 2 |  |
 | Phase transition | 1239 K | 1239 | other: MoTa; _alloy: Nb 0, Ta 0.5, W 0_ | model | [1] Zhang 2022 | Table 3, p. 10, row 1 |  |

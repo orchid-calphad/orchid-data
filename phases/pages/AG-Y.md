@@ -15,9 +15,9 @@ Table: Phases of the Ag–Y system (7)
 | [AG2Y_C11B](#phase-ag-y-ag2y-c11b); _phase:ag-y:ag2y-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1235.77 K, x(Y) 0.33333–0.33333 | 6 | 1 |
 | [AG51Y14](#phase-ag-y-ag51y14); _phase:ag-y:ag51y14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1212.06 K, x(Y) 0.21538–0.21538 | 8 | 1 |
 | [AGY_B2](#phase-ag-y-agy-b2); _phase:ag-y:agy-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1436.42 K, x(Y) 0.5–0.5 | 6 | 1 |
-| [BCC_A2](#phase-ag-y-bcc-a2); _phase:ag-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1750.82–2499.89 K, x(Y) 0.99987–1 | 5 | 1 |
+| [BCC_A2](#phase-ag-y-bcc-a2); _phase:ag-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1750.82–2499.89 K, x(Y) 0.99987–1 | 3 | 1 |
 | [FCC_A1](#phase-ag-y-fcc-a1); _phase:ag-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1243.96 K, x(Y) 0–0.01606 | 6 | 1 |
-| [HCP_A3](#phase-ag-y-hcp-a3); _phase:ag-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1785.82 K, x(Y) 0.99981–1 | 4 | 1 |
+| [HCP_A3](#phase-ag-y-hcp-a3); _phase:ag-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1785.82 K, x(Y) 0.99981–1 | 2 | 1 |
 | [LIQUID](#phase-ag-y-liquid); _phase:ag-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1068.96–2500 K, x(Y) 0–1 | 22 | 1 |
 
 ## AG2Y_C11B (Ag–Y)
@@ -114,7 +114,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ag-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1750.82–2499.89 K, x(Y) 0.99987–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-y:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:ag-y:bcc-a2  
@@ -172,7 +172,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1785.82 K, x(Y) 0.99981–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-y:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:ag-y:hcp-a3  
@@ -189,12 +189,10 @@ _tdb: _tdb:AgY-09Wan.tdb:HCP_A3
 42: CONST HCP_A3 : AG Y% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.09.053](https://doi.org/10.1016/j.jallcom.2008.09.053) S.L. Wang, C.P. Wang, X.J. Liu, K. Ishida, Thermodynamic assessments of the Ag–Y and Sc–Y systems, Journal of Alloys and Compounds 476, 187-192 (2009).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02868085](https://doi.org/10.1007/bf02868085) K.A. Gschneidner Jr., F.W. Calderwood, Bull. Alloy Phase Diagrams 4 (4) (1983) 377–379.  
-_cited as the source of values for this phase_
 
 ## LIQUID (Ag–Y)
 

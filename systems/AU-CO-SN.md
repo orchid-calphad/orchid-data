@@ -1,10 +1,10 @@
 # Au–Co–Sn system
 
-> Au–Co–Sn system: 48 accepted literature values (phase equilibrium 16, invariant reaction 15, crystal structure 9, formation 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Co–Sn system: 31 accepted literature values (phase equilibrium 16, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CO-SN.html · Markdown: https://data.orchid-project.org/systems/AU-CO-SN.md
 
-48 accepted literature values from 1 paper(s) (experimental 11, model 17, DFT 12, unspecified 8); 0 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 9, model 14, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CO-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-CO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CO-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CO-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-CO-SN.md)
 
@@ -12,9 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 17 |
-| DFT | 12 |
+| experimental | 9 |
+| model | 14 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -23,8 +22,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 15 |
 | phase equilibrium | 16 |
-| formation | 8 |
-| crystal structure | 9 |
 
 ## Invariant reactions (literature)
 
@@ -47,23 +44,6 @@ Table: Invariant reactions reported in the literature for the Au–Co–Sn syste
 | 525.5 | quasi-peritectic: L + AuSn2 -> CoSn2 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 8 |  |
 | 522.5 | quasi-peritectic: L + CoSn2 -> CoSn3 + AuSn4 |  | model | [1] Dong 2009 | Table V, p. 11, row 9 |  |
 | 483 | eutectic: L -> CoSn3 + AuSn4 + βSn |  | model | [1] Dong 2009 | Table V, p. 11, row 11 |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Au–Co–Sn system (8)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| AuSn |  | -18.77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Dong 2009 | Table II, p. 4, row 5 |  |
-| AuSn |  | -15.75 kJ/mol (basis unstated) | 10 | model |  |  | [1] Dong 2009 | Table II, p. 4, row 6 |  |
-| AuSn |  | -15.69 kJ/mol (basis unstated) | 78 | experimental |  |  | [1] Dong 2009 | Table II, p. 4, row 3 |  |
-| AuSn |  | -14.88 kJ/mol (basis unstated) | 78 | experimental |  |  | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
-| AuSn2 |  | -13.38 kJ/mol (basis unstated) | 10 | model |  |  | [1] Dong 2009 | Table II, p. 4, row 8 |  |
-| AuSn2 |  | -13.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Dong 2009 | Table II, p. 4, row 7 |  |
-| NiAs-type CoSn |  | -3.82 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Dong 2009 | Table II, p. 4, row 1 |  |
-| NiAs-type CoSn |  | -3.75 kJ/mol (basis unstated) | 10 | model |  |  | [1] Dong 2009 | Table II, p. 4, row 2 |  |
 
 ## Other properties
 
@@ -89,22 +69,6 @@ Table: Phase equilibrium, Au–Co–Sn system
 | Phase assemblage |  | 635 | L + ζ + αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 14 |  |
 | Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | experimental | [1] Dong 2009 | Table IV, p. 9, row 16 |  |
 | Phase assemblage |  | 635 | αCo + ζ + αCo3Sn2; _alloy: Co 1, Sn 0_ | unspecified | [1] Dong 2009 | Table IV, p. 9, row 15 |  |
-
-### Crystal structure (9)
-
-Table: Crystal structure, Au–Co–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.824 Å | 0 | AuSn; _alloy: Co 0, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 7.025 Å | 0 | AuSn2; _alloy: Co 0, Sn 0.666667_ | DFT | [1] Dong 2009 | Table II, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 3.362 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 1 |  |
-| Lattice b; _printed: b_ | 2.208 Å | 0 | AuSn; _alloy: Co 0, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 5 |  |
-| Lattice b; _printed: b_ | 7.182 Å | 0 | AuSn2; _alloy: Co 0, Sn 0.666667_ | DFT | [1] Dong 2009 | Table II, p. 4, row 7 |  |
-| Lattice b; _printed: b_ | 1.94 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 1 |  |
-| Lattice c; _printed: c_ | 5.677 Å | 0 | AuSn; _alloy: Co 0, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 12.12 Å | 0 | AuSn2; _alloy: Co 0, Sn 0.666667_ | DFT | [1] Dong 2009 | Table II, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 5.258 Å | 0 | NiAs-type CoSn; _alloy: Co 0.5, Sn 0.5_ | DFT | [1] Dong 2009 | Table II, p. 4, row 1 |  |
 
 ## Sources
 

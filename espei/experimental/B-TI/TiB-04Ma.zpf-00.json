@@ -118,7 +118,7 @@
     "budget": {
      "temperature_K": {
       "sigma_printed": 25.0,
-      "sigma_reading": 0.5,
+      "sigma_reading": 0.05,
       "sigma_method": 5.0,
       "sigma_composition": null,
       "sigma_scatter": null,
@@ -152,7 +152,7 @@
     "budget": {
      "temperature_K": {
       "sigma_printed": 25.0,
-      "sigma_reading": 0.5,
+      "sigma_reading": 0.05,
       "sigma_method": 5.0,
       "sigma_composition": null,
       "sigma_scatter": null,

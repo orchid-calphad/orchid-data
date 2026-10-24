@@ -1,10 +1,10 @@
 # Ba–Ge system
 
-> Ba–Ge system: 117 accepted literature values (crystal structure 78, invariant reaction 27, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ge system: 126 accepted literature values (crystal structure 66, invariant reaction 27, formation 21, phase transition 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-GE.html · Markdown: https://data.orchid-project.org/systems/BA-GE.md
 
-117 accepted literature values from 1 paper(s) (experimental 52, model 14, DFT 21, unspecified 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+126 accepted literature values from 1 paper(s) (experimental 46, model 30, DFT 20, unspecified 30); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-GE.json) · [CSV](https://data.orchid-project.org/systems/BA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-GE/BaGe-19Ben.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BA-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-GE.html) · [Markdown](https://data.orchid-project.org/systems/BA-GE.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 52 |
-| model | 14 |
-| DFT | 21 |
+| experimental | 46 |
+| model | 30 |
+| DFT | 20 |
 | unspecified | 30 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 27 |
 | phase transition | 12 |
-| crystal structure | 78 |
+| formation | 21 |
+| crystal structure | 66 |
 
 ## Calculated phase diagrams
 
@@ -76,30 +77,52 @@ Table: Invariant reactions reported in the literature for the Ba–Ge system (27
 | 1323 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 | 1228 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 | 1213 | peritectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
-| 1213 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.6; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 6 |  |
-| 1201 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.4389; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | model | [1] Benhafid 2019 | Table 7, p. 9, row 16 |  |
-| 1199 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.4431; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 14 |  |
-| 1192.91 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.5958; Ba2Ge: Ge 0.667; Ba5Ge3: Ge 0.625 | model | [1] Benhafid 2019 | Table 7, p. 9, row 7 |  |
-| 1188 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.431; BaGe2: Ge 0.333; Ba3Ge4: Ge 0.429 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 15 |  |
+| 1213 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.4; Ba2Ge: Ge 0.333; Ba5Ge3: Ge 0.375 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 6 |  |
+| 1201 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.5611; BaGe2: Ge 0.667; Ba3Ge4: Ge 0.571 | model | [1] Benhafid 2019 | Table 7, p. 9, row 16 |  |
+| 1199 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.5569; βBa3Ge4: Ge 0.571; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 14 |  |
+| 1192.91 | peritectic: Liq + Ba2Ge -> Ba5Ge3 | Liq: Ge 0.4042; Ba2Ge: Ge 0.333; Ba5Ge3: Ge 0.375 | model | [1] Benhafid 2019 | Table 7, p. 9, row 7 |  |
+| 1188 | peritectic: Liq + BaGe2 -> Ba3Ge4 | Liq: Ge 0.569; BaGe2: Ge 0.667; Ba3Ge4: Ge 0.571 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 15 |  |
 | 1188 | peritectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two new compounds were observed: Ba5Ge3, peritectically formed at 1213 K and dimorphic Ba3Ge4, melting by peritectic reaction at 1188 K and transformed to low temperature form at about 613 K.” |
-| 1178 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.44; βBa3Ge4: Ge 0.429; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 13 |  |
+| 1178 | eutectic: Liq -> βBa3Ge4 + BaGe | Liq: Ge 0.56; βBa3Ge4: Ge 0.571; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 13 |  |
 | 1178 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 1168 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.573; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 9 |  |
+| 1168 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.427; Ba5Ge3: Ge 0.375; BaGe: Ge 0.5 | model | [1] Benhafid 2019 | Table 7, p. 9, row 9 |  |
 | 1168 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
-| 1167 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.575; Ba5Ge3: Ge 0.625; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 8 |  |
+| 1167 | eutectic: Liq -> Ba5Ge3 + BaGe | Liq: Ge 0.425; Ba5Ge3: Ge 0.375; BaGe: Ge 0.5 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 8 |  |
 | 1088 | peritectic |  | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
-| 1088 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.185; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 19 |  |
-| 1082.78 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.179; BaGe2: Ge 0.333; Ba6Ge25: Ge 0.194 | model | [1] Benhafid 2019 | Table 7, p. 9, row 20 |  |
-| 1081.63 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.1748; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | model | [1] Benhafid 2019 | Table 7, p. 9, row 22 |  |
-| 1081 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.174; Ba6Ge25: Ge 0.194; Ba8Ge43: Ge 0.157 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 21 |  |
+| 1088 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.815; BaGe2: Ge 0.667; Ba6Ge25: Ge 0.806 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 19 |  |
+| 1082.78 | peritectic: Liq + BaGe2 -> Ba6Ge25 | Liq: Ge 0.821; BaGe2: Ge 0.667; Ba6Ge25: Ge 0.806 | model | [1] Benhafid 2019 | Table 7, p. 9, row 20 |  |
+| 1081.63 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.8252; Ba6Ge25: Ge 0.806; Ba8Ge43: Ge 0.843 | model | [1] Benhafid 2019 | Table 7, p. 9, row 22 |  |
+| 1081 | eutectic: Liq -> Ba6Ge25 + Ba8Ge43 | Liq: Ge 0.826; Ba6Ge25: Ge 0.806; Ba8Ge43: Ge 0.843 | experimental | [1] Benhafid 2019; _cites Carrillo-Cabrera 2004_ | Table 7, p. 9, row 21 |  |
 | 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “According to this study, there is an eutectic reaction at 1081 K and 82.5 at.% Ge and the compound BaGe4 is designed as Ba6Ge25.” |
 | 1081 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 1043 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
-| 934.79 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.885; Ba: Ge 1; Ba2Ge: Ge 0.667 | model | [1] Benhafid 2019 | Table 7, p. 9, row 3 |  |
-| 913 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.925; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 2 |  |
+| 934.79 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.115; Ba: Ge 0; Ba2Ge: Ge 0.333 | model | [1] Benhafid 2019 | Table 7, p. 9, row 3 |  |
+| 913 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.075; Ba: Ge 0; Ba2Ge: Ge 0.333 | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 2 |  |
 | 913 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Four eutectics points occur at the compositions of about 7.5, 42.5, 56, 82.5 at.% Ge and temperatures of 913, 1168, 1178 and 1081 K respectively.” |
 | 838 | eutectic |  | experimental | [1] Benhafid 2019 | p. 3 | “Two eutectic reactions occur at the compositions of 4 at.% Ge at 838 K and 84 at.% Ge at 1043 K.” |
-| 818 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.96; Ba: Ge 1; Ba2Ge: Ge 0.667 | experimental | [1] Benhafid 2019; _cites Andrianov 1966_ | Table 7, p. 9, row 1 |  |
+| 818 | eutectic: Liq -> Ba + Ba2Ge | Liq: Ge 0.04; Ba: Ge 0; Ba2Ge: Ge 0.333 | experimental | [1] Benhafid 2019; _cites Andrianov 1966_ | Table 7, p. 9, row 1 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ba–Ge system (13)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ba2Ge | [Ba2Ge](https://data.orchid-project.org/compounds/Ba2Ge.html) | -51.13 kJ/mol-atom |  | model | -47.487 (mp-aaaaaupm) | -47.179 (oqmd-1343651) | [1] Benhafid 2019 | Table 3, p. 4, row 20 |  |
+| Ba2Ge |  | -50.129 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 19 |  |
+| Ba5Ge3 |  | -56.88 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 21 |  |
+| Ba5Ge3 | [Ba5Ge3](https://data.orchid-project.org/compounds/Ba5Ge3.html) | -56.88 kJ/mol-atom |  | model | -48.356 (mp-aaaabfwk) | -48.567 (oqmd-24996) | [1] Benhafid 2019 | Table 3, p. 4, row 22 |  |
+| Ba6Ge25 | [Ba6Ge25](https://data.orchid-project.org/compounds/Ba6Ge25.html) | -31.819 kJ/mol-atom |  | model | -27.482 (mp-aaabgldt) |  | [1] Benhafid 2019 | Table 3, p. 4, row 30 |  |
+| Ba8Ge43 | [Ba8Ge43](https://data.orchid-project.org/compounds/Ba8Ge43.html) | -21.198 kJ/mol-atom |  | model | -20.97 (mp-aaacqgxf) |  | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
+| BaGe |  | -60.314 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 23 |  |
+| BaGe | [BaGe](https://data.orchid-project.org/compounds/BaGe.html) | -60.062 kJ/mol-atom |  | model | -57.527 (mp-aaaaacoo) | -57.177 (oqmd-646985) | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
+| BaGe2 |  | -54.015 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 28 |  |
+| BaGe2 | [BaGe2](https://data.orchid-project.org/compounds/BaGe2.html) | -54.015 kJ/mol-atom |  | model | -51.162 (mp-aaaaadeh) | -50.892 (oqmd-20095) | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
+| α- Ba3Ge4 | [Ba3Ge4](https://data.orchid-project.org/compounds/Ba3Ge4.html) | -59.09 kJ/mol-atom |  | model | -54.983 (mp-aaaaaope) | -54.784 (oqmd-24528) | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
+| β- Ba3Ge4 | [Ba3Ge4](https://data.orchid-project.org/compounds/Ba3Ge4.html) | -58.599 kJ/mol-atom |  | model | -54.983 (mp-aaaaaope) | -54.784 (oqmd-24528) | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
+| β- Ba3Ge4 |  | -58.317 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 26 |  |
 
 ## Other properties
 
@@ -113,31 +136,42 @@ Table: Phase transition, Ba–Ge system
 | Phase transition | 1253 K | 1253 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 11 |  |
 | Phase transition | 1253 K | 1253 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 12 |  |
 | Phase transition | 1253 K | 1253 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1273 K | 1273 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 4 |  |
+| Phase transition | 1273 K | 1273 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.333; Ba2Ge: Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 4 |  |
 | Phase transition | 1273 K | 1273 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1273.2 K | 1273.2 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.667; Ba2Ge: Ge 0.667_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 5 |  |
-| Phase transition | 1378 K | 1378 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 17 |  |
+| Phase transition | 1273.2 K | 1273.2 | congruent melting: Liq -> Ba2Ge; _Liq: Ge 0.333; Ba2Ge: Ge 0.333_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 5 |  |
+| Phase transition | 1378 K | 1378 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.667; BaGe2: Ge 0.667_ | experimental | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 7, p. 9, row 17 |  |
 | Phase transition | 1378 K | 1378 | congruent transformation | experimental | [1] Benhafid 2019 | p. 3 | “Three congruently melting points were determined at 1273 K for Ba2Ge, 1253 K for BaGe and 1378 K for BaGe2.” |
-| Phase transition | 1378.69 K | 1378.69 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.333; BaGe2: Ge 0.333_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 18 |  |
+| Phase transition | 1378.69 K | 1378.69 | congruent melting: Liq -> BaGe2; _Liq: Ge 0.667; BaGe2: Ge 0.667_ | model | [1] Benhafid 2019 | Table 7, p. 9, row 18 |  |
 | Phase transition | 1428 K | 1428 | congruent melting: Liq -> BaGe; _Liq: Ge 0.5; BaGe: Ge 0.5_ | experimental | [1] Benhafid 2019; _cites Massalski 1990_ | Table 7, p. 9, row 10 |  |
 | Phase transition | 1428 K | 1428 | congruent transformation | model | [1] Benhafid 2019; _cites Massalski 1990_ | p. 3 | “This diagram presents four intermetallic compounds: BaGe melting congruently at 1428 K, while the Ba2Ge, BaGe2 and BaGe4 are formed by peritectic reactions at 1228, 1323 and 1088 K successively.” |
 
-### Crystal structure (78)
+### Formation (8)
+
+Table: Formation, Ba–Ge system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | -1.362 J/mol-atom/K |  | Ba2Ge; _alloy: Ba 0.666667, Ge 0.333333_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 20 |  |
+| Entropy of formation; _printed: ΔfS_ | -4.319 J/mol-atom/K |  | Ba5Ge3; _alloy: Ba 0.625, Ge 0.375_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 22 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.939 J/mol-atom/K |  | Ba6Ge25; _alloy: Ba 0.193548, Ge 0.806452_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 30 |  |
+| Entropy of formation; _printed: ΔfS_ | 3.553 J/mol-atom/K |  | Ba8Ge43; _alloy: Ba 0.156863, Ge 0.843137_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 31 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.606 J/mol-atom/K |  | BaGe; _alloy: Ba 0.5, Ge 0.5_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 24 |  |
+| Entropy of formation; _printed: ΔfS_ | -1.626 J/mol-atom/K |  | BaGe2; _alloy: Ba 0.333333, Ge 0.666667_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.8419 J/mol-atom/K |  | α- Ba3Ge4; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 25 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.041 J/mol-atom/K |  | β- Ba3Ge4; _alloy: Ba 0.428571, Ge 0.571429_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 27 |  |
+
+### Crystal structure (66)
 
 Table: Crystal structure, Ba–Ge system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice a | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
 | Lattice a | 8.429 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
 | Lattice a | 8.539 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
 | Lattice a | 5.07 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
 | Lattice a | 9.15 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
 | Lattice a | 8.55 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
 | Lattice a | 8.621 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice a | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice a | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
 | Lattice a | 8.38 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
 | Lattice a | 8.419 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
 | Lattice a | 8.519 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
@@ -154,16 +188,12 @@ Table: Crystal structure, Ba–Ge system
 | Lattice a | 10.727 Å | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
 | Lattice a | 11.789 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
 | Lattice a | 11.799 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
-| Lattice b | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice b | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
 | Lattice b | 5.495 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
 | Lattice b | 8.539 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
 | Lattice b | 11.995 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
 | Lattice b | 6.87 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
 | Lattice b | 8.55 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
 | Lattice b | 8.621 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice b | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice b | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
 | Lattice b | 5.48 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
 | Lattice b | 5.444 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
 | Lattice b | 8.519 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |
@@ -180,16 +210,12 @@ Table: Crystal structure, Ba–Ge system
 | Lattice b | 92.844 Å | 298.15 | BaGe5; _BaGe5: Ba 0.167, Ge 0.833_ | unspecified | [1] Benhafid 2019; _cites Aydemir 2010_ [doi](https://doi.org/10.1021/ja104197c) | Table 2, p. 3, row 22 |  |
 | Lattice b | 12.197 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 12 |  |
 | Lattice b | 12.21 Å | 298.15 | α-Ba3Ge4; _α-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 13 |  |
-| Lattice c | 4.9908 Å | 0 | (Ba); _(Ba): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 2 |  |
-| Lattice c | 5.69 Å | 0 | (Ge); _(Ge): Ba 0, Ge 1_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 26 |  |
 | Lattice c | 10.11 Å | 0 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 5 |  |
 | Lattice c | 16.563 Å | 0 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 8 |  |
 | Lattice c | 4.31 Å | 0 | BaGe; _BaGe: Ba 0.5, Ge 0.5_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 11 |  |
 | Lattice c | 11.73 Å | 0 | BaGe2; _BaGe2: Ba 0.333, Ge 0.667_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 18 |  |
 | Lattice c | 12.137 Å | 0 | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | DFT | [1] Benhafid 2019 | Table 2, p. 3, row 15 |  |
 | Lattice c | 12.031 Å |  | β-Ba3Ge4; _β-Ba3Ge4: Ba 0.429, Ge 0.571_ | unspecified | [1] Benhafid 2019; _cites Zurcher 1998_ [doi](https://doi.org/10.1002/%28sici%291521-3773%2819981217%2937:23<3314::aid-anie3314>3.0.co;2-l) | Table 2, p. 3, row 14 |  |
-| Lattice c | 5.013 Å | 298.15 | (Ba); _(Ba): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 2, p. 3, row 1 |  |
-| Lattice c | 5.656 Å | 298.15 | (Ge); _(Ge): Ba 0, Ge 1_ | experimental | [1] Benhafid 2019; _cites Straumanis 1952_ [doi](https://doi.org/10.1063/1.1702202) | Table 2, p. 3, row 25 |  |
 | Lattice c | 10.04 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | experimental | [1] Benhafid 2019; _cites Turban 1973_ [doi](https://doi.org/10.1515/znb-1973-3-427) | Table 2, p. 3, row 3 |  |
 | Lattice c | 10.068 Å | 298.15 | Ba2Ge; _Ba2Ge: Ba 0.667, Ge 0.333_ | unspecified | [1] Benhafid 2019; _cites Pani 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.08.005) | Table 2, p. 3, row 4 |  |
 | Lattice c | 16.554 Å | 298.15 | Ba5Ge3; _Ba5Ge3: Ba 0.625, Ge 0.375_ | experimental | [1] Benhafid 2019; _cites Nesper 1999_ | Table 2, p. 3, row 7 |  |

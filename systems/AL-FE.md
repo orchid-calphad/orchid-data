@@ -1,10 +1,10 @@
 # Al–Fe system
 
-> Al–Fe system: 252 accepted literature values (invariant reaction 156, phase transition 28, formation 24, heat capacity / entropy / enthalpy 22) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe system: 258 accepted literature values (invariant reaction 156, phase transition 28, formation 26, heat capacity / entropy / enthalpy 22) and 11 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE.html · Markdown: https://data.orchid-project.org/systems/AL-FE.md
 
-252 accepted literature values from 8 paper(s) (experimental 108, model 114, DFT 8, unspecified 22); 11 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+258 accepted literature values from 8 paper(s) (experimental 108, model 114, DFT 15, unspecified 21); 11 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE.json) · [CSV](https://data.orchid-project.org/systems/AL-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-FE/AlFe-07Zha.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE.md)
 
@@ -14,8 +14,8 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 108 |
 | model | 114 |
-| DFT | 8 |
-| unspecified | 22 |
+| DFT | 15 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
@@ -24,10 +24,11 @@ Table: Accepted values by property group
 | invariant reaction | 156 |
 | phase transition | 28 |
 | phase equilibrium | 15 |
-| formation | 24 |
+| formation | 26 |
 | mixing / partial | 6 |
 | heat capacity / entropy / enthalpy | 22 |
 | activity / EMF / Gibbs energy | 1 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -340,26 +341,28 @@ Table: Invariant reactions reported in the literature for the Al–Fe system (15
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Fe system (24)
+Table: Enthalpies of formation, Al–Fe system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Laves C14 |  | -23.0606 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 16 |  |
-| Laves C14 |  | -23.0606 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 15 |  |
-| Laves C14 |  | -16.6924 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 10 |  |
-| Laves C14 |  | -16.6924 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 9 |  |
-| Laves C14 |  | -5.30683 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 6 |  |
-| Laves C14 |  | -5.30683 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 5 |  |
-| Laves C14 |  | -0.7719 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 14 |  |
-| Laves C14 |  | -0.7719 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 13 |  |
-| Laves C14 |  | 0.28946 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 8 |  |
-| Laves C14 |  | 0.28946 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 7 |  |
-| Laves C14 |  | 12.4469 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 2 |  |
-| Laves C14 |  | 12.4469 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 1 |  |
-| Laves C14 |  | 22.5782 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 11 |  |
-| Laves C14 |  | 22.5782 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 12 |  |
-| Laves C14 |  | 28.3674 kJ/mol (basis unstated) |  | unspecified |  |  | [6] Liang 2024 | Table 6, p. 10, row 4 |  |
-| Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Liang 2024 | Table 6, p. 10, row 3 |  |
+| Fe3Al A15 |  | -14.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 3 |  |
+| Fe3Al A2 |  | -14.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 2 |  |
+| Fe3Al D03 |  | -18.87 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 1 |  |
+| Fe3Al D03 |  | 4.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [6] Berche 2018 | Table 1, p. 4, row 4 |  |
+| Laves C14 |  | -23.0606 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 16 |  |
+| Laves C14 |  | -23.0606 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 15 |  |
+| Laves C14 |  | -16.6924 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 10 |  |
+| Laves C14 |  | -16.6924 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 9 |  |
+| Laves C14 |  | -5.30683 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 6 |  |
+| Laves C14 |  | -5.30683 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 5 |  |
+| Laves C14 |  | -0.7719 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 14 |  |
+| Laves C14 |  | -0.7719 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 13 |  |
+| Laves C14 |  | 0.28946 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 8 |  |
+| Laves C14 |  | 0.28946 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 7 |  |
+| Laves C14 |  | 12.4469 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 2 |  |
+| Laves C14 |  | 12.4469 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 1 |  |
+| Laves C14 |  | 22.5782 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Liang 2024 | Table 6, p. 10, row 11 |  |
+| Laves C14 |  | 22.5782 kJ/mol (basis unstated) |  | unspecified |  |  | [7] Liang 2024 | Table 6, p. 10, row 12 |  |
 | ζ-Al2Fe | [Al2Fe](https://data.orchid-project.org/compounds/Al2Fe.html) | -27.8 kJ/mol-atom ± 1.9 | 298.15 | experimental |  | -34.734 (oqmd-1376945) | [2] Ilatovskaia 2023; _cites Lukas 2007_ | Table 3, p. 6, row 5 |  |
 | ζ-Al2Fe | [Al2Fe](https://data.orchid-project.org/compounds/Al2Fe.html) | -23.8 kJ/mol-atom | 298.15 | model |  | -34.734 (oqmd-1376945) | [2] Ilatovskaia 2023 | Table 3, p. 6, row 8 |  |
 | ζ-Al2Fe | [Al2Fe](https://data.orchid-project.org/compounds/Al2Fe.html) | -23.72 kJ/mol-atom | 298.15 | model |  | -34.734 (oqmd-1376945) | [2] Ilatovskaia 2023; _cites Zienert 2018_ [doi](https://doi.org/10.1016/j.jallcom.2018.01.316) | Table 3, p. 6, row 7 |  |
@@ -378,10 +381,10 @@ Table: Phase transition, Al–Fe system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 600 K | 600 | other | experimental | [1] Zienert 2018; _cites Zienert 2016_ [doi](https://doi.org/10.1016/j.intermet.2016.07.002) | p. 6 | “It should be mentioned that the observed phase transitions in h at temperatures around 600 K (see Ref. \[8\] for details) were not taken into account in the thermodynamic description of this work.” |
-| Phase transition | 820 K | 820 |  | model | [7] Berche 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | p. 2 | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
+| Phase transition | 820 K | 820 |  | model | [6] Berche 2018; _cites Zheng 2017_ [doi](https://doi.org/10.1016/j.calphad.2017.05.003) | p. 2 | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
 | Phase transition | 933 K | 933 |  | model | [3] Jacobs 2009 | p. 5 | “This behavior is caused by the heat capacity description of aluminum, which shows discontinuous behavior in its temperature derivative at 933 K, the melting point.” |
 | Phase transition | 939 K | 939 | other | model | [1] Zienert 2018 | p. 12 | “At temperatures slightly above the intersection of the Curie temperature of A2 TCA2 with TA2=B2 , the second-order phase boundary between disordered A2 and ordered B2 transforms into first-order A2 þ B2 phase field at the tricritical point (939 K), see Refs. \[45e47\] for details, which is reproduced by the thermodynamic calculations of the present work.” |
-| Phase transition | 1349 K | 1349 |  | model | [7] Berche 2018; _cites Maier 2016_ [doi](https://doi.org/10.1016/j.actamat.2016.08.080) | p. 2 | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
+| Phase transition | 1349 K | 1349 |  | model | [6] Berche 2018; _cites Maier 2016_ [doi](https://doi.org/10.1016/j.actamat.2016.08.080) | p. 2 | “But, since Fe3Al switches from the D03 to the B2 structure around 820 K \[29\] and Fe2VAl switches from the L21 to the B2 structure at 1349 K \[30\], the existence of a complete solid solution is improbable.” |
 | Phase transition | 1353 K | 1353 | other | model | [8] Du 2009 | p. 10 | “The decomposition temperatures of s1, s2 and e\*(Al5Fe4) are 1120, 1350 and 1353 K, respectively, which are basically in agreement with the experimental temperatures 1120,\[32\] 1344-1368\[45\] and 1358-1368 K.\[45\]” |
 | Phase transition | 1400 K | 1400 | liq. + Al5Fe2 fi Al13Fe4 + s1 | model | [8] Du 2009 | p. 13 | “So the calculated invariant reaction liq. + Al5Fe2 fi Al13Fe4 + s1 at 1400 K is accepted in the present work.” |
 | Phase transition | 1406 K | 1406 | θ -> L + θ; _θ: Fe 0.247_ | experimental | [1] Zienert 2018 | Table 1, p. 6, row 37 |  |
@@ -478,6 +481,17 @@ Table: Activity / EMF / Gibbs energy, Al–Fe system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: difference in the Gibbs energy_ | 150 J/mol | 700 |  | model | [4] Sundman 2009 | p. 4 | “It should be noted that this assessment gives a minimum difference in the Gibbs energy between D03 and L12 of 150 J/mol at 700 K.” |
 
+### Crystal structure (4)
+
+Table: Crystal structure, Al–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 4.5944 Å | 0 | Fe3Al A15; _alloy: Fe 0.75_ | DFT | [6] Berche 2018 | Table 1, p. 4, row 3 |  |
+| Lattice a; _printed: a_ | 2.8836 Å | 0 | Fe3Al A2; _alloy: Fe 0.75_ | DFT | [6] Berche 2018 | Table 1, p. 4, row 2 |  |
+| Lattice a; _printed: a_ | 5.6151 Å | 0 | Fe3Al D03; _alloy: Fe 0.75_ | DFT | [6] Berche 2018 | Table 1, p. 4, row 4 |  |
+| Lattice a; _printed: a_ | 5.7375 Å | 0 | Fe3Al D03; _alloy: Fe 0.75_ | DFT | [6] Berche 2018 | Table 1, p. 4, row 1 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -487,8 +501,8 @@ Reporting papers the values were read from (a value cited from another work name
 3. Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009). [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010)
 4. Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009). [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046)
 5. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-6. Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9)
-7. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
+6. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
+7. Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024). [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9)
 8. Zhenmin Du, Cuiping Guo, Changrong Li, Weijing Zhang, Thermodynamic Description of the Al-Mo and Al-Fe-Mo Systems, J. Phase Equilib. Diffus. 30, 487-501 (2009). [doi:10.1007/s11669-009-9564-4](https://doi.org/10.1007/s11669-009-9564-4)
 
 ## Please cite

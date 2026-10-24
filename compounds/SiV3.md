@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/SiV3.html · Markdown: https://d
 
 16 accepted literature formation-enthalpy value(s) (experimental 10, model 4, DFT 1, unspecified 1); experimental median -41.775 kJ/mol-atom (n = 10); Materials Project -42.956 kJ/mol-atom (mp-aaaaadut); OQMD -45.324 kJ/mol-atom (oqmd-4182).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) · [Si–V](https://data.orchid-project.org/systems/SI-V.html)
+Systems: [Si–V](https://data.orchid-project.org/systems/SI-V.html)
 
 ## Literature values
 
@@ -15,21 +15,21 @@ Table: Enthalpy of formation of SiV3 reported in the literature (16)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -46.4 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Direct synthesis calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 12 |  |
-| -46.4 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
-| -45.1 kJ/mol-atom ± 2 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
+| -46.4 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
+| -45.1 kJ/mol-atom ± 2 | V3Si | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
 | -45.1 kJ/mol-atom ± 2 | V3Si | 298.15 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 7 |  |
-| -41.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
+| -41.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
 | -41.75 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Fluorine bomb calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites OHare 2000_ [doi](https://doi.org/10.1006/jcht.1999.0612) | Table 2, p. 3, row 14 |  |
-| -38.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
+| -38.8 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
 | -38.75 kJ/mol-atom ± 1 | V3Si | 298.15 | experimental | Knudsen cell mass spectrometry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 10 |  |
-| -35.3 kJ/mol-atom ± 3 | V3Si | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
+| -35.3 kJ/mol-atom ± 3 | V3Si | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
 | -35.25 kJ/mol-atom ± 3 | V3Si | 298.15 | experimental | Direct reaction calorimetry | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 3 |  |
-| -45.2 kJ/mol-atom | V3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
-| -44.3 kJ/mol-atom | V3Si | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
-| -33.9 kJ/mol-atom | V3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
+| -45.2 kJ/mol-atom | V3Si |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
+| -44.3 kJ/mol-atom | V3Si | 0 | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
+| -33.9 kJ/mol-atom | V3Si |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
 | -33.88 kJ/mol-atom | V3Si | 298.15 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 18 |  |
 | -45.23 kJ/mol-atom | V3Si | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 22 |  |
-| -44.5 kJ/mol-atom | V3Si | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013 | Table 2, p. 6, row 8 |  |
+| -44.5 kJ/mol-atom | V3Si | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 8 |  |
 
 ### Uncertainty budget
 
@@ -40,21 +40,21 @@ Table: Uncertainty budget of the literature values of SiV3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -46.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -46.4 | kJ/mol-atom | 1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -45.1 | kJ/mol-atom | 2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -45.1 | kJ/mol-atom | 2 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -41.8 | kJ/mol-atom | 1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -41.75 | kJ/mol-atom | 1 | 0.005 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -38.8 | kJ/mol-atom | 1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.75 | kJ/mol-atom | 1 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -35.3 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -46.4 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -45.1 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -45.1 | kJ/mol-atom | 2 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -41.8 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -41.75 | kJ/mol-atom | 1 | 0.005 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -38.8 | kJ/mol-atom | 1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.75 | kJ/mol-atom | 1 | 0.005 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -35.3 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -35.25 | kJ/mol-atom | 3 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -45.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -44.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.88 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -45.23 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -44.5 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -45.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -44.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -33.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -33.88 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -45.23 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -44.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

@@ -13,7 +13,7 @@ Table: Phases of the Cu–Ga system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-cu-ga-a11-orthorhombic); _phase:cu-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 5 | 2 |
-| [BCC_A2](#phase-cu-ga-bcc-a2); _phase:cu-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 880.74–1189.33 K, x(Ga) 0.19371–0.27779 | 33 | 2 |
+| [BCC_A2](#phase-cu-ga-bcc-a2); _phase:cu-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 880.74–1189.33 K, x(Ga) 0.19371–0.27779 | 31 | 2 |
 | [CU3GA_D019](#phase-cu-ga-cu3ga-d019); _phase:cu-ga:cu3ga-d019_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–598.6 K, x(Ga) 0.222–0.222 | 12 | 2 |
 | [CUGA_GAM_1](#phase-cu-ga-cuga-1-gam); _phase:cu-ga:cuga-1-gam_ | Al4Cu9 · D8_3 · cP52 · P-43m (215) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1108.78 K, x(Ga) 0.28951–0.35404 | 33 | 2 |
 | [CUGA_GAM_2](#phase-cu-ga-cuga-2-gam); _phase:cu-ga:cuga-2-gam_ | Al4Cu9 · D8_3 · cP52 · P-43m (215) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–762.05 K, x(Ga) 0.33276–0.36918 | 16 | 2 |
@@ -67,11 +67,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-ga:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 880.74–1189.33 K, x(Ga) 0.19371–0.27779
-- Literature: 33 values (32 accepted) from 2 papers
+- Literature: 31 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-ga:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:cu-ga:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.03.006:bcc, paper:10.1016/j.calphad.2008.03.006:epsilon, paper:10.1016/j.jallcom.2014.08.037:BCC_A2  
+Names (5): _corpus: _corpus:phase:cu-ga:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2008.03.006:bcc, paper:10.1016/j.jallcom.2014.08.037:BCC_A2  
 _tdb: _tdb:CuGa-08Li.tdb:BCC_A2, tdb:CuGa-15Jen.tdb:BCC_A2  
 
 

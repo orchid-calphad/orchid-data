@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/SiTi3.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (DFT 2).
 
-Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html)
+Systems: [Si–Ti](https://data.orchid-project.org/systems/SI-TI.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of SiTi3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.33 kJ/mol-atom | Ti3Si(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
-| -41.57 kJ/mol-atom | Ti3Si(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
+| -42.33 kJ/mol-atom | Ti3Si(D024) | 0 | DFT | Ab initio | [Si–Ti](https://data.orchid-project.org/systems/SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| -41.57 kJ/mol-atom | Ti3Si(L12) | 0 | DFT | Ab initio | [Si–Ti](https://data.orchid-project.org/systems/SI-TI.html) | [1] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of SiTi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -42.33 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -41.57 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -42.33 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -41.57 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

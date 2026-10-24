@@ -1,16 +1,16 @@
 # CaSiO3: enthalpy of formation
 
-> Enthalpy of formation of CaSiO3: 7 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of CaSiO3: 5 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CaSiO3.html · Markdown: https://data.orchid-project.org/compounds/CaSiO3.md
 
-7 accepted literature formation-enthalpy value(s) (model 4, DFT 2, unspecified 1).
+5 accepted literature formation-enthalpy value(s) (model 4, unspecified 1).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CaSiO3 reported in the literature (7)
+Table: Enthalpy of formation of CaSiO3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,8 +18,6 @@ Table: Enthalpy of formation of CaSiO3 reported in the literature (7)
 | -1634 kJ/mol (basis unstated) | Wollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 7 |  |
 | -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10 |  |
 | -1627 kJ/mol (basis unstated) | Cyclowollastonite-CaSiO3 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 9 |  |
-| -17.14 kJ/mol-atom | CaSiO3-wollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
-| -15.5 kJ/mol-atom | CaSiO3-cyclowollastonite | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
 | -1634.32 kJ/mol (basis unstated) ± 2.71 | wollastonite-CaSiO3 | 298.15 | unspecified |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Grevel 2022_ | Table A.2, p. 13, row 21 |  |
 
 ### Uncertainty budget
@@ -30,13 +28,11 @@ Table: Uncertainty budget of the literature values of CaSiO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -1634 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1634 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1627 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1627 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.14 | kJ/mol-atom |  | 0.01 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -15.5 | kJ/mol-atom |  | 0.01 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -1634.32 | kJ/mol (basis unstated) | 2.71 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -1634 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1634 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1627 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1627 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1634.32 | kJ/mol (basis unstated) | 2.71 | 5.000e-5 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
 
 ## Sources
 

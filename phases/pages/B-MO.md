@@ -26,7 +26,7 @@ Table: Phases of the B–Mo system (17)
 | [MOB](#phase-b-mo-mob); _phase:b-mo:mob_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2876.77 K, x(B) 0.5–0.5 | 0 | 2 |
 | [MOB_B33](#phase-b-mo-mob-b33); _phase:b-mo:mob-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2870 K, x(B) 0.48621–0.50764 | 32 | 2 |
 | [MOB_BG](#phase-b-mo-mob-bg); _phase:b-mo:mob-bg_ | MoB · B_g · tI16 · I4_1/amd (141) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2454.33 K, x(B) 0.48305–0.50165 | 18 | 1 |
-| [MOB2_C32](#phase-b-mo-mob2-c32); _phase:b-mo:mob2-c32_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1764.31–2653.79 K, x(B) 0.61453–0.66137 | 26 | 3 |
+| [MOB2_C32](#phase-b-mo-mob2-c32); _phase:b-mo:mob2-c32_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1764.31–2653.79 K, x(B) 0.61453–0.66137 | 25 | 3 |
 | [MOB2_D8I](#phase-b-mo-mob2-d8i); _phase:b-mo:mob2-d8i_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2423.32 K, x(B) 0.66667–0.66667 | 0 | 1 |
 | [MOB4](#phase-b-mo-mob4); _phase:b-mo:mob4_ | MoB4 · hP16 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–2087.99 K, x(B) 0.8–0.81156 | 3 | 5 |
 
@@ -724,7 +724,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): AlB2 · hP3 · P6/mmm — MoB-16Wit.tdb: 'Prototype AlB2 (hP3, P6/mmm)'
 - Candidate (tdb_comment): AlB2 · hP3 · P6/mmm — MoB-91Pan-LB.tdb: 'Prototype AlB2 (hP3, P6/mmm)'
 - Stability: stable in 3 of 3 calculated diagram(s): 1764.31–2653.79 K, x(B) 0.61453–0.66137
-- Literature: 26 values (26 accepted) from 1 papers
+- Literature: 25 values (25 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mo:mob2-c32)
 
 Names (5): _corpus: _corpus:phase:b-mo:mob2-c32  

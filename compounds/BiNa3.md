@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of BiNa3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -56 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -52.5 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -57.325 | kJ/mol-atom |  | 0.0125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -52.5 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -57.325 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

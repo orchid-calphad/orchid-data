@@ -1,10 +1,10 @@
 # Al–As–Ga–Ge system
 
-> Al–As–Ga–Ge system: 5 accepted literature values (heat capacity / entropy / enthalpy 4, activity / EMF / Gibbs energy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–As–Ga–Ge system: 1 accepted literature values (activity / EMF / Gibbs energy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AS-GA-GE.html · Markdown: https://data.orchid-project.org/systems/AL-AS-GA-GE.md
 
-5 accepted literature values from 1 paper(s) (unspecified 5); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+1 accepted literature values from 1 paper(s) (unspecified 1); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS-GA-GE.json) · [CSV](https://data.orchid-project.org/systems/AL-AS-GA-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS-GA-GE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AS-GA-GE.html) · [Markdown](https://data.orchid-project.org/systems/AL-AS-GA-GE.md)
 
@@ -12,27 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 5 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| heat capacity / entropy / enthalpy | 4 |
 | activity / EMF / Gibbs energy | 1 |
 
 ## Other properties
-
-### Heat capacity / entropy / enthalpy (4)
-
-Table: Heat capacity / entropy / enthalpy, Al–As–Ga–Ge system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: °S^L - °S_ | 28.28 J/mol (basis unstated)/K | 1021 | Ge0.33As0.66; _alloy: As 0.666667, Ga 0, Ge 0.333333_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 7 |  |
-| Entropy; _printed: °S^L - °S_ | 31.22 J/mol (basis unstated)/K | 1025 | Ge0.5As0.5; _alloy: As 0.5, Ga 0, Ge 0.5_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 6 |  |
-| Entropy; _printed: °S^L - °S^f.c.c._ | 34.68 J/mol (basis unstated)/K | 1513 | Ga0.5As0.5; _alloy: As 0.5, Ga 0.5, Ge 0_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 4 |  |
-| Entropy; _printed: °S^L - °S^f.c.c._ | 35.45 J/mol (basis unstated)/K | 2043 | Al0.5As0.5; _alloy: As 0.5, Ga 0, Ge 0_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 5 |  |
 
 ### Activity / EMF / Gibbs energy (1)
 

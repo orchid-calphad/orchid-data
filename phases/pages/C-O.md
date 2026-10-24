@@ -21,6 +21,7 @@ Table: Phases of the C–O system (4)
 
 - Id: `phase:c-o:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-o:a9-graphite)

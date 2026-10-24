@@ -25,8 +25,8 @@ Table: Phases of the Ce–Mo system (4)
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-mo:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ce-mo:bcc-a2  
-_paper: _paper:10.1007/s11669-010-9753-1:Mo, paper:10.1007/s11669-010-9753-1:βCe, paper:10.1007/s11669-010-9753-1:δCe  
+Names (4): _corpus: _corpus:phase:ce-mo:bcc-a2  
+_paper: _paper:10.1007/s11669-010-9753-1:Mo, paper:10.1007/s11669-010-9753-1:δCe  
 _tdb: _tdb:CeMo-10Cha.tdb:BCC_A2  
 
 

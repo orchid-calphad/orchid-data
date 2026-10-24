@@ -13,8 +13,8 @@ Table: Phases of the In–Mn system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-in-mn-a6-tetragonal); _phase:in-mn:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.6 K, x(Mn) 0–0 | 3 | 1 |
-| [BCC_A2](#phase-in-mn-bcc-a2); _phase:in-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1366.01–2498.99 K, x(Mn) 0.98942–1 | 11 | 1 |
-| [CBCC_A12](#phase-in-mn-cbcc-a12); _phase:in-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 0.98687–1 | 10 | 1 |
+| [BCC_A2](#phase-in-mn-bcc-a2); _phase:in-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1366.01–2498.99 K, x(Mn) 0.98942–1 | 0 | 1 |
+| [CBCC_A12](#phase-in-mn-cbcc-a12); _phase:in-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 0.98687–1 | 3 | 1 |
 | [CUB_A13](#phase-in-mn-cub-a13); _phase:in-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 908–1359.99 K, x(Mn) 0.91042–1 | 0 | 1 |
 | [FCC_A1](#phase-in-mn-fcc-a1); _phase:in-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1293.26–1466.33 K, x(Mn) 0.92218–1 | 0 | 1 |
 | [HCP_A3](#phase-in-mn-hcp-a3); _phase:in-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -54,11 +54,10 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:in-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1366.01–2498.99 K, x(Mn) 0.98942–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-mn:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:in-mn:bcc-a2  
-_paper: _paper:10.1016/j.tca.2015.03.022:β-Mn  
+Names (2): _corpus: _corpus:phase:in-mn:bcc-a2  
 _tdb: _tdb:InMn-15Wan.tdb:BCC_A2  
 
 
@@ -74,18 +73,18 @@ _tdb: _tdb:InMn-15Wan.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.tca.2015.03.022](https://doi.org/10.1016/j.tca.2015.03.022) L.Y. Wang, J. Wang, C.F. Zhu, G. Cheng, C.Y. Tang, G.H. Rao et al., Experimental investigation and thermodynamic assessment of the Mn–In binary system, Thermochimica Acta 607, 74-81 (2015).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## CBCC_A12 (In–Mn)
 
 - Id: `phase:in-mn:cbcc-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 0.98687–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-mn:cbcc-a12)
 
-Names (5): _corpus: _corpus:phase:in-mn:cbcc-a12  
-_paper: _paper:10.1016/j.tca.2015.03.022:α-Mn, paper:10.1016/j.tca.2015.03.022:γ-Mn, paper:10.1016/j.tca.2015.03.022:δ-Mn  
+Names (3): _corpus: _corpus:phase:in-mn:cbcc-a12  
+_paper: _paper:10.1016/j.tca.2015.03.022:α-Mn  
 _tdb: _tdb:InMn-15Wan.tdb:CBCC_A12  
 
 

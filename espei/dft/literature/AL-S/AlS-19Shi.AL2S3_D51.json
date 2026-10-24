@@ -1,0 +1,177 @@
+{
+ "components": [
+  "AL",
+  "S",
+  "VA"
+ ],
+ "phases": [
+  "AL2S3_D51"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "S"
+   ],
+   [
+    "AL",
+    "S"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -136800.0,
+    -115200.0
+   ]
+  ]
+ ],
+ "reference": "Shi 2019, doi:10.1007/s11669-019-00733-z",
+ "bibtex": "shi2019_dd39b2",
+ "weight": [
+  0.049092,
+  0.049092
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB AlS-19Shi.tdb (sha256 4298f9d489e1f95258be1b32f49444f20c1ac8824440f5a599d09bee974ed235), phase AL2S3_D51. Ids, in value order: ORC-6WFVIRWNBJ.e382ef ORC-DUVADSEON4.f24261. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "AlS-19Shi.tdb",
+   "path": "databases/sgte-binary/AlS-19Shi.tdb",
+   "sha256": "4298f9d489e1f95258be1b32f49444f20c1ac8824440f5a599d09bee974ed235",
+   "phase": "AL2S3_D51"
+  },
+  "registry_phase": "phase:al-s:al2s3-d51",
+  "mapping": [
+   {
+    "id": "ORC-6WFVIRWNBJ.e382ef",
+    "compound": "Al2S3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-DUVADSEON4.f24261",
+    "compound": "Al2S3",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-019-00733-z"
+  ],
+  "dois": [
+   "10.1007/s11669-019-00733-z"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-S",
+     "n": 121,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -136.8,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-6WFVIRWNBJ.e382ef",
+    "compound": "Al2S3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 121,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|AL-S"
+    }
+   },
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AL-S",
+     "n": 121,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -115.2,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-DUVADSEON4.f24261",
+    "compound": "Al2S3",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 121,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|AL-S"
+    }
+   }
+  ]
+ }
+}

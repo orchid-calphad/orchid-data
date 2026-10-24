@@ -22,7 +22,7 @@ Table: Phases of the Cu–Mo system (4)
 - Id: `phase:cu-mo:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.76 K, x(Mo) 0.98441–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 4 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mo:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:cu-mo:bcc-a2  
@@ -49,7 +49,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:cu-mo:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1357.77 K, x(Mo) 0–0.00015
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 2 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mo:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:cu-mo:fcc-a1  
@@ -102,7 +102,7 @@ _assessment that models this phase_
 - Id: `phase:cu-mo:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1357.04–4000 K, x(Mo) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 4 values (0 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-mo:liquid)
 
 Names (3): _corpus: _corpus:phase:cu-mo:liquid  

@@ -8,16 +8,12 @@
   "FCC_A1",
   "LIQUID",
   "PT2TA",
-  "PT3TA",
   "PTTA6"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
    1463.755803,
-   1473.755803,
-   1547.255803,
-   1548.255803,
    1598.255803,
    1338.755803,
    1644.755803,
@@ -26,7 +22,6 @@
    2346.255803,
    3086.755803,
    2236.755803,
-   2279.255803,
    2399.755803
   ]
  },
@@ -40,66 +35,6 @@
     ],
     [
      0.08407468353
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "TA"
-    ],
-    [
-     0.1612043402
-    ]
-   ],
-   [
-    "PT3TA",
-    [
-     "TA"
-    ],
-    [
-     0.2408382065
-    ]
-   ]
-  ],
-  [
-   [
-    "PT3TA",
-    [
-     "TA"
-    ],
-    [
-     0.2498533612
-    ]
-   ]
-  ],
-  [
-   [
-    "PT2TA",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PT3TA",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TA"
-    ],
-    [
-     0.2939274507
     ]
    ]
   ],
@@ -234,26 +169,6 @@
      "TA"
     ],
     [
-     0.1920061187
-    ]
-   ],
-   [
-    "PT3TA",
-    [
-     "TA"
-    ],
-    [
-     0.2418398904
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TA"
-    ],
-    [
      0.2936770298
     ]
    ],
@@ -280,9 +195,6 @@
   "diagram": "PT-TA-p751",
   "record_ids": [
    "aspa-6fc75242fba00834",
-   "aspa-d051384354dceb8c",
-   "aspa-26dd5a63288383ec",
-   "aspa-a36eb8971b8c5447",
    "aspa-8aa5f8eddfed2864",
    "aspa-a999beb194378034",
    "aspa-cc8bd8a9536de3dc",
@@ -291,14 +203,9 @@
    "aspa-dad185781bf11175",
    "aspa-a430f667eee1cac2",
    "aspa-9e79c080461a2911",
-   "aspa-172654e23fd2b139",
    "aspa-13627f0f190ad70d"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -330,60 +237,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0766288,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-d051384354dceb8c",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.582,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 701.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0375631,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-26dd5a63288383ec",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.582,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 774.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.00851431,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-a36eb8971b8c5447",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.582,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 773.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.012521,
      "sigma_effective": 0.02
     }
    },
@@ -528,24 +381,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0656103,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-172654e23fd2b139",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.582,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 36.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0240404,
      "sigma_effective": 0.02
     }
    },

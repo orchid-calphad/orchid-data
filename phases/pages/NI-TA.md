@@ -19,10 +19,10 @@ Table: Phases of the Ni–Ta system (14)
 | [HCP_A3](#phase-ni-ta-hcp-a3); _phase:ni-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [LIQUID](#phase-ni-ta-liquid); _phase:ni-ta:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1627.39–4000 K, x(Ta) 0–1 | 70 | 7 |
 | [NI2TA_C11B](#phase-ni-ta-ni2ta-c11b); _phase:ni-ta:ni2ta-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1678.62 K, x(Ta) 0.32694–0.3749 | 39 | 7 |
-| [NI3TA](#phase-ni-ta-ni3ta); _phase:ni-ta:ni3ta_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1819.32 K, x(Ta) 0.23036–0.27149 | 30 | 5 |
+| [NI3TA](#phase-ni-ta-ni3ta); _phase:ni-ta:ni3ta_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1819.32 K, x(Ta) 0.23036–0.27149 | 33 | 5 |
 | [NI3TA_D022](#phase-ni-ta-ni3ta-d022); _phase:ni-ta:ni3ta-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–603.39 K, x(Ta) 0.25–0.25 | 2 | 2 |
 | [NI3TA_KAPPA](#phase-ni-ta-ni3ta-kappa); _phase:ni-ta:ni3ta-kappa_ | NbPt3 · mP16 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 600.01–1804.12 K, x(Ta) 0.23751–0.25295 | 26 | 2 |
-| [NI8TA](#phase-ni-ta-ni8ta); _phase:ni-ta:ni8ta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1577.5 K, x(Ta) 0.11111–0.11111 | 3 | 1 |
+| [NI8TA](#phase-ni-ta-ni8ta); _phase:ni-ta:ni8ta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1577.5 K, x(Ta) 0.11111–0.11111 | 4 | 1 |
 | [NI8X](#phase-ni-ta-ni8x); _phase:ni-ta:ni8x_ | Pt8Ti · tI18 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1583.35 K, x(Ta) 0.11111–0.11111 | 12 | 3 |
 | [NITA_D85](#phase-ni-ta-nita-d85); _phase:ni-ta:nita-d85_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–1895.02 K, x(Ta) 0.5–0.58419 | 38 | 7 |
 | [NITA2_C16](#phase-ni-ta-nita2-c16); _phase:ni-ta:nita2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2067.1 K, x(Ta) 0.66537–0.71234 | 27 | 7 |
@@ -502,11 +502,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1819.32 K, x(Ta) 0.23036–0.27149
-- Literature: 30 values (30 accepted) from 2 papers
+- Literature: 33 values (33 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ta:ni3ta)
 
-Names (8): _corpus: _corpus:phase:ni-ta:ni3ta  
-_paper: _paper:10.1016/0364-5916(94)90011-6:Ni3Ta, paper:10.1016/j.tca.2018.06.011:Ni3Ta  
+Names (9): _corpus: _corpus:phase:ni-ta:ni3ta  
+_paper: _paper:10.1016/0364-5916(94)90011-6:Ni3Ta, paper:10.1016/j.calphad.2009.06.006:Ni3Ta, paper:10.1016/j.tca.2018.06.011:Ni3Ta  
 _tdb: _tdb:NiTa-18Zho.tdb:NI3TA, tdb:NiTa-19Zho.tdb:NI3TA, tdb:NiTa-20Yan.tdb:NI3TA, tdb:NiTa-94Ans.tdb:NI3TA, tdb:NiTa-99Cui-LB.tdb:NI3TA  
 
 
@@ -547,7 +547,7 @@ _tdb: _tdb:NiTa-18Zho.tdb:NI3TA, tdb:NiTa-19Zho.tdb:NI3TA, tdb:NiTa-20Yan.tdb:NI
 54: CONST NI3TA : NI% TA : NI TA% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.tca.2018.06.011](https://doi.org/10.1016/j.tca.2018.06.011) Chenyang Zhou, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Ni–Ta system supported by the key experiments, Thermochimica Acta 666, 135-147 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -559,6 +559,10 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1999-900310](https://doi.org/10.1515/ijmr-1999-900310) Y. Cui, Z. Jin, Z. Metallkd., 90, 233-41(1999).  
 _assessment that models this phase_
+- [doi:10.1016/0001-6160(67)90369-0](https://doi.org/10.1016/0001-6160%2867%2990369-0) B.C Giessen, N.J Grant, The crystal structure of Tani3 and its change on cold working, Acta Metallurgica 15, 871-877 (1967).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006) S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009).  
+_reports values for this phase_
 
 ## NI3TA_D022 (Ni–Ta)
 
@@ -643,11 +647,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): Pt8Ti · tI18 · I4/mmm — NiTa-94Ans.tdb: 'Prototype Pt8Ti (tI18, I4/mmm)'
 - Stoichiometry: Ni 0.8889, Ta 0.1111
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1577.5 K, x(Ta) 0.11111–0.11111
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ta:ni8ta)
 
-Names (3): _corpus: _corpus:phase:ni-ta:ni8ta  
-_paper: _paper:10.1016/0364-5916(94)90011-6:Ni8Ta  
+Names (4): _corpus: _corpus:phase:ni-ta:ni8ta  
+_paper: _paper:10.1016/0364-5916(94)90011-6:Ni8Ta, paper:10.1016/j.calphad.2009.06.006:Ni8Ta  
 _tdb: _tdb:NiTa-94Ans.tdb:NI8TA  
 
 
@@ -660,10 +664,14 @@ _tdb: _tdb:NiTa-94Ans.tdb:NI8TA
 55: CONST NI8TA : NI : TA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/0364-5916(94)90011-6](https://doi.org/10.1016/0364-5916%2894%2990011-6) I. Ansara, M. Selleby, Thermodynamic analysis of the Ni-Ta system., Calphad 18, 99-107 (1994).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf02811559](https://doi.org/10.1007/bf02811559) J. M. Larson, R. Taggart, D. H. Polonis, Ni8Ta in nickel-rich Ni−Ta alloys, Metall Trans 1, 485-489 (1970).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2009.06.006](https://doi.org/10.1016/j.calphad.2009.06.006) S.H. Zhou, Y. Wang, L.-Q. Chen, Z.-K. Liu, R.E. Napolitano, Solution-based thermodynamic modeling of the Ni–Ta and Ni–Mo–Ta systems using first-principle calculations, Calphad 33, 631-641 (2009).  
+_reports values for this phase_
 
 ## NI8X (Ni–Ta)
 

@@ -1,19 +1,20 @@
 # Ho–Sb system
 
-> Ho–Sb system: 59 accepted literature values (invariant reaction 47, phase transition 10, formation 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Sb system: 71 accepted literature values (invariant reaction 47, formation 14, phase transition 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-SB.html · Markdown: https://data.orchid-project.org/systems/HO-SB.md
 
-59 accepted literature values from 2 paper(s) (experimental 18, model 30, unspecified 11); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 2 paper(s) (experimental 21, model 33, DFT 6, unspecified 11); 2 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/HO-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-SB/HoSb-12Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/HO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-SB.html) · [Markdown](https://data.orchid-project.org/systems/HO-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/HO-SB.json) · [CSV](https://data.orchid-project.org/systems/HO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-SB/HoSb-12Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/HO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-SB.html) · [Markdown](https://data.orchid-project.org/systems/HO-SB.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 30 |
+| experimental | 21 |
+| model | 33 |
+| DFT | 6 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
@@ -22,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 47 |
 | phase transition | 10 |
-| formation | 2 |
+| formation | 14 |
 
 ## Calculated phase diagrams
 
@@ -120,8 +121,8 @@ Table: Invariant reactions reported in the literature for the Ho–Sb system (47
 | 943 | peritectic |  | model | [1] Wang 2013 | p. 2 | “The compounds Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 are formed by the peritectic reactions, L + ␤-Ho4 Sb3 ↔ Ho5 Sb3 at 1953 K, L + ␣HoSb ↔ ␤-Ho4 Sb3 at 2103 K, and L + ␣-HoSb ↔ HoSb2 at 943 K, respectively.” |
 | 943 | peritectic: L + α-HoSb -> HoSb2 | L: Sb 0.98; α-HoSb: Ho 0.5, Sb 0.5; HoSb2: Ho 0.333333, Sb 0.666667 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 9 |  |
 | 943 | peritectic: L + α-HoSb -> HoSb2 | L: Sb 0.977; α-HoSb: Ho 0.5, Sb 0.5; HoSb2: Ho 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 2, p. 2, row 10 |  |
-| 897.25 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 0; HoSb2: Sb 0.6666 | model | [2] Liu 2012 | Table 4, p. 4, row 16 |  |
-| 897.15 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 0; HoSb2: Sb 0.6666 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 15 |  |
+| 897.25 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 1; HoSb2: Sb 0.6666 | model | [2] Liu 2012 | Table 4, p. 4, row 16 |  |
+| 897.15 | eutectic: L ↔ (Sb) + HoSb2 | L: Sb 0.99; (Sb): Sb 1; HoSb2: Sb 0.6666 | experimental | [2] Liu 2012; _cites Abdusaljamova 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990403-x) | Table 4, p. 4, row 15 |  |
 | 897 | eutectic: L -> HoSb2 + Rhomb_A7 (Sb) | L: Sb 0.99; HoSb2: Ho 0.333333, Sb 0.666667 | unspecified | [1] Wang 2013; _cites Abdusalyamova 1984_ | Table 2, p. 2, row 11 |  |
 | 895.6 | eutectic: L -> HoSb2 + Rhomb_A7 (Sb) | L: Sb 0.984; HoSb2: Ho 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 2, p. 2, row 12 |  |
 | 895.6 | eutectic: L ↔ Rhomb (Sb) + HoSb2 |  | model | [1] Wang 2013 | p. 4 | “Two reversible polymorphic transitions ␤-HoSb ↔ ␣-HoSb and ␤-Ho4 Sb3 ↔ ␣-Ho4 Sb3 were, respectively, obtained at 2153 and 1893 K in the calculated results, the peritectic temperatures of the intermetallic compounds, Ho5 Sb3 , ␤-Ho4 Sb3 , and HoSb2 , are 1953, 2103, and 943 K, respectively, and the congruent melting temperature of ␤-HoSb is 2434 K, the eutectic reactions, L ↔ Hcp A3 (Ho) + Ho5 Sb3…” |
@@ -130,12 +131,24 @@ Table: Invariant reactions reported in the literature for the Ho–Sb system (47
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ho–Sb system (2)
+Table: Enthalpies of formation, Ho–Sb system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | -126 kJ/mol-atom | 773 | model |  |  | [2] Liu 2012 | p. 3 | “The enthalpies of formation of the Ho-Sb intermetallic compounds calculated at 773 K compared with the experimental data \[18\] are presented in Fig. 4. It is seen that the calculated enthalpies of formation of the HoSb phase (-126 kJ (mol at.)-1 ) and the HoSb2 phase (-84.38 kJ (mol at.)-1 ) are in agreement with the experimental data (-126.5 kJ (mol at.)-1 for the HoSb phase, -84.4 kJ (mol at.)-1…” |
 | — |  | -84.38 kJ/mol-atom | 773 | model |  |  | [2] Liu 2012 | p. 3 | “The enthalpies of formation of the Ho-Sb intermetallic compounds calculated at 773 K compared with the experimental data \[18\] are presented in Fig. 4. It is seen that the calculated enthalpies of formation of the HoSb phase (-126 kJ (mol at.)-1 ) and the HoSb2 phase (-84.38 kJ (mol at.)-1 ) are in agreement with the experimental data (-126.5 kJ (mol at.)-1 for the HoSb phase, -84.4 kJ (mol at.)-1…” |
+| Ho5Sb3 |  | -88.488 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
+| Ho5Sb3 |  | -82 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 10 |  |
+| HoSb |  | -126.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 12 |  |
+| HoSb |  | -108.284 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
+| HoSb |  | -91 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 14 |  |
+| HoSb |  | -64 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Pratt 1970_ | Table 3, p. 3, row 13 |  |
+| HoSb2 |  | -84.4 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1981_ | Table 3, p. 3, row 19 |  |
+| HoSb2 |  | -74 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 20 |  |
+| HoSb2 |  | -69.418 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 18 |  |
+| HoSb2 |  | -64.551 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 17 |  |
+| HoSb2 |  | -64.546 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 16 |  |
+| HoSb2 |  | -19.679 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 15 |  |
 
 ## Other properties
 

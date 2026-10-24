@@ -1,10 +1,10 @@
 # Bi–Cs system
 
-> Bi–Cs system: 27 accepted literature values (invariant reaction 26, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Cs system: 75 accepted literature values (crystal structure 33, invariant reaction 26, formation 15, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CS.html · Markdown: https://data.orchid-project.org/systems/BI-CS.md
 
-27 accepted literature values from 1 paper(s) (experimental 18, model 9); 1 calculated phase diagram(s).
+75 accepted literature values from 1 paper(s) (experimental 25, model 37, DFT 7, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CS.json) · [CSV](https://data.orchid-project.org/systems/BI-CS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-CS/BiCs-15Dja.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-CS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CS.html) · [Markdown](https://data.orchid-project.org/systems/BI-CS.md)
 
@@ -12,8 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 9 |
+| experimental | 25 |
+| model | 37 |
+| DFT | 7 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
@@ -21,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 26 |
 | phase transition | 1 |
+| formation | 15 |
+| crystal structure | 33 |
 
 ## Calculated phase diagrams
 
@@ -77,6 +81,30 @@ Table: Invariant reactions reported in the literature for the Bi–Cs system (26
 | 301.5 | eutectic: L -> BiCs3 + (Cs) | L: Cs 0.999; BiCs3: Cs 0.75; (Cs): Cs 1 | model | [1] Djaballah 2015 | Table 4, p. 5, row 24 |  |
 | 301.39 | eutectic: L -> BiCs3 + (Cs) | L: Cs 1; BiCs3: Cs 0.75; (Cs): Cs 1 | experimental | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | Table 4, p. 5, row 23 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Cs system (15)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Bi2Cs |  | -37.753 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 3 |  |
+| Bi2Cs | [Bi2Cs](https://data.orchid-project.org/compounds/Bi2Cs.html) | -31.027 kJ/mol-atom |  | model | -29.714 (mp-aaaabigx) | -29.789 (oqmd-647553) | [1] Djaballah 2015 | Table 2, p. 4, row 4 |  |
+| Bi2Cs |  | -30.442 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 2 |  |
+| Bi2Cs | [Bi2Cs](https://data.orchid-project.org/compounds/Bi2Cs.html) | -26.2 kJ/mol-atom | 298.15 | experimental | -29.714 (mp-aaaabigx) | -29.789 (oqmd-647553) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 1 |  |
+| Bi2Cs3 |  | -41.326 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 10 |  |
+| Bi2Cs3 | [Bi2Cs3](https://data.orchid-project.org/compounds/Bi2Cs3.html) | -40.7 kJ/mol-atom | 298.15 | experimental | -31.375 (mp-aaabgrwc) | -34.17 (oqmd-22902) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 8 |  |
+| Bi2Cs3 |  | -34.483 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 9 |  |
+| Bi2Cs3 | [Bi2Cs3](https://data.orchid-project.org/compounds/Bi2Cs3.html) | -33.968 kJ/mol-atom |  | model | -31.375 (mp-aaabgrwc) | -34.17 (oqmd-22902) | [1] Djaballah 2015 | Table 2, p. 4, row 11 |  |
+| Bi4Cs5 | [Bi4Cs5](https://data.orchid-project.org/compounds/Bi4Cs5.html) | -38.3 kJ/mol-atom | 298.15 | experimental |  | -37.814 (oqmd-1372721) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 5 |  |
+| Bi4Cs5 |  | -36.683 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 6 |  |
+| Bi4Cs5 | [Bi4Cs5](https://data.orchid-project.org/compounds/Bi4Cs5.html) | -34.933 kJ/mol-atom |  | model |  | -37.814 (oqmd-1372721) | [1] Djaballah 2015 | Table 2, p. 4, row 7 |  |
+| BiCs3 |  | -44.202 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 14 |  |
+| BiCs3 | [BiCs3](https://data.orchid-project.org/compounds/BiCs3.html) | -43.5 kJ/mol-atom | 298.15 | experimental | -27.378 (mp-aaabkdyz) | -33.261 (oqmd-1521866) | [1] Djaballah 2015; _cites Voronin 1975_ | Table 2, p. 4, row 12 |  |
+| BiCs3 | [BiCs3](https://data.orchid-project.org/compounds/BiCs3.html) | -32.568 kJ/mol-atom |  | model | -27.378 (mp-aaabkdyz) | -33.261 (oqmd-1521866) | [1] Djaballah 2015 | Table 2, p. 4, row 15 |  |
+| BiCs3 |  | -31.394 kJ/mol-atom | 0 | DFT |  |  | [1] Djaballah 2015 | Table 2, p. 4, row 13 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -86,6 +114,46 @@ Table: Phase transition, Bi–Cs system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 773 K | 773 | congruent transformation | model | [1] Djaballah 2015; _cites Sangster 1991_ [doi](https://doi.org/10.1007/bf02645965) | p. 4 | “This result confirms the suggestion of Sangster and Pelton \[18\] that the congruent melting near 773 K of this compound is equally probable with the peritectic decomposition.” |
+
+### Crystal structure (33)
+
+Table: Crystal structure, Bi–Cs system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice a | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice a | 10.221 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice a | 9.631 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice a | 13.03 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice a | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice a | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice a | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice a | 10.077 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice a | 12.887 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice a | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
+| Lattice b | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice b | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice b | 10.478 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice b | 10.147 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice b | 6.423 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice b | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice b | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice b | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice b | 10.32 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice b | 6.323 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice b | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
+| Lattice c | 9.488 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 6 |  |
+| Lattice c | 9.774 Å |  | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 5 |  |
+| Lattice c | 10.168 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 10 |  |
+| Lattice c | 9.762 Å |  | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 11 |  |
+| Lattice c | 12.695 Å |  | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 8 |  |
+| Lattice c | 9.465 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 13 |  |
+| Lattice c | 8.934 Å |  | BiCs3; _BiCs3: Cs 0.75_ | model | [1] Djaballah 2015 | Table 1, p. 2, row 14 |  |
+| Lattice c | 9.72 Å | 298.15 | Bi2Cs; _Bi2Cs: Cs 0.33_ | model | [1] Djaballah 2015; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 4 |  |
+| Lattice c | 10.145 Å | 298.15 | Bi2Cs3; _Bi2Cs3: Cs 0.6_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 9 |  |
+| Lattice c | 12.636 Å | 298.15 | Bi4Cs5; _Bi4Cs5: Cs 0.556_ | unspecified | [1] Djaballah 2015; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 7 |  |
+| Lattice c | 9.31 Å | 298.15 | BiCs3; _BiCs3: Cs 0.75_ | experimental | [1] Djaballah 2015; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 12 |  |
 
 ## Sources
 

@@ -14,9 +14,9 @@ Table: Phases of the Ag–Ti system (6)
 |---|---|---|---|---:|---:|
 | [AGTI_B11](#phase-ag-ti-agti-b11); _phase:ag-ti:agti-b11_ | CuTi-gamma · B11 · tP4 · P4/nmm (129) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1297.11 K, x(Ti) 0.48783–0.51022 | 35 | 4 |
 | [AGTI2](#phase-ag-ti-agti2); _phase:ag-ti:agti2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1216.16 K, x(Ti) 0.66667–0.66667 | 28 | 4 |
-| [BCC_A2](#phase-ag-ti-bcc-a2); _phase:ag-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1125.89–2499.75 K, x(Ti) 0.80312–1 | 32 | 4 |
-| [FCC_A1](#phase-ag-ti-fcc-a1); _phase:ag-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1236.2 K, x(Ti) 0–0.05716 | 7 | 4 |
-| [HCP_A3](#phase-ag-ti-hcp-a3); _phase:ag-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1168.2 K, x(Ti) 0.93246–1 | 9 | 4 |
+| [BCC_A2](#phase-ag-ti-bcc-a2); _phase:ag-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1125.89–2499.75 K, x(Ti) 0.80312–1 | 26 | 4 |
+| [FCC_A1](#phase-ag-ti-fcc-a1); _phase:ag-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1236.2 K, x(Ti) 0–0.05716 | 6 | 4 |
+| [HCP_A3](#phase-ag-ti-hcp-a3); _phase:ag-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1168.2 K, x(Ti) 0.93246–1 | 8 | 4 |
 | [LIQUID](#phase-ag-ti-liquid); _phase:ag-ti:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1231.78–2500 K, x(Ti) 0–1 | 21 | 4 |
 
 ## AGTI_B11 (Ag–Ti)
@@ -24,7 +24,7 @@ Table: Phases of the Ag–Ti system (6)
 - Id: `phase:ag-ti:agti-b11`; status `assigned`
 - Structure: CuTi-gamma · B11 · tP4 · P4/nmm (129); type `st:b11-cuti-gamma-tp4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1297.11 K, x(Ti) 0.48783–0.51022
-- Literature: 35 values (35 accepted) from 2 papers
+- Literature: 35 values (34 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ti:agti-b11)
 
 Names (7): _corpus: _corpus:phase:ag-ti:agti-b11  
@@ -83,7 +83,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_139_matches_5_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ag 0.3333, Ti 0.6667
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1216.16 K, x(Ti) 0.66667–0.66667
-- Literature: 28 values (28 accepted) from 2 papers
+- Literature: 28 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ti:agti2)
 
 Names (7): _corpus: _corpus:phase:ag-ti:agti2  
@@ -141,7 +141,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1125.89–2499.75 K, x(Ti) 0.80312–1
-- Literature: 32 values (32 accepted) from 2 papers
+- Literature: 26 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ti:bcc-a2)
 
 Names (8): _corpus: _corpus:phase:ag-ti:bcc-a2  
@@ -179,17 +179,13 @@ _tdb: _tdb:AgTi-04Arr.tdb:BCC_A2, tdb:AgTi-05Li.tdb:BCC_A2, tdb:AgTi-23Gie.tdb:B
 36: CONST BCC_A2 : AG TI% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.commatsci.2023.112519](https://doi.org/10.1016/j.commatsci.2023.112519) Wojciech Gierlotka, Adam Dębski, Władysław Gąsior, Marek Polański, Computational approach to the Ag-Ti system, Computational Materials Science 230, 112519 (2023).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2005.09.002](https://doi.org/10.1016/j.calphad.2005.09.002) Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Experimental study and thermodynamic assessment of the Ag–Ti system, Calphad 29, 269-275 (2005).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.commatsci.2023.112519](https://doi.org/10.1016/j.commatsci.2023.112519) Wojciech Gierlotka, Adam Dębski, Władysław Gąsior, Marek Polański, Computational approach to the Ag-Ti system, Computational Materials Science 230, 112519 (2023).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf00775520](https://doi.org/10.1007/bf00775520) V. N. Eremenko, Yu. I. Buyanov, N. M. Panchenko, Constitution diagram of the system titanium-silver, Powder Metall Met Ceram 8, 562-566 (1969).  
-_cited as the source of values for this phase_
-- [doi:10.21236/ad0018321](https://doi.org/10.21236/ad0018321) Henry K. Adenstedt, William R. Freeman Jr, THE TENTATIVE TITANIUM-SILVER BINARY SYSTEM, (1953).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02884876](https://doi.org/10.1007/bf02884876) J.L. Murray, K.J. Bhansali, The Ag-Ti (silver-titanium) system, Bull. Alloy Phase Diagr. 4 (1983) 178–183.  
 _cited as the source of values for this phase_
 - [doi:10.1016/0001-6160(78)90014-7](https://doi.org/10.1016/0001-6160%2878%2990014-7) M.R Plichta, H.I Aaronson, J.H Perepezko, The thermodynamics and kinetics of the β → αm transformation in three Ti-X systems, Acta Metallurgica 26, 1293-1305 (1978).  
 _cited as the source of values for this phase_
@@ -199,7 +195,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1236.2 K, x(Ti) 0–0.05716
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ti:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:ag-ti:fcc-a1  
@@ -237,25 +233,23 @@ _tdb: _tdb:AgTi-04Arr.tdb:FCC_A1, tdb:AgTi-05Li.tdb:FCC_A1, tdb:AgTi-23Gie.tdb:F
 31: CONST FCC_A1 : AG% TI : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.09.002](https://doi.org/10.1016/j.calphad.2005.09.002) Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Experimental study and thermodynamic assessment of the Ag–Ti system, Calphad 29, 269-275 (2005).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.commatsci.2023.112519](https://doi.org/10.1016/j.commatsci.2023.112519) Wojciech Gierlotka, Adam Dębski, Władysław Gąsior, Marek Polański, Computational approach to the Ag-Ti system, Computational Materials Science 230, 112519 (2023).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02884876](https://doi.org/10.1007/bf02884876) J.L. Murray, K.J. Bhansali, The Ag-Ti (silver-titanium) system, Bull. Alloy Phase Diagr. 4 (1983) 178–183.  
-_cited as the source of values for this phase_
 
 ## HCP_A3 (Ag–Ti)
 
 - Id: `phase:ag-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1168.2 K, x(Ti) 0.93246–1
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 8 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ti:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:ag-ti:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2005.09.002:α(Ti), paper:10.1016/j.commatsci.2023.112519:(α Ti), paper:10.1016/j.commatsci.2023.112519:(α-Ti)  
+Names (7): _corpus: _corpus:phase:ag-ti:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2005.09.002:α(Ti), paper:10.1016/j.commatsci.2023.112519:(α Ti)  
 _tdb: _tdb:AgTi-04Arr.tdb:HCP_A3, tdb:AgTi-05Li.tdb:HCP_A3, tdb:AgTi-23Gie.tdb:HCP_A3, tdb:AgTi-98Spe-LB.tdb:HCP_A3  
 
 
@@ -289,14 +283,12 @@ _tdb: _tdb:AgTi-04Arr.tdb:HCP_A3, tdb:AgTi-05Li.tdb:HCP_A3, tdb:AgTi-23Gie.tdb:H
 41: CONST HCP_A3 : AG TI% : VA: !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.09.002](https://doi.org/10.1016/j.calphad.2005.09.002) Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Experimental study and thermodynamic assessment of the Ag–Ti system, Calphad 29, 269-275 (2005).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.commatsci.2023.112519](https://doi.org/10.1016/j.commatsci.2023.112519) Wojciech Gierlotka, Adam Dębski, Władysław Gąsior, Marek Polański, Computational approach to the Ag-Ti system, Computational Materials Science 230, 112519 (2023).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02884876](https://doi.org/10.1007/bf02884876) J.L. Murray, K.J. Bhansali, The Ag-Ti (silver-titanium) system, Bull. Alloy Phase Diagr. 4 (1983) 178–183.  
-_cited as the source of values for this phase_
 - [doi:10.1016/0001-6160(78)90014-7](https://doi.org/10.1016/0001-6160%2878%2990014-7) M.R Plichta, H.I Aaronson, J.H Perepezko, The thermodynamics and kinetics of the β → αm transformation in three Ti-X systems, Acta Metallurgica 26, 1293-1305 (1978).  
 _cited as the source of values for this phase_
 

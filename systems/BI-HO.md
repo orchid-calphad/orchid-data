@@ -1,10 +1,10 @@
 # Bi–Ho system
 
-> Bi–Ho system: 12 accepted literature values (invariant reaction 11, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ho system: 26 accepted literature values (invariant reaction 11, crystal structure 10, formation 4, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-HO.html · Markdown: https://data.orchid-project.org/systems/BI-HO.md
 
-12 accepted literature values from 1 paper(s) (experimental 4, model 4, unspecified 4); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+26 accepted literature values from 1 paper(s) (experimental 8, model 6, DFT 8, unspecified 4); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-HO.json) · [CSV](https://data.orchid-project.org/systems/BI-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-HO/BiHo-13Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-HO.html) · [Markdown](https://data.orchid-project.org/systems/BI-HO.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 4 |
+| experimental | 8 |
+| model | 6 |
+| DFT | 8 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 11 |
 | phase transition | 1 |
+| formation | 4 |
+| crystal structure | 10 |
 
 ## Calculated phase diagrams
 
@@ -65,6 +68,19 @@ Table: Invariant reactions reported in the literature for the Bi–Ho system (11
 | 544 | eutectic: L -> Rhomb (Bi) + HoBi |  | experimental | [1] Wang 2013 | p. 2 | “There were two eutectic reactions, L2Hcp_A3 (Ho)þ Ho5Bi3 at 1428 K and L2Rhomb (Bi)þHoBi at 544 K.” |
 | 543.9 | eutectic: L -> HoBi + Rhomb_A7 (Bi) | L: Bi 0.995; HoBi: Bi 0.5, Ho 0.5 | model | [1] Wang 2013 | Table 2, p. 2, row 8 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Ho system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ho5Bi3 | [Bi3Ho5](https://data.orchid-project.org/compounds/Bi3Ho5.html) | -71 kJ/mol-atom | 0 | model | -64.046 (mp-aaaabuof) | -66.027 (oqmd-18566) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 21 |  |
+| Ho5Bi3 |  | -67.807 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 20 |  |
+| HoBi |  | -84.4462 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 22 |  |
+| HoBi | [BiHo](https://data.orchid-project.org/compounds/BiHo.html) | -77 kJ/mol-atom | 0 | model | -79.808 (mp-aaaabhvm) | -82.775 (oqmd-1926646) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 23 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -74,6 +90,23 @@ Table: Phase transition, Bi–Ho system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2048 K | 2048 | congruent melting | experimental | [1] Wang 2013 | p. 2 | “The compound HoBi melted congruently at about 2048 K.” |
+
+### Crystal structure (10)
+
+Table: Crystal structure, Bi–Ho system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.194 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice a | 6.2853 Å | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
+| Lattice a | 8.128 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Lattice a | 6.2291 Å | 298.15 | HoBi; _alloy: Ho 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10 |  |
+| Lattice b | 9.469 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice b | 9.385 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Lattice c | 11.942 Å | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice c | 11.874 Å | 298.15 | Ho5Bi3; _alloy: Ho 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Molar volume; _printed: V0_ | 926.568 Å3 | 0 | Ho5Bi3; _alloy: Ho 0.625_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 4 |  |
+| Molar volume; _printed: V0_ | 62.075 Å3 | 0 | HoBi; _alloy: Ho 0.5_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 5 |  |
 
 ## Sources
 

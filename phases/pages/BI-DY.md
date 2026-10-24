@@ -14,7 +14,7 @@ Table: Phases of the Bi–Dy system (7)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-dy-a7-rhombohedral); _phase:bi-dy:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Dy) 0–0 | 2 | 1 |
 | [BCC_A2](#phase-bi-dy-bcc-a2); _phase:bi-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1654.15–2499.15 K, x(Dy) 1–1 | 0 | 1 |
-| [BI3DY5](#phase-bi-dy-bi3dy5); _phase:bi-dy:bi3dy5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1719.23 K, x(Dy) 0.625–0.625 | 4 | 1 |
+| [BI3DY5](#phase-bi-dy-bi3dy5); _phase:bi-dy:bi3dy5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1719.23 K, x(Dy) 0.625–0.625 | 10 | 1 |
 | [BIDY_B1](#phase-bi-dy-bidy-b1); _phase:bi-dy:bidy-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2023.03 K, x(Dy) 0.5–0.5 | 6 | 1 |
 | [FCC_A1](#phase-bi-dy-fcc-a1); _phase:bi-dy:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-bi-dy-hcp-a3); _phase:bi-dy:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.77 K, x(Dy) 1–1 | 2 | 1 |
@@ -82,7 +82,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.3750, Dy 0.6250
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1719.23 K, x(Dy) 0.625–0.625
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-dy:bi3dy5)
 
 Names (3): _corpus: _corpus:phase:bi-dy:bi3dy5  
@@ -99,10 +99,12 @@ _tdb: _tdb:BiDy-13Wan.tdb:BI3DY5
 52: CONST BI3DY5 : BI : DY : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/s0925-8388(01)01009-x](https://doi.org/10.1016/s0925-8388%2801%2901009-x) M Drzyzga, J Szade, Structure and magnetism of R5Bi3 (R=Tb, Dy, Ho, Er) and Tb4Bi3, Journal of Alloys and Compounds 321, 27-34 (2001).  
+_cited as the source of values for this phase_
 
 ## BIDY_B1 (Bi–Dy)
 

@@ -9,7 +9,7 @@
  ],
  "conditions": {
   "P": 101325,
-  "T": 1473.0
+  "T": 298.15
  },
  "output": "HM_FORM",
  "values": [
@@ -28,6 +28,7 @@
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-KKEXC563ZY",
+ "orchid_temperature_note": "temperature from the published records (page-checked correction of the stored temperature)",
  "weight": 0.142857,
  "bibtex": "grobner1995_1fe495",
  "orchid": {
@@ -64,7 +65,7 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 500.0,
+     "sigma_reading": 50.0,
      "sigma_method": 3500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -72,7 +73,7 @@
      "sigma_effective": 3500.0,
      "method_class": "solution_reaction_calorimetry",
      "method_basis": "calibrated",
-     "method_n_pairs": 74,
+     "method_n_pairs": 75,
      "method_entry": "value_types/HM_FORM/classes/solution_reaction_calorimetry"
     },
     "sigma_effective_used": 3500.0,

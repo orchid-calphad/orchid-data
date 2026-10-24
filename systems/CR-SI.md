@@ -1,10 +1,10 @@
 # Cr–Si system
 
-> Cr–Si system: 110 accepted literature values (invariant reaction 53, formation 29, phase transition 28) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Si system: 116 accepted literature values (invariant reaction 53, formation 29, phase transition 28, crystal structure 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-SI.html · Markdown: https://data.orchid-project.org/systems/CR-SI.md
 
-110 accepted literature values from 5 paper(s) (experimental 45, model 38, unspecified 27); 7 calculated phase diagram(s).
+116 accepted literature values from 6 paper(s) (experimental 45, model 44, unspecified 27); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-SI.json) · [CSV](https://data.orchid-project.org/systems/CR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-SI/CrSi-00Du.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CR-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-SI.html) · [Markdown](https://data.orchid-project.org/systems/CR-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 45 |
-| model | 38 |
+| model | 44 |
 | unspecified | 27 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 53 |
 | phase transition | 28 |
 | formation | 29 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -123,7 +124,7 @@ Table: Invariant reactions reported in the literature for the Cr–Si system (53
 | 1937.15 | L ↔ Cr3Si + βCr5Si3 | Cr3Si: Si 0.25; βCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 11 |  |
 | 1937.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | unspecified | [2] Du 2000 | Table 2, p. 2, row 12 |  |
 | 1933.15 | L -> βCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 2, p. 2, row 13 |  |
-| 1932.22 | Liquid + Cr3Si = βCr5Si3 | L: Si 0.3826; Cr3Si: Si 0.2893; βCr5Si3: Si 0.003709 | model | [3] Chen 2009 | Table 2, p. 3, row 2 |  |
+| 1932.22 | Liquid + Cr3Si = βCr5Si3 | L: Si 0.3826; Cr3Si: Si 0.2893; βCr5Si3: Si 0.3709 | model | [3] Chen 2009 | Table 2, p. 3, row 2 |  |
 | 1792.15 | L + βCr5Si3 ↔ αCr5Si3 | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375 | unspecified | [2] Du 2000 | Table 1, p. 2, row 18 |  |
 | 1781.97 | Liquid + βCr5Si3 = αCr5Si3 | L: Si 0.5038; βCr5Si3: Si 0.3747; αCr5Si3: Si 0.375 | model | [3] Chen 2009 | Table 2, p. 3, row 4 |  |
 | 1778.15 | βCr5Si3 ↔ αCr5Si3 + Cr3Si | βCr5Si3: Si 0.375; αCr5Si3: Si 0.375; Cr3Si: Si 0.25 | experimental | [2] Du 2000; _cites Chang 1968_ | Table 1, p. 2, row 19 |  |
@@ -234,6 +235,19 @@ Table: Phase transition, Cr–Si system
 | Phase transition | 2180.15 K | 2180.15 |  | experimental | [4] Ioroi 2024 | p. 1 | “The thermodynamic parameters for the Gibbs energy of pure Cr were modified based on the new experimental value of 1861 °C for the melting point of pure Cr, which was previously reported as 1907 °C in the SGTE” |
 | Phase transition | 2180.15 K | 2180.15 | Cr + liquid | model | [5] Coughanowr 1994; _cites ref. 91Din_ | p. 2 | “However, the T, of 1907°C (2180 K) adopted by SGTE ' \[91Din\] and used in the present work is higher by 27-47°C.” |
 
+### Crystal structure (6)
+
+Table: Crystal structure, Cr–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.558 Å | 298.15 | Cr3Si; _alloy: Cr 0.75, Si 0.25_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 7 |  |
+| Lattice a | 4.62 Å | 298.15 | CrSi; _alloy: Cr 0.5, Si 0.5_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 5 |  |
+| Lattice a | 4.428 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
+| Lattice a | 9.17 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
+| Lattice c | 6.368 Å | 298.15 | CrSi2; _alloy: Cr 0.333333, Si 0.666667_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 4 |  |
+| Lattice c | 4.636 Å | 298.15 | αCr5Si3; _alloy: Cr 0.625, Si 0.375_ | model | [6] Hu 2013; _cites Gokhale 1987_ [doi](https://doi.org/10.1007/bf02893156) | Table 3, p. 4, row 6 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -243,6 +257,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. Hailin Chen, Yong Du, Julius C. Schuster, On the melting of Cr5Si3 and update of the thermodynamic description of Cr–Si, Calphad 33, 211-214 (2009). [doi:10.1016/j.calphad.2008.05.005](https://doi.org/10.1016/j.calphad.2008.05.005)
 4. Kazushige Ioroi, Ikuo Ohnuma, Xiao Xu, Ryosuke Kainuma, Toshihiro Omori, Thermodynamic assessment of the Cr–Si binary system, Calphad 85, 102690 (2024). [doi:10.1016/j.calphad.2024.102690](https://doi.org/10.1016/j.calphad.2024.102690)
 5. Corinne A. Coughanowr, Ibrahim Ansara, Hans Leo Lukas, Assessment of the CrSi System, Calphad 18, 125-140 (1994). [doi:10.1016/0364-5916(94)90023-x](https://doi.org/10.1016/0364-5916%2894%2990023-x)
+6. Biao Hu, Wei-Wei Zhang, Yingbiao Peng, Yong Du, Shuhong Liu, Yuelan Zhang, Thermodynamic reassessment of the Al–Cr–Si system with the refined description of the Al–Cr system, Thermochimica Acta 561, 77-90 (2013). [doi:10.1016/j.tca.2013.03.033](https://doi.org/10.1016/j.tca.2013.03.033)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Hg–Tl system
 
-> Hg–Tl system: 19 accepted literature values (crystal structure 12, invariant reaction 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hg–Tl system: 13 accepted literature values (crystal structure 6, invariant reaction 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HG-TL.html · Markdown: https://data.orchid-project.org/systems/HG-TL.md
 
-19 accepted literature values from 1 paper(s) (experimental 19); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HG-TL.json) · [CSV](https://data.orchid-project.org/systems/HG-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HG-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HG-TL/HgTl-06Gie.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HG-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HG-TL.html) · [Markdown](https://data.orchid-project.org/systems/HG-TL.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
+| experimental | 13 |
 
 Table: Accepted values by property group
 
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 2 |
-| crystal structure | 12 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -57,7 +57,7 @@ Table: Phase transition, Hg–Tl system
 | Phase transition | 287.3 K | 287.3 | congruent transformation | experimental | [1] Gierlotka 2006; _cites Claire 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990270-2) | p. 3 | “They described also the congruent melting point of the Gamma phase as 28.6 at. % of Tl at 287.3 K.” |
 | Phase transition | 291 K | 291 | congruent melting: L -> gamma; _L: Tl 0.286; γ: Tl 0.286_ | experimental | [1] Gierlotka 2006; _cites Hansen 1958_ | Table 3, p. 3, row 1 |  |
 
-### Crystal structure (12)
+### Crystal structure (6)
 
 Table: Crystal structure, Hg–Tl system
 
@@ -68,13 +68,7 @@ Table: Crystal structure, Hg–Tl system
 | Lattice a | 300.5 not_printed | 156.5 | (αHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 2 |  |
 | Lattice a | 468 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
 | Lattice a | 462.8 not_printed | 291 (\<) | γ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 5 |  |
-| Lattice a | 345.63 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 547.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice a | 378.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
-| Lattice a | 387.9 not_printed | 577 (\<) | (βTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 4 |  |
 | Lattice c | 282.5 not_printed | 78 (\<) | (βHg); _alloy: Tl 0_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 1 |  |
-| Lattice c | 552.6 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
-| Lattice c | 342.5 not_printed | 503 (\<) | (αTl); _alloy: Tl 1_ | experimental | [1] Gierlotka 2006; _cites Amand 1978_ [doi](https://doi.org/10.1016/0022-5088%2878%2990197-2) | Table 1, p. 2, row 3 |  |
 
 ## Sources
 

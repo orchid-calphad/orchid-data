@@ -1,10 +1,10 @@
 # C–Zr system
 
-> C–Zr system: 47 accepted literature values (phase transition 17, invariant reaction 16, phase equilibrium 8, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Zr system: 48 accepted literature values (phase transition 17, invariant reaction 17, phase equilibrium 8, formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-ZR.html · Markdown: https://data.orchid-project.org/systems/C-ZR.md
 
-47 accepted literature values from 1 paper(s) (experimental 32, model 12, unspecified 3); 0 calculated phase diagram(s).
+48 accepted literature values from 2 paper(s) (experimental 32, model 13, unspecified 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-ZR.json) · [CSV](https://data.orchid-project.org/systems/C-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-ZR) · [phases (6)](https://data.orchid-project.org/phases/pages/C-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-ZR.html) · [Markdown](https://data.orchid-project.org/systems/C-ZR.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 32 |
-| model | 12 |
+| model | 13 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 17 |
 | phase transition | 17 |
 | phase equilibrium | 8 |
 | formation | 6 |
@@ -29,7 +29,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Zr system (16)
+Table: Invariant reactions reported in the literature for the C–Zr system (17)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -49,6 +49,7 @@ Table: Invariant reactions reported in the literature for the C–Zr system (16)
 | 3128 | γ + liquid + graphite | γ: C 0.492; L: C 0.64 | model | [1] Guillermet 1995; _cites Storms 1967_ | Table 4, p. 11, row 11 |  |
 | 3078 | γ + liquid + graphite | L: C 0.644 | experimental | [1] Guillermet 1995; _cites Chiotti 1954_ | Table 4, p. 11, row 2 |  |
 | 2697 | γ + liquid + graphite |  | experimental | [1] Guillermet 1995; _cites Agte 1931_ [doi](https://doi.org/10.1002/zaac.19311980122) | Table 4, p. 11, row 1 |  |
+| 1159 | peritectoid: (βZr) + ZrC1-x \<-> (αZr) | ZrC1-x: C 0.3791; (αZr): C 0.0073; ZrC1−x: C 0.3791 | model | [2] Bittermann 2002; _cites Fernandez 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901310-e) | Table 2, p. 5, row 5 |  |
 
 ## Formation enthalpies
 
@@ -60,8 +61,8 @@ Table: Enthalpies of formation, C–Zr system (6)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | ZrC | [ZrC](https://data.orchid-project.org/compounds/ZrC.html) | -71 kJ/mol-atom |  | model | -77.578 (mp-aaaaaedn) | -78.347 (oqmd-4151) | [1] Guillermet 1995; _cites F 1988_ | Table 1, p. 7, row 4 |  |
 | ZrC | [ZrC](https://data.orchid-project.org/compounds/ZrC.html) | -69 kJ/mol-atom |  | unspecified | -77.578 (mp-aaaaaedn) | -78.347 (oqmd-4151) | [1] Guillermet 1995 | Table 1, p. 7, row 3 |  |
-| ZrC0.5 | [ZrC0.5](https://data.orchid-project.org/compounds/ZrC0.5.html) | -103.5 kJ/mol-atom |  | unspecified |  | -60.373 (oqmd-2170491) | [1] Guillermet 1995 | Table 1, p. 7, row 1 |  |
-| ZrC0.5 | [ZrC0.5](https://data.orchid-project.org/compounds/ZrC0.5.html) | -103 kJ/mol-atom |  | model |  | -60.373 (oqmd-2170491) | [1] Guillermet 1995; _cites F 1988_ | Table 1, p. 7, row 2 |  |
+| ZrC0.5 | [Zr2C](https://data.orchid-project.org/compounds/Zr2C.html) | -103.5 kJ/mol-atom |  | unspecified |  | -60.373 (oqmd-2170491) | [1] Guillermet 1995 | Table 1, p. 7, row 1 |  |
+| ZrC0.5 | [Zr2C](https://data.orchid-project.org/compounds/Zr2C.html) | -103 kJ/mol-atom |  | model |  | -60.373 (oqmd-2170491) | [1] Guillermet 1995; _cites F 1988_ | Table 1, p. 7, row 2 |  |
 | ZrC3 | [ZrC3](https://data.orchid-project.org/compounds/ZrC3.html) | -53 kJ/mol-atom |  | model |  | 75.506 (oqmd-323488) | [1] Guillermet 1995; _cites F 1988_ | Table 1, p. 7, row 6 |  |
 | ZrC3 | [ZrC3](https://data.orchid-project.org/compounds/ZrC3.html) | -25 kJ/mol-atom ± 25 |  | unspecified |  | 75.506 (oqmd-323488) | [1] Guillermet 1995 | Table 1, p. 7, row 5 |  |
 
@@ -111,6 +112,7 @@ Table: Phase equilibrium, C–Zr system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. A. Fernández Guillermet, Analysis of thermochemical properties and phase stability in the zirconium-carbon system, Journal of Alloys and Compounds 217, 69-89 (1995). [doi:10.1016/0925-8388(94)01310-e](https://doi.org/10.1016/0925-8388%2894%2901310-e)
+2. H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system C-Hf-Zr (Carbon-Zirconium-Hafnium), JPE 23, 218-235 (2002). [doi:10.1361/105497102770331703](https://doi.org/10.1361/105497102770331703)
 
 ## Please cite
 

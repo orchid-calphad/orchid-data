@@ -1,19 +1,18 @@
 # Ce–Y phases
 
-> Ce–Y system: 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ce–Y system: 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CE-Y.html · Markdown: https://data.orchid-project.org/phases/pages/CE-Y.md
 
-6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CE-Y) · [full JSON](https://data.orchid-project.org/phases/systems/CE-Y.json) · [Ce–Y system page](https://data.orchid-project.org/systems/CE-Y.html) · [Markdown](https://data.orchid-project.org/phases/pages/CE-Y.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ce–Y system (6)
+Table: Phases of the Ce–Y system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ce-y-bcc-a2); _phase:ce-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 954.4–2499.5 K, x(Y) 0–1 | 10 | 3 |
-| [DHCP](#phase-ce-y-dhcp); _phase:ce-y:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-ce-y-dhcp-a3); _phase:ce-y:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1055.23 K, x(Y) 0–0.5458 | 10 | 3 |
 | [FCC_A1](#phase-ce-y-fcc-a1); _phase:ce-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1001.33 K, x(Y) 0–0.12683 | 6 | 3 |
 | [HCP_A3](#phase-ce-y-hcp-a3); _phase:ce-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1752.15 K, x(Y) 0.6283–1 | 4 | 3 |
@@ -70,24 +69,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Ce–Y)
 
-- Id: `phase:ce-y:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-y:dhcp)
-
-Names (1): _corpus: _corpus:phase:ce-y:dhcp  
-
-
-## DHCP (Ce–Y)
-
 - Id: `phase:ce-y:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1055.23 K, x(Y) 0–0.5458
 - Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-y:dhcp-a3)
 
-Names (6): _corpus: _corpus:phase:ce-y:dhcp-a3  
+Names (7): _corpus: _corpus:phase:ce-y:dhcp-a3, corpus:phase:ce-y:dhcp  
 _paper: _paper:10.1016/j.calphad.2006.02.002:dhcp, paper:10.1016/j.ssi.2008.06.011:dhcp  
 _tdb: _tdb:CeY-06Men.tdb:DHCP, tdb:CeY-08Dju.tdb:DHCP, tdb:CeY-08Guo.tdb:DHCP  
 

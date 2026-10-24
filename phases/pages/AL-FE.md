@@ -19,10 +19,10 @@ Table: Phases of the Al–Fe system (13)
 | [AL5FE4](#phase-al-fe-al5fe4); _phase:al-fe:al5fe4_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1357.33–1501.79 K, x(Fe) 0.36411–0.43508 | 0 | 4 |
 | [AL8FE5_D82](#phase-al-fe-al8fe5-d82); _phase:al-fe:al8fe5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1367.89–2500 K, x(Fe) 0.15389–0.44414 | 4 | 7 |
 | [BCC_4SL](#phase-al-fe-bcc-4sl); _phase:al-fe:bcc-4sl_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1810 K, x(Fe) 0.47196–1 | 0 | 4 |
-| [BCC_A2](#phase-al-fe-bcc-a2); _phase:al-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 21 calculated diagram(s): 300–1820 K, x(Fe) 0.44948–1 | 128 | 21 |
-| [B2_BCC](#phase-al-fe-bcc-b2); _phase:al-fe:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1825.37 K, x(Fe) 0.45451–1 | 60 | 10 |
+| [BCC_A2](#phase-al-fe-bcc-a2); _phase:al-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1820 K, x(Fe) 0.44948–1 | 0 | 21 |
+| [B2_BCC](#phase-al-fe-bcc-b2); _phase:al-fe:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1825.37 K, x(Fe) 0.45451–1 | 59 | 10 |
 | [FCC_4SL](#phase-al-fe-fcc-4sl); _phase:al-fe:fcc-4sl_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1679.81 K, x(Fe) 0–1 | 0 | 4 |
-| [FCC_A1](#phase-al-fe-fcc-a1); _phase:al-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 15 calculated diagram(s): 300–1674.47 K, x(Fe) 0–1 | 15 | 15 |
+| [FCC_A1](#phase-al-fe-fcc-a1); _phase:al-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1674.47 K, x(Fe) 0–1 | 15 | 15 |
 | [HCP_A3](#phase-al-fe-hcp-a3); _phase:al-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
 | [LIQUID](#phase-al-fe-liquid); _phase:al-fe:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 922.63–2500 K, x(Fe) 0–1 | 117 | 11 |
 
@@ -629,12 +629,11 @@ _assessment that models this phase_
 
 - Id: `phase:al-fe:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 11 of 21 calculated diagram(s): 300–1820 K, x(Fe) 0.44948–1
-- Literature: 128 values (124 accepted) from 3 papers
+- Stability: stable in 11 of 11 calculated diagram(s): 300–1820 K, x(Fe) 0.44948–1
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:bcc-a2)
 
-Names (25): _corpus: _corpus:phase:al-fe:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.07.010:ε, paper:10.1016/j.jallcom.2018.01.316:ε, paper:10.1016/j.jallcom.2022.168361:ε  
+Names (22): _corpus: _corpus:phase:al-fe:bcc-a2  
 _tdb: _tdb:AlFe-07Zha.tdb:A2_BCC, tdb:AlFe-07Zha.tdb:BCC_A2, tdb:AlFe-09Jac.tdb:A2_BCC, tdb:AlFe-09Jac.tdb:BCC_A2, tdb:AlFe-09Sun-no-option-F.tdb:A2_BCC, tdb:AlFe-09Sun-no-option-F.tdb:BCC_A2, tdb:AlFe-09Sun.tdb:A2_BCC, tdb:AlFe-09Sun.tdb:BCC_A2, tdb:AlFe-15Mie.tdb:BCC_A2, tdb:AlFe-17Zhe.tdb:A2_BCC, tdb:AlFe-17Zhe.tdb:BCC_A2, tdb:AlFe-18Zie.tdb:A2_BCC, tdb:AlFe-18Zie.tdb:BCC_A2, tdb:AlFe-19Ran.tdb:A2_BCC, tdb:AlFe-19Ran.tdb:BCC_A2, tdb:AlFe-21Mur.tdb:A2_BCC, tdb:AlFe-21Mur.tdb:BCC_A2, tdb:AlFe-23Ila.tdb:A2_BCC, tdb:AlFe-23Ila.tdb:BCC_A2, tdb:AlFe-93Sei-LB.tdb:A2_BCC, tdb:AlFe-93Sei-LB.tdb:BCC_A2  
 
 
@@ -787,28 +786,26 @@ _tdb: _tdb:AlFe-07Zha.tdb:A2_BCC, tdb:AlFe-07Zha.tdb:BCC_A2, tdb:AlFe-09Jac.tdb:
 32: CONST BCC_A2 : AL FE : VA : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (9 of 9; assessments first): 
 
-- [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010) Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.jallcom.2022.168361](https://doi.org/10.1016/j.jallcom.2022.168361) M. Ilatovskaia, H. Becker, O. Fabrichnaya, A. Leineweber, The η-Al5Fe2 phase in the Al–Fe system: The issue with the sublattice model, Journal of Alloys and Compounds 936, 168361 (2023).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046) Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009).  
-_assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2017.05.003](https://doi.org/10.1016/j.calphad.2017.05.003) W. Zheng, S. He, M. Selleby, Y. He, L. Li, X.-G. Lu, J. Ågren, Thermodynamic assessment of the Al-C-Fe system, Calphad 58 (2017) 34e49, https://doi.org/ 10.1016/j.calphad.2017.05.003. http://www.sciencedirect.com/science/ article/pii/S0364591617300482.  
-_assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.3139/146.111765](https://doi.org/10.3139/146.111765) M. Rank, P. Franke, H.J. Seifert, Thermodynamic investigations in the Al–Fe system: thermodynamic modeling using CALPHAD, Int. J. Mater. Res. 110 (2019) 406–421, https://doi.org/10.3139/146.111765  
-_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5) Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015).  
+_assessment that models this phase_
+- [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046) Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2007.03.003](https://doi.org/10.1016/j.calphad.2007.03.003) Lijun Zhang, Yong Du, Thermodynamic description of the Al–Fe–Ni system over the whole composition and temperature ranges: Modeling coupled with key experiment, Calphad 31, 529-540 (2007).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010) Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2017.05.003](https://doi.org/10.1016/j.calphad.2017.05.003) W. Zheng, S. He, M. Selleby, Y. He, L. Li, X.-G. Lu, J. Ågren, Thermodynamic assessment of the Al-C-Fe system, Calphad 58 (2017) 34e49, https://doi.org/ 10.1016/j.calphad.2017.05.003. http://www.sciencedirect.com/science/ article/pii/S0364591617300482.  
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102360](https://doi.org/10.1016/j.calphad.2021.102360) H. Murdoch, A. Giri, D. Field, E. Hernandez-Rivera, M. Guziewski, Calphad, 75, 102360(2021).  
 _assessment that models this phase_
-- [doi:10.1007/s11669-015-0446-7](https://doi.org/10.1007/s11669-015-0446-7) Xiaolin Li, Anke Scherf, Martin Heilmaier, Frank Stein, The Al-Rich Part of the Fe-Al Phase Diagram, J. Phase Equilib. Diffus. 37, 162-173 (2016).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2022.168361](https://doi.org/10.1016/j.jallcom.2022.168361) M. Ilatovskaia, H. Becker, O. Fabrichnaya, A. Leineweber, The η-Al5Fe2 phase in the Al–Fe system: The issue with the sublattice model, Journal of Alloys and Compounds 936, 168361 (2023).  
+_assessment that models this phase_
+- [doi:10.3139/146.111765](https://doi.org/10.3139/146.111765) M. Rank, P. Franke, H.J. Seifert, Thermodynamic investigations in the Al–Fe system: thermodynamic modeling using CALPHAD, Int. J. Mater. Res. 110 (2019) 406–421, https://doi.org/10.3139/146.111765  
+_assessment that models this phase_
 
 ## B2_BCC (Al–Fe)
 
@@ -835,7 +832,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in AlFe-23Ila.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlFe-93Sei-LB.tdb also describes the disordered state
 - Stability: stable in 10 of 10 calculated diagram(s): 300–1825.37 K, x(Fe) 0.45451–1
-- Literature: 60 values (58 accepted) from 4 papers
+- Literature: 59 values (57 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:bcc-b2)
 
 Names (17): _corpus: _corpus:phase:al-fe:bcc-b2, corpus:phase:al-fe:b2-bcc  
@@ -1001,7 +998,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-fe:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 11 of 15 calculated diagram(s): 300–1674.47 K, x(Fe) 0–1
+- Stability: stable in 11 of 11 calculated diagram(s): 300–1674.47 K, x(Fe) 0–1
 - Literature: 15 values (15 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:fcc-a1)
 

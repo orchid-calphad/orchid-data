@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Nb5Si3.html · Markdown: https:/
 
 40 accepted literature formation-enthalpy value(s) (experimental 8, model 28, DFT 2, unspecified 2); experimental median -64.2 kJ/mol-atom (n = 8); Materials Project -62.965 kJ/mol-atom (mp-aaaaaugk); OQMD -65.593 kJ/mol-atom (oqmd-3572).
 
-Systems: [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) · [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html)
+Systems: [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html)
 
 ## Literature values
 
@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Nb5Si3 reported in the literature (40)
 |---:|---|---:|---|---|---|---|---|---|
 | -65.379 kJ/mol-atom | αNb5Si3 | 298.15 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002; _cites Nunes_ | Table 3, p. 6, row 5 |  |
 | -64.6 kJ/mol-atom ± 2.4 | Nb5Si3 | 298.15 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 9 |  |
-| -64.6 kJ/mol-atom ± 19.2 | α(Nb5Si3) | 273.15 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
+| -64.6 kJ/mol-atom ± 2.4 | α(Nb5Si3) | 273.15 | experimental | Calorimetry | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Geng 2009; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 4, row 2 |  |
 | -64.6 kJ/mol-atom | αNb5Si3 | 298.15 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 3, p. 6, row 3 |  |
 | -63.8 kJ/mol-atom | αNb5Si3 | 298.15 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Gorelkin 1972_ | Table 7, p. 8, row 1 |  |
 | -63.8 kJ/mol-atom | αNb5Si3 | 298.15 | experimental |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002; _cites Gorelkin 1972_ | Table 3, p. 6, row 4 |  |
@@ -29,7 +29,7 @@ Table: Enthalpy of formation of Nb5Si3 reported in the literature (40)
 | -64.6 kJ/mol-atom | αNb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 7, p. 8, row 5 |  |
 | -63.8 kJ/mol-atom | α-Nb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [5] Liang 1999; _cites Gorelkin 1972_ | Table 2, p. 4, row 2 |  |
 | -63.0044 kJ/mol-atom | α(Nb5Si3) | 273.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Geng 2009 | Table 3, p. 4, row 1 |  |
-| -63.001 kJ/mol (basis unstated) | Nb5Si3 | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [6] Utton 2017 | Table 2, p. 6, row 4 |  |
+| -63.001 kJ/mol (basis unstated) | Nb5Si3 | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [6] Utton 2017 | Table 2, p. 6, row 4 |  |
 | -62.7 kJ/mol-atom | αNb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 7, p. 8, row 7 |  |
 | -62.658 per mol-atom | Nb5Si3 | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 23 |  |
 | -62.6575 kJ/mol-atom | αNb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Fernandes 2002 | Table 3, p. 6, row 1 |  |
@@ -47,11 +47,11 @@ Table: Enthalpy of formation of Nb5Si3 reported in the literature (40)
 | -52 kJ/mol-atom | αNb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 7, p. 8, row 6 |  |
 | -52 kJ/mol-atom | Nb5Si3 | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 7 |  |
 | -52 kJ/mol-atom | α-Nb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [5] Liang 1999 | Table 2, p. 4, row 1 |  |
-| -50.636 kJ/mol (basis unstated) | Nb5Si3 | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [6] Utton 2017 | Table 2, p. 6, row 8 |  |
+| -50.636 kJ/mol (basis unstated) | Nb5Si3 | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [6] Utton 2017 | Table 2, p. 6, row 8 |  |
 | -47.69 kJ/mol-atom | α-Nb5Si3 | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [5] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 4 |  |
 | -47.69 kJ/mol-atom | Nb5Si3 | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 8 |  |
-| -61.2 kJ/mol (basis unstated) | Nb5Si3 | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [6] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 3 |  |
-| -58.2 kJ/mol (basis unstated) | Nb5Si3 | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [6] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 7 |  |
+| -61.2 kJ/mol (basis unstated) | Nb5Si3 | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [6] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 3 |  |
+| -58.2 kJ/mol (basis unstated) | Nb5Si3 | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [6] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 7 |  |
 | -66.4 kJ/mol-atom | αNb5Si3 | 298.15 | unspecified |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006 | Table 7, p. 8, row 11 |  |
 | -56 kJ/mol-atom | αNb5Si3 | 298.15 | unspecified |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [4] David 2006; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 7, p. 8, row 4 |  |
 
@@ -63,46 +63,46 @@ Table: Uncertainty budget of the literature values of Nb5Si3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -65.379 | kJ/mol-atom |  | 6.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -65.379 | kJ/mol-atom |  | 6.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -64.6 | kJ/mol-atom | 2.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -64.6 | kJ/mol-atom | 19.2 | 6.250e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 19.2 |
-| -64.6 | kJ/mol-atom |  | 6.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -63.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -63.8 | kJ/mol-atom |  | 6.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -63.8 | kJ/mol-atom |  | 6.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -60.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -65.379 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.792 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63.8 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63.0044 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63.001 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -62.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.6 | kJ/mol-atom | 2.4 | 6.250e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -64.6 | kJ/mol-atom |  | 6.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -63.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -63.8 | kJ/mol-atom |  | 6.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -63.8 | kJ/mol-atom |  | 6.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -60.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -65.379 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -65.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.792 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -63.8 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -63.0044 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -63.001 | kJ/mol (basis unstated) |  | 5.000e-4 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
+| -62.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -62.658 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -62.6575 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.8871 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.887 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.887 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.7 | kJ/mol-atom | 13 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 13 |
-| -57 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -57 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.636 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -47.69 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -47.69 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61.2 | kJ/mol (basis unstated) |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -58.2 | kJ/mol (basis unstated) |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -66.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -56 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -62.6575 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.8871 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.887 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.887 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.7 | kJ/mol-atom | 13 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 13 |
+| -57 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -57 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.636 | kJ/mol (basis unstated) |  | 5.000e-4 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
+| -47.69 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -47.69 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61.2 | kJ/mol (basis unstated) |  | 0.05 | 81.52 (dft, calibrated) |  |  |  | 81.52 |
+| -58.2 | kJ/mol (basis unstated) |  | 0.05 | 81.52 (dft, calibrated) |  |  |  | 81.52 |
+| -66.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -56 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

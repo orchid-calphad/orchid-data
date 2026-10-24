@@ -15,7 +15,7 @@ Table: Phases of the Cr–Fe system (9)
 | [CHI_A12](#phase-cr-fe-a12-chi); _phase:cr-fe:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [BCC_A2](#phase-cr-fe-bcc-a2); _phase:cr-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2180.98 K, x(Fe) 0–1 | 10 | 7 |
 | [C14_LAVES](#phase-cr-fe-c14-laves); _phase:cr-fe:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [SIGMA_D8B](#phase-cr-fe-d8b-sigma); _phase:cr-fe:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 704.29–1104.5 K, x(Fe) 0.48378–0.57894 | 43 | 7 |
+| [SIGMA_D8B](#phase-cr-fe-d8b-sigma); _phase:cr-fe:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 704.29–1104.5 K, x(Fe) 0.48378–0.57894 | 41 | 7 |
 | [FCC_A1](#phase-cr-fe-fcc-a1); _phase:cr-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 7 calculated diagram(s): 1117.16–1671.06 K, x(Fe) 0.87767–1 | 2 | 7 |
 | [HCP_A3](#phase-cr-fe-hcp-a3); _phase:cr-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [HIGH_SIGMA](#phase-cr-fe-high-sigma); _phase:cr-fe:high-sigma_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -168,7 +168,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrFe-21Laf.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrFe-23Zha.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 704.29–1104.5 K, x(Fe) 0.48378–0.57894
-- Literature: 43 values (43 accepted) from 1 papers
+- Literature: 41 values (41 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-fe:d8b-sigma)
 
 Names (10): _corpus: _corpus:phase:cr-fe:d8b-sigma, corpus:phase:cr-fe:sigma-d8b  

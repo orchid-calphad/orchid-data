@@ -1,10 +1,10 @@
 # Ag–Os system
 
-> Ag–Os system: 4 accepted literature values (crystal structure 3, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Os system: 1 accepted literature values (phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-OS.html · Markdown: https://data.orchid-project.org/systems/AG-OS.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-OS.json) · [CSV](https://data.orchid-project.org/systems/AG-OS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-OS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-OS/AgOs-86Kar-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-OS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-OS.html) · [Markdown](https://data.orchid-project.org/systems/AG-OS.md)
 
@@ -12,14 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
-| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -50,16 +49,6 @@ Table: Phase transition, Ag–Os system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2173.15 K | 2173.15 | other | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 3 | “A monotectic reaction was reported at about 1900 ~ and near 20 at.% Ag \[59Rud\].” |
-
-### Crystal structure (3)
-
-Table: Crystal structure, Ag–Os system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1, Os 0_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.7348 Å | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.3913 Å | 298.15 | Os(s); _Os(s): Ag 0, Os 1_ | experimental | [1] Karakaya 1986; _cites ref. 1_ | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

@@ -12,9 +12,9 @@ Table: Phases of the Li–Zn system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-li-zn-bcc-a2); _phase:li-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 6 calculated diagram(s): 300–457.6 K, x(Zn) 0–0.00963 | 4 | 6 |
+| [BCC_A2](#phase-li-zn-bcc-a2); _phase:li-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–457.6 K, x(Zn) 0–0.00963 | 4 | 6 |
 | [FCC_A1](#phase-li-zn-fcc-a1); _phase:li-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [HCP_A3](#phase-li-zn-hcp-a3); _phase:li-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 5 calculated diagram(s): 300–827.68 K, x(Zn) 0.95803–1 | 4 | 5 |
+| [HCP_A3](#phase-li-zn-hcp-a3); _phase:li-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–827.68 K, x(Zn) 0.95803–1 | 4 | 5 |
 | [LI2ZN3_ALPHA](#phase-li-zn-li2zn3-alpha); _phase:li-zn:li2zn3-alpha_ | Li5Sn2 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–447.37 K, x(Zn) 0.56181–0.6 | 8 | 3 |
 | [LI2ZN3_BETA](#phase-li-zn-li2zn3-beta); _phase:li-zn:li2zn3-beta_ | Ga4Li5 · hP9 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 430.14–798.39 K, x(Zn) 0.45464–0.67582 | 18 | 3 |
 | [LI2ZN5_ALPHA](#phase-li-zn-li2zn5-alpha); _phase:li-zn:li2zn5-alpha_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–620 K, x(Zn) 0.71429–0.71511 | 8 | 3 |
@@ -25,11 +25,11 @@ Table: Phases of the Li–Zn system (12)
 | [LIZN4_ALPHA](#phase-li-zn-lizn4-alpha); _phase:li-zn:lizn4-alpha_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–522.92 K, x(Zn) 0.79981–0.86732 | 6 | 3 |
 | [LIZN4_BETA](#phase-li-zn-lizn4-beta); _phase:li-zn:lizn4-beta_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300.34–2500 K, x(Zn) 0.2–1 | 8 | 3 |
 
-## A2_BCC (Li–Zn)
+## BCC_A2 (Li–Zn)
 
 - Id: `phase:li-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 6 calculated diagram(s): 300–457.6 K, x(Zn) 0–0.00963
+- Stability: stable in 3 of 3 calculated diagram(s): 300–457.6 K, x(Zn) 0–0.00963
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-zn:bcc-a2)
 
@@ -38,7 +38,7 @@ _paper: _paper:10.1016/j.jallcom.2007.01.154:bcc (Li)
 _tdb: _tdb:LiZn-08Lia.tdb:A2_BCC, tdb:LiZn-08Lia.tdb:BCC_A2, tdb:LiZn-11Guo.tdb:A2_BCC, tdb:LiZn-11Guo.tdb:BCC_A2, tdb:LiZn-24Liu.tdb:A2_BCC, tdb:LiZn-24Liu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (6): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (6): PHASE and CONSTITUENT statements as written
 
 [LiZn-08Lia.tdb](https://orchid-project.org/data/databases/sgte-binary/LiZn-08Lia.tdb): A2_BCC, type code %B, sha256 `60ba1d9f7a9fd485…`
 
@@ -139,7 +139,7 @@ _assessment that models this phase_
 
 - Id: `phase:li-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 5 calculated diagram(s): 300–827.68 K, x(Zn) 0.95803–1
+- Stability: stable in 3 of 3 calculated diagram(s): 300–827.68 K, x(Zn) 0.95803–1
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-zn:hcp-a3)
 

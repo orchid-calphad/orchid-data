@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi2Te.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -14.7 kJ/mol-atom (n = 1); Materials Project -14.943 kJ/mol-atom (mp-aaacrvsf); OQMD -13.097 kJ/mol-atom (oqmd-2168844).
 
-Systems: [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html)
+Systems: [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Bi2Te reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.7 kJ/mol-atom | Bi2Te | 298.15 | experimental | EMF | [Bi–Se–Te](https://data.orchid-project.org/systems/BI-SE-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 104 |  |
+| -14.7 kJ/mol-atom | Bi2Te | 298.15 | experimental | EMF | [Bi–Te](https://data.orchid-project.org/systems/BI-TE.html) | [1] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 104 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Bi2Te
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.7 | kJ/mol-atom |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -14.7 | kJ/mol-atom |  | 5.000e-5 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of Bi2Te
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacrvsf | -14.943 | -0.154877 | I-42d | 11.566 | 0.1199 | yes |
-| OQMD | oqmd-2168844 | -13.097 | -0.135736 | P-3m1 | 0.232 | 0.0024 | yes |
+| Materials Project | mp-aaacrvsf | -14.943 | -0.154877 | I-42d | 11.5661 | 0.1199 | yes |
+| OQMD | oqmd-2168844 | -13.097 | -0.135736 | P-3m1 | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

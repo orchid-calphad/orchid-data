@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HfNi.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (model 3, DFT 1); Materials Project -50.09 kJ/mol-atom (mp-aaacfyaa); OQMD -50.079 kJ/mol-atom (oqmd-30515).
 
-Systems: [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) · [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)
+Systems: [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)
 
 ## Literature values
 
@@ -17,7 +17,7 @@ Table: Enthalpy of formation of HfNi reported in the literature (4)
 | -50.06 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018; _cites Berche 2016_ [doi](https://doi.org/10.1016/j.commatsci.2016.08.042) | Table 1, p. 4, row 9 |  |
 | -50 kJ/mol-atom | NiHf(B33) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 8 |  |
 | -41.77 kJ/mol-atom | NiHf(B2) | 298.15 | model |  | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Ross 2018 | Table 1, p. 4, row 10 |  |
-| -50.06 kJ/mol (basis unstated) | B33-HfNi | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [2] Berche 2016 | Table 2, p. 4, row 5 |  |
+| -50.06 kJ/mol (basis unstated) | B33-HfNi | 0 | DFT | DFT | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [2] Berche 2016 | Table 2, p. 4, row 5 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of HfNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -50.06 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -41.77 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.06 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -50.06 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -41.77 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.06 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
 
 ## DFT formation energies
 
@@ -42,6 +42,7 @@ Table: DFT formation energy of HfNi
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacfyaa | -50.09 | -0.519151 | Cmcm | 0 | 0 | no |
 | OQMD | oqmd-30515 | -50.079 | -0.519031 | Cmcm | 0 | 0 | no |
+| OQMD | oqmd-305271 | -41.908 | -0.434345 | Pm-3m | 8.1709 | 0.0847 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

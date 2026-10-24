@@ -19,10 +19,10 @@ Table: Phases of the Al–Ir system (13)
 | [AL5IR2](#phase-al-ir-al5ir2); _phase:al-ir:al5ir2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1951.96 K, x(Ir) 0.27–0.27027 | 4 | 4 |
 | [AL9IR2](#phase-al-ir-al9ir2); _phase:al-ir:al9ir2_ | Al9Co2 · mP22 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1200.87 K, x(Ir) 0.18182–0.18182 | 26 | 4 |
 | [ALIR_B2](#phase-al-ir-alir-b2); _phase:al-ir:alir-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2446.67 K, x(Ir) 0.4753–0.52966 | 29 | 3 |
-| [BCC_A2](#phase-al-ir-bcc-a2); _phase:al-ir:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
+| [BCC_A2](#phase-al-ir-bcc-a2); _phase:al-ir:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 5 |
 | [B2_BCC](#phase-al-ir-bcc-b2); _phase:al-ir:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2393.55 K, x(Ir) 0.49853–0.52718 | 4 | 1 |
 | [FCC_4SL](#phase-al-ir-fcc-4sl); _phase:al-ir:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–3998.99 K, x(Ir) 0–1 | 3 | 2 |
-| [FCC_A1](#phase-al-ir-fcc-a1); _phase:al-ir:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 6 calculated diagram(s): 300–3999 K, x(Ir) 0–1 | 5 | 6 |
+| [FCC_A1](#phase-al-ir-fcc-a1); _phase:al-ir:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999 K, x(Ir) 0–1 | 5 | 6 |
 | [HCP_A3](#phase-al-ir-hcp-a3); _phase:al-ir:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-al-ir-liquid); _phase:al-ir:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 920.49–4000 K, x(Ir) 0–1 | 17 | 4 |
 
@@ -386,7 +386,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:al-ir:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 5 calculated diagram(s)
+- Stability: not stable in 4 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ir:bcc-a2)
 
@@ -521,7 +521,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-ir:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 6 calculated diagram(s): 300–3999 K, x(Ir) 0–1
+- Stability: stable in 4 of 4 calculated diagram(s): 300–3999 K, x(Ir) 0–1
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ir:fcc-a1)
 

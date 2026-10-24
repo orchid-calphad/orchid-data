@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "FEP2_C18",
-  "FEP4",
   "FEP_B31",
   "LIQUID",
   "M2P_C22",
@@ -20,17 +19,14 @@
    957.8458556,
    1002.845856,
    1069.345856,
-   1181.345856,
    1162.845856,
-   1367.345856,
    1500.845856,
    1368.845856,
    1852.345856,
    1522.345856,
    1576.345856,
    1585.345856,
-   1756.845856,
-   1922.345856
+   1756.845856
   ]
  },
  "output": "ZPF",
@@ -153,70 +149,12 @@
   ],
   [
    [
-    "FEP2_C18",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FEP4",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "P"
-    ],
-    [
-     0.7331658202
-    ]
-   ]
-  ],
-  [
-   [
     "BCC_A2",
     [
      "P"
     ],
     [
      0.01646102345
-    ]
-   ]
-  ],
-  [
-   [
-    "FEP4",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "P"
-    ],
-    [
-     0.8954386044
     ]
    ]
   ],
@@ -404,35 +342,6 @@
      0.6059519709
     ]
    ]
-  ],
-  [
-   [
-    "FEP4",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "P"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "P"
-    ],
-    [
-     0.7592096004
-    ]
-   ]
   ]
  ],
  "reference": "H. Ohtani, N. Hanaya, M. Hasebe, S. Teraoka, and M. Abe, Calphad, 30(2), 147-158 (2006) doi:10.1016/j.calphad.2005.09.006; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 429",
@@ -449,22 +358,16 @@
    "aspa-32ceb03ce9f841be",
    "aspa-57b238ba5730bc7d",
    "aspa-6c4e0b268ca3d6e8",
-   "aspa-54d389fc8cb2a8b8",
    "aspa-0be5ef1ed16a2e62",
-   "aspa-bac24c28e2b665e8",
    "aspa-e16e559e0839ae2b",
    "aspa-abd7997efcb5a8a8",
    "aspa-edd723ef5ec3a224",
    "aspa-00e1c49a282e8a42",
    "aspa-80f91a966917ebbb",
    "aspa-f8c90455bbe2bab8",
-   "aspa-8d7f6279a6cca424",
-   "aspa-084cc9bc6c6bc781"
+   "aspa-8d7f6279a6cca424"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -556,24 +459,6 @@
     }
    },
    {
-    "record_id": "aspa-54d389fc8cb2a8b8",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.238,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 708.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0661111,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-0be5ef1ed16a2e62",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -588,24 +473,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0170286,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-bac24c28e2b665e8",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.238,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 515.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.09516,
      "sigma_effective": 0.02
     }
    },
@@ -732,24 +599,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.060101,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-084cc9bc6c6bc781",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.238,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 32.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0400674,
      "sigma_effective": 0.02
     }
    }

@@ -1,14 +1,14 @@
 # Ni–Te phases
 
-> Ni–Te system: 12 phases (tier A 6, tier C 1, liquid 2, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ni–Te system: 10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/NI-TE.html · Markdown: https://data.orchid-project.org/phases/pages/NI-TE.md
 
-12 phases (tier A 6, tier C 1, liquid 2, needs_review 2, unresolved_no_candidates 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 6, tier C 1, liquid 1, needs_review 2); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=NI-TE) · [full JSON](https://data.orchid-project.org/phases/systems/NI-TE.json) · [Ni–Te system page](https://data.orchid-project.org/systems/NI-TE.html) · [Markdown](https://data.orchid-project.org/phases/pages/NI-TE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ni–Te system (12)
+Table: Phases of the Ni–Te system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,12 +16,10 @@ Table: Phases of the Ni–Te system (12)
 | [BCC_A2](#phase-ni-te-bcc-a2); _phase:ni-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ni-te-fcc-a1); _phase:ni-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1762.74 K, x(Te) 0–0.00013 | 4 | 1 |
 | [HCP_A3](#phase-ni-te-hcp-a3); _phase:ni-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [ION](#phase-ni-te-ion); _phase:ni-te:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 720.93–2500 K, x(Te) 0–1 | 6 | 1 |
-| [LIQUID](#phase-ni-te-liquid); _phase:ni-te:liquid_ | liquid | liquid | no calculated diagram | 4 | 0 |
+| [ION](#phase-ni-te-ion); _phase:ni-te:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 720.93–2500 K, x(Te) 0–1 | 10 | 1 |
 | [NI20TE17](#phase-ni-te-ni20te17); _phase:ni-te:ni20te17_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 962.18–1153.34 K, x(Te) 0.45946–0.45946 | 10 | 1 |
 | [NI52TE40](#phase-ni-te-ni52te40); _phase:ni-te:ni52te40_ | Ni1.29Te · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1012.02 K, x(Te) 0.43478–0.43478 | 4 | 1 |
 | [NITE_BETA_HT](#phase-ni-te-nite-beta); _phase:ni-te:nite-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1004.57–1295.16 K, x(Te) 0.37103–0.43367 | 12 | 1 |
-| [NITE-BETA-HT](#phase-ni-te-nite-beta-ht); _phase:ni-te:nite-beta-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [NITE_C38](#phase-ni-te-nite-c38); _phase:ni-te:nite-c38_ | Cu2Sb · C38 · tP6 · P4/nmm (129) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1055.8 K, x(Te) 0.39446–0.41198 | 8 | 1 |
 | [NITE_C6](#phase-ni-te-nite-c6); _phase:ni-te:nite-c6_ | CdI2 · C6 · hP3 · P-3m1 (164) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1172.66 K, x(Te) 0.5203–0.66711 | 8 | 1 |
 
@@ -137,10 +135,10 @@ _assessment that models this phase_
 - Id: `phase:ni-te:ion`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 720.93–2500 K, x(Te) 0–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-te:ion)
 
-Names (3): _corpus: _corpus:phase:ni-te:ion  
+Names (4): _corpus: _corpus:phase:ni-te:ion, corpus:phase:ni-te:liquid  
 _paper: _paper:10.1007/s10853-019-03689-0:L  
 _tdb: _tdb:NiTe-19Arv.tdb:ION  
 
@@ -158,23 +156,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1007/s10853-019-03689-0](https://doi.org/10.1007/s10853-019-03689-0) Carl-Magnus Arvhult, Christine Guéneau, Stéphane Gossé, Malin Selleby, Thermodynamic assessment of the Ni–Te system, J Mater Sci 54, 11304-11319 (2019).  
 _assessment that models this phase; reports values for this phase_
-
-## LIQUID (Ni–Te)
-
-- Id: `phase:ni-te:liquid`; status `assigned`
-- Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: no calculated diagram
-- Literature: 4 values (4 accepted) from 1 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-te:liquid)
-
-Names (2): _corpus: _corpus:phase:ni-te:liquid  
-_paper: _paper:10.1007/s10853-019-03689-0:L  
-
-
-Example references (1 of 1; assessments first): 
-
-- [doi:10.1007/s10853-019-03689-0](https://doi.org/10.1007/s10853-019-03689-0) Carl-Magnus Arvhult, Christine Guéneau, Stéphane Gossé, Malin Selleby, Thermodynamic assessment of the Ni–Te system, J Mater Sci 54, 11304-11319 (2019).  
-_reports values for this phase_
 
 ## NI20TE17 (Ni–Te)
 
@@ -249,7 +230,7 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-te:nite-beta)
 
-Names (3): _corpus: _corpus:phase:ni-te:nite-beta  
+Names (4): _corpus: _corpus:phase:ni-te:nite-beta, corpus:phase:ni-te:nite-beta-ht  
 _paper: _paper:10.1007/s10853-019-03689-0:β1  
 _tdb: _tdb:NiTe-19Arv.tdb:NITE_BETA_HT  
 
@@ -267,17 +248,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1007/s10853-019-03689-0](https://doi.org/10.1007/s10853-019-03689-0) Carl-Magnus Arvhult, Christine Guéneau, Stéphane Gossé, Malin Selleby, Thermodynamic assessment of the Ni–Te system, J Mater Sci 54, 11304-11319 (2019).  
 _assessment that models this phase; reports values for this phase_
-
-## NITE-BETA-HT (Ni–Te)
-
-- Id: `phase:ni-te:nite-beta-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-te:nite-beta-ht)
-
-Names (1): _corpus: _corpus:phase:ni-te:nite-beta-ht  
-
 
 ## NITE_C38 (Ni–Te)
 

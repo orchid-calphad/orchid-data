@@ -13,12 +13,12 @@ Table: Phases of the Sn–U system (15)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-sn-u-a20-orthorhombic); _phase:sn-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–942.02 K, x(U) 1–1 | 3 | 2 |
-| [DIAMOND_A4](#phase-sn-u-a4-diamond); _phase:sn-u:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 2 | 2 |
-| [BCT_A5](#phase-sn-u-a5-bct); _phase:sn-u:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(U) 0–0 | 5 | 2 |
-| [BCC_A2](#phase-sn-u-bcc-a2); _phase:sn-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1047.33–3999.84 K, x(U) 0.98014–1 | 11 | 2 |
+| [DIAMOND_A4](#phase-sn-u-a4-diamond); _phase:sn-u:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [BCT_A5](#phase-sn-u-a5-bct); _phase:sn-u:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(U) 0–0 | 4 | 2 |
+| [BCC_A2](#phase-sn-u-bcc-a2); _phase:sn-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1047.33–3999.84 K, x(U) 0.98014–1 | 8 | 2 |
 | [FCC_A1](#phase-sn-u-fcc-a1); _phase:sn-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-sn-u-hcp-a3); _phase:sn-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-sn-u-liquid); _phase:sn-u:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(U) 0–1 | 31 | 2 |
+| [LIQUID](#phase-sn-u-liquid); _phase:sn-u:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(U) 0–1 | 30 | 2 |
 | [SN2U](#phase-sn-u-sn2u); _phase:sn-u:sn2u_ | Ga2Zr · oC12 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1627.22 K, x(U) 0.33333–0.33333 | 6 | 1 |
 | [SN2U3](#phase-sn-u-sn2u3); _phase:sn-u:sn2u3_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1695.57 K, x(U) 0.6–0.6 | 6 | 1 |
 | [SN3U_L12](#phase-sn-u-sn3u-l12); _phase:sn-u:sn3u-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1604.74 K, x(U) 0.25–0.25 | 10 | 2 |
@@ -74,11 +74,10 @@ _cited as the source of values for this phase_
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-u:a4-diamond)
 
-Names (6): _corpus: _corpus:phase:sn-u:a4-diamond, corpus:phase:sn-u:diamond-a4  
-_paper: _paper:10.1007/bf02869271:αSn, paper:10.1007/bf02869271:αU  
+Names (4): _corpus: _corpus:phase:sn-u:a4-diamond, corpus:phase:sn-u:diamond-a4  
 _tdb: _tdb:SnU-21Wan.tdb:DIAMOND_A4, tdb:SnU-87She.tdb:DIAMOND_A4  
 
 
@@ -101,7 +100,7 @@ _tdb: _tdb:SnU-21Wan.tdb:DIAMOND_A4, tdb:SnU-87She.tdb:DIAMOND_A4
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02869271](https://doi.org/10.1007/BF02869271) R.I. Sheldon, E.M. Foltyn, D.E. Petersen, Bull. Alloy Phase Diag., 8, 347-52(1987).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11669-021-00872-2](https://doi.org/10.1007/s11669-021-00872-2) Jun Wang, Yuan Yuan, Xiongying Cheng, Qin Zhang, Rongjian Pan, Aitao Tang, Thermodynamic Assessment of the U-Sn System and Extension to the U-Zr-Sn System, J. Phase Equilib. Diffus. 42, 194-205 (2021).  
 _assessment that models this phase_
 
@@ -110,7 +109,7 @@ _assessment that models this phase_
 - Id: `phase:sn-u:a5-bct`; status `assigned`
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(U) 0–0
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-u:a5-bct)
 
 Names (6): _corpus: _corpus:phase:sn-u:a5-bct, corpus:phase:sn-u:bct-a5  
@@ -150,11 +149,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sn-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1047.33–3999.84 K, x(U) 0.98014–1
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-u:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:sn-u:bcc-a2  
-_paper: _paper:10.1007/bf02869271:βU, paper:10.1007/bf02869271:γU, paper:10.1007/s11669-021-00872-2:bcc_A2, paper:10.1007/s11669-021-00872-2:bcc_U  
+Names (6): _corpus: _corpus:phase:sn-u:bcc-a2  
+_paper: _paper:10.1007/bf02869271:γU, paper:10.1007/s11669-021-00872-2:bcc_A2, paper:10.1007/s11669-021-00872-2:bcc_U  
 _tdb: _tdb:SnU-21Wan.tdb:BCC_A2, tdb:SnU-87She.tdb:BCC_A2  
 
 
@@ -260,7 +259,7 @@ _assessment that models this phase_
 - Id: `phase:sn-u:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(U) 0–1
-- Literature: 31 values (31 accepted) from 2 papers
+- Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-u:liquid)
 
 Names (5): _corpus: _corpus:phase:sn-u:liquid  

@@ -1,32 +1,31 @@
 # Hf–Ni phases
 
-> Hf–Ni system: 19 phases (tier A 8, tier C 7, liquid 1, needs_review 2, unresolved_no_candidates 1); 18 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Hf–Ni system: 18 phases (tier A 8, tier C 7, liquid 1, needs_review 2); 18 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/HF-NI.html · Markdown: https://data.orchid-project.org/phases/pages/HF-NI.md
 
-19 phases (tier A 8, tier C 7, liquid 1, needs_review 2, unresolved_no_candidates 1); 18 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+18 phases (tier A 8, tier C 7, liquid 1, needs_review 2); 18 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=HF-NI) · [full JSON](https://data.orchid-project.org/phases/systems/HF-NI.json) · [Hf–Ni system page](https://data.orchid-project.org/systems/HF-NI.html) · [Markdown](https://data.orchid-project.org/phases/pages/HF-NI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Hf–Ni system (19)
+Table: Phases of the Hf–Ni system (18)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-hf-ni-bcc-a2); _phase:hf-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438 | 6 | 6 |
+| [BCC_A2](#phase-hf-ni-bcc-a2); _phase:hf-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438 | 6 | 6 |
 | [B2_BCC](#phase-hf-ni-bcc-b2); _phase:hf-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1350.9–2516.97 K, x(Ni) 0–0.50634 | 5 | 1 |
-| [FCC_A1](#phase-hf-ni-fcc-a1); _phase:hf-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 6 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1 | 8 | 6 |
+| [FCC_A1](#phase-hf-ni-fcc-a1); _phase:hf-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1 | 7 | 6 |
 | [L12_FCC](#phase-hf-ni-fcc-l12); _phase:hf-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1160–1700 K, x(Ni) 0.99–0.99 | 5 | 1 |
 | [HCP_A3](#phase-hf-ni-hcp-a3); _phase:hf-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2016.68 K, x(Ni) 0–0.0133 | 5 | 5 |
 | [HF2NI_C16](#phase-hf-ni-hf2ni-c16); _phase:hf-ni:hf2ni-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1562.55 K, x(Ni) 0.31648–0.33333 | 3 | 5 |
 | [HF2NI5](#phase-hf-ni-hf2ni5); _phase:hf-ni:hf2ni5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1612.16 K, x(Ni) 0.71429–0.71429 | 0 | 1 |
-| [HF2NI7](#phase-hf-ni-hf2ni7); _phase:hf-ni:hf2ni7_ | Ni7Zr2 · mC36 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866 | 5 | 5 |
-| [HF3NI7](#phase-hf-ni-hf3ni7); _phase:hf-ni:hf3ni7_ | Hf3Ni7 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1289.3–1529.43 K, x(Ni) 0.7–0.7 | 2 | 4 |
-| [HF7NI10](#phase-hf-ni-hf7ni10); _phase:hf-ni:hf7ni10_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1573.12 K, x(Ni) 0.58824–0.58824 | 5 | 5 |
-| [HF8NI21](#phase-hf-ni-hf8ni21); _phase:hf-ni:hf8ni21_ | Hf8Ni21 · aP29 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1448–1579.97 K, x(Ni) 0.72414–0.72414 | 0 | 4 |
-| [HF9NI11](#phase-hf-ni-hf9ni11); _phase:hf-ni:hf9ni11_ | Pt11Zr9 · tI40 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1616.09 K, x(Ni) 0.55–0.55 | 4 | 4 |
+| [HF2NI7](#phase-hf-ni-hf2ni7); _phase:hf-ni:hf2ni7_ | Ni7Zr2 · mC36 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866 | 9 | 5 |
+| [HF3NI7](#phase-hf-ni-hf3ni7); _phase:hf-ni:hf3ni7_ | Hf3Ni7 · aP20 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1289.3–1529.43 K, x(Ni) 0.7–0.7 | 6 | 4 |
+| [HF7NI10](#phase-hf-ni-hf7ni10); _phase:hf-ni:hf7ni10_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1573.12 K, x(Ni) 0.58824–0.58824 | 9 | 5 |
+| [HF8NI21](#phase-hf-ni-hf8ni21); _phase:hf-ni:hf8ni21_ | Hf8Ni21 · aP29 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1448–1579.97 K, x(Ni) 0.72414–0.72414 | 4 | 4 |
+| [HF9NI11](#phase-hf-ni-hf9ni11); _phase:hf-ni:hf9ni11_ | Pt11Zr9 · tI40 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1616.09 K, x(Ni) 0.55–0.55 | 7 | 4 |
 | [HFNI_HT](#phase-hf-ni-hfni); _phase:hf-ni:hfni_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1423.15–1808.47 K, x(Ni) 0.5–0.5 | 2 | 3 |
 | [HFNI_B33](#phase-hf-ni-hfni-b33); _phase:hf-ni:hfni-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1825.62 K, x(Ni) 0.5–0.5 | 3 | 5 |
-| [HFNI-HT](#phase-hf-ni-hfni-ht); _phase:hf-ni:hfni-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [HFNI3_HT](#phase-hf-ni-hfni3-ht); _phase:hf-ni:hfni3-ht_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1470.06–1632.16 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI3_RT](#phase-hf-ni-hfni3-rt); _phase:hf-ni:hfni3-rt_ | Pd2RhTa · hP40 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1472.75 K, x(Ni) 0.75–0.75 | 0 | 4 |
 | [HFNI5_C15B](#phase-hf-ni-hfni5-c15b); _phase:hf-ni:hfni5-c15b_ | AuBe5 · C15_b · cF24 · F-43m (216) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1675.31 K, x(Ni) 0.83333–0.83333 | 8 | 5 |
@@ -36,7 +35,7 @@ Table: Phases of the Hf–Ni system (19)
 
 - Id: `phase:hf-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 5 of 6 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438
+- Stability: stable in 5 of 5 calculated diagram(s): 1427.62–2539.46 K, x(Ni) 0–0.08438
 - Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:bcc-a2)
 
@@ -135,12 +134,12 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:hf-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 5 of 6 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Stability: stable in 5 of 5 calculated diagram(s): 300–3999.62 K, x(Ni) 0.98196–1
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:fcc-a1)
 
-Names (12): _corpus: _corpus:phase:hf-ni:fcc-a1, corpus:phase:hf-ni:a1-fcc  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Ni, paper:10.1016/j.tca.2018.08.011:Hf(fcc-A1), paper:10.1016/j.tca.2018.08.011:Ni(fcc-A1), paper:10.1016/j.tca.2018.08.011:fcc-A1  
+Names (11): _corpus: _corpus:phase:hf-ni:fcc-a1, corpus:phase:hf-ni:a1-fcc  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Ni, paper:10.1016/j.tca.2018.08.011:Hf(fcc-A1), paper:10.1016/j.tca.2018.08.011:fcc-A1  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:FCC_A1, tdb:HfNi-08Zha.tdb:FCC_A1, tdb:HfNi-11Cac.tdb:FCC_A1, tdb:HfNi-18Ros.tdb:A1_FCC, tdb:HfNi-18Ros.tdb:FCC_A1, tdb:HfNi-75Kau.tdb:FCC_A1  
 
 
@@ -393,11 +392,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1788.95 K, x(Ni) 0.77778–0.79866
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf2ni7)
 
-Names (8): _corpus: _corpus:phase:hf-ni:hf2ni7  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Hf2Ni7, paper:10.1016/j.tca.2018.08.011:Hf2Ni7  
+Names (9): _corpus: _corpus:phase:hf-ni:hf2ni7  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Hf2Ni7, paper:10.1016/j.commatsci.2016.08.042:Hf2Ni7, paper:10.1016/j.tca.2018.08.011:Hf2Ni7  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF2NI7, tdb:HfNi-08Zha.tdb:HF2NI7, tdb:HfNi-11Cac.tdb:HF2NI7, tdb:HfNi-18Ros.tdb:HF2NI7, tdb:HfNi-75Kau.tdb:HF2NI7  
 
 
@@ -438,7 +437,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:HF2NI7, tdb:HfNi-08Zha.tdb:HF2NI7, tdb:HfNi-11Cac.t
 71: CONST HF2NI7 : HF : NI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -450,6 +449,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
+_reports values for this phase_
 
 ## HF3NI7 (Hf–Ni)
 
@@ -459,11 +460,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Hf 0.3000, Ni 0.7000
 - Stability: stable in 4 of 4 calculated diagram(s): 1289.3–1529.43 K, x(Ni) 0.7–0.7
-- Literature: 2 values (2 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf3ni7)
 
-Names (7): _corpus: _corpus:phase:hf-ni:hf3ni7  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Hf3Ni7, paper:10.1016/j.tca.2018.08.011:Hf3Ni7  
+Names (8): _corpus: _corpus:phase:hf-ni:hf3ni7  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Hf3Ni7, paper:10.1016/j.commatsci.2016.08.042:Hf3Ni7, paper:10.1016/j.tca.2018.08.011:Hf3Ni7  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF3NI7, tdb:HfNi-08Zha.tdb:HF3NI7, tdb:HfNi-11Cac.tdb:HF3NI7, tdb:HfNi-18Ros.tdb:HF3NI7  
 
 
@@ -497,7 +498,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:HF3NI7, tdb:HfNi-08Zha.tdb:HF3NI7, tdb:HfNi-11Cac.t
 89: CONST HF3NI7 : HF : NI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase; reports values for this phase_
@@ -507,6 +508,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
+_reports values for this phase_
 
 ## HF7NI10 (Hf–Ni)
 
@@ -516,11 +519,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Hf 0.4118, Ni 0.5882
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1573.12 K, x(Ni) 0.58824–0.58824
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf7ni10)
 
-Names (8): _corpus: _corpus:phase:hf-ni:hf7ni10  
-_paper: _paper:10.1016/j.calphad.2011.10.003:Hf7Ni10, paper:10.1016/j.tca.2018.08.011:Hf7Ni10  
+Names (9): _corpus: _corpus:phase:hf-ni:hf7ni10  
+_paper: _paper:10.1016/j.calphad.2011.10.003:Hf7Ni10, paper:10.1016/j.commatsci.2016.08.042:Hf7Ni10, paper:10.1016/j.tca.2018.08.011:Hf7Ni10  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF7NI10, tdb:HfNi-08Zha.tdb:HF7NI10, tdb:HfNi-11Cac.tdb:HF7NI10, tdb:HfNi-18Ros.tdb:HF7NI10, tdb:HfNi-75Kau.tdb:HF7NI10  
 
 
@@ -561,7 +564,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:HF7NI10, tdb:HfNi-08Zha.tdb:HF7NI10, tdb:HfNi-11Cac
 61: CONST HF7NI10 : HF : NI : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -573,6 +576,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
+_reports values for this phase_
 
 ## HF8NI21 (Hf–Ni)
 
@@ -582,10 +587,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Hf 0.2759, Ni 0.7241
 - Stability: stable in 4 of 4 calculated diagram(s): 1448–1579.97 K, x(Ni) 0.72414–0.72414
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf8ni21)
 
-Names (5): _corpus: _corpus:phase:hf-ni:hf8ni21  
+Names (6): _corpus: _corpus:phase:hf-ni:hf8ni21  
+_paper: _paper:10.1016/j.commatsci.2016.08.042:Hf8Ni21  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF8NI21, tdb:HfNi-08Zha.tdb:HF8NI21, tdb:HfNi-11Cac.tdb:HF8NI21, tdb:HfNi-18Ros.tdb:HF8NI21  
 
 
@@ -619,7 +625,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:HF8NI21, tdb:HfNi-08Zha.tdb:HF8NI21, tdb:HfNi-11Cac
 94: CONST HF8NI21 : HF : NI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2011.10.003](https://doi.org/10.1016/j.calphad.2011.10.003) G. Cacciamani, P. Riani, F. Valenza, Equilibrium between MB2 (M=Ti,Zr,Hf) UHTC and Ni: A thermodynamic database for the B–Hf–Ni–Ti–Zr system, Calphad 35, 601-619 (2011).  
 _assessment that models this phase_
@@ -629,6 +635,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
+_reports values for this phase_
 
 ## HF9NI11 (Hf–Ni)
 
@@ -638,11 +646,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Hf 0.4500, Ni 0.5500
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1616.09 K, x(Ni) 0.55–0.55
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hf9ni11)
 
-Names (6): _corpus: _corpus:phase:hf-ni:hf9ni11  
-_paper: _paper:10.1016/j.tca.2018.08.011:Hf9Ni11  
+Names (7): _corpus: _corpus:phase:hf-ni:hf9ni11  
+_paper: _paper:10.1016/j.commatsci.2016.08.042:Hf9Ni11, paper:10.1016/j.tca.2018.08.011:Hf9Ni11  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HF9NI11, tdb:HfNi-08Zha.tdb:HF9NI11, tdb:HfNi-11Cac.tdb:HF9NI11, tdb:HfNi-18Ros.tdb:HF9NI11  
 
 
@@ -676,7 +684,7 @@ _tdb: _tdb:HfNi-01Wan-LB.tdb:HF9NI11, tdb:HfNi-08Zha.tdb:HF9NI11, tdb:HfNi-11Cac
 79: CONST HF9NI11 : HF : NI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.tca.2018.08.011](https://doi.org/10.1016/j.tca.2018.08.011) A.J. Ross, T. Gheno, P.K. Ray, M.J. Kramer, X.L. Liu, G. Lindwall et al., A first-principles based description of the Hf-Ni system supported by high-temperature synchrotron experiments, Thermochimica Acta 668, 142-151 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -686,6 +694,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/ijmr-2001-0088](https://doi.org/10.3139/ijmr-2001-0088) T. Wang, Z.P. Jin, J.-C. Zhao, Z. Metallkd., 92, 441-46(2001).  
 _assessment that models this phase_
+- [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
+_reports values for this phase_
 
 ## HFNI_HT (Hf–Ni)
 
@@ -700,7 +710,7 @@ _assessment that models this phase_
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hfni)
 
-Names (5): _corpus: _corpus:phase:hf-ni:hfni  
+Names (6): _corpus: _corpus:phase:hf-ni:hfni, corpus:phase:hf-ni:hfni-ht  
 _paper: _paper:10.1016/j.calphad.2011.10.003:β-HfNi  
 _tdb: _tdb:HfNi-01Wan-LB.tdb:HFNI_HT, tdb:HfNi-08Zha.tdb:HFNI_HT, tdb:HfNi-11Cac.tdb:HFNI_HT  
 
@@ -802,17 +812,6 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
 _cited as the source of values for this phase_
-
-## HFNI-HT (Hf–Ni)
-
-- Id: `phase:hf-ni:hfni-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ni:hfni-ht)
-
-Names (1): _corpus: _corpus:phase:hf-ni:hfni-ht  
-
 
 ## HFNI3_HT (Hf–Ni)
 

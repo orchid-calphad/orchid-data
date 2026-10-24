@@ -1,10 +1,10 @@
 # Fe–Ho system
 
-> Fe–Ho system: 88 accepted literature values (phase transition 31, formation 29, invariant reaction 22, heat capacity / entropy / enthalpy 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ho system: 82 accepted literature values (phase transition 26, formation 22, invariant reaction 21, heat capacity / entropy / enthalpy 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-HO.html · Markdown: https://data.orchid-project.org/systems/FE-HO.md
 
-88 accepted literature values from 1 paper(s) (experimental 36, model 39, DFT 1, unspecified 12); 2 calculated phase diagram(s).
+82 accepted literature values from 1 paper(s) (experimental 35, model 38, DFT 1, unspecified 8); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-HO.json) · [CSV](https://data.orchid-project.org/systems/FE-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-HO/FeHo-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-HO.html) · [Markdown](https://data.orchid-project.org/systems/FE-HO.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 36 |
-| model | 39 |
+| experimental | 35 |
+| model | 38 |
 | DFT | 1 |
-| unspecified | 12 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
-| phase transition | 31 |
-| formation | 29 |
-| heat capacity / entropy / enthalpy | 6 |
+| invariant reaction | 21 |
+| phase transition | 26 |
+| formation | 22 |
+| heat capacity / entropy / enthalpy | 13 |
 
 ## Calculated phase diagrams
 
@@ -76,7 +76,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Ho system (22)
+Table: Invariant reactions reported in the literature for the Fe–Ho system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -98,7 +98,6 @@ Table: Invariant reactions reported in the literature for the Fe–Ho system (22
 | 1558.15 | peritectic: L + Fe3Ho ↔ Fe2Ho | L: Ho 0.36; Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 9 |  |
 | 1557.15 | eutectic: L ↔ Fe17Ho2 + Fe23Ho6 | L: Ho 0.178; Fe17Ho2: Ho 0.105; Fe23Ho6: Ho 0.206 | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 6 |  |
 | 1554.15 | L + Fe3Ho ↔ Fe2Ho | Fe3Ho: Ho 0.25; Fe2Ho: Ho 0.333333 | model | [1] Kardellass 2014 | Table 6, p. 4, row 24 |  |
-| 1148.15 | eutectic: L + Fe2Ho ↔ (αHo) | L: Ho 0.633; Fe2Ho: Ho 0.333; (αHo): Ho 100 (basis unresolved) | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 10 |  |
 | 1148.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 26 |  |
 | 1148.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 27 |  |
 | 1146.15 | L ↔ Fe2Ho + (αHo) | Fe2Ho: Ho 0.333333 | model | [1] Kardellass 2014 | Table 6, p. 4, row 28 |  |
@@ -134,7 +133,7 @@ Table: Enthalpies of formation, Fe–Ho system (20)
 
 ## Other properties
 
-### Phase transition (31)
+### Phase transition (26)
 
 Table: Phase transition, Fe–Ho system
 
@@ -142,9 +141,6 @@ Table: Phase transition, Fe–Ho system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 325.15 K | 325.15 | magnetic | experimental | [1] Kardellass 2014; _cites Strnat 1966_ [doi](https://doi.org/10.1109/tmag.1966.1065874) | p. 3 | “In good agreement, the Curie temperatures according to mutual induction measurements are 52 °C \[27\] for Fe17Ho2, 293 °C \[28\]” |
 | Phase transition | 1185.15 K | 1185.15 | polymorphic | model | [1] Kardellass 2014; _cites Okamoto 1993_ | p. 1 | “According to \[6,17\] the melting point of dFe is 1538 °C and the dFe M cFe and cFe M aFe allotropic transformation temperatures are 1394 °C and 912 °C, respectively.” |
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: γFe ↔ αFe; _γFe: Ho 0_ | unspecified | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 3 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | model | [1] Kardellass 2014 | Table 6, p. 4, row 9 |  |
-| Phase transition | 1185.15 K | 1185.15 | γFe ↔ αFe | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 8 |  |
 | Phase transition | 1555.15 K | 1555.15 | L ↔ Fe2Ho; _L: Ho 0.333333; Fe2Ho: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 6, p. 4, row 25 |  |
 | Phase transition | 1561.15 K | 1561.15 | Fe2Ho | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | p. 1 | “The two phases Fe23Ho6 and Fe17Ho2 melted congruently at 1332 °C and 1343 °C, respectively, while Fe3Ho and Fe2Ho melted incongruently at 1293 °C and 1288 °C, respectively, table 1. The melting points for all the intermediate phases are believed accurate with ± 3 °C \[4\].” |
 | Phase transition | 1566.15 K | 1566.15 | Fe3Ho | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | p. 1 | “The two phases Fe23Ho6 and Fe17Ho2 melted congruently at 1332 °C and 1343 °C, respectively, while Fe3Ho and Fe2Ho melted incongruently at 1293 °C and 1288 °C, respectively, table 1. The melting points for all the intermediate phases are believed accurate with ± 3 °C \[4\].” |
@@ -159,8 +155,6 @@ Table: Phase transition, Fe–Ho system
 | Phase transition | 1616.15 K | 1616.15 | congruent melting: L ↔ Fe17Ho2; _L: Ho 0.105; Fe17Ho2: Ho 0.105_ | unspecified | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 1, p. 2, row 5 |  |
 | Phase transition | 1617.15 K | 1617.15 | L ↔ Fe17Ho2; _L: Ho 0.105263; Fe17Ho2: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 11 |  |
 | Phase transition | 1667.15 K | 1667.15 | polymorphic | model | [1] Kardellass 2014; _cites Okamoto 1993_ | p. 1 | “According to \[6,17\] the melting point of dFe is 1538 °C and the dFe M cFe and cFe M aFe allotropic transformation temperatures are 1394 °C and 912 °C, respectively.” |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: δFe ↔ γFe; _δFe: Ho 0_ | unspecified | [1] Kardellass 2014; _cites Massalski 1991_ | Table 1, p. 2, row 2 |  |
-| Phase transition | 1713.15 K | 1713.15 | polymorphic: (βHo) ↔ (αHo); _(βHo): Ho 1_ | unspecified | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 1, p. 2, row 12 |  |
 | Phase transition | 1744.15 K | 1744.15 | L ↔ (βHo) | experimental | [1] Kardellass 2014; _cites Roe 1970_ [doi](https://doi.org/10.1007/bf03038385) | Table 6, p. 4, row 31 |  |
 | Phase transition | 1745.15 K | 1745.15 | congruent melting: L ↔ (βHo); _(βHo): Ho 1_ | unspecified | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 1, p. 2, row 11 |  |
 | Phase transition | 1747.15 K | 1747.15 | Ho + liquid | model | [1] Kardellass 2014; _cites Massalski 1991_ | p. 2 | “The melting point of Ho is 1474 °C \[17\].” |
@@ -172,28 +166,28 @@ Table: Phase transition, Fe–Ho system
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | model | [1] Kardellass 2014 | Table 6, p. 4, row 3 |  |
 | Phase transition | 1811.15 K | 1811.15 | δFe ↔ Liq | experimental | [1] Kardellass 2014; _cites Kubaschewski 1982_ | Table 6, p. 4, row 1 |  |
 
-### Formation (9)
+### Formation (2)
 
 Table: Formation, Fe–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation | 41.63 J/mol (basis unstated)/K | 290 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
 | Entropy of formation | 1.8 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 3 |  |
-| Entropy of formation | 38.03 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
-| Entropy of formation | 43.15 J/mol (basis unstated)/K | 298.15 | Fe23Ho6; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
-| Entropy of formation | 49.18 J/mol (basis unstated)/K | 298.15 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
-| Entropy of formation | 45.02 J/mol (basis unstated)/K | 298.15 | Fe3Ho; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
-| Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
-| Entropy of formation | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 13 |  |
 | Entropy of formation | 0.85 J/mol (basis unstated)/K ± 0.01 | 1066 | Fe17Ho2; _alloy: Ho 0.105263_ | experimental | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 3, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (6)
+### Heat capacity / entropy / enthalpy (13)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Ho system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Entropy of formation_ | 41.63 J/mol (basis unstated)/K | 290 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
+| Entropy; _printed: Entropy of formation_ | 38.03 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
+| Entropy; _printed: Entropy of formation_ | 43.15 J/mol (basis unstated)/K | 298.15 | Fe23Ho6; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |
+| Entropy; _printed: Entropy of formation_ | 49.18 J/mol (basis unstated)/K | 298.15 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 17 |  |
+| Entropy; _printed: Entropy of formation_ | 45.02 J/mol (basis unstated)/K | 298.15 | Fe3Ho; _alloy: Ho 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 10 |  |
+| Entropy; _printed: Entropy of formation_ | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 19 |  |
+| Entropy; _printed: Entropy of formation_ | 42.66 J/mol (basis unstated)/K | 300 | Fe2Ho; _alloy: Ho 0.333333_ | model | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 13 |  |
 | Heat capacity | 30.09 J/mol (basis unstated)/K | 290 | Fe2Ho; _alloy: Ho 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990500-4) | Table 3, p. 3, row 18 |  |
 | Heat capacity | 24.71 J/mol (basis unstated)/K | 298.15 | Fe17Ho2; _alloy: Ho 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 4 |  |
 | Heat capacity | 24.98 J/mol (basis unstated)/K | 298.15 | Fe23Ho6; _alloy: Ho 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 3, row 8 |  |

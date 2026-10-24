@@ -1,14 +1,14 @@
 # In–Ir phases
 
-> In–Ir system: 9 phases (tier A 6, tier C 1, liquid 1, unresolved_no_candidates 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> In–Ir system: 8 phases (tier A 6, tier C 1, liquid 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/IN-IR.html · Markdown: https://data.orchid-project.org/phases/pages/IN-IR.md
 
-9 phases (tier A 6, tier C 1, liquid 1, unresolved_no_candidates 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 6, tier C 1, liquid 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=IN-IR) · [full JSON](https://data.orchid-project.org/phases/systems/IN-IR.json) · [In–Ir system page](https://data.orchid-project.org/systems/IN-IR.html) · [Markdown](https://data.orchid-project.org/phases/pages/IN-IR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the In–Ir system (9)
+Table: Phases of the In–Ir system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -19,7 +19,6 @@ Table: Phases of the In–Ir system (9)
 | [IN2IR_CB](#phase-in-ir-in2ir-cb); _phase:in-ir:in2ir-cb_ | CuMg2 · C_b · oF48 · Fddd (70) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1461.07 K, x(Ir) 0.30808–0.38395 | 17 | 1 |
 | [IN3IR_HT](#phase-in-ir-in3ir); _phase:in-ir:in3ir_ | In3Ir · tP16 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 620.57–1254.08 K, x(Ir) 0.23657–0.24999 | 15 | 1 |
 | [IN3IR_D011](#phase-in-ir-in3ir-d011); _phase:in-ir:in3ir-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–634 K, x(Ir) 0.23822–0.25 | 15 | 1 |
-| [IN3IR-HT](#phase-in-ir-in3ir-ht); _phase:in-ir:in3ir-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [LIQUID](#phase-in-ir-liquid); _phase:in-ir:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 429.75–4000 K, x(Ir) 0–1 | 25 | 1 |
 
 ## TETRAGONAL_A6 (In–Ir)
@@ -179,7 +178,7 @@ _cited as the source of values for this phase_
 - Literature: 15 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:in3ir)
 
-Names (6): _corpus: _corpus:phase:in-ir:in3ir  
+Names (7): _corpus: _corpus:phase:in-ir:in3ir, corpus:phase:in-ir:in3ir-ht  
 _paper: _paper:10.1016/j.tca.2010.12.019:In3 Ir-HT, paper:10.1016/j.tca.2010.12.019:In3 Ir_HT, paper:10.1016/j.tca.2010.12.019:In3Ir-HT, paper:10.1016/j.tca.2010.12.019:In3Ir_HT  
 _tdb: _tdb:InIr-11Ser.tdb:IN3IR_HT  
 
@@ -232,17 +231,6 @@ _assessment that models this phase; reports values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/s0925-8388(99)00507-1](https://doi.org/10.1016/s0925-8388%2899%2900507-1) P. Anres, P. Fossati, K. Richter, M. Gambino, M. Gaune-Escard, J.-P. Bros, Thermodynamics of the \[Ir–In\] system, Journal of Alloys and Compounds 296, 119-127 (2000).  
 _cited as the source of values for this phase_
-
-## IN3IR-HT (In–Ir)
-
-- Id: `phase:in-ir:in3ir-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-ir:in3ir-ht)
-
-Names (1): _corpus: _corpus:phase:in-ir:in3ir-ht  
-
 
 ## LIQUID (In–Ir)
 

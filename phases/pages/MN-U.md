@@ -27,6 +27,7 @@ Table: Phases of the Mn–U system (10)
 
 - Id: `phase:mn-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 1–1
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-u:a20-orthorhombic)

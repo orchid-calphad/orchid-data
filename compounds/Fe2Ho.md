@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Fe2Ho
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
-| -5.9 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
-| -4.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -2.6 | kJ/mol (basis unstated) | 3.3 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 3.3 |
-| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -3 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.97 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.9 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.65 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -9.5 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (heat_content_calorimetry, calibrated) |  |  |  | 10.5 |
+| -5.9 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (heat_content_calorimetry, calibrated) |  |  |  | 10.5 |
+| -4.3 | kJ/mol (basis unstated) |  | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -2.6 | kJ/mol (basis unstated) | 3.3 | 0.05 | 6 (dsc_dta, prior) |  |  |  | 6 |
+| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -3 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -2.97 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -2.9 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -2.65 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -9.5 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
 
 ## Sources
 

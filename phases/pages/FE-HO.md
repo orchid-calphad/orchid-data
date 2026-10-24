@@ -12,13 +12,13 @@ Table: Phases of the Fe–Ho system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-ho-bcc-a2); _phase:fe-ho:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1848.57 K, x(Ho) 0–0.00021 | 10 | 2 |
-| [FCC_A1](#phase-fe-ho-fcc-a1); _phase:fe-ho:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1184.8–1667.56 K, x(Ho) 0–0.00024 | 9 | 2 |
+| [BCC_A2](#phase-fe-ho-bcc-a2); _phase:fe-ho:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1848.57 K, x(Ho) 0–0.00021 | 6 | 2 |
+| [FCC_A1](#phase-fe-ho-fcc-a1); _phase:fe-ho:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1184.8–1667.56 K, x(Ho) 0–0.00024 | 5 | 2 |
 | [FE17HO2](#phase-fe-ho-fe17ho2); _phase:fe-ho:fe17ho2_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1619.69 K, x(Ho) 0.10526–0.10526 | 21 | 2 |
 | [FE23HO6_D8A](#phase-fe-ho-fe23ho6-d8a); _phase:fe-ho:fe23ho6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1613.21 K, x(Ho) 0.2069–0.2069 | 12 | 2 |
 | [FE2HO_C15](#phase-fe-ho-fe2ho-c15); _phase:fe-ho:fe2ho-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1569.22 K, x(Ho) 0.33333–0.33333 | 9 | 2 |
 | [FE3HO](#phase-fe-ho-fe3ho); _phase:fe-ho:fe3ho_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1583.31 K, x(Ho) 0.25–0.25 | 13 | 2 |
-| [HCP_A3](#phase-fe-ho-hcp-a3); _phase:fe-ho:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.48 K, x(Ho) 0.99282–1 | 6 | 2 |
+| [HCP_A3](#phase-fe-ho-hcp-a3); _phase:fe-ho:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.48 K, x(Ho) 0.99282–1 | 5 | 2 |
 | [LIQUID](#phase-fe-ho-liquid); _phase:fe-ho:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1151.93–2500 K, x(Ho) 0–1 | 43 | 2 |
 
 ## BCC_A2 (Fe–Ho)
@@ -26,11 +26,11 @@ Table: Phases of the Fe–Ho system (8)
 - Id: `phase:fe-ho:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1848.57 K, x(Ho) 0–0.00021
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ho:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:fe-ho:bcc-a2  
-_paper: _paper:10.1016/j.jct.2013.11.037:αFe, paper:10.1016/j.jct.2013.11.037:δFe  
+Names (4): _corpus: _corpus:phase:fe-ho:bcc-a2  
+_paper: _paper:10.1016/j.jct.2013.11.037:δFe  
 _tdb: _tdb:FeHo-14Kar.tdb:BCC_A2, tdb:FeHo-19Xu.tdb:BCC_A2  
 
 
@@ -64,7 +64,7 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-ho:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1184.8–1667.56 K, x(Ho) 0–0.00024
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ho:fcc-a1)
 
 Names (5): _corpus: _corpus:phase:fe-ho:fcc-a1  
@@ -190,7 +190,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaacwc and oqmd-31298, space group 227
 - Stoichiometry: Fe 0.6667, Ho 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1569.22 K, x(Ho) 0.33333–0.33333
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 9 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ho:fe2ho-c15)
 
 Names (6): _corpus: _corpus:phase:fe-ho:fe2ho-c15  
@@ -273,7 +273,7 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-ho:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.48 K, x(Ho) 0.99282–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ho:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:fe-ho:hcp-a3  
@@ -311,7 +311,7 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-ho:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1151.93–2500 K, x(Ho) 0–1
-- Literature: 43 values (43 accepted) from 1 papers
+- Literature: 43 values (42 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ho:liquid)
 
 Names (6): _corpus: _corpus:phase:fe-ho:liquid  

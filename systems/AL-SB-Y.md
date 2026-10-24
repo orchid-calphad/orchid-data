@@ -1,10 +1,10 @@
 # Al–Sb–Y system
 
-> Al–Sb–Y system: 55 accepted literature values (phase equilibrium 24, crystal structure 19, invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sb–Y system: 36 accepted literature values (phase equilibrium 24, invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SB-Y.html · Markdown: https://data.orchid-project.org/systems/AL-SB-Y.md
 
-55 accepted literature values from 1 paper(s) (experimental 12, model 24, unspecified 19); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 12, model 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SB-Y.json) · [CSV](https://data.orchid-project.org/systems/AL-SB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SB-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SB-Y.html) · [Markdown](https://data.orchid-project.org/systems/AL-SB-Y.md)
 
@@ -14,7 +14,6 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 12 |
 | model | 24 |
-| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -22,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase equilibrium | 24 |
-| crystal structure | 19 |
 
 ## Invariant reactions (literature)
 
@@ -75,32 +73,6 @@ Table: Phase equilibrium, Al–Sb–Y system
 | Phase assemblage |  | 800 | SbY + Sb3Y5; _alloy: Al 0.06, Sb 0.36, Y 0.58_ | model | [1] Zhang 2009 | Table 4, p. 5, row 8 |  |
 | Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | model | [1] Zhang 2009 | Table 4, p. 5, row 12 |  |
 | Phase assemblage |  | 800 | Y + Sb3Y5 + SbY3; _alloy: Al 0.1, Sb 0.1, Y 0.8_ | experimental | [1] Zhang 2009 | Table 4, p. 5, row 11 |  |
-
-### Crystal structure (19)
-
-Table: Crystal structure, Al–Sb–Y system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 7.8611 Å | 298.15 | Al2Y; _alloy: Sb 0, Y 0.333333_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 4 |  |
-| Lattice a | 8.2411 Å | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice a | 6.1884 Å | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice a | 6.276 Å | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice a | 6.135 Å | 298.15 | AlSb; _alloy: Sb 0.5, Y 0_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.884 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice a | 6.54 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice a | 8.9114 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice a | 6.165 Å | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 12.361 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
-| Lattice b | 11.522 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice b | 5.08 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice c | 7.6411 Å | 298.15 | Al2Y3; _alloy: Sb 0, Y 0.6_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 6 |  |
-| Lattice c | 21.094 Å | 298.15 | Al3Y_H; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.582 Å | 298.15 | Al3Y_L; _alloy: Sb 0, Y 0.25_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 3 |  |
-| Lattice c | 4.385 Å | 298.15 | AlY; _alloy: Sb 0, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 5 |  |
-| Lattice c | 9.4 Å | 298.15 | AlY2; _alloy: Sb 0, Y 0.666667_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 7 |  |
-| Lattice c | 6.296 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
-| Lattice c | 6.18 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
 
 ## Sources
 

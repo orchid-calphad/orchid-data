@@ -1,22 +1,21 @@
 # Mg–Nd phases
 
-> Mg–Nd system: 12 phases (tier A 7, tier C 4, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mg–Nd system: 11 phases (tier A 6, tier C 4, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MG-ND.html · Markdown: https://data.orchid-project.org/phases/pages/MG-ND.md
 
-12 phases (tier A 7, tier C 4, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 6, tier C 4, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MG-ND) · [full JSON](https://data.orchid-project.org/phases/systems/MG-ND.json) · [Mg–Nd system page](https://data.orchid-project.org/systems/MG-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/MG-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Mg–Nd system (12)
+Table: Phases of the Mg–Nd system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mg-nd-bcc-a2); _phase:mg-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 9 calculated diagram(s): 816.55–2499.34 K, x(Nd) 0.67009–1 | 22 | 9 |
+| [BCC_A2](#phase-mg-nd-bcc-a2); _phase:mg-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 7 calculated diagram(s): 816.55–2499.34 K, x(Nd) 0.67009–1 | 15 | 9 |
 | [B2_BCC](#phase-mg-nd-bcc-b2); _phase:mg-nd:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1289.06 K, x(Nd) 0.45149–1 | 8 | 4 |
 | [MG2M_C15](#phase-mg-nd-c15-mg2m); _phase:mg-nd:c15-mg2m_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 932.13–1028.31 K, x(Nd) 0.33333–0.33333 | 18 | 7 |
 | [MG3M_D03](#phase-mg-nd-d03-mg3m); _phase:mg-nd:d03-mg3m_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1059.11 K, x(Nd) 0.19478–0.25 | 20 | 7 |
-| [DHCP](#phase-mg-nd-dhcp); _phase:mg-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-mg-nd-dhcp-a3); _phase:mg-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1284.25 K, x(Nd) 0.91156–1 | 6 | 7 |
 | [FCC_A1](#phase-mg-nd-fcc-a1); _phase:mg-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-mg-nd-hcp-a3); _phase:mg-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–932.95 K, x(Nd) 0–0.00949 | 6 | 7 |
@@ -29,12 +28,12 @@ Table: Phases of the Mg–Nd system (12)
 
 - Id: `phase:mg-nd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 5 of 9 calculated diagram(s): 816.55–2499.34 K, x(Nd) 0.67009–1
-- Literature: 22 values (22 accepted) from 3 papers
+- Stability: stable in 5 of 7 calculated diagram(s): 816.55–2499.34 K, x(Nd) 0.67009–1
+- Literature: 15 values (15 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-nd:bcc-a2)
 
-Names (15): _corpus: _corpus:phase:mg-nd:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2010.07.010:bcc_A2, paper:10.1016/j.calphad.2010.07.010:bcc_B2, paper:10.1016/j.jallcom.2010.07.056:BCC_A2, paper:10.1016/s1003-6326(07)60051-x:BCC_A2, paper:10.1016/s1003-6326(07)60051-x:BCC_B2  
+Names (14): _corpus: _corpus:phase:mg-nd:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2010.07.010:bcc_A2, paper:10.1016/j.jallcom.2010.07.056:BCC_A2, paper:10.1016/s1003-6326(07)60051-x:BCC_A2, paper:10.1016/s1003-6326(07)60051-x:BCC_B2  
 _tdb: _tdb:MgNd-05Gor-RK.tdb:BCC_A2, tdb:MgNd-05Gor-ass.tdb:BCC_A2, tdb:MgNd-06Guo.tdb:BCC_A2, tdb:MgNd-07Men.tdb:A2_BCC, tdb:MgNd-07Men.tdb:BCC_A2, tdb:MgNd-08Guo.tdb:BCC_A2, tdb:MgNd-10Niu.tdb:BCC_A2, tdb:MgNd-11Qi.tdb:A2_BCC, tdb:MgNd-11Qi.tdb:BCC_A2  
 
 
@@ -351,24 +350,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Mg–Nd)
 
-- Id: `phase:mg-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:mg-nd:dhcp  
-
-
-## DHCP (Mg–Nd)
-
 - Id: `phase:mg-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1284.25 K, x(Nd) 0.91156–1
 - Literature: 6 values (6 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-nd:dhcp-a3)
 
-Names (11): _corpus: _corpus:phase:mg-nd:dhcp-a3  
+Names (12): _corpus: _corpus:phase:mg-nd:dhcp-a3, corpus:phase:mg-nd:dhcp  
 _paper: _paper:10.1016/j.calphad.2010.07.010:dhcp, paper:10.1016/j.jallcom.2010.07.056:DHCP, paper:10.1016/s1003-6326(07)60051-x:dHCP  
 _tdb: _tdb:MgNd-05Gor-RK.tdb:DHCP, tdb:MgNd-05Gor-ass.tdb:DHCP, tdb:MgNd-06Guo.tdb:DHCP, tdb:MgNd-07Men.tdb:DHCP, tdb:MgNd-08Guo.tdb:DHCP, tdb:MgNd-10Niu.tdb:DHCP, tdb:MgNd-11Qi.tdb:DHCP  
 

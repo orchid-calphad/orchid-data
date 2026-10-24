@@ -25,6 +25,7 @@ Table: Phases of the S–Sb system (8)
 
 - Id: `phase:s-sb:a16-orthorhombic`; status `assigned`
 - Structure: alpha-S · A16 · oF128 · Fddd (70); type `st:a16-alpha-s-of128`; tier A: standard phase name; confidence high
+- Stoichiometry: S 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–368.3 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:s-sb:a16-orthorhombic)
@@ -240,6 +241,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): beta-S · mP48 · P2_1/c (14) — Hallstedt 2025 mmc2 row for MONOCLINIC_S: beta-S
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — SbS-21Cui.tdb: 'Prototype beta-S (mP48, P2_1/a)'
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — SbS-21Shi.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 368.3–2499.61 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:s-sb:s-monoclinic)

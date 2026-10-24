@@ -97,7 +97,7 @@
      "sigma_effective": 3800.0,
      "method_class": "experimental_unspecified",
      "method_basis": "calibrated",
-     "method_n_pairs": 35,
+     "method_n_pairs": 30,
      "method_entry": "value_types/HM_FORM/classes/experimental_unspecified"
     },
     "printed": {

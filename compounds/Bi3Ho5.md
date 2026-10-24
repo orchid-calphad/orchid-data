@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi3Ho5.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -64.046 kJ/mol-atom (mp-aaaabuof); OQMD -66.027 kJ/mol-atom (oqmd-18566).
 
-Systems: [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
+Systems: [Bi–Ho](https://data.orchid-project.org/systems/BI-HO.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Bi3Ho5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -71 kJ/mol-atom | Ho5Bi3 | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 21 |  |
-| -67.807 kJ/mol-atom | Ho5Bi3 | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 20 |  |
+| -71 kJ/mol-atom | Ho5Bi3 | 0 | model | Miedema model | [Bi–Ho](https://data.orchid-project.org/systems/BI-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 21 |  |
+| -67.807 kJ/mol-atom | Ho5Bi3 | 0 | DFT | first-principles | [Bi–Ho](https://data.orchid-project.org/systems/BI-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 20 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Bi3Ho5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -71 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67.807 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -71 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67.807 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

@@ -39,20 +39,20 @@ Table: Uncertainty budget of the literature values of MgB2
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -41.1 | per mol-atom | 2.2 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 2.2 |
-| -41.1 | kJ/mol-atom | 2.2 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -41.1 | kJ/mol-atom | 2.2 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -26.6 | per mol-atom | 10 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 10 |
-| -26.6 | kJ/mol-atom | 10 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 10 |
+| -26.6 | kJ/mol-atom | 10 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 10 |
 | -18.6 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -18.6 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -17.2 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -17.2 | per mol-atom | 1.4 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1.4 |
-| -0.02666 | kJ/mol-atom | 0.01 | 5.000e-6 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -0.02666 | kJ/mol-atom | 0.01 | 5.000e-6 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -0.01855 | kJ/mol-atom | 0.00112 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -0.01717 | kJ/mol-atom | 0.00139 | 5.000e-6 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -35.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -35.9 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -24 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24 | per mol-atom |  | 0.5 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -24 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24 | per mol-atom |  | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 
 ## DFT formation energies
 

@@ -12,15 +12,15 @@ Table: Phases of the Al–Li system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL2LI3](#phase-al-li-al2li3); _phase:al-li:al2li3_ | Al2Li3 · hR5 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–793.67 K, x(Li) 0.6–0.6 | 14 | 8 |
-| [AL4LI9](#phase-al-li-al4li9); _phase:al-li:al4li9_ | Al4Li9 · mC26 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–609.6 K, x(Li) 0.69231–0.69231 | 12 | 8 |
+| [AL2LI3](#phase-al-li-al2li3); _phase:al-li:al2li3_ | Al2Li3 · hR5 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–793.67 K, x(Li) 0.6–0.6 | 23 | 8 |
+| [AL4LI9](#phase-al-li-al4li9); _phase:al-li:al4li9_ | Al4Li9 · mC26 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–609.6 K, x(Li) 0.69231–0.69231 | 24 | 8 |
 | [ALLI_B32](#phase-al-li-alli-b32); _phase:al-li:alli-b32_ | NaTl · B32 · cF16 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–977.6 K, x(Li) 0.46269–0.55521 | 0 | 2 |
-| [ALLI2](#phase-al-li-alli2); _phase:al-li:alli2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–610.14 K, x(Li) 0.64–0.65936 | 4 | 4 |
+| [ALLI2](#phase-al-li-alli2); _phase:al-li:alli2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–610.14 K, x(Li) 0.64–0.65936 | 8 | 4 |
 | [BCC_4SL](#phase-al-li-bcc-4sl); _phase:al-li:bcc-4sl_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–974.56 K, x(Li) 0.44522–1 | 19 | 5 |
-| [BCC_A2](#phase-al-li-bcc-a2); _phase:al-li:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 12 calculated diagram(s): 300–772.87 K, x(Li) 0.99413–1 | 5 | 14 |
+| [BCC_A2](#phase-al-li-bcc-a2); _phase:al-li:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 7 calculated diagram(s): 300–772.87 K, x(Li) 0.99413–1 | 5 | 14 |
 | [B32_BCC](#phase-al-li-bcc-b32); _phase:al-li:bcc-b32_ | NaTl · B32 · cF16 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–975.08 K, x(Li) 0.4646–1 | 0 | 1 |
 | [FCC_4SL](#phase-al-li-fcc-4sl); _phase:al-li:fcc-4sl_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–933.51 K, x(Li) 0–0.13814 | 0 | 6 |
-| [FCC_A1](#phase-al-li-fcc-a1); _phase:al-li:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 12 calculated diagram(s): 300–934.11 K, x(Li) 0–0.15499 | 8 | 14 |
+| [FCC_A1](#phase-al-li-fcc-a1); _phase:al-li:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–934.11 K, x(Li) 0–0.15499 | 8 | 14 |
 | [L12_FCC](#phase-al-li-fcc-l12); _phase:al-li:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–933.58 K, x(Li) 0–0.15499 | 0 | 1 |
 | [HCP_A3](#phase-al-li-hcp-a3); _phase:al-li:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 8 |
 | [LIQUID](#phase-al-li-liquid); _phase:al-li:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 447.76–2500 K, x(Li) 0–1 | 33 | 8 |
@@ -33,11 +33,11 @@ Table: Phases of the Al–Li system (12)
 - Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Li 0.6000
 - Stability: stable in 7 of 7 calculated diagram(s): 300–793.67 K, x(Li) 0.6–0.6
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 23 values (22 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:al2li3)
 
-Names (11): _corpus: _corpus:phase:al-li:al2li3  
-_paper: _paper:10.1007/s11669-020-00827-z:Al2Li3, paper:10.1016/s0364-5916(98)00037-6:Al2Li3  
+Names (12): _corpus: _corpus:phase:al-li:al2li3  
+_paper: _paper:10.1007/s11669-020-00827-z:Al2Li3, paper:10.1016/j.calphad.2011.09.003:Al2Li3, paper:10.1016/s0364-5916(98)00037-6:Al2Li3  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL2LI3, tdb:AlLi-07Hal.tdb:AL2LI3, tdb:AlLi-11Guo.tdb:AL2LI3, tdb:AlLi-20Lon.tdb:AL2LI3, tdb:AlLi-23Cui-reg2.tdb:AL2LI3, tdb:AlLi-23Cui-reg3.tdb:AL2LI3, tdb:AlLi-24Liu.tdb:AL2LI3, tdb:AlLi-89Sau-LB.tdb:AL2LI3  
 
 
@@ -99,7 +99,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL2LI3, tdb:AlLi-07Hal.tdb:AL2LI3, tdb:AlLi-
 47: CONST AL2LI3 : AL : LI : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -113,11 +113,13 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1989-801209](https://doi.org/10.1515/ijmr-1989-801209) N. Saunders, Z. Metallkd., 80, 894-903 (1989)  
 _assessment that models this phase_
+- [doi:10.1007/bf02892377](https://doi.org/10.1007/bf02892377) A.J. McAlister, Bull. Alloy Phase Diagrams 3 (1982) 177–183.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003) Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011).  
+_reports values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jssc.2010.08.029](https://doi.org/10.1016/j.jssc.2010.08.029) Kati Puhakainen, Magnus Boström, Thomas L. Groy, Ulrich Häussermann, A new phase in the system lithium–aluminum: Characterization of orthorhombic Li2Al, Journal of Solid State Chemistry 183, 2528-2533 (2010).  
 _cited as the source of values for this phase_
 
 ## AL4LI9 (Al–Li)
@@ -128,11 +130,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.3077, Li 0.6923
 - Stability: stable in 7 of 7 calculated diagram(s): 300–609.6 K, x(Li) 0.69231–0.69231
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 24 values (23 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:al4li9)
 
-Names (11): _corpus: _corpus:phase:al-li:al4li9  
-_paper: _paper:10.1007/s11669-020-00827-z:Al4Li9, paper:10.1016/s0364-5916(98)00037-6:Al4Li9  
+Names (12): _corpus: _corpus:phase:al-li:al4li9  
+_paper: _paper:10.1007/s11669-020-00827-z:Al4Li9, paper:10.1016/j.calphad.2011.09.003:Al4Li9, paper:10.1016/s0364-5916(98)00037-6:Al4Li9  
 _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL4LI9, tdb:AlLi-07Hal.tdb:AL4LI9, tdb:AlLi-11Guo.tdb:AL4LI9, tdb:AlLi-20Lon.tdb:AL4LI9, tdb:AlLi-23Cui-reg2.tdb:AL4LI9, tdb:AlLi-23Cui-reg3.tdb:AL4LI9, tdb:AlLi-24Liu.tdb:AL4LI9, tdb:AlLi-89Sau-LB.tdb:AL4LI9  
 
 
@@ -194,7 +196,7 @@ _tdb: _tdb:AlLi-07Hal-condensed.tdb:AL4LI9, tdb:AlLi-07Hal.tdb:AL4LI9, tdb:AlLi-
 52: CONST AL4LI9 : AL : LI : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1007/s11669-020-00827-z](https://doi.org/10.1007/s11669-020-00827-z) Zhaohui Long, Dongyu Cui, Hongxing Hu, Zhi Li, Fucheng Yin, Touwen Fan, Thermodynamic Modeling of the Al-Li-Zr Ternary System, J. Phase Equilib. Diffus. 41, 623-641 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -208,12 +210,14 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1989-801209](https://doi.org/10.1515/ijmr-1989-801209) N. Saunders, Z. Metallkd., 80, 894-903 (1989)  
 _assessment that models this phase_
+- [doi:10.1007/bf02892377](https://doi.org/10.1007/bf02892377) A.J. McAlister, Bull. Alloy Phase Diagrams 3 (1982) 177–183.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003) Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011).  
+_reports values for this phase_
 - [doi:10.1007/bf02647619](https://doi.org/10.1007/bf02647619) R. J. Pulham, P. Hubberstey, P. Hemptenmacher, Solutions of aluminum in liquid lithium: contribution to the Li-Al phase diagram, JPE 15, 587-590 (1994).  
 _cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
-- [doi:10.1016/j.jssc.2010.08.029](https://doi.org/10.1016/j.jssc.2010.08.029) Kati Puhakainen, Magnus Boström, Thomas L. Groy, Ulrich Häussermann, A new phase in the system lithium–aluminum: Characterization of orthorhombic Li2Al, Journal of Solid State Chemistry 183, 2528-2533 (2010).  
-_cited as the source of values for this phase_
 
 ## ALLI_B32 (Al–Li)
 
@@ -261,7 +265,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): GaLi2 · oC12 · Cmcm — AlLi-23Cui-reg3.tdb: 'Prototype GaLi2 (oC12, Cmcm)'
 - Candidate (tdb_comment): GaLi2 · oC12 · Cmcm — AlLi-24Liu.tdb: 'Prototype GaLi2 (oC12, Cmcm)'
 - Stability: stable in 4 of 4 calculated diagram(s): 300–610.14 K, x(Li) 0.64–0.65936
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:alli2)
 
 Names (6): _corpus: _corpus:phase:al-li:alli2  
@@ -383,7 +387,7 @@ _reports values for this phase_
 
 - Id: `phase:al-li:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 12 calculated diagram(s): 300–772.87 K, x(Li) 0.99413–1
+- Stability: stable in 6 of 7 calculated diagram(s): 300–772.87 K, x(Li) 0.99413–1
 - Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:bcc-a2)
 
@@ -618,7 +622,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-li:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 12 calculated diagram(s): 300–934.11 K, x(Li) 0–0.15499
+- Stability: stable in 7 of 7 calculated diagram(s): 300–934.11 K, x(Li) 0–0.15499
 - Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:fcc-a1)
 
@@ -862,7 +866,7 @@ _assessment that models this phase_
 - Id: `phase:al-li:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 447.76–2500 K, x(Li) 0–1
-- Literature: 33 values (33 accepted) from 2 papers
+- Literature: 33 values (32 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-li:liquid)
 
 Names (11): _corpus: _corpus:phase:al-li:liquid  

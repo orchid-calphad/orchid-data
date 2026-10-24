@@ -12,9 +12,9 @@ Table: Phases of the Sn–Zr system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-sn-zr-a4-diamond); _phase:sn-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 10 | 7 |
-| [BCT_A5](#phase-sn-zr-a5-bct); _phase:sn-zr:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–505.08 K, x(Zr) 0–0 | 7 | 7 |
-| [BCC_A2](#phase-sn-zr-bcc-a2); _phase:sn-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 301.06–3999.81 K, x(Zr) 0.80782–1 | 20 | 7 |
+| [DIAMOND_A4](#phase-sn-zr-a4-diamond); _phase:sn-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
+| [BCT_A5](#phase-sn-zr-a5-bct); _phase:sn-zr:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–505.08 K, x(Zr) 0–0 | 5 | 7 |
+| [BCC_A2](#phase-sn-zr-bcc-a2); _phase:sn-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 301.06–3999.81 K, x(Zr) 0.80782–1 | 18 | 7 |
 | [C14_LAVES](#phase-sn-zr-c14-laves); _phase:sn-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C15_LAVES](#phase-sn-zr-c15-laves); _phase:sn-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C36_LAVES](#phase-sn-zr-c36-laves); _phase:sn-zr:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -32,11 +32,10 @@ Table: Phases of the Sn–Zr system (13)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 7 calculated diagram(s)
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:a4-diamond)
 
-Names (12): _corpus: _corpus:phase:sn-zr:a4-diamond, corpus:phase:sn-zr:diamond-a4  
-_paper: _paper:10.1016/j.calphad.2008.04.001:αZr, paper:10.1016/s0364-5916(98)00021-2:α Sn, paper:10.1016/s0364-5916(98)00021-2:α Zr  
+Names (9): _corpus: _corpus:phase:sn-zr:a4-diamond, corpus:phase:sn-zr:diamond-a4  
 _tdb: _tdb:SnZr-08Jer.tdb:DIAMOND_A4, tdb:SnZr-19Laf.tdb:DIAMOND_A4, tdb:SnZr-24Pen.tdb:DIAMOND_A4, tdb:SnZr-98Kor.tdb:DIAMOND_A4, tdb:SnZr-98Sub-LB.tdb:DIAMOND_A4, tdb:SnZr-98Sub-orig.tdb:DIAMOND_A4, tdb:SnZr-99Dup.tdb:DIAMOND_A4  
 
 
@@ -93,15 +92,15 @@ _tdb: _tdb:SnZr-08Jer.tdb:DIAMOND_A4, tdb:SnZr-19Laf.tdb:DIAMOND_A4, tdb:SnZr-24
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.04.001](https://doi.org/10.1016/j.calphad.2008.04.001) R. Jerlerud Pérez, C. Toffolon-Masclet, J.-M. Joubert, B. Sundman, The Zr–Sn binary system: New experimental results and thermodynamic assessment, Calphad 32, 593-601 (2008).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.11.002](https://doi.org/10.1016/j.calphad.2018.11.002) P. Lafaye, C. Toffolon-Masclet, J.-C. Crivello, J.-M. Joubert, Calphad, 64, 43-54(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102672](https://doi.org/10.1016/j.calphad.2024.102672) J. Peng, J. Shen, X. Feng, Z. Cheng, Calphad, 85, 102672(2024).  
 _assessment that models this phase_
 - [doi:10.1016/S0022-3115(99)00125-7](https://doi.org/10.1016/S0022-3115%2899%2900125-7) N. Dupin, I. Ansara, C. Servant, C. Toffolon, C. Lemaignan, J.C. Brachet, J. Nucl. Mater., 275, 287-95(1999).  
+_assessment that models this phase_
+- [doi:10.1016/S0364-5916(98)00021-2](https://doi.org/10.1016/S0364-5916%2898%2900021-2) N. Subasic, Calphad, 22, 157-65(1998).  
 _assessment that models this phase_
 
 ## BCT_A5 (Sn–Zr)
@@ -110,7 +109,7 @@ _assessment that models this phase_
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: stable in 7 of 7 calculated diagram(s): 300–505.08 K, x(Zr) 0–0
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:a5-bct)
 
 Names (11): _corpus: _corpus:phase:sn-zr:a5-bct, corpus:phase:sn-zr:bct-a5  
@@ -189,7 +188,7 @@ _reports values for this phase_
 - Id: `phase:sn-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 301.06–3999.81 K, x(Zr) 0.80782–1
-- Literature: 20 values (20 accepted) from 3 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-zr:bcc-a2)
 
 Names (11): _corpus: _corpus:phase:sn-zr:bcc-a2  

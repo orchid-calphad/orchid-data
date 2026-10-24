@@ -15,8 +15,8 @@ Table: Phases of the Ge–K system (8)
 | [DIAMOND_A4](#phase-ge-k-a4-diamond); _phase:ge-k:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(K) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-ge-k-bcc-a2); _phase:ge-k:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–336.53 K, x(K) 1–1 | 0 | 1 |
 | [FCC_A1](#phase-ge-k-fcc-a1); _phase:ge-k:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GE4K](#phase-ge-k-ge4k); _phase:ge-k:ge4k_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1398.17 K, x(K) 0.2–0.2 | 0 | 1 |
-| [GEK](#phase-ge-k-gek); _phase:ge-k:gek_ | GeK · cP64 · P-43n (218) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1364.17 K, x(K) 0.5–0.5 | 0 | 1 |
+| [GE4K](#phase-ge-k-ge4k); _phase:ge-k:ge4k_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1398.17 K, x(K) 0.2–0.2 | 1 | 1 |
+| [GEK](#phase-ge-k-gek); _phase:ge-k:gek_ | GeK · cP64 · P-43n (218) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1364.17 K, x(K) 0.5–0.5 | 2 | 1 |
 | [GEK3](#phase-ge-k-gek3); _phase:ge-k:gek3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1156.87 K, x(K) 0.75–0.75 | 0 | 1 |
 | [HCP_A3](#phase-ge-k-hcp-a3); _phase:ge-k:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ge-k-liquid); _phase:ge-k:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 333.75–2500 K, x(K) 0–1 | 0 | 1 |
@@ -107,10 +107,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (Ge4K) — Hallstedt 2025 mmc2 row for GE4K: Ge4K
 - Stoichiometry: Ge 0.8000, K 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1398.17 K, x(K) 0.2–0.2
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-k:ge4k)
 
-Names (2): _corpus: _corpus:phase:ge-k:ge4k  
+Names (3): _corpus: _corpus:phase:ge-k:ge4k  
+_paper: _paper:10.1016/j.calphad.2012.01.004:Ge4K  
 _tdb: _tdb:GeK-12Wan.tdb:GE4K  
 
 
@@ -126,7 +127,7 @@ _tdb: _tdb:GeK-12Wan.tdb:GE4K
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.01.004](https://doi.org/10.1016/j.calphad.2012.01.004) Yaru Wang, Peisheng Wang, Dongdong Zhao, Biao Hu, Yong Du, Honghui Xu et al., Thermodynamic description of the Ge–Na and Ge–K systems using the CALPHAD approach supported by first-principles calculations, Calphad 37, 72-76 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GEK (Ge–K)
 
@@ -134,12 +135,13 @@ _assessment that models this phase_
 - Structure: GeK · cP64 · P-43n (218); type `st:gek-cp64`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ge 0.5000, K 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1364.17 K, x(K) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-k:gek)
 
-Names (4): _corpus: _corpus:phase:ge-k:gek  
+Names (5): _corpus: _corpus:phase:ge-k:gek  
 _mp: _mp:mp-aaaaadeo  
 _oqmd: _oqmd:oqmd-649065  
+_paper: _paper:10.1016/j.calphad.2012.01.004:GeK  
 _tdb: _tdb:GeK-12Wan.tdb:GEK  
 
 
@@ -152,10 +154,14 @@ _tdb: _tdb:GeK-12Wan.tdb:GEK
 54: CONST GEK : GE : K : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.01.004](https://doi.org/10.1016/j.calphad.2012.01.004) Yaru Wang, Peisheng Wang, Dongdong Zhao, Biao Hu, Yong Du, Honghui Xu et al., Thermodynamic description of the Ge–Na and Ge–K systems using the CALPHAD approach supported by first-principles calculations, Calphad 37, 72-76 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19613120310](https://doi.org/10.1002/zaac.19613120310) R. Schäfer, W. Klemm, Das Verhalten der Alkalimetalle zu Halbmetallen. IX. Weitere Beiträge zur Kenntnis der Silicide und Germanide der Alkalimetalle, Zeitschrift anorg allge chemie 312, 214-220 (1961).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19613130108](https://doi.org/10.1002/zaac.19613130108) E. Busmann, Das Verhalten der Alkalimetalle zu Halbmetallen. X. Die Kristallstrukturen von KSi, RbSi, CsSi, KGe, RbGe und CsGe, Zeitschrift anorg allge chemie 313, 90-106 (1961).  
+_cited as the source of values for this phase_
 
 ## GEK3 (Ge–K)
 

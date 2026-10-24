@@ -67,7 +67,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 700.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 3800.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -75,7 +75,7 @@
      "sigma_effective": 3800.0,
      "method_class": "experimental_unspecified",
      "method_basis": "calibrated",
-     "method_n_pairs": 35,
+     "method_n_pairs": 30,
      "method_entry": "value_types/HM_FORM/classes/experimental_unspecified"
     },
     "printed": {

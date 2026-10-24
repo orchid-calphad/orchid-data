@@ -126,22 +126,22 @@ Table: Invariant reactions reported in the literature for the Ag–In system (44
 | 933 | β -> L + ζ | β: In 0.322; L: In 0.298; ζ: In 0.336 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 17 |  |
 | 933 | β -> L + ζ | β: In 0.247; L: In 0.242; ζ: In 0.317 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 15 |  |
 | 579 | eutectoid |  | experimental | [1] Muzzillo 2018 | p. 13 | “This reaction was expected between the ternary AgIn2 peritectic at 488 K and the g-HT eutectoid reaction at 579 K in the Cu-In binary system.” |
-| 478.3 | ζ -> L + γ-Ag9In4 | ζ: In 0.387; L: In 0.332; γ-Ag9In4: In 0.95 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 31 |  |
+| 478.3 | ζ -> L + γ-Ag9In4 | ζ: In 0.387; L: In 0.95; γ-Ag9In4: In 0.332 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 31 |  |
 | 478 | ζ -> L + γ-Ag9In4 | ζ: In 0.476; L: In 0.353; γ-Ag9In4: In 0.928 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 30 |  |
-| 477.4 | ζ -> L + γ-Ag9In4 | ζ: In 0.373; L: In 0.336; γ-Ag9In4: In 0.932 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 33 |  |
-| 477 | ζ -> L + γ-Ag9In4 | L: In 0.319; γ-Ag9In4: In 0.925 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 29 |  |
-| 477 | ζ -> L + γ-Ag9In4 | L: In 0.322; γ-Ag9In4: In 0.928 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 28 |  |
+| 477.4 | ζ -> L + γ-Ag9In4 | ζ: In 0.373; L: In 0.932; γ-Ag9In4: In 0.336 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 33 |  |
+| 477 | ζ -> L + γ-Ag9In4 | L: In 0.925; γ-Ag9In4: In 0.319 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 29 |  |
+| 477 | ζ -> L + γ-Ag9In4 | L: In 0.928; γ-Ag9In4: In 0.322 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 28 |  |
 | 474.1 | α + ζ -> α' | α: In 0.204; ζ: In 0.251; α': In 0.243 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 37 |  |
 | 473 | ζ -> L + γ-Ag9In4 | ζ: In 0.373; L: In 0.338; γ-Ag9In4: In 0.935 | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 32 |  |
 | 460 | α + ζ -> α' | α: In 0.193; ζ: In 0.254; α': In 0.245 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 36 |  |
 | 460 | ζ -> α + α' | ζ: In 0.245; α: In 0.182; α': In 0.254 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 35 |  |
 | 460 | ζ -> α + α' | ζ: In 0.248; α: In 0.186; α': In 0.256 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 34 |  |
 | 451.7 | L + γ-Ag9In4 -> AgIn2 | L: In 0.338; γ-Ag9In4: In 0.945; AgIn2: In 0.67 | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 42 |  |
-| 443.3 | L + γ-Ag9In4 -> AgIn2 | L: In 0.332; γ-Ag9In4: In 0.968; AgIn2: In 0.667 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 41 |  |
-| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.336; γ-Ag9In4: In 0.951; AgIn2: In 0.667 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 43 |  |
+| 443.3 | L + γ-Ag9In4 -> AgIn2 | L: In 0.968; γ-Ag9In4: In 0.332; AgIn2: In 0.667 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 41 |  |
+| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.951; γ-Ag9In4: In 0.336; AgIn2: In 0.667 | model | [1] Muzzillo 2018 | Table 1, p. 3, row 43 |  |
 | 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.355; γ-Ag9In4: In 0.955; AgIn2: In 0.667 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 40 |  |
-| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.319; γ-Ag9In4: In 0.951; AgIn2: In 0.731 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 39 |  |
-| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.321; γ-Ag9In4: In 0.953; AgIn2: In 0.737 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 38 |  |
+| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.951; γ-Ag9In4: In 0.319; AgIn2: In 0.731 | experimental | [1] Muzzillo 2018; _cites Hellner 1951_ | Table 1, p. 3, row 39 |  |
+| 439 | L + γ-Ag9In4 -> AgIn2 | L: In 0.953; γ-Ag9In4: In 0.321; AgIn2: In 0.737 | experimental | [1] Muzzillo 2018; _cites Weibke 1935_ [doi](https://doi.org/10.1002/zaac.19352220205) | Table 1, p. 3, row 38 |  |
 | 418.7 | L -> AgIn2 + In | L: In 0.99; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Bahari 2009_ [doi](https://doi.org/10.1016/j.jallcom.2008.10.030) | Table 1, p. 3, row 47 |  |
 | 417 | L -> AgIn2 + In | L: In 0.977; AgIn2: In 0.667; In: In 1 | experimental | [1] Muzzillo 2018; _cites Campbell 1970_ [doi](https://doi.org/10.1139/v70-281) | Table 1, p. 3, row 46 |  |
 | 415.6 | L -> AgIn2 + In | L: In 0.973; AgIn2: In 0.67; In: In 1 | model | [1] Muzzillo 2018; _cites Gierlotka 2012_ [doi](https://doi.org/10.1007/s11664-011-1757-z) | Table 1, p. 3, row 48 |  |

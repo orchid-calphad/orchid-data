@@ -1,10 +1,10 @@
 # Li–Si system
 
-> Li–Si system: 136 accepted literature values (invariant reaction 78, mixing / partial 24, crystal structure 23, phase transition 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Si system: 144 accepted literature values (invariant reaction 78, crystal structure 31, mixing / partial 24, phase transition 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-SI.html · Markdown: https://data.orchid-project.org/systems/LI-SI.md
 
-136 accepted literature values from 3 paper(s) (experimental 87, model 49); 3 calculated phase diagram(s).
+144 accepted literature values from 4 paper(s) (experimental 87, model 57); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-SI.json) · [CSV](https://data.orchid-project.org/systems/LI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-SI/LiSi-13Wan.json) · [phases (14)](https://data.orchid-project.org/phases/pages/LI-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-SI.html) · [Markdown](https://data.orchid-project.org/systems/LI-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 87 |
-| model | 49 |
+| model | 57 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 78 |
 | phase transition | 11 |
 | mixing / partial | 24 |
-| crystal structure | 23 |
+| crystal structure | 31 |
 
 ## Calculated phase diagrams
 
@@ -226,30 +226,38 @@ Table: Mixing / partial, Li–Si system
 | Enthalpy of mixing; _printed: ΔHmix._ | -25.7 kJ/mol (basis unstated) ± 0.5 | 1092 | liquid; _alloy: Li 0.7968, Si 0.2032_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 7 |  |
 | Enthalpy of mixing; _printed: ΔHmix._ | -15.2 kJ/mol (basis unstated) ± 0.5 | 1092 | liquid; _alloy: Li 0.875, Si 0.125_ | experimental | [3] Braga 2014 | Table 1, p. 4, row 8 |  |
 
-### Crystal structure (23)
+### Crystal structure (31)
 
 Table: Crystal structure, Li–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.61 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 6 |  |
 | Lattice a | 8.6 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
 | Lattice a | 7.9488 Å ± 4.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice a | 7.99 Å | 298.15 | Li13Si4; _alloy: Si 0.235294_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 4 |  |
 | Lattice a | 10.6322 Å ± 9.000e-4 | 298.15 | Li15Si4; _alloy: Si 0.210526_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 5 |  |
 | Lattice a | 18.7259 Å ± 1.000e-4 | 298.15 | Li17Si4; _alloy: Si 0.190476_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 1 |  |
 | Lattice a | 18.71 Å | 298.15 | Li21Si5; _alloy: Si 0.192308_ | experimental | [1] Liang 2017; _cites Nesper 1987_ [doi](https://doi.org/10.1016/0022-4596%2887%2990176-9) | Table 1, p. 2, row 3 |  |
 | Lattice a | 18.75 Å | 298.15 | Li22Si5; _alloy: Si 0.185185_ | experimental | [1] Liang 2017; _cites Axel 1966_ [doi](https://doi.org/10.1515/znb-1966-0204) | Table 1, p. 2, row 2 |  |
+| Lattice a | 18.751 Å | 298.15 | Li22Si5; _alloy: Si 0.185185_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 3 |  |
 | Lattice a | 7.7 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
 | Lattice a | 7.99 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 4.435 Å ± 0.001 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.435 Å | 298.15 | Li7Si3; _alloy: Si 0.3_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 5 |  |
 | Lattice a | 9.3545 Å ± 5.000e-4 | 298.15 | LiSi; _alloy: Si 0.5_ | experimental | [1] Liang 2017; _cites Tang 2013_ [doi](https://doi.org/10.1149/2.089308jes) | Table 1, p. 2, row 11 |  |
 | Lattice a | 4.5246 Å ± 2.000e-4 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
+| Lattice b | 19.738 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 6 |  |
 | Lattice b | 19.755 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
 | Lattice b | 15.1248 Å ± 8.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice b | 15.21 Å | 298.15 | Li13Si4; _alloy: Si 0.235294_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 4 |  |
 | Lattice b | 4.41 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
 | Lattice b | 15.21 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
 | Lattice b | 21.944 Å ± 0.001 | 298.15 | UNKNOWN | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 4 |  |
+| Lattice c | 14.341 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 6 |  |
 | Lattice c | 14.336 Å | 298.15 | Li12Si7; _alloy: Si 0.368421_ | experimental | [1] Liang 2017; _cites Nesper 1986_ [doi](https://doi.org/10.1002/cber.19861191207) | Table 1, p. 2, row 10 |  |
 | Lattice c | 4.4661 Å ± 2.000e-4 | 298.15 | Li13Si4; _alloy: Si 0.235294_ | experimental | [1] Liang 2017; _cites Zeilinger 2013_ [doi](https://doi.org/10.1021/cm400612k) | Table 1, p. 2, row 6 |  |
+| Lattice c | 4.43 Å | 298.15 | Li13Si4; _alloy: Si 0.235294_ | model | [4] Long 2018; _cites Okamoto 1990_ [doi](https://doi.org/10.1007/bf03029305) | Table 1, p. 2, row 4 |  |
 | Lattice c | 6.56 Å | 298.15 | Li2Si; _alloy: Si 0.333333_ | experimental | [1] Liang 2017; _cites Axel 1965_ [doi](https://doi.org/10.1002/ange.19650770809) | Table 1, p. 2, row 9 |  |
 | Lattice c | 4.43 Å | 298.15 | Li7Si2; _alloy: Si 0.222222_ | experimental | [1] Liang 2017; _cites Sch 1965_ | Table 1, p. 2, row 7 |  |
 | Lattice c | 18.134 Å ± 0.003 | 298.15 | Li7Si3; _alloy: Si 0.3_ | experimental | [1] Liang 2017; _cites H 1980_ | Table 1, p. 2, row 8 |  |
@@ -263,6 +271,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. Song-Mao Liang, Franziska Taubert, Artem Kozlov, Jürgen Seidel, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamics of Li-Si and Li-Si-H phase diagrams applied to hydrogen absorption and Li-ion batteries, Intermetallics 81, 32-46 (2017). [doi:10.1016/j.intermet.2017.02.024](https://doi.org/10.1016/j.intermet.2017.02.024)
 2. Peisheng Wang, Artem Kozlov, Daniel Thomas, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamic analysis of the Li–Si phase equilibria from 0 K to liquidus temperatures, Intermetallics 42, 137-145 (2013). [doi:10.1016/j.intermet.2013.06.003](https://doi.org/10.1016/j.intermet.2013.06.003)
 3. M. Helena Braga, Adam Dębski, Władysław Gąsior, Li–Si phase diagram: Enthalpy of mixing, thermodynamic stability, and coherent assessment, Journal of Alloys and Compounds 616, 581-593 (2014). [doi:10.1016/j.jallcom.2014.06.212](https://doi.org/10.1016/j.jallcom.2014.06.212)
+4. Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018). [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211)
 
 ## Please cite
 

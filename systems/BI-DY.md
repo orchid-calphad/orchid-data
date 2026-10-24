@@ -1,10 +1,10 @@
 # Bi–Dy system
 
-> Bi–Dy system: 14 accepted literature values (invariant reaction 12, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Dy system: 22 accepted literature values (invariant reaction 12, crystal structure 8, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-DY.html · Markdown: https://data.orchid-project.org/systems/BI-DY.md
 
-14 accepted literature values from 1 paper(s) (experimental 8, model 6); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 12, model 6, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-DY.json) · [CSV](https://data.orchid-project.org/systems/BI-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-DY/BiDy-13Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-DY.html) · [Markdown](https://data.orchid-project.org/systems/BI-DY.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
+| experimental | 12 |
 | model | 6 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 2 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -76,6 +78,21 @@ Table: Phase transition, Bi–Dy system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2023 K | 2023 | congruent transformation | model | [1] Wang 2013 | p. 5 | “The peritectic temperature for the formation of the intermetallic compound Bi3 Dy5 is 1719 K, and the congruent melting temperature of BiDy is 2023 K, the eutectic temperatures of the reactions, L ↔ Hcp A3 (Dy) + Bi3 Dy5 and L ↔ Rhomb (Bi) + BiDy, are 1420 and 543.5 K, respectively.” |
 | Phase transition | 2048 K | 2048 | congruent transformation | experimental | [1] Wang 2013; _cites Abulkhaev 1992_ | p. 2 | “According to measured data, the compound Bi3 Dy5 is formed by the peritectic reactions, L + BiDy ↔ Bi3 Dy5 at 1693 K, and the compound BiDy melts congruently at about 2048 K.” |
+
+### Crystal structure (8)
+
+Table: Crystal structure, Bi–Dy system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.235 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
+| Lattice a | 6.3071 Å | 0 | BiDy; _alloy: Dy 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 13 |  |
+| Lattice a | 8.155 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
+| Lattice a | 6.2491 Å | 298.15 | BiDy; _alloy: Dy 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 14 |  |
+| Lattice b | 9.516 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
+| Lattice b | 9.432 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
+| Lattice c | 12.011 Å | 0 | Bi3Dy5; _alloy: Dy 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 11 |  |
+| Lattice c | 11.934 Å | 298.15 | Bi3Dy5; _alloy: Dy 0.625_ | experimental | [1] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 12 |  |
 
 ## Sources
 

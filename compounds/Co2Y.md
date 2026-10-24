@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Co2Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22.76 | kJ/mol-atom | 1.33 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -19.29 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -22.76 | kJ/mol-atom | 1.33 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -19.29 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of Co2Y
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaabxu | -17.069 | -0.176904 | Fd-3m | 0 | 0 | no |
-| OQMD | oqmd-19394 | -18.206 | -0.188688 | Fd-3m | 0.16 | 0.0017 | no |
+| OQMD | oqmd-19394 | -18.206 | -0.188688 | Fd-3m | 0.1603 | 0.0017 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

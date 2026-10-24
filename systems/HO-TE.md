@@ -1,10 +1,10 @@
 # Ho–Te system
 
-> Ho–Te system: 48 accepted literature values (crystal structure 19, invariant reaction 18, formation 6, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ho–Te system: 47 accepted literature values (crystal structure 18, invariant reaction 18, formation 6, phase transition 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HO-TE.html · Markdown: https://data.orchid-project.org/systems/HO-TE.md
 
-48 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 10); 2 calculated phase diagram(s).
+47 accepted literature values from 2 paper(s) (experimental 25, model 13, DFT 6, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HO-TE.json) · [CSV](https://data.orchid-project.org/systems/HO-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HO-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HO-TE/HoTe-13Gha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/HO-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HO-TE.html) · [Markdown](https://data.orchid-project.org/systems/HO-TE.md)
 
@@ -14,7 +14,8 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 25 |
 | model | 13 |
-| DFT | 10 |
+| DFT | 6 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -23,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 18 |
 | phase transition | 5 |
 | formation | 6 |
-| crystal structure | 19 |
+| crystal structure | 18 |
 
 ## Calculated phase diagrams
 
@@ -91,9 +92,9 @@ Table: Enthalpies of formation, Ho–Te system (6)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ho2Te5 |  | -107.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 4 |  |
 | Ho2Te5 | [Ho2Te5](https://data.orchid-project.org/compounds/Ho2Te5.html) | -103.917 kJ/mol-atom | 298.15 | model | -122.227 (mp-aaackwra) | -96.625 (oqmd-1798994) | [1] Ghamri 2013 | Table 2, p. 3, row 5 |  |
-| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -162 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -124.149 (oqmd-1880743) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1 |  |
+| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -162 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013; _cites Eichler 1990_ [doi](https://doi.org/10.1016/0022-5088%2890%2990596-c) | Table 2, p. 3, row 1 |  |
 | HoTe |  | -153.449 kJ/mol-atom | 298.15 | DFT |  |  | [1] Ghamri 2013 | Table 2, p. 3, row 2 |  |
-| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -152.99 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -124.149 (oqmd-1880743) | [1] Ghamri 2013 | Table 2, p. 3, row 3 |  |
+| HoTe | [HoTe](https://data.orchid-project.org/compounds/HoTe.html) | -152.99 kJ/mol-atom | 298.15 | model | -140.092 (mp-aaaaabjj) | -120.012 (oqmd-8123) | [1] Ghamri 2013 | Table 2, p. 3, row 3 |  |
 | HoTe3 | [HoTe3](https://data.orchid-project.org/compounds/HoTe3.html) | -94 kJ/mol-atom | 298.15 | model | -118.228 (mp-aaacjjlc) | -86.803 (oqmd-1745454) | [1] Ghamri 2013 | Table 2, p. 3, row 6 |  |
 
 ## Other properties
@@ -110,30 +111,29 @@ Table: Phase transition, Ho–Te system
 | Phase transition | 1698.15 K | 1698.15 | polymorphic | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 4 | “The allotropic transformation of Ho given at 1425 °C by Spedding et al. \[10\] was not taken into consideration in the present assessment, because pure Ho has an Mg-type hcp structure up to the melting point \[5,9\].” |
 | Phase transition | 1747 K | 1747 |  | experimental | [1] Ghamri 2013; _cites Spedding 1961_ [doi](https://doi.org/10.1016/0022-5088%2861%2990003-0) | p. 1 | “The allotropic transformation of Ho observed at 1698 K (near its melting point 1747 K) by Spedding et al. \[10\] is not shown in both diagrams of \[5\] and \[9\].” |
 
-### Crystal structure (19)
+### Crystal structure (18)
 
 Table: Crystal structure, Ho–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.548 Å | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
 | Lattice a | 6.055 Å | 0 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.499 Å | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
 | Lattice a | 4.108 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice a | 3.58 Å | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
 | Lattice a | 6.09 Å | 298.15 | (HoTe); _alloy: Ho 0.5, Te 0.5_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 4.456 Å | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
 | Lattice a | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
+| Lattice a | 6.07 Å | 298.15 | HoTe; _alloy: Ho 0.5, Te 0.5_ | experimental | [2] Cui 2023; _cites Brixner 1960_ [doi](https://doi.org/10.1016/0022-1902%2860%2980038-3) | Table 1, p. 2, row 19 |  |
+| Lattice a | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
 | Lattice a | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
 | Lattice b | 43.964 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
 | Lattice b | 45.03 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice b | 45.03 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
+| Lattice b | 25.4 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
 | Lattice b | 24.87 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 5.82 Å | 0 | (Ho); _(Ho): Ho 1, Te 0_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.957 Å | 0 | (Te); _(Te): Ho 0, Te 1_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 9 |  |
 | Lattice c | 4.621 Å | 0 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | DFT | [1] Ghamri 2013 | Table 1, p. 2, row 6 |  |
-| Lattice c | 5.62 Å | 298.15 | (Ho); _(Ho): Ho 1, Te 0_ | experimental | [1] Ghamri 2013; _cites Harris 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990401-1) | Table 1, p. 2, row 1 |  |
-| Lattice c | 5.921 Å | 298.15 | (Te); _(Te): Ho 0, Te 1_ | experimental | [1] Ghamri 2013; _cites Adenis 1989_ [doi](https://doi.org/10.1107/s0108270188014453) | Table 1, p. 2, row 8 |  |
 | Lattice c | 4.411 Å | 298.15 | Ho2Te5; _Ho2Te5: Ho 0.286, Te 0.714_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 5 |  |
+| Lattice c | 4.41 Å | 298.15 | Ho2Te5; _alloy: Ho 0.285714, Te 0.714286_ | experimental | [2] Cui 2023; _cites Yarembash 1974_ | Table 1, p. 2, row 20 |  |
+| Lattice c | 4.29 Å | 298.15 | HoTe3; _alloy: Ho 0.25, Te 0.75_ | unspecified | [2] Cui 2023; _cites Slovyanskikh 1985_ | Table 1, p. 2, row 21 |  |
 | Lattice c | 4.273 Å | 298.15 | HoTe3; _HoTe3: Ho 0.25, Te 0.75_ | experimental | [1] Ghamri 2013; _cites Yarembash 1974_ | Table 1, p. 2, row 7 |  |
 
 ## Sources

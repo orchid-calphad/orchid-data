@@ -1,10 +1,10 @@
 # Mg–Sr system
 
-> Mg–Sr system: 25 accepted literature values (invariant reaction 25) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sr system: 40 accepted literature values (invariant reaction 25, crystal structure 9, formation 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SR.html · Markdown: https://data.orchid-project.org/systems/MG-SR.md
 
-25 accepted literature values from 1 paper(s) (experimental 17, model 8); 2 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (experimental 18, model 8, unspecified 14); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SR.json) · [CSV](https://data.orchid-project.org/systems/MG-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SR/MgSr-06Zho.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SR.html) · [Markdown](https://data.orchid-project.org/systems/MG-SR.md)
 
@@ -12,14 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
+| experimental | 18 |
 | model | 8 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 25 |
+| formation | 6 |
+| crystal structure | 9 |
 
 ## Calculated phase diagrams
 
@@ -102,6 +105,39 @@ Table: Invariant reactions reported in the literature for the Mg–Sr system (25
 | 700 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.6929; Mg2Sr: Sr 0.3387; fcc-Al: Sr 0.9978 | model | [1] Zhong 2006 | Table 4, p. 6, row 21 |  |
 | 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.7; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.855 | experimental | [1] Zhong 2006; _cites Ray 1947_ | Table 4, p. 6, row 23 |  |
 | 699 | Liquid = Mg2Sr + fcc-Al | Liquid: Sr 0.704; Mg2Sr: Sr 0.3333; fcc-Al: Sr 0.937 | experimental | [1] Zhong 2006; _cites Brown 1973_ | Table 4, p. 6, row 24 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mg–Sr system (6)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Mg17Sr2 | [Mg17Sr2](https://data.orchid-project.org/compounds/Mg17Sr2.html) | -4.7963 kJ/mol-atom | 0 | unspecified | -2.741 (mp-aaaaabqy) | -4.846 (oqmd-90157) | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
+| Mg23Sr6 | [Mg23Sr6](https://data.orchid-project.org/compounds/Mg23Sr6.html) | -7.7392 kJ/mol-atom | 0 | unspecified | -6.786 (mp-aaaabtny) | -7.661 (oqmd-17656) | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
+| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -10.6189 kJ/mol-atom | 0 | unspecified | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
+| Mg2Sr-C14 | [Mg2Sr](https://data.orchid-project.org/compounds/Mg2Sr.html) | -7.117 kJ/mol-atom | 298.15 | experimental | -7.73 (mp-aaaaaduy) | -10.194 (oqmd-30729) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 15 |  |
+| Mg38Sr9 | [Mg38Sr9](https://data.orchid-project.org/compounds/Mg38Sr9.html) | -6.2742 kJ/mol-atom | 0 | unspecified | -5.716 (mp-aaaabtnz) | -6.185 (oqmd-684928) | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
+| Sr2Mg-C14 | [MgSr2](https://data.orchid-project.org/compounds/MgSr2.html) | 36.4176 kJ/mol-atom | 0 | unspecified | 9.104 (mp-aaackgug) | 7.951 (oqmd-290200) | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
+
+## Other properties
+
+### Crystal structure (9)
+
+Table: Crystal structure, Mg–Sr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a (=b)_ | 10.469 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
+| Lattice a; _printed: a_ | 14.869 Å | 0 | Mg23Sr6; _alloy: Mg 0.793103, Sr 0.206897_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
+| Lattice a; _printed: a_ | 6.465 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
+| Lattice a; _printed: a (=b)_ | 10.506 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
+| Lattice a; _printed: a (=b)_ | 7.424 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
+| Lattice c; _printed: c_ | 10.3 Å | 0 | Mg17Sr2; _alloy: Mg 0.894737, Sr 0.105263_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 2 |  |
+| Lattice c; _printed: c_ | 10.387 Å | 0 | Mg2Sr-C14; _alloy: Mg 0.666667, Sr 0.333333_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 14 |  |
+| Lattice c; _printed: c_ | 27.882 Å | 0 | Mg38Sr9; _alloy: Mg 0.808511, Sr 0.191489_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 3 |  |
+| Lattice c; _printed: c_ | 11.635 Å | 0 | Sr2Mg-C14; _alloy: Mg 0.333333, Sr 0.666667_ | unspecified | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
 
 ## Sources
 

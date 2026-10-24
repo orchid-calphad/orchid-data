@@ -1,10 +1,10 @@
 # Pb–Zn system
 
-> Pb–Zn system: 15 accepted literature values (invariant reaction 15) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Zn system: 14 accepted literature values (invariant reaction 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-ZN.html · Markdown: https://data.orchid-project.org/systems/PB-ZN.md
 
-15 accepted literature values from 1 paper(s) (experimental 12, model 3); 4 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 11, model 3); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-ZN.json) · [CSV](https://data.orchid-project.org/systems/PB-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-ZN/PbZn-03Dav.json) · [phases (4)](https://data.orchid-project.org/phases/pages/PB-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PB-ZN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 11 |
 | model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 14 |
 
 ## Calculated phase diagrams
 
@@ -52,13 +52,12 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pb–Zn system (15)
+Table: Invariant reactions reported in the literature for the Pb–Zn system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 691.1 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.049 | model | [1] Srivastava 1993 | Table 3, p. 7, row 13 |  |
 | 691 | L2 -> (Zn) + L1 | L2: Zn 0.998; L1: Zn 0.1004 | experimental | [1] Srivastava 1993; _cites ref. 14_ | Table 3, p. 7, row 10 |  |
-| 691 | L2 -> (Zn) + L1 | L2: Zn 0.997 | experimental | [1] Srivastava 1993; _cites ref. 3_ | Table 3, p. 7, row 9 |  |
 | 691 | L2 -> (Zn) + L1 | L2: Zn 0.9973; L1: Zn 0.052 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 12 |  |
 | 690.8 | L2 -> (Zn) + L1 | L2: Zn 0.997; L1: Zn 0.06 | experimental | [1] Srivastava 1993; _cites ref. 49_ | Table 3, p. 7, row 11 |  |
 | 591.35 | L1 -> (Zn) + (Pb) | L1: Zn 0.018 | experimental | [1] Srivastava 1993; _cites ref. 54_ | Table 3, p. 7, row 7 |  |

@@ -12,7 +12,7 @@ Table: Phases of the Ge–Ti system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-ti-a4-diamond); _phase:ge-ti:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Ti) 0–0.02257 | 13 | 2 |
+| [DIAMOND_A4](#phase-ge-ti-a4-diamond); _phase:ge-ti:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Ti) 0–0.02257 | 7 | 2 |
 | [BCC_A2](#phase-ge-ti-bcc-a2); _phase:ge-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1154.99–2499.84 K, x(Ti) 0.91179–1 | 17 | 2 |
 | [FCC_A1](#phase-ge-ti-fcc-a1); _phase:ge-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [GE2TI_C54](#phase-ge-ti-ge2ti-c54); _phase:ge-ti:ge2ti-c54_ | TiSi2 · C54 · oF24 · Fddd (70) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1391.67 K, x(Ti) 0.33333–0.33333 | 14 | 2 |
@@ -27,11 +27,11 @@ Table: Phases of the Ge–Ti system (9)
 - Id: `phase:ge-ti:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Ti) 0–0.02257
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ti:a4-diamond)
 
-Names (7): _corpus: _corpus:phase:ge-ti:a4-diamond, corpus:phase:ge-ti:diamond-a4  
-_paper: _paper:10.1007/s11669-023-01028-0:(Ge), paper:10.1016/j.tca.2011.04.017:(Ge), paper:10.1016/j.tca.2011.04.017:(αTi)  
+Names (6): _corpus: _corpus:phase:ge-ti:a4-diamond, corpus:phase:ge-ti:diamond-a4  
+_paper: _paper:10.1007/s11669-023-01028-0:(Ge), paper:10.1016/j.tca.2011.04.017:(Ge)  
 _tdb: _tdb:GeTi-11Liu.tdb:DIAMOND_A4, tdb:GeTi-23Zob.tdb:DIAMOND_A4  
 
 
@@ -53,10 +53,10 @@ _tdb: _tdb:GeTi-11Liu.tdb:DIAMOND_A4, tdb:GeTi-23Zob.tdb:DIAMOND_A4
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.tca.2011.04.017](https://doi.org/10.1016/j.tca.2011.04.017) Dandan Liu, Huanli Yan, Xiaoming Yuan, Yoonsung Chung, Yong Du, Honghui Xu et al., Thermodynamic modeling of the Ge–Ti system supported by key experiment, Thermochimica Acta 521, 148-154 (2011).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-023-01028-0](https://doi.org/10.1007/s11669-023-01028-0) Ondřej Zobač, Aleš Kroupa, CALPHAD-Based Thermodynamic Description of the Binary Phase Diagram Ge-Ti, J. Phase Equilib. Diffus. (2023).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2011.04.017](https://doi.org/10.1016/j.tca.2011.04.017) Dandan Liu, Huanli Yan, Xiaoming Yuan, Yoonsung Chung, Yong Du, Honghui Xu et al., Thermodynamic modeling of the Ge–Ti system supported by key experiment, Thermochimica Acta 521, 148-154 (2011).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(89)90197-5](https://doi.org/10.1016/0022-5088%2889%2990197-5) M.V. Rudometkina, Yu.D. Seropegin, A.V. Gribanov, L.S. Gusei, Phase equilibria in the TiNbGe system at 1170 K, Journal of the Less Common Metals 147, 239-247 (1989).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2013.04.114](https://doi.org/10.1016/j.jallcom.2013.04.114) Roland W. Bittner, Catherine Colinet, Jean-Claude Tedenac, Klaus W. Richter, Revision of the Ge–Ti phase diagram and structural stability of the new phase Ge4Ti5, Journal of Alloys and Compounds 577, 211-216 (2013).  

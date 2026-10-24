@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/PdH.html · Markdown: https://da
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html)
+Systems: [H–Pd](https://data.orchid-project.org/systems/H-PD.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of PdH reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11.45 kJ/mol-atom | PdH bcc | 298.15 | DFT | first principles | [Cu–H–Pd](https://data.orchid-project.org/systems/CU-H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 1 |  |
+| -11.45 kJ/mol-atom | PdH bcc | 298.15 | DFT | first principles | [H–Pd](https://data.orchid-project.org/systems/H-PD.html) | [1] Huang 2007 | Table 2, p. 6, row 1 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of PdH
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11.45 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -11.45 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

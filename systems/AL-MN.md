@@ -1,10 +1,10 @@
 # Al–Mn system
 
-> Al–Mn system: 131 accepted literature values (invariant reaction 86, phase transition 24, formation 21) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mn system: 121 accepted literature values (invariant reaction 83, formation 21, phase transition 17) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MN.html · Markdown: https://data.orchid-project.org/systems/AL-MN.md
 
-131 accepted literature values from 4 paper(s) (experimental 46, model 74, unspecified 11); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+121 accepted literature values from 4 paper(s) (experimental 46, model 64, unspecified 11); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MN.json) · [CSV](https://data.orchid-project.org/systems/AL-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MN/AlMn-07Du.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MN.html) · [Markdown](https://data.orchid-project.org/systems/AL-MN.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 46 |
-| model | 74 |
+| model | 64 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 86 |
-| phase transition | 24 |
+| invariant reaction | 83 |
+| phase transition | 17 |
 | formation | 21 |
 
 ## Calculated phase diagrams
@@ -169,7 +169,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mn system (86)
+Table: Invariant reactions reported in the literature for the Al–Mn system (83)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -189,10 +189,7 @@ Table: Invariant reactions reported in the literature for the Al–Mn system (86
 | 1433 | peritectic: Liquid + hcp -> Al8Mn5 | L: Mn 0.4254; hcp: Mn 0.5186; Al8Mn5: Mn 0.4858 | model | [3] Jansson 1992 | Table I, p. 3, row 6 |  |
 | 1433 | peritectic: L + ε -> γ |  | experimental | [2] Liu 1999; _cites Koster 1960_ | Table 3, p. 8, row 39 |  |
 | 1433 | peritectic: L + ε -> γ | L: Mn 0.4254; ε: Mn 0.5186; γ: Mn 0.4858 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 37 |  |
-| 1346 | peritectoid: δMn + γMn -> βMn | δMn: Mn 0.8918; γMn: Mn 0.9067; βMn: Mn 0.8981 | model | [2] Liu 1999 | Table 3, p. 8, row 46 |  |
-| 1344 | peritectoid: δMn + γMn -> βMn | δMn: Mn 0.879; γMn: Mn 0.909; βMn: Mn 0.9 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 48 |  |
 | 1331 | peritectoid: Bcc + fcc -> β-Mn | Bcc: Mn 0.9029; fcc: Mn 0.913; β-Mn: Mn 0.9097 | model | [3] Jansson 1992 | Table I, p. 3, row 11 |  |
-| 1331 | peritectoid: δMn + γMn -> βMn | δMn: Mn 0.9029; γMn: Mn 0.913; βMn: Mn 0.9097 | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 8, row 47 |  |
 | 1330.9 | peritectoid: fcc-A1 + bcc-A2 -> cub-A13 | fcc-A1: Mn 0.913; bcc-A2: Mn 0.903; cub-A13: Mn 0.91 | unspecified | [1] Hämäläinen 1998 | Table I, p. 72, row 9 |  |
 | 1321 | peritectic: L + γ -> γ2 | L: Mn 0.2552; γ: Mn 0.3674; γ2: Mn 0.3593 | model | [2] Liu 1999 | Table 3, p. 8, row 33 |  |
 | 1321 | peritectic: L + γ -> γ2 | L: Mn 0.283; γ: Mn 0.345; γ2: Mn 0.336 | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 8, row 34 |  |
@@ -292,14 +289,13 @@ Table: Enthalpies of formation, Al–Mn system (21)
 
 ## Other properties
 
-### Phase transition (24)
+### Phase transition (17)
 
 Table: Phase transition, Al–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 933.6 K | 933.6 | congruent melting: Liquid -> fcc; _L: Mn 0; fcc: Mn 0_ | model | [3] Jansson 1992 | Table I, p. 3, row 13 |  |
-| Phase transition | 980 K | 980 | polymorphic: β-Mn -> α-Mn; _β-Mn: Mn 1; α-Mn: Mn 1_ | model | [3] Jansson 1992 | Table I, p. 3, row 17 |  |
 | Phase transition | 1193 K | 1193 | liquid + AII1Mn4 r A14Mn | model | [3] Jansson 1992 | p. 5 | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
 | Phase transition | 1196 K | 1196 | liquid + AII1Mn4 r A14Mn | experimental | [3] Jansson 1992; _cites T 1971_ | p. 5 | “The three-phase equilibrium liquid + AII1Mn4 r A14Mn is placed at 1196 K Liq and xra. -- 0.15 by Reference 9 and at 1193 K and L i q = 0. 127 in the present work.” |
 | Phase transition | 1230 K | 1230 | g14g2 þ HTAl11 Mn4 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7 | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
@@ -307,15 +303,9 @@ Table: Phase transition, Al–Mn system
 | Phase transition | 1240 K | 1240 | other | experimental | [2] Liu 1999; _cites Liu 1999_ | p. 4 | “In addition, preliminary results from differential scanning calorimetry (DSC) traces obtained on two Al-Mn alloys with 49 at.% Al and 52 at.% Al, respectively, indicate that the 49 at.% Al alloy has a peak at 1238 K and the 52 at.% Al alloy a peak at 1240 K \[98Liu\].” |
 | Phase transition | 1250 K | 1250 | other | model | [2] Liu 1999 | p. 12 | “The highest temperature of A2/B2 order-disordered transition is at 1250 K, 50 at.% Mn.” |
 | Phase transition | 1261 K | 1261 | g1 þ bcc4g2 | experimental | [4] Zheng 2018; _cites ref. 40_ | p. 7 | “They obtained the transformation temperatures of g14g2 þ HTAl11 Mn4 (1230 K) and g1 þ bcc4g2 (1261 K).” |
-| Phase transition | 1323 K | 1323 | congruent transformation: δMn -> γMn; _δMn: Mn 0.9505; γMn: Mn 0.9505_ | model | [2] Liu 1999 | Table 3, p. 9, row 6 |  |
 | Phase transition | 1327 K | 1327 | congruent transformation: Fcc -> β-Mn; _Fcc: Mn 0.9425; β-Mn: Mn 0.9425_ | model | [3] Jansson 1992 | Table I, p. 3, row 12 |  |
-| Phase transition | 1327 K | 1327 | congruent transformation: δMn -> γMn; _δMn: Mn 0.9425; γMn: Mn 0.9425_ | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 9, row 7 |  |
-| Phase transition | 1328 K | 1328 | congruent transformation: δMn -> γMn; _δMn: Mn 0.94; γMn: Mn 0.94_ | model | [2] Liu 1999; _cites McAlster 1990_ | Table 3, p. 9, row 8 |  |
-| Phase transition | 1360 K | 1360 | congruent transformation: Fcc -> β-Mn; _Fcc: Mn 1; β-Mn: Mn 1_ | model | [3] Jansson 1992 | Table I, p. 3, row 16 |  |
-| Phase transition | 1411 K | 1411 | polymorphic: Bcc -> fcc; _Bcc: Mn 1; fcc: Mn 1_ | model | [3] Jansson 1992 | Table I, p. 3, row 15 |  |
 | Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | model | [3] Jansson 1992 | p. 6 | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
 | Phase transition | 1433.15 K | 1433.15 | liquid + hcp \<=> A18Mn5 | experimental | [3] Jansson 1992 | p. 6 | “The calculated temperature of the three-phase equilibrium liquid + hcp \<=> A18Mn5 is 1160 ~ which is also the value obtained by K6ster and Wachtel.” |
-| Phase transition | 1519 K | 1519 | congruent melting: Liquid -> bcc; _L: Mn 1; bcc: Mn 1_ | model | [3] Jansson 1992 | Table I, p. 3, row 14 |  |
 | Phase transition | 1523.15 K | 1523.15 | liquid + bcc \<=> hcp | model | [3] Jansson 1992 | p. 6 | “The calculated three-phase equilibrium liquid + bcc \<=> hcp falls at 1250 ~” |
 | Phase transition | 1582.15 K | 1582.15 | congruent transformation | model | [3] Jansson 1992 | p. 6 | “The calculated values for the congruent melting point of bcc are XM, = 0.82 and 1309 ~” |
 | Phase transition | 1583 K | 1583 | congruent melting: L -> δMn; _L: Mn 0.8198; δMn: Mn 0.8198_ | model | [2] Liu 1999; _cites Jansson 1992_ [doi](https://doi.org/10.1007/bf02646113) | Table 3, p. 9, row 4 |  |

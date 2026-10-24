@@ -16,7 +16,7 @@ Table: Phases of the Mo–Pt system (8)
 | [FCC_A1](#phase-mo-pt-fcc-a1); _phase:mo-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2296.51 K, x(Pt) 0.58668–1 | 6 | 1 |
 | [HCP_A3](#phase-mo-pt-hcp-a3); _phase:mo-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1738.7–2450 K, x(Pt) 0.32857–0.58024 | 12 | 1 |
 | [LIQUID](#phase-mo-pt-liquid); _phase:mo-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2041.5–4000 K, x(Pt) 0–1 | 6 | 1 |
-| [MO6PT_A15](#phase-mo-pt-mo6pt-a15); _phase:mo-pt:mo6pt-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1550–2060 K, x(Pt) 0.18326–0.18901 | 18 | 1 |
+| [MO6PT_A15](#phase-mo-pt-mo6pt-a15); _phase:mo-pt:mo6pt-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1550–2060 K, x(Pt) 0.18326–0.18901 | 14 | 1 |
 | [MOPT_B19](#phase-mo-pt-mopt-b19); _phase:mo-pt:mopt-b19_ | AuCd · B19 · oP4 · Pmma (51) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2320 K, x(Pt) 0.36–0.5065 | 15 | 1 |
 | [MOPT_D019](#phase-mo-pt-mopt-d019); _phase:mo-pt:mopt-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1260–2430 K, x(Pt) 0.3318–0.52577 | 12 | 1 |
 | [MOPT2](#phase-mo-pt-mopt2); _phase:mo-pt:mopt2_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2210 K, x(Pt) 0.61354–0.99 | 31 | 1 |
@@ -143,7 +143,7 @@ _cited as the source of values for this phase_
 - Structure: Cr3Si · A15 · cP8 · Pm-3n (223); type `st:a15-cr3si-cp8`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in MoPt-24Fio.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 1550–2060 K, x(Pt) 0.18326–0.18901
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-pt:mo6pt-a15)
 
 Names (3): _corpus: _corpus:phase:mo-pt:mo6pt-a15  

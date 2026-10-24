@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ca3Ga8.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -25.4 kJ/mol-atom (n = 1); Materials Project -42.173 kJ/mol-atom (mp-aaaaasrb); OQMD -42.5 kJ/mol-atom (oqmd-18922).
 
-Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
+Systems: [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ca3Ga8 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -25.4 kJ/mol-atom ± 2.4 | Ca3Ga8 | 298.15 | experimental |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10 |  |
-| -41.02 kJ/mol-atom | Ca3Ga8 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 9 |  |
+| -25.4 kJ/mol-atom ± 2.4 | Ca3Ga8 | 298.15 | experimental |  | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 10 |  |
+| -41.02 kJ/mol-atom | Ca3Ga8 | 0 | DFT | first-principles calculations | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013 | Table 2, p. 3, row 9 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ca3Ga8
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -25.4 | kJ/mol-atom | 2.4 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -41.02 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -25.4 | kJ/mol-atom | 2.4 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -41.02 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of Ca3Ga8
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaasrb | -42.173 | -0.437094 | Immm | 1.174 | 0.0122 | no |
-| OQMD | oqmd-18922 | -42.5 | -0.44048 | Immm | 1.201 | 0.0124 | no |
+| Materials Project | mp-aaaaasrb | -42.173 | -0.437094 | Immm | 1.1736 | 0.0122 | no |
+| OQMD | oqmd-18922 | -42.5 | -0.44048 | Immm | 1.2007 | 0.0124 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

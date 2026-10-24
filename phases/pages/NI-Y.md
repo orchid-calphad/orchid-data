@@ -1,10 +1,10 @@
 # Ni–Y phases
 
-> Ni–Y system: 13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ni–Y system: 13 phases (tier A 6, tier C 4, liquid 1, needs_review 2); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/NI-Y.html · Markdown: https://data.orchid-project.org/phases/pages/NI-Y.md
 
-13 phases (tier A 5, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 6, tier C 4, liquid 1, needs_review 2); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=NI-Y) · [full JSON](https://data.orchid-project.org/phases/systems/NI-Y.json) · [Ni–Y system page](https://data.orchid-project.org/systems/NI-Y.html) · [Markdown](https://data.orchid-project.org/phases/pages/NI-Y.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -21,7 +21,7 @@ Table: Phases of the Ni–Y system (13)
 | [NI2Y3](#phase-ni-y-ni2y3); _phase:ni-y:ni2y3_ | Ni2Y3 · tP80 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1098.36 K, x(Y) 0.6–0.6 | 0 | 5 |
 | [NI3Y](#phase-ni-y-ni3y); _phase:ni-y:ni3y_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1509.61 K, x(Y) 0.25–0.25 | 0 | 5 |
 | [NI4Y](#phase-ni-y-ni4y); _phase:ni-y:ni4y_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1613.47 K, x(Y) 0.2–0.2 | 0 | 5 |
-| [NI5Y_D2D](#phase-ni-y-ni5y-d2d); _phase:ni-y:ni5y-d2d_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1702.76 K, x(Y) 0.16667–0.16667 | 0 | 4 |
+| [NI5Y_D2D](#phase-ni-y-ni5y-d2d); _phase:ni-y:ni5y-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1702.76 K, x(Y) 0.16667–0.16667 | 0 | 4 |
 | [NI7Y2](#phase-ni-y-ni7y2); _phase:ni-y:ni7y2_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1570.49 K, x(Y) 0.22222–0.22222 | 0 | 5 |
 | [NIY_B27](#phase-ni-y-niy-b27); _phase:ni-y:niy-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1344.05 K, x(Y) 0.5–0.5 | 0 | 5 |
 | [NIY3_D011](#phase-ni-y-niy3-d011); _phase:ni-y:niy3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1180 K, x(Y) 0.75–0.75 | 0 | 5 |
@@ -569,14 +569,8 @@ _assessment that models this phase_
 
 ## NI5Y_D2D (Ni–Y)
 
-- Id: `phase:ni-y:ni5y-d2d`; status `needs_review`
-- No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_D2_d; site_ratios_contradict_D2_d:NiY-21Wan.tdb
-- Candidate (name_token): CaCu5 · D2_d · hP6 · P6/mmm (191) — Strukturbericht/word 'D2D' in the TDB name
-- Candidate (sgte_mmc2): CaCu5 · D2_d · hP6 · P6/mmm (191) — Hallstedt 2025 mmc2 row for NI5Y_D2D: Ni5Y
-- Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-15Hua.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'
-- Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-21Wan.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'
-- Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-96Du-LB.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'
-- Candidate (tdb_comment): CaCu5 · hP6 · P6/mmm — NiY-96Du-orig.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'
+- Id: `phase:ni-y:ni5y-d2d`; status `assigned`
+- Structure: CaCu5 · D2_d · hP6 · P6/mmm (191); type `st:d2-d-cacu5-hp6`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1702.76 K, x(Y) 0.16667–0.16667
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-y:ni5y-d2d)

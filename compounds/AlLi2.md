@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlLi2.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -15.719 kJ/mol-atom (mp-aaacqxbl); OQMD -16.17 kJ/mol-atom (oqmd-1795039).
 
-Systems: [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html)
+Systems: [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AlLi2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17.2 kJ/mol-atom | AlLi2 |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 4, p. 7, row 148 |  |
+| -17.2 kJ/mol-atom | AlLi2 |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 148 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AlLi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -17.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -17.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of AlLi2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacqxbl | -15.719 | -0.162917 | Cmcm | 0 | 0 | yes |
-| OQMD | oqmd-1795039 | -16.17 | -0.167589 | Cmcm | 0.347 | 0.0036 | yes |
+| Materials Project | mp-aaacqxbl | -15.719 | -0.162917 | Cmcm | -0 | -0 | yes |
+| OQMD | oqmd-1795039 | -16.17 | -0.167589 | Cmcm | 0.106 | 0.0011 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

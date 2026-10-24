@@ -1,10 +1,10 @@
 # Ag–Er system
 
-> Ag–Er system: 46 accepted literature values (invariant reaction 31, phase transition 15) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Er system: 60 accepted literature values (invariant reaction 31, phase transition 15, formation 8, crystal structure 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-ER.html · Markdown: https://data.orchid-project.org/systems/AG-ER.md
 
-46 accepted literature values from 2 paper(s) (experimental 32, model 14); 2 calculated phase diagram(s).
+60 accepted literature values from 2 paper(s) (experimental 35, model 19, DFT 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-ER.json) · [CSV](https://data.orchid-project.org/systems/AG-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-ER/AgEr-10Lon.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-ER.html) · [Markdown](https://data.orchid-project.org/systems/AG-ER.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 32 |
-| model | 14 |
+| experimental | 35 |
+| model | 19 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 31 |
 | phase transition | 15 |
+| formation | 8 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -96,6 +99,23 @@ Table: Invariant reactions reported in the literature for the Ag–Er system (31
 | 1045.15 | eutectic: L -> Ag51Er14 + (Ag) | L: Er 0.115; Ag51Er14: Er 0.25; (Ag): Er 0.05 | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 3, p. 3, row 19 |  |
 | 1045 | eutectic: L -> Fcc(Ag) + Ag51Er14 | L: Er 0.115; Ag51Er14: Er 0.215385 | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 2 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ag–Er system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ag2Er | [Ag2Er](https://data.orchid-project.org/compounds/Ag2Er.html) | -39 kJ/mol-atom |  | model | -32.114 (mp-aaaabswx) | -33.095 (oqmd-1976497) | [2] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 18 |  |
+| Ag2Er |  | -34.119 kJ/mol-atom | 298.15 | DFT |  |  | [2] Long 2010 | Table 1, p. 3, row 16 |  |
+| Ag2Er |  | -34.119 kJ/mol-atom | 298.15 | DFT |  |  | [2] Long 2010 | Table 1, p. 3, row 33 |  |
+| Ag2Er | [Ag2Er](https://data.orchid-project.org/compounds/Ag2Er.html) | -24 kJ/mol-atom ± 2.3 |  | model | -32.114 (mp-aaaabswx) | -33.095 (oqmd-1976497) | [2] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
+| Ag2Er | [Ag2Er](https://data.orchid-project.org/compounds/Ag2Er.html) | -24 kJ/mol-atom ± 2.3 | 298.15 | experimental | -32.114 (mp-aaaabswx) | -33.095 (oqmd-1976497) | [2] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 17 |  |
+| AgEr | [AgEr](https://data.orchid-project.org/compounds/AgEr.html) | -44.9 kJ/mol-atom ± 3.2 | 298.15 | experimental | -33.42 (mp-aaaaadwv) | -33.553 (oqmd-10623) | [2] Long 2010; _cites Pierre 1963_ | Table 1, p. 3, row 20 |  |
+| AgEr | [AgEr](https://data.orchid-project.org/compounds/AgEr.html) | -44 kJ/mol-atom |  | model | -33.42 (mp-aaaaadwv) | -33.553 (oqmd-10623) | [2] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 21 |  |
+| AgEr |  | -34.488 kJ/mol-atom | 298.15 | DFT |  |  | [2] Long 2010 | Table 1, p. 3, row 19 |  |
+
 ## Other properties
 
 ### Phase transition (15)
@@ -119,6 +139,19 @@ Table: Phase transition, Ag–Er system
 | Phase transition | 1468 K | 1468 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | experimental | [2] Long 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | Table 4, p. 4, row 15 |  |
 | Phase transition | 1468.15 K | 1468.15 |  | experimental | [1] Wang 2010; _cites Gebhardt 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990178-7) | p. 1 | “Based on thermal analysis, metallography and X-ray method, Gebhardt et al. \[4\] investigated the phase diagram in the Ag-Er system, and reported three stoichiometry compounds of the Ag3 Er (melting point, 930 ◦ C), Ag2 Er (melting point, 1020 ◦ C) and AgEr (melting point, 1195 ◦ C).” |
 | Phase transition | 1476 K | 1476 | congruent melting: L -> AgEr; _L: Er 0.5; AgEr: Er 0.5_ | model | [2] Long 2010 | Table 4, p. 4, row 14 |  |
+
+### Crystal structure (6)
+
+Table: Crystal structure, Ag–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.669 Å |  | Ag2Er; _alloy: Er 0.333333_ | model | [2] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
+| Lattice a; _printed: a_ | 3.584 Å |  | AgEr; _alloy: Er 0.5_ | experimental | [2] Long 2010; _cites Pierre 1963_ | Table 1, p. 3, row 20 |  |
+| Lattice a; _printed: a_ | 3.721 Å | 298.15 | Ag2Er; _alloy: Er 0.333333_ | DFT | [2] Long 2010 | Table 1, p. 3, row 33 |  |
+| Lattice a; _printed: a_ | 3.602 Å | 298.15 | AgEr; _alloy: Er 0.5_ | DFT | [2] Long 2010 | Table 1, p. 3, row 19 |  |
+| Lattice c; _printed: c_ | 9.155 Å |  | Ag2Er; _alloy: Er 0.333333_ | model | [2] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 34 |  |
+| Lattice c; _printed: c_ | 9.184 Å | 298.15 | Ag2Er; _alloy: Er 0.333333_ | DFT | [2] Long 2010 | Table 1, p. 3, row 33 |  |
 
 ## Sources
 

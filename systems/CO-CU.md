@@ -1,10 +1,10 @@
 # Co–Cu system
 
-> Co–Cu system: 82 accepted literature values (mixing / partial 35, activity / EMF / Gibbs energy 23, invariant reaction 12, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cu system: 75 accepted literature values (mixing / partial 29, activity / EMF / Gibbs energy 23, invariant reaction 11, phase equilibrium 10) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CU.html · Markdown: https://data.orchid-project.org/systems/CO-CU.md
 
-82 accepted literature values from 3 paper(s) (experimental 69, model 13); 4 calculated phase diagram(s).
+75 accepted literature values from 3 paper(s) (experimental 62, model 13); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CU.json) · [CSV](https://data.orchid-project.org/systems/CO-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-CU/CoCu-00Kub-LB.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CO-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CU.html) · [Markdown](https://data.orchid-project.org/systems/CO-CU.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 69 |
+| experimental | 62 |
 | model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 11 |
 | phase transition | 1 |
 | phase equilibrium | 10 |
-| mixing / partial | 35 |
+| mixing / partial | 29 |
 | heat capacity / entropy / enthalpy | 1 |
 | activity / EMF / Gibbs energy | 23 |
 
@@ -56,7 +56,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Cu system (12)
+Table: Invariant reactions reported in the literature for the Co–Cu system (11)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,7 +71,6 @@ Table: Invariant reactions reported in the literature for the Co–Cu system (12
 | 698 | (Cu) + (αCo) \<=> (εCo) | (Cu): Co 4.000e-4; (αCo): Co 0.9981; (εCo): Co 0.9977 | model | [1] Turchanin 2007 | Table 1, p. 6, row 20 |  |
 | 695 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.999; (Cu): Co 4.000e-4; (εCo): Co 0.9996 | model | [1] Turchanin 2007; _cites ref. 13_ | Table 1, p. 6, row 19 |  |
 | 693 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.9992; (Cu): Co 8.000e-4; (εCo): Co 0.9995 | model | [1] Turchanin 2007; _cites ref. 6_ | Table 1, p. 6, row 17 |  |
-| 615 | (αCo) \<=> (Cu) + (εCo) | (αCo): Co 0.905 | experimental | [1] Turchanin 2007; _cites ref. 27_ | Table 1, p. 6, row 13 |  |
 
 ## Other properties
 
@@ -100,7 +99,7 @@ Table: Phase equilibrium, Co–Cu system
 | Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9325, Cu 0.0675; Cu-rich phase: Co 0.1225, Cu 0.8775_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 8 |  |
 | Phase composition |  |  | Co-rich phase + Cu-rich phase; _Co-rich phase: Co 0.9131, Cu 0.0869; Cu-rich phase: Co 0.0715, Cu 0.9285_ | experimental | [3] Kubišta 2000 | Table 1, p. 3, row 3 |  |
 
-### Mixing / partial (35)
+### Mixing / partial (29)
 
 Table: Mixing / partial, Co–Cu system
 
@@ -115,9 +114,7 @@ Table: Mixing / partial, Co–Cu system
 | Enthalpy of mixing; _printed: ΔHE_ | 8.294 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
 | Enthalpy of mixing; _printed: ΔHE_ | 7.201 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
 | Enthalpy of mixing; _printed: ΔHE_ | 5.04 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH^E_ | 8.096 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
-| Enthalpy of mixing; _printed: ΔHE_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
 | Enthalpy of mixing; _printed: mixing enthalpy_ | 9.7 kJ/mol (basis unstated) | 1834 |  | experimental | [1] Turchanin 2007; _cites ref. 17_ | p. 2 | “The integral mixing enthalpies were determined in \[17\] for 10 alloys of xCo = 0.092-0.931 by mixing metals heated to an experimental temperature of 1834 K in an isothermal calorimeter. It is established that the mixing enthalpy of the system is endothermic and is maximum (9.7 kJ/mole) near the equiatomic composition (Fig. 2).” |
 | Entropy of mixing; _printed: ΔS^E_ | 0.779 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0.847 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
@@ -127,9 +124,7 @@ Table: Mixing / partial, Co–Cu system
 | Entropy of mixing; _printed: ΔSE_ | 0.966 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0.952 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
 | Entropy of mixing; _printed: ΔSE_ | 0.457 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
-| Entropy of mixing; _printed: ΔS^E_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
 | Entropy of mixing; _printed: ΔS^E_ | 1.008 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
-| Entropy of mixing; _printed: ΔSE_ | 0 J/mol (basis unstated)/K | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
 | Gibbs energy of mixing; _printed: ΔG^E_ | 4.165 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.8, Cu 0.2_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 3 |  |
 | Gibbs energy of mixing; _printed: ΔGE_ | 6.295 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.4, Cu 0.6_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 7 |  |
 | Gibbs energy of mixing; _printed: ΔGE_ | 5.519 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.3, Cu 0.7_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 8 |  |
@@ -138,9 +133,7 @@ Table: Mixing / partial, Co–Cu system
 | Gibbs energy of mixing; _printed: ΔGE_ | 6.545 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.5, Cu 0.5_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 6 |  |
 | Gibbs energy of mixing; _printed: ΔGE_ | 5.477 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.7, Cu 0.3_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 4 |  |
 | Gibbs energy of mixing; _printed: ΔGE_ | 4.213 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.2, Cu 0.8_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 9 |  |
-| Gibbs energy of mixing; _printed: ΔG^E_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 1, Cu 0_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 1 |  |
 | Gibbs energy of mixing; _printed: ΔG^E_ | 6.272 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0.6, Cu 0.4_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGE_ | 0 kJ/mol (basis unstated) | 1810.15 | liquid; _alloy: Co 0, Cu 1_ | experimental | [3] Kubišta 2000 | Table 4, p. 4, row 11 |  |
 
 ### Heat capacity / entropy / enthalpy (1)
 

@@ -16,7 +16,7 @@ Table: Phases of the Cr–Pt system (7)
 | [CR3PT_A15](#phase-cr-pt-cr3pt-a15); _phase:cr-pt:cr3pt-a15_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1904.94 K, x(Pt) 0.16476–0.25 | 7 | 3 |
 | [CRPT3_L12](#phase-cr-pt-crpt3-l12); _phase:cr-pt:crpt3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1421.05 K, x(Pt) 0.37505–0.84228 | 0 | 1 |
 | [FCC_4SL](#phase-cr-pt-fcc-4sl); _phase:cr-pt:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2050 K, x(Pt) 0.28697–1 | 4 | 1 |
-| [FCC_A1](#phase-cr-pt-fcc-a1); _phase:cr-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 300–2062.24 K, x(Pt) 0.28028–1 | 8 | 4 |
+| [FCC_A1](#phase-cr-pt-fcc-a1); _phase:cr-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2062.24 K, x(Pt) 0.28028–1 | 8 | 4 |
 | [HCP_A3](#phase-cr-pt-hcp-a3); _phase:cr-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-cr-pt-liquid); _phase:cr-pt:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1821.34–4000 K, x(Pt) 0–1 | 8 | 3 |
 
@@ -171,7 +171,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:cr-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 4 calculated diagram(s): 300–2062.24 K, x(Pt) 0.28028–1
+- Stability: stable in 3 of 3 calculated diagram(s): 300–2062.24 K, x(Pt) 0.28028–1
 - Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-pt:fcc-a1)
 

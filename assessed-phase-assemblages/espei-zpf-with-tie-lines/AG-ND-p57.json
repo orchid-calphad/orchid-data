@@ -7,7 +7,6 @@
  "phases": [
   "AG2ND_ALPHA",
   "AG2ND_BETA",
-  "AG51ND14",
   "AGND_B2",
   "BCC_A2",
   "DHCP",
@@ -17,13 +16,9 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   925.6063762,
-   1011.606376,
-   840.6063762,
    840.6063762,
    842.6063762,
    999.6063762,
-   1003.106376,
    1037.606376,
    961.6063762,
    1247.606376,
@@ -32,75 +27,13 @@
    1156.106376,
    1068.106376,
    1135.106376,
-   1165.106376,
    1142.606376,
    1090.606376,
-   1176.606376,
    1239.106376
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "FCC_A1",
-    [
-     "ND"
-    ],
-    [
-     0.0
-    ]
-   ],
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     0.2162969521
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     0.2353289453
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG2ND_ALPHA",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.2934266088
-    ]
-   ]
-  ],
   [
    [
     "AGND_B2",
@@ -167,35 +100,6 @@
     ],
     [
      0.993603622
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG2ND_BETA",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.2944282926
     ]
    ]
   ],
@@ -361,26 +265,6 @@
   ],
   [
    [
-    "LIQUID",
-    [
-     "ND"
-    ],
-    [
-     0.1339084552
-    ]
-   ],
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     0.217298636
-    ]
-   ]
-  ],
-  [
-   [
     "AGND_B2",
     [
      "ND"
@@ -430,26 +314,6 @@
   ],
   [
    [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     0.2503542031
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "ND"
-    ],
-    [
-     0.3292368065
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ND"
@@ -480,13 +344,9 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "AG-ND-p57",
   "record_ids": [
-   "aspa-fed1f200d4149502",
-   "aspa-00662541a347ffa2",
-   "aspa-eadeb3a74095fc96",
    "aspa-c4f8099cabb5e12d",
    "aspa-40a26318d4320cbe",
    "aspa-2266e9a8e3d9b8e4",
-   "aspa-bad0e8366bc8748d",
    "aspa-9ad360dab05f9c40",
    "aspa-ca109c19afb4dfed",
    "aspa-40e847227cef92a8",
@@ -495,17 +355,11 @@
    "aspa-abea285eb95e03b7",
    "aspa-146a99afdc576f3f",
    "aspa-bca899d1adbf1acb",
-   "aspa-8565b68c0612719e",
    "aspa-50e8aa7fd882ea58",
    "aspa-3ca267ff574f0404",
-   "aspa-fa9b8ed3b859a423",
    "aspa-5bf23ad7caa7f5bb"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -519,8 +373,6 @@
    "printed_solid",
    "printed_solid",
    "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid"
   ]
  },
@@ -528,60 +380,6 @@
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
-   {
-    "record_id": "aspa-fed1f200d4149502",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 152.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.108182,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-00662541a347ffa2",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 11.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0185312,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-eadeb3a74095fc96",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 67.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.022037,
-     "sigma_effective": 0.02
-    }
-   },
    {
     "record_id": "aspa-c4f8099cabb5e12d",
     "boundary_basis": "printed_solid",
@@ -633,24 +431,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.00701179,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-bad0e8366bc8748d",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 94.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0105177,
      "sigma_effective": 0.02
     }
    },
@@ -799,24 +579,6 @@
     }
    },
    {
-    "record_id": "aspa-8565b68c0612719e",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 86.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0395665,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-50e8aa7fd882ea58",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -849,24 +611,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0120202,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-fa9b8ed3b859a423",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.526,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 74.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0370623,
      "sigma_effective": 0.02
     }
    },

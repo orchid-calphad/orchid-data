@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of SiB6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -148 | kJ/mol (basis unstated) | 7.5 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 7.5 |
-| -121 | kJ/mol (basis unstated) | 48 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 48 |
-| -122.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -148 | kJ/mol (basis unstated) | 7.5 | 0.05 | 24.5 (unknown, calibrated) |  |  |  | 24.5 |
+| -121 | kJ/mol (basis unstated) | 48 | 0.5 | 24.5 (unknown, calibrated) |  |  |  | 48 |
+| -122.2 | kJ/mol (basis unstated) |  | 0.05 | 24.5 (unknown, calibrated) |  |  |  | 24.5 |
 
 ## Sources
 

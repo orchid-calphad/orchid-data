@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cd2Yb.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); OQMD -36.261 kJ/mol-atom (oqmd-1377351).
 
-Systems: [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html)
+Systems: [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Cd2Yb reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -36.196 kJ/mol-atom | αYbCd2 |  | model | Calphad | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 4 |  |
-| -35.58 kJ/mol-atom | βYbCd2 |  | model | Calphad | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5 |  |
-| -36.684 kJ/mol-atom | αYbCd2 | 0 | DFT | Ab-initio | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 3 |  |
+| -36.196 kJ/mol-atom | αYbCd2 |  | model | Calphad | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 4 |  |
+| -35.58 kJ/mol-atom | βYbCd2 |  | model | Calphad | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5 |  |
+| -36.684 kJ/mol-atom | αYbCd2 | 0 | DFT | Ab-initio | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 3 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Cd2Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.196 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -35.58 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -36.684 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -36.196 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -35.58 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -36.684 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

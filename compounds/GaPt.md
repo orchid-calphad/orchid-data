@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GaPt.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -59.6 kJ/mol-atom (n = 1); Materials Project -60.784 kJ/mol-atom (mp-aaacgjch); OQMD -63.427 kJ/mol-atom (oqmd-1374058).
 
-Systems: [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html)
+Systems: [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of GaPt reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -59.6 kJ/mol-atom | GaPt | 298.15 | experimental |  | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25 |  |
-| -68.12 kJ/mol-atom | GaPt | 298.15 | model | assessed | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 27 |  |
-| -64.27 kJ/mol-atom | GaPt | 0 | DFT | first-principles | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 26 |  |
+| -59.6 kJ/mol-atom | GaPt | 298.15 | experimental |  | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25 |  |
+| -68.12 kJ/mol-atom | GaPt | 298.15 | model | assessed | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 27 |  |
+| -64.27 kJ/mol-atom | GaPt | 0 | DFT | first-principles | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 26 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of GaPt
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -59.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -68.12 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.27 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -59.6 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -68.12 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.27 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

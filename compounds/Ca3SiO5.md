@@ -1,16 +1,16 @@
 # Ca3SiO5: enthalpy of formation
 
-> Enthalpy of formation of Ca3SiO5: 5 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ca3SiO5: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca3SiO5.html · Markdown: https://data.orchid-project.org/compounds/Ca3SiO5.md
 
-5 accepted literature formation-enthalpy value(s) (model 4, DFT 1).
+4 accepted literature formation-enthalpy value(s) (model 4).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca3SiO5 reported in the literature (5)
+Table: Enthalpy of formation of Ca3SiO5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -18,7 +18,6 @@ Table: Enthalpy of formation of Ca3SiO5 reported in the literature (5)
 | -2933 kJ/mol (basis unstated) | Triclinic-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 2 |  |
 | -2932 kJ/mol (basis unstated) | Monoclinic-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 1 |  |
 | -2932 kJ/mol (basis unstated) | Rhombohedral-Ca3SiO5 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
-| -13.1 kJ/mol-atom | Monoclinic-Ca3SiO5 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +27,10 @@ Table: Uncertainty budget of the literature values of Ca3SiO5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -2933 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2933 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2932 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2932 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.1 | kJ/mol-atom |  | 0.005556 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -2933 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -2933 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -2932 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -2932 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
 
 ## Sources
 

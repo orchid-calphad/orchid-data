@@ -1,10 +1,10 @@
 # Fe–Tm system
 
-> Fe–Tm system: 85 accepted literature values (formation 41, invariant reaction 21, phase transition 13, heat capacity / entropy / enthalpy 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Tm system: 93 accepted literature values (heat capacity / entropy / enthalpy 41, formation 26, invariant reaction 20, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TM.html · Markdown: https://data.orchid-project.org/systems/FE-TM.md
 
-85 accepted literature values from 2 paper(s) (experimental 24, model 60, DFT 1); 2 calculated phase diagram(s).
+93 accepted literature values from 2 paper(s) (experimental 19, model 73, DFT 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TM.json) · [CSV](https://data.orchid-project.org/systems/FE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TM/FeTm-14Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TM.html) · [Markdown](https://data.orchid-project.org/systems/FE-TM.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 60 |
+| experimental | 19 |
+| model | 73 |
 | DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 21 |
-| phase transition | 13 |
-| formation | 41 |
-| heat capacity / entropy / enthalpy | 10 |
+| invariant reaction | 20 |
+| phase transition | 6 |
+| formation | 26 |
+| heat capacity / entropy / enthalpy | 41 |
 
 ## Calculated phase diagrams
 
@@ -77,20 +77,19 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Tm system (21)
+Table: Invariant reactions reported in the literature for the Fe–Tm system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1793.15 | metatectic/catatectic: L + (betaTm) \<-> (alphaTm) | L: Tm 1; (betaTm): Tm 1; (alphaTm): Tm 1 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 31 |  |
 | 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 7 |  |
 | 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.067 | model | [1] Kardellass 2014 | Table 8, p. 10, row 6 |  |
 | 1667.15 | metatectic/catatectic: Liq + deltaFe \<-> gammaFe | Liq: Tm 0; deltaFe: Tm 0; gammaFe: Tm 0.094 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 5 |  |
 | 1573.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.125; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 8 |  |
 | 1567.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 9 |  |
 | 1565.15 | peritectic: L + gammaFe \<-> Fe17Tm2 | L: Tm 0.11; gammaFe: Tm 0; Fe17Tm2: Tm 0.105 | model | [1] Kardellass 2014 | Table 8, p. 10, row 10 |  |
-| 1553.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.2; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 20 |  |
-| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.243; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 22 |  |
-| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.242; Fe2Tm: Tm 0.25; Fe3Tm: Tm 0.333 | model | [1] Kardellass 2014 | Table 8, p. 10, row 21 |  |
+| 1553.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.2; Fe2Tm: Tm 0.333; Fe3Tm: Tm 0.25 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 20 |  |
+| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.243; Fe2Tm: Tm 0.333; Fe3Tm: Tm 0.25 | model | [1] Kardellass 2014 | Table 8, p. 10, row 22 |  |
+| 1549.15 | peritectic: L + Fe2Tm \<-> Fe3Tm | L: Tm 0.242; Fe2Tm: Tm 0.333; Fe3Tm: Tm 0.25 | model | [1] Kardellass 2014 | Table 8, p. 10, row 21 |  |
 | 1543.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.187; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 17 |  |
 | 1539.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.199; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 19 |  |
 | 1537.15 | peritectic: L + Fe3Tm \<-> Fe23Tm6 | L: Tm 0.195; Fe3Tm: Tm 0.25; Fe23Tm6: Tm 0.206 | model | [1] Kardellass 2014 | Table 8, p. 10, row 18 |  |
@@ -139,65 +138,74 @@ Table: Enthalpies of formation, Fe–Tm system (25)
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (6)
 
 Table: Phase transition, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 12 |  |
-| Phase transition | 1185.15 K | 1185.15 | polymorphic: gammaFe \<-> alphaFe; _gammaFe: Tm 0; alphaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 11 |  |
 | Phase transition | 1573 K | 1573 | congruent transformation | experimental | [2] Ye 2023; _cites ref. 89_ | p. 4 | “Fe2Tm is formed congruently from liquid phase at 1573 K, while Fe17Tm2, Fe23Tm6, and Fe3Tm form by three peritectic transformation.” |
 | Phase transition | 1573.15 K | 1573.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 23 |  |
 | Phase transition | 1575.15 K | 1575.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 25 |  |
 | Phase transition | 1576.15 K | 1576.15 | congruent melting: L \<-> Fe2Tm; _L: Tm 0.333; Fe2Tm: Tm 0.333_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 24 |  |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 3 |  |
-| Phase transition | 1667.15 K | 1667.15 | polymorphic: deltaFe \<-> gammaFe; _deltaFe: Tm 0; gammaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 4 |  |
-| Phase transition | 1793.15 K | 1793.15 | polymorphic: alphaTm \<-> betaTm; _alphaTm: Tm 1; betaTm: Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 32 |  |
 | Phase transition | 1811.15 K | 1811.15 | congruent melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 2 |  |
 | Phase transition | 1812.15 K | 1812.15 | congruent melting: Liq \<-> deltaFe; _Liq: Tm 0; deltaFe: Tm 0_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 1 |  |
-| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | model | [1] Kardellass 2014 | Table 8, p. 10, row 34 |  |
-| Phase transition | 1818.15 K | 1818.15 | congruent melting: L \<-> (betaTm); _L: Tm 1; (betaTm): Tm 1_ | experimental | [1] Kardellass 2014; _cites Okamoto 1993_ | Table 8, p. 10, row 33 |  |
 
-### Formation (16)
+### Formation (1)
 
 Table: Formation, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | 41.776 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
-| Entropy of formation; _printed: ΔfS_ | 37.44 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔfS_ | 37.87 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
-| Entropy of formation; _printed: ΔfS_ | 38.1 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | 39.69 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.34 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 8 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.92 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.67 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
-| Entropy of formation; _printed: ΔfS (▼ experimental data)_ | 42.52 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014 | Table 3, p. 4, row 26 |  |
-| Entropy of formation; _printed: ΔfS_ | 44.61 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
-| Entropy of formation; _printed: ΔfS_ | 49.37 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.75 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 13 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.57 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
-| Entropy of formation; _printed: ΔfS_ | 45.03 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | 42.72 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
 | Entropy of formation; _printed: ΔfST_ | 1.37 unknown ± 0.01 | 959 | Fe17Tm2; _alloy: Tm 0.105263_ | experimental | [1] Kardellass 2014; _cites Gozzi 2007_ [doi](https://doi.org/10.1021/je7003353) | Table 3, p. 4, row 2 |  |
 
-### Heat capacity / entropy / enthalpy (10)
+### Heat capacity / entropy / enthalpy (41)
 
 Table: Heat capacity / entropy / enthalpy, Fe–Tm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔfS_ | 41.776 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
+| Entropy; _printed: ΔfS_ | 37.44 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
+| Entropy; _printed: ΔfS_ | 37.87 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
+| Entropy; _printed: ΔfS_ | 38.1 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 4 |  |
+| Entropy; _printed: ΔfS_ | 39.69 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
+| Entropy; _printed: ΔfS_ | 42.34 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 8 |  |
+| Entropy; _printed: ΔfS_ | 42.92 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
+| Entropy; _printed: ΔfS_ | 42.67 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 23 |  |
+| Entropy; _printed: ΔfS (▼ experimental data)_ | 42.52 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014 | Table 3, p. 4, row 26 |  |
+| Entropy; _printed: ΔfS_ | 44.61 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
+| Entropy; _printed: ΔfS_ | 49.37 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
+| Entropy; _printed: ΔfS_ | 42.75 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Konar 2012_ | Table 3, p. 4, row 13 |  |
+| Entropy; _printed: ΔfS_ | 42.57 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
+| Entropy; _printed: ΔfS_ | 45.03 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
+| Entropy; _printed: ΔfS_ | 42.72 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
 | Heat capacity; _printed: Cp_ | 27.77 J/mol-atom/K | 290 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 21 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 4.88 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12 |  |
 | Heat capacity; _printed: Cp_ | 29.36 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 5 |  |
 | Heat capacity; _printed: Cp_ | 24.7 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 6 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 4.66 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 2.12 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13 |  |
 | Heat capacity; _printed: Cp_ | 27.08 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 9 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 2.07 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14 |  |
 | Heat capacity; _printed: Cp_ | 24.96 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 10 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 1.36 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18 |  |
 | Heat capacity; _printed: Cp_ | 26.64 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 24 |  |
 | Heat capacity; _printed: Cp_ | 25.29 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 25 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 1.35 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 0.97 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16 |  |
 | Heat capacity; _printed: Cp_ | 26.09 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 14 |  |
 | Heat capacity; _printed: Cp_ | 25.07 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 3, p. 4, row 15 |  |
+| Heat capacity; _printed: 0C298.15 p mag_ | 1.02 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15 |  |
 | Heat capacity; _printed: Cp_ | 28.07 J/mol-atom/K | 300 | Fe2Tm; _alloy: Tm 0.333333_ | experimental | [1] Kardellass 2014; _cites Germano 1981_ [doi](https://doi.org/10.1103/physrevb.24.3912) | Table 3, p. 4, row 22 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.89 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 12 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -0.43 J/mol-atom/K | 298.15 | Fe17Tm2; _alloy: Tm 0.105263_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 11 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -3.23 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 13 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -3.31 J/mol-atom/K | 298.15 | Fe23Tm6; _alloy: Tm 0.206897_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 14 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -4.74 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 18 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -4.75 J/mol-atom/K | 298.15 | Fe2Tm; _alloy: Tm 0.333333_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 17 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 9, p. 11, row 16 |  |
+| sm magnetic; _printed: 0S298.15 mag_ | -2.46 J/mol-atom/K | 298.15 | Fe3Tm; _alloy: Tm 0.25_ | model | [1] Kardellass 2014 | Table 9, p. 11, row 15 |  |
 
 ## Sources
 

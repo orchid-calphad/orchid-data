@@ -1,10 +1,10 @@
 # Cu–Er system
 
-> Cu–Er system: 22 accepted literature values (invariant reaction 18, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Er system: 35 accepted literature values (invariant reaction 18, formation 8, crystal structure 5, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-ER.html · Markdown: https://data.orchid-project.org/systems/CU-ER.md
 
-22 accepted literature values from 1 paper(s) (experimental 14, model 8); 1 calculated phase diagram(s).
+35 accepted literature values from 2 paper(s) (experimental 19, model 8, DFT 3, unspecified 5); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-ER.json) · [CSV](https://data.orchid-project.org/systems/CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-ER/CuEr-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-ER.html) · [Markdown](https://data.orchid-project.org/systems/CU-ER.md)
 
@@ -12,8 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
+| experimental | 19 |
 | model | 8 |
+| DFT | 3 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -21,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 18 |
 | phase transition | 4 |
+| formation | 8 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -81,6 +85,23 @@ Table: Invariant reactions reported in the literature for the Cu–Er system (18
 | 1133.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Love 1960_ | p. 1 | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
 | 1118.15 | eutectic |  | experimental | [1] Zhang 2008; _cites Kato 1961_ | p. 1 | “According to Love \[10\], the eutectic temperature was found to be 860 ◦ C and the composition was 75.5 at.% Er, while these were given as 845 ◦ C and 71.8 at.% Er by Kato and Copeland \[11\].” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Er system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Cu2Er |  | -29.1 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 15 |  |
+| Cu2Er | [Cu2Er](https://data.orchid-project.org/compounds/Cu2Er.html) | -27 kJ/mol-atom | 298.15 | experimental | -27.328 (mp-aaacgigt) | -27.311 (oqmd-2026377) | [2] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 17 |  |
+| Cu2Er | [Cu2Er](https://data.orchid-project.org/compounds/Cu2Er.html) | -17.2 kJ/mol-atom | 298.15 | experimental | -27.328 (mp-aaacgigt) | -27.311 (oqmd-2026377) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 16 |  |
+| Cu5Er |  | -20.1 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 12 |  |
+| Cu5Er | [Cu5Er](https://data.orchid-project.org/compounds/Cu5Er.html) | -18.4 kJ/mol-atom | 298.15 | experimental | -18.819 (mp-aaaabtgd) | -18.957 (oqmd-1366368) | [2] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 14 |  |
+| Cu5Er | [Cu5Er](https://data.orchid-project.org/compounds/Cu5Er.html) | -10.7 kJ/mol-atom | 298.15 | experimental | -18.819 (mp-aaaabtgd) | -18.957 (oqmd-1366368) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 13 |  |
+| CuEr |  | -28.5 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 18 |  |
+| CuEr | [CuEr](https://data.orchid-project.org/compounds/CuEr.html) | -14.6 kJ/mol-atom | 298.15 | experimental | -26.362 (mp-aaaaacxf) | -26.996 (oqmd-1376938) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 19 |  |
+
 ## Other properties
 
 ### Phase transition (4)
@@ -94,11 +115,24 @@ Table: Phase transition, Cu–Er system
 | Phase transition | 1319 K | 1319 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | model | [1] Zhang 2008 | Table 3, p. 6, row 14 |  |
 | Phase transition | 1328 K | 1328 | congruent melting: L -> Cu9Er2; _L: Er 0.181818; Cu9Er2: Er 0.181818_ | experimental | [1] Zhang 2008; _cites Buschow 1970_ | Table 3, p. 6, row 13 |  |
 
+### Crystal structure (5)
+
+Table: Crystal structure, Cu–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.275 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice a | 7.003 Å | 298.15 | Cu5Er; _alloy: Cu 0.833333, Er 0.166667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 13 |  |
+| Lattice a | 3.425 Å | 298.15 | CuEr; _alloy: Cu 0.5, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 17 |  |
+| Lattice b | 6.726 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+| Lattice c | 7.265 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008). [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002)
+2. M. Palumbo, L. Battezzati, A. Pasturel, S. Gottlieb-Schönmeyer, W. Assmus, Thermodynamic and ab initio investigation of the Cu–Dy system, Calphad 33, 511-516 (2009). [doi:10.1016/j.calphad.2009.04.001](https://doi.org/10.1016/j.calphad.2009.04.001)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Au–Bi system
 
-> Au–Bi system: 48 accepted literature values (invariant reaction 44, phase transition 3, formation 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Bi system: 46 accepted literature values (invariant reaction 42, phase transition 3, formation 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-BI.html · Markdown: https://data.orchid-project.org/systems/AU-BI.md
 
-48 accepted literature values from 4 paper(s) (experimental 29, model 19); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+46 accepted literature values from 4 paper(s) (experimental 28, model 18); 3 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-BI.json) · [CSV](https://data.orchid-project.org/systems/AU-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-BI/AuBi-06Ser.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-BI.html) · [Markdown](https://data.orchid-project.org/systems/AU-BI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 19 |
+| experimental | 28 |
+| model | 18 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 44 |
+| invariant reaction | 42 |
 | phase transition | 3 |
 | formation | 1 |
 
@@ -62,7 +62,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Bi system (44)
+Table: Invariant reactions reported in the literature for the Au–Bi system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -84,8 +84,6 @@ Table: Invariant reactions reported in the literature for the Au–Bi system (44
 | 644 | Fcc + L \<-> Au2Bi | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Hultgren 1973_ | Table 1, p. 2, row 9 |  |
 | 644 | Fcc + L \<-> Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Nathans 1962_ | Table 1, p. 2, row 6 |  |
 | 644 | peritectic: fcc + (L) ⇌ Au2Bi | L: Bi 0.669; Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [1] Chevalier 1988; _cites Nathans 1962_ | Table 2, p. 6, row 7 |  |
-| 544.52 | Bi(rho) ⇌ Bi(liq) | Bi(liq): Bi 1 | model | [1] Chevalier 1988 | Table 2, p. 6, row 3 |  |
-| 544.52 | Bi(rho) ⇌ Bi(liq) | Bi(liq): Bi 1 | experimental | [1] Chevalier 1988; _cites Okamoto 1983_ [doi](https://doi.org/10.1007/bf02868093) | Table 2, p. 6, row 4 |  |
 | 520 | L \<-> Au2Bi + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | Table 1, p. 2, row 19 |  |
 | 515.1 | L \<-> Au2Bi + (Bi) | Au2Bi: Au 0.666667, Bi 0.333333 | experimental | [2] Servant 2006; _cites Zoro 2005_ | Table 1, p. 2, row 13 |  |
 | 514.4 | eutectic: (L) ⇌ Au2Bi + Bi(rho) | L: Bi 0.868; Au2Bi: Au 0.666667, Bi 0.333333 | model | [1] Chevalier 1988 | Table 2, p. 6, row 11 |  |

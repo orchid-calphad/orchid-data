@@ -1,10 +1,10 @@
 # Au–Ho system
 
-> Au–Ho system: 29 accepted literature values (invariant reaction 27, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ho system: 68 accepted literature values (invariant reaction 27, crystal structure 20, formation 19, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-HO.html · Markdown: https://data.orchid-project.org/systems/AU-HO.md
 
-29 accepted literature values from 1 paper(s) (experimental 15, model 14); 1 calculated phase diagram(s).
+68 accepted literature values from 1 paper(s) (experimental 38, model 23, DFT 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-HO.json) · [CSV](https://data.orchid-project.org/systems/AU-HO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-HO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-HO/AuHo-12Don.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-HO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-HO.html) · [Markdown](https://data.orchid-project.org/systems/AU-HO.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
-| model | 14 |
+| experimental | 38 |
+| model | 23 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 27 |
 | phase transition | 2 |
+| formation | 19 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -93,6 +96,34 @@ Table: Invariant reactions reported in the literature for the Au–Ho system (27
 | 1078 | L \<=> Au6Ho + Au(fcc) | L: Au 0.89; Au6Ho: Au 0.857143, Ho 0.142857; Au(fcc): Au 0.96 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 2, p. 3, row 25 |  |
 | 1074 | L \<=> Au6Ho + Au(fcc) | L: Au 0.899; Au6Ho: Au 0.857143, Ho 0.142857; Au(fcc): Au 0.945 | model | [1] Dong 2012 | Table 2, p. 3, row 26 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Au–Ho system (19)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Au10Ho7 |  | -83.7 kJ/mol-atom | 298.15 | model |  |  | [1] Dong 2012 | Table 1, p. 2, row 15 |  |
+| Au2Ho |  | -85.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 17 |  |
+| Au2Ho | [Au2Ho](https://data.orchid-project.org/compounds/Au2Ho.html) | -84.6 kJ/mol-atom ± 1.4 | 298.15 | experimental | -84.473 (mp-aaaaabmc) | -84.636 (oqmd-1895423) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 18 |  |
+| Au2Ho | [Au2Ho](https://data.orchid-project.org/compounds/Au2Ho.html) | -81.3 kJ/mol-atom | 298.15 | model | -84.473 (mp-aaaaabmc) | -84.636 (oqmd-1895423) | [1] Dong 2012 | Table 1, p. 2, row 19 |  |
+| Au3Ho |  | -70.8 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 21 |  |
+| Au3Ho | [Au3Ho](https://data.orchid-project.org/compounds/Au3Ho.html) | -68.1 kJ/mol-atom | 298.15 | model | -69.705 (mp-aaaabsys) | -69.899 (oqmd-10739) | [1] Dong 2012 | Table 1, p. 2, row 23 |  |
+| Au3Ho | [Au3Ho](https://data.orchid-project.org/compounds/Au3Ho.html) | -67.1 kJ/mol-atom ± 2.1 | 298.15 | experimental | -69.705 (mp-aaaabsys) | -69.899 (oqmd-10739) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 22 |  |
+| Au4Ho | [Au4Ho](https://data.orchid-project.org/compounds/Au4Ho.html) | -59.4 kJ/mol-atom | 298.15 | model | -57.779 (mp-aaaabsyt) | -57.636 (oqmd-10740) | [1] Dong 2012 | Table 1, p. 2, row 28 |  |
+| Au4Ho |  | -58.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 27 |  |
+| Au51Ho14 |  | -63.1 kJ/mol-atom | 298.15 | model |  |  | [1] Dong 2012 | Table 1, p. 2, row 25 |  |
+| Au6Ho | [Au6Ho](https://data.orchid-project.org/compounds/Au6Ho.html) | -42.9 kJ/mol-atom | 298.15 | model | -40.545 (mp-aaacqgip) | -39.995 (oqmd-2052235) | [1] Dong 2012 | Table 1, p. 2, row 31 |  |
+| Au6Ho |  | -40.8 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 30 |  |
+| AuHo2 | [AuHo2](https://data.orchid-project.org/compounds/AuHo2.html) | -65.5 kJ/mol-atom | 298.15 | model | -62.097 (mp-aaaabsyr) | -62.432 (oqmd-10737) | [1] Dong 2012 | Table 1, p. 2, row 6 |  |
+| AuHo2 |  | -64.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 5 |  |
+| αAuHo |  | -87.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 8 |  |
+| αAuHo | [AuHo](https://data.orchid-project.org/compounds/AuHo.html) | -86 kJ/mol-atom | 298.15 | model | -86.06 (mp-aaacfiqk) | -86.188 (oqmd-28172) | [1] Dong 2012 | Table 1, p. 2, row 10 |  |
+| αAuHo | [AuHo](https://data.orchid-project.org/compounds/AuHo.html) | -81.8 kJ/mol-atom ± 3.6 | 298.15 | experimental | -86.06 (mp-aaacfiqk) | -86.188 (oqmd-28172) | [1] Dong 2012; _cites Fitzner 1997_ [doi](https://doi.org/10.1007/s11661-997-0094-6) | Table 1, p. 2, row 9 |  |
+| βAuHo | [AuHo](https://data.orchid-project.org/compounds/AuHo.html) | -67.3 kJ/mol-atom | 298.15 | model | -86.06 (mp-aaacfiqk) | -86.188 (oqmd-28172) | [1] Dong 2012 | Table 1, p. 2, row 13 |  |
+| βAuHo |  | -64.1 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 12 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -103,6 +134,33 @@ Table: Phase transition, Au–Ho system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1609 K | 1609 | congruent transformation | model | [1] Dong 2012 | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
 | Phase transition | 1623 K | 1623 | congruent transformation | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5 | “Therefore, the assessed congruent melting temperature for Au2 Ho (1609 K) is reasonable, compared to the proposed 1623 K.” |
+
+### Crystal structure (20)
+
+Table: Crystal structure, Au–Ho system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: lattice parameter a_ | 10.21 Å | 298.15 | Au10Ho7; _alloy: Ho 0.411765_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 16 |  |
+| Lattice a; _printed: lattice parameter a_ | 3.677 Å | 298.15 | Au2Ho; _alloy: Ho 0.333333_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 20 |  |
+| Lattice a; _printed: a_ | 6.057 Å | 298.15 | Au3Ho; _alloy: Ho 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 24 |  |
+| Lattice a; _printed: lattice parameter a_ | 6.653 Å | 298.15 | Au4Ho; _alloy: Ho 0.2_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 29 |  |
+| Lattice a; _printed: a_ | 12.55 Å | 298.15 | Au51Ho14; _alloy: Ho 0.215385_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 26 |  |
+| Lattice a; _printed: a_ | 10.29 Å | 298.15 | Au6Ho; _alloy: Ho 0.142857_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 32 |  |
+| Lattice a; _printed: lattice parameter a_ | 7.025 Å | 298.15 | AuHo2; _alloy: Ho 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 7 |  |
+| Lattice a; _printed: a_ | 3.685 Å | 298.15 | αAuHo; _alloy: Ho 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 11 |  |
+| Lattice a; _printed: lattice parameter a_ | 3.541 Å | 298.15 | βAuHo; _alloy: Ho 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 14 |  |
+| Lattice b; _printed: b_ | 4.964 Å | 298.15 | Au3Ho; _alloy: Ho 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 24 |  |
+| Lattice b; _printed: lattice parameter b_ | 4.8922 Å | 298.15 | AuHo2; _alloy: Ho 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 7 |  |
+| Lattice b; _printed: b_ | 10.835 Å | 298.15 | αAuHo; _alloy: Ho 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 11 |  |
+| Lattice c; _printed: c_ | 27.72 Å | 298.15 | Au10Ho7; _alloy: Ho 0.411765_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 16 |  |
+| Lattice c; _printed: lattice parameter c_ | 8.94 Å | 298.15 | Au2Ho; _alloy: Ho 0.333333_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 20 |  |
+| Lattice c; _printed: c_ | 5.072 Å | 298.15 | Au3Ho; _alloy: Ho 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 24 |  |
+| Lattice c; _printed: c_ | 4.174 Å | 298.15 | Au4Ho; _alloy: Ho 0.2_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 29 |  |
+| Lattice c; _printed: lattice parameter c_ | 9.135 Å | 298.15 | Au51Ho14; _alloy: Ho 0.215385_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 26 |  |
+| Lattice c; _printed: c_ | 9.66 Å | 298.15 | Au6Ho; _alloy: Ho 0.142857_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 32 |  |
+| Lattice c; _printed: lattice parameter c_ | 8.8482 Å | 298.15 | AuHo2; _alloy: Ho 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 7 |  |
+| Lattice c; _printed: c_ | 4.595 Å | 298.15 | αAuHo; _alloy: Ho 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 11 |  |
 
 ## Sources
 

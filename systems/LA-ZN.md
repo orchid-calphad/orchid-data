@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/LA-ZN.html · Markdown: https://da
 
 61 accepted literature values from 2 paper(s) (experimental 31, model 30); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-ZN.json) · [CSV](https://data.orchid-project.org/systems/LA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-ZN/LaZn-10Qi.json) · [phases (16)](https://data.orchid-project.org/phases/pages/LA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/LA-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-ZN.json) · [CSV](https://data.orchid-project.org/systems/LA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-ZN/LaZn-10Qi.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/LA-ZN.md)
 
 Table: Accepted values by evidence class
 

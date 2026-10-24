@@ -77,7 +77,7 @@ Table: Invariant reactions reported in the literature for the Gd–Sb system (29
 | 1586 | L -> βGd | βGd: Sb 0 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 2 |  |
 | 1586 | L -> βGd | βGd: Sb 0 | model | [1] Li 2007 | Table 2, p. 4, row 1 |  |
 | 1505 | L + βGd -> αGd | L: Sb 0.065; βGd: Sb 0.025; αGd: Sb 0.02 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 4 |  |
-| 1504 | L + GdSb2 -> GdSb | L: Sb 0.9665; GdSb2: Sb 0.00709; GdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 15 |  |
+| 1504 | L + GdSb2 -> GdSb | L: Sb 0.9665; GdSb2: Sb 0.709; GdSb: Sb 0.5 | model | [1] Li 2007 | Table 2, p. 4, row 15 |  |
 | 1501 | L + βGd -> αGd | L: Sb 0.058; βGd: Sb 0.0191; αGd: Sb 0.0183 | model | [1] Li 2007 | Table 2, p. 4, row 3 |  |
 | 1401.15 | eutectic |  | experimental | [1] Li 2007; _cites Gambino 1967_ [doi](https://doi.org/10.1016/0022-5088%2867%2990002-1) | p. 1 | “An eutectic reaction between (Gd) and Gd5Sb3 occurs at 1128 C.” |
 | 1393.15 | eutectic: L / (Gd) þ Gd5Sb3 |  | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | p. 2 | “The eutectic reaction L / (Gd) þ Gd5Sb3 was reported to be 1120 C, which is between the value of 1128 C \[3\] and 1113 C \[4\].” |
@@ -85,10 +85,10 @@ Table: Invariant reactions reported in the literature for the Gd–Sb system (29
 | 1390 | L -> αGd + Gd5Sb3 | L: Sb 0.1018; αGd: Sb 0.0402; Gd5Sb3: Sb 0.375 | model | [1] Li 2007 | Table 2, p. 4, row 5 |  |
 | 1386.15 | eutectic: L / (Gd) þ Gd5Sb3 |  | experimental | [1] Li 2007; _cites Gerasimov 1971_ | p. 2 | “The eutectic reaction L / (Gd) þ Gd5Sb3 was reported to be 1120 C, which is between the value of 1128 C \[3\] and 1113 C \[4\].” |
 | 1053.15 | peritectic |  | experimental | [1] Li 2007 | p. 2 | “The newly found compound, GdSb2 forms peritectically at 780 C and a corresponding eutectic reaction between GdSb and Sb was determined to be 624 C.” |
-| 1053 | L + GdSb2 -> GdSb | L: Sb 0.958; GdSb2: Sb 0.007091; GdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 16 |  |
-| 903 | L -> GdSb2 + Sb | GdSb2: Sb 0.00709; Sb: Sb 1 | model | [1] Li 2007 | Table 2, p. 4, row 17 |  |
+| 1053 | L + GdSb2 -> GdSb | L: Sb 0.958; GdSb2: Sb 0.7091; GdSb: Sb 0.5 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 16 |  |
+| 903 | L -> GdSb2 + Sb | GdSb2: Sb 0.709; Sb: Sb 1 | model | [1] Li 2007 | Table 2, p. 4, row 17 |  |
 | 897.15 | eutectic |  | experimental | [1] Li 2007 | p. 2 | “The newly found compound, GdSb2 forms peritectically at 780 C and a corresponding eutectic reaction between GdSb and Sb was determined to be 624 C.” |
-| 897 | L -> GdSb2 + Sb | GdSb2: Sb 0.007091; Sb: Sb 1 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 18 |  |
+| 897 | L -> GdSb2 + Sb | GdSb2: Sb 0.7091; Sb: Sb 1 | experimental | [1] Li 2007; _cites Abdusalyamova 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990075-5) | Table 2, p. 4, row 18 |  |
 
 ## Other properties
 

@@ -12,7 +12,7 @@ Table: Phases of the Gd–Pb system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-gd-pb-bcc-a2); _phase:gd-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1475.31–1587.12 K, x(Pb) 0–0.01523 | 7 | 2 |
+| [BCC_A2](#phase-gd-pb-bcc-a2); _phase:gd-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1475.31–1587.12 K, x(Pb) 0–0.01523 | 5 | 2 |
 | [FCC_A1](#phase-gd-pb-fcc-a1); _phase:gd-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.36 K, x(Pb) 1–1 | 4 | 2 |
 | [GD11PB10](#phase-gd-pb-gd11pb10); _phase:gd-pb:gd11pb10_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1498.3 K, x(Pb) 0.47619–0.47619 | 6 | 2 |
 | [GD5PB3_D88](#phase-gd-pb-gd5pb3-d88); _phase:gd-pb:gd5pb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1977.66 K, x(Pb) 0.375–0.39008 | 8 | 2 |
@@ -21,7 +21,7 @@ Table: Phases of the Gd–Pb system (11)
 | [GD6PB7](#phase-gd-pb-gd6pb7); _phase:gd-pb:gd6pb7_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1438.24 K, x(Pb) 0.53846–0.53846 | 6 | 2 |
 | [GDPB2](#phase-gd-pb-gdpb2); _phase:gd-pb:gdpb2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1285.65 K, x(Pb) 0.66667–0.66667 | 6 | 2 |
 | [GDPB3_L12](#phase-gd-pb-gdpb3-l12); _phase:gd-pb:gdpb3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1242.49 K, x(Pb) 0.75–0.75 | 5 | 2 |
-| [HCP_A3](#phase-gd-pb-hcp-a3); _phase:gd-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1515.05 K, x(Pb) 0–0.00994 | 8 | 2 |
+| [HCP_A3](#phase-gd-pb-hcp-a3); _phase:gd-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1515.05 K, x(Pb) 0–0.00994 | 6 | 2 |
 | [LIQUID](#phase-gd-pb-liquid); _phase:gd-pb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 600.61–2500 K, x(Pb) 0–1 | 29 | 2 |
 
 ## BCC_A2 (Gd–Pb)
@@ -29,7 +29,7 @@ Table: Phases of the Gd–Pb system (11)
 - Id: `phase:gd-pb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1475.31–1587.12 K, x(Pb) 0–0.01523
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-pb:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:gd-pb:bcc-a2  
@@ -389,7 +389,7 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-pb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1515.05 K, x(Pb) 0–0.00994
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-pb:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:gd-pb:hcp-a3  

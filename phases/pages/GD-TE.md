@@ -15,12 +15,12 @@ Table: Phases of the Gd–Te system (11)
 | [HEXAGONAL_A8](#phase-gd-te-a8-hexagonal); _phase:gd-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.8 K, x(Te) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-gd-te-bcc-a2); _phase:gd-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1508.16–1588.11 K, x(Te) 0–0 | 0 | 1 |
 | [FCC_A1](#phase-gd-te-fcc-a1); _phase:gd-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GD2TE3](#phase-gd-te-gd2te3); _phase:gd-te:gd2te3_ | Th2S3 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1541.18 K, x(Te) 0.57178–0.6 | 0 | 1 |
-| [GD2TE5](#phase-gd-te-gd2te5); _phase:gd-te:gd2te5_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1191.68 K, x(Te) 0.71429–0.71429 | 0 | 1 |
-| [GD4TE7](#phase-gd-te-gd4te7); _phase:gd-te:gd4te7_ | UAs2 · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1445.07 K, x(Te) 0.63636–0.63636 | 0 | 1 |
+| [GD2TE3](#phase-gd-te-gd2te3); _phase:gd-te:gd2te3_ | Th2S3 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1541.18 K, x(Te) 0.57178–0.6 | 3 | 1 |
+| [GD2TE5](#phase-gd-te-gd2te5); _phase:gd-te:gd2te5_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1191.68 K, x(Te) 0.71429–0.71429 | 3 | 1 |
+| [GD4TE7](#phase-gd-te-gd4te7); _phase:gd-te:gd4te7_ | UAs2 · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1445.07 K, x(Te) 0.63636–0.63636 | 1 | 1 |
 | [GDTE_B1](#phase-gd-te-gdte-b1); _phase:gd-te:gdte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2100.31 K, x(Te) 0.5–0.5 | 0 | 1 |
-| [GDTE2](#phase-gd-te-gdte2); _phase:gd-te:gdte2_ | Fe2As · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1271.99 K, x(Te) 0.66667–0.66667 | 0 | 1 |
-| [GDTE3](#phase-gd-te-gdte3); _phase:gd-te:gdte3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1104.88 K, x(Te) 0.75–0.75 | 0 | 1 |
+| [GDTE2](#phase-gd-te-gdte2); _phase:gd-te:gdte2_ | Fe2As · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1271.99 K, x(Te) 0.66667–0.66667 | 2 | 1 |
+| [GDTE3](#phase-gd-te-gdte3); _phase:gd-te:gdte3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1104.88 K, x(Te) 0.75–0.75 | 3 | 1 |
 | [HCP_A3](#phase-gd-te-hcp-a3); _phase:gd-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1508.16 K, x(Te) 0–0 | 0 | 1 |
 | [LIQUID](#phase-gd-te-liquid); _phase:gd-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 718.55–2500 K, x(Te) 0–1 | 0 | 1 |
 
@@ -112,10 +112,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1541.18 K, x(Te) 0.57178–0.6
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:gd2te3)
 
-Names (2): _corpus: _corpus:phase:gd-te:gd2te3  
+Names (3): _corpus: _corpus:phase:gd-te:gd2te3  
+_paper: _paper:10.1007/s11669-023-01051-1:Gd2Te3  
 _tdb: _tdb:GdTe-23Cui.tdb:GD2TE3  
 
 
@@ -128,10 +129,12 @@ _tdb: _tdb:GdTe-23Cui.tdb:GD2TE3
 61: CONST GD2TE3 : GD : TE : GD TE : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1107/s0021889887087065](https://doi.org/10.1107/s0021889887087065) J. S. Swinnea, H. Steinfink, L. R. Danielson, Crystal chemistry and thermoelectric properties of Gd\<sub>2\</sub>Te\<sub>3\</sub>, J Appl Crystallogr 20, 102-104 (1987).  
+_cited as the source of values for this phase_
 
 ## GD2TE5 (Gd–Te)
 
@@ -141,10 +144,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Gd 0.2857, Te 0.7143
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1191.68 K, x(Te) 0.71429–0.71429
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:gd2te5)
 
-Names (2): _corpus: _corpus:phase:gd-te:gd2te5  
+Names (3): _corpus: _corpus:phase:gd-te:gd2te5  
+_paper: _paper:10.1007/s11669-023-01051-1:Gd2Te5  
 _tdb: _tdb:GdTe-23Cui.tdb:GD2TE5  
 
 
@@ -160,7 +164,7 @@ _tdb: _tdb:GdTe-23Cui.tdb:GD2TE5
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GD4TE7 (Gd–Te)
 
@@ -170,10 +174,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Gd 0.3636, Te 0.6364
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1445.07 K, x(Te) 0.63636–0.63636
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:gd4te7)
 
-Names (2): _corpus: _corpus:phase:gd-te:gd4te7  
+Names (3): _corpus: _corpus:phase:gd-te:gd4te7  
+_paper: _paper:10.1007/s11669-023-01051-1:Gd4Te7  
 _tdb: _tdb:GdTe-23Cui.tdb:GD4TE7  
 
 
@@ -189,7 +194,7 @@ _tdb: _tdb:GdTe-23Cui.tdb:GD4TE7
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GDTE_B1 (Gd–Te)
 
@@ -226,10 +231,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Gd 0.3333, Te 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1271.99 K, x(Te) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:gdte2)
 
-Names (2): _corpus: _corpus:phase:gd-te:gdte2  
+Names (3): _corpus: _corpus:phase:gd-te:gdte2  
+_paper: _paper:10.1007/s11669-023-01051-1:GdTe2  
 _tdb: _tdb:GdTe-23Cui.tdb:GDTE2  
 
 
@@ -242,10 +248,12 @@ _tdb: _tdb:GdTe-23Cui.tdb:GDTE2
 71: CONST GDTE2 : GD : TE : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1246/bcsj.45.1239](https://doi.org/10.1246/bcsj.45.1239) Koichi Niihara, Toetsu Shishido, Seishi Yajima, The Nonstoichiometry of Gadolinium Ditelluride, Bulletin of the Chemical Society of Japan 45, 1239-1240 (1972).  
+_cited as the source of values for this phase_
 
 ## GDTE3 (Gd–Te)
 
@@ -255,10 +263,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Gd 0.2500, Te 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1104.88 K, x(Te) 0.75–0.75
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-te:gdte3)
 
-Names (2): _corpus: _corpus:phase:gd-te:gdte3  
+Names (3): _corpus: _corpus:phase:gd-te:gdte3  
+_paper: _paper:10.1007/s11669-023-01051-1:GdTe3  
 _tdb: _tdb:GdTe-23Cui.tdb:GDTE3  
 
 
@@ -274,7 +283,7 @@ _tdb: _tdb:GdTe-23Cui.tdb:GDTE3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## HCP_A3 (Gd–Te)
 

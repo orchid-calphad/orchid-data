@@ -1,10 +1,10 @@
 # Si–Zr system
 
-> Si–Zr system: 67 accepted literature values (formation 30, invariant reaction 29, phase transition 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Zr system: 66 accepted literature values (formation 30, invariant reaction 29, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-ZR.html · Markdown: https://data.orchid-project.org/systems/SI-ZR.md
 
-67 accepted literature values from 3 paper(s) (experimental 13, model 43, unspecified 11); 2 calculated phase diagram(s).
+66 accepted literature values from 3 paper(s) (experimental 13, model 43, unspecified 10); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-ZR.json) · [CSV](https://data.orchid-project.org/systems/SI-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-ZR/SiZr-09Che.json) · [phases (16)](https://data.orchid-project.org/phases/pages/SI-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SI-ZR.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 13 |
 | model | 43 |
-| unspecified | 11 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| phase transition | 8 |
+| phase transition | 7 |
 | formation | 30 |
 
 ## Calculated phase diagrams
@@ -140,31 +140,31 @@ Table: Enthalpies of formation, Si–Zr system (30)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -56.2933 kJ/mol-atom | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994 | Table II, p. 4, row 5 |  |
-| Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -53.086 kJ/mol-atom ± 37.62 | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3 |  |
-| Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -51.308 kJ/mol-atom ± 2.92 | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4 |  |
+| Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -53.086 kJ/mol-atom ± 12.54 | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3 |  |
+| Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -51.308 kJ/mol-atom ± 0.973333 | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4 |  |
 | Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -50.2993 kJ/mol-atom | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 73Bol_ | Table II, p. 4, row 2 |  |
 | Si2Zr | [Si2Zr](https://data.orchid-project.org/compounds/Si2Zr.html) | -49.8813 kJ/mol-atom | 298.15 | model | -57.935 (mp-aaaaacgh) | -63.036 (oqmd-3570) | [3] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 1 |  |
 | Si2Zr3 | [Si2Zr3](https://data.orchid-project.org/compounds/Si2Zr3.html) | -88.812 kJ/mol-atom | 298.15 | model | -82.475 (mp-aaacqroa) | -85.385 (oqmd-1364772) | [3] Gueneau 1994 | Table II, p. 4, row 14 |  |
 | Si2Zr3 | [Si2Zr3](https://data.orchid-project.org/compounds/Si2Zr3.html) | -76.912 kJ/mol-atom | 298.15 | model | -82.475 (mp-aaacqroa) | -85.385 (oqmd-1364772) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 13 |  |
-| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -112.968 kJ/mol-atom ± 33.5 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 16 |  |
+| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -112.968 kJ/mol-atom ± 4.1875 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 16 |  |
 | Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -78.175 kJ/mol-atom | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994 | Table II, p. 4, row 19 |  |
 | Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -76.494 kJ/mol-atom | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 15 |  |
-| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -71.896 kJ/mol-atom ± 100.32 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 17 |  |
-| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -71.65 kJ/mol-atom ± 38.32 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 90Top_ | Table II, p. 4, row 18 |  |
+| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -71.896 kJ/mol-atom ± 12.54 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 17 |  |
+| Si3Zr5 | [Si3Zr5](https://data.orchid-project.org/compounds/Si3Zr5.html) | -71.65 kJ/mol-atom ± 4.79 | 298.15 | model | -76.551 (mp-aaabgikp) | -79.039 (oqmd-31218) | [3] Gueneau 1994; _cites ref. 90Top_ | Table II, p. 4, row 18 |  |
 | Si4Zr5 | [Si4Zr5](https://data.orchid-project.org/compounds/Si4Zr5.html) | -88.3 kJ/mol-atom | 298.15 | model | -84.244 (mp-aaaaabye) | -87.268 (oqmd-3883) | [3] Gueneau 1994 | Table II, p. 4, row 12 |  |
-| Si5Zr6 |  | -96.2273 kJ/mol-atom ± 42.7 | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 26 |  |
+| Si5Zr6 |  | -96.2273 kJ/mol-atom ± 3.88182 | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 26 |  |
 | Si5Zr6 |  | -77.748 kJ/mol-atom | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 27 |  |
 | Si5Zr6 |  | -77.33 kJ/mol-atom | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 25 |  |
 | Si5Zr6# |  | -1058.5 kJ/mol (basis unstated) ± 42.7 | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 26 |  |
 | Si5Zr6# |  | -855.228 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 27 |  |
 | Si5Zr6# |  | -850.63 kJ/mol (basis unstated) | 298.15 | model |  |  | [3] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 25 |  |
-| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -129.7 kJ/mol-atom ± 8.4 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 7 |  |
+| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -129.7 kJ/mol-atom ± 4.2 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 7 |  |
 | SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -83.67 kJ/mol-atom | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994 | Table II, p. 4, row 11 |  |
-| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -77.33 kJ/mol-atom ± 25.08 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 9 |  |
-| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -74.822 kJ/mol-atom ± 2.92 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 10 |  |
+| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -77.33 kJ/mol-atom ± 12.54 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 9 |  |
+| SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -74.822 kJ/mol-atom ± 1.46 | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 10 |  |
 | SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -73.777 kJ/mol-atom | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 73Bol_ | Table II, p. 4, row 8 |  |
 | SiZr | [SiZr](https://data.orchid-project.org/compounds/SiZr.html) | -73.772 kJ/mol-atom | 298.15 | model | -86.746 (mp-aaaaaqtm) | -90.225 (oqmd-31074) | [3] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 6 |  |
-| SiZr2 | [SiZr2](https://data.orchid-project.org/compounds/SiZr2.html) | -112.967 kJ/mol-atom ± 12.55 | 298.15 | model | -72.863 (mp-aaaaabxe) | -75.334 (oqmd-7792) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 20 |  |
+| SiZr2 | [SiZr2](https://data.orchid-project.org/compounds/SiZr2.html) | -112.967 kJ/mol-atom ± 4.18333 | 298.15 | model | -72.863 (mp-aaaaabxe) | -75.334 (oqmd-7792) | [3] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 20 |  |
 | SiZr2 | [SiZr2](https://data.orchid-project.org/compounds/SiZr2.html) | -77.06 kJ/mol-atom | 298.15 | model | -72.863 (mp-aaaaabxe) | -75.334 (oqmd-7792) | [3] Gueneau 1994 | Table II, p. 4, row 22 |  |
 | SiZr2 | [SiZr2](https://data.orchid-project.org/compounds/SiZr2.html) | -69.388 kJ/mol-atom | 298.15 | model | -72.863 (mp-aaaaabxe) | -75.334 (oqmd-7792) | [3] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 21 |  |
 | SiZr3 | [SiZr3](https://data.orchid-project.org/compounds/SiZr3.html) | -60.82 kJ/mol-atom | 298.15 | model | -52.992 (mp-aaacqimy) | -54.922 (oqmd-2053245) | [3] Gueneau 1994 | Table II, p. 4, row 24 |  |
@@ -172,13 +172,12 @@ Table: Enthalpies of formation, Si–Zr system (30)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (7)
 
 Table: Phase transition, Si–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1139.4 K | 1139.4 | polymorphic: hcp-A3 -> bcc-A2; _hcp-A3: Zr 1; bcc-A2: Zr 1_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 298, row 9 |  |
 | Phase transition | 1732.5 K | 1732.5 | polymorphic: α-SiZr -> β-SiZr; _α-SiZr: Zr 0.5; β-SiZr: Zr 0.5_ | model | [2] Chen 2009 | Table 5, p. 6, row 24 |  |
 | Phase transition | 1733.15 K | 1733.15 | polymorphic: α-SiZr -> β-SiZr; _α-SiZr: Zr 0.5; β-SiZr: Zr 0.5_ | experimental | [2] Chen 2009; _cites Alcock 1976_ | Table 5, p. 6, row 23 |  |
 | Phase transition | 2132.5 K | 2132.5 | polymorphic: α-Si4Zr5 -> β-Si4Zr5; _α-Si4Zr5: Zr 0.555556; β-Si4Zr5: Zr 0.555556_ | model | [2] Chen 2009 | Table 5, p. 6, row 26 |  |

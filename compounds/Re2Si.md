@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Re2Si.html · Markdown: https://
 
 10 accepted literature formation-enthalpy value(s) (experimental 3, model 7); experimental median -20 kJ/mol-atom (n = 3); Materials Project 12.813 kJ/mol-atom (mp-aaabmclv); OQMD -21.934 kJ/mol-atom (oqmd-1800633).
 
-Systems: [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) · [Re–Si](https://data.orchid-project.org/systems/RE-SI.html)
+Systems: [Re–Si](https://data.orchid-project.org/systems/RE-SI.html)
 
 ## Literature values
 
@@ -15,15 +15,15 @@ Table: Enthalpy of formation of Re2Si reported in the literature (10)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Searcy 1953_ [doi](https://doi.org/10.1021/ja01103a017) | Table 1, p. 3, row 1 |  |
-| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
-| -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
+| -20 kJ/mol-atom | Re2Si | 298.15 | experimental | Elemental effusion | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
+| -12.7 kJ/mol-atom ± 2.5 | Re2Si | 298.15 | experimental | Calorimetry | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
 | -27 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites de Boer FR 1989_ | Table 1, p. 3, row 3 |  |
-| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5 |  |
+| -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5 |  |
 | -22.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001 | Table 1, p. 3, row 4 |  |
-| -22 kJ/mol-atom | Re2Si |  | model | Estimation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 3 |  |
+| -22 kJ/mol-atom | Re2Si |  | model | Estimation | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 3 |  |
 | -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [1] Shao 2001; _cites Chart 1973_ | Table 1, p. 3, row 2 |  |
-| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2 |  |
-| -19.367 kJ/mol-atom | Re2Si |  | model | This work | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [2] Yang 2010 | Table 2, p. 3, row 6 |  |
+| -19.7 kJ/mol-atom | Re2Si |  | model | Assessment | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2 |  |
+| -19.367 kJ/mol-atom | Re2Si |  | model | This work | [Re–Si](https://data.orchid-project.org/systems/RE-SI.html) | [2] Yang 2010 | Table 2, p. 3, row 6 |  |
 
 ### Uncertainty budget
 
@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Re2Si
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -20 | kJ/mol-atom |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -20 | kJ/mol-atom |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -20 | kJ/mol-atom |  | 0.5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -20 | kJ/mol-atom |  | 0.5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -12.7 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -27 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.367 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -27 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.367 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -52,7 +52,7 @@ Table: DFT formation energy of Re2Si
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabmclv | 12.813 | 0.1328 | P2_1/c | 31.904 | 0.3307 | no |
+| Materials Project | mp-aaabmclv | 12.813 | 0.1328 | P2_1/c | 31.9042 | 0.3307 | no |
 | OQMD | oqmd-1800633 | -21.934 | -0.227333 | Pnma | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

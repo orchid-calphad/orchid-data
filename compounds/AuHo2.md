@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuHo2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -62.097 kJ/mol-atom (mp-aaaabsyr); OQMD -62.432 kJ/mol-atom (oqmd-10737).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of AuHo2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -65.5 kJ/mol-atom | AuHo2 | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 6 |  |
-| -64.1 kJ/mol-atom | AuHo2 | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 5 |  |
+| -65.5 kJ/mol-atom | AuHo2 | 298.15 | model | CALPHAD assessment | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 6 |  |
+| -64.1 kJ/mol-atom | AuHo2 | 0 | DFT | ab initio | [Au–Ho](https://data.orchid-project.org/systems/AU-HO.html) | [1] Dong 2012 | Table 1, p. 2, row 5 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of AuHo2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -65.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -65.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

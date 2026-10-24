@@ -14,9 +14,9 @@ Table: Phases of the Ag–Sb system (6)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-ag-sb-a7-rhombohedral); _phase:ag-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 3 | 3 |
 | [AG3SB](#phase-ag-sb-ag3sb); _phase:ag-sb:ag3sb_ | Ag3Sb · oP4 · Pmm2 (25) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–835.48 K, x(Sb) 0.21476–0.28056 | 0 | 3 |
-| [BCC_A2](#phase-ag-sb-bcc-a2); _phase:ag-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 6 | 3 |
-| [FCC_A1](#phase-ag-sb-fcc-a1); _phase:ag-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1238.93 K, x(Sb) 0–0.07459 | 3 | 3 |
-| [HCP_A3](#phase-ag-sb-hcp-a3); _phase:ag-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–975.49 K, x(Sb) 0.07993–0.17166 | 6 | 3 |
+| [BCC_A2](#phase-ag-sb-bcc-a2); _phase:ag-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
+| [FCC_A1](#phase-ag-sb-fcc-a1); _phase:ag-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1238.93 K, x(Sb) 0–0.07459 | 0 | 3 |
+| [HCP_A3](#phase-ag-sb-hcp-a3); _phase:ag-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–975.49 K, x(Sb) 0.07993–0.17166 | 0 | 3 |
 | [LIQUID](#phase-ag-sb-liquid); _phase:ag-sb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 753.19–2500 K, x(Sb) 0–1 | 9 | 3 |
 
 ## RHOMBOHEDRAL_A7 (Ag–Sb)
@@ -118,11 +118,10 @@ _assessment that models this phase_
 - Id: `phase:ag-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sb:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ag-sb:bcc-a2  
-_paper: _paper:10.1007/s11669-007-9085-y:ε  
+Names (4): _corpus: _corpus:phase:ag-sb:bcc-a2  
 _tdb: _tdb:AgSb-07Zor.tdb:BCC_A2, tdb:AgSb-94Lee.tdb:BCC_A2, tdb:AgSb-96Oh-LB.tdb:BCC_A2  
 
 
@@ -149,27 +148,24 @@ _tdb: _tdb:AgSb-07Zor.tdb:BCC_A2, tdb:AgSb-94Lee.tdb:BCC_A2, tdb:AgSb-96Oh-LB.td
 37: CONST BCC_A2 : AG SB : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-007-9085-y](https://doi.org/10.1007/s11669-007-9085-y) E. Zoro, C. Servant, B. Legendre, Thermodynamic Modeling of the Ag-Au-Sb Ternary System, J Phs Eqil and Diff 28, 250-257 (2007).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90857-5](https://doi.org/10.1016/0925-8388%2894%2990857-5) Byung-Zu Lee, Chang-Seok Oh, Dong Nyung Lee, A thermodynamic evaluation of the AgPbSb system, Journal of Alloys and Compounds 215, 293-301 (1994).  
 _assessment that models this phase_
-- [doi:10.1007/bf02671976](https://doi.org/10.1007/bf02671976) H. Okamoto, Phase Diagram Updates Ag-Sb (Silver-Antimony), J. Phase Equilibria, 1993, 14, p 531-532  
-_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
+_assessment that models this phase_
 
 ## FCC_A1 (Ag–Sb)
 
 - Id: `phase:ag-sb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1238.93 K, x(Sb) 0–0.07459
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sb:fcc-a1)
 
-Names (5): _corpus: _corpus:phase:ag-sb:fcc-a1  
-_paper: _paper:10.1007/s11669-007-9085-y:α  
+Names (4): _corpus: _corpus:phase:ag-sb:fcc-a1  
 _tdb: _tdb:AgSb-07Zor.tdb:FCC_A1, tdb:AgSb-94Lee.tdb:FCC_A1, tdb:AgSb-96Oh-LB.tdb:FCC_A1  
 
 
@@ -196,27 +192,24 @@ _tdb: _tdb:AgSb-07Zor.tdb:FCC_A1, tdb:AgSb-94Lee.tdb:FCC_A1, tdb:AgSb-96Oh-LB.td
 32: CONST FCC_A1 : AG% SB : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-007-9085-y](https://doi.org/10.1007/s11669-007-9085-y) E. Zoro, C. Servant, B. Legendre, Thermodynamic Modeling of the Ag-Au-Sb Ternary System, J Phs Eqil and Diff 28, 250-257 (2007).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90857-5](https://doi.org/10.1016/0925-8388%2894%2990857-5) Byung-Zu Lee, Chang-Seok Oh, Dong Nyung Lee, A thermodynamic evaluation of the AgPbSb system, Journal of Alloys and Compounds 215, 293-301 (1994).  
 _assessment that models this phase_
-- [doi:10.1007/bf02671976](https://doi.org/10.1007/bf02671976) H. Okamoto, Phase Diagram Updates Ag-Sb (Silver-Antimony), J. Phase Equilibria, 1993, 14, p 531-532  
-_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
+_assessment that models this phase_
 
 ## HCP_A3 (Ag–Sb)
 
 - Id: `phase:ag-sb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–975.49 K, x(Sb) 0.07993–0.17166
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sb:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:ag-sb:hcp-a3  
-_paper: _paper:10.1007/s11669-007-9085-y:ζ  
+Names (4): _corpus: _corpus:phase:ag-sb:hcp-a3  
 _tdb: _tdb:AgSb-07Zor.tdb:HCP_A3, tdb:AgSb-94Lee.tdb:HCP_A3, tdb:AgSb-96Oh-LB.tdb:HCP_A3  
 
 
@@ -243,16 +236,14 @@ _tdb: _tdb:AgSb-07Zor.tdb:HCP_A3, tdb:AgSb-94Lee.tdb:HCP_A3, tdb:AgSb-96Oh-LB.td
 42: CONST HCP_A3 : AG SB : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-007-9085-y](https://doi.org/10.1007/s11669-007-9085-y) E. Zoro, C. Servant, B. Legendre, Thermodynamic Modeling of the Ag-Au-Sb Ternary System, J Phs Eqil and Diff 28, 250-257 (2007).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0925-8388(94)90857-5](https://doi.org/10.1016/0925-8388%2894%2990857-5) Byung-Zu Lee, Chang-Seok Oh, Dong Nyung Lee, A thermodynamic evaluation of the AgPbSb system, Journal of Alloys and Compounds 215, 293-301 (1994).  
 _assessment that models this phase_
-- [doi:10.1007/bf02671976](https://doi.org/10.1007/bf02671976) H. Okamoto, Phase Diagram Updates Ag-Sb (Silver-Antimony), J. Phase Equilibria, 1993, 14, p 531-532  
-_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(95)02191-4](https://doi.org/10.1016/0925-8388%2895%2902191-4) Chang-Seok Oh, Jae-Hyeok Shim, Byeong-Joo Lee, Dong Nyung Lee, A thermodynamic study on the AgSbSn system, Journal of Alloys and Compounds 238, 155-166 (1996).  
+_assessment that models this phase_
 
 ## LIQUID (Ag–Sb)
 

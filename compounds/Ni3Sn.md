@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Ni3Sn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.31 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -26.31 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -26.31 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -23.43 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -26.66 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.657 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.507 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.657 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -26.31 | kJ/mol (basis unstated) |  | 0.005 | 14 (unknown, calibrated) |  |  |  | 14 |
+| -26.31 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (unknown, calibrated) |  |  |  | 14 |
+| -26.31 | kJ/mol (basis unstated) |  | 0.005 | 14 (unknown, calibrated) |  |  |  | 14 |
+| -23.43 | kJ/mol (basis unstated) |  | 0.005 | 14 (unknown, calibrated) |  |  |  | 14 |
+| -26.66 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -26.657 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -26.4 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -25.507 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -19 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -26.657 | kJ/mol (basis unstated) |  | 5.000e-4 | 14 (unknown, calibrated) |  |  |  | 14 |
 
 ## Sources
 

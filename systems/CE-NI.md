@@ -123,16 +123,16 @@ Table: Invariant reactions reported in the literature for the Ce–Ni system (12
 |---:|---|---|---|---|---|---|
 | 1613 | liquid -> CeNi5 | liquid: Ni 0.83; CeNi5: Ce 0.166667, Ni 0.833333 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 20 |  |
 | 1613 | liquid -> CeNi5 | liquid: Ni 0.8333; CeNi5: Ce 0.166667, Ni 0.833333 | model | [1] Du 2004 | Table 2, p. 4, row 19 |  |
-| 1488.15 | L -> CeNi5 + (Ni) | L: Ni 0.911; CeNi5: Ni 0.865; (Ni): Ni 0.01 | experimental | [2] Xiong 2007; _cites Kim 1994_ [doi](https://doi.org/10.2473/shigentosozai.110.95) | Table 4, p. 6, row 36 |  |
-| 1488.15 | L -> CeNi5 + (Ni) | L: Ni 0.919; CeNi5: Ni 0.833333; (Ni): Ni 0.01 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 40 |  |
-| 1484.15 | L -> CeNi5 + (Ni) | L: Ni 0.922; CeNi5: Ni 0.856; (Ni): Ni 0.01 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 41 |  |
-| 1483.15 | L -> CeNi5 + (Ni) | L: Ni 0.911; CeNi5: Ni 0.833; (Ni): Ni 0.01 | experimental | [2] Xiong 2007; _cites Vogel 1947_ | Table 4, p. 6, row 37 |  |
-| 1483.15 | L -> CeNi5 + (Ni) | L: Ni 0.91; CeNi5: Ni 0.833; (Ni): Ni 0.01 | experimental | [2] Xiong 2007; _cites Zhang 1983_ | Table 4, p. 6, row 39 |  |
+| 1488.15 | L -> CeNi5 + (Ni) | L: Ni 0.911; CeNi5: Ni 0.865; (Ni): Ni 1 | experimental | [2] Xiong 2007; _cites Kim 1994_ [doi](https://doi.org/10.2473/shigentosozai.110.95) | Table 4, p. 6, row 36 |  |
+| 1488.15 | L -> CeNi5 + (Ni) | L: Ni 0.919; CeNi5: Ni 0.833333; (Ni): Ni 1 | experimental | [2] Xiong 2007 | Table 4, p. 6, row 40 |  |
+| 1484.15 | L -> CeNi5 + (Ni) | L: Ni 0.922; CeNi5: Ni 0.856; (Ni): Ni 1 | unspecified | [2] Xiong 2007 | Table 4, p. 6, row 41 |  |
+| 1483.15 | L -> CeNi5 + (Ni) | L: Ni 0.911; CeNi5: Ni 0.833; (Ni): Ni 1 | experimental | [2] Xiong 2007; _cites Vogel 1947_ | Table 4, p. 6, row 37 |  |
+| 1483.15 | L -> CeNi5 + (Ni) | L: Ni 0.91; CeNi5: Ni 0.833; (Ni): Ni 1 | experimental | [2] Xiong 2007; _cites Zhang 1983_ | Table 4, p. 6, row 39 |  |
 | 1483 | liquid -> Ce2Ni7 + fcc (Ni) | liquid: Ni 0.91; Ce2Ni7: Ce 0.222222, Ni 0.777778; fcc (Ni): Ni 0.9995 | experimental | [1] Du 2004; _cites Nash 1991_ | Table 2, p. 4, row 22 |  |
 | 1483 | Liquid -> CeNi5 + Ni | L: Ni 0.91; CeNi5: Ni 0.833; Ni: Ni 1 | experimental | [3] Palumbo 2004; _cites Zhang 1983_ | Table 2, p. 2, row 33 |  |
 | 1483 | Liquid -> CeNi5 + Ni | L: Ni 0.91; CeNi5: Ni 0.833; Ni: Ni 1 | experimental | [3] Palumbo 2004; _cites Vogel 1947_ [doi](https://doi.org/10.1515/ijmr-1947-380401) | Table 2, p. 2, row 31 |  |
 | 1480 | liquid -> Ce2Ni7 + fcc (Ni) | liquid: Ni 0.9167; Ce2Ni7: Ce 0.222222, Ni 0.777778; fcc (Ni): Ni 0.9998 | model | [1] Du 2004 | Table 2, p. 4, row 21 |  |
-| 1478.15 | L -> CeNi5 + (Ni) | L: Ni 0.91; CeNi5: Ni 0.833; (Ni): Ni 0.01 | experimental | [2] Xiong 2007; _cites Gebhart 1967_ | Table 4, p. 6, row 38 |  |
+| 1478.15 | L -> CeNi5 + (Ni) | L: Ni 0.91; CeNi5: Ni 0.833; (Ni): Ni 1 | experimental | [2] Xiong 2007; _cites Gebhart 1967_ | Table 4, p. 6, row 38 |  |
 | 1478 | Liquid -> CeNi5 + Ni | L: Ni 0.91; CeNi5: Ni 0.833; Ni: Ni 1 | experimental | [3] Palumbo 2004; _cites Gebhart 1967_ | Table 2, p. 2, row 32 |  |
 | 1477.15 | L -> CeNi5 + (Ni) | L: Ni 0.911; CeNi5: Ni 0.833333 | experimental | [2] Xiong 2007; _cites Pisch 2006_ | Table 4, p. 6, row 35 |  |
 | 1449 | Liquid -> CeNi5 + Ni | L: Ni 0.92; CeNi5: Ni 0.833; Ni: Ni 1 | model | [3] Palumbo 2004 | Table 2, p. 2, row 30 |  |

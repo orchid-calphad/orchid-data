@@ -37,7 +37,7 @@ Table: Uncertainty budget of the literature values of InN
 | -132.6 | per formula unit | 6 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 6 |
 | -131.4 | per formula unit | 7 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 7 |
 | -127.6 | per formula unit | 3 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 3 |
-| -113 | per formula unit | 42 | 0.5 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 42 |
+| -113 | per formula unit | 42 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 42 |
 | -28.6 | per formula unit | 9.2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 9.2 |
 | -19.2 | per formula unit | 2 | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 2 |
 | -96.5 | per formula unit |  | 0.05 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | unit 'per formula unit' not convertible to kJ/mol-atom |

@@ -1,10 +1,10 @@
 # O–Si system
 
-> O–Si system: 38 accepted literature values (crystal structure 28, invariant reaction 5, phase transition 3, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Si system: 41 accepted literature values (crystal structure 31, invariant reaction 5, phase transition 3, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-SI.html · Markdown: https://data.orchid-project.org/systems/O-SI.md
 
-38 accepted literature values from 2 paper(s) (experimental 3, model 4, unspecified 31); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+41 accepted literature values from 3 paper(s) (experimental 3, model 4, DFT 3, unspecified 31); 0 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-SI.json) · [CSV](https://data.orchid-project.org/systems/O-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SI) · [phases (17)](https://data.orchid-project.org/phases/pages/O-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-SI.html) · [Markdown](https://data.orchid-project.org/systems/O-SI.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 3 |
 | model | 4 |
+| DFT | 3 |
 | unspecified | 31 |
 
 Table: Accepted values by property group
@@ -22,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 3 |
-| crystal structure | 28 |
+| crystal structure | 31 |
 | other property | 2 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-SI.json) · [CALPHAD hull SiO-92Hal](https://data.orchid-project.org/hulls/calphad-sgte/O/O-SI--SiO-92Hal.json)
@@ -51,12 +52,13 @@ Table: Phase transition, O–Si system
 | Phase transition | 1687 K | 1687 |  | experimental | [2] Schnurre 2004 | p. 12 | “Only sample 10, which was heated above the melting temperature of silicon (1687 K), shows distinct SiO2 (cristobalite) peaks and no SiO2 (glass) bulge.” |
 | Phase transition | 1998 K | 1998 |  | experimental | [2] Schnurre 2004 | p. 7 | “It should be noted that no separation is necessary between supercooled and stable liquid at the melting point of cristobalite (Tm 1⁄4 1998 K) in Eq. (6c).” |
 
-### Crystal structure (28)
+### Crystal structure (31)
 
 Table: Crystal structure, O–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7 |  |
 | Lattice a | 2.561 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
 | Lattice a | 4.9877 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
 | Lattice a | 4.957 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
@@ -68,10 +70,12 @@ Table: Crystal structure, O–Si system
 | Lattice a | 4.176 Å | 885.5 | SiO2 III (stishovite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 12 |  |
 | Lattice a | 7.137 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
 | Lattice a | 4.72 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
+| Lattice b | 5.007 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7 |  |
 | Lattice b | 17.21 Å | 386 (\<) | SiO2(tridymite M-I); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 4 |  |
 | Lattice b | 12.334 Å | 838 | SiO2 II (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 10 |  |
 | Lattice b | 12.37 Å | 1273 (\<) | SiO2 IIb (coesite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 11 |  |
 | Lattice b | 5.16 Å | 1368 | SiO2 (silica W); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 13 |  |
+| Lattice c | 5.496 Å | 0 | Quartz (SiO2); _alloy: O 0.666667, Si 0.333333_ | DFT | [3] Shin 2006 | Table 1, p. 3, row 7 |  |
 | Lattice c | 4.112 Å | 298.15 | SiO2(Fe2N-type); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 14 |  |
 | Lattice c | 6.9679 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 8 |  |
 | Lattice c | 6.8903 Å | 298.15 | SiO2(low cristobalite); _alloy: Si 0.333333_ | unspecified | [2] Schnurre 2004 | Table 1, p. 5, row 7 |  |
@@ -101,6 +105,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Bengt Hallstedt, Thermodynamic assessment of the Silicon — Oxygen system, Calphad 16, 53-61 (1992). [doi:10.1016/0364-5916(92)90038-y](https://doi.org/10.1016/0364-5916%2892%2990038-y)
 2. S.M. Schnurre, J. Gröbner, R. Schmid-Fetzer, Thermodynamics and phase stability in the Si–O system, Journal of Non-Crystalline Solids 336, 1-25 (2004). [doi:10.1016/j.jnoncrysol.2003.12.057](https://doi.org/10.1016/j.jnoncrysol.2003.12.057)
+3. Dongwon Shin, Raymundo Arróyave, Zi-Kui Liu, Thermodynamic modeling of the Hf–Si–O system, Calphad 30, 375-386 (2006). [doi:10.1016/j.calphad.2006.08.006](https://doi.org/10.1016/j.calphad.2006.08.006)
 
 ## Please cite
 

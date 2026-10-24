@@ -1,10 +1,10 @@
 # Cr–Ta system
 
-> Cr–Ta system: 4 accepted literature values (formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ta system: 8 accepted literature values (formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TA.html · Markdown: https://data.orchid-project.org/systems/CR-TA.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, model 3); 2 calculated phase diagram(s).
+8 accepted literature values from 2 paper(s) (experimental 2, model 3, DFT 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TA.json) · [CSV](https://data.orchid-project.org/systems/CR-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TA/CrTa-09Pav.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CR-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TA.html) · [Markdown](https://data.orchid-project.org/systems/CR-TA.md)
 
@@ -12,14 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
+| experimental | 2 |
 | model | 3 |
+| DFT | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 4 |
+| formation | 8 |
 
 ## Calculated phase diagrams
 
@@ -51,7 +52,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cr–Ta system (4)
+Table: Enthalpies of formation, Cr–Ta system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -59,12 +60,17 @@ Table: Enthalpies of formation, Cr–Ta system (4)
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.596 kJ/mol-atom |  | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -8.5 kJ/mol-atom ± 0.5 | 1693 | experimental | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
 | Cr2Ta (LT) | [Cr2Ta](https://data.orchid-project.org/compounds/Cr2Ta.html) | -5 kJ/mol-atom | 1693 | model | -11.01 (mp-aaaaadnt) | -12.142 (oqmd-18299) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
+| Cr2Ta C14 |  | -8.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
+| CrTa2 (C14) |  | 76.35 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 2 |  |
+| CrTa2 (C15) |  | 74.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 4 |  |
+| CrTa2 (C36) |  | 75.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [2] Pavlů 2009 | Table 5, p. 4, row 6 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. N. Dupin, I. Ansara, Thermodynamic assessment of the Cr-Ta system, JPE 14, 451-456 (1993). [doi:10.1007/bf02671963](https://doi.org/10.1007/bf02671963)
+2. J. Pavlů, J. Vřešt’ál, M. Šob, Re-modeling of Laves phases in the Cr–Nb and Cr–Ta systems using first-principles results, Calphad 33, 179-186 (2009). [doi:10.1016/j.calphad.2008.04.006](https://doi.org/10.1016/j.calphad.2008.04.006)
 
 ## Please cite
 

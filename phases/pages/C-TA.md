@@ -1,10 +1,10 @@
 # C–Ta phases
 
-> C–Ta system: 7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Ta system: 7 phases (tier A 4, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-TA.html · Markdown: https://data.orchid-project.org/phases/pages/C-TA.md
 
-7 phases (tier A 5, liquid 1, needs_review 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier A 4, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-TA) · [full JSON](https://data.orchid-project.org/phases/systems/C-TA.json) · [C–Ta system page](https://data.orchid-project.org/systems/C-TA.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-TA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -15,7 +15,7 @@ Table: Phases of the C–Ta system (7)
 | [DIAMOND_A4](#phase-c-ta-a4-diamond); _phase:c-ta:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [GRAPHITE_A9](#phase-c-ta-a9-graphite); _phase:c-ta:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 1–1 | 2 | 3 |
 | [BCC_A2](#phase-c-ta-bcc-a2); _phase:c-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3289.99 K, x(C) 0–0.08363 | 2 | 3 |
-| [FCC_A1](#phase-c-ta-fcc-a1); _phase:c-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 0.37866–0.5 | 6 | 3 |
+| [FCC_A1](#phase-c-ta-fcc-a1); _phase:c-ta:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 0.37866–0.5 | 6 | 3 |
 | [HCP_A3](#phase-c-ta-hcp-a3); _phase:c-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3635.99 K, x(C) 0.27446–0.33333 | 4 | 3 |
 | [LIQUID](#phase-c-ta-liquid); _phase:c-ta:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 3073.71–4000 K, x(C) 0–0.75326 | 8 | 3 |
 | [TA4C3](#phase-c-ta-ta4c3); _phase:c-ta:ta4c3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2442.8 K, x(C) 0.386–0.4 | 0 | 2 |
@@ -24,6 +24,7 @@ Table: Phases of the C–Ta system (7)
 
 - Id: `phase:c-ta:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ta:a4-diamond)
@@ -68,6 +69,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-ta:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ta:a9-graphite)
@@ -157,7 +159,7 @@ _assessment that models this phase_
 ## FCC_A1 (C–Ta)
 
 - Id: `phase:c-ta:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 0.37866–0.5
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-ta:fcc-a1)

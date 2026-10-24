@@ -26,7 +26,7 @@ Table: Uncertainty budget of the literature values of CoPt
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -13.6 | per mol-atom | 0.7 | 0.05 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 0.7 |
-| -12.265 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.265 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of CoPt
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaabkn | -8.269 | -0.085707 | P4/mmm | 0 | 0 | no |
-| OQMD | oqmd-29449 | -9.462 | -0.098069 | P4/mmm | 1.085 | 0.0112 | no |
+| OQMD | oqmd-29449 | -9.462 | -0.098069 | P4/mmm | 1.0845 | 0.0112 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

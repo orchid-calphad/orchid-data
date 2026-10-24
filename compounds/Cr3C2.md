@@ -40,23 +40,23 @@ Table: Uncertainty budget of the literature values of Cr3C2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -114.4 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -102.1 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -95.6 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -77.7 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -76.7 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -72.3 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -71.7 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -66.9 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -65.5 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -64.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -63.8 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -56.8 | kJ/mol (basis unstated) |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -56.4 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -87.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -85.3 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -68.97 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -114.4 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (equilibration_other, calibrated) |  |  |  | 17.5 |
+| -102.1 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -95.6 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (equilibration_other, calibrated) |  |  |  | 17.5 |
+| -77.7 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -76.7 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (equilibration_other, calibrated) |  |  |  | 17.5 |
+| -72.3 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -71.7 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -66.9 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -65.5 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -64.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -63.8 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (equilibration_other, calibrated) |  |  |  | 17.5 |
+| -56.8 | kJ/mol (basis unstated) |  | 0.05 | 28 (kems_vapour, cleaned_below_threshold) |  |  |  | 28 |
+| -56.4 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -87.8 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -85.3 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -71.4 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -68.97 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 
 ## Sources
 

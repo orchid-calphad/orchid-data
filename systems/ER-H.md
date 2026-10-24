@@ -1,10 +1,10 @@
 # Er–H system
 
-> Er–H system: 17 accepted literature values (crystal structure 17) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–H system: 15 accepted literature values (crystal structure 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-H.html · Markdown: https://data.orchid-project.org/systems/ER-H.md
 
-17 accepted literature values from 1 paper(s) (experimental 17); 1 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 15); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-H.json) · [CSV](https://data.orchid-project.org/systems/ER-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-H/ErH-13Mas.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ER-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-H.html) · [Markdown](https://data.orchid-project.org/systems/ER-H.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
+| experimental | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 17 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -42,14 +42,13 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Crystal structure (17)
+### Crystal structure (15)
 
 Table: Crystal structure, Er–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.123 Å |  | β-ErH2; _alloy: H 0.666667_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.559 Å | 298.15 | αEr; _alloy: H 0_ | experimental | [1] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1 |  |
 | Lattice a | 3.56 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1 |  |
 | Lattice a | 3.566 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5 |  |
 | Lattice a | 5.119 Å | 298.15 | β-ErH2; _β-ErH2: Er 0.3, H 0.7_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 2 |  |
@@ -59,7 +58,6 @@ Table: Crystal structure, Er–H system
 | Lattice a | 6.264 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10 |  |
 | Lattice a | 6.272 Å | 298.15 | γ-ErH3; _alloy: H 0.75_ | experimental | [1] Mascaro 2013; _cites Pebler 1962_ [doi](https://doi.org/10.1021/j100807a033) | Table 1, p. 2, row 3 |  |
 | Lattice a | 6.268 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.313, H 0.687_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 9 |  |
-| Lattice c | 5.587 Å | 298.15 | αEr; _alloy: H 0_ | experimental | [1] Mascaro 2013; _cites Spedding 1956_ [doi](https://doi.org/10.1107/s0365110x5600156x) | Table 1, p. 2, row 1 |  |
 | Lattice c | 5.581 Å | 298.15 | α\_Er; _α\_Er: Er 0.839, H 0.161; αEr: Er 0.839, H 0.161_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 1 |  |
 | Lattice c | 5.602 Å | 298.15 | α\_Er; _α\_Er: Er 0.6, H 0.4; αEr: Er 0.6, H 0.4_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 5 |  |
 | Lattice c | 6.52 Å | 298.15 | γ-ErH3; _γ-ErH3: Er 0.275, H 0.725_ | experimental | [1] Mascaro 2013 | Table 3, p. 4, row 10 |  |

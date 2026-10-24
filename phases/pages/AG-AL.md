@@ -12,22 +12,21 @@ Table: Phases of the Ag–Al system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ag-al-bcc-a2); _phase:ag-al:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 859.31–2500 K, x(Al) 0.20553–1 | 20 | 5 |
-| [CUB_A13](#phase-ag-al-cub-a13); _phase:ag-al:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–740.16 K, x(Al) 0.16245–0.31021 | 6 | 5 |
+| [BCC_A2](#phase-ag-al-bcc-a2); _phase:ag-al:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 859.31–2500 K, x(Al) 0.20553–1 | 0 | 5 |
+| [CUB_A13](#phase-ag-al-cub-a13); _phase:ag-al:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–740.16 K, x(Al) 0.16245–0.31021 | 0 | 5 |
 | [FCC_A1](#phase-ag-al-fcc-a1); _phase:ag-al:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2499.72 K, x(Al) 0–1 | 25 | 5 |
-| [HCP_A3](#phase-ag-al-hcp-a3); _phase:ag-al:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1007.61 K, x(Al) 0.06933–0.99 | 27 | 5 |
-| [LIQUID](#phase-ag-al-liquid); _phase:ag-al:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 829.98–2500 K, x(Al) 0–1 | 77 | 5 |
+| [HCP_A3](#phase-ag-al-hcp-a3); _phase:ag-al:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1007.61 K, x(Al) 0.06933–0.99 | 0 | 5 |
+| [LIQUID](#phase-ag-al-liquid); _phase:ag-al:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 829.98–2500 K, x(Al) 0–1 | 74 | 5 |
 
 ## BCC_A2 (Ag–Al)
 
 - Id: `phase:ag-al:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 859.31–2500 K, x(Al) 0.20553–1
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-al:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:ag-al:bcc-a2  
-_paper: _paper:10.1007/bf00810049:β, paper:10.1016/j.jallcom.2004.04.126:β  
+Names (6): _corpus: _corpus:phase:ag-al:bcc-a2  
 _tdb: _tdb:AgAl-04Wit.tdb:BCC_A2, tdb:AgAl-20Ter.tdb:BCC_A2, tdb:AgAl-80Spe.tdb:BCC_A2, tdb:AgAl-87Spe.tdb:BCC_A2, tdb:AgAl-95Lim-LB.tdb:BCC_A2  
 
 
@@ -70,13 +69,13 @@ _tdb: _tdb:AgAl-04Wit.tdb:BCC_A2, tdb:AgAl-20Ter.tdb:BCC_A2, tdb:AgAl-80Spe.tdb:
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF00810049](https://doi.org/10.1007/BF00810049) P.J. Spencer, O. Kubaschewski, Monatshefte Chem., 118, 155-67(1987).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(95)00014-6](https://doi.org/10.1016/0364-5916%2895%2900014-6) S.S. Lim, P.L. Rossiter, J.E. Tibballs, Calphad, 19, 131-41(1995).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2020.101739](https://doi.org/10.1016/j.calphad.2020.101739) S. Terlicka, A. Debski, W. Gierlotka, A. Wierzbicka-Miernik, A. Budziak, A. Sypien, M. Zabrocki, W. Gasior, Calphad, 68, 101739(2020).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
 
 ## CUB_A13 (Ag–Al)
@@ -84,11 +83,10 @@ _assessment that models this phase_
 - Id: `phase:ag-al:cub-a13`; status `assigned`
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–740.16 K, x(Al) 0.16245–0.31021
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-al:cub-a13)
 
-Names (8): _corpus: _corpus:phase:ag-al:cub-a13  
-_paper: _paper:10.1007/bf00810049:μ, paper:10.1016/j.jallcom.2004.04.126:µ  
+Names (6): _corpus: _corpus:phase:ag-al:cub-a13  
 _tdb: _tdb:AgAl-04Wit.tdb:CUB_A13, tdb:AgAl-20Ter.tdb:CUB_A13, tdb:AgAl-80Spe.tdb:CUB_A13, tdb:AgAl-87Spe.tdb:CUB_A13, tdb:AgAl-95Lim-LB.tdb:CUB_A13  
 
 
@@ -131,13 +129,13 @@ _tdb: _tdb:AgAl-04Wit.tdb:CUB_A13, tdb:AgAl-20Ter.tdb:CUB_A13, tdb:AgAl-80Spe.td
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF00810049](https://doi.org/10.1007/BF00810049) P.J. Spencer, O. Kubaschewski, Monatshefte Chem., 118, 155-67(1987).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(95)00014-6](https://doi.org/10.1016/0364-5916%2895%2900014-6) S.S. Lim, P.L. Rossiter, J.E. Tibballs, Calphad, 19, 131-41(1995).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2020.101739](https://doi.org/10.1016/j.calphad.2020.101739) S. Terlicka, A. Debski, W. Gierlotka, A. Wierzbicka-Miernik, A. Budziak, A. Sypien, M. Zabrocki, W. Gasior, Calphad, 68, 101739(2020).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
 
 ## FCC_A1 (Ag–Al)
@@ -206,11 +204,10 @@ _assessment that models this phase_
 - Id: `phase:ag-al:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1007.61 K, x(Al) 0.06933–0.99
-- Literature: 27 values (27 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-al:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:ag-al:hcp-a3  
-_paper: _paper:10.1007/bf00810049:ζ, paper:10.1016/j.jallcom.2004.04.126:ζ  
+Names (6): _corpus: _corpus:phase:ag-al:hcp-a3  
 _tdb: _tdb:AgAl-04Wit.tdb:HCP_A3, tdb:AgAl-20Ter.tdb:HCP_A3, tdb:AgAl-80Spe.tdb:HCP_A3, tdb:AgAl-87Spe.tdb:HCP_A3, tdb:AgAl-95Lim-LB.tdb:HCP_A3  
 
 
@@ -253,13 +250,13 @@ _tdb: _tdb:AgAl-04Wit.tdb:HCP_A3, tdb:AgAl-20Ter.tdb:HCP_A3, tdb:AgAl-80Spe.tdb:
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF00810049](https://doi.org/10.1007/BF00810049) P.J. Spencer, O. Kubaschewski, Monatshefte Chem., 118, 155-67(1987).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(95)00014-6](https://doi.org/10.1016/0364-5916%2895%2900014-6) S.S. Lim, P.L. Rossiter, J.E. Tibballs, Calphad, 19, 131-41(1995).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2020.101739](https://doi.org/10.1016/j.calphad.2020.101739) S. Terlicka, A. Debski, W. Gierlotka, A. Wierzbicka-Miernik, A. Budziak, A. Sypien, M. Zabrocki, W. Gasior, Calphad, 68, 101739(2020).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
 
 ## LIQUID (Ag–Al)
@@ -267,7 +264,7 @@ _assessment that models this phase_
 - Id: `phase:ag-al:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 829.98–2500 K, x(Al) 0–1
-- Literature: 77 values (77 accepted) from 2 papers
+- Literature: 74 values (74 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-al:liquid)
 
 Names (9): _corpus: _corpus:phase:ag-al:liquid  

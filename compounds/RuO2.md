@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of RuO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -314.15 | kJ/mol (basis unstated) | 0.02 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -313.67 | kJ/mol (basis unstated) | 0.29 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -313.52 | kJ/mol (basis unstated) | 0.03 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -306.27 | kJ/mol (basis unstated) | 6.3 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 6.3 |
-| -302.08 | kJ/mol (basis unstated) | 8.37 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 8.37 |
-| -297.08 | kJ/mol (basis unstated) |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -314.13 | kJ/mol (basis unstated) |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -314.15 | kJ/mol (basis unstated) | 0.02 | 0.005 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -313.67 | kJ/mol (basis unstated) | 0.29 | 0.005 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -313.52 | kJ/mol (basis unstated) | 0.03 | 0.005 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -306.27 | kJ/mol (basis unstated) | 6.3 | 0.005 | 16.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 16.8 |
+| -302.08 | kJ/mol (basis unstated) | 8.37 | 0.005 | 11.4 (experimental_unspecified, calibrated) |  |  |  | 11.4 |
+| -297.08 | kJ/mol (basis unstated) |  | 0.005 | 11.4 (experimental_unspecified, calibrated) |  |  |  | 11.4 |
+| -314.13 | kJ/mol (basis unstated) |  | 0.005 | 30.57 (dft, calibrated) |  |  |  | 30.57 |
 
 ## Sources
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al4Ba.html · Markdown: https://
 
 12 accepted literature formation-enthalpy value(s) (experimental 8, model 3, DFT 1); experimental median -37.1 kJ/mol-atom (n = 8); Materials Project -23.27 kJ/mol-atom (mp-aaaaacvf); OQMD -22.888 kJ/mol-atom (oqmd-10391).
 
-Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) · [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)
 
 ## Literature values
 
@@ -15,17 +15,17 @@ Table: Enthalpy of formation of Al4Ba reported in the literature (12)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -50.63 kJ/mol-atom | Al4Ba | 298.15 | experimental |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017; _cites Nepochatov 1979_ | Table 4, p. 6, row 4 |  |
-| -50.63 kJ/mol-atom | Al4Ba | 298.15 | experimental | Calorimetry | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Nepochatov 1979_ | Table 3, p. 4, row 4 |  |
-| -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 7 |  |
-| -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental | Drop calorimetry | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Notin 2019_ | Table 3, p. 4, row 6 |  |
+| -50.63 kJ/mol-atom | Al4Ba | 298.15 | experimental | Calorimetry | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Nepochatov 1979_ | Table 3, p. 4, row 4 |  |
+| -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 7 |  |
+| -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental | Drop calorimetry | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Notin 2019_ | Table 3, p. 4, row 6 |  |
 | -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 4, p. 6, row 1 |  |
 | -37.1 kJ/mol-atom | Al4Ba | 298.15 | experimental |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017; _cites Notin 1982_ [doi](https://doi.org/10.1016/0040-6031%2882%2987023-8) | Table 4, p. 6, row 3 |  |
-| -24.8 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Vigdorovich 1972_ | Table 3, p. 4, row 3 |  |
-| -22.7 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Kulichkina 1967_ | Table 3, p. 4, row 5 |  |
+| -24.8 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Vigdorovich 1972_ | Table 3, p. 4, row 3 |  |
+| -22.7 kJ/mol-atom | Al4Ba | 298.15 | experimental | Vapor pressure | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Kulichkina 1967_ | Table 3, p. 4, row 5 |  |
 | -47.98 kJ/mol-atom | Al4Ba |  | model |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017 | Table 4, p. 6, row 2 |  |
-| -46.649 kJ/mol-atom | Al4Ba |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
-| -23.474 kJ/mol-atom | Al4Ba |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019 | Table 3, p. 4, row 2 |  |
-| -23.576 kJ/mol-atom | Al4Ba | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019 | Table 3, p. 4, row 1 |  |
+| -46.649 kJ/mol-atom | Al4Ba |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
+| -23.474 kJ/mol-atom | Al4Ba |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 2 |  |
+| -23.576 kJ/mol-atom | Al4Ba | 0 | DFT | Ab-initio | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 1 |  |
 
 ### Uncertainty budget
 
@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of Al4Ba
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -50.63 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -50.63 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -50.63 | kJ/mol-atom |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -37.1 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
+| -37.1 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -37.1 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -37.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -24.8 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -22.7 | kJ/mol-atom |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -47.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -46.649 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.474 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.576 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -37.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24.8 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -22.7 | kJ/mol-atom |  | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -47.98 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -46.649 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.474 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.576 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

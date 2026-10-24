@@ -1,10 +1,10 @@
 # Ce–Cu system
 
-> Ce–Cu system: 37 accepted literature values (invariant reaction 30, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Cu system: 52 accepted literature values (invariant reaction 30, crystal structure 15, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-CU.html · Markdown: https://data.orchid-project.org/systems/CE-CU.md
 
-37 accepted literature values from 2 paper(s) (experimental 9, model 28); 2 calculated phase diagram(s).
+52 accepted literature values from 3 paper(s) (experimental 18, model 31, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-CU.json) · [CSV](https://data.orchid-project.org/systems/CE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CE-CU/CeCu-09Bo.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CE-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-CU.html) · [Markdown](https://data.orchid-project.org/systems/CE-CU.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 28 |
+| experimental | 18 |
+| model | 31 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 30 |
 | phase transition | 7 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -124,12 +126,35 @@ Table: Phase transition, Ce–Cu system
 | Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | model | [2] Bo 2009; _cites Zhuang 1996_ [doi](https://doi.org/10.1007/bf02665998) | Table 2, p. 4, row 5 |  |
 | Phase transition | 1211 K | 1211 | congruent melting: Liquid ↔ Cu6Ce; _L: Cu 0.857; Cu6Ce: Cu 0.857143_ | experimental | [2] Bo 2009; _cites Rhinehammer 1964_ | Table 2, p. 4, row 4 |  |
 
+### Crystal structure (15)
+
+Table: Crystal structure, Ce–Cu system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.43 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.54 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
+| Lattice a | 8.1088 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 7.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
+| Lattice b | 7.05 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
+| Lattice b | 8.1 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
+| Lattice b | 5.147 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
+| Lattice b | 5.1004 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
+| Lattice b | 4.3 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
+| Lattice c | 7.45 not_printed | 298.15 | Cu2Ce; _alloy: Ce 0.333333, Cu 0.666667_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 8 |  |
+| Lattice c | 9.19 not_printed | 298.15 | Cu4Ce; _alloy: Ce 0.2, Cu 0.8_ | experimental | [3] Premović 2017; _cites Rhinehammer 1964_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.1072 not_printed | 298.15 | Cu5Ce; _alloy: Ce 0.166667, Cu 0.833333_ | model | [3] Premović 2017; _cites Kim 1991_ [doi](https://doi.org/10.1007/bf01313537) | Table 1, p. 2, row 10 |  |
+| Lattice c | 10.1621 not_printed | 298.15 | Cu6Ce; _alloy: Ce 0.142857, Cu 0.857143_ | unspecified | [3] Premović 2017; _cites Vrtis 2017_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 6.36 not_printed | 298.15 | CuCe; _alloy: Ce 0.5, Cu 0.5_ | experimental | [3] Premović 2017; _cites Larson 1961_ [doi](https://doi.org/10.1107/s0365110x61001728) | Table 1, p. 2, row 7 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. W. Zhuang, Z. -Y. Qiao, S. Wei, J. Shen, Thermodynamic evaluation of the Cu-R (R: Ce, Pr, Nd, Sm) binary systems, JPE 17, 508-521 (1996). [doi:10.1007/bf02665998](https://doi.org/10.1007/bf02665998)
 2. H. Bo, S. Jin, L.G. Zhang, X.M. Chen, H.M. Chen, L.B. Liu et al., Thermodynamic assessment of Al–Ce–Cu system, Journal of Alloys and Compounds 484, 286-295 (2009). [doi:10.1016/j.jallcom.2009.04.083](https://doi.org/10.1016/j.jallcom.2009.04.083)
+3. Milena Premović, Yong Du, Fan Zhang, Bo Sundman, Duško Minić, Biao Hu, Phase equilibria in the ternary B-Ce-Cu system with a thermodynamic reassessment of the binary B-Ce system, Thermochimica Acta 657, 185-196 (2017). [doi:10.1016/j.tca.2017.10.006](https://doi.org/10.1016/j.tca.2017.10.006)
 
 ## Please cite
 

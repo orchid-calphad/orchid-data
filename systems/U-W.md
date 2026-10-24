@@ -1,10 +1,10 @@
 # U–W system
 
-> U–W system: 25 accepted literature values (mixing / partial 16, invariant reaction 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> U–W system: 22 accepted literature values (mixing / partial 16, invariant reaction 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/U-W.html · Markdown: https://data.orchid-project.org/systems/U-W.md
 
-25 accepted literature values from 2 paper(s) (experimental 3, model 22); 2 calculated phase diagram(s).
+22 accepted literature values from 2 paper(s) (experimental 1, model 21); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/U-W.json) · [CSV](https://data.orchid-project.org/systems/U-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#U-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#U-W/UW-08Wan.json) · [phases (6)](https://data.orchid-project.org/phases/pages/U-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/U-W.html) · [Markdown](https://data.orchid-project.org/systems/U-W.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 22 |
+| experimental | 1 |
+| model | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 9 |
+| invariant reaction | 6 |
 | mixing / partial | 16 |
 
 ## Calculated phase diagrams
@@ -52,19 +52,16 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the U–W system (9)
+Table: Invariant reactions reported in the literature for the U–W system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1408.15 | eutectic: L → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 1 |  |
 | 1407.65 | eutectic: L → γ (U) + bcc (W) | L: W 0.0026; γ (U): W 0.0024; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 2 |  |
 | 1404 | Liquid -> (γ-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 1 |  |
-| 1049.15 | eutectoid: γ (U) → β (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 3 |  |
-| 1049 | (γ-U) -> (β-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 2 |  |
 | 1047.65 | eutectoid: γ (U) → β (U) + bcc (W) | γ (U): W 0.001; β (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 4 |  |
 | 942.15 | congruent transformation: β (U) → γ (U) + bcc (W) | β (U): W 0; γ (U): W 0; bcc (W): W 0.997 | model | [1] Wang 2008 | Table 4, p. 5, row 6 |  |
 | 942 | (β-U) -> (α-U) + (W) |  | model | [2] Berche 2011 | Table 2, p. 5, row 3 |  |
-| 941.15 | congruent transformation: β (U) → γ (U) + bcc (W) |  | experimental | [1] Wang 2008; _cites Pandian 2000_ | Table 4, p. 5, row 5 |  |
 
 ## Other properties
 

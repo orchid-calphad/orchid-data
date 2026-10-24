@@ -110,7 +110,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sn:a5-bct)
 
 Names (13): _corpus: _corpus:phase:ag-sn:a5-bct  
-_paper: _paper:10.1016/0040-6031(88)87426-4:Sn(liq), paper:10.1016/0040-6031(88)87426-4:bct  
+_paper: _paper:10.1016/0040-6031(88)87426-4:Sn(bct), paper:10.1016/0040-6031(88)87426-4:bct  
 _tdb: _tdb:AgSn-00Moo.tdb:BCT_A5, tdb:AgSn-07Wan.tdb:BCT_A5, tdb:AgSn-09Gao.tdb:BCT_A5, tdb:AgSn-12Din.tdb:BCT_A5, tdb:AgSn-12Gie.tdb:BCT_A5, tdb:AgSn-22Lia.tdb:BCT_A5, tdb:AgSn-88Che.tdb:BCT_A5, tdb:AgSn-94Kat.tdb:BCT_A5, tdb:AgSn-96Oh-LB.tdb:BCT_A5, tdb:AgSn-99Oht.tdb:BCT_A5  
 
 

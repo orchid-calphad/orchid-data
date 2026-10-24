@@ -1,0 +1,158 @@
+{
+ "components": [
+  "SB",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "SB3ZN4_ALPHA_P"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 600.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -9607.0
+   ]
+  ]
+ ],
+ "reference": "Zhang 2022, doi:10.1016/j.tca.2022.179327",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5FN2IJMMAY.0adc31",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SbZn-22Zha.tdb",
+   "path": "databases/sgte-binary/SbZn-22Zha.tdb",
+   "sha256": "7c5dd94e653096cdc663fdd27557d7ed5e13124c2593bd414b3a987fe55bb960",
+   "catalog_entry": {
+    "name": "SbZn-22Zha.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-tca-2022-179327",
+   "doi": "10.1016/j.tca.2022.179327",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Zhang, Y. Yuan, Thermochim. Acta, 716, 179327(2022).",
+    "year": "2022"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 0.147059,
+ "bibtex": "zhang2022_9e0ae3",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-5FN2IJMMAY.0adc31",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.tca.2022.179327",
+    "measured_in": "doi:10.1016/j.tca.2022.179327"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.tca.2022.179327"
+  ],
+  "dois": [
+   "10.1016/j.tca.2022.179327"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SbZn-22Zha/hmr-model-17.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma_effective of the dataset's values (uncertainty budget of the published values: max(printed, reading, method floor) with composition / conversion in quadrature, group scatter when larger); ESPEI 0.9.1 equilibrium/activity data take one weight per dataset; model-calculated values: sigma_method is the model class's deviation from experiment (or its prior), not a measurement uncertainty; exclude them with the `model` tag if you prefer",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 3400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 3400.0,
+     "method_class": "model_calculated",
+     "method_basis": "calibrated",
+     "method_n_pairs": 2075,
+     "method_entry": "model/HM_FORM"
+    },
+    "sigma_effective_used": 3400.0,
+    "weight_per_value_equivalent": 0.147059,
+    "weight_used": 0.147059
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
+  "suggested_weight": 1.0,
+  "weight_before_2026_10_24": 1.0,
+  "weight_written": 0.147059,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "SB3ZN4_ALPHA_P"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "SbZn-22Zha.tdb",
+   "path": "databases/sgte-binary/SbZn-22Zha.tdb",
+   "sha256": "7c5dd94e653096cdc663fdd27557d7ed5e13124c2593bd414b3a987fe55bb960",
+   "phase": "SB3ZN4_ALPHA_P",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   10.0,
+   13.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SB",
+    "ZN"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-5FN2IJMMAY.0adc31",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

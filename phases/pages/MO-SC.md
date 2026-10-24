@@ -15,7 +15,7 @@ Table: Phases of the Mo–Sc system (4)
 | [BCC_A2](#phase-mo-sc-bcc-a2); _phase:mo-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999 K, x(Sc) 0–1 | 0 | 1 |
 | [FCC_A1](#phase-mo-sc-fcc-a1); _phase:mo-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-mo-sc-hcp-a3); _phase:mo-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.99 K, x(Sc) 0.98587–1 | 0 | 1 |
-| [LIQUID](#phase-mo-sc-liquid); _phase:mo-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1643.17–4000 K, x(Sc) 0–1 | 0 | 1 |
+| [LIQUID](#phase-mo-sc-liquid); _phase:mo-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1643.17–4000 K, x(Sc) 0–1 | 2 | 1 |
 
 ## BCC_A2 (Mo–Sc)
 
@@ -100,10 +100,11 @@ _assessment that models this phase_
 - Id: `phase:mo-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1643.17–4000 K, x(Sc) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-sc:liquid)
 
-Names (2): _corpus: _corpus:phase:mo-sc:liquid  
+Names (3): _corpus: _corpus:phase:mo-sc:liquid  
+_paper: _paper:10.1007/s11669-014-0340-8:liquid  
 _tdb: _tdb:MoSc-15Wan.tdb:LIQUID  
 
 
@@ -119,7 +120,7 @@ _tdb: _tdb:MoSc-15Wan.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-014-0340-8](https://doi.org/10.1007/s11669-014-0340-8) S. L. Wang, L. J. Zhou, Y. Ye, X. H. Wang, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Sc-M (M: Cr, Gd, Mo, W and Zr) Systems, J. Phase Equilib. Diffus. 36, 3-9 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

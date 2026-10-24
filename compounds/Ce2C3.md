@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ce2C3.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -35.3 kJ/mol-atom (n = 1); Materials Project -24.666 kJ/mol-atom (mp-aaaabdwf); OQMD -11.083 kJ/mol-atom (oqmd-13369).
 
-Systems: [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html)
+Systems: [C–Ce](https://data.orchid-project.org/systems/C-CE.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ce2C3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.3 kJ/mol-atom ± 1.1 | Ce2C3 | 298.15 | experimental | Bomb calorimetry | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
+| -35.3 kJ/mol-atom ± 1.1 | Ce2C3 | 298.15 | experimental | Bomb calorimetry | [C–Ce](https://data.orchid-project.org/systems/C-CE.html) | [1] Peng 2011; _cites Baker 1971_ [doi](https://doi.org/10.1016/s0021-9614%2871%2980068-x) | Table 2, p. 2, row 8 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ce2C3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.3 | kJ/mol-atom | 1.1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1.1 |
+| -35.3 | kJ/mol-atom | 1.1 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1.1 |
 
 ## DFT formation energies
 

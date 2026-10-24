@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of SrO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -635 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -631 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -636 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -633 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -635 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -631 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -636 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -633 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ca–Fe system
 
-> Ca–Fe system: 7 accepted literature values (activity / EMF / Gibbs energy 5, phase transition 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Fe system: 4 accepted literature values (activity / EMF / Gibbs energy 3, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-FE.html · Markdown: https://data.orchid-project.org/systems/CA-FE.md
 
-7 accepted literature values from 2 paper(s) (experimental 2, model 5); 2 calculated phase diagram(s).
+4 accepted literature values from 2 paper(s) (experimental 2, model 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-FE.json) · [CSV](https://data.orchid-project.org/systems/CA-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-FE/CaFe-13Sel.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CA-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-FE.html) · [Markdown](https://data.orchid-project.org/systems/CA-FE.md)
 
@@ -13,15 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 5 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| phase transition | 1 |
-| activity / EMF / Gibbs energy | 5 |
+| activity / EMF / Gibbs energy | 3 |
 
 ## Calculated phase diagrams
 
@@ -65,22 +64,12 @@ Table: Invariant reactions reported in the literature for the Ca–Fe system (1)
 
 ## Other properties
 
-### Phase transition (1)
-
-Table: Phase transition, Ca–Fe system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1380 K | 1380 | CW3F + CWF + liquid | model | [2] Hillert 1990 | p. 7 | “The present assessment comes close to the latter results and predicts that CW3F is stable up to 1380 K, where it decomposes to wiistite, CWF, and liquid.” |
-
-### Activity / EMF / Gibbs energy (5)
+### Activity / EMF / Gibbs energy (3)
 
 Table: Activity / EMF / Gibbs energy, Ca–Fe system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Chemical potential; _printed: oxygen potential_ | -112.5 kcal/mole O2 | 563.15 | CWF + Fe + WF + C2F | model | [2] Hillert 1990 | p. 9 | “Reeve and Gregory12sl gave a more careful consideration of the position of the univariant line X and predicted that it would intersect the other lines to form the invariant equilibrium VII at 290 ~ and -112.5 kcal/ mole 02.” |
-| Chemical potential; _printed: oxygen potential_ | -105.6 kcal/mole O2 | 688.15 | WF | model | [2] Hillert 1990 | p. 9 | “If we extend the X line below point XIX, we find that the present assessment predicts that the metastable equilibrium VII should occur at 415 ~ and -105.6 kcal/mole 02.” |
 | Chemical potential; _printed: oxygen potential_ | -63.4 kcal/mole O2 | 1273.15 |  | experimental | [2] Hillert 1990 | p. 9 | “Edstrrm E4mdetermined one point on line X at 1000 ~ to be -63.4 kcal/mole 02 and Reeve and Gregoryc2s\] determined two more points on the line.” |
 | Chemical potential; _printed: oxygen potential_ | -74.2 kcal/mole O2 | 1372.15 |  | model | [2] Hillert 1990 | p. 9 | “The present assessment yields 1099 ~ and -74.2 kcal/mole 02 but predicts that this invariant equilibrium is metastable.” |
 | Chemical potential; _printed: oxygen potential_ | -75.1 kcal/mole O2 | 1383.15 |  | model | [2] Hillert 1990 | p. 9 | “Turkdogant3~ predicted that the univariant lines S, T, and U should intersect at an invariant point X at 1110 ~ and -75.1 kcal/mole 02 and represent a stable equilibrium.” |

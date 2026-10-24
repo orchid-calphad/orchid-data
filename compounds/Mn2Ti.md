@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Mn2Ti.html · Markdown: https://
 
 6 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 3); experimental median -28.92 kJ/mol-atom (n = 1); Materials Project -26.259 kJ/mol-atom (mp-aaaaacwz); OQMD -27.684 kJ/mol-atom (oqmd-17696).
 
-Systems: [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html)
+Systems: [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of Mn2Ti reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | experimental |  | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
-| -28.4 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
-| -27.22 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
-| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Fe–Mn–Ti](https://data.orchid-project.org/systems/FE-MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
+| -28.92 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | experimental |  | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 298.15 | model | CALPHAD | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 5 |  |
+| -28.4 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
+| -27.22 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022 | Table 4, p. 6, row 1 |  |
+| -26.714 kJ/mol-atom | C14 Laves TiMn2 | 0 | DFT | ab initio | [Mn–Ti](https://data.orchid-project.org/systems/MN-TI.html) | [1] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Mn2Ti
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28.92 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.4 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -27.22 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -28.92 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.4 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -27.22 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -26.714 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 

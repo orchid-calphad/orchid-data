@@ -1,10 +1,10 @@
 # O–Pm system
 
-> O–Pm system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pm system: 5 accepted literature values (crystal structure 3, formation 1, heat capacity / entropy / enthalpy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PM.html · Markdown: https://data.orchid-project.org/systems/O-PM.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+5 accepted literature values from 1 paper(s) (model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PM.json) · [CSV](https://data.orchid-project.org/systems/O-PM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PM) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PM.html) · [Markdown](https://data.orchid-project.org/systems/O-PM.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 1 |
+| crystal structure | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PM.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PM.json)
 
@@ -31,6 +33,26 @@ Table: Enthalpies of formation, O–Pm system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Pm2O3 | [Pm2O3](https://data.orchid-project.org/compounds/Pm2O3.html) | -362.2 kJ/mol-atom | 298.15 | model | -370.126 (mp-aaabfnkr) | -354.74 (oqmd-16546) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+
+## Other properties
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, O–Pm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 155.6 unknown | 298.15 | C-Pm2O3; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 37 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, O–Pm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 49.96 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
+| lattice molar volume | 45.697 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
+| lattice molar volume | 44.886 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Pm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 7 |  |
 
 ## Sources
 

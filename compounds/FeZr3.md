@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/FeZr3.html · Markdown: https://data.orchid-project.org/compounds/FeZr3.md
 
-13 accepted literature formation-enthalpy value(s) (model 9, DFT 4); Materials Project -10.562 kJ/mol-atom (mp-aaaabuef); OQMD -11.724 kJ/mol-atom (oqmd-18349).
+13 accepted literature formation-enthalpy value(s) (model 8, DFT 5); Materials Project -10.562 kJ/mol-atom (mp-aaaabuef); OQMD -11.724 kJ/mol-atom (oqmd-18349).
 
-Systems: [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) · [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
+Systems: [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html)
 
 ## Literature values
 
@@ -20,13 +20,13 @@ Table: Enthalpy of formation of FeZr3 reported in the literature (13)
 | -16.121 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001 | Table 2, p. 5, row 31 |  |
 | -13.1575 kJ/mol-atom | FeZr3 | 298.15 | model | Optimization | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [1] Servant 1995 | Table 2, p. 3, row 21 |  |
 | -13.157 kJ/mol-atom | FeZr3 | 298.15 | model | Calculation | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [2] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 30 |  |
-| -11.77 kJ/mol (basis unstated) | FeZr3 | 0 | model |  | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
-| 13158 not printed | FeZr3 | 298.15 | model | Calphad | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |
-| 13158 not printed | FeZr3 | 298.15 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24 |  |
-| -14.23 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 46 |  |
-| 1.26 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 45 |  |
-| 8.14 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 44 |  |
-| 11.61 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Nb–Zr](https://data.orchid-project.org/systems/FE-NB-ZR.html) | [3] Lu 2017 | Table 2, p. 3, row 48 |  |
+| 13158 not printed | FeZr3 | 298.15 | model | Calphad | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |
+| 13158 not printed | FeZr3 | 298.15 | model |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [3] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24 |  |
+| -14.23 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 46 |  |
+| -11.77 kJ/mol (basis unstated) | FeZr3 | 0 | DFT |  | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
+| 1.26 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 45 |  |
+| 8.14 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 44 |  |
+| 11.61 kJ/mol (basis unstated) | FeZr3 | 0 | DFT | VASP | [Fe–Zr](https://data.orchid-project.org/systems/FE-ZR.html) | [4] Lu 2017 | Table 2, p. 3, row 48 |  |
 
 ### Uncertainty budget
 
@@ -36,19 +36,19 @@ Table: Uncertainty budget of the literature values of FeZr3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -20 | kJ/mol-atom |  | 1.250e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17 | kJ/mol-atom |  | 1.250e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.121 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.1575 | kJ/mol-atom |  | 1.250e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.157 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.77 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20 | kJ/mol-atom |  | 1.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17 | kJ/mol-atom |  | 1.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.121 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.1575 | kJ/mol-atom |  | 1.250e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.157 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 13158 | not printed |  | 0.05 | unit 'not printed' not convertible to kJ/mol-atom |  |  |  | unit 'not printed' not convertible to kJ/mol-atom |
 | 13158 | not printed |  | 0.5 | unit 'not printed' not convertible to kJ/mol-atom |  |  |  | unit 'not printed' not convertible to kJ/mol-atom |
-| 13158 | not printed |  | 0.5 | unit 'not printed' not convertible to kJ/mol-atom |  |  |  | unit 'not printed' not convertible to kJ/mol-atom |
-| -14.23 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 1.26 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 8.14 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 11.61 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -14.23 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -11.77 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| 1.26 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| 8.14 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| 11.61 | kJ/mol (basis unstated) |  | 0.005 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
 
 ## DFT formation energies
 
@@ -59,7 +59,7 @@ Table: DFT formation energy of FeZr3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabuef | -10.562 | -0.109468 | Cmcm | 0 | 0 | no |
-| OQMD | oqmd-18349 | -11.724 | -0.121511 | Cmcm | 0 | 0 | no |
+| OQMD | oqmd-18349 | -11.724 | -0.121511 | Cmcm | -0 | -0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
@@ -67,8 +67,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 1. C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995). [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3)
 2. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
-3. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
-4. Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013). [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061)
+3. Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013). [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061)
+4. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Cu–P–Sn system
 
-> Cu–P–Sn system: 38 accepted literature values (invariant reaction 38) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–P–Sn system: 36 accepted literature values (invariant reaction 36) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-P-SN.html · Markdown: https://data.orchid-project.org/systems/CU-P-SN.md
 
-38 accepted literature values from 1 paper(s) (experimental 16, model 22); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 15, model 21); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-P-SN.json) · [CSV](https://data.orchid-project.org/systems/CU-P-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-P-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-P-SN.html) · [Markdown](https://data.orchid-project.org/systems/CU-P-SN.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 22 |
+| experimental | 15 |
+| model | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 38 |
+| invariant reaction | 36 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–P–Sn system (38)
+Table: Invariant reactions reported in the literature for the Cu–P–Sn system (36)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -45,7 +45,6 @@ Table: Invariant reactions reported in the literature for the Cu–P–Sn system
 | 901.95 | β -> Liq. + ε | Liq.: Sn 0.4636; Liquid: Sn 0.4636 | model | [1] Oikawa 2024 | Table 3, p. 8, row 4 |  |
 | 901.25 | Liq. + ε -> Cu3P + ζ | Liq.: P 0.0908, Sn 0.1358; Liquid: P 0.0908, Sn 0.1358 | model | [1] Oikawa 2024 | Table 3, p. 8, row 32 |  |
 | 899.55 | Liq. -> β + ζ + Cu3P | Liq.: P 0.0904, Sn 0.1307; Liquid: P 0.0904, Sn 0.1307 | model | [1] Oikawa 2024 | Table 3, p. 8, row 31 |  |
-| 863.95 | Liq. + CuP2 -> Cu2P7 | Liq.: P 0.9996; Liquid: P 0.9996 | model | [1] Oikawa 2024 | Table 3, p. 8, row 19 |  |
 | 852.75 | Liq. -> Cu2P7 + P(Red) | Liq.: P 0.9997; Liquid: P 0.9997 | model | [1] Oikawa 2024 | Table 3, p. 8, row 20 |  |
 | 850.85 | Liq.2 -> Liq.1 + P(Red) | Liquid: P 0.1775 | model | [1] Oikawa 2024 | Table 3, p. 8, row 26 |  |
 | 837.15 | Liq.1 + Liq.2 -> Sn4P3 | Liquid: P 0.33 | experimental | [1] Oikawa 2024; _cites Zavrazhnov 2018_ [doi](https://doi.org/10.1007/s10973-018-7123-0) | Table 3, p. 8, row 24 |  |
@@ -64,7 +63,6 @@ Table: Invariant reactions reported in the literature for the Cu–P–Sn system
 | 501.25 | Liq. + Cu3P1 -> βSn + CuP2 | Liq.: P 0.0046, Sn 0.9736; Liquid: P 0.0046, Sn 0.9736 | model | [1] Oikawa 2024 | Table 3, p. 8, row 36 |  |
 | 500.55 | Liq. -> βSn + η + Cu3P | Liq.: P 0.0046, Sn 0.9711; Liquid: P 0.0046, Sn 0.9711 | model | [1] Oikawa 2024 | Table 3, p. 8, row 37 |  |
 | 500.15 | Liq. -> η + βSn | Liq.: Sn 0.972; Liquid: Sn 0.972 | experimental | [1] Oikawa 2024; _cites Hamasumi 1938_ [doi](https://doi.org/10.2320/jinstmet1937.2.4_147) | Table 3, p. 8, row 12 |  |
-| 498.15 | Liq. -> η + βSn | Liq.: Sn 9.985 (basis unresolved); Liquid: Sn 9.985 (basis unresolved) | experimental | [1] Oikawa 2024; _cites Bauer 1923_ | Table 3, p. 8, row 11 |  |
 
 ## Sources
 

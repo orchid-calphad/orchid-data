@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ca2Sb.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -91.218 kJ/mol-atom (mp-aaaaaort); OQMD -86.636 kJ/mol-atom (oqmd-1641).
 
-Systems: [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html)
+Systems: [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ca2Sb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -76.94 kJ/mol-atom | Ca2Sb | 298.15 | model |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 8 |  |
-| -86.47 kJ/mol-atom | Ca2Sb | 0 | DFT |  | [Ca–In–Sb](https://data.orchid-project.org/systems/CA-IN-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 7 |  |
+| -76.94 kJ/mol-atom | Ca2Sb | 298.15 | model |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 8 |  |
+| -86.47 kJ/mol-atom | Ca2Sb | 0 | DFT |  | [Ca–Sb](https://data.orchid-project.org/systems/CA-SB.html) | [1] Qin 2015 | Table 3, p. 3, row 7 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ca2Sb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -76.94 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -86.47 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -76.94 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -86.47 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga7Pd3.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -42.994 kJ/mol-atom (mp-aaackynp); OQMD -42.648 kJ/mol-atom (oqmd-22139).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga7Pd3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -61.4 kJ/mol-atom | Pd3Ga7 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 39 |  |
-| -60 kJ/mol-atom | Pd3Ga7 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 38 |  |
+| -61.4 kJ/mol-atom | Pd3Ga7 | 298.15 | model |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 39 |  |
+| -60 kJ/mol-atom | Pd3Ga7 | 298.15 | model |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 38 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ga7Pd3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -61.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -61.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

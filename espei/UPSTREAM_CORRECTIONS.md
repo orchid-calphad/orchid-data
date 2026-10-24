@@ -180,6 +180,26 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-IGHKVCH3WK.e8a495 | ORC-IGHKVCH3WK.e8a495 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r09#equilibrium_property |
 | ORC-NEIOD6VMFX.382bad | ORC-NEIOD6VMFX.382bad | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r10#equilibrium_property |
 | ORC-DJDAA52VRM.636ac4 | ORC-DJDAA52VRM.636ac4 | doi:10.1007/s11661-005-0133-0/p5/tab-iv/r45#equilibrium_property |
+| ORC-M2X72TAQEQ.d019cc | ORC-M2X72TAQEQ.d019cc | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
+| ORC-M2X72TAQEQ.ecef70 | ORC-M2X72TAQEQ.ecef70 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
+| ORC-M2X72TAQEQ.8a1e5a | ORC-M2X72TAQEQ.8a1e5a | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
+| ORC-M2X72TAQEQ.ad4d3f | ORC-M2X72TAQEQ.ad4d3f | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
+| ORC-IAB2LXFNOY.55268e | ORC-IAB2LXFNOY.55268e | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r02#equilibrium_property |
+| ORC-GEAL46TYRL.c8a88f | ORC-GEAL46TYRL.c8a88f | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r06#equilibrium_property |
+| ORC-ZOPMVSLEXO.8d90bb | ORC-ZOPMVSLEXO.8d90bb | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-ZOPMVSLEXO.0e91fe | ORC-ZOPMVSLEXO.0e91fe | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-ZOPMVSLEXO.bce74c | ORC-ZOPMVSLEXO.bce74c | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-ZOPMVSLEXO.e80675 | ORC-ZOPMVSLEXO.e80675 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-ZOPMVSLEXO.b07d0a | ORC-ZOPMVSLEXO.b07d0a | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-ZOPMVSLEXO.47e6a8 | ORC-ZOPMVSLEXO.47e6a8 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r07#equilibrium_property |
+| ORC-COMWLLIR2L.4ebb85 | ORC-COMWLLIR2L.4ebb85 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r21#equilibrium_property |
+| ORC-RBFFWS6ZQH.8da9a7 | ORC-RBFFWS6ZQH.8da9a7 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r22#equilibrium_property |
+| ORC-VTB72Y5OXM.d37d98 | ORC-VTB72Y5OXM.d37d98 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r23#equilibrium_property |
+| ORC-VTB72Y5OXM.6dd106 | ORC-VTB72Y5OXM.6dd106 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r23#equilibrium_property |
+| ORC-VTB72Y5OXM.690228 | ORC-VTB72Y5OXM.690228 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r23#equilibrium_property |
+| ORC-VTB72Y5OXM.0759bb | ORC-VTB72Y5OXM.0759bb | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r23#equilibrium_property |
+| ORC-M2X72TAQEQ.c95868 | ORC-M2X72TAQEQ.c95868 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
+| ORC-M2X72TAQEQ.0c03a2 | ORC-M2X72TAQEQ.0c03a2 | doi:10.1016/j.calphad.2015.12.007/p38/tab-4/r24#equilibrium_property |
 | ORC-TPSEVCXJ6T.cda139 | ORC-TPSEVCXJ6T.cda139 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r01#equilibrium_property |
 | ORC-RL4XI5ZJPE.0dfd61 | ORC-RL4XI5ZJPE.0dfd61 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r03#equilibrium_property |
 | ORC-LSLZ6CGKOQ.67d367 | ORC-LSLZ6CGKOQ.67d367 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r05#equilibrium_property |
@@ -200,7 +220,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-ILKXXSNCXH.2c30af | ORC-ILKXXSNCXH.2c30af | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r04#equilibrium_property |
 | ORC-3XQQHMM7AK.14b409 | ORC-3XQQHMM7AK.14b409 | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r15#equilibrium_property |
 | ORC-Y34T3BZUQO.83a804 | ORC-Y34T3BZUQO.83a804 | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r30#equilibrium_property |
-| ORC-ERUWHO6TNF.7818e1 | ORC-ERUWHO6TNF.7818e1 | doi:10.1016/j.calphad.2007.04.003/p9/tab-5/r20#equilibrium_property |
 | ORC-JDRVVHMRD6.133e1a | ORC-JDRVVHMRD6.133e1a | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r02#equilibrium_property |
 | ORC-VVTHY5FPN7.3c6009 | ORC-VVTHY5FPN7.3c6009 | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r05#equilibrium_property |
 | ORC-URCD42J6HC.67e42b | ORC-URCD42J6HC.67e42b | doi:10.1016/j.jnucmat.2017.08.016/p6/tab-8/r08#equilibrium_property |
@@ -341,8 +360,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-DJCHWQNF3R.58497e | ORC-DJCHWQNF3R.58497e | doi:10.1007/s11663-998-0113-z/p2/tab-i/r09#equilibrium_property |
 | ORC-3DFCHE5IR2.552874 | ORC-3DFCHE5IR2.552874 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
 | ORC-NUHO6HHWO3.48b29d | ORC-NUHO6HHWO3.48b29d | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
-| ORC-3DFCHE5IR2.0d65b1 | ORC-3DFCHE5IR2.0d65b1 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r21#equilibrium_property |
-| ORC-NUHO6HHWO3.8dcb77 | ORC-NUHO6HHWO3.8dcb77 | doi:10.1016/j.calphad.2014.01.003/p4/tab-3/r22#equilibrium_property |
 | ORC-STB5INE33U.082a43 | ORC-STB5INE33U.082a43 | doi:10.1361/105497103770330730/p3/tab-3/r01#equilibrium_property |
 | ORC-CN3ILEUCE2.2aaf0a | ORC-CN3ILEUCE2.2aaf0a | doi:10.1361/105497103770330730/p3/tab-3/r02#equilibrium_property |
 | ORC-SB3XW4RX7Z.0a16cb | ORC-SB3XW4RX7Z.0a16cb | doi:10.1361/105497103770330730/p3/tab-3/r03#equilibrium_property |
@@ -560,7 +577,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-ATWHHONLGM.d93edb | ORC-ATWHHONLGM.d93edb | doi:10.1007/s10973-016-5380-3/p5/tab-2/r19#equilibrium_property |
 | ORC-XIHXMIOGKA.09fc75 | ORC-XIHXMIOGKA.09fc75 | doi:10.1007/s10973-016-5380-3/p5/tab-2/r23#equilibrium_property |
 | ORC-3NOZAMJ6QA.aa656c | ORC-3NOZAMJ6QA.aa656c | doi:10.1007/s10973-016-5380-3/p5/tab-2/r05#equilibrium_property |
-| ORC-FTEQRLKT76.6d8dd4 | ORC-FTEQRLKT76.6d8dd4 | doi:10.1361/105497198770342238/p1/tab-1/r09#equilibrium_property |
 | ORC-GSPOWJBXIK.0d6e4f | ORC-GSPOWJBXIK.0d6e4f | doi:10.1361/105497198770342238/p1/tab-1/r19#equilibrium_property |
 | ORC-DV5UE3EBHF.3a34d8 | ORC-DV5UE3EBHF.3a34d8 | doi:10.1361/105497198770342238/p1/tab-1/r06#equilibrium_property |
 | ORC-TGORSEP3OM.218b0c | ORC-TGORSEP3OM.218b0c | doi:10.1361/105497198770342238/p1/tab-1/r20#equilibrium_property |
@@ -583,8 +599,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-KGEHUOP3SH.248101 | ORC-KGEHUOP3SH.248101 | sha256:fc2eb898db6c0244/p8/tab-v/r16#equilibrium_property |
 | ORC-IOZPT2WUPA.697e74 | ORC-IOZPT2WUPA.697e74 | sha256:fc2eb898db6c0244/p8/tab-v/r20#equilibrium_property |
 | ORC-IRVRKYRVYA.a76274 | ORC-IRVRKYRVYA.a76274 | sha256:fc2eb898db6c0244/p8/tab-v/r17#equilibrium_property |
-| ORC-LQVRUTMRZB.80a30c | ORC-LQVRUTMRZB.80a30c | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r06#equilibrium_property |
-| ORC-XVHMK36SNQ.1a8a1b | ORC-XVHMK36SNQ.1a8a1b | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r07#equilibrium_property |
 | ORC-MBFNTRXGAI.905300 | ORC-MBFNTRXGAI.905300 | doi:10.1016/j.calphad.2023.102541/p27/tab-1/r15#equilibrium_property |
 | ORC-YVLBOQ5WZM.2cc9d4 | ORC-YVLBOQ5WZM.2cc9d4 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r02#equilibrium_property |
 | ORC-2MDAMARU3A.3ab478 | ORC-2MDAMARU3A.3ab478 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r06#equilibrium_property |
@@ -618,8 +632,6 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-CYNYBUMDH2.8b7ddf | ORC-CYNYBUMDH2.8b7ddf | doi:10.1007/bf02667808/p6/tab-3/r05#equilibrium_property |
 | ORC-L4EOA2SNCV.5e5e86 | ORC-L4EOA2SNCV.5e5e86 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r27#equilibrium_property |
 | ORC-XPCVX2GVQA.e56f91 | ORC-XPCVX2GVQA.e56f91 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r28#equilibrium_property |
-| ORC-OYSX326MRK.e94686 | ORC-OYSX326MRK.e94686 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r41#equilibrium_property |
-| ORC-ZDYH7IJLFP.b81126 | ORC-ZDYH7IJLFP.b81126 | doi:10.1016/s0022-3115(00)00713-3/p17/tab-21/r42#equilibrium_property |
 | ORC-CNWR63A4F6 | ORC-CNWR63A4F6 | doi:10.1007/bf02817278/p3/tab-v/r01#phase_region_vertex_set |
 | ORC-CTVARWU3KT | ORC-CTVARWU3KT | doi:10.1007/bf02817278/p3/tab-v/r06#phase_region_vertex_set |
 | ORC-3WYM3QJA22 | ORC-3WYM3QJA22 | doi:10.1007/bf02817278/p3/tab-v/r13#phase_region_vertex_set |
@@ -633,6 +645,13 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-34KYBMAMNH.bce292 | ORC-34KYBMAMNH.bce292 | sha256:d721a3a5fe63848f/p2/tab-1/r41#equilibrium_property |
 | ORC-VGPFFM6HKY.31582e | ORC-VGPFFM6HKY.31582e | sha256:d721a3a5fe63848f/p2/tab-1/r50#equilibrium_property |
 | ORC-XNBGYI6FKA.1661c8 | ORC-XNBGYI6FKA.1661c8 | sha256:d721a3a5fe63848f/p2/tab-1/r54#equilibrium_property |
+| ORC-AYWJZHYTRS.aeb0ce | ORC-AYWJZHYTRS.aeb0ce | sha256:8df6e975c3b6dbea/p3/tab-2/r10#equilibrium_property |
+| ORC-3KKWBH2XDZ.b64d86 | ORC-3KKWBH2XDZ.b64d86 | sha256:8df6e975c3b6dbea/p3/tab-2/r15#equilibrium_property |
+| ORC-M5W5YRWCXR.cc9321 | ORC-M5W5YRWCXR.cc9321 | sha256:8df6e975c3b6dbea/p3/tab-2/r11#equilibrium_property |
+| ORC-5J5H3KGZYE.5184e3 | ORC-5J5H3KGZYE.5184e3 | sha256:8df6e975c3b6dbea/p3/tab-2/r23#equilibrium_property |
+| ORC-RHK3CZSOYD.f4ddb9 | ORC-RHK3CZSOYD.f4ddb9 | sha256:8df6e975c3b6dbea/p3/tab-2/r24#equilibrium_property |
+| ORC-ZQPMERZ45A.425703 | ORC-ZQPMERZ45A.425703 | sha256:8df6e975c3b6dbea/p3/tab-2/r25#equilibrium_property |
+| ORC-W37THFZ6PU.4c9892 | ORC-W37THFZ6PU.4c9892 | sha256:8df6e975c3b6dbea/p3/tab-2/r26#equilibrium_property |
 | ORC-SUPC2RDQAU.ccc1a6 | ORC-SUPC2RDQAU.ccc1a6 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r06#equilibrium_property |
 | ORC-VXJZM6BOO7.dab2f9 | ORC-VXJZM6BOO7.dab2f9 | doi:10.1179/mst.1986.2.6.520/p4/tab-1/r08#equilibrium_property |
 | ORC-OB2DGUQYZ2.91a64a | ORC-OB2DGUQYZ2.91a64a | doi:10.1016/j.jallcom.2022.168361/p6/tab-3/r03#equilibrium_property |
@@ -1116,6 +1135,7 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-4EKSADAPCN.24065b | ORC-4EKSADAPCN.24065b | doi:10.1007/s10973-014-4189-1/p4/tab-3/r33#equilibrium_property |
 | ORC-PEUZNTZ35W.4e4ad4 | ORC-PEUZNTZ35W.4e4ad4 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r03#equilibrium_property |
 | ORC-KOSAEYIXBG.3e618d | ORC-KOSAEYIXBG.3e618d | doi:10.1007/s10973-014-4189-1/p4/tab-3/r07#equilibrium_property |
+| ORC-U2SOP75IJQ.49f7ea | ORC-U2SOP75IJQ.49f7ea | doi:10.1007/s10973-014-4189-1/p4/tab-3/r09#equilibrium_property |
 | ORC-E3ZO53RNRF.1fb2a3 | ORC-E3ZO53RNRF.1fb2a3 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r14#equilibrium_property |
 | ORC-PEMOQUEAL5.9a3033 | ORC-PEMOQUEAL5.9a3033 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r17#equilibrium_property |
 | ORC-Q3DAXC6QZG.6b2306 | ORC-Q3DAXC6QZG.6b2306 | doi:10.1007/s10973-014-4189-1/p4/tab-3/r21#equilibrium_property |
@@ -1264,8 +1284,6 @@ Composition copied from another table row, or a per-formula label on a solution 
 | ORCHID id | corpus dataset |
 |---|---|
 | ORC-2CEFS6VVEV.f2095c | general/espei/SnSe-96Feu-LB/hmr-08.json |
-| ORC-5UBITMWKOB.50a5a9 | general/espei/CaSi-03Gro/hmr-03.json |
-| ORC-5UBITMWKOB.771bfa | general/espei/CaSi-03Gro/hmr-03.json |
 | ORC-6N2AN7HUCW.19aede | general/espei/CaSi-03Gro/hmr-06.json |
 | ORC-6N2AN7HUCW.3066cd | general/espei/CaSi-03Gro/hmr-06.json |
 | ORC-6N2AN7HUCW.51fc9a | general/espei/CaSi-03Gro/hmr-06.json |
@@ -1277,8 +1295,6 @@ Composition copied from another table row, or a per-formula label on a solution 
 | ORC-A4XBUGH2M5.d499f5 | general/espei-model/ScSi-15Qin/hmr-model-00.json |
 | ORC-ATSWCPLHI3.ae4c69 | general/espei/NiSi-03Tok/hmr-02.json |
 | ORC-CFKKFJWLEZ.044e9f | general/espei/NiSc-15Zhu/hmr-00.json |
-| ORC-DSIDS2MAX2.b484d4 | general/espei-model/CaSi-94Ang-LB/hmr-model-00.json |
-| ORC-DSIDS2MAX2.da25fb | general/espei-model/CaSi-94Ang-LB/hmr-model-00.json |
 | ORC-DYBIVMPQDE.50f636 | general/espei/NiSi-03Tok/hmr-00.json |
 | ORC-DYBIVMPQDE.730676 | general/espei/NiSi-03Tok/hmr-00.json |
 | ORC-DYBIVMPQDE.879c78 | general/espei/NiSi-03Tok/hmr-00.json |

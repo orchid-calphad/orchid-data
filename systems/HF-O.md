@@ -1,10 +1,10 @@
 # Hf–O system
 
-> Hf–O system: 23 accepted literature values (mixing / partial 18, phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–O system: 15 accepted literature values (crystal structure 10, phase transition 3, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-O.html · Markdown: https://data.orchid-project.org/systems/HF-O.md
 
-23 accepted literature values from 1 paper(s) (experimental 5, DFT 18); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+15 accepted literature values from 1 paper(s) (experimental 5, DFT 10); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-O.json) · [CSV](https://data.orchid-project.org/systems/HF-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-O/HfO-06Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-O.html) · [Markdown](https://data.orchid-project.org/systems/HF-O.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| DFT | 18 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 2 |
 | phase transition | 3 |
-| mixing / partial | 18 |
+| crystal structure | 10 |
 
 ## Calculated phase diagrams
 
@@ -71,30 +71,22 @@ Table: Phase transition, Hf–O system
 | Phase transition | 2793 K | 2793 | tetragonal → cubic | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
 | Phase transition | 3073 K | 3073 | cubic → liquid | experimental | [1] Shin 2006 | p. 8 | “transformation temperatures for monoclinic → tetragonal → cubic → liquid are 2100 K, 2793 K, and 3073 K, respectively.” |
 
-### Mixing / partial (18)
+### Crystal structure (10)
 
-Table: Mixing / partial, Hf–O system
+Table: Crystal structure, Hf–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: ΔH^mix_ | -61.928 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 1 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -61.2715 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -107.768 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -108.075 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 4 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -144.356 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -107.818 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 6 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -146.428 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109.187 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 5 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109.481 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH^mix_ | -109.23 kJ/mol-atom | 0 | α-Hf SQS; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 6, p. 7, row 7 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -176.866 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 12 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -181.908 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 16 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -307.1 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 15 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -311.16 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 13 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -139.345 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 10 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -180.37 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 14 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -227.299 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 9 |  |
-| Enthalpy of mixing; _printed: ΔHmix_ | -315.52 kJ/mol-atom | 0 | β-Hf; _alloy: O 0_ | DFT | [1] Shin 2006 | Table 7, p. 7, row 11 |  |
+| Lattice a | 5.135 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
+| Lattice a | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
+| Lattice a | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
+| Lattice b | 5.194 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
+| Lattice b | 3.225 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
+| Lattice b | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
+| Lattice c | 5.314 Å | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
+| Lattice c | 5.15 Å | 0 | α-Hf (HfO0.5) | DFT | [1] Shin 2006 | Table 1, p. 3, row 4 |  |
+| Lattice c | 4.364 Å | 0 | β-Hf (HfO3) | DFT | [1] Shin 2006 | Table 1, p. 3, row 5 |  |
+| lattice beta | 99.56 ° | 0 | Monoclinic (HfO2); _alloy: O 0.666667_ | DFT | [1] Shin 2006 | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

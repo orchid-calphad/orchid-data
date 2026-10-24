@@ -12,8 +12,8 @@ Table: Phases of the Ba–Ni system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ba-ni-bcc-a2); _phase:ba-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1000 K, x(Ni) 0–0 | 17 | 1 |
-| [FCC_A1](#phase-ba-ni-fcc-a1); _phase:ba-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.21 K, x(Ni) 1–1 | 17 | 1 |
+| [BCC_A2](#phase-ba-ni-bcc-a2); _phase:ba-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1000 K, x(Ni) 0–0 | 15 | 1 |
+| [FCC_A1](#phase-ba-ni-fcc-a1); _phase:ba-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.21 K, x(Ni) 1–1 | 15 | 1 |
 | [HCP_A3](#phase-ba-ni-hcp-a3); _phase:ba-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 7 | 1 |
 | [LIQUID](#phase-ba-ni-liquid); _phase:ba-ni:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 873–2500 K, x(Ni) 0–1 | 0 | 1 |
 
@@ -22,7 +22,7 @@ Table: Phases of the Ba–Ni system (4)
 - Id: `phase:ba-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1000 K, x(Ni) 0–0
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ni:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:ba-ni:bcc-a2  
@@ -49,7 +49,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ba-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2499.21 K, x(Ni) 1–1
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ni:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:ba-ni:fcc-a1  

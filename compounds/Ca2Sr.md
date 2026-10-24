@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ca2Sr.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (unspecified 1); OQMD 1.213 kJ/mol-atom (oqmd-1450029).
 
-Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
+Systems: [Ca–Sr](https://data.orchid-project.org/systems/CA-SR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ca2Sr reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 2.5445 kJ/mol-atom | Ca2Sr-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 18 |  |
+| 2.5445 kJ/mol-atom | Ca2Sr-C14 | 0 | unspecified |  | [Ca–Sr](https://data.orchid-project.org/systems/CA-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 18 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ca2Sr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 2.5445 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 2.5445 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -34,7 +34,7 @@ Table: DFT formation energy of Ca2Sr
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-1450029 | 1.213 | 0.012574 | Pnma | 1.213 | 0.0126 | yes |
+| OQMD | oqmd-1450029 | 1.213 | 0.012574 | Pnma | 1.2132 | 0.0126 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

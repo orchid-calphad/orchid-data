@@ -1,10 +1,10 @@
 # Fe–U system
 
-> Fe–U system: 87 accepted literature values (formation 34, invariant reaction 34, crystal structure 12, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–U system: 78 accepted literature values (formation 34, invariant reaction 34, phase transition 5, crystal structure 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-U.html · Markdown: https://data.orchid-project.org/systems/FE-U.md
 
-87 accepted literature values from 2 paper(s) (experimental 39, model 34, unspecified 14); 4 calculated phase diagram(s).
+78 accepted literature values from 2 paper(s) (experimental 39, model 34, unspecified 5); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-U.json) · [CSV](https://data.orchid-project.org/systems/FE-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-U/FeU-03Cha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-U.html) · [Markdown](https://data.orchid-project.org/systems/FE-U.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 39 |
 | model | 34 |
-| unspecified | 14 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 5 |
 | formation | 34 |
 | activity / EMF / Gibbs energy | 2 |
-| crystal structure | 12 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -208,7 +208,7 @@ Table: Activity / EMF / Gibbs energy, Fe–U system
 | Gibbs energy; _printed: ⌬G0f (FeU6)_ | -4.43 unspecified ± 0.86 | 998 |  | experimental | [1] Chatain 2003 | p. 3 | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
 | Gibbs energy; _printed: ⌬G0f (Fe2U)_ | -17.6 unspecified ± 1.13 | 1501 |  | experimental | [1] Chatain 2003 | p. 3 | “⌬G0f (Fe2U) (kJ/mol) ⳱ (-17.6 ± 1.13) kJ/mol at 1501 K ⌬G0f (FeU6) (kJ/mol) ⳱ (-4.43 ± 0.86) kJ/mol at 998 K” |
 
-### Crystal structure (12)
+### Crystal structure (3)
 
 Table: Crystal structure, Fe–U system
 
@@ -216,16 +216,7 @@ Table: Crystal structure, Fe–U system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 7.055 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 4 |  |
 | Lattice a | 10.2499 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 2.8665 Å | 298.15 | αFe; _alloy: U 0_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 2.8537 Å | 298.15 | αU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 6 |  |
-| Lattice a | 10.759 Å | 298.15 | βU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 3.6467 Å | 298.15 | γFe; _alloy: U 0_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.524 Å | 298.15 | γU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 8 |  |
-| Lattice a | 2.9315 Å | 298.15 | δFe; _alloy: U 0_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 3 |  |
-| Lattice b | 5.8695 Å | 298.15 | αU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 6 |  |
 | Lattice c | 5.25 Å | 298.15 | UNKNOWN | unspecified | [1] Chatain 2003; _cites Villars 1991_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 4.9548 Å | 298.15 | αU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 6 |  |
-| Lattice c | 5.656 Å | 298.15 | βU; _alloy: U 1_ | unspecified | [1] Chatain 2003; _cites David_ | Table 2, p. 3, row 7 |  |
 
 ## Sources
 

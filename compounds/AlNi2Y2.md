@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AlNi2Y2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -54.1 | kJ/mol-atom | 0.9 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -54.8 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.1 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -54.1 | kJ/mol-atom | 0.9 | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -54.8 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -54.1 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

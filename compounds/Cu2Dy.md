@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu2Dy.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -20.4 kJ/mol-atom (n = 2); Materials Project -26.052 kJ/mol-atom (mp-aaacizol); OQMD -26.104 kJ/mol-atom (oqmd-1435876).
 
-Systems: [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html)
+Systems: [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Cu2Dy reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.4 kJ/mol-atom | Cu2Dy | 298.15 | experimental |  | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 7 |  |
-| -16.4 kJ/mol-atom | Cu2Dy | 298.15 | experimental |  | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 6 |  |
-| -27.9 kJ/mol-atom | Cu2Dy | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 4 |  |
-| -26.1 kJ/mol-atom | Cu2Dy | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 5 |  |
+| -24.4 kJ/mol-atom | Cu2Dy | 298.15 | experimental |  | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009; _cites Meschel 2005_ [doi](https://doi.org/10.1016/j.jallcom.2004.08.062) | Table 2, p. 4, row 7 |  |
+| -16.4 kJ/mol-atom | Cu2Dy | 298.15 | experimental |  | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 6 |  |
+| -27.9 kJ/mol-atom | Cu2Dy | 0 | DFT | ab initio | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009 | Table 2, p. 4, row 4 |  |
+| -26.1 kJ/mol-atom | Cu2Dy | 0 | DFT | ab initio | [Cu–Dy](https://data.orchid-project.org/systems/CU-DY.html) | [1] Palumbo 2009 | Table 2, p. 4, row 5 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Cu2Dy
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -16.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -27.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -26.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -16.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -27.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -26.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of Cu2Dy
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacizol | -26.052 | -0.27001 | Imma | 0 | 0 | no |
-| OQMD | oqmd-1435876 | -26.104 | -0.270545 | Imma | 0.098 | 0.001 | yes |
+| OQMD | oqmd-1435876 | -26.104 | -0.270545 | Imma | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

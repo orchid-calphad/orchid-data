@@ -18,11 +18,11 @@ Table: Phases of the Al–Co system (14)
 | [Y_AL13CO4](#phase-al-co-al13co4-y); _phase:al-co:al13co4-y_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1410.1 K, x(Co) 0.245–0.245 | 10 | 4 |
 | [AL3CO](#phase-al-co-al3co); _phase:al-co:al3co_ |  | needs_review | stable in 13 of 13 calculated diagram(s): 300–1434.27 K, x(Co) 0.25–0.255 | 18 | 13 |
 | [AL5CO2_D811](#phase-al-co-al5co2-d811); _phase:al-co:al5co2-d811_ | Al5Co2 · D8_11 · hP28 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1464.6 K, x(Co) 0.28332–0.28571 | 22 | 13 |
-| [AL9CO2](#phase-al-co-al9co2); _phase:al-co:al9co2_ | Al9Co2 · mP22 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 13 of 13 calculated diagram(s): 300–1245.65 K, x(Co) 0.18182–0.18182 | 4 | 13 |
-| [BCC_A2](#phase-al-co-bcc-a2); _phase:al-co:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 24 calculated diagram(s) | 0 | 24 |
+| [AL9CO2](#phase-al-co-al9co2); _phase:al-co:al9co2_ | Al9Co2 · mP22 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 13 of 13 calculated diagram(s): 300–1245.65 K, x(Co) 0.18182–0.18182 | 6 | 13 |
+| [BCC_A2](#phase-al-co-bcc-a2); _phase:al-co:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 13 calculated diagram(s) | 0 | 24 |
 | [B2_BCC](#phase-al-co-bcc-b2); _phase:al-co:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1959.19 K, x(Co) 0.44687–0.7748 | 25 | 13 |
 | [FCC_4SL](#phase-al-co-fcc-4sl); _phase:al-co:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1767.99 K, x(Co) 0–1 | 0 | 1 |
-| [FCC_A1](#phase-al-co-fcc-a1); _phase:al-co:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 15 calculated diagram(s): 300–2499.24 K, x(Co) 0–1 | 10 | 15 |
+| [FCC_A1](#phase-al-co-fcc-a1); _phase:al-co:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–2499.24 K, x(Co) 0–1 | 10 | 15 |
 | [L12_FCC](#phase-al-co-fcc-l12); _phase:al-co:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 590–1767.14 K, x(Co) 0.82878–0.99857 | 0 | 1 |
 | [HCP_A3](#phase-al-co-hcp-a3); _phase:al-co:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1766.08 K, x(Co) 0.99929–1 | 2 | 13 |
 | [LIQUID](#phase-al-co-liquid); _phase:al-co:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 929.67–2500 K, x(Co) 0–1 | 54 | 13 |
@@ -550,13 +550,13 @@ _cited as the source of values for this phase_
 - Structure: Al9Co2 · mP22 · P2_1/c (14); type `st:al9co2-mp22`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.8182, Co 0.1818
 - Stability: stable in 13 of 13 calculated diagram(s): 300–1245.65 K, x(Co) 0.18182–0.18182
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-co:al9co2)
 
-Names (17): _corpus: _corpus:phase:al-co:al9co2  
+Names (18): _corpus: _corpus:phase:al-co:al9co2  
 _mp: _mp:mp-aaaaayke  
 _oqmd: _oqmd:oqmd-10412  
-_paper: _paper:10.1016/j.intermet.2013.03.011:Al9Co2  
+_paper: _paper:10.1016/j.calphad.2017.09.007:Al9Co2, paper:10.1016/j.intermet.2013.03.011:Al9Co2  
 _tdb: _tdb:AlCo-13Ste.tdb:AL9CO2, tdb:AlCo-15Liu.tdb:AL9CO2, tdb:AlCo-16Liu-old.tdb:AL9CO2, tdb:AlCo-16Liu.tdb:AL9CO2, tdb:AlCo-17Wan.tdb:AL9CO2, tdb:AlCo-18Wan.tdb:AL9CO2, tdb:AlCo-18Wan2.tdb:AL9CO2, tdb:AlCo-19Ost.tdb:AL9CO2, tdb:AlCo-20Noo.tdb:AL9CO2, tdb:AlCo-22Wan.tdb:AL9CO2, tdb:AlCo-95Dup.tdb:AL9CO2, tdb:AlCo-98Dup-LB.tdb:AL9CO2, tdb:AlCo-98Dup-orig.tdb:AL9CO2  
 
 
@@ -657,11 +657,11 @@ Example references (9 of 9; assessments first):
 
 - [doi:10.1016/j.intermet.2013.03.011](https://doi.org/10.1016/j.intermet.2013.03.011) F. Stein, C. He, N. Dupin, Melting behaviour and homogeneity range of B2 CoAl and updated thermodynamic description of the Al–Co system, Intermetallics 39, 58-68 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10853-022-07109-8](https://doi.org/10.1007/s10853-022-07109-8) Jingjing Wang, Yu Zhang, Weisen Zheng, Xiao-Gang Lu, Thermodynamic and diffusion kinetic studies of the Co-Al–Fe system, J Mater Sci 57, 7343-7366 (2022).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007) Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016).  
-_assessment that models this phase_
-- [doi:10.1016/j.calphad.2017.09.007](https://doi.org/10.1016/j.calphad.2017.09.007) Peisheng Wang, Wei Xiong, Ursula R. Kattner, Carelyn E. Campbell, Eric A. Lass, Oleg Y. Kontsevoi et al., Thermodynamic re-assessment of the Al-Co-W system, Calphad 59, 112-130 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2018.03.008](https://doi.org/10.1016/j.calphad.2018.03.008) Y. Wang, G. Cacciamani, Calphad, 61, 198-210(2018).  
 _assessment that models this phase_
@@ -678,7 +678,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-co:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 24 calculated diagram(s)
+- Stability: not stable in 13 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-co:bcc-a2)
 
@@ -1065,7 +1065,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-co:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 13 of 15 calculated diagram(s): 300–2499.24 K, x(Co) 0–1
+- Stability: stable in 13 of 13 calculated diagram(s): 300–2499.24 K, x(Co) 0–1
 - Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-co:fcc-a1)
 

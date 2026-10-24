@@ -17,7 +17,7 @@ Table: Enthalpy of formation of CaO2 reported in the literature (4)
 | -219.667 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
 | -217.567 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
 | -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | model |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
-| -648.1 kJ/mol-atom | CaO2(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
+| -216.033 kJ/mol-atom | CaO2(cr) | 298.15 | DFT |  | [Ca–O](https://data.orchid-project.org/systems/CA-O.html) | [1] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of CaO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -219.667 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -217.567 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -216.033 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -648.1 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -219.667 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -217.567 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -216.033 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -216.033 | kJ/mol-atom |  | 0.01667 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

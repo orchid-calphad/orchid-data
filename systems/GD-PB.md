@@ -1,10 +1,10 @@
 # Gd–Pb system
 
-> Gd–Pb system: 40 accepted literature values (invariant reaction 27, phase transition 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Pb system: 38 accepted literature values (invariant reaction 27, phase transition 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-PB.html · Markdown: https://data.orchid-project.org/systems/GD-PB.md
 
-40 accepted literature values from 2 paper(s) (experimental 20, model 20); 2 calculated phase diagram(s).
+38 accepted literature values from 2 paper(s) (experimental 19, model 19); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-PB.json) · [CSV](https://data.orchid-project.org/systems/GD-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-PB/GdPb-13Cui.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-PB.html) · [Markdown](https://data.orchid-project.org/systems/GD-PB.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 20 |
+| experimental | 19 |
+| model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| phase transition | 13 |
+| phase transition | 11 |
 
 ## Calculated phase diagrams
 
@@ -108,7 +108,7 @@ Table: Invariant reactions reported in the literature for the Gd–Pb system (27
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (11)
 
 Table: Phase transition, Gd–Pb system
 
@@ -117,8 +117,6 @@ Table: Phase transition, Gd–Pb system
 | Phase transition | 296 K | 296 |  | experimental | [2] Cui 2013; _cites Demel 1969_ [doi](https://doi.org/10.1016/0022-3115%2869%2990130-5) | p. 1 | “In this study, the hcp(Gd)2bcc(Gd) transformation was at 296 K and higher than the accepted value listed in literature of Gschneidner and Calderwood \[10\].” |
 | Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 37 |  |
 | Phase transition | 600.5 K | 600.5 | liq. -> Pb; _Pb: Pb 1_ | model | [2] Cui 2013 | Table 1, p. 2, row 38 |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 6 |  |
-| Phase transition | 1508 K | 1508 | βGd -> αGd; _βGd: Pb 0_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 4 |  |
 | Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | model | [2] Cui 2013 | Table 1, p. 2, row 3 |  |
 | Phase transition | 1586 K | 1586 | liq. -> βGd; _βGd: Pb 0_ | experimental | [2] Cui 2013; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 2, row 1 |  |
 | Phase transition | 1683 K | 1683 | βGd5Pb4 -> αGd5Pb4; _βGd5Pb4: Pb 0.444444; αGd5Pb4: Pb 0.444444_ | model | [2] Cui 2013 | Table 1, p. 2, row 20 |  |

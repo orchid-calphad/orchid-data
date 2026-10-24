@@ -1,10 +1,10 @@
 # La–Sb system
 
-> La–Sb system: 34 accepted literature values (invariant reaction 32, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sb system: 42 accepted literature values (invariant reaction 32, formation 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SB.html · Markdown: https://data.orchid-project.org/systems/LA-SB.md
 
-34 accepted literature values from 2 paper(s) (experimental 13, model 21); 2 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 17, model 23, DFT 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SB.json) · [CSV](https://data.orchid-project.org/systems/LA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SB/LaSb-12Gao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SB.html) · [Markdown](https://data.orchid-project.org/systems/LA-SB.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 21 |
+| experimental | 17 |
+| model | 23 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 32 |
 | phase transition | 2 |
+| formation | 8 |
 
 ## Calculated phase diagrams
 
@@ -102,6 +104,23 @@ Table: Invariant reactions reported in the literature for the La–Sb system (32
 | 903 | eutectic: L \<-> Rhomb(Sb) + LaSb2 | L: Sb 0.995; LaSb2: La 0.333333, Sb 0.666667 | experimental | [1] Wang 2013; _cites Vogel 1954_ | Table 1, p. 2, row 11 |  |
 | 902.5 | eutectic: L ↔ Rhomb (Sb) + LaSb2 |  | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, La2 Sb, LaSb, and LaSb2 , are 1733, 1813 and 1383 K, respectively, the congruent melting temperature of La3 Sb2 is 1963 K, and the eutectic reactions, L ↔ Fcc A1 (La) + La2 Sb and L ↔ Rhomb (Sb) + LaSb2 , are 1117 and 902.5 K.” |
 | 902.5 | eutectic: L \<-> Rhomb(Sb) + LaSb2 | L: Sb 0.996; LaSb2: La 0.333333, Sb 0.666667 | model | [1] Wang 2013 | Table 1, p. 2, row 12 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, La–Sb system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| La2Sb |  | -142.089 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 3 |  |
+| La2Sb |  | -97.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 2 |  |
+| La2Sb |  | -94 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 4 |  |
+| La2Sb |  | -88.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
+| LaSb |  | -148.197 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Goryacheva 1971_ | Table 3, p. 3, row 7 |  |
+| LaSb |  | -130.5 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Wang 2013; _cites Borzone 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990115-2) | Table 3, p. 3, row 6 |  |
+| LaSb |  | -123.511 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
+| LaSb |  | -118 kJ/mol (basis unstated) | 0 | model |  |  | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 8 |  |
 
 ## Other properties
 

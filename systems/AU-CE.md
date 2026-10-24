@@ -1,10 +1,10 @@
 # Au–Ce system
 
-> Au–Ce system: 205 accepted literature values (invariant reaction 130, formation 48, crystal structure 25, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ce system: 237 accepted literature values (invariant reaction 129, formation 64, crystal structure 42, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-CE.html · Markdown: https://data.orchid-project.org/systems/AU-CE.md
 
-205 accepted literature values from 2 paper(s) (experimental 79, model 97, DFT 5, unspecified 24); 2 calculated phase diagram(s).
+237 accepted literature values from 2 paper(s) (experimental 84, model 105, DFT 11, unspecified 37); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-CE.json) · [CSV](https://data.orchid-project.org/systems/AU-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-CE/AuCe-13Don.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AU-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-CE.html) · [Markdown](https://data.orchid-project.org/systems/AU-CE.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 79 |
-| model | 97 |
-| DFT | 5 |
-| unspecified | 24 |
+| experimental | 84 |
+| model | 105 |
+| DFT | 11 |
+| unspecified | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 130 |
+| invariant reaction | 129 |
 | phase transition | 2 |
-| formation | 48 |
-| crystal structure | 25 |
+| formation | 64 |
+| crystal structure | 42 |
 
 ## Calculated phase diagrams
 
@@ -84,7 +84,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ce system (130)
+Table: Invariant reactions reported in the literature for the Au–Ce system (129)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -193,7 +193,6 @@ Table: Invariant reactions reported in the literature for the Au–Ce system (13
 | 938 | L+βAuCe->AuCe2 | L: Au 0.252; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 2, p. 3, row 8 |  |
 | 930 | Liq + βCeAu ↔ Ce2Au | Liq: Au 0.215; βCeAu: Au 0.5; Ce2Au: Au 0.333 | experimental | [2] Moustaine 2016; _cites Vogel 1943_ | Table 4, p. 5, row 9 |  |
 | 930 | L+βAuCe->AuCe2 | L: Au 0.215; βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 6 |  |
-| 930 | L+βAuCe->AuCe2 | L: Au 2.15 (basis unresolved); βAuCe: Au 0.5, Ce 0.5; AuCe2: Au 0.333333, Ce 0.666667 | experimental | [1] Dong 2013; _cites Vogel 1943_ | Table 2, p. 3, row 55 |  |
 | 865 | αCeAu ↔ βCeAu | αCeAu: Au 0.5; βCeAu: Au 0.5, Ce 0.5 | model | [2] Moustaine 2016 | Table 4, p. 5, row 23 |  |
 | 865 | αCeAu ↔ βCeAu | αCeAu: Au 0.5, Ce 0.5; βCeAu: Au 0.5, Ce 0.5 | experimental | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 4, p. 5, row 28 |  |
 | 821 | Liq ↔ Ce2Au + γCe | Liq: Au 0.181; Ce2Au: Au 0.334; γCe: Au 0.0231 | model | [2] Moustaine 2016 | Table 4, p. 5, row 1 |  |
@@ -223,10 +222,22 @@ Table: Invariant reactions reported in the literature for the Au–Ce system (13
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Ce system (33)
+Table: Enthalpies of formation, Au–Ce system (49)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Au2Ce |  | -71.46 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 10 |  |
+| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -70 kJ/mol-atom | 289 | model | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013 | Table 4, p. 4, row 12 |  |
+| Au2Ce | [Au2Ce](https://data.orchid-project.org/compounds/Au2Ce.html) | -57.5 kJ/mol-atom ± 4.7 | 298.15 | experimental | -65.398 (mp-aaacjhwc) | -73.098 (oqmd-2025792) | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 11 |  |
+| Au4Ce3 |  | -74.32 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 8 |  |
+| Au4Ce3 | [Au4Ce3](https://data.orchid-project.org/compounds/Au4Ce3.html) | -73.82 kJ/mol-atom | 289 | model |  | -75.24 (oqmd-1484238) | [1] Dong 2013 | Table 4, p. 4, row 9 |  |
+| Au51Ce14 |  | -57.71 kJ/mol-atom | 289 | model |  |  | [1] Dong 2013 | Table 4, p. 4, row 14 |  |
+| Au51Ce14 |  | -49.5 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 13 |  |
+| Au6Ce | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -41.59 kJ/mol-atom | 289 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [1] Dong 2013 | Table 4, p. 4, row 16 |  |
+| Au6Ce |  | -39.76 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 15 |  |
+| AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -59.39 kJ/mol-atom | 289 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013 | Table 4, p. 4, row 3 |  |
+| AuCe2 | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -55 kJ/mol-atom ± 1 | 300 | experimental | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 4, p. 4, row 2 |  |
+| AuCe2 |  | -50.99 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 1 |  |
 | Ce2Au | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -61 kJ/mol-atom | 298.15 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [2] Moustaine 2016 | Table 2, p. 3, row 4 |  |
 | Ce2Au | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -59.39 kJ/mol-atom | 298.15 | model | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 3 |  |
 | Ce2Au | [AuCe2](https://data.orchid-project.org/compounds/AuCe2.html) | -55 kJ/mol-atom ± 1 | 298.15 | experimental | -33.544 (mp-aaacksso) | -50.205 (oqmd-1520580) | [2] Moustaine 2016; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 2, p. 3, row 1 |  |
@@ -243,19 +254,23 @@ Table: Enthalpies of formation, Au–Ce system (33)
 | CeAu6 | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -45.8 kJ/mol-atom | 298.15 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [2] Moustaine 2016 | Table 2, p. 3, row 33 |  |
 | CeAu6 | [Au6Ce](https://data.orchid-project.org/compounds/Au6Ce.html) | -41.59 kJ/mol-atom | 298.15 | model | -36.558 (mp-aaackuug) | -40.358 (oqmd-1821063) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 32 |  |
 | CeAu6 |  | -39.76 kJ/mol-atom | 298.15 | DFT |  |  | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 31 |  |
+| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 289 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013 | Table 4, p. 4, row 7 |  |
+| αAuCe |  | -75.36 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 5 |  |
+| αAuCe | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298.15 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [1] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6 |  |
 | αCe14Au51 |  | -57.71 kJ/mol-atom | 298.15 | model |  |  | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 26 |  |
 | αCe14Au51 |  | -55.99 kJ/mol-atom | 298.15 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 27 |  |
 | αCe14Au51 |  | -55 kJ/mol-atom ± 1.7 | 1123 | experimental |  |  | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 22 |  |
 | αCe14Au51 |  | -53.2 kJ/mol-atom ± 1.9 | 298.15 | experimental |  |  | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 24 |  |
 | αCe14Au51 |  | -49.5 kJ/mol-atom ± 2.2 | 298.15 | experimental |  |  | [2] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 25 |  |
 | αCe14Au51 |  | -44 kJ/mol-atom ± 5 | 1223 | experimental |  |  | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 23 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -78.6 kJ/mol-atom | 298.15 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.2 kJ/mol-atom ± 1.9 | 298.15 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 8 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 298.15 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 10 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -78.6 kJ/mol-atom | 298.15 | model | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016 | Table 2, p. 3, row 11 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.2 kJ/mol-atom ± 1.9 | 298.15 | experimental | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 8 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -76.02 kJ/mol-atom | 298.15 | model | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 10 |  |
 | αCeAu |  | -75.36 kJ/mol-atom | 298.15 | DFT |  |  | [2] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 6 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.2 kJ/mol-atom ± 1.4 | 1123 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 7 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -74 kJ/mol-atom ± 1 | 1123 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 5 |  |
-| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298.15 | experimental | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 9 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.2 kJ/mol-atom ± 1.4 | 1123 | experimental | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 7 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -74 kJ/mol-atom ± 1 | 1123 | experimental | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 5 |  |
+| αCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -62.8 kJ/mol-atom ± 4.2 | 298.15 | experimental | -61.504 (mp-aaacgizc) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 9 |  |
+| βAuCe |  | -74.71 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2013 | Table 4, p. 4, row 4 |  |
 | βCe14Au51 |  | -53.1 kJ/mol-atom | 298.15 | model |  |  | [2] Moustaine 2016 | Table 2, p. 3, row 28 |  |
 | βCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -79 kJ/mol-atom | 298.15 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
 | βCeAu | [AuCe](https://data.orchid-project.org/compounds/AuCe.html) | -75.7 kJ/mol-atom | 298.15 | model | -61.985 (mp-aaacfybf) | -75.308 (oqmd-28133) | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 13 |  |
@@ -294,36 +309,53 @@ Table: Formation, Au–Ce system
 | Entropy of formation; _printed: ΔSf°_ | -2.43 J/mol-atom/K | 298.15 | βCeAu; _alloy: Ce 0.5_ | model | [2] Moustaine 2016 | Table 2, p. 3, row 14 |  |
 | Entropy of formation; _printed: ΔSf°_ | -0.81 J/mol-atom/K | 298.15 | βCeAu; _alloy: Ce 0.5_ | model | [2] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 13 |  |
 
-### Crystal structure (25)
+### Crystal structure (42)
 
 Table: Crystal structure, Au–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0784 Å | 298.15 | Au; _Au: Au 1, Ce 0_ | model | [2] Moustaine 2016; _cites Gschneidner 1986_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.528 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 13.887 Å | 298.15 | Au4Ce3; _alloy: Ce 0.428571_ | experimental | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 1, p. 2, row 9 |  |
+| Lattice a | 12.77 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 12 |  |
+| Lattice a | 12.81 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 11 |  |
+| Lattice a | 7.8 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
+| Lattice a | 7.271 Å ± 7 | 298.15 | AuCe2; _alloy: Ce 0.666667_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
 | Lattice a | 7.271 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
 | Lattice a | 4.528 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice a | 0.78 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
-| Lattice a | 4.85 Å | 298.15 | αCe; _αCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 2 |  |
+| Lattice a | 7.43 Å | 298.15 | αAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
 | Lattice a | 12.77 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
 | Lattice a | 12.81 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 11 |  |
 | Lattice a | 7.43 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 3.681 Å | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 3.9 Å | 298.15 | βAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
 | Lattice a | 3.9 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
 | Lattice a | 5.161 Å | 298.15 | γCe; _γCe: Au 0.01, Ce 0.99_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 4 |  |
 | Lattice a | 4.12 Å | 298.15 | δCe; _δCe: Au 0.02, Ce 0.98_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 5 |  |
+| Lattice b | 7.203 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
+| Lattice b | 7.78 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
+| Lattice b | 5.073 Å ± 6 | 298.15 | AuCe2; _alloy: Ce 0.666667_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
 | Lattice b | 5.073 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
 | Lattice b | 7.203 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice b | 0.778 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
+| Lattice b | 4.66 Å | 298.15 | αAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
 | Lattice b | 4.66 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
+| Lattice b | 11.14 Å | 298.15 | βAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
 | Lattice b | 11.14 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 8.068 Å | 298.15 | Au2Ce; _alloy: Ce 0.333333_ | model | [1] Dong 2013; _cites Gschneidner 1987_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 6.17 Å | 298.15 | Au4Ce3; _alloy: Ce 0.428571_ | experimental | [1] Dong 2013; _cites Ferro 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900969-0) | Table 1, p. 2, row 9 |  |
+| Lattice c | 9.29 Å | 298.15 | Au51Ce14; _alloy: Ce 0.215385_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 12 |  |
+| Lattice c | 9.327 Å ± 3 | 298.15 | Au51Ce14; _alloy: Ce 0.215385_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 11 |  |
+| Lattice c | 9.08 Å ± 10 | 298.15 | Au6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 13 |  |
+| Lattice c | 9.32 Å ± 9 | 298.15 | AuCe2; _alloy: Ce 0.666667_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 6 |  |
 | Lattice c | 9.32 Å | 298.15 | Ce2Au; _Ce2Au: Au 0.334, Ce 0.666_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 6 |  |
 | Lattice c | 8.068 Å | 298.15 | CeAu2; _CeAu2: Au 0.667, Ce 0.333_ | unspecified | [2] Moustaine 2016; _cites Iandelli 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990186-0) | Table 1, p. 3, row 10 |  |
 | Lattice c | 0.908 not_printed ± 1 | 298.15 | CeAu6; _CeAu6: Au 0.857, Ce 0.143_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 14 |  |
+| Lattice c | 5.93 Å | 298.15 | αAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 7 |  |
 | Lattice c | 9.29 Å | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 12 |  |
 | Lattice c | 0.9327 not_printed ± 0.3 | 298.15 | αCe14Au51; _αCe14Au51: Au 0.785, Ce 0.215_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 11 |  |
 | Lattice c | 5.93 Å | 298.15 | αCeAu; _αCeAu: Au 0.5, Ce 0.5_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 8 |  |
-| Lattice c | 11.857 Å | 298.15 | βCe; _βCe: Au 0, Ce 1_ | unspecified | [2] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 4.75 Å | 298.15 | βAuCe; _alloy: Ce 0.5_ | unspecified | [1] Dong 2013 | Table 1, p. 2, row 8 |  |
 | Lattice c | 4.75 Å | 298.15 | βCeAu; _βCeAu: Au 0.52, Ce 0.48_ | unspecified | [2] Moustaine 2016; _cites Mcmasters 1971_ | Table 1, p. 3, row 7 |  |
 
 ## Sources

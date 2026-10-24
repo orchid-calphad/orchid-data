@@ -37,20 +37,20 @@ Table: Uncertainty budget of the literature values of GeO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -574 | kJ/mol (basis unstated) |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -556 | kJ/mol (basis unstated) | 8 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 8 |
-| -556 | kJ/mol (basis unstated) | 5 | 0.5 | 4.1 (equilibration_other, calibrated) |  |  |  | 5 |
-| -555.4 | kJ/mol (basis unstated) | 2 | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -553 | kJ/mol (basis unstated) | 5 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
-| -540.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -538 | kJ/mol (basis unstated) |  | 0.5 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -536 | kJ/mol (basis unstated) |  | 0.5 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -556.5 | kJ/mol (basis unstated) | 2 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -556.1 | kJ/mol (basis unstated) | 2 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -553.82 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -574 | kJ/mol (basis unstated) |  | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -556 | kJ/mol (basis unstated) | 8 | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -556 | kJ/mol (basis unstated) | 5 | 0.05 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
+| -555.4 | kJ/mol (basis unstated) | 2 | 0.05 | 10.5 (equilibration_other, calibrated) |  |  |  | 10.5 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 13.8 (emf, cleaned_below_threshold) |  |  |  | 13.8 |
+| -553 | kJ/mol (basis unstated) | 5 | 0.05 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -540.1 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -538 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -536 | kJ/mol (basis unstated) |  | 0.05 | 3 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 3 |
+| -556.5 | kJ/mol (basis unstated) | 2 | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -556.1 | kJ/mol (basis unstated) | 2 | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -554.7 | kJ/mol (basis unstated) | 1 | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -553.82 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Pb–Si system
 
-> Pb–Si system: 11 accepted literature values (phase equilibrium 7, crystal structure 2, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Si system: 9 accepted literature values (phase equilibrium 7, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-SI.html · Markdown: https://data.orchid-project.org/systems/PB-SI.md
 
-11 accepted literature values from 1 paper(s) (experimental 7, model 4); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+9 accepted literature values from 1 paper(s) (experimental 7, model 2); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-SI.json) · [CSV](https://data.orchid-project.org/systems/PB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-SI/PbSi-84Ole-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/PB-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-SI.html) · [Markdown](https://data.orchid-project.org/systems/PB-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 7 |
-| model | 4 |
+| model | 2 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 2 |
 | phase equilibrium | 7 |
-| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -66,15 +65,6 @@ Table: Phase equilibrium, Pb–Si system
 | Phase composition |  | 1475.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9926, Si 0.0074; L (Pb-rich liquidus): Pb 0.9926, Si 0.0074_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 3 |  |
 | Phase composition |  | 1523.15 | Pb-rich liquidus + L (Pb-rich liquidus); _Pb-rich liquidus: Pb 0.9888, Si 0.0112; L (Pb-rich liquidus): Pb 0.9888, Si 0.0112_ | experimental | [1] Olesinski 1984; _cites ref. 60Thu_ | Table 1, p. 2, row 2 |  |
 | Phase composition |  | 1693.15 | Si-rich liquidus + Pb-rich liquidus + L (Si-rich liquidus) + L (Pb-rich liquidus); _Si-rich liquidus: Pb 0.021, Si 0.979; Pb-rich liquidus: Pb 0.968, Si 0.032; L (Si-rich liquidus): Pb 0.021, Si 0.979; L (Pb-rich liquidus): Pb 0.968, Si 0.032_ | experimental | [1] Olesinski 1984; _cites Kirkwood 1961_ [doi](https://doi.org/10.1021/j100824a528) | Table 1, p. 2, row 1 |  |
-
-### Crystal structure (2)
-
-Table: Crystal structure, Pb–Si system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.9502 Å | 298.15 | (Pb); _(Pb): Pb 1, Si 0_ | model | [1] Olesinski 1984; _cites King 1982_ | Table 3, p. 3, row 2 |  |
-| Lattice a | 5.4306 Å | 298.15 | (Si); _(Si): Pb 0, Si 1_ | model | [1] Olesinski 1984; _cites King 1982_ | Table 3, p. 3, row 1 |  |
 
 ## Sources
 

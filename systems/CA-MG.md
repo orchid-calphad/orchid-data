@@ -1,10 +1,10 @@
 # Ca–Mg system
 
-> Ca–Mg system: 100 accepted literature values (crystal structure 53, invariant reaction 24, phase transition 18, formation 5) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Mg system: 95 accepted literature values (crystal structure 37, invariant reaction 24, formation 19, phase transition 12) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-MG.html · Markdown: https://data.orchid-project.org/systems/CA-MG.md
 
-100 accepted literature values from 5 paper(s) (experimental 21, model 11, DFT 44, unspecified 24); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+95 accepted literature values from 6 paper(s) (experimental 28, model 13, DFT 22, unspecified 32); 6 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-MG.json) · [CSV](https://data.orchid-project.org/systems/CA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-MG/CaMg-05Isl.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-MG.html) · [Markdown](https://data.orchid-project.org/systems/CA-MG.md)
 
@@ -12,19 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| model | 11 |
-| DFT | 44 |
-| unspecified | 24 |
+| experimental | 28 |
+| model | 13 |
+| DFT | 22 |
+| unspecified | 32 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| phase transition | 18 |
-| formation | 5 |
-| crystal structure | 53 |
+| phase transition | 12 |
+| formation | 19 |
+| heat capacity / entropy / enthalpy | 3 |
+| crystal structure | 37 |
 
 ## Calculated phase diagrams
 
@@ -82,32 +83,32 @@ Table: Invariant reactions reported in the literature for the Ca–Mg system (24
 | 1043.15 | eutectic |  | model | [2] Kozlov 2008 | p. 15 | “After primary crystallization of Ca2xMgxSn the solidification terminates in the quasibinary eutectic L 4 Ca2xMgxSn þ Mg2Sn denoted as max2 at 770  C in Fig. 13a.” |
 | 964.15 | peritectic |  | model | [2] Kozlov 2008 | p. 15 | “The primary and secondary solidifications are not much different until the ternary peritectic reaction P: L þ Ca2xMgxSn þ CaSn 4 Ca6.2Mg3.8Sn7 at 691  C is encountered.” |
 | 835.95 | eutectic |  | model | [2] Kozlov 2008 | p. 14 | “The reaction L / (Mg) þ Ca2xMgxSn starts 7 K lower at 633  C and stretches down to 562.8  C where some 6% of residual liquid finally solidify in the eutectic reaction E2: L 4 (Mg) þ Mg2Sn þ Ca2xMgxSn.” |
-| 798 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 88.6 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 10_ | Table II, p. 5, row 21 |  |
+| 798 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 0.886; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 10_ | Table II, p. 5, row 21 |  |
 | 798 | eutectic: L \<-> Mg2Ca + Mg-hcp | L: Mg 0.886 | experimental | [4] Islam 2005; _cites Paris 1934_ | Table 9, p. 12, row 11 |  |
 | 790 | eutectic: L \<-> Mg2Ca + Mg-hcp | L: Mg 0.895 | experimental | [4] Islam 2005; _cites Haughton 1937_ | Table 9, p. 12, row 12 |  |
-| 790 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 89.5 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 20 |  |
+| 790 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 0.895; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 20 |  |
 | 789.8 | eutectic: L \<-> Mg2Ca + Mg-hcp | L: Mg 0.896 | experimental | [4] Islam 2005 | Table 9, p. 12, row 14 |  |
-| 789.8 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 89.61 (basis unresolved); Mg2Ca: Mg 0.666667 | model | [3] ISLAM 2005 | Table II, p. 5, row 22 |  |
-| 789.5 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 89.5 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 19 |  |
+| 789.8 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 0.8961; Mg2Ca: Mg 0.666667 | model | [3] ISLAM 2005 | Table II, p. 5, row 22 |  |
+| 789.5 | eutectic: L -> Mg2Ca+ Mg-hcp | L: Mg 0.895; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 19 |  |
 | 789 | eutectic: L \<-> Mg2Ca + Mg-hcp | L: Mg 0.894 | experimental | [4] Islam 2005; _cites Vosskuhler 1937_ | Table 9, p. 12, row 13 |  |
 | 788.15 | eutectic |  | model | [2] Kozlov 2008 | p. 14 | “This sequence is in perfect agreement with the calculated equilibrium solidification calculation, indicating this ternary eutectic reaction E3 at 515 C.” |
 | 787 | eutectic: L \<-> Mg2Ca + Mg-hcp | L: Mg 0.878 | experimental | [4] Islam 2005; _cites Baar 1911_ [doi](https://doi.org/10.1002/zaac.19110700126) | Table 9, p. 12, row 10 |  |
-| 733 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 26.6 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 10_ | Table II, p. 5, row 16 |  |
+| 733 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 0.266; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 10_ | Table II, p. 5, row 16 |  |
 | 733 | eutectic: L \<-> Mg2Ca + Ca-fcc | L: Mg 0.266 | experimental | [4] Islam 2005; _cites Paris 1934_ | Table 9, p. 12, row 6 |  |
-| 719 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 28.6 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 15 |  |
+| 719 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 0.286; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 15 |  |
 | 719 | eutectic: L \<-> Mg2Ca + Ca-fcc | L: Mg 0.309 | experimental | [4] Islam 2005; _cites Baar 1911_ [doi](https://doi.org/10.1002/zaac.19110700126) | Table 9, p. 12, row 5 |  |
 | 719 | eutectic: L \<-> Mg2Ca + Ca-fcc | L: Mg 0.288 | experimental | [4] Islam 2005 | Table 9, p. 12, row 9 |  |
-| 719 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 28.83 (basis unresolved); Mg2Ca: Mg 0.666667 | model | [3] ISLAM 2005 | Table II, p. 5, row 18 |  |
+| 719 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 0.2883; Mg2Ca: Mg 0.666667 | model | [3] ISLAM 2005 | Table II, p. 5, row 18 |  |
 | 718 | eutectic: L \<-> Mg2Ca + Ca-fcc | L: Mg 0.27 | experimental | [4] Islam 2005; _cites Klemm 1947_ [doi](https://doi.org/10.1002/zaac.19472550102) | Table 9, p. 12, row 7 |  |
-| 718 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 27 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 13_ | Table II, p. 5, row 17 |  |
-| 718 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 27 (basis unresolved); Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 14 |  |
+| 718 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 0.27; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 13_ | Table II, p. 5, row 17 |  |
+| 718 | eutectic: L -> Mg2Ca+ Ca-fcc | L: Mg 0.27; Mg2Ca: Mg 0.666667 | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 14 |  |
 | 718 | eutectic: L \<-> Mg2Ca + Ca-fcc |  | experimental | [4] Islam 2005; _cites Vosskuhler 1937_ | Table 9, p. 12, row 8 |  |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–Mg system (5)
+Table: Enthalpies of formation, Ca–Mg system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -116,27 +117,35 @@ Table: Enthalpies of formation, Ca–Mg system (5)
 | C14 |  | -11.72 kJ/mol-atom | 0 | unspecified |  |  | [5] Zhong 2006 | Table 4, p. 5, row 1 |  |
 | C15 |  | -11.33 kJ/mol-atom | 0 | unspecified |  |  | [5] Zhong 2006 | Table 4, p. 5, row 2 |  |
 | C36 |  | -11.62 kJ/mol-atom | 0 | unspecified |  |  | [5] Zhong 2006 | Table 4, p. 5, row 3 |  |
+| Ca2Mg-C14 | [Ca2Mg](https://data.orchid-project.org/compounds/Ca2Mg.html) | 26.8549 kJ/mol-atom | 0 | unspecified | 5.636 (mp-aaachdih) | 3.889 (oqmd-290195) | [6] Zhong 2006 | Table 2, p. 4, row 16 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.5 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.85 kJ/mol-atom | 298.15 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.78 kJ/mol-atom | 298.15 | model | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
+| Mg2Ca | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -12.7 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
+| Mg2Ca |  | -12.37 kJ/mol-atom | 298.15 | DFT |  |  | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -20.97 kJ/mol-atom | 0 | unspecified | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -14.59 kJ/mol-atom | 255.5 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.38 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.04 kJ/mol-atom | 298.15 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -13.04 kJ/mol-atom | 0 | unspecified | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -11.7161 kJ/mol-atom | 0 | unspecified | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006 | Table 2, p. 4, row 6 |  |
+| Mg2Ca-C14 | [CaMg2](https://data.orchid-project.org/compounds/CaMg2.html) | -11.29 kJ/mol-atom | 359 | experimental | -10.24 (mp-aaaaadpo) | -12.167 (oqmd-21025) | [6] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
 
 ## Other properties
 
-### Phase transition (18)
+### Phase transition (12)
 
 Table: Phase transition, Ca–Mg system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Mg 0_ | model | [3] ISLAM 2005 | Table II, p. 5, row 13 |  |
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Mg 0_ | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 12 |  |
-| Phase transition | 716 K | 716 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Mg 0_ | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 11 |  |
-| Phase transition | 878 K | 878 | congruent melting: L -> Mg-hcp; _L: Mg 100 (basis unresolved)_ | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 1 |  |
-| Phase transition | 923 K | 923 | congruent melting: L -> Mg-hcp; _L: Mg 100 (basis unresolved)_ | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 2 |  |
-| Phase transition | 923 K | 923 | congruent melting: L -> Mg-hcp; _L: Mg 100 (basis unresolved)_ | model | [3] ISLAM 2005 | Table II, p. 5, row 4 |  |
-| Phase transition | 984 K | 984 | congruent melting: L -> Mg2Ca; _L: Mg 66 (basis unresolved); Mg2Ca: Mg 0.666667_ | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 9 |  |
-| Phase transition | 984.58 K | 984.58 | congruent melting: L -> Mg2Ca; _L: Mg 66 (basis unresolved); Mg2Ca: Mg 0.666667_ | model | [3] ISLAM 2005 | Table II, p. 5, row 10 |  |
+| Phase transition | 984 K | 984 | congruent melting: L -> Mg2Ca; _L: Mg 0.66; Mg2Ca: Mg 0.666667_ | unspecified | [3] ISLAM 2005; _cites ref. 15_ | Table II, p. 5, row 9 |  |
+| Phase transition | 984.58 K | 984.58 | congruent melting: L -> Mg2Ca; _L: Mg 0.66; Mg2Ca: Mg 0.666667_ | model | [3] ISLAM 2005 | Table II, p. 5, row 10 |  |
 | Phase transition | 984.6 K | 984.6 | congruent melting: L \<-> Mg2Ca; _L: Mg 0.667_ | experimental | [4] Islam 2005 | Table 9, p. 12, row 4 |  |
 | Phase transition | 987 K | 987 | congruent melting: L \<-> Mg2Ca; _L: Mg 0.667_ | experimental | [4] Islam 2005; _cites Baar 1911_ [doi](https://doi.org/10.1002/zaac.19110700126) | Table 9, p. 12, row 1 |  |
 | Phase transition | 987 K | 987 | congruent melting: L \<-> Mg2Ca | experimental | [4] Islam 2005; _cites Vosskuhler 1937_ | Table 9, p. 12, row 3 |  |
-| Phase transition | 988 K | 988 | congruent melting: L -> Mg2Ca; _L: Mg 66 (basis unresolved); Mg2Ca: Mg 0.666667_ | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 8 |  |
+| Phase transition | 988 K | 988 | congruent melting: L -> Mg2Ca; _L: Mg 0.66; Mg2Ca: Mg 0.666667_ | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 8 |  |
 | Phase transition | 998 K | 998 | congruent melting: L -> Mg-hcp | unspecified | [3] ISLAM 2005; _cites ref. 10_ | Table II, p. 5, row 3 |  |
 | Phase transition | 998 K | 998 | congruent melting: L \<-> Mg2Ca | experimental | [4] Islam 2005; _cites Paris 1934_ | Table 9, p. 12, row 2 |  |
 | Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _Ca-bcc: Mg 0_ | model | [3] ISLAM 2005 | Table II, p. 5, row 7 |  |
@@ -144,7 +153,17 @@ Table: Phase transition, Ca–Mg system
 | Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _Ca-bcc: Mg 0_ | unspecified | [3] ISLAM 2005; _cites ref. 14_ | Table II, p. 5, row 5 |  |
 | Phase transition | 1358.15 K | 1358.15 |  | model | [2] Kozlov 2008 | p. 14 | “The equilibrium solidification sequence of sample 3 starts also with the primary Ca2xMgxSn at 1085  C and can be viewed in both Figs. 11 and 12.” |
 
-### Crystal structure (53)
+### Heat capacity / entropy / enthalpy (3)
+
+Table: Heat capacity / entropy / enthalpy, Ca–Mg system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S298_ | 36.21 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667_ | DFT | [2] Kozlov 2008; _cites Arroyave 2006_ | Table 2, p. 5, row 7 |  |
+| Entropy; _printed: S298_ | 32.48 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667_ | model | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 8 |  |
+| Entropy; _printed: S298_ | 32.56 J/mol-atom/K | 298.15 | Mg2Ca; _alloy: Mg 0.666667_ | model | [2] Kozlov 2008 | Table 2, p. 5, row 9 |  |
+
+### Crystal structure (37)
 
 Table: Crystal structure, Ca–Mg system
 
@@ -153,56 +172,40 @@ Table: Crystal structure, Ca–Mg system
 | Lattice a; _printed: a_ | 6.212 Å | 0 | C14 | unspecified | [5] Zhong 2006 | Table 4, p. 5, row 1 |  |
 | Lattice a; _printed: a_ | 8.76 Å | 0 | C15 | unspecified | [5] Zhong 2006 | Table 4, p. 5, row 2 |  |
 | Lattice a; _printed: a_ | 6.2 Å | 0 | C36 | unspecified | [5] Zhong 2006 | Table 4, p. 5, row 3 |  |
-| Lattice a | 3.502 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 34 |  |
+| Lattice a; _printed: a_ | 6.887 Å | 0 | Ca2Mg-C14; _alloy: Mg 0.333333_ | unspecified | [6] Zhong 2006 | Table 2, p. 4, row 16 |  |
+| Lattice a; _printed: a_ | 6.271 Å |  | Mg2Ca-C14; _alloy: Mg 0.666667_ | experimental | [6] Zhong 2006; _cites Gingl 1993_ [doi](https://doi.org/10.1524/zkri.1993.206.part-2.313) | Table 2, p. 4, row 7 |  |
+| Lattice a; _printed: a (=b)_ | 6.212 Å | 0 | Mg2Ca-C14; _alloy: Mg 0.666667_ | unspecified | [6] Zhong 2006 | Table 2, p. 4, row 6 |  |
 | Lattice a | 4.345 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 18 |  |
 | Lattice a | 4.48 Å | 2 | bcc (A2); _alloy: Mg 0_ | experimental | [5] Zhong 2006; _cites King 1982_ [doi](https://doi.org/10.1007/bf02892394) | Table 1, p. 4, row 5 |  |
 | Lattice a | 4.211 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 31 |  |
-| Lattice a | 3.5 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 42 |  |
 | Lattice a | 4.218 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 38 |  |
-| Lattice a | 3.502 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 9 |  |
 | Lattice a | 4.345 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 39 |  |
 | Lattice a | 4.218 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 17 |  |
-| Lattice a | 3.5 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 24 |  |
 | Lattice a | 4.211 Å | 2 | bcc (A2); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 4 |  |
-| Lattice a | 3.559 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 43 |  |
-| Lattice a | 3.576 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 35 |  |
-| Lattice a | 3.576 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 10 |  |
-| Lattice a | 3.559 Å | 2 | bcc (A2); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 25 |  |
-| Lattice a | 4.429 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 7 |  |
-| Lattice a | 4.522 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 33 |  |
-| Lattice a | 4.513 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 41 |  |
 | Lattice a | 5.588 Å | 2 | fcc (A1); _alloy: Mg 0_ | experimental | [5] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 3 |  |
 | Lattice a | 5.545 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 30 |  |
-| Lattice a | 4.424 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 22 |  |
-| Lattice a | 4.522 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 8 |  |
 | Lattice a | 5.344 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 36 |  |
-| Lattice a | 4.513 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 23 |  |
 | Lattice a | 5.331 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 29 |  |
 | Lattice a | 5.344 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 14 |  |
 | Lattice a | 5.486 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 37 |  |
 | Lattice a | 5.486 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 15 |  |
 | Lattice a | 5.331 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 1 |  |
-| Lattice a | 4.424 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 40 |  |
 | Lattice a | 5.545 Å | 2 | fcc (A1); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 2 |  |
-| Lattice a | 4.429 Å | 2 | fcc (A1); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 32 |  |
-| Lattice a | 3.112 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 26 |  |
-| Lattice a | 3.193 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 12 |  |
 | Lattice a | 3.862 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 21 |  |
-| Lattice a | 3.209 Å | 2 | hcp (A3); _alloy: Mg 1_ | experimental | [5] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 13 |  |
-| Lattice a | 3.177 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 27 |  |
-| Lattice a | 3.128 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 11 |  |
 | Lattice a | 3.775 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 6 |  |
 | Lattice a | 3.764 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 20 |  |
+| Lattice a | 6.23 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice a | 6.251 not_printed ± 0.004 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 6 |  |
 | Lattice c; _printed: c_ | 10.05 Å | 0 | C14 | unspecified | [5] Zhong 2006 | Table 4, p. 5, row 1 |  |
 | Lattice c; _printed: c_ | 20.184 Å | 0 | C36 | unspecified | [5] Zhong 2006 | Table 4, p. 5, row 3 |  |
-| Lattice c | 5.075 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 26 |  |
-| Lattice c | 5.184 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 12 |  |
+| Lattice c; _printed: c_ | 10.836 Å | 0 | Ca2Mg-C14; _alloy: Mg 0.333333_ | unspecified | [6] Zhong 2006 | Table 2, p. 4, row 16 |  |
+| Lattice c; _printed: c_ | 10.17 Å |  | Mg2Ca-C14; _alloy: Mg 0.666667_ | experimental | [6] Zhong 2006; _cites Gingl 1993_ [doi](https://doi.org/10.1524/zkri.1993.206.part-2.313) | Table 2, p. 4, row 7 |  |
+| Lattice c; _printed: c_ | 10.05 Å | 0 | Mg2Ca-C14; _alloy: Mg 0.666667_ | unspecified | [6] Zhong 2006 | Table 2, p. 4, row 6 |  |
 | Lattice c | 6.411 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 21 |  |
-| Lattice c | 5.211 Å | 2 | hcp (A3); _alloy: Mg 1_ | experimental | [5] Zhong 2006; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 1, p. 4, row 13 |  |
-| Lattice c | 5.172 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 27 |  |
-| Lattice c | 5.104 Å | 2 | hcp (A3); _alloy: Mg 1_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 11 |  |
 | Lattice c | 6.228 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 6 |  |
 | Lattice c | 6.263 Å | 2 | hcp (A3); _alloy: Mg 0_ | DFT | [5] Zhong 2006 | Table 1, p. 4, row 20 |  |
+| Lattice c | 10.141 not_printed ± 0.007 | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 6 |  |
+| Lattice c | 10.15 Å | 711 (\<) | Mg2Ca; _alloy: Mg 0.666667_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 6 |  |
 
 ## Sources
 
@@ -213,6 +216,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005). [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523)
 4. F. Islam, M. Medraj, The phase equilibria in the Mg–Ni–Ca system, Calphad 29, 289-302 (2005). [doi:10.1016/j.calphad.2005.08.006](https://doi.org/10.1016/j.calphad.2005.08.006)
 5. Yu Zhong, Koray Ozturk, Jorge O. Sofo, Zi-Kui Liu, Contribution of first-principles energetics to the Ca–Mg thermodynamic modeling, Journal of Alloys and Compounds 420, 98-106 (2006). [doi:10.1016/j.jallcom.2005.10.033](https://doi.org/10.1016/j.jallcom.2005.10.033)
+6. Yu Zhong, Jorge O. Sofo, Alan A. Luo, Zi-Kui Liu, Thermodynamics modeling of the Mg–Sr and Ca–Mg–Sr systems, Journal of Alloys and Compounds 421, 172-178 (2006). [doi:10.1016/j.jallcom.2005.09.076](https://doi.org/10.1016/j.jallcom.2005.09.076)
 
 ## Please cite
 

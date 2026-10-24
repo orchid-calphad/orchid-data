@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Pd1.133Se
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -72.17 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 38.5 (unknown, calibrated) |  |  |  | 38.5 |
+| -72.68 | kJ/mol (basis unstated) | 0.82 | 0.005 | 37.4 (model_calculated, calibrated) |  |  |  | 37.4 |
+| -72.17 | kJ/mol (basis unstated) |  | 0.005 | 37.4 (model_calculated, calibrated) |  |  |  | 37.4 |
 
 ## Sources
 

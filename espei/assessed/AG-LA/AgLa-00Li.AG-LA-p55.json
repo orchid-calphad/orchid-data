@@ -6,7 +6,6 @@
  ],
  "phases": [
   "AG2LA",
-  "AG51LA14",
   "AG5LA_C14",
   "AGLA_B2",
   "BCC_A2",
@@ -17,8 +16,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   544.2326873,
-   544.2326873,
    704.2326873,
    673.2326873,
    436.7326873,
@@ -27,76 +24,15 @@
    913.2326873,
    1203.732687,
    941.2326873,
-   957.7326873,
    1129.232687,
    1086.232687,
    1091.732687,
    1098.232687,
-   1104.232687,
-   1168.232687,
-   1189.732687
+   1104.232687
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "FCC_A1",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG5LA_C14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.08257215775
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51LA14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG5LA_C14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.1912548558
-    ]
-   ]
-  ],
   [
    [
     "AG2LA",
@@ -313,35 +249,6 @@
   ],
   [
    [
-    "AG51LA14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG5LA_C14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.1917556977
-    ]
-   ]
-  ],
-  [
-   [
     "FCC_A1",
     [
      "LA"
@@ -484,64 +391,6 @@
      0.4737297023
     ]
    ]
-  ],
-  [
-   [
-    "AG51LA14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.1972649589
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51LA14",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.2894198734
-    ]
-   ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria, 22(6), 688 (2001) doi:10.1007/s11669-001-0044-8; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 55",
@@ -555,8 +404,6 @@
   "diagram": "AG-LA-p55",
   "target_tdb": "AgLa-00Li.tdb",
   "record_ids": [
-   "aspa-bd0ffa38171685f4",
-   "aspa-f3b6c6246c6a6851",
    "aspa-03edae4ffb9561df",
    "aspa-2a6ae1ad5947c074",
    "aspa-29a867161f2b553f",
@@ -565,18 +412,13 @@
    "aspa-849fe0c3032f3a29",
    "aspa-a0b7cba5acfc01fd",
    "aspa-3bd5642bd1b433c4",
-   "aspa-97d1798e2c71733b",
    "aspa-43e6e1f8b17b8cf7",
    "aspa-8799443420535730",
    "aspa-31a579dee9a517a2",
    "aspa-9079122941489ad4",
-   "aspa-7e090bf8b6fa45e4",
-   "aspa-12add097b2072595",
-   "aspa-4a187a292d208677"
+   "aspa-7e090bf8b6fa45e4"
   ],
   "confidence": [
-   "high",
-   "high",
    "medium",
    "medium",
    "high",
@@ -587,54 +429,17 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "medium",
-   "medium",
-   "high",
-   "high"
+   "medium"
   ],
-  "points_left_out": 1,
+  "points_left_out": 0,
   "source": "assessed-phase-assemblages/espei-zpf/AG-LA-p55.json"
  },
  "orchid_uncertainty_budget": {
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
-   {
-    "record_id": "aspa-bd0ffa38171685f4",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 271.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0691162,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-f3b6c6246c6a6851",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 271.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0235396,
-     "sigma_effective": 0.02
-    }
-   },
    {
     "record_id": "aspa-03edae4ffb9561df",
     "temperature_K": {
@@ -772,23 +577,6 @@
     }
    },
    {
-    "record_id": "aspa-97d1798e2c71733b",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 140.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0235396,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-43e6e1f8b17b8cf7",
     "temperature_K": {
      "sigma_printed": null,
@@ -870,40 +658,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0245413,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-12add097b2072595",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 15.0,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 61.0,
-     "sigma_effective": 15.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.03,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0270455,
-     "sigma_effective": 0.03
-    }
-   },
-   {
-    "record_id": "aspa-4a187a292d208677",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 56.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0385648,
      "sigma_effective": 0.02
     }
    }

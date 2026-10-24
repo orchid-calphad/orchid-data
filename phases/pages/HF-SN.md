@@ -18,9 +18,9 @@ Table: Phases of the Hf–Sn system (9)
 | [FCC_A1](#phase-hf-sn-fcc-a1); _phase:hf-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-hf-sn-hcp-a3); _phase:hf-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2017.03 K, x(Sn) 0–0.14285 | 0 | 2 |
 | [HF5SN3_D88](#phase-hf-sn-hf5sn3-d88); _phase:hf-sn:hf5sn3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2244.34 K, x(Sn) 0.375–0.44444 | 0 | 2 |
-| [HF5SN4](#phase-hf-sn-hf5sn4); _phase:hf-sn:hf5sn4_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–2013.29 K, x(Sn) 0.44444–0.44444 | 0 | 1 |
+| [HF5SN4](#phase-hf-sn-hf5sn4); _phase:hf-sn:hf5sn4_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–2013.29 K, x(Sn) 0.44444–0.44444 | 4 | 1 |
 | [HFSN2_C40](#phase-hf-sn-hfsn2-c40); _phase:hf-sn:hfsn2-c40_ | CrSi2 · C40 · hP9 · P6_222 (180) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1824.66 K, x(Sn) 0.66667–0.66667 | 0 | 2 |
-| [LIQUID](#phase-hf-sn-liquid); _phase:hf-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1 | 0 | 2 |
+| [LIQUID](#phase-hf-sn-liquid); _phase:hf-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1 | 1 | 2 |
 
 ## DIAMOND_A4 (Hf–Sn)
 
@@ -240,12 +240,13 @@ _assessment that models this phase_
 - Structure: Ga4Ti5 · hP18 · P6_3/mcm (193); type `st:ga4ti5-hp18`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Hf 0.5556, Sn 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2013.29 K, x(Sn) 0.44444–0.44444
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-sn:hf5sn4)
 
-Names (4): _corpus: _corpus:phase:hf-sn:hf5sn4  
+Names (5): _corpus: _corpus:phase:hf-sn:hf5sn4  
 _mp: _mp:mp-aaabdblz  
 _oqmd: _oqmd:oqmd-18591  
+_paper: _paper:10.1016/j.calphad.2012.09.003:Hf5Sn4  
 _tdb: _tdb:HfSn-12Tan.tdb:HF5SN4  
 
 
@@ -258,10 +259,12 @@ _tdb: _tdb:HfSn-12Tan.tdb:HF5SN4
 57: CONST HF5SN4 : HF : SN : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/bf00595382](https://doi.org/10.1007/bf00595382) K. Schubert, H. G. Meissner, M. Pötzschke, W. Rossteutscher, E. Stolz, Einige Strukturdaten metallischer Phasen (7), Naturwissenschaften 49, 57-57 (1962).  
+_cited as the source of values for this phase_
 
 ## HFSN2_C40 (Hf–Sn)
 
@@ -307,10 +310,11 @@ _assessment that models this phase_
 - Id: `phase:hf-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-sn:liquid)
 
-Names (3): _corpus: _corpus:phase:hf-sn:liquid  
+Names (4): _corpus: _corpus:phase:hf-sn:liquid  
+_paper: _paper:10.1016/j.calphad.2012.09.003:Liquid  
 _tdb: _tdb:HfSn-12Tan.tdb:LIQUID, tdb:HfSn-16Ber.tdb:LIQUID  
 
 
@@ -333,7 +337,7 @@ _tdb: _tdb:HfSn-12Tan.tdb:LIQUID, tdb:HfSn-16Ber.tdb:LIQUID
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.commatsci.2016.08.042](https://doi.org/10.1016/j.commatsci.2016.08.042) A. Berche, J.C. Tédenac, P. Jund, Phase diagram and enthalpy of formation of Hf-Ni-Sn, Computational Materials Science 125, 271-277 (2016).  
 _assessment that models this phase_
 

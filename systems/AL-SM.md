@@ -1,10 +1,10 @@
 # Al–Sm system
 
-> Al–Sm system: 102 accepted literature values (invariant reaction 55, crystal structure 30, phase transition 12, phase equilibrium 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Sm system: 96 accepted literature values (invariant reaction 55, crystal structure 24, phase transition 12, phase equilibrium 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SM.html · Markdown: https://data.orchid-project.org/systems/AL-SM.md
 
-102 accepted literature values from 2 paper(s) (experimental 42, model 30, unspecified 30); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+96 accepted literature values from 2 paper(s) (experimental 42, model 30, unspecified 24); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SM.json) · [CSV](https://data.orchid-project.org/systems/AL-SM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SM/AlSm-08Jia.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-SM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SM.html) · [Markdown](https://data.orchid-project.org/systems/AL-SM.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 42 |
 | model | 30 |
-| unspecified | 30 |
+| unspecified | 24 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 55 |
 | phase transition | 12 |
 | phase equilibrium | 5 |
-| crystal structure | 30 |
+| crystal structure | 24 |
 
 ## Calculated phase diagrams
 
@@ -190,13 +190,12 @@ Table: Phase equilibrium, Al–Sm system
 | Phase composition |  | 1453 | σ + β; _σ: Al 0.686, Sm 0.314; β: Al 0.79, Sm 0.21_ | experimental | [1] Zhou 2008 | Table II, p. 3, row 4 |  |
 | Phase composition |  | 1453 | σ + δ + β; _σ: Al 0.687, Sm 0.313; δ: Al 0.756, Sm 0.244; β: Al 0.786, Sm 0.214_ | experimental | [1] Zhou 2008 | Table II, p. 3, row 3 |  |
 
-### Crystal structure (30)
+### Crystal structure (24)
 
 Table: Crystal structure, Al–Sm system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0495 Å | 298.15 | Al; _alloy: Sm 0_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 15 |  |
 | Lattice a | 6.654 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
 | Lattice a | 6.662 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
 | Lattice a | 4.284 Å | 298.15 | Sm3Al11; _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 12 |  |
@@ -208,9 +207,6 @@ Table: Crystal structure, Al–Sm system
 | Lattice a | 7.943 Å | 298.15 | SmAl2; _alloy: Sm 0.333333_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 9 |  |
 | Lattice a | 6.38 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
 | Lattice a | 6.382 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
-| Lattice a | 3.629 Å | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
-| Lattice a | 3.663 Å | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
-| Lattice a | 4.1 Å | 298.15 | γSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 3 |  |
 | Lattice b | 5.193 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 4 |  |
 | Lattice b | 5.19 Å | 298.15 | Sm2Al; _alloy: Sm 0.666667_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 5 |  |
 | Lattice b | 12.81 Å | 298.15 | Sm3Al11 (metastable?); _alloy: Sm 0.214286_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 14 |  |
@@ -224,8 +220,6 @@ Table: Crystal structure, Al–Sm system
 | Lattice c | 5.678 Å | 298.15 | SmAl; _alloy: Sm 0.5_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 6 |  |
 | Lattice c | 4.597 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 10 |  |
 | Lattice c | 4.6 Å | 298.15 | SmAl3; _alloy: Sm 0.25_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 11 |  |
-| Lattice c | 2.6207 Å | 298.15 | αSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 1 |  |
-| Lattice c | 5.8448 Å | 298.15 | βSm; _alloy: Sm 1_ | unspecified | [2] Saccone 1998 | Table 1, p. 8, row 2 |  |
 
 ## Sources
 

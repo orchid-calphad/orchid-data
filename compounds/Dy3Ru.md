@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Dy3Ru.html · Markdown: https://
 
 7 accepted literature formation-enthalpy value(s) (model 5, DFT 2); Materials Project -31.247 kJ/mol-atom (mp-aaackxwj); OQMD -30.961 kJ/mol-atom (oqmd-29929).
 
-Systems: [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html)
+Systems: [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html)
 
 ## Literature values
 
@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Dy3Ru reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -28.644 kJ/mol-atom | Dy3Ru |  | model | Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 19 |  |
-| -25.204 kJ/mol-atom | Dy3Ru |  | model | Modified Miedema's model | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 20 |  |
-| -16.545 kJ/mol-atom | Dy3Ru |  | model | OptimizationQM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
-| -15.978 kJ/mol-atom | Dy3Ru |  | model | OptimizationCM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
-| -15.693 kJ/mol-atom | Dy3Ru |  | model | OptimizationEM | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
-| -31.223 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 21 |  |
-| -30.934 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Gd–La–Nd–Ru](https://data.orchid-project.org/systems/DY-GD-LA-ND-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 22 |  |
+| -28.644 kJ/mol-atom | Dy3Ru |  | model | Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 19 |  |
+| -25.204 kJ/mol-atom | Dy3Ru |  | model | Modified Miedema's model | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 20 |  |
+| -16.545 kJ/mol-atom | Dy3Ru |  | model | OptimizationQM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
+| -15.978 kJ/mol-atom | Dy3Ru |  | model | OptimizationCM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
+| -15.693 kJ/mol-atom | Dy3Ru |  | model | OptimizationEM | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
+| -31.223 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 21 |  |
+| -30.934 kJ/mol-atom | Dy3Ru | 0 | DFT | Ab-initio | [Dy–Ru](https://data.orchid-project.org/systems/DY-RU.html) | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 22 |  |
 
 ### Uncertainty budget
 
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Dy3Ru
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28.644 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.204 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.545 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -15.978 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -15.693 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.223 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -30.934 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.644 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25.204 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.545 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -15.978 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -15.693 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.223 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -30.934 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

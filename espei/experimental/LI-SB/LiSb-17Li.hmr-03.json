@@ -468,7 +468,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 262.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -494,7 +494,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 343.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -572,7 +572,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 523.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -650,7 +650,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 756.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -676,7 +676,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 825.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -728,7 +728,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1018.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -754,7 +754,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1138.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -780,7 +780,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1194.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -832,7 +832,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1306.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -910,7 +910,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1504.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -962,7 +962,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1644.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -988,7 +988,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1709.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -1014,7 +1014,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 1735.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,

@@ -1,19 +1,18 @@
 # Pr–Zn phases
 
-> Pr–Zn system: 17 phases (tier A 6, tier B 2, tier C 6, liquid 1, needs_review 2); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Pr–Zn system: 16 phases (tier A 5, tier B 2, tier C 6, liquid 1, needs_review 2); 15 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/PR-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/PR-ZN.md
 
-17 phases (tier A 6, tier B 2, tier C 6, liquid 1, needs_review 2); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+16 phases (tier A 5, tier B 2, tier C 6, liquid 1, needs_review 2); 15 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=PR-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/PR-ZN.json) · [Pr–Zn system page](https://data.orchid-project.org/systems/PR-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/PR-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Pr–Zn system (17)
+Table: Phases of the Pr–Zn system (16)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-pr-zn-bcc-a2); _phase:pr-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 823.29–1209.79 K, x(Zn) 0–0.12528 | 12 | 2 |
-| [DHCP](#phase-pr-zn-dhcp); _phase:pr-zn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-pr-zn-dhcp-a3); _phase:pr-zn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1171.07 K, x(Zn) 0–0.01504 | 6 | 2 |
 | [FCC_A1](#phase-pr-zn-fcc-a1); _phase:pr-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-pr-zn-hcp-a3); _phase:pr-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1887.68 K, x(Zn) 1–1 | 2 | 2 |
@@ -72,24 +71,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Pr–Zn)
 
-- Id: `phase:pr-zn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-zn:dhcp)
-
-Names (1): _corpus: _corpus:phase:pr-zn:dhcp  
-
-
-## DHCP (Pr–Zn)
-
 - Id: `phase:pr-zn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1171.07 K, x(Zn) 0–0.01504
 - Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-zn:dhcp-a3)
 
-Names (5): _corpus: _corpus:phase:pr-zn:dhcp-a3  
+Names (6): _corpus: _corpus:phase:pr-zn:dhcp-a3, corpus:phase:pr-zn:dhcp  
 _paper: _paper:10.1016/j.jallcom.2007.03.120:dhcp, paper:10.1016/j.jallcom.2007.05.005:dhcp  
 _tdb: _tdb:PrZn-08Hua.tdb:DHCP, tdb:PrZn-08Wan.tdb:DHCP  
 

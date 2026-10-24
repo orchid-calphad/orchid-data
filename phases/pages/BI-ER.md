@@ -1,24 +1,23 @@
 # Bi–Er phases
 
-> Bi–Er system: 10 phases (tier A 5, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–Er system: 9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-ER.html · Markdown: https://data.orchid-project.org/phases/pages/BI-ER.md
 
-10 phases (tier A 5, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+9 phases (tier A 5, tier C 2, liquid 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-ER) · [full JSON](https://data.orchid-project.org/phases/systems/BI-ER.json) · [Bi–Er system page](https://data.orchid-project.org/systems/BI-ER.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-ER.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–Er system (10)
+Table: Phases of the Bi–Er system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-er-a7-rhombohedral); _phase:bi-er:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Er) 0–0 | 5 | 3 |
-| [BCC_A2](#phase-bi-er-bcc-a2); _phase:bi-er:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 2 | 3 |
+| [BCC_A2](#phase-bi-er-bcc-a2); _phase:bi-er:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [BI2ER](#phase-bi-er-bi2er); _phase:bi-er:bi2er_ | NdAs2 · mP12 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–861.11 K, x(Er) 0.33333–0.33333 | 4 | 1 |
-| [BI3ER5](#phase-bi-er-bi3er5); _phase:bi-er:bi3er5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1700.9 K, x(Er) 0.625–0.625 | 22 | 3 |
+| [BI3ER5](#phase-bi-er-bi3er5); _phase:bi-er:bi3er5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1700.9 K, x(Er) 0.625–0.625 | 28 | 3 |
 | [BIER_HT](#phase-bi-er-bier); _phase:bi-er:bier_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 2048.04–2133.04 K, x(Er) 0.5–0.5 | 0 | 1 |
 | [BIER_B1](#phase-bi-er-bier-b1); _phase:bi-er:bier-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2080.12 K, x(Er) 0.5–0.5 | 11 | 3 |
-| [BIER-HT](#phase-bi-er-bier-ht); _phase:bi-er:bier-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [FCC_A1](#phase-bi-er-fcc-a1); _phase:bi-er:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-bi-er-hcp-a3); _phase:bi-er:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.79 K, x(Er) 0.98613–1 | 9 | 3 |
 | [LIQUID](#phase-bi-er-liquid); _phase:bi-er:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 541–2500 K, x(Er) 0–1 | 34 | 3 |
@@ -76,11 +75,10 @@ _cited as the source of values for this phase_
 - Id: `phase:bi-er:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-er:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:bi-er:bcc-a2  
-_paper: _paper:10.1007/s11669-022-00947-8:β-ErBi  
+Names (4): _corpus: _corpus:phase:bi-er:bcc-a2  
 _tdb: _tdb:BiEr-13Wan.tdb:BCC_A2, tdb:BiEr-17Wan.tdb:BCC_A2, tdb:BiEr-22Ben.tdb:BCC_A2  
 
 
@@ -107,16 +105,14 @@ _tdb: _tdb:BiEr-13Wan.tdb:BCC_A2, tdb:BiEr-17Wan.tdb:BCC_A2, tdb:BiEr-22Ben.tdb:
 38: CONST BCC_A2 : BI ER : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2017.08.016](https://doi.org/10.1016/j.jnucmat.2017.08.016) Yafei Wang, Wentao Zhou, Shaoqiang Guo, Jinsuo Zhang, Thermodynamic properties of fission products (Pr, Ce, Er) in liquid bismuth by thermodynamic assessment, Journal of Nuclear Materials 495, 181-191 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
 _assessment that models this phase_
-- [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
-_cited as the source of values for this phase_
 
 ## BI2ER (Bi–Er)
 
@@ -158,7 +154,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.3750, Er 0.6250
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1700.9 K, x(Er) 0.625–0.625
-- Literature: 22 values (22 accepted) from 3 papers
+- Literature: 28 values (28 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-er:bi3er5)
 
 Names (7): _corpus: _corpus:phase:bi-er:bi3er5  
@@ -189,14 +185,16 @@ _tdb: _tdb:BiEr-13Wan.tdb:BI3ER5, tdb:BiEr-17Wan.tdb:BI3ER5, tdb:BiEr-22Ben.tdb:
 68: CONST BI3ER5 : BI : ER : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
-- [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2013.05.024](https://doi.org/10.1016/j.tca.2013.05.024) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Bo Wu, Thermodynamic assessment of the Bi–Er and the Bi–Dy systems, Thermochimica Acta 566, 44-49 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2017.08.016](https://doi.org/10.1016/j.jnucmat.2017.08.016) Yafei Wang, Wentao Zhou, Shaoqiang Guo, Jinsuo Zhang, Thermodynamic properties of fission products (Pr, Ce, Er) in liquid bismuth by thermodynamic assessment, Journal of Nuclear Materials 495, 181-191 (2017).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/s0925-8388(01)01009-x](https://doi.org/10.1016/s0925-8388%2801%2901009-x) M Drzyzga, J Szade, Structure and magnetism of R5Bi3 (R=Tb, Dy, Ho, Er) and Tb4Bi3, Journal of Alloys and Compounds 321, 27-34 (2001).  
+_cited as the source of values for this phase_
 - [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
 _cited as the source of values for this phase_
 - [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
@@ -216,7 +214,7 @@ _cited as the source of values for this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-er:bier)
 
-Names (2): _corpus: _corpus:phase:bi-er:bier  
+Names (3): _corpus: _corpus:phase:bi-er:bier, corpus:phase:bi-er:bier-ht  
 _tdb: _tdb:BiEr-22Ben.tdb:BIER_HT  
 
 
@@ -281,17 +279,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1515/zna-2002-9-1016](https://doi.org/10.1515/zna-2002-9-1016) M. N. Abdusalyamova, O. I. Rachmatov, The Investigation of Phase Diagrams of Erbium Pnictides, Zeitschrift für Naturforschung A 57, 98-100 (2002).  
 _cited as the source of values for this phase_
-
-## BIER-HT (Bi–Er)
-
-- Id: `phase:bi-er:bier-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-er:bier-ht)
-
-Names (1): _corpus: _corpus:phase:bi-er:bier-ht  
-
 
 ## FCC_A1 (Bi–Er)
 

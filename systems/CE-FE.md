@@ -84,16 +84,16 @@ Table: Invariant reactions reported in the literature for the Ce–Fe system (18
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1673 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.887 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 3 |  |
-| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.883; (δFe): Fe 0.01; (γFe): Fe 0.01 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 2 |  |
+| 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.883; (δFe): Fe 1; (γFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 2 |  |
 | 1672 | Liq. + (δFe) -> (γFe) | Liq.: Fe 0.9058; (δFe): Fe 0.9989; (γFe): Fe 0.9988 | model | [1] Su 2006 | Table 4, p. 4, row 1 |  |
-| 1341 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.576; (γFe): Fe 0.01; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 9 |  |
-| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.595; (γFe): Fe 0.01; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 8 |  |
+| 1341 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.576; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 9 |  |
+| 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.595; (γFe): Fe 1; Ce2Fe17: Fe 0.8947 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 8 |  |
 | 1336 | Liq. + (γFe) -> Ce2Fe17 | Liq.: Fe 0.5896; (γFe): Fe 0.999; Ce2Fe17: Fe 0.8947 | model | [1] Su 2006 | Table 4, p. 4, row 7 |  |
 | 1205 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.45; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 12 |  |
 | 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.459; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 11 |  |
 | 1198 | Liq. + Ce2Fe17 -> CeFe2 | Liq.: Fe 0.4636; Ce2Fe17: Fe 0.8947; CeFe2: Fe 0.6667 | model | [1] Su 2006 | Table 4, p. 4, row 10 |  |
 | 1198 | (γFe) + Ce2Fe17 -> (αFe) | Ce2Fe17: Ce 0.105263, Fe 0.894737 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 6 |  |
-| 1195 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 0.01; Ce2Fe17: Fe 0.8947; (αFe): Fe 0.01 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 5 |  |
+| 1195 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 1; Ce2Fe17: Fe 0.8947; (αFe): Fe 1 | experimental | [1] Su 2006; _cites Chuang 1987_ | Table 4, p. 4, row 5 |  |
 | 1192 | (γFe) + Ce2Fe17 -> (αFe) | (γFe): Fe 0.9993; Ce2Fe17: Fe 0.8947; (αFe): Fe 0.9998 | model | [1] Su 2006 | Table 4, p. 4, row 4 |  |
 | 999 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.042; (δCe): Fe 3.000e-4; (γCe): Fe 1.000e-4 | model | [1] Su 2006 | Table 4, p. 4, row 16 |  |
 | 998 | Liq. + (δCe) -> (γCe) | Liq.: Fe 0.087; (δCe): Fe 0; (γCe): Fe 0 | experimental | [1] Su 2006; _cites Gschneidner 1974_ | Table 4, p. 4, row 17 |  |

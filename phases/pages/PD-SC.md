@@ -16,7 +16,7 @@ Table: Phases of the Pd–Sc system (9)
 | [FCC_A1](#phase-pd-sc-fcc-a1); _phase:pd-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1829.3 K, x(Sc) 0–0.14915 | 0 | 1 |
 | [HCP_A3](#phase-pd-sc-hcp-a3); _phase:pd-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1608 K, x(Sc) 1–1 | 0 | 1 |
 | [LIQUID](#phase-pd-sc-liquid); _phase:pd-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1273.15–2500 K, x(Sc) 0–1 | 0 | 1 |
-| [PD2SC](#phase-pd-sc-pd2sc); _phase:pd-sc:pd2sc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1702.45 K, x(Sc) 0.33333–0.33333 | 0 | 1 |
+| [PD2SC](#phase-pd-sc-pd2sc); _phase:pd-sc:pd2sc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1702.45 K, x(Sc) 0.33333–0.33333 | 3 | 1 |
 | [PD3SC_L12](#phase-pd-sc-pd3sc-l12); _phase:pd-sc:pd3sc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1772.45 K, x(Sc) 0.25–0.25 | 0 | 1 |
 | [PDSC_B2](#phase-pd-sc-pdsc-b2); _phase:pd-sc:pdsc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1872.38 K, x(Sc) 0.5–0.50869 | 0 | 1 |
 | [PDSC2](#phase-pd-sc-pdsc2); _phase:pd-sc:pdsc2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1472.82 K, x(Sc) 0.66667–0.66667 | 0 | 1 |
@@ -133,10 +133,11 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (Pd2Sc) — Hallstedt 2025 mmc2 row for PD2SC: Pd2Sc
 - Stoichiometry: Pd 0.6667, Sc 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1702.45 K, x(Sc) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sc:pd2sc)
 
-Names (2): _corpus: _corpus:phase:pd-sc:pd2sc  
+Names (3): _corpus: _corpus:phase:pd-sc:pd2sc  
+_paper: _paper:10.1016/j.matpr.2019.08.196:Pd2Sc  
 _tdb: _tdb:PdSc-02Du.tdb:PD2SC  
 
 
@@ -149,10 +150,12 @@ _tdb: _tdb:PdSc-02Du.tdb:PD2SC
 50: CONST PD2SC : PD : SC : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.3139/146.020277](https://doi.org/10.3139/146.020277) Z. Du, C. Li, L. Lu, Z. Metallkd., 93, 277-80(2002).  
 _assessment that models this phase_
+- [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
+_reports values for this phase_
 
 ## PD3SC_L12 (Pd–Sc)
 

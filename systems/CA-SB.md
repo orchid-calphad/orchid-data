@@ -1,10 +1,10 @@
 # Ca–Sb system
 
-> Ca–Sb system: 4 accepted literature values (phase transition 2, formation 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Sb system: 36 accepted literature values (crystal structure 20, formation 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-SB.html · Markdown: https://data.orchid-project.org/systems/CA-SB.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 16, model 14, DFT 4, unspecified 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-SB/CaSb-15Qin.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-SB.md)
 
@@ -12,14 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 16 |
+| model | 14 |
+| DFT | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| formation | 2 |
+| formation | 14 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -56,12 +60,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–Sb system (2)
+Table: Enthalpies of formation, Ca–Sb system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -112 kJ/mol-atom ± 5 | 1100 | experimental | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 14 |  |
+| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -107 kJ/mol-atom ± 3 | 1078 | experimental | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 13 |  |
+| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -96.8 kJ/mol-atom | 298.15 | model | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015 | Table 3, p. 3, row 16 |  |
 | Ca11Sb10 |  | -96 unspecified ± 5 | 1100.15 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1990_ | p. 3 | “Bouhajib \[23,24\] reported the enthalpies of formation of Ca5Sb3 and Ca11Sb10 at 827 °C to be -112 75 and -96 75 kJ/ mole-atoms, respectively.” |
+| Ca11Sb10 |  | -92.36 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 15 |  |
+| Ca2Sb |  | -86.47 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 7 |  |
+| Ca2Sb | [Ca2Sb](https://data.orchid-project.org/compounds/Ca2Sb.html) | -76.94 kJ/mol-atom | 298.15 | model | -91.218 (mp-aaaaaort) | -86.636 (oqmd-1641) | [1] Qin 2015 | Table 3, p. 3, row 8 |  |
 | Ca5Sb3 |  | -112 unspecified ± 5 | 1100.15 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1990_ | p. 3 | “Bouhajib \[23,24\] reported the enthalpies of formation of Ca5Sb3 and Ca11Sb10 at 827 °C to be -112 75 and -96 75 kJ/ mole-atoms, respectively.” |
+| Ca5Sb3 |  | -96.14 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 11 |  |
+| Ca5Sb3 |  | -96 per mol-atom ± 5 | 1100 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10 |  |
+| Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -86 kJ/mol-atom ± 6 | 1078 | experimental | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
+| Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -84.44 kJ/mol-atom | 298.15 | model | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015 | Table 3, p. 3, row 12 |  |
+| CaSb2 | [CaSb2](https://data.orchid-project.org/compounds/CaSb2.html) | -75 kJ/mol-atom | 298.15 | model | -71.466 (mp-aaaaalcf) | -60.097 (oqmd-1772) | [1] Qin 2015 | Table 3, p. 3, row 18 |  |
+| CaSb2 |  | -60.18 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 17 |  |
 
 ## Other properties
 
@@ -73,6 +89,33 @@ Table: Phase transition, Ca–Sb system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1258.15 K | 1258.15 | congruent transformation | experimental | [1] Qin 2015; _cites Niyazova 1976_ | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
 | Phase transition | 1393.15 K | 1393.15 | congruent transformation | experimental | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | p. 2 | “By means of DTA, Bouhajib et al. \[18\] reported that the congruent melting point of Ca11Sb10 (1120 °C) contrasts with the corresponding value of 985 °C reported by Niyazova et al. \[14\].” |
+
+### Crystal structure (20)
+
+Table: Crystal structure, Ca–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 120.3 Å |  | Ca11Sb10; _alloy: Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
+| Lattice a | 47.7 Å |  | Ca2Sb; _alloy: Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
+| Lattice a | 90.8 Å |  | Ca5Sb3; _alloy: Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
+| Lattice a | 46.59 Å |  | CaSb2; _alloy: Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice a | 119.4 Å | 298.15 | Ca11Sb10; _alloy: Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
+| Lattice a | 46.7 Å | 298.15 | Ca2Sb; _alloy: Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
+| Lattice a | 90.31 Å | 298.15 | Ca5Sb3; _alloy: Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
+| Lattice a | 47.46 Å | 298.15 | CaSb2; _alloy: Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| Lattice b | 43.09 Å |  | CaSb2; _alloy: Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice b | 41.77 Å | 298.15 | CaSb2; _alloy: Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| Lattice c | 173.8 Å |  | Ca11Sb10; _alloy: Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
+| Lattice c | 167.4 Å |  | Ca2Sb; _alloy: Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
+| Lattice c | 69.56 Å |  | Ca5Sb3; _alloy: Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
+| Lattice c | 88.4 Å |  | CaSb2; _alloy: Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| Lattice c | 174 Å | 298.15 | Ca11Sb10; _alloy: Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
+| Lattice c | 162.8 Å | 298.15 | Ca2Sb; _alloy: Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
+| Lattice c | 70.25 Å | 298.15 | Ca5Sb3; _alloy: Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
+| Lattice c | 89.91 Å | 298.15 | CaSb2; _alloy: Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
+| lattice beta | 105.47 deg |  | CaSb2; _alloy: Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
+| lattice beta | 104.14 deg | 298.15 | CaSb2; _alloy: Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
 
 ## Sources
 

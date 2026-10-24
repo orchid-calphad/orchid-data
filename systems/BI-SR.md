@@ -1,10 +1,10 @@
 # Bi–Sr system
 
-> Bi–Sr system: 14 accepted literature values (invariant reaction 8, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Sr system: 45 accepted literature values (crystal structure 19, formation 12, invariant reaction 8, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-SR.html · Markdown: https://data.orchid-project.org/systems/BI-SR.md
 
-14 accepted literature values from 2 paper(s) (experimental 11, model 3); 1 calculated phase diagram(s).
+45 accepted literature values from 2 paper(s) (experimental 13, model 8, DFT 5, unspecified 19); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-SR.json) · [CSV](https://data.orchid-project.org/systems/BI-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-SR/BiSr-14Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-SR.html) · [Markdown](https://data.orchid-project.org/systems/BI-SR.md)
 
@@ -12,8 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 3 |
+| experimental | 13 |
+| model | 8 |
+| DFT | 5 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -21,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 8 |
 | phase transition | 6 |
+| formation | 12 |
+| crystal structure | 19 |
 
 ## Calculated phase diagrams
 
@@ -71,6 +75,27 @@ Table: Invariant reactions reported in the literature for the Bi–Sr system (8)
 | 833 | peritectic: LiquidþSrBi2SrBi3 |  | experimental | [1] Wang 2014; _cites Zhuravlev 1966_ | p. 2 | “A eutectic reaction Liquid2(Bi)þSrBi3, two peritectic reactions, LiquidþSrBi2SrBi3, and Liquidþ αSr3Bi22SrBi, and a polymorphic transformation αSr3Bi22βSr3Bi2 were reported to be at 533, 833, 983 and 973 K, respectively.” |
 | 535 | eutectic: Liquid -> (Bi) + SrBi3 |  | experimental | [1] Wang 2014 | p. 2 | “Four eutectic reactions, Liquid2 (Bi)þ SrBi3, Liquid2SrBi3 þ SrBi, Liquid2Sr2BiþSr3Bi2 and Liquid2 Sr2Biþ(βSr) and one peritectic reaction LiquidþSr3Bi22SrBi, were determined to be at 535, 855, 1086, 931 and 993 K, respectively.” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Sr system (12)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Sr11Bi10 |  | -76.19 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 16 |  |
+| Sr11Bi10 | [Bi10Sr11](https://data.orchid-project.org/compounds/Bi10Sr11.html) | -74.06 kJ/mol-atom | 298.15 | model | -82.788 (mp-aaaabsvp) | -84.404 (oqmd-50743) | [1] Wang 2014 | Table 2, p. 3, row 17 |  |
+| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -104 kJ/mol-atom ± 1.67 | 298.15 | experimental | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 22 |  |
+| Sr2Bi | [BiSr2](https://data.orchid-project.org/compounds/BiSr2.html) | -76.47 kJ/mol-atom | 298.15 | model | -72.467 (mp-aaaabrvf) | -74.05 (oqmd-7610) | [1] Wang 2014 | Table 2, p. 3, row 24 |  |
+| Sr2Bi |  | -73.23 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 23 |  |
+| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -89.87 kJ/mol-atom ± 5.64 | 298.15 | experimental | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014; _cites Shukarev 1956_ | Table 2, p. 3, row 13 |  |
+| SrBi3 |  | -43.22 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 14 |  |
+| SrBi3 | [Bi3Sr](https://data.orchid-project.org/compounds/Bi3Sr.html) | -42.56 kJ/mol-atom | 298.15 | model | -42.255 (mp-aaaabigt) | -43.387 (oqmd-10964) | [1] Wang 2014 | Table 2, p. 3, row 15 |  |
+| αSr5Bi3 |  | -84.51 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 18 |  |
+| αSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -82 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 19 |  |
+| βSr5Bi3 |  | -82.84 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 20 |  |
+| βSr5Bi3 | [Bi3Sr5](https://data.orchid-project.org/compounds/Bi3Sr5.html) | -80 kJ/mol-atom | 298.15 | model | -84.259 (mp-aaaabrvg) | -85.527 (oqmd-7612) | [1] Wang 2014 | Table 2, p. 3, row 21 |  |
+
 ## Other properties
 
 ### Phase transition (6)
@@ -85,6 +110,32 @@ Table: Phase transition, Bi–Sr system
 | Phase transition | 1131 K | 1131 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
 | Phase transition | 1218 K | 1218 |  | model | [1] Wang 2014 | p. 5 | “It is indicated that the melting temperature of the βSr5Bi3 phase is calculated to be 1218 K.” |
 | Phase transition | 1218 K | 1218 | congruent transformation | experimental | [1] Wang 2014 | p. 2 | “SrBi3, Sr3Bi2 and Sr2Bi melt congruently at 905, 1218 and 1131 K, respectively.” |
+
+### Crystal structure (19)
+
+Table: Crystal structure, Bi–Sr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 13.021 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
+| Lattice a | 12.765 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
+| Lattice a | 5.01 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
+| Lattice a | 5.06 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 21 |  |
+| Lattice a | 5.042 Å | 298.15 | SrBi3; _alloy: Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 20 |  |
+| Lattice a | 9.754 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
+| Lattice a | 9.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
+| Lattice a | 13.681 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice a | 13.37 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice b | 10.302 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice b | 10.233 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
+| Lattice c | 18.196 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 23 |  |
+| Lattice c | 18.407 Å | 298.15 | Sr11Bi10; _alloy: Sr 0.52381_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 22 |  |
+| Lattice c | 18.091 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 29 |  |
+| Lattice c | 17.68 Å | 298.15 | Sr2Bi; _alloy: Sr 0.666667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 28 |  |
+| Lattice c | 7.542 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 25 |  |
+| Lattice c | 7.63 Å | 298.15 | αSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 24 |  |
+| Lattice c | 8.917 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 27 |  |
+| Lattice c | 8.89 Å | 298.15 | βSr5Bi3; _alloy: Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 26 |  |
 
 ## Sources
 

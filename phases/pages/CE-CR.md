@@ -13,7 +13,7 @@ Table: Phases of the Ce–Cr system (5)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ce-cr-bcc-a2); _phase:ce-cr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.98 K, x(Cr) 0–1 | 13 | 1 |
-| [DHCP](#phase-ce-cr-dhcp-a3); _phase:ce-cr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 9 | 1 |
+| [DHCP](#phase-ce-cr-dhcp-a3); _phase:ce-cr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ce-cr-fcc-a1); _phase:ce-cr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1053.75 K, x(Cr) 0–0.00659 | 0 | 1 |
 | [HCP_A3](#phase-ce-cr-hcp-a3); _phase:ce-cr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ce-cr-liquid); _phase:ce-cr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1054.24–4000 K, x(Cr) 0–1 | 9 | 1 |
@@ -51,11 +51,10 @@ _assessment that models this phase; reports values for this phase_
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: Ce 1.0000
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-cr:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:ce-cr:dhcp-a3  
-_paper: _paper:10.1007/s11669-009-9581-3:γCe, paper:10.1007/s11669-009-9581-3:δCe  
+Names (2): _corpus: _corpus:phase:ce-cr:dhcp-a3  
 _tdb: _tdb:CeCr-09Cha.tdb:DHCP  
 
 
@@ -71,7 +70,7 @@ _tdb: _tdb:CeCr-09Cha.tdb:DHCP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-009-9581-3](https://doi.org/10.1007/s11669-009-9581-3) Wren Chan, Michael C. Gao, Ömer N. Doğan, Paul King, Anthony D. Rollett, Thermodynamic Assessment of Cr-Rare Earth Systems, J. Phase Equilib. Diffus. 30, 578-586 (2009).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ce–Cr)
 

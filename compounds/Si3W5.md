@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Si3W5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -138 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -135 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -133 | kJ/mol (basis unstated) | 25 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 25 |
-| -145 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -136 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -138 | kJ/mol (basis unstated) |  | 0.5 | 44.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 44.8 |
+| -135 | kJ/mol (basis unstated) |  | 0.5 | 44.8 (kems_vapour, cleaned_below_threshold) |  |  |  | 44.8 |
+| -133 | kJ/mol (basis unstated) | 25 | 0.5 | 36.8 (emf, cleaned_below_threshold) |  |  |  | 36.8 |
+| -145 | kJ/mol (basis unstated) |  | 0.5 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
+| -136 | kJ/mol (basis unstated) |  | 0.5 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
 
 ## Sources
 

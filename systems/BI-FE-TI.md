@@ -1,10 +1,10 @@
 # Bi–Fe–Ti system
 
-> Bi–Fe–Ti system: 33 accepted literature values (crystal structure 12, invariant reaction 10, phase equilibrium 8, formation 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Fe–Ti system: 23 accepted literature values (invariant reaction 10, phase equilibrium 8, crystal structure 4, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-FE-TI.html · Markdown: https://data.orchid-project.org/systems/BI-FE-TI.md
 
-33 accepted literature values from 1 paper(s) (experimental 8, model 16, DFT 9); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 8, model 12, DFT 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-FE-TI.json) · [CSV](https://data.orchid-project.org/systems/BI-FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-FE-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/BI-FE-TI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 16 |
-| DFT | 9 |
+| model | 12 |
+| DFT | 3 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase equilibrium | 8 |
-| formation | 3 |
-| crystal structure | 12 |
+| formation | 1 |
+| crystal structure | 4 |
 
 ## Invariant reactions (literature)
 
@@ -46,12 +46,10 @@ Table: Invariant reactions reported in the literature for the Bi–Fe–Ti syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–Fe–Ti system (3)
+Table: Enthalpies of formation, Bi–Fe–Ti system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bi9Ti8 |  | -16.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| BiTi2 |  | -12.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
 | Ti4Bi2Fe |  | -25.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 6 |  |
 
 ## Other properties
@@ -71,22 +69,14 @@ Table: Phase equilibrium, Bi–Fe–Ti system
 | Phase composition |  |  | Bi2FeTi4 + FeTi + α-Ti; _Bi2FeTi4: Bi 0.279, Fe 0.143, Ti 0.578; FeTi: Bi 0, Fe 0.482, Ti 0.518; α-Ti: Bi 0.01, Fe 0.015, Ti 0.975_ | experimental | [1] Huang 2014 | Table 2, p. 3, row 2 |  |
 | Phase composition |  |  | α-Ti + BiTi3; _α-Ti: Bi 0.015, Fe 0.005, Ti 0.98; BiTi3: Bi 0.253, Fe 0.006, Ti 0.741_ | experimental | [1] Huang 2014 | Table 2, p. 3, row 1 |  |
 
-### Crystal structure (12)
+### Crystal structure (4)
 
 Table: Crystal structure, Bi–Fe–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 10.277 Å | 0 | Bi9Ti8; _alloy: Fe 0, Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 10.294 Å | 0 | Bi9Ti8; _alloy: Fe 0, Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| Lattice a; _printed: a_ | 4.04 Å | 0 | BiTi2; _alloy: Fe 0, Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
-| Lattice a; _printed: a_ | 4.219 Å | 0 | BiTi2; _alloy: Fe 0, Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice a; _printed: a_ | 10.486 Å | 0 | Ti4Bi2Fe; _alloy: Fe 0.142857, Ti 0.571429_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 5 |  |
 | Lattice a; _printed: a_ | 10.533 Å | 0 | Ti4Bi2Fe; _alloy: Fe 0.142857, Ti 0.571429_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 6 |  |
-| Lattice c; _printed: c_ | 7.375 Å | 0 | Bi9Ti8; _alloy: Fe 0, Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
-| Lattice c; _printed: c_ | 7.442 Å | 0 | Bi9Ti8; _alloy: Fe 0, Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
-| Lattice c; _printed: c_ | 14.5 Å | 0 | BiTi2; _alloy: Fe 0, Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
-| Lattice c; _printed: c_ | 14.056 Å | 0 | BiTi2; _alloy: Fe 0, Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice c; _printed: c_ | 4.933 Å | 0 | Ti4Bi2Fe; _alloy: Fe 0.142857, Ti 0.571429_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 5 |  |
 | Lattice c; _printed: c_ | 4.941 Å | 0 | Ti4Bi2Fe; _alloy: Fe 0.142857, Ti 0.571429_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 6 |  |
 

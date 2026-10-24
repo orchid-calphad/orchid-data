@@ -1,10 +1,10 @@
 # Ge–Hf system
 
-> Ge–Hf system: 115 accepted literature values (crystal structure 51, invariant reaction 27, formation 21, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Hf system: 107 accepted literature values (crystal structure 43, invariant reaction 27, formation 21, phase equilibrium 15) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-HF.html · Markdown: https://data.orchid-project.org/systems/GE-HF.md
 
-115 accepted literature values from 1 paper(s) (experimental 68, model 21, DFT 7, unspecified 19); 1 calculated phase diagram(s).
+107 accepted literature values from 1 paper(s) (experimental 63, model 21, DFT 7, unspecified 16); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-HF.json) · [CSV](https://data.orchid-project.org/systems/GE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-HF/GeHf-14Tan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-HF.html) · [Markdown](https://data.orchid-project.org/systems/GE-HF.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 68 |
+| experimental | 63 |
 | model | 21 |
 | DFT | 7 |
-| unspecified | 19 |
+| unspecified | 16 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | phase equilibrium | 15 |
 | formation | 21 |
-| crystal structure | 51 |
+| crystal structure | 43 |
 
 ## Calculated phase diagrams
 
@@ -161,15 +161,13 @@ Table: Phase equilibrium, Ge–Hf system
 | Phase assemblage |  | 1373.15 | Hf5Ge3 + Hf5Ge4; _alloy: Ge 0.385, Hf 0.615_ | experimental | [1] Tang 2014 | Table 3, p. 4, row 5 |  |
 | Phase assemblage |  | 1373.15 | HfGe2 + Hf5Ge4; _alloy: Ge 0.465, Hf 0.535_ | experimental | [1] Tang 2014 | Table 3, p. 4, row 7 |  |
 
-### Crystal structure (51)
+### Crystal structure (43)
 
 Table: Crystal structure, Ge–Hf system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.651 Å |  | (Ge); _alloy: Hf 0_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 8 |  |
-| Lattice a | 3.192 Å |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
-| Lattice a | 3.532 Å |  | (βHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 5 |  |
 | Lattice a | 6.609 Å |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
 | Lattice a | 10.953 Å |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
 | Lattice a | 7.156 Å |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
@@ -177,8 +175,6 @@ Table: Crystal structure, Ge–Hf system
 | Lattice a | 7.056 Å |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice a | 3.833 Å |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
 | Lattice a | 5.651 Å | 298.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014; _cites Qadri 1983_ [doi](https://doi.org/10.1063/1.332434) | Table 4, p. 5, row 6 |  |
-| Lattice a | 3.197 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
-| Lattice a | 3.5 Å | 298.15 | (βHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 4, p. 5, row 4 |  |
 | Lattice a | 6.577 Å | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
 | Lattice a | 10.901 Å | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
 | Lattice a | 7.06 Å | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
@@ -186,7 +182,6 @@ Table: Crystal structure, Ge–Hf system
 | Lattice a | 6.995 Å | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice a | 3.791 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
 | Lattice a | 5.663 Å | 1073.15 | (Ge); _alloy: Hf 0_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 7 |  |
-| Lattice a | 3.206 Å | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice a | 6.592 Å | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
 | Lattice a | 10.908 Å | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice a | 7.912 Å | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |
@@ -198,21 +193,18 @@ Table: Crystal structure, Ge–Hf system
 | Lattice b | 14.863 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
 | Lattice b | 13.389 Å | 1373.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 21 |  |
 | Lattice b | 14.905 Å | 1373.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 24 |  |
-| Lattice c | 5.046 Å |  | (αHf); _alloy: Hf 1_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 3 |  |
 | Lattice c | 5.316 Å |  | Hf2Ge; _alloy: Hf 0.666667_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 14 |  |
 | Lattice c | 5.421 Å |  | Hf3Ge; _alloy: Hf 0.75_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 11 |  |
 | Lattice c | 3.697 Å |  | Hf3Ge2; _alloy: Hf 0.6_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 19 |  |
 | Lattice c | 5.541 Å |  | Hf5Ge3; _alloy: Hf 0.625_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 17 |  |
 | Lattice c | 7.128 Å |  | Hf5Ge4; _alloy: Hf 0.555556_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 22 |  |
 | Lattice c | 3.799 Å |  | HfGe2; _alloy: Hf 0.333333_ | unspecified | [1] Tang 2014 | Table 4, p. 5, row 25 |  |
-| Lattice c | 5.058 Å | 298.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014; _cites Markin 1983_ | Table 4, p. 5, row 1 |  |
 | Lattice c | 5.274 Å | 298.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 12 |  |
 | Lattice c | 5.41 Å | 298.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 9 |  |
 | Lattice c | 3.72 Å | 298.15 | Hf3Ge2; _alloy: Hf 0.6_ | experimental | [1] Tang 2014; _cites Rossteutscher 1965_ | Table 4, p. 5, row 18 |  |
 | Lattice c | 5.549 Å | 298.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 15 |  |
 | Lattice c | 7.077 Å | 298.15 | Hf5Ge4; _alloy: Hf 0.555556_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 20 |  |
 | Lattice c | 3.754 Å | 298.15 | HfGe2; _alloy: Hf 0.333333_ | experimental | [1] Tang 2014; _cites Kotur 1991_ | Table 4, p. 5, row 23 |  |
-| Lattice c | 5.085 Å | 1373.15 | (αHf); _alloy: Hf 1_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 2 |  |
 | Lattice c | 5.306 Å | 1373.15 | Hf2Ge; _alloy: Hf 0.666667_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 13 |  |
 | Lattice c | 5.401 Å | 1373.15 | Hf3Ge; _alloy: Hf 0.75_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 10 |  |
 | Lattice c | 5.545 Å | 1373.15 | Hf5Ge3; _alloy: Hf 0.625_ | experimental | [1] Tang 2014 | Table 4, p. 5, row 16 |  |

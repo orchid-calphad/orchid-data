@@ -1,10 +1,10 @@
 # Cu–O system
 
-> Cu–O system: 403 accepted literature values (activity / EMF / Gibbs energy 246, invariant reaction 58, formation 39, heat capacity / entropy / enthalpy 37) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–O system: 376 accepted literature values (model expression 174, invariant reaction 58, activity / EMF / Gibbs energy 45, formation 39) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-O.html · Markdown: https://data.orchid-project.org/systems/CU-O.md
 
-403 accepted literature values from 2 paper(s) (experimental 324, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+376 accepted literature values from 3 paper(s) (experimental 297, model 79); 2 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-O.json) · [CSV](https://data.orchid-project.org/systems/CU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-O/CuO-14Mag.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-O.html) · [Markdown](https://data.orchid-project.org/systems/CU-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 324 |
+| experimental | 297 |
 | model | 79 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 | phase transition | 23 |
 | formation | 39 |
 | heat capacity / entropy / enthalpy | 37 |
-| activity / EMF / Gibbs energy | 246 |
+| activity / EMF / Gibbs energy | 45 |
+| model expression | 174 |
 
 ## Calculated phase diagrams
 
@@ -119,8 +120,6 @@ Table: Enthalpies of formation, Cu–O system (27)
 | Cu2O | [Cu2O](https://data.orchid-project.org/compounds/Cu2O.html) | -56.7633 kJ/mol-atom | 298.15 | experimental | -62.185 (mp-aaaaaanx) | -66.037 (oqmd-643065) | [1] Hallstedt 1994; _cites Thomsen 1883_ | Table 8, p. 13, row 1 |  |
 | Cu2O | [Cu2O](https://data.orchid-project.org/compounds/Cu2O.html) | -56.7533 kJ/mol-atom | 298.15 | model | -62.185 (mp-aaaaaanx) | -66.037 (oqmd-643065) | [1] Hallstedt 1994 | Table 8, p. 13, row 17 |  |
 | Cu2O | [Cu2O](https://data.orchid-project.org/compounds/Cu2O.html) | -54.95 kJ/mol-atom | 293 | experimental | -62.185 (mp-aaaaaanx) | -66.037 (oqmd-643065) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
-| CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -138.16 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 5 |  |
-| CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -138.16 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -80.855 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 10 |  |
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -80.855 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Nufiez 1969_ | Table 8, p. 13, row 12 |  |
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -80.54 kJ/mol-atom | 295 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites H 1932_ | Table 8, p. 13, row 3 |  |
@@ -138,6 +137,8 @@ Table: Enthalpies of formation, Cu–O system (27)
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -77.015 kJ/mol-atom | 298.15 | model | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Boud 1991_ | Table 8, p. 13, row 15 |  |
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -76.15 kJ/mol-atom | 293 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 7 |  |
 | CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -76.15 kJ/mol-atom | 293 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites ref. 34Bil_ | Table 8, p. 13, row 6 |  |
+| CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -69.08 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 5 |  |
+| CuO | [CuO](https://data.orchid-project.org/compounds/CuO.html) | -69.08 kJ/mol-atom | 298.15 | experimental | -90.966 (mp-aaaaacnc) | -80.231 (oqmd-1343583) | [1] Hallstedt 1994; _cites Wrhler 1934_ | Table 8, p. 13, row 4 |  |
 
 ## Other properties
 
@@ -234,7 +235,7 @@ Table: Heat capacity / entropy / enthalpy, Cu–O system
 | Heat capacity; _printed: Cp(CuO)_ | 42.25 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 10, p. 13, row 10 |  |
 | Heat capacity; _printed: Cp(CuO)_ | 42.29 J/mol (basis unstated)/K | 298.15 | CuO; _alloy: O 0.5_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 10, p. 13, row 11 |  |
 
-### Activity / EMF / Gibbs energy (246)
+### Activity / EMF / Gibbs energy (45)
 
 Table: Activity / EMF / Gibbs energy, Cu–O system
 
@@ -258,234 +259,214 @@ Table: Activity / EMF / Gibbs energy, Cu–O system
 | Gibbs energy; _printed: ΔG0_ | -76900 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9 |  |
 | Gibbs energy; _printed: ΔG0_ | -78380 J/mol |  | liquid | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 1 |  |
 | Gibbs energy; _printed: ΔG0_ | -77920 J/mol |  | liquid | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 1 |  |
-| Gibbs energy; _printed: ΔG0 at 1373 K \[printed: −76200, −75820\]_ | -76200 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10 |  |
-| Gibbs energy; _printed: ΔG0 at 1473 K \[printed: −76200, −75820\]_ | -75820 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Diaz 1967_ | Table 3, p. 9, row 10 |  |
-| Gibbs energy; _printed: ΔG0 at 1773 K \[printed: −78150, −79080\]_ | -78150 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6 |  |
-| Gibbs energy; _printed: ΔG0 at 1823 K \[printed: −78150, −79080\]_ | -79080 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1965_ | Table 3, p. 9, row 6 |  |
-| Gibbs energy; _printed: ΔG0 at 1473 K \[printed: −75400, −73550\]_ | -73550 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37 |  |
-| Gibbs energy; _printed: ΔG0 at 1373 K \[printed: −75400, −73550\]_ | -75400 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fitzner 1979_ [doi](https://doi.org/10.1179/030716979803276255) | Table 3, p. 9, row 37 |  |
-| Gibbs energy; _printed: ΔG0 at 1523 K \[printed: −80940, −76620\]_ | -80940 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30 |  |
-| Gibbs energy; _printed: ΔG0 at 1698 K \[printed: −80940, −76620\]_ | -76620 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Hendry 1974_ | Table 3, p. 9, row 30 |  |
-| Gibbs energy; _printed: ΔG0 at 1479 K \[printed: −78380, −77920\]_ | -77920 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39 |  |
-| Gibbs energy; _printed: ΔG0 at 1400 K \[printed: −78380, −77920\]_ | -78380 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 9, row 39 |  |
-| Gibbs energy; _printed: ΔG0 at 1523 K \[printed: −85530, −85690\]_ | -85690 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11 |  |
-| Gibbs energy; _printed: ΔG0 at 1423 K \[printed: −85530, −85690\]_ | -85530 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites M 1967_ | Table 3, p. 9, row 11 |  |
-| Gibbs energy; _printed: ΔG0 at 1373 K \[printed: −76130, −75000\]_ | -76130 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23 |  |
-| Gibbs energy; _printed: ΔG0 at 1573 K \[printed: −76130, −75000\]_ | -75000 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Jac_ | Table 3, p. 9, row 23 |  |
-| Gibbs energy; _printed: ΔG0 at 1473 K \[printed: −76900, −75960\]_ | -75960 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9 |  |
-| Gibbs energy; _printed: ΔG0 at 1373 K \[printed: −76900, −75960\]_ | -76900 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Wilder 1966_ | Table 3, p. 9, row 9 |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -112.67 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Maier 1929_ [doi](https://doi.org/10.1021/ja01376a024) | Table 11, p. 13, row 4 |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -107.6 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994 | Table 11, p. 13, row 10 |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -110.21 kJ/mol | 298.15 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 10All_ | Table 11, p. 13, row 2 |  |
 | Gibbs energy; _printed: ΔG(Cu2O/CuO)_ | -108.7 kJ/mol | 298.15 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 11, p. 13, row 9 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -118510 J/mol | 875 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 7, p. 12, row 14 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 76.61 unknown | 875 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 7, p. 12, row 14 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.57 J/mol/K | 886.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 6, p. 11, row 23 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -164300 J/mol | 886.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 6, p. 11, row 23 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -142220 J/mol | 896 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 7, p. 12, row 15 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 173.54 unknown | 896 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 7, p. 12, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167360 J/mol | 973 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.94 J/mol/K | 973 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -164810 J/mol | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 125.18 unknown | 973 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -100340 J/mol | 987 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 58Hil_ | Table 6, p. 11, row 4 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 96.42 unknown | 998.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -135000 J/mol | 998.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -174080 J/mol | 1000 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 6, p. 11, row 32 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 122.9 J/mol/K | 1000 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 6, p. 11, row 32 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 187.96 unknown | 1000 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 7, p. 12, row 23 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -144900 J/mol | 1000 | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 7, p. 12, row 23 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166760 J/mol | 1003 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 6, p. 11, row 30 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.99 J/mol/K | 1003 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 6, p. 11, row 30 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -177280 J/mol | 1020 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 6, p. 11, row 33 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 134.92 J/mol/K | 1020 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 6, p. 11, row 33 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -174010 J/mol | 1020 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 6, p. 11, row 34 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 125.48 J/mol/K | 1020 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 6, p. 11, row 34 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 93.22 unknown | 1020 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 7, p. 12, row 12 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -135560 J/mol | 1020 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 7, p. 12, row 12 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 177.56 unknown | 1026.5 | UNKNOWN | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 24 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -138180 J/mol | 1026.5 | UNKNOWN | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 24 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 185.32 unknown | 1026.5 | UNKNOWN | model | [1] Hallstedt 1994 | Table 7, p. 12, row 25 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -143380 J/mol | 1026.5 | UNKNOWN | model | [1] Hallstedt 1994 | Table 7, p. 12, row 25 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 96.15 unknown | 1036.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 7, p. 12, row 18 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -134080 J/mol | 1036.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 7, p. 12, row 18 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166670 J/mol | 1039 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 6, p. 11, row 26 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 72.45 J/mol/K | 1039 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 6, p. 11, row 26 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -173850 J/mol | 1041 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 6, p. 11, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 122.99 J/mol/K | 1041 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 6, p. 11, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166650 J/mol | 1043 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Bugden 1970_ | Table 6, p. 11, row 18 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.22 J/mol/K | 1043 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Bugden 1970_ | Table 6, p. 11, row 18 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -132410 J/mol | 1049.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 96.63 unknown | 1049.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.29 J/mol/K | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166400 J/mol | 1056.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 93.99 J/mol/K | 1059.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -170220 J/mol | 1059.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -161830 J/mol | 1073 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Hammer 1984_ | Table 6, p. 11, row 24 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 64.82 J/mol/K | 1073 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Hammer 1984_ | Table 6, p. 11, row 24 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 119.88 J/mol/K | 1075 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -173240 J/mol | 1075 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T lnT)_ | -6.09 J/mol/K | 1075 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -173730 J/mol | 1083.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 6, p. 11, row 2 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 96.45 J/mol/K | 1083.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 6, p. 11, row 2 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 94.58 unknown | 1083.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 7, p. 12, row 4 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -130920 J/mol | 1083.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 7, p. 12, row 4 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -131110 J/mol | 1084.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 20 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 94.36 unknown | 1084.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 20 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 70.46 J/mol/K | 1103 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 6, p. 11, row 19 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -165730 J/mol | 1103 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 6, p. 11, row 19 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -174140 J/mol | 1106 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 124.91 J/mol/K | 1106 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T lnT)_ | -6.67 J/mol/K | 1106 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 95.15 unknown | 1106 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 12, row 11 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -132040 J/mol | 1106 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 12, row 11 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 72.2 J/mol/K | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 11 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167610 J/mol | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 11 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.56 J/mol/K | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 10 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167170 J/mol | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 10 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.88 J/mol/K | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 75Mos1_ | Table 6, p. 11, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -165080 J/mol | 1123 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 75Mos1_ | Table 6, p. 11, row 21 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -130950 J/mol | 1123 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Bidwell 1967_ [doi](https://doi.org/10.1149/1.2426501) | Table 7, p. 12, row 9 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 94.38 unknown | 1123 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Bidwell 1967_ [doi](https://doi.org/10.1149/1.2426501) | Table 7, p. 12, row 9 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167640 J/mol | 1126 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 6, p. 11, row 12 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.7 J/mol/K | 1126 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 6, p. 11, row 12 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167390 J/mol | 1145 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Moriyama 1969_ | Table 6, p. 11, row 16 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.99 J/mol/K | 1145 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Moriyama 1969_ | Table 6, p. 11, row 16 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 70.93 J/mol/K | 1155.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1981_ | Table 6, p. 11, row 25 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -166300 J/mol | 1155.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1981_ | Table 6, p. 11, row 25 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 93.59 unknown | 1158.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hochgeschwender 1968_ | Table 7, p. 12, row 10 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -129700 J/mol | 1158.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hochgeschwender 1968_ | Table 7, p. 12, row 10 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 74 J/mol/K | 1170 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Peters 1958_ [doi](https://doi.org/10.1007/bf00639610) | Table 6, p. 11, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167330 J/mol | 1170 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Peters 1958_ [doi](https://doi.org/10.1007/bf00639610) | Table 6, p. 11, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 72.63 J/mol/K | 1170 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Yu 1965_ | Table 6, p. 11, row 8 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -168850 J/mol | 1170 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Yu 1965_ | Table 6, p. 11, row 8 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 72.66 J/mol/K | 1173 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sellars 1966_ | Table 6, p. 11, row 9 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -168620 J/mol | 1173 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sellars 1966_ | Table 6, p. 11, row 9 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -167650 J/mol | 1173 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 6, p. 11, row 20 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 71.47 J/mol/K | 1173 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 6, p. 11, row 20 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -130450 J/mol | 1173 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 75Jac_ | Table 7, p. 12, row 17 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 93.98 unknown | 1173 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 75Jac_ | Table 7, p. 12, row 17 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -125350 J/mol | 1173 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 7, p. 12, row 16 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 88.84 unknown | 1173 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 7, p. 12, row 16 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -125240 J/mol | 1174 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 19 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 89.84 unknown | 1174 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 19 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -169100 J/mol | 1178 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 6, p. 11, row 31 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 73.33 J/mol/K | 1178 | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 6, p. 11, row 31 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 89.38 unknown | 1181.5 | UNKNOWN | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 7, p. 12, row 22 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -128100 J/mol | 1181.5 | UNKNOWN | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 7, p. 12, row 22 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -126930 J/mol | 1194.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Assayag 1955_ | Table 7, p. 12, row 5 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 90.89 unknown | 1194.5 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Assayag 1955_ | Table 7, p. 12, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 74.61 J/mol/K | 1198 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kiukkola 1958_ | Table 6, p. 11, row 3 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -171440 J/mol | 1198 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kiukkola 1958_ | Table 6, p. 11, row 3 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 72.66 J/mol/K | 1223 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 6, p. 11, row 1 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -162580 J/mol | 1223 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 6, p. 11, row 1 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -121760 J/mol | 1235 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 7, p. 12, row 3 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 87.22 unknown | 1235 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 7, p. 12, row 3 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -134230 J/mol | 1243 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 7, p. 12, row 2 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 98.84 unknown | 1243 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 7, p. 12, row 2 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -118520 J/mol | 1248 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 84.72 unknown | 1248 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -165490 J/mol | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 69.87 J/mol/K | 1257.5 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 47.7 J/mol/K | 1270 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -134720 J/mol | 1270 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -10950 J/mol | 1273 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 64Sch_ | Table 7, p. 12, row 8 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -148530 J/mol | 1310 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 6, p. 11, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 59.58 J/mol/K | 1310 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 6, p. 11, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (constant term A)_ | -173570 J/mol | 1322 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 6, p. 11, row 13 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 76.99 J/mol/K | 1322 | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 6, p. 11, row 13 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -126880 J/mol | 1322 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Gadalla 1963_ | Table 7, p. 12, row 6 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 90.75 unknown | 1322 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Gadalla 1963_ | Table 7, p. 12, row 6 |  |
+| Gibbs energy; _printed: ΔG° b (T)_ | 95.804 J/mol/K | 980 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22 |  |
+| Gibbs energy; _printed: ΔG° a_ | -132520 J/mol | 980 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22 |  |
+| Gibbs energy; _printed: ΔG° b (T)_ | 125.535 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
+| Gibbs energy; _printed: ΔG° a_ | -174010 J/mol | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
+| Gibbs energy; _printed: ΔG° c (T ln T)_ | -6.79 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
+| Gibbs energy; _printed: ΔG° a_ | -167024 J/mol | 1050 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20 |  |
+| Gibbs energy; _printed: ΔG° b (T)_ | 71.65 J/mol/K | 1050 | UNKNOWN; _alloy: Cu 0.666667, O 0.333333_ | experimental | [3] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20 |  |
 | Gibbs energy; _printed: ΔG0_ | -76590 J/mol | 1373 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −76590\]_ | -76590 J/mol | 1373 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fitzner 1978_ | Table 3, p. 9, row 35 |  |
-| Gibbs energy; _printed: ΔG0_ | -78380 J/mol | 1400 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 14 |  |
 | Gibbs energy; _printed: ΔG0_ | -76650 J/mol | 1408 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −76650\]_ | -76650 J/mol | 1408 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Nanda 1970_ [doi](https://doi.org/10.1007/bf02900236) | Table 3, p. 9, row 20 |  |
 | Gibbs energy; _printed: ΔG0_ | -76660 J/mol | 1418 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rickert 1966_ [doi](https://doi.org/10.1016/0013-4686%2866%2985009-0) | Table 3, p. 9, row 8 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −76660\]_ | -76660 J/mol | 1418 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Rickert 1966_ [doi](https://doi.org/10.1016/0013-4686%2866%2985009-0) | Table 3, p. 9, row 8 |  |
 | Gibbs energy; _printed: ΔG0_ | -79570 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Moser 1975_ | Table 3, p. 9, row 33 |  |
 | Gibbs energy; _printed: ΔG0_ | -75460 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 3, p. 9, row 19 |  |
 | Gibbs energy; _printed: ΔG0_ | -73640 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Janke 1975_ | Table 3, p. 9, row 32 |  |
 | Gibbs energy; _printed: ΔG0_ | -77920 J/mol | 1423 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Pluschkell 1965_ | Table 3, p. 9, row 5 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −79570\]_ | -79570 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Moser 1975_ | Table 3, p. 9, row 33 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −73800−1.71T\]_ | -73800 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Hyt6nen and E Taskinen 1979_ | Table 3, p. 9, row 38 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −73800−1.71T\]_ | -1.71 J/mol/K | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Hyt6nen and E Taskinen 1979_ | Table 3, p. 9, row 38 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75460\]_ | -75460 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 3, p. 9, row 19 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −74540+0.38T\]_ | -74540 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Ois_ | Table 3, p. 9, row 24 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −74540+0.38T\]_ | 0.38 J/mol/K | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Ois_ | Table 3, p. 9, row 24 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −73640\]_ | -73640 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Janke 1975_ | Table 3, p. 9, row 32 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −77920\]_ | -77920 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Pluschkell 1965_ | Table 3, p. 9, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | -3.93 J/mol/K | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Taskinen and H 1979_ | Table 3, p. 10, row 3 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -70310 J/mol | 1423 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Taskinen and H 1979_ | Table 3, p. 10, row 3 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −66940−2.31T\]_ | -66940 J/mol | 1429.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Thompson 1971_ [doi](https://doi.org/10.1179/cmq.1971.10.4.315) | Table 3, p. 9, row 25 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −66940−2.31T\]_ | -2.31 J/mol/K | 1429.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Thompson 1971_ [doi](https://doi.org/10.1179/cmq.1971.10.4.315) | Table 3, p. 9, row 25 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −84262+6.76T\]_ | 6.76 J/mol/K | 1448 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tsukahara 1970_ [doi](https://doi.org/10.2320/jinstmet1952.34.7_679) | Table 3, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −84262+6.76T\]_ | -84262 J/mol | 1448 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tsukahara 1970_ [doi](https://doi.org/10.2320/jinstmet1952.34.7_679) | Table 3, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -75500 J/mol | 1458 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Ots_ | Table 3, p. 10, row 6 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | -0.12 J/mol/K | 1458 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Ots_ | Table 3, p. 10, row 6 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −129270+38.83T\]_ | 38.83 J/mol/K | 1468 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Girardi 1950_ | Table 3, p. 9, row 2 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −129270+38.83T\]_ | -129270 J/mol | 1468 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Girardi 1950_ | Table 3, p. 9, row 2 |  |
 | Gibbs energy; _printed: ΔG0_ | -75940 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 69Blo_ | Table 3, p. 9, row 16 |  |
 | Gibbs energy; _printed: ΔG0_ | -76360 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Staffansson 1974_ | Table 3, p. 9, row 31 |  |
 | Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 9, row 46 |  |
 | Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 9, row 40 |  |
 | Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | liquid | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 10, row 2 |  |
 | Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | liquid | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 10, row 8 |  |
-| Gibbs energy; _printed: ΔG0_ | -74600 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 10, row 2 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −66110−7.66T\]_ | -7.66 J/mol/K | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 70Eln_ | Table 3, p. 9, row 18 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −66110−7.66T\]_ | -66110 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 70Eln_ | Table 3, p. 9, row 18 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75940\]_ | -75940 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 69Blo_ | Table 3, p. 9, row 16 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −76360\]_ | -76360 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Staffansson 1974_ | Table 3, p. 9, row 31 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75560−0.06T\]_ | -75560 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Reimann 1967_ | Table 3, p. 9, row 12 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −90370+10.71T\]_ | 10.71 J/mol/K | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Oberg 1973_ [doi](https://doi.org/10.1007/bf02649605) | Table 3, p. 9, row 29 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −90370+10.71T\]_ | -90370 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Oberg 1973_ [doi](https://doi.org/10.1007/bf02649605) | Table 3, p. 9, row 29 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −78490+1.96T\]_ | -78490 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 3, p. 9, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −78490+1.96T\]_ | 1.96 J/mol/K | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 3, p. 9, row 15 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75400\]_ | -75400 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 9, row 46 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −81280+2.90T\]_ | -81280 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kulkami 1973_ | Table 3, p. 9, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −81280+2.90T\]_ | 2.9 J/mol/K | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kulkami 1973_ | Table 3, p. 9, row 28 |  |
-| Gibbs energy; _printed: ΔG0_ | -75400 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 83Aru_ | Table 3, p. 10, row 8 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −74600\]_ | -74600 J/mol | 1473 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sudavtsova 1979_ | Table 3, p. 9, row 40 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 6.9 J/mol/K | 1473 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Sigworth 1974_ [doi](https://doi.org/10.1179/cmq.1974.13.3.455) | Table 3, p. 10, row 10 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -85350 J/mol | 1473 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Sigworth 1974_ [doi](https://doi.org/10.1179/cmq.1974.13.3.455) | Table 3, p. 10, row 10 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −77450+0.38T\]_ | 0.38 J/mol/K | 1478.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sano 1956_ | Table 3, p. 9, row 3 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −77450+0.38T\]_ | -77450 J/mol | 1478.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sano 1956_ | Table 3, p. 9, row 3 |  |
-| Gibbs energy; _printed: ΔG0_ | -77920 J/mol | 1479 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Puchi 1979_ | Table 3, p. 10, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −136290+30.86T\]_ | 30.86 J/mol/K | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 33All_ | Table 3, p. 9, row 1 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −136290+30.86T\]_ | -136290 J/mol | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 33All_ | Table 3, p. 9, row 1 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -74510 J/mol | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Tas1_ | Table 3, p. 10, row 7 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −81770+4.00T\]_ | -81770 J/mol | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fmehan 1969_ | Table 3, p. 9, row 17 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75680+0.44T\]_ | -75680 J/mol | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 67Stu_ | Table 3, p. 9, row 13 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −75680+0.44T\]_ | 0.44 J/mol/K | 1523 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 67Stu_ | Table 3, p. 9, row 13 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | -5.83 J/mol/K | 1531.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ | Table 3, p. 10, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -67040 J/mol | 1531.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ | Table 3, p. 10, row 5 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -77010 J/mol | 1533 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 3, p. 10, row 9 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 1.07 J/mol/K | 1533 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 3, p. 10, row 9 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −72850−2.13T\]_ | -72850 J/mol | 1533 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Janke 1978_ | Table 3, p. 9, row 36 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −72850−2.13T\]_ | -2.13 J/mol/K | 1533 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Janke 1978_ | Table 3, p. 9, row 36 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −73220−2.18T\]_ | -2.18 J/mol/K | 1538 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1966_ | Table 3, p. 9, row 7 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −73220−2.18T\]_ | -73220 J/mol | 1538 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1966_ | Table 3, p. 9, row 7 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −76560+0.54T\]_ | 0.54 J/mol/K | 1568 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 3, p. 9, row 34 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −76560+0.54T\]_ | -76560 J/mol | 1568 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 3, p. 9, row 34 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 3.86 J/mol/K | 1570 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 3, p. 10, row 12 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -71650 J/mol | 1570 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 3, p. 10, row 12 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -78420 J/mol | 1570 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994 | Table 3, p. 10, row 13 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | 22.24 J/mol/K | 1570 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994 | Table 3, p. 10, row 13 |  |
 | Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 9, row 42 |  |
 | Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | liquid | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 10, row 4 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75240\]_ | -75240 J/mol | 1573 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 9, row 42 |  |
-| Gibbs energy; _printed: ΔG0_ | -75240 J/mol | 1573 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kemori 1980_ [doi](https://doi.org/10.2320/matertrans1960.21.275) | Table 3, p. 10, row 4 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T)_ | -0.71 J/mol/K | 1575 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 3, p. 10, row 11 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -74100 J/mol | 1575 | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 3, p. 10, row 11 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −104580+17.95T\]_ | -104580 J/mol | 1575.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Biswas 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.3.257) | Table 3, p. 9, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −104580+17.95T\]_ | 17.95 J/mol/K | 1575.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Biswas 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.3.257) | Table 3, p. 9, row 27 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −78220+2.65T\]_ | -78220 J/mol | 1613 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −78220+2.65T\]_ | 2.65 J/mol/K | 1613 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −70270−2.08T\]_ | -70270 J/mol | 1626.5 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1967_ | Table 3, p. 9, row 14 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −41550−19.87T\]_ | -41550 J/mol | 1673 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
-| Gibbs energy; _printed: ΔG0 (coefficient of T) \[printed: −41550−19.87T\]_ | -19.87 J/mol/K | 1673 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
 | Gibbs energy; _printed: ΔG0_ | -75160 J/mol | 1873 | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG0 \[printed: −75160\]_ | -75160 J/mol | 1873 | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1971_ | Table 3, p. 9, row 22 |  |
+
+### Model expression (174)
+
+Table: Model expression, Cu–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 69.29 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -166400 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 6, p. 11, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 72.66 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sellars 1966_ | Table 6, p. 11, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -168620 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sellars 1966_ | Table 6, p. 11, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -161830 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Hammer 1984_ | Table 6, p. 11, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 64.82 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Hammer 1984_ | Table 6, p. 11, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 72.2 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167610 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -174140 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 124.91 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T lnT)_ | -6.67 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 86Hol_ | Table 6, p. 11, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 74 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Peters 1958_ [doi](https://doi.org/10.1007/bf00639610) | Table 6, p. 11, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167330 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Peters 1958_ [doi](https://doi.org/10.1007/bf00639610) | Table 6, p. 11, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 119.88 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -173240 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T lnT)_ | -6.09 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 89Hol_ | Table 6, p. 11, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -177280 J/mol |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 6, p. 11, row 33 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 134.92 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 6, p. 11, row 33 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 69.57 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 6, p. 11, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -164300 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 6, p. 11, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -173730 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 6, p. 11, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 96.45 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 6, p. 11, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -166760 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 6, p. 11, row 30 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.99 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 6, p. 11, row 30 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 70.46 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 6, p. 11, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -165730 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197003613) | Table 6, p. 11, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -173850 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 6, p. 11, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 122.99 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 6, p. 11, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 74.61 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kiukkola 1958_ | Table 6, p. 11, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -171440 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kiukkola 1958_ | Table 6, p. 11, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167390 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Moriyama 1969_ | Table 6, p. 11, row 16 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.99 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Moriyama 1969_ | Table 6, p. 11, row 16 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 72.66 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 6, p. 11, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -162580 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 6, p. 11, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -100340 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 58Hil_ | Table 6, p. 11, row 4 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 93.99 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -170220 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 6, p. 11, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -174010 J/mol |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 6, p. 11, row 34 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 125.48 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994 | Table 6, p. 11, row 34 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 70.93 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1981_ | Table 6, p. 11, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -166300 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1981_ | Table 6, p. 11, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -165490 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 69.87 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kemori 1979_ [doi](https://doi.org/10.1016/0021-9614%2879%2990145-9) | Table 6, p. 11, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -166670 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 6, p. 11, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 72.45 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Mallika 1985_ [doi](https://doi.org/10.1016/0022-5088%2885%2990079-7) | Table 6, p. 11, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.56 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167170 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites EE 1967_ | Table 6, p. 11, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -173570 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 6, p. 11, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 76.99 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 6, p. 11, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 47.7 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -134720 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 6, p. 11, row 14 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -174080 J/mol |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 6, p. 11, row 32 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 122.9 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 6, p. 11, row 32 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 72.63 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Yu 1965_ | Table 6, p. 11, row 8 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -168850 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Yu 1965_ | Table 6, p. 11, row 8 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -166650 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Bugden 1970_ | Table 6, p. 11, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.22 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Bugden 1970_ | Table 6, p. 11, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167640 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 6, p. 11, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.7 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 6, p. 11, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167360 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.94 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Steele 1965_ | Table 6, p. 11, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -167650 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 6, p. 11, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 71.47 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 6, p. 11, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -148530 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 6, p. 11, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 59.58 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 6, p. 11, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 69.88 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 75Mos1_ | Table 6, p. 11, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -165080 J/mol |  | Cu2O; _alloy: O 0.333333_ | experimental | [1] Hallstedt 1994; _cites ref. 75Mos1_ | Table 6, p. 11, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term A)_ | -169100 J/mol |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 6, p. 11, row 31 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 73.33 J/mol/K |  | Cu2O; _alloy: O 0.333333_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 6, p. 11, row 31 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -121760 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 7, p. 12, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 87.22 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites EH 1920_ | Table 7, p. 12, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -126880 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Gadalla 1963_ | Table 7, p. 12, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 90.75 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Gadalla 1963_ | Table 7, p. 12, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 187.96 unknown |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 7, p. 12, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -144900 J/mol |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Chase 1985_ | Table 7, p. 12, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 177.56 unknown |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -138180 J/mol |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -118520 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 84.72 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 7, p. 12, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -125240 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 89.84 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Boud 1991_ | Table 7, p. 12, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -131110 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 94.36 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 93.22 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 7, p. 12, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -135560 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kodera 1968_ [doi](https://doi.org/10.1246/bcsj.41.1039) | Table 7, p. 12, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -130450 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 75Jac_ | Table 7, p. 12, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 93.98 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 75Jac_ | Table 7, p. 12, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -125350 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 7, p. 12, row 16 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 88.84 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 71Slo_ | Table 7, p. 12, row 16 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 94.58 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 7, p. 12, row 4 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -130920 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Chiche 1951_ | Table 7, p. 12, row 4 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -164810 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 125.18 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Matsushita 1964_ | Table 7, p. 12, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 185.32 unknown |  | UNKNOWN | model | [1] Hallstedt 1994 | Table 7, p. 12, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -143380 J/mol |  | UNKNOWN | model | [1] Hallstedt 1994 | Table 7, p. 12, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -126930 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Assayag 1955_ | Table 7, p. 12, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 90.89 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Assayag 1955_ | Table 7, p. 12, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 95.15 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 12, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -132040 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 12, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -118510 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 7, p. 12, row 14 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 76.61 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Kazenas 1969_ | Table 7, p. 12, row 14 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -142220 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 7, p. 12, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 173.54 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Barbi 1970_ | Table 7, p. 12, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -130950 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Bidwell 1967_ [doi](https://doi.org/10.1149/1.2426501) | Table 7, p. 12, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 94.38 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Bidwell 1967_ [doi](https://doi.org/10.1149/1.2426501) | Table 7, p. 12, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 96.15 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 7, p. 12, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -134080 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites St 1988_ | Table 7, p. 12, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 89.38 unknown |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 7, p. 12, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -128100 J/mol |  | UNKNOWN | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 7, p. 12, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 93.59 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hochgeschwender 1968_ | Table 7, p. 12, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -129700 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Hochgeschwender 1968_ | Table 7, p. 12, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -10950 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites ref. 64Sch_ | Table 7, p. 12, row 8 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -134230 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 7, p. 12, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 98.84 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Treadwell 1916_ | Table 7, p. 12, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -132410 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 96.63 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Suzuki 1992_ [doi](https://doi.org/10.1111/j.1151-2916.1992.tb05513.x) | Table 7, p. 12, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 96.42 unknown |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -135000 J/mol |  | UNKNOWN | experimental | [1] Hallstedt 1994; _cites Rigdon 1969_ | Table 7, p. 12, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 3.86 J/mol/K |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 3, p. 10, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -71650 J/mol |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Boudbne 1992_ | Table 3, p. 10, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −66110−7.66T\]_ | -7.66 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 70Eln_ | Table 3, p. 9, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −66110−7.66T\]_ | -66110 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 70Eln_ | Table 3, p. 9, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | -0.71 J/mol/K |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 3, p. 10, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -74100 J/mol |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Schmid 1983_ [doi](https://doi.org/10.1007/bf02654367) | Table 3, p. 10, row 11 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −66940−2.31T\]_ | -66940 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Thompson 1971_ [doi](https://doi.org/10.1179/cmq.1971.10.4.315) | Table 3, p. 9, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −66940−2.31T\]_ | -2.31 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Thompson 1971_ [doi](https://doi.org/10.1179/cmq.1971.10.4.315) | Table 3, p. 9, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | -5.83 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ | Table 3, p. 10, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -67040 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kayahara 1981_ | Table 3, p. 10, row 5 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −104580+17.95T\]_ | -104580 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Biswas 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.3.257) | Table 3, p. 9, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −104580+17.95T\]_ | 17.95 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Biswas 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.3.257) | Table 3, p. 9, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −84262+6.76T\]_ | 6.76 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tsukahara 1970_ [doi](https://doi.org/10.2320/jinstmet1952.34.7_679) | Table 3, p. 9, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −84262+6.76T\]_ | -84262 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tsukahara 1970_ [doi](https://doi.org/10.2320/jinstmet1952.34.7_679) | Table 3, p. 9, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −70270−2.08T\]_ | -70270 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1967_ | Table 3, p. 9, row 14 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −73800−1.71T\]_ | -73800 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Hyt6nen and E Taskinen 1979_ | Table 3, p. 9, row 38 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −73800−1.71T\]_ | -1.71 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Hyt6nen and E Taskinen 1979_ | Table 3, p. 9, row 38 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −41550−19.87T\]_ | -41550 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −41550−19.87T\]_ | -19.87 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Belton 1965_ | Table 3, p. 9, row 4 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −78220+2.65T\]_ | -78220 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −78220+2.65T\]_ | 2.65 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Tankins 1972_ | Table 3, p. 9, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −129270+38.83T\]_ | 38.83 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Girardi 1950_ | Table 3, p. 9, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −129270+38.83T\]_ | -129270 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Girardi 1950_ | Table 3, p. 9, row 2 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −75560−0.06T\]_ | -75560 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Reimann 1967_ | Table 3, p. 9, row 12 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −90370+10.71T\]_ | 10.71 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Oberg 1973_ [doi](https://doi.org/10.1007/bf02649605) | Table 3, p. 9, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −90370+10.71T\]_ | -90370 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Oberg 1973_ [doi](https://doi.org/10.1007/bf02649605) | Table 3, p. 9, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −77450+0.38T\]_ | 0.38 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sano 1956_ | Table 3, p. 9, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −77450+0.38T\]_ | -77450 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Sano 1956_ | Table 3, p. 9, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −78490+1.96T\]_ | -78490 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 3, p. 9, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −78490+1.96T\]_ | 1.96 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Gerlach 1968_ | Table 3, p. 9, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −76560+0.54T\]_ | 0.54 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 3, p. 9, row 34 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −76560+0.54T\]_ | -76560 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites S 1977_ | Table 3, p. 9, row 34 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −74540+0.38T\]_ | -74540 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Ois_ | Table 3, p. 9, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −74540+0.38T\]_ | 0.38 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 71Ois_ | Table 3, p. 9, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −81280+2.90T\]_ | -81280 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kulkami 1973_ | Table 3, p. 9, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −81280+2.90T\]_ | 2.9 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Kulkami 1973_ | Table 3, p. 9, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −136290+30.86T\]_ | 30.86 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 33All_ | Table 3, p. 9, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −136290+30.86T\]_ | -136290 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 33All_ | Table 3, p. 9, row 1 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -77010 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 3, p. 10, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 1.07 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Taskinen 1984_ | Table 3, p. 10, row 9 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -74510 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Tas1_ | Table 3, p. 10, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −81770+4.00T\]_ | -81770 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fmehan 1969_ | Table 3, p. 9, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -75500 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Ots_ | Table 3, p. 10, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | -0.12 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 81Ots_ | Table 3, p. 10, row 6 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −73220−2.18T\]_ | -2.18 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1966_ | Table 3, p. 9, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −73220−2.18T\]_ | -73220 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Fischer 1966_ | Table 3, p. 9, row 7 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −75680+0.44T\]_ | -75680 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 67Stu_ | Table 3, p. 9, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −75680+0.44T\]_ | 0.44 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites ref. 67Stu_ | Table 3, p. 9, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | -3.93 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Taskinen and H 1979_ | Table 3, p. 10, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -70310 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites E Taskinen and H 1979_ | Table 3, p. 10, row 3 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -78420 J/mol |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994 | Table 3, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 22.24 J/mol/K |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994 | Table 3, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T)_ | 6.9 J/mol/K |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Sigworth 1974_ [doi](https://doi.org/10.1179/cmq.1974.13.3.455) | Table 3, p. 10, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -85350 J/mol |  | liquid Cu; _alloy: O 0_ | model | [1] Hallstedt 1994; _cites Sigworth 1974_ [doi](https://doi.org/10.1179/cmq.1974.13.3.455) | Table 3, p. 10, row 10 |  |
+| gibbs energy expression term; _printed: ΔG0 \[printed: −72850−2.13T\]_ | -72850 J/mol |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Janke 1978_ | Table 3, p. 9, row 36 |  |
+| gibbs energy expression term; _printed: ΔG0 (coefficient of T) \[printed: −72850−2.13T\]_ | -2.13 J/mol/K |  | liquid Cu; _alloy: O 0_ | experimental | [1] Hallstedt 1994; _cites Janke 1978_ | Table 3, p. 9, row 36 |  |
 
 ## Sources
 
@@ -493,6 +474,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. B. Hallstedt, D. Risold, L. J. Gauckler, Thermodynamic assessment of the copper-oxygen system, JPE 15, 483-499 (1994). [doi:10.1007/bf02649399](https://doi.org/10.1007/bf02649399)
 2. L. Schramm, G. Behr, W. Löser, K. Wetzig, Thermodynamic Reassessment of the Cu-O Phase Diagram, Journal of Phase Equilibria &amp; Diffusion 26, 605-612 (2005). [doi:10.1361/154770305x74421](https://doi.org/10.1361/154770305x74421)
+3. Ming Chen, Bengt Hallstedt, Ludwig J. Gauckler, Thermodynamic assessment of the Co-O system, JPE 24, 212-227 (2003). [doi:10.1361/105497103770330514](https://doi.org/10.1361/105497103770330514)
 
 ## Please cite
 

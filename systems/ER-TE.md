@@ -1,10 +1,10 @@
 # Er–Te system
 
-> Er–Te system: 26 accepted literature values (invariant reaction 17, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Te system: 71 accepted literature values (crystal structure 24, formation 21, invariant reaction 17, phase transition 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-TE.html · Markdown: https://data.orchid-project.org/systems/ER-TE.md
 
-26 accepted literature values from 1 paper(s) (experimental 26); 1 calculated phase diagram(s).
+71 accepted literature values from 1 paper(s) (experimental 43, model 4, DFT 24); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-TE.json) · [CSV](https://data.orchid-project.org/systems/ER-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-TE/ErTe-22Ben.json) · [phases (8)](https://data.orchid-project.org/phases/pages/ER-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-TE.html) · [Markdown](https://data.orchid-project.org/systems/ER-TE.md)
 
@@ -12,7 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 26 |
+| experimental | 43 |
+| model | 4 |
+| DFT | 24 |
 
 Table: Accepted values by property group
 
@@ -20,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 17 |
 | phase transition | 9 |
+| formation | 21 |
+| crystal structure | 24 |
 
 ## Calculated phase diagrams
 
@@ -66,6 +70,36 @@ Table: Invariant reactions reported in the literature for the Er–Te system (17
 | 718 | eutectic |  | experimental | [1] Bennoui 2022; _cites Abrikosov 1973_ | p. 2 | “A degenerate eutectic exists between ErTe2 and Te at 718 K.” |
 | 603 | eutectic |  | experimental | [1] Bennoui 2022 | p. 2 | “The eutectic between Er and ErTe is given at 87 at.% Er and 1551 K, while the second eutectic on the Te-rich side is at about 3 at.% Er and 603 K (Fig. 2).” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Er–Te system (21)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -164.44 kJ/mol-atom ± 16.7 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 2, p. 5, row 34 |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -159.1 kJ/mol-atom ± 10 |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Vassiliev 2016_ [doi](https://doi.org/10.1016/j.electacta.2016.11.075) | Table 2, p. 5, row 33 |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -158.62 kJ/mol-atom ± 2.5 | 298.15 | experimental | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 35 |  |
+| Er2Te3 |  | -157.965 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 32 |  |
+| Er2Te3 | [Er2Te3](https://data.orchid-project.org/compounds/Er2Te3.html) | -136.475 kJ/mol-atom |  | model | -158.255 (mp-aaaaavrf) | -134.147 (oqmd-665800) | [1] Bennoui 2022 | Table 2, p. 5, row 30 |  |
+| Er2Te3 |  | -133.951 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 31 |  |
+| Er2Te3 |  | -133.731 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 29 |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -179.45 kJ/mol-atom ± 0.6 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 40 |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -157 kJ/mol-atom ± 60 | 298.15 | experimental | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022; _cites Mills 1974_ | Table 2, p. 5, row 41 |  |
+| ErTe |  | -136.485 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 39 |  |
+| ErTe |  | -119.399 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 38 |  |
+| ErTe | [ErTe](https://data.orchid-project.org/compounds/ErTe.html) | -118.947 kJ/mol-atom |  | model | -136.706 (mp-aaaaabxg) | -120.964 (oqmd-1880751) | [1] Bennoui 2022 | Table 2, p. 5, row 37 |  |
+| ErTe |  | -115.927 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 36 |  |
+| ErTe2 |  | -132.921 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 44 |  |
+| ErTe2 |  | -106.39 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 43 |  |
+| ErTe2 |  | -105.846 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 42 |  |
+| ErTe3 |  | -116.258 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 27 |  |
+| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -102.85 kJ/mol-atom ± 1.3 | 298.15 | experimental | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022; _cites Imamaliyeva 2020_ [doi](https://doi.org/10.15330/pcss.21.2.312-318) | Table 2, p. 5, row 28 |  |
+| ErTe3 | [ErTe3](https://data.orchid-project.org/compounds/ErTe3.html) | -86.964 kJ/mol-atom |  | model | -116.416 (mp-aaacjkdr) | -85.055 (oqmd-665801) | [1] Bennoui 2022 | Table 2, p. 5, row 25 |  |
+| ErTe3 |  | -84.996 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 26 |  |
+| ErTe3 |  | -84.589 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 24 |  |
+
 ## Other properties
 
 ### Phase transition (9)
@@ -83,6 +117,37 @@ Table: Phase transition, Er–Te system
 | Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Haase 1965_ [doi](https://doi.org/10.1021/ic50026a021) | Table 7, p. 10, row 15 |  |
 | Phase transition | 1773 K | 1773 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022; _cites Massalski 1990_ | Table 7, p. 10, row 16 |  |
 | Phase transition | 1779 K | 1779 | congruent melting: L -> ErTe; _L: Te 0.5; ErTe: Te 0.5_ | experimental | [1] Bennoui 2022 | Table 7, p. 10, row 13 |  |
+
+### Crystal structure (24)
+
+Table: Crystal structure, Er–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 12.031 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice a | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice a | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice a | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice a | 12.127 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice a | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice a | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice b | 8.565 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice b | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice b | 4.448 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice b | 4.325 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice b | 8.581 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice b | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice b | 4.248 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice b | 4.285 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
+| Lattice c | 24.908 Å | 0 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 17 |  |
+| Lattice c | 6.109 Å | 0 | ErTe; _alloy: Er 0.5, Te 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 19 |  |
+| Lattice c | 8.691 Å | 0 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 21 |  |
+| Lattice c | 25.384 Å | 0 | ErTe3; _alloy: Er 0.25, Te 0.75_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 15 |  |
+| Lattice c | 25.728 Å | 298.15 | Er2Te3; _alloy: Er 0.4, Te 0.6_ | experimental | [1] Bennoui 2022; _cites Stoewe 1998_ | Table 1, p. 3, row 16 |  |
+| Lattice c | 6.063 Å | 298.15 | ErTe; _alloy: Er 0.5, Te 0.5_ | experimental | [1] Bennoui 2022; _cites Khan 1976_ | Table 1, p. 3, row 18 |  |
+| Lattice c | 8.865 Å | 298.15 | ErTe2; _alloy: Er 0.333333, Te 0.666667_ | experimental | [1] Bennoui 2022; _cites Cannon 1970_ [doi](https://doi.org/10.1021/ic50089a007) | Table 1, p. 3, row 20 |  |
+| Lattice c | 25.278 Å | 298.15 | ErTe3; _alloy: Er 0.25, Te 0.75_ | experimental | [1] Bennoui 2022; _cites Vassiliev 1980_ | Table 1, p. 3, row 14 |  |
 
 ## Sources
 

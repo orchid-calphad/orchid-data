@@ -1,10 +1,10 @@
 # B–Lu system
 
-> B–Lu system: 12 accepted literature values (invariant reaction 10, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Lu system: 25 accepted literature values (formation 13, invariant reaction 10, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-LU.html · Markdown: https://data.orchid-project.org/systems/B-LU.md
 
-12 accepted literature values from 1 paper(s) (experimental 6, model 6); 0 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 6, model 10, DFT 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-LU.json) · [CSV](https://data.orchid-project.org/systems/B-LU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-LU) · [phases (10)](https://data.orchid-project.org/phases/pages/B-LU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-LU.html) · [Markdown](https://data.orchid-project.org/systems/B-LU.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 6 |
+| model | 10 |
+| DFT | 9 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 10 |
 | phase transition | 2 |
+| formation | 13 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-LU.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-LU.json)
 
@@ -40,6 +42,28 @@ Table: Invariant reactions reported in the literature for the B–Lu system (10)
 | 2333 | eutectic: L -> LuB66 + β-B | L: B 0.99; LuB66: B 0.985075; β-B: B 1 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 9 |  |
 | 1773 | eutectic: L -> LuB2 + α-Lu | L: B 0.1; LuB2: B 0.666667 | experimental | [1] Li 2020; _cites ref. 23_ | Table 9, p. 31, row 11 |  |
 | 1768.5 | eutectic: L -> LuB2 + α-Lu | L: B 0.109; LuB2: B 0.666667 | model | [1] Li 2020 | Table 9, p. 31, row 12 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, B–Lu system (13)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| LuB12 | [LuB12](https://data.orchid-project.org/compounds/LuB12.html) | -24.605 kJ/mol-atom | 298.15 | model | -23.771 (mp-aaackvor) | -23.781 (oqmd-28503) | [1] Li 2020 | Table 2, p. 25, row 38 |  |
+| LuB12 |  | -23.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 35 |  |
+| LuB12 |  | -23.654 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 37 |  |
+| LuB12 |  | -23.654 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 36 |  |
+| LuB2 |  | -66.9 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 27 |  |
+| LuB2 |  | -66.538 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 28 |  |
+| LuB2 |  | -66.249 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 29 |  |
+| LuB2 | [LuB2](https://data.orchid-project.org/compounds/LuB2.html) | -65.781 kJ/mol-atom | 298.15 | model | -66.723 (mp-aaaaaqpn) | -66.48 (oqmd-115218) | [1] Li 2020 | Table 2, p. 25, row 30 |  |
+| LuB4 | [LuB4](https://data.orchid-project.org/compounds/LuB4.html) | -56.878 kJ/mol-atom | 298.15 | model | -53.778 (mp-aaabgnkp) | -53.771 (oqmd-19137) | [1] Li 2020 | Table 2, p. 25, row 34 |  |
+| LuB4 |  | -53.75 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 32 |  |
+| LuB4 |  | -53.7 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 31 |  |
+| LuB4 |  | -53.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 33 |  |
+| LuB66 |  | -6.059 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 39 |  |
 
 ## Other properties
 

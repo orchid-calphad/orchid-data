@@ -1,10 +1,10 @@
 # Bi–Rb system
 
-> Bi–Rb system: 221 accepted literature values (invariant reaction 78, crystal structure 73, formation 70) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Rb system: 212 accepted literature values (invariant reaction 78, formation 70, crystal structure 64) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-RB.html · Markdown: https://data.orchid-project.org/systems/BI-RB.md
 
-221 accepted literature values from 2 paper(s) (experimental 76, model 78, DFT 60, unspecified 7); 2 calculated phase diagram(s).
+212 accepted literature values from 2 paper(s) (experimental 73, model 78, DFT 54, unspecified 7); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-RB.json) · [CSV](https://data.orchid-project.org/systems/BI-RB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-RB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-RB/BiRb-13Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-RB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-RB.html) · [Markdown](https://data.orchid-project.org/systems/BI-RB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
+| experimental | 73 |
 | model | 78 |
-| DFT | 60 |
+| DFT | 54 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 78 |
 | formation | 70 |
-| crystal structure | 73 |
+| crystal structure | 64 |
 
 ## Calculated phase diagrams
 
@@ -231,14 +231,12 @@ Table: Formation, Bi–Rb system
 | Entropy of formation; _printed: ΔfS_ | -9.6 per mol-atom ± 5.9 | 298.15 | BiRb3; _alloy: Rb 0.75_ | experimental | [2] Liu 2013; _cites Voronin 1974_ | Table 3, p. 4, row 7 |  |
 | Entropy of formation; _printed: ΔfS_ | -9.6 J/mol-atom/K ± 5.9 | 298.15 | αBiRb3; _alloy: Rb 0.75_ | experimental | [1] Dziri 2022; _cites Voronin 1974_ | Table 4, p. 7, row 24 |  |
 
-### Crystal structure (73)
+### Crystal structure (64)
 
 Table: Crystal structure, Bi–Rb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.565 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.488 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
 | Lattice a | 9.672 Å | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 7 |  |
 | Lattice a | 9.422 Å | 0 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 8 |  |
 | Lattice a | 9.537 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
@@ -247,19 +245,15 @@ Table: Crystal structure, Bi–Rb system
 | Lattice a | 12.695 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 14 |  |
 | Lattice a | 14.418 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 11 |  |
 | Lattice a | 15.119 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
-| Lattice a | 5.649 Å | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 4 |  |
-| Lattice a | 5.377 Å | 0 | Rb; _Rb: Bi 0, Rb 1_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 5 |  |
 | Lattice a | 6.565 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
 | Lattice a | 6.258 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
 | Lattice a | 8.673 Å | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 23 |  |
 | Lattice a | 9.144 Å | 0 | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 22 |  |
 | Lattice a | 8.989 Å |  | β BiRb3; _β BiRb3: Bi 0.25, Rb 0.75; β BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Gnutzmann 1961_ [doi](https://doi.org/10.1002/zaac.19613090305) | Table 1, p. 2, row 24 |  |
-| Lattice a | 4.544 Å | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
 | Lattice a | 9.625 Å | 298.15 | Bi2Rb; _Bi2Rb: Bi 0.67, Rb 0.33; Bi₂Rb: Bi 0.67, Rb 0.33_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 9 |  |
 | Lattice a | 9.735 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
 | Lattice a | 12.945 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
 | Lattice a | 14.741 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
-| Lattice a | 5.605 Å | 298.15 | Rb; _Rb: Bi 0, Rb 1_ | experimental | [1] Dziri 2022; _cites Barrett 1956_ [doi](https://doi.org/10.1107/s0365110x56001790) | Table 1, p. 2, row 6 |  |
 | Lattice a | 6.489 Å | 298.15 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | experimental | [1] Dziri 2022; _cites Chuntonov 1977_ | Table 1, p. 2, row 21 |  |
 | Lattice b | 9.768 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
 | Lattice b | 10.26 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
@@ -270,8 +264,6 @@ Table: Crystal structure, Bi–Rb system
 | Lattice b | 10.075 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
 | Lattice b | 5.785 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
 | Lattice b | 7.501 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |
-| Lattice c | 11.918 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 1 |  |
-| Lattice c | 11.537 Å | 0 | Bi; _Bi: Bi 1, Rb 0_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 2 |  |
 | Lattice c | 9.516 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 17 |  |
 | Lattice c | 9.928 Å | 0 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 16 |  |
 | Lattice c | 12.075 Å | 0 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 13 |  |
@@ -280,7 +272,6 @@ Table: Crystal structure, Bi–Rb system
 | Lattice c | 14.195 Å | 0 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 10 |  |
 | Lattice c | 11.634 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 19 |  |
 | Lattice c | 11.108 Å | 0 | α BiRb3; _α BiRb3: Bi 0.25, Rb 0.75; α BiRb₃: Bi 0.25, Rb 0.75_ | DFT | [1] Dziri 2022 | Table 1, p. 2, row 20 |  |
-| Lattice c | 11.859 Å | 298.15 | Bi; _Bi: Bi 1, Rb 0_ | experimental | [1] Dziri 2022; _cites Robinson 1994_ [doi](https://doi.org/10.1103/physrevb.50.9595) | Table 1, p. 2, row 3 |  |
 | Lattice c | 9.715 Å | 298.15 | Bi2Rb3; _Bi2Rb3: Bi 0.4, Rb 0.6; Bi₂Rb₃: Bi 0.4, Rb 0.6_ | experimental | [1] Dziri 2022; _cites Gascoin 2000_ [doi](https://doi.org/10.1021/ja002606t) | Table 1, p. 2, row 18 |  |
 | Lattice c | 12.018 Å | 298.15 | Bi4Rb5; _Bi4Rb5: Bi 0.444, Rb 0.556; Bi₄Rb₅: Bi 0.444, Rb 0.556_ | experimental | [1] Dziri 2022; _cites Gascoin 2001_ [doi](https://doi.org/10.1021/ic0104499) | Table 1, p. 2, row 15 |  |
 | Lattice c | 13.92 Å | 298.15 | BiRb; _BiRb: Bi 0.5, Rb 0.5_ | experimental | [1] Dziri 2022; _cites Emmerling 2004_ [doi](https://doi.org/10.1002/zaac.200300312) | Table 1, p. 2, row 12 |  |

@@ -1,10 +1,10 @@
 # Hf–Mn system
 
-> Hf–Mn system: 51 accepted literature values (crystal structure 21, phase transition 15, invariant reaction 14, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Mn system: 48 accepted literature values (crystal structure 20, phase transition 15, invariant reaction 12, phase equilibrium 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-MN.html · Markdown: https://data.orchid-project.org/systems/HF-MN.md
 
-51 accepted literature values from 2 paper(s) (experimental 11, model 19, unspecified 21); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+48 accepted literature values from 2 paper(s) (experimental 14, model 17, unspecified 17); 2 calculated phase diagram(s). 17 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-MN.json) · [CSV](https://data.orchid-project.org/systems/HF-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-MN/HfMn-12Zho.json) · [phases (9)](https://data.orchid-project.org/phases/pages/HF-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-MN.html) · [Markdown](https://data.orchid-project.org/systems/HF-MN.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 19 |
-| unspecified | 21 |
+| experimental | 14 |
+| model | 17 |
+| unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 12 |
 | phase transition | 15 |
 | phase equilibrium | 1 |
-| crystal structure | 21 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -59,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Hf–Mn system (14)
+Table: Invariant reactions reported in the literature for the Hf–Mn system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,9 +73,7 @@ Table: Invariant reactions reported in the literature for the Hf–Mn system (14
 | 1481.01 | L -> HfMn2 + δMn | L: Mn 0.9677; HfMn2: Mn 0.7456; δMn: Mn 0.9846 | model | [1] Zhou 2012 | Table 5, p. 8, row 7 |  |
 | 1413 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.755; δMn: Mn 0.994; βMn: Mn 0.97 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 10 |  |
 | 1411.48 | HfMn2 + δMn -> βMn | HfMn2: Mn 0.7537; δMn: Mn 0.9882; βMn: Mn 0.9819 | model | [1] Zhou 2012 | Table 5, p. 8, row 9 |  |
-| 1389 | δMn -> βMn + γMn | δMn: Mn 0.9973; βMn: Mn 0.9958; γMn: Mn 0.9998 | model | [1] Zhou 2012 | Table 5, p. 8, row 11 |  |
-| 1383 | δMn -> βMn + γMn | δMn: Mn 0.995; βMn: Mn 0.983; γMn: Mn 0.997 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 12 |  |
-| 973.27 | βMn -> αMn + HfMn2 | βMn: Mn 0.998; αMn: Mn 0.01; HfMn2: Mn 0.7437 | model | [1] Zhou 2012 | Table 5, p. 8, row 13 |  |
+| 973.27 | βMn -> αMn + HfMn2 | βMn: Mn 0.998; αMn: Mn 1; HfMn2: Mn 0.7437 | model | [1] Zhou 2012 | Table 5, p. 8, row 13 |  |
 | 973 | βMn -> αMn + HfMn2 | βMn: Mn 0.995; αMn: Mn 0.998; HfMn2: Mn 0.74 | model | [1] Zhou 2012; _cites Okamoto 1995_ [doi](https://doi.org/10.1007/bf02645298) | Table 5, p. 8, row 14 |  |
 
 ## Other properties
@@ -110,7 +108,7 @@ Table: Phase equilibrium, Hf–Mn system
 |---|---:|---:|---|---|---|---|---|
 | Phase composition |  | 1486.55 | other: 2–98; _liquid: Hf 0.016, Mn 0.984_ | experimental | [2] Brož 2024 | Table 4b, p. 10, row 1 |  |
 
-### Crystal structure (21)
+### Crystal structure (20)
 
 Table: Crystal structure, Hf–Mn system
 
@@ -124,18 +122,17 @@ Table: Crystal structure, Hf–Mn system
 | Lattice a | 4.96 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
 | Lattice a | 4.9464 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
 | Lattice a | 5.016 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
-| Lattice a | 8.913 Å | 727 (\<) | (αMn); _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 12 |  |
-| Lattice a | 6.315 Å | 913.5 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 13 |  |
-| Lattice a | 3.86 Å | 1119 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 14 |  |
-| Lattice a | 3.08 Å | 1192 | UNKNOWN; _alloy: Mn 1_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 15 |  |
+| Lattice a | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice a | 5.007 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
 | Lattice a | 3.1949 Å | 1743 (\<) | (αHf); _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 1 |  |
 | Lattice a | 3.615 Å | 1987 | UNKNOWN; _alloy: Mn 0_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 2 |  |
+| Lattice b | 0.49849 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice c | 8.23508 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 10 |  |
 | Lattice c | 8.122 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 8 |  |
 | Lattice c | 8.147 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 7 |  |
 | Lattice c | 8.0964 Å | 298.15 | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 9 |  |
 | Lattice c | 16.367 Å | 298.15 | βHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 11 |  |
+| Lattice c | 0.81987 not_printed ± 2.000e-5 | 300 | UNKNOWN; _alloy: Hf 0.339, Mn 0.661_ | experimental | [2] Brož 2024 | Table 2, p. 4, row 1 |  |
 | Lattice c | 8.236 Å | 1730 (\<) | αHfMn2; _alloy: Mn 0.666667_ | unspecified | [2] Brož 2024 | Table 1, p. 3, row 6 |  |
 
 ## Sources

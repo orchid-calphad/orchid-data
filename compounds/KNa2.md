@@ -14,7 +14,7 @@ Table: Enthalpy of formation of KNa2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -0.60668 kJ/mol-atom | KNa2 | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
+| -0.60668 kJ/mol-atom | KNa2 | 298.15 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Hultgren 1963_ | Table 2, p. 3, row 31 |  |
 | -0.699 kJ/mol-atom | KNa2 | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 30 |  |
 
 ### Uncertainty budget
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of KNa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -0.60668 | kJ/mol-atom |  | 5.000e-6 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -0.699 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -0.60668 | kJ/mol-atom |  | 5.000e-6 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -0.699 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -36,7 +36,7 @@ Table: DFT formation energy of KNa2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabgmji | 0.954 | 0.009883 | P6_3/mmc | 0.954 | 0.0099 | no |
+| Materials Project | mp-aaabgmji | 0.954 | 0.009883 | P6_3/mmc | 0.9536 | 0.0099 | no |
 | OQMD | oqmd-668086 | -7.272 | -0.075365 | P63/mmc | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

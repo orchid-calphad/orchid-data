@@ -40,23 +40,23 @@ Table: Uncertainty budget of the literature values of La2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -2255.2 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -2255.2 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1907.4 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1907.4 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1866.1 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1866.1 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1862.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1862.1 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1797.9 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1797.9 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1794.5 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1794.5 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -1793.3 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1793.3 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -1795.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1795.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -358.32 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -2255.2 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -2255.2 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1907.4 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1907.4 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1866.1 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1866.1 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1862.1 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1862.1 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1797.9 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1797.9 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1794.5 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1794.5 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -1793.3 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1793.3 | kJ/mol (basis unstated) |  | 0.05 | 5 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 5 |
+| -1795.5 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1795.5 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -358.32 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

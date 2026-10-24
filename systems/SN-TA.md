@@ -1,10 +1,10 @@
 # Sn–Ta system
 
-> Sn–Ta system: 57 accepted literature values (crystal structure 44, other property 8, phase transition 4, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Ta system: 43 accepted literature values (crystal structure 33, other property 5, phase transition 4, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-TA.html · Markdown: https://data.orchid-project.org/systems/SN-TA.md
 
-57 accepted literature values from 1 paper(s) (experimental 15, model 3, DFT 39); 1 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (experimental 11, model 3, DFT 29); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-TA.json) · [CSV](https://data.orchid-project.org/systems/SN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-TA/SnTa-17Mar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SN-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-TA.html) · [Markdown](https://data.orchid-project.org/systems/SN-TA.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 15 |
+| experimental | 11 |
 | model | 3 |
-| DFT | 39 |
+| DFT | 29 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 4 |
-| crystal structure | 44 |
-| other property | 8 |
+| crystal structure | 33 |
+| other property | 5 |
 
 ## Calculated phase diagrams
 
@@ -68,7 +68,7 @@ Table: Phase transition, Sn–Ta system
 | Phase transition | 2884 K | 2884 |  | model | [1] Marker 2017 | p. 23 | “The decomposition temperature of Ta3Sn is predicted to be 2884 K.” |
 | Phase transition | 2884 K | 2884 | other | model | [1] Marker 2017 | p. 1 | “No decomposition temperature of Ta3Sn has previously been reported in the literature but was predicted in this work to be 2884 K.” |
 
-### Crystal structure (44)
+### Crystal structure (33)
 
 Table: Crystal structure, Sn–Ta system
 
@@ -80,11 +80,6 @@ Table: Crystal structure, Sn–Ta system
 | Lattice a | 5.29 Å | 298.15 | Ta3Sn; _alloy: Ta 0.75_ | experimental | [1] Marker 2017; _cites ref. 17_ | Table 1, p. 12, row 18 |  |
 | Lattice a | 5.652 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 13 |  |
 | Lattice a | 5.63 Å | 298.15 | TaSn2; _alloy: Ta 0.333333_ | experimental | [1] Marker 2017; _cites ref. 39_ | Table 1, p. 12, row 14 |  |
-| Lattice a | 3.328 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 2 |  |
-| Lattice a | 3.316 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 1 |  |
-| Lattice a | 3.32 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017; _cites ref. 36_ | Table 1, p. 12, row 5 |  |
-| Lattice a | 3.33 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 3 |  |
-| Lattice a | 3.3 Å | 298.15 | bcc-Ta; _alloy: Ta 1_ | experimental | [1] Marker 2017; _cites ref. 35_ | Table 1, p. 12, row 4 |  |
 | Lattice a | 5.939 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 6 |  |
 | Lattice a | 5.93 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 38_ | Table 1, p. 12, row 10 |  |
 | Lattice a | 5.83 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 37_ | Table 1, p. 12, row 9 |  |
@@ -104,22 +99,16 @@ Table: Crystal structure, Sn–Ta system
 | Lattice c | 3.222 Å | 298.15 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 1, p. 12, row 8 |  |
 | Molar volume; _printed: V_ | 18.668 Å³/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
 | Molar volume; _printed: V_ | 22.631 Å³/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| Molar volume; _printed: V_ | 18.241 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 1 |  |
-| Molar volume; _printed: V_ | 18.313 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| Molar volume; _printed: V_ | 17.9685 Å³/atom | 0 | bcc-Ta; _alloy: Ta 1_ | experimental | [1] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
-| Molar volume; _printed: V_ | 27.055 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
+| Molar volume; _printed: V_ | 27.055 Å³/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
 | Molar volume; _printed: V_ | 28.431 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
 | Molar volume; _printed: V_ | 28.396 Å³/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
 | volume; _printed: V_ | 18.668 Å3/atom | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
 | volume; _printed: V_ | 22.631 Å3/atom | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| volume; _printed: V_ | 18.241 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 1 |  |
-| volume; _printed: V_ | 18.313 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| volume; _printed: V_ | 17.9685 Å3/atom | 0 | bcc-Ta; _alloy: Ta 1_ | experimental | [1] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
-| volume; _printed: V_ | 27.055 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
+| volume; _printed: V_ | 27.055 Å3/atom |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
 | volume; _printed: V_ | 28.431 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
 | volume; _printed: V_ | 28.396 Å3/atom | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
 
-### Other property (8)
+### Other property (5)
 
 Table: Other property, Sn–Ta system
 
@@ -127,10 +116,7 @@ Table: Other property, Sn–Ta system
 |---|---:|---:|---|---|---|---|---|
 | bulk modulus; _printed: B_ | 182.4 GPa | 0 | Ta3Sn; _alloy: Ta 0.75_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 8 |  |
 | bulk modulus; _printed: B_ | 104.3 GPa | 0 | TaSn2; _alloy: Ta 0.333333_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 7 |  |
-| bulk modulus; _printed: B_ | 193.7 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 1 |  |
-| bulk modulus; _printed: B_ | 195.3 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | DFT | [1] Marker 2017; _cites ref. 36_ | Table 2, p. 13, row 3 |  |
-| bulk modulus; _printed: B_ | 200 GPa | 0 | bcc-Ta; _alloy: Ta 1_ | experimental | [1] Marker 2017; _cites ref. 35_ | Table 2, p. 13, row 2 |  |
-| bulk modulus; _printed: B_ | 58 GPa | 0 | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
+| bulk modulus; _printed: B_ | 58 GPa |  | bct-Sn; _alloy: Ta 0_ | experimental | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 5 |  |
 | bulk modulus; _printed: B_ | 47.7 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017 | Table 2, p. 13, row 4 |  |
 | bulk modulus; _printed: B_ | 54 GPa | 0 | bct-Sn; _alloy: Ta 0_ | DFT | [1] Marker 2017; _cites ref. 40_ | Table 2, p. 13, row 6 |  |
 

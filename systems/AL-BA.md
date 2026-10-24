@@ -1,10 +1,10 @@
 # Al–Ba system
 
-> Al–Ba system: 124 accepted literature values (invariant reaction 66, crystal structure 32, phase transition 17, formation 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ba system: 141 accepted literature values (invariant reaction 66, formation 34, crystal structure 24, phase transition 17) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-BA.html · Markdown: https://data.orchid-project.org/systems/AL-BA.md
 
-124 accepted literature values from 3 paper(s) (experimental 64, model 38, DFT 16, unspecified 6); 3 calculated phase diagram(s).
+141 accepted literature values from 3 paper(s) (experimental 67, model 52, DFT 16, unspecified 6); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-BA.json) · [CSV](https://data.orchid-project.org/systems/AL-BA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-BA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-BA/AlBa-16Bao.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AL-BA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-BA.html) · [Markdown](https://data.orchid-project.org/systems/AL-BA.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 64 |
-| model | 38 |
+| experimental | 67 |
+| model | 52 |
 | DFT | 16 |
 | unspecified | 6 |
 
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 66 |
 | phase transition | 17 |
-| formation | 9 |
-| crystal structure | 32 |
+| formation | 34 |
+| crystal structure | 24 |
 
 ## Calculated phase diagrams
 
@@ -158,19 +158,37 @@ Table: Invariant reactions reported in the literature for the Al–Ba system (66
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ba system (9)
+Table: Enthalpies of formation, Al–Ba system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Al13Ba7 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | -53.874 kJ/mol-atom |  | model | -20.981 (mp-aaaaacxc) | -20.651 (oqmd-10392) | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 12 |  |
 | Al13Ba7 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | -51.72 kJ/mol-atom |  | model | -20.981 (mp-aaaaacxc) | -20.651 (oqmd-10392) | [3] Azza 2017 | Table 4, p. 6, row 6 |  |
 | Al13Ba7 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | -45.93 kJ/mol-atom | 298.15 | experimental | -20.981 (mp-aaaaacxc) | -20.651 (oqmd-10392) | [3] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 4, p. 6, row 5 |  |
+| Al13Ba7 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | -45.93 kJ/mol-atom | 298.15 | experimental | -20.981 (mp-aaaaacxc) | -20.651 (oqmd-10392) | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 11 |  |
+| Al13Ba7 | [Al13Ba7](https://data.orchid-project.org/compounds/Al13Ba7.html) | -23.896 kJ/mol-atom |  | model | -20.981 (mp-aaaaacxc) | -20.651 (oqmd-10392) | [1] Benhafid 2019 | Table 3, p. 4, row 10 |  |
+| Al13Ba7 |  | -21.795 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 9 |  |
 | Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -50.63 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [3] Azza 2017; _cites Nepochatov 1979_ | Table 4, p. 6, row 4 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -50.63 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Nepochatov 1979_ | Table 3, p. 4, row 4 |  |
 | Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -47.98 kJ/mol-atom |  | model | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [3] Azza 2017 | Table 4, p. 6, row 2 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -46.649 kJ/mol-atom |  | model | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -37.1 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 7 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -37.1 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Notin 2019_ | Table 3, p. 4, row 6 |  |
 | Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -37.1 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [3] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 4, p. 6, row 1 |  |
 | Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -37.1 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [3] Azza 2017; _cites Notin 1982_ [doi](https://doi.org/10.1016/0040-6031%2882%2987023-8) | Table 4, p. 6, row 3 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -24.8 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Vigdorovich 1972_ | Table 3, p. 4, row 3 |  |
+| Al4Ba |  | -23.576 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 1 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -23.474 kJ/mol-atom |  | model | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019 | Table 3, p. 4, row 2 |  |
+| Al4Ba | [Al4Ba](https://data.orchid-project.org/compounds/Al4Ba.html) | -22.7 kJ/mol-atom | 298.15 | experimental | -23.27 (mp-aaaaacvf) | -22.888 (oqmd-10391) | [1] Benhafid 2019; _cites Kulichkina 1967_ | Table 3, p. 4, row 5 |  |
 | Al5Ba3 | [Al5Ba3](https://data.orchid-project.org/compounds/Al5Ba3.html) | -52.72 kJ/mol-atom |  | model | -22.211 (mp-aaaaaakb) | -22.16 (oqmd-26824) | [3] Azza 2017 | Table 4, p. 6, row 7 |  |
+| Al5Ba3 | [Al5Ba3](https://data.orchid-project.org/compounds/Al5Ba3.html) | -23.954 kJ/mol-atom |  | model | -22.211 (mp-aaaaaakb) | -22.16 (oqmd-26824) | [1] Benhafid 2019 | Table 3, p. 4, row 14 |  |
+| Al5Ba3 |  | -23.356 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 13 |  |
 | Al5Ba4 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | -50.94 kJ/mol-atom |  | model | -21.401 (mp-aaaaadxf) | -21.61 (oqmd-2029) | [3] Azza 2017 | Table 4, p. 6, row 9 |  |
+| Al5Ba4 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | -48.16 kJ/mol-atom |  | model | -21.401 (mp-aaaaadxf) | -21.61 (oqmd-2029) | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
+| Al5Ba4 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | -44.47 kJ/mol-atom | 298.15 | experimental | -21.401 (mp-aaaaadxf) | -21.61 (oqmd-2029) | [1] Benhafid 2019; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 3, p. 4, row 17 |  |
 | Al5Ba4 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | -44.47 kJ/mol-atom | 298.15 | experimental | -21.401 (mp-aaaaadxf) | -21.61 (oqmd-2029) | [3] Azza 2017; _cites Srikanth 1991_ [doi](https://doi.org/10.1007/bf02679015) | Table 4, p. 6, row 8 |  |
+| Al5Ba4 | [Al5Ba4](https://data.orchid-project.org/compounds/Al5Ba4.html) | -22.928 kJ/mol-atom |  | model | -21.401 (mp-aaaaadxf) | -21.61 (oqmd-2029) | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
+| Al5Ba4 |  | -22.927 kJ/mol-atom | 0 | DFT |  |  | [1] Benhafid 2019 | Table 3, p. 4, row 15 |  |
 
 ## Other properties
 
@@ -198,32 +216,38 @@ Table: Phase transition, Al–Ba system
 | Phase transition | 1379 K | 1379 | Liquid \<-> Al4Ba; _Al4Ba: Ba 0.2_ | model | [2] Bao 2016 | Table 2, p. 3, row 4 |  |
 | Phase transition | 1379 K | 1379 | congruent melting: Liq -> Al4Ba; _L: Ba 0.2; Al4Ba: Ba 0.2_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 5, p. 6, row 9 |  |
 
-### Crystal structure (32)
+### Formation (7)
+
+Table: Formation, Al–Ba system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | -22.49 J/mol-atom/K |  | Al13Ba7; _alloy: Ba 0.35_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 12 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.291 J/mol-atom/K |  | Al13Ba7; _alloy: Ba 0.35_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 10 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.251 J/mol-atom/K |  | Al4Ba; _alloy: Ba 0.2_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 2 |  |
+| Entropy of formation; _printed: ΔfS_ | -17.46 J/mol-atom/K |  | Al4Ba; _alloy: Ba 0.2_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 8 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.746 J/mol-atom/K |  | Al5Ba3; _alloy: Ba 0.375_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 14 |  |
+| Entropy of formation; _printed: ΔfS_ | -1.032 J/mol-atom/K |  | Al5Ba4; _alloy: Ba 0.444444_ | model | [1] Benhafid 2019 | Table 3, p. 4, row 16 |  |
+| Entropy of formation; _printed: ΔfS_ | -19.88 J/mol-atom/K |  | Al5Ba4; _alloy: Ba 0.444444_ | model | [1] Benhafid 2019; _cites Bao 2016_ [doi](https://doi.org/10.1007/s11669-016-0466-y) | Table 3, p. 4, row 18 |  |
+
+### Crystal structure (24)
 
 Table: Crystal structure, Al–Ba system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.049 Å | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice a | 4.991 Å | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
 | Lattice a | 6.014 Å | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
 | Lattice a | 4.54 Å | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
 | Lattice a | 6.066 Å | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
 | Lattice a | 6.105 Å | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
-| Lattice a | 4.049 Å | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice a | 5.013 Å | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
 | Lattice a | 6.099 Å | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
 | Lattice a | 4.539 Å | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
 | Lattice a | 6.066 Å | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |
 | Lattice a | 6.092 Å | 298.15 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 9 |  |
-| Lattice b | 4.049 Å | 0 | (Al); _(Al): Al 1, Ba 0_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 2 |  |
-| Lattice b | 4.991 Å | 0 | (Ba); _(Ba): Al 0, Ba 1_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 12 |  |
 | Lattice b | 6.014 Å | 0 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 6 |  |
 | Lattice b | 4.54 Å | 0 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 4 |  |
 | Lattice b | 6.066 Å | 0 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 8 |  |
 | Lattice b | 6.105 Å | 0 | Al5Ba4; _Al5Ba4: Al 0.555, Ba 0.445_ | DFT | [1] Benhafid 2019 | Table 1, p. 2, row 10 |  |
-| Lattice b | 4.049 Å | 298.15 | (Al); _(Al): Al 1, Ba 0_ | experimental | [1] Benhafid 2019; _cites Otte 1963_ [doi](https://doi.org/10.1063/1.1729148) | Table 1, p. 2, row 1 |  |
-| Lattice b | 5.013 Å | 298.15 | (Ba); _(Ba): Al 0, Ba 1_ | experimental | [1] Benhafid 2019; _cites Hirst 1956_ [doi](https://doi.org/10.1021/j150537a011) | Table 1, p. 2, row 11 |  |
 | Lattice b | 6.099 Å | 298.15 | Al13Ba7; _Al13Ba7: Al 0.65, Ba 0.35_ | experimental | [1] Benhafid 2019; _cites Fornasini 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990078-8) | Table 1, p. 2, row 5 |  |
 | Lattice b | 4.539 Å | 298.15 | Al4Ba; _Al4Ba: Al 0.8, Ba 0.2_ | experimental | [1] Benhafid 2019; _cites Andress 1935_ | Table 1, p. 2, row 3 |  |
 | Lattice b | 6.066 Å | 298.15 | Al5Ba3; _Al5Ba3: Al 0.625, Ba 0.375_ | unspecified | [1] Benhafid 2019; _cites Fornasini 1988_ [doi](https://doi.org/10.1107/s0108270188004020) | Table 1, p. 2, row 7 |  |

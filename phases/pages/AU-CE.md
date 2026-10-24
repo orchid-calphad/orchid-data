@@ -13,16 +13,16 @@ Table: Phases of the Au–Ce system (14)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AU11CE9](#phase-au-ce-au11ce9); _phase:au-ce:au11ce9_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1435.29 K, x(Ce) 0.45–0.45 | 4 | 1 |
-| [AU2CE](#phase-au-ce-au2ce); _phase:au-ce:au2ce_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1472.73 K, x(Ce) 0.33333–0.33333 | 34 | 2 |
-| [AU4CE3](#phase-au-ce-au4ce3); _phase:au-ce:au4ce3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1000.21 K, x(Ce) 0.42857–0.42857 | 3 | 1 |
-| [AU51CE14](#phase-au-ce-au51ce14); _phase:au-ce:au51ce14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1422.69 K, x(Ce) 0.21538–0.21538 | 15 | 1 |
+| [AU2CE](#phase-au-ce-au2ce); _phase:au-ce:au2ce_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1472.73 K, x(Ce) 0.33333–0.33333 | 40 | 2 |
+| [AU4CE3](#phase-au-ce-au4ce3); _phase:au-ce:au4ce3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1000.21 K, x(Ce) 0.42857–0.42857 | 7 | 1 |
+| [AU51CE14](#phase-au-ce-au51ce14); _phase:au-ce:au51ce14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1422.69 K, x(Ce) 0.21538–0.21538 | 21 | 1 |
 | [AU51CE14_HT](#phase-au-ce-au51ce14-ht); _phase:au-ce:au51ce14-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1199.15–1483.79 K, x(Ce) 0.21538–0.21538 | 0 | 1 |
 | [AU51CE14_LT](#phase-au-ce-au51ce14-lt); _phase:au-ce:au51ce14-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1199.15 K, x(Ce) 0.21538–0.21538 | 0 | 1 |
-| [AU6CE](#phase-au-ce-au6ce); _phase:au-ce:au6ce_ | Au6Pr · mC28 · C2/c (15) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1062.51 K, x(Ce) 0.14286–0.14286 | 25 | 2 |
-| [AUCE_B27](#phase-au-ce-auce-b27); _phase:au-ce:auce-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–873.89 K, x(Ce) 0.49448–0.5 | 44 | 2 |
+| [AU6CE](#phase-au-ce-au6ce); _phase:au-ce:au6ce_ | Au6Pr · mC28 · C2/c (15) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1062.51 K, x(Ce) 0.14286–0.14286 | 30 | 2 |
+| [AUCE_B27](#phase-au-ce-auce-b27); _phase:au-ce:auce-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–873.89 K, x(Ce) 0.49448–0.5 | 30 | 2 |
 | [AUCE_B33](#phase-au-ce-auce-b33); _phase:au-ce:auce-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 753.22–1673.16 K, x(Ce) 0.47834–0.5 | 23 | 2 |
 | [AUCE2_C37](#phase-au-ce-auce2-c37); _phase:au-ce:auce2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–988.89 K, x(Ce) 0.66667–0.66667 | 25 | 2 |
-| [BCC_A2](#phase-au-ce-bcc-a2); _phase:au-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 301.25–2500 K, x(Ce) 0.9853–1 | 52 | 2 |
+| [BCC_A2](#phase-au-ce-bcc-a2); _phase:au-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 301.25–2500 K, x(Ce) 0.9853–1 | 2 | 2 |
 | [FCC_A1](#phase-au-ce-fcc-a1); _phase:au-ce:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1479.49 K, x(Ce) 0–1 | 28 | 2 |
 | [HCP_A3](#phase-au-ce-hcp-a3); _phase:au-ce:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-au-ce-liquid); _phase:au-ce:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 792.82–2500 K, x(Ce) 0–1 | 110 | 2 |
@@ -65,7 +65,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.6667, Ce 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1472.73 K, x(Ce) 0.33333–0.33333
-- Literature: 34 values (34 accepted) from 2 papers
+- Literature: 40 values (40 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:au2ce)
 
 Names (5): _corpus: _corpus:phase:au-ce:au2ce  
@@ -106,7 +106,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.5714, Ce 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1000.21 K, x(Ce) 0.42857–0.42857
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:au4ce3)
 
 Names (3): _corpus: _corpus:phase:au-ce:au4ce3  
@@ -123,10 +123,12 @@ _tdb: _tdb:AuCe-13Don.tdb:AU4CE3
 57: CONST AU4CE3 : AU : CE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/s0925-8388(01)00969-0](https://doi.org/10.1016/s0925-8388%2801%2900969-0) Riccardo Ferro, Gabriella Borzone, Nadia Parodi, Comments on the formation thermodynamics of selected groups of rare earth compounds, Journal of Alloys and Compounds 321, 248-260 (2001).  
+_cited as the source of values for this phase_
 - [doi:10.1016/s0925-8388(00)01429-8](https://doi.org/10.1016/s0925-8388%2800%2901429-8) P Boulet, D Mazzone, H Noël, P Rogl, R Ferro, Phase equilibria and magnetic studies in the ternary system Ce–Au–Sn, Journal of Alloys and Compounds 317-318, 350-356 (2001).  
 _cited as the source of values for this phase_
 
@@ -138,7 +140,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.7846, Ce 0.2154
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1422.69 K, x(Ce) 0.21538–0.21538
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:au51ce14)
 
 Names (3): _corpus: _corpus:phase:au-ce:au51ce14  
@@ -225,7 +227,7 @@ _assessment that models this phase_
 - Structure: Au6Pr · mC28 · C2/c (15); type `st:au6pr-mc28`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Au 0.8571, Ce 0.1429
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1062.51 K, x(Ce) 0.14286–0.14286
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:au6ce)
 
 Names (7): _corpus: _corpus:phase:au-ce:au6ce  
@@ -253,10 +255,10 @@ _tdb: _tdb:AuCe-13Don.tdb:AU6CE, tdb:AuCe-16Mou.tdb:AU6CE
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jallcom.2016.05.116](https://doi.org/10.1016/j.jallcom.2016.05.116) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the cerium gold binary system, Journal of Alloys and Compounds 683, 599-609 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2016.05.116](https://doi.org/10.1016/j.jallcom.2016.05.116) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the cerium gold binary system, Journal of Alloys and Compounds 683, 599-609 (2016).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/s0925-8388(00)01429-8](https://doi.org/10.1016/s0925-8388%2800%2901429-8) P Boulet, D Mazzone, H Noël, P Rogl, R Ferro, Phase equilibria and magnetic studies in the ternary system Ce–Au–Sn, Journal of Alloys and Compounds 317-318, 350-356 (2001).  
 _cited as the source of values for this phase_
 
@@ -265,11 +267,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-ce:auce-b27`; status `assigned`
 - Structure: FeB · B27 · oP8 · Pnma (62); type `st:b27-feb-op8`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–873.89 K, x(Ce) 0.49448–0.5
-- Literature: 44 values (44 accepted) from 2 papers
+- Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:auce-b27)
 
-Names (7): _corpus: _corpus:phase:au-ce:auce-b27  
-_paper: _paper:10.1016/j.calphad.2013.07.013:αAuCe, paper:10.1016/j.jallcom.2016.05.116:αCe, paper:10.1016/j.jallcom.2016.05.116:αCe14Au51, paper:10.1016/j.jallcom.2016.05.116:αCeAu  
+Names (6): _corpus: _corpus:phase:au-ce:auce-b27  
+_paper: _paper:10.1016/j.calphad.2013.07.013:αAuCe, paper:10.1016/j.jallcom.2016.05.116:αCe14Au51, paper:10.1016/j.jallcom.2016.05.116:αCeAu  
 _tdb: _tdb:AuCe-13Don.tdb:AUCE_B27, tdb:AuCe-16Mou.tdb:AUCE_B27  
 
 
@@ -289,15 +291,13 @@ _tdb: _tdb:AuCe-13Don.tdb:AUCE_B27, tdb:AuCe-16Mou.tdb:AUCE_B27
 70: CONST AUCE_B27 : AU : AU CE% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.05.116](https://doi.org/10.1016/j.jallcom.2016.05.116) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the cerium gold binary system, Journal of Alloys and Compounds 683, 599-609 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/bf02657857](https://doi.org/10.1007/bf02657857) K. Fitzner, O. J. Kleppa, Thermochemistry of Binary and Ternary Noble Metal Alloys: the Systems Cu-Ce, Ag-Ce, Au-Ce, Cu-Ag-Au, and Ce-Ag-Au, Metall Trans A 24, 1827-1834 (1993).  
-_cited as the source of values for this phase_
-- [doi:10.1016/s0925-8388(00)01429-8](https://doi.org/10.1016/s0925-8388%2800%2901429-8) P Boulet, D Mazzone, H Noël, P Rogl, R Ferro, Phase equilibria and magnetic studies in the ternary system Ce–Au–Sn, Journal of Alloys and Compounds 317-318, 350-356 (2001).  
 _cited as the source of values for this phase_
 - [doi:10.1103/physrevb.13.5188](https://doi.org/10.1103/physrevb.13.5188) Hendrik J. Monkhorst, James D. Pack, Special points for Brillouin-zone integrations, Phys. Rev. B 13, 5188-5192 (1976).  
 _cited as the source of values for this phase_
@@ -311,7 +311,7 @@ _cited as the source of values for this phase_
 - Id: `phase:au-ce:auce-b33`; status `assigned`
 - Structure: CrB · B33 · oC8 · Cmcm (63); type `st:b33-crb-oc8`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 753.22–1673.16 K, x(Ce) 0.47834–0.5
-- Literature: 23 values (23 accepted) from 1 papers
+- Literature: 23 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:auce-b33)
 
 Names (4): _corpus: _corpus:phase:au-ce:auce-b33  
@@ -350,7 +350,7 @@ _cited as the source of values for this phase_
 - Structure: Co2Si · C37 · oP12 · Pnma (62); type `st:c37-co2si-op12`; tier A: standard phase name; confidence high
 - Stoichiometry: Au 0.3333, Ce 0.6667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–988.89 K, x(Ce) 0.66667–0.66667
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 25 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:auce2-c37)
 
 Names (5): _corpus: _corpus:phase:au-ce:auce2-c37  
@@ -386,11 +386,11 @@ _assessment that models this phase; cited as the source of values for this phase
 - Id: `phase:au-ce:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 301.25–2500 K, x(Ce) 0.9853–1
-- Literature: 52 values (52 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:au-ce:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2016.05.116:βCe, paper:10.1016/j.jallcom.2016.05.116:βCe14Au51, paper:10.1016/j.jallcom.2016.05.116:βCeAu, paper:10.1016/j.jallcom.2016.05.116:δ(Ce)  
+Names (4): _corpus: _corpus:phase:au-ce:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2016.05.116:δ(Ce)  
 _tdb: _tdb:AuCe-13Don.tdb:BCC_A2, tdb:AuCe-16Mou.tdb:BCC_A2  
 
 
@@ -410,18 +410,12 @@ _tdb: _tdb:AuCe-13Don.tdb:BCC_A2, tdb:AuCe-16Mou.tdb:BCC_A2
 35: CONST BCC_A2 : AU CE% : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.05.116](https://doi.org/10.1016/j.jallcom.2016.05.116) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the cerium gold binary system, Journal of Alloys and Compounds 683, 599-609 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1103/physrevb.13.5188](https://doi.org/10.1103/physrevb.13.5188) Hendrik J. Monkhorst, James D. Pack, Special points for Brillouin-zone integrations, Phys. Rev. B 13, 5188-5192 (1976).  
-_cited as the source of values for this phase_
-- [doi:10.1103/physrevb.59.1758](https://doi.org/10.1103/physrevb.59.1758) G. Kresse, D. Joubert, From ultrasoft pseudopotentials to the projector augmented-wave method, Phys. Rev. B 59, 1758-1775 (1999).  
-_cited as the source of values for this phase_
-- [doi:10.1103/physrevlett.77.3865](https://doi.org/10.1103/physrevlett.77.3865) John P. Perdew, Kieron Burke, Matthias Ernzerhof, Generalized Gradient Approximation Made Simple, Phys. Rev. Lett. 77, 3865-3868 (1996).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Au–Ce)
 
@@ -501,7 +495,7 @@ _assessment that models this phase_
 - Id: `phase:au-ce:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 792.82–2500 K, x(Ce) 0–1
-- Literature: 110 values (110 accepted) from 2 papers
+- Literature: 110 values (109 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-ce:liquid)
 
 Names (5): _corpus: _corpus:phase:au-ce:liquid  

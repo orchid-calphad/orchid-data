@@ -1,10 +1,10 @@
 # Co–Sb system
 
-> Co–Sb system: 54 accepted literature values (invariant reaction 49, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Sb system: 52 accepted literature values (invariant reaction 47, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SB.html · Markdown: https://data.orchid-project.org/systems/CO-SB.md
 
-54 accepted literature values from 2 paper(s) (experimental 37, model 11, unspecified 6); 4 calculated phase diagram(s).
+52 accepted literature values from 2 paper(s) (experimental 37, model 10, unspecified 5); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SB.json) · [CSV](https://data.orchid-project.org/systems/CO-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SB/CoSb-08Zha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CO-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SB.html) · [Markdown](https://data.orchid-project.org/systems/CO-SB.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 37 |
-| model | 11 |
-| unspecified | 6 |
+| model | 10 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 49 |
+| invariant reaction | 47 |
 | phase transition | 5 |
 
 ## Calculated phase diagrams
@@ -79,7 +79,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Sb system (49)
+Table: Invariant reactions reported in the literature for the Co–Sb system (47)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -130,8 +130,6 @@ Table: Invariant reactions reported in the literature for the Co–Sb system (49
 | 894 | eutectic: Liq ↔ δCoSb3 + (Sb) | δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 1, p. 2, row 38 |  |
 | 891 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.97; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 1, p. 2, row 37 |  |
 | 889 | eutectic: Liq ↔ δCoSb3 + (Sb) | Liq: Sb 0.971; δCoSb3: Sb 0.75 | experimental | [1] Zhang 2008; _cites Lewkonja 1908_ [doi](https://doi.org/10.1002/zaac.19080590131) | Table 1, p. 2, row 35 |  |
-| 695 | polymorphic: (αCo) ↔ (εCo) |  | unspecified | [1] Zhang 2008; _cites Dudkin 1956_ | Table 1, p. 2, row 1 |  |
-| 695 | polymorphic: (αCo) ↔ (εCo) |  | model | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
 
 ## Other properties
 

@@ -1,10 +1,10 @@
 # Bi–Te system
 
-> Bi–Te system: 187 accepted literature values (phase transition 118, invariant reaction 55, phase equilibrium 14) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Te system: 211 accepted literature values (phase transition 118, invariant reaction 55, phase equilibrium 14, crystal structure 12) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TE.html · Markdown: https://data.orchid-project.org/systems/BI-TE.md
 
-187 accepted literature values from 2 paper(s) (experimental 163, model 16, unspecified 8); 4 calculated phase diagram(s).
+211 accepted literature values from 2 paper(s) (experimental 185, model 18, unspecified 8); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TE.json) · [CSV](https://data.orchid-project.org/systems/BI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TE/BiTe-18Gie.json) · [phases (13)](https://data.orchid-project.org/phases/pages/BI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TE.html) · [Markdown](https://data.orchid-project.org/systems/BI-TE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 163 |
-| model | 16 |
+| experimental | 185 |
+| model | 18 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -23,6 +23,8 @@ Table: Accepted values by property group
 | invariant reaction | 55 |
 | phase transition | 118 |
 | phase equilibrium | 14 |
+| formation | 12 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -135,11 +137,32 @@ Table: Invariant reactions reported in the literature for the Bi–Te system (55
 | 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 13, row 29 |  |
 | 539.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.024; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Abrikosov 1969_ [doi](https://doi.org/10.1007/978-1-4899-6373-4) | Table 6, p. 13, row 28 |  |
 | 539.15 | eutectic |  | model | [1] Drzewowska 2023; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | p. 13 | “Glatz37 studied alloys from the Bi-Te system and concluded that the eutectic on the bismuth side (266 C) can be eliminated in the alloy with the atomic composition Bi56Te44 by equilibrating it at 300 C for 180 days, while the equilibration at 250 C for 90 days does not eliminate the eutectic reaction.” |
-| 539 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.024; (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 5 |  |
+| 539 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.024; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Abrikosov 1958_ | Table 6, p. 16, row 5 |  |
 | 537.15 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.025; Bi7Te3: Bi 0.7, Te 0.3 | experimental | [1] Drzewowska 2023; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 6, p. 13, row 30 |  |
 | 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | Liquid: Te 0.025; (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 6, p. 16, row 7 |  |
-| 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | (Bi): Te 1; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 6 |  |
+| 537 | peritectic: Liquid -> (Bi) + Bi7Te3 | (Bi): Te 0; Bi7Te3: Te 0.3 | experimental | [2] Zhou 2024; _cites Glatz 1965_ [doi](https://doi.org/10.1149/1.2423400) | Table 6, p. 16, row 6 |  |
 | 536.45 | eutectic: Liquid -> (Bi) + Bi7Te3 | L: Te 0.011; Bi7Te3: Bi 0.7, Te 0.3 | unspecified | [1] Drzewowska 2023; _cites Chizhevskaya 1994_ | Table 6, p. 13, row 27 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Te system (12)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Bi2Te | [Bi2Te](https://data.orchid-project.org/compounds/Bi2Te.html) | -14.7 kJ/mol-atom | 298.15 | experimental | -14.943 (mp-aaacrvsf) | -13.097 (oqmd-2168844) | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 104 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -39.8 kJ/mol-atom | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Sidorko 2008_ [doi](https://doi.org/10.1007/s11106-008-9009-3) | Table 3, p. 5, row 110 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -16.903 kJ/mol-atom | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Semenkovich 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_27) | Table 3, p. 5, row 108 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -16.82 kJ/mol-atom ± 0.67 | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Vecher 1968_ | Table 3, p. 5, row 109 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -16.1 kJ/mol-atom ± 1 | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Boncheva-Mladenova 1972_ [doi](https://doi.org/10.1007/978-1-4684-1686-2_26) | Table 3, p. 5, row 107 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -15.84 kJ/mol-atom | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 112 |  |
+| Bi2Te3 | [Bi2Te3](https://data.orchid-project.org/compounds/Bi2Te3.html) | -15.7 kJ/mol-atom | 298.15 | experimental | -47.208 (mp-aaaabypm) | -22.887 (oqmd-3206) | [2] Zhou 2024; _cites Howlett 1964_ | Table 3, p. 5, row 106 |  |
+| Bi4Te3 | [Bi4Te3](https://data.orchid-project.org/compounds/Bi4Te3.html) | -11.717 kJ/mol-atom | 298.15 | experimental | -34.084 (mp-aaaabptt) | -16.486 (oqmd-5865) | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 103 |  |
+| Bi4Te5 |  | -16.578 kJ/mol-atom | 298.15 | experimental |  |  | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 100 |  |
+| Bi7Te3 |  | -13.54 kJ/mol-atom | 298.15 | experimental |  |  | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 105 |  |
+| Bi8Te9 | [Bi8Te9](https://data.orchid-project.org/compounds/Bi8Te9.html) | -16.871 kJ/mol-atom | 298.15 | experimental | -41.1 (mp-aaabhacc) | -20.289 (oqmd-90970) | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 101 |  |
+| BiTe | [BiTe](https://data.orchid-project.org/compounds/BiTe.html) | -17 kJ/mol-atom | 298.15 | experimental | -39.379 (mp-aaaabijg) | -19.207 (oqmd-5864) | [2] Zhou 2024; _cites Hasanova 2021_ [doi](https://doi.org/10.1007/s11837-021-04621-1) | Table 3, p. 5, row 102 |  |
 
 ## Other properties
 
@@ -288,6 +311,25 @@ Table: Phase equilibrium, Bi–Te system
 | Phase composition |  | 663.15 | BiTe + Bi2Te + (Bi); _BiTe: Bi 0.559, Te 0.441; Bi2Te: Bi 0.6645, Te 0.3355; (Bi): Bi 1, Te 0_ | experimental | [1] Drzewowska 2023 | Table 3, p. 5, row 4 |  |
 | Phase composition |  | 753.15 | Bi2Te3; _Bi2Te3: Bi 0.3858, Te 0.6142_ | experimental | [1] Drzewowska 2023 | Table 3, p. 5, row 2 |  |
 | Phase composition |  | 753.15 | BiTe; _BiTe: Bi 0.4257, Te 0.5743_ | experimental | [1] Drzewowska 2023 | Table 3, p. 5, row 3 |  |
+
+### Crystal structure (12)
+
+Table: Crystal structure, Bi–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.449 Å | 298.15 | Bi2Te; _alloy: Te 0.333333_ | model | [2] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 1, p. 2, row 11 |  |
+| Lattice a | 0.438 Å | 298.15 | Bi2Te3; _alloy: Te 0.6_ | experimental | [2] Zhou 2024; _cites Soonpaa 1963_ [doi](https://doi.org/10.1063/1.1729264) | Table 1, p. 2, row 14 |  |
+| Lattice a | 0.443 Å | 298.15 | Bi4Te3; _alloy: Te 0.428571_ | experimental | [2] Zhou 2024; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 1, p. 2, row 13 |  |
+| Lattice a | 4.4214 Å | 298.15 | Bi4Te5; _alloy: Te 0.555556_ | experimental | [2] Zhou 2024; _cites Brebrick 1968_ [doi](https://doi.org/10.1107/s0021889868005406) | Table 1, p. 2, row 17 |  |
+| Lattice a | 4.41 Å | 298.15 | Bi8Te9; _alloy: Te 0.529412_ | experimental | [2] Zhou 2024; _cites Feutelais 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990055-i) | Table 1, p. 2, row 15 |  |
+| Lattice a | 0.44 Å | 298.15 | BiTe; _alloy: Te 0.5_ | experimental | [2] Zhou 2024; _cites Semiletov 1954_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 11.9 Å | 298.15 | Bi2Te; _alloy: Te 0.333333_ | model | [2] Zhou 2024; _cites Mao 2018_ [doi](https://doi.org/10.1016/j.calphad.2017.11.007) | Table 1, p. 2, row 11 |  |
+| Lattice c | 3.057 Å | 298.15 | Bi2Te3; _alloy: Te 0.6_ | experimental | [2] Zhou 2024; _cites Soonpaa 1963_ [doi](https://doi.org/10.1063/1.1729264) | Table 1, p. 2, row 14 |  |
+| Lattice c | 4.187 Å | 298.15 | Bi4Te3; _alloy: Te 0.428571_ | experimental | [2] Zhou 2024; _cites Yamana 1979_ [doi](https://doi.org/10.1107/s0567740879002788) | Table 1, p. 2, row 13 |  |
+| Lattice c | 78.195 Å | 298.15 | Bi4Te5; _alloy: Te 0.555556_ | experimental | [2] Zhou 2024; _cites Brebrick 1968_ [doi](https://doi.org/10.1107/s0021889868005406) | Table 1, p. 2, row 17 |  |
+| Lattice c | 103 Å | 298.15 | Bi8Te9; _alloy: Te 0.529412_ | experimental | [2] Zhou 2024; _cites Feutelais 1993_ [doi](https://doi.org/10.1016/0025-5408%2893%2990055-i) | Table 1, p. 2, row 15 |  |
+| Lattice c | 2.397 Å | 298.15 | BiTe; _alloy: Te 0.5_ | experimental | [2] Zhou 2024; _cites Semiletov 1954_ | Table 1, p. 2, row 12 |  |
 
 ## Sources
 

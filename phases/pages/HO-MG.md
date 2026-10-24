@@ -12,7 +12,7 @@ Table: Phases of the Ho–Mg system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-ho-mg-bcc-a2); _phase:ho-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 4 calculated diagram(s): 958.15–1600 K, x(Mg) 0.08–0.42442 | 0 | 4 |
+| [BCC_A2](#phase-ho-mg-bcc-a2); _phase:ho-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 958.15–1600 K, x(Mg) 0.08–0.42442 | 0 | 4 |
 | [B2_BCC](#phase-ho-mg-bcc-b2); _phase:ho-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1625.33 K, x(Mg) 0.06164–0.62095 | 0 | 2 |
 | [C14_LAVES](#phase-ho-mg-c14-laves); _phase:ho-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–967.06 K, x(Mg) 0.64097–0.6858 | 0 | 2 |
 | [FCC_A1](#phase-ho-mg-fcc-a1); _phase:ho-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -20,11 +20,11 @@ Table: Phases of the Ho–Mg system (7)
 | [HO5MG24_A12](#phase-ho-mg-ho5mg24-a12); _phase:ho-mg:ho5mg24-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–862.27 K, x(Mg) 0.82759–0.84828 | 0 | 2 |
 | [LIQUID](#phase-ho-mg-liquid); _phase:ho-mg:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 842.88–2500 K, x(Mg) 0–1 | 0 | 2 |
 
-## A2_BCC (Ho–Mg)
+## BCC_A2 (Ho–Mg)
 
 - Id: `phase:ho-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 4 calculated diagram(s): 958.15–1600 K, x(Mg) 0.08–0.42442
+- Stability: stable in 2 of 2 calculated diagram(s): 958.15–1600 K, x(Mg) 0.08–0.42442
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-mg:bcc-a2)
 
@@ -32,7 +32,7 @@ Names (5): _corpus: _corpus:phase:ho-mg:bcc-a2
 _tdb: _tdb:HoMg-03Cac-LB.tdb:A2_BCC, tdb:HoMg-03Cac-LB.tdb:BCC_A2, tdb:HoMg-13Tok.tdb:A2_BCC, tdb:HoMg-13Tok.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (4): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (4): PHASE and CONSTITUENT statements as written
 
 [HoMg-03Cac-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/HoMg-03Cac-LB.tdb): A2_BCC, type code %B, sha256 `b1d78ae01625f0f3…`
 

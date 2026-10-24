@@ -20,7 +20,6 @@
    938.0534341,
    1133.053434,
    1356.053434,
-   1438.553434,
    1579.553434
   ]
  },
@@ -193,35 +192,6 @@
     ]
    ],
    [
-    "ALLA",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "LA"
-    ],
-    [
-     0.3134602859
-    ]
-   ]
-  ],
-  [
-   [
-    "AL2LA_C15",
-    [
-     "LA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "LIQUID",
     [
      "LA"
@@ -258,7 +228,6 @@
    "aspa-fbaaf26abb539b27",
    "aspa-b3424e8bc8add54a",
    "aspa-03fec1e787171c9e",
-   "aspa-500647468c90015b",
    "aspa-9d297354453c1934"
   ],
   "confidence": [
@@ -268,10 +237,9 @@
    "medium",
    "medium",
    "medium",
-   "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/AL-LA-p79.json"
  },
  "orchid_uncertainty_budget": {
@@ -377,23 +345,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0776305,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-500647468c90015b",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.181,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 74.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0195328,
      "sigma_effective": 0.02
     }
    },

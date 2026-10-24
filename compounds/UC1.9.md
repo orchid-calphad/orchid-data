@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of UC1.9
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -33.89 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -33.325 | kJ/mol-atom | 1.908 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.798 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.962 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.298 | kJ/mol-atom | 0.289 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.125 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.533 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -33.89 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -33.325 | kJ/mol-atom | 1.908 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -31.798 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.962 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.298 | kJ/mol-atom | 0.289 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.125 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -30.533 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

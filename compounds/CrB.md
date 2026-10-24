@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/CrB.html · Markdown: https://data.orchid-project.org/compounds/CrB.md
 
-4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -51.086 kJ/mol-atom (mp-aaacjmqa); OQMD -50.832 kJ/mol-atom (oqmd-28321).
+4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -50.189 kJ/mol-atom (mp-aaaaaaka); OQMD -49.899 kJ/mol-atom (oqmd-5878).
 
 Systems: [B–Cr](https://data.orchid-project.org/systems/B-CR.html)
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of CrB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -45 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -45 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -40,8 +40,8 @@ Table: DFT formation energy of CrB
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacjmqa | -51.086 | -0.529466 | I4_1/amd | 0 | 0 | no |
-| OQMD | oqmd-28321 | -50.832 | -0.526834 | I41/amd | 0 | 0 | no |
+| Materials Project | mp-aaaaaaka | -50.189 | -0.520177 | Cmcm | 0.8963 | 0.0093 | no |
+| OQMD | oqmd-5878 | -49.899 | -0.517167 | Cmcm | 0.9327 | 0.0097 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

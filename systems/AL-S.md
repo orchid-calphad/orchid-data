@@ -1,10 +1,10 @@
 # Al–S system
 
-> Al–S system: 24 accepted literature values (invariant reaction 20, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–S system: 37 accepted literature values (invariant reaction 20, formation 9, crystal structure 4, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-S.html · Markdown: https://data.orchid-project.org/systems/AL-S.md
 
-24 accepted literature values from 1 paper(s) (experimental 12, model 12); 1 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 19, model 14, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S.json) · [CSV](https://data.orchid-project.org/systems/AL-S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-S/AlS-19Shi.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-S.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-S.html) · [Markdown](https://data.orchid-project.org/systems/AL-S.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
-| model | 12 |
+| experimental | 19 |
+| model | 14 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 20 |
 | phase transition | 4 |
+| formation | 9 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -74,6 +77,24 @@ Table: Invariant reactions reported in the literature for the Al–S system (20)
 | 368.65 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | experimental | [1] Shi 2019; _cites Flahaut 1951_ | Table 5, p. 8, row 19 |  |
 | 368.45 | eutectoid: (βS) -> αAl2S3 + (αS) | (βS): S 1; αAl2S3: S 0.6; (αS): S 1 | model | [1] Shi 2019 | Table 5, p. 8, row 20 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–S system (9)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298.15 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
+| αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
+| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
+| αAl2S3 |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
+| γAl2S3 |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
+| γAl2S3 |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
+| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+
 ## Other properties
 
 ### Phase transition (4)
@@ -86,6 +107,17 @@ Table: Phase transition, Al–S system
 | Phase transition | 388.15 K | 388.15 | L3? aAl2S3 ? (bS) | model | [1] Shi 2019; _cites Sharma 1987_ [doi](https://doi.org/10.1007/bf02873197) | p. 2 | “They also determined the invariant reaction temperatures of L3? aAl2S3 ? (bS) and (bS) ? aAl2S3 ? (aS) to be about 115 C and \* 100 at.% S and 95.5 C and \* 100 at.% S, respectively.\[15\]” |
 | Phase transition | 1283.15 K | 1283.15 | other: AlS ? L1 ? cAl2S3 | experimental | [1] Shi 2019 | p. 2 | “The catatectic reaction of AlS ? L1 ? cAl2S3 was determined to be at 1010 C and 50.0 at.% S.” |
 | Phase transition | 1333.15 K | 1333.15 | other: L1 ? L2 ? AlS | experimental | [1] Shi 2019 | p. 2 | “The syntectic point of the reaction L1 ? L2 ? AlS was determined to be at 1060 C and 50 at.% S.” |
+
+### Crystal structure (4)
+
+Table: Crystal structure, Al–S system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.6423 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
+| Lattice a | 0.647 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
+| Lattice c | 1.783 Å | 298.15 | αAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
+| Lattice c | 1.727 Å | 298.15 | γAl2S3; _alloy: S 0.6_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
 
 ## Sources
 

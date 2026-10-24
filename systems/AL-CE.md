@@ -1,10 +1,10 @@
 # Al–Ce system
 
-> Al–Ce system: 45 accepted literature values (invariant reaction 24, phase transition 21) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ce system: 46 accepted literature values (invariant reaction 24, phase transition 21, formation 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CE.html · Markdown: https://data.orchid-project.org/systems/AL-CE.md
 
-45 accepted literature values from 3 paper(s) (experimental 18, model 27); 4 calculated phase diagram(s).
+46 accepted literature values from 3 paper(s) (experimental 18, model 27, DFT 1); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CE.json) · [CSV](https://data.orchid-project.org/systems/AL-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CE/AlCe-01Cac.json) · [phases (17)](https://data.orchid-project.org/phases/pages/AL-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CE.html) · [Markdown](https://data.orchid-project.org/systems/AL-CE.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 18 |
 | model | 27 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 24 |
 | phase transition | 21 |
+| formation | 1 |
 
 ## Calculated phase diagrams
 
@@ -157,6 +159,16 @@ Table: Invariant reactions reported in the literature for the Al–Ce system (24
 | 863.15 | eutectic |  | experimental | [3] Gao 2005 | p. 8 | “The eutectic point of Liq 4 AlCe3 Ce is now identified to be 90 at. pct Ce at 590 °C.” |
 | 863.15 | eutectic: Liq -> Ce + AlCe3 |  | experimental | [3] Gao 2005 | p. 3 | “The first peak is the eutectic reaction of Liq 4 Ce AlCe3 occurring at 590 °C, and the second peak is believed to be the peritectic reaction of AlCe2 Liq 4 AlCe3.” |
 | 852.2 | eutectic: Liquid -> AlCe3 + fcc-A1 | Liquid: Ce 0.854; AlCe3: Ce 0.75; fcc-A1: Ce 1 | model | [2] Hämäläinen 1998 | Table I, p. 38, row 5 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–Ce system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| βAlCe3 |  | -15.013 kJ/mol-atom | 0 | DFT |  |  | [3] Gao 2005 | Table I, p. 6, row 8 |  |
 
 ## Other properties
 

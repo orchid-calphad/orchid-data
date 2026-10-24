@@ -1,25 +1,25 @@
 # La–Pu system
 
-> La–Pu system: 27 accepted literature values (invariant reaction 26, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Pu system: 25 accepted literature values (invariant reaction 24, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-PU.html · Markdown: https://data.orchid-project.org/systems/LA-PU.md
 
-27 accepted literature values from 1 paper(s) (experimental 17, model 10); 1 calculated phase diagram(s).
+25 accepted literature values from 1 paper(s) (experimental 16, model 9); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PU.json) · [CSV](https://data.orchid-project.org/systems/LA-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-PU/LaPu-14Liu.json) · [phases (11)](https://data.orchid-project.org/phases/pages/LA-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PU.html) · [Markdown](https://data.orchid-project.org/systems/LA-PU.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PU.json) · [CSV](https://data.orchid-project.org/systems/LA-PU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-PU/LaPu-14Liu.json) · [phases (9)](https://data.orchid-project.org/phases/pages/LA-PU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PU.html) · [Markdown](https://data.orchid-project.org/systems/LA-PU.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 10 |
+| experimental | 16 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
+| invariant reaction | 24 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -50,7 +50,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Pu system (26)
+Table: Invariant reactions reported in the literature for the La–Pu system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -78,8 +78,6 @@ Table: Invariant reactions reported in the literature for the La–Pu system (26
 | 488.15 | eutectoid: (γPu) -> (βLa) + (βPu) | (γPu): Pu 1; (βLa): Pu 0.017; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 19 |  |
 | 472.15 | eutectoid: (βLa) -> (αLa) + (βPu) | (βLa): Pu 0.015; (αLa): Pu 0; (βPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 20 |  |
 | 472.15 | eutectoid: (bLa) M (aLa) + (bPu) |  | model | [1] Liu 2014 | p. 6 | “A new eutectoid transforming, (bLa) M (aLa) + (bPu), which has not been mentioned in all the literature data, is predicted to take place at 199 °C in this work, and this could be used to assist with further investigation.” |
-| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | experimental | [1] Liu 2014; _cites Okamoto 2000_ | Table 5, p. 6, row 24 |  |
-| 398.15 | polymorphic: (βPu) -> (αPu) | (βPu): Pu 1; (αPu): Pu 1 | model | [1] Liu 2014 | Table 5, p. 6, row 25 |  |
 
 ## Other properties
 

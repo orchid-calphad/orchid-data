@@ -1,10 +1,10 @@
 # Nb3Sn: enthalpy of formation
 
-> Enthalpy of formation of Nb3Sn: 20 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Nb3Sn: 20 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Nb3Sn.html · Markdown: https://data.orchid-project.org/compounds/Nb3Sn.md
 
-20 accepted literature formation-enthalpy value(s) (experimental 9, model 11).
+20 accepted literature formation-enthalpy value(s) (experimental 9, model 11); Materials Project -15.81 kJ/mol-atom (mp-aaaaabza); OQMD -18.84 kJ/mol-atom (oqmd-17754).
 
 Systems: [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html)
 
@@ -23,17 +23,17 @@ Table: Enthalpy of formation of Nb3Sn reported in the literature (20)
 | -16.19 kJ/mol (basis unstated) | Nb3Sn | 298.15 | experimental | Vapor pressure (third law) | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Schiffman 1982_ | Table 1, p. 1, row 4 |  |
 | -16.19 kJ/mol (basis unstated) | Nb3Sn | 298.15 | experimental | Vapor pressure (third law) | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998; _cites ref. 82Sch_ | Table 1, p. 1, row 3 |  |
 | -15.2 kJ/mol (basis unstated) ± 2.3 | Nb3Sn | 1473 | experimental | Drop calorimetry | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0040-6031%2897%2900467-x) | Table 1, p. 1, row 5 |  |
-| -18.307 kJ/mol (basis unstated) | Nb3Sn | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
-| -18.241 kJ/mol (basis unstated) | Nb3Sn | 1273 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
-| -17.876 kJ/mol (basis unstated) | Nb3Sn | 1473 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
-| -17.095 kJ/mol (basis unstated) | Nb3Sn | 1623 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
-| -16.564 kJ/mol (basis unstated) | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
-| -16.4 kJ/mol (basis unstated) | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
+| -18.307 kJ/mol-atom | Nb3Sn | 860 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 11 |  |
+| -18.241 kJ/mol-atom | Nb3Sn | 1273 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 12 |  |
+| -17.876 kJ/mol-atom | Nb3Sn | 1473 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 13 |  |
+| -17.095 kJ/mol-atom | Nb3Sn | 1623 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 14 |  |
+| -16.564 kJ/mol-atom | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002 | Table 1, p. 1, row 10 |  |
+| -16.4 kJ/mol-atom | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Miedema 1980_ [doi](https://doi.org/10.1016/0378-4363%2880%2990054-6) | Table 1, p. 1, row 7 |  |
 | -16.4 kJ/mol (basis unstated) | Nb3Sn | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998; _cites ref. 80Mie_ | Table 1, p. 1, row 4 |  |
 | -16 kJ/mol (basis unstated) | Nb3Sn | 298.15 | model | Calculation | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998; _cites ref. 88Deb_ | Table 1, p. 1, row 5 |  |
-| -16 kJ/mol (basis unstated) | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
+| -16 kJ/mol-atom | Nb3Sn | 298.15 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites ref. 1988Deb_ | Table 1, p. 1, row 8 |  |
 | 2.768 kJ/mol (basis unstated) | Nb3Sn | 1273 | model | Optimization | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [2] Toffolon 1998 | Table 1, p. 1, row 6 |  |
-| 2.768 kJ/mol (basis unstated) | Nb3Sn | 1273 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
+| 2.768 kJ/mol-atom | Nb3Sn | 1273 | model |  | [Nb–Sn](https://data.orchid-project.org/systems/NB-SN.html) | [1] Toffolon 2002; _cites Toffolon 2002_ | Table 1, p. 1, row 9 |  |
 
 ### Uncertainty budget
 
@@ -43,26 +43,39 @@ Table: Uncertainty budget of the literature values of Nb3Sn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -32.06 | kJ/mol (basis unstated) | 1.97 | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -32.06 | kJ/mol (basis unstated) | 1.97 | 0.005 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
+| -32.06 | kJ/mol (basis unstated) | 1.97 | 5.000e-4 | 18.4 (emf, cleaned_below_threshold) |  |  |  | 18.4 |
 | -16.7 | unspecified | 1.8 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 1.8 |
-| -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -16.57 | kJ/mol (basis unstated) |  | 0.005 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
-| -16.57 | kJ/mol (basis unstated) |  | 5.000e-4 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
-| -16.19 | kJ/mol (basis unstated) |  | 0.005 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
-| -16.19 | kJ/mol (basis unstated) |  | 5.000e-4 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
-| -15.2 | kJ/mol (basis unstated) | 2.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -18.307 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -18.241 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.876 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.095 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.564 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 2.768 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 2.768 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -16.7 | kJ/mol (basis unstated) | 1.8 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -16.57 | kJ/mol (basis unstated) |  | 0.005 | 12 (kems_vapour_second_law, prior) |  |  |  | 12 |
+| -16.57 | kJ/mol (basis unstated) |  | 5.000e-4 | 12 (kems_vapour_second_law, prior) |  |  |  | 12 |
+| -16.19 | kJ/mol (basis unstated) |  | 0.005 | 8 (kems_vapour_third_law, prior) |  |  |  | 8 |
+| -16.19 | kJ/mol (basis unstated) |  | 5.000e-4 | 8 (kems_vapour_third_law, prior) |  |  |  | 8 |
+| -15.2 | kJ/mol (basis unstated) | 2.3 | 0.05 | 14 (solution_reaction_calorimetry, calibrated) |  |  |  | 14 |
+| -18.307 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -18.241 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.876 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.095 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.564 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16.4 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -16 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -16 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 2.768 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| 2.768 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+
+## DFT formation energies
+
+Lowest-energy entries at this composition. Materials Project and OQMD use different energy references and are never averaged. 1 eV/atom = 96.485 kJ/mol-atom.
+
+Table: DFT formation energy of Nb3Sn
+
+| Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
+|---|---|---:|---:|---|---:|---:|---|
+| Materials Project | mp-aaaaabza | -15.81 | -0.163862 | Pm-3n | 0 | 0 | no |
+| OQMD | oqmd-17754 | -18.84 | -0.195267 | Pm-3n | 0 | 0 | no |
+
+DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 

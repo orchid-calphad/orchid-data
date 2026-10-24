@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/C-LA.html · Markdown: https:
 
 9 phases (tier A 7, tier C 1, liquid 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=C-LA) · [full JSON](https://data.orchid-project.org/phases/systems/C-LA.json) · [Markdown](https://data.orchid-project.org/phases/pages/C-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=C-LA) · [full JSON](https://data.orchid-project.org/phases/systems/C-LA.json) · [C–La system page](https://data.orchid-project.org/systems/C-LA.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-LA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the C–La system (9)
 
@@ -26,6 +26,7 @@ Table: Phases of the C–La system (9)
 
 - Id: `phase:c-la:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-la:a4-diamond)
@@ -52,6 +53,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-la:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-la:a9-graphite)

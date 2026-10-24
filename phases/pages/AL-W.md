@@ -12,10 +12,10 @@ Table: Phases of the Al–W system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL12W](#phase-al-w-al12w); _phase:al-w:al12w_ | Al12W · cI26 · Im-3 (204) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–970.23 K, x(W) 0.07692–0.07692 | 8 | 2 |
+| [AL12W](#phase-al-w-al12w); _phase:al-w:al12w_ | Al12W · cI26 · Im-3 (204) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–970.23 K, x(W) 0.07692–0.07692 | 11 | 2 |
 | [AL2W_C40](#phase-al-w-al2w-c40); _phase:al-w:al2w-c40_ | CrSi2 · C40 · hP9 · P6_222 (180) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1199.74–1939.31 K, x(W) 0.33333–0.33333 | 10 | 2 |
-| [AL4W](#phase-al-w-al4w); _phase:al-w:al4w_ | Al4W · mC30 · Cm (8) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1620.87 K, x(W) 0.2–0.2 | 9 | 2 |
-| [AL5W](#phase-al-w-al5w); _phase:al-w:al5w_ | Al5W · hP12 · P6_322 (182) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1149.59 K, x(W) 0.16667–0.16667 | 7 | 2 |
+| [AL4W](#phase-al-w-al4w); _phase:al-w:al4w_ | Al4W · mC30 · Cm (8) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1620.87 K, x(W) 0.2–0.2 | 10 | 2 |
+| [AL5W](#phase-al-w-al5w); _phase:al-w:al5w_ | Al5W · hP12 · P6_322 (182) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1149.59 K, x(W) 0.16667–0.16667 | 10 | 2 |
 | [AL77W23](#phase-al-w-al77w23); _phase:al-w:al77w23_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1571.03–1648.23 K, x(W) 0.23–0.23 | 4 | 1 |
 | [AL7W3](#phase-al-w-al7w3); _phase:al-w:al7w3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1580.05–1706.83 K, x(W) 0.3–0.3 | 4 | 1 |
 | [BCC_A2](#phase-al-w-bcc-a2); _phase:al-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.9 K, x(W) 0.83995–1 | 8 | 2 |
@@ -29,7 +29,7 @@ Table: Phases of the Al–W system (10)
 - Structure: Al12W · cI26 · Im-3 (204); type `st:al12w-ci26`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.9231, W 0.0769
 - Stability: stable in 2 of 2 calculated diagram(s): 300–970.23 K, x(W) 0.07692–0.07692
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al12w)
 
 Names (7): _corpus: _corpus:phase:al-w:al12w  
@@ -107,7 +107,7 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.8000, W 0.2000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1620.87 K, x(W) 0.2–0.2
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al4w)
 
 Names (5): _corpus: _corpus:phase:al-w:al4w  
@@ -144,7 +144,7 @@ _reports values for this phase_
 - Structure: Al5W · hP12 · P6_322 (182); type `st:al5w-hp12`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.8333, W 0.1667
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1149.59 K, x(W) 0.16667–0.16667
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-w:al5w)
 
 Names (7): _corpus: _corpus:phase:al-w:al5w  

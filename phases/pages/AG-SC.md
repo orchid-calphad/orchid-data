@@ -15,9 +15,9 @@ Table: Phases of the Ag–Sc system (7)
 | [AG2SC_C11B](#phase-ag-sc-ag2sc-c11b); _phase:ag-sc:ag2sc-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1427.79 K, x(Sc) 0.33333–0.33333 | 7 | 2 |
 | [AG4SC_D1A](#phase-ag-sc-ag4sc-d1a); _phase:ag-sc:ag4sc-d1a_ | MoNi4 · D1_a · tI10 · I4/m (87) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1217.88 K, x(Sc) 0.2–0.2 | 6 | 2 |
 | [AGSC_B2](#phase-ag-sc-agsc-b2); _phase:ag-sc:agsc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1502.89 K, x(Sc) 0.5–0.5 | 6 | 2 |
-| [BCC_A2](#phase-ag-sc-bcc-a2); _phase:ag-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1607.9–2499.64 K, x(Sc) 0.99988–1 | 5 | 2 |
+| [BCC_A2](#phase-ag-sc-bcc-a2); _phase:ag-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1607.9–2499.64 K, x(Sc) 0.99988–1 | 3 | 2 |
 | [FCC_A1](#phase-ag-sc-fcc-a1); _phase:ag-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1234.93 K, x(Sc) 0–0.11506 | 6 | 2 |
-| [HCP_A3](#phase-ag-sc-hcp-a3); _phase:ag-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1812.9 K, x(Sc) 0.99985–1 | 4 | 2 |
+| [HCP_A3](#phase-ag-sc-hcp-a3); _phase:ag-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1812.9 K, x(Sc) 0.99985–1 | 2 | 2 |
 | [LIQUID](#phase-ag-sc-liquid); _phase:ag-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1167.38–2500 K, x(Sc) 0–1 | 20 | 2 |
 
 ## AG2SC_C11B (Ag–Sc)
@@ -146,7 +146,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1607.9–2499.64 K, x(Sc) 0.99988–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sc:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:ag-sc:bcc-a2  
@@ -222,7 +222,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-sc:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1812.9 K, x(Sc) 0.99985–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sc:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:ag-sc:hcp-a3  
@@ -246,12 +246,10 @@ _tdb: _tdb:AgSc-08GTT.tdb:HCP_A3, tdb:AgSc-09Liu.tdb:HCP_A3
 41: CONST HCP_A3 : AG SC% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2008.02.018](https://doi.org/10.1016/j.jallcom.2008.02.018) X.J. Liu, S.L. Wang, C.P. Wang, Thermodynamic assessments of the Sc–M (M: Ag, B and Th) systems, Journal of Alloys and Compounds 469, 186-192 (2009).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02868084](https://doi.org/10.1007/bf02868084) K. A. Gschneidner, F. W. Calderwood, The Ag−Sc (Silver-Scandium) system, Bulletin of Alloy Phase Diagrams 4, 375-377 (1983).  
-_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(75)90196-4](https://doi.org/10.1016/0022-5088%2875%2990196-4) Isolde Stapf, Gonde Kiessler, Erich Gebhardt, Das system Silber-Scandium, Journal of the Less Common Metals 39, 219-225 (1975).  
 _cited as the source of values for this phase_
 

@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Fe2Tm
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.98 | kJ/mol-atom |  | 0.005 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
-| -5.7 | kJ/mol-atom |  | 0.05 | 4.1 (heat_content_calorimetry, calibrated) |  |  |  | 4.1 |
+| -5.98 | kJ/mol-atom |  | 0.005 | 3.5 (heat_content_calorimetry, calibrated) |  |  |  | 3.5 |
+| -5.7 | kJ/mol-atom |  | 0.05 | 3.5 (heat_content_calorimetry, calibrated) |  |  |  | 3.5 |
 | -2.2 | kJ/mol-atom | 2.8 | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2.8 |
-| -11.53 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.19 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -5.042 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.46 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -13.4 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -11.53 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -6.19 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -5.042 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -2.46 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -13.4 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 

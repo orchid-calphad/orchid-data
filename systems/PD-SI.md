@@ -1,10 +1,10 @@
 # Pd–Si system
 
-> Pd–Si system: 116 accepted literature values (formation 44, invariant reaction 44, phase equilibrium 18, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Si system: 108 accepted literature values (invariant reaction 44, formation 36, phase equilibrium 18, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SI.html · Markdown: https://data.orchid-project.org/systems/PD-SI.md
 
-116 accepted literature values from 3 paper(s) (experimental 46, model 28, DFT 42); 5 calculated phase diagram(s).
+108 accepted literature values from 3 paper(s) (experimental 46, model 28, DFT 34); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SI.json) · [CSV](https://data.orchid-project.org/systems/PD-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SI/PdSi-05The.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PD-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SI.html) · [Markdown](https://data.orchid-project.org/systems/PD-SI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 46 |
 | model | 28 |
-| DFT | 42 |
+| DFT | 34 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 44 |
 | phase transition | 10 |
 | phase equilibrium | 18 |
-| formation | 44 |
+| formation | 36 |
 
 ## Calculated phase diagrams
 
@@ -164,7 +164,7 @@ Table: Invariant reactions reported in the literature for the Pd–Si system (44
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Pd–Si system (44)
+Table: Enthalpies of formation, Pd–Si system (36)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -182,13 +182,9 @@ Table: Enthalpies of formation, Pd–Si system (44)
 | PdPd-δ |  | 34.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 24 |  |
 | PdSi-δ |  | -50.18 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 25 |  |
 | Si2Pd-γ |  | 169.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 22 |  |
-| Si2Si-γ |  | 148.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 23 |  |
 | Si3Pd-β |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 16 |  |
-| Si3Si-β |  | 1.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 17 |  |
 | Si5Pd-μ |  | 43.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 5 |  |
-| Si5Si-μ |  | 66.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 6 |  |
 | Si9Pd2-α |  | 36.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 10 |  |
-| Si9Si2-α |  | 62.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 11 |  |
 | SiPd-δ |  | 43.17 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 27 |  |
 | SiSi-δ |  | 66.39 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 28 |  |
 | UNKNOWN |  | -65.1 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 19 |  |
@@ -196,7 +192,6 @@ Table: Enthalpies of formation, Pd–Si system (44)
 | UNKNOWN |  | -50.18 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 25 |  |
 | UNKNOWN |  | -42.7 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 8 |  |
 | UNKNOWN |  | -40.5 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 3 |  |
-| UNKNOWN |  | 1.88 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 17 |  |
 | UNKNOWN |  | 10.6 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 16 |  |
 | UNKNOWN |  | 24.5 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 7 |  |
 | UNKNOWN |  | 34.7 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 24 |  |
@@ -205,11 +200,8 @@ Table: Enthalpies of formation, Pd–Si system (44)
 | UNKNOWN |  | 43.2 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 5 |  |
 | UNKNOWN |  | 44.5 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 12 |  |
 | UNKNOWN |  | 48.7 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 2 |  |
-| UNKNOWN |  | 62.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 11 |  |
 | UNKNOWN |  | 66.39 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 28 |  |
-| UNKNOWN |  | 66.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 6 |  |
 | UNKNOWN |  | 109.6 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 1 |  |
-| UNKNOWN |  | 148.1 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 23 |  |
 | UNKNOWN |  | 169.4 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 22 |  |
 | UNKNOWN |  | 186.7 kJ/mol (basis unstated) |  | DFT |  |  | [3] Zhou 2016 | Table I, p. 3, row 18 |  |
 

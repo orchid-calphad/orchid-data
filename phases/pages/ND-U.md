@@ -24,6 +24,7 @@ Table: Phases of the Nd–U system (7)
 
 - Id: `phase:nd-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-u:a20-orthorhombic)
@@ -183,6 +184,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — NdU-15Dot.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 942.02–1403.38 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-u:u-tetragonal)

@@ -1,10 +1,10 @@
 # V–Zn system
 
-> V–Zn system: 34 accepted literature values (crystal structure 15, invariant reaction 14, phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> V–Zn system: 28 accepted literature values (invariant reaction 14, crystal structure 9, phase transition 4, formation 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/V-ZN.html · Markdown: https://data.orchid-project.org/systems/V-ZN.md
 
-34 accepted literature values from 2 paper(s) (experimental 19, model 9, unspecified 6); 2 calculated phase diagram(s).
+28 accepted literature values from 2 paper(s) (experimental 19, model 6, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/V-ZN.json) · [CSV](https://data.orchid-project.org/systems/V-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#V-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#V-ZN/VZn-10Cha.json) · [phases (8)](https://data.orchid-project.org/phases/pages/V-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/V-ZN.html) · [Markdown](https://data.orchid-project.org/systems/V-ZN.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 9 |
-| unspecified | 6 |
+| model | 6 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 14 |
 | phase transition | 4 |
 | formation | 1 |
-| crystal structure | 15 |
+| crystal structure | 9 |
 
 ## Calculated phase diagrams
 
@@ -109,25 +109,19 @@ Table: Phase transition, V–Zn system
 | Phase transition | 1179.65 K | 1179.65 | Gas + (V) ↔ Liquid | model | [2] Wu 2011 | p. 7 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 906.5 °C.” |
 | Phase transition | 1193.75 K | 1193.75 | Gas + (V) ↔ Liquid | model | [1] Chang 2010 | p. 4 | “According to the calculation, there is one invariant reaction: Gas + (V) ↔ Liquid at 920.6 ◦ C.” |
 
-### Crystal structure (15)
+### Crystal structure (9)
 
 Table: Crystal structure, V–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.2668 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 4 |  |
-| Lattice a | 0.303 Å |  | V; _alloy: Zn 0_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 2 |  |
 | Lattice a | 0.8872 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
 | Lattice a | 0.3823 Å |  | VZn3; _alloy: Zn 0.75_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 10 |  |
-| Lattice a | 0.26646 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
-| Lattice a | 0.30271 Å | 298.15 | V; _alloy: Zn 0_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
 | Lattice a | 0.891 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 0.3848 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 8 |  |
 | Lattice a | 0.3849 Å | 298.15 | VZn3; _alloy: Zn 0.75_ | experimental | [1] Chang 2010; _cites Wendorff 1964_ | Table 1, p. 2, row 9 |  |
-| Lattice c | 0.50158 Å |  | (Zn); _alloy: Zn 1_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 4 |  |
 | Lattice c | 0.3196 Å |  | V4Zn5; _alloy: Zn 0.555556_ | unspecified | [1] Chang 2010 | Table 1, p. 2, row 7 |  |
-| Lattice c | 0.49641 Å | 298.15 | (Zn); _alloy: Zn 1_ | model | [1] Chang 2010; _cites Villars 1991_ | Table 1, p. 2, row 3 |  |
 | Lattice c | 0.322 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Piotrowski 1965_ | Table 1, p. 2, row 6 |  |
 | Lattice c | 0.3227 Å | 298.15 | V4Zn5; _alloy: Zn 0.555556_ | experimental | [1] Chang 2010; _cites Chasanov 1963_ | Table 1, p. 2, row 5 |  |
 

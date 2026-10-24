@@ -1,10 +1,10 @@
 # Cu–Sb system
 
-> Cu–Sb system: 36 accepted literature values (invariant reaction 24, formation 10, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Sb system: 57 accepted literature values (invariant reaction 24, formation 19, crystal structure 12, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-SB.html · Markdown: https://data.orchid-project.org/systems/CU-SB.md
 
-36 accepted literature values from 2 paper(s) (experimental 18, model 18); 3 calculated phase diagram(s).
+57 accepted literature values from 3 paper(s) (experimental 34, model 23); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-SB.json) · [CSV](https://data.orchid-project.org/systems/CU-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-SB/CuSb-00Liu-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-SB.html) · [Markdown](https://data.orchid-project.org/systems/CU-SB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 18 |
+| experimental | 34 |
+| model | 23 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 24 |
 | phase transition | 2 |
-| formation | 10 |
+| formation | 19 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -135,20 +136,29 @@ Table: Invariant reactions reported in the literature for the Cu–Sb system (24
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Cu–Sb system (10)
+Table: Enthalpies of formation, Cu–Sb system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | γ |  | -2.845 kJ/mol (basis unstated) | 775 | model |  |  | [1] Gierlotka 2009 | Table 5, p. 5, row 3 |  |
 | γ |  | -2.68 kJ/mol (basis unstated) | 775 | experimental |  |  | [1] Gierlotka 2009; _cites Murakami 1936_ | Table 5, p. 5, row 4 |  |
+| γ(Cu17Sb3) |  | -2.68 kJ/mol-atom |  | model |  |  | [3] Liu 2000 | Table 2, p. 3, row 1 |  |
+| γ(Cu17Sb3) |  | -0.27 kJ/mol-atom | 775.15 | experimental |  |  | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 2 |  |
 | δ |  | -5.486 kJ/mol (basis unstated) | 775 | model |  |  | [1] Gierlotka 2009 | Table 5, p. 5, row 1 |  |
 | δ |  | -5.142 kJ/mol (basis unstated) | 775 | experimental |  |  | [1] Gierlotka 2009; _cites Murakami 1936_ | Table 5, p. 5, row 2 |  |
+| δ(Cu4Sb) |  | -5.142 kJ/mol-atom |  | model |  |  | [3] Liu 2000 | Table 2, p. 3, row 3 |  |
 | ε |  | -5.282 kJ/mol (basis unstated) | 775 | model |  |  | [1] Gierlotka 2009 | Table 5, p. 5, row 5 |  |
 | ε |  | -4.718 kJ/mol (basis unstated) | 775 | experimental |  |  | [1] Gierlotka 2009; _cites Murakami 1936_ | Table 5, p. 5, row 6 |  |
+| ε(Cu3Sb) | [Cu3Sb](https://data.orchid-project.org/compounds/Cu3Sb.html) | -4.718 kJ/mol-atom |  | model | 3.13 (mp-aaaabexw) | 6.48 (oqmd-320322) | [3] Liu 2000 | Table 2, p. 3, row 4 |  |
 | ζ |  | -5.513 kJ/mol (basis unstated) | 775 | model |  |  | [1] Gierlotka 2009 | Table 5, p. 5, row 9 |  |
 | ζ |  | -4.936 kJ/mol (basis unstated) | 775 | experimental |  |  | [1] Gierlotka 2009; _cites Murakami 1936_ | Table 5, p. 5, row 10 |  |
+| ζ(Cu10Sb3) | [Cu10Sb3](https://data.orchid-project.org/compounds/Cu10Sb3.html) | -4.936 kJ/mol-atom |  | model | 2.094 (mp-aaaaaczc) | 5.616 (oqmd-8425) | [3] Liu 2000 | Table 2, p. 3, row 5 |  |
 | η |  | -4.753 kJ/mol (basis unstated) | 773 | model |  |  | [1] Gierlotka 2009 | Table 5, p. 5, row 7 |  |
 | η |  | -4.23 kJ/mol (basis unstated) | 773 | experimental |  |  | [1] Gierlotka 2009; _cites Vecher 1958_ | Table 5, p. 5, row 8 |  |
+| η(Cu2Sb) | [Cu2Sb](https://data.orchid-project.org/compounds/Cu2Sb.html) | -4.351 kJ/mol-atom |  | model | -3.932 (mp-aaaaacsf) | 1.093 (oqmd-3607) | [3] Liu 2000 | Table 2, p. 3, row 6 |  |
+| η(Cu2Sb) | [Cu2Sb](https://data.orchid-project.org/compounds/Cu2Sb.html) | -4.23 kJ/mol-atom | 723.15 | experimental | -3.932 (mp-aaaaacsf) | 1.093 (oqmd-3607) | [3] Liu 2000; _cites Kleppa 1956_ [doi](https://doi.org/10.1021/j150541a005) | Table 2, p. 3, row 7 |  |
+| η(Cu2Sb) | [Cu2Sb](https://data.orchid-project.org/compounds/Cu2Sb.html) | -4.205 kJ/mol-atom | 775.15 | experimental | -3.932 (mp-aaaaacsf) | 1.093 (oqmd-3607) | [3] Liu 2000; _cites Hultgren 1973_ | Table 2, p. 3, row 8 |  |
+| η(Cu2Sb) | [Cu2Sb](https://data.orchid-project.org/compounds/Cu2Sb.html) | -1.35 kJ/mol-atom | 773.15 | experimental | -3.932 (mp-aaaaacsf) | 1.093 (oqmd-3607) | [3] Liu 2000; _cites Brodowski 1982_ | Table 2, p. 3, row 9 |  |
 
 ## Other properties
 
@@ -161,12 +171,32 @@ Table: Phase transition, Cu–Sb system
 | Phase transition | 956 K | 956 | L=β | experimental | [1] Gierlotka 2009; _cites Subramanian_ | Table 3, p. 3, row 2 |  |
 | Phase transition | 958 K | 958 | L=β; _L: Sb 0.25; β: Sb 0.25_ | model | [1] Gierlotka 2009 | Table 3, p. 3, row 1 |  |
 
+### Crystal structure (12)
+
+Table: Crystal structure, Cu–Sb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 6 Å |  | β (Cu3Sb); _alloy: Sb 0.25_ | experimental | [2] Liu 2023; _cites Hofmann 1941_ [doi](https://doi.org/10.1515/ijmr-1941-331103) | Table 1, p. 3, row 5 |  |
+| Lattice a | 2.752 Å | 298.15 | γ (Cu17Sb3); _alloy: Sb 0.15_ | experimental | [2] Liu 2023; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 3, row 7 |  |
+| Lattice a | 19.124 Å | 298.15 | δ (Cu78Sb20); _alloy: Sb 0.204082_ | experimental | [2] Liu 2023; _cites Yamaguchi 1972_ [doi](https://doi.org/10.1143/jpsj.33.708) | Table 1, p. 3, row 9 |  |
+| Lattice a | 5.504 Å | 298.15 | ε (Cu3Sb); _alloy: Sb 0.25_ | experimental | [2] Liu 2023; _cites Karlsson 1972_ [doi](https://doi.org/10.1107/s0567740872006120) | Table 1, p. 3, row 6 |  |
+| Lattice a | 4.0014 Å | 298.15 | η (Cu2Sb); _alloy: Sb 0.333333_ | experimental | [2] Liu 2023; _cites Pearson 1964_ [doi](https://doi.org/10.1139/p64-047) | Table 1, p. 3, row 4 |  |
+| Lattice a | 9.92 Å | 298.15 | ξ(Cu10Sb3); _alloy: Sb 0.230769_ | experimental | [2] Liu 2023; _cites Gunzel 1958_ [doi](https://doi.org/10.1515/ijmr-1958-490302) | Table 1, p. 3, row 8 |  |
+| Lattice b | 4.353 Å | 298.15 | ε (Cu3Sb); _alloy: Sb 0.25_ | experimental | [2] Liu 2023; _cites Karlsson 1972_ [doi](https://doi.org/10.1107/s0567740872006120) | Table 1, p. 3, row 6 |  |
+| Lattice c | 4.32 Å | 298.15 | γ (Cu17Sb3); _alloy: Sb 0.15_ | experimental | [2] Liu 2023; _cites Schubert 1957_ [doi](https://doi.org/10.1007/bf00595784) | Table 1, p. 3, row 7 |  |
+| Lattice c | 4.32476 Å | 298.15 | δ (Cu78Sb20); _alloy: Sb 0.204082_ | experimental | [2] Liu 2023; _cites Yamaguchi 1972_ [doi](https://doi.org/10.1143/jpsj.33.708) | Table 1, p. 3, row 9 |  |
+| Lattice c | 4.768 Å | 298.15 | ε (Cu3Sb); _alloy: Sb 0.25_ | experimental | [2] Liu 2023; _cites Karlsson 1972_ [doi](https://doi.org/10.1107/s0567740872006120) | Table 1, p. 3, row 6 |  |
+| Lattice c | 6.1044 Å | 298.15 | η (Cu2Sb); _alloy: Sb 0.333333_ | experimental | [2] Liu 2023; _cites Pearson 1964_ [doi](https://doi.org/10.1139/p64-047) | Table 1, p. 3, row 4 |  |
+| Lattice c | 4.32 Å | 298.15 | ξ(Cu10Sb3); _alloy: Sb 0.230769_ | experimental | [2] Liu 2023; _cites Gunzel 1958_ [doi](https://doi.org/10.1515/ijmr-1958-490302) | Table 1, p. 3, row 8 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Wojciech Gierlotka, Dominika Jendrzejczyk-Handzlik, Thermodynamic description of the Cu–Sb binary system, Journal of Alloys and Compounds 484, 172-176 (2009). [doi:10.1016/j.jallcom.2009.05.056](https://doi.org/10.1016/j.jallcom.2009.05.056)
 2. Runlin Liu, Jiong Wang, Dongyu Cui, Thermodynamic Modeling of the Cu-Sb-Se System, J. Phase Equilib. Diffus. 44, 687-703 (2023). [doi:10.1007/s11669-023-01074-8](https://doi.org/10.1007/s11669-023-01074-8)
+3. X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000). [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608)
 
 ## Please cite
 

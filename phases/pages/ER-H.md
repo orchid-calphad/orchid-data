@@ -1,10 +1,10 @@
 # Er–H phases
 
-> Er–H system: 5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Er–H system: 5 phases (tier A 1, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/ER-H.html · Markdown: https://data.orchid-project.org/phases/pages/ER-H.md
 
-5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 1, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=ER-H) · [full JSON](https://data.orchid-project.org/phases/systems/ER-H.json) · [Er–H system page](https://data.orchid-project.org/systems/ER-H.html) · [Markdown](https://data.orchid-project.org/phases/pages/ER-H.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -12,8 +12,8 @@ Table: Phases of the Er–H system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-er-h-bcc-a2); _phase:er-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 4 | 1 |
-| [FCC_A1](#phase-er-h-fcc-a1); _phase:er-h:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1494.6 K, x(H) 0.44743–0.70158 | 0 | 1 |
+| [BCC_A2](#phase-er-h-bcc-a2); _phase:er-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
+| [FCC_A1](#phase-er-h-fcc-a1); _phase:er-h:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1494.6 K, x(H) 0.44743–0.70158 | 0 | 1 |
 | [GAS](#phase-er-h-gas); _phase:er-h:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(H) 1–1 | 0 | 1 |
 | [HCP_A3](#phase-er-h-hcp-a3); _phase:er-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2047.56 K, x(H) 0–0.75 | 4 | 1 |
 | [LIQUID](#phase-er-h-liquid); _phase:er-h:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1795–2500 K, x(H) 0–0.00509 | 0 | 1 |
@@ -24,11 +24,10 @@ Table: Phases of the Er–H system (5)
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Er 1.0000
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-h:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:er-h:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2013.01.004:β-ErH2  
+Names (2): _corpus: _corpus:phase:er-h:bcc-a2  
 _tdb: _tdb:ErH-13Mas.tdb:BCC_A2  
 
 
@@ -44,12 +43,12 @@ _tdb: _tdb:ErH-13Mas.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.01.004](https://doi.org/10.1016/j.calphad.2013.01.004) Aurore Mascaro, Caroline Toffolon-Masclet, Caroline Raepsaet, Jean-Marc Joubert, Experimental study and thermodynamic assessment of the erbium–hydrogen binary system, Calphad 41, 50-59 (2013).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Er–H)
 
 - Id: `phase:er-h:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1494.6 K, x(H) 0.44743–0.70158
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-h:fcc-a1)

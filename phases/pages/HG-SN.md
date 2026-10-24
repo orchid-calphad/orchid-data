@@ -13,8 +13,8 @@ Table: Phases of the Hg–Sn system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBO_A10](#phase-hg-sn-a10-rhombo); _phase:hg-sn:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 2 | 1 |
-| [DIAMOND_A4](#phase-hg-sn-a4-diamond); _phase:hg-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 7 | 1 |
-| [BCT_A5](#phase-hg-sn-a5-bct); _phase:hg-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 17 | 1 |
+| [DIAMOND_A4](#phase-hg-sn-a4-diamond); _phase:hg-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 6 | 1 |
+| [BCT_A5](#phase-hg-sn-a5-bct); _phase:hg-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 15 | 1 |
 | [HGSN12_AF](#phase-hg-sn-hgsn12-af); _phase:hg-sn:hgsn12-af_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–484.23 K, x(Sn) 0.88285–0.94493 | 11 | 1 |
 | [HGSN38](#phase-hg-sn-hgsn38); _phase:hg-sn:hgsn38_ | HgSn38 · hP1 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 472.06–497.11 K, x(Sn) 0.97436–0.97436 | 0 | 1 |
 | [HGSN4](#phase-hg-sn-hgsn4); _phase:hg-sn:hgsn4_ |  | needs_review | not stable in 1 calculated diagram(s) | 9 | 1 |
@@ -55,11 +55,11 @@ _assessment that models this phase; reports values for this phase_
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hg-sn:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:hg-sn:a4-diamond, corpus:phase:hg-sn:diamond-a4  
-_paper: _paper:10.1361/105497103770330776:(αSn), paper:10.1361/105497103770330776:αSn  
+Names (4): _corpus: _corpus:phase:hg-sn:a4-diamond, corpus:phase:hg-sn:diamond-a4  
+_paper: _paper:10.1361/105497103770330776:αSn  
 _tdb: _tdb:HgSn-03Yen-LB.tdb:DIAMOND_A4  
 
 
@@ -85,7 +85,7 @@ _cited as the source of values for this phase_
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–505.08 K, x(Sn) 1–1
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hg-sn:a5-bct)
 
 Names (6): _corpus: _corpus:phase:hg-sn:a5-bct, corpus:phase:hg-sn:bct-a5  

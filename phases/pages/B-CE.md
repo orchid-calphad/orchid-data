@@ -14,12 +14,12 @@ Table: Phases of the B–Ce system (8)
 |---|---|---|---|---:|---:|
 | [ALPHA_RHOMBO_B](#phase-b-ce-b-alpha-rhombo); _phase:b-ce:b-alpha-rhombo_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1388 K, x(B) 1–1 | 0 | 3 |
 | [BETA_RHOMBO_B](#phase-b-ce-b-beta-rhombo); _phase:b-ce:b-beta-rhombo_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1388–2355 K, x(B) 1–1 | 10 | 3 |
-| [BCC_A2](#phase-b-ce-bcc-a2); _phase:b-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 999.94–3999.64 K, x(B) 0–8e-05 | 50 | 3 |
+| [BCC_A2](#phase-b-ce-bcc-a2); _phase:b-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 999.94–3999.64 K, x(B) 0–8e-05 | 33 | 3 |
 | [CEB4_D1E](#phase-b-ce-ceb4-d1e); _phase:b-ce:ceb4-d1e_ | UB4 · D1_e · tP20 · P4/mbm (127) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2439.12 K, x(B) 0.8–0.8 | 40 | 3 |
 | [CEB6_D21](#phase-b-ce-ceb6-d21); _phase:b-ce:ceb6-d21_ | CaB6 · D2_1 · cP7 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2603.48 K, x(B) 0.85714–0.85714 | 43 | 3 |
 | [FCC_A1](#phase-b-ce-fcc-a1); _phase:b-ce:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1064.99 K, x(B) 0–2e-05 | 7 | 3 |
 | [HCP_A3](#phase-b-ce-hcp-a3); _phase:b-ce:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LIQUID](#phase-b-ce-liquid); _phase:b-ce:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1059.06–4000 K, x(B) 0–1 | 80 | 3 |
+| [LIQUID](#phase-b-ce-liquid); _phase:b-ce:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1059.06–4000 K, x(B) 0–1 | 72 | 3 |
 
 ## ALPHA_RHOMBO_B (B–Ce)
 
@@ -29,6 +29,7 @@ Table: Phases of the B–Ce system (8)
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CeB-13Wan.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CeB-17Pre.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CeB-20Li.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ce:b-alpha-rhombo)
@@ -77,6 +78,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CeB-13Wan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CeB-17Pre.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CeB-20Li.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 1388–2355 K, x(B) 1–1
 - Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ce:b-beta-rhombo)
@@ -125,11 +127,11 @@ _cited as the source of values for this phase_
 - Id: `phase:b-ce:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 999.94–3999.64 K, x(B) 0–8e-05
-- Literature: 50 values (50 accepted) from 3 papers
+- Literature: 33 values (33 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ce:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:b-ce:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2013.03.001:(δCe), paper:10.1016/j.calphad.2020.101740:δ-Ce, paper:10.1016/j.tca.2017.10.006:β(B), paper:10.1016/j.tca.2017.10.006:δ(Ce)  
+Names (7): _corpus: _corpus:phase:b-ce:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2013.03.001:(δCe), paper:10.1016/j.calphad.2020.101740:δ-Ce, paper:10.1016/j.tca.2017.10.006:δ(Ce)  
 _tdb: _tdb:CeB-13Wan.tdb:BCC_A2, tdb:CeB-17Pre.tdb:BCC_A2, tdb:CeB-20Li.tdb:BCC_A2  
 
 
@@ -156,7 +158,7 @@ _tdb: _tdb:CeB-13Wan.tdb:BCC_A2, tdb:CeB-17Pre.tdb:BCC_A2, tdb:CeB-20Li.tdb:BCC_
 31: CONST BCC_A2 : B CE% : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2017.10.006](https://doi.org/10.1016/j.tca.2017.10.006) Milena Premović, Yong Du, Fan Zhang, Bo Sundman, Duško Minić, Biao Hu, Phase equilibria in the ternary B-Ce-Cu system with a thermodynamic reassessment of the binary B-Ce system, Thermochimica Acta 657, 185-196 (2017).  
 _assessment that models this phase; reports values for this phase_
@@ -167,10 +169,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02647853](https://doi.org/10.1007/bf02647853) P. K. Liao, K. E. Spear, M. E. Schlesinger, The B-Ce (Boron-Cerium) system, JPE 18, 280-283 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0040-6031(72)87018-7](https://doi.org/10.1016/0040-6031%2872%2987018-7) R.W. Mar, High-temperature thermal analysis of high boron alloys using automatic optical pyrometry, Thermochimica Acta 4, 367-376 (1972).  
-_cited as the source of values for this phase_
-- [doi:10.1021/je60037a028](https://doi.org/10.1021/je60037a028) Robert F. Kimpel, Robert G. Moss, Melting point of 98.9 to 99.6% pure boron, J. Chem. Eng. Data 13, 231-234 (1968).  
 _cited as the source of values for this phase_
 - [doi:10.1111/j.1151-2916.1951.tb11631.x](https://doi.org/10.1111/j.1151-2916.1951.tb11631.x) LEO BREWER, DWIGHT L. SAWYER, D. H. TEMPLETON, CAROL H. DAUBEN, A Study of the Refractory Borides, Journal of the American Ceramic Society 34, 173-179 (1951).  
 _cited as the source of values for this phase_
@@ -375,7 +373,7 @@ _assessment that models this phase_
 - Id: `phase:b-ce:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1059.06–4000 K, x(B) 0–1
-- Literature: 80 values (80 accepted) from 3 papers
+- Literature: 72 values (72 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ce:liquid)
 
 Names (8): _corpus: _corpus:phase:b-ce:liquid  
@@ -406,7 +404,7 @@ _tdb: _tdb:CeB-13Wan.tdb:LIQUID, tdb:CeB-17Pre.tdb:LIQUID, tdb:CeB-20Li.tdb:LIQU
 21: CONST LIQUID:L : B CE : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.tca.2017.10.006](https://doi.org/10.1016/j.tca.2017.10.006) Milena Premović, Yong Du, Fan Zhang, Bo Sundman, Duško Minić, Biao Hu, Phase equilibria in the ternary B-Ce-Cu system with a thermodynamic reassessment of the binary B-Ce system, Thermochimica Acta 657, 185-196 (2017).  
 _assessment that models this phase; reports values for this phase_
@@ -417,10 +415,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02647853](https://doi.org/10.1007/bf02647853) P. K. Liao, K. E. Spear, M. E. Schlesinger, The B-Ce (Boron-Cerium) system, JPE 18, 280-283 (1997).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0040-6031(72)87018-7](https://doi.org/10.1016/0040-6031%2872%2987018-7) R.W. Mar, High-temperature thermal analysis of high boron alloys using automatic optical pyrometry, Thermochimica Acta 4, 367-376 (1972).  
-_cited as the source of values for this phase_
-- [doi:10.1021/je60037a028](https://doi.org/10.1021/je60037a028) Robert F. Kimpel, Robert G. Moss, Melting point of 98.9 to 99.6% pure boron, J. Chem. Eng. Data 13, 231-234 (1968).  
 _cited as the source of values for this phase_
 - [doi:10.1111/j.1151-2916.1951.tb11631.x](https://doi.org/10.1111/j.1151-2916.1951.tb11631.x) LEO BREWER, DWIGHT L. SAWYER, D. H. TEMPLETON, CAROL H. DAUBEN, A Study of the Refractory Borides, Journal of the American Ceramic Society 34, 173-179 (1951).  
 _cited as the source of values for this phase_

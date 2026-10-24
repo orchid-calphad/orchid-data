@@ -1,10 +1,10 @@
 # Al–S–Se–Te system
 
-> Al–S–Se–Te system: 50 accepted literature values (crystal structure 30, formation 20) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–S–Se–Te system: 1 accepted literature values (crystal structure 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-S-SE-TE.html · Markdown: https://data.orchid-project.org/systems/AL-S-SE-TE.md
 
-50 accepted literature values from 1 paper(s) (experimental 38, model 6, DFT 6); 0 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-S-SE-TE.json) · [CSV](https://data.orchid-project.org/systems/AL-S-SE-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-S-SE-TE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-S-SE-TE.html) · [Markdown](https://data.orchid-project.org/systems/AL-S-SE-TE.md)
 
@@ -12,84 +12,23 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 38 |
-| model | 6 |
-| DFT | 6 |
+| experimental | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 20 |
-| crystal structure | 30 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Al–S–Se–Te system (20)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
-| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298.15 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
-| Al2Se3 |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
-| Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
-| Al2Te5 | [Al2Te5](https://data.orchid-project.org/compounds/Al2Te5.html) | -59.1 kJ/mol-atom | 298.15 | model | -60.423 (mp-aaaaanry) | -31.742 (oqmd-1795930) | [1] Shi 2019 | Table 3, p. 3, row 20 |  |
-| AlS | [AlS](https://data.orchid-project.org/compounds/AlS.html) | -132.5 kJ/mol-atom ± 20 | 298.15 | experimental |  | -98.741 (oqmd-1971261) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 1 |  |
-| AlTe | [AlTe](https://data.orchid-project.org/compounds/AlTe.html) | -87.6 kJ/mol-atom | 298.15 | model |  | -37.082 (oqmd-1374663) | [1] Shi 2019 | Table 3, p. 3, row 19 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -144.6 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| αAl2S3 |  | -140.7 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | experimental | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| αAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -130.2 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| αAl2S3 |  | -118.9 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -85.9 kJ/mol-atom | 298.15 | model | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019 | Table 3, p. 3, row 18 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.8 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Joel 1967_ | Table 3, p. 3, row 15 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -63.6 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 17 |  |
-| βAl2Te3 | [Al2Te3](https://data.orchid-project.org/compounds/Al2Te3.html) | -52 kJ/mol-atom | 298.15 | experimental | -67.973 (mp-aaaabrqs) | -43.474 (oqmd-648344) | [1] Shi 2019; _cites Balducci 1997_ | Table 3, p. 3, row 16 |  |
-| γAl2S3 |  | -136.8 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
-| γAl2S3 |  | -115.2 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
-| γAl2S3 | [Al2S3](https://data.orchid-project.org/compounds/Al2S3.html) | -107.9 kJ/mol-atom | 298.15 | model | -131.06 (mp-aaaaadyc) | -118.658 (oqmd-27954) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+| crystal structure | 1 |
 
 ## Other properties
 
-### Crystal structure (30)
+### Crystal structure (1)
 
 Table: Crystal structure, Al–S–Se–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.4049 Å | 298.15 | (Al); _alloy: S 0, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.445 Å | 298.15 | (Te); _alloy: S 0, Se 0, Te 1_ | experimental | [1] Shi 2019; _cites Prabhu 1990_ [doi](https://doi.org/10.1007/bf02841706) | Table 2, p. 3, row 9 |  |
-| Lattice a | 1.0465 Å | 298.15 | (αS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
-| Lattice a | 1.285 Å | 298.15 | (αSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 6 |  |
-| Lattice a | 1.092 Å | 298.15 | (βS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
-| Lattice a | 0.905 Å | 298.15 | (βSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Howe 1989_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 1.168 Å | 298.15 | Al2Se3; _alloy: S 0, Se 0.6, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
-| Lattice a | 1.3593 Å | 298.15 | Al2Te5; _alloy: S 0, Se 0, Te 0.714286_ | experimental | [1] Shi 2019; _cites Deiseroth 1996_ [doi](https://doi.org/10.1002/zaac.19966220611) | Table 2, p. 3, row 12 |  |
-| Lattice a | 0.6423 Å | 298.15 | αAl2S3; _alloy: S 0.6, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.408 Å | 298.15 | αAl2Te3; _alloy: S 0, Se 0, Te 0.6_ | experimental | [1] Shi 2019; _cites Mirgalovskaya 1959_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 0.7181 Å | 298.15 | βAl2Te3; _alloy: S 0, Se 0, Te 0.6_ | experimental | [1] Shi 2019; _cites Conrad 1997_ [doi](https://doi.org/10.1002/zaac.199762301157) | Table 2, p. 3, row 11 |  |
-| Lattice a | 0.647 Å | 298.15 | γAl2S3; _alloy: S 0.6, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
-| Lattice b | 0.588 Å | 298.15 | (Te); _alloy: S 0, Se 0, Te 1_ | experimental | [1] Shi 2019; _cites Prabhu 1990_ [doi](https://doi.org/10.1007/bf02841706) | Table 2, p. 3, row 9 |  |
-| Lattice b | 1.2866 Å | 298.15 | (αS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
-| Lattice b | 0.807 Å | 298.15 | (αSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 6 |  |
-| Lattice b | 1.098 Å | 298.15 | (βS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
-| Lattice b | 0.907 Å | 298.15 | (βSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Howe 1989_ | Table 2, p. 3, row 7 |  |
-| Lattice b | 0.6733 Å | 298.15 | Al2Se3; _alloy: S 0, Se 0.6, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
-| Lattice b | 0.4153 Å | 298.15 | Al2Te5; _alloy: S 0, Se 0, Te 0.714286_ | experimental | [1] Shi 2019; _cites Deiseroth 1996_ [doi](https://doi.org/10.1002/zaac.19966220611) | Table 2, p. 3, row 12 |  |
-| Lattice b | 1.2848 Å | 298.15 | βAl2Te3; _alloy: S 0, Se 0, Te 0.6_ | experimental | [1] Shi 2019; _cites Conrad 1997_ [doi](https://doi.org/10.1002/zaac.199762301157) | Table 2, p. 3, row 11 |  |
-| Lattice c | 2.4486 Å | 298.15 | (αS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
-| Lattice c | 0.931 Å | 298.15 | (αSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 6 |  |
-| Lattice c | 1.1104 Å | 298.15 | (βS); _alloy: S 1, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
-| Lattice c | 1.161 Å | 298.15 | (βSe); _alloy: S 0, Se 1, Te 0_ | experimental | [1] Shi 2019; _cites Howe 1989_ | Table 2, p. 3, row 7 |  |
-| Lattice c | 0.7239 Å | 298.15 | Al2Se3; _alloy: S 0, Se 0.6, Te 0_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
-| Lattice c | 0.9839 Å | 298.15 | Al2Te5; _alloy: S 0, Se 0, Te 0.714286_ | experimental | [1] Shi 2019; _cites Deiseroth 1996_ [doi](https://doi.org/10.1002/zaac.19966220611) | Table 2, p. 3, row 12 |  |
-| Lattice c | 1.783 Å | 298.15 | αAl2S3; _alloy: S 0.6, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 4 |  |
-| Lattice c | 0.697 Å | 298.15 | αAl2Te3; _alloy: S 0, Se 0, Te 0.6_ | experimental | [1] Shi 2019; _cites Mirgalovskaya 1959_ | Table 2, p. 3, row 10 |  |
-| Lattice c | 1.4167 Å | 298.15 | βAl2Te3; _alloy: S 0, Se 0, Te 0.6_ | experimental | [1] Shi 2019; _cites Conrad 1997_ [doi](https://doi.org/10.1002/zaac.199762301157) | Table 2, p. 3, row 11 |  |
-| Lattice c | 1.727 Å | 298.15 | γAl2S3; _alloy: S 0.6, Se 0, Te 0_ | experimental | [1] Shi 2019; _cites Flahaut 1952_ | Table 2, p. 3, row 5 |  |
 
 ## Sources
 

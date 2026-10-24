@@ -12,13 +12,13 @@ Table: Phases of the Al–Sc system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL2SC_C15](#phase-al-sc-al2sc-c15); _phase:al-sc:al2sc-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1694.37 K, x(Sc) 0.33333–0.33333 | 23 | 3 |
+| [AL2SC_C15](#phase-al-sc-al2sc-c15); _phase:al-sc:al2sc-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1694.37 K, x(Sc) 0.33333–0.33333 | 22 | 3 |
 | [AL3SC_L12](#phase-al-sc-al3sc-l12); _phase:al-sc:al3sc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1603.68 K, x(Sc) 0.25–0.25 | 17 | 3 |
 | [ALSC_B2](#phase-al-sc-alsc-b2); _phase:al-sc:alsc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1574.74 K, x(Sc) 0.5–0.5 | 25 | 3 |
 | [ALSC2_B82](#phase-al-sc-alsc2-b82); _phase:al-sc:alsc2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1570.95 K, x(Sc) 0.66667–0.66667 | 30 | 3 |
-| [BCC_A2](#phase-al-sc-bcc-a2); _phase:al-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1242.39–2500 K, x(Sc) 0.29125–1 | 16 | 3 |
+| [BCC_A2](#phase-al-sc-bcc-a2); _phase:al-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1242.39–2500 K, x(Sc) 0.29125–1 | 14 | 3 |
 | [FCC_A1](#phase-al-sc-fcc-a1); _phase:al-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–933.47 K, x(Sc) 0–0.0024 | 10 | 3 |
-| [HCP_A3](#phase-al-sc-hcp-a3); _phase:al-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1805.33 K, x(Sc) 0.89758–1 | 10 | 3 |
+| [HCP_A3](#phase-al-sc-hcp-a3); _phase:al-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1805.33 K, x(Sc) 0.89758–1 | 9 | 3 |
 | [LIQUID](#phase-al-sc-liquid); _phase:al-sc:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 930.94–2500 K, x(Sc) 0–1 | 64 | 3 |
 
 ## AL2SC_C15 (Al–Sc)
@@ -28,7 +28,7 @@ Table: Phases of the Al–Sc system (8)
 - Caveat: DFT agrees: on-hull mp-aaaaabfh and oqmd-10541, space group 227
 - Stoichiometry: Al 0.6667, Sc 0.3333
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1694.37 K, x(Sc) 0.33333–0.33333
-- Literature: 23 values (23 accepted) from 3 papers
+- Literature: 22 values (22 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sc:al2sc-c15)
 
 Names (9): _corpus: _corpus:phase:al-sc:al2sc-c15  
@@ -227,7 +227,7 @@ _cited as the source of values for this phase_
 - Id: `phase:al-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1242.39–2500 K, x(Sc) 0.29125–1
-- Literature: 16 values (16 accepted) from 3 papers
+- Literature: 14 values (14 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sc:bcc-a2)
 
 Names (8): _corpus: _corpus:phase:al-sc:bcc-a2  
@@ -321,11 +321,11 @@ _cited as the source of values for this phase_
 - Id: `phase:al-sc:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1805.33 K, x(Sc) 0.89758–1
-- Literature: 10 values (10 accepted) from 3 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sc:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:al-sc:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2009.10.003:αSc, paper:10.1016/s0966-9795(98)00022-3:(αSc), paper:10.1361/105497198770342120:(αSc), paper:10.1361/105497198770342120:αSc  
+Names (7): _corpus: _corpus:phase:al-sc:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2009.10.003:αSc, paper:10.1016/s0966-9795(98)00022-3:(αSc), paper:10.1361/105497198770342120:(αSc)  
 _tdb: _tdb:AlSc-10Bo.tdb:HCP_A3, tdb:AlSc-98Mur.tdb:HCP_A3, tdb:AlSc-99Cac-LB.tdb:HCP_A3  
 
 

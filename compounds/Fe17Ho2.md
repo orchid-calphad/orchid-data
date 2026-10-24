@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Fe17Ho2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.32 | kJ/mol (basis unstated) | 0.02 | 0.005 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -5.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1.09 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -0.295 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.32 | kJ/mol (basis unstated) | 0.02 | 0.005 | 41.4 (emf, cleaned_below_threshold) |  |  |  | 41.4 |
+| -5.8 | kJ/mol (basis unstated) |  | 0.05 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -1.09 | kJ/mol (basis unstated) |  | 0.005 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
+| -0.295 | kJ/mol (basis unstated) |  | 5.000e-4 | 30.6 (model_calculated, calibrated) |  |  |  | 30.6 |
 
 ## Sources
 

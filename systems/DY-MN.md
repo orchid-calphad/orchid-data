@@ -1,10 +1,10 @@
 # Dy–Mn system
 
-> Dy–Mn system: 15 accepted literature values (invariant reaction 13, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Mn system: 13 accepted literature values (invariant reaction 13) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-MN.html · Markdown: https://data.orchid-project.org/systems/DY-MN.md
 
-15 accepted literature values from 1 paper(s) (experimental 7, model 8); 2 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 6, model 7); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-MN.json) · [CSV](https://data.orchid-project.org/systems/DY-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-MN/DyMn-09Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/DY-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-MN.html) · [Markdown](https://data.orchid-project.org/systems/DY-MN.md)
 
@@ -12,15 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 8 |
+| experimental | 6 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 13 |
-| phase transition | 2 |
 
 ## Calculated phase diagrams
 
@@ -93,17 +92,6 @@ Table: Invariant reactions reported in the literature for the Dy–Mn system (13
 | 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.29; αDy: Mn 0; DyMn2: Mn 0.667 | model | [1] Wang 2009 | Table 3, p. 4, row 4 |  |
 | 1128.15 | eutectic: L -> αDy + DyMn2 | L: Mn 0.287; αDy: Mn 0; DyMn2: Mn 0.667 | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
 | 978.15 | eutectoid: βMn -> DyMn12 + αMn | βMn: Mn 0.998; DyMn12: Mn 0.923; αMn: Mn 1 | model | [1] Wang 2009 | Table 3, p. 4, row 15 |  |
-
-## Other properties
-
-### Phase transition (2)
-
-Table: Phase transition, Dy–Mn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: Mn 0_ | experimental | [1] Wang 2009; _cites Massalski 1990_ | Table 3, p. 4, row 1 |  |
-| Phase transition | 1654.15 K | 1654.15 | polymorphic: βDy -> αDy; _βDy: Mn 0_ | model | [1] Wang 2009 | Table 3, p. 4, row 2 |  |
 
 ## Sources
 

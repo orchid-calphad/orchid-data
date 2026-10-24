@@ -1,10 +1,10 @@
 # Al–Ni system
 
-> Al–Ni system: 194 accepted literature values (invariant reaction 110, formation 43, phase transition 23, mixing / partial 10) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni system: 213 accepted literature values (invariant reaction 110, formation 48, phase transition 23, mixing / partial 19) and 13 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI.html · Markdown: https://data.orchid-project.org/systems/AL-NI.md
 
-194 accepted literature values from 11 paper(s) (experimental 86, model 98, DFT 3, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+213 accepted literature values from 12 paper(s) (experimental 86, model 100, DFT 20, unspecified 7); 13 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI.json) · [CSV](https://data.orchid-project.org/systems/AL-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NI/AlNi-01Dup-4sl-old.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 86 |
-| model | 98 |
-| DFT | 3 |
+| model | 100 |
+| DFT | 20 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,10 +23,11 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 110 |
 | phase transition | 23 |
-| formation | 43 |
-| mixing / partial | 10 |
+| formation | 48 |
+| mixing / partial | 19 |
 | heat capacity / entropy / enthalpy | 3 |
 | activity / EMF / Gibbs energy | 5 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -329,7 +330,7 @@ Table: Invariant reactions reported in the literature for the Al–Ni system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ni system (43)
+Table: Enthalpies of formation, Al–Ni system (48)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -352,12 +353,15 @@ Table: Enthalpies of formation, Al–Ni system (43)
 | Al3Ni | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -39.6 kJ/mol-atom | 298.15 | model | -39.068 (mp-aaabjkld) | -39.608 (oqmd-10517) | [1] Chen 2011; _cites Wang 2009_ | Table 1, p. 4, row 4 |  |
 | Al3Ni | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -38.5 kJ/mol-atom | 298.15 | experimental | -39.068 (mp-aaabjkld) | -39.608 (oqmd-10517) | [1] Chen 2011; _cites Oelsen 1937_ | Table 1, p. 4, row 2 |  |
 | Al3Ni | [Al3Ni](https://data.orchid-project.org/compounds/Al3Ni.html) | -37.7 kJ/mol-atom | 298.15 | experimental | -39.068 (mp-aaabjkld) | -39.608 (oqmd-10517) | [1] Chen 2011; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 1, p. 4, row 3 |  |
+| B2-β |  | -73.8 kJ/mol-atom | 0 | DFT |  |  | [9] Liu 2016 | Table 6, p. 40, row 8 |  |
 | L10-Al2Ni2 |  | -62.999 kJ/mol (basis unstated) |  | model |  |  | [6] Yang 2022 | Table 3, p. 5, row 3 |  |
 | L10-Al2Ni2 |  | -62.264 kJ/mol (basis unstated) |  | DFT |  |  | [6] Yang 2022 | Table 3, p. 5, row 4 |  |
 | L12-Al3Ni |  | -21.919 kJ/mol (basis unstated) |  | DFT |  |  | [6] Yang 2022 | Table 3, p. 5, row 2 |  |
 | L12-Al3Ni |  | -21.6 kJ/mol (basis unstated) |  | model |  |  | [6] Yang 2022 | Table 3, p. 5, row 1 |  |
 | L12-AlNi3 |  | -43.45 kJ/mol (basis unstated) |  | DFT |  |  | [6] Yang 2022 | Table 3, p. 5, row 6 |  |
 | L12-AlNi3 |  | -43.338 kJ/mol (basis unstated) |  | model |  |  | [6] Yang 2022 | Table 3, p. 5, row 5 |  |
+| L12-γ’ |  | -42.22 kJ/mol-atom | 0 | DFT |  |  | [9] Liu 2016 | Table 7, p. 41, row 9 |  |
+| L12-γ’ |  | -21.15 kJ/mol-atom | 0 | DFT |  |  | [9] Liu 2016 | Table 7, p. 41, row 7 |  |
 | Ni3Al |  | -43.2 per mol-atom | 756 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 6 |  |
 | Ni3Al |  | -43.2 per mol-atom | 947 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 8 |  |
 | Ni3Al |  | -42.9 per mol-atom | 1123 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 10 |  |
@@ -368,14 +372,16 @@ Table: Enthalpies of formation, Al–Ni system (43)
 | Ni3Al |  | -42 per mol-atom | 300 | model |  |  | [2] Huang 1998 | Table 3, p. 9, row 2 |  |
 | Ni3Al |  | -41.6 per mol-atom ± 1.2 | 756 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 5 |  |
 | Ni3Al |  | -41.3 per mol-atom ± 1.3 | 300 | experimental |  |  | [2] Huang 1998; _cites Rzyman 1996_ [doi](https://doi.org/10.1007/bf02648485) | Table 3, p. 9, row 1 |  |
-| γ′ (Ni3Al) |  | -49.6 kJ/mol (basis unstated) ± 1.3 | 980 | experimental |  |  | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
-| γ′ (Ni3Al) |  | -44.8 kJ/mol (basis unstated) | 980 | model |  |  | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
-| γ′ (Ni3Al) |  | -41.7 kJ/mol (basis unstated) | 1600 | model |  |  | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
-| γ′ (Ni3Al) |  | -41.4 kJ/mol (basis unstated) ± 4.9 | 1600 | experimental |  |  | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
-| γ′ (Ni3Al) |  | -40.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [9] Ansara 1997 | Table 5, p. 9, row 5 |  |
-| γ′ (Ni3Al) |  | -40.6 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [9] Ansara 1997; _cites Kek 1990_ | Table 5, p. 9, row 6 |  |
-| γ′ (Ni3Al) |  | -40.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [9] Ansara 1997; _cites \\V 1937_ | Table 5, p. 9, row 8 |  |
-| γ′ (Ni3Al) |  | -29.2 kJ/mol (basis unstated) ± 7 | 298.15 | experimental |  |  | [9] Ansara 1997; _cites Santandrea 1987_ | Table 5, p. 9, row 7 |  |
+| γ' |  | -42.22 kJ/mol-atom | 0 | DFT |  |  | [9] Liu 2016 | Table 7, p. 41, row 9 |  |
+| γ' |  | -21.15 kJ/mol-atom | 0 | DFT |  |  | [9] Liu 2016 | Table 7, p. 41, row 7 |  |
+| γ′ (Ni3Al) |  | -49.6 kJ/mol (basis unstated) ± 1.3 | 980 | experimental |  |  | [10] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
+| γ′ (Ni3Al) |  | -44.8 kJ/mol (basis unstated) | 980 | model |  |  | [10] Ansara 1997 | Table 5, p. 9, row 3 |  |
+| γ′ (Ni3Al) |  | -41.7 kJ/mol (basis unstated) | 1600 | model |  |  | [10] Ansara 1997 | Table 5, p. 9, row 1 |  |
+| γ′ (Ni3Al) |  | -41.4 kJ/mol (basis unstated) ± 4.9 | 1600 | experimental |  |  | [10] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
+| γ′ (Ni3Al) |  | -40.6 kJ/mol (basis unstated) | 298.15 | model |  |  | [10] Ansara 1997 | Table 5, p. 9, row 5 |  |
+| γ′ (Ni3Al) |  | -40.6 kJ/mol (basis unstated) ± 1 | 298.15 | experimental |  |  | [10] Ansara 1997; _cites Kek 1990_ | Table 5, p. 9, row 6 |  |
+| γ′ (Ni3Al) |  | -40.1 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [10] Ansara 1997; _cites \\V 1937_ | Table 5, p. 9, row 8 |  |
+| γ′ (Ni3Al) |  | -29.2 kJ/mol (basis unstated) ± 7 | 298.15 | experimental |  |  | [10] Ansara 1997; _cites Santandrea 1987_ | Table 5, p. 9, row 7 |  |
 
 ## Other properties
 
@@ -389,15 +395,15 @@ Table: Phase transition, Al–Ni system
 | Phase transition | 914 K | 914 |  | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | p. 6 | “The calculated value of 914 K due to Dupin et al. \[7\] is too low.” |
 | Phase transition | 1135.9 K | 1135.9 | L + Al3 Ni2 → Al3 Ni | experimental | [1] Chen 2011 | p. 2 | “Three runs of DTA measurements of alloy Al65.5 Ni34.5 (at.%) on heating gives very reproductive transition temperatures: 911.7 K for L → (Al) + Al3 Ni, 1135.9 K for L + Al3 Ni2 → Al3 Ni, and 1408.9 K for L + B2 → Al3 Ni2 .” |
 | Phase transition | 1251 K | 1251 | other | model | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
-| Phase transition | 1263.15 K | 1263.15 | other | experimental | [10] Zhu 2014; _cites Sato 2014_ | p. 2 | “The thermal stability of the c¢ phase was investigated by differential scanning calorimetry (DSC). The solvus temperature of the c¢ phase in Co-(9-10)Al-(7.5-10)W (at.%) alloys is 990 C.\[1,12,13\]” |
+| Phase transition | 1263.15 K | 1263.15 | other | experimental | [11] Zhu 2014; _cites Sato 2014_ | p. 2 | “The thermal stability of the c¢ phase was investigated by differential scanning calorimetry (DSC). The solvus temperature of the c¢ phase in Co-(9-10)Al-(7.5-10)W (at.%) alloys is 990 C.\[1,12,13\]” |
 | Phase transition | 1265.4 K | 1265.4 | other | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
 | Phase transition | 1271.7 K | 1271.7 | other | experimental | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
 | Phase transition | 1271.7 K | 1271.7 | other | experimental | [1] Chen 2011 | p. 2 | “The liquidus temperature at 20.55 at.% Ni was determined to be 1265.4 K on cooling and estimated to be 1271.7 K on heating.” |
 | Phase transition | 1273 K | 1273 | other | model | [1] Chen 2011 | p. 6 | “The liquidus temperature of alloy Al79.45 Ni20.55 (at.%) was measured to be 1271.7 K on heating (Section 2.4), compared to the calculated value 1273 K in this work and 1251 K using the former description \[7\].” |
-| Phase transition | 1300 K | 1300 | other | model | [11] Dupin 2001; _cites ref. 99Hel_ | p. 4 | “The modelling of the second order transition of the B2 phase, recently determined experimentally by Helander and Tolochko \[99Hell, is obtained by adding an order contribution to the Gibbs energy of the A2 phase previously assessed by Saunders and choosing a critical temperature of 1300 K; this transition is well reproduced as shown by the dotted line in figure 2.” |
+| Phase transition | 1300 K | 1300 | other | model | [12] Dupin 2001; _cites ref. 99Hel_ | p. 4 | “The modelling of the second order transition of the B2 phase, recently determined experimentally by Helander and Tolochko \[99Hell, is obtained by adding an order contribution to the Gibbs energy of the A2 phase previously assessed by Saunders and choosing a critical temperature of 1300 K; this transition is well reproduced as shown by the dotted line in figure 2.” |
 | Phase transition | 1408.9 K | 1408.9 | L + B2 → Al3 Ni2 | experimental | [1] Chen 2011 | p. 2 | “Three runs of DTA measurements of alloy Al65.5 Ni34.5 (at.%) on heating gives very reproductive transition temperatures: 911.7 K for L → (Al) + Al3 Ni, 1135.9 K for L + Al3 Ni2 → Al3 Ni, and 1408.9 K for L + B2 → Al3 Ni2 .” |
 | Phase transition | 1646 K | 1646 | other | experimental | [2] Huang 1998 | p. 3 | “In addition, another peak was also detected at 1646K on the Ni-rich side of the y ' phase, suggesting the existence of an invariant reaction at this temperature.” |
-| Phase transition | 1716.15 K | 1716.15 |  | model | [10] Zhu 2014 | p. 15 | “Liquid phase disappears at 1443 C and the c¢ phase starts to form at 1305 C.” |
+| Phase transition | 1716.15 K | 1716.15 |  | model | [11] Zhu 2014 | p. 15 | “Liquid phase disappears at 1443 C and the c¢ phase starts to form at 1305 C.” |
 | Phase transition | 1911.15 K | 1911.15 | L–bcc; _L: Ni 0.5; bcc: Ni 0.5_ | experimental | [5] Miettinen 2005; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02667823) | Table 4, p. 5, row 25 |  |
 | Phase transition | 1914.1 K | 1914.1 | L = B2; _L: Ni 0.496; B2: Ni 0.493_ | model | [6] Yang 2022 | Table 2, p. 5, row 9 |  |
 | Phase transition | 1915 K | 1915 | L = B2; _L: Ni 0.5; B2: Ni 0.5_ | experimental | [6] Yang 2022; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 2, p. 5, row 7 |  |
@@ -409,22 +415,31 @@ Table: Phase transition, Al–Ni system
 | Phase transition | 1953 K | 1953 | L = B2; _L: Ni 0.496; B2: Ni 0.496_ | model | [6] Yang 2022; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 2, p. 5, row 8 |  |
 | Phase transition | 1953.15 K | 1953.15 | L–bcc; _L: Ni 0.5; bcc: Ni 0.5_ | experimental | [5] Miettinen 2005; _cites Cotton 1993_ [doi](https://doi.org/10.1007/bf02669138) | Table 4, p. 5, row 26 |  |
 
-### Mixing / partial (10)
+### Mixing / partial (19)
 
 Table: Mixing / partial, Al–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of mixing; _printed: ΔSm_ | -2.54 J/mol (basis unstated)/K | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 5 |  |
-| Entropy of mixing; _printed: ΔSm_ | -2.38 J/mol (basis unstated)/K ± 1.3 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
-| Entropy of mixing; _printed: ΔSm_ | -8.37 J/mol (basis unstated)/K | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
-| Entropy of mixing; _printed: ΔSm_ | -3.98 J/mol (basis unstated)/K ± 3.12 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
-| Entropy of mixing; _printed: ΔSm_ | -6.07 J/mol (basis unstated)/K | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -39.8 kJ/mol (basis unstated) | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 5 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -47.3 kJ/mol (basis unstated) ± 0.3 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -36.7 kJ/mol (basis unstated) | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 3 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -35.1 kJ/mol (basis unstated) ± 1.1 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [9] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
-| Gibbs energy of mixing; _printed: ΔGm_ | -32 kJ/mol (basis unstated) | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [9] Ansara 1997 | Table 5, p. 9, row 1 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -25.52 kJ/mol-atom | 0 | A2; _alloy: Al 0.75, Ni 0.25_ | DFT | [9] Liu 2016 | Table 6, p. 40, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -31.83 kJ/mol-atom | 0 | A2; _alloy: Al 0.25, Ni 0.75_ | DFT | [9] Liu 2016 | Table 6, p. 40, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -39.83 kJ/mol-atom | 0 | A2; _alloy: Al 0.5, Ni 0.5_ | DFT | [9] Liu 2016 | Table 6, p. 40, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -73.8 kJ/mol-atom | 0 | B2; _alloy: Al 0.5, Ni 0.5_ | DFT | [9] Liu 2016 | Table 8, p. 42, row 10 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -27.86 kJ/mol-atom | 0 | γ; _alloy: Al 0.25, Ni 0.75_ | DFT | [9] Liu 2016 | Table 7, p. 41, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -17.05 kJ/mol-atom | 0 | γ; _alloy: Al 0.75, Ni 0.25_ | DFT | [9] Liu 2016 | Table 7, p. 41, row 7 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -30.54 kJ/mol-atom | 0 | γ; _alloy: Al 0.5, Ni 0.5_ | DFT | [9] Liu 2016 | Table 7, p. 41, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -21.15 kJ/mol-atom | 0 | γ’; _alloy: Al 0.75, Ni 0.25_ | DFT | [9] Liu 2016 | Table 9, p. 43, row 16 |  |
+| Enthalpy of mixing; _printed: ΔHmix_ | -42.22 kJ/mol-atom | 0 | γ’; _alloy: Al 0.25, Ni 0.75_ | DFT | [9] Liu 2016 | Table 9, p. 43, row 12 |  |
+| Entropy of mixing; _printed: ΔSm_ | -2.54 J/mol (basis unstated)/K | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 5 |  |
+| Entropy of mixing; _printed: ΔSm_ | -2.38 J/mol (basis unstated)/K ± 1.3 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [10] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
+| Entropy of mixing; _printed: ΔSm_ | -8.37 J/mol (basis unstated)/K | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 3 |  |
+| Entropy of mixing; _printed: ΔSm_ | -3.98 J/mol (basis unstated)/K ± 3.12 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [10] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
+| Entropy of mixing; _printed: ΔSm_ | -6.07 J/mol (basis unstated)/K | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 1 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -39.8 kJ/mol (basis unstated) | 298.15 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 5 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -47.3 kJ/mol (basis unstated) ± 0.3 | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [10] Ansara 1997; _cites Es'kov 1974_ | Table 5, p. 9, row 4 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -36.7 kJ/mol (basis unstated) | 980 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 3 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -35.1 kJ/mol (basis unstated) ± 1.1 | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | experimental | [10] Ansara 1997; _cites Hilpert 1997_ | Table 5, p. 9, row 2 |  |
+| Gibbs energy of mixing; _printed: ΔGm_ | -32 kJ/mol (basis unstated) | 1600 | γ′ (Ni3Al); _alloy: Ni 0.75_ | model | [10] Ansara 1997 | Table 5, p. 9, row 1 |  |
 
 ### Heat capacity / entropy / enthalpy (3)
 
@@ -448,6 +463,18 @@ Table: Activity / EMF / Gibbs energy, Al–Ni system
 | Gibbs energy; _printed: ΔG_ | -52461 J/mol | 1273 | Al0.60Ni0.40; _alloy: Ni 0.4_ | model | [8] Ansara 1988 | Table 1, p. 5, row 17 |  |
 | Gibbs energy; _printed: ΔG (1273 K)_ | -49510 J/mol | 1273 | Al0.60Ni0.40; _alloy: Ni 0.4_ | model | [8] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 12 |  |
 
+### Crystal structure (5)
+
+Table: Crystal structure, Al–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Molar volume; _printed: V0_ | 12.069 Å3/atom |  | B2 NiAl; _alloy: Ni 0.5_ | model | [9] Liu 2016; _cites ref. 76_ | Table 2, p. 36, row 12 |  |
+| Molar volume; _printed: V0_ | 11.365 Å3/atom |  | γ'-L12 Ni3Al; _alloy: Ni 0.75_ | model | [9] Liu 2016; _cites ref. 80_ | Table 2, p. 36, row 27 |  |
+| Molar volume; _printed: V0_ | 12.129 Å3/atom | 298.15 | B2 NiAl; _alloy: Ni 0.5_ | DFT | [9] Liu 2016 | Table 2, p. 36, row 5 |  |
+| Molar volume; _printed: V0_ | 14.222 Å3/atom | 298.15 | γ'-L12 Al3Ni; _alloy: Ni 0.25_ | DFT | [9] Liu 2016 | Table 2, p. 36, row 22 |  |
+| Molar volume; _printed: V0_ | 11.385 Å3/atom | 298.15 | γ'-L12 Ni3Al; _alloy: Ni 0.75_ | DFT | [9] Liu 2016 | Table 2, p. 36, row 23 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -460,9 +487,10 @@ Reporting papers the values were read from (a value cited from another work name
 6. Wei Yang, Peisheng Wang, Xiaozhong Huang, Shuyan Zhang, Thermodynamic analysis of the Al–Ni system, Intermetallics 149, 107647 (2022). [doi:10.1016/j.intermet.2022.107647](https://doi.org/10.1016/j.intermet.2022.107647)
 7. C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999). [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743)
 8. I. Ansara, B. Sundman, P. Willemin, Thermodynamic modeling of ordered phases in the NiAl system, Acta Metallurgica 36, 977-982 (1988). [doi:10.1016/0001-6160(88)90152-6](https://doi.org/10.1016/0001-6160%2888%2990152-6)
-9. Ibrahim Ansara, Nathalie Dupin, Hans Leo Lukas, Bo Sundman, Thermodynamic assessment of the Al-Ni system, Journal of Alloys and Compounds 247, 20-30 (1997). [doi:10.1016/s0925-8388(96)02652-7](https://doi.org/10.1016/s0925-8388%2896%2902652-7)
-10. J. Zhu, M. S. Titus, T. M. Pollock, Experimental Investigation and Thermodynamic Modeling of the Co-Rich Region in the Co-Al-Ni-W Quaternary System, J. Phase Equilib. Diffus. 35, 595-611 (2014). [doi:10.1007/s11669-014-0327-5](https://doi.org/10.1007/s11669-014-0327-5)
-11. N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001). [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9)
+9. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+10. Ibrahim Ansara, Nathalie Dupin, Hans Leo Lukas, Bo Sundman, Thermodynamic assessment of the Al-Ni system, Journal of Alloys and Compounds 247, 20-30 (1997). [doi:10.1016/s0925-8388(96)02652-7](https://doi.org/10.1016/s0925-8388%2896%2902652-7)
+11. J. Zhu, M. S. Titus, T. M. Pollock, Experimental Investigation and Thermodynamic Modeling of the Co-Rich Region in the Co-Al-Ni-W Quaternary System, J. Phase Equilib. Diffus. 35, 595-611 (2014). [doi:10.1007/s11669-014-0327-5](https://doi.org/10.1007/s11669-014-0327-5)
+12. N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001). [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9)
 
 ## Please cite
 

@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Fe3Gd
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -9.3 | kJ/mol-atom | 1.9 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -9.3 | kJ/mol-atom | 1.9 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -7.78 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -4.93 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -9.3 | kJ/mol-atom | 1.9 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -9.3 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -7.78 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -4.93 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -16,11 +16,11 @@ Table: Phases of the Ba–Ge system (13)
 | [BA2GE_C37](#phase-ba-ge-ba2ge-c37); _phase:ba-ge:ba2ge-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1271.02 K, x(Ge) 0.33333–0.33333 | 16 | 1 |
 | [BA3GE4_ALPHA](#phase-ba-ge-ba3ge4-alpha); _phase:ba-ge:ba3ge4-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–613.06 K, x(Ge) 0.57143–0.57143 | 6 | 1 |
 | [BA3GE4_BETA](#phase-ba-ge-ba3ge4-beta); _phase:ba-ge:ba3ge4-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 613.06–1202.1 K, x(Ge) 0.57143–0.57143 | 10 | 1 |
-| [BA5GE3](#phase-ba-ge-ba5ge3); _phase:ba-ge:ba5ge3_ | Ba5Si3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1193.52 K, x(Ge) 0.375–0.375 | 14 | 1 |
-| [BA6GE25](#phase-ba-ge-ba6ge25); _phase:ba-ge:ba6ge25_ | K6Sn25 · cP124 · P4_132 (213) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1086.7 K, x(Ge) 0.80645–0.80645 | 13 | 1 |
-| [BA8GE43](#phase-ba-ge-ba8ge43); _phase:ba-ge:ba8ge43_ | Na4Si23 · cP54 · Pm-3n (223) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1063.96–1085.68 K, x(Ge) 0.84314–0.84314 | 9 | 1 |
+| [BA5GE3](#phase-ba-ge-ba5ge3); _phase:ba-ge:ba5ge3_ | Ba5Si3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1193.52 K, x(Ge) 0.375–0.375 | 17 | 1 |
+| [BA6GE25](#phase-ba-ge-ba6ge25); _phase:ba-ge:ba6ge25_ | K6Sn25 · cP124 · P4_132 (213) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1086.7 K, x(Ge) 0.80645–0.80645 | 15 | 1 |
+| [BA8GE43](#phase-ba-ge-ba8ge43); _phase:ba-ge:ba8ge43_ | Na4Si23 · cP54 · Pm-3n (223) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1063.96–1085.68 K, x(Ge) 0.84314–0.84314 | 11 | 1 |
 | [BAGE_B33](#phase-ba-ge-bage-b33); _phase:ba-ge:bage-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1253.73 K, x(Ge) 0.5–0.5 | 16 | 1 |
-| [BAGE2](#phase-ba-ge-bage2); _phase:ba-ge:bage2_ | BaSi2 · oP24 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1376.94 K, x(Ge) 0.66667–0.66667 | 17 | 1 |
+| [BAGE2](#phase-ba-ge-bage2); _phase:ba-ge:bage2_ | BaSi2 · oP24 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1376.94 K, x(Ge) 0.66667–0.66667 | 20 | 1 |
 | [BCC_A2](#phase-ba-ge-bcc-a2); _phase:ba-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1004.11 K, x(Ge) 0–0 | 3 | 1 |
 | [FCC_A1](#phase-ba-ge-fcc-a1); _phase:ba-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-ba-ge-hcp-a3); _phase:ba-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -168,7 +168,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ba 0.6250, Ge 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1193.52 K, x(Ge) 0.375–0.375
-- Literature: 14 values (14 accepted) from 1 papers
+- Literature: 17 values (17 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ge:ba5ge3)
 
 Names (3): _corpus: _corpus:phase:ba-ge:ba5ge3  
@@ -200,7 +200,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ba 0.1935, Ge 0.8065
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1086.7 K, x(Ge) 0.80645–0.80645
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ge:ba6ge25)
 
 Names (3): _corpus: _corpus:phase:ba-ge:ba6ge25  
@@ -238,7 +238,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ba 0.1569, Ge 0.8431
 - Stability: stable in 1 of 1 calculated diagram(s): 1063.96–1085.68 K, x(Ge) 0.84314–0.84314
-- Literature: 9 values (8 accepted) from 1 papers
+- Literature: 11 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ge:ba8ge43)
 
 Names (3): _corpus: _corpus:phase:ba-ge:ba8ge43  
@@ -307,7 +307,7 @@ _cited as the source of values for this phase_
 - Structure: BaSi2 · oP24 · Pnma (62); type `st:basi2-op24`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ba 0.3333, Ge 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1376.94 K, x(Ge) 0.66667–0.66667
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-ge:bage2)
 
 Names (5): _corpus: _corpus:phase:ba-ge:bage2  

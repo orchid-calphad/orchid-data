@@ -22,7 +22,7 @@ Table: Phases of the Bi–La system (11)
 | [DHCP](#phase-bi-la-dhcp-a3); _phase:bi-la:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–550 K, x(La) 1–1 | 0 | 2 |
 | [FCC_A1](#phase-bi-la-fcc-a1); _phase:bi-la:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1134 K, x(La) 1–1 | 0 | 2 |
 | [HCP_A3](#phase-bi-la-hcp-a3); _phase:bi-la:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-bi-la-liquid); _phase:bi-la:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 544.51–2500 K, x(La) 0–1 | 0 | 2 |
+| [LIQUID](#phase-bi-la-liquid); _phase:bi-la:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 544.51–2500 K, x(La) 0–1 | 2 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Bi–La)
 
@@ -371,10 +371,11 @@ _assessment that models this phase_
 - Id: `phase:bi-la:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 544.51–2500 K, x(La) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-la:liquid)
 
-Names (3): _corpus: _corpus:phase:bi-la:liquid  
+Names (4): _corpus: _corpus:phase:bi-la:liquid  
+_paper: _paper:10.1007/s11669-013-0231-4:Liquid  
 _tdb: _tdb:BiLa-13Tan-ass.tdb:LIQUID, tdb:BiLa-13Tan.tdb:LIQUID  
 
 
@@ -397,7 +398,7 @@ _tdb: _tdb:BiLa-13Tan-ass.tdb:LIQUID, tdb:BiLa-13Tan.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-013-0231-4](https://doi.org/10.1007/s11669-013-0231-4) Ying Tang, Biao Hu, Jiong Wang, Qiannan Gao, Yong Du, Xiaoming Yuan et al., Thermodynamic Modeling of the La-B and La-Bi Systems Supported by First-Principles Calculations, J. Phase Equilib. Diffus. 34, 297-306 (2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

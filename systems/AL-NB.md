@@ -1,10 +1,10 @@
 # Al–Nb system
 
-> Al–Nb system: 97 accepted literature values (invariant reaction 74, phase transition 18, phase equilibrium 3, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Nb system: 102 accepted literature values (invariant reaction 74, phase transition 18, crystal structure 5, phase equilibrium 3) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NB.html · Markdown: https://data.orchid-project.org/systems/AL-NB.md
 
-97 accepted literature values from 6 paper(s) (experimental 42, model 44, DFT 1, unspecified 10); 6 calculated phase diagram(s).
+102 accepted literature values from 7 paper(s) (experimental 42, model 49, DFT 1, unspecified 10); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NB.json) · [CSV](https://data.orchid-project.org/systems/AL-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-NB/AlNb-08Zhu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NB.html) · [Markdown](https://data.orchid-project.org/systems/AL-NB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 42 |
-| model | 44 |
+| model | 49 |
 | DFT | 1 |
 | unspecified | 10 |
 
@@ -25,6 +25,7 @@ Table: Accepted values by property group
 | phase transition | 18 |
 | phase equilibrium | 3 |
 | heat capacity / entropy / enthalpy | 2 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -222,6 +223,18 @@ Table: Heat capacity / entropy / enthalpy, Al–Nb system
 | Entropy; _printed: entropy at constant volume_ | 93 J K 1 mol 1 | 298.15 |  | DFT | [6] Gebauer 2022; _cites Online_ | p. 7 | “The entropy at constant volume of AlNbO4 is available in an online database for ab initio phonon calculations\[36\] and is 93.0 J K1 mol1 at 25 °C.” |
 | Entropy; _printed: entropy at constant pressure_ | 90 J K 1 mol 1 | 298.15 |  | model | [6] Gebauer 2022 | p. 7 | “The entropy at constant pressure (calculated, this work) is 90.0 J K1 mol1 at 25 °C.” |
 
+### Crystal structure (5)
+
+Table: Crystal structure, Al–Nb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.844 Å | 298.15 | Al3Nb; _alloy: Nb 0.25_ | model | [7] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
+| Lattice a | 9.945 Å | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667_ | model | [7] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.186 Å | 298.15 | Nb3Al; _alloy: Nb 0.75_ | model | [7] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 8.605 Å | 298.15 | Al3Nb; _alloy: Nb 0.25_ | model | [7] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.171 Å | 298.15 | Nb2Al (σ); _alloy: Nb 0.666667_ | model | [7] Shao 2004; _cites Villars 1991_ | Table 1, p. 2, row 8 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -232,6 +245,7 @@ Reporting papers the values were read from (a value cited from another work name
 4. J.M. Fiorani, M. Badran, J.M. Joubert, J.C. Crivello, A.A.A.P. da Silva, G.C. Coelho et al., New approach to the compound energy formalism (NACEF) Part II. Thermodynamic modelling of the Al–Nb system supported by first-principles calculations, Calphad 80, 102522 (2023). [doi:10.1016/j.calphad.2022.102522](https://doi.org/10.1016/j.calphad.2022.102522)
 5. Zhijun Zhu, Yong Du, Lijun Zhang, Hailin Chen, Honghui Xu, Chengying Tang, Experimental identification of the degenerated equilibrium and thermodynamic modeling in the Al–Nb system, Journal of Alloys and Compounds 460, 632-638 (2008). [doi:10.1016/j.jallcom.2007.06.033](https://doi.org/10.1016/j.jallcom.2007.06.033)
 6. Julian Gebauer, Peter Franke, Hans Jürgen Seifert, Thermodynamic Evaluation of the system Ta–O and Preliminary Assessment of the Systems Al–Nb–O and Al–Ta–O, Adv Eng Mater 24 (2022). [doi:10.1002/adem.202200162](https://doi.org/10.1002/adem.202200162)
+7. G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004). [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011)
 
 ## Please cite
 

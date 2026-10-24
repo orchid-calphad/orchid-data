@@ -1,10 +1,10 @@
 # B–V system
 
-> B–V system: 24 accepted literature values (phase transition 16, formation 6, other property 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–V system: 23 accepted literature values (phase transition 16, formation 6, other property 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-V.html · Markdown: https://data.orchid-project.org/systems/B-V.md
 
-24 accepted literature values from 1 paper(s) (experimental 8, model 14, unspecified 2); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 8, model 14, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-V.json) · [CSV](https://data.orchid-project.org/systems/B-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-V) · [phases (11)](https://data.orchid-project.org/phases/pages/B-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-V.html) · [Markdown](https://data.orchid-project.org/systems/B-V.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 8 |
 | model | 14 |
-| unspecified | 2 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 16 |
 | formation | 6 |
-| other property | 2 |
+| other property | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-V.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-V.json) · [CALPHAD hull VB-12Hom](https://data.orchid-project.org/hulls/calphad-sgte/B/B-V--VB-12Hom.json) · [CALPHAD hull VB-81Spe](https://data.orchid-project.org/hulls/calphad-sgte/B/B-V--VB-81Spe.json) · [CALPHAD hull VB-91Pan-LB](https://data.orchid-project.org/hulls/calphad-sgte/B/B-V--VB-91Pan-LB.json)
 
@@ -73,13 +73,12 @@ Table: Formation, B–V system
 | Entropy of formation; _printed: ΔSf°_ | -2.51 J/mol-atom/K |  | VB; _alloy: V 0.5_ | model | [1] Spear 1981 | Table 2, p. 4, row 6 |  |
 | Entropy of formation; _printed: ΔSf°_ | -3.35 J/mol-atom/K |  | VB2; _alloy: V 0.333333_ | model | [1] Spear 1981 | Table 2, p. 4, row 14 |  |
 
-### Other property (2)
+### Other property (1)
 
 Table: Other property, B–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Transition enthalpy; _printed: ΔH°_ | 20950 J (g at.)^-1 | 2175 | UNKNOWN; _alloy: V 1_ | unspecified | [1] Spear 1981; _cites ref. 16_ | Table 1, p. 4, row 18 |  |
 | Transition enthalpy; _printed: ΔH°_ | 50210 J (g at.)^-1 | 2365 | UNKNOWN; _alloy: V 0_ | unspecified | [1] Spear 1981 | Table 1, p. 4, row 17 |  |
 
 ## Sources

@@ -12,13 +12,13 @@ Table: Phases of the Co–Sc system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-sc-bcc-a2); _phase:co-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1601.82–2499.32 K, x(Sc) 0.99862–1 | 6 | 1 |
+| [BCC_A2](#phase-co-sc-bcc-a2); _phase:co-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1601.82–2499.32 K, x(Sc) 0.99862–1 | 2 | 1 |
 | [CO2SC_C15](#phase-co-sc-co2sc-c15); _phase:co-sc:co2sc-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1792.32 K, x(Sc) 0.30741–0.36353 | 6 | 1 |
 | [COSC_B2](#phase-co-sc-cosc-b2); _phase:co-sc:cosc-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1322.24 K, x(Sc) 0.48–0.48 | 4 | 1 |
 | [COSC2_C16](#phase-co-sc-cosc2-c16); _phase:co-sc:cosc2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1113.73 K, x(Sc) 0.66667–0.66667 | 6 | 1 |
 | [COSC3](#phase-co-sc-cosc3); _phase:co-sc:cosc3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1092.49 K, x(Sc) 0.77–0.77 | 4 | 1 |
-| [FCC_A1](#phase-co-sc-fcc-a1); _phase:co-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 694.47–1770.85 K, x(Sc) 0–0.00915 | 6 | 1 |
-| [HCP_A3](#phase-co-sc-hcp-a3); _phase:co-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1812.96 K, x(Sc) 0–1 | 4 | 1 |
+| [FCC_A1](#phase-co-sc-fcc-a1); _phase:co-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 694.47–1770.85 K, x(Sc) 0–0.00915 | 4 | 1 |
+| [HCP_A3](#phase-co-sc-hcp-a3); _phase:co-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1812.96 K, x(Sc) 0–1 | 2 | 1 |
 | [LIQUID](#phase-co-sc-liquid); _phase:co-sc:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1024.14–2500 K, x(Sc) 0–1 | 18 | 1 |
 
 ## BCC_A2 (Co–Sc)
@@ -26,11 +26,11 @@ Table: Phases of the Co–Sc system (8)
 - Id: `phase:co-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1601.82–2499.32 K, x(Sc) 0.99862–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sc:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:co-sc:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.11.069:βSc, paper:10.1016/j.jallcom.2007.11.069:εCo  
+Names (3): _corpus: _corpus:phase:co-sc:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.11.069:βSc  
 _tdb: _tdb:CoSc-08Liu.tdb:BCC_A2  
 
 
@@ -172,7 +172,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-sc:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 694.47–1770.85 K, x(Sc) 0–0.00915
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sc:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:co-sc:fcc-a1  
@@ -199,7 +199,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-sc:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1812.96 K, x(Sc) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sc:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:co-sc:hcp-a3  

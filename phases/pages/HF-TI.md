@@ -12,7 +12,7 @@ Table: Phases of the Hf–Ti system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-hf-ti-bcc-a2); _phase:hf-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1063.38–2506 K, x(Ti) 0–1 | 10 | 1 |
+| [BCC_A2](#phase-hf-ti-bcc-a2); _phase:hf-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1063.38–2506 K, x(Ti) 0–1 | 0 | 1 |
 | [FCC_A1](#phase-hf-ti-fcc-a1); _phase:hf-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-hf-ti-hcp-a3); _phase:hf-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2019.03 K, x(Ti) 0–1 | 0 | 1 |
 | [LIQUID](#phase-hf-ti-liquid); _phase:hf-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1926.28–4000 K, x(Ti) 0–1 | 1 | 1 |
@@ -22,11 +22,10 @@ Table: Phases of the Hf–Ti system (4)
 - Id: `phase:hf-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1063.38–2506 K, x(Ti) 0–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-ti:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:hf-ti:bcc-a2  
-_paper: _paper:10.1007/bf02646757:(αTi,αHf)/(βTi,βHf), paper:10.1007/bf02646757:(βTi,βHf)/L  
+Names (2): _corpus: _corpus:phase:hf-ti:bcc-a2  
 _tdb: _tdb:HfTi-97Bit-LB.tdb:BCC_A2  
 
 
@@ -42,7 +41,7 @@ _tdb: _tdb:HfTi-97Bit-LB.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Hf–Ti)
 

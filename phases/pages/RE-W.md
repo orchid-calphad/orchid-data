@@ -12,25 +12,25 @@ Table: Phases of the Re–W system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [CHI_A12](#phase-re-w-a12-chi); _phase:re-w:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2398.06 K, x(W) 0.17241–0.291 | 7 | 2 |
-| [BCC_A2](#phase-re-w-bcc-a2); _phase:re-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3694.9 K, x(W) 0.62691–1 | 7 | 2 |
+| [CHI_A12](#phase-re-w-a12-chi); _phase:re-w:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2398.06 K, x(W) 0.17241–0.291 | 3 | 2 |
+| [BCC_A2](#phase-re-w-bcc-a2); _phase:re-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3694.9 K, x(W) 0.62691–1 | 3 | 2 |
 | [SIGMA_D8B](#phase-re-w-d8b-sigma); _phase:re-w:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 919.01–3271.84 K, x(W) 0.28421–0.5822 | 4 | 2 |
 | [DIS_SIGMA](#phase-re-w-dis-sigma); _phase:re-w:dis-sigma_ |  | needs_review | no calculated diagram | 0 | 1 |
 | [FCC_A1](#phase-re-w-fcc-a1); _phase:re-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 2 |
-| [HCP_A3](#phase-re-w-hcp-a3); _phase:re-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3459 K, x(W) 0–0.16386 | 7 | 2 |
+| [HCP_A3](#phase-re-w-hcp-a3); _phase:re-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3459 K, x(W) 0–0.16386 | 2 | 2 |
 | [LIQUID](#phase-re-w-liquid); _phase:re-w:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 3103.9–4000 K, x(W) 0–1 | 4 | 2 |
-| [SIGMA_OLD](#phase-re-w-old-sigma); _phase:re-w:old-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 850.63–2490.07 K, x(W) 0.2853–0.56605 | 4 | 1 |
+| [SIGMA_OLD](#phase-re-w-old-sigma); _phase:re-w:old-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 850.63–2490.07 K, x(W) 0.2853–0.56605 | 2 | 1 |
 
 ## CHI_A12 (Re–W)
 
 - Id: `phase:re-w:a12-chi`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2398.06 K, x(W) 0.17241–0.291
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-w:a12-chi)
 
-Names (7): _corpus: _corpus:phase:re-w:a12-chi, corpus:phase:re-w:chi-a12  
-_paper: _paper:10.1016/s0925-8388(99)00597-6:hcp (hcp/χ), paper:10.1016/s0925-8388(99)00597-6:χ, paper:10.1016/s0925-8388(99)00597-6:χ (χ/hcp)  
+Names (6): _corpus: _corpus:phase:re-w:a12-chi, corpus:phase:re-w:chi-a12  
+_paper: _paper:10.1016/s0925-8388(99)00597-6:hcp (hcp/χ), paper:10.1016/s0925-8388(99)00597-6:χ (χ/hcp)  
 _tdb: _tdb:ReW-00Liu-LB.tdb:CHI_A12, tdb:ReW-02Fri.tdb:CHI_A12  
 
 
@@ -62,11 +62,11 @@ _assessment that models this phase_
 - Id: `phase:re-w:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3694.9 K, x(W) 0.62691–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-w:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:re-w:bcc-a2  
-_paper: _paper:10.1016/s0925-8388(99)00597-6:bcc, paper:10.1016/s0925-8388(99)00597-6:bcc (bcc/σ), paper:10.1016/s0925-8388(99)00597-6:σ (σ/bcc) range high  
+Names (5): _corpus: _corpus:phase:re-w:bcc-a2  
+_paper: _paper:10.1016/s0925-8388(99)00597-6:bcc (bcc/σ), paper:10.1016/s0925-8388(99)00597-6:σ (σ/bcc) range high  
 _tdb: _tdb:ReW-00Liu-LB.tdb:BCC_A2, tdb:ReW-02Fri.tdb:BCC_A2  
 
 
@@ -197,11 +197,11 @@ _assessment that models this phase_
 - Id: `phase:re-w:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3459 K, x(W) 0–0.16386
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-w:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:re-w:hcp-a3  
-_paper: _paper:10.1016/s0925-8388(99)00597-6:hcp, paper:10.1016/s0925-8388(99)00597-6:σ (σ/(χ or hcp)), paper:10.1016/s0925-8388(99)00597-6:σ (σ/(χ or hcp)) range high  
+Names (4): _corpus: _corpus:phase:re-w:hcp-a3  
+_paper: _paper:10.1016/s0925-8388(99)00597-6:hcp  
 _tdb: _tdb:ReW-00Liu-LB.tdb:HCP_A3, tdb:ReW-02Fri.tdb:HCP_A3  
 
 
@@ -269,7 +269,7 @@ _assessment that models this phase_
 - Id: `phase:re-w:old-sigma`; status `assigned`
 - Structure: sigma-CrFe · D8_b · tP30 · P4_2/mnm (136); type `st:d8-b-sigma-crfe-tp30`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 850.63–2490.07 K, x(W) 0.2853–0.56605
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-w:old-sigma)
 
 Names (4): _corpus: _corpus:phase:re-w:old-sigma, corpus:phase:re-w:sigma-old  

@@ -166,7 +166,7 @@ _assessment that models this phase_
 - Id: `phase:na-o:na2o-c1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–301 K, x(O) 0.33333–0.33333
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 7 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-o:na2o-c1)
 
 Names (4): _corpus: _corpus:phase:na-o:na2o-c1  

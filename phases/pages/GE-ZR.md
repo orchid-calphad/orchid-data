@@ -12,7 +12,7 @@ Table: Phases of the Ge–Zr system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-zr-a4-diamond); _phase:ge-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Zr) 0–0 | 5 | 1 |
+| [DIAMOND_A4](#phase-ge-zr-a4-diamond); _phase:ge-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Zr) 0–0 | 3 | 1 |
 | [BCC_A2](#phase-ge-zr-bcc-a2); _phase:ge-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300.62–3589.4 K, x(Zr) 0.99064–1 | 4 | 1 |
 | [FCC_A1](#phase-ge-zr-fcc-a1); _phase:ge-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GE2ZR_C49](#phase-ge-zr-ge2zr-c49); _phase:ge-zr:ge2zr-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1793.07 K, x(Zr) 0.33333–0.33333 | 4 | 1 |
@@ -29,11 +29,11 @@ Table: Phases of the Ge–Zr system (10)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Zr) 0–0
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-zr:a4-diamond)
 
-Names (6): _corpus: _corpus:phase:ge-zr:a4-diamond, corpus:phase:ge-zr:diamond-a4  
-_paper: _paper:10.1007/s10853-010-4934-1:(Ge), paper:10.1007/s10853-010-4934-1:(αZr), paper:10.1007/s10853-010-4934-1:Ge  
+Names (5): _corpus: _corpus:phase:ge-zr:a4-diamond, corpus:phase:ge-zr:diamond-a4  
+_paper: _paper:10.1007/s10853-010-4934-1:(Ge), paper:10.1007/s10853-010-4934-1:Ge  
 _tdb: _tdb:GeZr-11Sha.tdb:DIAMOND_A4  
 
 

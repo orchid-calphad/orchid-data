@@ -1,18 +1,18 @@
 # Cu–Fe system
 
-> Cu–Fe system: 113 accepted literature values (invariant reaction 56, mixing / partial 45, phase transition 10, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Fe system: 110 accepted literature values (invariant reaction 56, mixing / partial 42, phase transition 10, heat capacity / entropy / enthalpy 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-FE.html · Markdown: https://data.orchid-project.org/systems/CU-FE.md
 
-113 accepted literature values from 3 paper(s) (experimental 74, model 30, unspecified 9); 6 calculated phase diagram(s).
+110 accepted literature values from 3 paper(s) (experimental 71, model 30, unspecified 9); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CU-FE.json) · [CSV](https://data.orchid-project.org/systems/CU-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-FE/CuFe-03Tur.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CU-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-FE.html) · [Markdown](https://data.orchid-project.org/systems/CU-FE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CU-FE.json) · [CSV](https://data.orchid-project.org/systems/CU-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-FE/CuFe-03Tur.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-FE.html) · [Markdown](https://data.orchid-project.org/systems/CU-FE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
+| experimental | 71 |
 | model | 30 |
 | unspecified | 9 |
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 56 |
 | phase transition | 10 |
-| mixing / partial | 45 |
+| mixing / partial | 42 |
 | heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
@@ -147,7 +147,7 @@ Table: Phase transition, Cu–Fe system
 | Phase transition | 1750 K | 1750 | other | model | [3] Stechauner 2015 | p. 7 | “Keeping in mind that the closed expression in Tc represents only an approximation, we finally adopt a value of Tc = 1750 K in our simulations, as it delivers best agreement and consistency to experimental data over a large range of temperatures and compositions and it is sufficiently close to the estimated value of 1840 K.” |
 | Phase transition | 1840 K | 1840 | other | model | [3] Stechauner 2015 | p. 6 | “In the attempt to get a reasonable estimate for Tc, we carry out a stepped equilibrium calculation to follow the phase boundary of the Fe-Cu miscibility gap as a function of chemical composition (Fig. 8). Tc can then be read from the maximum temperature of the phase boundary with a value of 1840 K.” |
 
-### Mixing / partial (45)
+### Mixing / partial (42)
 
 Table: Mixing / partial, Cu–Fe system
 
@@ -155,13 +155,11 @@ Table: Mixing / partial, Cu–Fe system
 |---|---:|---:|---|---|---|---|---|
 | Enthalpy of mixing; _printed: ⌬H_ | 11.8 kJ/mol (basis unstated) | 1673 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
 | Enthalpy of mixing; _printed: ΔH_ | 2.9 kJ/mol (basis unstated) ± 0.1 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 5.3 kJ/mol (basis unstated) ± 0.2 | 1673 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 3 |  |
 | Enthalpy of mixing; _printed: ⌬H_ | 11 kJ/mol (basis unstated) | 1873 |  | model | [2] Turchanin 2003 | p. 8 | “According to the present thermodynamic model of the melt, enthalpies of mixing are temperature dependent (Fig. 2), with the maximum in ⌬H predicted as 11.0 kJ mol-1 at xFe ⳱ 0.45 at 1873 K, and 11.8 kJ mol-1 at the same composition at 1673 K.” |
 | Enthalpy of mixing; _printed: ⌬H_ | 10.8 unspecified ± 0.7 | 1873 |  | experimental | [2] Turchanin 2003 | p. 2 | “Those measurements were carried out at 1873 K and covered the whole range of concentrations. As can be seen from Fig. 1, our results are in good agreement with the data of \[1967Woo, 1971Toz, 1981Yas\]. Thus, according to our work, ⌬H reaches a maximum value of 10.8 ± 0.7 kJ mol-1 at xCu ⳱ 0.43.” |
 | Enthalpy of mixing; _printed: ΔH_ | 3.3 kJ/mol (basis unstated) ± 0.3 | 1873 | liquid; _alloy: Cu 0.1, Fe 0.9_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 13 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 10.8 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.6, Fe 0.4_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 8 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 4 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 6 kJ/mol (basis unstated) ± 0.5 | 1873 | liquid; _alloy: Cu 0.2, Fe 0.8_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 12 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 8.1 kJ/mol (basis unstated) ± 0.6 | 1873 | liquid; _alloy: Cu 0.3, Fe 0.7_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 11 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 5 kJ/mol (basis unstated) ± 0.2 | 1873 | liquid; _alloy: Cu 0.9, Fe 0.1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 5 |  |
@@ -169,7 +167,6 @@ Table: Mixing / partial, Cu–Fe system
 | Enthalpy of mixing; _printed: ΔH_ | 10.6 kJ/mol (basis unstated) ± 0.9 | 1873 | liquid; _alloy: Cu 0.5, Fe 0.5_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 9 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 9.7 kJ/mol (basis unstated) ± 0.8 | 1873 | liquid; _alloy: Cu 0.4, Fe 0.6_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 10 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 10.1 kJ/mol (basis unstated) ± 0.4 | 1873 | liquid; _alloy: Cu 0.7, Fe 0.3_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 0 kJ/mol (basis unstated) | 1873 | liquid; _alloy: Cu 0, Fe 1_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 14 |  |
 | Partial enthalpy; _printed: ΔH̄Cu_ | 0.24 kJ/mol (basis unstated) ± 0.07 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
 | Partial enthalpy; _printed: ΔH̄Fe_ | 53.4 kJ/mol (basis unstated) ± 2.5 | 1673 | liquid; _alloy: Cu 0.95, Fe 0.05_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 2 |  |
 | Partial enthalpy; _printed: ΔH̄Cu_ | 0 kJ/mol (basis unstated) | 1673 | liquid; _alloy: Cu 1, Fe 0_ | experimental | [2] Turchanin 2003 | Table 1, p. 3, row 1 |  |

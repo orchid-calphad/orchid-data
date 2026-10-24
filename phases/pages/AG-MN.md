@@ -12,23 +12,23 @@ Table: Phases of the Ag–Mn system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ag-mn-bcc-a2); _phase:ag-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1402.67–1664 K, x(Mn) 0.98905–1 | 9 | 1 |
-| [CBCC_A12](#phase-ag-mn-cbcc-a12); _phase:ag-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 1–1 | 11 | 1 |
+| [BCC_A2](#phase-ag-mn-bcc-a2); _phase:ag-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1402.67–1664 K, x(Mn) 0.98905–1 | 2 | 1 |
+| [CBCC_A12](#phase-ag-mn-cbcc-a12); _phase:ag-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 1–1 | 1 | 1 |
 | [CUB_A13](#phase-ag-mn-cub-a13); _phase:ag-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 900–1359.99 K, x(Mn) 0.27–1 | 0 | 1 |
 | [FCC_A1](#phase-ag-mn-fcc-a1); _phase:ag-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1516 K, x(Mn) 0–1 | 5 | 1 |
 | [HCP_A3](#phase-ag-mn-hcp-a3); _phase:ag-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 980–980 K, x(Mn) 0.75–0.75 | 0 | 1 |
-| [LIQUID](#phase-ag-mn-liquid); _phase:ag-mn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1216.37–2500 K, x(Mn) 0–1 | 6 | 1 |
+| [LIQUID](#phase-ag-mn-liquid); _phase:ag-mn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1216.37–2500 K, x(Mn) 0–1 | 5 | 1 |
 
 ## BCC_A2 (Ag–Mn)
 
 - Id: `phase:ag-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1402.67–1664 K, x(Mn) 0.98905–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-mn:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ag-mn:bcc-a2  
-_paper: _paper:10.1007/bf02898263:(βMn), paper:10.1007/bf02898263:(δMn), paper:10.1007/bf02898263:βMn  
+Names (3): _corpus: _corpus:phase:ag-mn:bcc-a2  
+_paper: _paper:10.1007/bf02898263:(δMn)  
 _tdb: _tdb:AgMn-90Kar.tdb:BCC_A2  
 
 
@@ -52,11 +52,11 @@ _assessment that models this phase; reports values for this phase_
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1355 K, x(Mn) 1–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-mn:cbcc-a12)
 
-Names (6): _corpus: _corpus:phase:ag-mn:cbcc-a12  
-_paper: _paper:10.1007/bf02898263:(αMn), paper:10.1007/bf02898263:αMn, paper:10.1007/bf02898263:γMn, paper:10.1007/bf02898263:δMn  
+Names (3): _corpus: _corpus:phase:ag-mn:cbcc-a12  
+_paper: _paper:10.1007/bf02898263:(αMn)  
 _tdb: _tdb:AgMn-90Kar.tdb:CBCC_A12  
 
 
@@ -158,7 +158,7 @@ _assessment that models this phase_
 - Id: `phase:ag-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1216.37–2500 K, x(Mn) 0–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-mn:liquid)
 
 Names (4): _corpus: _corpus:phase:ag-mn:liquid  

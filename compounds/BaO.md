@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of BaO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -274.03 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -276.68 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -274.03 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -276.68 | kJ/mol-atom |  | 2.500e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

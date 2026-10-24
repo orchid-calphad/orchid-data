@@ -66,32 +66,32 @@ Table: Enthalpies of formation, Cs–Mo–O system (26)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cs2Mo3O10 |  | -205.145 kJ/mol-atom ± 3.47 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 7 |  |
-| Cs2Mo3O10 |  | -205.145 kJ/mol-atom ± 22.35 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 9 |  |
-| Cs2Mo3O10 |  | -205.04 kJ/mol-atom ± 6.5 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 8 |  |
-| Cs2Mo3O10 |  | -205.04 kJ/mol-atom ± 23.1 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 10 |  |
+| Cs2Mo3O10 |  | -205.145 kJ/mol-atom ± 0.231333 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 7 |  |
+| Cs2Mo3O10 |  | -205.145 kJ/mol-atom ± 1.49 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 9 |  |
+| Cs2Mo3O10 |  | -205.04 kJ/mol-atom ± 0.433333 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 8 |  |
+| Cs2Mo3O10 |  | -205.04 kJ/mol-atom ± 1.54 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 10 |  |
 | Cs2Mo3O10 |  | -204 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 5 |  |
 | Cs2Mo4O13 |  | -201.453 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 7 |  |
-| Cs2Mo5O16 |  | -200.074 kJ/mol-atom ± 37.25 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 12 |  |
-| Cs2Mo5O16 |  | -200.074 kJ/mol-atom ± 5.96 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 9 |  |
+| Cs2Mo5O16 |  | -200.074 kJ/mol-atom ± 1.61957 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 12 |  |
+| Cs2Mo5O16 |  | -200.074 kJ/mol-atom ± 0.25913 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 9 |  |
 | Cs2Mo5O16 |  | -199.357 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 8 |  |
 | Cs2Mo7O22 |  | -196.4 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 10 |  |
-| Cs2Mo7O22 |  | -196.36 kJ/mol-atom ± 8.79 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 10 |  |
-| Cs2Mo7O22 |  | -196.36 kJ/mol-atom ± 52.16 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 13 |  |
-| α-Cs2Mo2O7 |  | -209.309 kJ/mol-atom ± 14.9 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 5 |  |
-| α-Cs2Mo2O7 |  | -209.309 kJ/mol-atom ± 2.1 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
+| Cs2Mo7O22 |  | -196.36 kJ/mol-atom ± 0.283548 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 10 |  |
+| Cs2Mo7O22 |  | -196.36 kJ/mol-atom ± 1.68258 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 13 |  |
+| α-Cs2Mo2O7 |  | -209.309 kJ/mol-atom ± 1.35455 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 5 |  |
+| α-Cs2Mo2O7 |  | -209.309 kJ/mol-atom ± 0.190909 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
 | α-Cs2Mo2O7 |  | -209.291 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 3 |  |
-| α-Cs2Mo2O7 |  | -209.258 kJ/mol-atom ± 2.37 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 5 |  |
-| α-Cs2Mo2O7 |  | -209.258 kJ/mol-atom ± 15.07 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 6 |  |
-| α-Cs2Mo2O7 |  | -209.236 kJ/mol-atom ± 15.5 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 7 |  |
-| α-Cs2Mo2O7 |  | -209.236 kJ/mol-atom ± 4.7 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 6 |  |
+| α-Cs2Mo2O7 |  | -209.258 kJ/mol-atom ± 0.215455 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 5 |  |
+| α-Cs2Mo2O7 |  | -209.258 kJ/mol-atom ± 1.37 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 6 |  |
+| α-Cs2Mo2O7 |  | -209.236 kJ/mol-atom ± 1.40909 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 3, p. 4, row 7 |  |
+| α-Cs2Mo2O7 |  | -209.236 kJ/mol-atom ± 0.427273 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2021_ [doi](https://doi.org/10.1016/j.tca.2020.178825) | Table 2, p. 4, row 6 |  |
 | α-Cs2MoO4 |  | -216.829 kJ/mol-atom | 298.15 | model |  |  | [1] Smith 2021 | Table 8, p. 7, row 1 |  |
-| α-Cs2MoO4 |  | -216.384 kJ/mol-atom ± 1.54 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2018_ [doi](https://doi.org/10.1016/j.jct.2018.01.016) | Table 2, p. 4, row 2 |  |
-| α-Cs2MoO4 |  | -216.384 kJ/mol-atom ± 7.54 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2017_ [doi](https://doi.org/10.1016/j.jssc.2017.05.032) | Table 3, p. 4, row 2 |  |
-| α-Cs2MoO4 |  | -216.357 kJ/mol-atom ± 7.45 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 1 |  |
-| α-Cs2MoO4 |  | -216.357 kJ/mol-atom ± 1 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
-| α-Cs2MoO4 |  | -216.223 kJ/mol-atom ± 1.11 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 3 |  |
-| α-Cs2MoO4 |  | -216.223 kJ/mol-atom ± 7.52 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 3 |  |
+| α-Cs2MoO4 |  | -216.384 kJ/mol-atom ± 0.22 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2018_ [doi](https://doi.org/10.1016/j.jct.2018.01.016) | Table 2, p. 4, row 2 |  |
+| α-Cs2MoO4 |  | -216.384 kJ/mol-atom ± 1.07714 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Smith 2017_ [doi](https://doi.org/10.1016/j.jssc.2017.05.032) | Table 3, p. 4, row 2 |  |
+| α-Cs2MoO4 |  | -216.357 kJ/mol-atom ± 1.06429 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 3, p. 4, row 1 |  |
+| α-Cs2MoO4 |  | -216.357 kJ/mol-atom ± 0.142857 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
+| α-Cs2MoO4 |  | -216.223 kJ/mol-atom ± 0.158571 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 3 |  |
+| α-Cs2MoO4 |  | -216.223 kJ/mol-atom ± 1.07429 | 298.15 | experimental |  |  | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 3 |  |
 
 ## Other properties
 
@@ -106,13 +106,13 @@ Table: Heat capacity / entropy / enthalpy, Cs–Mo–O system
 | Entropy; _printed: S°m (298.15 K)_ | 23.5261 J/mol-atom/K | 298.15 | Cs2Mo5O16; _alloy: Mo 0.217391, O 0.695652_ | model | [1] Smith 2021 | Table 8, p. 7, row 8 |  |
 | Entropy; _printed: S°m (298.15 K)_ | 22.1613 J/mol-atom/K | 298.15 | Cs2Mo7O22; _alloy: Mo 0.225806, O 0.709677_ | model | [1] Smith 2021 | Table 8, p. 7, row 10 |  |
 | Entropy; _printed: S°m (298.15 K)_ | 28.6909 J/mol-atom/K | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | model | [1] Smith 2021 | Table 8, p. 7, row 3 |  |
-| Entropy; _printed: S°m_ | 28.8545 J/mol-atom/K ± 4.3 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 28.8545 J/mol-atom/K ± 4.3 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | model | [1] Smith 2021 | Table 8, p. 7, row 4 |  |
-| Entropy; _printed: S°m (298.15 K)_ | 35.4786 J/mol-atom/K ± 0.3 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | model | [1] Smith 2021 | Table 8, p. 7, row 2 |  |
-| Entropy; _printed: S°m_ | 35.4786 J/mol-atom/K ± 0.3 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
+| Entropy; _printed: S°m_ | 28.8545 J/mol-atom/K ± 0.390909 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
+| Entropy; _printed: S°m (298.15 K)_ | 28.8545 J/mol-atom/K ± 0.390909 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | model | [1] Smith 2021 | Table 8, p. 7, row 4 |  |
+| Entropy; _printed: S°m (298.15 K)_ | 35.4786 J/mol-atom/K ± 0.0428571 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | model | [1] Smith 2021 | Table 8, p. 7, row 2 |  |
+| Entropy; _printed: S°m_ | 35.4786 J/mol-atom/K ± 0.0428571 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
 | Entropy; _printed: S°m (298.15 K)_ | 35.3571 J/mol-atom/K | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | model | [1] Smith 2021 | Table 8, p. 7, row 1 |  |
-| Heat capacity; _printed: C°p,m_ | 211.9 unknown ± 2.1 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
-| Heat capacity; _printed: C°p,m_ | 148.67 unknown ± 0.15 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
+| Heat capacity; _printed: C°p,m_ | 211.9 unknown ± 0.190909 | 298.15 | α-Cs2Mo2O7; _alloy: Mo 0.181818, O 0.636364_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 4 |  |
+| Heat capacity; _printed: C°p,m_ | 148.67 unknown ± 0.0214286 | 298.15 | α-Cs2MoO4; _alloy: Mo 0.142857, O 0.571429_ | experimental | [1] Smith 2021; _cites Cordfunke 1990_ | Table 2, p. 4, row 1 |  |
 
 ### Crystal structure (38)
 

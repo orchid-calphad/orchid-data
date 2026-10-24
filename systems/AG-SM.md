@@ -73,7 +73,7 @@ Table: Invariant reactions reported in the literature for the Ag–Sm system (25
 | 1063.15 | peritectic |  | experimental | [1] Zhou 2020; _cites Stapf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990217-9) | p. 4 | “According to their work, three stoichiometric compounds Ag3Sm (melting point 935 C), bAg2Sm (peritectic formation at 790 C), and AgSm (melting point 960 C) have been reported.” |
 | 1063.15 | peritectic: Liquid + Ag51Sm14 -> βAg2Sm | Ag51Sm14: Sm 0.36; βAg2Sm: Ag 0.666667, Sm 0.333333 | experimental | [1] Zhou 2020; _cites Stapf 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990217-9) | Table 6, p. 9, row 6 |  |
 | 1063.15 | peritectic: Liquid ? Ag3Sm ? bAg2Sm |  | experimental | [1] Zhou 2020 | p. 4 | “The peritectic reaction, Liquid ? Ag3Sm ? bAg2Sm was determined to be at 790 C and 33 at.% Sm.” |
-| 1062.15 | peritectic: Liquid + Ag51Sm14 -> βAg2Sm | Liquid: Sm 0.215; Ag51Sm14: Sm 0.336; βAg2Sm: Sm 0.333 | model | [1] Zhou 2020 | Table 6, p. 9, row 5 |  |
+| 1062.15 | peritectic: Liquid + Ag51Sm14 -> βAg2Sm | Liquid: Sm 0.336; Ag51Sm14: Sm 0.215; βAg2Sm: Sm 0.333 | model | [1] Zhou 2020 | Table 6, p. 9, row 5 |  |
 | 1055.15 | eutectic: Liquid -> βAg2Sm + AgSm | Liquid: Sm 0.356; βAg2Sm: Sm 0.333; AgSm: Sm 0.5 | model | [1] Zhou 2020 | Table 6, p. 9, row 7 |  |
 | 1054.15 | eutectic: Liquid -> (Ag) + Ag51Sm14 | Ag51Sm14: Ag 0.784615, Sm 0.215385 | experimental | [1] Zhou 2020; _cites Gschneidner 1970_ | Table 6, p. 9, row 4 |  |
 | 1048.15 | eutectic: Liquid -> (Ag) + Ag51Sm14 | Liquid: Sm 0.115; Ag51Sm14: Ag 0.784615, Sm 0.215385 | experimental | [1] Zhou 2020; _cites Gebhardt 1964_ | Table 6, p. 9, row 3 |  |

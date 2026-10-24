@@ -12,7 +12,7 @@ Table: Phases of the Ni–Th system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ni-th-bcc-a2); _phase:ni-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 301.12–3999.87 K, x(Th) 0.99969–1 | 2 | 1 |
+| [BCC_A2](#phase-ni-th-bcc-a2); _phase:ni-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 301.12–3999.87 K, x(Th) 0.99969–1 | 0 | 1 |
 | [FCC_A1](#phase-ni-th-fcc-a1); _phase:ni-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1739.57 K, x(Th) 0–1 | 3 | 1 |
 | [HCP_A3](#phase-ni-th-hcp-a3); _phase:ni-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ni-th-liquid); _phase:ni-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1280.93–4000 K, x(Th) 0–1 | 30 | 1 |
@@ -20,7 +20,7 @@ Table: Phases of the Ni–Th system (12)
 | [NI2TH_C32](#phase-ni-th-ni2th-c32); _phase:ni-th:ni2th-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1319.15 K, x(Th) 0.33333–0.33333 | 5 | 1 |
 | [NI3TH7_D102](#phase-ni-th-ni3th7-d102); _phase:ni-th:ni3th7-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1312.11 K, x(Th) 0.7–0.7 | 7 | 1 |
 | [NI5TH_D2D](#phase-ni-th-ni5th-d2d); _phase:ni-th:ni5th-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1792.18 K, x(Th) 0.16667–0.16667 | 6 | 1 |
-| [NI7TH2_ALPHA](#phase-ni-th-ni7th2-alpha); _phase:ni-th:ni7th2-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1470.59 K, x(Th) 0.22222–0.22222 | 10 | 1 |
+| [NI7TH2_ALPHA](#phase-ni-th-ni7th2-alpha); _phase:ni-th:ni7th2-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1470.59 K, x(Th) 0.22222–0.22222 | 7 | 1 |
 | [NI7TH2_BETA](#phase-ni-th-ni7th2-beta); _phase:ni-th:ni7th2-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1470.59–1516.04 K, x(Th) 0.22222–0.22222 | 2 | 1 |
 | [NI7TH4](#phase-ni-th-ni7th4); _phase:ni-th:ni7th4_ | Ni7Th4 · mC12 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1345.65 K, x(Th) 0.36364–0.36364 | 6 | 1 |
 | [NITH](#phase-ni-th-nith); _phase:ni-th:nith_ | AgSr · oP16 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1462.8 K, x(Th) 0.5–0.5 | 7 | 1 |
@@ -30,11 +30,10 @@ Table: Phases of the Ni–Th system (12)
 - Id: `phase:ni-th:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 301.12–3999.87 K, x(Th) 0.99969–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-th:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:ni-th:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2009.07.168:βTh2Ni7  
+Names (2): _corpus: _corpus:phase:ni-th:bcc-a2  
 _tdb: _tdb:NiTh-09Wan.tdb:BCC_A2  
 
 
@@ -47,12 +46,10 @@ _tdb: _tdb:NiTh-09Wan.tdb:BCC_A2
 36: CONST BCC_A2 : NI TH% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2009.07.168](https://doi.org/10.1016/j.jallcom.2009.07.168) C.P. Wang, Y. He, H.L. Zhang, X.J. Liu, Thermodynamic assessments of the U–Ni and Th–Ni systems, Journal of Alloys and Compounds 487, 126-131 (2009).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02645711](https://doi.org/10.1007/bf02645711) H. Okamoto, T.B. Massalski, J. Phase Equilib. 12 (2) (1991) 148–168.  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ni–Th)
 
@@ -284,11 +281,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ce2Ni7 · hP36 · P6_3/mmc — NiTh-09Wan.tdb: 'Prototype Ce2Ni7 (hP36, P6_3/mmc)'
 - Stoichiometry: Ni 0.7778, Th 0.2222
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1470.59 K, x(Th) 0.22222–0.22222
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-th:ni7th2-alpha)
 
-Names (5): _corpus: _corpus:phase:ni-th:ni7th2-alpha  
-_paper: _paper:10.1016/j.jallcom.2009.07.168:(αTh), paper:10.1016/j.jallcom.2009.07.168:αTh2Ni7, paper:10.1016/j.jallcom.2009.07.168:αThNi  
+Names (4): _corpus: _corpus:phase:ni-th:ni7th2-alpha  
+_paper: _paper:10.1016/j.jallcom.2009.07.168:αTh2Ni7, paper:10.1016/j.jallcom.2009.07.168:αThNi  
 _tdb: _tdb:NiTh-09Wan.tdb:NI7TH2_ALPHA  
 
 

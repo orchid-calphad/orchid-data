@@ -1,10 +1,10 @@
 # La–Ni system
 
-> La–Ni system: 269 accepted literature values (phase transition 132, invariant reaction 119, mixing / partial 9, activity / EMF / Gibbs energy 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Ni system: 327 accepted literature values (phase transition 144, invariant reaction 119, crystal structure 46, mixing / partial 9) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-NI.html · Markdown: https://data.orchid-project.org/systems/LA-NI.md
 
-269 accepted literature values from 5 paper(s) (experimental 190, model 70, unspecified 9); 5 calculated phase diagram(s).
+327 accepted literature values from 6 paper(s) (experimental 202, model 70, unspecified 55); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-NI.json) · [CSV](https://data.orchid-project.org/systems/LA-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-NI/LaNi-00Dis.json) · [phases (17)](https://data.orchid-project.org/phases/pages/LA-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-NI.html) · [Markdown](https://data.orchid-project.org/systems/LA-NI.md)
 
@@ -12,18 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 190 |
+| experimental | 202 |
 | model | 70 |
-| unspecified | 9 |
+| unspecified | 55 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 119 |
-| phase transition | 132 |
+| phase transition | 144 |
 | mixing / partial | 9 |
 | activity / EMF / Gibbs energy | 9 |
+| crystal structure | 46 |
 
 ## Calculated phase diagrams
 
@@ -315,12 +316,24 @@ Table: Invariant reactions reported in the literature for the La–Ni system (11
 
 ## Other properties
 
-### Phase transition (132)
+### Phase transition (144)
 
 Table: Phase transition, La–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 299 K | 299 | other: Peak A, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 1 |  |
+| Phase transition | 299 K | 299 | other: Peak A, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 3 |  |
+| Phase transition | 301 K | 301 | other: Peak A, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 2 |  |
+| Phase transition | 301 K | 301 | other: Peak A, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 4 |  |
+| Phase transition | 332 K | 332 | other: Peak C, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 10 |  |
+| Phase transition | 335 K | 335 | other: Peak C, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 9 |  |
+| Phase transition | 343 K | 343 | other: Peak B, 1 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 5 |  |
+| Phase transition | 346 K | 346 | other: Peak B, 1 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 6 |  |
+| Phase transition | 375 K | 375 | other: Peak C, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 11 |  |
+| Phase transition | 379 K | 379 | other: Peak B, 3 MPa, T_onset; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 7 |  |
+| Phase transition | 379 K | 379 | other: Peak C, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 12 |  |
+| Phase transition | 382 K | 382 | other: Peak B, 3 MPa, T_peak; _alloy: La 0.166667, Ni 0.833333_ | experimental | [3] An 2013 | Table 2, p. 4, row 8 |  |
 | Phase transition | 613.15 K | 613.15 | UNKNOWN; _alloy: La 0.8796, Ni 0.1204_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 94 |  |
 | Phase transition | 623.15 K | 623.15 | UNKNOWN; _alloy: La 0.8056, Ni 0.1944_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 91 |  |
 | Phase transition | 778.15 K | 778.15 | UNKNOWN; _alloy: La 0.7074, Ni 0.2926_ | experimental | [2] Dischinger 2000 | Table 2, p. 5, row 88 |  |
@@ -486,6 +499,59 @@ Table: Activity / EMF / Gibbs energy, La–Ni system
 | Gibbs energy; _printed: ΔGcalc_ | -28.2 kJ/mol | 973 | Ni7La2; _alloy: Ni 0.777778_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 6 |  |
 | Gibbs energy; _printed: ΔGcalc_ | -28.1 kJ/mol | 973 | NiLa; _alloy: Ni 0.5_ | unspecified | [2] Dischinger 2000 | Table 4, p. 6, row 14 |  |
 
+### Crystal structure (46)
+
+Table: Crystal structure, La–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.056 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14 |  |
+| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8 |  |
+| Lattice a | 5.114 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9 |  |
+| Lattice a | 5.056 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13 |  |
+| Lattice a | 5.0548 not_printed ± 3.000e-4 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2 |  |
+| Lattice a | 5.058 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12 |  |
+| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6 |  |
+| Lattice a | 6.601 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5 |  |
+| Lattice a | 5.0518 not_printed ± 8.000e-4 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1 |  |
+| Lattice a | 5.052 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14 |  |
+| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11 |  |
+| Lattice a | 7.355 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10 |  |
+| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6 |  |
+| Lattice a | 10.13 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7 |  |
+| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7 |  |
+| Lattice a | 3.907 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8 |  |
+| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [6] An 2012 | Table 2, p. 5, row 10 |  |
+| Lattice a | 7.34 Å | 298.15 | LaNi2; _alloy: La 0.333333, Ni 0.666667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 9 |  |
+| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12 |  |
+| Lattice a | 5.086 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11 |  |
+| Lattice a | 5.0195 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3 |  |
+| Lattice a | 5.02 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15 |  |
+| Lattice a | 5.013 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15 |  |
+| Lattice a | 5.058 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13 |  |
+| Lattice c | 36.981 Å |  | β-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 14 |  |
+| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [3] An 2013 | Table 3, p. 5, row 8 |  |
+| Lattice c | 7.908 Å | 298.15 | La2Ni3; _alloy: La 0.4, Ni 0.6_ | unspecified | [6] An 2012 | Table 2, p. 5, row 9 |  |
+| Lattice c | 36.981 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 13 |  |
+| Lattice c | 24.513 not_printed ± 0.002 | 298.15 | La2Ni7; _alloy: Ni 0.777778_ | unspecified | [3] An 2013 | Table 1, p. 3, row 2 |  |
+| Lattice c | 24.71 Å | 298.15 | La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [3] An 2013 | Table 3, p. 5, row 12 |  |
+| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [6] An 2012 | Table 2, p. 5, row 6 |  |
+| Lattice c | 5.111 Å | 298.15 | La3Ni; _alloy: La 0.75, Ni 0.25_ | unspecified | [3] An 2013 | Table 3, p. 5, row 5 |  |
+| Lattice c | 32.652 not_printed ± 0.005 | 298.15 | La5Ni19; _alloy: Ni 0.791667_ | unspecified | [3] An 2013 | Table 1, p. 3, row 1 |  |
+| Lattice c | 32.653 Å | 298.15 | La5Ni19; _alloy: La 0.208333, Ni 0.791667_ | unspecified | [3] An 2013 | Table 3, p. 5, row 14 |  |
+| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [6] An 2012 | Table 2, p. 5, row 11 |  |
+| Lattice c | 14.511 Å | 298.15 | La7Ni16; _alloy: La 0.304348, Ni 0.695652_ | unspecified | [3] An 2013 | Table 3, p. 5, row 10 |  |
+| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [3] An 2013 | Table 3, p. 5, row 6 |  |
+| Lattice c | 6.462 Å | 298.15 | La7Ni3; _alloy: La 0.7, Ni 0.3_ | unspecified | [6] An 2012 | Table 2, p. 5, row 7 |  |
+| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [3] An 2013 | Table 3, p. 5, row 7 |  |
+| Lattice c | 4.396 Å | 298.15 | LaNi; _alloy: La 0.5, Ni 0.5_ | unspecified | [6] An 2012 | Table 2, p. 5, row 8 |  |
+| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [6] An 2012 | Table 2, p. 5, row 12 |  |
+| Lattice c | 25.011 Å | 298.15 | LaNi3; _alloy: La 0.25, Ni 0.75_ | unspecified | [3] An 2013 | Table 3, p. 5, row 11 |  |
+| Lattice c | 3.9796 not_printed ± 1.000e-4 | 298.15 | LaNi5; _alloy: Ni 0.833333_ | unspecified | [3] An 2013 | Table 1, p. 3, row 3 |  |
+| Lattice c | 3.98 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [3] An 2013 | Table 3, p. 5, row 15 |  |
+| Lattice c | 3.987 Å | 298.15 | LaNi5; _alloy: La 0.166667, Ni 0.833333_ | unspecified | [6] An 2012 | Table 2, p. 5, row 15 |  |
+| Lattice c | 24.71 Å | 298.15 | α-La2Ni7; _alloy: La 0.222222, Ni 0.777778_ | unspecified | [6] An 2012 | Table 2, p. 5, row 13 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -495,6 +561,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. X.H. An, Q.F. Gu, J.Y. Zhang, S.L. Chen, X.B. Yu, Q. Li, Experimental investigation and thermodynamic reassessment of La–Ni and LaNi5–H systems, Calphad 40, 48-55 (2013). [doi:10.1016/j.calphad.2012.12.002](https://doi.org/10.1016/j.calphad.2012.12.002)
 4. Jinfa Liao, Hang Wang, Tzu-Yu Chen, Experimental Investigation and Thermodynamic Calculation of Ni–Al–La Ternary System in Nickel-Rich Region: A New Intermetallic Compound Ni2AlLa, Materials 11, 2396 (2018). [doi:10.3390/ma11122396](https://doi.org/10.3390/ma11122396)
 5. Z Du, D Wang, W Zhang, Thermodynamic assessment of the La-Ni system, Journal of Alloys and Compounds 264, 209-213 (1998). [doi:10.1016/s0925-8388(97)00269-7](https://doi.org/10.1016/s0925-8388%2897%2900269-7)
+6. Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012). [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004)
 
 ## Please cite
 

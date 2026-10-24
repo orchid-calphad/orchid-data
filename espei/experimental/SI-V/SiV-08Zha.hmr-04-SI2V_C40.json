@@ -72,7 +72,7 @@
      "sigma_conversion": null,
      "sigma_effective": 1000.0,
      "method_class": "combustion_calorimetry",
-     "method_basis": "prior",
+     "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 15,
      "method_entry": "value_types/HM_FORM/classes/combustion_calorimetry"
     },

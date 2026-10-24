@@ -1,10 +1,10 @@
 # Al–O system
 
-> Al–O system: 8 accepted literature values (phase transition 6, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–O system: 13 accepted literature values (phase transition 5, formation 4, heat capacity / entropy / enthalpy 2, invariant reaction 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-O.html · Markdown: https://data.orchid-project.org/systems/AL-O.md
 
-8 accepted literature values from 2 paper(s) (experimental 3, model 1, unspecified 4); 3 calculated phase diagram(s).
+13 accepted literature values from 2 paper(s) (experimental 3, model 4, DFT 3, unspecified 3); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-O.json) · [CSV](https://data.orchid-project.org/systems/AL-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-O/AlO-23Li.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AL-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-O.html) · [Markdown](https://data.orchid-project.org/systems/AL-O.md)
 
@@ -13,15 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 1 |
-| unspecified | 4 |
+| model | 4 |
+| DFT | 3 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
-| phase transition | 6 |
+| phase transition | 5 |
+| formation | 4 |
+| heat capacity / entropy / enthalpy | 2 |
 
 ## Calculated phase diagrams
 
@@ -53,20 +56,41 @@ Table: Invariant reactions reported in the literature for the Al–O system (2)
 | 2326.09 | Al2O3(l) = Al(l) + Al2O3(cor) | Al2O3(l): O 0.59973; Al(l): O 7.557e-4 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 2 |  |
 | 933.47 | Al(l) = Al(fcc) + Al2O3(cor) | Al(l): O 7.051e-7 | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 1 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–O system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Al2O3 | [Al2O3](https://data.orchid-project.org/compounds/Al2O3.html) | -335.14 kJ/mol-atom |  | model | -330.611 (mp-aaaaabrz) | -315.03 (oqmd-1234774) | [2] Li 2023 | Table 5, p. 6, row 2 |  |
+| Al2O3 |  | -329.86 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 6 |  |
+| Al2O3 |  | -313.44 kJ/mol-atom |  | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 5 |  |
+| Al2O3 |  | -294.24 kJ/mol-atom | 0 | DFT |  |  | [2] Li 2023 | Table 3, p. 5, row 4 |  |
+
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Al–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 933.47 K | 933.47 |  | experimental | [1] Taylor 1992; _cites ref. 89_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
-| Phase transition | 933.47 K | 933.47 | Al(l) = Al(fcc); _Al(l): O 0_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 3 |  |
 | Phase transition | 2327 K | 2327 |  | experimental | [1] Taylor 1992; _cites ref. 86_ | p. 4 | “The properties of pun Al were taken from the SGTR element unary data compiled by Dinsdale (89DIN. 91DfN) and for pure AlsO, from the SGTE substance database (86DIN', 87ANS/SUN). These data yield melting points of 933.47 and 2327 K respectively.” |
 | Phase transition | 2327 K | 2327 | Al2O3(l) = Al2O3(cor); _Al2O3(l): O 0.6_ | unspecified | [1] Taylor 1992 | Table 2, p. 7, row 4 |  |
 | Phase transition | 2327 K | 2327 | congruent transformation | experimental | [1] Taylor 1992; _cites ref. 85_ | p. 2 | “The phase diagtam is charactctised by a compound AhO, which melts congruently at 2327 K and crystalliscs in the corundum structum (sapphire).” |
 | Phase transition | 2329 K | 2329 |  | model | [2] Li 2023 | p. 6 | “The melting point of Al2O3 calculated in the present work was 2329 K.” |
+
+### Heat capacity / entropy / enthalpy (2)
+
+Table: Heat capacity / entropy / enthalpy, Al–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Standard entropy_ | 50.7 J/mol (basis unstated)/K |  | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2 |  |
+| Heat capacity; _printed: Heat capacity at 298.15 K_ | 15.38 J/mol-atom/K | 298.15 | Al2O3; _alloy: O 0.6_ | model | [2] Li 2023 | Table 5, p. 6, row 2 |  |
 
 ## Sources
 

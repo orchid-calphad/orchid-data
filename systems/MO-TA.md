@@ -1,10 +1,10 @@
 # Mo–Ta system
 
-> Mo–Ta system: 23 accepted literature values (phase transition 12, phase equilibrium 11) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ta system: 26 accepted literature values (phase transition 12, phase equilibrium 11, formation 1, other property 1) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-TA.html · Markdown: https://data.orchid-project.org/systems/MO-TA.md
 
-23 accepted literature values from 2 paper(s) (experimental 20, model 3); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+26 accepted literature values from 2 paper(s) (experimental 20, model 3, unspecified 3); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-TA.json) · [CSV](https://data.orchid-project.org/systems/MO-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-TA/MoTa-04Xio.json) · [phases (5)](https://data.orchid-project.org/phases/pages/MO-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-TA.html) · [Markdown](https://data.orchid-project.org/systems/MO-TA.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 20 |
 | model | 3 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,9 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 12 |
 | phase equilibrium | 11 |
+| formation | 1 |
+| crystal structure | 1 |
+| other property | 1 |
 
 ## Calculated phase diagrams
 
@@ -38,6 +42,16 @@ Table: Assessments with a calculated phase diagram
 | MoTa-99Cui.tdb | Y.W. Cui, X.G. Lu, Z.P. Jin, Metall. Mater. Trans. A, 30, 2735(1999). [doi:10.1007/s11661-999-0110-0](https://doi.org/10.1007/s11661-999-0110-0) | `1ea55690b63df718cb983c3436b519a63ebbe2ed1352444dce0c9633ccd20c66` | [viewer](https://orchid-project.org/phase-diagrams/#MO-TA/MoTa-99Cui.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/MoTa-99Cui.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/MoTa-99Cui.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/MO/MO-TA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/MO/MO-TA.json) · [CALPHAD hull MoTa-04Xio](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-TA--MoTa-04Xio.json) · [CALPHAD hull MoTa-05Tur](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-TA--MoTa-05Tur.json) · [CALPHAD hull MoTa-20Raj](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-TA--MoTa-20Raj.json) · [CALPHAD hull MoTa-91Kau-LB](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-TA--MoTa-91Kau-LB.json) · [CALPHAD hull MoTa-99Cui](https://data.orchid-project.org/hulls/calphad-sgte/MO/MO-TA--MoTa-99Cui.json)
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mo–Ta system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ordered B2 TaMo |  | -26.5 kJ/mol (basis unstated) | 0 | unspecified |  |  | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
 
 ## Other properties
 
@@ -77,6 +91,22 @@ Table: Phase equilibrium, Mo–Ta system
 | Phase composition |  | 3272 | other: No. 11, Mo-100 at.% Ta; _liquid: Mo 0, Ta 1_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 20 |  |
 | Phase composition |  | 3298 | other: No. 9, Mo-80 at.% Ta; _liquid: Mo 0.2, Ta 0.8_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 16 |  |
 | Phase composition |  | 3337 | other: No. 10, Mo-90 at.% Ta; _liquid: Mo 0.1, Ta 0.9_ | experimental | [2] Rajkumar 2020 | Table 2, p. 5, row 18 |  |
+
+### Crystal structure (1)
+
+Table: Crystal structure, Mo–Ta system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice unspecified axis; _printed: Lattice constant_ | 3.2139 Å |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+
+### Other property (1)
+
+Table: Other property, Mo–Ta system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| bulk modulus; _printed: Bulk modulus_ | 226.7 GPa |  | Ordered B2 TaMo; _alloy: Ta 0.5_ | unspecified | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
 
 ## Sources
 

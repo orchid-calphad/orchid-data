@@ -1,10 +1,10 @@
 # Co–Mo system
 
-> Co–Mo system: 37 accepted literature values (formation 26, phase transition 6, crystal structure 4, other property 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Mo system: 36 accepted literature values (formation 26, phase transition 5, crystal structure 4, other property 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-MO.html · Markdown: https://data.orchid-project.org/systems/CO-MO.md
 
-37 accepted literature values from 2 paper(s) (experimental 6, model 31); 4 calculated phase diagram(s).
+36 accepted literature values from 2 paper(s) (experimental 5, model 31); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-MO.json) · [CSV](https://data.orchid-project.org/systems/CO-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-MO/CoMo-03Dav-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CO-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-MO.html) · [Markdown](https://data.orchid-project.org/systems/CO-MO.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 5 |
 | model | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 6 |
+| phase transition | 5 |
 | formation | 26 |
 | crystal structure | 4 |
 | other property | 1 |
@@ -113,7 +113,7 @@ Table: Enthalpies of formation, Co–Mo system (14)
 
 ## Other properties
 
-### Phase transition (6)
+### Phase transition (5)
 
 Table: Phase transition, Co–Mo system
 
@@ -121,7 +121,6 @@ Table: Phase transition, Co–Mo system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 805 K | 805 | other | model | [1] Davydov 1999 | p. 9 | “As shown in Fig. 1, cph (Co) solid solutions are represented by two homogeneous regions in the calculated phase diagram: the ferromagnetic α phase field with the maximum decomposition temperature of 805 K at 1.3 at.% Mo and the paramagnetic α′ phase field, stable at high temperatures.” |
 | Phase transition | 1143 K | 1143 | other | model | [1] Davydov 1999 | p. 9 | “The width of this miscibility gap has a maximum of about 3 at.% Mo at the monotectoid temperature of 1143 K and gradually decreases toward the tricritical point at 1246 K.” |
-| Phase transition | 1150 K | 1150 | magnetic | experimental | [1] Davydov 1999; _cites Takayama 1981_ [doi](https://doi.org/10.2320/matertrans1960.22.315) | p. 2 | “Using x-ray diffraction (XRD) and microprobe analysis, \[81Tak\] detected an abrupt change in the fcc (Co) solvus line at about 1150 K and showed that this anomaly is caused by the magnetic transformation in this phase.” |
 | Phase transition | 1246 K | 1246 | other | model | [1] Davydov 1999 | p. 9 | “The width of this miscibility gap has a maximum of about 3 at.% Mo at the monotectoid temperature of 1143 K and gradually decreases toward the tricritical point at 1246 K.” |
 | Phase transition | 1514 K | 1514 | other | experimental | [1] Davydov 1999; _cites Kubaschewski 1983_ | p. 3 | “The latter study revealed several nonequilibrium thermal transformations in the intermetallics, not verified in other works, such as a transition in the σ phase at 1514 K, where according to Fig. 1 no phase change should occur.” |
 | Phase transition | 3022 K | 3022 | other | model | [2] Davydov 2003 | p. 1 | “ment since the minimum miscibility temperature of 3022 K was above the melting points of all the solid phases in the system and thus did not appear on the diagram calculated in the 300-3000 K temperature range.” |

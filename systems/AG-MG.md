@@ -1,10 +1,10 @@
 # Ag–Mg system
 
-> Ag–Mg system: 111 accepted literature values (mixing / partial 68, heat capacity / entropy / enthalpy 27, crystal structure 10, invariant reaction 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Mg system: 110 accepted literature values (mixing / partial 68, heat capacity / entropy / enthalpy 27, crystal structure 9, invariant reaction 6) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-MG.html · Markdown: https://data.orchid-project.org/systems/AG-MG.md
 
-111 accepted literature values from 2 paper(s) (experimental 97, model 4, DFT 10); 4 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+110 accepted literature values from 2 paper(s) (experimental 97, model 4, DFT 9); 4 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-MG.json) · [CSV](https://data.orchid-project.org/systems/AG-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-MG/AgMg-15Dai.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AG-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-MG.html) · [Markdown](https://data.orchid-project.org/systems/AG-MG.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 97 |
 | model | 4 |
-| DFT | 10 |
+| DFT | 9 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 6 |
 | mixing / partial | 68 |
 | heat capacity / entropy / enthalpy | 27 |
-| crystal structure | 10 |
+| crystal structure | 9 |
 
 ## Calculated phase diagrams
 
@@ -213,7 +213,7 @@ Table: Heat capacity / entropy / enthalpy, Ag–Mg system
 | Heat content; _printed: H_DISS-Mg_ | -72 J | 1272 | liquid; _alloy: Ag 0.9527, Mg 0.0473_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 24 |  |
 | Heat content; _printed: H_DISS-Mg_ | -72 J | 1272 | liquid; _alloy: Ag 0.8075, Mg 0.1925_ | experimental | [2] Dębski 2022 | Table 2, p. 5, row 27 |  |
 
-### Crystal structure (10)
+### Crystal structure (9)
 
 Table: Crystal structure, Ag–Mg system
 
@@ -221,7 +221,6 @@ Table: Crystal structure, Ag–Mg system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.154 Å | 0 | Ag3Mg; _alloy: Mg 0.25_ | DFT | [2] Dębski 2022 | Table 3, p. 6, row 2 |  |
 | Lattice a | 3.331 Å | 0 | AgMg; _alloy: Mg 0.5_ | DFT | [2] Dębski 2022 | Table 3, p. 6, row 3 |  |
-| Lattice a | 4.154 Å | 0 | FCC_A1(Mg); _alloy: Mg 1_ | DFT | [2] Dębski 2022 | Table 3, p. 6, row 1 |  |
 | Lattice a | 3.209 Å | 0 | HCP_A3(Zn) | DFT | [2] Dębski 2022 | Table 3, p. 6, row 7 |  |
 | Lattice a | 12.49 Å | 0 | γ’ | DFT | [2] Dębski 2022 | Table 3, p. 6, row 6 |  |
 | Lattice a | 12.389 Å | 0 | ε | DFT | [2] Dębski 2022 | Table 3, p. 6, row 5 |  |

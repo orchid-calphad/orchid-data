@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ni8Ta.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html)
+Systems: [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ni8Ta reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16.37 kJ/mol-atom | Ni8Ta |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
+| -16.37 kJ/mol-atom | Ni8Ta |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ni8Ta
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -16.37 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -16.37 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

@@ -10,7 +10,7 @@
     "TB"
   ],
   "flags": [
-    "degenerate_vertices",
+    "degenerate_endpoints",
     "mp_agreement_not_comparable",
     "no_intermediate_compounds"
   ],
@@ -21,7 +21,7 @@
           "intercept": 0.0,
           "kind": "two_phase",
           "left": {
-            "phase": "oqmd-1216079",
+            "phase": "oqmd-ref-Rb",
             "x": 0.0
           },
           "mu_a_rel": 0.0,
@@ -42,29 +42,24 @@
           "degenerate": [
             {
               "energy": 0.0,
-              "phase": "oqmd-ref-Rb"
+              "phase": "oqmd-1216079"
             }
           ],
           "energy": 0.0,
-          "energy_per_atom": -0.9630733,
+          "energy_per_atom": -0.9630743,
           "entries_at_x": 26,
-          "formula": "Rb1",
-          "nsites": 3,
-          "phase": "oqmd-1216079",
+          "formula": "Rb",
+          "nsites": null,
+          "phase": "oqmd-ref-Rb",
           "phase_kind": "structure",
-          "spacegroup_number": 166,
-          "spacegroup_symbol": "R-3m",
-          "theoretical": true,
+          "spacegroup_number": null,
+          "spacegroup_symbol": "",
+          "theoretical": false,
           "x": 0.0
         },
         {
           "collinear": false,
-          "degenerate": [
-            {
-              "energy": 0.0,
-              "phase": "oqmd-ref-Tb"
-            }
-          ],
+          "degenerate": [],
           "energy": 0.0,
           "energy_per_atom": -4.62935085666667,
           "entries_at_x": 20,
@@ -87,7 +82,8 @@
     "only_mp_stable": [
       "oqmd-1215274",
       "oqmd-1215363",
-      "oqmd-20430"
+      "oqmd-20430",
+      "oqmd-ref-Tb"
     ],
     "only_ours_stable": [],
     "stable_sets_match": false
@@ -96,18 +92,18 @@
     "above_hull_window_eV": 0.05,
     "builder_version": 1,
     "collinear_tol": 1e-12,
-    "correction_model": "upstream_only",
+    "correction_model": "OQMD fit-partial ('standard' fit, applied upstream by OQMD; none added)",
     "degenerate_tol": 1e-06,
     "entry_pool": "all_nondeprecated",
     "is_stable_source": "derived",
-    "mp_release": "qmdb_v1_8_022026",
     "observed_at": "2026-09-05T17:02:03Z",
     "snapshot_scope_elements": [],
     "snapshot_scope_kind": "full",
     "snapshot_sha256": "2a9393262c52ec35600424236c352a4cdb3291c8b25c1c6588f5e62abe8e0d8d",
+    "source_release": "qmdb_v1_8_022026",
     "stability_tol": 0.0001,
     "thermo_type": "standard",
-    "upstream_energy_corrections": "OQMD 'standard' fit: elemental reference energies fitted to experimental formation enthalpies (Kirklin et al. 2015), applied by OQMD"
+    "upstream_energy_corrections": "OQMD 'standard' fit (fit-partial of Kirklin et al. 2015): elemental reference energies of a subset of elements fitted to experimental formation enthalpies, applied by OQMD"
   },
   "reference": {
     "kind": "dft_fitted_elemental_reference_0K",

@@ -59,7 +59,7 @@
    "phase": "LIQUID"
   }
  },
- "weight": 0.001,
+ "weight": 0.000714,
  "bibtex": "kubista2000_0c78e0",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -191,220 +191,220 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
+     "sigma_reading": 50.0,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.05,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.05,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.05,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": 0.5,
+     "sigma_method": 1400.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 1400.0,
+     "method_class": "unknown",
+     "method_basis": "cleaned_below_threshold",
+     "method_n_pairs": 15,
+     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
+    },
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "not printed",
+    "budget": {
+     "sigma_printed": null,
      "sigma_reading": 500.0,
-     "sigma_method": 1000.0,
+     "sigma_method": 1400.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 1000.0,
+     "sigma_effective": 1400.0,
      "method_class": "unknown",
-     "method_basis": "prior",
+     "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 15,
      "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
     },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 0.5,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "not printed",
-    "budget": {
-     "sigma_printed": null,
-     "sigma_reading": 500.0,
-     "sigma_method": 1000.0,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": 1000.0,
-     "method_class": "unknown",
-     "method_basis": "prior",
-     "method_n_pairs": 15,
-     "method_entry": "value_types/G_MIX_PARTIAL/classes/unknown"
-    },
-    "sigma_effective_used": 1000.0,
-    "weight_per_value_equivalent": 0.001,
-    "weight_used": 0.001
+    "sigma_effective_used": 1400.0,
+    "weight_per_value_equivalent": 0.000714,
+    "weight_used": 0.000714
    }
   ]
  },

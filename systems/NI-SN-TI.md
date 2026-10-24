@@ -1,10 +1,10 @@
 # Ni–Sn–Ti system
 
-> Ni–Sn–Ti system: 1 accepted literature values (phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sn–Ti system: 8 accepted literature values (formation 7, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SN-TI.html · Markdown: https://data.orchid-project.org/systems/NI-SN-TI.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (experimental 1, DFT 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SN-TI.json) · [CSV](https://data.orchid-project.org/systems/NI-SN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SN-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SN-TI.html) · [Markdown](https://data.orchid-project.org/systems/NI-SN-TI.md)
 
@@ -13,12 +13,30 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 1 |
+| formation | 7 |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ni–Sn–Ti system (7)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| TiNi2Sn |  | 77 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
+| TiNi2Sn |  | 89 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
+| TiNi2Sn |  | 240.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
+| TiNiSn |  | 183.7 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
+| TiNiSn |  | 286.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
+| TiNiSn |  | 307.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
+| TiNiSn |  | 375.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 
 ## Other properties
 

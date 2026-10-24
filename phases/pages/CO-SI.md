@@ -13,7 +13,7 @@ Table: Phases of the Co–Si system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-co-si-a4-diamond); _phase:co-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Si) 1–1 | 5 | 2 |
-| [BCC_A2](#phase-co-si-bcc-a2); _phase:co-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 9 | 2 |
+| [BCC_A2](#phase-co-si-bcc-a2); _phase:co-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [CO2SI_BETA](#phase-co-si-co2si-beta); _phase:co-si:co2si-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1512.3–1594.25 K, x(Si) 0.33337–0.34652 | 13 | 1 |
 | [CO2SI_C37](#phase-co-si-co2si-c37); _phase:co-si:co2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1603.68 K, x(Si) 0.32229–0.33776 | 26 | 2 |
 | [CO3SI_D019](#phase-co-si-co3si-d019); _phase:co-si:co3si-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1467.38–1500 K, x(Si) 0.25–0.25 | 17 | 2 |
@@ -67,11 +67,10 @@ _cited as the source of values for this phase_
 - Id: `phase:co-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-si:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:co-si:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2006.06.001:(εCo)  
+Names (3): _corpus: _corpus:phase:co-si:bcc-a2  
 _tdb: _tdb:CoSi-06Zha.tdb:BCC_A2, tdb:CoSi-92Cho-LB.tdb:BCC_A2  
 
 
@@ -93,9 +92,9 @@ _tdb: _tdb:CoSi-06Zha.tdb:BCC_A2, tdb:CoSi-92Cho-LB.tdb:BCC_A2
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.calphad.2006.06.001](https://doi.org/10.1016/j.calphad.2006.06.001) Lijun Zhang, Yong Du, Honghui Xu, Zhu Pan, Experimental investigation and thermodynamic description of the Co–Si system, Calphad 30, 470-481 (2006).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(92)90003-G](https://doi.org/10.1016/0364-5916%2892%2990003-G) S.-D. Choi, Calphad, 16, 151-59(1992).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2006.06.001](https://doi.org/10.1016/j.calphad.2006.06.001) Lijun Zhang, Yong Du, Honghui Xu, Zhu Pan, Experimental investigation and thermodynamic description of the Co–Si system, Calphad 30, 470-481 (2006).  
 _assessment that models this phase_
 
 ## CO2SI_BETA (Co–Si)

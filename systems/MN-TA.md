@@ -1,10 +1,10 @@
 # Mn–Ta system
 
-> Mn–Ta system: 4 accepted literature values (crystal structure 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Ta system: 11 accepted literature values (crystal structure 11) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-TA.html · Markdown: https://data.orchid-project.org/systems/MN-TA.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+11 accepted literature values from 1 paper(s) (experimental 11); 2 calculated phase diagram(s). 9 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TA.json) · [CSV](https://data.orchid-project.org/systems/MN-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TA/MnTa-14Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MN-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-TA.html) · [Markdown](https://data.orchid-project.org/systems/MN-TA.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 11 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 4 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -56,14 +56,21 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Crystal structure (4)
+### Crystal structure (11)
 
 Table: Crystal structure, Mn–Ta system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.91376 Å ± 4.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
+| Lattice a | 11.4546 Å ± 1.000e-4 | 298.15 | Ta2.78Mn3.22O0.33; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 4 |  |
+| Lattice a | 11.4088 Å ± 3.000e-4 | 298.15 | Ta2.84Mn3.16O0.23; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 6 |  |
+| Lattice a | 11.2859 Å ± 2.000e-4 | 298.15 | Ta3.01Mn2.99O0.13; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 7 |  |
+| Lattice a | 4.868 Å ± 1.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
 | Lattice a | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 | Lattice b | 4.87077 Å ± 7.000e-5 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
+| Lattice c | 8.03961 Å ± 8.000e-5 | 298.15 | Ta0.9Mn2.1; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 3 |  |
+| Lattice c | 7.9713 Å ± 2.000e-4 | 298.15 | TaMn2; _alloy: Mn 0.57, Ta 0.43_ | experimental | [1] Yan 2021 | Table 3, p. 9, row 5 |  |
 | Lattice c | 7.97175 Å ± 1.100e-4 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 | lattice a b | 0.487077 nm ± 7.000e-6 | 300 | Ta(TaxMn1−x)2; _alloy: Ta 0.666667_ | experimental | [1] Yan 2021 | Table 1, p. 5, row 1 |  |
 

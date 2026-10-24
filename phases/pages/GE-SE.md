@@ -16,7 +16,7 @@ Table: Phases of the Ge–Se system (11)
 | [HEXAGONAL_A8](#phase-ge-se-a8-hexagonal); _phase:ge-se:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–494 K, x(Se) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-ge-se-bcc-a2); _phase:ge-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ge-se-fcc-a1); _phase:ge-se:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GE3SE7](#phase-ge-se-ge3se7); _phase:ge-se:ge3se7_ | Ge4Se9 · oP52 · Pca2_1 (29) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–653.06 K, x(Se) 0.7–0.7 | 0 | 1 |
+| [GE3SE7](#phase-ge-se-ge3se7); _phase:ge-se:ge3se7_ | Ge4Se9 · oP52 · Pca2_1 (29) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–653.06 K, x(Se) 0.7–0.7 | 2 | 1 |
 | [GESE_B1](#phase-ge-se-gese-b1); _phase:ge-se:gese-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 930.58–956.23 K, x(Se) 0.5–0.5 | 0 | 1 |
 | [GESE_B16](#phase-ge-se-gese-b16); _phase:ge-se:gese-b16_ | GeS · B16 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–930.58 K, x(Se) 0.5–0.5 | 0 | 1 |
 | [GESE2_ALPHA](#phase-ge-se-gese2-alpha); _phase:ge-se:gese2-alpha_ | GeS2-beta · mP48 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–420 K, x(Se) 0.66667–0.66667 | 0 | 1 |
@@ -140,10 +140,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.3000, Se 0.7000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–653.06 K, x(Se) 0.7–0.7
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-se:ge3se7)
 
-Names (2): _corpus: _corpus:phase:ge-se:ge3se7  
+Names (3): _corpus: _corpus:phase:ge-se:ge3se7  
+_paper: _paper:10.1007/s11664-022-09474-1:Ge3Se7  
 _tdb: _tdb:GeSe-22Che.tdb:GE3SE7  
 
 
@@ -159,7 +160,7 @@ _tdb: _tdb:GeSe-22Che.tdb:GE3SE7
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1) Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GESE_B1 (Ge–Se)
 

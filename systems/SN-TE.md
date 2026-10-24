@@ -64,10 +64,10 @@ Table: Enthalpies of formation, Sn–Te system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -32.1 kJ/mol-atom | 298.15 | experimental | -47.968 (mp-aaaaacul) | -32.116 (oqmd-2170064) | [1] Liu 2010; _cites Vecher 1974_ | Table II, p. 7, row 4 |  |
-| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -30.35 kJ/mol-atom | 273 | experimental | -47.968 (mp-aaaaacul) | -32.116 (oqmd-2170064) | [1] Liu 2010; _cites Robinson 1966_ | Table II, p. 7, row 2 |  |
-| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -30.05 kJ/mol-atom | 298.15 | model | -47.968 (mp-aaaaacul) | -32.116 (oqmd-2170064) | [1] Liu 2010 | Table II, p. 7, row 1 |  |
-| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -29.7 kJ/mol-atom | 298.15 | experimental | -47.968 (mp-aaaaacul) | -32.116 (oqmd-2170064) | [1] Liu 2010; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table II, p. 7, row 3 |  |
+| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -32.1 kJ/mol-atom | 298.15 | experimental | -47.968 (mp-aaaaacul) | -32.026 (oqmd-646930) | [1] Liu 2010; _cites Vecher 1974_ | Table II, p. 7, row 4 |  |
+| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -30.35 kJ/mol-atom | 273 | experimental | -47.968 (mp-aaaaacul) | -32.026 (oqmd-646930) | [1] Liu 2010; _cites Robinson 1966_ | Table II, p. 7, row 2 |  |
+| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -30.05 kJ/mol-atom | 298.15 | model | -47.968 (mp-aaaaacul) | -32.026 (oqmd-646930) | [1] Liu 2010 | Table II, p. 7, row 1 |  |
+| SnTe | [SnTe](https://data.orchid-project.org/compounds/SnTe.html) | -29.7 kJ/mol-atom | 298.15 | experimental | -47.968 (mp-aaaaacul) | -32.026 (oqmd-646930) | [1] Liu 2010; _cites Hirayama 1964_ [doi](https://doi.org/10.1021/je60020a019) | Table II, p. 7, row 3 |  |
 
 ## Other properties
 

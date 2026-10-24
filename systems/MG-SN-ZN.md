@@ -1,10 +1,10 @@
 # Mg–Sn–Zn system
 
-> Mg–Sn–Zn system: 16 accepted literature values (invariant reaction 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sn–Zn system: 15 accepted literature values (invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SN-ZN.html · Markdown: https://data.orchid-project.org/systems/MG-SN-ZN.md
 
-16 accepted literature values from 1 paper(s) (experimental 2, model 9, unspecified 5); 0 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 2, model 8, unspecified 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SN-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-SN-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SN-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SN-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MG-SN-ZN.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 9 |
+| model | 8 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 15 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Sn–Zn system (16)
+Table: Invariant reactions reported in the literature for the Mg–Sn–Zn system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -41,7 +41,6 @@ Table: Invariant reactions reported in the literature for the Mg–Sn–Zn syste
 | 624 | eutectic: L -> Mg2Sn + Mg2Zn11 + hcp(Zn) | L: Mg 0.0771, Zn 0.8798 | model | [1] Meng 2010 | Table 3, p. 4, row 14 |  |
 | 618 | quasi-peritectic: L + Mg2Zn3 -> Mg2Sn + MgZn | L: Mg 0.7049, Zn 0.2902 | model | [1] Meng 2010 | Table 3, p. 4, row 8 |  |
 | 614 | quasi-peritectic: L + Mg2Sn -> hcp(Mg) + MgZn | L: Mg 0.7081, Zn 0.2873 | model | [1] Meng 2010 | Table 3, p. 4, row 9 |  |
-| 614 | eutectic: L -> hcp(Mg) + MgZn + Mg7Zn3 | L: Mg 0.7097, Zn 0.2896 | model | [1] Meng 2010 | Table 3, p. 4, row 12 |  |
 | 459 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0653, Zn 0.1005 | model | [1] Meng 2010 | Table 3, p. 4, row 16 |  |
 | 456 | eutectic: L -> Mg2Sn + bct(Sn) + hcp(Zn) | L: Mg 0.0739, Zn 0.1147 | unspecified | [1] Meng 2010; _cites Godecke 1994_ | Table 3, p. 4, row 15 |  |
 

@@ -14,7 +14,7 @@ Table: Enthalpy of formation of GaN reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -52.1 kJ/mol-atom ± 4 | GaN | 298.15 | experimental | Combustion calorimetry | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1 |  |
+| -52.1 kJ/mol-atom ± 2 | GaN | 298.15 | experimental | Combustion calorimetry | [Ga–N](https://data.orchid-project.org/systems/GA-N.html) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of GaN
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -52.1 | kJ/mol-atom | 4 | 0.025 | 1 (combustion_calorimetry, prior) |  |  |  | 4 |
+| -52.1 | kJ/mol-atom | 2 | 0.025 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
 
 ## DFT formation energies
 
@@ -35,7 +35,7 @@ Table: DFT formation energy of GaN
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaabey | -63.373 | -0.656817 | P6_3mc | 0 | 0 | no |
-| OQMD | oqmd-6450 | -55.891 | -0.57927 | P63mc | 0.042 | 4.000e-4 | no |
+| OQMD | oqmd-6450 | -55.891 | -0.57927 | P63mc | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

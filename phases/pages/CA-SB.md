@@ -14,10 +14,10 @@ Table: Phases of the Ca–Sb system (9)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-ca-sb-a7-rhombohedral); _phase:ca-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–900 K, x(Sb) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-ca-sb-bcc-a2); _phase:ca-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 716.03–1115 K, x(Sb) 0–0 | 0 | 1 |
-| [CA11SB10](#phase-ca-sb-ca11sb10); _phase:ca-sb:ca11sb10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619 | 1 | 1 |
-| [CA2SB](#phase-ca-sb-ca2sb); _phase:ca-sb:ca2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1108.52 K, x(Sb) 0.33333–0.33333 | 0 | 1 |
+| [CA11SB10](#phase-ca-sb-ca11sb10); _phase:ca-sb:ca11sb10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619 | 9 | 1 |
+| [CA2SB](#phase-ca-sb-ca2sb); _phase:ca-sb:ca2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1108.52 K, x(Sb) 0.33333–0.33333 | 6 | 1 |
 | [CA5SB3_D88](#phase-ca-sb-ca5sb3-d88); _phase:ca-sb:ca5sb3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1152.9 K, x(Sb) 0.375–0.375 | 0 | 1 |
-| [CASB2](#phase-ca-sb-casb2); _phase:ca-sb:casb2_ | CaSb2 · mP6 · P2_1/m (11) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–909.28 K, x(Sb) 0.66667–0.66667 | 0 | 1 |
+| [CASB2](#phase-ca-sb-casb2); _phase:ca-sb:casb2_ | CaSb2 · mP6 · P2_1/m (11) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–909.28 K, x(Sb) 0.66667–0.66667 | 10 | 1 |
 | [FCC_A1](#phase-ca-sb-fcc-a1); _phase:ca-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–716.03 K, x(Sb) 0–0 | 0 | 1 |
 | [HCP_A3](#phase-ca-sb-hcp-a3); _phase:ca-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ca-sb-liquid); _phase:ca-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 854.86–2500 K, x(Sb) 0–1 | 0 | 1 |
@@ -81,7 +81,7 @@ _assessment that models this phase_
 - Structure: Ge10Ho11 · tI84 · I4/mmm (139); type `st:ge10ho11-ti84`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ca 0.5238, Sb 0.4762
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1400.21 K, x(Sb) 0.47619–0.47619
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sb:ca11sb10)
 
 Names (5): _corpus: _corpus:phase:ca-sb:ca11sb10  
@@ -100,11 +100,13 @@ _tdb: _tdb:CaSb-15Qin.tdb:CA11SB10
 61: CONST CA11SB10 : CA : SB : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1515/htmp.1999.18.3.151](https://doi.org/10.1515/htmp.1999.18.3.151) A. Bouhajib,, M. Notin,, A. Nadiri,, A. Yacoubi,, Calorimetric Study Coupled With A Numerical Optimization Technique For The Ca-Sb System, High Temperature Materials and Processes 18, 151-158 (1999).  
+_cited as the source of values for this phase_
+- [doi:10.1515/znb-1976-0105](https://doi.org/10.1515/znb-1976-0105) Klaus Deller, Brigitte Eisenmann, Zur Kenntnis von Ca\<sub>11\</sub>Sb\<sub>10\</sub> und Ca\<sub>11\</sub>Bi\<sub>10\</sub>, Zeitschrift für Naturforschung B 31, 29-34 (1976).  
 _cited as the source of values for this phase_
 
 ## CA2SB (Ca–Sb)
@@ -115,10 +117,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.6667, Sb 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1108.52 K, x(Sb) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sb:ca2sb)
 
-Names (2): _corpus: _corpus:phase:ca-sb:ca2sb  
+Names (3): _corpus: _corpus:phase:ca-sb:ca2sb  
+_paper: _paper:10.1016/j.calphad.2014.10.008:Ca2Sb  
 _tdb: _tdb:CaSb-15Qin.tdb:CA2SB  
 
 
@@ -131,10 +134,12 @@ _tdb: _tdb:CaSb-15Qin.tdb:CA2SB
 51: CONST CA2SB : CA : SB : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1515/znb-1974-1-207](https://doi.org/10.1515/znb-1974-1-207) B. Eisenmann, Herbert Schäfer, Die Kristallstrukturen der Verbindungen Ca\<sub>2\</sub>Sb und Ca\<sub>2\</sub>Bi / The Crystal Structures of Ca\<sub>2\</sub>Sb and Ca\<sub>2\</sub>Bi, Zeitschrift für Naturforschung B 29, 13-15 (1974).  
+_cited as the source of values for this phase_
 
 ## CA5SB3_D88 (Ca–Sb)
 
@@ -169,12 +174,13 @@ _assessment that models this phase_
 - Structure: CaSb2 · mP6 · P2_1/m (11); type `st:casb2-mp6`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ca 0.3333, Sb 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–909.28 K, x(Sb) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sb:casb2)
 
-Names (4): _corpus: _corpus:phase:ca-sb:casb2  
+Names (5): _corpus: _corpus:phase:ca-sb:casb2  
 _mp: _mp:mp-aaaaalcf  
 _oqmd: _oqmd:oqmd-1772  
+_paper: _paper:10.1016/j.calphad.2014.10.008:CaSb2  
 _tdb: _tdb:CaSb-15Qin.tdb:CASB2  
 
 
@@ -187,10 +193,12 @@ _tdb: _tdb:CaSb-15Qin.tdb:CASB2
 66: CONST CASB2 : CA : SB : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.008](https://doi.org/10.1016/j.calphad.2014.10.008) Song Qin, Shuhong Liu, Cong Zhang, Jinghua Xin, Yao Wang, Yong Du, Thermodynamic modeling of the Ca–In and Ca–Sb systems supported with first-principles calculations, Calphad 48, 35-42 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1515/znb-1976-0105](https://doi.org/10.1515/znb-1976-0105) Klaus Deller, Brigitte Eisenmann, Zur Kenntnis von Ca\<sub>11\</sub>Sb\<sub>10\</sub> und Ca\<sub>11\</sub>Bi\<sub>10\</sub>, Zeitschrift für Naturforschung B 31, 29-34 (1976).  
+_cited as the source of values for this phase_
 
 ## FCC_A1 (Ca–Sb)
 

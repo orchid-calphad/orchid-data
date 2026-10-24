@@ -1,10 +1,10 @@
 # Ga–Te system
 
-> Ga–Te system: 41 accepted literature values (invariant reaction 38, mixing / partial 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Te system: 63 accepted literature values (invariant reaction 38, formation 13, crystal structure 9, mixing / partial 3) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-TE.html · Markdown: https://data.orchid-project.org/systems/GA-TE.md
 
-41 accepted literature values from 2 paper(s) (experimental 17, model 24); 4 calculated phase diagram(s).
+63 accepted literature values from 2 paper(s) (experimental 21, model 36, DFT 6); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-TE.json) · [CSV](https://data.orchid-project.org/systems/GA-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-TE/GaTe-20Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GA-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-TE.html) · [Markdown](https://data.orchid-project.org/systems/GA-TE.md)
 
@@ -12,15 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 24 |
+| experimental | 21 |
+| model | 36 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 38 |
+| formation | 13 |
 | mixing / partial | 3 |
+| crystal structure | 9 |
 
 ## Calculated phase diagrams
 
@@ -113,6 +116,28 @@ Table: Invariant reactions reported in the literature for the Ga–Te system (38
 | 303 | L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022; _cites Liu 2020_ [doi](https://doi.org/10.1016/j.actamat.2020.08.008) | Table 5, p. 12, row 2 |  |
 | 302.9 | L -> (Ga) + GaTe | L: Te 0; (Ga): Te 0; GaTe: Te 0.5 | model | [1] Yu 2022 | Table 5, p. 12, row 1 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–Te system (13)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ga2Te3 | [Ga2Te3](https://data.orchid-project.org/compounds/Ga2Te3.html) | -39.8 kJ/mol-atom | 298.15 | experimental | -55.499 (mp-aaaacfqw) | -30.03 (oqmd-2169177) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 10 |  |
+| Ga2Te3 | [Ga2Te3](https://data.orchid-project.org/compounds/Ga2Te3.html) | -38.6 kJ/mol-atom | 298.15 | experimental | -55.499 (mp-aaaacfqw) | -30.03 (oqmd-2169177) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 9 |  |
+| Ga2Te3 | [Ga2Te3](https://data.orchid-project.org/compounds/Ga2Te3.html) | -38.194 kJ/mol-atom | 298.15 | model | -55.499 (mp-aaaacfqw) | -30.03 (oqmd-2169177) | [1] Yu 2022 | Table 2, p. 5, row 8 |  |
+| Ga2Te3 |  | -35.511 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 6 |  |
+| Ga2Te3 |  | -29.99 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 7 |  |
+| Ga2Te5 |  | -22.85 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 11 |  |
+| Ga2Te5 |  | -22.76 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 12 |  |
+| Ga2Te5 | [Ga2Te5](https://data.orchid-project.org/compounds/Ga2Te5.html) | -22.495 kJ/mol-atom | 298.15 | model | -52.205 (mp-aaaaadnf) | -23.361 (oqmd-1822539) | [1] Yu 2022 | Table 2, p. 5, row 13 |  |
+| GaTe | [GaTe](https://data.orchid-project.org/compounds/GaTe.html) | -39.4 kJ/mol-atom | 298.15 | experimental | -55.488 (mp-aaaaaouz) | -35.037 (oqmd-19721) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 5 |  |
+| GaTe | [GaTe](https://data.orchid-project.org/compounds/GaTe.html) | -39.268 kJ/mol-atom | 298.15 | model | -55.488 (mp-aaaaaouz) | -35.037 (oqmd-19721) | [1] Yu 2022 | Table 2, p. 5, row 3 |  |
+| GaTe | [GaTe](https://data.orchid-project.org/compounds/GaTe.html) | -39 kJ/mol-atom | 298.15 | experimental | -55.488 (mp-aaaaaouz) | -35.037 (oqmd-19721) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 4 |  |
+| GaTe |  | -35 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 2 |  |
+| GaTe |  | -30.788 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 1 |  |
+
 ## Other properties
 
 ### Mixing / partial (3)
@@ -124,6 +149,22 @@ Table: Mixing / partial, Ga–Te system
 | Enthalpy of mixing; _printed: AIP'x_ | -37 kJ/mol (basis unstated) | 1130 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
 | Enthalpy of mixing; _printed: Ad"_ | -34 kJ/mol (basis unstated) | 1230 |  | model | [2] Chang-Seok 1992 | p. 5 | “Calculated results show minimum points AIP'x= -37 IcJ,X,,- 0.59 and Ad" - -34 kJ, X,.= 0.58 at 1130 and 1230 K, respectively.” |
 | Enthalpy of mixing; _printed: enthalpy of mixing_ | -50 kJ/mol (basis unstated) | 1233 |  | model | [1] Yu 2022 | p. 11 | “Fitting this set of data requires a more negative enthalpy for all of the compounds and the calculated enthalpy of mixing decreases to -50 kJ/mol at 1233K at the composition of Ga2Te3, which is much lower than the experimental value reported by Irle et al.\[21\]” |
+
+### Crystal structure (9)
+
+Table: Crystal structure, Ga–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.89 Å | 298.15 | Ga2Te3; _alloy: Ga 0.4, Te 0.6_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 6.683 Å | 298.15 | Ga2Te5; _alloy: Ga 0.285714, Te 0.714286_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 4 |  |
+| Lattice a | 9.078 Å | 298.15 | GaTe; _alloy: Ga 0.5, Te 0.5_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| Lattice b | 5.89 Å | 298.15 | Ga2Te3; _alloy: Ga 0.4, Te 0.6_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| Lattice b | 6.683 Å | 298.15 | Ga2Te5; _alloy: Ga 0.285714, Te 0.714286_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 4 |  |
+| Lattice b | 9.078 Å | 298.15 | GaTe; _alloy: Ga 0.5, Te 0.5_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 5.89 Å | 298.15 | Ga2Te3; _alloy: Ga 0.4, Te 0.6_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 6.683 Å | 298.15 | Ga2Te5; _alloy: Ga 0.285714, Te 0.714286_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 10.618 Å | 298.15 | GaTe; _alloy: Ga 0.5, Te 0.5_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 1 |  |
 
 ## Sources
 

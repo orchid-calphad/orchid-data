@@ -70,7 +70,7 @@ Table: Invariant reactions reported in the literature for the Mn–U system (12)
 | 998.15 | peritectic: βU + L -> MnU6 | βU: U 0.987; L: U 0.79; MnU6: U 0.857 | model | [1] Liu 2008 | Table 4, p. 5, row 4 |  |
 | 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.785; MnU6: U 0.857; Mn2U: U 0.333 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 6 |  |
 | 989.15 | eutectic: L -> MnU6 + Mn2U | L: U 0.774; MnU6: U 0.857; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 7 |  |
-| 971.15 | eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0.99; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
+| 971.15 | eutectoid: βMn -> αMn + Mn2U | βMn: U 0.003; αMn: U 0; Mn2U: U 0.333 | model | [1] Liu 2008 | Table 4, p. 5, row 14 |  |
 | 899.15 | eutectoid: βU -> αU + MnU6 | βU: U 0.988; αU: U 1; MnU6: U 0.857 | experimental | [1] Liu 2008; _cites Massalski 1990_ | Table 4, p. 5, row 5 |  |
 
 ## Other properties

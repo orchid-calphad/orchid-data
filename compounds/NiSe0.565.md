@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NiSe0.565
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.77 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -40.77 | kJ/mol (basis unstated) |  | 0.005 | 28 (unknown, calibrated) |  |  |  | 28 |
 
 ## Sources
 

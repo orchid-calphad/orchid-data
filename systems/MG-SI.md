@@ -1,10 +1,10 @@
 # Mg–Si system
 
-> Mg–Si system: 226 accepted literature values (invariant reaction 80, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Si system: 227 accepted literature values (invariant reaction 80, heat capacity / entropy / enthalpy 62, formation 49, mixing / partial 24) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SI.html · Markdown: https://data.orchid-project.org/systems/MG-SI.md
 
-226 accepted literature values from 7 paper(s) (experimental 174, model 42, DFT 7, unspecified 3); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+227 accepted literature values from 7 paper(s) (experimental 174, model 43, DFT 7, unspecified 3); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SI.json) · [CSV](https://data.orchid-project.org/systems/MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SI/MgSi-00Yan-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/MG-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/MG-SI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 174 |
-| model | 42 |
+| model | 43 |
 | DFT | 7 |
 | unspecified | 3 |
 
@@ -26,6 +26,7 @@ Table: Accepted values by property group
 | formation | 49 |
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 62 |
+| crystal structure | 1 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -181,37 +182,37 @@ Table: Enthalpies of formation, Mg–Si system (32)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -89.1 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 2, p. 4, row 8 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -80.01 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Lukashenko 1964_ | Table 2, p. 4, row 4 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -79.41 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Ludecke 1986_ | Table 2, p. 4, row 9 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -79.11 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Caulfield 1962_ | Table 2, p. 4, row 3 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -78.9 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Kubaschewski 1949_ | Table 2, p. 4, row 1 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -68.97 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Eldridge 1967_ | Table 2, p. 4, row 5 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -66.48 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Rao 1981_ | Table 2, p. 4, row 6 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -65.22 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 11 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -64.11 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000 | Table 2, p. 4, row 12 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -63.3 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 7 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -63.03 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Lukas 1994_ | Table 2, p. 4, row 10 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -61.9 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1966Cau_ | Table 3, p. 3, row 6 |  |
-| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -42.63 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Grjotheim 1962_ | Table 2, p. 4, row 2 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -29.7 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1971Bla_ | Table 3, p. 3, row 8 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -29.7 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [2] Schick 2012; _cites Blachnik 1971_ | Table 3, p. 7, row 3 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -29.7 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 2, p. 4, row 8 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -27.9 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1963Rya_ | Table 3, p. 3, row 3 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -27.1 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1967Ger_ | Table 3, p. 3, row 7 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.67 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Lukashenko 1964_ | Table 2, p. 4, row 4 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.47 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Ludecke 1986_ | Table 2, p. 4, row 9 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.4 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1964Luk_ | Table 3, p. 3, row 4 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.4 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [2] Schick 2012; _cites Caulfield 1962_ | Table 3, p. 7, row 2 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.37 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Caulfield 1962_ | Table 2, p. 4, row 3 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26.3 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Kubaschewski 1949_ | Table 2, p. 4, row 1 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -26 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [2] Schick 2012; _cites Kubaschewski 1949_ | Table 3, p. 7, row 1 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -25.9 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1949Kub_ | Table 3, p. 3, row 1 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -22.99 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Eldridge 1967_ | Table 2, p. 4, row 5 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -22.2 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1981Rao_ | Table 3, p. 3, row 9 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -22.16 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Rao 1981_ | Table 2, p. 4, row 6 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.74 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 11 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.37 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000 | Table 2, p. 4, row 12 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.1 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 2, p. 4, row 7 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.1 kJ/mol-atom | 298.15 | unspecified | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [2] Schick 2012 | Table 3, p. 7, row 10 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.1 kJ/mol-atom | 298.15 | unspecified | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [2] Schick 2012; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 3, p. 7, row 4 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.1 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1997Feu_ | Table 3, p. 3, row 10 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21.01 kJ/mol-atom | 298.15 | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Lukas 1994_ | Table 2, p. 4, row 10 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -21 kJ/mol-atom |  | model | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009 | Table 3, p. 3, row 13 |  |
 | Mg2Si |  | -18.2 kJ/mol-atom | 0 | DFT |  |  | [3] Yuan 2009 | Table 3, p. 3, row 12 |  |
 | Mg2Si |  | -17.7 kJ/mol-atom |  | DFT |  |  | [3] Yuan 2009; _cites ref. 2009Zha_ | Table 3, p. 3, row 11 |  |
 | Mg2Si |  | -17.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Schick 2012; _cites Zhang 2009_ [doi](https://doi.org/10.1016/j.intermet.2009.03.017) | Table 3, p. 7, row 5 |  |
 | Mg2Si |  | -16.7 kJ/mol-atom | 298.15 | DFT |  |  | [2] Schick 2012 | Table 3, p. 7, row 8 |  |
 | Mg2Si |  | -15.4 kJ/mol-atom | 298.15 | DFT |  |  | [2] Schick 2012 | Table 3, p. 7, row 9 |  |
+| Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -14.21 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [1] Yan 2000; _cites Grjotheim 1962_ | Table 2, p. 4, row 2 |  |
 | Mg2Si | [Mg2Si](https://data.orchid-project.org/compounds/Mg2Si.html) | -14.2 kJ/mol-atom | 298.15 | experimental | -12.42 (mp-aaaaacap) | -15.603 (oqmd-17649) | [3] Yuan 2009; _cites ref. 1962Grj_ | Table 3, p. 3, row 2 |  |
 
 ## Other properties
@@ -240,22 +241,22 @@ Table: Formation, Mg–Si system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy of formation; _printed: ΔSf_ | -1.7 J/mol-atom/K |  | Mg2Si; _alloy: Si 0.333333_ | model | [3] Yuan 2009 | Table 3, p. 3, row 13 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -61.74 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 3, p. 4, row 7 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -27.9 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Lukashenko 1964_ | Table 3, p. 4, row 2 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -27 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Grjotheim 1962_ | Table 3, p. 4, row 1 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -8.04 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 3, p. 4, row 3 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -20.58 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Chakraborti 1992_ [doi](https://doi.org/10.1016/0364-5916%2892%2990041-u) | Table 3, p. 4, row 7 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -9.3 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Lukashenko 1964_ | Table 3, p. 4, row 2 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -9 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Grjotheim 1962_ | Table 3, p. 4, row 1 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -2.68 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Geffken 1968_ | Table 3, p. 4, row 3 |  |
 | Entropy of formation; _printed: ΔSf_ | -7.3 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [3] Yuan 2009; _cites ref. 1964Luk_ | Table 3, p. 3, row 4 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -8.1 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Lukas 1994_ | Table 3, p. 4, row 9 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -16.11 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Barin 1973_ | Table 3, p. 4, row 4 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -2.7 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Lukas 1994_ | Table 3, p. 4, row 9 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -5.37 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Barin 1973_ | Table 3, p. 4, row 4 |  |
 | Entropy of formation; _printed: ΔSf_ | -2.7 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [3] Yuan 2009; _cites ref. 1967Ger_ | Table 3, p. 3, row 7 |  |
 | Entropy of formation; _printed: ΔSf_ | -4.7 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [3] Yuan 2009; _cites ref. 1981Rao_ | Table 3, p. 3, row 9 |  |
 | Entropy of formation; _printed: ΔSf_ | 3.1 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [3] Yuan 2009; _cites ref. 1962Grj_ | Table 3, p. 3, row 2 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -20.43 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Kubaschewski 1979_ | Table 3, p. 4, row 5 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -20 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 3, p. 4, row 8 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -6.81 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Kubaschewski 1979_ | Table 3, p. 4, row 5 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -6.66667 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Ludecke 1986_ | Table 3, p. 4, row 8 |  |
 | Entropy of formation; _printed: ΔSf_ | -0.5 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [3] Yuan 2009; _cites ref. 1965Man_ | Table 3, p. 3, row 5 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -8.04 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 3, p. 4, row 10 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -14.87 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000 | Table 3, p. 4, row 11 |  |
-| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -14.18 J/mol (basis unstated)/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Rao 1981_ | Table 3, p. 4, row 6 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -2.68 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000; _cites Feufel 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902655-2) | Table 3, p. 4, row 10 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -4.95667 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | model | [1] Yan 2000 | Table 3, p. 4, row 11 |  |
+| Entropy of formation; _printed: ΔS_f,Mg2Si^298_ | -4.72667 J/mol-atom/K | 298.15 | Mg2Si; _alloy: Si 0.333333_ | experimental | [1] Yan 2000; _cites Rao 1981_ | Table 3, p. 4, row 6 |  |
 
 ### Mixing / partial (24)
 
@@ -356,6 +357,14 @@ Table: Heat capacity / entropy / enthalpy, Mg–Si system
 | Heat capacity; _printed: Cp_ | 26.85 J/mol-atom/K | 793 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 17 |  |
 | Heat capacity; _printed: Cp_ | 25.25 J/mol-atom/K | 793 | Mg2Si; _alloy: Si 0.333333_ | experimental | [2] Schick 2012 | Table 2, p. 7, row 17 |  |
 | Heat capacity; _printed: Cp_ | 25.65 J/mol-atom/K ± 0.5 | 803 | Mg2Si; _alloy: Si 0.333333_ | experimental | [7] Feufel 1997 | Table 5, p. 4, row 23 |  |
+
+### Crystal structure (1)
+
+Table: Crystal structure, Mg–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.6347 not_printed ± 4.000e-4 | 298.15 | Mg2Si; _alloy: Mg 0.666667, Si 0.333333_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
 
 ### Other property (1)
 

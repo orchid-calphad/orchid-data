@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/DyB66.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Dy](https://data.orchid-project.org/systems/B-DY.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of DyB66 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.686 kJ/mol-atom | DyB66 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 26 |  |
+| -4.686 kJ/mol-atom | DyB66 | 298.15 | model | Optimization | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020 | Table 2, p. 25, row 26 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of DyB66
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.686 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.686 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

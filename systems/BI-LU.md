@@ -63,8 +63,8 @@ Table: Invariant reactions reported in the literature for the Bi–Lu system (13
 | 542.75 | eutectic: L -> (Bi) + BiLu | L: Lu 0.008; (Bi): Lu 0; BiLu: Lu 0.5 | model | [1] Wang 2011 | Table 2, p. 3, row 2 |  |
 | 542.15 | eutectic: L (∼0.3 at.% Lu) ↔ (Bi) + BiLu |  | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | p. 1 | “Abulkhaev and Ganiev \[6\] also found two eutectic reactions: L (∼80 at.% Lu) ↔ Bi3 Lu5 + (Lu) at 1165 ± 10 °C, and L (∼0.3 at.% Lu) ↔ (Bi) + BiLu at 269 ± 2 °C.” |
 | 542.15 | eutectic: L -> (Bi) + BiLu | L: Lu 0.003; (Bi): Lu 0; BiLu: Lu 0.5 | experimental | [1] Wang 2011; _cites Abulkhaev 1995_ | Table 2, p. 3, row 1 |  |
-| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
-| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 1; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3 |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | model | [1] Wang 2011 | Table 2, p. 3, row 4 |  |
+| 483.15 | peritectoid: (Bi) + BiLu -> Bi2Lu | (Bi): Lu 0; BiLu: Lu 0.5; Bi2Lu: Lu 0.333 | experimental | [1] Wang 2011; _cites Okamoto 1996_ [doi](https://doi.org/10.1007/bf02648498) | Table 2, p. 3, row 3 |  |
 
 ## Formation enthalpies
 

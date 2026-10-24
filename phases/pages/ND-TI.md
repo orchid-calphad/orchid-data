@@ -1,19 +1,18 @@
 # Nd–Ti phases
 
-> Nd–Ti system: 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Nd–Ti system: 5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/ND-TI.html · Markdown: https://data.orchid-project.org/phases/pages/ND-TI.md
 
-6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=ND-TI) · [full JSON](https://data.orchid-project.org/phases/systems/ND-TI.json) · [Nd–Ti system page](https://data.orchid-project.org/systems/ND-TI.html) · [Markdown](https://data.orchid-project.org/phases/pages/ND-TI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Nd–Ti system (6)
+Table: Phases of the Nd–Ti system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-nd-ti-bcc-a2); _phase:nd-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1126.92–2499.7 K, x(Ti) 0–1 | 6 | 1 |
-| [DHCP](#phase-nd-ti-dhcp); _phase:nd-ti:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-nd-ti-dhcp-a3); _phase:nd-ti:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1160 K, x(Ti) 0–0.54 | 5 | 1 |
 | [FCC_A1](#phase-nd-ti-fcc-a1); _phase:nd-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1160–1160 K, x(Ti) 0.1–0.41 | 0 | 1 |
 | [HCP_A3](#phase-nd-ti-hcp-a3); _phase:nd-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1162.96 K, x(Ti) 0.11–1 | 5 | 1 |
@@ -48,24 +47,13 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (Nd–Ti)
 
-- Id: `phase:nd-ti:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-ti:dhcp)
-
-Names (1): _corpus: _corpus:phase:nd-ti:dhcp  
-
-
-## DHCP (Nd–Ti)
-
 - Id: `phase:nd-ti:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1160 K, x(Ti) 0–0.54
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-ti:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:nd-ti:dhcp-a3  
+Names (5): _corpus: _corpus:phase:nd-ti:dhcp-a3, corpus:phase:nd-ti:dhcp  
 _paper: _paper:10.1016/j.calphad.2014.08.002:Nd, paper:10.1016/j.calphad.2014.08.002:dhcp-Nd  
 _tdb: _tdb:NdTi-14Mat.tdb:DHCP  
 

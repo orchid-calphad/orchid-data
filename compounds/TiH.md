@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/TiH.html · Markdown: https://da
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html)
+Systems: [H–Ti](https://data.orchid-project.org/systems/H-TI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of TiH reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.66 kJ/mol (basis unstated) | γ-TiH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
+| -35.66 kJ/mol (basis unstated) | γ-TiH |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Ukita 2007 | Table 2, p. 5, row 1 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of TiH
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.66 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.66 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources
 

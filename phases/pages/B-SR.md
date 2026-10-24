@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/B-SR.html · Markdown: https:
 
 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=B-SR) · [full JSON](https://data.orchid-project.org/phases/systems/B-SR.json) · [Markdown](https://data.orchid-project.org/phases/pages/B-SR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=B-SR) · [full JSON](https://data.orchid-project.org/phases/systems/B-SR.json) · [B–Sr system page](https://data.orchid-project.org/systems/B-SR.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-SR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the B–Sr system (7)
 
@@ -15,7 +15,7 @@ Table: Phases of the B–Sr system (7)
 | [BETA_RHOMBO_B](#phase-b-sr-b-beta-rhombo); _phase:b-sr:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2349 K, x(B) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-b-sr-bcc-a2); _phase:b-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 820–1485 K, x(B) 0–0 | 0 | 1 |
 | [FCC_A1](#phase-b-sr-fcc-a1); _phase:b-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–820 K, x(B) 0–0 | 0 | 1 |
-| [GAS](#phase-b-sr-gas); _phase:b-sr:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 1644.63–4000 K, x(B) 0–0.52362 | 0 | 1 |
+| [GAS](#phase-b-sr-gas); _phase:b-sr:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 1644.63–4000 K, x(B) 0–0.52362 | 1 | 1 |
 | [HCP_A3](#phase-b-sr-hcp-a3); _phase:b-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-b-sr-liquid); _phase:b-sr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1049.83–4000 K, x(B) 0–1 | 0 | 1 |
 | [SRB6_D21](#phase-b-sr-srb6-d21); _phase:b-sr:srb6-d21_ | CaB6 · D2_1 · cP7 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3154.9 K, x(B) 0.85714–0.85714 | 0 | 1 |
@@ -26,6 +26,7 @@ Table: Phases of the B–Sr system (7)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — SrB-07Sha.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2349 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-sr:b-beta-rhombo)
@@ -107,10 +108,11 @@ _assessment that models this phase_
 - Id: `phase:b-sr:gas`; status `assigned`
 - Structure: gas; type `st:gas`; gas; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1644.63–4000 K, x(B) 0–0.52362
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-sr:gas)
 
-Names (2): _corpus: _corpus:phase:b-sr:gas  
+Names (3): _corpus: _corpus:phase:b-sr:gas  
+_paper: _paper:10.1016/j.calphad.2006.11.005:gas  
 _tdb: _tdb:SrB-07Sha.tdb:GAS  
 
 
@@ -126,7 +128,7 @@ _tdb: _tdb:SrB-07Sha.tdb:GAS
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.11.005](https://doi.org/10.1016/j.calphad.2006.11.005) Shunli Shang, Tao Wang, Zi-Kui Liu, Thermodynamic modelling of the B–Ca, B–Sr and B–Ba systems, Calphad 31, 286-291 (2007).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## HCP_A3 (B–Sr)
 

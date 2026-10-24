@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi2Gd.html · Markdown: https://
 
 10 accepted literature formation-enthalpy value(s) (model 5, DFT 5); OQMD -55.782 kJ/mol-atom (oqmd-1800951).
 
-Systems: [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) · [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
+Systems: [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html)
 
 ## Literature values
 
@@ -14,16 +14,16 @@ Table: Enthalpy of formation of Bi2Gd reported in the literature (10)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -67 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
-| -67 kJ/mol-atom | GdBi2(EuSb2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13 |  |
+| -67 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
+| -67 kJ/mol-atom | GdBi2(EuSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13 |  |
 | -67 kJ/mol-atom | GdBi2(EuBi2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
-| -67 kJ/mol-atom | GdBi2(YbSb2) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19 |  |
-| -67 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
-| -56.8759 kJ/mol-atom | GdBi2(EuSb2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
-| -56.8396 kJ/mol-atom | GdBi2(YbSb2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
+| -67 kJ/mol-atom | GdBi2(YbSb2) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19 |  |
+| -67 kJ/mol-atom | GdBi2(GdSb2-1) | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
+| -56.8759 kJ/mol-atom | GdBi2(EuSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
+| -56.8396 kJ/mol-atom | GdBi2(YbSb2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
 | -54.0316 kJ/mol-atom | GdBi2(EuBi2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
-| -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
-| -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
+| -53.812 kJ/mol-atom | GdBi2(GdSb2-2) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
+| -21.5319 kJ/mol-atom | GdBi2(GdSb2–1) | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
 
 ### Uncertainty budget
 
@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of Bi2Gd
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -67 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.8759 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -56.8396 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -54.0316 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -53.812 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -21.5319 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -67 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.8759 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -56.8396 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -54.0316 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -53.812 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -21.5319 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

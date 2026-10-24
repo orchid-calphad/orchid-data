@@ -1,21 +1,20 @@
 # Mn–Nd phases
 
-> Mn–Nd system: 11 phases (tier A 9, tier C 1, liquid 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mn–Nd system: 10 phases (tier A 8, tier C 1, liquid 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MN-ND.html · Markdown: https://data.orchid-project.org/phases/pages/MN-ND.md
 
-11 phases (tier A 9, tier C 1, liquid 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 8, tier C 1, liquid 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MN-ND) · [full JSON](https://data.orchid-project.org/phases/systems/MN-ND.json) · [Mn–Nd system page](https://data.orchid-project.org/systems/MN-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/MN-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Mn–Nd system (11)
+Table: Phases of the Mn–Nd system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-mn-nd-bcc-a2); _phase:mn-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 978.09–1523.96 K, x(Nd) 0–1 | 7 | 1 |
 | [CBCC_A12](#phase-mn-nd-cbcc-a12); _phase:mn-nd:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–980 K, x(Nd) 0–0 | 0 | 1 |
 | [CUB_A13](#phase-mn-nd-cub-a13); _phase:mn-nd:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 980–1474.99 K, x(Nd) 0–0 | 5 | 1 |
-| [DHCP](#phase-mn-nd-dhcp); _phase:mn-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-mn-nd-dhcp-a3); _phase:mn-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1283 K, x(Nd) 0.96115–1 | 15 | 1 |
 | [FCC_A1](#phase-mn-nd-fcc-a1); _phase:mn-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1352.96–1474.99 K, x(Nd) 0–0.001 | 6 | 1 |
 | [HCP_A3](#phase-mn-nd-hcp-a3); _phase:mn-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -114,24 +113,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Mn–Nd)
 
-- Id: `phase:mn-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:mn-nd:dhcp  
-
-
-## DHCP (Mn–Nd)
-
 - Id: `phase:mn-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1283 K, x(Nd) 0.96115–1
 - Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-nd:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:mn-nd:dhcp-a3  
+Names (4): _corpus: _corpus:phase:mn-nd:dhcp-a3, corpus:phase:mn-nd:dhcp  
 _paper: _paper:10.1007/s10973-016-5636-y:α-Nd  
 _tdb: _tdb:MnNd-16Ron.tdb:DHCP  
 

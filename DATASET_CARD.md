@@ -397,10 +397,28 @@ dataset_info:
     dtype: int32
   - name: fold_lpo
     dtype: int32
+  - name: plausibility_dx_json
+    dtype: string
+  - name: gate_failures
+    list: string
+  - name: corrections_json
+    dtype: string
+  - name: temperature_K_stored
+    dtype: float64
+  - name: system_stored
+    dtype: string
+  - name: evidence_class_before_gates
+    dtype: string
+  - name: property_code_before_gates
+    dtype: string
+  - name: reader_agreement_basis
+    dtype: string
+  - name: source_system
+    dtype: string
   splits:
   - name: full
-    num_examples: 73538
-  download_size: 7165719
+    num_examples: 73550
+  download_size: 7509425
 - config_name: papers
   features:
   - name: id
@@ -436,7 +454,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 4880
-  download_size: 529216
+  download_size: 530544
 - config_name: experimental_context
   features:
   - name: paper_id
@@ -609,10 +627,24 @@ dataset_info:
     dtype: int32
   - name: fold_lpo
     dtype: int32
+  - name: ehull_upstream_kJ_per_mol_atom
+    dtype: float64
+  - name: dft_structure_match
+    dtype: string
+  - name: structure_designators
+    list: string
+  - name: dft_ground_state_id
+    dtype: string
+  - name: x_offset_measured
+    dtype: float64
+  - name: sigma_composition_kJ_per_mol_atom
+    dtype: float64
+  - name: excluded_from_default_by
+    list: string
   splits:
   - name: full
-    num_examples: 7696
-  download_size: 275656
+    num_examples: 7546
+  download_size: 283927
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -740,7 +772,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 28143
-  download_size: 679954
+  download_size: 671299
 - config_name: phases
   features:
   - name: id
@@ -801,8 +833,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 10496
-  download_size: 450362
+    num_examples: 10430
+  download_size: 451728
 - config_name: structure_types
   features:
   - name: id
@@ -834,7 +866,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 1563
-  download_size: 53094
+  download_size: 53103
 - config_name: assessed_phase_assemblages
   features:
   - name: id
@@ -923,10 +955,22 @@ dataset_info:
     dtype: int32
   - name: evidence_class
     dtype: string
+  - name: sigma_T_reading_K
+    dtype: float64
+  - name: sigma_x_reading
+    dtype: float64
+  - name: sigma_T_method_K
+    dtype: float64
+  - name: sigma_x_method
+    dtype: float64
+  - name: sigma_T_effective_K
+    dtype: float64
+  - name: sigma_x_effective
+    dtype: float64
   splits:
   - name: full
-    num_examples: 23131
-  download_size: 1722819
+    num_examples: 23129
+  download_size: 1721875
 - config_name: bibliography_papers
   features:
   - name: id
@@ -1026,7 +1070,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537270
+  download_size: 1539396
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1056,7 +1100,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 60231
-  download_size: 1081859
+  download_size: 1083575
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1114,7 +1158,7 @@ the Parquet table flattens the value quantity into typed columns and keeps the f
 |---|---|
 | `sigma_printed`, `sigma_printed_kind` | uncertainty as printed by the source (null if none; ORCHID placeholders `stated_default` / `reading_resolution` are not printed sigmas); kind: `plus_minus_coverage_not_stated` (taken as 1 sigma), `range_half_width`, `standard_deviation`, `standard_error` |
 | `sigma_reading` | half of the last printed digit |
-| `sigma_method`, `sigma_method_class`, `sigma_method_basis`, `sigma_method_n_pairs`, `sigma_method_floor`, `sigma_method_floor_unit` | method-class systematic component: the robust between-study scatter of independent measurements of the same state by the same method class in ORCHID (`calibrated`, n pairs), or a documented prior (`prior`); DFT values: the calibrated sigma_DFT; model-calculated values: the model class's robust deviation from experiment (`calibrated`) or a prior. `sigma_method_floor` is in the calibration's canonical unit (`sigma_method_floor_unit`, e.g. kJ/mol-atom, K, mole fraction, or relative) |
+| `sigma_method`, `sigma_method_class`, `sigma_method_basis`, `sigma_method_n_pairs`, `sigma_method_floor`, `sigma_method_floor_unit` | method-class systematic component: the robust between-study scatter of independent measurements of the same state by the same method class in ORCHID (`calibrated`, n pairs), , max(prior, cleaned robust sigma) below the calibration threshold (`cleaned_below_threshold`), or a documented prior (`prior`); DFT values: the calibrated sigma_DFT; model-calculated values: the model class's robust deviation from experiment (`calibrated`) or a prior. `sigma_method_floor` is in the calibration's canonical unit (`sigma_method_floor_unit`, e.g. kJ/mol-atom, K, mole fraction, or relative) |
 | `sigma_composition` | attribution / composition offset (value measured at a historical formula of the phase: \|dx\| x hull slope) |
 | `sigma_scatter` | between-study scatter of a page-checked mutually inconsistent group |
 | `sigma_conversion` | reference-state / unit conversion contribution (e.g. a lattice-stability conversion) |
@@ -1131,7 +1175,8 @@ conversion are independent and added in quadrature; a group scatter replaces the
 same state from different primary sources (one value per source, re-listings counted once), robust sigma =
 1.4826 x state-weighted median |d| / sqrt(2), 95 % bootstrap CI over states; floor = that sigma rounded up and never
 below ESPEI's experimental default for energies, entropies and activities (0.5 kJ/mol, 0.2 J/K/mol); classes with
-fewer than 20 pairs or 10 states use a documented prior. The ESPEI bundle (`espei/`) weights its datasets by
+fewer than 20 pairs or 10 states but at least 5 independent pairs from 3 states take max(documented prior, cleaned
+robust sigma) (`cleaned_below_threshold`, n and CI recorded); the others use a documented prior. The ESPEI bundle (`espei/`) weights its datasets by
 `sigma_effective` by default and carries the components per value (`orchid_uncertainty.values[].budget`;
 calibration copy `espei/experimental/CALIBRATION_EXPERIMENT.json`).
 
@@ -1287,12 +1332,19 @@ paper's convention); `flag_sign_pdf_page_verified` marks a sign corrected from t
 
 **DFT parity.** `dft_parity` matches each literature `HM_FORM` in kJ/mol-atom (evidence class experimental, model
 or unspecified) to the lowest-energy non-deprecated entry at exactly the same reduced composition in the Materials
-Project and in OQMD, separately; the two are never averaged. `residual = DFT − literature`. `default_subset`
-reproduces the published default (experimental, accepted, not unsigned, no sign loss, not magnitude-suspect):
-MAE 10.8 kJ/mol-atom over 1,199 MP pairs (median 6.2, Spearman 0.83) and 9.4 over 1,251 OQMD pairs (median 5.4,
-Spearman 0.89). Large residuals were classified deterministically (`quality_fix`; `literature/QUALITY_FIXES.md`):
-per-formula values labelled per atom were converted (47), unsigned magnitudes flagged and excluded (31), the rest
-flagged `dft_outlier_unexplained` (160) and kept.
+Project and in OQMD, separately; the two are never averaged. When the record names a structure (Strukturbericht
+designator or prototype in the printed label, or the mapped model phase of the same compound), the lowest entry of
+that space group is used (`dft_structure_match` = exact; `dft_ground_state_id` when it is not the ground state), and
+a record whose structure has no entry is `structure_unmatched` (paired with the ground state, outside the default).
+`ehull_kJ_per_mol_atom` is computed from ORCHID's own released hull (`hulls/dft-*`); the provider's value is kept in
+`ehull_upstream_kJ_per_mol_atom`. A measured composition off the compound (`x_offset_measured`) adds
+`sigma_composition_kJ_per_mol_atom` = |dx| x hull slope, and |dx| > 0.02 leaves the default subset
+(`excluded_from_default_by`). `residual = DFT − literature`. `default_subset` (experimental, accepted, not unsigned,
+no sign loss, not magnitude-suspect, structure matched or not named, on-stoichiometry): MAE 10.4 kJ/mol-atom over
+1,181 MP pairs (median 6.2, Spearman 0.85) and 9.1 over 1,222 OQMD pairs (median 5.3, Spearman 0.90). Per-formula vs
+per-atom bases are decided from the printed column or caption only (audit round 2; the earlier conversion that was
+accepted when the converted value agreed with DFT is withdrawn). `chemical_system`, `fold_lso` and `fold_lpo` are
+those of the literature record with the same `record_id`.
 
 **Kim et al. 2017 cross-check.** Accepted experimental formation enthalpies (kJ/mol-atom, signed) were compared per
 formula with the experimental compilation of Kim, Meschel, Nash and Chen (Scientific Data 4 (2017) 170162):
@@ -1397,7 +1449,9 @@ point (`assessed_phase_assemblages`) carries two deterministic 5-fold assignment
 keep a single `full` split; select folds with a filter):
 
 - `fold_lso` (leave-chemical-system-out) = int(sha256(`chemical_system`), 16) mod 5, where `chemical_system` is the
-  sorted, upper-case, `-`-joined element string (e.g. `AL-NI`);
+  sorted, upper-case, `-`-joined element string (e.g. `AL-NI`) of the record's own state: a binary compound or a pure
+  element reported in a ternary paper is filed under its binary or unary system, and the paper's system is kept in
+  `source_system` (audit round 2);
 - `fold_lpo` (leave-paper-out) = int(sha256(`paper_id`), 16) mod 5, where `paper_id` is the stable source id
   (`doi:<doi>` or `sha256:<pdf prefix>`; assessed points: the original evaluation, else `handbook:<diagram>`).
 

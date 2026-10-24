@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/AlCo.html · Markdown: https://data.orchid-project.org/compounds/AlCo.md
 
-6 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 3); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -59.212 kJ/mol-atom (oqmd-1485020).
+6 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 3); experimental median -60.1 kJ/mol-atom (n = 2); Materials Project -58.998 kJ/mol-atom (mp-aaaaaaky); OQMD -58.889 kJ/mol-atom (oqmd-10411).
 
-Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html)
+Systems: [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) · [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
 
 ## Literature values
 
@@ -17,9 +17,9 @@ Table: Enthalpy of formation of AlCo reported in the literature (6)
 | -60.7 kJ/mol-atom ± 0.5 | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 82_ | Table 4, p. 38, row 3 |  |
 | -59.5 kJ/mol-atom | B2 | 298.15 | experimental |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016; _cites ref. 81_ | Table 4, p. 38, row 2 |  |
 | -57.673 kJ/mol-atom | B2 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 1 |  |
-| -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
-| -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
-| -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
+| -58.46 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 4 |  |
+| -58.37 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 1 |  |
+| -58.18 kJ/mol-atom | BCC_B2, AlCo | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 3 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of AlCo
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -60.7 | kJ/mol-atom | 0.5 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -59.5 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -57.673 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -58.46 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -58.37 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -58.18 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -60.7 | kJ/mol-atom | 0.5 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -59.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -57.673 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -58.46 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -58.37 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -58.18 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 
@@ -45,7 +45,7 @@ Table: DFT formation energy of AlCo
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaaaky | -58.998 | -0.611477 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-1485020 | -59.212 | -0.613691 | P4/mmm | 0.045 | 5.000e-4 | yes |
+| OQMD | oqmd-10411 | -58.889 | -0.610342 | Pm-3m | 0.3231 | 0.0033 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

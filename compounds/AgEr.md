@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AgEr.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -44.9 kJ/mol-atom (n = 1); Materials Project -33.42 kJ/mol-atom (mp-aaaaadwv); OQMD -33.553 kJ/mol-atom (oqmd-10623).
 
-Systems: [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html)
+Systems: [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AgEr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.9 kJ/mol-atom ± 3.2 | AgEr | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Pierre 1963_ | Table 1, p. 3, row 20 |  |
-| -44 kJ/mol-atom | AgEr |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 21 |  |
-| -34.488 kJ/mol-atom | AgEr | 298.15 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 19 |  |
+| -44.9 kJ/mol-atom ± 3.2 | AgEr | 298.15 | experimental |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Pierre 1963_ | Table 1, p. 3, row 20 |  |
+| -44 kJ/mol-atom | AgEr |  | model |  | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 21 |  |
+| -34.488 kJ/mol-atom | AgEr | 298.15 | DFT | first-principles calculations | [Ag–Er](https://data.orchid-project.org/systems/AG-ER.html) | [1] Long 2010 | Table 1, p. 3, row 19 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AgEr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.9 | kJ/mol-atom | 3.2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -44 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -34.488 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -44.9 | kJ/mol-atom | 3.2 | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -44 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -34.488 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of AgEr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadwv | -33.42 | -0.346379 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-10623 | -33.553 | -0.34775 | Pm-3m | 0.077 | 8.000e-4 | no |
+| OQMD | oqmd-10623 | -33.553 | -0.34775 | Pm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

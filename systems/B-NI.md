@@ -1,10 +1,10 @@
 # B–Ni system
 
-> B–Ni system: 47 accepted literature values (invariant reaction 35, formation 9, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ni system: 45 accepted literature values (invariant reaction 33, formation 9, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-NI.html · Markdown: https://data.orchid-project.org/systems/B-NI.md
 
-47 accepted literature values from 2 paper(s) (experimental 14, model 33); 0 calculated phase diagram(s).
+45 accepted literature values from 2 paper(s) (experimental 13, model 32); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-NI.json) · [CSV](https://data.orchid-project.org/systems/B-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NI) · [phases (11)](https://data.orchid-project.org/phases/pages/B-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-NI.html) · [Markdown](https://data.orchid-project.org/systems/B-NI.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 33 |
+| experimental | 13 |
+| model | 32 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 35 |
+| invariant reaction | 33 |
 | phase transition | 3 |
 | formation | 9 |
 
@@ -27,12 +27,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Ni system (35)
+Table: Invariant reactions reported in the literature for the B–Ni system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2365.15 | congruent melting: β -> L | β: B 1; L: B 1 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 31 |  |
-| 2348.15 | congruent melting: β -> L | β: B 1; L: B 1 | model | [1] Campbell 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 4, row 32 |  |
 | 1435.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999 | Table 4, p. 4, row 6 |  |
 | 1433.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | model | [1] Campbell 1999; _cites Teppo 1993_ [doi](https://doi.org/10.1179/mst.1993.9.3.205) | Table 4, p. 4, row 5 |  |
 | 1429.15 | congruent melting: Ni3B -> L | Ni3B: B 0.25; L: B 0.25 | experimental | [1] Campbell 1999; _cites Schobel 1965_ | Table 4, p. 4, row 4 |  |

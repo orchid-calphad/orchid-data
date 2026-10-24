@@ -1,10 +1,10 @@
 # Al–Mg–Sb system
 
-> Al–Mg–Sb system: 13 accepted literature values (invariant reaction 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg–Sb system: 12 accepted literature values (invariant reaction 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG-SB.html · Markdown: https://data.orchid-project.org/systems/AL-MG-SB.md
 
-13 accepted literature values from 1 paper(s) (model 13); 0 calculated phase diagram(s).
+12 accepted literature values from 1 paper(s) (model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG-SB.json) · [CSV](https://data.orchid-project.org/systems/AL-MG-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG-SB.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG-SB.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 13 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
+| invariant reaction | 12 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Mg–Sb system (13)
+Table: Invariant reactions reported in the literature for the Al–Mg–Sb system (12)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -33,7 +33,6 @@ Table: Invariant reactions reported in the literature for the Al–Mg–Sb syste
 | 1133.23 | peritectic: L/L1 + α-Mg3Sb2 + AlSb | L: Mg 0.04, Sb 0.075 | model | [1] Balakumar 2005 | Table 9, p. 10, row 11 |  |
 | 930.2 | eutectic: L -> AlSb + (Al) + α-Mg3Sb2 | L: Mg 0.002, Sb 0.003 | model | [1] Balakumar 2005 | Table 9, p. 10, row 6 |  |
 | 901 | other: L -> Mg3Sb2 + (Mg) | L: Mg 0.95, Sb 0.037 | model | [1] Balakumar 2005 | Table 9, p. 10, row 9 |  |
-| 898.8 | eutectic: L -> α-Mg3Sb2 + (Mg) | L: Mg 0.93, Sb 0.063 | model | [1] Balakumar 2005 | Table 9, p. 10, row 2 |  |
 | 897.38 | peritectic: L/L1 + α-Mg3Sb2 + (Mg) | L: Mg 0.959, Sb 0.017 | model | [1] Balakumar 2005 | Table 9, p. 10, row 12 |  |
 | 852.6 | eutectic: L -> AlSb + Sb + α-Mg3Sb2 | L: Mg 0.093, Sb 0.902 | model | [1] Balakumar 2005 | Table 9, p. 10, row 1 |  |
 | 723.4 | eutectic: L -> α-Mg3Sb2 + (Al) + Al140Mg89 | L: Mg 0.362 | model | [1] Balakumar 2005 | Table 9, p. 10, row 5 |  |

@@ -1,14 +1,14 @@
 # Bi–O phases
 
-> Bi–O system: 8 phases (tier A 2, tier C 1, liquid 2, gas 2, unresolved_no_candidates 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–O system: 6 phases (tier A 2, tier C 1, liquid 1, gas 2); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-O.html · Markdown: https://data.orchid-project.org/phases/pages/BI-O.md
 
-8 phases (tier A 2, tier C 1, liquid 2, gas 2, unresolved_no_candidates 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 2, tier C 1, liquid 1, gas 2); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-O) · [full JSON](https://data.orchid-project.org/phases/systems/BI-O.json) · [Bi–O system page](https://data.orchid-project.org/systems/BI-O.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-O.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–O system (8)
+Table: Phases of the Bi–O system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,9 +16,7 @@ Table: Phases of the Bi–O system (8)
 | [BI2O3_ALPHA](#phase-bi-o-bi2o3-alpha); _phase:bi-o:bi2o3-alpha_ | alpha-Bi2O3 · mP20 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1002.13 K, x(O) 0.6–0.6 | 34 | 1 |
 | [BI2O3_C1](#phase-bi-o-bi2o3-c1); _phase:bi-o:bi2o3-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1002.13–1060.59 K, x(O) 0.6–0.6 | 25 | 1 |
 | [GAS](#phase-bi-o-gas); _phase:bi-o:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 1825.76–1966.02 K, x(O) 0–0.92757 | 0 | 1 |
-| [ION](#phase-bi-o-ion); _phase:bi-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 544.55–1966.02 K, x(O) 0–0.59458 | 20 | 1 |
-| [ION-2](#phase-bi-o-ion-2); _phase:bi-o:ion-2_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
-| [LIQUID](#phase-bi-o-liquid); _phase:bi-o:liquid_ | liquid | liquid | no calculated diagram | 5 | 0 |
+| [ION](#phase-bi-o-ion); _phase:bi-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 544.55–1966.02 K, x(O) 0–0.59458 | 25 | 1 |
 | [O2GAS](#phase-bi-o-o2gas); _phase:bi-o:o2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–925 K, x(O) 1–1 | 0 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Bi–O)
@@ -173,11 +171,11 @@ _assessment that models this phase_
 - Id: `phase:bi-o:ion`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 544.55–1966.02 K, x(O) 0–0.59458
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 25 values (25 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-o:ion)
 
-Names (3): _corpus: _corpus:phase:bi-o:ion  
-_paper: _paper:10.1007/bf02667306:L1  
+Names (6): _corpus: _corpus:phase:bi-o:ion, corpus:phase:bi-o:ion-2, corpus:phase:bi-o:liquid  
+_paper: _paper:10.1007/bf02667306:L1, paper:10.1007/bf02667306:L2  
 _tdb: _tdb:BiO-95Ris-LB.tdb:ION  
 
 
@@ -190,11 +188,13 @@ _tdb: _tdb:BiO-95Ris-LB.tdb:ION
 43: CONST ION:Y : BI+3 : O-2 VA O : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1007/BF02667306](https://doi.org/10.1007/BF02667306) D. Risold, B. Hallstedt, L.J. Gauckler, H.L. Lukas, S.G. Fries, J. Phase Equilib., 16, 223-34(1995).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19623180307](https://doi.org/10.1002/zaac.19623180307) G. Gattow, H. Schröder, Über Wismutoxide. III. Die Kristallstruktur der Hochtemperaturmodifikation von Wismut(III)‐oxid (δ‐Bi\<sub>2\</sub>O\<sub>3\</sub>), Zeitschrift anorg allge chemie 318, 176-189 (1962).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19643280106](https://doi.org/10.1002/zaac.19643280106) G. Gattow, D. Schütze, Über Wismutoxide. VI. Überein Wismut (III)‐oxid mit höherem Sauerstoffgehalt (β‐Modifikation), Zeitschrift anorg allge chemie 328, 44-68 (1964).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0036-9748(71)90168-2](https://doi.org/10.1016/0036-9748%2871%2990168-2) A.V. Ramana Rao, V.B. Tare, Free energy of formation of Bi2O3, Scripta Metallurgica 5, 807-811 (1971).  
 _cited as the source of values for this phase_
@@ -207,40 +207,6 @@ _cited as the source of values for this phase_
 - [doi:10.2320/jinstmet1952.55.5_536](https://doi.org/10.2320/jinstmet1952.55.5_536) Kazuo Kameda, Katsunori Yamaguchi, Activity Measurements of Liquid Ag-Bi Alloys by an EMF Method Using a Zirconia Electrolyte, J.Japan Inst.Metals 55, 536-544 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.2320/jinstmet1952.56.8_900](https://doi.org/10.2320/jinstmet1952.56.8_900) Kazuo Kameda, Katsunori Yamaguchi, Toshiko Kon, Activity of Liquid Tl-Bi Alloys Measured by an EMF Method Using Zirconia Electrolyte, J.Japan Inst.Metals 56, 900-906 (1992).  
-_cited as the source of values for this phase_
-- [doi:10.6028/jres.069a.023](https://doi.org/10.6028/jres.069a.023) Ernest M. Levin, Clyde L. McDaniel, Heats of transformations in bismuth oxide by differential thermal analysis, J. RES. NATL. BUR. STAN. SECT. A. 69A, 237 (1965).  
-_cited as the source of values for this phase_
-
-## ION-2 (Bi–O)
-
-- Id: `phase:bi-o:ion-2`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:2,ION; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-o:ion-2)
-
-Names (1): _corpus: _corpus:phase:bi-o:ion-2  
-
-
-## LIQUID (Bi–O)
-
-- Id: `phase:bi-o:liquid`; status `assigned`
-- Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: no calculated diagram
-- Literature: 5 values (5 accepted) from 1 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-o:liquid)
-
-Names (2): _corpus: _corpus:phase:bi-o:liquid  
-_paper: _paper:10.1007/bf02667306:L2  
-
-
-Example references (4 of 4; assessments first): 
-
-- [doi:10.1007/bf02667306](https://doi.org/10.1007/bf02667306) D. Risold, B. Hallstedt, L. J. Gauckler, H. L. Lukas, S. G. Fries, The bismuth-oxygen system, JPE 16 (1995).  
-_reports values for this phase_
-- [doi:10.1002/zaac.19643280106](https://doi.org/10.1002/zaac.19643280106) G. Gattow, D. Schütze, Über Wismutoxide. VI. Überein Wismut (III)‐oxid mit höherem Sauerstoffgehalt (β‐Modifikation), Zeitschrift anorg allge chemie 328, 44-68 (1964).  
-_cited as the source of values for this phase_
-- [doi:10.1021/je60035a021](https://doi.org/10.1021/je60035a021) Daniel Cubicciotti, Harold Eding, Enthalpy and entropy increments above 298.degree.K. for bismuth(III) bromide, bismuth(III) oxide, thallium(III) oxide, and thallium(I) oxide, J. Chem. Eng. Data 12, 548-551 (1967).  
 _cited as the source of values for this phase_
 - [doi:10.6028/jres.069a.023](https://doi.org/10.6028/jres.069a.023) Ernest M. Levin, Clyde L. McDaniel, Heats of transformations in bismuth oxide by differential thermal analysis, J. RES. NATL. BUR. STAN. SECT. A. 69A, 237 (1965).  
 _cited as the source of values for this phase_

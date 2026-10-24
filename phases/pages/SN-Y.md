@@ -17,13 +17,13 @@ Table: Phases of the Sn–Y system (12)
 | [BCC_A2](#phase-sn-y-bcc-a2); _phase:sn-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1632.66–2498.9 K, x(Y) 0.9697–1 | 2 | 2 |
 | [FCC_A1](#phase-sn-y-fcc-a1); _phase:sn-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-sn-y-hcp-a3); _phase:sn-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1786.11 K, x(Y) 0.9826–1 | 4 | 2 |
-| [LIQUID](#phase-sn-y-liquid); _phase:sn-y:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 503.39–2500 K, x(Y) 0–1 | 18 | 2 |
-| [SN10Y11](#phase-sn-y-sn10y11); _phase:sn-y:sn10y11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1876.25 K, x(Y) 0.52381–0.52381 | 4 | 2 |
+| [LIQUID](#phase-sn-y-liquid); _phase:sn-y:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 503.39–2500 K, x(Y) 0–1 | 24 | 2 |
+| [SN10Y11](#phase-sn-y-sn10y11); _phase:sn-y:sn10y11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1876.25 K, x(Y) 0.52381–0.52381 | 6 | 2 |
 | [SN2Y_C49](#phase-sn-y-sn2y-c49); _phase:sn-y:sn2y-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1413 K, x(Y) 0.33333–0.33333 | 6 | 2 |
-| [SN3Y](#phase-sn-y-sn3y); _phase:sn-y:sn3y_ | GdSn2.75 · oC16 · Amm2 (38) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–704 K, x(Y) 0.25–0.25 | 5 | 2 |
+| [SN3Y](#phase-sn-y-sn3y); _phase:sn-y:sn3y_ | GdSn2.75 · oC16 · Amm2 (38) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–704 K, x(Y) 0.25–0.25 | 13 | 2 |
 | [SN3Y5_D88](#phase-sn-y-sn3y5-d88); _phase:sn-y:sn3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2212.68 K, x(Y) 0.61836–0.62501 | 8 | 2 |
-| [SN4Y5](#phase-sn-y-sn4y5); _phase:sn-y:sn4y5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2063.27 K, x(Y) 0.55556–0.55556 | 5 | 2 |
-| [SN5Y2](#phase-sn-y-sn5y2); _phase:sn-y:sn5y2_ | Er2Ge5 · oP14 · Pmmn (59) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–798.29 K, x(Y) 0.28571–0.28571 | 5 | 2 |
+| [SN4Y5](#phase-sn-y-sn4y5); _phase:sn-y:sn4y5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2063.27 K, x(Y) 0.55556–0.55556 | 8 | 2 |
+| [SN5Y2](#phase-sn-y-sn5y2); _phase:sn-y:sn5y2_ | Er2Ge5 · oP14 · Pmmn (59) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–798.29 K, x(Y) 0.28571–0.28571 | 11 | 2 |
 
 ## DIAMOND_A4 (Sn–Y)
 
@@ -216,11 +216,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sn-y:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 503.39–2500 K, x(Y) 0–1
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-y:liquid)
 
-Names (4): _corpus: _corpus:phase:sn-y:liquid  
-_paper: _paper:10.1016/s1002-0721(14)60121-6:L  
+Names (5): _corpus: _corpus:phase:sn-y:liquid  
+_paper: _paper:10.1016/j.calphad.2012.09.003:Liquid, paper:10.1016/s1002-0721(14)60121-6:L  
 _tdb: _tdb:SnY-12Tan.tdb:LIQUID, tdb:SnY-14Lu.tdb:LIQUID  
 
 
@@ -245,7 +245,7 @@ Example references (4 of 4; assessments first):
 - [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(68)90002-7](https://doi.org/10.1016/0022-5088%2868%2990002-7) F.A. Schmidt, O.D. McMasters, Yttrium-tin alloy system, Journal of the Less Common Metals 15, 1-11 (1968).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90859-l](https://doi.org/10.1016/0925-8388%2893%2990859-l) A. Palenzona, P. Manfrinetti, The tin-rich side of the rare earth-tin systems (R = Gd, Tb, Dy, Ho, Er, Tm, Lu and Y), Journal of Alloys and Compounds 201, 43-47 (1993).  
@@ -257,13 +257,13 @@ _cited as the source of values for this phase_
 - Structure: Ge10Ho11 · tI84 · I4/mmm (139); type `st:ge10ho11-ti84`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Sn 0.4762, Y 0.5238
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1876.25 K, x(Y) 0.52381–0.52381
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-y:sn10y11)
 
-Names (6): _corpus: _corpus:phase:sn-y:sn10y11  
+Names (7): _corpus: _corpus:phase:sn-y:sn10y11  
 _mp: _mp:mp-aaacqfwn  
 _oqmd: _oqmd:oqmd-2053254  
-_paper: _paper:10.1016/s1002-0721(14)60121-6:Sn10Y11  
+_paper: _paper:10.1016/j.calphad.2012.09.003:Sn10Y11, paper:10.1016/s1002-0721(14)60121-6:Sn10Y11  
 _tdb: _tdb:SnY-12Tan.tdb:SN10Y11, tdb:SnY-14Lu.tdb:SN10Y11  
 
 
@@ -283,12 +283,14 @@ _tdb: _tdb:SnY-12Tan.tdb:SN10Y11, tdb:SnY-14Lu.tdb:SN10Y11
 67: CONST SN10Y11 : SN : Y : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19835010624](https://doi.org/10.1002/zaac.19835010624) G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(68)90002-7](https://doi.org/10.1016/0022-5088%2868%2990002-7) F.A. Schmidt, O.D. McMasters, Yttrium-tin alloy system, Journal of the Less Common Metals 15, 1-11 (1968).  
 _cited as the source of values for this phase_
 
@@ -348,7 +350,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sn 0.7500, Y 0.2500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–704 K, x(Y) 0.25–0.25
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 13 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-y:sn3y)
 
 Names (5): _corpus: _corpus:phase:sn-y:sn3y  
@@ -372,15 +374,17 @@ _tdb: _tdb:SnY-12Tan.tdb:SN3Y, tdb:SnY-14Lu.tdb:SN3Y
 52: CONST SN3Y : SN : Y : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19835010624](https://doi.org/10.1002/zaac.19835010624) G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90859-l](https://doi.org/10.1016/0925-8388%2893%2990859-l) A. Palenzona, P. Manfrinetti, The tin-rich side of the rare earth-tin systems (R = Gd, Tb, Dy, Ho, Er, Tm, Lu and Y), Journal of Alloys and Compounds 201, 43-47 (1993).  
 _cited as the source of values for this phase_
-- [doi:10.1002/zaac.19835010624](https://doi.org/10.1002/zaac.19835010624) G. Borzone, A. Borsese, R. Ferro, A Contribution to the Study of the Alloying Behaviour of the Rare Earths with Tin, Zeitschrift anorg allge chemie 501, 199-208 (1983).  
+- [doi:10.1016/0022-5088(68)90002-7](https://doi.org/10.1016/0022-5088%2868%2990002-7) F.A. Schmidt, O.D. McMasters, Yttrium-tin alloy system, Journal of the Less Common Metals 15, 1-11 (1968).  
 _cited as the source of values for this phase_
 
 ## SN3Y5_D88 (Sn–Y)
@@ -434,7 +438,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sn 0.4444, Y 0.5556
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2063.27 K, x(Y) 0.55556–0.55556
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-y:sn4y5)
 
 Names (5): _corpus: _corpus:phase:sn-y:sn4y5  
@@ -460,9 +464,9 @@ _tdb: _tdb:SnY-12Tan.tdb:SN4Y5, tdb:SnY-14Lu.tdb:SN4Y5
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(68)90002-7](https://doi.org/10.1016/0022-5088%2868%2990002-7) F.A. Schmidt, O.D. McMasters, Yttrium-tin alloy system, Journal of the Less Common Metals 15, 1-11 (1968).  
 _cited as the source of values for this phase_
@@ -477,7 +481,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sn 0.7143, Y 0.2857
 - Stability: stable in 2 of 2 calculated diagram(s): 300–798.29 K, x(Y) 0.28571–0.28571
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-y:sn5y2)
 
 Names (5): _corpus: _corpus:phase:sn-y:sn5y2  
@@ -503,9 +507,9 @@ _tdb: _tdb:SnY-12Tan.tdb:SN5Y2, tdb:SnY-14Lu.tdb:SN5Y2
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.09.003](https://doi.org/10.1016/j.calphad.2012.09.003) Cai Tang, Biao Hu, Yong Du, Dongdong Zhao, Peng Zhou, Feng Zheng et al., Thermodynamic modeling of the Hf–Sn and Sn–Y systems, Calphad 39, 91-96 (2012).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S1002-0721(14)60121-6](https://doi.org/10.1016/S1002-0721%2814%2960121-6) D. Lu, C. Guo, C. Li, Z. Du, J. Rare Earths, 32, 648-54(2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0925-8388(93)90859-l](https://doi.org/10.1016/0925-8388%2893%2990859-l) A. Palenzona, P. Manfrinetti, The tin-rich side of the rare earth-tin systems (R = Gd, Tb, Dy, Ho, Er, Tm, Lu and Y), Journal of Alloys and Compounds 201, 43-47 (1993).  
 _cited as the source of values for this phase_

@@ -16,17 +16,17 @@ Table: Phases of the La–Ni system (17)
 | [DHCP](#phase-la-ni-dhcp-a3); _phase:la-ni:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–873.75 K, x(Ni) 0–0 | 0 | 5 |
 | [FCC_A1](#phase-la-ni-fcc-a1); _phase:la-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2499.69 K, x(Ni) 0–1 | 24 | 5 |
 | [HCP_A3](#phase-la-ni-hcp-a3); _phase:la-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LA2NI3](#phase-la-ni-la2ni3); _phase:la-ni:la2ni3_ | La2Ni3 · oC20 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–974.13 K, x(Ni) 0.6–0.6 | 25 | 5 |
-| [LA2NI7](#phase-la-ni-la2ni7); _phase:la-ni:la2ni7_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1247.25 K, x(Ni) 0.77778–0.77778 | 16 | 2 |
+| [LA2NI3](#phase-la-ni-la2ni3); _phase:la-ni:la2ni3_ | La2Ni3 · oC20 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–974.13 K, x(Ni) 0.6–0.6 | 29 | 5 |
+| [LA2NI7](#phase-la-ni-la2ni7); _phase:la-ni:la2ni7_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1247.25 K, x(Ni) 0.77778–0.77778 | 22 | 2 |
 | [LA2NI7_A](#phase-la-ni-la2ni7-a); _phase:la-ni:la2ni7-a_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1249.4 K, x(Ni) 0.77778–0.77778 | 10 | 3 |
 | [LA2NI7_B](#phase-la-ni-la2ni7-b); _phase:la-ni:la2ni7-b_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 1210.49–1471.08 K, x(Ni) 0.77778–0.77778 | 10 | 3 |
 | [LA3NI_D011](#phase-la-ni-la3ni-d011); _phase:la-ni:la3ni-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–846.14 K, x(Ni) 0.25–0.25 | 19 | 5 |
 | [LA4NI17](#phase-la-ni-la4ni17); _phase:la-ni:la4ni17_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1535.36 K, x(Ni) 0.80952–0.80952 | 5 | 1 |
-| [LA5NI19](#phase-la-ni-la5ni19); _phase:la-ni:la5ni19_ | Co19Sm5 · hP48 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1276.89 K, x(Ni) 0.79167–0.79167 | 11 | 2 |
-| [LA7NI16](#phase-la-ni-la7ni16); _phase:la-ni:la7ni16_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1008.69 K, x(Ni) 0.69565–0.6957 | 34 | 5 |
+| [LA5NI19](#phase-la-ni-la5ni19); _phase:la-ni:la5ni19_ | Co19Sm5 · hP48 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1276.89 K, x(Ni) 0.79167–0.79167 | 15 | 2 |
+| [LA7NI16](#phase-la-ni-la7ni16); _phase:la-ni:la7ni16_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1008.69 K, x(Ni) 0.69565–0.6957 | 38 | 5 |
 | [LA7NI3_D102](#phase-la-ni-la7ni3-d102); _phase:la-ni:la7ni3-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–836.4 K, x(Ni) 0.3–0.3 | 18 | 5 |
 | [LANI_B33](#phase-la-ni-lani-b33); _phase:la-ni:lani-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–987.97 K, x(Ni) 0.5–0.5 | 21 | 5 |
-| [LANI3](#phase-la-ni-lani3); _phase:la-ni:lani3_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1084.51 K, x(Ni) 0.75–0.75 | 34 | 5 |
+| [LANI3](#phase-la-ni-lani3); _phase:la-ni:lani3_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1084.51 K, x(Ni) 0.75–0.75 | 38 | 5 |
 | [LANI5_D2D](#phase-la-ni-lani5-d2d); _phase:la-ni:lani5-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1656.89 K, x(Ni) 0.83042–0.85306 | 40 | 5 |
 | [LIQUID](#phase-la-ni-liquid); _phase:la-ni:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 784.25–2500 K, x(Ni) 0–1 | 142 | 5 |
 
@@ -292,11 +292,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.4000, Ni 0.6000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–974.13 K, x(Ni) 0.6–0.6
-- Literature: 25 values (25 accepted) from 4 papers
+- Literature: 29 values (29 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-ni:la2ni3)
 
-Names (10): _corpus: _corpus:phase:la-ni:la2ni3  
-_paper: _paper:10.1007/s10853-022-08039-1:La2Ni3, paper:10.1016/j.calphad.2012.12.002:La2Ni3, paper:10.1016/s0925-8388(00)01151-8:Ni3La2, paper:10.1016/s0925-8388(97)00269-7:La2Ni3  
+Names (11): _corpus: _corpus:phase:la-ni:la2ni3  
+_paper: _paper:10.1007/s10853-022-08039-1:La2Ni3, paper:10.1016/j.calphad.2011.10.004:La2Ni3, paper:10.1016/j.calphad.2012.12.002:La2Ni3, paper:10.1016/s0925-8388(00)01151-8:Ni3La2, paper:10.1016/s0925-8388(97)00269-7:La2Ni3  
 _tdb: _tdb:LaNi-00Dis.tdb:LA2NI3, tdb:LaNi-00Liu-LB.tdb:LA2NI3, tdb:LaNi-13An.tdb:LA2NI3, tdb:LaNi-23Ye.tdb:LA2NI3, tdb:LaNi-98Du.tdb:LA2NI3  
 
 
@@ -337,7 +337,7 @@ _tdb: _tdb:LaNi-00Dis.tdb:LA2NI3, tdb:LaNi-00Liu-LB.tdb:LA2NI3, tdb:LaNi-13An.td
 65: CONST LA2NI3 : LA : NI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/s10853-022-08039-1](https://doi.org/10.1007/s10853-022-08039-1) Hongjian Ye, Maohua Rong, Qingrong Yao, Qing Chen, Jiang Wang, Guanghui Rao et al., Phase equilibria and thermodynamic properties in the RE-Ni (RE = rare earth metals) binary systems, J Mater Sci 58, 1260-1292 (2023).  
 _assessment that models this phase; reports values for this phase_
@@ -351,6 +351,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02645085](https://doi.org/10.1007/bf02645085) H Okamoto, La-Ni (Lanthanum-Nickel), JPE 12, 615-616 (1991).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004) Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012).  
+_reports values for this phase_
 - [doi:10.2320/matertrans1989.30.583](https://doi.org/10.2320/matertrans1989.30.583) Guojun Qi, Ziqiang Li, Kimio Itagaki, Akira Yazawa, High Temperature Phase Relations in Ni&amp;ndash;RE(RE=La, Ce, Pr, Nd) Binary and Ternary Alloy Systems, Mater. Trans., JIM 30, 583-593 (1989).  
 _cited as the source of values for this phase_
 
@@ -365,7 +367,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Co7Gd2 · hR18 · R-3m — LaNi-23Ye.tdb: 'Prototype Co7Gd2 (hR18, R-3m), high T'
 - Stoichiometry: La 0.2222, Ni 0.7778
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1247.25 K, x(Ni) 0.77778–0.77778
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-ni:la2ni7)
 
 Names (6): _corpus: _corpus:phase:la-ni:la2ni7  
@@ -612,7 +614,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.2083, Ni 0.7917
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1276.89 K, x(Ni) 0.79167–0.79167
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-ni:la5ni19)
 
 Names (5): _corpus: _corpus:phase:la-ni:la5ni19  
@@ -658,11 +660,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): La7Ni16 · tI46 · I-42m — LaNi-13An.tdb: 'Prototype La7Ni16 (tI46, I-42m)'
 - Candidate (tdb_comment): La7Ni16 · tI46 · I-42m — LaNi-23Ye.tdb: 'Prototype La7Ni16 (tI46, I-42m)'
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1008.69 K, x(Ni) 0.69565–0.6957
-- Literature: 34 values (34 accepted) from 4 papers
+- Literature: 38 values (38 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-ni:la7ni16)
 
-Names (10): _corpus: _corpus:phase:la-ni:la7ni16  
-_paper: _paper:10.1007/s10853-022-08039-1:La7Ni16, paper:10.1016/j.calphad.2012.12.002:La7Ni16, paper:10.1016/s0925-8388(00)01151-8:Ni16La7, paper:10.1016/s0925-8388(97)00269-7:La7Ni16  
+Names (11): _corpus: _corpus:phase:la-ni:la7ni16  
+_paper: _paper:10.1007/s10853-022-08039-1:La7Ni16, paper:10.1016/j.calphad.2011.10.004:La7Ni16, paper:10.1016/j.calphad.2012.12.002:La7Ni16, paper:10.1016/s0925-8388(00)01151-8:Ni16La7, paper:10.1016/s0925-8388(97)00269-7:La7Ni16  
 _tdb: _tdb:LaNi-00Dis.tdb:LA7NI16, tdb:LaNi-00Liu-LB.tdb:LA7NI16, tdb:LaNi-13An.tdb:LA7NI16, tdb:LaNi-23Ye.tdb:LA7NI16, tdb:LaNi-98Du.tdb:LA7NI16  
 
 
@@ -703,7 +705,7 @@ _tdb: _tdb:LaNi-00Dis.tdb:LA7NI16, tdb:LaNi-00Liu-LB.tdb:LA7NI16, tdb:LaNi-13An.
 70: CONST LA7NI16 : LA : NI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/s10853-022-08039-1](https://doi.org/10.1007/s10853-022-08039-1) Hongjian Ye, Maohua Rong, Qingrong Yao, Qing Chen, Jiang Wang, Guanghui Rao et al., Phase equilibria and thermodynamic properties in the RE-Ni (RE = rare earth metals) binary systems, J Mater Sci 58, 1260-1292 (2023).  
 _assessment that models this phase; reports values for this phase_
@@ -717,6 +719,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02645085](https://doi.org/10.1007/bf02645085) H Okamoto, La-Ni (Lanthanum-Nickel), JPE 12, 615-616 (1991).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004) Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012).  
+_reports values for this phase_
 - [doi:10.2320/matertrans1989.30.583](https://doi.org/10.2320/matertrans1989.30.583) Guojun Qi, Ziqiang Li, Kimio Itagaki, Akira Yazawa, High Temperature Phase Relations in Ni&amp;ndash;RE(RE=La, Ce, Pr, Nd) Binary and Ternary Alloy Systems, Mater. Trans., JIM 30, 583-593 (1989).  
 _cited as the source of values for this phase_
 
@@ -870,11 +874,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.2500, Ni 0.7500
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1084.51 K, x(Ni) 0.75–0.75
-- Literature: 34 values (34 accepted) from 4 papers
+- Literature: 38 values (38 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-ni:lani3)
 
-Names (10): _corpus: _corpus:phase:la-ni:lani3  
-_paper: _paper:10.1007/s10853-022-08039-1:LaNi3, paper:10.1016/j.calphad.2012.12.002:LaNi3, paper:10.1016/s0925-8388(00)01151-8:Ni3La, paper:10.1016/s0925-8388(97)00269-7:LaNi3  
+Names (11): _corpus: _corpus:phase:la-ni:lani3  
+_paper: _paper:10.1007/s10853-022-08039-1:LaNi3, paper:10.1016/j.calphad.2011.10.004:LaNi3, paper:10.1016/j.calphad.2012.12.002:LaNi3, paper:10.1016/s0925-8388(00)01151-8:Ni3La, paper:10.1016/s0925-8388(97)00269-7:LaNi3  
 _tdb: _tdb:LaNi-00Dis.tdb:LANI3, tdb:LaNi-00Liu-LB.tdb:LANI3, tdb:LaNi-13An.tdb:LANI3, tdb:LaNi-23Ye.tdb:LANI3, tdb:LaNi-98Du.tdb:LANI3  
 
 
@@ -915,7 +919,7 @@ _tdb: _tdb:LaNi-00Dis.tdb:LANI3, tdb:LaNi-00Liu-LB.tdb:LANI3, tdb:LaNi-13An.tdb:
 75: CONST LANI3 : LA : NI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1007/s10853-022-08039-1](https://doi.org/10.1007/s10853-022-08039-1) Hongjian Ye, Maohua Rong, Qingrong Yao, Qing Chen, Jiang Wang, Guanghui Rao et al., Phase equilibria and thermodynamic properties in the RE-Ni (RE = rare earth metals) binary systems, J Mater Sci 58, 1260-1292 (2023).  
 _assessment that models this phase; reports values for this phase_
@@ -929,6 +933,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/bf02645085](https://doi.org/10.1007/bf02645085) H Okamoto, La-Ni (Lanthanum-Nickel), JPE 12, 615-616 (1991).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004) Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012).  
+_reports values for this phase_
 - [doi:10.2320/matertrans1989.30.583](https://doi.org/10.2320/matertrans1989.30.583) Guojun Qi, Ziqiang Li, Kimio Itagaki, Akira Yazawa, High Temperature Phase Relations in Ni&amp;ndash;RE(RE=La, Ce, Pr, Nd) Binary and Ternary Alloy Systems, Mater. Trans., JIM 30, 583-593 (1989).  
 _cited as the source of values for this phase_
 

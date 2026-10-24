@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga4Nb.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 2).
 
-Systems: [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
+Systems: [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga4Nb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.083 kJ/mol-atom | ht_Ga4Nb | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 2 |  |
-| -14.908 kJ/mol-atom | ht_Ga4Nb | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 1 |  |
+| -15.083 kJ/mol-atom | ht_Ga4Nb | 298.15 | model |  | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 2 |  |
+| -14.908 kJ/mol-atom | ht_Ga4Nb | 298.15 | model | Miedema | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 1 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ga4Nb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.083 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -14.908 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.083 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -14.908 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -12,7 +12,7 @@ Table: Phases of the Ir–Ti system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ir-ti-bcc-a2); _phase:ir-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 990–1940.98 K, x(Ti) 0.82957–1 | 13 | 1 |
+| [BCC_A2](#phase-ir-ti-bcc-a2); _phase:ir-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 990–1940.98 K, x(Ti) 0.82957–1 | 9 | 1 |
 | [FCC_A1](#phase-ir-ti-fcc-a1); _phase:ir-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2725 K, x(Ti) 0–0.09969 | 4 | 1 |
 | [HCP_A3](#phase-ir-ti-hcp-a3); _phase:ir-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99558–1 | 5 | 1 |
 | [IR3TI_L12](#phase-ir-ti-ir3ti-l12); _phase:ir-ti:ir3ti-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2387.95 K, x(Ti) 0.2238–0.27814 | 12 | 1 |
@@ -26,11 +26,11 @@ Table: Phases of the Ir–Ti system (8)
 - Id: `phase:ir-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 990–1940.98 K, x(Ti) 0.82957–1
-- Literature: 13 values (13 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ir-ti:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ir-ti:bcc-a2  
-_paper: _paper:10.1007/s11669-014-0302-1:(βTi), paper:10.1007/s11669-014-0302-1:βTiIr  
+Names (3): _corpus: _corpus:phase:ir-ti:bcc-a2  
+_paper: _paper:10.1007/s11669-014-0302-1:(βTi)  
 _tdb: _tdb:IrTi-14Wan.tdb:BCC_A2  
 
 

@@ -1,10 +1,10 @@
 # Ca–Pb system
 
-> Ca–Pb system: 100 accepted literature values (invariant reaction 39, formation 29, phase transition 20, mixing / partial 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Pb system: 98 accepted literature values (invariant reaction 37, formation 29, phase transition 20, mixing / partial 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-PB.html · Markdown: https://data.orchid-project.org/systems/CA-PB.md
 
-100 accepted literature values from 3 paper(s) (experimental 46, model 54); 3 calculated phase diagram(s).
+98 accepted literature values from 3 paper(s) (experimental 45, model 53); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-PB.json) · [CSV](https://data.orchid-project.org/systems/CA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-PB/CaPb-04Car.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-PB.html) · [Markdown](https://data.orchid-project.org/systems/CA-PB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
-| model | 54 |
+| experimental | 45 |
+| model | 53 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
+| invariant reaction | 37 |
 | phase transition | 20 |
 | formation | 29 |
 | mixing / partial | 12 |
@@ -74,7 +74,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Pb system (39)
+Table: Invariant reactions reported in the literature for the Ca–Pb system (37)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -103,13 +103,11 @@ Table: Invariant reactions reported in the literature for the Ca–Pb system (39
 | 911 | CaPb + CaPb3 -> Liq. | CaPb: Pb 0.5; CaPb3: Pb 0.75; L: Pb 0.635 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 13 |  |
 | 896.79 | eutectic: Liq ↔ CaPb + CaPb3 | Liq: Pb 0.6852; CaPb: Pb 0.5; CaPb3: Pb 0.75 | model | [1] Cartigny 2004 | Table 3, p. 4, row 12 |  |
 | 896.79 | CaPb + CaPb3 -> Liq. | CaPb: Pb 0.5; CaPb3: Pb 0.75; L: Pb 0.6852 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 14 |  |
-| 716.15 | polymorphic: βCa ↔ αCa | αCa: Pb 0 | experimental | [1] Cartigny 2004; _cites Chase 1985_ | Table 3, p. 4, row 3 |  |
-| 716.03 | polymorphic: βCa ↔ αCa | αCa: Pb 0 | model | [1] Cartigny 2004 | Table 3, p. 4, row 2 |  |
 | 602.52 | Liq. + CaPb3 -> (Pb) | L: Pb 0.996; CaPb3: Pb 0.75; (Pb): Pb 0.9949 | model | [2] Idbenali 2008; _cites Cartigny 2004_ [doi](https://doi.org/10.1016/j.tca.2004.01.001) | Table 4, p. 5, row 21 |  |
 | 602.52 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.996; CaPb3: Pb 0.75; Pb: Pb 0.9961 | model | [1] Cartigny 2004 | Table 3, p. 4, row 16 |  |
 | 601.9 | peritectic: Liq ↔ CaPb3 + Pb | Liq: Pb 0.9964; CaPb3: Pb 0.75; Pb: Pb 0.9949 | experimental | [1] Cartigny 2004; _cites Vigdorovich 1959_ | Table 3, p. 4, row 17 |  |
 | 601.15 | peritectic |  | experimental | [1] Cartigny 2004; _cites Shumacher 1930_ | p. 1 | “Contrarily, Shumacher and Bouton \[11\] found by resistivity and hardness measurements a peritectic reaction at 601.15 K.” |
-| 600.65 | congruent melting: Liq ↔ Pb | Liq: Pb 0.01; Pb: Pb 0.01 | model | [1] Cartigny 2004 | Table 3, p. 4, row 18 |  |
+| 600.65 | congruent melting: Liq ↔ Pb | Liq: Pb 0.01; Pb: Pb 1 | model | [1] Cartigny 2004 | Table 3, p. 4, row 18 |  |
 | 600 | eutectic: L -> CaPb3 + (Pb) |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 4 | “The temperature of this Lh-iCaPb3 + (Pb) eutectic reaction is calculated at 599.1 K, and is therefore in very good agreement with the data of Bouirden (600 K) \[9\], as well as the Pb compositions of the liquid eutectic and the (Pb) terminal solid solution.” |
 | 600 | eutectic |  | experimental | [2] Idbenali 2008; _cites Bouirden 1984_ | p. 1 | “The eutectic reaction was confirmed by Bouirden \[9,10\] at T = 600 K, who extensively studied the Ca-Pb system and determined phase diagram data as well as thermodynamic” |
 | 599.2 | Liq. -> CaPb3 + (Pb) | L: Pb 0.9959; CaPb3: Pb 0.75; (Pb): Pb 0.9964 | experimental | [2] Idbenali 2008; _cites Itkin 1992_ [doi](https://doi.org/10.1007/bf02667480) | Table 4, p. 5, row 19 |  |

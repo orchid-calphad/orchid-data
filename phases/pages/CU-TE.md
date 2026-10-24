@@ -29,8 +29,8 @@ Table: Phases of the Cu–Te system (22)
 | [CU4TE3_BETA](#phase-cu-te-cu4te3-beta); _phase:cu-te:cu4te3-beta_ | Cu3Te2 · cF28 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 588.49–1058.31 K, x(Te) 0.3893–0.42857 | 27 | 3 |
 | [CU4TE3_C38](#phase-cu-te-cu4te3-c38); _phase:cu-te:cu4te3-c38_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–650.03 K, x(Te) 0.42857–0.42857 | 12 | 3 |
 | [CU7TE4](#phase-cu-te-cu7te4); _phase:cu-te:cu7te4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–542.88 K, x(Te) 0.36–0.36 | 4 | 1 |
-| [CUTE_ALPHA](#phase-cu-te-cute-alpha); _phase:cu-te:cute-alpha_ | CuTe · oP4 · Pmmn (59) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–619.84 K, x(Te) 0.5–0.5 | 7 | 3 |
-| [CUTE_BETA](#phase-cu-te-cute-beta); _phase:cu-te:cute-beta_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 619.19–697 K, x(Te) 0.5–0.5 | 24 | 3 |
+| [CUTE_ALPHA](#phase-cu-te-cute-alpha); _phase:cu-te:cute-alpha_ | CuTe · oP4 · Pmmn (59) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–619.84 K, x(Te) 0.5–0.5 | 6 | 3 |
+| [CUTE_BETA](#phase-cu-te-cute-beta); _phase:cu-te:cute-beta_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 619.19–697 K, x(Te) 0.5–0.5 | 23 | 3 |
 | [FCC_A1](#phase-cu-te-fcc-a1); _phase:cu-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1357.77 K, x(Te) 0–0 | 8 | 3 |
 | [HCP_A3](#phase-cu-te-hcp-a3); _phase:cu-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-cu-te-liquid); _phase:cu-te:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 621.79–2500 K, x(Te) 0–1 | 49 | 3 |
@@ -725,7 +725,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.5000, Te 0.5000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–619.84 K, x(Te) 0.5–0.5
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-te:cute-alpha)
 
 Names (6): _corpus: _corpus:phase:cu-te:cute-alpha  
@@ -775,7 +775,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): (CuTe) — Hallstedt 2025 mmc2 row for CUTE_BETA: CuTe (high T)
 - Stoichiometry: Cu 0.5000, Te 0.5000
 - Stability: stable in 3 of 3 calculated diagram(s): 619.19–697 K, x(Te) 0.5–0.5
-- Literature: 24 values (24 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-te:cute-beta)
 
 Names (6): _corpus: _corpus:phase:cu-te:cute-beta  

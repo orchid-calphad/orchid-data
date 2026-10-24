@@ -12,7 +12,7 @@ Table: Phases of the Ge–Hf system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-hf-a4-diamond); _phase:ge-hf:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Hf) 0–0 | 5 | 1 |
+| [DIAMOND_A4](#phase-ge-hf-a4-diamond); _phase:ge-hf:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Hf) 0–0 | 3 | 1 |
 | [BCC_A2](#phase-ge-hf-bcc-a2); _phase:ge-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 2015.94–3999.33 K, x(Hf) 0.99993–1 | 4 | 1 |
 | [FCC_A1](#phase-ge-hf-fcc-a1); _phase:ge-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GE2HF_C49](#phase-ge-hf-ge2hf-c49); _phase:ge-hf:ge2hf-c49_ | ZrSi2 · C49 · oC12 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2022.59 K, x(Hf) 0.33333–0.33333 | 5 | 1 |
@@ -30,11 +30,11 @@ Table: Phases of the Ge–Hf system (11)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Hf) 0–0
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-hf:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:ge-hf:a4-diamond, corpus:phase:ge-hf:diamond-a4  
-_paper: _paper:10.1007/s10853-013-7814-7:(Ge), paper:10.1007/s10853-013-7814-7:(αHf)  
+Names (4): _corpus: _corpus:phase:ge-hf:a4-diamond, corpus:phase:ge-hf:diamond-a4  
+_paper: _paper:10.1007/s10853-013-7814-7:(Ge)  
 _tdb: _tdb:GeHf-14Tan.tdb:DIAMOND_A4  
 
 

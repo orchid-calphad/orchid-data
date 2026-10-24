@@ -1,10 +1,10 @@
 # Ge–Pt system
 
-> Ge–Pt system: 25 accepted literature values (invariant reaction 21, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Pt system: 43 accepted literature values (invariant reaction 21, formation 18, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-PT.html · Markdown: https://data.orchid-project.org/systems/GE-PT.md
 
-25 accepted literature values from 1 paper(s) (experimental 17, model 8); 1 calculated phase diagram(s).
+43 accepted literature values from 1 paper(s) (experimental 23, model 14, DFT 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-PT.json) · [CSV](https://data.orchid-project.org/systems/GE-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-PT/GePt-09Wan.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-PT.html) · [Markdown](https://data.orchid-project.org/systems/GE-PT.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 17 |
-| model | 8 |
+| experimental | 23 |
+| model | 14 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 21 |
 | phase transition | 4 |
+| formation | 18 |
 
 ## Calculated phase diagrams
 
@@ -81,6 +83,33 @@ Table: Invariant reactions reported in the literature for the Ge–Pt system (21
 | 1056 | eutectic: L -> Ge2Pt3 + GePt2 | L: Pt 0.635; Ge2Pt3: Pt 0.6; GePt2: Pt 0.666667 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 17 |  |
 | 1052 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.2195; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | model | [1] Wang 2009 | Table 3, p. 6, row 3 |  |
 | 1043 | eutectic: L -> (Ge) + Ge2Pt | L: Pt 0.22; (Ge): Pt 0; Ge2Pt: Pt 0.333333 | experimental | [1] Wang 2009; _cites Kresse 1996_ [doi](https://doi.org/10.1103/physrevb.54.11169) | Table 3, p. 6, row 2 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ge–Pt system (18)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -35.88 kJ/mol-atom | 298.15 | model | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009 | Table 1, p. 3, row 3 |  |
+| Ge2Pt |  | -33.68 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 2 |  |
+| Ge2Pt | [Ge2Pt](https://data.orchid-project.org/compounds/Ge2Pt.html) | -32.4 kJ/mol-atom | 298.15 | experimental | -32.817 (mp-aaaaachj) | -33.15 (oqmd-8191) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 1 |  |
+| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -42.13 kJ/mol-atom | 298.15 | model | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009 | Table 1, p. 3, row 6 |  |
+| Ge2Pt3 |  | -41.95 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 5 |  |
+| Ge2Pt3 | [Ge2Pt3](https://data.orchid-project.org/compounds/Ge2Pt3.html) | -41.9 kJ/mol-atom | 298.15 | experimental | -41.232 (mp-aaaabgbp) | -42.023 (oqmd-32367) | [1] Wang 2009; _cites Kleppa 1991_ [doi](https://doi.org/10.1016/0925-8388%2891%2990038-w) | Table 1, p. 3, row 4 |  |
+| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -42.4 kJ/mol-atom | 298.15 | experimental | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 10 |  |
+| Ge3Pt2 | [Ge3Pt2](https://data.orchid-project.org/compounds/Ge3Pt2.html) | -41.47 kJ/mol-atom | 298.15 | model | -39.788 (mp-aaabewqt) | -40.315 (oqmd-7905) | [1] Wang 2009 | Table 1, p. 3, row 12 |  |
+| Ge3Pt2 |  | -40.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 11 |  |
+| GePt |  | -46.34 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 8 |  |
+| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -45 kJ/mol-atom | 298.15 | experimental | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 7 |  |
+| GePt | [GePt](https://data.orchid-project.org/compounds/GePt.html) | -43.9 kJ/mol-atom | 298.15 | model | -45.207 (mp-aaabewsu) | -45.839 (oqmd-2258) | [1] Wang 2009 | Table 1, p. 3, row 9 |  |
+| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -38.12 kJ/mol-atom | 298.15 | model | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009 | Table 1, p. 3, row 15 |  |
+| GePt2 | [GePt2](https://data.orchid-project.org/compounds/GePt2.html) | -37.3 kJ/mol-atom | 298.15 | experimental | -33.167 (mp-aaaabdrp) | -39.089 (oqmd-1371420) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 13 |  |
+| GePt2 |  | -34.49 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 14 |  |
+| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -32.5 kJ/mol-atom | 298.15 | experimental | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009; _cites Lbibb 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990056-s) | Table 1, p. 3, row 16 |  |
+| GePt3 |  | -31.06 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2009 | Table 1, p. 3, row 17 |  |
+| GePt3 | [GePt3](https://data.orchid-project.org/compounds/GePt3.html) | -29.78 kJ/mol-atom | 298.15 | model | -29.939 (mp-aaaaaydn) | -31.572 (oqmd-2169233) | [1] Wang 2009 | Table 1, p. 3, row 18 |  |
 
 ## Other properties
 

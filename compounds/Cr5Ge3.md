@@ -28,8 +28,8 @@ Table: Uncertainty budget of the literature values of Cr5Ge3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -15.7 | kJ/mol-atom | 1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -12.3 | kJ/mol-atom | 2.5 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -16.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.3 | kJ/mol-atom | 2.5 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -16.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -12.3 | unspecified | 2.5 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 2.5 |
 
 ## DFT formation energies
@@ -40,7 +40,7 @@ Table: DFT formation energy of Cr5Ge3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabgisq | 1.856 | 0.019241 | I4/mcm | 10.857 | 0.1125 | no |
+| Materials Project | mp-aaabgisq | 1.856 | 0.019241 | I4/mcm | 10.8566 | 0.1125 | no |
 | OQMD | oqmd-13726 | 1.106 | 0.011464 | I4/mcm | 11.716 | 0.1214 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

@@ -12,7 +12,7 @@ Table: Phases of the Co–Y system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-y-bcc-a2); _phase:co-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1751.15–2499.99 K, x(Y) 0.99783–1 | 14 | 4 |
+| [BCC_A2](#phase-co-y-bcc-a2); _phase:co-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1751.15–2499.99 K, x(Y) 0.99783–1 | 4 | 4 |
 | [CO17Y2](#phase-co-y-co17y2); _phase:co-y:co17y2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1638.55 K, x(Y) 0.09531–0.16361 | 14 | 4 |
 | [CO2Y_C15](#phase-co-y-co2y-c15); _phase:co-y:co2y-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1426.96 K, x(Y) 0.33333–0.33333 | 8 | 4 |
 | [CO3Y](#phase-co-y-co3y); _phase:co-y:co3y_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1580.83 K, x(Y) 0.25–0.25 | 8 | 4 |
@@ -22,10 +22,10 @@ Table: Phases of the Co–Y system (15)
 | [CO5Y8](#phase-co-y-co5y8); _phase:co-y:co5y8_ | Co5Y8 · mP52 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1022.39 K, x(Y) 0.61538–0.61538 | 12 | 4 |
 | [CO7Y2](#phase-co-y-co7y2); _phase:co-y:co7y2_ | Co7Gd2 · hR18 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1593.04 K, x(Y) 0.22222–0.22222 | 10 | 4 |
 | [CO7Y6](#phase-co-y-co7y6); _phase:co-y:co7y6_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1049.19 K, x(Y) 0.46154–0.46154 | 4 | 4 |
-| [COY_B33](#phase-co-y-coy-b33); _phase:co-y:coy-b33_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1077.67 K, x(Y) 0.5–0.5 | 25 | 4 |
+| [COY_B33](#phase-co-y-coy-b33); _phase:co-y:coy-b33_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1077.67 K, x(Y) 0.5–0.5 | 24 | 4 |
 | [COY3_D011](#phase-co-y-coy3-d011); _phase:co-y:coy3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1168.59 K, x(Y) 0.75–0.75 | 8 | 4 |
-| [FCC_A1](#phase-co-y-fcc-a1); _phase:co-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 639.99–1773.03 K, x(Y) 0–0.00095 | 10 | 4 |
-| [HCP_A3](#phase-co-y-hcp-a3); _phase:co-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1752.54 K, x(Y) 0–1 | 10 | 4 |
+| [FCC_A1](#phase-co-y-fcc-a1); _phase:co-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 639.99–1773.03 K, x(Y) 0–0.00095 | 8 | 4 |
+| [HCP_A3](#phase-co-y-hcp-a3); _phase:co-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1752.54 K, x(Y) 0–1 | 8 | 4 |
 | [LIQUID](#phase-co-y-liquid); _phase:co-y:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1011.35–2500 K, x(Y) 0–1 | 52 | 4 |
 
 ## BCC_A2 (Co–Y)
@@ -33,11 +33,11 @@ Table: Phases of the Co–Y system (15)
 - Id: `phase:co-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1751.15–2499.99 K, x(Y) 0.99783–1
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-y:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:co-y:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2003.10.050:bcc(Y), paper:10.1016/j.jallcom.2005.06.037:β-Co17Y2, paper:10.1016/j.jallcom.2005.06.037:β-Y, paper:10.1016/j.jallcom.2005.06.037:ε-Co  
+Names (7): _corpus: _corpus:phase:co-y:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2003.10.050:bcc(Y), paper:10.1016/j.jallcom.2005.06.037:β-Y  
 _tdb: _tdb:CoY-04Du-LB.tdb:BCC_A2, tdb:CoY-06Gol.tdb:BCC_A2, tdb:CoY-21Wan.tdb:BCC_A2, tdb:CoY-96Du.tdb:BCC_A2  
 
 
@@ -71,19 +71,15 @@ _tdb: _tdb:CoY-04Du-LB.tdb:BCC_A2, tdb:CoY-06Gol.tdb:BCC_A2, tdb:CoY-21Wan.tdb:B
 34: CONST BCC_A2 : CO Y% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2005.06.037](https://doi.org/10.1016/j.jallcom.2005.06.037) William Golumbfskie, Zi-Kui Liu, CALPHAD/first-principles re-modeling of the Co–Y binary system, Journal of Alloys and Compounds 407, 193-200 (2006).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2003.10.050](https://doi.org/10.1016/j.jallcom.2003.10.050) Zhenmin Du, Dongxian Lü, Thermodynamic modelling of the Co–Y system, Journal of Alloys and Compounds 373, 171-178 (2004).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2005.06.037](https://doi.org/10.1016/j.jallcom.2005.06.037) William Golumbfskie, Zi-Kui Liu, CALPHAD/first-principles re-modeling of the Co–Y binary system, Journal of Alloys and Compounds 407, 193-200 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2020.102214](https://doi.org/10.1016/j.calphad.2020.102214) Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).  
 _assessment that models this phase_
 - [doi:10.1016/s0168-1273(86)08004-2](https://doi.org/10.1016/s0168-1273%2886%2908004-2) K.A. Gschneidner, F.W. Calderwood, Chapter 54 Intra rare earth binary alloys: Phase relationships, lattice parameters and systematics, Handbook on the Physics and Chemistry of Rare Earths, 1-161 (1986).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(65)90021-4](https://doi.org/10.1016/0022-5088%2865%2990021-4) J. Pelleg, O.N. Carlson, The yttrium-cobalt system, Journal of the Less Common Metals 9, 281-288 (1965).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(83)90030-5](https://doi.org/10.1016/0364-5916%2883%2990030-5) A.K. Niessen, F.R. de Boer, R. Boom, P.F. de Chatel, W.C.M. Mattens, A.R. Miedema, CALPHAD 7 (1983) 51–70.  
 _cited as the source of values for this phase_
 
 ## CO17Y2 (Co–Y)
@@ -595,7 +591,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): CrB · oC8 · Cmcm — CoY-21Wan.tdb: 'Prototype CrB (oC8, Cmcm)'
 - Stoichiometry: Co 0.5000, Y 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1077.67 K, x(Y) 0.5–0.5
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-y:coy-b33)
 
 Names (17): _corpus: _corpus:phase:co-y:coy-b33  
@@ -705,7 +701,7 @@ _assessment that models this phase_
 - Id: `phase:co-y:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 639.99–1773.03 K, x(Y) 0–0.00095
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-y:fcc-a1)
 
 Names (8): _corpus: _corpus:phase:co-y:fcc-a1  
@@ -743,11 +739,11 @@ _tdb: _tdb:CoY-04Du-LB.tdb:FCC_A1, tdb:CoY-06Gol.tdb:FCC_A1, tdb:CoY-21Wan.tdb:F
 29: CONST FCC_A1 : CO% Y : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/j.jallcom.2005.06.037](https://doi.org/10.1016/j.jallcom.2005.06.037) William Golumbfskie, Zi-Kui Liu, CALPHAD/first-principles re-modeling of the Co–Y binary system, Journal of Alloys and Compounds 407, 193-200 (2006).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2003.10.050](https://doi.org/10.1016/j.jallcom.2003.10.050) Zhenmin Du, Dongxian Lü, Thermodynamic modelling of the Co–Y system, Journal of Alloys and Compounds 373, 171-178 (2004).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2005.06.037](https://doi.org/10.1016/j.jallcom.2005.06.037) William Golumbfskie, Zi-Kui Liu, CALPHAD/first-principles re-modeling of the Co–Y binary system, Journal of Alloys and Compounds 407, 193-200 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2020.102214](https://doi.org/10.1016/j.calphad.2020.102214) Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).  
 _assessment that models this phase_
@@ -755,19 +751,17 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(65)90021-4](https://doi.org/10.1016/0022-5088%2865%2990021-4) J. Pelleg, O.N. Carlson, The yttrium-cobalt system, Journal of the Less Common Metals 9, 281-288 (1965).  
 _cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(83)90030-5](https://doi.org/10.1016/0364-5916%2883%2990030-5) A.K. Niessen, F.R. de Boer, R. Boom, P.F. de Chatel, W.C.M. Mattens, A.R. Miedema, CALPHAD 7 (1983) 51–70.  
-_cited as the source of values for this phase_
 
 ## HCP_A3 (Co–Y)
 
 - Id: `phase:co-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1752.54 K, x(Y) 0–1
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-y:hcp-a3)
 
-Names (9): _corpus: _corpus:phase:co-y:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2003.10.050:hcp(Co), paper:10.1016/j.jallcom.2003.10.050:hcp(Y), paper:10.1016/j.jallcom.2005.06.037:(α-Y), paper:10.1016/j.jallcom.2005.06.037:α-Y  
+Names (8): _corpus: _corpus:phase:co-y:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2003.10.050:hcp(Co), paper:10.1016/j.jallcom.2003.10.050:hcp(Y), paper:10.1016/j.jallcom.2005.06.037:(α-Y)  
 _tdb: _tdb:CoY-04Du-LB.tdb:HCP_A3, tdb:CoY-06Gol.tdb:HCP_A3, tdb:CoY-21Wan.tdb:HCP_A3, tdb:CoY-96Du.tdb:HCP_A3  
 
 
@@ -801,7 +795,7 @@ _tdb: _tdb:CoY-04Du-LB.tdb:HCP_A3, tdb:CoY-06Gol.tdb:HCP_A3, tdb:CoY-21Wan.tdb:H
 39: CONST HCP_A3 : CO% Y% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.jallcom.2003.10.050](https://doi.org/10.1016/j.jallcom.2003.10.050) Zhenmin Du, Dongxian Lü, Thermodynamic modelling of the Co–Y system, Journal of Alloys and Compounds 373, 171-178 (2004).  
 _assessment that models this phase; reports values for this phase_
@@ -809,8 +803,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2020.102214](https://doi.org/10.1016/j.calphad.2020.102214) Y. Wang, M. Ostrowska, G. Cacciamani, Calphad, 72, 102214(2021).  
 _assessment that models this phase_
-- [doi:10.1016/s0168-1273(86)08004-2](https://doi.org/10.1016/s0168-1273%2886%2908004-2) K.A. Gschneidner, F.W. Calderwood, Chapter 54 Intra rare earth binary alloys: Phase relationships, lattice parameters and systematics, Handbook on the Physics and Chemistry of Rare Earths, 1-161 (1986).  
-_cited as the source of values for this phase_
 
 ## LIQUID (Co–Y)
 

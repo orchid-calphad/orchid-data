@@ -1,0 +1,283 @@
+{
+ "components": [
+  "SR",
+  "TE",
+  "VA"
+ ],
+ "phases": [
+  "SRTE_B1"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SR",
+    "TE"
+   ],
+   [
+    "SR",
+    "TE"
+   ],
+   [
+    "SR",
+    "TE"
+   ],
+   [
+    "SR",
+    "TE"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -174000.0,
+    -167970.0,
+    -187880.0,
+    -167980.0
+   ]
+  ]
+ ],
+ "reference": "Yu 2022, doi:10.1007/s11669-022-00950-z",
+ "bibtex": "yu2022_0fe98f",
+ "weight": [
+  0.049092,
+  0.049092,
+  0.049092,
+  0.049092
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB SrTe-22Yu.tdb (sha256 e40e229b044ae412f8e7db991c209295d17f983523c19df4efbed2876640956d), phase SRTE_B1. Ids, in value order: ORC-AMQQ2ERCC5 ORC-W6B74HU54M ORC-WCUTKKVVE2 ORC-ZGM6VXBR7V. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "SrTe-22Yu.tdb",
+   "path": "databases/sgte-binary/SrTe-22Yu.tdb",
+   "sha256": "e40e229b044ae412f8e7db991c209295d17f983523c19df4efbed2876640956d",
+   "phase": "SRTE_B1"
+  },
+  "registry_phase": "phase:sr-te:srte-b1",
+  "mapping": [
+   {
+    "id": "ORC-AMQQ2ERCC5",
+    "compound": "SrTe",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-W6B74HU54M",
+    "compound": "SrTe",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-WCUTKKVVE2",
+    "compound": "SrTe",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-ZGM6VXBR7V",
+    "compound": "SrTe",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-022-00950-z"
+  ],
+  "dois": [
+   "10.1007/s11669-022-00950-z"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SR-TE",
+     "n": 125,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -174.0,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-AMQQ2ERCC5",
+    "compound": "SrTe",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 125,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SR-TE"
+    }
+   },
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SR-TE",
+     "n": 125,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -167.97,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-W6B74HU54M",
+    "compound": "SrTe",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 125,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SR-TE"
+    }
+   },
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SR-TE",
+     "n": 125,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -187.88,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-WCUTKKVVE2",
+    "compound": "SrTe",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 125,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SR-TE"
+    }
+   },
+   {
+    "sigma": 10185.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "SR-TE",
+     "n": 125,
+     "sigma_robust_kJ": 10.185,
+     "bias_median_kJ_not_applied": 1.08,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      7.116,
+      13.21
+     ],
+     "n_full_stratum": 125
+    },
+    "weight_used": 0.049092,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -167.98,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ZGM6VXBR7V",
+    "compound": "SrTe",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10185.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10185.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 125,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|pblock_anion|SR-TE"
+    }
+   }
+  ]
+ }
+}

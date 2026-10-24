@@ -18,7 +18,7 @@ Table: Phases of the Ge–S system (10)
 | [FCC_A1](#phase-ge-s-fcc-a1); _phase:ge-s:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GES_B16](#phase-ge-s-ges-b16); _phase:ge-s:ges-b16_ | GeS · B16 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–863.49 K, x(S) 0.5–0.5 | 0 | 1 |
 | [GES_BETA](#phase-ge-s-ges-beta); _phase:ge-s:ges-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 863.49–950.37 K, x(S) 0.5–0.5 | 0 | 1 |
-| [GES2](#phase-ge-s-ges2); _phase:ge-s:ges2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1109.08 K, x(S) 0.66667–0.66667 | 0 | 1 |
+| [GES2](#phase-ge-s-ges2); _phase:ge-s:ges2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1109.08 K, x(S) 0.66667–0.66667 | 13 | 1 |
 | [HCP_A3](#phase-ge-s-hcp-a3); _phase:ge-s:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ge-s-liquid); _phase:ge-s:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 384.08–2500 K, x(S) 0–1 | 0 | 1 |
 | [MONOCLINIC_S](#phase-ge-s-s-monoclinic); _phase:ge-s:s-monoclinic_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 368.3–391.08 K, x(S) 1–1 | 0 | 1 |
@@ -27,6 +27,7 @@ Table: Phases of the Ge–S system (10)
 
 - Id: `phase:ge-s:a16-orthorhombic`; status `assigned`
 - Structure: alpha-S · A16 · oF128 · Fddd (70); type `st:a16-alpha-s-of128`; tier A: standard phase name; confidence high
+- Stoichiometry: S 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–368.3 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-s:a16-orthorhombic)
@@ -197,10 +198,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): GeS2 · mP48 · P2_1/c — GeS-22Che.tdb: 'Prototype GeS2 (mP48, P2_1/c) beta'
 - Stoichiometry: Ge 0.3333, S 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1109.08 K, x(S) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-s:ges2)
 
-Names (2): _corpus: _corpus:phase:ge-s:ges2  
+Names (3): _corpus: _corpus:phase:ge-s:ges2  
+_paper: _paper:10.1007/s11664-022-09474-1:GeS2  
 _tdb: _tdb:GeS-22Che.tdb:GES2  
 
 
@@ -213,10 +215,12 @@ _tdb: _tdb:GeS-22Che.tdb:GES2
 73: CONST GES2 : GE : S : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1) Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1107/s0567740875006851](https://doi.org/10.1107/s0567740875006851) G. Dittmar, H. Schäfer, Die Kristallstruktur von H.T.-GeS\<sub>2\</sub>, Acta Crystallogr B Struct Sci 31, 2060-2064 (1975).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (Ge–S)
 
@@ -277,6 +281,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:MONOCLINIC; no_structure_token
 - Candidate (sgte_mmc2): beta-S · mP48 · P2_1/c (14) — Hallstedt 2025 mmc2 row for MONOCLINIC_S: beta-S
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — GeS-22Che.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 368.3–391.08 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-s:s-monoclinic)

@@ -14,7 +14,7 @@ Table: Phases of the Te–Yb system (6)
 |---|---|---|---|---:|---:|
 | [HEXAGONAL_A8](#phase-te-yb-a8-hexagonal); _phase:te-yb:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 2 | 2 |
 | [BCC_A2](#phase-te-yb-bcc-a2); _phase:te-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1033–2500 K, x(Te) 0–0 | 2 | 2 |
-| [FCC_A1](#phase-te-yb-fcc-a1); _phase:te-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1033 K, x(Te) 0–0 | 4 | 2 |
+| [FCC_A1](#phase-te-yb-fcc-a1); _phase:te-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1033 K, x(Te) 0–0 | 0 | 2 |
 | [HCP_A3](#phase-te-yb-hcp-a3); _phase:te-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-te-yb-liquid); _phase:te-yb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 721.7–2500 K, x(Te) 0–1 | 6 | 2 |
 | [YBTE_B1](#phase-te-yb-ybte-b1); _phase:te-yb:ybte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2003.55 K, x(Te) 0.5–0.5 | 6 | 2 |
@@ -99,11 +99,10 @@ _assessment that models this phase_
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stoichiometry: Yb 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1033 K, x(Te) 0–0
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:te-yb:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:te-yb:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2015.03.224:(βYb)  
+Names (3): _corpus: _corpus:phase:te-yb:fcc-a1  
 _tdb: _tdb:YbTe-15Gha.tdb:FCC_A1, tdb:YbTe-15Wan.tdb:FCC_A1  
 
 
@@ -123,16 +122,12 @@ _tdb: _tdb:YbTe-15Gha.tdb:FCC_A1, tdb:YbTe-15Wan.tdb:FCC_A1
 33: CONST FCC_A1 : YB : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.jallcom.2015.03.224](https://doi.org/10.1016/j.jallcom.2015.03.224) H. Ghamri, Y. Djaballah, A. Belgacem-Bouzida, Thermodynamic modeling of the Eu–Te and Te–Yb systems, Journal of Alloys and Compounds 643, 121-128 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2015.10.007](https://doi.org/10.1016/j.calphad.2015.10.007) J. Wang, Y. Yuan, C. Li, C. Guo, Z. Du, B. Wu, Calphad, 51, 306-13(2015).  
 _assessment that models this phase_
-- [doi:10.1016/0022-5088(61)90003-0](https://doi.org/10.1016/0022-5088%2861%2990003-0) F.H. Spedding, J.J. Hanak, A.H. Daane, High temperature allotropy and thermal expansion of the rare-earth metals, Journal of the Less Common Metals 3, 110-124 (1961).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2015.03.224](https://doi.org/10.1016/j.jallcom.2015.03.224) H. Ghamri, Y. Djaballah, A. Belgacem-Bouzida, Thermodynamic modeling of the Eu–Te and Te–Yb systems, Journal of Alloys and Compounds 643, 121-128 (2015).  
+_assessment that models this phase_
 
 ## HCP_A3 (Te–Yb)
 

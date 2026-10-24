@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of PdSe2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -86.4 | kJ/mol (basis unstated) | 1.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -86.67 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -86.4 | kJ/mol (basis unstated) | 1.8 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -86.4 | kJ/mol (basis unstated) | 1.8 | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -86.67 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -86.4 | kJ/mol (basis unstated) | 1.8 | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

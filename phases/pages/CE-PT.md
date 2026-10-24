@@ -19,7 +19,7 @@ Table: Phases of the Ce–Pt system (13)
 | [CE5PT3](#phase-ce-pt-ce5pt3); _phase:ce-pt:ce5pt3_ | Pu5Rh3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1209.16 K, x(Pt) 0.37378–0.38497 | 4 | 1 |
 | [CE5PT4](#phase-ce-pt-ce5pt4); _phase:ce-pt:ce5pt4_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1085.71–1346.48 K, x(Pt) 0.44444–0.44444 | 5 | 1 |
 | [CE7PT3_D102](#phase-ce-pt-ce7pt3-d102); _phase:ce-pt:ce7pt3-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1134.46 K, x(Pt) 0.3–0.3 | 4 | 1 |
-| [CEPT_B33](#phase-ce-pt-cept-b33); _phase:ce-pt:cept-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1790 K, x(Pt) 0.5–0.5 | 11 | 1 |
+| [CEPT_B33](#phase-ce-pt-cept-b33); _phase:ce-pt:cept-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1790 K, x(Pt) 0.5–0.5 | 7 | 1 |
 | [CEPT2_C15](#phase-ce-pt-cept2-c15); _phase:ce-pt:cept2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2024.21 K, x(Pt) 0.6643–0.75166 | 6 | 1 |
 | [CEPT5_D2D](#phase-ce-pt-cept5-d2d); _phase:ce-pt:cept5-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2044.4 K, x(Pt) 0.83333–0.83333 | 6 | 1 |
 | [FCC_A1](#phase-ce-pt-fcc-a1); _phase:ce-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.94 K, x(Pt) 0–1 | 6 | 1 |
@@ -247,13 +247,13 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabfld and oqmd-18268, space group 63
 - Stoichiometry: Ce 0.5000, Pt 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1790 K, x(Pt) 0.5–0.5
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-pt:cept-b33)
 
-Names (6): _corpus: _corpus:phase:ce-pt:cept-b33  
+Names (5): _corpus: _corpus:phase:ce-pt:cept-b33  
 _mp: _mp:mp-aaaabfld  
 _oqmd: _oqmd:oqmd-18268  
-_paper: _paper:10.1016/j.calphad.2011.09.006:CePt, paper:10.1016/j.calphad.2011.09.006:CePtx  
+_paper: _paper:10.1016/j.calphad.2011.09.006:CePt  
 _tdb: _tdb:CePt-11Liu.tdb:CEPT_B33  
 
 

@@ -1,23 +1,20 @@
 # CrLaO3: enthalpy of formation
 
-> Enthalpy of formation of CrLaO3: 4 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of CrLaO3: 1 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/CrLaO3.html · Markdown: https://data.orchid-project.org/compounds/CrLaO3.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 1, model 3); experimental median -14.612 kJ/mol-atom (n = 1).
+1 accepted literature formation-enthalpy value(s) (model 1).
 
 Systems: [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of CrLaO3 reported in the literature (4)
+Table: Enthalpy of formation of CrLaO3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.612 kJ/mol-atom ± 2.79 | LaCrO3 | 1078 | experimental | Drop solution calorimetry in 2PbO x B2O3 | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009; _cites Cheng 2005_ [doi](https://doi.org/10.1557/jmr.2005.0018) | Table 1, p. 3, row 4 |  |
 | -273.64 kJ/mol-atom | Rhombohedral LaCrO3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 1 |  |
-| -14.74 kJ/mol-atom | Rhombohedral LaCrO3 | 298.15 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 2 |  |
-| -12.47 kJ/mol-atom | Rhombohedral LaCrO3 | 975 | model |  | [Cr–La–O](https://data.orchid-project.org/systems/CR-LA-O.html) | [1] Povoden 2009 | Table 1, p. 3, row 3 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +24,7 @@ Table: Uncertainty budget of the literature values of CrLaO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.612 | kJ/mol-atom | 2.79 | 0.001 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -273.64 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -14.74 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12.47 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -273.64 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of HfC0.621
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -133.1 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -133.1 | kJ/mol (basis unstated) |  | 0.05 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
 
 ## Sources
 

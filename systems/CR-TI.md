@@ -1,10 +1,10 @@
 # Cr–Ti system
 
-> Cr–Ti system: 115 accepted literature values (invariant reaction 83, phase equilibrium 15, phase transition 12, formation 5) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Ti system: 191 accepted literature values (invariant reaction 83, crystal structure 76, phase equilibrium 15, phase transition 12) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-TI.html · Markdown: https://data.orchid-project.org/systems/CR-TI.md
 
-115 accepted literature values from 2 paper(s) (experimental 58, model 50, unspecified 7); 8 calculated phase diagram(s).
+191 accepted literature values from 3 paper(s) (experimental 74, model 50, DFT 60, unspecified 7); 8 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-TI.json) · [CSV](https://data.orchid-project.org/systems/CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-TI/CrTi-00Zhu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CR-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/CR-TI.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 58 |
+| experimental | 74 |
 | model | 50 |
+| DFT | 60 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -24,6 +25,7 @@ Table: Accepted values by property group
 | phase transition | 12 |
 | phase equilibrium | 15 |
 | formation | 5 |
+| crystal structure | 76 |
 
 ## Calculated phase diagrams
 
@@ -236,12 +238,96 @@ Table: Phase equilibrium, Cr–Ti system
 | Phase composition |  | 1423.15 | Laves (Ti-rich) + bcc (Ti-rich); _Laves (Ti-rich): Cr 0.638, Ti 0.362; bcc (Ti-rich): Cr 0.363, Ti 0.637_ | experimental | [1] Flores 2024 | Table 3, p. 6, row 12 |  |
 | Phase composition |  | 1473.15 | bcc (Cr-rich) + Laves (Cr-rich) + Laves (Ti-rich) + bcc (Ti-rich); _bcc (Cr-rich): Cr 0.885, Ti 0.115; Laves (Cr-rich): Cr 0.673, Ti 0.327; Laves (Ti-rich): Cr 0.636, Ti 0.364; bcc (Ti-rich): Cr 0.392, Ti 0.608_ | experimental | [1] Flores 2024 | Table 3, p. 6, row 4 |  |
 
+### Crystal structure (76)
+
+Table: Crystal structure, Cr–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.8619 Å | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| Lattice a | 6.8286 Å | 0 | Cr2Ti (C15); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 49 |  |
+| Lattice a | 4.8427 Å | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| Lattice a | 5.6373 Å | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| Lattice a | 5.6317 Å | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| Lattice a | 5.6968 Å | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| Lattice a | 5.6273 Å | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| Lattice a | 5.1321 Å | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| Lattice a | 7.15 Å | 0 | CrTi2 (C15); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 52 |  |
+| Lattice a | 5.1243 Å | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| Lattice a | 4.9322 Å | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| Lattice a | 0.069324 Å | 298.15 | Cr2Ti (C15); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 47 |  |
+| Lattice a | 4.9322 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| Lattice c | 7.7839 Å | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| Lattice c | 15.6836 Å | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| Lattice c | 7.0672 Å | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| Lattice c | 14.1717 Å | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| Lattice c | 6.3196 Å | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| Lattice c | 12.907 Å | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| Lattice c | 7.8629 Å | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| Lattice c | 15.8744 Å | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| Lattice c | 8.0053 Å | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| Lattice c | 16.011 Å | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice 4e z | 0.0947 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice 4e z | 0.0871 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice 4e z | 0.0729 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice 4e z | 0.0908 not_printed | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice 4e z | 0.094 not_printed | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice 4f z | 0.0605 not_printed | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| lattice 4f z | 0.0754 not_printed | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| lattice 4f z | 0.1111 not_printed | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| lattice 4f z | 0.0669 not_printed | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| lattice 4f z | 0.0625 not_printed | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| lattice 4f z 1 | 0.8437 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice 4f z 1 | 0.8374 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice 4f z 1 | 0.8203 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice 4f z 1 | 0.845 not_printed | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice 4f z 1 | 0.844 not_printed | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice 4f z 2 | 0.1236 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice 4f z 2 | 0.1264 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice 4f z 2 | 0.1286 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice 4f z 2 | 0.1288 not_printed | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice 4f z 2 | 0.125 not_printed | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice 6h x | 0.8299 not_printed | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| lattice 6h x | 0.1633 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice 6h x | 0.8289 not_printed | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| lattice 6h x | 0.1615 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice 6h x | 0.8259 not_printed | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| lattice 6h x | 0.1583 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice 6h x | 0.8237 not_printed | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| lattice 6h x | 0.1556 not_printed | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice 6h x | 0.833 not_printed | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| lattice 6h x | 0.167 not_printed | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice 6h y | 0.6599 not_printed | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| lattice 6h y | 0.3266 not_printed | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice 6h y | 0.6579 not_printed | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| lattice 6h y | 0.3229 not_printed | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice 6h y | 0.6518 not_printed | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| lattice 6h y | 0.3167 not_printed | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice 6h y | 0.6474 not_printed | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| lattice 6h y | 0.3112 not_printed | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice 6h y | 0.666 not_printed | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| lattice 6h y | 0.334 not_printed | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+| lattice v atom | 1.32789 10^7 pm^3 | 0 | Cr2Ti (C14); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 48 |  |
+| lattice v atom | 1.32676 10^7 pm^3 | 0 | Cr2Ti (C15); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 49 |  |
+| lattice v atom | 1.3272 10^7 pm^3 | 0 | Cr2Ti (C36); _alloy: Ti 0.333333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 57 |  |
+| lattice v atom | 1.6208 10^7 pm^3 | 0 | Cr2Ti10 (C14); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 53 |  |
+| lattice v atom | 1.62188 10^7 pm^3 | 0 | Cr2Ti10 (C36); _alloy: Ti 0.833333_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 60 |  |
+| lattice v atom | 1.48011 10^7 pm^3 | 0 | Cr6Ti6 (C14); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 50 |  |
+| lattice v atom | 1.47483 10^7 pm^3 | 0 | Cr6Ti6 (C36); _alloy: Ti 0.5_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 58 |  |
+| lattice v atom | 1.49463 10^7 pm^3 | 0 | CrTi2 (C14); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 51 |  |
+| lattice v atom | 1.52301 10^7 pm^3 | 0 | CrTi2 (C15); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 52 |  |
+| lattice v atom | 1.50412 10^7 pm^3 | 0 | CrTi2 (C36); _alloy: Ti 0.666667_ | DFT | [3] Pavlů 2010 | Table 2, p. 3, row 59 |  |
+| lattice v atom | 1.40543 10^7 pm^3 | 298.15 | Cr2Ti (C14); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 46 |  |
+| lattice v atom | 1.38816 10^7 pm^3 | 298.15 | Cr2Ti (C15); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 47 |  |
+| lattice v atom | 1.40546 10^7 pm^3 | 298.15 | Cr2Ti (C36); _alloy: Ti 0.333333_ | experimental | [3] Pavlů 2010; _cites Villars 1991_ | Table 2, p. 3, row 56 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Agustin Flores, Sylvie Chatain, Paul Fossati, Frank Stein, Jean-Marc Joubert, Experimental Investigation and Thermodynamic Assessment of the Cr–Ti System, J. Phase Equilib. Diffus. 45, 417-432 (2024). [doi:10.1007/s11669-024-01090-2](https://doi.org/10.1007/s11669-024-01090-2)
 2. G. Ghosh, Thermodynamic and kinetic modeling of the Cr-Ti-V system, JPE 23, 310-328 (2002). [doi:10.1361/105497102770331569](https://doi.org/10.1361/105497102770331569)
+3. J. Pavlů, J. Vřešt’ál, M. Šob, Thermodynamic modeling of Laves phases in the Cr–Hf and Cr–Ti systems: Reassessment using first-principles results, Calphad 34, 215-221 (2010). [doi:10.1016/j.calphad.2010.03.003](https://doi.org/10.1016/j.calphad.2010.03.003)
 
 ## Please cite
 

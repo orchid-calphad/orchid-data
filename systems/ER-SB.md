@@ -100,9 +100,9 @@ Table: Enthalpies of formation, Er–Sb system (6)
 | Er5Sb3 | [Er5Sb3](https://data.orchid-project.org/compounds/Er5Sb3.html) | -83.05 kJ/mol-atom |  | model | -92.052 (mp-aaaaatem) | -85.758 (oqmd-99705) | [1] Wang 2011 | Table 3, p. 3, row 1 |  |
 | ErSb2 | [ErSb2](https://data.orchid-project.org/compounds/ErSb2.html) | -75.6 kJ/mol-atom | 298.15 | experimental | -30.891 (mp-aaacfydz) | -67.126 (oqmd-1436071) | [1] Wang 2011; _cites Goryacheva 1981_ | Table 3, p. 3, row 5 |  |
 | ErSb2 | [ErSb2](https://data.orchid-project.org/compounds/ErSb2.html) | -75.142 kJ/mol-atom |  | model | -30.891 (mp-aaacfydz) | -67.126 (oqmd-1436071) | [1] Wang 2011 | Table 3, p. 3, row 6 |  |
-| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -114.05 (mp-aaaaadgh) | -105.787 (oqmd-1753829) | [1] Wang 2011; _cites Goryacheva 1981_ | Table 3, p. 3, row 2 |  |
-| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -111.583 kJ/mol-atom |  | model | -114.05 (mp-aaaaadgh) | -105.787 (oqmd-1753829) | [1] Wang 2011 | Table 3, p. 3, row 4 |  |
-| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -109 kJ/mol-atom | 298.15 | experimental | -114.05 (mp-aaaaadgh) | -105.787 (oqmd-1753829) | [1] Wang 2011; _cites Pratt 1970_ | Table 3, p. 3, row 3 |  |
+| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -114.05 (mp-aaaaadgh) | -105.779 (oqmd-8168) | [1] Wang 2011; _cites Goryacheva 1981_ | Table 3, p. 3, row 2 |  |
+| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -111.583 kJ/mol-atom |  | model | -114.05 (mp-aaaaadgh) | -105.779 (oqmd-8168) | [1] Wang 2011 | Table 3, p. 3, row 4 |  |
+| αErSb | [ErSb](https://data.orchid-project.org/compounds/ErSb.html) | -109 kJ/mol-atom | 298.15 | experimental | -114.05 (mp-aaaaadgh) | -105.779 (oqmd-8168) | [1] Wang 2011; _cites Pratt 1970_ | Table 3, p. 3, row 3 |  |
 
 ## Other properties
 

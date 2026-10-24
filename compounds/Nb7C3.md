@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Nb7C3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 15.1964 | kJ/mol-atom |  | 5.000e-5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| 15.1964 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

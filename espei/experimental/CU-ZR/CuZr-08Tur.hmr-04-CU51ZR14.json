@@ -29,7 +29,7 @@
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JTZAQ5DB2I.28d5ac",
  "orchid_value_note": "value from the published records: page-checked conversion of the printed value to the TDB's SER reference phases at the same temperature (record `corrections`, field value, evidence.conversion; the printed value is kept in the record)",
- "weight": 0.121921,
+ "weight": 0.142816,
  "bibtex": "turchanin2008_458466",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -67,14 +67,14 @@
     "budget": {
      "sigma_printed": 76.0,
      "sigma_reading": 0.4597,
-     "sigma_method": 4100.0,
+     "sigma_method": 3500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": 90.61,
-     "sigma_effective": 4101.0,
+     "sigma_effective": 3501.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 312,
+     "method_n_pairs": 296,
      "method_entry": "value_types/HM_FORM/classes/unknown"
     },
     "printed": {
@@ -83,9 +83,9 @@
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_effective_used": 4101.0,
-    "weight_per_value_equivalent": 0.121921,
-    "weight_used": 0.121921
+    "sigma_effective_used": 3501.0,
+    "weight_per_value_equivalent": 0.142816,
+    "weight_used": 0.142816
    }
   ]
  },
@@ -93,7 +93,7 @@
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
   "suggested_weight": 1.0,
   "weight_before_2026_10_24": 6.578947,
-  "weight_written": 0.121921,
+  "weight_written": 0.142816,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

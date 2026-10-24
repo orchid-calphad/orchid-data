@@ -1,10 +1,10 @@
 # Al–Se system
 
-> Al–Se system: 11 accepted literature values (phase transition 6, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Se system: 19 accepted literature values (phase transition 6, formation 5, invariant reaction 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-SE.html · Markdown: https://data.orchid-project.org/systems/AL-SE.md
 
-11 accepted literature values from 1 paper(s) (experimental 2, model 7, unspecified 2); 1 calculated phase diagram(s).
+19 accepted literature values from 1 paper(s) (experimental 7, model 8, DFT 2, unspecified 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-SE.json) · [CSV](https://data.orchid-project.org/systems/AL-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-SE/AlSe-19Shi.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AL-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-SE.html) · [Markdown](https://data.orchid-project.org/systems/AL-SE.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 7 |
+| experimental | 7 |
+| model | 8 |
+| DFT | 2 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -22,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 6 |
+| formation | 5 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -53,8 +56,22 @@ Table: Invariant reactions reported in the literature for the Al–Se system (5)
 | 933.15 | eutectic: L -> (αAl) + Al2Se3 | (αAl): Se 0; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 1 |  |
 | 929.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 3 |  |
 | 924.25 | eutectic: L -> (αAl) + Al2Se3 | L: Se 0.001; (αAl): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 2 |  |
-| 494.05 | eutectic: L -> (Se) + Al2Se3 | L: Se 1; (Se): Se 0; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 5 |  |
-| 493.15 | eutectic: L -> (Se) + Al2Se3 | (Se): Se 0; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 4 |  |
+| 494.05 | eutectic: L -> (Se) + Al2Se3 | L: Se 1; (Se): Se 1; Al2Se3: Se 0.6 | model | [1] Shi 2019 | Table 6, p. 9, row 5 |  |
+| 493.15 | eutectic: L -> (Se) + Al2Se3 | (Se): Se 1; Al2Se3: Se 0.6 | unspecified | [1] Shi 2019; _cites The 2019_ | Table 6, p. 9, row 4 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–Se system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -113.4 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -108.5 kJ/mol-atom | 298.15 | experimental | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
+| Al2Se3 | [Al2Se3](https://data.orchid-project.org/compounds/Al2Se3.html) | -107.7 kJ/mol-atom | 298.15 | model | -108.385 (mp-aaaaarha) | -82.526 (oqmd-1376246) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
+| Al2Se3 |  | -81.72 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
+| Al2Se3 |  | -81.24 kJ/mol-atom | 0 | DFT |  |  | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
 
 ## Other properties
 
@@ -70,6 +87,16 @@ Table: Phase transition, Al–Se system
 | Phase transition | 933.15 K | 933.15 | L ? (aAl) ? Al3Se4 | experimental | [1] Shi 2019 | p. 4 | “L ? (aAl) ? Al3Se4 and L ? (Se) ? Al3Se4, were determined to occur at about 660 C and 0.1 at.% Se and about 220 C and 99.9 at.% Se.” |
 | Phase transition | 1212.85 K | 1212.85 |  | model | [1] Shi 2019 | p. 7 | “The calculated melting temperature of Al2Se3 is 939.7 C.” |
 | Phase transition | 1213.15 K | 1213.15 |  | model | [1] Shi 2019 | p. 7 | “In Fig. 6, the calculated melting temperature of Al2Se3 is 940.0 C.” |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Al–Se system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 1.168 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
+| Lattice b | 0.6733 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
+| Lattice c | 0.7239 Å | 298.15 | Al2Se3; _alloy: Se 0.6_ | experimental | [1] Shi 2019; _cites Steigmann 1966_ [doi](https://doi.org/10.1107/s0365110x66001506) | Table 2, p. 3, row 8 |  |
 
 ## Sources
 

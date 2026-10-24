@@ -137,14 +137,14 @@ Table: Invariant reactions reported in the literature for the Cu–Ga system (85
 | 595 | eutectoid: hcp \<-> fcc + zeta' | zeta': Ga 0.219 | experimental | [2] Li 2008; _cites Kittl 1964_ | Table 1, p. 2, row 25 |  |
 | 595 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Kittl 1965_ | Table 4, p. 5, row 36 |  |
 | 593 | GAMMA_ORD + HCP_A3 + CU0778GA0222 | GAMMA_ORD: Cu 0.5, Ga 0.5; CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 32 |  |
-| 592 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.213; gamma1: Ga 0.296; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 27 |  |
+| 592 | peritectoid: hcp + gamma1 \<-> zeta' | hcp: Ga 0.213; gamma1: Ga 0.296; zeta': Ga 0.222 | model | [2] Li 2008 | Table 1, p. 2, row 27 |  |
 | 591 | HCP_A3 + CU0778GA0222 + FCC_A1 | CU0778GA0222: Cu 0.778, Ga 0.222 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 35 |  |
-| 591 | eutectoid: hcp \<-> fcc + zeta' | hcp: Ga 0.213; fcc: Ga 0.194; zeta': Ga 0.00222 | model | [2] Li 2008 | Table 1, p. 2, row 24 |  |
+| 591 | eutectoid: hcp \<-> fcc + zeta' | hcp: Ga 0.213; fcc: Ga 0.194; zeta': Ga 0.222 | model | [2] Li 2008 | Table 1, p. 2, row 24 |  |
 | 532.6 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.43; L: Ga 0.948; CuGa2: Cu 0.333333, Ga 0.666667 | model | [2] Li 2008 | Table 1, p. 2, row 38 |  |
 | 532 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 38 |  |
 | 532 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Li 2008_ [doi](https://doi.org/10.1016/j.calphad.2008.03.006) | Table 4, p. 5, row 39 |  |
 | 532 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Cu 0.5, Ga 0.5; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008 | Table 1, p. 2, row 39 |  |
-| 527 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.00426; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 41 |  |
+| 527 | peritectic: gamma3 + L \<-> CuGa2 | gamma3: Ga 0.426; CuGa2: Cu 0.333333, Ga 0.666667 | experimental | [2] Li 2008; _cites Betterton 1951_ | Table 1, p. 2, row 41 |  |
 | 527 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Betterton 1952_ | Table 4, p. 5, row 41 |  |
 | 526 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | model | [1] Jendrzejczyk-Handzlik 2015 | Table 4, p. 5, row 37 |  |
 | 522 | LIQUID + GAMMA_3 + CUGA2 | GAMMA_3: Cu 0.5, Ga 0.5; CUGA2: Cu 0.333333, Ga 0.666667 | experimental | [1] Jendrzejczyk-Handzlik 2015; _cites Weibke 1934_ | Table 4, p. 5, row 40 |  |

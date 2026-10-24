@@ -13,12 +13,12 @@ Table: Phases of the Ga–Sn system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ga-sn-a11-orthorhombic); _phase:ga-sn:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 299–302.91 K, x(Sn) 0–0 | 2 | 2 |
-| [DIAMOND_A4](#phase-ga-sn-a4-diamond); _phase:ga-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 5 | 2 |
-| [BCT_A5](#phase-ga-sn-a5-bct); _phase:ga-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 292.91–505.08 K, x(Sn) 0.92293–1 | 3 | 2 |
+| [DIAMOND_A4](#phase-ga-sn-a4-diamond); _phase:ga-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [BCT_A5](#phase-ga-sn-a5-bct); _phase:ga-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 292.91–505.08 K, x(Sn) 0.92293–1 | 2 | 2 |
 | [BCC_A2](#phase-ga-sn-bcc-a2); _phase:ga-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ga-sn-fcc-a1); _phase:ga-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ga-sn-hcp-a3); _phase:ga-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ga-sn-liquid); _phase:ga-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 292.91–2500 K, x(Sn) 0–1 | 139 | 2 |
+| [LIQUID](#phase-ga-sn-liquid); _phase:ga-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 292.91–2500 K, x(Sn) 0–1 | 127 | 2 |
 
 ## ORTHORHOMBIC_A11 (Ga–Sn)
 
@@ -63,11 +63,10 @@ _assessment that models this phase_
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-sn:a4-diamond)
 
-Names (7): _corpus: _corpus:phase:ga-sn:a4-diamond, corpus:phase:ga-sn:diamond-a4  
-_paper: _paper:10.1007/bf02667485:(αGa), paper:10.1007/bf02667485:(αSn), paper:10.1007/bf02667485:αSn  
+Names (4): _corpus: _corpus:phase:ga-sn:a4-diamond, corpus:phase:ga-sn:diamond-a4  
 _tdb: _tdb:GaSn-79Ans.tdb:DIAMOND_A4, tdb:GaSn-92And-LB.tdb:DIAMOND_A4  
 
 
@@ -90,7 +89,7 @@ _tdb: _tdb:GaSn-79Ans.tdb:DIAMOND_A4, tdb:GaSn-92And-LB.tdb:DIAMOND_A4
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02667485](https://doi.org/10.1007/BF02667485) T. Anderson, I. Ansara, J. Phase Equilib., 13, 181-89(1992).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(79)90006-3](https://doi.org/10.1016/0364-5916%2879%2990006-3) I. Ansara, J.P. Bros, M. Gambino, Thermodynamic analysis of the germanium-based ternary systems (AlGaGe, AlGeSn, GaGeSn), Calphad 3, 225-233 (1979).  
 _assessment that models this phase_
 
@@ -99,7 +98,7 @@ _assessment that models this phase_
 - Id: `phase:ga-sn:a5-bct`; status `assigned`
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 292.91–505.08 K, x(Sn) 0.92293–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-sn:a5-bct)
 
 Names (5): _corpus: _corpus:phase:ga-sn:a5-bct  
@@ -240,7 +239,7 @@ _assessment that models this phase_
 - Id: `phase:ga-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 292.91–2500 K, x(Sn) 0–1
-- Literature: 139 values (139 accepted) from 1 papers
+- Literature: 127 values (127 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-sn:liquid)
 
 Names (4): _corpus: _corpus:phase:ga-sn:liquid  

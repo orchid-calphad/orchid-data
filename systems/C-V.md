@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/C-V.html · Markdown: https://data
 
 44 accepted literature values from 2 paper(s) (experimental 22, model 19, unspecified 3); 0 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/C-V.json) · [CSV](https://data.orchid-project.org/systems/C-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-V) · [phases (11)](https://data.orchid-project.org/phases/pages/C-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-V.html) · [Markdown](https://data.orchid-project.org/systems/C-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/C-V.json) · [CSV](https://data.orchid-project.org/systems/C-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-V) · [phases (10)](https://data.orchid-project.org/phases/pages/C-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-V.html) · [Markdown](https://data.orchid-project.org/systems/C-V.md)
 
 Table: Accepted values by evidence class
 
@@ -51,12 +51,12 @@ Table: Invariant reactions reported in the literature for the C–V system (25)
 | 1903 | Liquid \<-> V2C + bcc-(V) | Liquid: C 0.087; V2C: C 0.25 | experimental | [1] Hu 2006; _cites Storms 1962_ [doi](https://doi.org/10.1021/j100814a007) | Table 2, p. 3, row 10 |  |
 | 1540 | V4C3-x \<-> V2C + VCx | V4C3-x: C 0.379; V2C: C 0.35; VCx: C 0.419 | experimental | [1] Hu 2006; _cites Wiesenberger 1998_ [doi](https://doi.org/10.1016/s1359-6454%2897%2900204-8) | Table 2, p. 3, row 3 |  |
 | 1535 | V4C3-x \<-> V2C + VCx | V4C3-x: C 0.379; V2C: C 0.333; VCx: C 0.421 | model | [1] Hu 2006 | Table 2, p. 3, row 4 |  |
-| 1397 | V8C7 \<-> VCx | V8C7: C 0.00467 | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 2, p. 3, row 6 |  |
-| 1385 | V8C7 \<-> VCx | V8C7: C 0.00467 | unspecified | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 2, p. 3, row 5 |  |
-| 1383 | V8C7 \<-> VCx | V8C7: C 0.00467 | model | [1] Hu 2006 | Table 2, p. 3, row 7 |  |
-| 1331 | VCx \<-> V6C5 + V8C7 | VCx: C 0.0046; V6C5: C 0.454545, V 0.545455; V8C7: C 0.00467 | unspecified | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 2, p. 3, row 8 |  |
+| 1397 | V8C7 \<-> VCx | V8C7: C 0.467 | experimental | [1] Hu 2006; _cites Shacklette 1973_ [doi](https://doi.org/10.1103/physrevb.7.5041) | Table 2, p. 3, row 6 |  |
+| 1385 | V8C7 \<-> VCx | V8C7: C 0.467 | unspecified | [1] Hu 2006; _cites Emmons 1983_ [doi](https://doi.org/10.1007/bf00547575) | Table 2, p. 3, row 5 |  |
+| 1383 | V8C7 \<-> VCx | V8C7: C 0.467 | model | [1] Hu 2006 | Table 2, p. 3, row 7 |  |
+| 1331 | VCx \<-> V6C5 + V8C7 | VCx: C 0.46; V6C5: C 0.454545, V 0.545455; V8C7: C 0.467 | unspecified | [1] Hu 2006; _cites Lipatnikov 1999_ [doi](https://doi.org/10.1088/0953-8984/11/1/014) | Table 2, p. 3, row 8 |  |
 | 1331 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6 | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
-| 1329 | VCx \<-> V6C5 + V8C7 | VCx: C 0.00459; V6C5: C 0.00451; V8C7: C 0.00467 | model | [1] Hu 2006 | Table 2, p. 3, row 9 |  |
+| 1329 | VCx \<-> V6C5 + V8C7 | VCx: C 0.459; V6C5: C 0.451; V8C7: C 0.467 | model | [1] Hu 2006 | Table 2, p. 3, row 9 |  |
 | 1329 | eutectic: VCx ↔ V6 C5 + V8 C7 |  | model | [1] Hu 2006 | p. 6 | “The eutectic reaction: VCx ↔ V6 C5 + V8 C7 occurs at 1329 K with the compositions of 0.459 at.% C, 0.451 at.% C and 0.467 at.% C, respectively; this results is very close to the estimate by Lipatnikov et al., T ≈ 1331 K and at.% C ≈ 0.460 for VCx .” |
 
 ## Other properties

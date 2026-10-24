@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuEr.html · Markdown: https://d
 
 6 accepted literature formation-enthalpy value(s) (experimental 2, DFT 4); experimental median -87.65 kJ/mol-atom (n = 2); Materials Project -86.805 kJ/mol-atom (mp-aaaaaqql); OQMD -86.693 kJ/mol-atom (oqmd-10719).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–Er](https://data.orchid-project.org/systems/AU-ER.html)
 
 ## Literature values
 
@@ -14,12 +14,12 @@ Table: Enthalpy of formation of AuEr reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -90.2 kJ/mol-atom ± 1.9 | αAuEr | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 17 |  |
-| -85.1 kJ/mol-atom | βAuEr | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 21 |  |
-| -90.9 kJ/mol-atom | αAuEr | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
-| -88.6 kJ/mol-atom | βAuEr | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
-| -87.7 kJ/mol-atom | βAuEr |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 20 |  |
-| -77 kJ/mol-atom | αAuEr |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 16 |  |
+| -90.2 kJ/mol-atom ± 1.9 | αAuEr | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 17 |  |
+| -85.1 kJ/mol-atom | βAuEr | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 21 |  |
+| -90.9 kJ/mol-atom | αAuEr | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| -88.6 kJ/mol-atom | βAuEr | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
+| -87.7 kJ/mol-atom | βAuEr |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 20 |  |
+| -77 kJ/mol-atom | αAuEr |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 16 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of AuEr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -90.2 | kJ/mol-atom | 1.9 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -85.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -90.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -88.6 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -87.7 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -77 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -90.2 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -85.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -90.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -88.6 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -87.7 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -77 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

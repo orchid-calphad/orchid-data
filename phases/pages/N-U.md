@@ -13,7 +13,7 @@ Table: Phases of the N–U system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-n-u-a20-orthorhombic); _phase:n-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(N) 0–0 | 0 | 1 |
-| [BCC_A2](#phase-n-u-bcc-a2); _phase:n-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0 | 15 | 1 |
+| [BCC_A2](#phase-n-u-bcc-a2); _phase:n-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0 | 11 | 1 |
 | [FCC_A1](#phase-n-u-fcc-a1); _phase:n-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_B1](#phase-n-u-fcc-b1); _phase:n-u:fcc-b1_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–3066.3 K, x(N) 0.49679–0.5 | 113 | 1 |
 | [GAS](#phase-n-u-gas); _phase:n-u:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300.02–4000 K, x(N) 0.96215–1 | 13 | 1 |
@@ -28,6 +28,7 @@ Table: Phases of the N–U system (11)
 
 - Id: `phase:n-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(N) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:a20-orthorhombic)
@@ -55,11 +56,11 @@ _assessment that models this phase_
 - Id: `phase:n-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1048.99–1407.88 K, x(N) 0–0
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:n-u:bcc-a2  
-_paper: _paper:10.1016/s0022-3115(00)00043-x:N0.587U0.413 (β-N3U2), paper:10.1016/s0022-3115(00)00043-x:β-U(tet), paper:10.1016/s0022-3115(00)00043-x:γ-U(bcc_A2)  
+Names (4): _corpus: _corpus:phase:n-u:bcc-a2  
+_paper: _paper:10.1016/s0022-3115(00)00043-x:N0.587U0.413 (β-N3U2), paper:10.1016/s0022-3115(00)00043-x:γ-U(bcc_A2)  
 _tdb: _tdb:UN-00Che.tdb:BCC_A2  
 
 
@@ -118,7 +119,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): NaCl · B1 · cF8 · Fm-3m (225) — Hallstedt 2025 mmc2 row for FCC_B1: UN
 - Candidate (tdb_comment): NaCl · cF8 · Fm-3m — UN-00Che.tdb: 'Prototype NaCl (cF8, Fm-3m)'
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3066.3 K, x(N) 0.49679–0.5
-- Literature: 113 values (113 accepted) from 1 papers
+- Literature: 113 values (112 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:fcc-b1)
 
 Names (5): _corpus: _corpus:phase:n-u:fcc-b1  
@@ -268,6 +269,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UN-00Che.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 942.02–1048.99 K, x(N) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:u-tetragonal)
@@ -327,6 +329,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:n-u:u2n3-d52`; status `assigned`
 - Structure: A-La2O3 · D5_2 · hP5 · P-3m1 (164); type `st:d5-2-a-la2o3-hp5`; tier A: standard phase name; confidence high
+- Stoichiometry: N 0.5868, U 0.4132
 - Stability: stable in 1 of 1 calculated diagram(s): 1038.13–1626.26 K, x(N) 0.58678–0.58678
 - Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-u:u2n3-d52)

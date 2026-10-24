@@ -1,10 +1,10 @@
 # Ge–Si system
 
-> Ge–Si system: 126 accepted literature values (crystal structure 72, activity / EMF / Gibbs energy 33, mixing / partial 20, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Si system: 116 accepted literature values (crystal structure 64, activity / EMF / Gibbs energy 31, mixing / partial 20, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SI.html · Markdown: https://data.orchid-project.org/systems/GE-SI.md
 
-126 accepted literature values from 3 paper(s) (experimental 53, model 1, unspecified 72); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+116 accepted literature values from 3 paper(s) (experimental 51, model 1, unspecified 64); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SI.json) · [CSV](https://data.orchid-project.org/systems/GE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SI/GeSi-84Ole.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GE-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SI.html) · [Markdown](https://data.orchid-project.org/systems/GE-SI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 53 |
+| experimental | 51 |
 | model | 1 |
-| unspecified | 72 |
+| unspecified | 64 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 1 |
 | mixing / partial | 20 |
-| activity / EMF / Gibbs energy | 33 |
-| crystal structure | 72 |
+| activity / EMF / Gibbs energy | 31 |
+| crystal structure | 64 |
 
 ## Calculated phase diagrams
 
@@ -75,7 +75,7 @@ Table: Mixing / partial, Ge–Si system
 | Partial enthalpy; _printed: H^l_Si_ | 56.576 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9973, Si 0.0027_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 2 |  |
 | Partial enthalpy; _printed: H^l_Si_ | 53.947 kJ/mol (basis unstated) | 1327 | l; _alloy: Ge 0.9836, Si 0.0164_ | experimental | [2] Bergman 1992 | Table 1, p. 2, row 18 |  |
 
-### Activity / EMF / Gibbs energy (33)
+### Activity / EMF / Gibbs energy (31)
 
 Table: Activity / EMF / Gibbs energy, Ge–Si system
 
@@ -103,8 +103,6 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 | Activity Si; _printed: aSi_ | 0.366 1 | 1723 | liquid; _alloy: Ge 0.7, Si 0.3_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 4 |  |
 | Activity Si; _printed: aSi_ | 0.26 1 | 1723 | liquid; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
 | Activity Si; _printed: aSi_ | 0.46 1 | 1723 | liquid; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
-| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 1, Si 0_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 1 |  |
-| Gibbs energy; _printed: G^ex_ | 0 kJ/mol | 1723 | UNKNOWN; _alloy: Ge 0, Si 1_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 11 |  |
 | Gibbs energy; _printed: Gex_ | 0.89 kJ/mol | 1723 | liquid; _alloy: Ge 0.2, Si 0.8_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 9 |  |
 | Gibbs energy; _printed: Gex_ | 1.22 kJ/mol | 1723 | liquid; _alloy: Ge 0.3, Si 0.7_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 8 |  |
 | Gibbs energy; _printed: Gex_ | 0.48 kJ/mol | 1723 | liquid; _alloy: Ge 0.1, Si 0.9_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 10 |  |
@@ -115,7 +113,7 @@ Table: Activity / EMF / Gibbs energy, Ge–Si system
 | Gibbs energy; _printed: Gex_ | 0.89 kJ/mol | 1723 | liquid; _alloy: Ge 0.8, Si 0.2_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 3 |  |
 | Gibbs energy; _printed: Gex_ | 1.35 kJ/mol | 1723 | liquid; _alloy: Ge 0.6, Si 0.4_ | experimental | [2] Bergman 1992 | Table 3, p. 3, row 5 |  |
 
-### Crystal structure (72)
+### Crystal structure (64)
 
 Table: Crystal structure, Ge–Si system
 
@@ -123,8 +121,6 @@ Table: Crystal structure, Ge–Si system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.4307 Å | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 2 |  |
 | Lattice a | 5.6575 Å | 298.15 | (Ge, Si); _alloy: Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 1 |  |
-| Lattice a | 4.884 Å | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
-| Lattice a | 4.686 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
 | Lattice a | 5.596 Å | 298.15 | UNKNOWN; _alloy: Ge 0.75, Si 0.25_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 6 |  |
 | Lattice a | 5.5842 Å | 298.15 | UNKNOWN; _alloy: Ge 0.7, Si 0.3_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 7 |  |
 | Lattice a | 5.5261 Å | 298.15 | UNKNOWN; _alloy: Ge 0.45, Si 0.55_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 12 |  |
@@ -132,7 +128,6 @@ Table: Crystal structure, Ge–Si system
 | Lattice a | 5.4419 Å | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
 | Lattice a | 5.4624 Å | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
 | Lattice a | 5.5149 Å | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
-| Lattice a | 5.6575 Å | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
 | Lattice a | 5.5727 Å | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
 | Lattice a | 5.4522 Å | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
 | Lattice a | 5.4722 Å | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
@@ -140,14 +135,11 @@ Table: Crystal structure, Ge–Si system
 | Lattice a | 5.6325 Å | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
 | Lattice a | 5.6085 Å | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
 | Lattice a | 5.5609 Å | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
-| Lattice a | 5.431 Å | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
 | Lattice a | 5.5492 Å | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
 | Lattice a | 5.6448 Å | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
 | Lattice a | 5.5038 Å | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |
 | Lattice a | 5.4825 Å | 298.15 | UNKNOWN; _alloy: Ge 0.25, Si 0.75_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 16 |  |
 | Lattice a | 5.5373 Å | 298.15 | UNKNOWN; _alloy: Ge 0.5, Si 0.5_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 11 |  |
-| Lattice c | 2.692 Å | 298.15 | Ge; _alloy: Si 0_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 3 |  |
-| Lattice c | 2.585 Å | 298.15 | Si; _alloy: Si 1_ | unspecified | [3] Olesinski 1984 | Table 1, p. 3, row 4 |  |
 | lattice difference at at 25 c | 1.7 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.201, Si 0.799_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 11 |  |
 | lattice difference at at 25 c | 1.4 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.347, Si 0.653_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 10 |  |
 | lattice difference at at 25 c | 2.6 10^-4 nm | 373.15 | UNKNOWN; _alloy: Ge 0.513, Si 0.487_ | unspecified | [3] Olesinski 1984; _cites ref. 64Dis_ | Table 3, p. 3, row 9 |  |
@@ -179,7 +171,6 @@ Table: Crystal structure, Ge–Si system
 | lattice unspecified axis | 5.4419 Å | 298.15 | UNKNOWN; _alloy: Ge 0.05, Si 0.95_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 20 |  |
 | lattice unspecified axis | 5.4624 Å | 298.15 | UNKNOWN; _alloy: Ge 0.15, Si 0.85_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 18 |  |
 | lattice unspecified axis | 5.5149 Å | 298.15 | UNKNOWN; _alloy: Ge 0.4, Si 0.6_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 13 |  |
-| lattice unspecified axis | 5.6575 Å | 298.15 | UNKNOWN; _alloy: Ge 1, Si 0_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 1 |  |
 | lattice unspecified axis | 5.5727 Å | 298.15 | UNKNOWN; _alloy: Ge 0.65, Si 0.35_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 8 |  |
 | lattice unspecified axis | 5.4522 Å | 298.15 | UNKNOWN; _alloy: Ge 0.1, Si 0.9_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 19 |  |
 | lattice unspecified axis | 5.4722 Å | 298.15 | UNKNOWN; _alloy: Ge 0.2, Si 0.8_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 17 |  |
@@ -187,7 +178,6 @@ Table: Crystal structure, Ge–Si system
 | lattice unspecified axis | 5.6325 Å | 298.15 | UNKNOWN; _alloy: Ge 0.9, Si 0.1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 3 |  |
 | lattice unspecified axis | 5.6085 Å | 298.15 | UNKNOWN; _alloy: Ge 0.8, Si 0.2_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 5 |  |
 | lattice unspecified axis | 5.5609 Å | 298.15 | UNKNOWN; _alloy: Ge 0.6, Si 0.4_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 9 |  |
-| lattice unspecified axis | 5.431 Å | 298.15 | UNKNOWN; _alloy: Ge 0, Si 1_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 21 |  |
 | lattice unspecified axis | 5.5492 Å | 298.15 | UNKNOWN; _alloy: Ge 0.55, Si 0.45_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 10 |  |
 | lattice unspecified axis | 5.6448 Å | 298.15 | UNKNOWN; _alloy: Ge 0.95, Si 0.05_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 2 |  |
 | lattice unspecified axis | 5.5038 Å | 298.15 | UNKNOWN; _alloy: Ge 0.35, Si 0.65_ | unspecified | [3] Olesinski 1984 | Table 2, p. 3, row 14 |  |

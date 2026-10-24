@@ -558,7 +558,8 @@ _assessment that models this phase_
 - Id: `phase:o-v:v52o64`; status `assigned`
 - Structure: V13O16 · tI116 · I4_1/amd (141); type `st:v13o16-ti116`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: O 0.5517, V 0.4483
 - Stability: no calculated diagram
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-v:v52o64)

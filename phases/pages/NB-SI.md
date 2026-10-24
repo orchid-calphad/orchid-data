@@ -19,8 +19,8 @@ Table: Phases of the Nb–Si system (12)
 | [FCC_A1](#phase-nb-si-fcc-a1); _phase:nb-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 0 | 11 |
 | [HCP_A3](#phase-nb-si-hcp-a3); _phase:nb-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 0 | 11 |
 | [LIQUID](#phase-nb-si-liquid); _phase:nb-si:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 1662.23–4000 K, x(Si) 0–1 | 80 | 11 |
-| [NB3SI](#phase-nb-si-nb3si); _phase:nb-si:nb3si_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 1940–2270 K, x(Si) 0.25–0.25 | 73 | 11 |
-| [NB5SI3](#phase-nb-si-nb5si3); _phase:nb-si:nb5si3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2760.97 K, x(Si) 0.375–0.375 | 19 | 1 |
+| [NB3SI](#phase-nb-si-nb3si); _phase:nb-si:nb3si_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 1940–2270 K, x(Si) 0.25–0.25 | 81 | 11 |
+| [NB5SI3](#phase-nb-si-nb5si3); _phase:nb-si:nb5si3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2760.97 K, x(Si) 0.375–0.375 | 23 | 1 |
 | [NB5SI3_D8L](#phase-nb-si-nb5si3-d8l); _phase:nb-si:nb5si3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–2219.76 K, x(Si) 0.375–0.38215 | 27 | 10 |
 | [NB5SI3_D8M](#phase-nb-si-nb5si3-d8m); _phase:nb-si:nb5si3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 1914.75–2805.15 K, x(Si) 0.37502–0.40814 | 60 | 8 |
 | [NBSI2_C40](#phase-nb-si-nbsi2-c40); _phase:nb-si:nbsi2-c40_ | CrSi2 · C40 · hP9 · P6_222 (180) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2236.14 K, x(Si) 0.66667–0.66826 | 57 | 9 |
@@ -682,11 +682,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Nb 0.7500, Si 0.2500
 - Stability: stable in 11 of 11 calculated diagram(s): 1940–2270 K, x(Si) 0.25–0.25
-- Literature: 73 values (72 accepted) from 5 papers
+- Literature: 81 values (80 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-si:nb3si)
 
-Names (18): _corpus: _corpus:phase:nb-si:nb3si  
-_paper: _paper:10.1016/j.intermet.2004.03.011:Nb3Si, paper:10.1016/j.intermet.2005.08.013:Nb3Si, paper:10.1016/j.intermet.2005.08.013:NbSi3, paper:10.1016/j.intermet.2008.11.011:Nb3Si, paper:10.1016/s0966-9795(03)00021-9:Nb3Si, paper:10.1016/s0966-9795(98)00073-9:Nb3Si  
+Names (20): _corpus: _corpus:phase:nb-si:nb3si  
+_paper: _paper:10.1016/j.calphad.2013.04.004:Nb3Si, paper:10.1016/j.intermet.2004.03.011:Nb3Si, paper:10.1016/j.intermet.2005.08.013:Nb3Si, paper:10.1016/j.intermet.2005.08.013:NbSi3, paper:10.1016/j.intermet.2008.11.011:Nb3Si, paper:10.1016/j.jallcom.2017.04.279:Nb3Si, paper:10.1016/s0966-9795(03)00021-9:Nb3Si, paper:10.1016/s0966-9795(98)00073-9:Nb3Si  
 _tdb: _tdb:NbSi-02Fer-alt.tdb:NB3SI, tdb:NbSi-02Fer.tdb:NB3SI, tdb:NbSi-03Yan.tdb:NB3SI, tdb:NbSi-04Sha.tdb:NB3SI, tdb:NbSi-06Dav.tdb:NB3SI, tdb:NbSi-09Gen.tdb:NB3SI, tdb:NbSi-10Gen.tdb:NB3SI, tdb:NbSi-13Li.tdb:NB3SI, tdb:NbSi-16Jac.tdb:NB3SI, tdb:NbSi-17Jac.tdb:NB3SI, tdb:NbSi-99Lia.tdb:NB3SI  
 
 
@@ -769,13 +769,13 @@ _tdb: _tdb:NbSi-02Fer-alt.tdb:NB3SI, tdb:NbSi-02Fer.tdb:NB3SI, tdb:NbSi-03Yan.td
 45: CONST NB3SI : NB : SI : !
 ~~~~
 
-Example references (10 of 13; assessments first): 
+Example references (10 of 15; assessments first): 
 
 - [doi:10.1016/j.intermet.2005.08.013](https://doi.org/10.1016/j.intermet.2005.08.013) N. David, Y. Cartigny, T. Belmonte, J.M. Fiorani, M. Vilasi, Thermodynamic description of the Cr–Nb–Si isothermal section at 1473K, Intermetallics 14, 464-473 (2006).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011) G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/S0966-9795(03)00021-9](https://doi.org/10.1016/S0966-9795%2803%2900021-9) Y. Yang, Y.A. Chang, J.-C. Zhao, B.P. Bewlay, Intermetallics, 11, 407-15(2003).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(98)00073-9](https://doi.org/10.1016/S0966-9795%2898%2900073-9) H. Liang, Y.A. Chang, Intermetallics, 7, 561-70(1999).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -783,9 +783,9 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2008.11.011](https://doi.org/10.1016/j.intermet.2008.11.011) Tai Geng, Changrong Li, Jing Bao, Xinqing Zhao, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Ti system, Intermetallics 17, 343-357 (2009).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2010.07.003](https://doi.org/10.1016/j.calphad.2010.07.003) Tai Geng, Changrong Li, Xinqing Zhao, Huibin Xu, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Mo system, Calphad 34, 363-376 (2010).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.04.004](https://doi.org/10.1016/j.calphad.2013.04.004) Yan Li, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic optimization of the Nb–Si–W ternary system, Calphad 43, 112-123 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2010.07.003](https://doi.org/10.1016/j.calphad.2010.07.003) Tai Geng, Changrong Li, Xinqing Zhao, Huibin Xu, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Mo system, Calphad 34, 363-376 (2010).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.04.013](https://doi.org/10.1016/j.calphad.2016.04.013) A. Jacob, C. Schmetterer, A. Khvan, A. Kondratiev, D. Ivanov, B. Hallstedt, Liquidus projection and thermodynamic modeling of the Cr-Fe-Nb ternary system, Calphad 54 (2016) 1–15, doi:10.1016/j.calphad.2016.04.013.  
 _assessment that models this phase_
@@ -802,11 +802,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): W5Si3 · tI32 · I4/mcm — NbSi-99Lia.tdb: 'Prototype W5Si3 (tI32, I4/mcm), beta-Nb5Si3'
 - Stoichiometry: Nb 0.6250, Si 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2760.97 K, x(Si) 0.375–0.375
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-si:nb5si3)
 
-Names (4): _corpus: _corpus:phase:nb-si:nb5si3  
-_paper: _paper:10.1016/j.intermet.2004.03.011:Nb5Si3, paper:10.1016/s0966-9795(98)00073-9:Nb5Si3  
+Names (5): _corpus: _corpus:phase:nb-si:nb5si3  
+_paper: _paper:10.1016/j.intermet.2004.03.011:Nb5Si3, paper:10.1016/j.jallcom.2017.04.279:Nb5Si3, paper:10.1016/s0966-9795(98)00073-9:Nb5Si3  
 _tdb: _tdb:NbSi-99Lia.tdb:NB5SI3  
 
 
@@ -819,12 +819,16 @@ _tdb: _tdb:NbSi-99Lia.tdb:NB5SI3
 51: CONST NB5SI3 : NB : SI : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/S0966-9795(98)00073-9](https://doi.org/10.1016/S0966-9795%2898%2900073-9) H. Liang, Y.A. Chang, Intermetallics, 7, 561-70(1999).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2004.03.011](https://doi.org/10.1016/j.intermet.2004.03.011) G. Shao, Thermodynamic assessment of the Nb–Si–Al system, Intermetallics 12, 655-664 (2004).  
 _reports values for this phase_
+- [doi:10.1016/j.jallcom.2017.04.279](https://doi.org/10.1016/j.jallcom.2017.04.279) Claire A. Utton, Ioannis Papadimitriou, Hajime Kinoshita, Panos Tsakiropoulos, Experimental and thermodynamic assessment of the Ge-Nb-Si ternary phase diagram, Journal of Alloys and Compounds 717, 303-316 (2017).  
+_reports values for this phase_
+- [doi:10.1007/s11661-015-3149-0](https://doi.org/10.1007/s11661-015-3149-0) Ioannis Papadimitriou, Claire Utton, Panos Tsakiropoulos, On the Nb-Ge Binary System, Metall Mater Trans A 46, 5526-5536 (2015).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0956-716x(91)90387-g](https://doi.org/10.1016/0956-716x%2891%2990387-g) M.G Mendiratta, D.M Dimiduk, Phase relations and transformation kinetics in the high Nb region of the Nb-Si system, Scripta Metallurgica et Materialia 25, 237-242 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1016/s0966-9795(02)00125-5](https://doi.org/10.1016/s0966-9795%2802%2900125-5) P.B. Fernandes, G.C. Coelho, F. Ferreira, C.A. Nunes, B. Sundman, Thermodynamic modeling of the Nb–Si system, Intermetallics 10, 993-999 (2002).  

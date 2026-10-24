@@ -12,17 +12,17 @@ Table: Phases of the Ru–Ti system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-ru-ti-bcc-a2); _phase:ru-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 4 calculated diagram(s): 300–3999.73 K, x(Ti) 0.76–1 | 6 | 4 |
+| [BCC_A2](#phase-ru-ti-bcc-a2); _phase:ru-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.73 K, x(Ti) 0.76–1 | 6 | 4 |
 | [B2_BCC](#phase-ru-ti-bcc-b2); _phase:ru-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2569.99 K, x(Ti) 0.48872–1 | 9 | 2 |
 | [FCC_A1](#phase-ru-ti-fcc-a1); _phase:ru-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ru-ti-hcp-a3); _phase:ru-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2608.93 K, x(Ti) 0–1 | 3 | 2 |
 | [LIQUID](#phase-ru-ti-liquid); _phase:ru-ti:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1822.69–4000 K, x(Ti) 0–1 | 12 | 2 |
 
-## A2_BCC (Ru–Ti)
+## BCC_A2 (Ru–Ti)
 
 - Id: `phase:ru-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 4 calculated diagram(s): 300–3999.73 K, x(Ti) 0.76–1
+- Stability: stable in 2 of 2 calculated diagram(s): 300–3999.73 K, x(Ti) 0.76–1
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-ti:bcc-a2)
 
@@ -31,7 +31,7 @@ _paper: _paper:10.1016/j.jallcom.2008.12.059:bcc (Ti)
 _tdb: _tdb:RuTi-09Gao.tdb:A2_BCC, tdb:RuTi-09Gao.tdb:BCC_A2, tdb:RuTi-21Liu.tdb:A2_BCC, tdb:RuTi-21Liu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (4): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (4): PHASE and CONSTITUENT statements as written
 
 [RuTi-09Gao.tdb](https://orchid-project.org/data/databases/sgte-binary/RuTi-09Gao.tdb): A2_BCC, type code %B, sha256 `097c7c25748fe9a9…`
 

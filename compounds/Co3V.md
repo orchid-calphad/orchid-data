@@ -39,22 +39,22 @@ Table: Uncertainty budget of the literature values of Co3V
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -16.3103 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.2976 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.1374 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.0055 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -1.3604 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -6.000e-4 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 1.1026 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 1.7914 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 4.4217 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 4.5149 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 7.0017 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 8.4967 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 9.8872 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 13.9387 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 17.3899 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 23.2844 | kJ/mol-atom |  | 5.000e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -16.3103 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -7.2976 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -7.1374 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -7.0055 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -1.3604 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -6.000e-4 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 1.1026 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 1.7914 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 4.4217 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 4.5149 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 7.0017 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 8.4967 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 9.8872 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 13.9387 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 17.3899 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 23.2844 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

@@ -12,7 +12,7 @@ Table: Phases of the Fe–Ta system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-ta-bcc-a2); _phase:fe-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.95 K, x(Ta) 0–1 | 118 | 3 |
+| [BCC_A2](#phase-fe-ta-bcc-a2); _phase:fe-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.95 K, x(Ta) 0–1 | 63 | 3 |
 | [C14_LAVES](#phase-fe-ta-c14-laves); _phase:fe-ta:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2136.48 K, x(Ta) 0.26945–0.42799 | 31 | 3 |
 | [MU_D85](#phase-fe-ta-d85-mu); _phase:fe-ta:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2064.99 K, x(Ta) 0.46154–0.61526 | 49 | 3 |
 | [FCC_A1](#phase-fe-ta-fcc-a1); _phase:fe-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 777.33–1742.46 K, x(Ta) 0–0.01061 | 38 | 3 |
@@ -25,11 +25,11 @@ Table: Phases of the Fe–Ta system (7)
 - Id: `phase:fe-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–3999.95 K, x(Ta) 0–1
-- Literature: 118 values (118 accepted) from 3 papers
+- Literature: 63 values (63 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ta:bcc-a2)
 
-Names (16): _corpus: _corpus:phase:fe-ta:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.12.006:(Ta), paper:10.1016/j.calphad.2014.12.006:(αFe), paper:10.1016/j.calphad.2014.12.006:Laves phase (ε), paper:10.1016/j.calphad.2014.12.006:ε, paper:10.1016/j.intermet.2011.03.018:α, paper:10.1016/j.intermet.2011.03.018:β, paper:10.1016/j.intermet.2011.03.018:δ, paper:10.1016/j.intermet.2011.03.018:λ, ε, TaFe2, paper:10.1016/s0022-3115(03)00196-x:bcc, paper:10.1016/s0022-3115(03)00196-x:bcc(δ), paper:10.1016/s0022-3115(03)00196-x:ε, paper:10.1016/s0022-3115(03)00196-x:ε ↔ Liq.  
+Names (13): _corpus: _corpus:phase:fe-ta:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.12.006:(Ta), paper:10.1016/j.calphad.2014.12.006:(αFe), paper:10.1016/j.calphad.2014.12.006:(δFe), paper:10.1016/j.intermet.2011.03.018:α, paper:10.1016/j.intermet.2011.03.018:δ, paper:10.1016/s0022-3115(03)00196-x:bcc, paper:10.1016/s0022-3115(03)00196-x:bcc(α), paper:10.1016/s0022-3115(03)00196-x:bcc(δ), paper:10.1016/s0022-3115(03)00196-x:α  
 _tdb: _tdb:FeTa-03Dan.tdb:BCC_A2, tdb:FeTa-11Wit.tdb:BCC_A2, tdb:FeTa-15Raj.tdb:BCC_A2  
 
 
@@ -56,7 +56,7 @@ _tdb: _tdb:FeTa-03Dan.tdb:BCC_A2, tdb:FeTa-11Wit.tdb:BCC_A2, tdb:FeTa-15Raj.tdb:
 34: CONST BCC_A2 : FE% TA% : VA : !
 ~~~~
 
-Example references (10 of 14; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.intermet.2011.03.018](https://doi.org/10.1016/j.intermet.2011.03.018) V.T. Witusiewicz, A.A. Bondar, U. Hecht, V.M. Voblikov, O.S. Fomichov, V.M. Petyukh et al., Experimental study and thermodynamic re-assessment of the binary Fe–Ta system, Intermetallics 19, 1059-1075 (2011).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -70,13 +70,9 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/s0921-5093(02)00632-9](https://doi.org/10.1016/s0921-5093%2802%2900632-9) A Danon, C Servant, A Alamo, J.C Brachet, Heterogeneous austenite grain growth in 9Cr martensitic steels: influence of the heating rate and the austenitization temperature, Materials Science and Engineering: A 348, 122-132 (2003).  
 _cited as the source of values for this phase_
-- [doi:10.2355/isijinternational.29.843](https://doi.org/10.2355/isijinternational.29.843) Eiji Ichise, Ken-ichi Horikawa, Thermodynamic study of Fe-Ta and Fe-Nb alloys by means of the Knudsen cell mass spectrometry., ISIJ International 29, 843-851 (1989).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02664849](https://doi.org/10.1007/bf02664849) G. C. Coelho, J. G. Costa Neto, S. Gama, C. A. Ribeiro, Experimental study of the iron-tantalum equilibrium diagram, JPE 16, 121-128 (1995).  
 _cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(70)90137-2](https://doi.org/10.1016/0022-5088%2870%2990137-2) G.B. Barbi, Determination of thermodynamic stability of the Fe2Ta intermetallic phase by non-stationary e.m.f. measurements on solid galvanic chains, Journal of the Less Common Metals 22, 487-494 (1970).  
-_cited as the source of values for this phase_
-- [doi:10.1002/zaac.19352230405](https://doi.org/10.1002/zaac.19352230405) Werner Jellinghaus, Zur Kenntnis des Zweistoffsystems Eisen‐Tantal, Z. Anorg. Allg. Chem. 223, 362-364 (1935).  
+- [doi:10.2355/isijinternational.29.843](https://doi.org/10.2355/isijinternational.29.843) Eiji Ichise, Ken-ichi Horikawa, Thermodynamic study of Fe-Ta and Fe-Nb alloys by means of the Knudsen cell mass spectrometry., ISIJ International 29, 843-851 (1989).  
 _cited as the source of values for this phase_
 
 ## C14_LAVES (Fe–Ta)

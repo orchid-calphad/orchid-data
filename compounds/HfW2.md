@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HfW2.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (model 3); Materials Project -16.679 kJ/mol-atom (mp-aaaaacbw); OQMD -16.555 kJ/mol-atom (oqmd-17394).
 
-Systems: [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html)
+Systems: [Hf–W](https://data.orchid-project.org/systems/HF-W.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of HfW2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.1 kJ/mol-atom | HfW2–15 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002 | Table 1, p. 5, row 3 |  |
-| -8 kJ/mol-atom | HfW2–15 |  | model | Estimation | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 2 |  |
-| -3 kJ/mol-atom | HfW2–15 |  | model | CALPHAD | [Hf–Mo–W](https://data.orchid-project.org/systems/HF-MO-W.html) | [1] Shao 2002; _cites Lee 1986_ [doi](https://doi.org/10.1016/0364-5916%2886%2990010-6) | Table 1, p. 5, row 1 |  |
+| -14.1 kJ/mol-atom | HfW2–15 |  | model | CALPHAD | [Hf–W](https://data.orchid-project.org/systems/HF-W.html) | [1] Shao 2002 | Table 1, p. 5, row 3 |  |
+| -8 kJ/mol-atom | HfW2–15 |  | model | Estimation | [Hf–W](https://data.orchid-project.org/systems/HF-W.html) | [1] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 2 |  |
+| -3 kJ/mol-atom | HfW2–15 |  | model | CALPHAD | [Hf–W](https://data.orchid-project.org/systems/HF-W.html) | [1] Shao 2002; _cites Lee 1986_ [doi](https://doi.org/10.1016/0364-5916%2886%2990010-6) | Table 1, p. 5, row 1 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of HfW2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -8 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -3 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -14.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -8 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -3 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

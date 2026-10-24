@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlV3.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (DFT 3).
 
-Systems: [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html)
+Systems: [Al–V](https://data.orchid-project.org/systems/AL-V.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AlV3 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -13.03 kJ/mol (basis unstated) | V3Al A15 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [1] Berche 2018 | Table 1, p. 4, row 5 |  |
-| -9.97 kJ/mol (basis unstated) | V3Al A2 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [1] Berche 2018 | Table 1, p. 4, row 6 |  |
-| -9.13 kJ/mol (basis unstated) | V3Al D03 | 0 | DFT | DFT | [Al–Fe–V](https://data.orchid-project.org/systems/AL-FE-V.html) | [1] Berche 2018 | Table 1, p. 4, row 7 |  |
+| -13.03 kJ/mol (basis unstated) | V3Al A15 | 0 | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Berche 2018 | Table 1, p. 4, row 5 |  |
+| -9.97 kJ/mol (basis unstated) | V3Al A2 | 0 | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Berche 2018 | Table 1, p. 4, row 6 |  |
+| -9.13 kJ/mol (basis unstated) | V3Al D03 | 0 | DFT | DFT | [Al–V](https://data.orchid-project.org/systems/AL-V.html) | [1] Berche 2018 | Table 1, p. 4, row 7 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AlV3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13.03 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -9.97 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -9.13 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -13.03 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| -9.97 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| -9.13 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
 
 ## Sources
 

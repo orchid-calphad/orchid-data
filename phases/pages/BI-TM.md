@@ -14,7 +14,7 @@ Table: Phases of the Bi–Tm system (7)
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-tm-a7-rhombohedral); _phase:bi-tm:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(Tm) 0–0 | 7 | 2 |
 | [BCC_A2](#phase-bi-tm-bcc-a2); _phase:bi-tm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [BI3TM5](#phase-bi-tm-bi3tm5); _phase:bi-tm:bi3tm5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1687.37 K, x(Tm) 0.625–0.625 | 14 | 2 |
+| [BI3TM5](#phase-bi-tm-bi3tm5); _phase:bi-tm:bi3tm5_ | Bi3Y5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1687.37 K, x(Tm) 0.625–0.625 | 24 | 2 |
 | [BITM_B1](#phase-bi-tm-bitm-b1); _phase:bi-tm:bitm-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2020.23 K, x(Tm) 0.5–0.5 | 21 | 2 |
 | [FCC_A1](#phase-bi-tm-fcc-a1); _phase:bi-tm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-bi-tm-hcp-a3); _phase:bi-tm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.88 K, x(Tm) 0.98985–1 | 7 | 2 |
@@ -103,7 +103,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.3750, Tm 0.6250
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1687.37 K, x(Tm) 0.625–0.625
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-tm:bi3tm5)
 
 Names (5): _corpus: _corpus:phase:bi-tm:bi3tm5  
@@ -127,7 +127,7 @@ _tdb: _tdb:BiTm-10Wan.tdb:BI3TM5, tdb:BiTm-15Dja.tdb:BI3TM5
 55: CONST BI3TM5 : BI : TM : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.11.002](https://doi.org/10.1016/j.calphad.2014.11.002) Y. Djaballah, A. Said Amer, Ş. Uğur, G. Uğur, A. Hidoussi, A. Belgacem-Bouzida, Thermodynamic description of the Bi–Cs and Bi–Tm system supported by first-principles calculations, Calphad 48, 72-78 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -136,6 +136,10 @@ _assessment that models this phase; cited as the source of values for this phase
 - [doi:10.1016/0925-8388(96)02314-6](https://doi.org/10.1016/0925-8388%2896%2902314-6) M.N. Abdusalyamova, A.G. Chuiko, E.I. Shishkin, O.I. Rachmatov, Phase diagrams and thermodynamic properties of rare earth-bismuth systems, Journal of Alloys and Compounds 240, 272-277 (1996).  
 _cited as the source of values for this phase_
 - [doi:10.1023/a:1021887102509](https://doi.org/10.1023/a:1021887102509) V. D. Abulkhaev, Phase Relations and Properties of Alloys in the Tm–Bi System, Inorganic Materials 39, 47-49 (2003).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(75)90038-7](https://doi.org/10.1016/0022-5088%2875%2990038-7) K. Yoshihara, J.B. Taylor, L.D. Calvert, J.G. Despault, Rare-earth bismuthides, Journal of the Less Common Metals 41, 329-337 (1975).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(84)90320-5](https://doi.org/10.1016/0022-5088%2884%2990320-5) C. Colinet, A. Pasturel, A. Percheron-Guégan, J.C. Achard, Enthalpies of formation of liquid and solid binary alloys of lead, antimony and bismuth with rare earth elements, Journal of the Less Common Metals 102, 239-249 (1984).  
 _cited as the source of values for this phase_
 
 ## BITM_B1 (Bi–Tm)

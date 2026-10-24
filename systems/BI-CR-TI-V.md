@@ -1,10 +1,10 @@
 # Bi–Cr–Ti–V system
 
-> Bi–Cr–Ti–V system: 37 accepted literature values (invariant reaction 25, crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Cr–Ti–V system: 23 accepted literature values (invariant reaction 21, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CR-TI-V.html · Markdown: https://data.orchid-project.org/systems/BI-CR-TI-V.md
 
-37 accepted literature values from 1 paper(s) (experimental 14, model 17, unspecified 6); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 11, model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CR-TI-V.json) · [CSV](https://data.orchid-project.org/systems/BI-CR-TI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CR-TI-V) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CR-TI-V.html) · [Markdown](https://data.orchid-project.org/systems/BI-CR-TI-V.md)
 
@@ -12,52 +12,47 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 17 |
-| unspecified | 6 |
+| experimental | 11 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 25 |
-| crystal structure | 12 |
+| invariant reaction | 21 |
+| crystal structure | 2 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Cr–Ti–V system (25)
+Table: Invariant reactions reported in the literature for the Bi–Cr–Ti–V system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2157.95 | Liquid#1=Gas+(V) | Liquid#1: Bi 1.700e-4; Gas: Bi 0.00999; (V): Bi 0.0022 | model | [1] Cao 2013 | Table 3, p. 5, row 25 |  |
-| 2150.15 | Liquid#1=Gas+(V) | Liquid#1: Bi 2.100e-4; Gas: Bi 0.00998; (V): Bi 0.0013 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 24 |  |
-| 1849.15 | Gas+(V)=Liquid#2 | Gas: Bi 0.00999; (V): Bi 3.500e-5; Liquid#2: Bi 0.00989 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 22 |  |
-| 1840.95 | Liquid#1+Gas=Liquid#2 | Liquid#1: Bi 0.00151; Gas: Bi 0.00999; Liquid#2: Bi 0.00937 | model | [1] Cao 2013 | Table 3, p. 5, row 15 |  |
-| 1832.15 | Liquid#1=Liquid#2+(Cr) | Liquid#1: Bi 0.0015; Liquid#2: Bi 0.00938; (Cr): Bi 0 | model | [1] Cao 2013 | Table 3, p. 5, row 17 |  |
-| 1831.55 | Gas+(V)=Liquid#2 | Gas: Bi 0.00999; (V): Bi 4.500e-5; Liquid#2: Bi 0.00973 | model | [1] Cao 2013 | Table 3, p. 5, row 23 |  |
-| 1826.15 | Liquid#1=Liquid#2+(Cr) | Liquid#2: Bi 0.0091; (Cr): Bi 0 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 16 |  |
-| 1613.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.0026; Bcc_A2: Bi 0.001; BiTi3: Bi 0.0025 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 11 |  |
-| 1609.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.00255; Bcc_A2: Bi 0.00105; BiTi3: Bi 0.0025 | model | [1] Cao 2013 | Table 3, p. 5, row 12 |  |
-| 1562.65 | Liquid+BiTi3=BiTi2 | Liquid: Bi 0.00397; BiTi3: Bi 0.0025; BiTi2: Bi 0.00333 | model | [1] Cao 2013 | Table 3, p. 5, row 10 |  |
-| 1560.15 | Liquid+BiTi3=BiTi2 | BiTi3: Bi 0.0025; BiTi2: Bi 0.00333 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 9 |  |
-| 1270.95 | Liquid+BiTi2=Bi9Ti8 | Liquid: Bi 0.00749; BiTi2: Bi 0.00333; Bi9Ti8: Bi 0.00529 | model | [1] Cao 2013 | Table 3, p. 5, row 8 |  |
-| 1270.15 | Liquid+BiTi2=Bi9Ti8 | BiTi2: Bi 0.00333; Bi9Ti8: Bi 0.00529 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 7 |  |
-| 1090.35 | Liquid+Bi9Ti8=Bi3Ti2 | Liquid: Bi 0.00934; Bi9Ti8: Bi 0.00529; Bi3Ti2: Bi 0.006 | model | [1] Cao 2013 | Table 3, p. 5, row 6 |  |
-| 1090.15 | Liquid+Bi9Ti8=Bi3Ti2 | Bi9Ti8: Bi 0.00529; Bi3Ti2: Bi 0.006 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 5 |  |
-| 998.15 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 8.600e-4; BiTi3: Bi 0.0025; Hcp_A3: Bi 3.000e-5 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 13 |  |
-| 992.65 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 6.000e-4; BiTi3: Bi 0.0025; Hcp_A3: Bi 4.000e-5 | model | [1] Cao 2013 | Table 3, p. 5, row 14 |  |
-| 960.65 | Liquid+Bi3Ti2=Bi2Ti | Liquid: Bi 0.00976; Bi3Ti2: Bi 0.006; Bi2Ti: Bi 0.006 | model | [1] Cao 2013 | Table 3, p. 5, row 4 |  |
-| 960.15 | Liquid+Bi3Ti2=Bi2Ti | Bi3Ti2: Bi 0.006; Bi2Ti: Bi 0.006 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 3 |  |
-| 544.55 | Liquid=Bi2Ti+(Bi) | Liquid: Bi 0.00999; Bi2Ti: Bi 0.00667; (Bi): Bi 0.01 | model | [1] Cao 2013 | Table 3, p. 5, row 2 |  |
-| 544.55 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.00999; (Cr): Bi 0; (Bi): Bi 0.01 | model | [1] Cao 2013 | Table 3, p. 5, row 19 |  |
+| 2157.95 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.017; Gas: Bi 0.999; (V): Bi 0.22 | model | [1] Cao 2013 | Table 3, p. 5, row 25 |  |
+| 2150.15 | Liquid#1=Gas+(V) | Liquid#1: Bi 0.021; Gas: Bi 0.998; (V): Bi 0.13 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 24 |  |
+| 1849.15 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0035; Liquid#2: Bi 0.989 | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 22 |  |
+| 1840.95 | Liquid#1+Gas=Liquid#2 | Liquid#1: Bi 0.151; Gas: Bi 0.999; Liquid#2: Bi 0.937 | model | [1] Cao 2013 | Table 3, p. 5, row 15 |  |
+| 1832.15 | Liquid#1=Liquid#2+(Cr) | Liquid#1: Bi 0.15; Liquid#2: Bi 0.938; (Cr): Bi 0 | model | [1] Cao 2013 | Table 3, p. 5, row 17 |  |
+| 1831.55 | Gas+(V)=Liquid#2 | Gas: Bi 0.999; (V): Bi 0.0045; Liquid#2: Bi 0.973 | model | [1] Cao 2013 | Table 3, p. 5, row 23 |  |
+| 1826.15 | Liquid#1=Liquid#2+(Cr) | Liquid#2: Bi 0.91; (Cr): Bi 0 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 16 |  |
+| 1613.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.26; Bcc_A2: Bi 0.1; BiTi3: Bi 0.25 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 11 |  |
+| 1609.15 | Liquid+Bcc_A2=BiTi3 | Liquid: Bi 0.255; Bcc_A2: Bi 0.105; BiTi3: Bi 0.25 | model | [1] Cao 2013 | Table 3, p. 5, row 12 |  |
+| 1562.65 | Liquid+BiTi3=BiTi2 | Liquid: Bi 0.397; BiTi3: Bi 0.25; BiTi2: Bi 0.333 | model | [1] Cao 2013 | Table 3, p. 5, row 10 |  |
+| 1560.15 | Liquid+BiTi3=BiTi2 | BiTi3: Bi 0.25; BiTi2: Bi 0.333 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 9 |  |
+| 1270.95 | Liquid+BiTi2=Bi9Ti8 | Liquid: Bi 0.749; BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | model | [1] Cao 2013 | Table 3, p. 5, row 8 |  |
+| 1270.15 | Liquid+BiTi2=Bi9Ti8 | BiTi2: Bi 0.333; Bi9Ti8: Bi 0.529 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 7 |  |
+| 1090.35 | Liquid+Bi9Ti8=Bi3Ti2 | Liquid: Bi 0.934; Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 6 |  |
+| 1090.15 | Liquid+Bi9Ti8=Bi3Ti2 | Bi9Ti8: Bi 0.529; Bi3Ti2: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 5 |  |
+| 998.15 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.086; BiTi3: Bi 0.25; Hcp_A3: Bi 0.003 | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 3, p. 5, row 13 |  |
+| 992.65 | Bcc_A2=BiTi3+Hcp_A3 | Bcc_A2: Bi 0.06; BiTi3: Bi 0.25; Hcp_A3: Bi 0.004 | model | [1] Cao 2013 | Table 3, p. 5, row 14 |  |
+| 960.65 | Liquid+Bi3Ti2=Bi2Ti | Liquid: Bi 0.976; Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | model | [1] Cao 2013 | Table 3, p. 5, row 4 |  |
+| 960.15 | Liquid+Bi3Ti2=Bi2Ti | Bi3Ti2: Bi 0.6; Bi2Ti: Bi 0.6 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 3 |  |
 | 544.55 | Liquid#2=(Bi)+(V) |  | experimental | [1] Cao 2013; _cites Smith 1990_ | Table 3, p. 5, row 20 |  |
-| 544.55 | Liquid#2=(Bi)+(V) | Liquid#2: Bi 0.01; (Bi): Bi 0.01; (V): Bi 0 | model | [1] Cao 2013 | Table 3, p. 5, row 21 |  |
-| 544.15 | Liquid=Bi2Ti+(Bi) | Bi2Ti: Bi 0.00667; (Bi): Bi 0.01 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 1 |  |
-| 544.15 | Liquid#2=(Cr)+(Bi) | Liquid#2: Bi 0.01; (Cr): Bi 0; (Bi): Bi 0.01 | experimental | [1] Cao 2013; _cites Williams 1907_ | Table 3, p. 5, row 18 |  |
+| 544.15 | Liquid=Bi2Ti+(Bi) | Bi2Ti: Bi 0.667; (Bi): Bi 1 | experimental | [1] Cao 2013; _cites Vasseilev 2006_ | Table 3, p. 5, row 1 |  |
 
 ## Other properties
 
-### Crystal structure (12)
+### Crystal structure (2)
 
 Table: Crystal structure, Bi–Cr–Ti–V system
 
@@ -65,16 +60,6 @@ Table: Crystal structure, Bi–Cr–Ti–V system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.746 Å | 298.15 | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 9 |  |
 | Lattice a | 4.746 Å | 544.55 (\<) | (Bi); _alloy: Cr 0, Ti 0, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.9503 Å | 1154.95 (\<) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 10.277 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.08 Å | 1562.65 (\<) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice a | 6.02 Å | 1609.15 (\<) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 2.884 Å | 2179.95 (\<) | (Cr); _alloy: Cr 1, Ti 0, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.025 Å | 2182.95 (\<) | (V); _alloy: Cr 0, Ti 0, V 1_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 5 |  |
-| Lattice c | 4.6836 Å | 1154.95 (\<) | (αTi); _alloy: Cr 0, Ti 1, V 0_ | model | [1] Cao 2013; _cites King 1981_ | Table 1, p. 2, row 2 |  |
-| Lattice c | 7.375 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Cr 0, Ti 0.470588, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
-| Lattice c | 14.57 Å | 1562.65 (\<) | BiTi2; _alloy: Cr 0, Ti 0.666667, V 0_ | unspecified | [1] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
-| Lattice c | 8.204 Å | 1609.15 (\<) | BiTi3; _alloy: Cr 0, Ti 0.75, V 0_ | experimental | [1] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

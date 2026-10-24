@@ -1,10 +1,10 @@
 # Ni–Ta system
 
-> Ni–Ta system: 133 accepted literature values (invariant reaction 87, phase equilibrium 24, phase transition 22) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Ta system: 189 accepted literature values (invariant reaction 87, formation 56, phase equilibrium 24, phase transition 22) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TA.html · Markdown: https://data.orchid-project.org/systems/NI-TA.md
 
-133 accepted literature values from 3 paper(s) (experimental 80, model 38, unspecified 15); 7 calculated phase diagram(s).
+189 accepted literature values from 3 paper(s) (experimental 80, model 38, DFT 56, unspecified 15); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TA.json) · [CSV](https://data.orchid-project.org/systems/NI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TA/NiTa-09Zho.json) · [phases (14)](https://data.orchid-project.org/phases/pages/NI-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TA.html) · [Markdown](https://data.orchid-project.org/systems/NI-TA.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 80 |
 | model | 38 |
+| DFT | 56 |
 | unspecified | 15 |
 
 Table: Accepted values by property group
@@ -23,6 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 87 |
 | phase transition | 22 |
 | phase equilibrium | 24 |
+| formation | 56 |
 
 ## Calculated phase diagrams
 
@@ -202,6 +204,71 @@ Table: Invariant reactions reported in the literature for the Ni–Ta system (87
 | 231 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Cui 1999_ | Table 7, p. 8, row 48 |  |
 | 109 | μ-NiTa -> C16-NiTa2 + C11b-Ni2Ta | μ: Ta 0.504; C16: Ta 0.667; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 47 |  |
 | 42 | κ-Ni3Ta -> ζ-Ni8Ta + C11b-Ni2Ta | κ: Ta 0.25; ζ: Ta 0.111; C11b: Ta 0.333 | model | [1] Zhou 2009; _cites Pan 2002_ | Table 7, p. 8, row 49 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ni–Ta system (56)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| C11b |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
+| C11b |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
+| C11b |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
+| C11b |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
+| C16 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
+| C16 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
+| C16 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
+| C16 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
+| D022 |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
+| D0a |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
+| D0a |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
+| D0a |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
+| Mo3Mo |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
+| Mo3Ni |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
+| Mo3Ta |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
+| Ni1Ni2 |  | 26.77 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 13 |  |
+| Ni1Ta2 |  | -21.15 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 15 |  |
+| Ni2Ni |  | 7.91 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 23 |  |
+| Ni2Ta |  | -32.36 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 24 |  |
+| Ni3Mo |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
+| Ni3Ni |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
+| Ni3Ta |  | -35.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 43 |  |
+| Ni3Ta |  | -34.81 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 40 |  |
+| Ni3Ta |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
+| Ni8Ta |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
+| NiTa4Ni2Ni6 |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
+| NiTa4Ta2Ni6 |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
+| Ta1Ni2 |  | 44.14 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 14 |  |
+| Ta1Ta2 |  | 50.88 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 16 |  |
+| Ta2Ni |  | 5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 25 |  |
+| Ta2Ta |  | 10.49 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 26 |  |
+| Ta3Mo |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
+| Ta3Ni |  | 12.48 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
+| Ta3Ni |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
+| Ta3Ta |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
+| Ta3Ta |  | 30.8 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 42 |  |
+| TaTa4Mo2Ni6 |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
+| TaTa4Ni2Ni6 |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
+| TaTa4Ta2Ni6 |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
+| TaTa4Ta2Ta6 |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
+| ζ |  | -16.37 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 44 |  |
+| κ |  | -29.29 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 32 |  |
+| κ |  | -1.86 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 38 |  |
+| κ |  | 3.5 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 31 |  |
+| κ |  | 12.54 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
+| κ |  | 18.85 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 39 |  |
+| κ |  | 29.32 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 34 |  |
+| κ |  | 32.08 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 35 |  |
+| κ |  | 36.6 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 36 |  |
+| κ |  | 41.09 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 37 |  |
+| μ |  | -25.51 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 20 |  |
+| μ |  | -22.99 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 19 |  |
+| μ |  | -18.61 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 18 |  |
+| μ |  | -17.52 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 22 |  |
+| μ |  | -12.92 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 17 |  |
+| μ |  | 17.05 kJ/mol-atom |  | DFT |  |  | [1] Zhou 2009 | Table 6, p. 7, row 21 |  |
 
 ## Other properties
 

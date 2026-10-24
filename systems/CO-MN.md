@@ -1,10 +1,10 @@
 # Co–Mn system
 
-> Co–Mn system: 4 accepted literature values (phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Mn system: 4 accepted literature values (phase transition 3, mixing / partial 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-MN.html · Markdown: https://data.orchid-project.org/systems/CO-MN.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
+4 accepted literature values from 2 paper(s) (experimental 3, DFT 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-MN.json) · [CSV](https://data.orchid-project.org/systems/CO-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-MN/CoMn-89Hua-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CO-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-MN.html) · [Markdown](https://data.orchid-project.org/systems/CO-MN.md)
 
@@ -12,13 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 3 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 4 |
+| phase transition | 3 |
+| mixing / partial | 1 |
 
 ## Calculated phase diagrams
 
@@ -44,22 +46,30 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Co–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 95 K | 95 | magnetic | experimental | [1] Huang 1989 | p. 2 | “The a-Mn is antiferromagnetic with TN= 95 K.” |
 | Phase transition | 540 K | 540 | fcc | experimental | [1] Huang 1989; _cites Femandez_ | p. 2 | “The fee Mn is p~arnagne~~ in its stable range, but an ~tife~o~gn~ic transition at T~=540 K has been proposed (6).” |
 | Phase transition | 580 K | 580 | magnetic | experimental | [1] Huang 1989; _cites Femandez_ | p. 2 | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
 | Phase transition | 1450 K | 1450 | magnetic | experimental | [1] Huang 1989; _cites Fernllndez 1987_ | p. 2 | “As to the bee phase, TC=1450 K for Co (5) and TN=580 K for Mn (6) were adopted.” |
+
+### Mixing / partial (1)
+
+Table: Mixing / partial, Co–Mn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | 3.193 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Mn 0.5_ | DFT | [2] Bracq 2021 | Table 1, p. 4, row 3 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Weiming Huang, An Assessment of the Co-Mn System, Calphad 13, 231-242 (1989). [doi:10.1016/0364-5916(89)90003-5](https://doi.org/10.1016/0364-5916%2889%2990003-5)
+2. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

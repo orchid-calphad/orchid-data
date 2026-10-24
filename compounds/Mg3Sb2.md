@@ -17,13 +17,13 @@ Table: Enthalpy of formation of Mg3Sb2 reported in the literature (16)
 | -299 kJ/mol (basis unstated) ± 3 | α-Mg3Sb2 | 900 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Rao 1971_ | Table 8, p. 9, row 1 |  |
 | -285 kJ/mol (basis unstated) | α-Mg3Sb2 | 923 | experimental | high temperature calorimetric measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Kubaschewski 1939_ | Table 8, p. 9, row 3 |  |
 | -235 kJ/mol (basis unstated) ± 6 | α-Mg3Sb2 | 773 | experimental | emf measurements | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Eremenko 1964_ | Table 8, p. 9, row 2 |  |
-| -47 kJ/mol-atom ± 6 | Mg3Sb2 | 773 | experimental |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
+| -47 kJ/mol-atom ± 1.2 | Mg3Sb2 | 773 | experimental |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
 | -490 kJ/mol (basis unstated) | α-Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | -320 kJ/mol (basis unstated) ± 40 | α-Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
 | -300 kJ/mol (basis unstated) | α-Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [1] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |
-| -64 kJ/mol-atom ± 40 | Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
+| -64 kJ/mol-atom ± 8 | Mg3Sb2 | 800 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
 | -60 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
-| -59.8 kJ/mol-atom ± 3 | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
+| -59.8 kJ/mol-atom ± 0.6 | Mg3Sb2 | 900 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
 | -57 kJ/mol-atom | Mg3Sb2 | 923 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | -55.2 kJ/mol-atom | Mg3Sb2 | 298.15 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
 | -53.2 kJ/mol-atom | Mg3Sb2 | 773 | model |  | [Mg–Sb](https://data.orchid-project.org/systems/MG-SB.html) | [2] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
@@ -39,22 +39,22 @@ Table: Uncertainty budget of the literature values of Mg3Sb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -299 | kJ/mol (basis unstated) | 3 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -285 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -235 | kJ/mol (basis unstated) | 6 | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -47 | kJ/mol-atom | 6 | 0.1 | 4.1 (unknown, calibrated) |  |  |  | 6 |
-| -490 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -320 | kJ/mol (basis unstated) | 40 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 40 |
-| -300 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64 | kJ/mol-atom | 40 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 40 |
-| -60 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.8 | kJ/mol-atom | 3 | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -57 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -55.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53.2 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52.6 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52.4 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -299 | kJ/mol (basis unstated) | 3 | 0.5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -285 | kJ/mol (basis unstated) |  | 0.5 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -235 | kJ/mol (basis unstated) | 6 | 0.5 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -47 | kJ/mol-atom | 1.2 | 0.01 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -490 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -320 | kJ/mol (basis unstated) | 40 | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 40 |
+| -300 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -64 | kJ/mol-atom | 8 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 8 |
+| -60 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.8 | kJ/mol-atom | 0.6 | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -57 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -55.2 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -53.2 | kJ/mol-atom |  | 0.1 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.6 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.4 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

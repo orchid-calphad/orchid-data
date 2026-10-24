@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ho5Sb3.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
 
-Systems: [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html)
+Systems: [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ho5Sb3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82 kJ/mol (basis unstated) | Ho5Sb3 | 0 | model | Miedema model | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 10 |  |
-| -88.488 kJ/mol (basis unstated) | Ho5Sb3 | 0 | DFT | first-principles | [Ho–La–Sb](https://data.orchid-project.org/systems/HO-LA-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
+| -82 kJ/mol (basis unstated) | Ho5Sb3 | 0 | model | Miedema model | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 3, p. 3, row 10 |  |
+| -88.488 kJ/mol (basis unstated) | Ho5Sb3 | 0 | DFT | first-principles | [Ho–Sb](https://data.orchid-project.org/systems/HO-SB.html) | [1] Wang 2013 | Table 3, p. 3, row 9 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ho5Sb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -82 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -88.488 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -82 | kJ/mol (basis unstated) |  | 5.000e-4 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
+| -88.488 | kJ/mol (basis unstated) |  | 5.000e-4 | 81.52 (dft, calibrated) |  |  |  | 81.52 |
 
 ## Sources
 

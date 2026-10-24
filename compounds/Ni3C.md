@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Ni3C
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 38.5 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| 39.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 26.3 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| 33.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| 40.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 38.5 | kJ/mol (basis unstated) |  | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
+| 39.5 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| 26.3 | kJ/mol (basis unstated) |  | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
+| 33.2 | kJ/mol (basis unstated) |  | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
+| 40.2 | kJ/mol (basis unstated) |  | 0.05 | 14 (unknown, calibrated) |  |  |  | 14 |
 
 ## Sources
 

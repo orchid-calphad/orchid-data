@@ -1,10 +1,10 @@
 # Li–Te system
 
-> Li–Te system: 19 accepted literature values (invariant reaction 13, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Te system: 27 accepted literature values (invariant reaction 13, phase transition 6, formation 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-TE.html · Markdown: https://data.orchid-project.org/systems/LI-TE.md
 
-19 accepted literature values from 1 paper(s) (experimental 11, model 8); 1 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 11, model 12, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-TE.json) · [CSV](https://data.orchid-project.org/systems/LI-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-TE/LiTe-22Yu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/LI-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-TE.html) · [Markdown](https://data.orchid-project.org/systems/LI-TE.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 8 |
+| model | 12 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 13 |
 | phase transition | 6 |
+| formation | 5 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -64,6 +67,20 @@ Table: Invariant reactions reported in the literature for the Li–Te system (13
 | 453.1 | eutectic |  | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | p. 4 | “There are three eutectic reactions: L ? (Li) ? Li2Te, L ? (Te) ? LiTe3, and L ? LiTe3 ? Li2Te occurring at about 453.1, 696.3 and 721.7 K, respectively.” |
 | 453.1 | L -> (Li) + Li2Te | L: Te 0; (Li): Te 0; Li2Te: Te 0.333 | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 2 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Li–Te system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Li2Te | [Li2Te](https://data.orchid-project.org/compounds/Li2Te.html) | -118.949 kJ/mol-atom | 298.15 | model | -113.668 (mp-aaaaadti) | -100.679 (oqmd-11316) | [1] Yu 2022 | Table 2, p. 5, row 18 |  |
+| Li2Te |  | -115.667 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Morachevskii 2022_ | Table 2, p. 5, row 15 |  |
+| Li2Te |  | -113.61 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 17 |  |
+| Li2Te |  | -100.59 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 16 |  |
+| Li2Te |  | -100.012 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 14 |  |
+
 ## Other properties
 
 ### Phase transition (6)
@@ -78,6 +95,16 @@ Table: Phase transition, Li–Te system
 | Phase transition | 1085.2 K | 1085.2 | other | experimental | [1] Yu 2022 | p. 4 | “In addition, there is a monotectic reactions: L2 ? L1 ? Li2Te occurring at 1085.2 K.” |
 | Phase transition | 1468.2 K | 1468.2 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | model | [1] Yu 2022 | Table 6, p. 16, row 9 |  |
 | Phase transition | 1472 K | 1472 | L -> Li2Te; _L: Te 0.333; Li2Te: Te 0.333_ | experimental | [1] Yu 2022; _cites Cunningham 1973_ [doi](https://doi.org/10.1149/1.2403448) | Table 6, p. 16, row 10 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Li–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.652 Å | 298.15 | Li2Te; _alloy: Li 0.666667, Te 0.333333_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 22 |  |
+| Lattice a | 0.871 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23 |  |
+| Lattice c | 2.135 Å | 298.15 | LiTe3; _alloy: Li 0.25, Te 0.75_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 23 |  |
 
 ## Sources
 

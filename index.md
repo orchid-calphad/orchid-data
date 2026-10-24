@@ -1,6 +1,6 @@
 # ORCHID data
 
-> ORCHID data: 73,538 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
+> ORCHID data: 73,550 literature values (invariant reactions, phase transitions, phase compositions, thermochemical and structural data) from 1,321 papers, 2,720 calculated binary phase diagrams and DFT/CALPHAD convex hulls; CC BY 4.0.
 
 HTML: https://data.orchid-project.org/ · Markdown: https://data.orchid-project.org/index.md
 
@@ -10,10 +10,10 @@ Status: Version 1, machine-extracted: values were read from papers by language-m
 
 ## Browse without JavaScript
 
-- [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1818 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
-- [Compounds](https://data.orchid-project.org/compounds/index.html) — 1478 formation-enthalpy pages with DFT comparison.
+- [Chemical systems](https://data.orchid-project.org/systems/index.html) — 1861 pages (also [Markdown](https://data.orchid-project.org/systems/index.md)): literature values, invariants, formation enthalpies, calculated phase diagrams.
+- [Compounds](https://data.orchid-project.org/compounds/index.html) — 1441 formation-enthalpy pages with DFT comparison.
 - [Reporting papers](https://data.orchid-project.org/papers/index.html) — citation, DOI, systems, number of values.
-- [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,496 phases: names, structure (when certain), stability, TDB PHASE/CONSTITUENT statements, example DOIs.
+- [Phase registry](https://data.orchid-project.org/phases/pages/index.html) — 1241 binary-system pages, 10,430 phases: names, structure (when certain), stability, TDB PHASE/CONSTITUENT statements, example DOIs.
 - [Bibliography](https://data.orchid-project.org/bibliography/pages/index.html) — 9,568 papers ORCHID knows (read, cited as original sources, behind TDB files and assessed diagrams, discovery leads) with roles, evidence counts and typed relations; per paper and per system.
 - Interactive tools: [data explorer](https://orchid-project.org/data-explorer/), [phase diagrams](https://orchid-project.org/phase-diagrams/), [phase registry](https://orchid-project.org/phases/), [DFT vs experiment](https://orchid-project.org/dft-parity/).
 

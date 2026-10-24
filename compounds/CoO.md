@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of CoO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -120.29 | kJ/mol-atom |  | 0.0025 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -120.29 | kJ/mol-atom |  | 0.0025 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -119.45 | kJ/mol-atom |  | 0.025 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -118.97 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -118.85 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -118.75 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -118.43 | kJ/mol-atom |  | 0.0025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -120.29 | kJ/mol-atom |  | 0.0025 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -120.29 | kJ/mol-atom |  | 0.0025 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -119.45 | kJ/mol-atom |  | 0.025 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -118.97 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -118.85 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -118.75 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -118.43 | kJ/mol-atom |  | 0.0025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

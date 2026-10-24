@@ -12,9 +12,9 @@ Table: Phases of the Sc–Th system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-sc-th-bcc-a2); _phase:sc-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1423.13–2022.99 K, x(Th) 0–1 | 11 | 1 |
-| [FCC_A1](#phase-sc-th-fcc-a1); _phase:sc-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1633.2 K, x(Th) 0.36725–1 | 5 | 1 |
-| [HCP_A3](#phase-sc-th-hcp-a3); _phase:sc-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.99 K, x(Th) 0–0.21171 | 5 | 1 |
+| [BCC_A2](#phase-sc-th-bcc-a2); _phase:sc-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1423.13–2022.99 K, x(Th) 0–1 | 7 | 1 |
+| [FCC_A1](#phase-sc-th-fcc-a1); _phase:sc-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1633.2 K, x(Th) 0.36725–1 | 2 | 1 |
+| [HCP_A3](#phase-sc-th-hcp-a3); _phase:sc-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1607.99 K, x(Th) 0–0.21171 | 3 | 1 |
 | [LIQUID](#phase-sc-th-liquid); _phase:sc-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1678.37–4000 K, x(Th) 0–1 | 4 | 1 |
 
 ## BCC_A2 (Sc–Th)
@@ -22,7 +22,7 @@ Table: Phases of the Sc–Th system (4)
 - Id: `phase:sc-th:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1423.13–2022.99 K, x(Th) 0–1
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-th:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:sc-th:bcc-a2  
@@ -49,7 +49,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:sc-th:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1633.2 K, x(Th) 0.36725–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-th:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:sc-th:fcc-a1  
@@ -76,7 +76,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:sc-th:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1607.99 K, x(Th) 0–0.21171
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-th:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:sc-th:hcp-a3  

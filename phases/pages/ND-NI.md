@@ -1,19 +1,18 @@
 # Nd–Ni phases
 
-> Nd–Ni system: 16 phases (tier A 10, tier C 4, liquid 1, needs_review 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Nd–Ni system: 15 phases (tier A 9, tier C 4, liquid 1, needs_review 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/ND-NI.html · Markdown: https://data.orchid-project.org/phases/pages/ND-NI.md
 
-16 phases (tier A 10, tier C 4, liquid 1, needs_review 1); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 9, tier C 4, liquid 1, needs_review 1); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=ND-NI) · [full JSON](https://data.orchid-project.org/phases/systems/ND-NI.json) · [Nd–Ni system page](https://data.orchid-project.org/systems/ND-NI.html) · [Markdown](https://data.orchid-project.org/phases/pages/ND-NI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Nd–Ni system (16)
+Table: Phases of the Nd–Ni system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-nd-ni-bcc-a2); _phase:nd-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1128–1293.04 K, x(Ni) 0–0.0001 | 10 | 4 |
-| [DHCP](#phase-nd-ni-dhcp); _phase:nd-ni:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-nd-ni-dhcp-a3); _phase:nd-ni:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1128.04 K, x(Ni) 0–9e-05 | 11 | 4 |
 | [FCC_A1](#phase-nd-ni-fcc-a1); _phase:nd-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.94 K, x(Ni) 0.99956–1 | 5 | 4 |
 | [HCP_A3](#phase-nd-ni-hcp-a3); _phase:nd-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
@@ -85,24 +84,13 @@ _assessment that models this phase_
 
 ## DHCP (Nd–Ni)
 
-- Id: `phase:nd-ni:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-ni:dhcp)
-
-Names (1): _corpus: _corpus:phase:nd-ni:dhcp  
-
-
-## DHCP (Nd–Ni)
-
 - Id: `phase:nd-ni:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1128.04 K, x(Ni) 0–9e-05
 - Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nd-ni:dhcp-a3)
 
-Names (7): _corpus: _corpus:phase:nd-ni:dhcp-a3  
+Names (8): _corpus: _corpus:phase:nd-ni:dhcp-a3, corpus:phase:nd-ni:dhcp  
 _paper: _paper:10.1007/s10853-022-08039-1:dhcp(Nd), paper:10.1016/j.jallcom.2005.02.037:dhcp (Nd)  
 _tdb: _tdb:NdNi-05Hua.tdb:DHCP, tdb:NdNi-15Luo.tdb:DHCP, tdb:NdNi-23Ye.tdb:DHCP, tdb:NdNi-96Du.tdb:DHCP  
 

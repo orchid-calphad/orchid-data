@@ -1,27 +1,26 @@
 # Au–Sn phases
 
-> Au–Sn system: 13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Au–Sn system: 12 phases (tier A 8, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/AU-SN.html · Markdown: https://data.orchid-project.org/phases/pages/AU-SN.md
 
-13 phases (tier A 9, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 8, tier C 1, liquid 1, needs_review 2); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=AU-SN) · [full JSON](https://data.orchid-project.org/phases/systems/AU-SN.json) · [Au–Sn system page](https://data.orchid-project.org/systems/AU-SN.html) · [Markdown](https://data.orchid-project.org/phases/pages/AU-SN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Au–Sn system (13)
+Table: Phases of the Au–Sn system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-au-sn-a4-diamond); _phase:au-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [BCT_A5](#phase-au-sn-a5-bct); _phase:au-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–505.08 K, x(Sn) 0.9966–1 | 16 | 7 |
 | [AU10SN_D024](#phase-au-sn-au10sn-d024); _phase:au-sn:au10sn-d024_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 548.73–792.86 K, x(Sn) 0.091–0.091 | 7 | 1 |
-| [AU5SN](#phase-au-sn-au5sn); _phase:au-sn:au5sn_ |  | needs_review | stable in 6 of 7 calculated diagram(s): 300–463.19 K, x(Sn) 0.16–0.167 | 17 | 7 |
+| [AU5SN](#phase-au-sn-au5sn); _phase:au-sn:au5sn_ |  | needs_review | stable in 6 of 7 calculated diagram(s): 300–463.19 K, x(Sn) 0.16–0.167 | 23 | 7 |
 | [AUSN_B81](#phase-au-sn-ausn-b81); _phase:au-sn:ausn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–692.23 K, x(Sn) 0.48859–0.51075 | 33 | 7 |
-| [AUSN2](#phase-au-sn-ausn2); _phase:au-sn:ausn2_ | AuSn2 · oP24 · Pbca (61) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–590.26 K, x(Sn) 0.66667–0.66667 | 25 | 7 |
+| [AUSN2](#phase-au-sn-ausn2); _phase:au-sn:ausn2_ | AuSn2 · oP24 · Pbca (61) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–590.26 K, x(Sn) 0.66667–0.66667 | 36 | 7 |
 | [AUSN4_D1C](#phase-au-sn-ausn4-d1c); _phase:au-sn:ausn4-d1c_ | PtSn4 · D1_c · oC20 · Ccce (68) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–527.55 K, x(Sn) 0.8–0.8 | 25 | 7 |
 | [BCC_A2](#phase-au-sn-bcc-a2); _phase:au-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [DHCP](#phase-au-sn-dhcp); _phase:au-sn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-au-sn-dhcp-a3); _phase:au-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300.31–805.6 K, x(Sn) 0.05883–0.09248 | 12 | 6 |
+| [DHCP](#phase-au-sn-dhcp-a3); _phase:au-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300.31–805.6 K, x(Sn) 0.05883–0.09248 | 0 | 6 |
 | [FCC_A1](#phase-au-sn-fcc-a1); _phase:au-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1348.33 K, x(Sn) 0–0.07431 | 24 | 7 |
 | [HCP_A3](#phase-au-sn-hcp-a3); _phase:au-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–794.69 K, x(Sn) 0.07924–0.18781 | 36 | 7 |
 | [LIQUID](#phase-au-sn-liquid); _phase:au-sn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 483.03–2500 K, x(Sn) 0–1 | 55 | 7 |
@@ -112,7 +111,7 @@ _assessment that models this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:a5-bct)
 
 Names (13): _corpus: _corpus:phase:au-sn:a5-bct, corpus:phase:au-sn:bct-a5  
-_paper: _paper:10.1007/s11664-003-0025-2:Bct(Sn), paper:10.1016/0040-6031(88)87045-x:Sn(liq), paper:10.1016/0040-6031(88)87045-x:bct, paper:10.1016/j.calphad.2013.07.013:Bct(Sn)  
+_paper: _paper:10.1007/s11664-003-0025-2:Bct(Sn), paper:10.1016/0040-6031(88)87045-x:Sn(bct), paper:10.1016/0040-6031(88)87045-x:bct, paper:10.1016/j.calphad.2013.07.013:Bct(Sn)  
 _tdb: _tdb:AuSn-03Liu.tdb:BCT_A5, tdb:AuSn-07Gro.tdb:BCT_A5, tdb:AuSn-09Don.tdb:BCT_A5, tdb:AuSn-10Gao.tdb:BCT_A5, tdb:AuSn-13Don.tdb:BCT_A5, tdb:AuSn-22Hu.tdb:BCT_A5, tdb:AuSn-88Che.tdb:BCT_A5  
 
 
@@ -233,11 +232,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Au5Sn · hR6 · R32 — AuSn-13Don.tdb: 'Prototype Au5Sn (hR6, R32), zeta-prime'
 - Candidate (tdb_comment): Au5Sn · hR6 · R32 — AuSn-22Hu.tdb: 'Prototype Au5Sn (hR6, R32), zeta-prime'
 - Stability: stable in 6 of 7 calculated diagram(s): 300–463.19 K, x(Sn) 0.16–0.167
-- Literature: 17 values (17 accepted) from 3 papers
+- Literature: 23 values (23 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:au5sn)
 
-Names (11): _corpus: _corpus:phase:au-sn:au5sn  
-_paper: _paper:10.1007/s11664-003-0025-2:ζ’, paper:10.1016/0040-6031(88)87045-x:Au5Sn, paper:10.1016/j.calphad.2013.07.013:Au5Sn  
+Names (12): _corpus: _corpus:phase:au-sn:au5sn  
+_paper: _paper:10.1007/s11664-003-0025-2:ζ’, paper:10.1016/0040-6031(88)87045-x:Au5Sn, paper:10.1016/j.calphad.2013.07.013:Au5Sn, paper:10.1088/2053-1591/ac475f:Au5Sn  
 _tdb: _tdb:AuSn-03Liu.tdb:AU5SN, tdb:AuSn-07Gro.tdb:AU5SN, tdb:AuSn-09Don.tdb:AU5SN, tdb:AuSn-10Gao.tdb:AU5SN, tdb:AuSn-13Don.tdb:AU5SN, tdb:AuSn-22Hu.tdb:AU5SN, tdb:AuSn-88Che.tdb:AU5SN  
 
 
@@ -292,7 +291,7 @@ _tdb: _tdb:AuSn-03Liu.tdb:AU5SN, tdb:AuSn-07Gro.tdb:AU5SN, tdb:AuSn-09Don.tdb:AU
 62: CONST AU5SN : AU : SN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
@@ -304,6 +303,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f) Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022).  
+_reports values for this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(93)90273-p](https://doi.org/10.1016/0925-8388%2893%2990273-p) J. Ciulik, M.R. Notis, The AuSn phase diagram, Journal of Alloys and Compounds 191, 71-78 (1993).  
@@ -403,11 +404,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_61_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.3333, Sn 0.6667
 - Stability: stable in 7 of 7 calculated diagram(s): 300–590.26 K, x(Sn) 0.66667–0.66667
-- Literature: 25 values (25 accepted) from 4 papers
+- Literature: 36 values (36 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:ausn2)
 
-Names (12): _corpus: _corpus:phase:au-sn:ausn2  
-_paper: _paper:10.1007/s11664-003-0025-2:AuSn2, paper:10.1016/0040-6031(88)87045-x:AuSn2, paper:10.1016/j.calphad.2013.07.013:AuSn2, paper:10.1088/2053-1591/ac475f:AuSn2  
+Names (13): _corpus: _corpus:phase:au-sn:ausn2  
+_paper: _paper:10.1007/s11664-003-0025-2:AuSn2, paper:10.1007/s11664-009-0874-4:AuSn2, paper:10.1016/0040-6031(88)87045-x:AuSn2, paper:10.1016/j.calphad.2013.07.013:AuSn2, paper:10.1088/2053-1591/ac475f:AuSn2  
 _tdb: _tdb:AuSn-03Liu.tdb:AUSN2, tdb:AuSn-07Gro.tdb:AUSN2, tdb:AuSn-09Don.tdb:AUSN2, tdb:AuSn-10Gao.tdb:AUSN2, tdb:AuSn-13Don.tdb:AUSN2, tdb:AuSn-22Hu.tdb:AUSN2, tdb:AuSn-88Che.tdb:AUSN2  
 
 
@@ -466,22 +467,22 @@ Example references (9 of 9; assessments first):
 
 - [doi:10.1016/0040-6031(88)87045-X](https://doi.org/10.1016/0040-6031%2888%2987045-X) P.-Y. Chevalier, Thermochim. Acta, 130, 1-13(1988).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-003-0025-2](https://doi.org/10.1007/s11664-003-0025-2) H. S. Liu, C. L. Liu, K. Ishida, Z. P. Jin, Thermodynamic modeling of the Au-In-Sn system, J. Electron. Mater. 32, 1290-1296 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
-_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
 _assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f) Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022).  
+_reports values for this phase_
 - [doi:10.1007/bf02872904](https://doi.org/10.1007/bf02872904) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 5, 492 (1984).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80241-9](https://doi.org/10.1016/0040-6031%2881%2980241-9) Peter C. Wallbrecht, Roger Blachnik, Kenneth C. Mills, The heat capacity and enthalpy of some hume—rothery phases formed by copper, silver and gold. Part II. Cu + Ge, Cu + Sn, Ag + Sn, Au + Sn, Au + Pb systems, Thermochimica Acta 46, 167-174 (1981).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19050460105](https://doi.org/10.1002/zaac.19050460105) Rudolf Vogel, XIII. Über Gold‐Zinnlegierungen, Z. Anorg. Chem. 46, 60-75 (1905).  
 _cited as the source of values for this phase_
-- [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f) Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022).  
-_reports values for this phase_
 
 ## AUSN4_D1C (Au–Sn)
 
@@ -647,25 +648,13 @@ _assessment that models this phase_
 
 ## DHCP (Au–Sn)
 
-- Id: `phase:au-sn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:dhcp)
-
-Names (1): _corpus: _corpus:phase:au-sn:dhcp  
-
-
-## DHCP (Au–Sn)
-
 - Id: `phase:au-sn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300.31–805.6 K, x(Sn) 0.05883–0.09248
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:dhcp-a3)
 
-Names (9): _corpus: _corpus:phase:au-sn:dhcp-a3  
-_paper: _paper:10.1007/s11664-003-0025-2:DO24, paper:10.1016/j.calphad.2013.07.013:Au10Sn  
+Names (8): _corpus: _corpus:phase:au-sn:dhcp-a3, corpus:phase:au-sn:dhcp  
 _tdb: _tdb:AuSn-03Liu.tdb:DHCP, tdb:AuSn-07Gro.tdb:DHCP, tdb:AuSn-09Don.tdb:DHCP, tdb:AuSn-10Gao.tdb:DHCP, tdb:AuSn-13Don.tdb:DHCP, tdb:AuSn-22Hu.tdb:DHCP  
 
 
@@ -713,18 +702,16 @@ _tdb: _tdb:AuSn-03Liu.tdb:DHCP, tdb:AuSn-07Gro.tdb:DHCP, tdb:AuSn-09Don.tdb:DHCP
 58: CONST DHCP : AU SN : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-003-0025-2](https://doi.org/10.1007/s11664-003-0025-2) H. S. Liu, C. L. Liu, K. Ishida, Z. P. Jin, Thermodynamic modeling of the Au-In-Sn system, J. Electron. Mater. 32, 1290-1296 (2003).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
+_assessment that models this phase_
 - [doi:10.3139/146.101544](https://doi.org/10.3139/146.101544) V. Grolier, R. Schmid-Fetzer, Thermodynamic evaluation of the Au–Sn system, J. Mater. Res. 98 (9) (2007) 797–806.  
-_assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1016/0925-8388(93)90273-p](https://doi.org/10.1016/0925-8388%2893%2990273-p) J. Ciulik, M.R. Notis, The AuSn phase diagram, Journal of Alloys and Compounds 191, 71-78 (1993).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Au–Sn)
 
@@ -735,7 +722,7 @@ _cited as the source of values for this phase_
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-sn:fcc-a1)
 
 Names (13): _corpus: _corpus:phase:au-sn:fcc-a1  
-_paper: _paper:10.1007/s11664-003-0025-2:fcc(Au), paper:10.1016/0040-6031(88)87045-x:Au(liq), paper:10.1016/0040-6031(88)87045-x:fcc, paper:10.1016/j.calphad.2013.07.013:Fcc (Au), paper:10.1016/j.calphad.2013.07.013:Fcc(Au)  
+_paper: _paper:10.1007/s11664-003-0025-2:fcc(Au), paper:10.1016/0040-6031(88)87045-x:Au(fcc), paper:10.1016/0040-6031(88)87045-x:fcc, paper:10.1016/j.calphad.2013.07.013:Fcc (Au), paper:10.1016/j.calphad.2013.07.013:Fcc(Au)  
 _tdb: _tdb:AuSn-03Liu.tdb:FCC_A1, tdb:AuSn-07Gro.tdb:FCC_A1, tdb:AuSn-09Don.tdb:FCC_A1, tdb:AuSn-10Gao.tdb:FCC_A1, tdb:AuSn-13Don.tdb:FCC_A1, tdb:AuSn-22Hu.tdb:FCC_A1, tdb:AuSn-88Che.tdb:FCC_A1  
 
 

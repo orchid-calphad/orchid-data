@@ -216,7 +216,7 @@ Table: Invariant reactions reported in the literature for the Al–Nd system (17
 | 923.15 | eutectoid: Nd 4 Nd AlNd3 |  | experimental | [2] Gao 2005; _cites Saccone 1996_ | p. 9 | “Saccone et al.\[17\] also proposed a eutectoid reaction of Nd 4 Nd AlNd3 at 650 °C, and a eutectic reaction of Liq 4 Nd AlNd3 at 690 °C, with a eutectic point of 81 at. pct Nd.” |
 | 908 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 65Bus_ | p. 1 | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
 | 905 | eutectic |  | experimental | [3] Jixin 1996; _cites ref. 9_ | p. 1 | “eutectics occur: one at 905K (2.5 at.% Nd) and one at 908K (85 at.% Nd) according to \[9OKon\] and \[65Bus\] respectively.” |
-| 898.6 | eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0; fcc-A1: Nd 0.214 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 1 |  |
+| 898.6 | eutectic: Liquid -> Al11Nd3-L + fcc-Al | Liquid: Nd 0.03; Al11Nd3-L: Nd 0.214; fcc-A1: Nd 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 1 |  |
 | 855.3 | eutectoid: bcc-A2 -> AlNd3-L + dhcp | bcc-A2: Nd 0.939; AlNd3-L: Nd 0.75; dhcp: Nd 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 93, row 8 |  |
 
 ## Other properties

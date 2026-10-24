@@ -15,7 +15,7 @@ Table: Phases of the Cd–Mg system (5)
 | [BCC_A2](#phase-cd-mg-bcc-a2); _phase:cd-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-cd-mg-fcc-a1); _phase:cd-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_4SL](#phase-cd-mg-hcp-4sl); _phase:cd-mg:hcp-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–920 K, x(Mg) 0.01–1 | 13 | 1 |
-| [A3_HCP](#phase-cd-mg-hcp-a3); _phase:cd-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–923 K, x(Mg) 0–1 | 6 | 2 |
+| [HCP_A3](#phase-cd-mg-hcp-a3); _phase:cd-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–923 K, x(Mg) 0–1 | 6 | 2 |
 | [LIQUID](#phase-cd-mg-liquid); _phase:cd-mg:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 594.22–2500 K, x(Mg) 0–1 | 0 | 1 |
 
 ## BCC_A2 (Cd–Mg)
@@ -107,11 +107,11 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02868720](https://doi.org/10.1007/bf02868720) Z. Moser, W. Gasior, J. Wypartowicz, L. Zabdyr, The Cd–Mg (Cadmium–Magnesium) system, Bull. Alloy Phase Diagrams 5 (1984) 23–30.  
 _cited as the source of values for this phase_
 
-## A3_HCP (Cd–Mg)
+## HCP_A3 (Cd–Mg)
 
 - Id: `phase:cd-mg:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–923 K, x(Mg) 0–1
+- Stability: stable in 1 of 1 calculated diagram(s): 300–923 K, x(Mg) 0–1
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-mg:hcp-a3)
 
@@ -120,7 +120,7 @@ _paper: _paper:10.1016/j.tca.2012.01.016:Hcp_A3
 _tdb: _tdb:CdMg-12Ren.tdb:A3_HCP, tdb:CdMg-12Ren.tdb:HCP_A3  
 
 
-### TDB models of A3_HCP (2): PHASE and CONSTITUENT statements as written
+### TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written
 
 [CdMg-12Ren.tdb](https://orchid-project.org/data/databases/sgte-binary/CdMg-12Ren.tdb): A3_HCP, type code %A, sha256 `2a1ea62b541b4fa1…`
 

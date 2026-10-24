@@ -15,9 +15,9 @@ Table: Phases of the Ga–Te system (8)
 | [ORTHORHOMBIC_A11](#phase-ga-te-a11-orthorhombic); _phase:ga-te:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–302.91 K, x(Te) 0–0 | 4 | 4 |
 | [HEXAGONAL_A8](#phase-ga-te-a8-hexagonal); _phase:ga-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–722.72 K, x(Te) 1–1 | 12 | 4 |
 | [GA2TE3_B3](#phase-ga-te-ga2te3-b3); _phase:ga-te:ga2te3-b3_ | ZnS (sphalerite) · B3 · cF8 · F-43m (216) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1078.44 K, x(Te) 0.59994–0.60018 | 16 | 4 |
-| [GA2TE5](#phase-ga-te-ga2te5); _phase:ga-te:ga2te5_ | Ga2Te5 · tI14 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 676.86–760.98 K, x(Te) 0.71429–0.71429 | 19 | 4 |
+| [GA2TE5](#phase-ga-te-ga2te5); _phase:ga-te:ga2te5_ | Ga2Te5 · tI14 · I4/m (87) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 676.86–760.98 K, x(Te) 0.71429–0.71429 | 25 | 4 |
 | [GA3TE4](#phase-ga-te-ga3te4); _phase:ga-te:ga3te4_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1062.79 K, x(Te) 0.57143–0.57143 | 8 | 4 |
-| [GATE](#phase-ga-te-gate); _phase:ga-te:gate_ | SiAs · mC24 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1106.47 K, x(Te) 0.5–0.5 | 15 | 4 |
+| [GATE](#phase-ga-te-gate); _phase:ga-te:gate_ | SiAs · mC24 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1106.47 K, x(Te) 0.5–0.5 | 23 | 4 |
 | [ION](#phase-ga-te-ion); _phase:ga-te:ion_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 302.91–2500 K, x(Te) 0–1 | 0 | 3 |
 | [LIQUID](#phase-ga-te-liquid); _phase:ga-te:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 302.91–1103.92 K, x(Te) 0–1 | 33 | 4 |
 
@@ -203,7 +203,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.2857, Te 0.7143
 - Stability: stable in 4 of 4 calculated diagram(s): 676.86–760.98 K, x(Te) 0.71429–0.71429
-- Literature: 19 values (19 accepted) from 1 papers
+- Literature: 25 values (25 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-te:ga2te5)
 
 Names (6): _corpus: _corpus:phase:ga-te:ga2te5  
@@ -241,7 +241,7 @@ _tdb: _tdb:GaTe-20Liu.tdb:GA2TE5, tdb:GaTe-22Yu.tdb:GA2TE5, tdb:GaTe-92Oh-LB.tdb
 68: CONST GA2TE5 : GA : TE : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1007/s11669-022-00950-z](https://doi.org/10.1007/s11669-022-00950-z) Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -254,6 +254,8 @@ _cited as the source of values for this phase_
 - [doi:10.1016/j.actamat.2020.08.008](https://doi.org/10.1016/j.actamat.2020.08.008) Y. Liu, Z. Dou, M. Enoki, Y. Oyama, and H. Ohtani, Thermodynamic Assessment of the Ga-Se-Te System, Calphad, 2020, 71, p 102206. https://doi.org/10.1016/j.calphad.2020.102206  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(95)01606-6](https://doi.org/10.1016/0925-8388%2895%2901606-6) D. Mouani, G. Morgant, B. Legendre, Study of the phase equilibria in the ternary goldgalliumtellurium system, Journal of Alloys and Compounds 226, 222-231 (1995).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
 _cited as the source of values for this phase_
 
 ## GA3TE4 (Ga–Te)
@@ -323,7 +325,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.5000, Te 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1106.47 K, x(Te) 0.5–0.5
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 23 values (23 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-te:gate)
 
 Names (6): _corpus: _corpus:phase:ga-te:gate  
@@ -361,7 +363,7 @@ _tdb: _tdb:GaTe-20Liu.tdb:GATE, tdb:GaTe-22Yu.tdb:GATE, tdb:GaTe-92Oh-LB.tdb:GAT
 53: CONST GATE : GA : TE : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1007/s11669-022-00950-z](https://doi.org/10.1007/s11669-022-00950-z) Shangzhao Yu, Jiong Wang, Dongyu Cui, Shanxiong Chen, Qing Wu, Yong Du, Thermodynamic Modelling of the Te-X (X = Cu, Ga, Li, Sr) Systems, J. Phase Equilib. Diffus. 43, 193-213 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -373,7 +375,11 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-4596(79)90082-3](https://doi.org/10.1016/0022-4596%2879%2990082-3) F. Alapini, J. Flahaut, M. Guittard, S. Jaulmes, M. Julien-Pouzol, Systeme gallium-tellure, Journal of Solid State Chemistry 28, 309-319 (1979).  
 _cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(79)90059-6](https://doi.org/10.1016/0022-5088%2879%2990059-6) H. Said, R. Castanet, Thermodynamic investigations of liquid and solid Ga-Te alloys, Journal of the Less Common Metals 68, 213-221 (1979).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(95)01606-6](https://doi.org/10.1016/0925-8388%2895%2901606-6) D. Mouani, G. Morgant, B. Legendre, Study of the phase equilibria in the ternary goldgalliumtellurium system, Journal of Alloys and Compounds 226, 222-231 (1995).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(85)90158-4](https://doi.org/10.1016/0022-5088%2885%2990158-4) Roger Blachnik, Eberhard Irle, Das System Gallium-Tellur, Journal of the Less Common Metals 113, L1-L3 (1985).  
 _cited as the source of values for this phase_

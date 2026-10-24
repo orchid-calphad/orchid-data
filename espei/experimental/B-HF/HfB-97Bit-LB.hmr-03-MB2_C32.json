@@ -23,12 +23,11 @@
  "tags": [
   "experimental",
   "thermochemical_table",
-  "orchid_caveat",
   "orchid",
   "compound_formation_endmember"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3TNKPI5YQB",
- "weight": 0.056818,
+ "weight": 0.170474,
  "bibtex": "bittermann1997_f0d52c",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -37,10 +36,7 @@
    {
     "id": "ORC-3TNKPI5YQB",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02646757",
-    "caveats": [
-     "basis_inferred_from_magnitude"
-    ]
+    "paper": "doi:10.1007/bf02646757"
    }
   ],
   "papers": [
@@ -61,38 +57,38 @@
   "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`)",
   "values": [
    {
-    "sigma": 8800.0,
+    "sigma": 2933.333333,
     "sigma_basis": "printed",
     "budget": {
-     "sigma_printed": 8800.0,
+     "sigma_printed": 2933.0,
      "sigma_reading": 16.67,
      "sigma_method": 1000.0,
      "sigma_composition": null,
      "sigma_scatter": null,
      "sigma_conversion": null,
-     "sigma_effective": 8800.0,
+     "sigma_effective": 2933.0,
      "method_class": "combustion_calorimetry",
-     "method_basis": "prior",
+     "method_basis": "cleaned_below_threshold",
      "method_n_pairs": 15,
      "method_entry": "value_types/HM_FORM/classes/combustion_calorimetry"
     },
     "printed": {
-     "value": 8.8,
+     "value": 2.933333333,
      "unit": "kJ/mol-atom",
      "interval": "±x printed; coverage not stated, taken as 1 sigma",
      "coverage": "1sigma_assumed"
     },
-    "sigma_effective_used": 8800.0,
-    "weight_per_value_equivalent": 0.056818,
-    "weight_used": 0.056818
+    "sigma_effective_used": 2933.0,
+    "weight_per_value_equivalent": 0.170474,
+    "weight_used": 0.170474
    }
   ]
  },
  "orchid_weight_floor": {
   "superseded": "superseded on 2026-10-24 (PI decision): the dataset weight now follows sigma_effective of the published uncertainty budget (method-class floors calibrated from ORCHID, never below ESPEI's experimental default) by default, so no opt-in is needed; this block keeps the former optional suggestion (sigma floor = ESPEI's default) for comparison only",
-  "suggested_weight": 0.056818,
-  "weight_before_2026_10_24": 0.056818,
-  "weight_written": 0.056818,
+  "suggested_weight": 0.170455,
+  "weight_before_2026_10_24": 0.170455,
+  "weight_written": 0.170474,
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "former optional minimum-sigma policy (E6, superseded): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"

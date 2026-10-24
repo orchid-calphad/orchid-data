@@ -1,10 +1,10 @@
 # Al–Ni–Pr system
 
-> Al–Ni–Pr system: 70 accepted literature values (invariant reaction 37, formation 29, phase transition 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ni–Pr system: 69 accepted literature values (invariant reaction 37, formation 29, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-NI-PR.html · Markdown: https://data.orchid-project.org/systems/AL-NI-PR.md
 
-70 accepted literature values from 1 paper(s) (experimental 2, model 56, DFT 12); 0 calculated phase diagram(s).
+69 accepted literature values from 1 paper(s) (experimental 1, model 56, DFT 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-NI-PR.json) · [CSV](https://data.orchid-project.org/systems/AL-NI-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-NI-PR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-NI-PR.html) · [Markdown](https://data.orchid-project.org/systems/AL-NI-PR.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 1 |
 | model | 56 |
 | DFT | 12 |
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 37 |
-| phase transition | 4 |
+| phase transition | 3 |
 | formation | 29 |
 
 ## Invariant reactions (literature)
@@ -108,13 +108,12 @@ Table: Enthalpies of formation, Al–Ni–Pr system (29)
 
 ## Other properties
 
-### Phase transition (4)
+### Phase transition (3)
 
 Table: Phase transition, Al–Ni–Pr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1238.15 K | 1238.15 | polymorphic | experimental | [1] Liao 2019; _cites Buschow 1966_ | p. 3 | “Buschow et al \[19\] first determined the entire composition by metallography, thermal analysis and x-ray diffractometry, and found four solution phases (liquid, fcc, bcc and dhcp) and six intermetallic compounds (Al4Pr, Al3Pr, Al2Pr, AlPr, AlPr2 and AlPr3), including an allotropic transformation α\_Al4Pr/β\_Al4Pr at 965 °C.” |
 | Phase transition | 1238.15 K | 1238.15 | polymorphic | model | [1] Liao 2019 | p. 7 | “For the Al11Pr3 phase, the allotropic transformation was included, and the transformation temperature between the α-Al11Pr3 and β-Al11Pr3 phases is 965 °C, which is the same as that in the literature \[19\].” |
 | Phase transition | 1348.15 K | 1348.15 | β-Al11Pr3 + Al2Pr -> Al3Pr | model | [1] Liao 2019 | p. 7 | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |
 | Phase transition | 1519.15 K | 1519.15 | Liq + Al2Pr -> β-Al11Pr3 | model | [1] Liao 2019 | p. 7 | “The temperatures of the related invariant reactions, Liq+Al2Pr→β-Al11Pr3 and β-Al11Pr3+Al2Pr→Al3Pr were 1246 °C and 1075 °C, respectively, which is consistent with the experimental data.” |

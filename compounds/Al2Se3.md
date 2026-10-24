@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al2Se3.html · Markdown: https:/
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 2); experimental median -110.95 kJ/mol-atom (n = 2); Materials Project -108.385 kJ/mol-atom (mp-aaaaarha); OQMD -82.526 kJ/mol-atom (oqmd-1376246).
 
-Systems: [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html)
+Systems: [Al–Se](https://data.orchid-project.org/systems/AL-SE.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Al2Se3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -113.4 kJ/mol-atom | Al2Se3 | 298.15 | experimental | Direct synthesis calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
-| -108.5 kJ/mol-atom | Al2Se3 | 298.15 | experimental | Combustion calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
-| -107.7 kJ/mol-atom | Al2Se3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
-| -81.72 kJ/mol-atom | Al2Se3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
-| -81.24 kJ/mol-atom | Al2Se3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
+| -113.4 kJ/mol-atom | Al2Se3 | 298.15 | experimental | Direct synthesis calorimetry | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html) | [1] Shi 2019; _cites Kapustinskii 1951_ | Table 3, p. 3, row 10 |  |
+| -108.5 kJ/mol-atom | Al2Se3 | 298.15 | experimental | Combustion calorimetry | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html) | [1] Shi 2019; _cites Schneider 1954_ [doi](https://doi.org/10.1002/zaac.19542770107) | Table 3, p. 3, row 11 |  |
+| -107.7 kJ/mol-atom | Al2Se3 | 298.15 | model | CALPHAD | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html) | [1] Shi 2019 | Table 3, p. 3, row 14 |  |
+| -81.72 kJ/mol-atom | Al2Se3 | 0 | DFT | DFT | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 12 |  |
+| -81.24 kJ/mol-atom | Al2Se3 | 0 | DFT | DFT | [Al–Se](https://data.orchid-project.org/systems/AL-SE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 13 |  |
 
 ### Uncertainty budget
 
@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of Al2Se3
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -113.4 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -108.5 | kJ/mol-atom |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -107.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -81.72 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -81.24 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -108.5 | kJ/mol-atom |  | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -107.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -81.72 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -81.24 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

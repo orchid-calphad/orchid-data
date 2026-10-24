@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al5Ba3.html · Markdown: https:/
 
 3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -22.211 kJ/mol-atom (mp-aaaaaakb); OQMD -22.16 kJ/mol-atom (oqmd-26824).
 
-Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) · [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html)
 
 ## Literature values
 
@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Al5Ba3 reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -52.72 kJ/mol-atom | Al5Ba3 |  | model |  | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [1] Azza 2017 | Table 4, p. 6, row 7 |  |
-| -23.954 kJ/mol-atom | Al5Ba3 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019 | Table 3, p. 4, row 14 |  |
-| -23.356 kJ/mol-atom | Al5Ba3 | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [2] Benhafid 2019 | Table 3, p. 4, row 13 |  |
+| -23.954 kJ/mol-atom | Al5Ba3 |  | model | CALPHAD | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 14 |  |
+| -23.356 kJ/mol-atom | Al5Ba3 | 0 | DFT | Ab-initio | [Al–Ba](https://data.orchid-project.org/systems/AL-BA.html) | [2] Benhafid 2019 | Table 3, p. 4, row 13 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Al5Ba3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -52.72 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.954 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.356 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -52.72 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.954 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.356 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -38,8 +38,8 @@ Table: DFT formation energy of Al5Ba3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaaakb | -22.211 | -0.230206 | P6_3/mmc | 0.714 | 0.0074 | no |
-| OQMD | oqmd-26824 | -22.16 | -0.229673 | P63/mmc | 0.377 | 0.0039 | no |
+| Materials Project | mp-aaaaaakb | -22.211 | -0.230206 | P6_3/mmc | 0.7137 | 0.0074 | no |
+| OQMD | oqmd-26824 | -22.16 | -0.229673 | P63/mmc | 0.3765 | 0.0039 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

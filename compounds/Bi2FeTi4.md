@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Bi2FeTi4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -25.72 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -25.72 | kJ/mol (basis unstated) |  | 0.005 | 27.19 (dft, calibrated) |  |  |  | 27.19 |
 
 ## Sources
 

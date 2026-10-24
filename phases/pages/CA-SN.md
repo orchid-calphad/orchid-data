@@ -16,10 +16,10 @@ Table: Phases of the Ca–Sn system (13)
 | [BCT_A5](#phase-ca-sn-a5-bct); _phase:ca-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 0 | 2 |
 | [BCC_A2](#phase-ca-sn-bcc-a2); _phase:ca-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 716.03–1115 K, x(Sn) 0–0 | 0 | 2 |
 | [CA2SN_C37](#phase-ca-sn-ca2sn-c37); _phase:ca-sn:ca2sn-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1608.73 K, x(Sn) 0.33333–0.33333 | 6 | 2 |
-| [CA31SN20](#phase-ca-sn-ca31sn20); _phase:ca-sn:ca31sn20_ | Pt20Pu31 · tI204 · I4/mcm (140) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1390.37 K, x(Sn) 0.39216–0.39216 | 4 | 2 |
-| [CA36SN23](#phase-ca-sn-ca36sn23); _phase:ca-sn:ca36sn23_ | Sn23Yb36 · tP118 · P4/mbm (127) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1400.63 K, x(Sn) 0.38983–0.38983 | 4 | 2 |
+| [CA31SN20](#phase-ca-sn-ca31sn20); _phase:ca-sn:ca31sn20_ | Pt20Pu31 · tI204 · I4/mcm (140) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1390.37 K, x(Sn) 0.39216–0.39216 | 6 | 2 |
+| [CA36SN23](#phase-ca-sn-ca36sn23); _phase:ca-sn:ca36sn23_ | Sn23Yb36 · tP118 · P4/mbm (127) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1400.63 K, x(Sn) 0.38983–0.38983 | 6 | 2 |
 | [CA5SN3_D8L](#phase-ca-sn-ca5sn3-d8l); _phase:ca-sn:ca5sn3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1409.61 K, x(Sn) 0.375–0.375 | 4 | 2 |
-| [CA7SN6](#phase-ca-sn-ca7sn6); _phase:ca-sn:ca7sn6_ | Ca7Sn6 · oP52 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1274.51 K, x(Sn) 0.46154–0.46154 | 4 | 2 |
+| [CA7SN6](#phase-ca-sn-ca7sn6); _phase:ca-sn:ca7sn6_ | Ca7Sn6 · oP52 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1274.51 K, x(Sn) 0.46154–0.46154 | 7 | 2 |
 | [CASN_B33](#phase-ca-sn-casn-b33); _phase:ca-sn:casn-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1282.46 K, x(Sn) 0.5–0.5 | 6 | 2 |
 | [CASN3_L12](#phase-ca-sn-casn3-l12); _phase:ca-sn:casn3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–904.29 K, x(Sn) 0.75–0.75 | 6 | 2 |
 | [FCC_A1](#phase-ca-sn-fcc-a1); _phase:ca-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–716.03 K, x(Sn) 0–0 | 0 | 2 |
@@ -178,13 +178,13 @@ _assessment that models this phase_
 - Structure: Pt20Pu31 · tI204 · I4/mcm (140); type `st:pt20pu31-ti204`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ca 0.6078, Sn 0.3922
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1390.37 K, x(Sn) 0.39216–0.39216
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sn:ca31sn20)
 
-Names (6): _corpus: _corpus:phase:ca-sn:ca31sn20  
+Names (7): _corpus: _corpus:phase:ca-sn:ca31sn20  
 _mp: _mp:mp-aaabmsjm  
 _oqmd: _oqmd:oqmd-32622  
-_paper: _paper:10.1016/j.actamat.2006.06.017:Ca31Sn20  
+_paper: _paper:10.1016/j.actamat.2006.06.017:Ca31Sn20, paper:10.1016/j.intermet.2007.10.010:Ca31Sn20  
 _tdb: _tdb:CaSn-05Car.tdb:CA31SN20, tdb:CaSn-06Ohn.tdb:CA31SN20  
 
 
@@ -204,12 +204,14 @@ _tdb: _tdb:CaSn-05Car.tdb:CA31SN20, tdb:CaSn-06Ohn.tdb:CA31SN20
 75: CONST CA31SN20 : CA : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.actamat.2006.06.017](https://doi.org/10.1016/j.actamat.2006.06.017) M OHNO, A KOZLOV, R ARROYAVE, Z LIU, R SCHMIDFETZER, Thermodynamic modeling of the Ca–Sn system based on finite temperature quantities from first-principles and experiment, Acta Materialia 54, 4939-4951 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.101180](https://doi.org/10.3139/146.101180) Y. Cartigny, J.M. Fiorani, A. Maitre, M. Vilasi, Z. Metallkd., 96, 1308-13(2005).  
 _assessment that models this phase_
+- [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010) A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008).  
+_reports values for this phase_
 
 ## CA36SN23 (Ca–Sn)
 
@@ -219,11 +221,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.6102, Sn 0.3898
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1400.63 K, x(Sn) 0.38983–0.38983
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sn:ca36sn23)
 
-Names (4): _corpus: _corpus:phase:ca-sn:ca36sn23  
-_paper: _paper:10.1016/j.actamat.2006.06.017:Ca36Sn23  
+Names (5): _corpus: _corpus:phase:ca-sn:ca36sn23  
+_paper: _paper:10.1016/j.actamat.2006.06.017:Ca36Sn23, paper:10.1016/j.intermet.2007.10.010:Ca36Sn23  
 _tdb: _tdb:CaSn-05Car.tdb:CA36SN23, tdb:CaSn-06Ohn.tdb:CA36SN23  
 
 
@@ -243,12 +245,14 @@ _tdb: _tdb:CaSn-05Car.tdb:CA36SN23, tdb:CaSn-06Ohn.tdb:CA36SN23
 70: CONST CA36SN23 : CA : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.actamat.2006.06.017](https://doi.org/10.1016/j.actamat.2006.06.017) M OHNO, A KOZLOV, R ARROYAVE, Z LIU, R SCHMIDFETZER, Thermodynamic modeling of the Ca–Sn system based on finite temperature quantities from first-principles and experiment, Acta Materialia 54, 4939-4951 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.101180](https://doi.org/10.3139/146.101180) Y. Cartigny, J.M. Fiorani, A. Maitre, M. Vilasi, Z. Metallkd., 96, 1308-13(2005).  
 _assessment that models this phase_
+- [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010) A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008).  
+_reports values for this phase_
 
 ## CA5SN3_D8L (Ca–Sn)
 
@@ -295,11 +299,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ca 0.5385, Sn 0.4615
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1274.51 K, x(Sn) 0.46154–0.46154
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-sn:ca7sn6)
 
-Names (4): _corpus: _corpus:phase:ca-sn:ca7sn6  
-_paper: _paper:10.1016/j.actamat.2006.06.017:Ca7Sn6  
+Names (5): _corpus: _corpus:phase:ca-sn:ca7sn6  
+_paper: _paper:10.1016/j.actamat.2006.06.017:Ca7Sn6, paper:10.1016/j.intermet.2007.10.010:Ca7Sn6  
 _tdb: _tdb:CaSn-05Car.tdb:CA7SN6, tdb:CaSn-06Ohn.tdb:CA7SN6  
 
 
@@ -319,12 +323,14 @@ _tdb: _tdb:CaSn-05Car.tdb:CA7SN6, tdb:CaSn-06Ohn.tdb:CA7SN6
 80: CONST CA7SN6 : CA : SN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.actamat.2006.06.017](https://doi.org/10.1016/j.actamat.2006.06.017) M OHNO, A KOZLOV, R ARROYAVE, Z LIU, R SCHMIDFETZER, Thermodynamic modeling of the Ca–Sn system based on finite temperature quantities from first-principles and experiment, Acta Materialia 54, 4939-4951 (2006).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.101180](https://doi.org/10.3139/146.101180) Y. Cartigny, J.M. Fiorani, A. Maitre, M. Vilasi, Z. Metallkd., 96, 1308-13(2005).  
 _assessment that models this phase_
+- [doi:10.1016/j.intermet.2007.10.010](https://doi.org/10.1016/j.intermet.2007.10.010) A. Kozlov, M. Ohno, R. Arroyave, Z.K. Liu, R. Schmid-Fetzer, Phase equilibria, thermodynamics and solidification microstructures of Mg–Sn–Ca alloys, Part 1: Experimental investigation and thermodynamic modeling of the ternary Mg–Sn–Ca system, Intermetallics 16, 299-315 (2008).  
+_reports values for this phase_
 
 ## CASN_B33 (Ca–Sn)
 

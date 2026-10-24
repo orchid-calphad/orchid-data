@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CaGa2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (DFT 1, unspecified 1); Materials Project -50.078 kJ/mol-atom (mp-aaaaaqsa); OQMD -50.802 kJ/mol-atom (oqmd-28952).
 
-Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
+Systems: [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CaGa2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -49.254 kJ/mol-atom | CaGa2 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 6 |  |
-| -38.8 kJ/mol-atom ± 4.8 | CaGa2 |  | unspecified |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
+| -49.254 kJ/mol-atom | CaGa2 | 0 | DFT | first-principles calculations | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013 | Table 2, p. 3, row 6 |  |
+| -38.8 kJ/mol-atom ± 4.8 | CaGa2 |  | unspecified |  | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013 | Table 2, p. 3, row 7 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CaGa2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -49.254 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -38.8 | kJ/mol-atom | 4.8 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.8 |
+| -49.254 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -38.8 | kJ/mol-atom | 4.8 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 4.8 |
 
 ## DFT formation energies
 

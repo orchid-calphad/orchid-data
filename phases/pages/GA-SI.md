@@ -13,8 +13,8 @@ Table: Phases of the Ga–Si system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ga-si-a11-orthorhombic); _phase:ga-si:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.41 K, x(Si) 0–0 | 0 | 2 |
-| [DIAMOND_A4](#phase-ga-si-a4-diamond); _phase:ga-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Si) 0.99923–1 | 3 | 2 |
-| [BCC_A2](#phase-ga-si-bcc-a2); _phase:ga-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 3 | 2 |
+| [DIAMOND_A4](#phase-ga-si-a4-diamond); _phase:ga-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Si) 0.99923–1 | 0 | 2 |
+| [BCC_A2](#phase-ga-si-bcc-a2); _phase:ga-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ga-si-fcc-a1); _phase:ga-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ga-si-hcp-a3); _phase:ga-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ga-si-liquid); _phase:ga-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 302.91–2500 K, x(Si) 0–1 | 11 | 2 |
@@ -58,11 +58,10 @@ _assessment that models this phase_
 - Id: `phase:ga-si:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Si) 0.99923–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-si:a4-diamond)
 
-Names (4): _corpus: _corpus:phase:ga-si:a4-diamond  
-_paper: _paper:10.1007/bf02880523:(αGaI)  
+Names (3): _corpus: _corpus:phase:ga-si:a4-diamond  
 _tdb: _tdb:GaSi-05Fra-LB.tdb:DIAMOND_A4, tdb:GaSi-85Ole.tdb:DIAMOND_A4  
 
 
@@ -85,18 +84,17 @@ _tdb: _tdb:GaSi-05Fra-LB.tdb:DIAMOND_A4, tdb:GaSi-85Ole.tdb:DIAMOND_A4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02880523](https://doi.org/10.1007/BF02880523) R.W. Olesinski, N. Kanani, G.J. Abbaschian, Bull. Alloy Phase Diag., 6, 362-64(1095).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Ga–Si)
 
 - Id: `phase:ga-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-si:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ga-si:bcc-a2  
-_paper: _paper:10.1007/bf02880523:(βGa)  
+Names (3): _corpus: _corpus:phase:ga-si:bcc-a2  
 _tdb: _tdb:GaSi-05Fra-LB.tdb:BCC_A2, tdb:GaSi-85Ole.tdb:BCC_A2  
 
 
@@ -116,12 +114,10 @@ _tdb: _tdb:GaSi-05Fra-LB.tdb:BCC_A2, tdb:GaSi-85Ole.tdb:BCC_A2
 31: CONST BCC_A2 : GA SI : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02880523](https://doi.org/10.1007/BF02880523) R.W. Olesinski, N. Kanani, G.J. Abbaschian, Bull. Alloy Phase Diag., 6, 362-64(1095).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1051/jcp/1977740851](https://doi.org/10.1051/jcp/1977740851) A. Defrain, États métastables du gallium. Surfusion et polymorphisme, J. Chim. Phys. 74, 851-862 (1977).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ga–Si)
 

@@ -13,16 +13,17 @@ Table: Phases of the Cr–U system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-cr-u-a20-orthorhombic); _phase:cr-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1047.09 K, x(U) 1–1 | 0 | 1 |
-| [BCC_A2](#phase-cr-u-bcc-a2); _phase:cr-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2578.4 K, x(U) 0–1 | 6 | 1 |
+| [BCC_A2](#phase-cr-u-bcc-a2); _phase:cr-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2578.4 K, x(U) 0–1 | 4 | 1 |
 | [FCC_A1](#phase-cr-u-fcc-a1); _phase:cr-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cr-u-hcp-a3); _phase:cr-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-cr-u-liquid); _phase:cr-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1133.4–4000 K, x(U) 0–1 | 2 | 1 |
-| [TETRAGONAL_U](#phase-cr-u-u-tetragonal); _phase:cr-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 912.09–1097.5 K, x(U) 0.98379–1 | 4 | 1 |
+| [TETRAGONAL_U](#phase-cr-u-u-tetragonal); _phase:cr-u:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 912.09–1097.5 K, x(U) 0.98379–1 | 2 | 1 |
 
 ## ORTHORHOMBIC_A20 (Cr–U)
 
 - Id: `phase:cr-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1047.09 K, x(U) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-u:a20-orthorhombic)
@@ -50,11 +51,11 @@ _assessment that models this phase_
 - Id: `phase:cr-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2578.4 K, x(U) 0–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-u:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:cr-u:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2011.01.043:(Cr), paper:10.1016/j.jnucmat.2011.01.043:(γ-U)  
+Names (3): _corpus: _corpus:phase:cr-u:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2011.01.043:(Cr)  
 _tdb: _tdb:CrU-11Ber.tdb:BCC_A2  
 
 
@@ -158,7 +159,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — CrU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 1 of 1 calculated diagram(s): 912.09–1097.5 K, x(U) 0.98379–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-u:u-tetragonal)
 
 Names (4): _corpus: _corpus:phase:cr-u:u-tetragonal, corpus:phase:cr-u:tetragonal-u  

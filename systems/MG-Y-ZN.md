@@ -1,10 +1,10 @@
 # Mg–Y–Zn system
 
-> Mg–Y–Zn system: 45 accepted literature values (crystal structure 45) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Y–Zn system: 8 accepted literature values (crystal structure 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-Y-ZN.html · Markdown: https://data.orchid-project.org/systems/MG-Y-ZN.md
 
-45 accepted literature values from 1 paper(s) (unspecified 45); 0 calculated phase diagram(s).
+8 accepted literature values from 1 paper(s) (unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-Y-ZN.json) · [CSV](https://data.orchid-project.org/systems/MG-Y-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-Y-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-Y-ZN.html) · [Markdown](https://data.orchid-project.org/systems/MG-Y-ZN.md)
 
@@ -12,66 +12,29 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 45 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 45 |
+| crystal structure | 8 |
 
 ## Other properties
 
-### Crystal structure (45)
+### Crystal structure (8)
 
 Table: Crystal structure, Mg–Y–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 7.76 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| Lattice a | 11.257 Å | 298.15 | Mg24Y5 (ε); _alloy: Y 0.172414, Zn 0_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 1 |  |
-| Lattice a | 6.037 Å | 298.15 | Mg2Y; _alloy: Y 0.333333, Zn 0_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Y 0, Zn 0.846154_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 17 |  |
-| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Y 0, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice a | 14.08 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice a | 3.796 Å | 298.15 | MgY; _alloy: Y 0.5, Zn 0_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 3 |  |
-| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Y 0, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
 | Lattice a | 6.83 Å | 298.15 | W_Mg3Y2Zn3; _alloy: Y 0.25, Zn 0.375_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 18 |  |
-| Lattice a | 14.28 Å | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
-| Lattice a | 8.911 Å | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
-| Lattice a | 4.388 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.578 Å | 298.15 | YZn; _alloy: Y 0.5, Zn 0.5_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 4 |  |
-| Lattice a | 8.875 Å | 298.15 | YZn12; _alloy: Y 0.076923, Zn 0.923077_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 12 |  |
-| Lattice a | 6.69 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
-| Lattice a | 8.885 Å | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
 | Lattice a | 14.58 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
-| Lattice a | 4.504 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
-| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Y 0, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice b | 14.49 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice b | 12.929 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
-| Lattice b | 4.405 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
 | Lattice b | 8.68 Å | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
-| Lattice b | 7.143 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
 | Lattice c | 9.2 Å | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| Lattice c | 9.752 Å | 298.15 | Mg2Y; _alloy: Y 0.333333, Zn 0_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Y 0, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| Lattice c | 14.03 Å | 298.15 | Mg7Zn3 (Mg51Zn20) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 13 |  |
-| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Y 0, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
-| Lattice c | 14 Å | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
-| Lattice c | 8.764 Å | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
-| Lattice c | 8.871 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
-| Lattice c | 5.192 Å | 298.15 | YZn12; _alloy: Y 0.076923, Zn 0.923077_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 12 |  |
-| Lattice c | 10.111 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
-| Lattice c | 9.201 Å | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
-| Lattice c | 7.664 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
 | lattice a r | 5.19 Å | 298.15 | I_Mg3YZn6; _alloy: Y 0.1, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 20 |  |
 | lattice gamma | 120 ° | 298.15 | H_Mg15Y15Zn70; _alloy: Y 0.15, Zn 0.7_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 21 |  |
-| lattice gamma | 120 ° | 298.15 | Mg2Y; _alloy: Y 0.333333, Zn 0_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 2 |  |
-| lattice gamma | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Y 0, Zn 0.6_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 15 |  |
-| lattice gamma | 120 ° | 298.15 | MgZn2; _alloy: Y 0, Zn 0.666667_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 16 |  |
-| lattice gamma | 120 ° | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
-| lattice gamma | 120 ° | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
-| lattice gamma | 120 ° | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
 | lattice gamma | 120 ° | 298.15 | Z_Mg28Y7Zn65; _alloy: Y 0.07, Zn 0.65_ | unspecified | [1] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 19 |  |
 
 ## Sources

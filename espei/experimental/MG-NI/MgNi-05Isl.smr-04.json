@@ -81,7 +81,7 @@
      "sigma_effective": 2.0,
      "method_class": "kems_vapour",
      "method_basis": "prior",
-     "method_n_pairs": 2,
+     "method_n_pairs": 1,
      "method_entry": "value_types/SM_FORM/classes/kems_vapour"
     },
     "sigma_effective_used": 2.0,

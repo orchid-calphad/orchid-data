@@ -1,10 +1,10 @@
 # Al–Au system
 
-> Al–Au system: 129 accepted literature values (crystal structure 64, invariant reaction 34, phase transition 12, formation 10) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Au system: 120 accepted literature values (crystal structure 61, invariant reaction 34, phase transition 10, mixing / partial 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AU.html · Markdown: https://data.orchid-project.org/systems/AL-AU.md
 
-129 accepted literature values from 2 paper(s) (experimental 43, model 29, unspecified 57); 3 calculated phase diagram(s). 8 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+120 accepted literature values from 2 paper(s) (experimental 36, model 29, unspecified 55); 3 calculated phase diagram(s). 7 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AU.json) · [CSV](https://data.orchid-project.org/systems/AL-AU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-AU/AlAu-04Li.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-AU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AU.html) · [Markdown](https://data.orchid-project.org/systems/AL-AU.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 43 |
+| experimental | 36 |
 | model | 29 |
-| unspecified | 57 |
+| unspecified | 55 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 34 |
-| phase transition | 12 |
-| formation | 10 |
+| phase transition | 10 |
+| formation | 6 |
 | mixing / partial | 9 |
-| crystal structure | 64 |
+| crystal structure | 61 |
 
 ## Calculated phase diagrams
 
@@ -135,14 +135,10 @@ Table: Invariant reactions reported in the literature for the Al–Au system (34
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Au system (10)
+Table: Enthalpies of formation, Al–Au system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Au) |  | -22.594 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 7 |  |
-| (Au) |  | -9.623 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 10 |  |
-| (Au) |  | -8.033 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 9 |  |
-| (Au) |  | -4.393 kJ/mol-atom | 298.15 | experimental |  |  | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 8 |  |
 | Al2Au | [Al2Au](https://data.orchid-project.org/compounds/Al2Au.html) | -41.422 kJ/mol-atom | 298.15 | experimental | -40.818 (mp-aaaaadxv) | -40.918 (oqmd-10384) | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 1 |  |
 | Al2Au | [Al2Au](https://data.orchid-project.org/compounds/Al2Au.html) | -39.162 kJ/mol-atom | 298.15 | experimental | -40.818 (mp-aaaaadxv) | -40.918 (oqmd-10384) | [1] Murray 1987; _cites Predel 1970_ [doi](https://doi.org/10.1016/0025-5416%2870%2990083-2) | Table 4, p. 8, row 2 |  |
 | AlAu | [AlAu](https://data.orchid-project.org/compounds/AlAu.html) | -36.4 kJ/mol-atom | 298.15 | experimental | -38.163 (mp-aaaaacbv) | -38.17 (oqmd-17555) | [1] Murray 1987; _cites Ferro 1966_ | Table 4, p. 8, row 4 |  |
@@ -152,7 +148,7 @@ Table: Enthalpies of formation, Al–Au system (10)
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (10)
 
 Table: Phase transition, Al–Au system
 
@@ -167,8 +163,6 @@ Table: Phase transition, Al–Au system
 | Phase transition | 1333 K | 1333 | L -> (Al2Au); _L: Au 0.3332; (Al2Au): Au 0.3332_ | model | [2] Li 2004 | Table 1, p. 2, row 26 |  |
 | Phase transition | 1333 K | 1333 | L -> (Al2Au); _L: Au 0.333; (Al2Au): Au 0.333_ | experimental | [2] Li 2004; _cites Heycock 1900_ [doi](https://doi.org/10.1098/rsta.1900.0017) | Table 1, p. 2, row 25 |  |
 | Phase transition | 1333.15 K | 1333.15 | congruent melting: L -> Al2Au; _Al2Au: Au 0.333_ | model | [1] Murray 1987 | Table 1, p. 2, row 16 |  |
-| Phase transition | 1335.35 K | 1335.35 | Au | experimental | [1] Murray 1987; _cites ref. 00Hey_ | p. 1 | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
-| Phase transition | 1337.58 K | 1337.58 | Au | experimental | [1] Murray 1987 | p. 1 | “Minor modifications in these temperatures m a y be necessary in the future because the melting points of A1 and Au assumed by \[00Hey\] to be 655 and 1062.2 ~ respectively, are now accepted as 660.452 and 1064.43 ~ \[Melt\]9” |
 | Phase transition | 1337.58 K | 1337.58 | congruent melting: L -> (Au); _(Au): Au 1_ | model | [1] Murray 1987 | Table 1, p. 2, row 18 |  |
 
 ### Mixing / partial (9)
@@ -187,7 +181,7 @@ Table: Mixing / partial, Al–Au system
 | Enthalpy of mixing; _printed: Δmix H(L)_ | -19.186 kJ/mol (basis unstated) |  | L | experimental | [1] Murray 1987; _cites Itagaki 1971_ [doi](https://doi.org/10.2320/jinstmet1952.35.4_389) | Table 4, p. 8, row 15 |  |
 | Enthalpy of mixing; _printed: Δmix H(L)_ | -15.013 kJ/mol (basis unstated) |  | L | experimental | [1] Murray 1987; _cites Itagaki 1971_ [doi](https://doi.org/10.2320/jinstmet1952.35.4_389) | Table 4, p. 8, row 13 |  |
 
-### Crystal structure (64)
+### Crystal structure (61)
 
 Table: Crystal structure, Al–Au system
 
@@ -199,17 +193,14 @@ Table: Crystal structure, Al–Au system
 | Lattice a | 5.9867 Å | 60 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 46 |  |
 | Lattice a | 5.9891 Å | 140 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 45 |  |
 | Lattice a | 5.991 Å | 180 | Al2Au; _Al2Au: Al 0.6667, Au 0.3333_ | experimental | [1] Murray 1987; _cites ref. 72Str_ | Table 3, p. 6, row 44 |  |
-| Lattice a | 4.2906 Å | 298.15 | (Al); _(Al): Al 1, Au 0_ | experimental | [1] Murray 1987; _cites ref. 1_ | Table 3, p. 6, row 42 |  |
 | Lattice a | 4.0737 Å | 298.15 | (Au); _(Au): Al 0.036, Au 0.964_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 33 |  |
 | Lattice a | 4.0724 Å | 298.15 | (Au); _(Au): Al 0.0457, Au 0.9543_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 38 |  |
-| Lattice a | 4.0781 Å | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 40 |  |
 | Lattice a | 4.0624 Å | 298.15 | (Au); _(Au): Al 0.1156, Au 0.8844_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 35 |  |
 | Lattice a | 4.0692 Å | 298.15 | (Au); _(Au): Al 0.069, Au 0.931_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 32 |  |
 | Lattice a | 4.0762 Å | 298.15 | (Au); _(Au): Al 0.0174, Au 0.9826_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 39 |  |
 | Lattice a | 4.0697 Å | 298.15 | (Au); _(Au): Al 0.0678, Au 0.9322_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 37 |  |
 | Lattice a | 4.066 Å | 298.15 | (Au); _(Au): Al 0.0911, Au 0.9089_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 36 |  |
 | Lattice a | 4.06 Å | 298.15 | (Au); _(Au): Al 0.131, Au 0.869_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 30 |  |
-| Lattice a | 4.0784 Å | 298.15 | (Au); _(Au): Al 0, Au 1_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 41 |  |
 | Lattice a | 4.0589 Å | 298.15 | (Au); _(Au): Al 0.1402, Au 0.8598_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 34 |  |
 | Lattice a | 4.0644 Å | 298.15 | (Au); _(Au): Al 0.101, Au 0.899_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 31 |  |
 | Lattice a | 5.98 Å | 298.15 | Al2Au; _Al2Au: Al 0.67, Au 0.33_ | unspecified | [1] Murray 1987 | Table 3, p. 6, row 7 |  |

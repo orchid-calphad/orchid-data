@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/DyPd2.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -60.081 kJ/mol-atom (mp-aaacimvv); OQMD -79.201 kJ/mol-atom (oqmd-1592414).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Dy–Pd](https://data.orchid-project.org/systems/DY-PD.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of DyPd2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -81.376 kJ/mol-atom | Pd2Dy | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 63 |  |
+| -81.376 kJ/mol-atom | Pd2Dy | 298.15 | model | Optimization | [Dy–Pd](https://data.orchid-project.org/systems/DY-PD.html) | [1] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 63 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of DyPd2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -81.376 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -81.376 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of DyPd2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacimvv | -60.081 | -0.622695 | I4/mmm | 28.314 | 0.2935 | no |
-| OQMD | oqmd-1592414 | -79.201 | -0.820865 | Fd-3m | 10.089 | 0.1046 | yes |
+| Materials Project | mp-aaacimvv | -60.081 | -0.622695 | I4/mmm | 28.3143 | 0.2935 | no |
+| OQMD | oqmd-1592414 | -79.201 | -0.820865 | Fd-3m | 10.0249 | 0.1039 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

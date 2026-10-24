@@ -12,11 +12,11 @@ Table: Phases of the Mg–Y system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mg-y-bcc-a2); _phase:mg-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 8 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1 | 10 | 9 |
+| [BCC_A2](#phase-mg-y-bcc-a2); _phase:mg-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1 | 10 | 9 |
 | [B2_BCC](#phase-mg-y-bcc-b2); _phase:mg-y:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.79 K, x(Y) 0.46304–1 | 15 | 4 |
 | [C14_LAVES](#phase-mg-y-c14-laves); _phase:mg-y:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1058.98 K, x(Y) 0.26254–0.33333 | 10 | 4 |
 | [FCC_A1](#phase-mg-y-fcc-a1); _phase:mg-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 5 |
-| [HCP_A3](#phase-mg-y-hcp-a3); _phase:mg-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 5 calculated diagram(s): 300–1792.99 K, x(Y) 0–1 | 10 | 6 |
+| [HCP_A3](#phase-mg-y-hcp-a3); _phase:mg-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1792.99 K, x(Y) 0–1 | 10 | 6 |
 | [LIQUID](#phase-mg-y-liquid); _phase:mg-y:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 841.43–2500 K, x(Y) 0–1 | 20 | 5 |
 | [MG24Y5_A12](#phase-mg-y-mg24y5-a12); _phase:mg-y:mg24y5-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–889.17 K, x(Y) 0.13507–0.17241 | 10 | 5 |
 | [MG2Y_C14](#phase-mg-y-mg2y-c14); _phase:mg-y:mg2y-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 1 |
@@ -27,7 +27,7 @@ Table: Phases of the Mg–Y system (10)
 
 - Id: `phase:mg-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 8 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1
+- Stability: stable in 4 of 4 calculated diagram(s): 1047.17–2499.12 K, x(Y) 0.57956–1
 - Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:bcc-a2)
 
@@ -300,7 +300,7 @@ _assessment that models this phase_
 
 - Id: `phase:mg-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 5 calculated diagram(s): 300–1792.99 K, x(Y) 0–1
+- Stability: stable in 4 of 4 calculated diagram(s): 300–1792.99 K, x(Y) 0–1
 - Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-y:hcp-a3)
 

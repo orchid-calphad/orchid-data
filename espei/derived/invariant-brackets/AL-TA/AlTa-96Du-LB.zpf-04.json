@@ -5,6 +5,8 @@
   "VA"
  ],
  "phases": [
+  "AL3TA2",
+  "AL3TA_D022",
   "AL69TA39",
   "AL7TA5",
   "ALTA",
@@ -21,6 +23,7 @@
    1720.0,
    1520.0,
    1600.0,
+   1350.0,
    1965.0
   ]
  },
@@ -229,6 +232,44 @@
   ],
   [
    [
+    "AL3TA_D022",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL3TA2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.3511111111
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.3711111111
+    ]
+   ]
+  ],
+  [
+   [
     "LIQUID",
     [
      "TA"
@@ -265,7 +306,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-TA/AlTa-96Du-LB.zpf-04.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2IO6LDJVFI ORC-5P3BEZZA46 ORC-7JORJ4UJL6 ORC-KQYOIZT364 ORC-OQ5MXMDICM",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-TA/AlTa-96Du-LB.zpf-04.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2IO6LDJVFI ORC-2NIV2LZGPJ ORC-5P3BEZZA46 ORC-7JORJ4UJL6 ORC-KQYOIZT364 ORC-OQ5MXMDICM",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AL-TA/AlTa-96Du-LB.zpf-04.json",
@@ -387,6 +428,25 @@
     ]
    },
    {
+    "source_observation": "ORC-2NIV2LZGPJ",
+    "side": "below",
+    "T_invariant_K": 1450.0,
+    "offset_K": 100.0,
+    "T_sigma_K": 50.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.3611111111111111,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Al69Ta39 <-> Al3Ta + Al3Ta2",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "AL69TA39"
+    ],
+    "phases_below": [
+     "AL3TA_D022",
+     "AL3TA2"
+    ]
+   },
+   {
     "source_observation": "ORC-2IO6LDJVFI",
     "side": "above",
     "T_invariant_K": 1865.0,
@@ -497,6 +557,22 @@
    },
    {
     "source_observation": "ORC-5P3BEZZA46",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 50.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 100.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-2NIV2LZGPJ",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

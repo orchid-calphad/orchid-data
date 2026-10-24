@@ -1,10 +1,10 @@
 # Al–Ta system
 
-> Al–Ta system: 236 accepted literature values (phase transition 72, invariant reaction 55, crystal structure 53, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ta system: 235 accepted literature values (phase transition 72, invariant reaction 55, crystal structure 52, phase equilibrium 24) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TA.html · Markdown: https://data.orchid-project.org/systems/AL-TA.md
 
-236 accepted literature values from 4 paper(s) (experimental 147, model 54, DFT 1, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+235 accepted literature values from 4 paper(s) (experimental 146, model 54, DFT 1, unspecified 34); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TA.json) · [CSV](https://data.orchid-project.org/systems/AL-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TA/AlTa-10Wit.json) · [phases (14)](https://data.orchid-project.org/phases/pages/AL-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TA.html) · [Markdown](https://data.orchid-project.org/systems/AL-TA.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 147 |
+| experimental | 146 |
 | model | 54 |
 | DFT | 1 |
 | unspecified | 34 |
@@ -27,7 +27,7 @@ Table: Accepted values by property group
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 12 |
 | activity / EMF / Gibbs energy | 10 |
-| crystal structure | 53 |
+| crystal structure | 52 |
 
 ## Calculated phase diagrams
 
@@ -317,7 +317,7 @@ Table: Activity / EMF / Gibbs energy, Al–Ta system
 | Gibbs energy; _printed: Δ298G_ | -21129 J mol^-1 per mol-atom | 298.15 | σ | model | [1] Witusiewicz 2010 | Table 5, p. 11, row 7 |  |
 | Gibbs energy; _printed: Δ298G_ | -23900 J mol^-1 per mol-atom | 298.15 | φ | model | [1] Witusiewicz 2010 | Table 5, p. 11, row 3 |  |
 
-### Crystal structure (53)
+### Crystal structure (52)
 
 Table: Crystal structure, Al–Ta system
 
@@ -348,7 +348,6 @@ Table: Crystal structure, Al–Ta system
 | Lattice a | 3.839 Å | 298.15 | UNKNOWN; _alloy: Ta 0.25_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 12.776 Å ± 0.005 | 298.15 | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Girgis 1970_ [doi](https://doi.org/10.1007/bf01010264) | Table 1, p. 2, row 13 |  |
 | Lattice a | 19.153 Å ± 0.001 | 298.15 | UNKNOWN; _alloy: Ta 0.361111_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990746-3) | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.303 Å | 298.15 | β, (Ta), bcc_A2; _alloy: Ta 1_ | experimental | [1] Witusiewicz 2010; _cites 3 vols 1990_ | Table 1, p. 2, row 3 |  |
 | Lattice b | 9.8766 Å ± 1.000e-4 |  | UNKNOWN; _alloy: Ta 0.55814_ | experimental | [1] Witusiewicz 2010; _cites Boulineau_ [doi](https://doi.org/10.1016/j.jssc.2006.07.001) | Table 1, p. 2, row 17 |  |
 | Lattice b | 6.8717 Å |  | UNKNOWN; _alloy: Ta 0.4_ | experimental | [1] Witusiewicz 2010; _cites Schuster 1985_ | Table 1, p. 2, row 12 |  |
 | Lattice b | 9.863 Å ± 0.002 | 298.15 | TaAl; _alloy: Ta 0.5_ | experimental | [1] Witusiewicz 2010; _cites Mahne 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990879-r) | Table 1, p. 2, row 18 |  |

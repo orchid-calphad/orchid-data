@@ -13,7 +13,7 @@ Table: Phases of the Si–Ta system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-si-ta-a4-diamond); _phase:si-ta:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1696.11 K, x(Ta) 0–0 | 10 | 4 |
-| [BCC_A2](#phase-si-ta-bcc-a2); _phase:si-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–4000 K, x(Ta) 0.86547–1 | 15 | 4 |
+| [BCC_A2](#phase-si-ta-bcc-a2); _phase:si-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–4000 K, x(Ta) 0.86547–1 | 9 | 4 |
 | [FCC_A1](#phase-si-ta-fcc-a1); _phase:si-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-si-ta-hcp-a3); _phase:si-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-si-ta-liquid); _phase:si-ta:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1652.07–4000 K, x(Ta) 0–1 | 48 | 4 |
@@ -82,11 +82,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:si-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–4000 K, x(Ta) 0.86547–1
-- Literature: 15 values (15 accepted) from 3 papers
+- Literature: 9 values (9 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-ta:bcc-a2)
 
-Names (10): _corpus: _corpus:phase:si-ta:bcc-a2  
-_paper: _paper:10.1007/s11669-009-9579-x:(Ta), paper:10.1007/s11669-009-9579-x:βTa5Si3, paper:10.1016/0364-5916(89)90007-2:Ta(L), paper:10.1016/0364-5916(89)90007-2:bcc, paper:10.1016/j.jallcom.2012.09.148:(Ta)  
+Names (9): _corpus: _corpus:phase:si-ta:bcc-a2  
+_paper: _paper:10.1007/s11669-009-9579-x:(Ta), paper:10.1016/0364-5916(89)90007-2:Ta(bcc), paper:10.1016/0364-5916(89)90007-2:bcc, paper:10.1016/j.jallcom.2012.09.148:(Ta)  
 _tdb: _tdb:SiTa-03Che-LB.tdb:BCC_A2, tdb:SiTa-09Guo.tdb:BCC_A2, tdb:SiTa-13Dro.tdb:BCC_A2, tdb:SiTa-89Vah.tdb:BCC_A2  
 
 
@@ -122,11 +122,11 @@ _tdb: _tdb:SiTa-03Che-LB.tdb:BCC_A2, tdb:SiTa-09Guo.tdb:BCC_A2, tdb:SiTa-13Dro.t
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1007/s11669-009-9579-x](https://doi.org/10.1007/s11669-009-9579-x) Zhongnan Guo, Wenxia Yuan, Yu Sun, Zhoufei Cai, Zhiyu Qiao, Thermodynamic Assessment of the Si-Ta and Si-W Systems, J. Phase Equilib. Diffus. 30, 564-570 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2) C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2012.09.148](https://doi.org/10.1016/j.jallcom.2012.09.148) I. Drouelle, C. Servant, Thermodynamic assessment of the Si–Ta system, Journal of Alloys and Compounds 551, 293-299 (2013).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-009-9579-x](https://doi.org/10.1007/s11669-009-9579-x) Zhongnan Guo, Wenxia Yuan, Yu Sun, Zhoufei Cai, Zhiyu Qiao, Thermodynamic Assessment of the Si-Ta and Si-W Systems, J. Phase Equilib. Diffus. 30, 564-570 (2009).  
 _assessment that models this phase; reports values for this phase_
 
 ## FCC_A1 (Si–Ta)

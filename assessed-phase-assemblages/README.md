@@ -14,21 +14,21 @@ neither raw measurements nor model values, and they are kept separable at fittin
 |---|---|
 | diagrams with points | 2,178 |
 | fields seen | 27,118 |
-| points | 23,131 (centroid 21,618, pole of inaccessibility 1,513) |
-| points by number of phases | 1-phase 4,639, 2-phase 18,492 |
-| two-phase points with / without a tie_line block | 11,962 / 6,530 |
-| SGTE cross-check (point x assessment) | 30,769 comparisons: 23,087 comparable (19,160 agree, 3,927 disagree; agreement 0.8299 of comparable), 7,682 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
-| SGTE cross-check (points) | 10,362 points with a comparable assessment; 9,184 (0.8863) agree with at least one SGTE assessment; median system agreement 0.8889 (892 systems with >= 5 comparable comparisons) |
-| boundary basis (lines bounding the point's field along its isotherm and isopleth) | printed_solid 20,784, mixed 1,292, dashed_estimated 1,028, none 27 |
-| ESPEI datasets (one per diagram) | 1,070 default, 1,070 with tie-lines; 10,874 points exported, 12,257 excluded (phase without TDB name) |
+| points | 23,129 (centroid 21,616, pole of inaccessibility 1,513) |
+| points by number of phases | 1-phase 4,639, 2-phase 18,490 |
+| two-phase points with / without a tie_line block | 11,961 / 6,529 |
+| SGTE cross-check (point x assessment) | 30,769 comparisons: 21,495 comparable (17,874 agree, 3,621 disagree; agreement 0.8315 of comparable), 9,274 not comparable (counted separately, reasons in `sgte_not_comparable.csv`) |
+| SGTE cross-check (points) | 9,440 points with a comparable assessment; 8,331 (0.8825) agree with at least one SGTE assessment; median system agreement 0.8889 (889 systems with >= 5 comparable comparisons) |
+| boundary basis (lines bounding the point's field along its isotherm and isopleth) | printed_solid 20,782, mixed 1,292, dashed_estimated 1,028, none 27 |
+| ESPEI datasets (one per diagram) | 1,068 default, 1,068 with tie-lines; 9,895 points exported, 13,234 excluded (phase without TDB name) |
 
 Points by basis:
 
 | basis | points |
 |---|---|
 | deterministic_adjacency | 8,035 |
-| reader_consensus | 6,794 |
-| deterministic_printed_label | 3,206 |
+| reader_consensus | 6,793 |
+| deterministic_printed_label | 3,205 |
 | adjudicator | 2,803 |
 | deterministic_phase_rules | 2,186 |
 | expert_reviewed | 87 |
@@ -48,6 +48,7 @@ Fields without a point, by reason:
 | open | 70 |
 | more_than_two_phases | 5 |
 | cannot_tell | 4 |
+| schematic_field_unbounded_below | 2 |
 
 ## Why one point deep inside each field
 

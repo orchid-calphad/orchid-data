@@ -29,6 +29,7 @@ Table: Phases of the B–W system (10)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — WB-95Dus-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2350 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-w:b-beta-rhombo)
@@ -83,12 +84,16 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-w:c16-m2b`; status `assigned`
 - Structure: Al2Cu · C16 · tI12 · I4/mcm (140); type `st:c16-al2cu-ti12`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: DFT agrees: on-hull mp-aaaaabqv and oqmd-4586, space group 140
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M2B); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.3333, W 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2932.09 K, x(B) 0.33333–0.33333
 - Literature: 21 values (21 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-w:c16-m2b)
 
-Names (4): _corpus: _corpus:phase:b-w:c16-m2b, corpus:phase:b-w:m2b-c16  
+Names (6): _corpus: _corpus:phase:b-w:c16-m2b, corpus:phase:b-w:m2b-c16  
+_mp: _mp:mp-aaaaabqv  
+_oqmd: _oqmd:oqmd-4586  
 _paper: _paper:10.1007/bf02664852:W2B  
 _tdb: _tdb:WB-95Dus-LB.tdb:M2B_C16  
 
@@ -218,7 +223,8 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-w:w2b9`; status `assigned`
 - Structure: W2B9 · hP22 · P-3 (147); type `st:w2b9-hp22`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.8182, W 0.1818
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2309.91 K, x(B) 0.81818–0.81818
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-w:w2b9)

@@ -151,24 +151,24 @@ Table: Activity / EMF / Gibbs energy, Cu–Li system
 | Activity Li; _printed: aLi (633 K)_ | 0.19779 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4 |  |
 | Activity Li; _printed: aLi (773 K)_ | 0.34645 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4 |  |
 | Activity Li; _printed: aLi (873 K)_ | 0.46314 1 | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 2, p. 3, row 4 |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -3962 J/mol |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | -787.2 J/mol |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Chemical potential; _printed: G^ex_Li (633 K)_ | 644.4 J/mol |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
-| Chemical potential; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
+| Chemical potential; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
+| Chemical potential; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
 | EMF; _printed: E = a + bT: b_ | -0.4619 mV/K |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
 | EMF; _printed: E = a + bT: b_ | -1.0137 mV/K |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -3962 J/mol |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol |  | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | -787.2 J/mol |  | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol |  | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
-| Gibbs energy; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
-| Gibbs energy; _printed: G^ex_Li (633 K)_ | 644.4 J/mol |  | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -3962 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -9447.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | -26791.7 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
+| Gibbs energy; _printed: G^ex_Li (633 K)_ | 644.4 J/mol | 633 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | 2837.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.85, Li 0.15_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 3 |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | -787.2 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.875, Li 0.125_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 2 |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | -10416.1 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.9, Li 0.1_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 1 |  |
+| Gibbs energy; _printed: G^ex_Li (773 K)_ | 4388.9 J/mol | 773 | fcc-(Cu); _alloy: Cu 0.825, Li 0.175_ | experimental | [1] Gąsior 2009 | Table 1, p. 3, row 4 |  |
 | Gibbs energy; _printed: excess Gibbs free energy_ | 3.18 kJ/mol | 1373 |  | model | [1] Gąsior 2009 | p. 5 | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
 | Gibbs energy; _printed: excess Gibbs free energy_ | 3.02 kJ/mol | 1573 |  | model | [1] Gąsior 2009 | p. 5 | “Because of the low positive value of the excess entropy, the excess Gibbs free energy slowly decreases with the increasing of the temperature (3.18 kJ/mol at 1373 K (1100 ◦ C) and 3.02 kJ/mol at 1573 K (1300 ◦ C)).” |
 

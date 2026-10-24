@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/PR-ZN.html · Markdown: https://da
 
 84 accepted literature values from 2 paper(s) (experimental 48, model 36); 2 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/PR-ZN.json) · [CSV](https://data.orchid-project.org/systems/PR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-ZN/PrZn-08Hua.json) · [phases (17)](https://data.orchid-project.org/phases/pages/PR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PR-ZN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/PR-ZN.json) · [CSV](https://data.orchid-project.org/systems/PR-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-ZN/PrZn-08Hua.json) · [phases (16)](https://data.orchid-project.org/phases/pages/PR-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PR-ZN.md)
 
 Table: Accepted values by evidence class
 

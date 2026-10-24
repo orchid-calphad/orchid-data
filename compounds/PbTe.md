@@ -1,16 +1,16 @@
 # PbTe: enthalpy of formation
 
-> Enthalpy of formation of PbTe: 22 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of PbTe: 18 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/PbTe.html · Markdown: https://data.orchid-project.org/compounds/PbTe.md
 
-22 accepted literature formation-enthalpy value(s) (experimental 7, model 3, DFT 12); experimental median -35.15 kJ/mol-atom (n = 3); Materials Project -39.148 kJ/mol-atom (mp-aaaabdej); OQMD -39.511 kJ/mol-atom (oqmd-1856648).
+18 accepted literature formation-enthalpy value(s) (experimental 7, model 3, DFT 8); experimental median -35.15 kJ/mol-atom (n = 3); Materials Project -39.148 kJ/mol-atom (mp-aaaabdej); OQMD -39.511 kJ/mol-atom (oqmd-1856648).
 
 Systems: [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of PbTe reported in the literature (22)
+Table: Enthalpy of formation of PbTe reported in the literature (18)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -26,16 +26,12 @@ Table: Enthalpy of formation of PbTe reported in the literature (22)
 | -32.532 kJ/mol (basis unstated) | PbTe | 298.15 | model |  | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [1] Gierlotka 2009 | p. 5 | “Calculated enthalpy of formation of PbTe intermetallic compound at 298 K is equal -32532 J/mol which shows very good agreement with the values reported in the literature.” |
 | 0.35 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 7 |  |
 | 0.72 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 1 |  |
-| 0.87 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 8 |  |
 | 0.95 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 2 |  |
 | 1.32 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 9 |  |
 | 1.44 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 3 |  |
 | 1.49 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 4 |  |
 | 2.04 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 10 |  |
-| 2.71 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 5 |  |
-| 2.78 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 11 |  |
 | 3.29 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 12 |  |
-| 3.73 eV/defect | PbTe | 300 | DFT | DFT | [Pb–Te](https://data.orchid-project.org/systems/PB-TE.html) | [3] Bajaj 2015 | Table 1, p. 6, row 6 |  |
 
 ### Uncertainty budget
 
@@ -45,28 +41,24 @@ Table: Uncertainty budget of the literature values of PbTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -47.2 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -47.2 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -36.05 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -35.15 | kJ/mol-atom |  | 0.025 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -35.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -35.15 | kJ/mol-atom |  | 0.025 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -35.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 | -34.3 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -34.267 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -23.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -34.4 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 0.35 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 0.72 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 0.87 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 0.95 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 1.32 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 1.44 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 1.49 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 2.04 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 2.71 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 2.78 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 3.29 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| 3.73 | eV/defect |  | 0.005 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -34.267 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -23.809 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -34.4 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -32.532 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| 0.35 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 0.72 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 0.95 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 1.32 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 1.44 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 1.49 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 2.04 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
+| 3.29 | eV/defect |  | 0.005 | 0.2112 (dft, calibrated) |  |  |  | 0.2112 |
 
 ## DFT formation energies
 
@@ -77,7 +69,7 @@ Table: DFT formation energy of PbTe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabdej | -39.148 | -0.405743 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1856648 | -39.511 | -0.409506 | I4/mmm | 0.013 | 1.000e-4 | yes |
+| OQMD | oqmd-1856648 | -39.511 | -0.409506 | I4/mmm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

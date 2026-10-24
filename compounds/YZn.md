@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/YZn.html · Markdown: https://data.orchid-project.org/compounds/YZn.md
 
-3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -48 kJ/mol-atom (n = 1); Materials Project -35.389 kJ/mol-atom (mp-aaaaadsu); OQMD -35.047 kJ/mol-atom (oqmd-1975095).
+3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -48 kJ/mol-atom (n = 1); Materials Project -35.389 kJ/mol-atom (mp-aaaaadsu); OQMD -35.032 kJ/mol-atom (oqmd-31121).
 
 Systems: [Y–Zn](https://data.orchid-project.org/systems/Y-ZN.html)
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of YZn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48 | kJ/mol-atom | 2 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -54 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -47 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48 | kJ/mol-atom | 2 | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -54 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -47 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of YZn
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadsu | -35.389 | -0.366779 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-1975095 | -35.047 | -0.363235 | Pmma | 0.01 | 1.000e-4 | yes |
+| OQMD | oqmd-31121 | -35.032 | -0.363082 | Pm-3m | 0.0148 | 2.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

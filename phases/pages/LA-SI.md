@@ -20,7 +20,7 @@ Table: Phases of the La–Si system (13)
 | [LA3SI2_D5A](#phase-la-si-la3si2-d5a); _phase:la-si:la3si2-d5a_ | Si2U3 · D5_a · tP10 · P4/mbm (127) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1743.16 K, x(Si) 0.4–0.4 | 4 | 2 |
 | [LA3SI5](#phase-la-si-la3si5); _phase:la-si:la3si5_ | GdSi1.4 · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2002.6 K, x(Si) 0.625–0.625 | 0 | 1 |
 | [LA5SI3_D8L](#phase-la-si-la5si3-d8l); _phase:la-si:la5si3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1540.34 K, x(Si) 0.375–0.375 | 5 | 2 |
-| [LA5SI4](#phase-la-si-la5si4); _phase:la-si:la5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1833.91 K, x(Si) 0.44444–0.44444 | 5 | 2 |
+| [LA5SI4](#phase-la-si-la5si4); _phase:la-si:la5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1833.91 K, x(Si) 0.44444–0.44444 | 11 | 2 |
 | [LASI_B27](#phase-la-si-lasi-b27); _phase:la-si:lasi-b27_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1899.4 K, x(Si) 0.5–0.5 | 6 | 2 |
 | [LASI2_CC](#phase-la-si-lasi2-cc); _phase:la-si:lasi2-cc_ | Si2Th · C_c · tI12 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1872.04 K, x(Si) 0.66667–0.66667 | 0 | 2 |
 | [LASI2_X](#phase-la-si-lasi2-x); _phase:la-si:lasi2-x_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2000.18 K, x(Si) 0.64–0.64 | 0 | 1 |
@@ -332,7 +332,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.5556, Si 0.4444
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1833.91 K, x(Si) 0.44444–0.44444
-- Literature: 5 values (5 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-si:la5si4)
 
 Names (5): _corpus: _corpus:phase:la-si:la5si4  

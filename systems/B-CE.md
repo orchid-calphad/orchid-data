@@ -1,10 +1,10 @@
 # B–Ce system
 
-> B–Ce system: 117 accepted literature values (invariant reaction 76, phase transition 20, phase equilibrium 13, formation 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Ce system: 128 accepted literature values (invariant reaction 68, formation 21, phase transition 20, phase equilibrium 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-CE.html · Markdown: https://data.orchid-project.org/systems/B-CE.md
 
-117 accepted literature values from 3 paper(s) (experimental 63, model 39, DFT 4, unspecified 11); 0 calculated phase diagram(s).
+128 accepted literature values from 3 paper(s) (experimental 64, model 44, DFT 8, unspecified 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-CE.json) · [CSV](https://data.orchid-project.org/systems/B-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CE) · [phases (8)](https://data.orchid-project.org/phases/pages/B-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CE.html) · [Markdown](https://data.orchid-project.org/systems/B-CE.md)
 
@@ -12,25 +12,26 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 39 |
-| DFT | 4 |
-| unspecified | 11 |
+| experimental | 64 |
+| model | 44 |
+| DFT | 8 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 76 |
+| invariant reaction | 68 |
 | phase transition | 20 |
 | phase equilibrium | 13 |
-| formation | 8 |
+| formation | 21 |
+| crystal structure | 6 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-CE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-CE.json) · [CALPHAD hull CeB-13Wan](https://data.orchid-project.org/hulls/calphad-sgte/B/B-CE--CeB-13Wan.json) · [CALPHAD hull CeB-17Pre](https://data.orchid-project.org/hulls/calphad-sgte/B/B-CE--CeB-17Pre.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Ce system (76)
+Table: Invariant reactions reported in the literature for the B–Ce system (68)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -40,8 +41,6 @@ Table: Invariant reactions reported in the literature for the B–Ce system (76)
 | 2604.95 | L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | model | [1] Premović 2017 | Table 7, p. 9, row 5 |  |
 | 2603.15 | L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 6 |  |
 | 2603.15 | congruent melting: L -> B6Ce | L: B 0.857; B6Ce: B 0.857 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 8 |  |
-| 2573.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 6 |  |
-| 2563.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Benesovsky 1967_ | Table 2, p. 2, row 5 |  |
 | 2473.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Stecher 1965_ | Table 2, p. 2, row 25 |  |
 | 2463.15 | congruent melting: L -> B6Ce |  | experimental | [1] Premović 2017; _cites Samsonov 1961_ | Table 2, p. 2, row 10 |  |
 | 2438.15 | peritectic: L + B6Ce -> B4Ce | L: B 0.74; B6Ce: B 0.857; B4Ce: B 0.8 | experimental | [1] Premović 2017; _cites Liao 1997_ [doi](https://doi.org/10.1007/bf02647853) | Table 2, p. 2, row 18 |  |
@@ -55,12 +54,6 @@ Table: Invariant reactions reported in the literature for the B–Ce system (76)
 | 2435 | peritectic: L + CeB6 -> CeB4 | L: B 0.74; CeB6: B 0.857143; CeB4: B 0.8 | model | [3] Li 2020 | Table 7, p. 29, row 10 |  |
 | 2433.95 | L + B6Ce -> B4Ce | L: B 0.7407; B6Ce: B 0.857; B4Ce: B 0.8 | model | [1] Premović 2017 | Table 7, p. 9, row 14 |  |
 | 2433.8 | peritectic: L + CeB6 -> CeB4 | L: B 0.741; CeB6: B 0.857143; CeB4: B 0.8 | model | [3] Li 2020; _cites ref. 22_ | Table 7, p. 29, row 9 |  |
-| 2365.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Holcombe 1973_ | Table 2, p. 2, row 4 |  |
-| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | model | [1] Premović 2017 | Table 7, p. 9, row 3 |  |
-| 2348.15 | L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 7, p. 9, row 4 |  |
-| 2348.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | unspecified | [1] Premović 2017; _cites Wang 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.03.001) | Table 2, p. 2, row 3 |  |
-| 2347.15 | congruent melting: L -> β(B) | L: B 0.996; β(B): B 0.996 | experimental | [1] Premović 2017; _cites Kimpel 1968_ [doi](https://doi.org/10.1021/je60037a028) | Table 2, p. 2, row 2 |  |
-| 2315.15 | congruent melting: L -> β(B) | L: B 1; β(B): B 1 | experimental | [1] Premović 2017; _cites Mar 1972_ [doi](https://doi.org/10.1016/0040-6031%2872%2987018-7) | Table 2, p. 2, row 1 |  |
 | 2298.15 | eutectic: L -> B6Ce + β(B) | L: B 0.99; B6Ce: B 0.857; β(B): B 1 | experimental | [1] Premović 2017; _cites Spear 1976_ | Table 2, p. 2, row 24 |  |
 | 2278.4 | eutectic: L -> CeB6 + β-B | L: B 0.967; CeB6: B 0.857143; β-B: B 1 | model | [3] Li 2020 | Table 7, p. 29, row 15 |  |
 | 2273.15 | eutectic: L->B6Ce+(βB) | L: B 0.967; B6Ce: B 0.857; (βB): B 1 | model | [2] Wang 2013 | Table 3, p. 4, row 14 |  |
@@ -115,7 +108,7 @@ Table: Invariant reactions reported in the literature for the B–Ce system (76)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Ce system (8)
+Table: Enthalpies of formation, B–Ce system (21)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -127,6 +120,19 @@ Table: Enthalpies of formation, B–Ce system (8)
 | B6Ce |  | -51.8 kJ/mol-atom |  | DFT |  |  | [1] Premović 2017; _cites Persson 2016_ | Table 6, p. 8, row 5 |  |
 | B6Ce | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -48.4 kJ/mol-atom ± 9.6 | 298.15 | experimental | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [1] Premović 2017; _cites Samsonov 1956_ | Table 6, p. 8, row 1 |  |
 | B6Ce | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -46.457 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [1] Premović 2017 | Table 6, p. 8, row 3 |  |
+| CeB4 |  | -60.385 kJ/mol-atom |  | DFT |  |  | [3] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 4 |  |
+| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -56.288 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020 | Table 2, p. 25, row 6 |  |
+| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -53.62 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 1 |  |
+| CeB4 |  | -53.5 kJ/mol-atom ± 1.5 |  | DFT |  |  | [3] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 3 |  |
+| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -51.339 kJ/mol-atom |  | model | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 2 |  |
+| CeB4 | [CeB4](https://data.orchid-project.org/compounds/CeB4.html) | -49.904 kJ/mol-atom | 298.15 | experimental | -60.568 (mp-aaaaacxy) | -50.107 (oqmd-4683) | [3] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 5 |  |
+| CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -50.541 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020; _cites ref. 21_ | Table 2, p. 25, row 7 |  |
+| CeB6 |  | -49.712 kJ/mol-atom |  | DFT |  |  | [3] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 11 |  |
+| CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -48.531 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020 | Table 2, p. 25, row 13 |  |
+| CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -48.4 kJ/mol-atom ± 9.6 | 298.15 | experimental | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020; _cites ref. 28_ | Table 2, p. 25, row 9 |  |
+| CeB6 |  | -47.019 kJ/mol-atom |  | DFT |  |  | [3] Li 2020; _cites ref. 32_ | Table 2, p. 25, row 12 |  |
+| CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -46.457 kJ/mol-atom |  | model | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020; _cites ref. 22_ | Table 2, p. 25, row 8 |  |
+| CeB6 | [CeB6](https://data.orchid-project.org/compounds/CeB6.html) | -30.6 kJ/mol-atom ± 27 | 298.15 | experimental | -49.747 (mp-aaaabfox) | -47.134 (oqmd-655892) | [3] Li 2020; _cites ref. 29_ | Table 2, p. 25, row 10 |  |
 
 ## Other properties
 
@@ -176,6 +182,19 @@ Table: Phase equilibrium, B–Ce system
 | Phase composition |  | 1409.85 | other: Sample 3 (B9.2Ce90.8); _liquid: B 0.092, Ce 0.908_ | experimental | [1] Premović 2017 | Table 4, p. 5, row 6 |  |
 | Phase composition |  | 1558.45 | other: Sample 4 (B15.5Ce84.5); _liquid: B 0.155, Ce 0.845_ | experimental | [1] Premović 2017 | Table 4, p. 5, row 9 |  |
 | Phase composition |  | 1681.75 | other: Sample 5 (B19.0Ce81.0); _liquid: B 0.19, Ce 0.81_ | experimental | [1] Premović 2017 | Table 4, p. 5, row 12 |  |
+
+### Crystal structure (6)
+
+Table: Crystal structure, B–Ce system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 7.2034 not_printed | 298.15 | B4Ce; _alloy: Ce 0.2_ | experimental | [1] Premović 2017; _cites Babizhetsky 2007_ [doi](https://doi.org/10.1515/znb-2007-0704) | Table 1, p. 2, row 5 |  |
+| Lattice a | 4.1403 not_printed | 298.15 | B6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Premović 2017; _cites Komatsubara 1983_ [doi](https://doi.org/10.1016/0304-8853%2883%2990285-8) | Table 1, p. 2, row 6 |  |
+| Lattice b | 7.2034 not_printed | 298.15 | B4Ce; _alloy: Ce 0.2_ | experimental | [1] Premović 2017; _cites Babizhetsky 2007_ [doi](https://doi.org/10.1515/znb-2007-0704) | Table 1, p. 2, row 5 |  |
+| Lattice b | 4.1403 not_printed | 298.15 | B6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Premović 2017; _cites Komatsubara 1983_ [doi](https://doi.org/10.1016/0304-8853%2883%2990285-8) | Table 1, p. 2, row 6 |  |
+| Lattice c | 4.1006 not_printed | 298.15 | B4Ce; _alloy: Ce 0.2_ | experimental | [1] Premović 2017; _cites Babizhetsky 2007_ [doi](https://doi.org/10.1515/znb-2007-0704) | Table 1, p. 2, row 5 |  |
+| Lattice c | 4.1403 not_printed | 298.15 | B6Ce; _alloy: Ce 0.142857_ | unspecified | [1] Premović 2017; _cites Komatsubara 1983_ [doi](https://doi.org/10.1016/0304-8853%2883%2990285-8) | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

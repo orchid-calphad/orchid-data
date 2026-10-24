@@ -65,7 +65,7 @@ Table: Invariant reactions reported in the literature for the B–Mo system (76)
 | 2453 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.201; Mo2B: B 0.333333, Mo 0.666667 | experimental | [1] Witusiewicz 2016; _cites Harm 1958_ | Table 3, p. 5, row 29 |  |
 | 2453 | peritectoid: βMoB + Mo2B ⇄ αMoB | βMoB: B 0.49; Mo2B: B 0.33; αMoB: B 0.485 | unspecified | [1] Witusiewicz 2016; _cites Brewer 1980_ | Table 3, p. 5, row 27 |  |
 | 2453 | eutectic: L ⇄ A2Mo + Mo2B | A2Mo: B 0.004; Mo2B: B 0.333333, Mo 0.666667 | experimental | [1] Witusiewicz 2016; _cites Kharitonov 1971_ | Table 3, p. 5, row 35 |  |
-| 2453 | peritectoid: βMoB + Mo2B ⇄ αMoB | βMoB: B 0.337; Mo2B: B 0.488; αMoB: B 0.483 | model | [1] Witusiewicz 2016 | Table 3, p. 5, row 28 |  |
+| 2453 | peritectoid: βMoB + Mo2B ⇄ αMoB | βMoB: B 0.488; Mo2B: B 0.337; αMoB: B 0.483 | model | [1] Witusiewicz 2016 | Table 3, p. 5, row 28 |  |
 | 2451 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.21; A2Mo: B 0; Mo2B: B 0.33 | model | [1] Witusiewicz 2016; _cites Spear 1981_ [doi](https://doi.org/10.1016/0364-5916%2881%2990037-7) | Table 3, p. 5, row 39 |  |
 | 2451 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.217; A2Mo: B 0.004; Mo2B: B 0.326 | model | [1] Witusiewicz 2016 | Table 3, p. 5, row 42 |  |
 | 2448 | eutectic: L ⇄ A2Mo + Mo2B | L: B 0.23; Mo2B: B 0.33 | experimental | [1] Witusiewicz 2016; _cites Rudy 1965_ | Table 3, p. 5, row 33 |  |

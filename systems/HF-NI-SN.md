@@ -1,10 +1,10 @@
 # Hf–Ni–Sn system
 
-> Hf–Ni–Sn system: 108 accepted literature values (crystal structure 53, invariant reaction 27, formation 25, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–Ni–Sn system: 37 accepted literature values (invariant reaction 27, formation 7, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-NI-SN.html · Markdown: https://data.orchid-project.org/systems/HF-NI-SN.md
 
-108 accepted literature values from 1 paper(s) (experimental 2, model 28, DFT 78); 0 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 2, model 28, DFT 7); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-NI-SN.json) · [CSV](https://data.orchid-project.org/systems/HF-NI-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-NI-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-NI-SN.html) · [Markdown](https://data.orchid-project.org/systems/HF-NI-SN.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 2 |
 | model | 28 |
-| DFT | 78 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
@@ -22,8 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 27 |
 | phase transition | 3 |
-| formation | 25 |
-| crystal structure | 53 |
+| formation | 7 |
 
 ## Invariant reactions (literature)
 
@@ -63,35 +62,17 @@ Table: Invariant reactions reported in the literature for the Hf–Ni–Sn syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Hf–Ni–Sn system (25)
+Table: Enthalpies of formation, Hf–Ni–Sn system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| 40-HfSn |  | -28.18 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 16 |  |
-| A1-Ni |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 1 |  |
-| A3-Hf |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 2 |  |
-| A5-Sn |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 3 |  |
-| B11-HfSn |  | -25.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 18 |  |
-| B20-HfSn |  | -28 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 17 |  |
-| B27-HfSn |  | -21.96 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 21 |  |
-| B33-HfNi |  | -50.06 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 5 |  |
-| B33-HfSn |  | -20.38 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 22 |  |
-| B35-HfSn |  | 1.62 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Bh-HfSn |  | -26.64 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Bx-HfSn |  | -20.07 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 23 |  |
-| C15-HfNi2 |  | -46.01 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 8 |  |
-| C15b-HfNi5 |  | -33.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 12 |  |
-| C16-Hf2Ni |  | -32.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 4 |  |
-| D88-Hf5Sn3 |  | -37.57 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 14 |  |
-| D88-Hf5Sn4 |  | -39.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 15 |  |
-| Hf2Ni7 |  | -45.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Hf3Ni7 |  | -48.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Hf7Ni10 |  | -49.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Hf8Ni21 |  | -48.09 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Hf9Ni11 |  | -47.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 7 |  |
-| HfSn2 |  | -27.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 25 |  |
-| L10-HfSn |  | -22.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 20 |  |
-| α-HfNi3 |  | -52.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 2, p. 4, row 10 |  |
+| HfNi2Sn |  | 77.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
+| HfNi2Sn |  | 152.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
+| HfNi2Sn |  | 270 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
+| HfNiSn |  | 292.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
+| HfNiSn |  | 352 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
+| HfNiSn |  | 362.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
+| HfNiSn |  | 438.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 
 ## Other properties
 
@@ -104,66 +85,6 @@ Table: Phase transition, Hf–Ni–Sn system
 | Phase transition | 1760 K | 1760 | congruent transformation | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 4 | “Isothermal sections have been published at 870 K for HfNi-Sn by Stadnyk et al. \[23\] and DTA analyses of HfNiSn have been published by Jung et al. \[32\]. According to this study, the phase has a congruent melting at 1760 K.” |
 | Phase transition | 1760 K | 1760 | other | experimental | [1] Berche 2016; _cites Jung 2010_ [doi](https://doi.org/10.1016/j.jallcom.2009.09.139) | p. 5 | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
 | Phase transition | 1780 K | 1780 | other | model | [1] Berche 2016 | p. 5 | “The melting point of HfNiSn (Fig. 3c) is assessed at 1780 K which is in agreement with the 1760 K measured by Jung et al. \[32\].” |
-
-### Crystal structure (53)
-
-Table: Crystal structure, Hf–Ni–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 4.259 Å | 0 | 40-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 16 |  |
-| Lattice a; _printed: a_ | 3.516 Å | 0 | A1-Ni; _alloy: Ni 1, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 1 |  |
-| Lattice a; _printed: a_ | 3.2 Å | 0 | A3-Hf; _alloy: Ni 0, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 2 |  |
-| Lattice a; _printed: a_ | 5.964 Å | 0 | A5-Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 3 |  |
-| Lattice a; _printed: a_ | 3.906 Å | 0 | B11-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 18 |  |
-| Lattice a; _printed: a_ | 5.668 Å | 0 | B20-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 17 |  |
-| Lattice a; _printed: a_ | 7.251 Å | 0 | B27-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice a; _printed: a_ | 3.242 Å | 0 | B33-HfNi; _alloy: Ni 0.5, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice a; _printed: a_ | 4.109 Å | 0 | B33-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice a; _printed: a_ | 5.7 Å | 0 | B35-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Lattice a; _printed: a_ | 3.244 Å | 0 | Bh-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Lattice a; _printed: a_ | 4.156 Å | 0 | Bx-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 23 |  |
-| Lattice a; _printed: a_ | 6.673 Å | 0 | C15-HfNi2; _alloy: Ni 0.666667, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 8 |  |
-| Lattice a; _printed: a_ | 6.92 Å | 0 | C15b-HfNi5; _alloy: Ni 0.833333, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 12 |  |
-| Lattice a; _printed: a_ | 6.411 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 4 |  |
-| Lattice a; _printed: a_ | 8.441 Å | 0 | D88-Hf5Sn3; _alloy: Ni 0, Sn 0.375_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 14 |  |
-| Lattice a; _printed: a_ | 8.766 Å | 0 | D88-Hf5Sn4; _alloy: Ni 0, Sn 0.444444_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 15 |  |
-| Lattice a; _printed: a_ | 4.666 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice a; _printed: a_ | 6.512 Å | 0 | Hf3Ni7; _alloy: Ni 0.7, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice a; _printed: a_ | 9.11 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice a; _printed: a_ | 6.424 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice a; _printed: a_ | 9.811 Å | 0 | Hf9Ni11; _alloy: Ni 0.55, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 5.54 Å | 0 | HfSn2; _alloy: Ni 0, Sn 0.666667_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 25 |  |
-| Lattice a; _printed: a_ | 3.207 Å | 0 | L10-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 20 |  |
-| Lattice a; _printed: a_ | 5.278 Å | 0 | α-HfNi3; _alloy: Ni 0.75, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 10 |  |
-| Lattice b; _printed: b_ | 4.422 Å | 0 | B27-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice b; _printed: b_ | 9.817 Å | 0 | B33-HfNi; _alloy: Ni 0.5, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice b; _printed: b_ | 10.598 Å | 0 | B33-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice b; _printed: b_ | 8.187 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice b; _printed: b_ | 6.582 Å | 0 | Hf3Ni7; _alloy: Ni 0.7, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice b; _printed: b_ | 9.103 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice b; _printed: b_ | 7.998 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 9.724 Å | 0 | 40-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 16 |  |
-| Lattice c; _printed: c_ | 5.064 Å | 0 | A3-Hf; _alloy: Ni 0, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 2 |  |
-| Lattice c; _printed: c_ | 3.194 Å | 0 | A5-Sn; _alloy: Ni 0, Sn 1_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 3 |  |
-| Lattice c; _printed: c_ | 5.981 Å | 0 | B11-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 18 |  |
-| Lattice c; _printed: c_ | 5.664 Å | 0 | B27-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 21 |  |
-| Lattice c; _printed: c_ | 4.085 Å | 0 | B33-HfNi; _alloy: Ni 0.5, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 5 |  |
-| Lattice c; _printed: c_ | 4.222 Å | 0 | B33-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 22 |  |
-| Lattice c; _printed: c_ | 5.312 Å | 0 | B35-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 24 |  |
-| Lattice c; _printed: c_ | 4.902 Å | 0 | Bh-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 19 |  |
-| Lattice c; _printed: c_ | 21.252 Å | 0 | Bx-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 23 |  |
-| Lattice c; _printed: c_ | 5.24 Å | 0 | C16-Hf2Ni; _alloy: Ni 0.333333, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 5.728 Å | 0 | D88-Hf5Sn3; _alloy: Ni 0, Sn 0.375_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 14 |  |
-| Lattice c; _printed: c_ | 5.909 Å | 0 | D88-Hf5Sn4; _alloy: Ni 0, Sn 0.444444_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 15 |  |
-| Lattice c; _printed: c_ | 12.099 Å | 0 | Hf2Ni7; _alloy: Ni 0.777778, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 11 |  |
-| Lattice c; _printed: c_ | 7.635 Å | 0 | Hf3Ni7; _alloy: Ni 0.7, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 9 |  |
-| Lattice c; _printed: c_ | 12.29 Å | 0 | Hf7Ni10; _alloy: Ni 0.588235, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 6 |  |
-| Lattice c; _printed: c_ | 8.531 Å | 0 | Hf8Ni21; _alloy: Ni 0.724138, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 13 |  |
-| Lattice c; _printed: c_ | 6.444 Å | 0 | Hf9Ni11; _alloy: Ni 0.55, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 7.768 Å | 0 | HfSn2; _alloy: Ni 0, Sn 0.666667_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 25 |  |
-| Lattice c; _printed: c_ | 4.281 Å | 0 | L10-HfSn; _alloy: Ni 0, Sn 0.5_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 20 |  |
-| Lattice c; _printed: c_ | 21.433 Å | 0 | α-HfNi3; _alloy: Ni 0.75, Sn 0_ | DFT | [1] Berche 2016 | Table 2, p. 4, row 10 |  |
 
 ## Sources
 

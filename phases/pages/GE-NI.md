@@ -13,8 +13,8 @@ Table: Phases of the Ge–Ni system (15)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ge-ni-a4-diamond); _phase:ge-ni:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(Ni) 0–0 | 7 | 2 |
-| [BCC_A2](#phase-ge-ni-bcc-a2); _phase:ge-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 38 | 2 |
-| [FCC_A1](#phase-ge-ni-fcc-a1); _phase:ge-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 300–1728.25 K, x(Ni) 0.84055–1 | 5 | 3 |
+| [BCC_A2](#phase-ge-ni-bcc-a2); _phase:ge-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [FCC_A1](#phase-ge-ni-fcc-a1); _phase:ge-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.84055–1 | 5 | 3 |
 | [L12_FCC](#phase-ge-ni-fcc-l12); _phase:ge-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1720 K, x(Ni) 0.74363–0.99 | 0 | 1 |
 | [GE12NI19](#phase-ge-ni-ge12ni19); _phase:ge-ni:ge12ni19_ | Ge12Ni19 · mC62 · C2 (5) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 655.72–1325.25 K, x(Ni) 0.59855–0.61299 | 10 | 1 |
 | [GE2NI3_B82](#phase-ge-ni-ge2ni3-b82); _phase:ge-ni:ge2ni3-b82_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 788.25–1264.81 K, x(Ni) 0.55934–0.59932 | 6 | 1 |
@@ -72,11 +72,10 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 38 values (38 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ni:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ge-ni:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2012.03.003:βNi3Ge, paper:10.1016/j.jallcom.2009.11.036:βNi3Ge  
+Names (3): _corpus: _corpus:phase:ge-ni:bcc-a2  
 _tdb: _tdb:GeNi-10Liu.tdb:BCC_A2, tdb:GeNi-12Jin.tdb:BCC_A2  
 
 
@@ -96,22 +95,18 @@ _tdb: _tdb:GeNi-10Liu.tdb:BCC_A2, tdb:GeNi-12Jin.tdb:BCC_A2
 42: CONST BCC_A2 : GE NI : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.03.003](https://doi.org/10.1016/j.calphad.2012.03.003) Shan Jin, Christian Leinenbach, Jiang Wang, Liliana I. Duarte, Simona Delsante, Gabriella Borzone et al., Thermodynamic study and re-assessment of the Ge-Ni system, Calphad 38, 23-34 (2012).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2009.11.036](https://doi.org/10.1016/j.jallcom.2009.11.036) Y.Q. Liu, D.J. Ma, Y. Du, Thermodynamic modeling of the germanium–nickel system, Journal of Alloys and Compounds 491, 63-71 (2010).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(80)90252-0](https://doi.org/10.1016/0022-5088%2880%2990252-0) André Dayer, Pierre Feschotte, Les systèmes binaires cobalt-germanium et nickel-germanium: Étude comparée, Journal of the Less Common Metals 72, 51-70 (1980).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(71)90164-0](https://doi.org/10.1016/0022-5088%2871%2990164-0) M. Ellner, T. Gödecke, K. Schubert, Zur struktur der mischung Nickel-Germanium, Journal of the Less Common Metals 24, 23-40 (1971).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Ge–Ni)
 
 - Id: `phase:ge-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 300–1728.25 K, x(Ni) 0.84055–1
+- Stability: stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.84055–1
 - Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-ni:fcc-a1)
 

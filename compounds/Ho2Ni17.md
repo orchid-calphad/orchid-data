@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ho2Ni17.html · Markdown: https:
 
 5 accepted literature formation-enthalpy value(s) (experimental 1, model 4); experimental median -23.1 kJ/mol-atom (n = 1); Materials Project -19.799 kJ/mol-atom (mp-aaacqkjz); OQMD -20.143 kJ/mol-atom (oqmd-30551).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
+Systems: [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html)
 
 ## Literature values
 
@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Ho2Ni17 reported in the literature (5)
 |---:|---|---:|---|---|---|---|---|---|
 | -23.1 kJ/mol-atom ± 0.3 | Ho2Ni17 | 650 | experimental | EMF | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Gozzi 2005_ [doi](https://doi.org/10.1016/j.intermet.2005.03.002) | Table 3, p. 4, row 32 |  |
 | -21.33 kJ/mol-atom | Ho2Ni17 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015 | Table 3, p. 4, row 33 |  |
-| -21.33 kJ/mol-atom | Ni17Ho2 | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2 |  |
+| -21.33 kJ/mol-atom | Ni17Ho2 | 298.15 | model | Optimization | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [2] Kardellass 2016; _cites Kardellass 2015_ [doi](https://doi.org/10.1007/s10973-014-4189-1) | Table 4, p. 7, row 2 |  |
 | -16 kJ/mol-atom | Ho2Ni17 | 298.15 | model | Calculation | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites Kayzel 1995_ | Table 3, p. 4, row 34 |  |
 | -16 kJ/mol-atom | Ho2Ni17 | 298.15 | model | Prediction | [Ho–Ni](https://data.orchid-project.org/systems/HO-NI.html) | [1] Kardellass 2015; _cites de Boer FR 1989_ | Table 3, p. 4, row 31 |  |
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Ho2Ni17
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -23.1 | kJ/mol-atom | 0.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -21.33 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.33 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -16 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -23.1 | kJ/mol-atom | 0.3 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -21.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.33 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -16 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of Ho2Ni17
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacqkjz | -19.799 | -0.205208 | P6_3/mmc | 0.498 | 0.0052 | no |
-| OQMD | oqmd-30551 | -20.143 | -0.208772 | P63/mmc | 0.568 | 0.0059 | no |
+| OQMD | oqmd-30551 | -20.143 | -0.208772 | P63/mmc | 0.527 | 0.0055 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

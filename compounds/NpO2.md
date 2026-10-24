@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/NpO2.html · Markdown: https://data.orchid-project.org/compounds/NpO2.md
 
-3 accepted literature formation-enthalpy value(s) (model 2, unspecified 1); Materials Project -347.462 kJ/mol-atom (mp-aaaaadwq); OQMD -358.161 kJ/mol-atom (oqmd-1884081).
+3 accepted literature formation-enthalpy value(s) (model 2, unspecified 1); Materials Project -347.462 kJ/mol-atom (mp-aaaaadwq); OQMD -357.999 kJ/mol-atom (oqmd-30883).
 
 Systems: [Np–O](https://data.orchid-project.org/systems/NP-O.html)
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of NpO2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -359.5 kJ/mol-atom ± 2.7 | NpO2(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2 |  |
+| -359.5 kJ/mol-atom ± 0.9 | NpO2(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 9, p. 12, row 2 |  |
 | -358.933 kJ/mol-atom | NpO2(cr) | 298.15 | model |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016 | Table 9, p. 12, row 1 |  |
-| -359.5 kJ/mol-atom ± 2.7 | NpO2(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5 |  |
+| -359.5 kJ/mol-atom ± 0.9 | NpO2(cr) | 298.15 | unspecified |  | [Np–O](https://data.orchid-project.org/systems/NP-O.html) | [1] Smith 2016; _cites Konings 2014_ [doi](https://doi.org/10.1063/1.4825256) | Table 2, p. 3, row 5 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of NpO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -359.5 | kJ/mol-atom | 2.7 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -358.933 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -359.5 | kJ/mol-atom | 2.7 | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -359.5 | kJ/mol-atom | 0.9 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -358.933 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -359.5 | kJ/mol-atom | 0.9 | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of NpO2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadwq | -347.462 | -3.6012 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1884081 | -358.161 | -3.71209 | C2/m | 0 | 0 | yes |
+| OQMD | oqmd-30883 | -357.999 | -3.71041 | Fm-3m | 0.1624 | 0.0017 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

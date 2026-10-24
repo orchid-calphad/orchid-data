@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/DyB2.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 2); experimental median -42.32 kJ/mol-atom (n = 2); Materials Project -54.16 kJ/mol-atom (mp-aaaaadbd); OQMD -54.212 kJ/mol-atom (oqmd-8332).
 
-Systems: [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Dy](https://data.orchid-project.org/systems/B-DY.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of DyB2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -54.44 kJ/mol-atom | DyB2 | 298.15 | experimental | Experiments | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
-| -30.2 kJ/mol-atom ± 1.3 | DyB2 | 298.15 | experimental | Experiments | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
-| -58.019 kJ/mol-atom | DyB2 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
-| -54.135 kJ/mol-atom | DyB2 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
-| -54.038 kJ/mol-atom | DyB2 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
+| -54.44 kJ/mol-atom | DyB2 | 298.15 | experimental | Experiments | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
+| -30.2 kJ/mol-atom ± 1.3 | DyB2 | 298.15 | experimental | Experiments | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
+| -58.019 kJ/mol-atom | DyB2 | 298.15 | model | Optimization | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
+| -54.135 kJ/mol-atom | DyB2 | 298.15 | DFT | First-principle calculation | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
+| -54.038 kJ/mol-atom | DyB2 | 298.15 | DFT | First-principle calculation | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
 
 ### Uncertainty budget
 
@@ -30,9 +30,9 @@ Table: Uncertainty budget of the literature values of DyB2
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -54.44 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -30.2 | kJ/mol-atom | 1.3 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -58.019 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.135 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -54.038 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -58.019 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -54.135 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -54.038 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

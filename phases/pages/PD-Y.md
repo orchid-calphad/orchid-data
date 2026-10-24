@@ -16,14 +16,14 @@ Table: Phases of the Pd–Y system (15)
 | [FCC_A1](#phase-pd-y-fcc-a1); _phase:pd-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1829 K, x(Y) 0–0.12567 | 4 | 1 |
 | [HCP_A3](#phase-pd-y-hcp-a3); _phase:pd-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1751.15 K, x(Y) 1–1 | 4 | 1 |
 | [LIQUID](#phase-pd-y-liquid); _phase:pd-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1181.97–2500 K, x(Y) 0–1 | 28 | 1 |
-| [PD2Y](#phase-pd-y-pd2y); _phase:pd-y:pd2y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1577.1 K, x(Y) 0.33333–0.33333 | 4 | 1 |
+| [PD2Y](#phase-pd-y-pd2y); _phase:pd-y:pd2y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1577.1 K, x(Y) 0.33333–0.33333 | 7 | 1 |
 | [PD2Y3](#phase-pd-y-pd2y3); _phase:pd-y:pd2y3_ | Er3Ni2 · hR15 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1232.82 K, x(Y) 0.6–0.6 | 6 | 1 |
-| [PD2Y5](#phase-pd-y-pd2y5); _phase:pd-y:pd2y5_ | Dy5Pd2 · cF144 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1186.04 K, x(Y) 0.71429–0.71429 | 6 | 1 |
+| [PD2Y5](#phase-pd-y-pd2y5); _phase:pd-y:pd2y5_ | Dy5Pd2 · cF144 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1186.04 K, x(Y) 0.71429–0.71429 | 9 | 1 |
 | [PD3Y_L12](#phase-pd-y-pd3y-l12); _phase:pd-y:pd3y-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1972.1 K, x(Y) 0.20315–0.25 | 8 | 1 |
 | [PD3Y2_HT](#phase-pd-y-pd3y2-ht); _phase:pd-y:pd3y2-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1317.74–1546.25 K, x(Y) 0.4–0.4 | 6 | 1 |
 | [PD3Y2_LT](#phase-pd-y-pd3y2-lt); _phase:pd-y:pd3y2-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1317.74 K, x(Y) 0.4–0.4 | 2 | 1 |
-| [PD4Y3](#phase-pd-y-pd4y3); _phase:pd-y:pd4y3_ | Pd4Pu3 · hR14 · R-3 (148) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1682 K, x(Y) 0.42857–0.42857 | 8 | 1 |
-| [PD7Y](#phase-pd-y-pd7y); _phase:pd-y:pd7y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–777.05 K, x(Y) 0.125–0.125 | 2 | 1 |
+| [PD4Y3](#phase-pd-y-pd4y3); _phase:pd-y:pd4y3_ | Pd4Pu3 · hR14 · R-3 (148) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1682 K, x(Y) 0.42857–0.42857 | 11 | 1 |
+| [PD7Y](#phase-pd-y-pd7y); _phase:pd-y:pd7y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–777.05 K, x(Y) 0.125–0.125 | 5 | 1 |
 | [PDY_B2](#phase-pd-y-pdy-b2); _phase:pd-y:pdy-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1143.46–1722.54 K, x(Y) 0.5–0.5016 | 10 | 1 |
 | [PDY_B33](#phase-pd-y-pdy-b33); _phase:pd-y:pdy-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1173.65 K, x(Y) 0.5–0.50099 | 4 | 1 |
 | [PDY3_D011](#phase-pd-y-pdy3-d011); _phase:pd-y:pdy3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1182.99 K, x(Y) 0.75–0.75 | 4 | 1 |
@@ -158,11 +158,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Pd2Y) — Hallstedt 2025 mmc2 row for PD2Y: Pd2Y
 - Stoichiometry: Pd 0.6667, Y 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1577.1 K, x(Y) 0.33333–0.33333
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-y:pd2y)
 
-Names (3): _corpus: _corpus:phase:pd-y:pd2y  
-_paper: _paper:10.1016/s0925-8388(99)00582-4:Pd2Y  
+Names (4): _corpus: _corpus:phase:pd-y:pd2y  
+_paper: _paper:10.1016/j.matpr.2019.08.196:Pd2Y, paper:10.1016/s0925-8388(99)00582-4:Pd2Y  
 _tdb: _tdb:PdY-00Du.tdb:PD2Y  
 
 
@@ -175,10 +175,14 @@ _tdb: _tdb:PdY-00Du.tdb:PD2Y
 58: CONST PD2Y : PD : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/S0925-8388(99)00582-4](https://doi.org/10.1016/S0925-8388%2899%2900582-4) Z. Du, H. Yang, C. Li, J. Alloys Compd., 297, 185-91(2000).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
+_reports values for this phase_
+- [doi:10.1016/s0925-8388(00)01144-0](https://doi.org/10.1016/s0925-8388%2800%2901144-0) Zhenmin Du, Haifang Yang, Thermodynamic assessment of the Gd–Pd system, Journal of Alloys and Compounds 312, 181-188 (2000).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(73)90006-4](https://doi.org/10.1016/0022-5088%2873%2990006-4) O Loebich, E Raub, Die Legierungen des Palladiums mit Yttrium, Samarium, Gadolinium, Dysprosium, Holmium und Erbium, Journal of the Less Common Metals 30, 47-62 (1973).  
 _cited as the source of values for this phase_
 
@@ -222,11 +226,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pd 0.2857, Y 0.7143
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1186.04 K, x(Y) 0.71429–0.71429
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-y:pd2y5)
 
-Names (3): _corpus: _corpus:phase:pd-y:pd2y5  
-_paper: _paper:10.1016/s0925-8388(99)00582-4:Pd2Y5  
+Names (4): _corpus: _corpus:phase:pd-y:pd2y5  
+_paper: _paper:10.1016/j.matpr.2019.08.196:Pd2Y5, paper:10.1016/s0925-8388(99)00582-4:Pd2Y5  
 _tdb: _tdb:PdY-00Du.tdb:PD2Y5  
 
 
@@ -239,11 +243,15 @@ _tdb: _tdb:PdY-00Du.tdb:PD2Y5
 93: CONST PD2Y5 : PD : Y : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0925-8388(99)00582-4](https://doi.org/10.1016/S0925-8388%2899%2900582-4) Z. Du, H. Yang, C. Li, J. Alloys Compd., 297, 185-91(2000).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(73)90006-4](https://doi.org/10.1016/0022-5088%2873%2990006-4) O Loebich, E Raub, Die Legierungen des Palladiums mit Yttrium, Samarium, Gadolinium, Dysprosium, Holmium und Erbium, Journal of the Less Common Metals 30, 47-62 (1973).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
+_reports values for this phase_
+- [doi:10.1016/s0925-8388(00)01144-0](https://doi.org/10.1016/s0925-8388%2800%2901144-0) Zhenmin Du, Haifang Yang, Thermodynamic assessment of the Gd–Pd system, Journal of Alloys and Compounds 312, 181-188 (2000).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(85)90271-1](https://doi.org/10.1016/0022-5088%2885%2990271-1) R. Kuentzler, O. Loebich, Electronic properties and stability of the ordered Pd-Y alloys, Journal of the Less Common Metals 106, 335-348 (1985).  
 _cited as the source of values for this phase_
@@ -347,13 +355,13 @@ _cited as the source of values for this phase_
 - Structure: Pd4Pu3 · hR14 · R-3 (148); type `st:pd4pu3-hr14`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Pd 0.5714, Y 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1682 K, x(Y) 0.42857–0.42857
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-y:pd4y3)
 
-Names (5): _corpus: _corpus:phase:pd-y:pd4y3  
+Names (6): _corpus: _corpus:phase:pd-y:pd4y3  
 _mp: _mp:mp-aaackveh  
 _oqmd: _oqmd:oqmd-1437089  
-_paper: _paper:10.1016/s0925-8388(99)00582-4:Pd4Y3  
+_paper: _paper:10.1016/j.matpr.2019.08.196:Pd4Y3, paper:10.1016/s0925-8388(99)00582-4:Pd4Y3  
 _tdb: _tdb:PdY-00Du.tdb:PD4Y3  
 
 
@@ -366,11 +374,15 @@ _tdb: _tdb:PdY-00Du.tdb:PD4Y3
 73: CONST PD4Y3 : PD : Y : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/S0925-8388(99)00582-4](https://doi.org/10.1016/S0925-8388%2899%2900582-4) Z. Du, H. Yang, C. Li, J. Alloys Compd., 297, 185-91(2000).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(73)90006-4](https://doi.org/10.1016/0022-5088%2873%2990006-4) O Loebich, E Raub, Die Legierungen des Palladiums mit Yttrium, Samarium, Gadolinium, Dysprosium, Holmium und Erbium, Journal of the Less Common Metals 30, 47-62 (1973).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
+_reports values for this phase_
+- [doi:10.1016/s0925-8388(00)01144-0](https://doi.org/10.1016/s0925-8388%2800%2901144-0) Zhenmin Du, Haifang Yang, Thermodynamic assessment of the Gd–Pd system, Journal of Alloys and Compounds 312, 181-188 (2000).  
 _cited as the source of values for this phase_
 
 ## PD7Y (Pd–Y)
@@ -381,11 +393,11 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): (Pd7Y) — Hallstedt 2025 mmc2 row for PD7Y: Pd7Y
 - Stoichiometry: Pd 0.8750, Y 0.1250
 - Stability: stable in 1 of 1 calculated diagram(s): 300–777.05 K, x(Y) 0.125–0.125
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-y:pd7y)
 
-Names (3): _corpus: _corpus:phase:pd-y:pd7y  
-_paper: _paper:10.1016/s0925-8388(99)00582-4:Pd7Y  
+Names (4): _corpus: _corpus:phase:pd-y:pd7y  
+_paper: _paper:10.1016/j.matpr.2019.08.196:Pd7Y, paper:10.1016/s0925-8388(99)00582-4:Pd7Y  
 _tdb: _tdb:PdY-00Du.tdb:PD7Y  
 
 
@@ -398,10 +410,14 @@ _tdb: _tdb:PdY-00Du.tdb:PD7Y
 48: CONST PD7Y : PD : Y : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/S0925-8388(99)00582-4](https://doi.org/10.1016/S0925-8388%2899%2900582-4) Z. Du, H. Yang, C. Li, J. Alloys Compd., 297, 185-91(2000).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
+_reports values for this phase_
+- [doi:10.1016/s0925-8388(00)01144-0](https://doi.org/10.1016/s0925-8388%2800%2901144-0) Zhenmin Du, Haifang Yang, Thermodynamic assessment of the Gd–Pd system, Journal of Alloys and Compounds 312, 181-188 (2000).  
+_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(73)90006-4](https://doi.org/10.1016/0022-5088%2873%2990006-4) O Loebich, E Raub, Die Legierungen des Palladiums mit Yttrium, Samarium, Gadolinium, Dysprosium, Holmium und Erbium, Journal of the Less Common Metals 30, 47-62 (1973).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(89)90076-3](https://doi.org/10.1016/0022-5088%2889%2990076-3) K. Takao, Y. Sakamoto, M. Yoshida, Ted B. Flanagan, Order-disorder transitions of the Pd7Dy(Y) phase in Pd-Dy(Y) alloys, Journal of the Less Common Metals 152, 115-125 (1989).  

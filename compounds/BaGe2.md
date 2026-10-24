@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BaGe2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -51.162 kJ/mol-atom (mp-aaaaadeh); OQMD -50.892 kJ/mol-atom (oqmd-20095).
 
-Systems: [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html)
+Systems: [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of BaGe2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -54.015 kJ/mol-atom | BaGe2 |  | model | CALPHAD | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
-| -54.015 kJ/mol-atom | BaGe2 | 0 | DFT | Ab-initio | [Al–Ba–Ge](https://data.orchid-project.org/systems/AL-BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 28 |  |
+| -54.015 kJ/mol-atom | BaGe2 |  | model | CALPHAD | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 29 |  |
+| -54.015 kJ/mol-atom | BaGe2 | 0 | DFT | Ab-initio | [Ba–Ge](https://data.orchid-project.org/systems/BA-GE.html) | [1] Benhafid 2019 | Table 3, p. 4, row 28 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of BaGe2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -54.015 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.015 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -54.015 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -54.015 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

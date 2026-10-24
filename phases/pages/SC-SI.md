@@ -13,9 +13,9 @@ Table: Phases of the Sc–Si system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-sc-si-a4-diamond); _phase:sc-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.32 K, x(Si) 1–1 | 4 | 2 |
-| [BCC_A2](#phase-sc-si-bcc-a2); _phase:sc-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1607.95–1832.95 K, x(Si) 0–3e-05 | 2 | 2 |
+| [BCC_A2](#phase-sc-si-bcc-a2); _phase:sc-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1607.95–1832.95 K, x(Si) 0–3e-05 | 0 | 2 |
 | [FCC_A1](#phase-sc-si-fcc-a1); _phase:sc-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [HCP_A3](#phase-sc-si-hcp-a3); _phase:sc-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1702.99 K, x(Si) 0–2e-05 | 4 | 2 |
+| [HCP_A3](#phase-sc-si-hcp-a3); _phase:sc-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1702.99 K, x(Si) 0–2e-05 | 2 | 2 |
 | [LIQUID](#phase-sc-si-liquid); _phase:sc-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1424.57–2500 K, x(Si) 0–1 | 10 | 2 |
 | [SC2SI3_C32](#phase-sc-si-sc2si3-c32); _phase:sc-si:sc2si3-c32_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1196.56–1534.9 K, x(Si) 0.6–0.6 | 0 | 1 |
 | [BETA_SC3SI5](#phase-sc-si-sc3si5-beta); _phase:sc-si:sc3si5-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1342.73–1536.12 K, x(Si) 0.625–0.625 | 6 | 1 |
@@ -65,11 +65,10 @@ _cited as the source of values for this phase_
 - Id: `phase:sc-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1607.95–1832.95 K, x(Si) 0–3e-05
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-si:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:sc-si:bcc-a2  
-_paper: _paper:10.1007/s10973-014-4216-2:(βSc)  
+Names (3): _corpus: _corpus:phase:sc-si:bcc-a2  
 _tdb: _tdb:ScSi-08GTT.tdb:BCC_A2, tdb:ScSi-15Qin.tdb:BCC_A2  
 
 
@@ -89,12 +88,10 @@ _tdb: _tdb:ScSi-08GTT.tdb:BCC_A2, tdb:ScSi-15Qin.tdb:BCC_A2
 32: CONST BCC_A2 : SC% SI : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s10973-014-4216-2](https://doi.org/10.1007/s10973-014-4216-2) Aning Qin, Dandan Liu, Chong Chen, Shuhong Liu, Yong Du, Man Wang et al., Heat contents of Sc5Si3 and ScSi intermetallics and thermodynamic modeling of the Sc–Si system, J Therm Anal Calorim 119, 1315-1321 (2015).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf00794560](https://doi.org/10.1007/bf00794560) V. N. Eremenko, K. A. Meleshevich, Yu. I. Buyanov, P. S. Martsenyuk, Phase equilibria in the scandium-silicon system, Powder Metall Met Ceram 27, 967-972 (1988).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Sc–Si)
 
@@ -134,7 +131,7 @@ _assessment that models this phase_
 - Id: `phase:sc-si:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1702.99 K, x(Si) 0–2e-05
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-si:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:sc-si:hcp-a3  

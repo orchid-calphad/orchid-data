@@ -85,12 +85,12 @@ Table: Crystal structure, Fe–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 3.73 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.73 Å |  | Fe3Pt; _alloy: Pt 0.25_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
 | Lattice a; _printed: a_ | 3.737 Å | 0 | Fe3Pt; _alloy: Pt 0.25_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 3.861 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
+| Lattice a; _printed: a_ | 3.861 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Leroux 1988_ | Table 3, p. 3, row 2 |  |
 | Lattice a; _printed: a_ | 3.855 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
 | Lattice a; _printed: a_ | 3.911 Å | 0 | FePt3; _alloy: Pt 0.75_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 1 |  |
-| Lattice c; _printed: c_ | 3.788 Å | 0 | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4 |  |
+| Lattice c; _printed: c_ | 3.788 Å |  | FePt; _alloy: Pt 0.5_ | experimental | [1] Kim 2011; _cites Galanakis 2000_ [doi](https://doi.org/10.1103/physrevb.62.6475) | Table 3, p. 3, row 4 |  |
 | Lattice c; _printed: c_ | 3.757 Å | 0 | FePt; _alloy: Pt 0.5_ | DFT | [1] Kim 2011 | Table 3, p. 3, row 3 |  |
 
 ## Sources

@@ -13,7 +13,7 @@ Table: Phases of the Cu–Si system (17)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-cu-si-a4-diamond); _phase:cu-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.91 K, x(Si) 0.99998–1 | 21 | 9 |
-| [BCC_A2](#phase-cu-si-bcc-a2); _phase:cu-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1053.89–1126.33 K, x(Si) 0.13712–0.17277 | 63 | 9 |
+| [BCC_A2](#phase-cu-si-bcc-a2); _phase:cu-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1053.89–1126.33 K, x(Si) 0.13712–0.17277 | 0 | 9 |
 | [CU15SI4](#phase-cu-si-cu15si4); _phase:cu-si:cu15si4_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1073.8 K, x(Si) 0.2105–0.21053 | 0 | 5 |
 | [CU15SI4_D86](#phase-cu-si-cu15si4-d86); _phase:cu-si:cu15si4-d86_ | Cu15Si4 · D8_6 · cI76 · I-43d (220) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1074.57 K, x(Si) 0.21053–0.21053 | 11 | 3 |
 | [CU19SI6](#phase-cu-si-cu19si6); _phase:cu-si:cu19si6_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–1131.85 K, x(Si) 0.24–0.24 | 11 | 5 |
@@ -27,7 +27,7 @@ Table: Phases of the Cu–Si system (17)
 | [CU56SI11_A13](#phase-cu-si-cu56si11-a13); _phase:cu-si:cu56si11-a13_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1008.37 K, x(Si) 0.16418–0.1642 | 9 | 3 |
 | [CU9SI2](#phase-cu-si-cu9si2); _phase:cu-si:cu9si2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 981.56–1097.01 K, x(Si) 0.18182–0.18182 | 0 | 2 |
 | [FCC_A1](#phase-cu-si-fcc-a1); _phase:cu-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–1360.77 K, x(Si) 0–0.11612 | 33 | 9 |
-| [HCP_A3](#phase-cu-si-hcp-a3); _phase:cu-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 822.83–1115.92 K, x(Si) 0.10482–0.14356 | 44 | 9 |
+| [HCP_A3](#phase-cu-si-hcp-a3); _phase:cu-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 822.83–1115.92 K, x(Si) 0.10482–0.14356 | 0 | 9 |
 | [LIQUID](#phase-cu-si-liquid); _phase:cu-si:liquid_ | liquid | liquid | stable in 9 of 9 calculated diagram(s): 1073.66–2500 K, x(Si) 0–1 | 48 | 9 |
 
 ## DIAMOND_A4 (Cu–Si)
@@ -132,11 +132,10 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 1053.89–1126.33 K, x(Si) 0.13712–0.17277
-- Literature: 63 values (63 accepted) from 3 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-si:bcc-a2)
 
-Names (15): _corpus: _corpus:phase:cu-si:bcc-a2  
-_paper: _paper:10.1007/s11669-024-01160-5:β(CuSi), paper:10.1016/j.jct.2012.07.025:β, paper:10.1016/j.jct.2012.07.025:ε, paper:10.1016/s0925-8388(00)00983-x:β, paper:10.1016/s0925-8388(00)00983-x:ε  
+Names (10): _corpus: _corpus:phase:cu-si:bcc-a2  
 _tdb: _tdb:CuSi-00Yan.tdb:BCC_A2, tdb:CuSi-08Shi.tdb:BCC_A2, tdb:CuSi-13Gie.tdb:BCC_A2, tdb:CuSi-16Hal.tdb:BCC_A2, tdb:CuSi-19Sol.tdb:BCC_A2, tdb:CuSi-24Kro.tdb:BCC_A2, tdb:CuSi-98Jac.tdb:BCC_A2, tdb:CuSi-99Fri-LB.tdb:BCC_A2, tdb:CuSi-99Fri-alt.tdb:BCC_A2  
 
 
@@ -205,22 +204,20 @@ _tdb: _tdb:CuSi-00Yan.tdb:BCC_A2, tdb:CuSi-08Shi.tdb:BCC_A2, tdb:CuSi-13Gie.tdb:
 48: CONST BCC_A2 : CU SI : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.jct.2012.07.025](https://doi.org/10.1016/j.jct.2012.07.025) Wojciech Gierlotka, Md. Azizul Haque, On the binary (Cu + Si) system: Thermodynamic modelling of the phase diagram and atomic mobility in face centred cubic phase, The Journal of Chemical Thermodynamics 57, 32-38 (2013).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/S0925-8388(00)00983-X](https://doi.org/10.1016/S0925-8388%2800%2900983-X) X. Yan, Y.A. Chang, J. Alloys Compd., 308, 221-29(2000).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01160-5](https://doi.org/10.1007/s11669-024-01160-5) Ales Kroupa, Ondrej Zobac, Adela Zemanova, Klaus W. Richter, CALPHAD-Type Reassessment of Cu-Si and Full Assessment of the Al-Cu-Si Systems, J. Phase Equilib. Diffus. 45, 1206-1243 (2024).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2016.03.002](https://doi.org/10.1016/j.calphad.2016.03.002) Bengt Hallstedt, Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Calorimetric measurements and assessment of the binary Cu–Si and ternary Al–Cu–Si phase diagrams, Calphad 53, 25-38 (2016).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2008.05.003](https://doi.org/10.1016/j.calphad.2008.05.003) D. Shin, J.E. Saal, Z.-K. Liu, Calphad, 32, 520-26(2008).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2016.03.002](https://doi.org/10.1016/j.calphad.2016.03.002) Bengt Hallstedt, Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Calorimetric measurements and assessment of the binary Cu–Si and ternary Al–Cu–Si phase diagrams, Calphad 53, 25-38 (2016).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.06.236](https://doi.org/10.1016/j.jallcom.2019.06.236) Luca Soldi, Annabelle Laplace, Mathieu Roskosz, Stéphane Gossé, Phase diagram and thermodynamic model for the Cu-Si and the Cu-Fe-Si systems, Journal of Alloys and Compounds 803, 61-70 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2011.05.017](https://doi.org/10.1016/j.intermet.2011.05.017) Katarzyna Sufryd, Norbert Ponweiser, Paola Riani, Klaus W. Richter, Gabriele Cacciamani, Experimental investigation of the Cu–Si phase diagram at x(Cu)&gt;0.72, Intermetallics 19, 1479-1488 (2011).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jct.2012.07.025](https://doi.org/10.1016/j.jct.2012.07.025) Wojciech Gierlotka, Md. Azizul Haque, On the binary (Cu + Si) system: Thermodynamic modelling of the phase diagram and atomic mobility in face centred cubic phase, The Journal of Chemical Thermodynamics 57, 32-38 (2013).  
+_assessment that models this phase_
+- [doi:10.1016/S0925-8388(00)00983-X](https://doi.org/10.1016/S0925-8388%2800%2900983-X) X. Yan, Y.A. Chang, J. Alloys Compd., 308, 221-29(2000).  
+_assessment that models this phase_
 
 ## CU15SI4 (Cu–Si)
 
@@ -952,11 +949,10 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-si:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 822.83–1115.92 K, x(Si) 0.10482–0.14356
-- Literature: 44 values (44 accepted) from 3 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-si:hcp-a3)
 
-Names (14): _corpus: _corpus:phase:cu-si:hcp-a3  
-_paper: _paper:10.1007/s11669-024-01160-5:κ, paper:10.1007/s11669-024-01160-5:κ(CuSi), paper:10.1016/j.jct.2012.07.025:κ, paper:10.1016/s0925-8388(00)00983-x:κ  
+Names (10): _corpus: _corpus:phase:cu-si:hcp-a3  
 _tdb: _tdb:CuSi-00Yan.tdb:HCP_A3, tdb:CuSi-08Shi.tdb:HCP_A3, tdb:CuSi-13Gie.tdb:HCP_A3, tdb:CuSi-16Hal.tdb:HCP_A3, tdb:CuSi-19Sol.tdb:HCP_A3, tdb:CuSi-24Kro.tdb:HCP_A3, tdb:CuSi-98Jac.tdb:HCP_A3, tdb:CuSi-99Fri-LB.tdb:HCP_A3, tdb:CuSi-99Fri-alt.tdb:HCP_A3  
 
 
@@ -1025,22 +1021,20 @@ _tdb: _tdb:CuSi-00Yan.tdb:HCP_A3, tdb:CuSi-08Shi.tdb:HCP_A3, tdb:CuSi-13Gie.tdb:
 53: CONST HCP_A3 : CU SI : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.jct.2012.07.025](https://doi.org/10.1016/j.jct.2012.07.025) Wojciech Gierlotka, Md. Azizul Haque, On the binary (Cu + Si) system: Thermodynamic modelling of the phase diagram and atomic mobility in face centred cubic phase, The Journal of Chemical Thermodynamics 57, 32-38 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01160-5](https://doi.org/10.1007/s11669-024-01160-5) Ales Kroupa, Ondrej Zobac, Adela Zemanova, Klaus W. Richter, CALPHAD-Type Reassessment of Cu-Si and Full Assessment of the Al-Cu-Si Systems, J. Phase Equilib. Diffus. 45, 1206-1243 (2024).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/S0925-8388(00)00983-X](https://doi.org/10.1016/S0925-8388%2800%2900983-X) X. Yan, Y.A. Chang, J. Alloys Compd., 308, 221-29(2000).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2016.03.002](https://doi.org/10.1016/j.calphad.2016.03.002) Bengt Hallstedt, Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Calorimetric measurements and assessment of the binary Cu–Si and ternary Al–Cu–Si phase diagrams, Calphad 53, 25-38 (2016).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2008.05.003](https://doi.org/10.1016/j.calphad.2008.05.003) D. Shin, J.E. Saal, Z.-K. Liu, Calphad, 32, 520-26(2008).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2016.03.002](https://doi.org/10.1016/j.calphad.2016.03.002) Bengt Hallstedt, Joachim Gröbner, Milan Hampl, Rainer Schmid-Fetzer, Calorimetric measurements and assessment of the binary Cu–Si and ternary Al–Cu–Si phase diagrams, Calphad 53, 25-38 (2016).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.06.236](https://doi.org/10.1016/j.jallcom.2019.06.236) Luca Soldi, Annabelle Laplace, Mathieu Roskosz, Stéphane Gossé, Phase diagram and thermodynamic model for the Cu-Si and the Cu-Fe-Si systems, Journal of Alloys and Compounds 803, 61-70 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2011.05.017](https://doi.org/10.1016/j.intermet.2011.05.017) Katarzyna Sufryd, Norbert Ponweiser, Paola Riani, Klaus W. Richter, Gabriele Cacciamani, Experimental investigation of the Cu–Si phase diagram at x(Cu)&gt;0.72, Intermetallics 19, 1479-1488 (2011).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jct.2012.07.025](https://doi.org/10.1016/j.jct.2012.07.025) Wojciech Gierlotka, Md. Azizul Haque, On the binary (Cu + Si) system: Thermodynamic modelling of the phase diagram and atomic mobility in face centred cubic phase, The Journal of Chemical Thermodynamics 57, 32-38 (2013).  
+_assessment that models this phase_
+- [doi:10.1016/S0925-8388(00)00983-X](https://doi.org/10.1016/S0925-8388%2800%2900983-X) X. Yan, Y.A. Chang, J. Alloys Compd., 308, 221-29(2000).  
+_assessment that models this phase_
 
 ## LIQUID (Cu–Si)
 

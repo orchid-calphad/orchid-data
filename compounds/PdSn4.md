@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of PdSn4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28.339 | kJ/mol-atom | 0.335 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -27.841 | kJ/mol-atom | 0.075 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.56 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -28.339 | kJ/mol-atom | 0.335 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -27.841 | kJ/mol-atom | 0.075 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -31 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.56 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

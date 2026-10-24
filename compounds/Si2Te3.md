@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si2Te3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -18.4 kJ/mol-atom ± 13 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3 |  |
-| -17.8 kJ/mol-atom ± 19 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4 |  |
-| -14.4 kJ/mol-atom ± 5 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6 |  |
-| -14.2 kJ/mol-atom ± 6 | α-Si2Te3 | 298.15 | experimental | calorimetry | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
-| -13.8 kJ/mol-atom ± 7 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
+| -18.4 kJ/mol-atom ± 2.6 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3 |  |
+| -17.8 kJ/mol-atom ± 3.8 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4 |  |
+| -14.4 kJ/mol-atom ± 1 | α-Si2Te3 | 298.15 | experimental | 3rd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6 |  |
+| -14.2 kJ/mol-atom ± 1.2 | α-Si2Te3 | 298.15 | experimental | calorimetry | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
+| -13.8 kJ/mol-atom ± 1.4 | α-Si2Te3 | 298.15 | experimental | 2nd Law | [Si–Te](https://data.orchid-project.org/systems/SI-TE.html) | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Si2Te3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -18.4 | kJ/mol-atom | 13 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 13 |
-| -17.8 | kJ/mol-atom | 19 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 19 |
-| -14.4 | kJ/mol-atom | 5 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 5 |
-| -14.2 | kJ/mol-atom | 6 | 0.1 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6 |
-| -13.8 | kJ/mol-atom | 7 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 7 |
+| -18.4 | kJ/mol-atom | 2.6 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
+| -17.8 | kJ/mol-atom | 3.8 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 3.8 |
+| -14.4 | kJ/mol-atom | 1 | 0.1 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
+| -14.2 | kJ/mol-atom | 1.2 | 0.1 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -13.8 | kJ/mol-atom | 1.4 | 0.1 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
 
 ## Sources
 

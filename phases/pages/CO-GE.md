@@ -12,18 +12,18 @@ Table: Phases of the Co–Ge system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-co-ge-a4-diamond); _phase:co-ge:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1 | 30 | 4 |
-| [BCC_A2](#phase-co-ge-bcc-a2); _phase:co-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 20 | 4 |
+| [DIAMOND_A4](#phase-co-ge-a4-diamond); _phase:co-ge:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1 | 10 | 4 |
+| [BCC_A2](#phase-co-ge-bcc-a2); _phase:co-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [CO2GE_C37](#phase-co-ge-co2ge-c37); _phase:co-ge:co2ge-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–933.99 K, x(Ge) 0.33333–0.33333 | 4 | 2 |
 | [CO3GE](#phase-co-ge-co3ge); _phase:co-ge:co3ge_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 920–1060 K, x(Ge) 0.25–0.25 | 6 | 2 |
 | [CO5GE2](#phase-co-ge-co5ge2); _phase:co-ge:co5ge2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 652.37–924.45 K, x(Ge) 0.28571–0.28571 | 5 | 2 |
-| [CO5GE3](#phase-co-ge-co5ge3); _phase:co-ge:co5ge3_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1481.27 K, x(Ge) 0.375–0.375 | 6 | 1 |
+| [CO5GE3](#phase-co-ge-co5ge3); _phase:co-ge:co5ge3_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1481.27 K, x(Ge) 0.375–0.375 | 5 | 1 |
 | [CO5GE3_B82](#phase-co-ge-co5ge3-b82); _phase:co-ge:co5ge3-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1482.22 K, x(Ge) 0.33898–0.45007 | 58 | 3 |
 | [CO5GE3_C37](#phase-co-ge-co5ge3-c37); _phase:co-ge:co5ge3-c37_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–655.66 K, x(Ge) 0.375–0.375 | 1 | 1 |
 | [CO5GE7](#phase-co-ge-co5ge7); _phase:co-ge:co5ge7_ | Co5Ge7 · tI24 · I4mm (107) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1119.77 K, x(Ge) 0.58333–0.58333 | 7 | 4 |
 | [COGE](#phase-co-ge-coge); _phase:co-ge:coge_ | CoGe · mC16 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1276.8 K, x(Ge) 0.48683–0.52883 | 42 | 4 |
 | [COGE2](#phase-co-ge-coge2); _phase:co-ge:coge2_ | CoGe2 · oC24 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1122.01 K, x(Ge) 0.66667–0.66667 | 44 | 4 |
-| [FCC_A1](#phase-co-ge-fcc-a1); _phase:co-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 6 calculated diagram(s): 687.99–1818.74 K, x(Ge) 0–0.17235 | 3 | 6 |
+| [FCC_A1](#phase-co-ge-fcc-a1); _phase:co-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 687.99–1818.74 K, x(Ge) 0–0.17235 | 3 | 6 |
 | [L12_FCC](#phase-co-ge-fcc-l12); _phase:co-ge:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 750–1730 K, x(Ge) 0.01–0.25008 | 7 | 2 |
 | [HCP_A3](#phase-co-ge-hcp-a3); _phase:co-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1425.86 K, x(Ge) 0–0.20219 | 15 | 4 |
 | [LIQUID](#phase-co-ge-liquid); _phase:co-ge:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1087.69–2500 K, x(Ge) 0–1 | 53 | 4 |
@@ -34,11 +34,11 @@ Table: Phases of the Co–Ge system (15)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1
-- Literature: 30 values (30 accepted) from 3 papers
+- Literature: 10 values (10 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ge:a4-diamond)
 
-Names (14): _corpus: _corpus:phase:co-ge:a4-diamond, corpus:phase:co-ge:diamond-a4  
-_paper: _paper:10.1007/bf02663678:(Ge), paper:10.1007/bf02663678:(αCo), paper:10.1007/bf02663678:(αCo5Ge3), paper:10.1007/bf02663678:Ge, paper:10.1007/bf02663678:αCo, paper:10.1016/j.jallcom.2018.12.205:(Ge), paper:10.1016/j.jallcom.2018.12.205:α(Co), paper:10.1016/j.tca.2013.08.026:(Ge)  
+Names (10): _corpus: _corpus:phase:co-ge:a4-diamond, corpus:phase:co-ge:diamond-a4  
+_paper: _paper:10.1007/bf02663678:(Ge), paper:10.1007/bf02663678:Ge, paper:10.1016/j.jallcom.2018.12.205:(Ge), paper:10.1016/j.tca.2013.08.026:(Ge)  
 _tdb: _tdb:CoGe-04Kor-LB.tdb:DIAMOND_A4, tdb:CoGe-13Don.tdb:DIAMOND_A4, tdb:CoGe-19Zen-ass.tdb:DIAMOND_A4, tdb:CoGe-19Zen-sub.tdb:DIAMOND_A4  
 
 
@@ -72,7 +72,7 @@ _tdb: _tdb:CoGe-04Kor-LB.tdb:DIAMOND_A4, tdb:CoGe-13Don.tdb:DIAMOND_A4, tdb:CoGe
 60: CONST DIAMOND_A4 : GE : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205) Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019).  
 _assessment that models this phase; reports values for this phase_
@@ -80,13 +80,11 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02663678](https://doi.org/10.1007/bf02663678) I Ansara, F Ajersch, The Ga-Pb (Gallium-Lead) System, JPE 12, 73-77 (1991).  
 _reports values for this phase_
-- [doi:10.1016/0040-6031(79)85054-6](https://doi.org/10.1016/0040-6031%2879%2985054-6) Bruno Predel, Wolfgang Vogelbein, Bildungsenthalpien fester legierungen der binären systeme des eisens, kobalts und nickels mit germanium und zinn, Thermochimica Acta 30, 201-215 (1979).  
+- [doi:10.1007/bf02663679](https://doi.org/10.1007/bf02663679) K Ishida, T Nishizawa, The Co-Ge (Cobalt-Germanium) System, JPE 12, 77-83 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1007/s11669-017-0592-1](https://doi.org/10.1007/s11669-017-0592-1) Yinping Zeng, Han Li, Yong Du, Yafei Pan, Yingbiao Peng, Peng Zhou et al., Experimental Investigation of the Co-Ge Phase Diagram, J. Phase Equilib. Diffus. 38, 843-852 (2017).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(80)90252-0](https://doi.org/10.1016/0022-5088%2880%2990252-0) André Dayer, Pierre Feschotte, Les systèmes binaires cobalt-germanium et nickel-germanium: Étude comparée, Journal of the Less Common Metals 72, 51-70 (1980).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02663679](https://doi.org/10.1007/bf02663679) K Ishida, T Nishizawa, The Co-Ge (Cobalt-Germanium) System, JPE 12, 77-83 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1949-401006](https://doi.org/10.1515/ijmr-1949-401006) H. Pﬁsterer, K. Schubert, Z. Metallkd. 40 (1949) 378–383.  
 _cited as the source of values for this phase_
@@ -96,11 +94,10 @@ _cited as the source of values for this phase_
 - Id: `phase:co-ge:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ge:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:co-ge:bcc-a2  
-_paper: _paper:10.1007/bf02663678:(εCo), paper:10.1007/bf02663678:εCo, paper:10.1016/j.jallcom.2018.12.205:ε(Co)  
+Names (5): _corpus: _corpus:phase:co-ge:bcc-a2  
 _tdb: _tdb:CoGe-04Kor-LB.tdb:BCC_A2, tdb:CoGe-13Don.tdb:BCC_A2, tdb:CoGe-19Zen-ass.tdb:BCC_A2, tdb:CoGe-19Zen-sub.tdb:BCC_A2  
 
 
@@ -134,18 +131,12 @@ _tdb: _tdb:CoGe-04Kor-LB.tdb:BCC_A2, tdb:CoGe-13Don.tdb:BCC_A2, tdb:CoGe-19Zen-a
 50: CONST BCC_A2 : CO GE : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.12.205](https://doi.org/10.1016/j.jallcom.2018.12.205) Yinping Zeng, Yong Du, Han Li, Peng Zhou, Shuhong Liu, Kaiming Cheng et al., Thermodynamic description and solidified microstructure of the Co-Ge system, Journal of Alloys and Compounds 793, 480-491 (2019).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.tca.2013.08.026](https://doi.org/10.1016/j.tca.2013.08.026) S.S. Dong, S.G. Liu, X.M. Tao, F.H. Xiao, L.H. Huang, F. Yang et al., Thermodynamic optimization of Co–Ge binary system, Thermochimica Acta 572, 94-100 (2013).  
 _assessment that models this phase_
-- [doi:10.1007/bf02663678](https://doi.org/10.1007/bf02663678) I Ansara, F Ajersch, The Ga-Pb (Gallium-Lead) System, JPE 12, 73-77 (1991).  
-_reports values for this phase_
-- [doi:10.1016/0022-5088(80)90252-0](https://doi.org/10.1016/0022-5088%2880%2990252-0) André Dayer, Pierre Feschotte, Les systèmes binaires cobalt-germanium et nickel-germanium: Étude comparée, Journal of the Less Common Metals 72, 51-70 (1980).  
-_cited as the source of values for this phase_
-- [doi:10.1007/s11669-017-0592-1](https://doi.org/10.1007/s11669-017-0592-1) Yinping Zeng, Han Li, Yong Du, Yafei Pan, Yingbiao Peng, Peng Zhou et al., Experimental Investigation of the Co-Ge Phase Diagram, J. Phase Equilib. Diffus. 38, 843-852 (2017).  
-_cited as the source of values for this phase_
 
 ## CO2GE_C37 (Co–Ge)
 
@@ -275,7 +266,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.6250, Ge 0.3750
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1481.27 K, x(Ge) 0.375–0.375
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ge:co5ge3)
 
 Names (3): _corpus: _corpus:phase:co-ge:co5ge3  
@@ -581,7 +572,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:co-ge:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 6 calculated diagram(s): 687.99–1818.74 K, x(Ge) 0–0.17235
+- Stability: stable in 4 of 4 calculated diagram(s): 687.99–1818.74 K, x(Ge) 0–0.17235
 - Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ge:fcc-a1)
 

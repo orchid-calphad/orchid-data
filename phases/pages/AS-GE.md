@@ -16,8 +16,8 @@ Table: Phases of the As–Ge system (8)
 | [RHOMBOHEDRAL_A7](#phase-as-ge-a7-rhombohedral); _phase:as-ge:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1090 K, x(As) 0.78006–1 | 0 | 3 |
 | [BCC_A2](#phase-as-ge-bcc-a2); _phase:as-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-as-ge-fcc-a1); _phase:as-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [GEAS](#phase-as-ge-geas); _phase:as-ge:geas_ | SiAs · mC24 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1036.76 K, x(As) 0.5–0.5 | 3 | 3 |
-| [GEAS2](#phase-as-ge-geas2); _phase:as-ge:geas2_ | GeAs2 · oP24 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1032.54 K, x(As) 0.66667–0.66667 | 3 | 3 |
+| [GEAS](#phase-as-ge-geas); _phase:as-ge:geas_ | SiAs · mC24 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1036.76 K, x(As) 0.5–0.5 | 11 | 3 |
+| [GEAS2](#phase-as-ge-geas2); _phase:as-ge:geas2_ | GeAs2 · oP24 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1032.54 K, x(As) 0.66667–0.66667 | 11 | 3 |
 | [HCP_A3](#phase-as-ge-hcp-a3); _phase:as-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-as-ge-liquid); _phase:as-ge:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1000.36–2500 K, x(As) 0–1 | 0 | 3 |
 
@@ -204,7 +204,7 @@ _assessment that models this phase_
 - Structure: SiAs · mC24 · C2/m (12); type `st:sias-mc24`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: As 0.5000, Ge 0.5000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1036.76 K, x(As) 0.5–0.5
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-ge:geas)
 
 Names (7): _corpus: _corpus:phase:as-ge:geas  
@@ -237,7 +237,7 @@ _tdb: _tdb:GeAs-21Wu.tdb:GEAS, tdb:GeAs-22Che.tdb:GEAS, tdb:GeAs-84Ans-LB.tdb:GE
 62: CONST GEAS : GE : AS : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1) Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -245,6 +245,10 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102296](https://doi.org/10.1016/j.calphad.2021.102296) L. Wu, Y. Du, M. Premovic, B. Hu, H. Zhang, J. Wang, Y. Liu, Calphad, 74, 102296(2021).  
 _assessment that models this phase_
+- [doi:10.3891/acta.chem.scand.21-0593](https://doi.org/10.3891/acta.chem.scand.21-0593) Tommy Wadsten, M. Vikan, C. Krohn, Åke Nilsson, H. Theorell, R. Blinc et al., The Crystal Structures of SiP2, SiAs2, and GeP., Acta Chem. Scand. 21, 593-594 (1967).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(95)02186-8](https://doi.org/10.1016/0925-8388%2895%2902186-8) K. Fitzner, O.J. Kleppa, Direct synthesis calorimetry of some binary alloys in the systems SiAs, GeAs and SnAs, Journal of Alloys and Compounds 238, 187-192 (1996).  
+_cited as the source of values for this phase_
 - [doi:10.1016/s0021-9614(71)80107-6](https://doi.org/10.1016/s0021-9614%2871%2980107-6) R. Blachnik, A. Schneider, High-temperature enthalpies of As2Te3, Sb2Se3, Bi2Se3, GeAs, GeAs2, and SnAs, The Journal of Chemical Thermodynamics 3, 227-233 (1971).  
 _cited as the source of values for this phase_
 
@@ -256,7 +260,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_55_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: As 0.6667, Ge 0.3333
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1032.54 K, x(As) 0.66667–0.66667
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:as-ge:geas2)
 
 Names (5): _corpus: _corpus:phase:as-ge:geas2  
@@ -287,7 +291,7 @@ _tdb: _tdb:GeAs-21Wu.tdb:GEAS2, tdb:GeAs-22Che.tdb:GEAS2, tdb:GeAs-84Ans-LB.tdb:
 67: CONST GEAS2 : GE : AS : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1) Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022).  
 _assessment that models this phase; reports values for this phase_
@@ -295,6 +299,10 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102296](https://doi.org/10.1016/j.calphad.2021.102296) L. Wu, Y. Du, M. Premovic, B. Hu, H. Zhang, J. Wang, Y. Liu, Calphad, 74, 102296(2021).  
 _assessment that models this phase_
+- [doi:10.1107/s0365110x62000407](https://doi.org/10.1107/s0365110x62000407) J. H. Bryden, The crystal structures of the germanium–arsenic compounds: I. Germanium diarsenide, GeAs\<sub>2\</sub>, Acta Cryst 15, 167-171 (1962).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(95)02186-8](https://doi.org/10.1016/0925-8388%2895%2902186-8) K. Fitzner, O.J. Kleppa, Direct synthesis calorimetry of some binary alloys in the systems SiAs, GeAs and SnAs, Journal of Alloys and Compounds 238, 187-192 (1996).  
+_cited as the source of values for this phase_
 - [doi:10.1016/s0021-9614(71)80107-6](https://doi.org/10.1016/s0021-9614%2871%2980107-6) R. Blachnik, A. Schneider, High-temperature enthalpies of As2Te3, Sb2Se3, Bi2Se3, GeAs, GeAs2, and SnAs, The Journal of Chemical Thermodynamics 3, 227-233 (1971).  
 _cited as the source of values for this phase_
 

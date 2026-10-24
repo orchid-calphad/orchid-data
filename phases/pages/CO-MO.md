@@ -12,7 +12,7 @@ Table: Phases of the Co–Mo system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-mo-bcc-a2); _phase:co-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.76 K, x(Mo) 0.92756–1 | 4 | 4 |
+| [BCC_A2](#phase-co-mo-bcc-a2); _phase:co-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.76 K, x(Mo) 0.92756–1 | 0 | 4 |
 | [CO3MO_D019](#phase-co-mo-co3mo-d019); _phase:co-mo:co3mo-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1320.71 K, x(Mo) 0.25–0.25 | 0 | 4 |
 | [MU_D85](#phase-co-mo-d85-mu); _phase:co-mo:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1787.02 K, x(Mo) 0.40996–0.49553 | 4 | 4 |
 | [SIGMA_D8B](#phase-co-mo-d8b-sigma); _phase:co-mo:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1270–1892.98 K, x(Mo) 0.62346–0.64346 | 4 | 2 |
@@ -26,11 +26,10 @@ Table: Phases of the Co–Mo system (8)
 - Id: `phase:co-mo:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–3999.76 K, x(Mo) 0.92756–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-mo:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:co-mo:bcc-a2  
-_paper: _paper:10.1361/105497103770330505:ε  
+Names (5): _corpus: _corpus:phase:co-mo:bcc-a2  
 _tdb: _tdb:CoMo-03Dav-LB.tdb:BCC_A2, tdb:CoMo-03Dav-alt.tdb:BCC_A2, tdb:CoMo-99Dav-alt.tdb:BCC_A2, tdb:CoMo-99Dav.tdb:BCC_A2  
 
 
@@ -64,14 +63,12 @@ _tdb: _tdb:CoMo-03Dav-LB.tdb:BCC_A2, tdb:CoMo-03Dav-alt.tdb:BCC_A2, tdb:CoMo-99D
 36: CONST BCC_A2 : CO MO% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1361/105497103770330505](https://doi.org/10.1361/105497103770330505) A. V. Davydov, U. R. Kattner, Revised thermodynamic description for the Co-Mo system, JPE 24, 209-211 (2003).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1361/105497199770335893](https://doi.org/10.1361/105497199770335893) A. Davydov, U. R. Kattner, Thermodynamic assessment of the Co-Mo system, JPE 20, 5-16 (1999).  
 _assessment that models this phase_
-- [doi:10.1007/bf02881194](https://doi.org/10.1007/bf02881194) Leo Brewer, R. H. Lamoreaux, R. Ferro, R. Marazza, The As-Mo system (Arsenic-Molybdenum), Bulletin of Alloy Phase Diagrams 1, 76-78 (1980).  
-_cited as the source of values for this phase_
 
 ## CO3MO_D019 (Co–Mo)
 

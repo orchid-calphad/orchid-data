@@ -15,7 +15,7 @@ Table: Phases of the Sc–W system (4)
 | [BCC_A2](#phase-sc-w-bcc-a2); _phase:sc-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-sc-w-fcc-a1); _phase:sc-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-sc-w-hcp-a3); _phase:sc-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1615.99 K, x(W) 0–0.00093 | 0 | 2 |
-| [LIQUID](#phase-sc-w-liquid); _phase:sc-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1783.59–4000 K, x(W) 0–1 | 0 | 2 |
+| [LIQUID](#phase-sc-w-liquid); _phase:sc-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1783.59–4000 K, x(W) 0–1 | 2 | 2 |
 
 ## BCC_A2 (Sc–W)
 
@@ -127,10 +127,11 @@ _assessment that models this phase_
 - Id: `phase:sc-w:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1783.59–4000 K, x(W) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sc-w:liquid)
 
-Names (3): _corpus: _corpus:phase:sc-w:liquid  
+Names (4): _corpus: _corpus:phase:sc-w:liquid  
+_paper: _paper:10.1007/s11669-014-0340-8:liquid  
 _tdb: _tdb:ScW-00Kri.tdb:LIQUID, tdb:ScW-15Wan.tdb:LIQUID  
 
 
@@ -153,7 +154,7 @@ _tdb: _tdb:ScW-00Kri.tdb:LIQUID, tdb:ScW-15Wan.tdb:LIQUID
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-014-0340-8](https://doi.org/10.1007/s11669-014-0340-8) S. L. Wang, L. J. Zhou, Y. Ye, X. H. Wang, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Sc-M (M: Cr, Gd, Mo, W and Zr) Systems, J. Phase Equilib. Diffus. 36, 3-9 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-2000-910311](https://doi.org/10.1515/ijmr-2000-910311) N. Krishnamurthy, T. Kundu, A. Awasthi, S.P. Garg, Z. Metallkd., 91, 234-40(2000).  
 _assessment that models this phase_
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Li2Te.html · Markdown: https://
 
 5 accepted literature formation-enthalpy value(s) (model 1, DFT 4); Materials Project -113.668 kJ/mol-atom (mp-aaaaadti); OQMD -100.679 kJ/mol-atom (oqmd-11316).
 
-Systems: [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html)
+Systems: [Li–Te](https://data.orchid-project.org/systems/LI-TE.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Li2Te reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -118.949 kJ/mol-atom | Li2Te | 298.15 | model | CALPHAD | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 18 |  |
-| -115.667 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Morachevskii 2022_ | Table 2, p. 5, row 15 |  |
-| -113.61 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 17 |  |
-| -100.59 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 16 |  |
-| -100.012 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 14 |  |
+| -118.949 kJ/mol-atom | Li2Te | 298.15 | model | CALPHAD | [Li–Te](https://data.orchid-project.org/systems/LI-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 18 |  |
+| -115.667 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Li–Te](https://data.orchid-project.org/systems/LI-TE.html) | [1] Yu 2022; _cites Morachevskii 2022_ | Table 2, p. 5, row 15 |  |
+| -113.61 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Li–Te](https://data.orchid-project.org/systems/LI-TE.html) | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 17 |  |
+| -100.59 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Li–Te](https://data.orchid-project.org/systems/LI-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 16 |  |
+| -100.012 kJ/mol-atom | Li2Te | 0 | DFT | First-principles | [Li–Te](https://data.orchid-project.org/systems/LI-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 14 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Li2Te
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -118.949 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -115.667 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -113.61 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -100.59 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -100.012 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -118.949 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -115.667 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -113.61 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -100.59 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -100.012 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

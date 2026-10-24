@@ -1,10 +1,10 @@
 # Al–Ga–U system
 
-> Al–Ga–U system: 65 accepted literature values (crystal structure 33, phase equilibrium 28, invariant reaction 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ga–U system: 35 accepted literature values (phase equilibrium 28, invariant reaction 4, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-GA-U.html · Markdown: https://data.orchid-project.org/systems/AL-GA-U.md
 
-65 accepted literature values from 1 paper(s) (experimental 49, model 16); 0 calculated phase diagram(s).
+35 accepted literature values from 1 paper(s) (experimental 31, model 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GA-U.json) · [CSV](https://data.orchid-project.org/systems/AL-GA-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GA-U) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GA-U.html) · [Markdown](https://data.orchid-project.org/systems/AL-GA-U.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 16 |
+| experimental | 31 |
+| model | 4 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 4 |
 | phase equilibrium | 28 |
-| crystal structure | 33 |
+| crystal structure | 3 |
 
 ## Invariant reactions (literature)
 
@@ -71,45 +71,15 @@ Table: Phase equilibrium, Al–Ga–U system
 | Phase composition |  | 1150 | UX3 + UAl2 + UGa2; _UX3: Al 0.17, Ga 0.57, U 0.26; UAl2: Al 0.28, Ga 0.38, U 0.34; UGa2: Al 0.08, Ga 0.58, U 0.34_ | experimental | [1] Moussa 2018 | Table 8, p. 7, row 4 |  |
 | Phase composition |  | 1150 | UX3 + UGa2; _UX3: Al 0.18, Ga 0.57, U 0.25; UGa2: Al 0.09, Ga 0.57, U 0.34_ | experimental | [1] Moussa 2018 | Table 8, p. 7, row 1 |  |
 
-### Crystal structure (33)
+### Crystal structure (3)
 
 Table: Crystal structure, Al–Ga–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice a | 10.59 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice a | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice a | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 9.396 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice a | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice b | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice b | 10.59 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice b | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice b | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 7.575 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice b | 4.212 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
-| Lattice c | 5.658 Å | 303 (\<) | Ga; _alloy: Ga 1, U 0_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
-| Lattice c | 5.634 Å | 995 | βU; _alloy: Ga 0, U 1_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 2 |  |
-| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: Ga 0, U 0.2_ | experimental | [1] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
 | Lattice c | 3.49 Å | 1228.5 | γU; _γU: Al 0.025, Ga 0.076, U 0.899_ | experimental | [1] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.257 Å | 1523 (\<) | UGa3; _alloy: Ga 0.75, U 0.25_ | experimental | [1] Moussa 2018; _cites Frost 1953_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 9.387 Å | 1533 (\<) | U3Ga5; _alloy: Ga 0.625, U 0.375_ | experimental | [1] Moussa 2018; _cites Dayan 1985_ [doi](https://doi.org/10.1016/0022-3115%2885%2990435-0) | Table 1, p. 3, row 9 |  |
-| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: Ga 0, U 0.25_ | experimental | [1] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
-| Lattice c | 4.024 Å | 1629 (\<) | UGa2; _alloy: Ga 0.666667, U 0.333333_ | experimental | [1] Moussa 2018; _cites Buschow 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990140-9) | Table 1, p. 3, row 10 |  |
-| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: Ga 0, U 0.333333_ | experimental | [1] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

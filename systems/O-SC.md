@@ -1,10 +1,10 @@
 # O–Sc system
 
-> O–Sc system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Sc system: 7 accepted literature values (crystal structure 3, phase transition 2, formation 1, heat capacity / entropy / enthalpy 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-SC.html · Markdown: https://data.orchid-project.org/systems/O-SC.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 1, model 5, unspecified 1); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-SC.json) · [CSV](https://data.orchid-project.org/systems/O-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-SC) · [phases (6)](https://data.orchid-project.org/phases/pages/O-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-SC.html) · [Markdown](https://data.orchid-project.org/systems/O-SC.md)
 
@@ -12,13 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 1 |
+| model | 5 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 2 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 1 |
+| crystal structure | 3 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-SC.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-SC.json)
 
@@ -31,6 +36,35 @@ Table: Enthalpies of formation, O–Sc system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Sc2O3 | [Sc2O3](https://data.orchid-project.org/compounds/Sc2O3.html) | -381.715 kJ/mol-atom | 298.15 | model | -382.923 (mp-aaaaaaii) | -367.356 (oqmd-4555) | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
+
+## Other properties
+
+### Phase transition (2)
+
+Table: Phase transition, O–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ A; _alloy: O 0.6, Sc 0.4_ | unspecified | [1] ZINKEVICH 2007; _cites Atou 1994_ | Table 2.3, p. 10, row 2 |  |
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Sc 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Reid 1969_ | Table 2.3, p. 10, row 1 |  |
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, O–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 77 unknown | 298.15 | C-Sc2O3; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 1 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, O–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 35.911 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
+| lattice molar volume | 33.129 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
+| lattice molar volume | 31.781 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Sc 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 1 |  |
 
 ## Sources
 

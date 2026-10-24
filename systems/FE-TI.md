@@ -1,10 +1,10 @@
 # Fe–Ti system
 
-> Fe–Ti system: 506 accepted literature values (invariant reaction 189, formation 129, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ti system: 503 accepted literature values (invariant reaction 189, formation 126, mixing / partial 96, activity / EMF / Gibbs energy 72) and 16 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-TI.html · Markdown: https://data.orchid-project.org/systems/FE-TI.md
 
-506 accepted literature values from 10 paper(s) (experimental 108, model 306, DFT 42, unspecified 50); 16 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+503 accepted literature values from 10 paper(s) (experimental 108, model 305, DFT 40, unspecified 50); 16 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-TI.json) · [CSV](https://data.orchid-project.org/systems/FE-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-TI/FeTi-09Key.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-TI.html) · [Markdown](https://data.orchid-project.org/systems/FE-TI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 108 |
-| model | 306 |
-| DFT | 42 |
+| model | 305 |
+| DFT | 40 |
 | unspecified | 50 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 189 |
 | phase transition | 20 |
-| formation | 129 |
+| formation | 126 |
 | mixing / partial | 96 |
 | activity / EMF / Gibbs energy | 72 |
 
@@ -242,7 +242,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1592 | Liquid+Fe2Ti↔FeTi | Liquid: Ti 0.497; Fe2Ti: Ti 0.373; FeTi: Ti 0.492 | model | [2] BO 2012 | Table 2, p. 5, row 12 |  |
 | 1592 | peritectic: L + C14 -> B2 | L: Fe 0.503; C14: Fe 0.627; B2: Fe 0.508 | model | [3] Witusiewicz 2019; _cites Bo 2012_ [doi](https://doi.org/10.1016/s1003-6326%2811%2961450-7) | Table 4, p. 17, row 20 |  |
 | 1591.6 | Fe2Ti + FeTi + L | Fe2Ti: Ti 0.333333; FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 4, p. 4, row 19 |  |
-| 1590.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.352; Fe2Ti: Ti 0.505; FeTi: Ti 0.497 | experimental | [7] Wang 2011; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868286) | Table 3, p. 6, row 3 |  |
+| 1590.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.505; Fe2Ti: Ti 0.352; FeTi: Ti 0.497 | experimental | [7] Wang 2011; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868286) | Table 3, p. 6, row 3 |  |
 | 1590 | peritectic: λ+Liquid->FeTi | λ: Ti 0.352; Liquid: Ti 0.505; FeTi: Ti 0.497 | model | [1] Kumar 1994; _cites ref. 87Mur_ | Table 5, p. 8, row 14 |  |
 | 1590 | Liquid+Fe2Ti↔FeTi | Fe2Ti: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | unspecified | [2] BO 2012; _cites ref. 26_ | Table 2, p. 5, row 9 |  |
 | 1590 | peritectic: λ+Liquid->FeTi | λ: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | unspecified | [1] Kumar 1994; _cites ref. 54Nis_ | Table 5, p. 8, row 8 |  |
@@ -251,7 +251,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1590 | peritectic: λ+Liquid->FeTi | λ: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | model | [1] Kumar 1994; _cites ref. 82Kub_ | Table 5, p. 8, row 13 |  |
 | 1590 | Fe2Ti + FeTi + L | Fe2Ti: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | experimental | [4] Jonsson 1998; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table IV, p. 5, row 7 |  |
 | 1589.5 | Fe2Ti + FeTi + L | Fe2Ti: Ti 0.333333; FeTi: Ti 0.5 | model | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 4, p. 4, row 22 |  |
-| 1589.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.357; Fe2Ti: Ti 0.511; FeTi: Ti 0.5 | experimental | [7] Wang 2011; _cites Hari 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 3, p. 6, row 1 |  |
+| 1589.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.511; Fe2Ti: Ti 0.357; FeTi: Ti 0.5 | experimental | [7] Wang 2011; _cites Hari 1994_ [doi](https://doi.org/10.1016/0364-5916%2894%2990028-0) | Table 3, p. 6, row 1 |  |
 | 1589 | Liquid+Fe2Ti↔FeTi | Liquid: Ti 0.515; Fe2Ti: Ti 0.37; FeTi: Fe 0.5, Ti 0.5 | unspecified | [2] BO 2012; _cites ref. 22_ | Table 2, p. 5, row 10 |  |
 | 1589 | peritectic: L + C14 -> B2 |  | experimental | [3] Witusiewicz 2019; _cites Hellawell 1957_ [doi](https://doi.org/10.1098/rsta.1957.0004) | Table 4, p. 17, row 11 |  |
 | 1589 | peritectic: L + C14 -> B2 | L: Fe 0.49; C14: Fe 0.645; B2: Fe 0.5 | experimental | [3] Witusiewicz 2019; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868286) | Table 4, p. 17, row 12 |  |
@@ -264,7 +264,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 | 1589 | Fe2Ti + FeTi + L | Fe2Ti: Ti 0.333333; FeTi: Ti 0.5 | experimental | [5] Dumitrescu 1998; _cites Booker 1979_ | Table 4, p. 4, row 18 |  |
 | 1588 | peritectic: λ+Liquid->FeTi | λ: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | unspecified | [1] Kumar 1994; _cites ref. 65Bor_ | Table 5, p. 8, row 12 |  |
 | 1588 | peritectic: L + C14 -> B2 | L: Fe 0.5026; C14: Fe 0.626; B2: Fe 0.5027 | model | [3] Witusiewicz 2019 | Table 4, p. 17, row 21 |  |
-| 1587.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.361; Fe2Ti: Ti 0.505; FeTi: Ti 0.5 | model | [7] Wang 2011 | Table 3, p. 6, row 4 |  |
+| 1587.15 | peritectic: L + Fe2Ti -> FeTi | L: Ti 0.505; Fe2Ti: Ti 0.361; FeTi: Ti 0.5 | model | [7] Wang 2011 | Table 3, p. 6, row 4 |  |
 | 1583 | peritectic: λ+Liquid->FeTi | λ: Fe 0.666667, Ti 0.333333; FeTi: Fe 0.5, Ti 0.5 | unspecified | [1] Kumar 1994; _cites ref. 59Mur_ | Table 5, p. 8, row 10 |  |
 | 1579.95 | L -> β-Fe + C14 | L: Ti 0.1465; β-Fe: Ti 0.0803; C14: Ti 0.2643 | model | [9] Liang 2024 | Table 5, p. 10, row 5 |  |
 | 1579.8 | L + C14 -> TiFe_B2 | L: Ti 0.516; C14: Ti 0.3766; TiFe_B2: Ti 0.4971 | model | [9] Liang 2024 | Table 5, p. 10, row 3 |  |
@@ -396,7 +396,7 @@ Table: Invariant reactions reported in the literature for the Fe–Ti system (18
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ti system (129)
+Table: Enthalpies of formation, Fe–Ti system (126)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -415,31 +415,31 @@ Table: Enthalpies of formation, Fe–Ti system (129)
 | BCC_4SL |  | -12.7355 kJ/mol (basis unstated) |  | DFT |  |  | [9] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 4, p. 9, row 4 |  |
 | BCC_4SL |  | -4.53706 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 7 |  |
 | BCC_4SL |  | -4.35467 kJ/mol (basis unstated) |  | DFT |  |  | [9] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 4, p. 9, row 6 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -34.52 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 31 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -34.52 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 31 |  |
 | Fe2Ti |  | -34.3 kJ/mol (basis unstated) | 1413.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 13 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -34.168 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 29 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -33.93 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 32 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -34.168 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 29 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -33.93 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 32 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -33.9 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [4] Jonsson 1998 | Table I, p. 2, row 10 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.84 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 30 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.815 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 24 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.84 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 30 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.815 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 24 |  |
 | Fe2Ti |  | -31.6 kJ/mol (basis unstated) | 1514.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 9 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.513 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 25 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.5 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [4] Jonsson 1998 | Table I, p. 2, row 8 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.513 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 25 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -31.5 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [4] Jonsson 1998 | Table I, p. 2, row 8 |  |
 | Fe2Ti |  | -30.8 kJ/mol (basis unstated) | 973.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 11 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -30.13 kJ/mol-atom | 0 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 10 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -29.752 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 23 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -29.273 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998 | Table 3, p. 4, row 33 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -29.752 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 23 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -29.273 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998 | Table 3, p. 4, row 33 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -29.11 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 7 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -28.42 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 4 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -27.6 kJ/mol-atom | 1514 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021; _cites Gachon 1983_ | Table 8, p. 8, row 9 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -27.6 kJ/mol-atom ± 1 | 1514 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [4] Jonsson 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table I, p. 2, row 7 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -27.6 kJ/mol-atom ± 1 | 1514 | experimental | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [4] Jonsson 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table I, p. 2, row 7 |  |
 | Fe2Ti |  | -27.6 kJ/mol (basis unstated) | 1514.15 | experimental |  |  | [7] Wang 2011; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 4, p. 6, row 10 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -27.6 kJ/mol-atom ± 1 | 1514 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 3, p. 4, row 22 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -26.863 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998 | Table 3, p. 4, row 26 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -27.6 kJ/mol-atom ± 1 | 1514 | experimental | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 3, p. 4, row 22 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -26.863 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998 | Table 3, p. 4, row 26 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -26.13 kJ/mol-atom | 1514 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 8 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -26.01 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 5 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -25.4 kJ/mol-atom ± 2 | 1413 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [4] Jonsson 1998; _cites Dinsdale 1981_ | Table I, p. 2, row 9 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -25.4 kJ/mol-atom ± 2 | 1413 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Dinsdale 1985_ | Table 3, p. 4, row 27 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -25.4 kJ/mol-atom ± 2 | 1413 | experimental | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Dinsdale 1985_ | Table 3, p. 4, row 27 |  |
 | Fe2Ti |  | -25.394 kJ/mol (basis unstated) | 1413.15 | experimental |  |  | [7] Wang 2011; _cites Dinsdale 1985_ | Table 4, p. 6, row 14 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -25.39 kJ/mol-atom | 1413 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 6 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -25 kJ/mol-atom | 0 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021; _cites Miedema 1981_ | Table 8, p. 8, row 11 |  |
@@ -447,55 +447,55 @@ Table: Enthalpies of formation, Fe–Ti system (129)
 | Fe2Ti |  | -21.294 kJ/mol (basis unstated) | 973.15 | experimental |  |  | [7] Wang 2011; _cites Dinsdale 1985_ | Table 4, p. 6, row 12 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -21.29 kJ/mol-atom | 973 | experimental | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 3 |  |
 | Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | -21.26 kJ/mol-atom | 973 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [8] Santhy 2021 | Table 8, p. 8, row 2 |  |
-| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | 7.179 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -29.56 (oqmd-1590944) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 28 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -50.17 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Watson 1998_ [doi](https://doi.org/10.1103/physrevb.58.5981) | Table 8, p. 8, row 23 |  |
+| Fe2Ti | [Fe2Ti](https://data.orchid-project.org/compounds/Fe2Ti.html) | 7.179 kJ/mol-atom | 1413 | model | -27.342 (mp-aaaaadqk) | -28.736 (oqmd-18688) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 28 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -50.17 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Watson 1998_ [doi](https://doi.org/10.1103/physrevb.58.5981) | Table 8, p. 8, row 23 |  |
 | FeTi |  | -46.5 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021; _cites Ohtani 2004_ [doi](https://doi.org/10.2355/isijinternational.44.1738) | Table 8, p. 8, row 22 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -44.58 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021 | Table 8, p. 8, row 20 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -44.58 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021 | Table 8, p. 8, row 20 |  |
 | FeTi |  | -44.58 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 16 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -32.19 kJ/mol-atom | 1440 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021 | Table 8, p. 8, row 16 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -32.1 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021 | Table 8, p. 8, row 18 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.7 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998 | Table I, p. 2, row 4 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.691 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 13 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.639 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 20 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.6 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998 | Table I, p. 2, row 6 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.1 kJ/mol-atom ± 1.3 | 1450 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table I, p. 2, row 3 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.1 kJ/mol-atom ± 1.3 | 1450 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 3, p. 4, row 8 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31 kJ/mol-atom | 1440 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Gachon 1983_ | Table 8, p. 8, row 17 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -32.19 kJ/mol-atom | 1440 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021 | Table 8, p. 8, row 16 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -32.1 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021 | Table 8, p. 8, row 18 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.7 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998 | Table I, p. 2, row 4 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.691 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 13 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.639 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 20 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.6 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998 | Table I, p. 2, row 6 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.1 kJ/mol-atom ± 1.3 | 1450 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table I, p. 2, row 3 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31.1 kJ/mol-atom ± 1.3 | 1450 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Gachon 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2987031-1) | Table 3, p. 4, row 8 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -31 kJ/mol-atom | 1440 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Gachon 1983_ | Table 8, p. 8, row 17 |  |
 | FeTi |  | -31 kJ/mol (basis unstated) | 1450.15 | experimental |  |  | [7] Wang 2011; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 4, p. 6, row 4 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.868 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998 | Table 3, p. 4, row 14 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.816 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998 | Table 3, p. 4, row 21 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.59 kJ/mol-atom | 973 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 15 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.868 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998 | Table 3, p. 4, row 14 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.816 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998 | Table 3, p. 4, row 21 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -29.59 kJ/mol-atom | 973 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 15 |  |
 | FeTi |  | -29.588 kJ/mol (basis unstated) | 973.15 | experimental |  |  | [7] Wang 2011; _cites Dinsdale 1985_ | Table 4, p. 6, row 6 |  |
 | FeTi |  | -28.4 kJ/mol (basis unstated) | 1450.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 3 |  |
 | FeTi |  | -28.3 kJ/mol (basis unstated) | 1513.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 7 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -28 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Miedema 1981_ | Table 8, p. 8, row 21 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.81 kJ/mol-atom | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 19 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -28 kJ/mol-atom | 0 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Miedema 1981_ | Table 8, p. 8, row 21 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.81 kJ/mol-atom | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Dinsdale 1985_ | Table 8, p. 8, row 19 |  |
 | FeTi |  | -27.807 kJ/mol (basis unstated) | 1513.15 | experimental |  |  | [7] Wang 2011; _cites Dinsdale 1985_ | Table 4, p. 6, row 8 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.8 kJ/mol-atom ± 4 | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998; _cites Dinsdale 1981_ | Table I, p. 2, row 5 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.8 kJ/mol-atom ± 4 | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Dinsdale 1985_ | Table 3, p. 4, row 15 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.67 kJ/mol-atom | 973 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021 | Table 8, p. 8, row 14 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.51 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 12 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.297 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 19 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -25.692 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 11 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -25.639 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 18 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.8 kJ/mol-atom ± 4 | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998; _cites Dinsdale 1981_ | Table I, p. 2, row 5 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.8 kJ/mol-atom ± 4 | 1513 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Dinsdale 1985_ | Table 3, p. 4, row 15 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.67 kJ/mol-atom | 973 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021 | Table 8, p. 8, row 14 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.51 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 12 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -27.297 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 19 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -25.692 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 11 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -25.639 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 18 |  |
 | FeTi |  | -25.6 kJ/mol (basis unstated) | 973.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 5 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.58 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021 | Table 8, p. 8, row 12 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.486 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 10 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.4 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998 | Table I, p. 2, row 2 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.399 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 6 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.272 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 17 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.58 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021 | Table 8, p. 8, row 12 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.486 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 10 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.4 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998 | Table I, p. 2, row 2 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.399 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Jonsson 1998_ | Table 3, p. 4, row 6 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -24.272 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 17 |  |
 | FeTi |  | -23.6 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [7] Wang 2011 | Table 4, p. 6, row 1 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -22.576 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998 | Table 3, p. 4, row 7 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -22.25 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 5 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [4] Jonsson 1998; _cites Kubaschewski 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990038-9) | Table I, p. 2, row 1 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Kubaschewski 1957_ | Table 3, p. 4, row 1 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -22.576 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998 | Table 3, p. 4, row 7 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -22.25 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Haft 1994_ | Table 3, p. 4, row 5 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [4] Jonsson 1998; _cites Kubaschewski 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990038-9) | Table I, p. 2, row 1 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.3 kJ/mol-atom ± 0.6 | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Kubaschewski 1957_ | Table 3, p. 4, row 1 |  |
 | FeTi |  | -20.292 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [7] Wang 2011; _cites Kubaschewski 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990038-9) | Table 4, p. 6, row 2 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.29 kJ/mol-atom | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [8] Santhy 2021; _cites Dench 1955_ | Table 8, p. 8, row 13 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -19.225 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 3 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -18.39 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 4 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -16.824 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 2 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | 12.055 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 9 |  |
-| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | 16.375 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.468 (oqmd-1220342) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 16 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -20.29 kJ/mol-atom | 298.15 | experimental | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [8] Santhy 2021; _cites Dench 1955_ | Table 8, p. 8, row 13 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -19.225 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Balasubramanian 1989_ | Table 3, p. 4, row 3 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -18.39 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Rand 1998_ | Table 3, p. 4, row 4 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | -16.824 kJ/mol-atom | 298.15 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 2 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | 12.055 kJ/mol-atom | 1450 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 9 |  |
+| FeTi | [FeTi](https://data.orchid-project.org/compounds/FeTi.html) | 16.375 kJ/mol-atom | 1513 | model | -40.604 (mp-aaaaaalt) | -43.34 (oqmd-19423) | [5] Dumitrescu 1998; _cites Murray 1987_ | Table 3, p. 4, row 16 |  |
 | FeTi |  | 74.45 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 18 |  |
 | FeTi |  | 95 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 17 |  |
 | Fe₂Ti |  | -30.131 kJ/mol-atom | 0 | DFT |  |  | [8] Santhy 2021 | Table 5, p. 3, row 10 |  |
@@ -515,14 +515,11 @@ Table: Enthalpies of formation, Fe–Ti system (129)
 | Laves C14 |  | 5 kJ/mol (basis unstated) |  | model |  |  | [9] Liang 2024; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 4, p. 9, row 29 |  |
 | Laves C14 |  | 5 kJ/mol (basis unstated) |  | model |  |  | [9] Liang 2024; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 4, p. 9, row 23 |  |
 | Laves C14 |  | 5 kJ/mol (basis unstated) |  | model |  |  | [9] Liang 2024; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 4, p. 9, row 26 |  |
-| Laves C14 |  | 5 kJ/mol (basis unstated) |  | model |  |  | [9] Liang 2024; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 4, p. 9, row 17 |  |
 | Laves C14 |  | 5 kJ/mol (basis unstated) |  | model |  |  | [9] Liang 2024; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.10.003) | Table 4, p. 9, row 20 |  |
 | Laves C14 |  | 19.3941 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 33 |  |
 | Laves C14 |  | 19.3941 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 31 |  |
 | Laves C14 |  | 20.9002 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 24 |  |
 | Laves C14 |  | 20.9002 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 22 |  |
-| Laves C14 |  | 27.4026 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 16 |  |
-| Laves C14 |  | 27.4026 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 18 |  |
 | Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 21 |  |
 | Laves C14 |  | 28.3674 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 19 |  |
 | Laves C14 |  | 44.5977 kJ/mol (basis unstated) | 0 | DFT |  |  | [9] Liang 2024 | Table 4, p. 9, row 15 |  |

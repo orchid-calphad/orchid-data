@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ge2Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -69.577 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -69.577 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of Ge2Y
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaapcv | -51.377 | -0.532491 | I4_1/amd | 10.474 | 0.1086 | no |
-| OQMD | oqmd-1795069 | -59.996 | -0.621822 | Cmcm | 1.706 | 0.0177 | yes |
+| Materials Project | mp-aaaaapcv | -51.377 | -0.532491 | I4_1/amd | 10.4744 | 0.1086 | no |
+| OQMD | oqmd-1795069 | -59.996 | -0.621822 | Cmcm | 1.7063 | 0.0177 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

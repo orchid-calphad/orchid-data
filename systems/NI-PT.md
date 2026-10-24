@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/NI-PT.html · Markdown: https://data.orchid-project.org/systems/NI-PT.md
 
-26 accepted literature values from 2 paper(s) (experimental 6, model 14, DFT 6); 1 calculated phase diagram(s).
+26 accepted literature values from 2 paper(s) (experimental 6, model 8, DFT 12); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-PT.json) · [CSV](https://data.orchid-project.org/systems/NI-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-PT/NiPt-09Lu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/NI-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-PT.html) · [Markdown](https://data.orchid-project.org/systems/NI-PT.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 14 |
-| DFT | 6 |
+| model | 8 |
+| DFT | 12 |
 
 Table: Accepted values by property group
 
@@ -57,19 +57,19 @@ Table: Enthalpies of formation, Ni–Pt system (17)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ni3Pt–L12 | [Ni3Pt](https://data.orchid-project.org/compounds/Ni3Pt.html) | -10.9 kJ/mol-atom | 0 | model | -6.691 (mp-aaaaasyg) | -7.337 (oqmd-19455) | [1] Lu 2009 | Table 1, p. 3, row 12 |  |
-| Ni3Pt–L12 | [Ni3Pt](https://data.orchid-project.org/compounds/Ni3Pt.html) | -8.75 kJ/mol-atom | 0 | model | -6.691 (mp-aaaaasyg) | -7.337 (oqmd-19455) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 5 |  |
-| Ni3Pt–L12 | [Ni3Pt](https://data.orchid-project.org/compounds/Ni3Pt.html) | -8.27 kJ/mol-atom | 0 | model | -6.691 (mp-aaaaasyg) | -7.337 (oqmd-19455) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 1 |  |
+| Ni3Pt–L12 |  | -8.75 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 5 |  |
+| Ni3Pt–L12 |  | -8.27 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 1 |  |
 | Ni3Pt–L12 |  | -6.57 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 1, p. 3, row 8 |  |
-| NiPt | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -9.27 kJ/mol-atom | 0 | experimental | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [2] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13 |  |
+| NiPt | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -9.27 kJ/mol-atom | 298.15 | experimental | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [2] Kim 2011; _cites Walker 1970_ [doi](https://doi.org/10.1016/0001-6160%2870%2990156-2) | Table 4, p. 4, row 13 |  |
 | NiPt |  | -8.98 kJ/mol-atom | 0 | DFT |  |  | [2] Kim 2011; _cites Lu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.06.002) | Table 4, p. 4, row 12 |  |
-| NiPt3–L12 | [NiPt3](https://data.orchid-project.org/compounds/NiPt3.html) | -11.98 kJ/mol-atom | 0 | model | -6.12 (mp-aaacpmpx) | -6.845 (oqmd-347552) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7 |  |
-| NiPt3–L12 | [NiPt3](https://data.orchid-project.org/compounds/NiPt3.html) | -8.4 kJ/mol-atom | 0 | model | -6.12 (mp-aaacpmpx) | -6.845 (oqmd-347552) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3 |  |
+| NiPt3–L12 |  | -11.98 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7 |  |
+| NiPt3–L12 |  | -8.4 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3 |  |
 | NiPt3–L12 | [NiPt3](https://data.orchid-project.org/compounds/NiPt3.html) | -8.3 kJ/mol-atom | 0 | model | -6.12 (mp-aaacpmpx) | -6.845 (oqmd-347552) | [1] Lu 2009 | Table 1, p. 3, row 14 |  |
 | NiPt3–L12 |  | -6.31 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 1, p. 3, row 10 |  |
 | NiPt–L10 | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -13.5 kJ/mol-atom | 0 | model | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [1] Lu 2009 | Table 1, p. 3, row 13 |  |
-| NiPt–L10 | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -11.76 kJ/mol-atom | 0 | model | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 6 |  |
-| NiPt–L10 | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -11.42 kJ/mol-atom | 0 | model | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 2 |  |
-| NiPt–L10 | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -9.27 kJ/mol-atom | 0 | experimental | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [1] Lu 2009; _cites Hultgren 1973_ | Table 1, p. 3, row 15 |  |
+| NiPt–L10 |  | -11.76 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 6 |  |
+| NiPt–L10 |  | -11.42 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 2 |  |
+| NiPt–L10 | [NiPt](https://data.orchid-project.org/compounds/NiPt.html) | -9.27 kJ/mol-atom | 298.15 | experimental | -9.177 (mp-aaaaabkj) | -9.756 (oqmd-17788) | [1] Lu 2009; _cites Hultgren 1973_ | Table 1, p. 3, row 15 |  |
 | NiPt–L10 |  | -9.23 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009; _cites Lu 1993_ [doi](https://doi.org/10.1209/0295-5075/21/2/017) | Table 1, p. 3, row 4 |  |
 | NiPt–L10 |  | -8.98 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 1, p. 3, row 11 |  |
 | NiPt–L10 |  | -7.64 kJ/mol-atom | 0 | DFT |  |  | [1] Lu 2009 | Table 1, p. 3, row 9 |  |

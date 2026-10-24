@@ -1,10 +1,10 @@
 # Cu–La system
 
-> Cu–La system: 28 accepted literature values (invariant reaction 19, phase transition 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–La system: 40 accepted literature values (invariant reaction 19, crystal structure 12, phase transition 9) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-LA.html · Markdown: https://data.orchid-project.org/systems/CU-LA.md
 
-28 accepted literature values from 1 paper(s) (experimental 17, model 11); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+40 accepted literature values from 2 paper(s) (experimental 17, model 11, unspecified 12); 3 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-LA.json) · [CSV](https://data.orchid-project.org/systems/CU-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-LA/CuLa-12An.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CU-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-LA.html) · [Markdown](https://data.orchid-project.org/systems/CU-LA.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 17 |
 | model | 11 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 19 |
 | phase transition | 9 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -142,11 +144,31 @@ Table: Phase transition, Cu–La system
 | Phase transition | 1194 K | 1194 | Cu6La | experimental | [1] Du 1999; _cites Qi 1989_ | p. 4 | “Fig. 6a and b presents the enthalpies and entropies of fusion of two compounds Cu 2 La and Cu 6 La at their melting temperature 1102 and 1194 K with the experimental data \[11-14\], respectively.” |
 | Phase transition | 1194 K | 1194 | liq.->βCu6La; _L: La 0.1429; βCu6La: La 0.142857_ | model | [1] Du 1999 | Table 2, p. 4, row 8 |  |
 
+### Crystal structure (12)
+
+Table: Crystal structure, Cu–La system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.165 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23 |  |
+| Lattice a | 7.543 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16 |  |
+| Lattice a | 4.346 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17 |  |
+| Lattice a | 5.189 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19 |  |
+| Lattice a | 5.143 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18 |  |
+| Lattice a | 5.1467 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22 |  |
+| Lattice c | 10.23 Å |  | β-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 23 |  |
+| Lattice c | 5.724 Å | 298.15 | LaCu; _alloy: La 0.5_ | unspecified | [2] An 2012 | Table 2, p. 5, row 16 |  |
+| Lattice c | 3.807 Å | 298.15 | LaCu2; _alloy: La 0.333333_ | unspecified | [2] An 2012 | Table 2, p. 5, row 17 |  |
+| Lattice c | 4.107 Å | 298.15 | LaCu5; _alloy: La 0.166667_ | unspecified | [2] An 2012 | Table 2, p. 5, row 19 |  |
+| Lattice c | 8.144 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 18 |  |
+| Lattice c | 8.146 Å | 298.15 | α-LaCu6; _alloy: La 0.142857_ | unspecified | [2] An 2012 | Table 2, p. 5, row 22 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Zhenmin Du, Yunhua Xu, Weijing Zhang, Thermodynamic assessment of the Cu–La system, Journal of Alloys and Compounds 289, 88-95 (1999). [doi:10.1016/s0925-8388(99)00080-8](https://doi.org/10.1016/s0925-8388%2899%2900080-8)
+2. Xuehui An, Qian Li, Jieyu Zhang, Shuanglin Chen, Ying Yang, Phase equilibria of the La–Ni–Cu ternary system at 673 K: Thermodynamic modeling and experimental validation, Calphad 36, 8-15 (2012). [doi:10.1016/j.calphad.2011.10.004](https://doi.org/10.1016/j.calphad.2011.10.004)
 
 ## Please cite
 

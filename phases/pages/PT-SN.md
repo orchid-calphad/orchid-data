@@ -12,15 +12,15 @@ Table: Phases of the Pt–Sn system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-pt-sn-a4-diamond); _phase:pt-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 2 | 4 |
-| [BCT_A5](#phase-pt-sn-a5-bct); _phase:pt-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 14 | 4 |
+| [DIAMOND_A4](#phase-pt-sn-a4-diamond); _phase:pt-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 1 | 4 |
+| [BCT_A5](#phase-pt-sn-a5-bct); _phase:pt-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 13 | 4 |
 | [BCC_A2](#phase-pt-sn-bcc-a2); _phase:pt-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-pt-sn-fcc-a1); _phase:pt-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2048.86 K, x(Sn) 0–0.12769 | 11 | 4 |
 | [HCP_A3](#phase-pt-sn-hcp-a3); _phase:pt-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-pt-sn-liquid); _phase:pt-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 504.27–2500 K, x(Sn) 0–1 | 99 | 4 |
-| [PT2SN3](#phase-pt-sn-pt2sn3); _phase:pt-sn:pt2sn3_ | Pt2Sn3 · hP10 · P6_3/mmc (194) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1176.06 K, x(Sn) 0.6–0.6 | 30 | 4 |
+| [PT2SN3](#phase-pt-sn-pt2sn3); _phase:pt-sn:pt2sn3_ | Pt2Sn3 · hP10 · P6_3/mmc (194) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–1176.06 K, x(Sn) 0.6–0.6 | 36 | 4 |
 | [PT3SN_L12](#phase-pt-sn-pt3sn-l12); _phase:pt-sn:pt3sn-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1684.88 K, x(Sn) 0.25–0.25 | 41 | 4 |
-| [PTSN_B81](#phase-pt-sn-ptsn-b81); _phase:pt-sn:ptsn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1553.29 K, x(Sn) 0.5–0.5 | 53 | 4 |
+| [PTSN_B81](#phase-pt-sn-ptsn-b81); _phase:pt-sn:ptsn-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1553.29 K, x(Sn) 0.5–0.5 | 46 | 4 |
 | [PTSN2_C1](#phase-pt-sn-ptsn2-c1); _phase:pt-sn:ptsn2-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1021.21 K, x(Sn) 0.66667–0.66667 | 33 | 4 |
 | [PTSN4_D1C](#phase-pt-sn-ptsn4-d1c); _phase:pt-sn:ptsn4-d1c_ | PtSn4 · D1_c · oC20 · Ccce (68) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–814.06 K, x(Sn) 0.8–0.8 | 41 | 4 |
 
@@ -30,11 +30,11 @@ Table: Phases of the Pt–Sn system (11)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 2 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-sn:a4-diamond)
 
-Names (8): _corpus: _corpus:phase:pt-sn:a4-diamond, corpus:phase:pt-sn:diamond-a4  
-_paper: _paper:10.1016/j.jallcom.2006.11.027:αSn, paper:10.1016/j.jallcom.2020.157064:(α\_Sn)  
+Names (7): _corpus: _corpus:phase:pt-sn:a4-diamond, corpus:phase:pt-sn:diamond-a4  
+_paper: _paper:10.1016/j.jallcom.2020.157064:(α\_Sn)  
 _tdb: _tdb:PtSn-01Su.tdb:DIAMOND_A4, tdb:PtSn-08Gro.tdb:DIAMOND_A4, tdb:PtSn-21Cui.tdb:DIAMOND_A4, tdb:PtSn-22Hu.tdb:DIAMOND_A4  
 
 
@@ -70,10 +70,10 @@ _tdb: _tdb:PtSn-01Su.tdb:DIAMOND_A4, tdb:PtSn-08Gro.tdb:DIAMOND_A4, tdb:PtSn-21C
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2006.11.027](https://doi.org/10.1016/j.jallcom.2006.11.027) Vincent Grolier, Rainer Schmid-Fetzer, Thermodynamic analysis of the Pt–Sn system, Journal of Alloys and Compounds 450, 264-271 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2020.157064](https://doi.org/10.1016/j.jallcom.2020.157064) Senlin Cui, Matthew Lynn, Ralph E. Napolitano, Experimental investigation and thermodynamic modeling of the binary Pt–Sn system, Journal of Alloys and Compounds 854, 157064 (2021).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2006.11.027](https://doi.org/10.1016/j.jallcom.2006.11.027) Vincent Grolier, Rainer Schmid-Fetzer, Thermodynamic analysis of the Pt–Sn system, Journal of Alloys and Compounds 450, 264-271 (2008).  
+_assessment that models this phase_
 - [doi:10.1016/S0925-8388(01)01201-4](https://doi.org/10.1016/S0925-8388%2801%2901201-4) X. Su, F. Yin, M. Huang, Z. Li, C. Chen, J. Alloys Compd., 325, 109-12(2001).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
@@ -85,11 +85,11 @@ _cited as the source of values for this phase_
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1
-- Literature: 14 values (14 accepted) from 3 papers
+- Literature: 13 values (13 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-sn:a5-bct)
 
-Names (10): _corpus: _corpus:phase:pt-sn:a5-bct, corpus:phase:pt-sn:bct-a5  
-_paper: _paper:10.1016/j.jallcom.2006.11.027:β-Sn, paper:10.1016/j.jallcom.2006.11.027:βSn, paper:10.1016/j.jallcom.2020.157064:(β\_Sn), paper:10.1016/s0925-8388(01)01201-4:βSn (bct)  
+Names (9): _corpus: _corpus:phase:pt-sn:a5-bct, corpus:phase:pt-sn:bct-a5  
+_paper: _paper:10.1016/j.jallcom.2006.11.027:β-Sn, paper:10.1016/j.jallcom.2020.157064:(β\_Sn), paper:10.1016/s0925-8388(01)01201-4:βSn (bct)  
 _tdb: _tdb:PtSn-01Su.tdb:BCT_A5, tdb:PtSn-08Gro.tdb:BCT_A5, tdb:PtSn-21Cui.tdb:BCT_A5, tdb:PtSn-22Hu.tdb:BCT_A5  
 
 
@@ -127,13 +127,13 @@ Example references (7 of 7; assessments first):
 
 - [doi:10.1016/j.jallcom.2020.157064](https://doi.org/10.1016/j.jallcom.2020.157064) Senlin Cui, Matthew Lynn, Ralph E. Napolitano, Experimental investigation and thermodynamic modeling of the binary Pt–Sn system, Journal of Alloys and Compounds 854, 157064 (2021).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.jallcom.2006.11.027](https://doi.org/10.1016/j.jallcom.2006.11.027) Vincent Grolier, Rainer Schmid-Fetzer, Thermodynamic analysis of the Pt–Sn system, Journal of Alloys and Compounds 450, 264-271 (2008).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(01)01201-4](https://doi.org/10.1016/S0925-8388%2801%2901201-4) X. Su, F. Yin, M. Huang, Z. Li, C. Chen, J. Alloys Compd., 325, 109-12(2001).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2006.11.027](https://doi.org/10.1016/j.jallcom.2006.11.027) Vincent Grolier, Rainer Schmid-Fetzer, Thermodynamic analysis of the Pt–Sn system, Journal of Alloys and Compounds 450, 264-271 (2008).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1002/zaac.19070540130](https://doi.org/10.1002/zaac.19070540130) Fr. Doerinckel, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen über einige Platinlegierungen, Z. Anorg. Chem. 54, 333-366 (1907).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0925-8388(94)90837-0](https://doi.org/10.1016/0925-8388%2894%2990837-0) Ph. Durussel, R. Massara, P. Feschotte, Le système binaire PtSn, Journal of Alloys and Compounds 215, 175-179 (1994).  
 _cited as the source of values for this phase_
@@ -364,7 +364,7 @@ _cited as the source of values for this phase_
 - Structure: Pt2Sn3 · hP10 · P6_3/mmc (194); type `st:pt2sn3-hp10`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Pt 0.4000, Sn 0.6000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1176.06 K, x(Sn) 0.6–0.6
-- Literature: 30 values (30 accepted) from 4 papers
+- Literature: 36 values (36 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-sn:pt2sn3)
 
 Names (11): _corpus: _corpus:phase:pt-sn:pt2sn3  
@@ -412,6 +412,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2006.11.027](https://doi.org/10.1016/j.jallcom.2006.11.027) Vincent Grolier, Rainer Schmid-Fetzer, Thermodynamic analysis of the Pt–Sn system, Journal of Alloys and Compounds 450, 264-271 (2008).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f) Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022).  
+_reports values for this phase_
 - [doi:10.1002/zaac.19070540130](https://doi.org/10.1002/zaac.19070540130) Fr. Doerinckel, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen über einige Platinlegierungen, Z. Anorg. Chem. 54, 333-366 (1907).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(70)90094-9](https://doi.org/10.1016/0022-5088%2870%2990094-9) J.S. Charlton, M. Cordey-Hayes, I.R. Harris, A study of the 119Sn mössbauer isomer shifts in some platinum-tin and gold-tin alloys, Journal of the Less Common Metals 20, 105-112 (1970).  
@@ -420,8 +422,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1016/s0925-8388(98)00682-3](https://doi.org/10.1016/s0925-8388%2898%2900682-3) P Anres, M Gaune-Escard, J.P Bros, E Hayer, Enthalpy of formation of the (Pt–Sn) system, Journal of Alloys and Compounds 280, 158-167 (1998).  
 _cited as the source of values for this phase_
-- [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f) Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022).  
-_reports values for this phase_
 - [doi:10.1016/j.commatsci.2009.04.044](https://doi.org/10.1016/j.commatsci.2009.04.044) Wei Zhou, Lijuan Liu, Baoling Li, Ping Wu, Qinggong Song, Structural, elastic and electronic properties of intermetallics in the Pt–Sn system: A density functional investigation, Computational Materials Science 46, 921-931 (2009).  
 _cited as the source of values for this phase_
 
@@ -497,13 +497,13 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabdjs and oqmd-7829, space group 194
 - Stoichiometry: Pt 0.5000, Sn 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1553.29 K, x(Sn) 0.5–0.5
-- Literature: 53 values (53 accepted) from 4 papers
+- Literature: 46 values (46 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-sn:ptsn-b81)
 
-Names (13): _corpus: _corpus:phase:pt-sn:ptsn-b81  
+Names (11): _corpus: _corpus:phase:pt-sn:ptsn-b81  
 _mp: _mp:mp-aaaabdjs  
 _oqmd: _oqmd:oqmd-7829  
-_paper: _paper:10.1016/j.jallcom.2006.11.027:PtSn, paper:10.1016/j.jallcom.2020.157064:PtSn, paper:10.1016/j.jallcom.2020.157064:PtSn₂, paper:10.1016/j.jallcom.2020.157064:PtSn₄, paper:10.1016/s0925-8388(01)01201-4:PtSn, paper:10.1088/2053-1591/ac475f:PtSn  
+_paper: _paper:10.1016/j.jallcom.2006.11.027:PtSn, paper:10.1016/j.jallcom.2020.157064:PtSn, paper:10.1016/s0925-8388(01)01201-4:PtSn, paper:10.1088/2053-1591/ac475f:PtSn  
 _tdb: _tdb:PtSn-01Su.tdb:PTSN_B81, tdb:PtSn-08Gro.tdb:PTSN_B81, tdb:PtSn-21Cui.tdb:PTSN_B81, tdb:PtSn-22Hu.tdb:PTSN_B81  
 
 

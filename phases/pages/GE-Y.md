@@ -1,14 +1,14 @@
 # Ge–Y phases
 
-> Ge–Y system: 15 phases (tier A 6, tier C 4, liquid 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ge–Y system: 14 phases (tier A 6, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/GE-Y.html · Markdown: https://data.orchid-project.org/phases/pages/GE-Y.md
 
-15 phases (tier A 6, tier C 4, liquid 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+14 phases (tier A 6, tier C 4, liquid 1, needs_review 3); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=GE-Y) · [full JSON](https://data.orchid-project.org/phases/systems/GE-Y.json) · [Ge–Y system page](https://data.orchid-project.org/systems/GE-Y.html) · [Markdown](https://data.orchid-project.org/phases/pages/GE-Y.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ge–Y system (15)
+Table: Phases of the Ge–Y system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -19,7 +19,6 @@ Table: Phases of the Ge–Y system (15)
 | [GE2Y](#phase-ge-y-ge2y); _phase:ge-y:ge2y_ | Ge2Tb · oC24 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1028.66–1132.58 K, x(Y) 0.33333–0.33333 | 9 | 1 |
 | [GE3Y2_HT](#phase-ge-y-ge3y2); _phase:ge-y:ge3y2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1707.4–1732.57 K, x(Y) 0.4–0.4 | 6 | 1 |
 | [GE3Y2_C32](#phase-ge-y-ge3y2-c32); _phase:ge-y:ge3y2-c32_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1707.4 K, x(Y) 0.4–0.4 | 6 | 1 |
-| [GE3Y2-HT](#phase-ge-y-ge3y2-ht); _phase:ge-y:ge3y2-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [GE3Y5_D88](#phase-ge-y-ge3y5-d88); _phase:ge-y:ge3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2240.77 K, x(Y) 0.625–0.625 | 6 | 1 |
 | [GE4Y5](#phase-ge-y-ge4y5); _phase:ge-y:ge4y5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2218.39 K, x(Y) 0.55556–0.55556 | 9 | 1 |
 | [GE5Y3_CC](#phase-ge-y-ge5y3-cc); _phase:ge-y:ge5y3-cc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1177.32 K, x(Y) 0.375–0.375 | 6 | 1 |
@@ -190,7 +189,7 @@ _cited as the source of values for this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-y:ge3y2)
 
-Names (3): _corpus: _corpus:phase:ge-y:ge3y2  
+Names (4): _corpus: _corpus:phase:ge-y:ge3y2, corpus:phase:ge-y:ge3y2-ht  
 _paper: _paper:10.1007/s10973-012-2271-0:Ge1.5Y-HT  
 _tdb: _tdb:GeY-13Idb.tdb:GE3Y2_HT  
 
@@ -244,17 +243,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(72)90008-2](https://doi.org/10.1016/0022-5088%2872%2990008-2) F.A. Schmidt, O.D. McMasters, O.N. Carlson, The yttrium-germanium system, Journal of the Less Common Metals 26, 53-70 (1972).  
 _cited as the source of values for this phase_
-
-## GE3Y2-HT (Ge–Y)
-
-- Id: `phase:ge-y:ge3y2-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-y:ge3y2-ht)
-
-Names (1): _corpus: _corpus:phase:ge-y:ge3y2-ht  
-
 
 ## GE3Y5_D88 (Ge–Y)
 

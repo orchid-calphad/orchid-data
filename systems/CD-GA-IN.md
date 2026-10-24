@@ -1,10 +1,10 @@
 # Cd–Ga–In system
 
-> Cd–Ga–In system: 334 accepted literature values (mixing / partial 334) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Ga–In system: 316 accepted literature values (mixing / partial 316) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-GA-IN.html · Markdown: https://data.orchid-project.org/systems/CD-GA-IN.md
 
-334 accepted literature values from 1 paper(s) (experimental 334); 0 calculated phase diagram(s).
+316 accepted literature values from 1 paper(s) (experimental 316); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-GA-IN.json) · [CSV](https://data.orchid-project.org/systems/CD-GA-IN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-GA-IN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-GA-IN.html) · [Markdown](https://data.orchid-project.org/systems/CD-GA-IN.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 334 |
+| experimental | 316 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| mixing / partial | 334 |
+| mixing / partial | 316 |
 
 ## Other properties
 
-### Mixing / partial (334)
+### Mixing / partial (316)
 
 Table: Mixing / partial, Cd–Ga–In system
 
@@ -35,13 +35,10 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 2.266 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.303, Ga 0.303, In 0.394_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 15 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.104 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.2635, Ga 0.2635, In 0.473_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 16 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.198 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.20325, Ga 0.06775, In 0.729_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.072 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.624 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.11175, Ga 0.33525, In 0.553_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 24 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.109 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.399, Ga 0.133, In 0.468_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 4 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.444 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.09225, Ga 0.27675, In 0.631_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 25 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.074 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.1735, Ga 0.5205, In 0.306_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 22 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.541 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 10 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.065 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 20 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.521 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.175, Ga 0.175, In 0.65_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 18 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.33 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.1485, Ga 0.1485, In 0.703_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 19 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.438 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.25425, Ga 0.08475, In 0.661_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 6 |  |
@@ -63,17 +60,14 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 1.432 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.09534, Ga 0.291, In 0.61366_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 15 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.002 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.16159, Ga 0.49421, In 0.3442_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 4 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.692 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.11288, Ga 0.34455, In 0.54256_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 14 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.521 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.4, Ga 0.6, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 31 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.855 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.14156, Ga 0.43294, In 0.4255_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 5 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.103 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.18396, Ga 0.56261, In 0.25343_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 3 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24641, Ga 0.75359, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 1 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.329 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.08644, Ga 0.26383, In 0.64973_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 16 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.048 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.23369, Ga 0.47061, In 0.2957_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 22 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.022 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.19127, Ga 0.28689, In 0.52184_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 37 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 0.988 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.08721, Ga 0.17563, In 0.73716_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 30 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.35 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.12241, Ga 0.24651, In 0.63107_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 28 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.856 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.17299, Ga 0.25948, In 0.56753_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 38 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.24678, Ga 0.75322, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 9 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.222 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.07814, Ga 0.2385, In 0.68336_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 17 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.107 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.09978, Ga 0.20094, In 0.69928_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 29 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.981 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.14534, Ga 0.44361, In 0.41106_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 12 |  |
@@ -81,7 +75,6 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 2.636 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.30334, Ga 0.45501, In 0.24165_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 33 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.148 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.2151, Ga 0.65786, In 0.12704_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 2 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.133 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.07078, Ga 0.21604, In 0.71319_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 18 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.385 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.33181, Ga 0.66819, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 20 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.487 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.09586, Ga 0.29317, In 0.61098_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 7 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.213 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.2121, Ga 0.64738, In 0.14053_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 10 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.902 kJ/mol (basis unstated) | 602 | UNKNOWN; _alloy: Cd 0.20688, Ga 0.41661, In 0.37652_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 23 |  |
@@ -102,8 +95,6 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 1.591 kJ/mol (basis unstated) | 602 | liquid; _alloy: Cd 0.14042, Ga 0.21063, In 0.64895_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 4 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.856 kJ/mol (basis unstated) | 602 | liquid; _alloy: Cd 0.17299, Ga 0.25948, In 0.56753_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 2 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.067 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.1083, Ga 0.50883, In 0.38286_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 45 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.2465, Ga 0.7535, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 52 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.41662, Ga 0.58338, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 72 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.548 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.08633, Ga 0.2639, In 0.64976_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 60 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.362 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.2354, Ga 0.32962, In 0.43498_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 76 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.764 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.0799, Ga 0.37538, In 0.54472_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 47 |  |
@@ -118,7 +109,6 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 1.572 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.06303, Ga 0.29613, In 0.64084_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 49 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.62 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.15885, Ga 0.22244, In 0.61871_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 79 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.549 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.11838, Ga 0.16576, In 0.71587_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 81 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.1755, Ga 0.8245, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 42 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.12584, Ga 0.59121, In 0.28295_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 44 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.465 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.05744, Ga 0.26988, In 0.67267_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 50 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.789 kJ/mol (basis unstated) | 659 | UNKNOWN; _alloy: Cd 0.11132, Ga 0.34028, In 0.5484_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 58 |  |
@@ -147,7 +137,6 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 2.576 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.27429, Ga 0.38408, In 0.34164_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 39 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.928 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1221, Ga 0.37323, In 0.50466_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 21 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.663 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.09838, Ga 0.30073, In 0.60089_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 23 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 1.874 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1755, Ga 0.8245, In 0_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 6 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.909 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.09246, Ga 0.43441, In 0.47313_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 10 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.764 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.0799, Ga 0.37538, In 0.54472_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 11 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.09 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.12584, Ga 0.59121, In 0.28295_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 8 |  |
@@ -157,11 +146,8 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 2.526 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.20909, Ga 0.63913, In 0.15178_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 17 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.549 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.11838, Ga 0.16576, In 0.71587_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 45 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.067 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.1083, Ga 0.50883, In 0.38286_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 9 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.81 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.41662, Ga 0.58338, In 0_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 36 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.126 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.14711, Ga 0.69116, In 0.16173_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 7 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.299 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.2465, Ga 0.7535, In 0_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 16 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.667 kJ/mol (basis unstated) | 659 | liquid; _alloy: Cd 0.07077, Ga 0.33248, In 0.59675_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 12 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.33273, Ga 0.66727, In 0_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 62 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.752 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.12731, Ga 0.25531, In 0.61738_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 70 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.894 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.14258, Ga 0.28593, In 0.57149_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 69 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.009 kJ/mol (basis unstated) | 662 | UNKNOWN; _alloy: Cd 0.15343, Ga 0.3077, In 0.53887_ | experimental | [1] Zakulski 1993 | Table I, p. 2, row 68 |  |
@@ -179,15 +165,12 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 1.894 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.14258, Ga 0.28593, In 0.57149_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 33 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.261 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.18777, Ga 0.37655, In 0.43569_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 30 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.14 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.16795, Ga 0.3368, In 0.49525_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 31 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.644 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.33273, Ga 0.66727, In 0_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 26 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.627 kJ/mol (basis unstated) | 662 | liquid; _alloy: Cd 0.10877, Ga 0.21813, In 0.6731_ | experimental | [1] Zakulski 1993 | Table 1, p. 3, row 35 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.495 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.2685, Ga 0.0895, In 0.652_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 34 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.397 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.07625, Ga 0.22875, In 0.695_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 50 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.916 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.5, Ga 0.5, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 35 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.818 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.2015, Ga 0.2015, In 0.597_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 40 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.669 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.3485, Ga 0.3485, In 0.303_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 37 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.013 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.135, Ga 0.405, In 0.46_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 47 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.343 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.75, Ga 0.25, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 28 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.596 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.09425, Ga 0.28275, In 0.623_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 49 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.291 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.1315, Ga 0.1315, In 0.737_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 43 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.241 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.6825, Ga 0.2275, In 0.09_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 29 |  |
@@ -202,7 +185,6 @@ Table: Mixing / partial, Cd–Ga–In system
 | Enthalpy of mixing; _printed: ΔH_ | 1.819 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.34125, Ga 0.11375, In 0.545_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 33 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.392 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.2895, Ga 0.2895, In 0.431_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 38 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 2.23 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.16325, Ga 0.48975, In 0.347_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 46 |  |
-| Enthalpy of mixing; _printed: ΔH_ | 2.357 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.25, Ga 0.75, In 0_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 44 |  |
 | Enthalpy of mixing; _printed: ΔH_ | 1.577 kJ/mol (basis unstated) | 673 | UNKNOWN; _alloy: Cd 0.174, Ga 0.174, In 0.652_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 41 |  |
 | Partial enthalpy; _printed: ΔHIn_ | 0.376 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.31725, Ga 0.10575, In 0.577_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 5 |  |
 | Partial enthalpy; _printed: ΔHIn_ | -0.112 kJ/mol (basis unstated) | 593 | UNKNOWN; _alloy: Cd 0.129, Ga 0.043, In 0.828_ | experimental | [1] Zakulski 1993 | Table 2, p. 4, row 9 |  |

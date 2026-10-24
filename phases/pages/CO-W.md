@@ -18,7 +18,7 @@ Table: Phases of the Co–W system (10)
 | [MU_D85](#phase-co-w-d85-mu); _phase:co-w:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2021.78 K, x(W) 0.41701–0.49493 | 20 | 9 |
 | [DIS_MU](#phase-co-w-dis-mu); _phase:co-w:dis-mu_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-co-w-fcc-4sl); _phase:co-w:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 694.23–1780.6 K, x(W) 0–0.17103 | 0 | 1 |
-| [FCC_A1](#phase-co-w-fcc-a1); _phase:co-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 11 calculated diagram(s): 693.26–1782.48 K, x(W) 0–0.17859 | 30 | 11 |
+| [FCC_A1](#phase-co-w-fcc-a1); _phase:co-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 693.26–1782.48 K, x(W) 0–0.17859 | 30 | 11 |
 | [HCP_A3](#phase-co-w-hcp-a3); _phase:co-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–718.77 K, x(W) 0–0.0184 | 3 | 10 |
 | [LIQUID](#phase-co-w-liquid); _phase:co-w:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 1679.34–4000 K, x(W) 0–1 | 12 | 10 |
 | [R_PHASE](#phase-co-w-phase-r); _phase:co-w:phase-r_ | R-(Co,Cr,Mo) · hR53 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–579.59 K, x(W) 0.48262–0.49034 | 0 | 2 |
@@ -422,7 +422,7 @@ _assessment that models this phase_
 
 - Id: `phase:co-w:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 10 of 11 calculated diagram(s): 693.26–1782.48 K, x(W) 0–0.17859
+- Stability: stable in 10 of 10 calculated diagram(s): 693.26–1782.48 K, x(W) 0–0.17859
 - Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-w:fcc-a1)
 

@@ -23,7 +23,7 @@ Table: Phases of the Ga–Zr system (15)
 | [GA4ZR5](#phase-ga-zr-ga4zr5); _phase:ga-zr:ga4zr5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1727.19–1798.23 K, x(Zr) 0.55556–0.55556 | 14 | 1 |
 | [GA5ZR3](#phase-ga-zr-ga5zr3); _phase:ga-zr:ga5zr3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1569.85 K, x(Zr) 0.375–0.375 | 12 | 1 |
 | [GAZR_BETA](#phase-ga-zr-gazr-beta); _phase:ga-zr:gazr-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1777.93–1781.7 K, x(Zr) 0.5–0.5 | 3 | 1 |
-| [GAZR_BG](#phase-ga-zr-gazr-bg); _phase:ga-zr:gazr-bg_ | MoB · B_g · tI16 · I4_1/amd (141) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1777.93 K, x(Zr) 0.5–0.5 | 25 | 1 |
+| [GAZR_BG](#phase-ga-zr-gazr-bg); _phase:ga-zr:gazr-bg_ | MoB · B_g · tI16 · I4_1/amd (141) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1777.93 K, x(Zr) 0.5–0.5 | 20 | 1 |
 | [GAZR2_C16](#phase-ga-zr-gazr2-c16); _phase:ga-zr:gazr2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1176.18 K, x(Zr) 0.66667–0.66667 | 11 | 1 |
 | [HCP_A3](#phase-ga-zr-hcp-a3); _phase:ga-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2120.05 K, x(Zr) 0.99146–1 | 0 | 1 |
 | [LIQUID](#phase-ga-zr-liquid); _phase:ga-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–4000 K, x(Zr) 0–1 | 13 | 1 |
@@ -358,7 +358,7 @@ _assessment that models this phase; reports values for this phase_
 - Structure: MoB · B_g · tI16 · I4_1/amd (141); type `st:b-g-mob-ti16`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 0.5000, Zr 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1777.93 K, x(Zr) 0.5–0.5
-- Literature: 25 values (25 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-zr:gazr-bg)
 
 Names (4): _corpus: _corpus:phase:ga-zr:gazr-bg  
@@ -375,12 +375,10 @@ _tdb: _tdb:GaZr-14Luo.tdb:GAZR_BG
 74: CONST GAZR_BG : GA : ZR : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2013.10.199](https://doi.org/10.1016/j.jallcom.2013.10.199) Wei Luo, Shuhong Liu, Ying Tang, Ming Yin, Bosse Sundman, Yong Du et al., Experimental investigation and thermodynamic modeling of the Ga–Zr system, Journal of Alloys and Compounds 587, 497-505 (2014).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf03037856](https://doi.org/10.1007/bf03037856) D. S. Easton, J. O. Betterton, The eutectoid region of the Zr−Ga system, Metall Trans 1, 3295-3299 (1970).  
-_cited as the source of values for this phase_
 
 ## GAZR2_C16 (Ga–Zr)
 

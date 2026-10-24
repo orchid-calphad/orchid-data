@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi3Er5.html · Markdown: https:/
 
 16 accepted literature formation-enthalpy value(s) (experimental 4, model 7, DFT 5); experimental median -79 kJ/mol-atom (n = 4); Materials Project -62.124 kJ/mol-atom (mp-aaaabuog); OQMD -64.128 kJ/mol-atom (oqmd-18567).
 
-Systems: [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) · [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html)
+Systems: [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html)
 
 ## Literature values
 
@@ -15,21 +15,21 @@ Table: Enthalpy of formation of Bi3Er5 reported in the literature (16)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -81 kJ/mol-atom | Er5Bi3 | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 7 |  |
-| -81 kJ/mol-atom | Bi3Er5 | 0 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 1 |  |
-| -77 kJ/mol-atom | Bi3Er5 | 0 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 2 |  |
+| -81 kJ/mol-atom | Bi3Er5 | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 1 |  |
+| -77 kJ/mol-atom | Bi3Er5 | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 2 |  |
 | -77 kJ/mol-atom | Er5Bi3 | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 8 |  |
-| -70.28 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 21 |  |
-| -69 kJ/mol-atom | Er5Bi3 |  | model | Miedema model | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 23 |  |
+| -70.28 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 21 |  |
+| -69 kJ/mol-atom | Er5Bi3 |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 23 |  |
 | -69 kJ/mol-atom | Er5Bi3 |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 6 |  |
 | -69 kJ/mol-atom | Bi3Er5 | 0 | model | Miedima model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 4 |  |
-| -66.486 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 22 |  |
+| -66.486 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 22 |  |
 | -66.486 kJ/mol-atom | Er5Bi3 |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2017 | Table 9, p. 7, row 9 |  |
-| -62.917 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022 | Table 2, p. 5, row 17 |  |
+| -62.917 kJ/mol-atom | Er5Bi3 |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 17 |  |
 | -66.035 kJ/mol-atom | Bi3Er5 | 0 | DFT | first-principles | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2013 | Table 4, p. 4, row 3 |  |
-| -66.035 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 20 |  |
-| -64.084 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 18 |  |
-| -63.496 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022 | Table 2, p. 5, row 16 |  |
-| -62.157 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 19 |  |
+| -66.035 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 20 |  |
+| -64.084 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 18 |  |
+| -63.496 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 16 |  |
+| -62.157 kJ/mol-atom | Er5Bi3 | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 19 |  |
 
 ### Uncertainty budget
 
@@ -39,22 +39,22 @@ Table: Uncertainty budget of the literature values of Bi3Er5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -81 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -81 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -77 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -77 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -70.28 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -69 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -69 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -69 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.486 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.486 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -62.917 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.035 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -66.035 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -64.084 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -63.496 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -62.157 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -81 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -81 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -77 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -77 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -70.28 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -69 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -69 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -69 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.486 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.486 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -62.917 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.035 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -66.035 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -64.084 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -63.496 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -62.157 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

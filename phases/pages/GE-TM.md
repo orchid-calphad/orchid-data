@@ -12,7 +12,7 @@ Table: Phases of the Ge–Tm system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-tm-a4-diamond); _phase:ge-tm:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Tm) 0–0 | 4 | 1 |
+| [DIAMOND_A4](#phase-ge-tm-a4-diamond); _phase:ge-tm:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Tm) 0–0 | 2 | 1 |
 | [BCC_A2](#phase-ge-tm-bcc-a2); _phase:ge-tm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ge-tm-fcc-a1); _phase:ge-tm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GE10TM11](#phase-ge-tm-ge10tm11); _phase:ge-tm:ge10tm11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1987.05 K, x(Tm) 0.52381–0.52381 | 6 | 1 |
@@ -25,7 +25,7 @@ Table: Phases of the Ge–Tm system (14)
 | [GE5TM4](#phase-ge-tm-ge5tm4); _phase:ge-tm:ge5tm4_ | Er3Ge4 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1633.05 K, x(Tm) 0.44444–0.44444 | 6 | 1 |
 | [GETM_B33](#phase-ge-tm-getm-b33); _phase:ge-tm:getm-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1653.75 K, x(Tm) 0.5–0.5 | 2 | 1 |
 | [HCP_A3](#phase-ge-tm-hcp-a3); _phase:ge-tm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.25 K, x(Tm) 1–1 | 4 | 1 |
-| [LIQUID](#phase-ge-tm-liquid); _phase:ge-tm:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1 | 24 | 1 |
+| [LIQUID](#phase-ge-tm-liquid); _phase:ge-tm:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1 | 22 | 1 |
 
 ## DIAMOND_A4 (Ge–Tm)
 
@@ -33,7 +33,7 @@ Table: Phases of the Ge–Tm system (14)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Tm) 0–0
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:a4-diamond)
 
 Names (4): _corpus: _corpus:phase:ge-tm:a4-diamond, corpus:phase:ge-tm:diamond-a4  
@@ -439,7 +439,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ge-tm:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1139.38–2500 K, x(Tm) 0–1
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 22 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-tm:liquid)
 
 Names (3): _corpus: _corpus:phase:ge-tm:liquid  

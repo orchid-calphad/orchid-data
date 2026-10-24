@@ -13,7 +13,7 @@ Table: Phases of the Ni–U system (13)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-ni-u-a20-orthorhombic); _phase:ni-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1047.02 K, x(U) 0.99994–1 | 0 | 1 |
-| [BCC_A2](#phase-ni-u-bcc-a2); _phase:ni-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1032.92–1407.99 K, x(U) 0.97548–1 | 8 | 1 |
+| [BCC_A2](#phase-ni-u-bcc-a2); _phase:ni-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1032.92–1407.99 K, x(U) 0.97548–1 | 4 | 1 |
 | [FCC_A1](#phase-ni-u-fcc-a1); _phase:ni-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1749.24 K, x(U) 0–0.01259 | 2 | 1 |
 | [HCP_A3](#phase-ni-u-hcp-a3); _phase:ni-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ni-u-liquid); _phase:ni-u:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1015.07–4000 K, x(U) 0–1 | 18 | 1 |
@@ -57,11 +57,11 @@ _assessment that models this phase_
 - Id: `phase:ni-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1032.92–1407.99 K, x(U) 0.97548–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-u:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ni-u:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2009.07.168:γU, paper:10.1016/j.jallcom.2009.07.168:ε  
+Names (3): _corpus: _corpus:phase:ni-u:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2009.07.168:γU  
 _tdb: _tdb:NiU-09Wan.tdb:BCC_A2  
 
 

@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Am2O3 reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -338.54 kJ/mol-atom | Am2O3 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
-| -338.08 kJ/mol-atom ± 8 | Am2O3 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| -338.08 kJ/mol-atom ± 8 | Am2O3 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| -338.08 kJ/mol-atom ± 1.6 | Am2O3 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| -338.08 kJ/mol-atom ± 1.6 | Am2O3 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Am2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -338.54 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -338.08 | kJ/mol-atom | 8 | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 8 |
-| -338.08 | kJ/mol-atom | 8 | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 8 |
+| -338.54 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -338.08 | kJ/mol-atom | 1.6 | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -338.08 | kJ/mol-atom | 1.6 | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

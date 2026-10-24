@@ -1,10 +1,10 @@
 # Pb–Pt system
 
-> Pb–Pt system: 23 accepted literature values (crystal structure 12, invariant reaction 8, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pb–Pt system: 17 accepted literature values (invariant reaction 8, crystal structure 6, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PB-PT.html · Markdown: https://data.orchid-project.org/systems/PB-PT.md
 
-23 accepted literature values from 1 paper(s) (model 14, DFT 5, unspecified 4); 1 calculated phase diagram(s).
+17 accepted literature values from 1 paper(s) (model 10, DFT 3, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PB-PT.json) · [CSV](https://data.orchid-project.org/systems/PB-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PB-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PB-PT/PbPt-09Lon.json) · [phases (7)](https://data.orchid-project.org/phases/pages/PB-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PB-PT.html) · [Markdown](https://data.orchid-project.org/systems/PB-PT.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 14 |
-| DFT | 5 |
+| model | 10 |
+| DFT | 3 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 8 |
 | phase transition | 3 |
-| crystal structure | 12 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -79,18 +79,12 @@ Table: Phase transition, Pb–Pt system
 | Phase transition | 1068 K | 1068 | PtPb | model | [1] Long 2009; _cites Conclusions_ | p. 1 | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
 | Phase transition | 1188 K | 1188 | Pt3Pb | model | [1] Long 2009; _cites Conclusions_ | p. 1 | “The phase diagram of the Pt-Pb system reported by Hansen and Anderko\[6\] exhibits three intermediate compounds, Pt3Pb, PtPb, and PtPb4. These compounds decompose peritectially at 1188, 1068, and 633 K, respectively.” |
 
-### Crystal structure (12)
+### Crystal structure (6)
 
 Table: Crystal structure, Pb–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.049 Å |  | Pb; _alloy: Pt 0_ | model | [1] Long 2009; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 9 |  |
-| Lattice a | 5.0248 Å | 0 | Pb; _alloy: Pt 0_ | DFT | [1] Long 2009 | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.9506 Å |  | Pb; _alloy: Pt 0_ | model | [1] Long 2009; _cites Mao 1990_ [doi](https://doi.org/10.1016/0038-1098%2890%2990479-u) | Table 1, p. 2, row 10 |  |
-| Lattice a | 3.97 Å |  | Pt; _alloy: Pt 1_ | model | [1] Long 2009; _cites Haglund 1993_ [doi](https://doi.org/10.1103/physrevb.48.11685) | Table 1, p. 2, row 3 |  |
-| Lattice a | 3.9854 Å | 0 | Pt; _alloy: Pt 1_ | DFT | [1] Long 2009 | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.985 Å |  | Pt; _alloy: Pt 1_ | model | [1] Long 2009; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 2, row 2 |  |
 | Lattice a | 4.058 Å |  | Pt3Pb; _alloy: Pt 0.75_ | model | [1] Long 2009; _cites Ellner 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990140-5) | Table 1, p. 2, row 5 |  |
 | Lattice a | 4.1371 Å | 0 | Pt3Pb; _alloy: Pt 0.75_ | DFT | [1] Long 2009 | Table 1, p. 2, row 4 |  |
 | Lattice a | 6.8148 Å | 0 | PtPb4; _alloy: Pt 0.2_ | DFT | [1] Long 2009 | Table 1, p. 2, row 6 |  |

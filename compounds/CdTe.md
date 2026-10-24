@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CdTe.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (model 1, unspecified 1).
 
-Systems: [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html)
+Systems: [Cd–Te](https://data.orchid-project.org/systems/CD-TE.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CdTe reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -100.708 kJ/mol (basis unstated) | CdTe | 298.15 | model |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [1] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| -100.663 kJ/mol (basis unstated) | CdTe | 298.15 | unspecified |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [1] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+| -100.708 kJ/mol (basis unstated) | CdTe | 298.15 | model |  | [Cd–Te](https://data.orchid-project.org/systems/CD-TE.html) | [1] Jianrong 1995 | Table 4, p. 13, row 2 |  |
+| -100.663 kJ/mol (basis unstated) | CdTe | 298.15 | unspecified |  | [Cd–Te](https://data.orchid-project.org/systems/CD-TE.html) | [1] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CdTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -100.708 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -100.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -100.708 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -100.663 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

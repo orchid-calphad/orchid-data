@@ -12,9 +12,9 @@ Table: Phases of the B–Mn system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BETA_RHOMBO_B](#phase-b-mn-b-beta-rhombo); _phase:b-mn:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2361.93 K, x(B) 0.95882–1 | 9 | 1 |
+| [BETA_RHOMBO_B](#phase-b-mn-b-beta-rhombo); _phase:b-mn:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2361.93 K, x(B) 0.95882–1 | 7 | 1 |
 | [BCC_A2](#phase-b-mn-bcc-a2); _phase:b-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1410.94–1519 K, x(B) 0–2e-05 | 0 | 1 |
-| [CBCC_A12](#phase-b-mn-cbcc-a12); _phase:b-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–980 K, x(B) 0–0 | 7 | 1 |
+| [CBCC_A12](#phase-b-mn-cbcc-a12); _phase:b-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–980 K, x(B) 0–0 | 0 | 1 |
 | [CUB_A13](#phase-b-mn-cub-a13); _phase:b-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 980–1360.15 K, x(B) 0–2e-05 | 0 | 1 |
 | [FCC_A1](#phase-b-mn-fcc-a1); _phase:b-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1360–1496 K, x(B) 0–0 | 0 | 1 |
 | [HCP_A3](#phase-b-mn-hcp-a3); _phase:b-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -33,7 +33,7 @@ Table: Phases of the B–Mn system (13)
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — MnB-10Sun.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2361.93 K, x(B) 0.95882–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mn:b-beta-rhombo)
 
 Names (4): _corpus: _corpus:phase:b-mn:b-beta-rhombo, corpus:phase:b-mn:beta-rhombo-b  
@@ -54,9 +54,9 @@ Example references (4 of 4; assessments first):
 
 - [doi:10.1007/s11669-010-9740-6](https://doi.org/10.1007/s11669-010-9740-6) Weihua Sun, Yong Du, Shuhong Liu, Baiyun Huang, Chao Jiang, Thermodynamic Assessment of the Mn-B System, J. Phase Equilib. Diffus. 31, 357-364 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02869863](https://doi.org/10.1007/bf02869863) P.K. Liao and K.E. Spear, The B-Mn (Boron-Manganese) System, Bull. Alloy Phase Diag., 1986, 7(6), p 543-549, p 585-586  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02652172](https://doi.org/10.1007/bf02652172) H. Okamoto, B-Mn (Boron-Manganese), J. Phase Equilib., 1993, 14(1), p 121-122  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02869863](https://doi.org/10.1007/bf02869863) P.K. Liao and K.E. Spear, The B-Mn (Boron-Manganese) System, Bull. Alloy Phase Diag., 1986, 7(6), p 543-549, p 585-586  
 _cited as the source of values for this phase_
 - [doi:10.3891/acta.chem.scand.24-1791](https://doi.org/10.3891/acta.chem.scand.24-1791) Sven Andersson, Jan-Otto Carlsson, E. E. Astrup, S. Liaaen-Jensen, Aud Lamvik, Erling Sunde et al., The Crystal Structure of MnB4., Acta Chem. Scand. 24, 1791-1799 (1970).  
 _cited as the source of values for this phase_
@@ -92,11 +92,10 @@ _assessment that models this phase_
 - Id: `phase:b-mn:cbcc-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–980 K, x(B) 0–0
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-mn:cbcc-a12)
 
-Names (4): _corpus: _corpus:phase:b-mn:cbcc-a12  
-_paper: _paper:10.1007/s11669-010-9740-6:γMn, paper:10.1007/s11669-010-9740-6:δMn  
+Names (2): _corpus: _corpus:phase:b-mn:cbcc-a12  
 _tdb: _tdb:MnB-10Sun.tdb:CBCC_A12  
 
 
@@ -109,14 +108,10 @@ _tdb: _tdb:MnB-10Sun.tdb:CBCC_A12
 42: CONST CBCC_A12 : MN : B VA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-010-9740-6](https://doi.org/10.1007/s11669-010-9740-6) Weihua Sun, Yong Du, Shuhong Liu, Baiyun Huang, Chao Jiang, Thermodynamic Assessment of the Mn-B System, J. Phase Equilib. Diffus. 31, 357-364 (2010).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02869863](https://doi.org/10.1007/bf02869863) P.K. Liao and K.E. Spear, The B-Mn (Boron-Manganese) System, Bull. Alloy Phase Diag., 1986, 7(6), p 543-549, p 585-586  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02652172](https://doi.org/10.1007/bf02652172) H. Okamoto, B-Mn (Boron-Manganese), J. Phase Equilib., 1993, 14(1), p 121-122  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## CUB_A13 (B–Mn)
 

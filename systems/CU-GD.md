@@ -1,10 +1,10 @@
 # Cu–Gd system
 
-> Cu–Gd system: 32 accepted literature values (invariant reaction 32) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Gd system: 35 accepted literature values (invariant reaction 32, formation 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-GD.html · Markdown: https://data.orchid-project.org/systems/CU-GD.md
 
-32 accepted literature values from 1 paper(s) (experimental 13, model 13, unspecified 6); 1 calculated phase diagram(s).
+35 accepted literature values from 2 paper(s) (experimental 14, model 13, DFT 1, unspecified 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-GD.json) · [CSV](https://data.orchid-project.org/systems/CU-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-GD/CuGd-09Zha.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CU-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-GD.html) · [Markdown](https://data.orchid-project.org/systems/CU-GD.md)
 
@@ -12,15 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
+| experimental | 14 |
 | model | 13 |
-| unspecified | 6 |
+| DFT | 1 |
+| unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 32 |
+| formation | 2 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -103,11 +106,33 @@ Table: Invariant reactions reported in the literature for the Cu–Gd system (32
 | 912 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | model | [1] Zhang 2009 | Table 3, p. 7, row 31 |  |
 | 903 | eutectoid: Bcc_Gd -> CuGd + Hcp_Gd | CuGd: Cu 0.5, Gd 0.5 | experimental | [1] Zhang 2009; _cites Carnasciali 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990235-7) | Table 3, p. 7, row 32 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Gd system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| CuGd |  | -26.4 kJ/mol-atom | 0 | DFT |  |  | [2] Palumbo 2009 | Table 2, p. 4, row 20 |  |
+| CuGd | [CuGd](https://data.orchid-project.org/compounds/CuGd.html) | -10.6 kJ/mol-atom | 298.15 | experimental | -20.386 (mp-aaabiyyx) | -22.451 (oqmd-1976400) | [2] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 21 |  |
+
+## Other properties
+
+### Crystal structure (1)
+
+Table: Crystal structure, Cu–Gd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.501 Å | 298.15 | UNKNOWN; _alloy: Cu 0.5, Gd 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 3, row 19 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. L.G. Zhang, H.Q. Dong, G.X. Huang, J. Shan, L.B. Liu, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Gd system, Calphad 33, 664-672 (2009). [doi:10.1016/j.calphad.2009.08.003](https://doi.org/10.1016/j.calphad.2009.08.003)
+2. M. Palumbo, L. Battezzati, A. Pasturel, S. Gottlieb-Schönmeyer, W. Assmus, Thermodynamic and ab initio investigation of the Cu–Dy system, Calphad 33, 511-516 (2009). [doi:10.1016/j.calphad.2009.04.001](https://doi.org/10.1016/j.calphad.2009.04.001)
 
 ## Please cite
 

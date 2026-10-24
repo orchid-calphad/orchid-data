@@ -6,8 +6,8 @@
  ],
  "phases": [
   "BCC_A2",
+  "DHCP",
   "FCC_A1",
-  "GRAPHITE_A9",
   "LA2C3_D5C",
   "LAC2_C11A",
   "LIQUID"
@@ -32,7 +32,7 @@
  "values": [
   [
    [
-    "GRAPHITE_A9",
+    "DHCP",
     [
      "C"
     ],

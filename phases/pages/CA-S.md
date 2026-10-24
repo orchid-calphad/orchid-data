@@ -185,6 +185,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:MONOCLINIC; no_structure_token
 - Candidate (sgte_mmc2): beta-S · mP48 · P2_1/c (14) — Hallstedt 2025 mmc2 row for MONOCLINIC_S: beta-S
 - Candidate (tdb_comment): beta-S · mP48 · P2_1/a — CaS-16Dil.tdb: 'Prototype beta-S (mP48, P2_1/a)'
+- Stoichiometry: S 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-s:s-monoclinic)
@@ -213,6 +214,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:ORTHORHOMBIC; no_structure_token
 - Candidate (sgte_mmc2): alpha-S · A16 · oF128 · Fddd (70) — Hallstedt 2025 mmc2 row for ORTHORHOMBIC_S: alpha-S
 - Candidate (tdb_comment): alpha-S · oF128 · Fddd — CaS-16Dil.tdb: 'Prototype alpha-S (oF128, Fddd), A16'
+- Stoichiometry: S 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–375 K, x(S) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-s:s-orthorhombic)

@@ -17,12 +17,12 @@
  ],
  "exclude": [],
  "n_files": 2785,
- "total_bytes": 123359032,
+ "total_bytes": 123364128,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 33307,
-   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
+   "bytes": 38061,
+   "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
   },
   {
    "path": "LICENSE",
@@ -46,8 +46,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24617,
-   "sha256": "5dabae65a6bee82dcf29dd4186f0e1172542c227dba8a818218132a8b45605dd"
+   "bytes": 24959,
+   "sha256": "fe157813f50f05e0cb428d7bad24556d4f3ecfa5ebd2ad8855e52fa161e28eac"
   },
   {
    "path": "parquet/phase_diagram_index.parquet",

@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of ZrC3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -53 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25 | kJ/mol-atom | 25 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 25 |
+| -53 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -25 | kJ/mol-atom | 25 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 25 |
 
 ## DFT formation energies
 

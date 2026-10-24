@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Eu2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -331.316 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -330.08 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -331.316 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -330.08 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

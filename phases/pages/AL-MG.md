@@ -12,17 +12,17 @@ Table: Phases of the Al–Mg system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL12MG17_A12](#phase-al-mg-al12mg17-a12); _phase:al-mg:al12mg17-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–740 K, x(Mg) 0.46709–0.70207 | 63 | 10 |
+| [AL12MG17_A12](#phase-al-mg-al12mg17-a12); _phase:al-mg:al12mg17-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–740 K, x(Mg) 0.46709–0.70207 | 58 | 10 |
 | [AL8MG5_BETA](#phase-al-mg-al8mg5-beta); _phase:al-mg:al8mg5-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–724.3 K, x(Mg) 0.38462–0.38462 | 9 | 1 |
 | [ALMG_BETA](#phase-al-mg-almg-beta); _phase:al-mg:almg-beta_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 300–728.45 K, x(Mg) 0.385–0.41517 | 15 | 9 |
 | [ALMG_EPS](#phase-al-mg-almg-eps); _phase:al-mg:almg-eps_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 457.89–724.18 K, x(Mg) 0.43396–0.47001 | 10 | 9 |
 | [ALMG_ZETA](#phase-al-mg-almg-zeta); _phase:al-mg:almg-zeta_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 638.08–726.59 K, x(Mg) 0.47475–0.475 | 4 | 4 |
-| [BCC_A2](#phase-al-mg-bcc-a2); _phase:al-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 6 | 10 |
+| [BCC_A2](#phase-al-mg-bcc-a2); _phase:al-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
 | [C14_LAVES](#phase-al-mg-c14-laves); _phase:al-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C15_LAVES](#phase-al-mg-c15-laves); _phase:al-mg:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C36_LAVES](#phase-al-mg-c36-laves); _phase:al-mg:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-al-mg-fcc-a1); _phase:al-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–933.47 K, x(Mg) 0–0.1838 | 10 | 10 |
-| [HCP_A3](#phase-al-mg-hcp-a3); _phase:al-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–2499.25 K, x(Mg) 0.86562–1 | 10 | 10 |
+| [FCC_A1](#phase-al-mg-fcc-a1); _phase:al-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–933.47 K, x(Mg) 0–0.1838 | 5 | 10 |
+| [HCP_A3](#phase-al-mg-hcp-a3); _phase:al-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–2499.25 K, x(Mg) 0.86562–1 | 5 | 10 |
 | [LIQUID](#phase-al-mg-liquid); _phase:al-mg:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 707.63–2500 K, x(Mg) 0–1 | 31 | 10 |
 
 ## AL12MG17_A12 (Al–Mg)
@@ -30,11 +30,11 @@ Table: Phases of the Al–Mg system (12)
 - Id: `phase:al-mg:al12mg17-a12`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 10 of 10 calculated diagram(s): 300–740 K, x(Mg) 0.46709–0.70207
-- Literature: 63 values (63 accepted) from 3 papers
+- Literature: 58 values (58 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:al12mg17-a12)
 
-Names (24): _corpus: _corpus:phase:al-mg:al12mg17-a12  
-_paper: _paper:10.1016/0364-5916(93)90017-6:Al12Mg17, paper:10.1016/0364-5916(93)90017-6:γ, paper:10.1016/j.calphad.2005.08.004:γ, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Mg12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Mg12Mg12, paper:10.1016/s0364-5916(98)00037-6:Al12Mg17, paper:10.1016/s0364-5916(98)00037-6:AlMg-γ  
+Names (23): _corpus: _corpus:phase:al-mg:al12mg17-a12  
+_paper: _paper:10.1016/0364-5916(93)90017-6:Al12Mg17, paper:10.1016/0364-5916(93)90017-6:γ, paper:10.1016/j.calphad.2005.08.004:γ, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Al5Mg12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Al12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Al12Mg12, paper:10.1016/j.calphad.2005.08.004:γ-Mg5Mg12Al12, paper:10.1016/s0364-5916(98)00037-6:Al12Mg17, paper:10.1016/s0364-5916(98)00037-6:AlMg-γ  
 _tdb: _tdb:AlMg-05Zho.tdb:AL12MG17_A12, tdb:AlMg-12Tan.tdb:AL12MG17_A12, tdb:AlMg-13Tok.tdb:AL12MG17_A12, tdb:AlMg-20Shi.tdb:AL12MG17_A12, tdb:AlMg-23Hal.tdb:AL12MG17_A12, tdb:AlMg-86Lud.tdb:AL12MG17_A12, tdb:AlMg-90Sau.tdb:AL12MG17_A12, tdb:AlMg-93Zuo.tdb:AL12MG17_A12, tdb:AlMg-98Lia-LB.tdb:AL12MG17_A12, tdb:AlMg-98Zak.tdb:AL12MG17_A12  
 
 
@@ -435,11 +435,10 @@ _assessment that models this phase_
 - Id: `phase:al-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 10 calculated diagram(s)
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:al-mg:bcc-a2  
-_paper: _paper:10.1016/0364-5916(93)90017-6:ε, paper:10.1016/j.calphad.2005.08.004:ε  
+Names (11): _corpus: _corpus:phase:al-mg:bcc-a2  
 _tdb: _tdb:AlMg-05Zho.tdb:BCC_A2, tdb:AlMg-12Tan.tdb:BCC_A2, tdb:AlMg-13Tok.tdb:BCC_A2, tdb:AlMg-20Shi.tdb:BCC_A2, tdb:AlMg-23Hal.tdb:BCC_A2, tdb:AlMg-86Lud.tdb:BCC_A2, tdb:AlMg-90Sau.tdb:BCC_A2, tdb:AlMg-93Zuo.tdb:BCC_A2, tdb:AlMg-98Lia-LB.tdb:BCC_A2, tdb:AlMg-98Zak.tdb:BCC_A2  
 
 
@@ -517,11 +516,11 @@ _tdb: _tdb:AlMg-05Zho.tdb:BCC_A2, tdb:AlMg-12Tan.tdb:BCC_A2, tdb:AlMg-13Tok.tdb:
 
 Example references (9 of 9; assessments first): 
 
-- [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
+_assessment that models this phase_
+- [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2023.102577](https://doi.org/10.1016/j.calphad.2023.102577) B. Hallstedt, M. Noori, Calphad, 82, 102577(2023).  
 _assessment that models this phase_
@@ -622,11 +621,11 @@ _assessment that models this phase_
 - Id: `phase:al-mg:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 10 of 10 calculated diagram(s): 300–933.47 K, x(Mg) 0–0.1838
-- Literature: 10 values (10 accepted) from 3 papers
+- Literature: 5 values (5 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:fcc-a1)
 
-Names (15): _corpus: _corpus:phase:al-mg:fcc-a1  
-_paper: _paper:10.1016/0364-5916(93)90017-6:(Al), paper:10.1016/j.calphad.2005.08.004:fcc-A1, paper:10.1016/j.calphad.2005.08.004:fcc-Al, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+Names (14): _corpus: _corpus:phase:al-mg:fcc-a1  
+_paper: _paper:10.1016/0364-5916(93)90017-6:(Al), paper:10.1016/j.calphad.2005.08.004:fcc-A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
 _tdb: _tdb:AlMg-05Zho.tdb:FCC_A1, tdb:AlMg-12Tan.tdb:FCC_A1, tdb:AlMg-13Tok.tdb:FCC_A1, tdb:AlMg-20Shi.tdb:FCC_A1, tdb:AlMg-23Hal.tdb:FCC_A1, tdb:AlMg-86Lud.tdb:FCC_A1, tdb:AlMg-90Sau.tdb:FCC_A1, tdb:AlMg-93Zuo.tdb:FCC_A1, tdb:AlMg-98Lia-LB.tdb:FCC_A1, tdb:AlMg-98Zak.tdb:FCC_A1  
 
 
@@ -704,9 +703,9 @@ _tdb: _tdb:AlMg-05Zho.tdb:FCC_A1, tdb:AlMg-12Tan.tdb:FCC_A1, tdb:AlMg-13Tok.tdb:
 
 Example references (10 of 10; assessments first): 
 
-- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
 _assessment that models this phase_
@@ -730,11 +729,11 @@ _reports values for this phase_
 - Id: `phase:al-mg:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 10 of 10 calculated diagram(s): 300–2499.25 K, x(Mg) 0.86562–1
-- Literature: 10 values (10 accepted) from 3 papers
+- Literature: 5 values (5 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:hcp-a3)
 
-Names (15): _corpus: _corpus:phase:al-mg:hcp-a3  
-_paper: _paper:10.1016/0364-5916(93)90017-6:(Mg), paper:10.1016/j.calphad.2005.08.004:hcp-A3, paper:10.1016/j.calphad.2005.08.004:hcp-Mg, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+Names (14): _corpus: _corpus:phase:al-mg:hcp-a3  
+_paper: _paper:10.1016/0364-5916(93)90017-6:(Mg), paper:10.1016/j.calphad.2005.08.004:hcp-A3, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
 _tdb: _tdb:AlMg-05Zho.tdb:HCP_A3, tdb:AlMg-12Tan.tdb:HCP_A3, tdb:AlMg-13Tok.tdb:HCP_A3, tdb:AlMg-20Shi.tdb:HCP_A3, tdb:AlMg-23Hal.tdb:HCP_A3, tdb:AlMg-86Lud.tdb:HCP_A3, tdb:AlMg-90Sau.tdb:HCP_A3, tdb:AlMg-93Zuo.tdb:HCP_A3, tdb:AlMg-98Lia-LB.tdb:HCP_A3, tdb:AlMg-98Zak.tdb:HCP_A3  
 
 
@@ -812,9 +811,9 @@ _tdb: _tdb:AlMg-05Zho.tdb:HCP_A3, tdb:AlMg-12Tan.tdb:HCP_A3, tdb:AlMg-13Tok.tdb:
 
 Example references (10 of 10; assessments first): 
 
-- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
 _assessment that models this phase_

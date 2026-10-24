@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi3Tm5.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (model 3, DFT 1); Materials Project -59.592 kJ/mol-atom (mp-aaacqtbi); OQMD -60.919 kJ/mol-atom (oqmd-28780).
 
-Systems: [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html)
+Systems: [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Bi3Tm5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -73.565 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 21 |  |
-| -68 kJ/mol-atom | Bi3Tm5 |  | model | Miedema model | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 20 |  |
-| -60.85 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 23 |  |
-| -60.751 kJ/mol-atom | Bi3Tm5 | 0 | DFT | GGA | [Bi–Cs–Tm](https://data.orchid-project.org/systems/BI-CS-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 22 |  |
+| -73.565 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 21 |  |
+| -68 kJ/mol-atom | Bi3Tm5 |  | model | Miedema model | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 20 |  |
+| -60.85 kJ/mol-atom | Bi3Tm5 |  | model | CALPHAD | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 23 |  |
+| -60.751 kJ/mol-atom | Bi3Tm5 | 0 | DFT | GGA | [Bi–Tm](https://data.orchid-project.org/systems/BI-TM.html) | [1] Djaballah 2015 | Table 2, p. 4, row 22 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Bi3Tm5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -73.565 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -68 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.85 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.751 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -73.565 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -68 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.85 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.751 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

@@ -27,6 +27,7 @@ Table: Phases of the B–U system (10)
 
 - Id: `phase:b-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–942.02 K, x(B) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:a20-orthorhombic)
@@ -55,6 +56,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — UB-01Che.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2351.71 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:b-beta-rhombo)
@@ -81,6 +83,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1048.99–3272.99 K, x(B) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:bcc-a2)
@@ -107,6 +110,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-u:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:fcc-a1)
@@ -133,6 +137,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-u:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:hcp-a3)
@@ -188,6 +193,7 @@ _assessment that models this phase; reports values for this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:TETRAGONAL; no_structure_token
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UB-01Che.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 942.02–1048.99 K, x(B) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:u-tetragonal)
@@ -214,11 +220,15 @@ _assessment that models this phase_
 
 - Id: `phase:b-u:ub12-d2f`; status `assigned`
 - Structure: UB12 · D2_f · cF52 · Fm-3m (225); type `st:d2-f-ub12-cf52`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaabhal and oqmd-4445, space group 225
+- Stoichiometry: B 0.9231, U 0.0769
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2457.96 K, x(B) 0.92308–0.92308
 - Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:ub12-d2f)
 
-Names (3): _corpus: _corpus:phase:b-u:ub12-d2f  
+Names (5): _corpus: _corpus:phase:b-u:ub12-d2f  
+_mp: _mp:mp-aaaabhal  
+_oqmd: _oqmd:oqmd-4445  
 _paper: _paper:10.1016/s0022-3115(00)00713-3:UB12  
 _tdb: _tdb:UB-01Che.tdb:UB12_D2F  
 
@@ -241,11 +251,15 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:b-u:ub2-c32`; status `assigned`
 - Structure: AlB2 · C32 · hP3 · P6/mmm (191); type `st:c32-alb2-hp3`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaacgg and oqmd-646133, space group 191
+- Stoichiometry: B 0.6667, U 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2670.95 K, x(B) 0.66667–0.66667
 - Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:ub2-c32)
 
-Names (3): _corpus: _corpus:phase:b-u:ub2-c32  
+Names (5): _corpus: _corpus:phase:b-u:ub2-c32  
+_mp: _mp:mp-aaaaacgg  
+_oqmd: _oqmd:oqmd-646133  
 _paper: _paper:10.1016/s0022-3115(00)00713-3:UB2  
 _tdb: _tdb:UB-01Che.tdb:UB2_C32  
 
@@ -268,11 +282,15 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:b-u:ub4-d1e`; status `assigned`
 - Structure: UB4 · D1_e · tP20 · P4/mbm (127); type `st:d1-e-ub4-tp20`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaaaxv and oqmd-4686, space group 127
+- Stoichiometry: B 0.8000, U 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2722.24 K, x(B) 0.8–0.8
 - Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-u:ub4-d1e)
 
-Names (3): _corpus: _corpus:phase:b-u:ub4-d1e  
+Names (5): _corpus: _corpus:phase:b-u:ub4-d1e  
+_mp: _mp:mp-aaaaaaxv  
+_oqmd: _oqmd:oqmd-4686  
 _paper: _paper:10.1016/s0022-3115(00)00713-3:UB4  
 _tdb: _tdb:UB-01Che.tdb:UB4_D1E  
 

@@ -12,12 +12,12 @@ Table: Phases of the Mn–Ni system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mn-ni-bcc-a2); _phase:mn-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 13 calculated diagram(s): 1411.01–1519 K, x(Ni) 0–0.06714 | 0 | 13 |
+| [BCC_A2](#phase-mn-ni-bcc-a2); _phase:mn-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 7 calculated diagram(s): 1411.01–1519 K, x(Ni) 0–0.06714 | 0 | 13 |
 | [B2_BCC](#phase-mn-ni-bcc-b2); _phase:mn-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 947.96–1521.43 K, x(Ni) 0–0.49831 | 0 | 6 |
 | [CBCC_A12](#phase-mn-ni-cbcc-a12); _phase:mn-ni:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1085.82 K, x(Ni) 0–0.23426 | 0 | 7 |
 | [CUB_A13](#phase-mn-ni-cub-a13); _phase:mn-ni:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 685.88–1429.99 K, x(Ni) 0–0.21291 | 0 | 7 |
 | [FCC_4SL](#phase-mn-ni-fcc-4sl); _phase:mn-ni:fcc-4sl_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–2499.93 K, x(Ni) 0–1 | 0 | 3 |
-| [FCC_A1](#phase-mn-ni-fcc-a1); _phase:mn-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 13 calculated diagram(s): 300–2499.93 K, x(Ni) 0–1 | 0 | 13 |
+| [FCC_A1](#phase-mn-ni-fcc-a1); _phase:mn-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2499.93 K, x(Ni) 0–1 | 0 | 13 |
 | [L12_FCC](#phase-mn-ni-fcc-l12); _phase:mn-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2035.92 K, x(Ni) 0.01–1 | 0 | 3 |
 | [HCP_A3](#phase-mn-ni-hcp-a3); _phase:mn-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [L10_SOLO](#phase-mn-ni-l10-solo); _phase:mn-ni:l10-solo_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1350 K, x(Ni) 0.4685–0.57704 | 0 | 3 |
@@ -30,7 +30,7 @@ Table: Phases of the Mn–Ni system (13)
 
 - Id: `phase:mn-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 5 of 13 calculated diagram(s): 1411.01–1519 K, x(Ni) 0–0.06714
+- Stability: stable in 5 of 7 calculated diagram(s): 1411.01–1519 K, x(Ni) 0–0.06714
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ni:bcc-a2)
 
@@ -413,7 +413,7 @@ _assessment that models this phase_
 
 - Id: `phase:mn-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 13 calculated diagram(s): 300–2499.93 K, x(Ni) 0–1
+- Stability: stable in 7 of 7 calculated diagram(s): 300–2499.93 K, x(Ni) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ni:fcc-a1)
 

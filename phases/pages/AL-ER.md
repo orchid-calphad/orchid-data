@@ -13,10 +13,10 @@ Table: Phases of the Al–Er system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AL2ER_C15](#phase-al-er-al2er-c15); _phase:al-er:al2er-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1731.83 K, x(Er) 0.31411–0.35442 | 0 | 2 |
-| [AL2ER3](#phase-al-er-al2er3); _phase:al-er:al2er3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1357.07 K, x(Er) 0.6–0.6 | 0 | 2 |
+| [AL2ER3](#phase-al-er-al2er3); _phase:al-er:al2er3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1357.07 K, x(Er) 0.6–0.6 | 1 | 2 |
 | [AL3ER](#phase-al-er-al3er); _phase:al-er:al3er_ | Al3Ho · hR20 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1383.85 K, x(Er) 0.25–0.25 | 0 | 1 |
 | [AL3ER_L12](#phase-al-er-al3er-l12); _phase:al-er:al3er-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1277.87 K, x(Er) 0.25–0.25 | 0 | 1 |
-| [ALER](#phase-al-er-aler); _phase:al-er:aler_ | AlDy · oP16 · Pbcm (57) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1410.22 K, x(Er) 0.5–0.5 | 0 | 2 |
+| [ALER](#phase-al-er-aler); _phase:al-er:aler_ | AlDy · oP16 · Pbcm (57) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1410.22 K, x(Er) 0.5–0.5 | 3 | 2 |
 | [ALER2_C37](#phase-al-er-aler2-c37); _phase:al-er:aler2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1329.58 K, x(Er) 0.66667–0.66667 | 0 | 2 |
 | [BCC_A2](#phase-al-er-bcc-a2); _phase:al-er:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-al-er-fcc-a1); _phase:al-er:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–949.47 K, x(Er) 0–0 | 0 | 2 |
@@ -68,10 +68,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Er 0.6000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1357.07 K, x(Er) 0.6–0.6
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-er:al2er3)
 
-Names (3): _corpus: _corpus:phase:al-er:al2er3  
+Names (4): _corpus: _corpus:phase:al-er:al2er3  
+_paper: _paper:10.1016/j.calphad.2008.05.002:Al2Er3  
 _tdb: _tdb:AlEr-02Cac.tdb:AL2ER3, tdb:AlEr-22Xu.tdb:AL2ER3  
 
 
@@ -91,12 +92,14 @@ _tdb: _tdb:AlEr-02Cac.tdb:AL2ER3, tdb:AlEr-22Xu.tdb:AL2ER3
 58: CONST AL2ER3 : AL : ER : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2022.102482](https://doi.org/10.1016/j.calphad.2022.102482) L. Xu, X. Shi, D. Xia, D. Huang, H. Tang, Calphad, 79, 102482(2022).  
 _assessment that models this phase_
 - [doi:10.1361/105497102770332199](https://doi.org/10.1361/105497102770332199) G. Cacciamani, A. Saccone, S. De Negri, R. Ferro, J. Phase Equilib., 23, 38-50(2002).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002) L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008).  
+_reports values for this phase_
 
 ## AL3ER (Al–Er)
 
@@ -160,12 +163,13 @@ _assessment that models this phase_
 - Structure: AlDy · oP16 · Pbcm (57); type `st:aldy-op16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.5000, Er 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1410.22 K, x(Er) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-er:aler)
 
-Names (5): _corpus: _corpus:phase:al-er:aler  
+Names (6): _corpus: _corpus:phase:al-er:aler  
 _mp: _mp:mp-aaacpqmt  
 _oqmd: _oqmd:oqmd-658342  
+_paper: _paper:10.1016/j.calphad.2008.05.002:AlEr  
 _tdb: _tdb:AlEr-02Cac.tdb:ALER, tdb:AlEr-22Xu.tdb:ALER  
 
 
@@ -185,12 +189,14 @@ _tdb: _tdb:AlEr-02Cac.tdb:ALER, tdb:AlEr-22Xu.tdb:ALER
 53: CONST ALER : AL : ER : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2022.102482](https://doi.org/10.1016/j.calphad.2022.102482) L. Xu, X. Shi, D. Xia, D. Huang, H. Tang, Calphad, 79, 102482(2022).  
 _assessment that models this phase_
 - [doi:10.1361/105497102770332199](https://doi.org/10.1361/105497102770332199) G. Cacciamani, A. Saccone, S. De Negri, R. Ferro, J. Phase Equilib., 23, 38-50(2002).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2008.05.002](https://doi.org/10.1016/j.calphad.2008.05.002) L.G. Zhang, L.B. Liu, G.X. Huang, H.Y. Qi, B.R. Jia, Z.P. Jin, Thermodynamic assessment of the Al–Cu–Er system, Calphad 32, 527-534 (2008).  
+_reports values for this phase_
 
 ## ALER2_C37 (Al–Er)
 

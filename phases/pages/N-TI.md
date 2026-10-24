@@ -1,10 +1,10 @@
 # N–Ti phases
 
-> N–Ti system: 10 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 3); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> N–Ti system: 10 phases (tier A 3, tier C 1, liquid 1, gas 1, needs_review 3, interstitial_fcc_a1_compound 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/N-TI.html · Markdown: https://data.orchid-project.org/phases/pages/N-TI.md
 
-10 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 3); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 3, tier C 1, liquid 1, gas 1, needs_review 3, interstitial_fcc_a1_compound 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=N-TI) · [full JSON](https://data.orchid-project.org/phases/systems/N-TI.json) · [N–Ti system page](https://data.orchid-project.org/systems/N-TI.html) · [Markdown](https://data.orchid-project.org/phases/pages/N-TI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -14,7 +14,7 @@ Table: Phases of the N–Ti system (10)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-n-ti-bcc-a2); _phase:n-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1149.79–2294.45 K, x(N) 0–0.10059 | 0 | 6 |
 | [FCC_7SL](#phase-n-ti-fcc-7sl); _phase:n-ti:fcc-7sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(N) 0.29898–0.5 | 0 | 2 |
-| [FCC_A1](#phase-n-ti-fcc-a1); _phase:n-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(N) 0.25211–0.5 | 0 | 4 |
+| [FCC_A1](#phase-n-ti-fcc-a1); _phase:n-ti:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 4 of 4 calculated diagram(s): 300–2500 K, x(N) 0.25211–0.5 | 0 | 4 |
 | [HCP_A3](#phase-n-ti-hcp-a3); _phase:n-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2500 K, x(N) 0–0.27537 | 0 | 6 |
 | [LIQUID](#phase-n-ti-liquid); _phase:n-ti:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1774.79–2500 K, x(N) 0–0.08388 | 1 | 6 |
 | [N2GAS](#phase-n-ti-n2gas); _phase:n-ti:n2gas_ | gas | gas | stable in 6 of 6 calculated diagram(s): 300–2500 K, x(N) 1–1 | 0 | 6 |
@@ -129,7 +129,7 @@ _assessment that models this phase_
 ## FCC_A1 (N–Ti)
 
 - Id: `phase:n-ti:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2500 K, x(N) 0.25211–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-ti:fcc-a1)

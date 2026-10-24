@@ -1,10 +1,10 @@
 # Cd–Fe–Mn–Sn system
 
-> Cd–Fe–Mn–Sn system: 16 accepted literature values (crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Fe–Mn–Sn system: 4 accepted literature values (crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-FE-MN-SN.html · Markdown: https://data.orchid-project.org/systems/CD-FE-MN-SN.md
 
-16 accepted literature values from 1 paper(s) (experimental 3, model 13); 0 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 2, model 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-FE-MN-SN.json) · [CSV](https://data.orchid-project.org/systems/CD-FE-MN-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-FE-MN-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-FE-MN-SN.html) · [Markdown](https://data.orchid-project.org/systems/CD-FE-MN-SN.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
-| model | 13 |
+| experimental | 2 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 16 |
+| crystal structure | 4 |
 
 ## Other properties
 
-### Crystal structure (16)
+### Crystal structure (4)
 
 Table: Crystal structure, Cd–Fe–Mn–Sn system
 
@@ -31,20 +31,8 @@ Table: Crystal structure, Cd–Fe–Mn–Sn system
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.2328 Å |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
 | Lattice a | 2.9788 Å | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 2.8665 Å | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 8.9219 Å | 298.15 | (αMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 6.4892 Å | 298.15 | (αSn); _alloy: Fe 0, Mn 0, Sn 1_ | experimental | [1] Qin 2014; _cites Thewlis 1954_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 6.3152 Å | 298.15 | (βMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 6 |  |
-| Lattice a | 5.8316 Å | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.6467 Å | 298.15 | (γFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 10 |  |
-| Lattice a | 3.86 Å | 298.15 | (γMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 7 |  |
-| Lattice a | 2.9793 Å | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
-| Lattice a | 3.08 Å | 298.15 | (δMn); _alloy: Fe 0, Mn 1, Sn 0_ | model | [1] Qin 2014; _cites Gokcen 1989_ [doi](https://doi.org/10.1007/bf02877580) | Table 2, p. 3, row 8 |  |
 | Lattice c | 3.0023 Å |  | β | experimental | [1] Qin 2014; _cites Raynor 1954_ [doi](https://doi.org/10.1016/0001-6160%2854%2990197-2) | Table 2, p. 3, row 4 |  |
 | Lattice c | 5.6167 Å | 298.15 | (Cd); _alloy: Fe 0, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 1 |  |
-| Lattice c | 4.947 Å | 298.15 | (αFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 9 |  |
-| Lattice c | 3.1815 Å | 298.15 | (βSn); _alloy: Fe 0, Mn 0, Sn 1_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 2 |  |
-| Lattice c | 5.6196 Å | 298.15 | (δFe); _alloy: Fe 1, Mn 0, Sn 0_ | model | [1] Qin 2014; _cites King 1981_ | Table 2, p. 3, row 11 |  |
 
 ## Sources
 

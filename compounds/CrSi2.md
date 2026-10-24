@@ -31,13 +31,13 @@ Table: Uncertainty budget of the literature values of CrSi2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -40.2 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -25.8 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -40.2 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -25.8 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -25.8 | per mol-atom | 4400 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 4400 |
 | -27.296 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -26.1 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.09 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.08 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.1 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.09 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.08 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -26.08 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 
 ## DFT formation energies

@@ -1,10 +1,10 @@
 # Gd–Li–Mg system
 
-> Gd–Li–Mg system: 30 accepted literature values (invariant reaction 12, crystal structure 10, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Li–Mg system: 23 accepted literature values (invariant reaction 12, phase transition 8, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-LI-MG.html · Markdown: https://data.orchid-project.org/systems/GD-LI-MG.md
 
-30 accepted literature values from 1 paper(s) (experimental 20, model 10); 0 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 13, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-LI-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-LI-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-LI-MG) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-LI-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-LI-MG.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 13 |
 | model | 10 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 8 |
-| crystal structure | 10 |
+| crystal structure | 3 |
 
 ## Invariant reactions (literature)
 
@@ -59,7 +59,7 @@ Table: Phase transition, Gd–Li–Mg system
 | Phase transition | 1119.15 K | 1119.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 2 |  |
 | Phase transition | 1125.15 K | 1125.15 | L/L + L' (small peak); _alloy: Gd 0.41, Li 0.3, Mg 0.29_ | experimental | [1] Kevorkov 2001 | Table 3, p. 3, row 1 |  |
 
-### Crystal structure (10)
+### Crystal structure (3)
 
 Table: Crystal structure, Gd–Li–Mg system
 
@@ -68,13 +68,6 @@ Table: Crystal structure, Gd–Li–Mg system
 | Lattice a | 0.3807 not_printed ± 1.000e-4 | 298.15 | Gd (Mg0.9, Li0.1); _alloy: Li 0.05, Mg 0.45_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 3 |  |
 | Lattice a | 0.8562 not_printed ± 5.000e-4 | 298.15 | Gd (Mg1.9, Li0.09); _alloy: Li 0.0301, Mg 0.635452_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 6 |  |
 | Lattice a | 0.7305 not_printed ± 2.000e-4 | 298.15 | Gd (Mg2.8, Li0.2); _alloy: Li 0.05, Mg 0.7_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 9 |  |
-| Lattice a | 0.3824 not_printed ± 5.000e-4 | 298.15 | GdMg; _alloy: Li 0, Mg 0.5_ | experimental | [1] Kevorkov 2001; _cites Miller 1964_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 0.3833 not_printed ± 2.000e-4 | 298.15 | GdMg; _alloy: Li 0, Mg 0.5_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 2 |  |
-| Lattice a | 0.8575 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Li 0, Mg 0.666667_ | experimental | [1] Kevorkov 2001; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 4 |  |
-| Lattice a | 0.864 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Li 0, Mg 0.666667_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 5 |  |
-| Lattice a | 0.7326 not_printed | 298.15 | GdMg3; _alloy: Li 0, Mg 0.75_ | experimental | [1] Kevorkov 2001; _cites Will 1978_ | Table 2, p. 3, row 7 |  |
-| Lattice a | 0.7315 not_printed ± 5.000e-4 | 298.15 | GdMg3; _alloy: Li 0, Mg 0.75_ | experimental | [1] Kevorkov 2001 | Table 2, p. 3, row 8 |  |
-| Lattice a | 2.2344 not_printed ± 8.000e-4 | 298.15 | GdMg5; _alloy: Li 0, Mg 0.833333_ | experimental | [1] Kevorkov 2001; _cites Fornasini 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 10 |  |
 
 ## Sources
 

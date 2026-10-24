@@ -1,10 +1,10 @@
 # Si–Ti system
 
-> Si–Ti system: 9 accepted literature values (invariant reaction 7, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ti system: 18 accepted literature values (invariant reaction 7, crystal structure 5, formation 4, phase transition 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TI.html · Markdown: https://data.orchid-project.org/systems/SI-TI.md
 
-9 accepted literature values from 1 paper(s) (model 9); 6 calculated phase diagram(s).
+18 accepted literature values from 2 paper(s) (model 9, DFT 9); 6 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TI.json) · [CSV](https://data.orchid-project.org/systems/SI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TI/SiTi-04Tok.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TI.html) · [Markdown](https://data.orchid-project.org/systems/SI-TI.md)
 
@@ -13,6 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 9 |
+| DFT | 9 |
 
 Table: Accepted values by property group
 
@@ -20,6 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 7 |
 | phase transition | 2 |
+| formation | 4 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -157,6 +160,19 @@ Table: Invariant reactions reported in the literature for the Si–Ti system (7)
 | 1443.2 | peritectoid: Si3Ti5 + bcc-A2 -> SiTi3 | Si3Ti5: Ti 0.641; bcc-A2: Ti 0.963; SiTi3: Ti 0.75 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 8 |  |
 | 1139.4 | eutectoid: bcc-A2 -> SiTi3 + hcp-A3 | bcc-A2: Ti 0.988; SiTi3: Ti 0.75; hcp-A3: Ti 0.995 | model | [1] Hämäläinen 1998 | Table I, p. 284, row 9 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Si–Ti system (4)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Si3Ti(L12) |  | -4.51 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
+| SiTi(B2) |  | -26.67 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
+| Ti3Si(D024) |  | -42.33 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| Ti3Si(L12) |  | -41.57 kJ/mol-atom | 0 | DFT |  |  | [2] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -168,11 +184,24 @@ Table: Phase transition, Si–Ti system
 | Phase transition | 1757 K | 1757 | congruent melting: Si2Ti -> Liquid; _Si2Ti: Ti 0.333; Liquid: Ti 0.333_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 3 |  |
 | Phase transition | 2394 K | 2394 | congruent melting: Si3Ti5 -> Liquid; _Si3Ti5: Ti 0.625; Liquid: Ti 0.625_ | model | [1] Hämäläinen 1998 | Table I, p. 284, row 6 |  |
 
+### Crystal structure (5)
+
+Table: Crystal structure, Si–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.8409 Å | 0 | Si3Ti(L12); _alloy: Si 0.75, Ti 0.25_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 8 |  |
+| Lattice a; _printed: a_ | 3.1161 Å | 0 | SiTi(B2); _alloy: Si 0.5, Ti 0.5_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 4 |  |
+| Lattice a; _printed: a_ | 5.6223 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 39.753 Å | 0 | Ti3Si(L12); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 9 |  |
+| Lattice c; _printed: c_ | 9.1503 Å | 0 | Ti3Si(D024); _alloy: Si 0.25, Ti 0.75_ | DFT | [2] Tokunaga 2004 | Table 2, p. 3, row 14 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
+2. Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004). [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507)
 
 ## Please cite
 

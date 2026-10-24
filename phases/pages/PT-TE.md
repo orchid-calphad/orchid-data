@@ -201,7 +201,7 @@ _cited as the source of values for this phase_
 - Id: `phase:pt-te:pt3te4`; status `assigned`
 - Structure: Pt3Te4 · hR7 · R-3m (166); type `st:pt3te4-hr7`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_5_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_166_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pt 0.4286, Te 0.5714
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1292.61 K, x(Te) 0.57143–0.57143
 - Literature: 6 values (6 accepted) from 1 papers

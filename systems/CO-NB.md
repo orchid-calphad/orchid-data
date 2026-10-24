@@ -1,10 +1,10 @@
 # Co–Nb system
 
-> Co–Nb system: 140 accepted literature values (invariant reaction 124, phase transition 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Nb system: 141 accepted literature values (invariant reaction 124, phase transition 16, crystal structure 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-NB.html · Markdown: https://data.orchid-project.org/systems/CO-NB.md
 
-140 accepted literature values from 3 paper(s) (experimental 96, model 44); 4 calculated phase diagram(s).
+141 accepted literature values from 3 paper(s) (experimental 96, model 44, DFT 1); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB.json) · [CSV](https://data.orchid-project.org/systems/CO-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-NB/CoNb-15He.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-NB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NB.html) · [Markdown](https://data.orchid-project.org/systems/CO-NB.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 96 |
 | model | 44 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 124 |
 | phase transition | 16 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -249,6 +251,14 @@ Table: Phase transition, Co–Nb system
 | Phase transition | 1823 K | 1823 | congruent melting: liq -> λ; _L: Nb 0.286; λ: Nb 0.286_ | experimental | [3] Kumar 1998; _cites Koster 1938_ [doi](https://doi.org/10.1515/ijmr-1938-300917) | Table 4, p. 7, row 10 |  |
 | Phase transition | 1843 K | 1843 | congruent melting: liq -> λ; _L: Nb 0.333; λ: Nb 0.333_ | experimental | [3] Kumar 1998; _cites Elliot 1954_ | Table 4, p. 7, row 9 |  |
 | Phase transition | 1990 K | 1990 | congruent transformation | experimental | [3] Kumar 1998; _cites Raman 1966_ | p. 2 | “Raman \[13\] reported that the C14 Laves phase melts congruently at 1990 K, whereas Bataleva et al. \[8\] found that the phase decomposes peritectically at 1693 K and is not stable below 1473 K.” |
+
+### Crystal structure (1)
+
+Table: Crystal structure, Co–Nb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Molar volume; _printed: V0_ | 12.13 Å3/atom | 0 | Co7Nb2; _alloy: Nb 0.222222_ | DFT | [2] Zhou 2020 | Table V, p. 12, row 4 |  |
 
 ## Sources
 

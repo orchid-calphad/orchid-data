@@ -1,10 +1,10 @@
 # Ag–Sc system
 
-> Ag–Sc system: 22 accepted literature values (phase transition 12, invariant reaction 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Sc system: 20 accepted literature values (phase transition 10, invariant reaction 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SC.html · Markdown: https://data.orchid-project.org/systems/AG-SC.md
 
-22 accepted literature values from 1 paper(s) (experimental 13, model 9); 2 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 12, model 8); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SC.json) · [CSV](https://data.orchid-project.org/systems/AG-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SC/AgSc-08GTT.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SC.html) · [Markdown](https://data.orchid-project.org/systems/AG-SC.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 13 |
-| model | 9 |
+| experimental | 12 |
+| model | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 12 |
+| phase transition | 10 |
 
 ## Calculated phase diagrams
 
@@ -80,7 +80,7 @@ Table: Invariant reactions reported in the literature for the Ag–Sc system (10
 
 ## Other properties
 
-### Phase transition (12)
+### Phase transition (10)
 
 Table: Phase transition, Ag–Sc system
 
@@ -93,8 +93,6 @@ Table: Phase transition, Ag–Sc system
 | Phase transition | 1428.15 K | 1428.15 | congruent melting: L -> Ag2Sc; _L: Sc 0.333; Ag2Sc: Sc 0.333_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 12 |  |
 | Phase transition | 1502.95 K | 1502.95 | congruent melting: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | model | [1] Liu 2009 | Table 3, p. 4, row 9 |  |
 | Phase transition | 1503.15 K | 1503.15 | congruent melting: L -> AgSc; _L: Sc 0.5; AgSc: Sc 0.5_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 8 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 5 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _αSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 4 |  |
 | Phase transition | 1811.15 K | 1811.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Stapf 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990196-4) | Table 3, p. 4, row 2 |  |
 | Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | experimental | [1] Liu 2009; _cites Gschneidner 1983_ [doi](https://doi.org/10.1007/bf02868084) | Table 3, p. 4, row 1 |  |
 | Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Sc 1_ | model | [1] Liu 2009 | Table 3, p. 4, row 3 |  |

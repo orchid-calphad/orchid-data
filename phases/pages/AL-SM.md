@@ -18,9 +18,9 @@ Table: Phases of the Al–Sm system (13)
 | [AL3SM_D019](#phase-al-sm-al3sm-d019); _phase:al-sm:al3sm-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1408.51 K, x(Sm) 0.25–0.25 | 0 | 3 |
 | [AL4SM_D13](#phase-al-sm-al4sm-d13); _phase:al-sm:al4sm-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1330–1654.47 K, x(Sm) 0.2–0.2 | 0 | 1 |
 | [AL4SM_D1B](#phase-al-sm-al4sm-d1b); _phase:al-sm:al4sm-d1b_ | Al4U · D1_b · oI20 · Imma (74) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 3 | 1 |
-| [ALSM](#phase-al-sm-alsm); _phase:al-sm:alsm_ | AlDy · oP16 · Pbcm (57) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1236.44 K, x(Sm) 0.5–0.5 | 6 | 3 |
-| [ALSM2_C37](#phase-al-sm-alsm2-c37); _phase:al-sm:alsm2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1134.93 K, x(Sm) 0.66667–0.66667 | 10 | 3 |
-| [BCC_A2](#phase-al-sm-bcc-a2); _phase:al-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 973.36–2499.27 K, x(Sm) 0.89027–1 | 34 | 3 |
+| [ALSM](#phase-al-sm-alsm); _phase:al-sm:alsm_ | AlDy · oP16 · Pbcm (57) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1236.44 K, x(Sm) 0.5–0.5 | 5 | 3 |
+| [ALSM2_C37](#phase-al-sm-alsm2-c37); _phase:al-sm:alsm2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1134.93 K, x(Sm) 0.66667–0.66667 | 9 | 3 |
+| [BCC_A2](#phase-al-sm-bcc-a2); _phase:al-sm:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 973.36–2499.27 K, x(Sm) 0.89027–1 | 7 | 3 |
 | [FCC_A1](#phase-al-sm-fcc-a1); _phase:al-sm:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–947.78 K, x(Sm) 0–0 | 6 | 3 |
 | [HCP_A3](#phase-al-sm-hcp-a3); _phase:al-sm:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300.49–1382.31 K, x(Sm) 0.99998–1 | 0 | 3 |
 | [LIQUID](#phase-al-sm-liquid); _phase:al-sm:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 893.81–2500 K, x(Sm) 0–1 | 36 | 3 |
@@ -282,7 +282,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.5000, Sm 0.5000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1236.44 K, x(Sm) 0.5–0.5
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sm:alsm)
 
 Names (5): _corpus: _corpus:phase:al-sm:alsm  
@@ -328,7 +328,7 @@ _assessment that models this phase_
 - Structure: Co2Si · C37 · oP12 · Pnma (62); type `st:c37-co2si-op12`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.3333, Sm 0.6667
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1134.93 K, x(Sm) 0.66667–0.66667
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sm:alsm2-c37)
 
 Names (5): _corpus: _corpus:phase:al-sm:alsm2-c37  
@@ -373,11 +373,11 @@ _assessment that models this phase_
 - Id: `phase:al-sm:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 973.36–2499.27 K, x(Sm) 0.89027–1
-- Literature: 34 values (34 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-sm:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:al-sm:bcc-a2  
-_paper: _paper:10.1007/s11661-007-9445-6:bcc, paper:10.1007/s11661-007-9445-6:β  
+Names (5): _corpus: _corpus:phase:al-sm:bcc-a2  
+_paper: _paper:10.1007/s11661-007-9445-6:bcc  
 _tdb: _tdb:AlSm-08Jia.tdb:BCC_A2, tdb:AlSm-08Zho.tdb:BCC_A2, tdb:AlSm-98Sac.tdb:BCC_A2  
 
 
@@ -404,7 +404,7 @@ _tdb: _tdb:AlSm-08Jia.tdb:BCC_A2, tdb:AlSm-08Zho.tdb:BCC_A2, tdb:AlSm-98Sac.tdb:
 39: CONST BCC_A2 : AL SM% : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11661-007-9445-6](https://doi.org/10.1007/s11661-007-9445-6) S.H. Zhou, R.E. Napolitano, Modeling of Thermodynamic Properties and Phase Equilibria for the Al-Sm Binary System, Metall Mater Trans A 39, 502-512 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -412,12 +412,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2007.05.035](https://doi.org/10.1016/j.jallcom.2007.05.035) B.R. Jia, L.B. Liu, D.Q. Yi, Z.P. Jin, J.F. Nie, Thermodynamic assessment of the Al–Mg–Sm system, Journal of Alloys and Compounds 459, 267-273 (2008).  
 _assessment that models this phase_
-- [doi:10.1016/0022-5088(67)90116-6](https://doi.org/10.1016/0022-5088%2867%2990116-6) F Casteels, The aluminium-rich parts of the aluminium-samarium and aluminium-dysprosium systems, Journal of the Less Common Metals 12, 210-220 (1967).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0167-577x(95)00066-6](https://doi.org/10.1016/0167-577x%2895%2900066-6) J.Q. Guo, K. Ohtera, K. Kita, J. Nagahora, N.S. Kazama, Crystallization behavior of Al100 − xSmx (x = 8–14 at%) amorphous alloys, Materials Letters 24, 133-138 (1995).  
-_cited as the source of values for this phase_
-- [doi:10.1016/s0921-5093(00)01537-9](https://doi.org/10.1016/s0921-5093%2800%2901537-9) P. Rizzi, M. Baricco, S. Borace, L. Battezzati, Phase selection in Al–TM–RE alloys: nanocrystalline Al versus intermetallics, Materials Science and Engineering: A 304-306, 574-578 (2001).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Al–Sm)
 

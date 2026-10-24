@@ -12,7 +12,7 @@ Table: Phases of the Nb–Re system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [CHI_A12](#phase-nb-re-a12-chi); _phase:nb-re:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3018.52 K, x(Re) 0.60144–0.90044 | 27 | 2 |
+| [CHI_A12](#phase-nb-re-a12-chi); _phase:nb-re:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3018.52 K, x(Re) 0.60144–0.90044 | 24 | 2 |
 | [BCC_A2](#phase-nb-re-bcc-a2); _phase:nb-re:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2779.46 K, x(Re) 0–0.46955 | 10 | 2 |
 | [SIGMA_D8B](#phase-nb-re-d8b-sigma); _phase:nb-re:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 2435.76–2831.78 K, x(Re) 0.52522–0.59992 | 21 | 2 |
 | [FCC_A1](#phase-nb-re-fcc-a1); _phase:nb-re:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -24,7 +24,7 @@ Table: Phases of the Nb–Re system (6)
 - Id: `phase:nb-re:a12-chi`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3018.52 K, x(Re) 0.60144–0.90044
-- Literature: 27 values (27 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-re:a12-chi)
 
 Names (7): _corpus: _corpus:phase:nb-re:a12-chi, corpus:phase:nb-re:chi-a12  

@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of ScSn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48.9 | kJ/mol-atom | 5.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 5.7 |
-| -44.922 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48.9 | kJ/mol-atom | 5.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 5.7 |
+| -44.922 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Ca–In–Sb system
 
-> Ca–In–Sb system: 86 accepted literature values (crystal structure 49, formation 19, invariant reaction 18) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–In–Sb system: 22 accepted literature values (invariant reaction 18, crystal structure 3, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-IN-SB.html · Markdown: https://data.orchid-project.org/systems/CA-IN-SB.md
 
-86 accepted literature values from 1 paper(s) (experimental 31, model 40, DFT 7, unspecified 8); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 12, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-IN-SB.json) · [CSV](https://data.orchid-project.org/systems/CA-IN-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-IN-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-IN-SB.html) · [Markdown](https://data.orchid-project.org/systems/CA-IN-SB.md)
 
@@ -12,18 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 40 |
-| DFT | 7 |
-| unspecified | 8 |
+| experimental | 12 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 18 |
-| formation | 19 |
-| crystal structure | 49 |
+| formation | 1 |
+| crystal structure | 3 |
 
 ## Invariant reactions (literature)
 
@@ -54,87 +52,23 @@ Table: Invariant reactions reported in the literature for the Ca–In–Sb syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–In–Sb system (19)
+Table: Enthalpies of formation, Ca–In–Sb system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -112 kJ/mol-atom ± 5 | 1100 | experimental | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 14 |  |
-| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -107 kJ/mol-atom ± 3 | 1078 | experimental | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 13 |  |
-| Ca11Sb10 | [Ca11Sb10](https://data.orchid-project.org/compounds/Ca11Sb10.html) | -96.8 kJ/mol-atom | 298.15 | model | -100.068 (mp-aaaaascv) | -92.512 (oqmd-32356) | [1] Qin 2015 | Table 3, p. 3, row 16 |  |
-| Ca11Sb10 |  | -92.36 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 15 |  |
-| Ca2Sb |  | -86.47 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 7 |  |
-| Ca2Sb | [Ca2Sb](https://data.orchid-project.org/compounds/Ca2Sb.html) | -76.94 kJ/mol-atom | 298.15 | model | -91.218 (mp-aaaaaort) | -86.636 (oqmd-1641) | [1] Qin 2015 | Table 3, p. 3, row 8 |  |
-| Ca5Sb3 |  | -96.14 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 11 |  |
-| Ca5Sb3 |  | -96 per mol-atom ± 5 | 1100 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1990_ | Table 3, p. 3, row 10 |  |
-| Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -86 kJ/mol-atom ± 6 | 1078 | experimental | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
-| Ca5Sb3 | [Ca5Sb3](https://data.orchid-project.org/compounds/Ca5Sb3.html) | -84.44 kJ/mol-atom | 298.15 | model | -102.076 (mp-aaaaazzo) | -96.307 (oqmd-113707) | [1] Qin 2015 | Table 3, p. 3, row 12 |  |
-| Ca8In3 |  | -32.87 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 1 |  |
-| Ca8In3 | [Ca8In3](https://data.orchid-project.org/compounds/Ca8In3.html) | -32.28 kJ/mol-atom | 298.15 | model | -31.681 (mp-aaacpuqk) | -33.711 (oqmd-10994) | [1] Qin 2015 | Table 3, p. 3, row 2 |  |
-| CaIn | [CaIn](https://data.orchid-project.org/compounds/CaIn.html) | -47.42 kJ/mol-atom | 298.15 | model | -45.305 (mp-aaaabdzj) | -47.119 (oqmd-2168902) | [1] Qin 2015 | Table 3, p. 3, row 4 |  |
-| CaIn |  | -46.76 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 3 |  |
-| CaIn2 | [CaIn2](https://data.orchid-project.org/compounds/CaIn2.html) | -43.41 kJ/mol-atom | 298.15 | model | -40.983 (mp-aaaabfei) | -43.57 (oqmd-10870) | [1] Qin 2015 | Table 3, p. 3, row 6 |  |
-| CaIn2 |  | -43.4 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 5 |  |
-| CaSb2 | [CaSb2](https://data.orchid-project.org/compounds/CaSb2.html) | -75 kJ/mol-atom | 298.15 | model | -71.466 (mp-aaaaalcf) | -60.097 (oqmd-1772) | [1] Qin 2015 | Table 3, p. 3, row 18 |  |
-| CaSb2 |  | -60.18 kJ/mol-atom | 0 | DFT |  |  | [1] Qin 2015 | Table 3, p. 3, row 17 |  |
 | UNKNOWN |  | -86 per mol-atom ± 6 | 1078 | experimental |  |  | [1] Qin 2015; _cites Bouhajib 1999_ [doi](https://doi.org/10.1515/htmp.1999.18.3.151) | Table 3, p. 3, row 9 |  |
 
 ## Other properties
 
-### Crystal structure (49)
+### Crystal structure (3)
 
 Table: Crystal structure, Ca–In–Sb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 32.99 Å |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
-| Lattice a | 43.78 Å |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
 | Lattice a | 55.18 Å |  | (αCa); _alloy: In 0, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 3 |  |
-| Lattice a | 120.3 Å |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
-| Lattice a | 47.7 Å |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
-| Lattice a | 90.8 Å |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
-| Lattice a | 95.72 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice a | 38.66 Å |  | CaIn; _alloy: In 0.5, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 9 |  |
-| Lattice a | 54.96 Å |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice a | 46.59 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice a | 32.48 Å | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 43.06 Å | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
 | Lattice a | 55.82 Å | 298.15 | (αCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1966_ | Table 1, p. 2, row 2 |  |
 | Lattice a | 44.8 Å | 298.15 | (βCa); _alloy: In 0, Sb 0_ | experimental | [1] Qin 2015; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table 1, p. 2, row 1 |  |
-| Lattice a | 119.4 Å | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
-| Lattice a | 46.7 Å | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
-| Lattice a | 90.31 Å | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
-| Lattice a | 96.06 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice a | 38.56 Å | 298.15 | CaIn; _alloy: In 0.5, Sb 0_ | experimental | [1] Qin 2015; _cites Bruzzone 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990081-5) | Table 1, p. 2, row 8 |  |
-| Lattice a | 48.95 Å | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| Lattice a | 47.46 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| Lattice b | 97.08 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice b | 43.09 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice b | 97.17 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice b | 41.77 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| Lattice c | 50.22 Å |  | (In); _alloy: In 1, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 5 |  |
-| Lattice c | 11.45 Å |  | (Sb); _alloy: In 0, Sb 1_ | model | [1] Qin 2015 | Table 1, p. 2, row 13 |  |
-| Lattice c | 173.8 Å |  | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | model | [1] Qin 2015 | Table 1, p. 2, row 19 |  |
-| Lattice c | 167.4 Å |  | Ca2Sb; _alloy: In 0, Sb 0.333333_ | model | [1] Qin 2015 | Table 1, p. 2, row 15 |  |
-| Lattice c | 69.56 Å |  | Ca5Sb3; _alloy: In 0, Sb 0.375_ | model | [1] Qin 2015 | Table 1, p. 2, row 17 |  |
-| Lattice c | 97.83 Å |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| Lattice c | 77.2 Å |  | CaIn2; _alloy: In 0.666667, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 11 |  |
-| Lattice c | 88.4 Å |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| Lattice c | 49.48 Å | 298.15 | (In); _alloy: In 1, Sb 0_ | experimental | [1] Qin 2015; _cites Graham 1955_ | Table 1, p. 2, row 4 |  |
-| Lattice c | 11.25 Å | 298.15 | (Sb); _alloy: In 0, Sb 1_ | experimental | [1] Qin 2015; _cites Kim 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902709-0) | Table 1, p. 2, row 12 |  |
-| Lattice c | 174 Å | 298.15 | Ca11Sb10; _alloy: In 0, Sb 0.47619_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 18 |  |
-| Lattice c | 162.8 Å | 298.15 | Ca2Sb; _alloy: In 0, Sb 0.333333_ | experimental | [1] Qin 2015; _cites Eisenmann 1974_ [doi](https://doi.org/10.1515/znb-1974-1-207) | Table 1, p. 2, row 14 |  |
-| Lattice c | 70.25 Å | 298.15 | Ca5Sb3; _alloy: In 0, Sb 0.375_ | unspecified | [1] Qin 2015; _cites Leon-Escamilla 2006_ [doi](https://doi.org/10.1021/cm0612191) | Table 1, p. 2, row 16 |  |
-| Lattice c | 97.82 Å | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| Lattice c | 77.5 Å | 298.15 | CaIn2; _alloy: In 0.666667, Sb 0_ | experimental | [1] Qin 2015; _cites Iandelli 1964_ [doi](https://doi.org/10.1002/zaac.19643300315) | Table 1, p. 2, row 10 |  |
-| Lattice c | 89.91 Å | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| lattice alpha | 69.72 deg |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice alpha | 69.65 deg | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| lattice beta | 78.93 deg |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice beta | 105.47 deg |  | CaSb2; _alloy: In 0, Sb 0.666667_ | model | [1] Qin 2015 | Table 1, p. 2, row 21 |  |
-| lattice beta | 78.85 deg | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
-| lattice beta | 104.14 deg | 298.15 | CaSb2; _alloy: In 0, Sb 0.666667_ | experimental | [1] Qin 2015; _cites Deller 1976_ [doi](https://doi.org/10.1515/znb-1976-0105) | Table 1, p. 2, row 20 |  |
-| lattice gamma | 60.27 deg |  | Ca8In3; _alloy: In 0.272727, Sb 0_ | model | [1] Qin 2015 | Table 1, p. 2, row 7 |  |
-| lattice gamma | 60.34 deg | 298.15 | Ca8In3; _alloy: In 0.272727, Sb 0_ | unspecified | [1] Qin 2015; _cites Marsh 1988_ [doi](https://doi.org/10.1107/s0108270187010904) | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

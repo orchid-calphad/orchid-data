@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AlIr reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -118 kJ/mol-atom | B2-AlIr | 0 | experimental |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
+| -118 kJ/mol-atom | B2-AlIr | 298.15 | experimental |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [1] Abe 2008; _cites Ode 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2005.01.020) | Table 2, p. 3, row 20 |  |
 | -92.8 kJ/mol-atom ± 1.8 | AlIr |  | DFT |  | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006; _cites Jung 1992_ | Table 1, p. 2, row 4 |  |
 | -91.9 kJ/mol-atom | AlIr | 0 | DFT | First-principles | [Al–Ir](https://data.orchid-project.org/systems/AL-IR.html) | [2] JIANG 2006 | Table 1, p. 2, row 3 |  |
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AlIr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -118 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -92.8 | kJ/mol-atom | 1.8 | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -91.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -118 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -92.8 | kJ/mol-atom | 1.8 | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -91.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

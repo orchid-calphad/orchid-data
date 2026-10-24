@@ -1,10 +1,10 @@
 # Ru–Sn system
 
-> Ru–Sn system: 247 accepted literature values (mixing / partial 151, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ru–Sn system: 244 accepted literature values (mixing / partial 148, activity / EMF / Gibbs energy 67, phase equilibrium 10, formation 9) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RU-SN.html · Markdown: https://data.orchid-project.org/systems/RU-SN.md
 
-247 accepted literature values from 2 paper(s) (experimental 46, model 197, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+244 accepted literature values from 2 paper(s) (experimental 46, model 194, unspecified 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RU-SN.json) · [CSV](https://data.orchid-project.org/systems/RU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RU-SN/RuSn-12Lon.json) · [phases (8)](https://data.orchid-project.org/phases/pages/RU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RU-SN.html) · [Markdown](https://data.orchid-project.org/systems/RU-SN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 46 |
-| model | 197 |
+| model | 194 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 1 |
 | phase equilibrium | 10 |
 | formation | 9 |
-| mixing / partial | 151 |
+| mixing / partial | 148 |
 | activity / EMF / Gibbs energy | 67 |
 
 ## Calculated phase diagrams
@@ -118,7 +118,7 @@ Table: Phase equilibrium, Ru–Sn system
 | Phase composition |  | 1539.1 | Liquid + Ru; _Liquid: Ru 0.35, Sn 0.65; Ru: Ru 1, Sn 0_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 1 |  |
 | Phase composition |  | 1539.1 | Liquid + Ru0.4Sn0.6; _Liquid: Ru 0.35, Sn 0.65; Ru0.4Sn0.6: Ru 0.4, Sn 0.6_ | experimental | [2] Charles 1999; _cites Perring 1996_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902396-1) | Table 3, p. 4, row 2 |  |
 
-### Mixing / partial (151)
+### Mixing / partial (148)
 
 Table: Mixing / partial, Ru–Sn system
 
@@ -224,7 +224,6 @@ Table: Mixing / partial, Ru–Sn system
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 1.837 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |
 | Entropy of mixing; _printed: Integral entropy of mixing_ | 0.87 J/mol (basis unstated)/K | 1773 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 18 |  |
 | Entropy of mixing; _printed: ΔSmelt_ | 14.8 J/mol (basis unstated)/K | 2607 | UNKNOWN; _alloy: Sn 0_ | model | [2] Charles 1999; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 4, row 1 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 2 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.794 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 8 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -1.911 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 7 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.645 kJ/mol (basis unstated) | 1373 | liquid; _alloy: Ru 0.3, Sn 0.7_ | model | [2] Charles 1999 | Table 7, p. 8, row 43 |  |
@@ -254,7 +253,6 @@ Table: Mixing / partial, Ru–Sn system
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.921 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 17 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.84 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.15, Sn 0.85_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 20 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.45 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.3, Sn 0.7_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 41 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 3 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.2 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | experimental | [2] Charles 1999; _cites Kawabata 1998_ [doi](https://doi.org/10.1007/s11663-998-0092-0) | Table 7, p. 8, row 13 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.116 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.1, Sn 0.9_ | model | [2] Charles 1999 | Table 7, p. 8, row 16 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.186 kJ/mol (basis unstated) | 1573 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 30 |  |
@@ -270,7 +268,6 @@ Table: Mixing / partial, Ru–Sn system
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.169 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 33 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -3.782 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.15, Sn 0.85_ | model | [2] Charles 1999 | Table 7, p. 8, row 26 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.432 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.2, Sn 0.8_ | model | [2] Charles 1999 | Table 7, p. 8, row 32 |  |
-| Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | 0 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0, Sn 1_ | model | [2] Charles 1999 | Table 7, p. 8, row 6 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.234 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.35, Sn 0.65_ | model | [2] Charles 1999 | Table 7, p. 8, row 54 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -2.081 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.05, Sn 0.95_ | model | [2] Charles 1999 | Table 7, p. 8, row 12 |  |
 | Gibbs energy of mixing; _printed: Integral Gibbs energies of mixing_ | -4.352 kJ/mol (basis unstated) | 1773 | liquid; _alloy: Ru 0.25, Sn 0.75_ | model | [2] Charles 1999 | Table 7, p. 8, row 40 |  |

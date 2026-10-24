@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/NiTa3.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (DFT 2).
 
-Systems: [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html)
+Systems: [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of NiTa3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 12.48 kJ/mol-atom | Ta3Ni |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
-| 12.54 kJ/mol-atom | Ta3Ni |  | DFT | first-principles calculations | [Mo–Ni–Ta](https://data.orchid-project.org/systems/MO-NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
+| 12.48 kJ/mol-atom | Ta3Ni |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 41 |  |
+| 12.54 kJ/mol-atom | Ta3Ni |  | DFT | first-principles calculations | [Ni–Ta](https://data.orchid-project.org/systems/NI-TA.html) | [1] Zhou 2009 | Table 6, p. 7, row 33 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NiTa3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 12.48 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 12.54 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 12.48 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| 12.54 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

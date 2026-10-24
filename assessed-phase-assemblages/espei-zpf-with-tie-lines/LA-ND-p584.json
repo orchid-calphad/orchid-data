@@ -6,18 +6,61 @@
  ],
  "phases": [
   "BCC_A2",
+  "DHCP",
   "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
+   750.2391044,
+   1116.239104,
    1115.239104,
    1356.239104
   ]
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     0.5092718323
+    ]
+   ]
+  ],
+  [
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.7396591184
+    ]
+   ]
+  ],
   [
    [
     "FCC_A1",
@@ -70,10 +113,14 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "LA-ND-p584",
   "record_ids": [
+   "aspa-fd6e43fc96f0d3ea",
+   "aspa-527ba9cea9d42619",
    "aspa-b2027b018ff0dbd8",
    "aspa-f0750593d742f679"
   ],
   "boundary_basis": [
+   "dashed_estimated",
+   "mixed",
    "mixed",
    "dashed_estimated"
   ]
@@ -82,6 +129,42 @@
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
+   {
+    "record_id": "aspa-fd6e43fc96f0d3ea",
+    "boundary_basis": "dashed_estimated",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 20.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 145.5,
+     "sigma_effective": 20.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.04,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.181305,
+     "sigma_effective": 0.04
+    }
+   },
+   {
+    "record_id": "aspa-527ba9cea9d42619",
+    "boundary_basis": "mixed",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 15.0,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 14.5,
+     "sigma_effective": 15.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.03,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.126212,
+     "sigma_effective": 0.03
+    }
+   },
    {
     "record_id": "aspa-b2027b018ff0dbd8",
     "boundary_basis": "mixed",

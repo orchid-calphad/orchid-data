@@ -1,10 +1,10 @@
 # Fe–W system
 
-> Fe–W system: 6 accepted literature values (phase transition 5, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–W system: 8 accepted literature values (phase transition 5, crystal structure 2, invariant reaction 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-W.html · Markdown: https://data.orchid-project.org/systems/FE-W.md
 
-6 accepted literature values from 1 paper(s) (experimental 6); 3 calculated phase diagram(s).
+8 accepted literature values from 2 paper(s) (experimental 6, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-W.json) · [CSV](https://data.orchid-project.org/systems/FE-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-W/FeW-15Jac-phonon.json) · [phases (6)](https://data.orchid-project.org/phases/pages/FE-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-W.html) · [Markdown](https://data.orchid-project.org/systems/FE-W.md)
 
@@ -13,6 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -20,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 5 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -73,11 +75,21 @@ Table: Phase transition, Fe–W system
 | Phase transition | 2350 K | 2350 |  | experimental | [1] Gustafson 1987 | p. 3 | “At about 2350 K an ordered hexagonal structure forms.” |
 | Phase transition | 2750 K | 2750 |  | experimental | [1] Gustafson 1987; _cites Holleck 1981_ | p. 3 | “It transforms at about 2750 K into an orthorhombic structure, with a lower maximum solubility of carbon.” |
 
+### Crystal structure (2)
+
+Table: Crystal structure, Fe–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.766 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1 |  |
+| Lattice c | 25.8731 Å | 298.15 | μ; _alloy: Fe 0.538462, W 0.461538_ | unspecified | [2] Ostrowska 2020 | Table 3, p. 3, row 1 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Per Gustafson, A thermodynamic evaluation of the C−Fe−W system, Metall Trans A 18, 175-188 (1987). [doi:10.1007/bf02825699](https://doi.org/10.1007/bf02825699)
+2. Marlena Ostrowska, Gabriele Cacciamani, Thermodynamic modelling of the σ and μ phases in several ternary systems containing Co, Cr, Fe, Mo, Re and W, Journal of Alloys and Compounds 845, 156122 (2020). [doi:10.1016/j.jallcom.2020.156122](https://doi.org/10.1016/j.jallcom.2020.156122)
 
 ## Please cite
 

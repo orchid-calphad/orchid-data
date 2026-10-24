@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "BCC_A2",
   "C14_LAVES",
   "C15_LAVES",
   "C36_LAVES",
@@ -19,7 +18,6 @@
    1753.15,
    1675.15,
    1651.15,
-   1647.15,
    1520.15,
    1510.15
   ]
@@ -102,35 +100,6 @@
      "NB"
     ],
     [
-     0.61
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "NB"
-    ],
-    [
-     0.969
-    ]
-   ],
-   [
-    "MU_D85",
-    [
-     "NB"
-    ],
-    [
-     0.527
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NB"
-    ],
-    [
      0.145
     ]
    ],
@@ -190,7 +159,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQTEGMLQH7 ORC-XDIYOIZCHV ORC-EAZLKMILGZ ORC-YQRMHG4FD6 ORC-3T3CRZ57YC ORC-WJ6XPJBVBV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OQTEGMLQH7 ORC-XDIYOIZCHV ORC-EAZLKMILGZ ORC-3T3CRZ57YC ORC-WJ6XPJBVBV",
  "bibtex": "pargeter1967_bcc32c",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -229,20 +198,6 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2015.02.182",
     "measured_in": "doi:10.1016/0022-5088(67)90004-5"
-   },
-   {
-    "id": "ORC-YQRMHG4FD6",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2015.02.182",
-    "measured_in": "doi:10.1016/0022-5088(67)90004-5",
-    "also_reported_as": [
-     {
-      "id": "ORC-KXVQSUNO6C",
-      "paper": "doi:10.1007/s11661-020-05963-2",
-      "measured_in": "doi:10.1016/0022-5088(67)90004-5",
-      "dataset": "invariants/CO-NB/CoNb-20Zho.zpf-00.json"
-     }
-    ]
    },
    {
     "id": "ORC-3T3CRZ57YC",
@@ -284,7 +239,8 @@
    "10.1016/j.jallcom.2015.02.182"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoNb-15He/zpf-00.json",
-  "e3_merged": 5
+  "values_dropped": 1,
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -296,14 +252,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.005,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -316,7 +272,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -328,14 +284,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.005,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -348,7 +304,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -360,14 +316,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.005,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -380,7 +336,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -392,14 +348,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.005,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -412,7 +368,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -424,14 +380,14 @@
      "temperature_K": {
       "sigma_printed": null,
       "sigma_reading": 0.005,
-      "sigma_method": 10.0,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -444,39 +400,7 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
-      "method_entry": "value_types/X_PHASE/classes/unknown"
-     }
-    }
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "budget": {
-     "temperature_K": {
-      "sigma_printed": null,
-      "sigma_reading": 0.005,
-      "sigma_method": 10.0,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 10.0,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 4981,
-      "method_entry": "value_types/T_INVARIANT/classes/unknown"
-     },
-     "composition_mole_fraction": {
-      "sigma_printed": null,
-      "sigma_reading": 0.0005,
-      "sigma_method": 0.011,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 0.011,
-      "method_class": "unknown",
-      "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -501,11 +425,6 @@
    },
    {
     "id": "ORC-EAZLKMILGZ",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-YQRMHG4FD6",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

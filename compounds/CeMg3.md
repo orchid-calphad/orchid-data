@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CeMg3.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (experimental 2); experimental median -16.35 kJ/mol-atom (n = 2); Materials Project -2.733 kJ/mol-atom (mp-aaaaacre); OQMD -12.911 kJ/mol-atom (oqmd-645802).
 
-Systems: [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html)
+Systems: [Ce–Mg](https://data.orchid-project.org/systems/CE-MG.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CeMg3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17.8 kJ/mol-atom | CeMg3 | 298.15 | experimental | HCl sol. cal. | [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html) | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5 |  |
-| -14.9 kJ/mol-atom | CeMg3 | 298.15 | experimental | Solution cal. Mg | [Ce–Gd–La–Mg–Nd–Pr–Sm](https://data.orchid-project.org/systems/CE-GD-LA-MG-ND-PR-SM.html) | [1] Hampl 2013; _cites ref. 1988Nag_ | Table 6, p. 10, row 8 |  |
+| -17.8 kJ/mol-atom | CeMg3 | 298.15 | experimental | HCl sol. cal. | [Ce–Mg](https://data.orchid-project.org/systems/CE-MG.html) | [1] Hampl 2013; _cites ref. 1924Bil_ | Table 6, p. 10, row 5 |  |
+| -14.9 kJ/mol-atom | CeMg3 | 298.15 | experimental | Solution cal. Mg | [Ce–Mg](https://data.orchid-project.org/systems/CE-MG.html) | [1] Hampl 2013; _cites ref. 1988Nag_ | Table 6, p. 10, row 8 |  |
 
 ### Uncertainty budget
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of CeMg3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaacre | -2.733 | -0.028329 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-645802 | -12.911 | -0.133815 | Fm-3m | 0.004 | 0 | no |
+| OQMD | oqmd-645802 | -12.911 | -0.133815 | Fm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

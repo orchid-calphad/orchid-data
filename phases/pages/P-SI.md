@@ -20,15 +20,15 @@ Table: Phases of the P–Si system (10)
 | [LIQUID](#phase-p-si-liquid); _phase:p-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1397.99–2500 K, x(P) 0–0.40583 | 25 | 4 |
 | [RED_P](#phase-p-si-p-red); _phase:p-si:p-red_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–704.7 K, x(P) 1–1 | 0 | 4 |
 | [WHITE_P](#phase-p-si-p-white); _phase:p-si:p-white_ |  | needs_review | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [SIP](#phase-p-si-sip); _phase:p-si:sip_ | SiP · oC48 · Cmc2_1 (36) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5 | 39 | 4 |
-| [SIP2](#phase-p-si-sip2); _phase:p-si:sip2_ | GeAs2 · oP24 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1073.6 K, x(P) 0.66667–0.66667 | 11 | 3 |
+| [SIP](#phase-p-si-sip); _phase:p-si:sip_ | SiP · oC48 · Cmc2_1 (36) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5 | 42 | 4 |
+| [SIP2](#phase-p-si-sip2); _phase:p-si:sip2_ | GeAs2 · oP24 · Pbam (55) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1073.6 K, x(P) 0.66667–0.66667 | 14 | 3 |
 
 ## DIAMOND_A4 (P–Si)
 
 - Id: `phase:p-si:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2499.24 K, x(P) 0–0.02402
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 19 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:a4-diamond)
 
 Names (8): _corpus: _corpus:phase:p-si:a4-diamond, corpus:phase:p-si:diamond-a4  
@@ -288,7 +288,7 @@ _assessment that models this phase_
 - Id: `phase:p-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1397.99–2500 K, x(P) 0–0.40583
-- Literature: 25 values (24 accepted) from 2 papers
+- Literature: 25 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:liquid)
 
 Names (8): _corpus: _corpus:phase:p-si:liquid  
@@ -344,6 +344,7 @@ _cited as the source of values for this phase_
 - Id: `phase:p-si:p-red`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token
 - Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P
+- Stoichiometry: P 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–704.7 K, x(P) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:p-red)
@@ -396,6 +397,7 @@ _assessment that models this phase_
 - Id: `phase:p-si:p-white`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token
 - Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P
+- Stoichiometry: P 1.0000
 - Stability: not stable in 4 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:p-white)
@@ -451,11 +453,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: P 0.5000, Si 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1412.69 K, x(P) 0.5–0.5
-- Literature: 39 values (38 accepted) from 2 papers
+- Literature: 42 values (39 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:sip)
 
-Names (7): _corpus: _corpus:phase:p-si:sip  
-_paper: _paper:10.1007/s11669-013-0269-3:SiP, paper:10.1016/j.calphad.2024.102758:SiP  
+Names (8): _corpus: _corpus:phase:p-si:sip  
+_paper: _paper:10.1007/s11669-013-0269-3:SiP, paper:10.1016/j.calphad.2024.102758:SiP, paper:10.1016/j.surfcoat.2016.01.016:SiP  
 _tdb: _tdb:SiP-04Din-LB.tdb:SIP, tdb:SiP-14Lia.tdb:SIP, tdb:SiP-21Don.tdb:SIP, tdb:SiP-24Fav.tdb:SIP  
 
 
@@ -489,7 +491,7 @@ _tdb: _tdb:SiP-04Din-LB.tdb:SIP, tdb:SiP-14Lia.tdb:SIP, tdb:SiP-21Don.tdb:SIP, t
 74: CONST SIP : SI : P : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 10; assessments first): 
 
 - [doi:10.1007/s11669-013-0269-3](https://doi.org/10.1007/s11669-013-0269-3) Song-Mao Liang, Rainer Schmid-Fetzer, Modeling of Thermodynamic Properties and Phase Equilibria of the Si-P System, J. Phase Equilib. Diffus. 35, 24-35 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -499,6 +501,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1007/s11837-012-0387-0](https://doi.org/10.1007/s11837-012-0387-0) In-Ho Jung, Yumin Zhang, Thermodynamic Calculations for the Dephosphorization of Silicon Using Molten Slag, JOM 64, 973-981 (2012).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016) Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016).  
+_reports values for this phase_
 - [doi:10.1002/9783527618347](https://doi.org/10.1002/9783527618347) M. Binnewies, E Milke, Thermochemical Data of Elements and Compounds, (2002).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19764250313](https://doi.org/10.1002/zaac.19764250313) J. Korb, K. Hein, Dampfdruckuntersuchungen im System ZnSiP, Zeitschrift anorg allge chemie 425, 281-288 (1976).  
@@ -518,11 +522,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_55_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: P 0.6667, Si 0.3333
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1073.6 K, x(P) 0.66667–0.66667
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:p-si:sip2)
 
-Names (6): _corpus: _corpus:phase:p-si:sip2  
-_paper: _paper:10.1007/s11669-013-0269-3:SiP2, paper:10.1016/j.calphad.2024.102758:SiP2  
+Names (7): _corpus: _corpus:phase:p-si:sip2  
+_paper: _paper:10.1007/s11669-013-0269-3:SiP2, paper:10.1016/j.calphad.2024.102758:SiP2, paper:10.1016/j.surfcoat.2016.01.016:SiP2  
 _tdb: _tdb:SiP-14Lia.tdb:SIP2, tdb:SiP-21Don.tdb:SIP2, tdb:SiP-24Fav.tdb:SIP2  
 
 
@@ -549,7 +553,7 @@ _tdb: _tdb:SiP-14Lia.tdb:SIP2, tdb:SiP-21Don.tdb:SIP2, tdb:SiP-24Fav.tdb:SIP2
 79: CONST SIP2 : SI : P : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11669-013-0269-3](https://doi.org/10.1007/s11669-013-0269-3) Song-Mao Liang, Rainer Schmid-Fetzer, Modeling of Thermodynamic Properties and Phase Equilibria of the Si-P System, J. Phase Equilib. Diffus. 35, 24-35 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -558,6 +562,10 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-021-08861-4](https://doi.org/10.1007/s11664-021-08861-4) Hongqun Dong, Xiaoma Tao, Mervi Paulasto-Kröckel, Calculation of Phase Diagrams and First-Principles Study of Germanium Impacts on Phosphorus Distribution in Czochralski Silicon, Journal of Elec Materi 50, 4272-4288 (2021).  
 _assessment that models this phase_
 - [doi:10.1007/s11837-012-0387-0](https://doi.org/10.1007/s11837-012-0387-0) In-Ho Jung, Yumin Zhang, Thermodynamic Calculations for the Dephosphorization of Silicon Using Molten Slag, JOM 64, 973-981 (2012).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016) Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016).  
+_reports values for this phase_
+- [doi:10.3891/acta.chem.scand.21-0593](https://doi.org/10.3891/acta.chem.scand.21-0593) Tommy Wadsten, M. Vikan, C. Krohn, Åke Nilsson, H. Theorell, R. Blinc et al., The Crystal Structures of SiP2, SiAs2, and GeP., Acta Chem. Scand. 21, 593-594 (1967).  
 _cited as the source of values for this phase_
 
 ## Please cite

@@ -1,10 +1,10 @@
 # Sn–Zr system
 
-> Sn–Zr system: 72 accepted literature values (invariant reaction 40, formation 20, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–Zr system: 68 accepted literature values (invariant reaction 36, formation 20, phase equilibrium 5, phase transition 3) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-ZR.html · Markdown: https://data.orchid-project.org/systems/SN-ZR.md
 
-72 accepted literature values from 3 paper(s) (experimental 19, model 29, unspecified 24); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+68 accepted literature values from 3 paper(s) (experimental 19, model 27, unspecified 22); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-ZR/SnZr-08Jer.json) · [phases (13)](https://data.orchid-project.org/phases/pages/SN-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/SN-ZR.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 29 |
-| unspecified | 24 |
+| model | 27 |
+| unspecified | 22 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 40 |
+| invariant reaction | 36 |
 | phase transition | 3 |
 | phase equilibrium | 5 |
 | formation | 20 |
@@ -114,7 +114,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–Zr system (40)
+Table: Invariant reactions reported in the literature for the Sn–Zr system (36)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -149,15 +149,11 @@ Table: Invariant reactions reported in the literature for the Sn–Zr system (40
 | 1216 | peritectoid: βZr + A15 \<-> αZr | βZr: Sn 0.045; A15: Sn 0.195; αZr: Sn 0.065 | unspecified | [1] Pérez 2008 | Table 5, p. 8, row 7 |  |
 | 1216 | peritectoid: βZr + A15 \<-> αZr | A15: Sn 0.2, Zr 0.8 | experimental | [1] Pérez 2008 | Table 5, p. 8, row 6 |  |
 | 1216 | peritectoid: A15 + βZr ↔ αZr |  | experimental | [1] Pérez 2008 | p. 5 | “However, we used the temperature of the peritectoid reaction A15 + βZr ↔ αZr determined in the present work, 1216 ± 5 K, which is 40◦ lower than the value reported in Ref. \[1\] and adopted in previous assessments.” |
-| 1136 | congruent transformation: β Zr = α Zr |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 16 |  |
-| 1136 | congruent transformation: β Zr = α Zr | α Zr: Sn 0 | model | [2] Subasic 1998 | Table 1, p. 3, row 15 |  |
 | 505 | congruent melting: L = β Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 18 |  |
 | 504 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666667, Zr 0.333333 | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 10 |  |
 | 503 | congruent melting: L = β Sn | β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 17 |  |
 | 503 | eutectic: L = ZrSn2 + β Sn | ZrSn2: Sn 0.666; β Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 9 |  |
 | 502 | eutectic: Liquid -> Sn2Zr + bct-A5 | Liquid: Zr 0.0056; Sn2Zr: Zr 0.333; bct-A5: Zr 0 | unspecified | [3] Hämäläinen 1998 | Table I, p. 308, row 5 |  |
-| 286 | congruent transformation: β Sn = α Sn |  | unspecified | [2] Subasic 1998; _cites ref. 83Abr_ | Table 1, p. 3, row 20 |  |
-| 286 | congruent transformation: β Sn = α Sn | α Sn: Sn 1 | model | [2] Subasic 1998 | Table 1, p. 3, row 19 |  |
 
 ## Formation enthalpies
 

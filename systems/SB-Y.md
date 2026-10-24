@@ -1,10 +1,10 @@
 # Sb–Y system
 
-> Sb–Y system: 16 accepted literature values (invariant reaction 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sb–Y system: 21 accepted literature values (invariant reaction 14, crystal structure 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SB-Y.html · Markdown: https://data.orchid-project.org/systems/SB-Y.md
 
-16 accepted literature values from 1 paper(s) (experimental 8, model 8); 1 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 8, model 8, unspecified 5); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SB-Y.json) · [CSV](https://data.orchid-project.org/systems/SB-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SB-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SB-Y/SbY-09Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SB-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SB-Y.html) · [Markdown](https://data.orchid-project.org/systems/SB-Y.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 8 |
 | model | 8 |
+| unspecified | 5 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 2 |
+| crystal structure | 5 |
 
 ## Calculated phase diagrams
 
@@ -86,6 +88,18 @@ Table: Phase transition, Sb–Y system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2582 K | 2582 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | model | [1] Zhang 2009 | Table 3, p. 4, row 14 |  |
 | Phase transition | 2583 K | 2583 | congruent melting: L -> SbY; _L: Y 0.5; SbY: Y 0.5_ | experimental | [1] Zhang 2009; _cites Schmidt 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990045-7) | Table 3, p. 4, row 13 |  |
+
+### Crystal structure (5)
+
+Table: Crystal structure, Sb–Y system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.9114 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.165 Å | 298.15 | SbY; _alloy: Sb 0.5, Y 0.5_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 8 |  |
+| Lattice a | 12.361 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
+| Lattice c | 6.296 Å | 298.15 | Sb3Y5; _alloy: Sb 0.375, Y 0.625_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 9 |  |
+| Lattice c | 6.18 Å | 298.15 | SbY3; _alloy: Sb 0.25, Y 0.75_ | unspecified | [1] Zhang 2009 | Table 1, p. 2, row 10 |  |
 
 ## Sources
 

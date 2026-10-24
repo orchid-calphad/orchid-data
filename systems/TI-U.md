@@ -1,10 +1,10 @@
 # Ti–U system
 
-> Ti–U system: 209 accepted literature values (crystal structure 150, phase transition 33, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ti–U system: 200 accepted literature values (crystal structure 150, phase transition 24, invariant reaction 16, phase equilibrium 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/TI-U.html · Markdown: https://data.orchid-project.org/systems/TI-U.md
 
-209 accepted literature values from 2 paper(s) (experimental 196, model 13); 3 calculated phase diagram(s).
+200 accepted literature values from 2 paper(s) (experimental 187, model 13); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/TI-U.json) · [CSV](https://data.orchid-project.org/systems/TI-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#TI-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#TI-U/TiU-11Ber.json) · [phases (7)](https://data.orchid-project.org/phases/pages/TI-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/TI-U.html) · [Markdown](https://data.orchid-project.org/systems/TI-U.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 196 |
+| experimental | 187 |
 | model | 13 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
-| phase transition | 33 |
+| phase transition | 24 |
 | phase equilibrium | 8 |
 | crystal structure | 150 |
 | other property | 2 |
@@ -84,33 +84,24 @@ Table: Invariant reactions reported in the literature for the Ti–U system (16)
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (24)
 
 Table: Phase transition, Ti–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 6 |  |
-| Phase transition | 933.85 K | 933.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 5 |  |
 | Phase transition | 933.85 K | 933.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 31 |  |
 | Phase transition | 934.4 K | 934.4 | β U → α U + δ -U2 Ti | experimental | [1] Mo 2021 | p. 10 | “The reaction temperatures and composition of the invariant equilibria γ (U,Ti) → β U + δ -U2 Ti and β U→ α U + δ -U2 Ti were determined to be 718.5 °C at 5.4 ± 0.2 at.% and 661.25 °C respectively.” |
 | Phase transition | 934.4 K | 934.4 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 21 |  |
-| Phase transition | 934.75 K | 934.75 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 7 |  |
 | Phase transition | 934.75 K | 934.75 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 32 |  |
-| Phase transition | 935.15 K | 935.15 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 8 |  |
 | Phase transition | 935.15 K | 935.15 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 33 |  |
-| Phase transition | 935.85 K | 935.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 9 |  |
 | Phase transition | 935.85 K | 935.85 | α→β | experimental | [1] Mo 2021; _cites Rai 2009_ [doi](https://doi.org/10.1016/j.jnucmat.2008.09.012) | Table 2, p. 6, row 34 |  |
-| Phase transition | 937.65 K | 937.65 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 1 |  |
 | Phase transition | 937.65 K | 937.65 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 27 |  |
-| Phase transition | 938.05 K | 938.05 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 4 |  |
 | Phase transition | 938.55 K | 938.55 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 17 |  |
 | Phase transition | 938.6 K | 938.6 | β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 20 |  |
 | Phase transition | 938.65 K | 938.65 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 19 |  |
 | Phase transition | 938.75 K | 938.75 | eutectoid: β→α+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 18 |  |
-| Phase transition | 939.15 K | 939.15 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 2 |  |
 | Phase transition | 939.15 K | 939.15 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 28 |  |
-| Phase transition | 939.85 K | 939.85 | polymorphic: α→β; _alloy: U 1_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 3 |  |
 | Phase transition | 939.85 K | 939.85 | α→β | experimental | [1] Mo 2021 | Table 2, p. 6, row 29 |  |
 | Phase transition | 991.65 K | 991.65 | γ (U,Ti) → β U + δ -U2 Ti | experimental | [1] Mo 2021 | p. 10 | “The reaction temperatures and composition of the invariant equilibria γ (U,Ti) → β U + δ -U2 Ti and β U→ α U + δ -U2 Ti were determined to be 718.5 °C at 5.4 ± 0.2 at.% and 661.25 °C respectively.” |
 | Phase transition | 991.65 K | 991.65 | γ→β+U2Ti; _alloy: Ti 0.05, U 0.95_ | experimental | [1] Mo 2021 | Table 2, p. 6, row 16 |  |

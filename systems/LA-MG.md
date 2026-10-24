@@ -1,19 +1,19 @@
 # La–Mg system
 
-> La–Mg system: 140 accepted literature values (invariant reaction 96, phase transition 26, phase equilibrium 18) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg system: 153 accepted literature values (invariant reaction 96, phase transition 26, phase equilibrium 18, crystal structure 13) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG.html · Markdown: https://data.orchid-project.org/systems/LA-MG.md
 
-140 accepted literature values from 5 paper(s) (experimental 74, model 44, unspecified 22); 6 calculated phase diagram(s).
+153 accepted literature values from 6 paper(s) (experimental 84, model 47, unspecified 22); 6 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG.json) · [CSV](https://data.orchid-project.org/systems/LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MG/LaMg-04Guo-LB.json) · [phases (18)](https://data.orchid-project.org/phases/pages/LA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG.json) · [CSV](https://data.orchid-project.org/systems/LA-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-MG/LaMg-04Guo-LB.json) · [phases (17)](https://data.orchid-project.org/phases/pages/LA-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 74 |
-| model | 44 |
+| experimental | 84 |
+| model | 47 |
 | unspecified | 22 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 96 |
 | phase transition | 26 |
 | phase equilibrium | 18 |
+| crystal structure | 13 |
 
 ## Calculated phase diagrams
 
@@ -324,6 +325,26 @@ Table: Phase equilibrium, La–Mg system
 | Phase composition |  | 773.15 | LaMg2 + LaMg3; _LaMg2: La 0.338, Mg 0.662; LaMg3: La 0.234, Mg 0.766_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 4 |  |
 | Phase composition |  | 873.15 | La5Mg41 + LaMg3; _La5Mg41: La 0.106, Mg 0.894; LaMg3: La 0.185, Mg 0.815_ | experimental | [3] Zhang 2016 | Table 5, p. 5, row 5 |  |
 
+### Crystal structure (13)
+
+Table: Crystal structure, La–Mg system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 1.037 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
+| Lattice a | 1.4822 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
+| Lattice a | 0.3962 not_printed | 298.15 | LaMg; _alloy: Mg 0.5_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice a | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice a | 0.8774 not_printed | 298.15 | LaMg2; _alloy: Mg 0.666667_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
+| Lattice a | 0.7494 not_printed | 298.15 | LaMg3; _alloy: Mg 0.75_ | model | [6] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9 |  |
+| Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice c | 1.024 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
+| Lattice c | 1.0468 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
+| Lattice c | 7.774 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+| Lattice c | 7.749 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077_ | experimental | [6] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -333,6 +354,7 @@ Reporting papers the values were read from (a value cited from another work name
 3. Fan Zhang, Shuhong Liu, Yong Du, Experimental investigation and thermodynamic modeling of the La–Mg system, Journal of Alloys and Compounds 663, 279-288 (2016). [doi:10.1016/j.jallcom.2015.12.105](https://doi.org/10.1016/j.jallcom.2015.12.105)
 4. Wen-Fei Zhu, Qun Luo, Jie-Yu Zhang, Qian Li, Phase equilibria of Mg-La-Zr system and thermal conductivity of selected alloys, Journal of Alloys and Compounds 731, 784-795 (2018). [doi:10.1016/j.jallcom.2017.10.013](https://doi.org/10.1016/j.jallcom.2017.10.013)
 5. Joachim Gröbner, Rainer Schmid-Fetzer, Thermodynamic modeling of the Mg–Ce–Gd–Y system, Scripta Materialia 63, 674-679 (2010). [doi:10.1016/j.scriptamat.2010.01.035](https://doi.org/10.1016/j.scriptamat.2010.01.035)
+6. Shaoxin Zhou, Libin Liu, Xiaoli Yuan, Feng Zheng, Zhanpeng Jin, Thermodynamic assessment of La–Si and Mg–La–Si systems, Journal of Alloys and Compounds 490, 253-259 (2010). [doi:10.1016/j.jallcom.2009.09.171](https://doi.org/10.1016/j.jallcom.2009.09.171)
 
 ## Please cite
 

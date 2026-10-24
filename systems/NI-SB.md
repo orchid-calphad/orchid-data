@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/NI-SB.html · Markdown: https://da
 
 120 accepted literature values from 3 paper(s) (experimental 96, model 24); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SB.json) · [CSV](https://data.orchid-project.org/systems/NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SB/NiSb-08Cao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/NI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/NI-SB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SB.json) · [CSV](https://data.orchid-project.org/systems/NI-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SB/NiSb-08Cao.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SB.html) · [Markdown](https://data.orchid-project.org/systems/NI-SB.md)
 
 Table: Accepted values by evidence class
 
@@ -156,7 +156,7 @@ Table: Invariant reactions reported in the literature for the Ni–Sb system (11
 | 894 | peritectic: L + (γNiSb) ↔ ζNiSb2 | L: Sb 0.97; γNiSb: Sb 0.52; ζNiSb2: Sb 0.662 | experimental | [2] Zhang 2008; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 3, p. 5, row 10 |  |
 | 894 | L \<-> NiSb2+rhomb (Sb) | L: Sb 0.961; NiSb2: Sb 0.667; rhomb (Sb): Sb 1 | model | [1] CAO 2008 | Table 3, p. 6, row 41 |  |
 | 894 | L+NiSb \<-> NiSb2 | L: Sb 0.96; NiSb: Sb 0.52; NiSb2: Sb 0.662 | experimental | [1] CAO 2008; _cites Feschotte 1989_ | Table 3, p. 6, row 35 |  |
-| 890 | eutectic: L ↔ ζNiSb2 + εSb | L: Sb 0.96; ζNiSb2: Sb 0.6667; εSb: Sb 0.01 | model | [2] Zhang 2008 | Table 3, p. 5, row 20 |  |
+| 890 | eutectic: L ↔ ζNiSb2 + εSb | L: Sb 0.96; ζNiSb2: Sb 0.6667; εSb: Sb 1 | model | [2] Zhang 2008 | Table 3, p. 5, row 20 |  |
 | 889 | L+NiSb \<-> NiSb2 | L: Sb 0.95; NiSb: Sb 0.535; NiSb2: Sb 0.713 | experimental | [1] CAO 2008; _cites Shibata 1939_ | Table 3, p. 6, row 34 |  |
 | 889 | eutectic: L ↔ ζNiSb2 + (εSb) | L: Sb 0.96; ζNiSb2: Sb 0.714 | experimental | [2] Zhang 2008; _cites Shibata 1939_ | Table 3, p. 5, row 16 |  |
 | 889 | eutectic: L ↔ ζNiSb2 + (εSb) | ζNiSb2: Ni 0.333333, Sb 0.666667 | experimental | [2] Zhang 2008; _cites Naud 1972_ [doi](https://doi.org/10.1016/0025-5408%2872%2990207-3) | Table 3, p. 5, row 17 |  |

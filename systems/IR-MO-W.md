@@ -1,10 +1,10 @@
 # Ir–Mo–W system
 
-> Ir–Mo–W system: 72 accepted literature values (crystal structure 72) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ir–Mo–W system: 24 accepted literature values (crystal structure 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IR-MO-W.html · Markdown: https://data.orchid-project.org/systems/IR-MO-W.md
 
-72 accepted literature values from 1 paper(s) (experimental 36, model 36); 0 calculated phase diagram(s).
+24 accepted literature values from 1 paper(s) (experimental 12, model 12); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IR-MO-W.json) · [CSV](https://data.orchid-project.org/systems/IR-MO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-MO-W) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IR-MO-W.html) · [Markdown](https://data.orchid-project.org/systems/IR-MO-W.md)
 
@@ -12,91 +12,43 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 36 |
-| model | 36 |
+| experimental | 12 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 72 |
+| crystal structure | 24 |
 
 ## Other properties
 
-### Crystal structure (72)
+### Crystal structure (24)
 
 Table: Crystal structure, Ir–Mo–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.885 Å |  | Ir; _alloy: Mo 0, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice a | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice a | 5.551 Å |  | Ir3W; _alloy: Mo 0, W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice a | 2.752 Å |  | IrMo; _alloy: Mo 0.5, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice a | 4.972 Å |  | IrMo3; _alloy: Mo 0.75, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice a | 4.486 Å |  | IrW; _alloy: Mo 0, W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice a | 3.173 Å |  | Mo; _alloy: Mo 1, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice a | 3.174 Å |  | W; _alloy: Mo 0, W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
 | Lattice a | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
 | Lattice a | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
 | Lattice a | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
 | Lattice a | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice a | 3.839 Å | 298.15 | Ir; _alloy: Mo 0, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| Lattice a | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 5.496 Å | 298.15 | Ir3W; _alloy: Mo 0, W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice a | 2.752 Å | 298.15 | IrMo; _alloy: Mo 0.5, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 4.452 Å | 298.15 | IrW; _alloy: Mo 0, W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
-| Lattice a | 3.147 Å | 298.15 | Mo; _alloy: Mo 1, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
-| Lattice a | 3.165 Å | 298.15 | W; _alloy: Mo 0, W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
 | Lattice a | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
 | Lattice a | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
 | Lattice a | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |
 | Lattice a | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9 |  |
-| Lattice b | 3.885 Å |  | Ir; _alloy: Mo 0, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice b | 5.487 Å |  | Ir3Mo; _alloy: Mo 0.25, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice b | 5.551 Å |  | Ir3W; _alloy: Mo 0, W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice b | 4.804 Å |  | IrMo; _alloy: Mo 0.5, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice b | 4.972 Å |  | IrMo3; _alloy: Mo 0.75, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice b | 2.788 Å |  | IrW; _alloy: Mo 0, W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice b | 3.173 Å |  | Mo; _alloy: Mo 1, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice b | 3.174 Å |  | W; _alloy: Mo 0, W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
 | Lattice b | 2.808 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
 | Lattice b | 9.749 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
 | Lattice b | 2.795 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
 | Lattice b | 9.705 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice b | 3.839 Å | 298.15 | Ir; _alloy: Mo 0, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| Lattice b | 5.487 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice b | 5.496 Å | 298.15 | Ir3W; _alloy: Mo 0, W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice b | 4.804 Å | 298.15 | IrMo; _alloy: Mo 0.5, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
-| Lattice b | 2.76 Å | 298.15 | IrW; _alloy: Mo 0, W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
-| Lattice b | 3.147 Å | 298.15 | Mo; _alloy: Mo 1, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
-| Lattice b | 3.165 Å | 298.15 | W; _alloy: Mo 0, W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
 | Lattice b | 2.736 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
 | Lattice b | 9.672 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
 | Lattice b | 2.77 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |
 | Lattice b | 9.631 Å | 298.15 | σ | experimental | [1] Huang 2020; _cites Spooner 1964_ | Table 1, p. 3, row 9 |  |
-| Lattice c | 3.885 Å |  | Ir; _alloy: Mo 0, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 14 |  |
-| Lattice c | 4.385 Å |  | Ir3Mo; _alloy: Mo 0.25, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 8 |  |
-| Lattice c | 4.436 Å |  | Ir3W; _alloy: Mo 0, W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
-| Lattice c | 4.429 Å |  | IrMo; _alloy: Mo 0.5, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.972 Å |  | IrMo3; _alloy: Mo 0.75, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 2 |  |
-| Lattice c | 4.866 Å |  | IrW; _alloy: Mo 0, W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
-| Lattice c | 3.173 Å |  | Mo; _alloy: Mo 1, W 0_ | model | [1] Huang 2020 | Table 1, p. 3, row 12 |  |
-| Lattice c | 3.174 Å |  | W; _alloy: Mo 0, W 1_ | model | [1] Huang 2020 | Table 1, p. 3, row 24 |  |
 | Lattice c | 4.485 Å |  | e | model | [1] Huang 2020 | Table 1, p. 3, row 16 |  |
 | Lattice c | 5.018 Å |  | s | model | [1] Huang 2020 | Table 1, p. 3, row 18 |  |
 | Lattice c | 4.463 Å |  | ε | model | [1] Huang 2020 | Table 1, p. 3, row 4 |  |
 | Lattice c | 4.957 Å |  | σ | model | [1] Huang 2020 | Table 1, p. 3, row 10 |  |
-| Lattice c | 3.839 Å | 298.15 | Ir; _alloy: Mo 0, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 13 |  |
-| Lattice c | 4.385 Å | 298.15 | Ir3Mo; _alloy: Mo 0.25, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 4.39 Å | 298.15 | Ir3W; _alloy: Mo 0, W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
-| Lattice c | 4.429 Å | 298.15 | IrMo; _alloy: Mo 0.5, W 0_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 4.959 Å | 298.15 | IrMo3; _alloy: Mo 0.75, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 4.811 Å | 298.15 | IrW; _alloy: Mo 0, W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
-| Lattice c | 3.147 Å | 298.15 | Mo; _alloy: Mo 1, W 0_ | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 11 |  |
-| Lattice c | 3.165 Å | 298.15 | W; _alloy: Mo 0, W 1_ | experimental | [1] Huang 2020; _cites Goetz 1964_ | Table 1, p. 3, row 23 |  |
 | Lattice c | 4.383 Å | 298.15 | e | experimental | [1] Huang 2020; _cites E 1951_ | Table 1, p. 3, row 15 |  |
 | Lattice c | 5.01 Å | 298.15 | s | experimental | [1] Huang 2020; _cites Knapton 1958_ | Table 1, p. 3, row 17 |  |
 | Lattice c | 4.424 Å | 298.15 | ε | experimental | [1] Huang 2020; _cites Michalik 1963_ | Table 1, p. 3, row 3 |  |

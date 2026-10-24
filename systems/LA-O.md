@@ -1,10 +1,10 @@
 # La–O system
 
-> La–O system: 37 accepted literature values (formation 17, phase transition 13, heat capacity / entropy / enthalpy 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–O system: 53 accepted literature values (phase transition 25, formation 17, heat capacity / entropy / enthalpy 8, crystal structure 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-O.html · Markdown: https://data.orchid-project.org/systems/LA-O.md
 
-37 accepted literature values from 2 paper(s) (experimental 24, model 11, unspecified 2); 2 calculated phase diagram(s).
+53 accepted literature values from 2 paper(s) (experimental 34, model 17, unspecified 2); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-O.json) · [CSV](https://data.orchid-project.org/systems/LA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-O/LaO-01Gru.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-O.html) · [Markdown](https://data.orchid-project.org/systems/LA-O.md)
 
@@ -12,17 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 11 |
+| experimental | 34 |
+| model | 17 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 13 |
+| phase transition | 25 |
 | formation | 17 |
-| heat capacity / entropy / enthalpy | 7 |
+| heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -77,17 +78,29 @@ Table: Enthalpies of formation, La–O system (17)
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (25)
 
 Table: Phase transition, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2113 K | 2113 | other: \[1913Ruf\] | experimental | [2] Grundy 2001; _cites Ruff 1913_ [doi](https://doi.org/10.1002/zaac.19130820131) | Table 1, p. 2, row 1 |  |
+| Phase transition | 2303 K | 2303 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 17 |  |
 | Phase transition | 2313 K | 2313 | A-La2O3 -> H-La2O3 | model | [2] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
 | Phase transition | 2313 K | 2313 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
+| Phase transition | 2313 K | 2313 | polymorphic: A \<=> H; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 10 |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 13 |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 19 |  |
+| Phase transition | 2313 K | 2313 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 11 |  |
+| Phase transition | 2323 K | 2323 | polymorphic: A ⟺ H; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 15 |  |
+| Phase transition | 2363 K | 2363 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Molodkin 1982_ | Table 2.1, p. 6, row 20 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H \<=> X; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 24 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 6, row 14 |  |
+| Phase transition | 2373 K | 2373 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 6, row 18 |  |
 | Phase transition | 2383 K | 2383 | H-La2O3 -> X-La2O3 | model | [2] Grundy 2001 | p. 1 | “Neutron diffraction \[1979Ald\] and x-ray diffraction \[1966Foe\] studies at very high temperatures and analysis of cooling curves \[1965Foe\] show that A-La2O3 transforms to partially ordered hexagonal H-La2O3 at 2313 K, then to cubic X-La2O3 at 2383 K.” |
 | Phase transition | 2383 K | 2383 | polymorphic | experimental | [2] Grundy 2001; _cites ref. 1965Foe_ | p. 4 | “A first indication of these three polymorphic phases was given when Foëx \[1965Foe\] found three distinctive steps in the cooling curves of molten lanthanum oxide, one at 2583 K corresponding to the solidification and two more at 2383 and 2313 K corresponding to the X → H and H → A transitions, respectively.” |
+| Phase transition | 2383 K | 2383 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 12 |  |
+| Phase transition | 2413 K | 2413 | polymorphic: H ⟺ X; _alloy: La 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 6, row 16 |  |
 | Phase transition | 2490 K | 2490 | other: \[1967Mor\] | experimental | [2] Grundy 2001; _cites Mordovin 1967_ | Table 1, p. 2, row 4 |  |
 | Phase transition | 2529 K | 2529 | other: \[1967Nog\] | experimental | [2] Grundy 2001; _cites Noguchi 1968_ | Table 1, p. 2, row 5 |  |
 | Phase transition | 2577 K | 2577 | other: \[1966Sat\] | experimental | [2] Grundy 2001; _cites Sata 1966_ | Table 1, p. 2, row 3 |  |
@@ -97,12 +110,13 @@ Table: Phase transition, La–O system
 | Phase transition | 2588 K | 2588 | other: \[1932War\] | unspecified | [2] Grundy 2001; _cites ref. 1932War_ | Table 1, p. 2, row 2 |  |
 | Phase transition | 2593 K | 2593 | other: \[1975Cou\] | experimental | [2] Grundy 2001; _cites Coutures 1975_ | Table 1, p. 2, row 6 |  |
 
-### Heat capacity / entropy / enthalpy (7)
+### Heat capacity / entropy / enthalpy (8)
 
 Table: Heat capacity / entropy / enthalpy, La–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S_ | 127.38 unknown | 298.15 | A-La2O3; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 24, row 13 |  |
 | Entropy; _printed: -ΔS298.15_ | -292.88 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 4, p. 4, row 2 |  |
 | Entropy; _printed: S298.15_ | 25.464 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites Justice 1963_ [doi](https://doi.org/10.1021/j100796a031) | Table 2, p. 3, row 1 |  |
 | Entropy; _printed: S298.15_ | 25.468 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 2, p. 3, row 4 |  |
@@ -110,6 +124,16 @@ Table: Heat capacity / entropy / enthalpy, La–O system
 | Entropy; _printed: -ΔS298.15_ | -294.02 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001 | Table 4, p. 4, row 3 |  |
 | Entropy; _printed: S298.15_ | 25.714 J/mol-atom/K | 298.15 | La2O3; _alloy: O 0.6_ | model | [2] Grundy 2001; _cites King 1961_ | Table 2, p. 3, row 3 |  |
 | Entropy; _printed: -ΔS298.15_ | -294.56 J/mol·K | 298.15 | La2O3; _alloy: O 0.6_ | experimental | [2] Grundy 2001; _cites King 1961_ | Table 4, p. 4, row 1 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, La–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 55.442 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
+| lattice molar volume | 50.748 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
+| lattice molar volume | 49.627 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: La 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 3 |  |
 
 ## Sources
 

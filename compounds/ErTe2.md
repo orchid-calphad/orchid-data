@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/ErTe2.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (DFT 3).
 
-Systems: [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html)
+Systems: [Er–Te](https://data.orchid-project.org/systems/ER-TE.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of ErTe2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -132.921 kJ/mol-atom | ErTe2 |  | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 44 |  |
-| -106.39 kJ/mol-atom | ErTe2 |  | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 43 |  |
-| -105.846 kJ/mol-atom | ErTe2 | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 42 |  |
+| -132.921 kJ/mol-atom | ErTe2 |  | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 44 |  |
+| -106.39 kJ/mol-atom | ErTe2 |  | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 43 |  |
+| -105.846 kJ/mol-atom | ErTe2 | 0 | DFT | DFT | [Er–Te](https://data.orchid-project.org/systems/ER-TE.html) | [1] Bennoui 2022 | Table 2, p. 5, row 42 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of ErTe2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -132.921 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -106.39 | kJ/mol-atom |  | 5.000e-5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -105.846 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -132.921 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -106.39 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -105.846 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

@@ -1,22 +1,21 @@
 # La–Sn phases
 
-> La–Sn system: 16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–Sn system: 15 phases (tier A 10, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-SN.html · Markdown: https://data.orchid-project.org/phases/pages/LA-SN.md
 
-16 phases (tier A 11, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 10, tier C 2, liquid 1, needs_review 2); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-SN) · [full JSON](https://data.orchid-project.org/phases/systems/LA-SN.json) · [La–Sn system page](https://data.orchid-project.org/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-SN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–Sn system (16)
+Table: Phases of the La–Sn system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-la-sn-a4-diamond); _phase:la-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [BCT_A5](#phase-la-sn-a5-bct); _phase:la-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 10 | 4 |
-| [BCC_A2](#phase-la-sn-bcc-a2); _phase:la-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0 | 14 | 4 |
-| [DHCP](#phase-la-sn-dhcp); _phase:la-sn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-la-sn-dhcp-a3); _phase:la-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0 | 11 | 4 |
+| [BCC_A2](#phase-la-sn-bcc-a2); _phase:la-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0 | 0 | 4 |
+| [DHCP](#phase-la-sn-dhcp-a3); _phase:la-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0 | 0 | 4 |
 | [FCC_A1](#phase-la-sn-fcc-a1); _phase:la-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 550–1134 K, x(Sn) 0–0 | 0 | 4 |
 | [HCP_A3](#phase-la-sn-hcp-a3); _phase:la-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LA11SN10](#phase-la-sn-la11sn10); _phase:la-sn:la11sn10_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1718.8 K, x(Sn) 0.476–0.47619 | 19 | 4 |
@@ -143,11 +142,10 @@ _cited as the source of values for this phase_
 - Id: `phase:la-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 1134–1199 K, x(Sn) 0–0
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:la-sn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.12.003:βLa, paper:10.1016/s0925-8388(00)01077-x:βLa, paper:10.1016/s0925-8388(00)01077-x:βLa (fcc)  
+Names (5): _corpus: _corpus:phase:la-sn:bcc-a2  
 _tdb: _tdb:LaSn-00Hua.tdb:BCC_A2, tdb:LaSn-09Idb.tdb:BCC_A2, tdb:LaSn-19Li-ass.tdb:BCC_A2, tdb:LaSn-19Li-sub.tdb:BCC_A2  
 
 
@@ -181,40 +179,24 @@ _tdb: _tdb:LaSn-00Hua.tdb:BCC_A2, tdb:LaSn-09Idb.tdb:BCC_A2, tdb:LaSn-19Li-ass.t
 37: CONST BCC_A2 : LA% SN : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-019-00751-x](https://doi.org/10.1007/s11669-019-00751-x) Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).  
 _assessment that models this phase_
-- [doi:10.1007/bf02645375](https://doi.org/10.1007/bf02645375) A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-
-## DHCP (La–Sn)
-
-- Id: `phase:la-sn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-sn:dhcp  
-
+- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
+_assessment that models this phase_
+- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
+_assessment that models this phase_
 
 ## DHCP (La–Sn)
 
 - Id: `phase:la-sn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–550 K, x(Sn) 0–0
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sn:dhcp-a3)
 
-Names (9): _corpus: _corpus:phase:la-sn:dhcp-a3  
-_paper: _paper:10.1016/j.calphad.2008.12.003:γLa, paper:10.1016/s0925-8388(00)01077-x:αLa (dhcp), paper:10.1016/s0925-8388(00)01077-x:γLa, paper:10.1016/s0925-8388(00)01077-x:γLa (bcc)  
+Names (6): _corpus: _corpus:phase:la-sn:dhcp-a3, corpus:phase:la-sn:dhcp  
 _tdb: _tdb:LaSn-00Hua.tdb:DHCP, tdb:LaSn-09Idb.tdb:DHCP, tdb:LaSn-19Li-ass.tdb:DHCP, tdb:LaSn-19Li-sub.tdb:DHCP  
 
 
@@ -248,18 +230,14 @@ _tdb: _tdb:LaSn-00Hua.tdb:DHCP, tdb:LaSn-09Idb.tdb:DHCP, tdb:LaSn-19Li-ass.tdb:D
 47: CONST DHCP : LA% SN : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-019-00751-x](https://doi.org/10.1007/s11669-019-00751-x) Xiaojing Li, Shuhong Liu, Yuling Liu, Yong Du, Thermodynamic Re-assessment of the Lanthanum-Tin System, J. Phase Equilib. Diffus. 40, 653-667 (2019).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02645375](https://doi.org/10.1007/bf02645375) A Palenzona, S Cirafici, The la-sn (lanthanum-tin) system, JPE 13, 42-49 (1992).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2008.12.003](https://doi.org/10.1016/j.calphad.2008.12.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic reassessment of the La–Sn system, Calphad 33, 398-404 (2009).  
+_assessment that models this phase_
+- [doi:10.1016/S0925-8388(00)01077-X](https://doi.org/10.1016/S0925-8388%2800%2901077-X) M. Huang, X. Su, F. Yin, P. Zhang, Z. Li, C. Chen, J. Alloys Compd., 309, 147-53(2000).  
+_assessment that models this phase_
 
 ## FCC_A1 (La–Sn)
 

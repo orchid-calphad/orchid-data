@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CdYb.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); OQMD -40.454 kJ/mol-atom (oqmd-29044).
 
-Systems: [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html)
+Systems: [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CdYb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -42.021 kJ/mol-atom | YbCd |  | model | Calphad | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 2 |  |
-| -42.451 kJ/mol-atom | YbCd | 0 | DFT | Ab-initio | [Cd–Sn–Yb](https://data.orchid-project.org/systems/CD-SN-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 1 |  |
+| -42.021 kJ/mol-atom | YbCd |  | model | Calphad | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 2 |  |
+| -42.451 kJ/mol-atom | YbCd | 0 | DFT | Ab-initio | [Cd–Yb](https://data.orchid-project.org/systems/CD-YB.html) | [1] Kali-Ali 2017 | Table 2, p. 4, row 1 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CdYb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -42.021 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.451 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -42.021 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.451 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

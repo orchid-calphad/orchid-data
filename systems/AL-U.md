@@ -1,10 +1,10 @@
 # Al–U system
 
-> Al–U system: 20 accepted literature values (invariant reaction 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–U system: 48 accepted literature values (invariant reaction 20, crystal structure 12, heat capacity / entropy / enthalpy 11, formation 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-U.html · Markdown: https://data.orchid-project.org/systems/AL-U.md
 
-20 accepted literature values from 1 paper(s) (experimental 6, model 14); 3 calculated phase diagram(s).
+48 accepted literature values from 3 paper(s) (experimental 15, model 33); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-U.json) · [CSV](https://data.orchid-project.org/systems/AL-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-U/AlU-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-U.html) · [Markdown](https://data.orchid-project.org/systems/AL-U.md)
 
@@ -12,14 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 14 |
+| experimental | 15 |
+| model | 33 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 20 |
+| formation | 5 |
+| heat capacity / entropy / enthalpy | 11 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -95,14 +98,76 @@ Table: Invariant reactions reported in the literature for the Al–U system (20)
 | 1004.15 | peritectic: L + Al3U -> Al4U (β) | L: Al 0.977; Al3U: Al 0.75; Al4U (β): Al 0.818 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 11 |  |
 | 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.8; Al4U (β): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 16 |  |
 | 919.15 | polymorphic: Al4U (α) -> Al4U (β) | Al4U (α): Al 0.809; Al4U (β): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 17 |  |
-| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 0; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2 |  |
-| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 7.000e-5; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1 |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.982; fcc (Al): Al 1; Al4U (α): Al 0.824 | model | [1] Wang 2008 | Table 2, p. 5, row 2 |  |
+| 914.15 | eutectic: L -> fcc (Al) + Al4U (α) | L: Al 0.983; fcc (Al): Al 0.99993; Al4U (α): Al 0.828 | model | [1] Wang 2008; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 2, p. 5, row 1 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–U system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| UAl2 |  | -86.1 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| UAl3 |  | -87 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| UAl4 |  | -91.4 kJ/mol (basis unstated) |  | model |  |  | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+
+## Other properties
+
+### Formation (2)
+
+Table: Formation, Al–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS°298_ | -1.1 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| Entropy of formation; _printed: ΔfS°298_ | -13.1 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+
+### Heat capacity / entropy / enthalpy (11)
+
+Table: Heat capacity / entropy / enthalpy, Al–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: S°298 (ph.)_ | 101.2 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| Entropy; _printed: S°298 (el.)_ | 4.5 J/mol (basis unstated)/K | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| Entropy; _printed: S°298 (ph.)_ | 117.5 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Entropy; _printed: S°298 (el.)_ | 4.4 J/mol (basis unstated)/K | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Entropy; _printed: S°298 (el.)_ | 5.7 J/mol (basis unstated)/K | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.67 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 24.2 kJ mol^-1 | 298.15 | UAl2; _alloy: U 0.333333_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 1 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 0.65 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Heat content; _printed: H°298 - H°0 (ph.)_ | 32.3 kJ mol^-1 | 298.15 | UAl3; _alloy: U 0.25_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 4 |  |
+| Heat content; _printed: H°298 − H°0 (el.)_ | 1 kJ mol−1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+| Heat content; _printed: H°298 - H°0 (el.)_ | 1 kJ mol^-1 | 298.15 | UAl4; _alloy: U 0.2_ | model | [2] Sedmidubský 2010 | Table 2, p. 3, row 9 |  |
+
+### Crystal structure (12)
+
+Table: Crystal structure, Al–U system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.854 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice a | 4.401 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice a | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice a | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice b | 5.867 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice b | 6.255 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice b | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice b | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
+| Lattice c | 4.954 Å | 941 (\<) | αU; _αU: Al 0.001_ | model | [3] Moussa 2018; _cites Kassner 1989_ [doi](https://doi.org/10.1016/0022-3115%2889%2990438-8) | Table 1, p. 3, row 1 |  |
+| Lattice c | 13.727 Å | 1004 (\<) | UAl4; _alloy: U 0.2_ | experimental | [3] Moussa 2018; _cites Tougait 2004_ [doi](https://doi.org/10.1016/j.intermet.2003.09.012) | Table 1, p. 3, row 8 |  |
+| Lattice c | 4.266 Å | 1623 (\<) | UAl3; _alloy: U 0.25_ | experimental | [3] Moussa 2018; _cites Rundle 1949_ [doi](https://doi.org/10.1107/s0365110x49000400) | Table 1, p. 3, row 7 |  |
+| Lattice c | 7.776 Å | 1893 (\<) | UAl2; _alloy: U 0.333333_ | experimental | [3] Moussa 2018; _cites Steeb 1961_ [doi](https://doi.org/10.1007/bf00622102) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. J. Wang, X.J. Liu, C.P. Wang, Thermodynamic modeling of the Al–U and Co–U systems, Journal of Nuclear Materials 374, 79-86 (2008). [doi:10.1016/j.jnucmat.2007.06.023](https://doi.org/10.1016/j.jnucmat.2007.06.023)
+2. D. Sedmidubský, R.J.M. Konings, P. Souček, Ab-initio calculations and phase diagram assessments of An–Al systems (An= U, Np, Pu), Journal of Nuclear Materials 397, 1-7 (2010). [doi:10.1016/j.jnucmat.2009.11.023](https://doi.org/10.1016/j.jnucmat.2009.11.023)
+3. Chantal Moussa, Alexandre Berche, José Barbosa, Mathieu Pasturel, Bertrand Stepnik, Olivier Tougait, Experimental investigation of the phase equilibria and thermodynamic assessment in the U-Ga and U-Al-Ga systems, Journal of Nuclear Materials 499, 361-371 (2018). [doi:10.1016/j.jnucmat.2017.11.037](https://doi.org/10.1016/j.jnucmat.2017.11.037)
 
 ## Please cite
 

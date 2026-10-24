@@ -6,38 +6,43 @@
   "version": "1.0.0",
   "annotation_run": "run-20261021h-full",
   "annotation_tools_sha256": "c8c3e77469eddd6d9bc28c90060e4d20564dbab33e9ea02b176b26db0a1b4f45",
-  "phase_mapper_sha256": "4805707a77b9a933d95921513fa3ff0cdb0c12b9b2fdf507056035a915e47468",
+  "phase_mapper_sha256": "6eb46f2221cd36b55bb619df68eb646a2a23a7a71ccb22e415af010db455e72a",
+  "phase_mapper": {
+   "path": "orchid-project.org/tools/phase_mapper.py",
+   "git_blob": "3278c76bd368e3c6b2282ffecabe1e3ae357ba1b",
+   "repository": "https://github.com/orchid-calphad/orchid-project.org"
+  },
   "builder": "orchid-project.org/tools/build_assessed_assemblages.py"
  },
  "diagrams_with_points": 2178,
  "diagrams_seen": 2272,
  "diagrams_not_annotated": 149,
  "fields_seen": 27118,
- "points": 23131,
+ "points": 23129,
  "point_method": {
-  "centroid": 21618,
+  "centroid": 21616,
   "pole_of_inaccessibility": 1513
  },
  "points_by_n_phases": {
   "1": 4639,
-  "2": 18492
+  "2": 18490
  },
  "points_by_basis": {
   "deterministic_adjacency": 8035,
-  "reader_consensus": 6794,
-  "deterministic_printed_label": 3206,
+  "reader_consensus": 6793,
+  "deterministic_printed_label": 3205,
   "adjudicator": 2803,
   "deterministic_phase_rules": 2186,
   "expert_reviewed": 87,
   "dft_hull_corroborated": 20
  },
  "points_by_confidence": {
-  "high": 14454,
+  "high": 14452,
   "medium": 8603,
   "low": 74
  },
  "points_by_review_state": {
-  "not reviewed by the expert": 23024,
+  "not reviewed by the expert": 23022,
   "expert decision (tier 5)": 87,
   "expert-reviewed (tier 5)": 20
  },
@@ -51,17 +56,18 @@
   "axis_component_not_in_system": 89,
   "open": 70,
   "more_than_two_phases": 5,
-  "cannot_tell": 4
+  "cannot_tell": 4,
+  "schematic_field_unbounded_below": 2
  },
  "phase_labels_mapped_to_registry": {
-  "mapped": 20912,
-  "unmapped": 20711
+  "mapped": 19843,
+  "unmapped": 21776
  },
  "two_phase_tie_lines": {
-  "with_tie_line": 11962,
-  "without": 6530,
+  "with_tie_line": 11961,
+  "without": 6529,
   "omitted_by_reason": {
-   "side_assignment_ambiguous": 4396,
+   "side_assignment_ambiguous": 4395,
    "neighbour_field_unnamed": 908,
    "frame_edge_phase_ambiguous": 732,
    "endpoints_do_not_cover_the_two_phases": 363,
@@ -72,22 +78,22 @@
  },
  "sgte_crosscheck": {
   "comparisons": 30769,
-  "agrees": 19160,
-  "disagrees": 3927,
-  "not_comparable": 7682,
-  "agreement_rate_of_comparable": 0.8299,
+  "agrees": 17874,
+  "disagrees": 3621,
+  "not_comparable": 9274,
+  "agreement_rate_of_comparable": 0.8315,
   "not_comparable_by_reason": {
-   "assemblage phase without registry mapping": 6076,
+   "assemblage phase without registry mapping": 8005,
    "no calculated equilibrium at this cell": 25,
-   "order-disorder model: the grid label does not tell the ordered from the disordered state": 607,
+   "order-disorder model: the grid label does not tell the ordered from the disordered state": 270,
    "outside the calculated T-x range": 405,
    "the same registry phase twice (the grid collapses composition sets)": 569
   },
   "points": {
-   "no SGTE assessment": 10196,
-   "agrees with >=1": 9184,
-   "not comparable": 2573,
-   "disagrees with all comparable": 1178
+   "no SGTE assessment": 10194,
+   "agrees with >=1": 8331,
+   "not comparable": 3495,
+   "disagrees with all comparable": 1109
   },
   "metric_definitions": {
    "comparison": "one point x one calculated SGTE diagram of its system (nearest grid cell)",
@@ -97,18 +103,18 @@
    "median_system_rate": "median over systems with >= 5 comparable comparisons of the system's agreement rate",
    "not_comparable": "counted separately, never in a rate; reasons in not_comparable_by_reason and, per comparison, in sgte_not_comparable.csv"
   },
-  "comparable": 23087,
-  "points_with_comparable_assessment": 10362,
-  "points_agreeing_with_at_least_one": 9184,
-  "points_agreeing_with_at_least_one_rate": 0.8863,
-  "points_agreeing_with_all_comparable": 8232,
-  "points_disagreeing_with_all_comparable": 1178,
-  "systems_with_5_comparable": 892,
+  "comparable": 21495,
+  "points_with_comparable_assessment": 9440,
+  "points_agreeing_with_at_least_one": 8331,
+  "points_agreeing_with_at_least_one_rate": 0.8825,
+  "points_agreeing_with_all_comparable": 7508,
+  "points_disagreeing_with_all_comparable": 1109,
+  "systems_with_5_comparable": 889,
   "median_system_rate": 0.8889,
-  "mean_system_rate": 0.845
+  "mean_system_rate": 0.8469
  },
  "points_by_boundary_basis": {
-  "printed_solid": 20784,
+  "printed_solid": 20782,
   "mixed": 1292,
   "dashed_estimated": 1028,
   "none": 27
@@ -116,9 +122,9 @@
  "diagrams_with_dashed_lines": 1021,
  "ml_folds": {
   "fold_lso": {
-   "0": 4670,
+   "0": 4669,
    "1": 4644,
-   "2": 4517,
+   "2": 4516,
    "3": 4274,
    "4": 5026
   },
@@ -126,28 +132,28 @@
    "0": 4293,
    "1": 4285,
    "2": 5437,
-   "3": 4335,
-   "4": 4781
+   "3": 4334,
+   "4": 4780
   },
   "method": "`chemical_system` (sorted elements, = `system`), `paper_id` (stable source id), `fold_lso` = leave-chemical-system-out fold int(sha256(chemical_system), 16) mod 5, `fold_lpo` = leave-paper-out fold int(sha256(paper_id), 16) mod 5 (tools/ml_folds.py). Subsystems are their own systems (a held-out ternary may have its binaries in training); drop subsystems of held-out systems for strict chemistry extrapolation"
  },
  "espei": {
-  "datasets_default": 1070,
-  "datasets_with_tie_lines": 1070,
-  "points_in_espei": 10874,
-  "points_excluded_from_espei": 12257,
+  "datasets_default": 1068,
+  "datasets_with_tie_lines": 1068,
+  "points_in_espei": 9895,
+  "points_excluded_from_espei": 13234,
   "validation": {
    "espei-zpf": {
-    "files": 1070,
-    "valid": 1070,
-    "loaded": 1070,
+    "files": 1068,
+    "valid": 1068,
+    "loaded": 1068,
     "errors": [],
     "espei": "0.9.1"
    },
    "espei-zpf-with-tie-lines": {
-    "files": 1070,
-    "valid": 1070,
-    "loaded": 1070,
+    "files": 1068,
+    "valid": 1068,
+    "loaded": 1068,
     "errors": [],
     "espei": "0.9.1"
    }
@@ -198,23 +204,23 @@
  "files": {
   "bytes_by_file_or_dir": {
    "CITATION.cff": 1891,
-   "espei-zpf": 9449840,
-   "espei-zpf-with-tie-lines": 9398941,
-   "espei_exclusions.jsonl": 1680183,
-   "exclusions.csv": 322521,
-   "exclusions.jsonl": 542384,
-   "records.csv": 12650931,
-   "records.jsonl.gz": 4685760,
-   "records.parquet": 1722819,
-   "sgte_not_comparable.csv": 1018741,
+   "espei-zpf": 8694998,
+   "espei-zpf-with-tie-lines": 8672901,
+   "espei_exclusions.jsonl": 1811387,
+   "exclusions.csv": 322766,
+   "exclusions.jsonl": 542755,
+   "records.csv": 12640025,
+   "records.jsonl.gz": 4769798,
+   "records.parquet": 1721875,
+   "sgte_not_comparable.csv": 1214472,
    "summary.json": 0
   }
  },
  "parquet": {
   "table": "records.parquet",
-  "rows": 23131,
-  "csv_sha256": "b9c562ce5c540a1ee75d944708d4c82ef9d46f7026494cbee0142df82615cd6f",
-  "content_sha256": "e2bc6eee2cebeb9cf91aaaf056deee123f13099c0290f0a5f426853998c64909",
+  "rows": 23129,
+  "csv_sha256": "a109f01e761c2168dd2c216b8615c4519945e306c3076ee60e4e85ab53aa0fda",
+  "content_sha256": "95e8f6165d42b425eec963d3058a1ec9fa3a94dd65ab969e7af285319364ef71",
   "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder"
  }
 }

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga4Ni3.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -38.198 kJ/mol-atom (mp-aaaabtjb); OQMD -38.855 kJ/mol-atom (oqmd-89566).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga4Ni3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35.7 kJ/mol-atom | Ni3Ga4 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 15 |  |
-| -35 kJ/mol-atom | Ni3Ga4 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 14 |  |
+| -35.7 kJ/mol-atom | Ni3Ga4 | 298.15 | model |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999 | Table 1, p. 2, row 15 |  |
+| -35 kJ/mol-atom | Ni3Ga4 | 298.15 | model |  | [Ga–Ni](https://data.orchid-project.org/systems/GA-NI.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 14 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ga4Ni3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -35 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -35 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of Ga4Ni3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaabtjb | -38.198 | -0.395893 | Ia-3d | 0.933 | 0.0097 | no |
-| OQMD | oqmd-89566 | -38.855 | -0.402702 | Ia-3d | 1.217 | 0.0126 | no |
+| Materials Project | mp-aaaabtjb | -38.198 | -0.395893 | Ia-3d | 0.9325 | 0.0097 | no |
+| OQMD | oqmd-89566 | -38.855 | -0.402702 | Ia-3d | 1.2173 | 0.0126 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

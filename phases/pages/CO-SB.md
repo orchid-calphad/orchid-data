@@ -13,11 +13,11 @@ Table: Phases of the Co–Sb system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-co-sb-a7-rhombohedral); _phase:co-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 8 | 4 |
-| [BCC_A2](#phase-co-sb-bcc-a2); _phase:co-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 28 | 4 |
+| [BCC_A2](#phase-co-sb-bcc-a2); _phase:co-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [COSB_B81](#phase-co-sb-cosb-b81); _phase:co-sb:cosb-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1492.54 K, x(Sb) 0.45876–0.52523 | 0 | 4 |
 | [COSB2_C18](#phase-co-sb-cosb2-c18); _phase:co-sb:cosb2-c18_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1208.97 K, x(Sb) 0.66667–0.6667 | 15 | 4 |
 | [COSB3_D02](#phase-co-sb-cosb3-d02); _phase:co-sb:cosb3-d02_ | CoAs3 · D0_2 · cI32 · Im-3 (204) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1147.13 K, x(Sb) 0.75–0.75 | 14 | 4 |
-| [FCC_A1](#phase-co-sb-fcc-a1); _phase:co-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 620–1772.98 K, x(Sb) 0–0.03902 | 11 | 4 |
+| [FCC_A1](#phase-co-sb-fcc-a1); _phase:co-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 620–1772.98 K, x(Sb) 0–0.03902 | 9 | 4 |
 | [HCP_A3](#phase-co-sb-hcp-a3); _phase:co-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–695.24 K, x(Sb) 0–6e-05 | 0 | 4 |
 | [LIQUID](#phase-co-sb-liquid); _phase:co-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 901.33–2500 K, x(Sb) 0–1 | 40 | 4 |
 
@@ -89,11 +89,10 @@ _cited as the source of values for this phase_
 - Id: `phase:co-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 28 values (28 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sb:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:co-sb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2007.11.001:(βCoSb), paper:10.1016/j.calphad.2007.11.001:(εCo)  
+Names (5): _corpus: _corpus:phase:co-sb:bcc-a2  
 _tdb: _tdb:CoSb-08Zha.tdb:BCC_A2, tdb:CoSb-09Zha.tdb:BCC_A2, tdb:CoSb-19Gie.tdb:BCC_A2, tdb:CoSb-20Bro.tdb:BCC_A2  
 
 
@@ -127,28 +126,16 @@ _tdb: _tdb:CoSb-08Zha.tdb:BCC_A2, tdb:CoSb-09Zha.tdb:BCC_A2, tdb:CoSb-19Gie.tdb:
 33: CONST BCC_A2 : CO SB : VA : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2007.11.001](https://doi.org/10.1016/j.calphad.2007.11.001) Yubi Zhang, Changrong Li, Zhenmin Du, Tai Geng, The thermodynamic assessment of the Co–Sb system, Calphad 32, 56-63 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-019-05288-9](https://doi.org/10.1007/s11661-019-05288-9) Wojciech Gierlotka, Sinn-wen Chen, Ssu-ming Tseng, Po-han Lin, Co-In-Sb Ternary System (II): Isoplethal Section and Thermodynamic Modeling, Metall Mater Trans A 50, 3891-3902 (2019).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2007.11.001](https://doi.org/10.1016/j.calphad.2007.11.001) Yubi Zhang, Changrong Li, Zhenmin Du, Tai Geng, The thermodynamic assessment of the Co–Sb system, Calphad 32, 56-63 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2008.12.004](https://doi.org/10.1016/j.calphad.2008.12.004) Y. Zhang, C. Li, Z. Du, C. Guo, J.-C. Tedenac, Calphad, 33, 405-14(2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.101694](https://doi.org/10.1016/j.calphad.2019.101694) P. Broz, F. Zelenka, J. Vrestal, A. Zemanova, A. Kroupa, J. Bursik, M. Svoboda, L. Simonikova, T. Pokorny, Calphad, 68, 101694(2020).  
 _assessment that models this phase_
-- [doi:10.1002/srin.193900887](https://doi.org/10.1002/srin.193900887) Werner Geller, Das System Eisen‐Kobalt‐Antimon, Steel Research Intl 13, 263-266 (1939).  
-_cited as the source of values for this phase_
-- [doi:10.1002/zaac.19080590131](https://doi.org/10.1002/zaac.19080590131) Kurt Lewkonja, Metallographische Mitteilungen aus dem Institut für physikalische Chemie der Universität Göttingen. LXV. Über die Legierungen des Kobalts mit Zinn, Antimon, Blei, Wismut, Thallium, Zink, Cadmium, Chrom und Silicium, Z. Anorg. Chem. 59, 293-345 (1908).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(89)90235-x](https://doi.org/10.1016/0022-5088%2889%2990235-x) P. Feschotte, D. Lorin, Les systemes binaires Fe-Sb, Co-Sb et Ni-Sb, Journal of the Less Common Metals 155, 255-269 (1989).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf03029292](https://doi.org/10.1007/bf03029292) K. Ishida, T. Nishizawa, Bull. Alloy Phase Diagrams 11 (1990) 243–248.  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02645725](https://doi.org/10.1007/bf02645725) H Okamoto, Co-Sb (Cobalt-Antimony), JPE 12, 244-245 (1991).  
-_cited as the source of values for this phase_
-- [doi:10.2320/jinstmet1937.1.5_177](https://doi.org/10.2320/jinstmet1937.1.5_177) Uichi Haschimoto, Relation between the Allotropic Transformation of Cobalt and Some Additional Elements, J.Japan Inst.Metals 1, 177-190 (1937).  
-_cited as the source of values for this phase_
 
 ## COSB_B81 (Co–Sb)
 
@@ -349,7 +336,7 @@ _cited as the source of values for this phase_
 - Id: `phase:co-sb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 620–1772.98 K, x(Sb) 0–0.03902
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sb:fcc-a1)
 
 Names (6): _corpus: _corpus:phase:co-sb:fcc-a1  

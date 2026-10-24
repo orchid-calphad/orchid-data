@@ -14,7 +14,7 @@ Table: Phases of the Ca–Ti system (4)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ca-ti-bcc-a2); _phase:ca-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2145.98 K, x(Ti) 0–1 | 2 | 1 |
 | [FCC_A1](#phase-ca-ti-fcc-a1); _phase:ca-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–716.03 K, x(Ti) 0–0 | 1 | 1 |
-| [HCP_A3](#phase-ca-ti-hcp-a3); _phase:ca-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1156.02 K, x(Ti) 0.99953–1 | 4 | 1 |
+| [HCP_A3](#phase-ca-ti-hcp-a3); _phase:ca-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1156.02 K, x(Ti) 0.99953–1 | 2 | 1 |
 | [LIQUID](#phase-ca-ti-liquid); _phase:ca-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1114.76–2500 K, x(Ti) 0–1 | 3 | 1 |
 
 ## BCC_A2 (Ca–Ti)
@@ -76,11 +76,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ca-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1156.02 K, x(Ti) 0.99953–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ti:hcp-a3)
 
-Names (4): _corpus: _corpus:phase:ca-ti:hcp-a3  
-_paper: _paper:10.1007/s10853-015-9130-x:αTi, paper:10.1007/s10853-015-9130-x:βTi  
+Names (3): _corpus: _corpus:phase:ca-ti:hcp-a3  
+_paper: _paper:10.1007/s10853-015-9130-x:αTi  
 _tdb: _tdb:CaTi-15Ham.tdb:HCP_A3  
 
 

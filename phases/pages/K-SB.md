@@ -1,10 +1,10 @@
 # K–Sb phases
 
-> K–Sb system: 9 phases (tier A 5, tier C 3, liquid 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> K–Sb system: 9 phases (tier A 5, tier B 2, tier C 1, liquid 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/K-SB.html · Markdown: https://data.orchid-project.org/phases/pages/K-SB.md
 
-9 phases (tier A 5, tier C 3, liquid 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+9 phases (tier A 5, tier B 2, tier C 1, liquid 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=K-SB) · [full JSON](https://data.orchid-project.org/phases/systems/K-SB.json) · [K–Sb system page](https://data.orchid-project.org/systems/K-SB.html) · [Markdown](https://data.orchid-project.org/phases/pages/K-SB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -17,8 +17,8 @@ Table: Phases of the K–Sb system (9)
 | [FCC_A1](#phase-k-sb-fcc-a1); _phase:k-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-k-sb-hcp-a3); _phase:k-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [K3SB_D018](#phase-k-sb-k3sb-d018); _phase:k-sb:k3sb-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1112.34 K, x(Sb) 0.25–0.25 | 6 | 1 |
-| [K5SB4](#phase-k-sb-k5sb4); _phase:k-sb:k5sb4_ | Rb5As4 · mC20 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–777.23 K, x(Sb) 0.44444–0.44444 | 5 | 1 |
-| [KSB](#phase-k-sb-ksb); _phase:k-sb:ksb_ | LiAs · mP16 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–887.55 K, x(Sb) 0.5–0.5 | 11 | 1 |
+| [K5SB4](#phase-k-sb-k5sb4); _phase:k-sb:k5sb4_ | Bi4K5 · mC18 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–777.23 K, x(Sb) 0.44444–0.44444 | 5 | 1 |
+| [KSB](#phase-k-sb-ksb); _phase:k-sb:ksb_ | LiAs · mP16 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–887.55 K, x(Sb) 0.5–0.5 | 11 | 1 |
 | [KSB2](#phase-k-sb-ksb2); _phase:k-sb:ksb2_ | KSb2 · mC12 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–671.16 K, x(Sb) 0.66667–0.66667 | 7 | 1 |
 | [LIQUID](#phase-k-sb-liquid); _phase:k-sb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 336.53–2500 K, x(Sb) 0–1 | 21 | 1 |
 
@@ -133,11 +133,15 @@ _assessment that models this phase_
 
 - Id: `phase:k-sb:k3sb-d018`; status `assigned`
 - Structure: Na3As · D0_18 · hP8 · P6_3/mmc (194); type `st:d0-18-na3as-hp8`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaautd and oqmd-5160, space group 194
+- Stoichiometry: K 0.7500, Sb 0.2500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1112.34 K, x(Sb) 0.25–0.25
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-sb:k3sb-d018)
 
-Names (3): _corpus: _corpus:phase:k-sb:k3sb-d018  
+Names (5): _corpus: _corpus:phase:k-sb:k3sb-d018  
+_mp: _mp:mp-aaaaautd  
+_oqmd: _oqmd:oqmd-5160  
 _paper: _paper:10.1016/j.tca.2013.07.009:K3Sb  
 _tdb: _tdb:KSb-13Liu.tdb:K3SB_D018  
 
@@ -159,14 +163,15 @@ _assessment that models this phase; reports values for this phase_
 ## K5SB4 (K–Sb)
 
 - Id: `phase:k-sb:k5sb4`; status `assigned`
-- Structure: Rb5As4 · mC20 · C2/m (12); type `st:rb5as4-mc20`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Structure: Bi4K5 · mC18 · C2/m (12); type `st:bi4k5-mc18`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: K 0.5556, Sb 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–777.23 K, x(Sb) 0.44444–0.44444
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-sb:k5sb4)
 
-Names (3): _corpus: _corpus:phase:k-sb:k5sb4  
+Names (5): _corpus: _corpus:phase:k-sb:k5sb4  
+_mp: _mp:mp-aaaabskr  
+_oqmd: _oqmd:oqmd-10179  
 _paper: _paper:10.1016/j.tca.2013.07.009:K5Sb4  
 _tdb: _tdb:KSb-13Liu.tdb:K5SB4  
 
@@ -188,14 +193,15 @@ _assessment that models this phase; reports values for this phase_
 ## KSB (K–Sb)
 
 - Id: `phase:k-sb:ksb`; status `assigned`
-- Structure: LiAs · mP16 · P2_1/c (14); type `st:lias-mp16`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Structure: LiAs · mP16 · P2_1/c (14); type `st:lias-mp16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: K 0.5000, Sb 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–887.55 K, x(Sb) 0.5–0.5
 - Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-sb:ksb)
 
-Names (3): _corpus: _corpus:phase:k-sb:ksb  
+Names (5): _corpus: _corpus:phase:k-sb:ksb  
+_mp: _mp:mp-aaaaachc  
+_oqmd: _oqmd:oqmd-8106  
 _paper: _paper:10.1016/j.tca.2013.07.009:KSb  
 _tdb: _tdb:KSb-13Liu.tdb:KSB  
 
@@ -223,7 +229,8 @@ _cited as the source of values for this phase_
 - Id: `phase:k-sb:ksb2`; status `assigned`
 - Structure: KSb2 · mC12 · C2/m (12); type `st:ksb2-mc12`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_12_matches_7_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: K 0.3333, Sb 0.6667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–671.16 K, x(Sb) 0.66667–0.66667
 - Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-sb:ksb2)

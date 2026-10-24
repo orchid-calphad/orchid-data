@@ -1,10 +1,10 @@
 # Bi–La system
 
-> Bi–La system: 1 accepted literature values (phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–La system: 21 accepted literature values (crystal structure 15, invariant reaction 5, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-LA.html · Markdown: https://data.orchid-project.org/systems/BI-LA.md
 
-1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 11, model 4, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-LA.json) · [CSV](https://data.orchid-project.org/systems/BI-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-LA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-LA/BiLa-13Tan-ass.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-LA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-LA.html) · [Markdown](https://data.orchid-project.org/systems/BI-LA.md)
 
@@ -12,13 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 1 |
+| experimental | 11 |
+| model | 4 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 5 |
 | phase transition | 1 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -61,6 +65,18 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-LA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-LA.json) · [CALPHAD hull BiLa-13Tan-ass](https://data.orchid-project.org/hulls/calphad-sgte/BI/BI-LA--BiLa-13Tan-ass.json)
 
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Bi–La system (5)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1023.15 | Bcc(La) = La2Bi +Fcc(La) | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 16 |  |
+| 1022.55 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 17 |  |
+| 1022.45 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 18 |  |
+| 544.55 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9997; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 38 |  |
+| 544.25 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9998; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 39 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -70,6 +86,28 @@ Table: Phase transition, Bi–La system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1943.15 K | 1943.15 | congruent transformation | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | p. 2 | “Except for the La4Bi3 phase, which melts congruently at 1670 C, the other four compounds are formed via peritectic reactions.” |
+
+### Crystal structure (15)
+
+Table: Crystal structure, Bi–La system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.712 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
+| Lattice a | 4.737 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
+| Lattice a | 9.886 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22 |  |
+| Lattice a | 9.79 Å |  | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21 |  |
+| Lattice a | 9.659 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
+| Lattice a | 9.767 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
+| Lattice a | 6.659 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24 |  |
+| Lattice a | 6.658 Å |  | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23 |  |
+| Lattice a | 4.737 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice b | 17.51 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice c | 18.583 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
+| Lattice c | 18.34 Å |  | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
+| Lattice c | 6.697 Å |  | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
+| Lattice c | 6.727 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
+| Lattice c | 4.564 Å |  | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
 
 ## Sources
 

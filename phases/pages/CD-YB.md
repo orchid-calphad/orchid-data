@@ -1,21 +1,20 @@
 # Cd–Yb phases
 
-> Cd–Yb system: 12 phases (tier A 5, tier C 1, liquid 1, needs_review 4, unresolved_no_candidates 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cd–Yb system: 11 phases (tier A 5, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CD-YB.html · Markdown: https://data.orchid-project.org/phases/pages/CD-YB.md
 
-12 phases (tier A 5, tier C 1, liquid 1, needs_review 4, unresolved_no_candidates 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 5, tier C 1, liquid 1, needs_review 4); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CD-YB) · [full JSON](https://data.orchid-project.org/phases/systems/CD-YB.json) · [Cd–Yb system page](https://data.orchid-project.org/systems/CD-YB.html) · [Markdown](https://data.orchid-project.org/phases/pages/CD-YB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cd–Yb system (12)
+Table: Phases of the Cd–Yb system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cd-yb-bcc-a2); _phase:cd-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 975–2500 K, x(Yb) 0.97886–1 | 10 | 1 |
+| [BCC_A2](#phase-cd-yb-bcc-a2); _phase:cd-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 975–2500 K, x(Yb) 0.97886–1 | 3 | 1 |
 | [CD2YB_HT](#phase-cd-yb-cd2yb); _phase:cd-yb:cd2yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 967.03–976.2 K, x(Yb) 0.33333–0.33333 | 0 | 1 |
 | [CD2YB_C14](#phase-cd-yb-cd2yb-c14); _phase:cd-yb:cd2yb-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–967.03 K, x(Yb) 0.33333–0.33333 | 0 | 1 |
-| [CD2YB-HT](#phase-cd-yb-cd2yb-ht); _phase:cd-yb:cd2yb-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [CD51YB14](#phase-cd-yb-cd51yb14); _phase:cd-yb:cd51yb14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–927.69 K, x(Yb) 0.21538–0.21538 | 6 | 1 |
 | [CD57YB10](#phase-cd-yb-cd57yb10); _phase:cd-yb:cd57yb10_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–908.69 K, x(Yb) 0.14925–0.14925 | 6 | 1 |
 | [CD6YB](#phase-cd-yb-cd6yb); _phase:cd-yb:cd6yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–901.58 K, x(Yb) 0.14286–0.14286 | 4 | 1 |
@@ -30,11 +29,11 @@ Table: Phases of the Cd–Yb system (12)
 - Id: `phase:cd-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 975–2500 K, x(Yb) 0.97886–1
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-yb:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:cd-yb:bcc-a2  
-_paper: _paper:10.1007/s11669-017-0588-x:(βYb), paper:10.1007/s11669-017-0588-x:(γYb), paper:10.1007/s11669-017-0588-x:βYbCd2  
+Names (3): _corpus: _corpus:phase:cd-yb:bcc-a2  
+_paper: _paper:10.1007/s11669-017-0588-x:(γYb)  
 _tdb: _tdb:CdYb-17Kal.tdb:BCC_A2  
 
 
@@ -51,9 +50,9 @@ Example references (3 of 3; assessments first):
 
 - [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x) F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(71)90179-2](https://doi.org/10.1016/0022-5088%2871%2990179-2) A. Palenzona, The ytterbium-cadmium system, Journal of the Less Common Metals 25, 367-372 (1971).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02890551](https://doi.org/10.1007/bf02890551) K.A. Gschneidner and J.F.W. Calderwood, The Cd - Yb (Cadmium-Ytterbium) System, J. Phase Equilib., 1988, 9(2), p 141143  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(71)90179-2](https://doi.org/10.1016/0022-5088%2871%2990179-2) A. Palenzona, The ytterbium-cadmium system, Journal of the Less Common Metals 25, 367-372 (1971).  
 _cited as the source of values for this phase_
 
 ## CD2YB_HT (Cd–Yb)
@@ -67,7 +66,7 @@ _cited as the source of values for this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-yb:cd2yb)
 
-Names (2): _corpus: _corpus:phase:cd-yb:cd2yb  
+Names (3): _corpus: _corpus:phase:cd-yb:cd2yb, corpus:phase:cd-yb:cd2yb-ht  
 _tdb: _tdb:CdYb-17Kal.tdb:CD2YB_HT  
 
 
@@ -111,17 +110,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x) F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017).  
 _assessment that models this phase_
-
-## CD2YB-HT (Cd–Yb)
-
-- Id: `phase:cd-yb:cd2yb-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-yb:cd2yb-ht)
-
-Names (1): _corpus: _corpus:phase:cd-yb:cd2yb-ht  
-
 
 ## CD51YB14 (Cd–Yb)
 

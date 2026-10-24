@@ -1,10 +1,10 @@
 # Cr–Fe–Zr system
 
-> Cr–Fe–Zr system: 40 accepted literature values (invariant reaction 36, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Fe–Zr system: 36 accepted literature values (invariant reaction 32, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-FE-ZR.html · Markdown: https://data.orchid-project.org/systems/CR-FE-ZR.md
 
-40 accepted literature values from 1 paper(s) (experimental 19, model 21); 0 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 17, model 19); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/CR-FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-FE-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CR-FE-ZR.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 19 |
-| model | 21 |
+| experimental | 17 |
+| model | 19 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 36 |
+| invariant reaction | 32 |
 | phase equilibrium | 4 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Fe–Zr system (36)
+Table: Invariant reactions reported in the literature for the Cr–Fe–Zr system (32)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -45,8 +45,6 @@ Table: Invariant reactions reported in the literature for the Cr–Fe–Zr syste
 | 1572.15 | eutectic: L ↔ γ(Fe) + Fe2Zr_H | L: Zr 0.098; γ(Fe): Zr 0.013; Fe2Zr_H: Zr 0.261 | model | [1] Yang 2013 | Table 2, p. 3, row 19 |  |
 | 1560.15 | peritectic: L + γ(Fe) ↔ β(Fe,Cr,Zr) + (Fe,Cr)2Zr_H | L: Cr 0.025, Zr 0.095 | model | [1] Yang 2013 | Table 2, p. 3, row 35 |  |
 | 1554.15 | peritectic: L + (Fe,Cr)2Zr_C ↔ (Fe,Cr)2Zr_H + β(Fe,Cr,Zr) | L: Cr 0.234, Zr 0.724 | model | [1] Yang 2013 | Table 2, p. 3, row 36 |  |
-| 1525.15 | Fe2Zr_H ↔ Fe2Zr_C + γ(Fe) | Fe2Zr_H: Zr 0.263; Fe2Zr_C: Zr 0.268; γ(Fe): Zr 0.011 | model | [1] Yang 2013 | Table 2, p. 3, row 21 |  |
-| 1513.15 | Fe2Zr_H ↔ Fe2Zr_C + γ(Fe) |  | experimental | [1] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 22 |  |
 | 1480.15 | other: L ↔ β(Fe,Cr,Zr) + (Fe,Cr)2Zr_C | L: Cr 0.28, Zr 0.08 | model | [1] Yang 2013 | Table 2, p. 3, row 39 |  |
 | 1227.15 | peritectic: L + (Fe,Cr)2Zr_H ↔ (Fe,Cr)2Zr_C + β(Fe,Cr,Zr) | L: Cr 0.008, Zr 0.706 | model | [1] Yang 2013 | Table 2, p. 3, row 37 |  |
 | 1224.15 | peritectic: L + Fe2Zr_C ↔ FeZr2 | Fe2Zr_C: Zr 0.344; FeZr2: Zr 0.667 | experimental | [1] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 30 |  |
@@ -61,9 +59,7 @@ Table: Invariant reactions reported in the literature for the Cr–Fe–Zr syste
 | 1105.15 | β(Cr,Zr) ↔ Cr2Zr_C + α(Zr) | β(Cr,Zr): Zr 0.984; Cr2Zr_C: Zr 0.34; α(Zr): Zr 0.986 | experimental | [1] Yang 2013; _cites Pavlu 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.11.003) | Table 2, p. 3, row 12 |  |
 | 1103.15 | β(Cr,Zr) ↔ Cr2Zr_C + α(Zr) | β(Cr,Zr): Zr 0.976; Cr2Zr_C: Zr 0.348; α(Zr): Zr 0.991 | model | [1] Yang 2013 | Table 2, p. 3, row 11 |  |
 | 1055.15 | β(Fe,Zr) ↔ FeZr3 + α(Zr) | β(Fe,Zr): Zr 0.965; FeZr3: Zr 0.765; α(Zr): Zr 1 | model | [1] Yang 2013 | Table 2, p. 3, row 25 |  |
-| 1053.15 | FeZr2 ↔ Fe2Zr_C + FeZr3 | FeZr2: Zr 0.667; Fe2Zr_C: Zr 0.344; FeZr3: Zr 0.745 | experimental | [1] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 34 |  |
 | 1048.15 | β(Fe,Zr) ↔ FeZr3 + α(Zr) | β(Fe,Zr): Zr 0.96; FeZr3: Zr 0.755 | experimental | [1] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 26 |  |
-| 1039.15 | FeZr2 ↔ Fe2Zr_C + FeZr3 | FeZr2: Zr 0.682; Fe2Zr_C: Zr 0.346; FeZr3: Zr 0.757 | model | [1] Yang 2013 | Table 2, p. 3, row 33 |  |
 
 ## Other properties
 

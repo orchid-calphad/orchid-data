@@ -19,10 +19,10 @@ Table: Phases of the Au–Dy system (11)
 | [AUDY_B2](#phase-au-dy-audy-b2); _phase:au-dy:audy-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1545.45–1934.61 K, x(Dy) 0.5–0.5 | 8 | 3 |
 | [AUDY_B33](#phase-au-dy-audy-b33); _phase:au-dy:audy-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1632.65 K, x(Dy) 0.5–0.5 | 12 | 3 |
 | [AUDY2_C37](#phase-au-dy-audy2-c37); _phase:au-dy:audy2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1337.6 K, x(Dy) 0.66667–0.66667 | 8 | 3 |
-| [BCC_A2](#phase-au-dy-bcc-a2); _phase:au-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1654.12–2499.15 K, x(Dy) 0.99999–1 | 4 | 3 |
+| [BCC_A2](#phase-au-dy-bcc-a2); _phase:au-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1654.12–2499.15 K, x(Dy) 0.99999–1 | 0 | 3 |
 | [FCC_A1](#phase-au-dy-fcc-a1); _phase:au-dy:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1344.33 K, x(Dy) 0–0.02569 | 7 | 3 |
-| [HCP_A3](#phase-au-dy-hcp-a3); _phase:au-dy:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.77 K, x(Dy) 1–1 | 6 | 3 |
-| [LIQUID](#phase-au-dy-liquid); _phase:au-dy:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1 | 45 | 3 |
+| [HCP_A3](#phase-au-dy-hcp-a3); _phase:au-dy:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.77 K, x(Dy) 1–1 | 4 | 3 |
+| [LIQUID](#phase-au-dy-liquid); _phase:au-dy:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1 | 43 | 3 |
 
 ## AU2DY_C11B (Au–Dy)
 
@@ -375,11 +375,10 @@ _cited as the source of values for this phase_
 - Id: `phase:au-dy:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1654.12–2499.15 K, x(Dy) 0.99999–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-dy:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:au-dy:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2015.07.002:βDy  
+Names (4): _corpus: _corpus:phase:au-dy:bcc-a2  
 _tdb: _tdb:AuDy-15Otm.tdb:BCC_A2, tdb:AuDy-15Wan.tdb:BCC_A2, tdb:AuDy-16Hu.tdb:BCC_A2  
 
 
@@ -406,16 +405,14 @@ _tdb: _tdb:AuDy-15Otm.tdb:BCC_A2, tdb:AuDy-15Wan.tdb:BCC_A2, tdb:AuDy-16Hu.tdb:B
 33: CONST BCC_A2 : AU DY% : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jallcom.2015.07.002](https://doi.org/10.1016/j.jallcom.2015.07.002) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the dysprosium–gold binary system, Journal of Alloys and Compounds 648, 581-586 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-015-0378-2](https://doi.org/10.1007/s11669-015-0378-2) S. L. Wang, L. J. Zhou, Z. F. Lan, J. L. Li, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Au-Nd and Au-Dy Systems, J. Phase Equilib. Diffus. 36, 241-247 (2015).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.03.003](https://doi.org/10.1016/j.calphad.2016.03.003) B. Hu, J. Wang, Y. Du, Q. Wang, F. Min, Calphad, 53, 49-54(2016).  
 _assessment that models this phase_
-- [doi:10.1016/0022-5088(73)90144-6](https://doi.org/10.1016/0022-5088%2873%2990144-6) O.D. McMasters, K.A. Gschneidner, Samarium-gold and dysprosium-gold alloy systems, Journal of the Less Common Metals 30, 325-342 (1973).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2015.07.002](https://doi.org/10.1016/j.jallcom.2015.07.002) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the dysprosium–gold binary system, Journal of Alloys and Compounds 648, 581-586 (2015).  
+_assessment that models this phase_
 
 ## FCC_A1 (Au–Dy)
 
@@ -469,7 +466,7 @@ _cited as the source of values for this phase_
 - Id: `phase:au-dy:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2499.77 K, x(Dy) 1–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-dy:hcp-a3)
 
 Names (6): _corpus: _corpus:phase:au-dy:hcp-a3  
@@ -502,9 +499,9 @@ _tdb: _tdb:AuDy-15Otm.tdb:HCP_A3, tdb:AuDy-15Wan.tdb:HCP_A3, tdb:AuDy-16Hu.tdb:H
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2015.07.002](https://doi.org/10.1016/j.jallcom.2015.07.002) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the dysprosium–gold binary system, Journal of Alloys and Compounds 648, 581-586 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-015-0378-2](https://doi.org/10.1007/s11669-015-0378-2) S. L. Wang, L. J. Zhou, Z. F. Lan, J. L. Li, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Au-Nd and Au-Dy Systems, J. Phase Equilib. Diffus. 36, 241-247 (2015).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2015.07.002](https://doi.org/10.1016/j.jallcom.2015.07.002) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the dysprosium–gold binary system, Journal of Alloys and Compounds 648, 581-586 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2016.03.003](https://doi.org/10.1016/j.calphad.2016.03.003) B. Hu, J. Wang, Y. Du, Q. Wang, F. Min, Calphad, 53, 49-54(2016).  
 _assessment that models this phase_
@@ -516,7 +513,7 @@ _cited as the source of values for this phase_
 - Id: `phase:au-dy:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1074.38–2500 K, x(Dy) 0–1
-- Literature: 45 values (45 accepted) from 2 papers
+- Literature: 43 values (43 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-dy:liquid)
 
 Names (6): _corpus: _corpus:phase:au-dy:liquid  

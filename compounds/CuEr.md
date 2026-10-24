@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CuEr.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -14.6 kJ/mol-atom (n = 1); Materials Project -26.362 kJ/mol-atom (mp-aaaaacxf); OQMD -26.996 kJ/mol-atom (oqmd-1376938).
 
-Systems: [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html)
+Systems: [Cu–Er](https://data.orchid-project.org/systems/CU-ER.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CuEr reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.6 kJ/mol-atom | CuEr | 298.15 | experimental |  | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 19 |  |
-| -28.5 kJ/mol-atom | CuEr | 0 | DFT | ab initio | [Cu–Dy–Er–Gd](https://data.orchid-project.org/systems/CU-DY-ER-GD.html) | [1] Palumbo 2009 | Table 2, p. 4, row 18 |  |
+| -14.6 kJ/mol-atom | CuEr | 298.15 | experimental |  | [Cu–Er](https://data.orchid-project.org/systems/CU-ER.html) | [1] Palumbo 2009; _cites Sommer 2009_ | Table 2, p. 4, row 19 |  |
+| -28.5 kJ/mol-atom | CuEr | 0 | DFT | ab initio | [Cu–Er](https://data.orchid-project.org/systems/CU-ER.html) | [1] Palumbo 2009 | Table 2, p. 4, row 18 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CuEr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.6 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -28.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -14.6 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -28.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

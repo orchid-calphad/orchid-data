@@ -1,30 +1,42 @@
 # Si3Ta5: enthalpy of formation
 
-> Enthalpy of formation of Si3Ta5: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Si3Ta5: 23 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Si3Ta5.html · Markdown: https://data.orchid-project.org/compounds/Si3Ta5.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 4, model 4, unspecified 3); experimental median -38.9 kJ/mol-atom (n = 4); Materials Project -57.039 kJ/mol-atom (mp-aaaaacyn); OQMD -59.481 kJ/mol-atom (oqmd-3573).
+23 accepted literature formation-enthalpy value(s) (experimental 11, model 8, DFT 1, unspecified 3); experimental median -39.7 kJ/mol-atom (n = 11); Materials Project -57.039 kJ/mol-atom (mp-aaaaacyn); OQMD -59.481 kJ/mol-atom (oqmd-3573).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html)
+Systems: [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Si3Ta5 reported in the literature (11)
+Table: Enthalpy of formation of Si3Ta5 reported in the literature (23)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.8 kJ/mol-atom ± 7.8 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
-| -39.7 kJ/mol-atom | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
-| -38.1 kJ/mol-atom ± 1.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
-| -37.7 kJ/mol-atom ± 4.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
-| -56.2 kJ/mol-atom | Ta5Si3 (α) |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
-| -52.4 kJ/mol-atom | Ta5Si3 (β) |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
-| -52.3 kJ/mol-atom | Ta5Si3 (α) | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
-| -51.6 kJ/mol-atom | Ta5Si3 (β) | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
-| -59.8 kJ/mol-atom | Ta5Si3 (α) | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 49 |  |
-| -55.4 kJ/mol-atom | Ta5Si3 (β) | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 56 |  |
-| -48.1 kJ/mol-atom | Ta5Si3 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 59 |  |
+| -54.937 kJ/mol-atom | Si0.375Ta0.625_HT | 1027 | experimental | Method unknown | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 19 |  |
+| -52.423 kJ/mol-atom | Si0.375Ta0.625_HT | 1900 | experimental | Kundsen eff. method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 17 |  |
+| -41.9 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | experimental | Kundsen eff. method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 15 |  |
+| -41.8 kJ/mol-atom ± 7.8 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
+| -39.7 kJ/mol-atom | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
+| -39.7 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | experimental | Calorimetric method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 14 |  |
+| -38.1 kJ/mol-atom ± 1.7 | Si0.375Ta0.625_HT | 1473 | experimental | DSC | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 2, row 12 |  |
+| -38.1 kJ/mol-atom ± 1.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
+| -38.1 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | experimental | HT calorimetry | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Nowotny 1956_ [doi](https://doi.org/10.1007/bf00902640) | Table 2, p. 2, row 13 |  |
+| -37.7 kJ/mol-atom ± 4.7 | Ta5Si3 (α) | 298.15 | experimental |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
+| -37.7 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | experimental | EMF | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 11 |  |
+| -56.2 kJ/mol-atom | Ta5Si3 (α) |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
+| -55 kJ/mol-atom | Si0.375Ta0.625_LT | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 9 |  |
+| -52.42 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | model | Pred., Ab-in; | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Tao 2009_ [doi](https://doi.org/10.1103/physrevb.80.104103) | Table 2, p. 2, row 18 |  |
+| -52.4 kJ/mol-atom | Ta5Si3 (β) |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
+| -52.3815 kJ/mol-atom | Si0.375Ta0.625_HT | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 16 |  |
+| -52.3807 kJ/mol-atom | Si0.375Ta0.625_LT | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 8 |  |
+| -52.3 kJ/mol-atom | Ta5Si3 (α) | 0 | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
+| -51.6 kJ/mol-atom | Ta5Si3 (β) | 0 | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
+| -56.15 kJ/mol-atom | Si0.375Ta0.625_LT | 298.15 | DFT | Ab-initio | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Tao 2009_ [doi](https://doi.org/10.1103/physrevb.80.104103) | Table 2, p. 2, row 10 |  |
+| -59.8 kJ/mol-atom | Ta5Si3 (α) | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 49 |  |
+| -55.4 kJ/mol-atom | Ta5Si3 (β) | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 56 |  |
+| -48.1 kJ/mol-atom | Ta5Si3 | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 59 |  |
 
 ### Uncertainty budget
 
@@ -34,17 +46,29 @@ Table: Uncertainty budget of the literature values of Si3Ta5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -41.8 | kJ/mol-atom | 7.8 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 7.8 |
-| -39.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.1 | kJ/mol-atom | 1.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.7 | kJ/mol-atom | 4.7 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.7 |
-| -56.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -52.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -55.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -48.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -54.937 | kJ/mol-atom |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -52.423 | kJ/mol-atom |  | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -41.9 | kJ/mol-atom |  | 5.000e-5 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -41.8 | kJ/mol-atom | 7.8 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 7.8 |
+| -39.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -39.7 | kJ/mol-atom |  | 5.000e-5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -38.1 | kJ/mol-atom | 1.7 | 5.000e-5 | 2 (dsc_dta, prior) |  |  |  | 2 |
+| -38.1 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.1 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -37.7 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4.7 |
+| -37.7 | kJ/mol-atom |  | 5.000e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -56.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -55 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.42 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.3815 | kJ/mol-atom |  | 5.000e-8 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.3807 | kJ/mol-atom |  | 5.000e-8 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -52.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.15 | kJ/mol-atom |  | 5.000e-5 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -59.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -55.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -48.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -61,7 +85,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
+1. I. Drouelle, C. Servant, Thermodynamic assessment of the Si–Ta system, Journal of Alloys and Compounds 551, 293-299 (2013). [doi:10.1016/j.jallcom.2012.09.148](https://doi.org/10.1016/j.jallcom.2012.09.148)
+2. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
 
 ## Please cite
 

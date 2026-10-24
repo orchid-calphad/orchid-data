@@ -13,7 +13,7 @@ Table: Phases of the Al–Se system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [HEXAGONAL_A8](#phase-al-se-a8-hexagonal); _phase:al-se:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–494 K, x(Se) 1–1 | 2 | 1 |
-| [AL2SE3](#phase-al-se-al2se3); _phase:al-se:al2se3_ | beta-Ga2Se3 · mC20 · Cc (9) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1207.32 K, x(Se) 0.6–0.6 | 5 | 1 |
+| [AL2SE3](#phase-al-se-al2se3); _phase:al-se:al2se3_ | beta-Ga2Se3 · mC20 · Cc (9) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1207.32 K, x(Se) 0.6–0.6 | 13 | 1 |
 | [BCC_A2](#phase-al-se-bcc-a2); _phase:al-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-al-se-fcc-a1); _phase:al-se:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–944.34 K, x(Se) 0–0 | 3 | 1 |
 | [HCP_A3](#phase-al-se-hcp-a3); _phase:al-se:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -55,7 +55,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Se 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1207.32 K, x(Se) 0.6–0.6
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-se:al2se3)
 
 Names (3): _corpus: _corpus:phase:al-se:al2se3  
@@ -72,10 +72,14 @@ _tdb: _tdb:AlSe-19Shi.tdb:AL2SE3
 58: CONST AL2SE3 : AL : SE : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-019-00733-z](https://doi.org/10.1007/s11669-019-00733-z) Chenying Shi, Biaobiao Yang, Biao Hu, Yong Du, Sheng Yao, Thermodynamic Description of the Al–X (X = S, Se, Te) Systems, J. Phase Equilib. Diffus. 40, 392-402 (2019).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1107/s0365110x66001506](https://doi.org/10.1107/s0365110x66001506) G. A. Steigmann, J. Goodyear, The crystal structure of Al\<sub>2\</sub>Se\<sub>3\</sub>, Acta Cryst 20, 617-619 (1966).  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19542770107](https://doi.org/10.1002/zaac.19542770107) A. Schneider, G. Gattow, Beitrag zum System Aluminium–Selen, Zeitschrift anorg allge chemie 277, 49-59 (1954).  
+_cited as the source of values for this phase_
 
 ## BCC_A2 (Al–Se)
 

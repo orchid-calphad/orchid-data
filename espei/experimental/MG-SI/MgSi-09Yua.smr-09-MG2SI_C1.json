@@ -72,8 +72,8 @@
      "sigma_effective": 1.0,
      "method_class": "solution_reaction_calorimetry",
      "method_basis": "prior",
-     "method_n_pairs": 1,
-     "method_entry": "value_types/SM_FORM/classes/solution_reaction_calorimetry"
+     "method_n_pairs": 4,
+     "method_entry": "value_types/SM_FORM/classes/unknown"
     },
     "sigma_effective_used": 1.0,
     "weight_per_value_equivalent": 0.2,

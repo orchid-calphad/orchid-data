@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/NiYb.html · Markdown: https://d
 
 7 accepted literature formation-enthalpy value(s) (experimental 3, model 4); experimental median -23.4 kJ/mol-atom (n = 2); OQMD -27.289 kJ/mol-atom (oqmd-30880).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)
+Systems: [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)
 
 ## Literature values
 
@@ -19,7 +19,7 @@ Table: Enthalpy of formation of NiYb reported in the literature (7)
 | -18.8 kJ/mol-atom | NiYb_LT | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 23 |  |
 | -27.8 kJ/mol-atom | NiYb_LT | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 20 |  |
 | -27.2 kJ/mol-atom | α-YbNi | 298.15 | model |  | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017 | p. 17 | “Based on Eq. 16, the enthalpy of formation of the α-YbNi phase at 298K is calculated to be -27.2 kJ/mol-atom, a value which agrees well with the recent experimental results from DSC measurements (-28±2.0 kJ/molatom) by Brutti et al. \[13\].” |
-| -17.28 kJ/mol-atom | NiYb | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [2] Kardellass 2016 | Table 4, p. 7, row 12 |  |
+| -17.28 kJ/mol-atom | NiYb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016 | Table 4, p. 7, row 12 |  |
 | -17.28 kJ/mol-atom | NiYb_LT | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016 | Table 2, p. 5, row 22 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of NiYb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -28 | unspecified | 2 | 0.5 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 2 |
-| -28 | kJ/mol-atom | 2 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -28 | unspecified | 2 | 0.05 | unit 'unspecified' not convertible to kJ/mol-atom |  |  |  | 2 |
+| -28 | kJ/mol-atom | 2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -18.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -27.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -27.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.28 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -17.28 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -27.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -27.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.28 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -17.28 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -46,7 +46,7 @@ Table: DFT formation energy of NiYb
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-30880 | -27.289 | -0.282833 | Pnma | 3.83 | 0.0397 | no |
+| OQMD | oqmd-30880 | -27.289 | -0.282833 | Pnma | 3.8304 | 0.0397 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

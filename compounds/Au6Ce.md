@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Au6Ce.html · Markdown: https://data.orchid-project.org/compounds/Au6Ce.md
 
-5 accepted literature formation-enthalpy value(s) (model 4, DFT 1); Materials Project -36.558 kJ/mol-atom (mp-aaackuug); OQMD -40.358 kJ/mol-atom (oqmd-1821063).
+5 accepted literature formation-enthalpy value(s) (model 3, DFT 2); Materials Project -36.558 kJ/mol-atom (mp-aaackuug); OQMD -40.358 kJ/mol-atom (oqmd-1821063).
 
-Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) · [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html)
+Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html)
 
 ## Literature values
 
@@ -15,9 +15,9 @@ Table: Enthalpy of formation of Au6Ce reported in the literature (5)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -45.8 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 33 |  |
-| -41.59 kJ/mol-atom | Au6Ce | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 16 |  |
+| -41.59 kJ/mol-atom | Au6Ce | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 16 |  |
 | -41.59 kJ/mol-atom | CeAu6 | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 32 |  |
-| -39.76 kJ/mol-atom | Au6Ce | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 15 |  |
+| -39.76 kJ/mol-atom | Au6Ce | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 15 |  |
 | -39.76 kJ/mol-atom | CeAu6 | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 31 |  |
 
 ### Uncertainty budget
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Au6Ce
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -45.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -41.59 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -41.59 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.76 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.76 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -45.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -41.59 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -41.59 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.76 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -39.76 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

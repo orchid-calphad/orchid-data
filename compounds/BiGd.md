@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BiGd.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -96.7 kJ/mol-atom (n = 1); Materials Project -87.324 kJ/mol-atom (mp-aaabiyzx); OQMD -88.653 kJ/mol-atom (oqmd-1926131).
 
-Systems: [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
+Systems: [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of BiGd reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -96.7 kJ/mol-atom | GdBi | 0 | experimental |  | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 7 |  |
-| -83 kJ/mol-atom | GdBi | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 9 |  |
-| -90.4625 kJ/mol-atom | GdBi | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 8 |  |
+| -96.7 kJ/mol-atom | GdBi | 298.15 | experimental |  | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 7 |  |
+| -83 kJ/mol-atom | GdBi | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 9 |  |
+| -90.4625 kJ/mol-atom | GdBi | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 8 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of BiGd
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -96.7 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -83 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -90.4625 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -96.7 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -83 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -90.4625 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

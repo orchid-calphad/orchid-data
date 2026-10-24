@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuLa6.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–La](https://data.orchid-project.org/systems/AU-LA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AuLa6 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -45.1 kJ/mol-atom | AuLa6 | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 11 |  |
+| -45.1 kJ/mol-atom | AuLa6 | 0 | DFT | ab initio | [Au–La](https://data.orchid-project.org/systems/AU-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 11 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AuLa6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -45.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -45.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

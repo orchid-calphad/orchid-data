@@ -1,10 +1,10 @@
 # Mo–Ni system
 
-> Mo–Ni system: 72 accepted literature values (formation 46, invariant reaction 16, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Ni system: 66 accepted literature values (formation 40, invariant reaction 16, phase transition 10) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-NI.html · Markdown: https://data.orchid-project.org/systems/MO-NI.md
 
-72 accepted literature values from 6 paper(s) (experimental 15, model 11, DFT 46); 5 calculated phase diagram(s).
+66 accepted literature values from 6 paper(s) (experimental 15, model 11, DFT 40); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-NI.json) · [CSV](https://data.orchid-project.org/systems/MO-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-NI/MoNi-01Mor.json) · [phases (10)](https://data.orchid-project.org/phases/pages/MO-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-NI.html) · [Markdown](https://data.orchid-project.org/systems/MO-NI.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 15 |
 | model | 11 |
-| DFT | 46 |
+| DFT | 40 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 16 |
 | phase transition | 10 |
-| formation | 46 |
+| formation | 40 |
 
 ## Calculated phase diagrams
 
@@ -113,14 +113,10 @@ Table: Invariant reactions reported in the literature for the Mo–Ni system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Ni system (46)
+Table: Enthalpies of formation, Mo–Ni system (40)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mo |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26 |  |
-| Mo |  | 39.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 27 |  |
-| Ni |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 24 |  |
-| Ni |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 25 |  |
 | Ni₀.₂₅Mo₀.₇₅ |  | -4.063 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 31 |  |
 | Ni₀.₂₅Mo₀.₇₅ |  | 9.145 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28 |  |
 | Ni₀.₅₀Mo₀.₅₀ |  | -6.405 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 32 |  |
@@ -147,12 +143,10 @@ Table: Enthalpies of formation, Mo–Ni system (46)
 | UNKNOWN |  | -0.89 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 37 |  |
 | UNKNOWN |  | -0.1 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 38 |  |
 | UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 26 |  |
-| UNKNOWN |  | 0 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 24 |  |
 | UNKNOWN |  | 1.98 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 39 |  |
 | UNKNOWN |  | 2.84 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 44 |  |
 | UNKNOWN |  | 5.083 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 30 |  |
 | UNKNOWN |  | 9.145 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 28 |  |
-| UNKNOWN |  | 9.33 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 25 |  |
 | UNKNOWN |  | 10.45 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 29 |  |
 | UNKNOWN |  | 17.06 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 43 |  |
 | UNKNOWN |  | 39.51 kJ/mol (basis unstated) |  | DFT |  |  | [1] Zhou 2005 | Table 2, p. 4, row 27 |  |

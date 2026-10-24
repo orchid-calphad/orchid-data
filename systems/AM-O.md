@@ -56,10 +56,10 @@ Table: Enthalpies of formation, Am–O system (6)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Am2O3 |  | -338.54 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
-| Am2O3 |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| Am2O3 |  | -338.08 kJ/mol-atom ± 8 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
-| AmO2 |  | -310.767 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| AmO2 |  | -310.733 kJ/mol-atom ± 3 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| Am2O3 |  | -338.08 kJ/mol-atom ± 1.6 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| AmO2 |  | -310.767 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| AmO2 |  | -310.733 kJ/mol-atom ± 1 | 298.15 | model |  |  | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 | AmO2 |  | -310.567 kJ/mol-atom | 298.15 | model |  |  | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
 
 ## Other properties
@@ -91,12 +91,12 @@ Table: Heat capacity / entropy / enthalpy, Am–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 5 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
-| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 15 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
+| Entropy; _printed: S°(298.15 K)_ | 26.72 J/mol-atom/K ± 1 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 3 |  |
+| Entropy; _printed: S°(298.15 K)_ | 32 J/mol-atom/K ± 3 | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 2 |  |
 | Entropy; _printed: S°(298.15 K)_ | 27.342 J/mol-atom/K | 298.15 | Am2O3; _alloy: O 0.6_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 1 |  |
-| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 10 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| Entropy; _printed: S°(298.15 K)_ | 22.3333 J/mol-atom/K ± 3.33333 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
 | Entropy; _printed: S°(298.15 K)_ | 23.3533 J/mol-atom/K | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
-| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 5 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| Entropy; _printed: S°(298.15 K)_ | 25.1667 J/mol-atom/K ± 1.66667 | 298.15 | AmO2; _alloy: O 0.666667_ | model | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 
 ### Activity / EMF / Gibbs energy (2)
 

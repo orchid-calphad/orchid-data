@@ -1,10 +1,10 @@
 # Sr–Te system
 
-> Sr–Te system: 14 accepted literature values (invariant reaction 12, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sr–Te system: 20 accepted literature values (invariant reaction 12, formation 5, phase transition 2, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SR-TE.html · Markdown: https://data.orchid-project.org/systems/SR-TE.md
 
-14 accepted literature values from 1 paper(s) (experimental 9, model 5); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 9, model 7, DFT 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SR-TE.json) · [CSV](https://data.orchid-project.org/systems/SR-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SR-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SR-TE/SrTe-22Yu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/SR-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SR-TE.html) · [Markdown](https://data.orchid-project.org/systems/SR-TE.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 5 |
+| model | 7 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 12 |
 | phase transition | 2 |
+| formation | 5 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -66,6 +69,20 @@ Table: Invariant reactions reported in the literature for the Sr–Te system (12
 | 722 | L -> SrTe2 + (Te) | L: Te 1; SrTe2: Te 0.666; (Te): Te 1 | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 8 |  |
 | 722 | eutectic |  | experimental | [1] Yu 2022; _cites Lyskova 1975_ | p. 4 | “There are two peritectic reactions: L ? SrTe ? Sr2Te3 and L ? Sr2Te3 ? SrTe2 occurring at about 1193, and 1123 K, and two eutectic reactions: L ? (bSr) ? SrTe and L ? (Te) ? SrTe2 occurring at about 1033, and 722 K, respectively.” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Sr–Te system (5)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| SrTe |  | -187.88 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 22 |  |
+| SrTe |  | -174 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Labidi 2008_ | Table 2, p. 5, row 20 |  |
+| SrTe | [SrTe](https://data.orchid-project.org/compounds/SrTe.html) | -168 kJ/mol-atom | 298.15 | model | -188.541 (mp-aaaaacxi) | -168.527 (oqmd-656717) | [1] Yu 2022 | Table 2, p. 5, row 23 |  |
+| SrTe |  | -167.98 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022 | Table 2, p. 5, row 19 |  |
+| SrTe |  | -167.97 kJ/mol-atom | 0 | DFT |  |  | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 21 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -76,6 +93,14 @@ Table: Phase transition, Sr–Te system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1763 K | 1763 | L -> SrTe; _L: Te 0.5; SrTe: Te 0.5_ | experimental | [1] Yu 2022; _cites Lyskova 1975_ | Table 7, p. 18, row 10 |  |
 | Phase transition | 1764 K | 1764 | L -> SrTe; _L: Te 0.5; SrTe: Te 0.5_ | model | [1] Yu 2022 | Table 7, p. 18, row 9 |  |
+
+### Crystal structure (1)
+
+Table: Crystal structure, Sr–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.666 Å | 298.15 | SrTe; _alloy: Sr 0.5, Te 0.5_ | model | [1] Yu 2022; _cites Villars 1991_ | Table 1, p. 3, row 24 |  |
 
 ## Sources
 

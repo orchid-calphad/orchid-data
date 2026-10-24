@@ -12,10 +12,10 @@ Table: Phases of the Pt–Zr system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-pt-zr-bcc-a2); _phase:pt-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1099.6–2133.12 K, x(Zr) 0.92904–1 | 0 | 2 |
+| [BCC_A2](#phase-pt-zr-bcc-a2); _phase:pt-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1099.6–2133.12 K, x(Zr) 0.92904–1 | 0 | 2 |
 | [B2_BCC](#phase-pt-zr-bcc-b2); _phase:pt-zr:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1099.6–2324 K, x(Zr) 0.47632–1 | 0 | 1 |
 | [FCC_A1](#phase-pt-zr-fcc-a1); _phase:pt-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2072.77 K, x(Zr) 0–0.14007 | 0 | 1 |
-| [A3_HCP](#phase-pt-zr-hcp-a3); _phase:pt-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 720–1100 K | 0 | 2 |
+| [HCP_A3](#phase-pt-zr-hcp-a3); _phase:pt-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 720–1100 K | 0 | 2 |
 | [D024_HCP](#phase-pt-zr-hcp-d024); _phase:pt-zr:hcp-d024_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2523 K, x(Zr) 0.20598–1 | 0 | 1 |
 | [LIQUID](#phase-pt-zr-liquid); _phase:pt-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1458.12–4000 K, x(Zr) 0–1 | 0 | 1 |
 | [PT10ZR7](#phase-pt-zr-pt10zr7); _phase:pt-zr:pt10zr7_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2010 K, x(Zr) 0.41176–0.41176 | 0 | 1 |
@@ -24,11 +24,11 @@ Table: Phases of the Pt–Zr system (11)
 | [PT4ZR3](#phase-pt-zr-pt4zr3); _phase:pt-zr:pt4zr3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2193.2 K, x(Zr) 0.42857–0.45549 | 0 | 1 |
 | [PTZR_B33](#phase-pt-zr-ptzr-b33); _phase:pt-zr:ptzr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1862.98 K, x(Zr) 0.5–0.53571 | 0 | 1 |
 
-## A2_BCC (Pt–Zr)
+## BCC_A2 (Pt–Zr)
 
 - Id: `phase:pt-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1099.6–2133.12 K, x(Zr) 0.92904–1
+- Stability: stable in 1 of 1 calculated diagram(s): 1099.6–2133.12 K, x(Zr) 0.92904–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-zr:bcc-a2)
 
@@ -36,7 +36,7 @@ Names (3): _corpus: _corpus:phase:pt-zr:bcc-a2
 _tdb: _tdb:PtZr-10Gao.tdb:A2_BCC, tdb:PtZr-10Gao.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [PtZr-10Gao.tdb](https://orchid-project.org/data/databases/sgte-binary/PtZr-10Gao.tdb): A2_BCC, type code %B, sha256 `3acdf8b6d62c6648…`
 
@@ -111,11 +111,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.3139/146.110351](https://doi.org/10.3139/146.110351) Y. Gao, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 101, 819-26(2010).  
 _assessment that models this phase_
 
-## A3_HCP (Pt–Zr)
+## HCP_A3 (Pt–Zr)
 
 - Id: `phase:pt-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 720–1100 K
+- Stability: stable in 1 of 1 calculated diagram(s): 720–1100 K
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pt-zr:hcp-a3)
 
@@ -123,7 +123,7 @@ Names (3): _corpus: _corpus:phase:pt-zr:hcp-a3
 _tdb: _tdb:PtZr-10Gao.tdb:A3_HCP, tdb:PtZr-10Gao.tdb:HCP_A3  
 
 
-### TDB models of A3_HCP (2): PHASE and CONSTITUENT statements as written
+### TDB models of HCP_A3 (2): PHASE and CONSTITUENT statements as written
 
 [PtZr-10Gao.tdb](https://orchid-project.org/data/databases/sgte-binary/PtZr-10Gao.tdb): A3_HCP, type code %A, sha256 `3acdf8b6d62c6648…`
 

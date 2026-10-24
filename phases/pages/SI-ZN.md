@@ -12,10 +12,10 @@ Table: Phases of the Si–Zn system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-si-zn-a4-diamond); _phase:si-zn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Zn) 0–0 | 3 | 3 |
+| [DIAMOND_A4](#phase-si-zn-a4-diamond); _phase:si-zn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Zn) 0–0 | 0 | 3 |
 | [BCC_A2](#phase-si-zn-bcc-a2); _phase:si-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-si-zn-fcc-a1); _phase:si-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 3 |
-| [HCP_A3](#phase-si-zn-hcp-a3); _phase:si-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.92 K, x(Zn) 1–1 | 1 | 3 |
+| [HCP_A3](#phase-si-zn-hcp-a3); _phase:si-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.92 K, x(Zn) 1–1 | 0 | 3 |
 | [LIQUID](#phase-si-zn-liquid); _phase:si-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 692.17–2500 K, x(Zn) 0–1 | 3 | 3 |
 
 ## DIAMOND_A4 (Si–Zn)
@@ -23,11 +23,10 @@ Table: Phases of the Si–Zn system (5)
 - Id: `phase:si-zn:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1687 K, x(Zn) 0–0
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zn:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:si-zn:a4-diamond  
-_paper: _paper:10.1016/s0364-5916(96)00033-8:\<Si>  
+Names (4): _corpus: _corpus:phase:si-zn:a4-diamond  
 _tdb: _tdb:SiZn-24Zob-3g.tdb:DIAMOND_A4, tdb:SiZn-86Mey.tdb:DIAMOND_A4, tdb:SiZn-96Jac-LB.tdb:DIAMOND_A4  
 
 
@@ -56,9 +55,9 @@ _tdb: _tdb:SiZn-24Zob-3g.tdb:DIAMOND_A4, tdb:SiZn-86Mey.tdb:DIAMOND_A4, tdb:SiZn
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/S0364-5916(96)00033-8](https://doi.org/10.1016/S0364-5916%2896%2900033-8) M.H.G. Jacobs, P.J. Spencer, Calphad, 20, 307-20(1996).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2024.102742](https://doi.org/10.1016/j.calphad.2024.102742) O. Zobac, A. Kroupa, A. Dinsdale, Calphad, 87, 102742(2024).  
+_assessment that models this phase_
+- [doi:10.1016/S0364-5916(96)00033-8](https://doi.org/10.1016/S0364-5916%2896%2900033-8) M.H.G. Jacobs, P.J. Spencer, Calphad, 20, 307-20(1996).  
 _assessment that models this phase_
 
 ## BCC_A2 (Si–Zn)
@@ -141,11 +140,10 @@ _assessment that models this phase_
 - Id: `phase:si-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2499.92 K, x(Zn) 1–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-zn:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:si-zn:hcp-a3  
-_paper: _paper:10.1016/s0364-5916(96)00033-8:\<Zn>  
+Names (4): _corpus: _corpus:phase:si-zn:hcp-a3  
 _tdb: _tdb:SiZn-24Zob-3g.tdb:HCP_A3, tdb:SiZn-86Mey.tdb:HCP_A3, tdb:SiZn-96Jac-LB.tdb:HCP_A3  
 
 
@@ -174,9 +172,9 @@ _tdb: _tdb:SiZn-24Zob-3g.tdb:HCP_A3, tdb:SiZn-86Mey.tdb:HCP_A3, tdb:SiZn-96Jac-L
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/S0364-5916(96)00033-8](https://doi.org/10.1016/S0364-5916%2896%2900033-8) M.H.G. Jacobs, P.J. Spencer, Calphad, 20, 307-20(1996).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2024.102742](https://doi.org/10.1016/j.calphad.2024.102742) O. Zobac, A. Kroupa, A. Dinsdale, Calphad, 87, 102742(2024).  
+_assessment that models this phase_
+- [doi:10.1016/S0364-5916(96)00033-8](https://doi.org/10.1016/S0364-5916%2896%2900033-8) M.H.G. Jacobs, P.J. Spencer, Calphad, 20, 307-20(1996).  
 _assessment that models this phase_
 
 ## LIQUID (Si–Zn)

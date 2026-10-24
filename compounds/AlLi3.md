@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlLi3.html · Markdown: https://
 
 9 accepted literature formation-enthalpy value(s) (model 4, DFT 5); Materials Project -7.688 kJ/mol-atom (mp-aaacdnpk); OQMD -8.815 kJ/mol-atom (oqmd-309145).
 
-Systems: [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html)
+Systems: [Al–Li](https://data.orchid-project.org/systems/AL-LI.html)
 
 ## Literature values
 
@@ -14,15 +14,15 @@ Table: Enthalpy of formation of AlLi3 reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -10.5 kJ/mol-atom | AlLi3(D03) |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 4, p. 7, row 168 |  |
-| -10.5 kJ/mol-atom | AlLi3(D03) |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | model | CALPHAD | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | model |  | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020 | Table 4, p. 7, row 163 |  |
-| -10.9 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169 |  |
-| -10.2 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170 |  |
-| -6.5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164 |  |
-| -5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165 |  |
-| -2.3 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li–Zr](https://data.orchid-project.org/systems/AL-LI-ZR.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166 |  |
+| -10.5 kJ/mol-atom | AlLi3(D03) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 168 |  |
+| -10.5 kJ/mol-atom | AlLi3(D03) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171 |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | model | CALPHAD | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167 |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | model |  | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020 | Table 4, p. 7, row 163 |  |
+| -10.9 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169 |  |
+| -10.2 kJ/mol-atom | AlLi3(D03) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170 |  |
+| -6.5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164 |  |
+| -5 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165 |  |
+| -2.3 kJ/mol-atom | AlLi3(L12) |  | DFT | Ab-initio | [Al–Li](https://data.orchid-project.org/systems/AL-LI.html) | [1] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166 |  |
 
 ### Uncertainty budget
 
@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of AlLi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -10.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -5 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -5 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.9 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -10.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -6.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -5 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -2.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -10.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.9 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -10.2 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -6.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -2.3 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -50,8 +50,9 @@ Table: DFT formation energy of AlLi3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacdnpk | -7.688 | -0.079682 | I4/mmm | 4.101 | 0.0425 | yes |
-| OQMD | oqmd-309145 | -8.815 | -0.091361 | Fm-3m | 3.706 | 0.0384 | yes |
+| Materials Project | mp-aaacdnpk | -7.688 | -0.079682 | I4/mmm | 4.1011 | 0.0425 | yes |
+| OQMD | oqmd-309145 | -8.815 | -0.091361 | Fm-3m | 3.7064 | 0.0384 | yes |
+| OQMD | oqmd-349593 | -4.548 | -0.047136 | Pm-3m | 7.9734 | 0.0826 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

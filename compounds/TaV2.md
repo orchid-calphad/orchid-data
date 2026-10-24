@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/TaV2.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (model 3, unspecified 2); Materials Project -10.061 kJ/mol-atom (mp-aaabghei); OQMD -12.128 kJ/mol-atom (oqmd-1365869).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html)
+Systems: [Ta–V](https://data.orchid-project.org/systems/TA-V.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of TaV2 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11.7 kJ/mol-atom | TaV2 |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Charifi 2009_ | Table 2, p. 6, row 2 |  |
-| -11.4 kJ/mol-atom | TaV2 | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
-| -10.2 kJ/mol-atom | TaV2 | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
-| -11.4 kJ/mol-atom | TaV2 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 1 |  |
-| -10.2 kJ/mol-atom | TaV2 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
+| -11.7 kJ/mol-atom | TaV2 |  | model |  | [Ta–V](https://data.orchid-project.org/systems/TA-V.html) | [1] Broz 2013; _cites Charifi 2009_ | Table 2, p. 6, row 2 |  |
+| -11.4 kJ/mol-atom | TaV2 | 0 | model |  | [Ta–V](https://data.orchid-project.org/systems/TA-V.html) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 3 |  |
+| -10.2 kJ/mol-atom | TaV2 | 0 | model |  | [Ta–V](https://data.orchid-project.org/systems/TA-V.html) | [1] Broz 2013; _cites Pavlu 2011_ [doi](https://doi.org/10.1016/j.calphad.2010.12.002) | Table 2, p. 6, row 5 |  |
+| -11.4 kJ/mol-atom | TaV2 | 0 | unspecified |  | [Ta–V](https://data.orchid-project.org/systems/TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 1 |  |
+| -10.2 kJ/mol-atom | TaV2 | 0 | unspecified |  | [Ta–V](https://data.orchid-project.org/systems/TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 4 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of TaV2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -10.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -11.4 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -10.2 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -10.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.4 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -10.2 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of TaV2
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabghei | -10.061 | -0.104278 | Fd-3m | 0 | 0 | no |
-| OQMD | oqmd-1365869 | -12.128 | -0.125698 | P63/mmc | 0.006 | 1.000e-4 | yes |
+| OQMD | oqmd-1365869 | -12.128 | -0.125698 | P63/mmc | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

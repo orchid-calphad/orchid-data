@@ -1,10 +1,10 @@
 # Ag–Ru system
 
-> Ag–Ru system: 4 accepted literature values (crystal structure 3, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ru system: 1 accepted literature values (invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-RU.html · Markdown: https://data.orchid-project.org/systems/AG-RU.md
 
-4 accepted literature values from 1 paper(s) (experimental 1, unspecified 3); 2 calculated phase diagram(s).
+1 accepted literature values from 1 paper(s) (experimental 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-RU.json) · [CSV](https://data.orchid-project.org/systems/AG-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-RU/AgRu-86Kar.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-RU.html) · [Markdown](https://data.orchid-project.org/systems/AG-RU.md)
 
@@ -13,14 +13,12 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
-| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -52,18 +50,6 @@ Table: Invariant reactions reported in the literature for the Ag–Ru system (1)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1193.15 | eutectic |  | experimental | [1] Karakaya 1986; _cites ref. 59Rud_ | p. 2 | “The eutectic point is at about 3.1 at.% Ru and 920 ~ \[59Rud\].” |
-
-## Other properties
-
-### Crystal structure (3)
-
-Table: Crystal structure, Ag–Ru system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1, Ru 0_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 1 |  |
-| Lattice a | 2.7053 Å | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
-| Lattice c | 4.2814 Å | 298.15 | Ru(s); _Ru(s): Ag 0, Ru 1_ | unspecified | [1] Karakaya 1986 | Table 1, p. 2, row 2 |  |
 
 ## Sources
 

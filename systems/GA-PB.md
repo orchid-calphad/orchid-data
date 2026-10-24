@@ -1,10 +1,10 @@
 # Ga–Pb system
 
-> Ga–Pb system: 878 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 70, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pb system: 874 accepted literature values (heat capacity / entropy / enthalpy 717, phase transition 70, activity / EMF / Gibbs energy 36, mixing / partial 24) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PB.html · Markdown: https://data.orchid-project.org/systems/GA-PB.md
 
-878 accepted literature values from 2 paper(s) (experimental 864, model 7, unspecified 7); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+874 accepted literature values from 2 paper(s) (experimental 864, model 7, unspecified 3); 2 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON part 1](https://data.orchid-project.org/literature/systems/GA-PB.json) · [JSON part 2](https://data.orchid-project.org/literature/systems/GA-PB.part2.json) · [CSV](https://data.orchid-project.org/systems/GA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PB/GaPb-91Ans-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PB.html) · [Markdown](https://data.orchid-project.org/systems/GA-PB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 864 |
 | model | 7 |
-| unspecified | 7 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
@@ -26,7 +26,6 @@ Table: Accepted values by property group
 | mixing / partial | 24 |
 | heat capacity / entropy / enthalpy | 717 |
 | activity / EMF / Gibbs energy | 36 |
-| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -60,8 +59,8 @@ Table: Invariant reactions reported in the literature for the Ga–Pb system (10
 |---:|---|---|---|---|---|---|
 | 590.15 | monotectic: L2 -> L1 + (Pb) |  | experimental | [1] Ansara 1991; _cites Puschin 1932_ [doi](https://doi.org/10.1002/zaac.19322090318) | Table 2, p. 3, row 4 |  |
 | 586.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.945; L1: Pb 0.024 | unspecified | [1] Ansara 1991; _cites ref. 59Pre_ | Table 2, p. 3, row 6 |  |
-| 585.75 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.969; L1: Pb 0.016; (Pb): Pb 0.002 | model | [1] Ansara 1991 | Table 2, p. 3, row 7 |  |
-| 584.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.958; (Pb): Pb 0.0048 | experimental | [1] Ansara 1991; _cites Greenwood 1959_ | Table 2, p. 3, row 5 |  |
+| 585.75 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.969; L1: Pb 0.016; (Pb): Pb 0.998 | model | [1] Ansara 1991 | Table 2, p. 3, row 7 |  |
+| 584.15 | monotectic: L2 -> L1 + (Pb) | L2: Pb 0.958; (Pb): Pb 0.9952 | experimental | [1] Ansara 1991; _cites Greenwood 1959_ | Table 2, p. 3, row 5 |  |
 | 584.1 | monotectic |  | experimental | [2] Mathon 1996 | p. 6 | “Moreover, Cp determination performed at lower temperatures enables us to confirm the monotectic temperature at T = 584.1 K.” |
 | 584 | monotectic |  | model | [2] Mathon 1996 | p. 9 | “R e m a r k : the use of option II information leads us to the following thermodynamic results. Calculated coordinates: eutectic Xliq, Pb ~--- 0.0002; xfcc, Pb 0.9999; T = 302.9 K monotectic X,ql, eb = 0.0279; xliq> Pb = 0.9611; Xfcc,Pb ~-0.9956; T = 584 K critical point xl.q, Pb = 0.466; T = 885 K” |
 | 302.9 | eutectic |  | model | [2] Mathon 1996 | p. 8 | “5.2.1. Option I Calculated coordinates: eutectic X l i q , Pb = 0.0002; X f c c , Pb = 0.9999; T = 302.9 K m o n o t e c t i c X,iq~' Pb = 0.0283; Xliq2' Pb = 0.9605; Xfcc, Pb = 0.9955; T - - 583.8 K critical point X l i q , Pb = 0.468; T = 879.3 K” |
@@ -969,17 +968,6 @@ Table: Activity / EMF / Gibbs energy, Ga–Pb system
 | Activity Pb; _printed: a(Pb)_ | 0.72 1 | 1143 | liquid; _alloy: Ga 0.6, Pb 0.4_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 16 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.7 1 | 1143 | liquid; _alloy: Ga 0.7, Pb 0.3_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 12 |  |
 | Activity Pb; _printed: a(Pb)_ | 0.75 1 | 1143 | liquid; _alloy: Ga 0.3, Pb 0.7_ | experimental | [2] Mathon 1996; _cites Desideri 1973_ [doi](https://doi.org/10.1021/je60056a024) | Table 1, p. 3, row 28 |  |
-
-### Crystal structure (4)
-
-Table: Crystal structure, Ga–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.5192 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice a | 4.9502 Å | 298.15 | Pb; _alloy: Ga 0, Pb 1_ | unspecified | [1] Ansara 1991; _cites ref. 1_ | Table 3, p. 3, row 2 |  |
-| Lattice b | 7.6586 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
-| Lattice c | 4.5258 Å | 298.15 | Ga; _Ga: Ga 1, Pb 0_ | unspecified | [1] Ansara 1991 | Table 3, p. 3, row 1 |  |
 
 ## Sources
 

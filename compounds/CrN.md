@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CrN.html · Markdown: https://da
 
 2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -66.723 kJ/mol-atom (mp-aaacpjap); OQMD -59.652 kJ/mol-atom (oqmd-1229033).
 
-Systems: [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html)
+Systems: [Cr–N](https://data.orchid-project.org/systems/CR-N.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CrN reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -58.6 kJ/mol-atom | CrN |  | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6 |  |
-| -57.3 kJ/mol-atom | CrN |  | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [1] Frisk 1991 | Table I, p. 6, row 8 |  |
+| -58.6 kJ/mol-atom | CrN |  | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991; _cites Chase 1985_ | Table I, p. 6, row 6 |  |
+| -57.3 kJ/mol-atom | CrN |  | model |  | [Cr–N](https://data.orchid-project.org/systems/CR-N.html) | [1] Frisk 1991 | Table I, p. 6, row 8 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CrN
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -58.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -57.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -58.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -57.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of CrN
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacpjap | -66.723 | -0.691537 | P-6m2 | 0 | 0 | yes |
-| OQMD | oqmd-1229033 | -59.652 | -0.618246 | P-6m2 | 0.002 | 0 | yes |
+| OQMD | oqmd-1229033 | -59.652 | -0.618246 | P-6m2 | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

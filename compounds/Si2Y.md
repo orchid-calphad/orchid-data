@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Si2Y.html · Markdown: https://d
 
 9 accepted literature formation-enthalpy value(s) (experimental 2, model 5, DFT 2); experimental median -63.9 kJ/mol-atom (n = 2); Materials Project -48.296 kJ/mol-atom (mp-aaaaasxd); OQMD -52.293 kJ/mol-atom (oqmd-19375).
 
-Systems: [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html)
+Systems: [Si–Y](https://data.orchid-project.org/systems/SI-Y.html)
 
 ## Literature values
 
@@ -14,15 +14,15 @@ Table: Enthalpy of formation of Si2Y reported in the literature (9)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -66 kJ/mol-atom ± 3.4 | YSi2 | 298.15 | experimental |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
-| -61.8 kJ/mol-atom ± 1.4 | YSi2 | 298.15 | experimental |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 2 |  |
-| -68 kJ/mol-atom | YSi2 |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 5 |  |
-| -60.266 kJ/mol-atom | YSi2 |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
-| -54.67 kJ/mol-atom | YSi2 (R) |  | model | CALPHAD | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 14 |  |
-| -54.4 kJ/mol-atom | YSi2 (H) |  | model | CALPHAD | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 12 |  |
-| -38.9214 kJ/mol-atom | YSi2 |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
-| -50.91 kJ/mol-atom | YSi2 (R) | 0 | DFT | First principles | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 13 |  |
-| -49.25 kJ/mol-atom | YSi2 (H) | 0 | DFT | First principles | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 11 |  |
+| -66 kJ/mol-atom ± 3.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 1 |  |
+| -61.8 kJ/mol-atom ± 1.4 | YSi2 | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 2 |  |
+| -68 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 5 |  |
+| -60.266 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 3 |  |
+| -54.67 kJ/mol-atom | YSi2 (R) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 14 |  |
+| -54.4 kJ/mol-atom | YSi2 (H) |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 12 |  |
+| -38.9214 kJ/mol-atom | YSi2 |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 4 |  |
+| -50.91 kJ/mol-atom | YSi2 (R) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 13 |  |
+| -49.25 kJ/mol-atom | YSi2 (H) | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 11 |  |
 
 ### Uncertainty budget
 
@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of Si2Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -66 | kJ/mol-atom | 3.4 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -61.8 | kJ/mol-atom | 1.4 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -68 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.266 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.67 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.9214 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.91 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -49.25 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -66 | kJ/mol-atom | 3.4 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -61.8 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -68 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.266 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -54.67 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -54.4 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.9214 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.91 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -49.25 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -50,8 +50,8 @@ Table: DFT formation energy of Si2Y
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaasxd | -48.296 | -0.50055 | I4_1/amd | 4.233 | 0.0439 | no |
-| OQMD | oqmd-19375 | -52.293 | -0.54198 | I41/amd | 7.223 | 0.0749 | no |
+| Materials Project | mp-aaaaasxd | -48.296 | -0.50055 | I4_1/amd | 4.2329 | 0.0439 | no |
+| OQMD | oqmd-19375 | -52.293 | -0.54198 | I41/amd | 7.2233 | 0.0749 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -12,7 +12,7 @@ Table: Phases of the Ge–V system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ge-v-a4-diamond); _phase:ge-v:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(V) 0–0 | 6 | 2 |
+| [DIAMOND_A4](#phase-ge-v-a4-diamond); _phase:ge-v:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(V) 0–0 | 4 | 2 |
 | [BCC_A2](#phase-ge-v-bcc-a2); _phase:ge-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.83 K, x(V) 0.95323–1 | 6 | 2 |
 | [FCC_A1](#phase-ge-v-fcc-a1); _phase:ge-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [GE31V17](#phase-ge-v-ge31v17); _phase:ge-v:ge31v17_ | Ge31V17 · tP192 · P-4n2 (118) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1233.33 K, x(V) 0.35417–0.35417 | 8 | 2 |
@@ -20,7 +20,7 @@ Table: Phases of the Ge–V system (9)
 | [GE8V11](#phase-ge-v-ge8v11); _phase:ge-v:ge8v11_ | Cr11Ge8 · oP76 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1894.8 K, x(V) 0.57895–0.57895 | 8 | 2 |
 | [GEV3_A15](#phase-ge-v-gev3-a15); _phase:ge-v:gev3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2193.04 K, x(V) 0.75–0.75 | 12 | 2 |
 | [HCP_A3](#phase-ge-v-hcp-a3); _phase:ge-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ge-v-liquid); _phase:ge-v:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1200.82–4000 K, x(V) 0–1 | 32 | 2 |
+| [LIQUID](#phase-ge-v-liquid); _phase:ge-v:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1200.82–4000 K, x(V) 0–1 | 30 | 2 |
 
 ## DIAMOND_A4 (Ge–V)
 
@@ -28,7 +28,7 @@ Table: Phases of the Ge–V system (9)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(V) 0–0
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-v:a4-diamond)
 
 Names (6): _corpus: _corpus:phase:ge-v:a4-diamond, corpus:phase:ge-v:diamond-a4  
@@ -325,7 +325,7 @@ _assessment that models this phase_
 - Id: `phase:ge-v:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1200.82–4000 K, x(V) 0–1
-- Literature: 32 values (32 accepted) from 2 papers
+- Literature: 30 values (30 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-v:liquid)
 
 Names (5): _corpus: _corpus:phase:ge-v:liquid  

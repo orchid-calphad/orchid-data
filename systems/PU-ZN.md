@@ -1,10 +1,10 @@
 # Pu–Zn system
 
-> Pu–Zn system: 48 accepted literature values (invariant reaction 47, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pu–Zn system: 44 accepted literature values (invariant reaction 43, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PU-ZN.html · Markdown: https://data.orchid-project.org/systems/PU-ZN.md
 
-48 accepted literature values from 1 paper(s) (experimental 33, model 15); 1 calculated phase diagram(s).
+44 accepted literature values from 1 paper(s) (experimental 31, model 13); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PU-ZN.json) · [CSV](https://data.orchid-project.org/systems/PU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PU-ZN/PuZn-14Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/PU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/PU-ZN.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 33 |
-| model | 15 |
+| experimental | 31 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 47 |
+| invariant reaction | 43 |
 | phase transition | 1 |
 
 ## Calculated phase diagrams
@@ -59,7 +59,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pu–Zn system (47)
+Table: Invariant reactions reported in the literature for the Pu–Zn system (43)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -106,10 +106,6 @@ Table: Invariant reactions reported in the literature for the Pu–Zn system (47
 | 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.018; PuZn2: Pu 0.333333, Zn 0.666667 | experimental | [1] Liu 2014; _cites Cramer 1960_ | Table 4, p. 4, row 23 |  |
 | 513.15 | eutectoid |  | experimental | [1] Liu 2014; _cites Cramer 1960_ | p. 3 | “the reaction, (dPu) M PuZn2 + (cPu), was reported to be 1.8 at.% Zn at 240 °C by Cramer \[18\].” |
 | 513.15 | eutectoid: (δPu) ↔ PuZn2 + (γPu) | (δPu): Zn 0.021; PuZn2: Zn 0.667; (γPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 25 |  |
-| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 11 |  |
-| 488.15 | polymorphic: (γPu) ↔ (βPu) | (γPu): Zn 0 | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 10 |  |
-| 398.15 | polymorphic: (βPu) ↔ (αPu) |  | experimental | [1] Liu 2014; _cites Massalski 1990_ | Table 4, p. 4, row 12 |  |
-| 398.15 | polymorphic: (βPu) ↔ (αPu) | (βPu): Zn 0 | model | [1] Liu 2014 | Table 4, p. 4, row 13 |  |
 
 ## Other properties
 

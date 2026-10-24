@@ -33,8 +33,8 @@ Table: Phases of the Cu–Pu system (12)
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-pu:a6-tetragonal)
 
-Names (5): _corpus: _corpus:phase:cu-pu:a6-tetragonal, corpus:phase:cu-pu:tetragonal-a6  
-_paper: _paper:10.1016/j.jnucmat.2009.04.017:δ'Pu, paper:10.1016/j.jnucmat.2009.04.017:δPu  
+Names (4): _corpus: _corpus:phase:cu-pu:a6-tetragonal, corpus:phase:cu-pu:tetragonal-a6  
+_paper: _paper:10.1016/j.jnucmat.2009.04.017:δ'Pu  
 _tdb: _tdb:CuPu-09Wan.tdb:TETRAGONAL_A6  
 
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of HfC0.958
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -218.4 | kJ/mol (basis unstated) | 1.7 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1.7 |
+| -218.4 | kJ/mol (basis unstated) | 1.7 | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
 
 ## Sources
 

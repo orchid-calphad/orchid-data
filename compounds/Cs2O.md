@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of Cs2O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -116.133 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -115.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -115.333 | kJ/mol-atom |  | 0.1667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -122.367 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -117.4 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -116.933 | kJ/mol-atom |  | 0.01667 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -115.333 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -116.133 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -115.333 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -115.333 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -115.333 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -122.367 | kJ/mol-atom |  | 0.01667 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -117.4 | kJ/mol-atom |  | 0.01667 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -116.933 | kJ/mol-atom |  | 0.01667 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -115.333 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -115.333 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Na2Te
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -334.7 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -330 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -334.7 | kJ/mol (basis unstated) |  | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -330 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # B–Dy system
 
-> B–Dy system: 24 accepted literature values (invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Dy system: 37 accepted literature values (invariant reaction 24, formation 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-DY.html · Markdown: https://data.orchid-project.org/systems/B-DY.md
 
-24 accepted literature values from 1 paper(s) (experimental 2, model 22); 0 calculated phase diagram(s).
+37 accepted literature values from 1 paper(s) (experimental 4, model 27, DFT 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-DY.json) · [CSV](https://data.orchid-project.org/systems/B-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-DY) · [phases (11)](https://data.orchid-project.org/phases/pages/B-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-DY.html) · [Markdown](https://data.orchid-project.org/systems/B-DY.md)
 
@@ -12,14 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
-| model | 22 |
+| experimental | 4 |
+| model | 27 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
+| formation | 13 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-DY.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-DY.json)
 
@@ -53,6 +55,28 @@ Table: Invariant reactions reported in the literature for the B–Dy system (24)
 | 1639.7 | peritectic: L+ β -Dy ↔α -Dy | L: B 0.028 | model | [1] Li 2020 | Table 8, p. 30, row 22 |  |
 | 1619.1 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.039; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020; _cites ref. 25_ | Table 8, p. 30, row 24 |  |
 | 1608.7 | eutectic: L ↔ DyB2 + α-Dy | L: B 0.048; DyB2: B 0.666667, Dy 0.333333 | model | [1] Li 2020 | Table 8, p. 30, row 25 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, B–Dy system (13)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| DyB12 | [DyB12](https://data.orchid-project.org/compounds/DyB12.html) | -24.212 kJ/mol-atom | 298.15 | model | -24.129 (mp-aaackujk) | -24.171 (oqmd-28341) | [1] Li 2020 | Table 2, p. 25, row 25 |  |
+| DyB12 |  | 24.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 24 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -58.019 kJ/mol-atom | 298.15 | model | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020 | Table 2, p. 25, row 18 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -54.44 kJ/mol-atom | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 38_ | Table 2, p. 25, row 15 |  |
+| DyB2 |  | -54.135 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 16 |  |
+| DyB2 |  | -54.038 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 17 |  |
+| DyB2 | [DyB2](https://data.orchid-project.org/compounds/DyB2.html) | -30.2 kJ/mol-atom ± 1.3 | 298.15 | experimental | -54.16 (mp-aaaaadbd) | -54.212 (oqmd-8332) | [1] Li 2020; _cites ref. 37_ | Table 2, p. 25, row 14 |  |
+| DyB4 |  | -57.692 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
+| DyB4 |  | -57.596 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
+| DyB4 | [DyB4](https://data.orchid-project.org/compounds/DyB4.html) | -55.007 kJ/mol-atom | 298.15 | model | -57.547 (mp-aaaaaeap) | -57.764 (oqmd-12458) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
+| DyB6 | [DyB6](https://data.orchid-project.org/compounds/DyB6.html) | -38.94 kJ/mol-atom | 298.15 | model | -38.604 (mp-aaabgisl) | -38.617 (oqmd-19358) | [1] Li 2020 | Table 2, p. 25, row 23 |  |
+| DyB6 |  | -38.558 kJ/mol-atom | 298.15 | DFT |  |  | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 22 |  |
+| DyB66 |  | -4.686 kJ/mol-atom | 298.15 | model |  |  | [1] Li 2020 | Table 2, p. 25, row 26 |  |
 
 ## Sources
 

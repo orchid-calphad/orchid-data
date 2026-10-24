@@ -18,13 +18,13 @@ Table: Phases of the Al–Ca system (13)
 | [AL3CA8](#phase-al-ca-al3ca8); _phase:al-ca:al3ca8_ | Ca8In3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–853.46 K, x(Ca) 0.72727–0.72727 | 58 | 6 |
 | [AL4CA_D13](#phase-al-ca-al4ca-d13); _phase:al-ca:al4ca-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–976.05 K, x(Ca) 0.2–0.2 | 36 | 7 |
 | [ALCA](#phase-al-ca-alca); _phase:al-ca:alca_ | Al14Ca13 · mC54 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–906.36 K, x(Ca) 0.5–0.5 | 3 | 1 |
-| [BCC_A2](#phase-al-ca-bcc-a2); _phase:al-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 301.03–2500 K, x(Ca) 0.82–1 | 20 | 7 |
+| [BCC_A2](#phase-al-ca-bcc-a2); _phase:al-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 301.03–2500 K, x(Ca) 0.82–1 | 14 | 7 |
 | [C14_LAVES](#phase-al-ca-c14-laves); _phase:al-ca:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [C15_LAVES](#phase-al-ca-c15-laves); _phase:al-ca:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1350.39 K, x(Ca) 0.3328–0.3453 | 0 | 1 |
 | [C36_LAVES](#phase-al-ca-c36-laves); _phase:al-ca:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-al-ca-fcc-a1); _phase:al-ca:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–979.24 K, x(Ca) 0–1 | 16 | 7 |
+| [FCC_A1](#phase-al-ca-fcc-a1); _phase:al-ca:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–979.24 K, x(Ca) 0–1 | 13 | 7 |
 | [HCP_A3](#phase-al-ca-hcp-a3); _phase:al-ca:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [LIQUID](#phase-al-ca-liquid); _phase:al-ca:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 817.45–2500 K, x(Ca) 0–1 | 82 | 7 |
+| [LIQUID](#phase-al-ca-liquid); _phase:al-ca:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 817.45–2500 K, x(Ca) 0–1 | 79 | 7 |
 
 ## AL12MG17_A12 (Al–Ca)
 
@@ -400,7 +400,7 @@ _reports values for this phase_
 - Id: `phase:al-ca:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 301.03–2500 K, x(Ca) 0.82–1
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ca:bcc-a2)
 
 Names (11): _corpus: _corpus:phase:al-ca:bcc-a2  
@@ -461,9 +461,9 @@ _tdb: _tdb:AlCa-01Kev-LB.tdb:BCC_A2, tdb:AlCa-02Ozt-assoc.tdb:BCC_A2, tdb:AlCa-0
 
 Example references (8 of 8; assessments first): 
 
-- [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523) F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-005-0133-0](https://doi.org/10.1007/s11661-005-0133-0) Koray Ozturk, Yu Zhong, Long-Qing Chen, Zi-Kui Liu, Jorge O. Sofo, C. Wolverton, Linking first-principles energetics to CALPHAD: An application to thermodynamic modeling of the Al-Ca binary system, Metall Mater Trans A 36, 5-13 (2005).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523) F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(01)01713-3](https://doi.org/10.1016/S0925-8388%2801%2901713-3) K. Ozturk, L.-Q. Chen, Z.-K. Liu, J. Alloys Compd., 340, 199-206(2002).  
 _assessment that models this phase; cited as the source of values for this phase_
@@ -564,11 +564,11 @@ _assessment that models this phase_
 - Id: `phase:al-ca:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–979.24 K, x(Ca) 0–1
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 13 values (13 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ca:fcc-a1)
 
-Names (11): _corpus: _corpus:phase:al-ca:fcc-a1  
-_paper: _paper:10.1007/s11661-005-0133-0:Al, paper:10.1179/cmq.2005.44.4.523:Al-fcc, paper:10.1179/cmq.2005.44.4.523:Ca-fcc  
+Names (10): _corpus: _corpus:phase:al-ca:fcc-a1  
+_paper: _paper:10.1007/s11661-005-0133-0:Al, paper:10.1179/cmq.2005.44.4.523:Al-fcc  
 _tdb: _tdb:AlCa-01Kev-LB.tdb:FCC_A1, tdb:AlCa-02Ozt-assoc.tdb:FCC_A1, tdb:AlCa-02Ozt.tdb:FCC_A1, tdb:AlCa-05Isl.tdb:FCC_A1, tdb:AlCa-05Ozt.tdb:FCC_A1, tdb:AlCa-23Hal.tdb:FCC_A1, tdb:AlCa-94Ang.tdb:FCC_A1  
 
 
@@ -725,7 +725,7 @@ _assessment that models this phase_
 - Id: `phase:al-ca:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 817.45–2500 K, x(Ca) 0–1
-- Literature: 82 values (82 accepted) from 3 papers
+- Literature: 79 values (79 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ca:liquid)
 
 Names (11): _corpus: _corpus:phase:al-ca:liquid  

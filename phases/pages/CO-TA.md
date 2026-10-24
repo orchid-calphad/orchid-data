@@ -27,9 +27,9 @@ Table: Phases of the Co–Ta system (19)
 | [MU_D85](#phase-co-ta-d85-mu); _phase:co-ta:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2045.23 K, x(Ta) 0.44838–0.55701 | 38 | 6 |
 | [DIS_MU](#phase-co-ta-dis-mu); _phase:co-ta:dis-mu_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-co-ta-fcc-4sl); _phase:co-ta:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 691.7–1769.38 K, x(Ta) 0–0.05936 | 0 | 2 |
-| [FCC_A1](#phase-co-ta-fcc-a1); _phase:co-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 9 calculated diagram(s): 621.48–1777.64 K, x(Ta) 0–0.05936 | 25 | 9 |
+| [FCC_A1](#phase-co-ta-fcc-a1); _phase:co-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 621.48–1777.64 K, x(Ta) 0–0.05936 | 24 | 9 |
 | [L12_FCC](#phase-co-ta-fcc-l12); _phase:co-ta:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 671.48–1773.65 K, x(Ta) 0–0.05927 | 10 | 1 |
-| [HCP_A3](#phase-co-ta-hcp-a3); _phase:co-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–729.98 K, x(Ta) 0–0.01216 | 6 | 6 |
+| [HCP_A3](#phase-co-ta-hcp-a3); _phase:co-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–729.98 K, x(Ta) 0–0.01216 | 5 | 6 |
 | [LIQUID](#phase-co-ta-liquid); _phase:co-ta:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1552.64–4000 K, x(Ta) 0–1 | 53 | 6 |
 
 ## BCC_A2 (Co–Ta)
@@ -756,8 +756,8 @@ _assessment that models this phase_
 
 - Id: `phase:co-ta:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 9 calculated diagram(s): 621.48–1777.64 K, x(Ta) 0–0.05936
-- Literature: 25 values (25 accepted) from 3 papers
+- Stability: stable in 6 of 6 calculated diagram(s): 621.48–1777.64 K, x(Ta) 0–0.05936
+- Literature: 24 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ta:fcc-a1)
 
 Names (13): _corpus: _corpus:phase:co-ta:fcc-a1  
@@ -879,7 +879,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-ta:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–729.98 K, x(Ta) 0–0.01216
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ta:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:co-ta:hcp-a3  

@@ -12,7 +12,7 @@ Table: Phases of the Ba–Bi system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBOHEDRAL_A7](#phase-ba-bi-a7-rhombohedral); _phase:ba-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Bi) 1–1 | 5 | 1 |
+| [RHOMBOHEDRAL_A7](#phase-ba-bi-a7-rhombohedral); _phase:ba-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Bi) 1–1 | 3 | 1 |
 | [BA11BI10](#phase-ba-bi-ba11bi10); _phase:ba-bi:ba11bi10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1017.89 K, x(Bi) 0.47619–0.47619 | 11 | 1 |
 | [BA2BI](#phase-ba-bi-ba2bi); _phase:ba-bi:ba2bi_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–800 K, x(Bi) 0.33333–0.33333 | 9 | 1 |
 | [BA4BI3_D73](#phase-ba-bi-ba4bi3-d73); _phase:ba-bi:ba4bi3-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1077.97 K, x(Bi) 0.42857–0.42857 | 6 | 1 |
@@ -28,11 +28,11 @@ Table: Phases of the Ba–Bi system (10)
 - Id: `phase:ba-bi:a7-rhombohedral`; status `assigned`
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Bi) 1–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-bi:a7-rhombohedral)
 
-Names (5): _corpus: _corpus:phase:ba-bi:a7-rhombohedral, corpus:phase:ba-bi:rhombohedral-a7  
-_paper: _paper:10.1016/j.jallcom.2018.08.324:Bi, paper:10.1016/j.jallcom.2018.08.324:Rhom_A7(Bi)  
+Names (4): _corpus: _corpus:phase:ba-bi:a7-rhombohedral, corpus:phase:ba-bi:rhombohedral-a7  
+_paper: _paper:10.1016/j.jallcom.2018.08.324:Rhom_A7(Bi)  
 _tdb: _tdb:BaBi-19Liu.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -45,13 +45,11 @@ _tdb: _tdb:BaBi-19Liu.tdb:RHOMBOHEDRAL_A7
 49: CONST RHOMBOHEDRAL_A7 : BA BI% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2018.08.324](https://doi.org/10.1016/j.jallcom.2018.08.324) Jinming Liu, Pin-Wen Guan, Cassie N. Marker, Nathan D. Smith, Nicole Orabona, Shun-Li Shang et al., Thermodynamic properties and phase stability of the Ba-Bi system: A combined computational and experimental study, Journal of Alloys and Compounds 771, 281-289 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.electacta.2016.12.141](https://doi.org/10.1016/j.electacta.2016.12.141) Timothy Lichtenstein, Nathan D. Smith, Jarrod Gesualdi, Kuldeep Kumar, Hojong Kim, Thermodynamic properties of Barium-Bismuth alloys determined by emf measurements, Electrochimica Acta 228, 628-635 (2017).  
-_cited as the source of values for this phase_
-- [doi:10.1063/1.1698520](https://doi.org/10.1063/1.1698520) M. E. Straumanis, The Precision Determination of Lattice Constants by the Powder and Rotating Crystal Methods and Applications, Journal of Applied Physics 20, 726-734 (1949).  
 _cited as the source of values for this phase_
 
 ## BA11BI10 (Ba–Bi)

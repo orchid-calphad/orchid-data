@@ -12,16 +12,16 @@ Table: Phases of the Ni–Sn system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-ni-sn-a4-diamond); _phase:ni-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 3 | 11 |
-| [BCT_A5](#phase-ni-sn-a5-bct); _phase:ni-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–505.08 K, x(Sn) 0.99996–1 | 12 | 11 |
-| [BCC_A2](#phase-ni-sn-bcc-a2); _phase:ni-sn:bcc-a2_ |  | needs_review | stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653 | 12 | 11 |
-| [FCC_A1](#phase-ni-sn-fcc-a1); _phase:ni-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1734.24 K, x(Sn) 0–0.13456 | 20 | 11 |
+| [DIAMOND_A4](#phase-ni-sn-a4-diamond); _phase:ni-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 11 calculated diagram(s) | 1 | 11 |
+| [BCT_A5](#phase-ni-sn-a5-bct); _phase:ni-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–505.08 K, x(Sn) 0.99996–1 | 8 | 11 |
+| [BCC_A2](#phase-ni-sn-bcc-a2); _phase:ni-sn:bcc-a2_ |  | needs_review | stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653 | 0 | 11 |
+| [FCC_A1](#phase-ni-sn-fcc-a1); _phase:ni-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1734.24 K, x(Sn) 0–0.13456 | 19 | 11 |
 | [HCP_A3](#phase-ni-sn-hcp-a3); _phase:ni-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 11 calculated diagram(s): 504.61–504.61 K, x(Sn) 0.99054–0.99054 | 0 | 11 |
 | [LIQUID](#phase-ni-sn-liquid); _phase:ni-sn:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 503.85–2500 K, x(Sn) 0–1 | 67 | 11 |
-| [NI3SN_D019](#phase-ni-sn-ni3sn-d019); _phase:ni-sn:ni3sn-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541 | 55 | 11 |
+| [NI3SN_D019](#phase-ni-sn-ni3sn-d019); _phase:ni-sn:ni3sn-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541 | 51 | 11 |
 | [NI3SN_D03](#phase-ni-sn-ni3sn-d03); _phase:ni-sn:ni3sn-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 1090–1462.98 K, x(Sn) 0.09–0.27263 | 39 | 9 |
 | [NI3SN2_LT](#phase-ni-sn-ni3sn2); _phase:ni-sn:ni3sn2_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1553.78 K, x(Sn) 0.37716–0.43985 | 37 | 11 |
-| [NI3SN2_B82](#phase-ni-sn-ni3sn2-b82); _phase:ni-sn:ni3sn2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 414.67–1552.95 K, x(Sn) 0.37102–0.4511 | 20 | 7 |
+| [NI3SN2_B82](#phase-ni-sn-ni3sn2-b82); _phase:ni-sn:ni3sn2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 414.67–1552.95 K, x(Sn) 0.37102–0.4511 | 18 | 7 |
 | [NI3SN2-LT](#phase-ni-sn-ni3sn2-lt); _phase:ni-sn:ni3sn2-lt_ |  | needs_review | no calculated diagram | 10 | 0 |
 | [NI3SN4](#phase-ni-sn-ni3sn4); _phase:ni-sn:ni3sn4_ | Ni3Sn4 · mC14 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1075.85 K, x(Sn) 0.52691–0.58093 | 33 | 11 |
 
@@ -31,7 +31,7 @@ Table: Phases of the Ni–Sn system (12)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 11 calculated diagram(s)
-- Literature: 3 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:a4-diamond)
 
 Names (14): _corpus: _corpus:phase:ni-sn:a4-diamond, corpus:phase:ni-sn:diamond-a4  
@@ -144,7 +144,7 @@ _assessment that models this phase_
 - Id: `phase:ni-sn:a5-bct`; status `assigned`
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 300–505.08 K, x(Sn) 0.99996–1
-- Literature: 12 values (11 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:a5-bct)
 
 Names (16): _corpus: _corpus:phase:ni-sn:a5-bct, corpus:phase:ni-sn:bct-a5  
@@ -251,7 +251,7 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110827](https://doi.org/10.3139/146.110827) J. Liu, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 104, 51-59(2013).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2006.10.045](https://doi.org/10.1016/j.intermet.2006.10.045) Clemens Schmetterer, Hans Flandorfer, Klaus W. Richter, Usman Saeed, Matthieu Kauffman, Pascal Roussel et al., A new investigation of the system Ni–Sn, Intermetallics 15, 869-884 (2007).  
+- [doi:10.1007/bf02880521](https://doi.org/10.1007/bf02880521) P. Nash, A. Nash, The Ni−Sn (Nickel-Tin) system, Bulletin of Alloy Phase Diagrams 6, 350-359 (1985).  
 _cited as the source of values for this phase_
 
 ## BCC_A2 (Ni–Sn)
@@ -263,11 +263,10 @@ _cited as the source of values for this phase_
 - Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word 'A2' in the TDB name
 - Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)
 - Stability: stable in 2 of 11 calculated diagram(s): 1184.63–1455.71 K, x(Sn) 0.23911–0.26653
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:ni-sn:bcc-a2  
-_paper: _paper:10.1007/s00706-012-0778-5:Ni3Sn_HT  
+Names (12): _corpus: _corpus:phase:ni-sn:bcc-a2  
 _tdb: _tdb:NiSn-03Mie.tdb:BCC_A2, tdb:NiSn-04Liu.tdb:BCC_A2, tdb:NiSn-05Liu.tdb:BCC_A2, tdb:NiSn-12Zem.tdb:BCC_A2, tdb:NiSn-13Don.tdb:BCC_A2, tdb:NiSn-13Liu-fractional.tdb:BCC_A2, tdb:NiSn-13Liu.tdb:BCC_A2, tdb:NiSn-16Ber.tdb:BCC_A2, tdb:NiSn-21Zha.tdb:BCC_A2, tdb:NiSn-22Lia.tdb:BCC_A2, tdb:NiSn-99Gho.tdb:BCC_A2  
 
 
@@ -350,15 +349,15 @@ _tdb: _tdb:NiSn-03Mie.tdb:BCC_A2, tdb:NiSn-04Liu.tdb:BCC_A2, tdb:NiSn-05Liu.tdb:
 37: CONST BCC_A2 : NI SN : VA : !
 ~~~~
 
-Example references (10 of 10; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1007/s00706-012-0778-5](https://doi.org/10.1007/s00706-012-0778-5) Adela Zemanova, Ales Kroupa, Alan Dinsdale, Theoretical assessment of the Ni–Sn system, Monatsh Chem 143, 1255-1261 (2012).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2004.12.002](https://doi.org/10.1016/j.calphad.2004.12.002) H.S. Liu, J. Wang, Z.P. Jin, Thermodynamic optimization of the Ni–Sn binary system, Calphad 28, 363-370 (2004).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-005-0082-9](https://doi.org/10.1007/s11664-005-0082-9) X. J. Liu, M. Kinaka, Y. Takaku, I. Ohnuma, R. Kainuma, K. Ishida, Experimental investigation and thermodynamic calculation of phase equilibria in the Sn-Au-Ni system, J. Electron. Mater. 34, 670-679 (2005).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2003.10.001](https://doi.org/10.1016/j.calphad.2003.10.001) Jyrki Miettinen, Thermodynamic description of the Cu–Ni–Sn system at the Cu–Ni side, Calphad 27, 309-318 (2003).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2004.12.002](https://doi.org/10.1016/j.calphad.2004.12.002) H.S. Liu, J. Wang, Z.P. Jin, Thermodynamic optimization of the Ni–Sn binary system, Calphad 28, 363-370 (2004).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2013.10.001](https://doi.org/10.1016/j.calphad.2013.10.001) H.Q. Dong, V. Vuorinen, T. Laurila, M. Paulasto-Kröckel, Thermodynamic reassessment of Au–Ni–Sn ternary system, Calphad 43, 61-70 (2013).  
 _assessment that models this phase_
@@ -370,15 +369,13 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110827](https://doi.org/10.3139/146.110827) J. Liu, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 104, 51-59(2013).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2006.10.045](https://doi.org/10.1016/j.intermet.2006.10.045) Clemens Schmetterer, Hans Flandorfer, Klaus W. Richter, Usman Saeed, Matthieu Kauffman, Pascal Roussel et al., A new investigation of the system Ni–Sn, Intermetallics 15, 869-884 (2007).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Ni–Sn)
 
 - Id: `phase:ni-sn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1734.24 K, x(Sn) 0–0.13456
-- Literature: 20 values (19 accepted) from 3 papers
+- Literature: 19 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:fcc-a1)
 
 Names (16): _corpus: _corpus:phase:ni-sn:fcc-a1  
@@ -729,7 +726,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in NiSn-22Lia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in NiSn-99Gho.tdb also describes the disordered state
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1246.08 K, x(Sn) 0.23917–0.25541
-- Literature: 55 values (54 accepted) from 3 papers
+- Literature: 51 values (50 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:ni3sn-d019)
 
 Names (16): _corpus: _corpus:phase:ni-sn:ni3sn-d019  
@@ -1075,7 +1072,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ni-sn:ni3sn2-b82`; status `assigned`
 - Structure: InNi2 · B8_2 · hP6 · P6_3/mmc (194); type `st:b8-2-inni2-hp6`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 414.67–1552.95 K, x(Sn) 0.37102–0.4511
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sn:ni3sn2-b82)
 
 Names (9): _corpus: _corpus:phase:ni-sn:ni3sn2-b82  
@@ -1146,9 +1143,9 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.3139/146.110827](https://doi.org/10.3139/146.110827) J. Liu, C. Guo, C. Li, Z. Du, Int. J. Mater. Res., 104, 51-59(2013).  
 _assessment that models this phase_
-- [doi:10.1007/s11661-999-0085-x](https://doi.org/10.1007/s11661-999-0085-x) G. Ghosh, Thermodynamic modeling of the nickel-lead-tin system, Metall Mater Trans A 30, 1481-1494 (1999).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02880521](https://doi.org/10.1007/bf02880521) P. Nash, A. Nash, The Ni−Sn (Nickel-Tin) system, Bulletin of Alloy Phase Diagrams 6, 350-359 (1985).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11661-999-0085-x](https://doi.org/10.1007/s11661-999-0085-x) G. Ghosh, Thermodynamic modeling of the nickel-lead-tin system, Metall Mater Trans A 30, 1481-1494 (1999).  
 _cited as the source of values for this phase_
 
 ## NI3SN2-LT (Ni–Sn)

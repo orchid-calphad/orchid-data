@@ -13,10 +13,10 @@ Table: Phases of the Ni–Yb system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ni-yb-bcc-a2); _phase:ni-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 301.05–1098.7 K, x(Yb) 0.99979–1 | 0 | 2 |
-| [FCC_A1](#phase-ni-yb-fcc-a1); _phase:ni-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1802.31 K, x(Yb) 0–1 | 18 | 2 |
+| [FCC_A1](#phase-ni-yb-fcc-a1); _phase:ni-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1802.31 K, x(Yb) 0–1 | 10 | 2 |
 | [HCP_A3](#phase-ni-yb-hcp-a3); _phase:ni-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ni-yb-liquid); _phase:ni-yb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1078.9–2500 K, x(Yb) 0–1 | 49 | 2 |
-| [NI17YB2](#phase-ni-yb-ni17yb2); _phase:ni-yb:ni17yb2_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1519.17 K, x(Yb) 0.10526–0.10526 | 22 | 2 |
+| [NI17YB2](#phase-ni-yb-ni17yb2); _phase:ni-yb:ni17yb2_ | Ni17Th2 · hP38 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1519.17 K, x(Yb) 0.10526–0.10526 | 24 | 2 |
 | [NI2YB_C15](#phase-ni-yb-ni2yb-c15); _phase:ni-yb:ni2yb-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1526.76 K, x(Yb) 0.33333–0.33333 | 11 | 2 |
 | [NI3YB](#phase-ni-yb-ni3yb); _phase:ni-yb:ni3yb_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1576.47 K, x(Yb) 0.25–0.25 | 23 | 2 |
 | [NI5YB_D2D](#phase-ni-yb-ni5yb-d2d); _phase:ni-yb:ni5yb-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1567.45 K, x(Yb) 0.16667–0.16667 | 15 | 2 |
@@ -63,11 +63,11 @@ _assessment that models this phase_
 - Id: `phase:ni-yb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1802.31 K, x(Yb) 0–1
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 10 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-yb:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:ni-yb:fcc-a1  
-_paper: _paper:10.1007/s10973-016-5380-3:fcc_A1, paper:10.1016/j.calphad.2017.09.004:fcc-Ni, paper:10.1016/j.calphad.2017.09.004:fcc-Yb, paper:10.1016/j.calphad.2017.09.004:fcc_Ni  
+Names (5): _corpus: _corpus:phase:ni-yb:fcc-a1  
+_paper: _paper:10.1007/s10973-016-5380-3:fcc_A1, paper:10.1016/j.calphad.2017.09.004:fcc_Ni  
 _tdb: _tdb:NiYb-16Kar.tdb:FCC_A1, tdb:NiYb-17Hu.tdb:FCC_A1  
 
 
@@ -87,17 +87,15 @@ _tdb: _tdb:NiYb-16Kar.tdb:FCC_A1, tdb:NiYb-17Hu.tdb:FCC_A1
 38: CONST FCC_A1 : NI YB : VA : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.calphad.2017.09.004](https://doi.org/10.1016/j.calphad.2017.09.004) Yong-Jie Hu, Yi Wang, Samad A. Firdosy, Kurt E. Star, Jean-Pierre Fleurial, Vilupanur A. Ravi et al., First-principles calculations and thermodynamic modeling of the Yb-Ni binary system, Calphad 59, 207-217 (2017).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-016-5380-3](https://doi.org/10.1007/s10973-016-5380-3) Saïd Kardellass, Colette Servant, Najim Selhaoui, Thermodynamic description of the Ni–Yb and Ni–Eu binary systems, J Therm Anal Calorim 125, 255-269 (2016).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2017.09.004](https://doi.org/10.1016/j.calphad.2017.09.004) Yong-Jie Hu, Yi Wang, Samad A. Firdosy, Kurt E. Star, Jean-Pierre Fleurial, Vilupanur A. Ravi et al., First-principles calculations and thermodynamic modeling of the Yb-Ni binary system, Calphad 59, 207-217 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(73)90188-4](https://doi.org/10.1016/0022-5088%2873%2990188-4) A. Palenzona, S. Cirafici, The ytterbium-nickel system, Journal of the Less Common Metals 33, 361-367 (1973).  
 _cited as the source of values for this phase_
 - [doi:10.1007/bf02881421](https://doi.org/10.1007/bf02881421) Nash P. The nickel–ytterbium system. Bull Alloy Phase Diagr. 1989;10(2):129–32.  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(72)90082-3](https://doi.org/10.1016/0022-5088%2872%2990082-3) K.H.J. Buschow, Note on the structure and occurrence of ytterbium transition metal compounds, Journal of the Less Common Metals 26, 329-333 (1972).  
 _cited as the source of values for this phase_
 - [doi:10.1134/s0036024414090064](https://doi.org/10.1134/s0036024414090064) V. V. Berezutskii, M. A. Shevchenko, M. I. Ivanov, V. S. Sudavtsova, Thermodynamic properties of liquid alloys Ni-Eu and Ni-Yb, Russ. J. Phys. Chem. 88, 1463-1471 (2014).  
 _cited as the source of values for this phase_
@@ -191,7 +189,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ni 0.8947, Yb 0.1053
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1519.17 K, x(Yb) 0.10526–0.10526
-- Literature: 22 values (22 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-yb:ni17yb2)
 
 Names (5): _corpus: _corpus:phase:ni-yb:ni17yb2  

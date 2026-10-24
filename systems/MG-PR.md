@@ -1,12 +1,12 @@
 # Mg–Pr system
 
-> Mg–Pr system: 109 accepted literature values (invariant reaction 79, crystal structure 15, phase transition 15) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Pr system: 105 accepted literature values (invariant reaction 79, phase transition 15, crystal structure 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-PR.html · Markdown: https://data.orchid-project.org/systems/MG-PR.md
 
-109 accepted literature values from 3 paper(s) (experimental 44, model 50, unspecified 15); 3 calculated phase diagram(s).
+105 accepted literature values from 3 paper(s) (experimental 44, model 50, unspecified 11); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PR.json) · [CSV](https://data.orchid-project.org/systems/MG-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PR/MgPr-05Guo.json) · [phases (12)](https://data.orchid-project.org/phases/pages/MG-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PR.html) · [Markdown](https://data.orchid-project.org/systems/MG-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/MG-PR.json) · [CSV](https://data.orchid-project.org/systems/MG-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-PR/MgPr-05Guo.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MG-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-PR.html) · [Markdown](https://data.orchid-project.org/systems/MG-PR.md)
 
 Table: Accepted values by evidence class
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 44 |
 | model | 50 |
-| unspecified | 15 |
+| unspecified | 11 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 79 |
 | phase transition | 15 |
-| crystal structure | 15 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -192,7 +192,7 @@ Table: Phase transition, Mg–Pr system
 | Phase transition | 1063 K | 1063 | liq. -> Mg3Pr; _liq.: Pr 0.248; Mg3Pr: Pr 0.248_ | experimental | [2] Guo 2005; _cites Saccone 1993_ [doi](https://doi.org/10.1016/0966-9795%2893%2990010-s) | Table 2, p. 5, row 8 |  |
 | Phase transition | 1205.15 K | 1205.15 |  | experimental | [1] Wang 2015; _cites Canneri 1933_ | p. 1 | “The measured melting points of Mg (661 °C) and Pr (932 °C) show that the starting Mg material was of low purity.” |
 
-### Crystal structure (15)
+### Crystal structure (11)
 
 Table: Crystal structure, Mg–Pr system
 
@@ -204,11 +204,7 @@ Table: Crystal structure, Mg–Pr system
 | Lattice a | 10.34 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |
 | Lattice a | 8.689 Å | 298.15 | PrMg2a; _PrMg2a: Mg 0.667, Pr 0.333_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 7.43 Å | 298.15 | PrMg3; _alloy: Pr 0.25_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 4 |  |
-| Lattice a | 4.13 Å | 298.15 | UNKNOWN; _alloy: Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 7 |  |
 | Lattice a | 3.898 Å | 298.15 | UNKNOWN; _alloy: Pr 0.5_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 6 |  |
-| Lattice a | 3.6721 Å | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
-| Lattice a | 4.13 Å | 298.15 | βPra; _βPra: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 15 |  |
-| Lattice b | 11.8326 Å | 298.15 | αPr; _αPr: Mg 0, Pr 1_ | unspecified | [1] Wang 2015; _cites ref. 1965Jos_ | Table 1, p. 2, row 8 |  |
 | Lattice c | 5.2107 Å | 298.15 | Mg; _Mg: Mg 0.99703, Pr 0.00297_ | unspecified | [1] Wang 2015 | Table 1, p. 2, row 1 |  |
 | Lattice c | 1.041 Å | 298.15 | Pr5Mg41; _Pr5Mg41: Mg 0.891, Pr 0.109_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 3 |  |
 | Lattice c | 5.98 Å | 298.15 | PrMg12; _PrMg12: Mg 0.923, Pr 0.077_ | unspecified | [1] Wang 2015; _cites ref. 1993Sac_ | Table 1, p. 2, row 2 |  |

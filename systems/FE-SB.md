@@ -115,19 +115,19 @@ Table: Invariant reactions reported in the literature for the Fe–Sb system (69
 | 901 | eutectic |  | experimental | [2] Boa 2008; _cites Okamoto 1993_ | p. 2 | “Three invariant reactions were distinguished: two eutectic reactions at 1269 and 901 K \[31\], respectively, and one peritectic reaction at 1011 K \[31\].” |
 | 901 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites Massalski_ | Table 3, p. 8, row 12 |  |
 | 901 | eutectic |  | model | [3] Pei 1995; _cites Massalski_ | p. 4 | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
-| 901 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.968; ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 32 |  |
-| 900.28 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.9891; ζ2FeSb2: Sb 0.6667; Sb: Sb 0.01 | model | [1] Li 2014 | Table 2, p. 3, row 39 |  |
+| 901 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.968; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Kurnakow 1908_ [doi](https://doi.org/10.1002/zaac.19080580102) | Table 2, p. 3, row 32 |  |
+| 900.28 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.9891; ζ2FeSb2: Sb 0.6667; Sb: Sb 1 | model | [1] Li 2014 | Table 2, p. 3, row 39 |  |
 | 898 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.9815; FeSb2: Sb 0.6667; Sb: Sb 1 | model | [2] Boa 2008 | Table 10, p. 9, row 9 |  |
 | 898 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.9812; FeSb2: Sb 0.6667; α-Sb: Sb 1 | model | [3] Pei 1995 | Table 3, p. 8, row 10 |  |
 | 897.15 | eutectic: Liq = FeSb2 + Sb | Liq: Sb 0.968; FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 10, p. 9, row 11 |  |
 | 897.15 | eutectic: Liq = FeSb2 + Sb | FeSb2: Sb 0.6667; Sb: Sb 1 | experimental | [2] Boa 2008 | Table 10, p. 9, row 10 |  |
 | 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667 | experimental | [1] Li 2014; _cites Hagg 1929_ | Table 2, p. 3, row 38 |  |
-| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 37 |  |
-| 894 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.965; ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 36 |  |
-| 892 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.982; ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 33 |  |
-| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 35 |  |
+| 897 | eutectic: Liq -> ζ2FeSb2 + Sb | ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Richter 1997_ [doi](https://doi.org/10.1016/s0925-8388%2896%2902597-2) | Table 2, p. 3, row 37 |  |
+| 894 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.965; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Feschotte 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990235-x) | Table 2, p. 3, row 36 |  |
+| 892 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.982; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Geller 1939_ [doi](https://doi.org/10.1002/srin.193900887) | Table 2, p. 3, row 33 |  |
+| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | unspecified | [1] Li 2014; _cites Kubaschewski 1982_ | Table 2, p. 3, row 35 |  |
 | 887 | eutectic: L = FeSb2 + α-Sb | L: Sb 0.992; FeSb2: Sb 0.6667; α-Sb: Sb 1 | unspecified | [3] Pei 1995; _cites ref. 3_ | Table 3, p. 8, row 11 |  |
-| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 0.01 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 34 |  |
+| 887 | eutectic: Liq -> ζ2FeSb2 + Sb | L: Sb 0.992; ζ2FeSb2: Sb 0.667; Sb: Sb 1 | experimental | [1] Li 2014; _cites Maier 1972_ | Table 2, p. 3, row 34 |  |
 | 887 | eutectic |  | experimental | [3] Pei 1995; _cites Maier 1972_ | p. 4 | “Kubaschewski \[3\] quoted the eutectic temperature between FeSb, and pure Sb(Rhombohedral) as 887 K \[20\], and Okamoto \[4\] assessed it as 901 K, which is in agreement with Kurnakov \[231.” |
 | 549.4 | peritectic: L + FeSb2 = β + ε-FeSb |  | experimental | [2] Boa 2008 | p. 6 | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |
 | 546.5 | peritectic: L + ε-FeSb = β + αFe |  | experimental | [2] Boa 2008 | p. 6 | “Combining the EPMA results with the data from DTA and DSC experiments, three invariant reactions were obtained: two transitory peritectic reactions at 549.40 K (U1): L + FeSb2 = β + ε-FeSb and 546.50 K (U2): L + ε-FeSb = β + αFe and one ternary monotectic reaction at 1264.25 K (M): L1 = L2 + Fe + ε-FeSb.” |

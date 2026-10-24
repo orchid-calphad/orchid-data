@@ -12,7 +12,7 @@ Table: Phases of the Cr–Ir system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cr-ir-bcc-a2); _phase:cr-ir:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2180.98 K, x(Ir) 0–0.10881 | 6 | 1 |
+| [BCC_A2](#phase-cr-ir-bcc-a2); _phase:cr-ir:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2180.98 K, x(Ir) 0–0.10881 | 2 | 1 |
 | [CR3IR_A15](#phase-cr-ir-cr3ir-a15); _phase:cr-ir:cr3ir-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2013.31 K, x(Ir) 0.17169–0.27098 | 4 | 1 |
 | [FCC_A1](#phase-cr-ir-fcc-a1); _phase:cr-ir:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2722.02 K, x(Ir) 0.71515–1 | 2 | 1 |
 | [HCP_A3](#phase-cr-ir-hcp-a3); _phase:cr-ir:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2475.91 K, x(Ir) 0.33375–0.67944 | 0 | 1 |
@@ -23,11 +23,11 @@ Table: Phases of the Cr–Ir system (5)
 - Id: `phase:cr-ir:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2180.98 K, x(Ir) 0–0.10881
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ir:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:cr-ir:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2008.12.009:(Cr), paper:10.1016/j.calphad.2008.12.009:ε  
+Names (3): _corpus: _corpus:phase:cr-ir:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2008.12.009:(Cr)  
 _tdb: _tdb:CrIr-09Zha.tdb:BCC_A2  
 
 

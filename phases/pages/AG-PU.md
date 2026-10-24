@@ -12,7 +12,7 @@ Table: Phases of the Ag–Pu system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-ag-pu-a6-tetragonal); _phase:ag-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 611.42–910.67 K, x(Pu) 1–1 | 6 | 1 |
+| [TETRAGONAL_A6](#phase-ag-pu-a6-tetragonal); _phase:ag-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 611.42–910.67 K, x(Pu) 1–1 | 4 | 1 |
 | [AG2PU](#phase-ag-pu-ag2pu); _phase:ag-pu:ag2pu_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1092.7 K, x(Pu) 0.33333–0.33333 | 17 | 1 |
 | [AG51PU14](#phase-ag-pu-ag51pu14); _phase:ag-pu:ag51pu14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1250 K, x(Pu) 0.21538–0.21538 | 7 | 1 |
 | [BCC_A2](#phase-ag-pu-bcc-a2); _phase:ag-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 755.67–3999.25 K, x(Pu) 0.42–1 | 4 | 1 |
@@ -29,11 +29,11 @@ Table: Phases of the Ag–Pu system (10)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 611.42–910.67 K, x(Pu) 1–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-pu:a6-tetragonal)
 
-Names (5): _corpus: _corpus:phase:ag-pu:a6-tetragonal, corpus:phase:ag-pu:tetragonal-a6  
-_paper: _paper:10.1007/s11669-020-00813-5:(δ'Pu), paper:10.1007/s11669-020-00813-5:(δPu)  
+Names (4): _corpus: _corpus:phase:ag-pu:a6-tetragonal, corpus:phase:ag-pu:tetragonal-a6  
+_paper: _paper:10.1007/s11669-020-00813-5:(δ'Pu)  
 _tdb: _tdb:AgPu-20Zho.tdb:TETRAGONAL_A6  
 
 

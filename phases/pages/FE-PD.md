@@ -13,7 +13,7 @@ Table: Phases of the Fe–Pd system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-fe-pd-bcc-a2); _phase:fe-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1815.95 K, x(Pd) 0–0.03877 | 8 | 1 |
-| [FCC_A1](#phase-fe-pd-fcc-a1); _phase:fe-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.24 K, x(Pd) 0–1 | 21 | 1 |
+| [FCC_A1](#phase-fe-pd-fcc-a1); _phase:fe-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.24 K, x(Pd) 0–1 | 18 | 1 |
 | [FEPD_L10](#phase-fe-pd-fepd-l10); _phase:fe-pd:fepd-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1061.42 K, x(Pd) 0.48925–0.62224 | 10 | 1 |
 | [FEPD3_L12](#phase-fe-pd-fepd3-l12); _phase:fe-pd:fepd3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1093.95 K, x(Pd) 0.66672–0.88493 | 8 | 1 |
 | [HCP_A3](#phase-fe-pd-hcp-a3); _phase:fe-pd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -51,11 +51,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:fe-pd:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2499.24 K, x(Pd) 0–1
-- Literature: 21 values (21 accepted) from 1 papers
+- Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-pd:fcc-a1)
 
-Names (6): _corpus: _corpus:phase:fe-pd:fcc-a1  
-_paper: _paper:10.1361/105497199770335811:(γFe), paper:10.1361/105497199770335811:γ, paper:10.1361/105497199770335811:γ1, paper:10.1361/105497199770335811:γ2  
+Names (4): _corpus: _corpus:phase:fe-pd:fcc-a1  
+_paper: _paper:10.1361/105497199770335811:(γFe), paper:10.1361/105497199770335811:γ  
 _tdb: _tdb:FePd-99Gho-LB.tdb:FCC_A1  
 
 

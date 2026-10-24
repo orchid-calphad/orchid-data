@@ -1,10 +1,10 @@
 # Na–O system
 
-> Na–O system: 64 accepted literature values (invariant reaction 22, phase transition 19, crystal structure 15, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–O system: 62 accepted literature values (invariant reaction 21, phase transition 19, crystal structure 14, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-O.html · Markdown: https://data.orchid-project.org/systems/NA-O.md
 
-64 accepted literature values from 1 paper(s) (experimental 20, model 17, unspecified 27); 1 calculated phase diagram(s).
+62 accepted literature values from 1 paper(s) (experimental 20, model 16, unspecified 26); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-O.json) · [CSV](https://data.orchid-project.org/systems/NA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-O/NaO-17Smi.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-O.html) · [Markdown](https://data.orchid-project.org/systems/NA-O.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 20 |
-| model | 17 |
-| unspecified | 27 |
+| model | 16 |
+| unspecified | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
+| invariant reaction | 21 |
 | phase transition | 19 |
 | formation | 1 |
 | heat capacity / entropy / enthalpy | 6 |
-| crystal structure | 15 |
+| crystal structure | 14 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -41,7 +41,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Na–O system (22)
+Table: Invariant reactions reported in the literature for the Na–O system (21)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -56,7 +56,6 @@ Table: Invariant reactions reported in the literature for the Na–O system (22)
 | 948 | congruent melting: Na2O2-II = L2 |  | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 7, p. 11, row 12 |  |
 | 948 | congruent melting: Na2O2-II = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 11 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017 | p. 7 | “The eutectic equilibrium Na2O-I + Na2O2-II = liquid at 843 K was never observed experimentally.” |
-| 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.47 | model | [1] Smith 2017 | Table 7, p. 11, row 19 |  |
 | 843 | eutectic: Na2O-I + Na2O2-II = liquid |  | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | p. 21 | “The present DSC measurements moreover argue for the existence of a {Na2O-I + Na2O2-II = liquid} eutectic equilibrium at 843 K as anticipated by Wriedt \[14\].” |
 | 843 | eutectic: Na2O-I + Na2O2-II = L2 | L2: O 0.44 | experimental | [1] Smith 2017; _cites Bunzel 1947_ | Table 7, p. 11, row 20 |  |
 | 826 | congruent melting: NaO2-I = L2 |  | model | [1] Smith 2017 | Table 7, p. 11, row 13 |  |
@@ -119,7 +118,7 @@ Table: Heat capacity / entropy / enthalpy, Na–O system
 | Entropy; _printed: S°m(298.15 K)_ | 115.9 J/mol (basis unstated)/K ± 1.3 | 298.15 | NaO2-I(cr); _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Chase 1998_ | Table 2, p. 4, row 14 |  |
 | Entropy; _printed: S°m(298.15 K)_ | 115.9 J/mol (basis unstated)/K ± 1.3 | 298.15 | NaO2-I(cr); _alloy: O 0.666667_ | unspecified | [1] Smith 2017 | Table 2, p. 4, row 19 |  |
 
-### Crystal structure (15)
+### Crystal structure (14)
 
 Table: Crystal structure, Na–O system
 
@@ -132,7 +131,6 @@ Table: Crystal structure, Na–O system
 | Lattice a | 5.512 Å ± 0.02 | 293 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 10 |  |
 | Lattice a | 5.55 Å | 295 | UNKNOWN; _alloy: O 0.333333_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 2 |  |
 | Lattice a | 6.207 Å ± 0.004 | 295 | UNKNOWN; _alloy: O 0.5_ | model | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.28865 Å ± 2.600e-4 | 295 | β-Na (bcc); _alloy: O 0_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 1 |  |
 | Lattice b | 5.537 Å | 4 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 7 |  |
 | Lattice b | 5.54 Å | 173 | UNKNOWN; _alloy: O 0.666667_ | unspecified | [1] Smith 2017; _cites Wriedt 1987_ [doi](https://doi.org/10.1007/bf02874915) | Table 1, p. 3, row 8 |  |
 | Lattice b | 5.7703 Å ± 3.000e-4 | 213 | UNKNOWN; _alloy: O 0.75_ | unspecified | [1] Smith 2017; _cites Klein 1998_ [doi](https://doi.org/10.1039/a708570b) | Table 1, p. 3, row 11 |  |

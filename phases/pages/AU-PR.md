@@ -1,14 +1,14 @@
 # Au–Pr phases
 
-> Au–Pr system: 15 phases (tier A 9, tier C 5, liquid 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Au–Pr system: 14 phases (tier A 8, tier C 5, liquid 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/AU-PR.html · Markdown: https://data.orchid-project.org/phases/pages/AU-PR.md
 
-15 phases (tier A 9, tier C 5, liquid 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+14 phases (tier A 8, tier C 5, liquid 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=AU-PR) · [full JSON](https://data.orchid-project.org/phases/systems/AU-PR.json) · [Au–Pr system page](https://data.orchid-project.org/systems/AU-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/AU-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Au–Pr system (15)
+Table: Phases of the Au–Pr system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -22,7 +22,6 @@ Table: Phases of the Au–Pr system (15)
 | [AUPR_B33](#phase-au-pr-aupr-b33); _phase:au-pr:aupr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 713.23–1592.95 K, x(Pr) 0.5–0.5 | 8 | 1 |
 | [AUPR2_C37](#phase-au-pr-aupr2-c37); _phase:au-pr:aupr2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1022.92 K, x(Pr) 0.66667–0.66667 | 4 | 1 |
 | [BCC_A2](#phase-au-pr-bcc-a2); _phase:au-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1033.11–1204 K, x(Pr) 0.98527–1 | 2 | 1 |
-| [DHCP](#phase-au-pr-dhcp); _phase:au-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-au-pr-dhcp-a3); _phase:au-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1068 K, x(Pr) 0.99479–1 | 4 | 1 |
 | [FCC_A1](#phase-au-pr-fcc-a1); _phase:au-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1357.84 K, x(Pr) 0–0.02026 | 2 | 1 |
 | [HCP_A3](#phase-au-pr-hcp-a3); _phase:au-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -342,24 +341,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Au–Pr)
 
-- Id: `phase:au-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:au-pr:dhcp  
-
-
-## DHCP (Au–Pr)
-
 - Id: `phase:au-pr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1068 K, x(Pr) 0.99479–1
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-pr:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:au-pr:dhcp-a3  
+Names (4): _corpus: _corpus:phase:au-pr:dhcp-a3, corpus:phase:au-pr:dhcp  
 _paper: _paper:10.1016/s0925-8388(03)00525-5:dhcp (Pr)  
 _tdb: _tdb:AuPr-04Du.tdb:DHCP  
 

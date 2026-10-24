@@ -1,10 +1,10 @@
 # Mo–Pt system
 
-> Mo–Pt system: 84 accepted literature values (formation 32, phase equilibrium 30, invariant reaction 17, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Pt system: 80 accepted literature values (phase equilibrium 30, formation 28, invariant reaction 17, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-PT.html · Markdown: https://data.orchid-project.org/systems/MO-PT.md
 
-84 accepted literature values from 1 paper(s) (experimental 45, model 26, DFT 13); 1 calculated phase diagram(s).
+80 accepted literature values from 1 paper(s) (experimental 45, model 24, DFT 11); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-PT.json) · [CSV](https://data.orchid-project.org/systems/MO-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-PT/MoPt-24Fio.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MO-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-PT.html) · [Markdown](https://data.orchid-project.org/systems/MO-PT.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 45 |
-| model | 26 |
-| DFT | 13 |
+| model | 24 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 17 |
 | phase transition | 5 |
 | phase equilibrium | 30 |
-| formation | 32 |
+| formation | 28 |
 
 ## Calculated phase diagrams
 
@@ -81,7 +81,7 @@ Table: Invariant reactions reported in the literature for the Mo–Pt system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Pt system (32)
+Table: Enthalpies of formation, Mo–Pt system (28)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -93,10 +93,6 @@ Table: Enthalpies of formation, Mo–Pt system (32)
 | A15 |  | -10.444 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 19 |  |
 | A15 |  | -10.437 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 20 |  |
 | A15 |  | -7.4 kJ/mol (basis unstated) | 1768 | model |  |  | [1] Fiorani 2024 | Table 4, p. 20, row 6 |  |
-| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 16 |  |
-| A15 |  | 8.582 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 15 |  |
-| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 22 |  |
-| A15 |  | 24.663 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 21 |  |
 | B19 |  | -34.4 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024; _cites Lu 1994_ [doi](https://doi.org/10.1103/physrevb.50.5962) | Table 5, p. 21, row 14 |  |
 | B19 |  | -30.661 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 12 |  |
 | B19 |  | -30.65 kJ/mol (basis unstated) | 0 | model |  |  | [1] Fiorani 2024 | Table 5, p. 21, row 13 |  |

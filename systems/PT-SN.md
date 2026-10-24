@@ -1,10 +1,10 @@
 # Pt–Sn system
 
-> Pt–Sn system: 160 accepted literature values (invariant reaction 88, formation 36, phase transition 18, crystal structure 9) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt–Sn system: 189 accepted literature values (invariant reaction 87, crystal structure 39, formation 36, phase transition 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT-SN.html · Markdown: https://data.orchid-project.org/systems/PT-SN.md
 
-160 accepted literature values from 4 paper(s) (experimental 87, model 70, unspecified 3); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+189 accepted literature values from 4 paper(s) (experimental 102, model 70, DFT 15, unspecified 2); 4 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT-SN.json) · [CSV](https://data.orchid-project.org/systems/PT-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-SN/PtSn-01Su.json) · [phases (11)](https://data.orchid-project.org/phases/pages/PT-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-SN.html) · [Markdown](https://data.orchid-project.org/systems/PT-SN.md)
 
@@ -12,19 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 87 |
+| experimental | 102 |
 | model | 70 |
-| unspecified | 3 |
+| DFT | 15 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 88 |
+| invariant reaction | 87 |
 | phase transition | 18 |
 | phase equilibrium | 8 |
 | formation | 36 |
-| crystal structure | 9 |
+| crystal structure | 39 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -89,7 +90,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pt–Sn system (88)
+Table: Invariant reactions reported in the literature for the Pt–Sn system (87)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -179,7 +180,6 @@ Table: Invariant reactions reported in the literature for the Pt–Sn system (88
 | 501.15 | Liquid -> PtSn4 + (β\_Sn) | Liquid: Sn 0.994; PtSn4: Sn 0.8; (β\_Sn): Sn 1 | experimental | [1] Cui 2021; _cites Durussel 1994_ [doi](https://doi.org/10.1016/0925-8388%2894%2990837-0) | Table 6, p. 11, row 17 |  |
 | 501 | Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.994; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 1, p. 2, row 23 |  |
 | 501 | Liq.->PtSn4+βSn (bct) | Liq.: Sn 0.995; PtSn4: Sn 0.8; βSn (bct): Sn 1 | experimental | [3] Su 2001; _cites Hansen 1990_ | Table 1, p. 2, row 22 |  |
-| 286.15 | polymorphic: βSn ↔ αSn |  | unspecified | [2] Grolier 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 5, row 17 |  |
 | 286.15 | (β\_Sn) -> (α\_Sn) |  | model | [1] Cui 2021; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 6, p. 11, row 23 |  |
 
 ## Formation enthalpies
@@ -196,13 +196,13 @@ Table: Enthalpies of formation, Pt–Sn system (36)
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -52.2778 kJ/mol-atom |  | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [4] Hu 2022 | Table 9, p. 10, row 3 |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -51.8 kJ/mol-atom | 298.15 | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021 | Table 5, p. 10, row 18 |  |
 | Pt2Sn3 | [Pt2Sn3](https://data.orchid-project.org/compounds/Pt2Sn3.html) | -51.7 kJ/mol-atom | 298.15 | model | -48.526 (mp-aaaabtqk) | -54.42 (oqmd-18003) | [1] Cui 2021 | Table 5, p. 10, row 17 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -55.3 kJ/mol-atom | 1659.15 | experimental | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 3 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -55.3 kJ/mol-atom | 1659.15 | model | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [1] Cui 2021 | Table 5, p. 10, row 1 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -50.2 kJ/mol-atom | 298.15 | experimental | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 6 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -43 kJ/mol-atom | 298.15 | experimental | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 7 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -37.2 kJ/mol-atom | 298.15 | model | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [1] Cui 2021 | Table 5, p. 10, row 4 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.9403 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [4] Hu 2022 | Table 9, p. 10, row 1 |  |
-| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.904 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.531 (oqmd-2170058) | [4] Hu 2022 | Table 9, p. 10, row 1 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -55.3 kJ/mol-atom | 1659.15 | experimental | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 3 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -55.3 kJ/mol-atom | 1659.15 | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021 | Table 5, p. 10, row 1 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -50.2 kJ/mol-atom | 298.15 | experimental | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021; _cites Ferro 1973_ | Table 5, p. 10, row 6 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -43 kJ/mol-atom | 298.15 | experimental | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021; _cites Zhou 2009_ [doi](https://doi.org/10.1016/j.commatsci.2009.04.044) | Table 5, p. 10, row 7 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -37.2 kJ/mol-atom | 298.15 | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [1] Cui 2021 | Table 5, p. 10, row 4 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.9403 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [4] Hu 2022 | Table 9, p. 10, row 1 |  |
+| Pt3Sn | [Pt3Sn](https://data.orchid-project.org/compounds/Pt3Sn.html) | -35.904 kJ/mol-atom |  | model | -36.358 (mp-aaaabfap) | -39.46 (oqmd-18004) | [4] Hu 2022 | Table 9, p. 10, row 1 |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74.2 kJ/mol-atom | 1354.15 | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021 | Table 5, p. 10, row 8 |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74 kJ/mol-atom | 1354.15 | experimental | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021; _cites Anres 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900682-3) | Table 5, p. 10, row 10 |  |
 | PtSn | [PtSn](https://data.orchid-project.org/compounds/PtSn.html) | -74 kJ/mol-atom | 1354.15 | model | -55.215 (mp-aaaabdjs) | -60.58 (oqmd-7829) | [1] Cui 2021 | Table 5, p. 10, row 9 |  |
@@ -269,20 +269,50 @@ Table: Phase equilibrium, Pt–Sn system
 | Phase composition |  | 903.15 | Liquid + PtSn4 + PtSn2 + PtSn₄ + PtSn₂; _Liquid: Pt 0.0969, Sn 0.9031; PtSn4: Pt 0.1909, Sn 0.8091; PtSn2: Pt 0.3308, Sn 0.6692; PtSn₄: Pt 0.1909, Sn 0.8091; PtSn₂: Pt 0.3308, Sn 0.6692_ | experimental | [1] Cui 2021 | Table 2, p. 2, row 7 |  |
 | Phase composition |  | 942.35 | other: 12; _liquid: Pt 0.12, Sn 0.88_ | experimental | [1] Cui 2021 | Table 1, p. 2, row 10 |  |
 
-### Crystal structure (9)
+### Crystal structure (39)
 
 Table: Crystal structure, Pt–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.42 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 17 |  |
+| Lattice a | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 15 |  |
+| Lattice a | 4.216 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 9 |  |
+| Lattice a | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 11 |  |
+| Lattice a | 6.839 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 13 |  |
+| Lattice a | 4.325 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
 | Lattice a | 4.3345 Å | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
 | Lattice a | 4.008 Å ± 0.008 | 298.15 | Pt3Sn; _alloy: Sn 0.25_ | experimental | [1] Cui 2021; _cites Pfisterer 1950_ [doi](https://doi.org/10.1007/bf00623719) | Table 3, p. 7, row 1 |  |
+| Lattice a | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [4] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
 | Lattice a | 4.1014 Å ± 2.000e-4 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
+| Lattice a | 4.104 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
+| Lattice a | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
 | Lattice a | 6.4331 Å ± 2.000e-4 | 298.15 | PtSn2; _alloy: Sn 0.666667_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 4 |  |
+| Lattice a | 6.418 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
 | Lattice a | 6.418 Å ± 0.003 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
+| Lattice b | 4.42 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 17 |  |
+| Lattice b | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 15 |  |
+| Lattice b | 4.216 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 9 |  |
+| Lattice b | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 11 |  |
+| Lattice b | 12.893 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 13 |  |
+| Lattice b | 4.325 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
+| Lattice b | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [4] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
+| Lattice b | 4.104 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
+| Lattice b | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
+| Lattice b | 11.366 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
 | Lattice b | 11.366 Å ± 0.006 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
+| Lattice c | 13.394 Å | 0 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 17 |  |
+| Lattice c | 4.084 Å | 0 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 15 |  |
+| Lattice c | 5.534 Å | 0 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 9 |  |
+| Lattice c | 6.581 Å | 0 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 11 |  |
+| Lattice c | 6.669 Å | 0 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | DFT | [4] Hu 2022 | Table 6, p. 8, row 13 |  |
+| Lattice c | 12.934 Å | 298.15 | Pt2Sn3; _alloy: Pt 0.4, Sn 0.6_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 18 |  |
 | Lattice c | 12.9606 Å | 298.15 | Pt2Sn3; _alloy: Sn 0.6_ | experimental | [1] Cui 2021; _cites Charlton 1970_ [doi](https://doi.org/10.1016/0022-5088%2870%2990094-9) | Table 3, p. 7, row 3 |  |
+| Lattice c | 4.001 Å | 298.15 | Pt3Sn; _alloy: Pt 0.75, Sn 0.25_ | experimental | [4] Hu 2022; _cites Zhou 2009_ | Table 6, p. 8, row 16 |  |
 | Lattice c | 5.4405 Å ± 2.000e-4 | 298.15 | PtSn; _alloy: Sn 0.5_ | experimental | [1] Cui 2021; _cites Harris 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990141-0) | Table 3, p. 7, row 2 |  |
+| Lattice c | 5.436 Å | 298.15 | PtSn; _alloy: Pt 0.5, Sn 0.5_ | experimental | [4] Hu 2022; _cites Shelton 1981_ | Table 6, p. 8, row 10 |  |
+| Lattice c | 6.433 Å | 298.15 | PtSn2; _alloy: Pt 0.333333, Sn 0.666667_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 12 |  |
+| Lattice c | 6.384 Å | 298.15 | PtSn4; _alloy: Pt 0.2, Sn 0.8_ | experimental | [4] Hu 2022; _cites Charlton 1970_ | Table 6, p. 8, row 14 |  |
 | Lattice c | 6.384 Å ± 0.002 | 298.15 | PtSn4; _alloy: Sn 0.8_ | experimental | [1] Cui 2021; _cites Kunnen 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901042-2) | Table 3, p. 7, row 5 |  |
 
 ### Other property (1)

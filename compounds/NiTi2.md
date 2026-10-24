@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/NiTi2.html · Markdown: https://data.orchid-project.org/compounds/NiTi2.md
 
-13 accepted literature formation-enthalpy value(s) (experimental 3, model 10); experimental median -26.8 kJ/mol-atom (n = 1); Materials Project -26.758 kJ/mol-atom (mp-aaaaacro); OQMD -33.202 kJ/mol-atom (oqmd-1372059).
+13 accepted literature formation-enthalpy value(s) (experimental 3, model 8, DFT 2); experimental median -26.8 kJ/mol-atom (n = 1); Materials Project -26.758 kJ/mol-atom (mp-aaaaacro); OQMD -33.202 kJ/mol-atom (oqmd-1372059).
 
 Systems: [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
@@ -19,14 +19,14 @@ Table: Enthalpy of formation of NiTi2 reported in the literature (13)
 | -26.8 kJ/mol-atom | Ti2Ni | 298.15 | experimental | Direct synthesis calorimetry | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 6, p. 8, row 16 |  |
 | -35.3 per mol-atom | NiTi2 | 298.15 | model | Miedema | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 36 |  |
 | -33.7 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 33 |  |
-| -33.7 kJ/mol-atom | Ti2Ni | 0 | model | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
 | -30.393 per mol-atom | NiTi2 | 1202.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 32 |  |
 | -28.96 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 35 |  |
-| -28.2 kJ/mol-atom | Ti2Ni | 0 | model | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
 | -28.2 per mol-atom | NiTi2 |  | model | FP | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 9, p. 6, row 34 |  |
 | -26.977 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013 | Table 6, p. 8, row 14 |  |
 | -26.901 kJ/mol-atom | Ti2Ni | 298.15 | model | Calphad assessment | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Bellen 1996_ | Table 6, p. 8, row 15 |  |
 | -25.849 per mol-atom | NiTi2 | 298.15 | model |  | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Santhy 2015 | Table 9, p. 6, row 30 |  |
+| -33.7 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (LMTO-ASA) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 19 |  |
+| -28.2 kJ/mol-atom | Ti2Ni | 0 | DFT | 1st-princ. (FP-LMTO) | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Povoden-Karadeniz 2013; _cites Pasturel 1995_ [doi](https://doi.org/10.1103/physrevb.52.15176) | Table 6, p. 8, row 20 |  |
 
 ### Uncertainty budget
 
@@ -41,14 +41,14 @@ Table: Uncertainty budget of the literature values of NiTi2
 | -26.8 | kJ/mol-atom |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -35.3 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -33.7 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -33.7 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
 | -30.393 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -28.96 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -28.2 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
 | -28.2 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -26.977 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.901 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.977 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -26.901 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -25.849 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
+| -33.7 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -28.2 | kJ/mol-atom |  | 5.000e-4 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Cd–Pb system
 
-> Cd–Pb system: 88 accepted literature values (phase transition 46, invariant reaction 23, phase equilibrium 19) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Pb system: 86 accepted literature values (phase transition 44, invariant reaction 23, phase equilibrium 19) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-PB.html · Markdown: https://data.orchid-project.org/systems/CD-PB.md
 
-88 accepted literature values from 3 paper(s) (experimental 69, model 18, unspecified 1); 3 calculated phase diagram(s).
+86 accepted literature values from 3 paper(s) (experimental 69, model 16, unspecified 1); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PB.json) · [CSV](https://data.orchid-project.org/systems/CD-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PB/CdPb-09Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CD-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PB.html) · [Markdown](https://data.orchid-project.org/systems/CD-PB.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 69 |
-| model | 18 |
+| model | 16 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 23 |
-| phase transition | 46 |
+| phase transition | 44 |
 | phase equilibrium | 19 |
 
 ## Calculated phase diagrams
@@ -81,7 +81,7 @@ Table: Invariant reactions reported in the literature for the Cd–Pb system (23
 
 ## Other properties
 
-### Phase transition (46)
+### Phase transition (44)
 
 Table: Phase transition, Cd–Pb system
 
@@ -131,8 +131,6 @@ Table: Phase transition, Cd–Pb system
 | Phase transition | 549 K | 549 | other: stable monotectic temperature; _alloy: Cd 0.88, Pb 0.12_ | experimental | [2] Chuang 2013 | Table III, p. 9, row 51 |  |
 | Phase transition | 552 K | 552 | other | experimental | [2] Chuang 2013 | p. 8 | “Moreover, the heating (thermal trace C) after further cooling to crystallization below the eutectic temperature shows the eutectic melting peak and the liquidus \[at 552 K (279 C)\].” |
 | Phase transition | 556 K | 556 | other | model | [2] Chuang 2013 | p. 5 | “critical point of this miscibility gap is at 556 K (283 C) and xCd = 0.654.” |
-| Phase transition | 566.8 K | 566.8 | other | model | [1] Zakulski 1995; _cites ref. 92_ | p. 2 | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
-| Phase transition | 567 K | 567 | other | model | [1] Zakulski 1995 | p. 2 | “The metastable melting temperature for Cd (fcc) calculated from the fitted expression, Tm = A f u s H / A f u s S , equals 567 K, which is very close to a value of 566.8 K obtained in \[92DutJ as a mean from five different Cd-X systems.” |
 
 ### Phase equilibrium (19)
 

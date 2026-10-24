@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Nb3Si.html · Markdown: https://
 
 11 accepted literature formation-enthalpy value(s) (model 9, DFT 2); Materials Project -40.615 kJ/mol-atom (mp-aaaabakm); OQMD -42.633 kJ/mol-atom (oqmd-2033).
 
-Systems: [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) · [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html)
+Systems: [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html)
 
 ## Literature values
 
@@ -16,15 +16,15 @@ Table: Enthalpy of formation of Nb3Si reported in the literature (11)
 |---:|---|---:|---|---|---|---|---|---|
 | -35.85 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 4 |  |
 | -33.75 per mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Fernandes 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900125-5) | Table 3, p. 6, row 22 |  |
-| -33.357 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 12 |  |
+| -33.357 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 12 |  |
 | -33.163 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Yang 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900021-9) | Table 3, p. 6, row 1 |  |
-| -32 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 16 |  |
+| -32 kJ/mol (basis unstated) | Nb3Si | 298.15 | model | Calphad | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017 | Table 2, p. 6, row 16 |  |
 | -30.301 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Liang 1999_ [doi](https://doi.org/10.1016/s0966-9795%2898%2900073-9) | Table 3, p. 6, row 2 |  |
 | -29.6425 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004 | Table 3, p. 6, row 5 |  |
 | -28.175 kJ/mol-atom | Nb3Si | 298.15 | model |  | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [3] Liang 1999; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 2, p. 4, row 9 |  |
 | -28.175 kJ/mol-atom | Nb3Si | 298.15 | model | CALPHAD | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [1] Shao 2004; _cites Kaufman 1979_ [doi](https://doi.org/10.1016/0364-5916%2879%2990020-8) | Table 3, p. 6, row 3 |  |
-| -37.3 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11 |  |
-| -34.73 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15 |  |
+| -37.3 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 11 |  |
+| -34.73 kJ/mol (basis unstated) | Nb3Si | 0 | DFT | ab initio | [Nb–Si](https://data.orchid-project.org/systems/NB-SI.html) | [2] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 15 |  |
 
 ### Uncertainty budget
 
@@ -34,17 +34,17 @@ Table: Uncertainty budget of the literature values of Nb3Si
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35.85 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -35.85 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -33.75 | per mol-atom |  | 0.005 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -33.357 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.163 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.301 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -29.6425 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.3 | kJ/mol (basis unstated) |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -34.73 | kJ/mol (basis unstated) |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -33.357 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -33.163 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -30.301 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -29.6425 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.175 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.3 | kJ/mol (basis unstated) |  | 0.05 | 40.76 (dft, calibrated) |  |  |  | 40.76 |
+| -34.73 | kJ/mol (basis unstated) |  | 0.005 | 40.76 (dft, calibrated) |  |  |  | 40.76 |
 
 ## DFT formation energies
 
@@ -54,8 +54,8 @@ Table: DFT formation energy of Nb3Si
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaabakm | -40.615 | -0.420949 | P4_2/n | 1.362 | 0.0141 | no |
-| OQMD | oqmd-2033 | -42.633 | -0.441856 | P42/n | 1.096 | 0.0114 | no |
+| Materials Project | mp-aaaabakm | -40.615 | -0.420949 | P4_2/n | 1.3618 | 0.0141 | no |
+| OQMD | oqmd-2033 | -42.633 | -0.441856 | P42/n | 1.0964 | 0.0114 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

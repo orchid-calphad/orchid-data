@@ -65,7 +65,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 5.4,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 2.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -73,7 +73,7 @@
      "sigma_effective": 5.4,
      "method_class": "kems_vapour",
      "method_basis": "prior",
-     "method_n_pairs": 2,
+     "method_n_pairs": 1,
      "method_entry": "value_types/SM_FORM/classes/kems_vapour"
     },
     "printed": {

@@ -1,10 +1,10 @@
 # B–Cr–Ni system
 
-> B–Cr–Ni system: 14 accepted literature values (invariant reaction 14) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Cr–Ni system: 26 accepted literature values (invariant reaction 14, crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-CR-NI.html · Markdown: https://data.orchid-project.org/systems/B-CR-NI.md
 
-14 accepted literature values from 1 paper(s) (experimental 5, model 9); 0 calculated phase diagram(s).
+26 accepted literature values from 1 paper(s) (experimental 17, model 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-CR-NI.json) · [CSV](https://data.orchid-project.org/systems/B-CR-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-CR-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-CR-NI.html) · [Markdown](https://data.orchid-project.org/systems/B-CR-NI.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 17 |
 | model | 9 |
 
 Table: Accepted values by property group
@@ -20,6 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 14 |
+| crystal structure | 12 |
 
 ## Invariant reactions (literature)
 
@@ -41,6 +42,27 @@ Table: Invariant reactions reported in the literature for the B–Cr–Ni system
 | 1353.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.187, Cr 0.222 | model | [1] Campbell 2002 | Table 5, p. 8, row 6 |  |
 | 1323.15 | eutectic: L -> CrB+Ni3B+fcc(Ni) | L: B 0.183, Cr 0.161 | experimental | [1] Campbell 2002; _cites ref. 31_ | Table 5, p. 8, row 5 |  |
 | 738.15 | quasi-peritectic: L + Cr5B3 -> CrB + fcc(Ni) | L: B 0.243, Cr 0.0013; Cr5B3: B 0.375, Cr 0.625, Ni 0 | model | [1] Campbell 2002 | Table 5, p. 8, row 10 |  |
+
+## Other properties
+
+### Crystal structure (12)
+
+Table: Crystal structure, B–Cr–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.971 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
+| Lattice a | 3.034 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
+| Lattice a | 3.008 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
+| Lattice a | 2.931 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
+| Lattice b | 20.34 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
+| Lattice b | 18.11 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
+| Lattice b | 17.705 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
+| Lattice b | 20.631 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
+| Lattice c | 3.011 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 18 |  |
+| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 23_ | Table 1, p. 2, row 16 |  |
+| Lattice c | 2.956 Å | 298.15 | UNKNOWN; _alloy: B 0.6, Cr 0.3, Ni 0.1_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 17 |  |
+| Lattice c | 2.977 Å | 298.15 | UNKNOWN; _alloy: B 0.545455, Cr 0.181818, Ni 0.272727_ | experimental | [1] Campbell 2002; _cites ref. 20_ | Table 1, p. 2, row 19 |  |
 
 ## Sources
 

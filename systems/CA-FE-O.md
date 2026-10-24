@@ -1,10 +1,10 @@
 # Ca–Fe–O system
 
-> Ca–Fe–O system: 69 accepted literature values (invariant reaction 61, heat capacity / entropy / enthalpy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Fe–O system: 72 accepted literature values (invariant reaction 61, heat capacity / entropy / enthalpy 8, activity / EMF / Gibbs energy 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-FE-O.html · Markdown: https://data.orchid-project.org/systems/CA-FE-O.md
 
-69 accepted literature values from 1 paper(s) (experimental 33, model 36); 0 calculated phase diagram(s).
+72 accepted literature values from 1 paper(s) (experimental 33, model 39); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-FE-O.json) · [CSV](https://data.orchid-project.org/systems/CA-FE-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-FE-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-FE-O.html) · [Markdown](https://data.orchid-project.org/systems/CA-FE-O.md)
 
@@ -13,14 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 33 |
-| model | 36 |
+| model | 39 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 61 |
+| phase transition | 1 |
 | heat capacity / entropy / enthalpy | 8 |
+| activity / EMF / Gibbs energy | 2 |
 
 ## Invariant reactions (literature)
 
@@ -92,6 +94,14 @@ Table: Invariant reactions reported in the literature for the Ca–Fe–O system
 
 ## Other properties
 
+### Phase transition (1)
+
+Table: Phase transition, Ca–Fe–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1380 K | 1380 | CW3F + CWF + liquid | model | [1] Hillert 1990 | p. 7 | “The present assessment comes close to the latter results and predicts that CW3F is stable up to 1380 K, where it decomposes to wiistite, CWF, and liquid.” |
+
 ### Heat capacity / entropy / enthalpy (8)
 
 Table: Heat capacity / entropy / enthalpy, Ca–Fe–O system
@@ -106,6 +116,15 @@ Table: Heat capacity / entropy / enthalpy, Ca–Fe–O system
 | Heat capacity; _printed: Cp (298.15)_ | 197 J/mol (basis unstated)/K | 298.15 | C2F | model | [1] Hillert 1990 | Table I, p. 5, row 3 |  |
 | Heat capacity; _printed: Cp (298.15)_ | 153.6 J/mol (basis unstated)/K | 298.15 | CF | experimental | [1] Hillert 1990; _cites King 1954_ [doi](https://doi.org/10.1021/ja01651a092) | Table I, p. 5, row 2 |  |
 | Heat capacity; _printed: Cp (298.15)_ | 155.3 J/mol (basis unstated)/K | 298.15 | CF | model | [1] Hillert 1990 | Table I, p. 5, row 1 |  |
+
+### Activity / EMF / Gibbs energy (2)
+
+Table: Activity / EMF / Gibbs energy, Ca–Fe–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Chemical potential; _printed: oxygen potential_ | -112.5 kcal/mole O2 | 563.15 | CWF + Fe + WF + C2F | model | [1] Hillert 1990 | p. 9 | “Reeve and Gregory12sl gave a more careful consideration of the position of the univariant line X and predicted that it would intersect the other lines to form the invariant equilibrium VII at 290 ~ and -112.5 kcal/ mole 02.” |
+| Chemical potential; _printed: oxygen potential_ | -105.6 kcal/mole O2 | 688.15 | WF | model | [1] Hillert 1990 | p. 9 | “If we extend the X line below point XIX, we find that the present assessment predicts that the metastable equilibrium VII should occur at 415 ~ and -105.6 kcal/mole 02.” |
 
 ## Sources
 

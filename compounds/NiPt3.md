@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/NiPt3.html · Markdown: https://data.orchid-project.org/compounds/NiPt3.md
 
-4 accepted literature formation-enthalpy value(s) (model 3, DFT 1); Materials Project -6.12 kJ/mol-atom (mp-aaacpmpx); OQMD -6.845 kJ/mol-atom (oqmd-347552).
+4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -6.12 kJ/mol-atom (mp-aaacpmpx); OQMD -6.845 kJ/mol-atom (oqmd-347552).
 
 Systems: [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html)
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of NiPt3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -11.98 kJ/mol-atom | NiPt3–L12 | 0 | model | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7 |  |
-| -8.4 kJ/mol-atom | NiPt3–L12 | 0 | model | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3 |  |
 | -8.3 kJ/mol-atom | NiPt3–L12 | 0 | model | Assessment (this work) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 14 |  |
+| -11.98 kJ/mol-atom | NiPt3–L12 | 0 | DFT | LMTO + CPA \[19\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Ruban 1995_ [doi](https://doi.org/10.1103/physrevb.51.12958) | Table 1, p. 3, row 7 |  |
+| -8.4 kJ/mol-atom | NiPt3–L12 | 0 | DFT | FLMTO + CWM \[17\] | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009; _cites Amador 1993_ [doi](https://doi.org/10.1103/physrevb.47.15276) | Table 1, p. 3, row 3 |  |
 | -6.31 kJ/mol-atom | NiPt3–L12 | 0 | DFT | VASP (no relaxation) | [Ni–Pt](https://data.orchid-project.org/systems/NI-PT.html) | [1] Lu 2009 | Table 1, p. 3, row 10 |  |
 
 ### Uncertainty budget
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of NiPt3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -11.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -8.4 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -8.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.31 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -8.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -11.98 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -8.4 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -6.31 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of NiPt3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacpmpx | -6.12 | -0.063426 | Pm-3m | 0 | 0 | yes |
-| OQMD | oqmd-347552 | -6.845 | -0.070947 | Pm-3m | 0.01 | 1.000e-4 | yes |
+| OQMD | oqmd-347552 | -6.845 | -0.070947 | Pm-3m | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

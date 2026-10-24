@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GaPd2.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); experimental median -77 kJ/mol-atom (n = 1); Materials Project -62.272 kJ/mol-atom (mp-aaaaactx); OQMD -61.947 kJ/mol-atom (oqmd-18584).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of GaPd2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -77 kJ/mol-atom | Pd2Ga | 1410 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 1, p. 2, row 28 |  |
-| -67.2 kJ/mol-atom | Pd2Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 29 |  |
-| -66 kJ/mol-atom | Pd2Ga | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 30 |  |
+| -77 kJ/mol-atom | Pd2Ga | 1410 | experimental |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 1, p. 2, row 28 |  |
+| -67.2 kJ/mol-atom | Pd2Ga | 298.15 | model |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 29 |  |
+| -66 kJ/mol-atom | Pd2Ga | 298.15 | model |  | [Ga–Pd](https://data.orchid-project.org/systems/GA-PD.html) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 30 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of GaPd2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -77 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -67.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -77 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -67.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Ge–Sb system
 
-> Ge–Sb system: 11 accepted literature values (invariant reaction 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Sb system: 16 accepted literature values (invariant reaction 16) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-SB.html · Markdown: https://data.orchid-project.org/systems/GE-SB.md
 
-11 accepted literature values from 3 paper(s) (experimental 8, model 3); 4 calculated phase diagram(s).
+16 accepted literature values from 3 paper(s) (experimental 12, model 4); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-SB.json) · [CSV](https://data.orchid-project.org/systems/GE-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-SB/GeSb-09Wan.json) · [phases (6)](https://data.orchid-project.org/phases/pages/GE-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-SB.html) · [Markdown](https://data.orchid-project.org/systems/GE-SB.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 3 |
+| experimental | 12 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 11 |
+| invariant reaction | 16 |
 
 ## Calculated phase diagrams
 
@@ -48,19 +48,24 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Sb system (11)
+Table: Invariant reactions reported in the literature for the Ge–Sb system (16)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 865 | eutectic |  | model | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | p. 2 | “Olesinki et al. \[15\] recommend the temperature and composition of the eutectic reaction, 865 K and 85.0 at.% Sb, which is accepted in the present work.” |
 | 865 | Liq. -> diamond + rhom | Liq.: Sb 0.775; diamond: Sb 0; rhom: Sb 0.937 | experimental | [2] Liu 2011; _cites Nasir 2009_ [doi](https://doi.org/10.1016/j.jssc.2008.12.009) | Table 2, p. 6, row 7 |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1 |  |
 | 865 | Liq. -> diamond + rhom | Liq.: Sb 0.865; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Ruttewit 1940_ [doi](https://doi.org/10.1515/ijmr-1940-320302) | Table 2, p. 6, row 3 |  |
 | 865 | Liq. -> diamond + rhom | Liq.: Sb 0.8249; diamond: Sb 1.000e-4; rhom: Sb 0.9375 | model | [2] Liu 2011 | Table 2, p. 6, row 1 |  |
 | 865 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
 | 865 | Liq. -> diamond + rhom | Liq.: Sb 0.855; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Olesinski 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 2, p. 6, row 4 |  |
+| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3 |  |
 | 861 | eutectic |  | experimental | [3] Chewvalier 1989; _cites Ruttewit 1940_ | p. 4 | “The eutectic point was located at xsb = 0.83, T = 861 K by Ruttewit and Masing \[25\] and at xsb = 0.87, T = 865 K by Stohr and Klemm \[27\].” |
+| 860 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5 |  |
 | 860 | Liq. -> diamond + rhom | Liq.: Sb 0.857; diamond: Sb 1.000e-4; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Wang 2009_ [doi](https://doi.org/10.1016/j.jallcom.2009.06.030) | Table 2, p. 6, row 6 |  |
 | 859 | Liq. -> diamond + rhom | Liq.: Sb 0.832 | experimental | [2] Liu 2011; _cites Stohr 1940_ [doi](https://doi.org/10.1002/zaac.19402440211) | Table 2, p. 6, row 2 |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2 |  |
+| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4 |  |
 | 859 | Liq. -> diamond + rhom | Liq.: Sb 0.838; diamond: Sb 0; rhom: Sb 1 | experimental | [2] Liu 2011; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987148-5) | Table 2, p. 6, row 5 |  |
 | 858.5 | eutectic |  | model | [3] Chewvalier 1989 | p. 9 | “The eutectic point was calculated at xoe = 0.162 and T = 858.5 K, which is in good agreement with the experimental data.” |
 

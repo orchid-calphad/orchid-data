@@ -12,17 +12,17 @@ Table: Phases of the Fe–Zr system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-zr-bcc-a2); _phase:fe-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1 | 112 | 12 |
+| [BCC_A2](#phase-fe-zr-bcc-a2); _phase:fe-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1 | 116 | 12 |
 | [C14_LAVES](#phase-fe-zr-c14-laves); _phase:fe-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [C15_LAVES](#phase-fe-zr-c15-laves); _phase:fe-zr:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1968.52 K, x(Zr) 0.25773–0.35948 | 104 | 12 |
 | [C36_LAVES](#phase-fe-zr-c36-laves); _phase:fe-zr:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 1521.73–1630.2 K, x(Zr) 0.22742–0.26831 | 0 | 4 |
-| [FCC_A1](#phase-fe-zr-fcc-a1); _phase:fe-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 1092.32–1756.47 K, x(Zr) 0–0.02094 | 76 | 12 |
+| [FCC_A1](#phase-fe-zr-fcc-a1); _phase:fe-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 1092.32–1756.47 K, x(Zr) 0–0.02094 | 78 | 12 |
 | [FE147ZR53_C36](#phase-fe-zr-fe147zr53-c36); _phase:fe-zr:fe147zr53-c36_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1473.98–1632.81 K, x(Zr) 0.265–0.265 | 0 | 2 |
-| [FE23ZR6_D8A](#phase-fe-zr-fe23zr6-d8a); _phase:fe-zr:fe23zr6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1758.88 K, x(Zr) 0.20534–0.20712 | 81 | 7 |
+| [FE23ZR6_D8A](#phase-fe-zr-fe23zr6-d8a); _phase:fe-zr:fe23zr6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1758.88 K, x(Zr) 0.20534–0.20712 | 83 | 7 |
 | [FE3ZR_C36](#phase-fe-zr-fe3zr-c36); _phase:fe-zr:fe3zr-c36_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1512.92–1634.79 K, x(Zr) 0.24613–0.27365 | 0 | 3 |
-| [FEZR2_C16](#phase-fe-zr-fezr2-c16); _phase:fe-zr:fezr2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1238.36 K, x(Zr) 0.65682–0.69656 | 70 | 12 |
-| [FEZR3_E1A](#phase-fe-zr-fezr3-e1a); _phase:fe-zr:fezr3-e1a_ | Re3B · E1_a · oC16 · Cmcm (63) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1203.55 K, x(Zr) 0.74513–0.76618 | 62 | 12 |
-| [HCP_A3](#phase-fe-zr-hcp-a3); _phase:fe-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–2124.86 K, x(Zr) 0.99559–1 | 32 | 12 |
+| [FEZR2_C16](#phase-fe-zr-fezr2-c16); _phase:fe-zr:fezr2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1238.36 K, x(Zr) 0.65682–0.69656 | 72 | 12 |
+| [FEZR3_E1A](#phase-fe-zr-fezr3-e1a); _phase:fe-zr:fezr3-e1a_ | Re3B · E1_a · oC16 · Cmcm (63) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1203.55 K, x(Zr) 0.74513–0.76618 | 66 | 12 |
+| [HCP_A3](#phase-fe-zr-hcp-a3); _phase:fe-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–2124.86 K, x(Zr) 0.99559–1 | 34 | 12 |
 | [LIQUID](#phase-fe-zr-liquid); _phase:fe-zr:liquid_ | liquid | liquid | stable in 12 of 12 calculated diagram(s): 1187.62–4000 K, x(Zr) 0–1 | 121 | 12 |
 
 ## BCC_A2 (Fe–Zr)
@@ -30,11 +30,11 @@ Table: Phases of the Fe–Zr system (12)
 - Id: `phase:fe-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 12 of 12 calculated diagram(s): 300–3999.1 K, x(Zr) 0–1
-- Literature: 112 values (112 accepted) from 4 papers
+- Literature: 116 values (116 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:bcc-a2)
 
-Names (22): _corpus: _corpus:phase:fe-zr:bcc-a2  
-_paper: _paper:10.1007/s42243-021-00570-w:bcc(Fe), paper:10.1007/s42243-021-00570-w:bcc(Zr), paper:10.1016/0925-8388(94)06036-3:Fe - b.c.c., paper:10.1016/0925-8388(94)06036-3:Zr - b.c.c., paper:10.1016/j.calphad.2008.08.007:bcc, paper:10.1016/j.calphad.2008.08.007:bcc(Fe), paper:10.1361/105497101770332965:αFe, paper:10.1361/105497101770332965:βZr, paper:10.1361/105497101770332965:δFe  
+Names (24): _corpus: _corpus:phase:fe-zr:bcc-a2  
+_paper: _paper:10.1007/s42243-021-00570-w:bcc(Fe), paper:10.1007/s42243-021-00570-w:bcc(Zr), paper:10.1016/0925-8388(94)06036-3:Fe - b.c.c., paper:10.1016/0925-8388(94)06036-3:Zr - b.c.c., paper:10.1016/j.calphad.2008.08.007:bcc, paper:10.1016/j.calphad.2008.08.007:bcc(Fe), paper:10.1016/j.intermet.2017.05.008:bcc-Fe, paper:10.1016/j.intermet.2017.05.008:bcc-Zr, paper:10.1361/105497101770332965:αFe, paper:10.1361/105497101770332965:βZr, paper:10.1361/105497101770332965:δFe  
 _tdb: _tdb:FeZr-01Jia.tdb:BCC_A2, tdb:FeZr-03Che-LB.tdb:BCC_A2, tdb:FeZr-08Guo.tdb:BCC_A2, tdb:FeZr-09Rig.tdb:BCC_A2, tdb:FeZr-13Yan.tdb:BCC_A2, tdb:FeZr-17Gie.tdb:BCC_A2, tdb:FeZr-17Lu.tdb:BCC_A2, tdb:FeZr-19Sae.tdb:BCC_A2, tdb:FeZr-20Laf.tdb:BCC_A2, tdb:FeZr-21Du.tdb:BCC_A2, tdb:FeZr-22Jia.tdb:BCC_A2, tdb:FeZr-95Ser.tdb:BCC_A2  
 
 
@@ -134,13 +134,13 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007) Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.003](https://doi.org/10.1016/j.calphad.2009.05.003) Vincent Rigaud, Bo Sundman, Dominique Daloz, Gérard Lesoult, Thermodynamic assessment of the Fe–Al–Zr phase diagram, Calphad 33, 442-449 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.05.002](https://doi.org/10.1016/j.calphad.2019.05.002) I. Saenko, A. Kuprava, A. Udovsky, O. Fabrichnaya, Calphad, 66, 101625(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200) Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020).  
 _assessment that models this phase_
@@ -380,11 +380,11 @@ _assessment that models this phase_
 - Id: `phase:fe-zr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 12 of 12 calculated diagram(s): 1092.32–1756.47 K, x(Zr) 0–0.02094
-- Literature: 76 values (76 accepted) from 4 papers
+- Literature: 78 values (78 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:fcc-a1)
 
-Names (17): _corpus: _corpus:phase:fe-zr:fcc-a1  
-_paper: _paper:10.1007/s42243-021-00570-w:fcc(Fe), paper:10.1016/0925-8388(94)06036-3:Fe - f.c.c., paper:10.1016/j.calphad.2008.08.007:fcc, paper:10.1361/105497101770332965:γFe  
+Names (18): _corpus: _corpus:phase:fe-zr:fcc-a1  
+_paper: _paper:10.1007/s42243-021-00570-w:fcc(Fe), paper:10.1016/0925-8388(94)06036-3:Fe - f.c.c., paper:10.1016/j.calphad.2008.08.007:fcc, paper:10.1016/j.intermet.2017.05.008:fcc-Fe, paper:10.1361/105497101770332965:γFe  
 _tdb: _tdb:FeZr-01Jia.tdb:FCC_A1, tdb:FeZr-03Che-LB.tdb:FCC_A1, tdb:FeZr-08Guo.tdb:FCC_A1, tdb:FeZr-09Rig.tdb:FCC_A1, tdb:FeZr-13Yan.tdb:FCC_A1, tdb:FeZr-17Gie.tdb:FCC_A1, tdb:FeZr-17Lu.tdb:FCC_A1, tdb:FeZr-19Sae.tdb:FCC_A1, tdb:FeZr-20Laf.tdb:FCC_A1, tdb:FeZr-21Du.tdb:FCC_A1, tdb:FeZr-22Jia.tdb:FCC_A1, tdb:FeZr-95Ser.tdb:FCC_A1  
 
 
@@ -484,13 +484,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007) Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.003](https://doi.org/10.1016/j.calphad.2009.05.003) Vincent Rigaud, Bo Sundman, Dominique Daloz, Gérard Lesoult, Thermodynamic assessment of the Fe–Al–Zr phase diagram, Calphad 33, 442-449 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.05.002](https://doi.org/10.1016/j.calphad.2019.05.002) I. Saenko, A. Kuprava, A. Udovsky, O. Fabrichnaya, Calphad, 66, 101625(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200) Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020).  
 _assessment that models this phase_
@@ -542,11 +542,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeZr-17Lu.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeZr-22Jia.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1758.88 K, x(Zr) 0.20534–0.20712
-- Literature: 81 values (81 accepted) from 3 papers
+- Literature: 83 values (83 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:fe23zr6-d8a)
 
-Names (11): _corpus: _corpus:phase:fe-zr:fe23zr6-d8a  
-_paper: _paper:10.1007/s42243-021-00570-w:Fe23Zr6, paper:10.1016/0925-8388(94)06036-3:Fe23Zr6, paper:10.1361/105497101770332965:Fe23Zr6  
+Names (12): _corpus: _corpus:phase:fe-zr:fe23zr6-d8a  
+_paper: _paper:10.1007/s42243-021-00570-w:Fe23Zr6, paper:10.1016/0925-8388(94)06036-3:Fe23Zr6, paper:10.1016/j.intermet.2017.05.008:Fe23Zr6, paper:10.1361/105497101770332965:Fe23Zr6  
 _tdb: _tdb:FeZr-01Jia.tdb:FE23ZR6_D8A, tdb:FeZr-13Yan.tdb:FE23ZR6_D8A, tdb:FeZr-17Gie.tdb:FE23ZR6_D8A, tdb:FeZr-17Lu.tdb:FE23ZR6_D8A, tdb:FeZr-21Du.tdb:FE23ZR6_D8A, tdb:FeZr-22Jia.tdb:FE23ZR6_D8A, tdb:FeZr-95Ser.tdb:FE23ZR6_D8A  
 
 
@@ -609,9 +609,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0925-8388(94)06036-3](https://doi.org/10.1016/0925-8388%2894%2906036-3) C. Servant, C. Gueneau, I. Ansara, Experimental and thermodynamic assessment of the FeZr system, Journal of Alloys and Compounds 220, 19-26 (1995).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
-_assessment that models this phase_
 - [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
 _assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061) Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013).  
 _assessment that models this phase_
@@ -677,11 +677,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeZr-20Laf.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeZr-95Ser.tdb also describes the disordered state
 - Stability: stable in 12 of 12 calculated diagram(s): 300–1238.36 K, x(Zr) 0.65682–0.69656
-- Literature: 70 values (70 accepted) from 4 papers
+- Literature: 72 values (72 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:fezr2-c16)
 
-Names (17): _corpus: _corpus:phase:fe-zr:fezr2-c16  
-_paper: _paper:10.1007/s42243-021-00570-w:FeZr2, paper:10.1016/0925-8388(94)06036-3:FeZr2, paper:10.1016/j.calphad.2008.08.007:FeZr2, paper:10.1361/105497101770332965:FeZr2  
+Names (18): _corpus: _corpus:phase:fe-zr:fezr2-c16  
+_paper: _paper:10.1007/s42243-021-00570-w:FeZr2, paper:10.1016/0925-8388(94)06036-3:FeZr2, paper:10.1016/j.calphad.2008.08.007:FeZr2, paper:10.1016/j.jnucmat.2013.05.061:FeZr2, paper:10.1361/105497101770332965:FeZr2  
 _tdb: _tdb:FeZr-01Jia.tdb:FEZR2_C16, tdb:FeZr-03Che-LB.tdb:FEZR2_C16, tdb:FeZr-08Guo.tdb:FEZR2_C16, tdb:FeZr-09Rig.tdb:FEZR2_C16, tdb:FeZr-13Yan.tdb:FEZR2_C16, tdb:FeZr-17Gie.tdb:FEZR2_C16, tdb:FeZr-17Lu.tdb:FEZR2_C16, tdb:FeZr-19Sae.tdb:FEZR2_C16, tdb:FeZr-20Laf.tdb:FEZR2_C16, tdb:FeZr-21Du.tdb:FEZR2_C16, tdb:FeZr-22Jia.tdb:FEZR2_C16, tdb:FeZr-95Ser.tdb:FEZR2_C16  
 
 
@@ -781,6 +781,8 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007) Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061) Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.003](https://doi.org/10.1016/j.calphad.2009.05.003) Vincent Rigaud, Bo Sundman, Dominique Daloz, Gérard Lesoult, Thermodynamic assessment of the Fe–Al–Zr phase diagram, Calphad 33, 442-449 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.05.002](https://doi.org/10.1016/j.calphad.2019.05.002) I. Saenko, A. Kuprava, A. Udovsky, O. Fabrichnaya, Calphad, 66, 101625(2019).  
@@ -790,8 +792,6 @@ _assessment that models this phase_
 - [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200) Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020).  
-_assessment that models this phase_
-- [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061) Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013).  
 _assessment that models this phase_
 
 ## FEZR3_E1A (Fe–Zr)
@@ -808,11 +808,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeZr-22Jia.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeZr-95Ser.tdb also describes the disordered state
 - Stability: stable in 12 of 12 calculated diagram(s): 300–1203.55 K, x(Zr) 0.74513–0.76618
-- Literature: 62 values (62 accepted) from 5 papers
+- Literature: 66 values (66 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:fezr3-e1a)
 
-Names (18): _corpus: _corpus:phase:fe-zr:fezr3-e1a  
-_paper: _paper:10.1007/s42243-021-00570-w:FeZr3, paper:10.1016/0925-8388(94)06036-3:FeZr3, paper:10.1016/j.calphad.2008.08.007:FeZr3, paper:10.1016/j.jnucmat.2013.05.061:FeZr3, paper:10.1361/105497101770332965:FeZr3  
+Names (19): _corpus: _corpus:phase:fe-zr:fezr3-e1a  
+_paper: _paper:10.1007/s42243-021-00570-w:FeZr3, paper:10.1016/0925-8388(94)06036-3:FeZr3, paper:10.1016/j.calphad.2008.08.007:FeZr3, paper:10.1016/j.intermet.2017.05.008:FeZr3, paper:10.1016/j.jnucmat.2013.05.061:FeZr3, paper:10.1361/105497101770332965:FeZr3  
 _tdb: _tdb:FeZr-01Jia.tdb:FEZR3_E1A, tdb:FeZr-03Che-LB.tdb:FEZR3_E1A, tdb:FeZr-08Guo.tdb:FEZR3_E1A, tdb:FeZr-09Rig.tdb:FEZR3_E1A, tdb:FeZr-13Yan.tdb:FEZR3_E1A, tdb:FeZr-17Gie.tdb:FEZR3_E1A, tdb:FeZr-17Lu.tdb:FEZR3_E1A, tdb:FeZr-19Sae.tdb:FEZR3_E1A, tdb:FeZr-20Laf.tdb:FEZR3_E1A, tdb:FeZr-21Du.tdb:FEZR3_E1A, tdb:FeZr-22Jia.tdb:FEZR3_E1A, tdb:FeZr-95Ser.tdb:FEZR3_E1A  
 
 
@@ -914,13 +914,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061) Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.003](https://doi.org/10.1016/j.calphad.2009.05.003) Vincent Rigaud, Bo Sundman, Dominique Daloz, Gérard Lesoult, Thermodynamic assessment of the Fe–Al–Zr phase diagram, Calphad 33, 442-449 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.05.002](https://doi.org/10.1016/j.calphad.2019.05.002) I. Saenko, A. Kuprava, A. Udovsky, O. Fabrichnaya, Calphad, 66, 101625(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200) Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020).  
 _assessment that models this phase_
@@ -930,11 +930,11 @@ _assessment that models this phase_
 - Id: `phase:fe-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 12 of 12 calculated diagram(s): 300–2124.86 K, x(Zr) 0.99559–1
-- Literature: 32 values (32 accepted) from 4 papers
+- Literature: 34 values (34 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zr:hcp-a3)
 
-Names (17): _corpus: _corpus:phase:fe-zr:hcp-a3  
-_paper: _paper:10.1007/s42243-021-00570-w:hcp(Zr), paper:10.1016/0925-8388(94)06036-3:Zr - h.c.p., paper:10.1016/j.calphad.2008.08.007:hcp, paper:10.1361/105497101770332965:αZr  
+Names (18): _corpus: _corpus:phase:fe-zr:hcp-a3  
+_paper: _paper:10.1007/s42243-021-00570-w:hcp(Zr), paper:10.1016/0925-8388(94)06036-3:Zr - h.c.p., paper:10.1016/j.calphad.2008.08.007:hcp, paper:10.1016/j.intermet.2017.05.008:hcp-Zr, paper:10.1361/105497101770332965:αZr  
 _tdb: _tdb:FeZr-01Jia.tdb:HCP_A3, tdb:FeZr-03Che-LB.tdb:HCP_A3, tdb:FeZr-08Guo.tdb:HCP_A3, tdb:FeZr-09Rig.tdb:HCP_A3, tdb:FeZr-13Yan.tdb:HCP_A3, tdb:FeZr-17Gie.tdb:HCP_A3, tdb:FeZr-17Lu.tdb:HCP_A3, tdb:FeZr-19Sae.tdb:HCP_A3, tdb:FeZr-20Laf.tdb:HCP_A3, tdb:FeZr-21Du.tdb:HCP_A3, tdb:FeZr-22Jia.tdb:HCP_A3, tdb:FeZr-95Ser.tdb:HCP_A3  
 
 
@@ -1034,13 +1034,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.08.007](https://doi.org/10.1016/j.calphad.2008.08.007) Cuiping Guo, Zhenmin Du, Changrong Li, Baoliang Zhang, Mei Tao, Thermodynamic description of the Al–Fe–Zr system, Calphad 32, 637-649 (2008).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.05.003](https://doi.org/10.1016/j.calphad.2009.05.003) Vincent Rigaud, Bo Sundman, Dominique Daloz, Gérard Lesoult, Thermodynamic assessment of the Fe–Al–Zr phase diagram, Calphad 33, 442-449 (2009).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.05.002](https://doi.org/10.1016/j.calphad.2019.05.002) I. Saenko, A. Kuprava, A. Udovsky, O. Fabrichnaya, Calphad, 66, 101625(2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102419](https://doi.org/10.1016/j.calphad.2022.102419) Y. Jiang, Y. Zhang, D. Zhang, Y. He, W. Zheng, R. Liu, Calphad, 77, 102419(2022).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008) Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2019.153200](https://doi.org/10.1016/j.jallcom.2019.153200) Paul Lafaye, Caroline Toffolon-Masclet, Jean-Claude Crivello, Jean-Marc Joubert, Thermodynamic modelling of the Fe–Sn–Zr system based on new experiments and first-principles calculations, Journal of Alloys and Compounds 821, 153200 (2020).  
 _assessment that models this phase_

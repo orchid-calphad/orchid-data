@@ -1,10 +1,10 @@
 # Co–W system
 
-> Co–W system: 117 accepted literature values (formation 64, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–W system: 120 accepted literature values (formation 67, invariant reaction 19, mixing / partial 12, phase equilibrium 12) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-W.html · Markdown: https://data.orchid-project.org/systems/CO-W.md
 
-117 accepted literature values from 5 paper(s) (experimental 22, model 31, DFT 64); 10 calculated phase diagram(s).
+120 accepted literature values from 5 paper(s) (experimental 22, model 31, DFT 67); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-W.json) · [CSV](https://data.orchid-project.org/systems/CO-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-W/CoW-05Mar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-W.html) · [Markdown](https://data.orchid-project.org/systems/CO-W.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 22 |
 | model | 31 |
-| DFT | 64 |
+| DFT | 67 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 19 |
 | phase transition | 10 |
 | phase equilibrium | 12 |
-| formation | 64 |
+| formation | 67 |
 | mixing / partial | 12 |
 
 ## Calculated phase diagrams
@@ -166,10 +166,13 @@ Table: Invariant reactions reported in the literature for the Co–W system (19)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Co–W system (64)
+Table: Enthalpies of formation, Co–W system (67)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Co3W |  | -7.94 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21 |  |
+| Co3W |  | -7.81 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20 |  |
+| Co3W |  | -7.72 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 19 |  |
 | μ 11111 |  | 11.322 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
 | μ 11111 |  | 42.638 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 1 |  |
 | μ 11112 |  | 49.921 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Wang 2019 | Table 2, p. 5, row 2 |  |

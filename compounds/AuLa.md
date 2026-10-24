@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuLa.html · Markdown: https://d
 
 2 accepted literature formation-enthalpy value(s) (DFT 2).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–La](https://data.orchid-project.org/systems/AU-LA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of AuLa reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82.5 kJ/mol-atom | βAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
-| -82 kJ/mol-atom | αAuLa | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
+| -82.5 kJ/mol-atom | βAuLa | 0 | DFT | ab initio | [Au–La](https://data.orchid-project.org/systems/AU-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 5 |  |
+| -82 kJ/mol-atom | αAuLa | 0 | DFT | ab initio | [Au–La](https://data.orchid-project.org/systems/AU-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 3 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of AuLa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -82.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -82 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -82.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -82 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

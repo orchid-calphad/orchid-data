@@ -1,10 +1,10 @@
 # Ce–H–Ni system
 
-> Ce–H–Ni system: 6 accepted literature values (formation 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–H–Ni system: 4 accepted literature values (formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-H-NI.html · Markdown: https://data.orchid-project.org/systems/CE-H-NI.md
 
-6 accepted literature values from 1 paper(s) (model 6); 0 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (model 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-H-NI.json) · [CSV](https://data.orchid-project.org/systems/CE-H-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-H-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-H-NI.html) · [Markdown](https://data.orchid-project.org/systems/CE-H-NI.md)
 
@@ -12,24 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 6 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 6 |
+| formation | 4 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–H–Ni system (6)
+Table: Enthalpies of formation, Ce–H–Ni system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| (Ce)(Ni)5(H)7 |  | -19.257 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
-| (Ce)(Ni)5(H)7 |  | -11.176 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 3 |  |
 | (Ce)(Va)(Va) |  | 8.454 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1 |  |
 | (Ce)(Va)(Va) |  | 10.082 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 1 |  |
 | (Ce)(Va)2(H) |  | -1.983 kJ/mol (basis unstated) |  | model |  |  | [1] Hannappel 2024 | Table 3, p. 5, row 2 |  |

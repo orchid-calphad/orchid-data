@@ -12,14 +12,14 @@ Table: Phases of the Pu–Zn system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-pu-zn-a6-tetragonal); _phase:pu-zn:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 740–755.9 K, x(Zn) 0–0.00359 | 7 | 1 |
+| [TETRAGONAL_A6](#phase-pu-zn-a6-tetragonal); _phase:pu-zn:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 740–755.9 K, x(Zn) 0–0.00359 | 0 | 1 |
 | [BCC_A2](#phase-pu-zn-bcc-a2); _phase:pu-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 755.77–968.1 K, x(Zn) 0–0.04935 | 7 | 1 |
 | [FCC_A1](#phase-pu-zn-fcc-a1); _phase:pu-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 513.3–790.8 K, x(Zn) 0–0.03686 | 0 | 1 |
 | [HCP_A3](#phase-pu-zn-hcp-a3); _phase:pu-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–692.68 K, x(Zn) 1–1 | 4 | 1 |
 | [LIQUID](#phase-pu-zn-liquid); _phase:pu-zn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 692.68–4000 K, x(Zn) 0–1 | 30 | 1 |
-| [ALPHA_PU](#phase-pu-zn-pu-alpha); _phase:pu-zn:pu-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Zn) 0–0 | 2 | 1 |
-| [BETA_PU](#phase-pu-zn-pu-beta); _phase:pu-zn:pu-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Zn) 0–0 | 4 | 1 |
-| [GAMMA_PU](#phase-pu-zn-pu-gamma); _phase:pu-zn:pu-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 487.9–790.8 K, x(Zn) 0–0 | 5 | 1 |
+| [ALPHA_PU](#phase-pu-zn-pu-alpha); _phase:pu-zn:pu-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Zn) 0–0 | 0 | 1 |
+| [BETA_PU](#phase-pu-zn-pu-beta); _phase:pu-zn:pu-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Zn) 0–0 | 0 | 1 |
+| [GAMMA_PU](#phase-pu-zn-pu-gamma); _phase:pu-zn:pu-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 487.9–790.8 K, x(Zn) 0–0 | 3 | 1 |
 | [PU13ZN58](#phase-pu-zn-pu13zn58); _phase:pu-zn:pu13zn58_ | Gd13Zn58 · hP142 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1146.49 K, x(Zn) 0.81308–0.8169 | 8 | 1 |
 | [PU2ZN17](#phase-pu-zn-pu2zn17); _phase:pu-zn:pu2zn17_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1201.66 K, x(Zn) 0.89474–0.89474 | 9 | 1 |
 | [PU3ZN22](#phase-pu-zn-pu3zn22); _phase:pu-zn:pu3zn22_ | Ce3Zn22 · tI100 · I4_1/amd (141) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1163.3 K, x(Zn) 0.88–0.88 | 6 | 1 |
@@ -33,11 +33,10 @@ Table: Phases of the Pu–Zn system (15)
 - Id: `phase:pu-zn:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 740–755.9 K, x(Zn) 0–0.00359
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pu-zn:a6-tetragonal)
 
-Names (4): _corpus: _corpus:phase:pu-zn:a6-tetragonal, corpus:phase:pu-zn:tetragonal-a6  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(δPu)  
+Names (3): _corpus: _corpus:phase:pu-zn:a6-tetragonal, corpus:phase:pu-zn:tetragonal-a6  
 _tdb: _tdb:PuZn-14Liu.tdb:TETRAGONAL_A6  
 
 
@@ -53,7 +52,7 @@ _tdb: _tdb:PuZn-14Liu.tdb:TETRAGONAL_A6
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Pu–Zn)
 
@@ -174,16 +173,14 @@ _cited as the source of values for this phase_
 
 - Id: `phase:pu-zn:pu-alpha`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): alpha-Pu · mP16 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): alpha-Pu · mP16 · P2_1/m (11) — Hallstedt 2025 mmc2 row for ALPHA_PU: Pu (alpha)
 - Candidate (tdb_comment): alpha-Pu · mP16 · P2_1/m — PuZn-14Liu.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Zn) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pu-zn:pu-alpha)
 
-Names (3): _corpus: _corpus:phase:pu-zn:pu-alpha  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(αPu)  
+Names (2): _corpus: _corpus:phase:pu-zn:pu-alpha  
 _tdb: _tdb:PuZn-14Liu.tdb:ALPHA_PU  
 
 
@@ -199,22 +196,20 @@ _tdb: _tdb:PuZn-14Liu.tdb:ALPHA_PU
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BETA_PU (Pu–Zn)
 
 - Id: `phase:pu-zn:pu-beta`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): beta-Pu · mC34 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): beta-Pu · mC34 · C2/m (12) — Hallstedt 2025 mmc2 row for BETA_PU: Pu (beta)
 - Candidate (tdb_comment): beta-Pu · mC34 · C2/m — PuZn-14Liu.tdb: 'Prototype beta-Pu (mC34, C2/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Zn) 0–0
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pu-zn:pu-beta)
 
-Names (4): _corpus: _corpus:phase:pu-zn:pu-beta, corpus:phase:pu-zn:beta-pu  
-_paper: _paper:10.1016/j.jnucmat.2014.07.001:(βPu)  
+Names (3): _corpus: _corpus:phase:pu-zn:pu-beta, corpus:phase:pu-zn:beta-pu  
 _tdb: _tdb:PuZn-14Liu.tdb:BETA_PU  
 
 
@@ -230,7 +225,7 @@ _tdb: _tdb:PuZn-14Liu.tdb:BETA_PU
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jnucmat.2014.07.001](https://doi.org/10.1016/j.jnucmat.2014.07.001) X.J. Liu, Q. He, D. Wang, Y. Lu, M.H. Chen, J.P. Jia et al., Thermodynamic assessments of the Pu–Zn and La–Pu systems, Journal of Nuclear Materials 453, 169-175 (2014).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## GAMMA_PU (Pu–Zn)
 
@@ -241,7 +236,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): gamma-Pu · oF8 · Fddd — PuZn-14Liu.tdb: 'Prototype gamma-Pu (oF8, Fddd)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 487.9–790.8 K, x(Zn) 0–0
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pu-zn:pu-gamma)
 
 Names (4): _corpus: _corpus:phase:pu-zn:pu-gamma, corpus:phase:pu-zn:gamma-pu  

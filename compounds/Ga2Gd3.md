@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga2Gd3.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (model 4); Materials Project -49.123 kJ/mol-atom (mp-aaaeiziy); OQMD -50.779 kJ/mol-atom (oqmd-89453).
 
-Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
+Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html)
 
 ## Literature values
 
@@ -15,9 +15,9 @@ Table: Enthalpy of formation of Ga2Gd3 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -64.68 kJ/mol-atom | Ga2Gd3 |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 9 |  |
-| -64.68 kJ/mol-atom | Ga2Gd3 | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 25 |  |
+| -64.68 kJ/mol-atom | Ga2Gd3 | 298.15 | model | Miedema | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 25 |  |
 | -63.06 kJ/mol-atom | Ga2Gd3 |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 10 |  |
-| -61.009 kJ/mol-atom | Ga2Gd3 | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023 | Table 2, p. 8, row 26 |  |
+| -61.009 kJ/mol-atom | Ga2Gd3 | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023 | Table 2, p. 8, row 26 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ga2Gd3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -64.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63.06 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61.009 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -64.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -63.06 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61.009 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

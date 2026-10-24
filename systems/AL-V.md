@@ -1,10 +1,10 @@
 # Al–V system
 
-> Al–V system: 7 accepted literature values (invariant reaction 6, phase transition 1) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–V system: 43 accepted literature values (crystal structure 19, formation 17, invariant reaction 6, phase transition 1) and 8 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-V.html · Markdown: https://data.orchid-project.org/systems/AL-V.md
 
-7 accepted literature values from 2 paper(s) (model 1, unspecified 6); 8 calculated phase diagram(s).
+43 accepted literature values from 3 paper(s) (experimental 2, model 14, DFT 21, unspecified 6); 8 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-V.json) · [CSV](https://data.orchid-project.org/systems/AL-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-V/AlV-04Gon.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-V.html) · [Markdown](https://data.orchid-project.org/systems/AL-V.md)
 
@@ -12,7 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 2 |
+| model | 14 |
+| DFT | 21 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -21,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 1 |
+| formation | 17 |
+| crystal structure | 19 |
 
 ## Calculated phase diagrams
 
@@ -163,6 +167,32 @@ Table: Invariant reactions reported in the literature for the Al–V system (6)
 | 945.2 | peritectic: Liquid + Al7V -> Al10V | Al7V: V 0.125; Al10V: V 0.091; Liquid: V 0.001 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 3 |  |
 | 935.3 | peritectic: Liquid + Al10V -> fcc-Al | Al10V: V 0.091; fcc-Al: V 0.001; Liquid: V 0 | unspecified | [1] Hämäläinen 1998 | Table I, p. 112, row 4 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–V system (17)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | -27.8 kJ/mol-atom | 298.15 | experimental | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 13 |  |
+| Al3V |  | -26.91 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
+| Al3V | [Al3V](https://data.orchid-project.org/compounds/Al3V.html) | 1.194 kJ/mol-atom |  | model | -27.874 (mp-aaaaadug) | -27.24 (oqmd-10604) | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
+| Al45V7 |  | -13.94 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
+| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | -12.9 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018; _cites Gong 2004_ [doi](https://doi.org/10.3139/146.018057) | Table 3, p. 5, row 2 |  |
+| Al45V7 | [Al45V7](https://data.orchid-project.org/compounds/Al45V7.html) | 3.4272 kJ/mol-atom |  | model | -14.721 (mp-aaabgidb) | -14.588 (oqmd-54964) | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -34 kJ/mol-atom | 298.15 | experimental | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018; _cites Meschel 1994_ | Table 3, p. 5, row 7 |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -22.557 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 10 |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -20.269 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 11 |  |
+| Al8V5 |  | -19.39 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5 |  |
+| Al8V5 | [Al8V5](https://data.orchid-project.org/compounds/Al8V5.html) | -19.03 kJ/mol-atom |  | model | -21.333 (mp-aaacrxsd) | -6.349 (oqmd-1486473) | [2] Luo 2018 | Table 3, p. 5, row 9 |  |
+| Al8V5 |  | -18.19 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6 |  |
+| Al8V5 |  | -18.18 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
+| Al8V5 |  | -12.65 kJ/mol-atom |  | DFT |  |  | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
+| V3Al A15 |  | -13.03 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 5 |  |
+| V3Al A2 |  | -9.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 6 |  |
+| V3Al D03 |  | -9.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Berche 2018 | Table 1, p. 4, row 7 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -171,14 +201,41 @@ Table: Phase transition, Al–V system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 910 K | 910 | congruent transformation | model | [2] Berche 2018 | p. 6 | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
+| Phase transition | 910 K | 910 | congruent transformation | model | [3] Berche 2018 | p. 6 | “The A15 phase is transformed congruently into the A2 phase at 910 K and at 77.6 at.% of V.” |
+
+### Crystal structure (19)
+
+Table: Crystal structure, Al–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.641 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
+| Lattice a; _printed: a_ | 3.769 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
+| Lattice a; _printed: a_ | 11.105 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
+| Lattice a; _printed: a_ | 10.265 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
+| Lattice a; _printed: a_ | 8.834 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 11 |  |
+| Lattice a; _printed: a_ | 9.343 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 4 |  |
+| Lattice a; _printed: a_ | 9.295 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 5 |  |
+| Lattice a; _printed: a_ | 9.137 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 8 |  |
+| Lattice a; _printed: a_ | 9.145 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 9 |  |
+| Lattice a; _printed: a_ | 9.165 Å |  | Al8V5; _alloy: V 0.384615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 6 |  |
+| Lattice a; _printed: a_ | 8.902 Å |  | Al8V5; _alloy: V 0.384615_ | model | [2] Luo 2018 | Table 3, p. 5, row 10 |  |
+| Lattice a; _printed: a_ | 4.8086 Å | 0 | V3Al A15; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 5 |  |
+| Lattice a; _printed: a_ | 3.0336 Å | 0 | V3Al A2; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 6 |  |
+| Lattice a; _printed: a_ | 6.0539 Å | 0 | V3Al D03; _alloy: V 0.75_ | DFT | [3] Berche 2018 | Table 1, p. 4, row 7 |  |
+| Lattice b; _printed: b_ | 7.611 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 7.921 Å |  | Al3V; _alloy: V 0.25_ | model | [2] Luo 2018 | Table 3, p. 5, row 14 |  |
+| Lattice c; _printed: c_ | 8.313 Å |  | Al3V; _alloy: V 0.25_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 12 |  |
+| Lattice c; _printed: c_ | 11.084 Å |  | Al45V7; _alloy: V 0.134615_ | DFT | [2] Luo 2018; _cites ref. 21_ | Table 3, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 11.31 Å |  | Al45V7; _alloy: V 0.134615_ | model | [2] Luo 2018 | Table 3, p. 5, row 3 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-2. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
+2. Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018). [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004)
+3. Alexandre Berche, Philippe Jund, Ab initio description of the different phases in the Al-Fe-V system: Structure, magnetism and thermodynamics, Computational Materials Science 149, 28-36 (2018). [doi:10.1016/j.commatsci.2018.03.008](https://doi.org/10.1016/j.commatsci.2018.03.008)
 
 ## Please cite
 

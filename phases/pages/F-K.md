@@ -24,6 +24,7 @@ Table: Phases of the F–K system (7)
 
 - Id: `phase:f-k:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–336.52 K, x(F) 0–0
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-k:bcc-a2)
@@ -51,6 +52,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:f-k:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-k:fcc-a1)
@@ -104,6 +106,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:f-k:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: K 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-k:hcp-a3)
@@ -156,6 +159,7 @@ _assessment that models this phase_
 
 - Id: `phase:f-k:kf-b1`; status `assigned`
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: F 0.5000, K 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1131 K, x(F) 0.5–0.5
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:f-k:kf-b1)

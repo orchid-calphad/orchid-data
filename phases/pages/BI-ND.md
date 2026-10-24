@@ -1,14 +1,14 @@
 # Bi–Nd phases
 
-> Bi–Nd system: 13 phases (tier A 9, tier C 3, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–Nd system: 12 phases (tier A 8, tier C 3, liquid 1); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-ND.html · Markdown: https://data.orchid-project.org/phases/pages/BI-ND.md
 
-13 phases (tier A 9, tier C 3, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 8, tier C 3, liquid 1); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-ND) · [full JSON](https://data.orchid-project.org/phases/systems/BI-ND.json) · [Bi–Nd system page](https://data.orchid-project.org/systems/BI-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–Nd system (13)
+Table: Phases of the Bi–Nd system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -20,7 +20,6 @@ Table: Phases of the Bi–Nd system (13)
 | [BI7ND3](#phase-bi-nd-bi7nd3); _phase:bi-nd:bi7nd3_ | (U0.5Ho0.5)3Sb7 · oI40 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–796.87 K, x(Nd) 0.3–0.3 | 0 | 1 |
 | [BIND_B1](#phase-bi-nd-bind-b1); _phase:bi-nd:bind-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2048.1 K, x(Nd) 0.5–0.5 | 6 | 2 |
 | [BIND2](#phase-bi-nd-bind2); _phase:bi-nd:bind2_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1527.13 K, x(Nd) 0.66667–0.66667 | 6 | 2 |
-| [DHCP](#phase-bi-nd-dhcp); _phase:bi-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-bi-nd-dhcp-a3); _phase:bi-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1283 K, x(Nd) 1–1 | 2 | 2 |
 | [FCC_A1](#phase-bi-nd-fcc-a1); _phase:bi-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-bi-nd-hcp-a3); _phase:bi-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -321,24 +320,13 @@ _assessment that models this phase_
 
 ## DHCP (Bi–Nd)
 
-- Id: `phase:bi-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:bi-nd:dhcp  
-
-
-## DHCP (Bi–Nd)
-
 - Id: `phase:bi-nd:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1283 K, x(Nd) 1–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-nd:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:bi-nd:dhcp-a3  
+Names (5): _corpus: _corpus:phase:bi-nd:dhcp-a3, corpus:phase:bi-nd:dhcp  
 _paper: _paper:10.1016/j.jallcom.2010.03.042:(αNd)  
 _tdb: _tdb:BiNd-10Wan.tdb:DHCP, tdb:BiNd-22Im.tdb:DHCP  
 

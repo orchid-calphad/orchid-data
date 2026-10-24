@@ -12,9 +12,9 @@ Table: Phases of the Sn–Yb system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-sn-yb-a4-diamond); _phase:sn-yb:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 4 | 2 |
+| [DIAMOND_A4](#phase-sn-yb-a4-diamond); _phase:sn-yb:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [BCT_A5](#phase-sn-yb-a5-bct); _phase:sn-yb:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(Yb) 0–0 | 5 | 2 |
-| [BCC_A2](#phase-sn-yb-bcc-a2); _phase:sn-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1033–2499.48 K, x(Yb) 1–1 | 18 | 2 |
+| [BCC_A2](#phase-sn-yb-bcc-a2); _phase:sn-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1033–2499.48 K, x(Yb) 1–1 | 6 | 2 |
 | [FCC_A1](#phase-sn-yb-fcc-a1); _phase:sn-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2498.93 K, x(Yb) 1–1 | 0 | 2 |
 | [HCP_A3](#phase-sn-yb-hcp-a3); _phase:sn-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-sn-yb-liquid); _phase:sn-yb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.07–2500 K, x(Yb) 0–1 | 51 | 2 |
@@ -32,11 +32,10 @@ Table: Phases of the Sn–Yb system (13)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-yb:a4-diamond)
 
-Names (4): _corpus: _corpus:phase:sn-yb:a4-diamond  
-_paper: _paper:10.1007/s11669-017-0588-x:αYb5Sn3  
+Names (3): _corpus: _corpus:phase:sn-yb:a4-diamond  
 _tdb: _tdb:SnYb-11Idb.tdb:DIAMOND_A4, tdb:SnYb-17Kal.tdb:DIAMOND_A4  
 
 
@@ -56,14 +55,12 @@ _tdb: _tdb:SnYb-11Idb.tdb:DIAMOND_A4, tdb:SnYb-17Kal.tdb:DIAMOND_A4
 45: CONST DIAMOND_A4 : SN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x) F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-010-1082-4](https://doi.org/10.1007/s10973-010-1082-4) Mohamed Idbenali, Colette Servant, Thermodynamic optimization of the Yb–Sn system, J Therm Anal Calorim 103, 131-135 (2011).  
-_assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(76)90221-6](https://doi.org/10.1016/0022-5088%2876%2990221-6) A. Palenzona, S. Cirafici, The ytterbium-tin system, Journal of the Less Common Metals 46, 321-326 (1976).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
+- [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x) F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017).  
+_assessment that models this phase_
 
 ## BCT_A5 (Sn–Yb)
 
@@ -113,11 +110,11 @@ _cited as the source of values for this phase_
 - Id: `phase:sn-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1033–2499.48 K, x(Yb) 1–1
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-yb:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:sn-yb:bcc-a2  
-_paper: _paper:10.1007/s10973-010-1082-4:γYb, paper:10.1007/s11669-017-0588-x:βYb5Sn3, paper:10.1007/s11669-017-0588-x:γYb(bcc)  
+Names (5): _corpus: _corpus:phase:sn-yb:bcc-a2  
+_paper: _paper:10.1007/s10973-010-1082-4:γYb, paper:10.1007/s11669-017-0588-x:γYb(bcc)  
 _tdb: _tdb:SnYb-11Idb.tdb:BCC_A2, tdb:SnYb-17Kal.tdb:BCC_A2  
 
 
@@ -137,14 +134,12 @@ _tdb: _tdb:SnYb-11Idb.tdb:BCC_A2, tdb:SnYb-17Kal.tdb:BCC_A2
 35: CONST BCC_A2 : SN YB% : VA : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-017-0588-x](https://doi.org/10.1007/s11669-017-0588-x) F. Kali-Ali, Y. Djaballah, S. Triaa, Ş. Uğur, A. Belgacem-Bouzida, M. Drir et al., Ab-Initio Calculations and Thermodynamic Description of the Yb-Cd and Yb-Sn Systems, J. Phase Equilib. Diffus. 38, 665-675 (2017).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-010-1082-4](https://doi.org/10.1007/s10973-010-1082-4) Mohamed Idbenali, Colette Servant, Thermodynamic optimization of the Yb–Sn system, J Therm Anal Calorim 103, 131-135 (2011).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(76)90221-6](https://doi.org/10.1016/0022-5088%2876%2990221-6) A. Palenzona, S. Cirafici, The ytterbium-tin system, Journal of the Less Common Metals 46, 321-326 (1976).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02645976](https://doi.org/10.1007/bf02645976) A. Palenzona and S. Cirafici, The Sn-Yb (Tin-Ytterbium) System, J. Phase Equilib., 1991, 12(4), p 482-485  
 _cited as the source of values for this phase_
 - [doi:10.1016/s0925-8388(98)00929-3](https://doi.org/10.1016/s0925-8388%2898%2900929-3) P Manfrinetti, D Mazzone, A Palenzona, An up-dating of the Yb–Sn phase diagram, Journal of Alloys and Compounds 284, L1-L3 (1999).  

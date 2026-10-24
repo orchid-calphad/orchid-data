@@ -1,20 +1,19 @@
 # La–V phases
 
-> La–V system: 6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–V system: 5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-V.html · Markdown: https://data.orchid-project.org/phases/pages/LA-V.md
 
-6 phases (tier A 5, liquid 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-V) · [full JSON](https://data.orchid-project.org/phases/systems/LA-V.json) · [La–V system page](https://data.orchid-project.org/systems/LA-V.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-V.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–V system (6)
+Table: Phases of the La–V system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-la-v-bcc-a2); _phase:la-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.22 K, x(V) 0–1 | 16 | 1 |
-| [DHCP](#phase-la-v-dhcp); _phase:la-v:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-la-v-dhcp-a3); _phase:la-v:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–644.99 K, x(V) 0–0 | 12 | 1 |
+| [BCC_A2](#phase-la-v-bcc-a2); _phase:la-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.22 K, x(V) 0–1 | 13 | 1 |
+| [DHCP](#phase-la-v-dhcp-a3); _phase:la-v:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–644.99 K, x(V) 0–0 | 1 | 1 |
 | [FCC_A1](#phase-la-v-fcc-a1); _phase:la-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 549.99–1188.5 K, x(V) 0–0.001 | 0 | 1 |
 | [HCP_A3](#phase-la-v-hcp-a3); _phase:la-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-la-v-liquid); _phase:la-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1193.73–4000 K, x(V) 0–1 | 8 | 1 |
@@ -24,11 +23,11 @@ Table: Phases of the La–V system (6)
 - Id: `phase:la-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.22 K, x(V) 0–1
-- Literature: 16 values (16 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-v:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:la-v:bcc-a2  
-_paper: _paper:10.1007/s11669-010-9779-4:V, paper:10.1007/s11669-010-9779-4:βLa  
+Names (3): _corpus: _corpus:phase:la-v:bcc-a2  
+_paper: _paper:10.1007/s11669-010-9779-4:V  
 _tdb: _tdb:LaV-10Cha.tdb:BCC_A2  
 
 
@@ -41,25 +40,12 @@ _tdb: _tdb:LaV-10Cha.tdb:BCC_A2
 32: CONST BCC_A2 : LA% V% : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-010-9779-4](https://doi.org/10.1007/s11669-010-9779-4) Wren Chan, Michael C. Gao, Ömer N. Doğan, Paul King, Thermodynamic Assessment of V-Rare Earth Systems, J. Phase Equilib. Diffus. 31, 425-432 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(88)90033-8](https://doi.org/10.1016/0364-5916%2888%2990033-8) J.F. Smith, K.J. Lee, and D.M. Martin, Binary Rare EarthVanadium Systems, CALPHAD, 1988, 12, p 89-96  
 _cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
-
-## DHCP (La–V)
-
-- Id: `phase:la-v:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-v:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-v:dhcp  
-
 
 ## DHCP (La–V)
 
@@ -67,11 +53,11 @@ Names (1): _corpus: _corpus:phase:la-v:dhcp
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–644.99 K, x(V) 0–0
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-v:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:la-v:dhcp-a3  
-_paper: _paper:10.1007/s11669-010-9779-4:αLa, paper:10.1007/s11669-010-9779-4:γLa  
+Names (4): _corpus: _corpus:phase:la-v:dhcp-a3, corpus:phase:la-v:dhcp  
+_paper: _paper:10.1007/s11669-010-9779-4:αLa  
 _tdb: _tdb:LaV-10Cha.tdb:DHCP  
 
 
@@ -84,14 +70,10 @@ _tdb: _tdb:LaV-10Cha.tdb:DHCP
 42: CONST DHCP : LA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-010-9779-4](https://doi.org/10.1007/s11669-010-9779-4) Wren Chan, Michael C. Gao, Ömer N. Doğan, Paul King, Thermodynamic Assessment of V-Rare Earth Systems, J. Phase Equilib. Diffus. 31, 425-432 (2010).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0364-5916(88)90033-8](https://doi.org/10.1016/0364-5916%2888%2990033-8) J.F. Smith, K.J. Lee, and D.M. Martin, Binary Rare EarthVanadium Systems, CALPHAD, 1988, 12, p 89-96  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (La–V)
 
@@ -123,6 +105,7 @@ _assessment that models this phase_
 
 - Id: `phase:la-v:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: V 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-v:hcp-a3)

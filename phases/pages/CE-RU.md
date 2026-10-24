@@ -13,9 +13,9 @@ Table: Phases of the Ce–Ru system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ce-ru-bcc-a2); _phase:ce-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1000.07–1071.99 K, x(Ru) 0–2e-05 | 0 | 1 |
-| [CE16RU9](#phase-ce-ru-ce16ru9); _phase:ce-ru:ce16ru9_ | Ce16Ru9 · hR50 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–989.83 K, x(Ru) 0.36–0.36 | 0 | 1 |
+| [CE16RU9](#phase-ce-ru-ce16ru9); _phase:ce-ru:ce16ru9_ | Ce16Ru9 · hR50 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–989.83 K, x(Ru) 0.36–0.36 | 20 | 1 |
 | [CE3RU_D011](#phase-ce-ru-ce3ru-d011); _phase:ce-ru:ce3ru-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–864.55 K, x(Ru) 0.25–0.25 | 0 | 1 |
-| [CE4RU3](#phase-ce-ru-ce4ru3); _phase:ce-ru:ce4ru3_ | Ce4Ru3 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1023.92 K, x(Ru) 0.42857–0.42857 | 0 | 1 |
+| [CE4RU3](#phase-ce-ru-ce4ru3); _phase:ce-ru:ce4ru3_ | Ce4Ru3 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1023.92 K, x(Ru) 0.42857–0.42857 | 22 | 1 |
 | [CE7RU3_D102](#phase-ce-ru-ce7ru3-d102); _phase:ce-ru:ce7ru3-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–961.08 K, x(Ru) 0.3–0.3 | 0 | 1 |
 | [CERU2_C15](#phase-ce-ru-ceru2-c15); _phase:ce-ru:ceru2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1841.49 K, x(Ru) 0.66667–0.66667 | 0 | 1 |
 | [FCC_A1](#phase-ce-ru-fcc-a1); _phase:ce-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1000.07 K, x(Ru) 0–7e-05 | 0 | 1 |
@@ -56,10 +56,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ce 0.6400, Ru 0.3600
 - Stability: stable in 1 of 1 calculated diagram(s): 300–989.83 K, x(Ru) 0.36–0.36
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 20 values (20 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-ru:ce16ru9)
 
-Names (2): _corpus: _corpus:phase:ce-ru:ce16ru9  
+Names (3): _corpus: _corpus:phase:ce-ru:ce16ru9  
+_paper: _paper:10.1007/s11669-023-01043-1:Ce16Ru9  
 _tdb: _tdb:CeRu-23Kar.tdb:CE16RU9  
 
 
@@ -72,10 +73,16 @@ _tdb: _tdb:CeRu-23Kar.tdb:CE16RU9
 57: CONST CE16RU9 : CE : RU : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-023-01043-1](https://doi.org/10.1007/s11669-023-01043-1) S. Kardellass, C. Corvalan-Moya, V. P. Vassiliev, Thermodynamic Modeling of the (Ce and Sm)-Ru Binary Systems Based on Linear, Exponential, and Combined Models Aided by Ab-Initio Calculations, J. Phase Equilib. Diffus. 44, 300-323 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/s0925-8388(98)00125-x](https://doi.org/10.1016/s0925-8388%2898%2900125-x) N. Selhaoui, J. Charles, L. Bouirden, and J.C. Gachon, Optimization of the Binary Ce–Ru System, J. Alloys Compd., 1998, 269, p 166–172. https://doi.org/10.1016/S0925-8388(98)00125-X  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.cplett.2007.06.031](https://doi.org/10.1016/j.cplett.2007.06.031) R.F. Zhang, S.H. Sheng, B.X. Liu, Predicting the formation enthalpies of binary intermetallic compounds, Chemical Physics Letters 442, 511-514 (2007).  
+_cited as the source of values for this phase_
+- [doi:10.1038/npjcompumats.2015.10](https://doi.org/10.1038/npjcompumats.2015.10) Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput Mater 1 (2015).  
+_cited as the source of values for this phase_
 
 ## CE3RU_D011 (Ce–Ru)
 
@@ -112,10 +119,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ce 0.5714, Ru 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1023.92 K, x(Ru) 0.42857–0.42857
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 22 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-ru:ce4ru3)
 
-Names (2): _corpus: _corpus:phase:ce-ru:ce4ru3  
+Names (3): _corpus: _corpus:phase:ce-ru:ce4ru3  
+_paper: _paper:10.1007/s11669-023-01043-1:Ce4Ru3  
 _tdb: _tdb:CeRu-23Kar.tdb:CE4RU3  
 
 
@@ -128,10 +136,16 @@ _tdb: _tdb:CeRu-23Kar.tdb:CE4RU3
 62: CONST CE4RU3 : CE : RU : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/s11669-023-01043-1](https://doi.org/10.1007/s11669-023-01043-1) S. Kardellass, C. Corvalan-Moya, V. P. Vassiliev, Thermodynamic Modeling of the (Ce and Sm)-Ru Binary Systems Based on Linear, Exponential, and Combined Models Aided by Ab-Initio Calculations, J. Phase Equilib. Diffus. 44, 300-323 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/s0925-8388(98)00125-x](https://doi.org/10.1016/s0925-8388%2898%2900125-x) N. Selhaoui, J. Charles, L. Bouirden, and J.C. Gachon, Optimization of the Binary Ce–Ru System, J. Alloys Compd., 1998, 269, p 166–172. https://doi.org/10.1016/S0925-8388(98)00125-X  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.cplett.2007.06.031](https://doi.org/10.1016/j.cplett.2007.06.031) R.F. Zhang, S.H. Sheng, B.X. Liu, Predicting the formation enthalpies of binary intermetallic compounds, Chemical Physics Letters 442, 511-514 (2007).  
+_cited as the source of values for this phase_
+- [doi:10.1038/npjcompumats.2015.10](https://doi.org/10.1038/npjcompumats.2015.10) Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput Mater 1 (2015).  
+_cited as the source of values for this phase_
 
 ## CE7RU3_D102 (Ce–Ru)
 

@@ -1,10 +1,10 @@
 # Au–Zn system
 
-> Au–Zn system: 42 accepted literature values (invariant reaction 24, formation 10, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Zn system: 40 accepted literature values (invariant reaction 24, formation 8, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-ZN.html · Markdown: https://data.orchid-project.org/systems/AU-ZN.md
 
-42 accepted literature values from 1 paper(s) (experimental 22, model 20); 1 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (experimental 21, model 19); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ZN.json) · [CSV](https://data.orchid-project.org/systems/AU-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ZN/AuZn-03Liu.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AU-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-ZN.html) · [Markdown](https://data.orchid-project.org/systems/AU-ZN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 20 |
+| experimental | 21 |
+| model | 19 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 24 |
 | phase transition | 8 |
-| formation | 10 |
+| formation | 8 |
 
 ## Calculated phase diagrams
 
@@ -92,12 +92,10 @@ Table: Invariant reactions reported in the literature for the Au–Zn system (24
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Zn system (10)
+Table: Enthalpies of formation, Au–Zn system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| fcc(Au) |  | -15.268 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2003 | Table 3, p. 5, row 2 |  |
-| fcc(Au) |  | -14.411 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2003; _cites Carpenter 1967_ | Table 3, p. 5, row 1 |  |
 | α2 |  | -19.009 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2003 | Table 3, p. 5, row 10 |  |
 | α2 |  | -17.061 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2003; _cites Carpenter 1967_ | Table 3, p. 5, row 9 |  |
 | α₁ |  | -16.944 kJ/mol (basis unstated) |  | model |  |  | [1] Liu 2003 | Table 3, p. 5, row 8 |  |

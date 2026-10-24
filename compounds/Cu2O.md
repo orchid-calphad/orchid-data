@@ -36,9 +36,9 @@ Table: Uncertainty budget of the literature values of Cu2O
 | -56.9433 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -56.7633 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -54.95 | kJ/mol-atom |  | 0.001667 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -57.4933 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.9033 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.7533 | kJ/mol-atom |  | 0.001667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -57.4933 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.9033 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.7533 | kJ/mol-atom |  | 0.001667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

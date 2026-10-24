@@ -1,10 +1,10 @@
 # Er–Ir system
 
-> Er–Ir system: 34 accepted literature values (crystal structure 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Ir system: 31 accepted literature values (crystal structure 31) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-IR.html · Markdown: https://data.orchid-project.org/systems/ER-IR.md
 
-34 accepted literature values from 1 paper(s) (unspecified 34); 0 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (unspecified 31); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-IR.json) · [CSV](https://data.orchid-project.org/systems/ER-IR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-IR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-IR.html) · [Markdown](https://data.orchid-project.org/systems/ER-IR.md)
 
@@ -12,25 +12,24 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 34 |
+| unspecified | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 34 |
+| crystal structure | 31 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/ER/ER-IR.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/ER/ER-IR.json)
 
 ## Other properties
 
-### Crystal structure (34)
+### Crystal structure (31)
 
 Table: Crystal structure, Er–Ir system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.5592 Å | 298.15 | Er; _Er: Er 1, Ir 0_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 1 |  |
 | Lattice a | 7.162 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
 | Lattice a | 7.16 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
 | Lattice a | 11.047 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12 |  |
@@ -46,12 +45,10 @@ Table: Crystal structure, Er–Ir system
 | Lattice a | 7.4923 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 17 |  |
 | Lattice a | 7.473 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 15 |  |
 | Lattice a | 7.488 Å | 298.15 | ErIr2; _ErIr2: Er 0.333, Ir 0.667_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 16 |  |
-| Lattice a | 3.8392 Å | 298.15 | Ir; _Ir: Er 0, Ir 1_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 18 |  |
 | Lattice b | 9.076 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
 | Lattice b | 9.072 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
 | Lattice b | 6.385 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 5 |  |
 | Lattice b | 6.382 Å | 298.15 | Er5Ir2; _Er5Ir2: Er 0.714, Ir 0.286_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 4 |  |
-| Lattice c | 5.585 Å | 298.15 | Er; _Er: Er 1, Ir 0_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 1 |  |
 | Lattice c | 6.306 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 2 |  |
 | Lattice c | 6.302 Å | 298.15 | Er3Ir; _Er3Ir: Er 0.75, Ir 0.25_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 3 |  |
 | Lattice c | 24.775 Å | 298.15 | Er3Ir2; _Er3Ir2: Er 0.6, Ir 0.4_ | unspecified | [1] Anderson 1992 | Table 2, p. 1, row 12 |  |

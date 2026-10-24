@@ -1,10 +1,10 @@
 # In–Sr system
 
-> In–Sr system: 11 accepted literature values (invariant reaction 9, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> In–Sr system: 46 accepted literature values (crystal structure 23, formation 12, invariant reaction 9, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IN-SR.html · Markdown: https://data.orchid-project.org/systems/IN-SR.md
 
-11 accepted literature values from 1 paper(s) (experimental 11); 1 calculated phase diagram(s).
+46 accepted literature values from 1 paper(s) (experimental 11, model 6, DFT 6, unspecified 23); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IN-SR.json) · [CSV](https://data.orchid-project.org/systems/IN-SR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IN-SR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IN-SR/InSr-14Wan.json) · [phases (13)](https://data.orchid-project.org/phases/pages/IN-SR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IN-SR.html) · [Markdown](https://data.orchid-project.org/systems/IN-SR.md)
 
@@ -13,6 +13,9 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
+| model | 6 |
+| DFT | 6 |
+| unspecified | 23 |
 
 Table: Accepted values by property group
 
@@ -20,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 9 |
 | phase transition | 2 |
+| formation | 12 |
+| crystal structure | 23 |
 
 ## Calculated phase diagrams
 
@@ -81,6 +86,27 @@ Table: Invariant reactions reported in the literature for the In–Sr system (9)
 | 693 | peritectic: Liquid + SrIn3 -> SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
 | 429 | eutectic: Liquid -> (In) + SrIn5 |  | experimental | [1] Wang 2014; _cites Bruzzone 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990011-7) | p. 1 | “Three eutectic reactions, i.e. Liquid2(In) þSrIn5, Liquid2Sr5In3 þSr3In and Liquid2Sr3Inþ(αSr), and six peritectic reactions, i.e. Liquid þSrIn32SrIn5, Liquid þSr2In52SrIn3, Liquid þSrIn22 Sr2In5, Liquid þSrIn22Sr2In3, Liquid þSr2In32SrIn, Liquid þSrIn 2Sr3In2, were determined to be at 429, 818, 790, 693, 813, 893, 1081, 990 and 845 K, respectively.” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, In–Sr system (12)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Sr3In | [InSr3](https://data.orchid-project.org/compounds/InSr3.html) | -22 kJ/mol-atom | 298.15 | model | -11.866 (mp-aaaabujt) | -17.549 (oqmd-324757) | [1] Wang 2014 | Table 2, p. 3, row 2 |  |
+| Sr3In |  | -13.54 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 1 |  |
+| Sr5In3 | [In3Sr5](https://data.orchid-project.org/compounds/In3Sr5.html) | -34 kJ/mol-atom | 298.15 | model | -32.729 (mp-aaabglta) | -33.93 (oqmd-25865) | [1] Wang 2014 | Table 2, p. 3, row 4 |  |
+| Sr5In3 |  | -33.86 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 3 |  |
+| SrIn | [InSr](https://data.orchid-project.org/compounds/InSr.html) | -42.84 kJ/mol-atom | 298.15 | model | -41.033 (mp-aaabipnk) | -42.821 (oqmd-651142) | [1] Wang 2014 | Table 2, p. 3, row 6 |  |
+| SrIn |  | -42.62 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 5 |  |
+| SrIn2 |  | -45.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 7 |  |
+| SrIn2 | [In2Sr](https://data.orchid-project.org/compounds/In2Sr.html) | -45 kJ/mol-atom | 298.15 | model | -43.13 (mp-aaaabdsc) | -45.494 (oqmd-10871) | [1] Wang 2014 | Table 2, p. 3, row 8 |  |
+| SrIn3 | [In3Sr](https://data.orchid-project.org/compounds/In3Sr.html) | -37.7 kJ/mol-atom | 298.15 | model | -29.533 (mp-aaacjmnw) | -31.42 (oqmd-1794538) | [1] Wang 2014 | Table 2, p. 3, row 10 |  |
+| SrIn3 |  | -32.58 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 9 |  |
+| SrIn5 | [In5Sr](https://data.orchid-project.org/compounds/In5Sr.html) | -26 kJ/mol-atom | 298.15 | model | -13.592 (mp-aaacqqti) | -14.676 (oqmd-1519683) | [1] Wang 2014 | Table 2, p. 3, row 12 |  |
+| SrIn5 |  | -14.97 kJ/mol-atom | 298.15 | DFT |  |  | [1] Wang 2014 | Table 2, p. 3, row 11 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -91,6 +117,36 @@ Table: Phase transition, In–Sr system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 831 K | 831 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
 | Phase transition | 1203 K | 1203 | congruent transformation | experimental | [1] Wang 2014 | p. 1 | “The SrIn2 and Sr3In phases melt congruently at 1203 and 831 K, respectively.” |
+
+### Crystal structure (23)
+
+Table: Crystal structure, In–Sr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.36 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 16 |  |
+| Lattice a | 8.639 Å | 298.15 | Sr3In; _alloy: In 0.25, Sr 0.75_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 17 |  |
+| Lattice a | 8.744 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
+| Lattice a | 8.788 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
+| Lattice a | 10.222 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice a | 10.23 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice a | 5.08 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
+| Lattice a | 7.141 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
+| Lattice a | 6.769 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
+| Lattice a | 5.937 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
+| Lattice a | 6.301 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
+| Lattice b | 26.04 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice b | 26.14 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice c | 16.429 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 14 |  |
+| Lattice c | 16.496 Å | 298.15 | Sr5In3; _alloy: In 0.375, Sr 0.625_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 15 |  |
+| Lattice c | 8.365 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 13 |  |
+| Lattice c | 8.4 Å | 298.15 | SrIn; _alloy: In 0.5, Sr 0.5_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 12 |  |
+| Lattice c | 8.116 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.021 Å | 298.15 | SrIn2; _alloy: In 0.666667, Sr 0.333333_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 10 |  |
+| Lattice c | 5.249 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 9 |  |
+| Lattice c | 5.481 Å | 298.15 | SrIn3; _alloy: In 0.75, Sr 0.25_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.827 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 6 |  |
+| Lattice c | 5.27 Å | 298.15 | SrIn5; _alloy: In 0.833333, Sr 0.166667_ | unspecified | [1] Wang 2014 | Table 1, p. 2, row 7 |  |
 
 ## Sources
 

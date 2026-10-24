@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/HoTe.html · Markdown: https://data.orchid-project.org/compounds/HoTe.md
 
-3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -140.092 kJ/mol-atom (mp-aaaaabjj); OQMD -124.149 kJ/mol-atom (oqmd-1880743).
+3 accepted literature formation-enthalpy value(s) (model 2, DFT 1); Materials Project -140.092 kJ/mol-atom (mp-aaaaabjj); OQMD -120.012 kJ/mol-atom (oqmd-8123).
 
 Systems: [Ho–Te](https://data.orchid-project.org/systems/HO-TE.html)
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of HoTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -162 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -152.99 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -153.449 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -162 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -152.99 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -153.449 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of HoTe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaabjj | -140.092 | -1.45195 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1880743 | -124.149 | -1.28671 | P63/mmc | 0 | 0 | yes |
+| OQMD | oqmd-8123 | -120.012 | -1.24385 | Fm-3m | 4.1361 | 0.0429 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

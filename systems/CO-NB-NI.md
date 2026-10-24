@@ -1,10 +1,10 @@
 # Co–Nb–Ni system
 
-> Co–Nb–Ni system: 100 accepted literature values (phase equilibrium 62, crystal structure 37, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Nb–Ni system: 87 accepted literature values (phase equilibrium 62, crystal structure 25) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-NB-NI.html · Markdown: https://data.orchid-project.org/systems/CO-NB-NI.md
 
-100 accepted literature values from 1 paper(s) (experimental 12, DFT 20, unspecified 68); 0 calculated phase diagram(s).
+87 accepted literature values from 1 paper(s) (experimental 12, DFT 7, unspecified 68); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-NI.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-NI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NB-NI.html) · [Markdown](https://data.orchid-project.org/systems/CO-NB-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| DFT | 20 |
+| DFT | 7 |
 | unspecified | 68 |
 
 Table: Accepted values by property group
@@ -21,18 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 62 |
-| formation | 1 |
-| crystal structure | 37 |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Co–Nb–Ni system (1)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| (Co,Ni)Nb |  | 16.9621 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2020 | Table V, p. 12, row 19 |  |
+| crystal structure | 25 |
 
 ## Other properties
 
@@ -105,7 +94,7 @@ Table: Phase equilibrium, Co–Nb–Ni system
 | Phase composition |  | 1373.15 | τ + fcc(Co,Ni); _τ: Co 0.543, Nb 0.226, Ni 0.231; fcc(Co,Ni): Co 0.676, Nb 0.052, Ni 0.272_ | unspecified | [1] Zhou 2020 | Table II, p. 4, row 41 |  |
 | Phase composition |  | 1373.15 | τ + fcc(Co,Ni); _τ: Co 0.285, Nb 0.222, Ni 0.493; fcc(Co,Ni): Co 0.388, Nb 0.089, Ni 0.523_ | unspecified | [1] Zhou 2020 | Table II, p. 4, row 45 |  |
 
-### Crystal structure (37)
+### Crystal structure (25)
 
 Table: Crystal structure, Co–Nb–Ni system
 
@@ -120,22 +109,10 @@ Table: Crystal structure, Co–Nb–Ni system
 | Lattice c | 6.1644 Å | 298.15 | UNKNOWN; _alloy: Co 0.61, Nb 0.23, Ni 0.16_ | unspecified | [1] Zhou 2020 | Table III, p. 9, row 1 |  |
 | Lattice c | 4.194 Å | 298.15 | UNKNOWN; _alloy: Co 0.4, Nb 0.24, Ni 0.36_ | unspecified | [1] Zhou 2020 | Table III, p. 9, row 3 |  |
 | Lattice c | 4.1915 Å | 298.15 | UNKNOWN; _alloy: Co 0.51, Nb 0.23, Ni 0.26_ | unspecified | [1] Zhou 2020 | Table III, p. 9, row 2 |  |
-| Molar volume; _printed: V0_ | 13.91 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.461538, Ni 0.538462_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 17 |  |
-| Molar volume; _printed: V0_ | 13.6 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.384615, Ni 0.615385_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 16 |  |
-| Molar volume; _printed: V0_ | 14.51 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.538462, Ni 0.461538_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 18 |  |
-| Molar volume; _printed: V0_ | 12.92 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.307692, Ni 0.692308_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 15 |  |
 | Molar volume; _printed: V0_ | 12.73 Å3/atom | 0 | (Co,Ni)Nb | DFT | [1] Zhou 2020 | Table V, p. 12, row 11 |  |
 | Molar volume; _printed: V0_ | 13.63 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.461538, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 13 |  |
 | Molar volume; _printed: V0_ | 13.35 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.384615, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 12 |  |
 | Molar volume; _printed: V0_ | 14.23 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 0.538462, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 14 |  |
-| Molar volume; _printed: V0_ | 18.34 Å3/atom | 0 | (Co,Ni)Nb; _alloy: Nb 1, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 19 |  |
-| Molar volume; _printed: V0_ | 12.13 Å3/atom | 0 | Co7Nb2; _alloy: Nb 0.222222, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 4 |  |
-| Molar volume; _printed: V0_ | 12.4 Å3/atom | 0 | Ni3Nb; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 9 |  |
-| Molar volume; _printed: V0_ | 11.53 Å3/atom | 0 | Ni8Nb; _alloy: Nb 0.111111, Ni 0.888889_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 8 |  |
-| Molar volume; _printed: V0_ | 12.39 Å3/atom | 0 | UNKNOWN; _alloy: Nb 0.25, Ni 0.75_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 10 |  |
-| Molar volume; _printed: V0_ | 18.12 Å3/atom | 0 | bcc(Nb); _alloy: Nb 1, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 2 |  |
-| Molar volume; _printed: V0_ | 10.88 Å3/atom | 0 | fcc(Ni); _alloy: Nb 0, Ni 1_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 3 |  |
-| Molar volume; _printed: V0_ | 10.82 Å3/atom | 0 | hcp(Co); _alloy: Nb 0, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 1 |  |
 | Molar volume; _printed: V0_ | 12.71 Å3/atom | 0 | λ1; _alloy: Nb 0.333333, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 7 |  |
 | Molar volume; _printed: V0_ | 12.64 Å3/atom | 0 | λ2; _alloy: Nb 0.333333, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 6 |  |
 | Molar volume; _printed: V0_ | 12.66 Å3/atom | 0 | λ3; _alloy: Nb 0.333333, Ni 0_ | DFT | [1] Zhou 2020 | Table V, p. 12, row 5 |  |

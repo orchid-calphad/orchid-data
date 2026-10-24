@@ -5,8 +5,8 @@
   "VA"
  ],
  "phases": [
-  "A2_BCC",
   "B2_BCC",
+  "BCC_A2",
   "DIAMOND_A4",
   "FCC_A1",
   "FE2SI",
@@ -44,7 +44,7 @@
  "values": [
   [
    [
-    "A2_BCC",
+    "BCC_A2",
     [
      "SI"
     ],
@@ -422,7 +422,7 @@
   ],
   [
    [
-    "A2_BCC",
+    "BCC_A2",
     [
      "SI"
     ],

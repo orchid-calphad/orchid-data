@@ -1,19 +1,18 @@
 # Ni–Pr phases
 
-> Ni–Pr system: 13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ni–Pr system: 12 phases (tier A 9, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/NI-PR.html · Markdown: https://data.orchid-project.org/phases/pages/NI-PR.md
 
-13 phases (tier A 10, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 9, tier C 1, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=NI-PR) · [full JSON](https://data.orchid-project.org/phases/systems/NI-PR.json) · [Ni–Pr system page](https://data.orchid-project.org/systems/NI-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/NI-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ni–Pr system (13)
+Table: Phases of the Ni–Pr system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-ni-pr-bcc-a2); _phase:ni-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1053.04–2499 K, x(Pr) 0.99503–1 | 3 | 2 |
-| [DHCP](#phase-ni-pr-dhcp); _phase:ni-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-ni-pr-dhcp-a3); _phase:ni-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1203 K, x(Pr) 0.99997–1 | 11 | 2 |
 | [FCC_A1](#phase-ni-pr-fcc-a1); _phase:ni-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1770.6 K, x(Pr) 0–3e-05 | 9 | 2 |
 | [HCP_A3](#phase-ni-pr-hcp-a3); _phase:ni-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -66,24 +65,13 @@ _cited as the source of values for this phase_
 
 ## DHCP (Ni–Pr)
 
-- Id: `phase:ni-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:ni-pr:dhcp  
-
-
-## DHCP (Ni–Pr)
-
 - Id: `phase:ni-pr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1203 K, x(Pr) 0.99997–1
 - Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-pr:dhcp-a3)
 
-Names (5): _corpus: _corpus:phase:ni-pr:dhcp-a3  
+Names (6): _corpus: _corpus:phase:ni-pr:dhcp-a3, corpus:phase:ni-pr:dhcp  
 _paper: _paper:10.1016/j.jallcom.2004.11.039:dhcp (Pr), paper:10.1016/j.jallcom.2014.09.116:dhcp (Pr)  
 _tdb: _tdb:NiPr-05Hua.tdb:DHCP, tdb:NiPr-15Rah.tdb:DHCP  
 

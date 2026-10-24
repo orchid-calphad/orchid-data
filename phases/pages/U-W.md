@@ -13,16 +13,17 @@ Table: Phases of the U–W system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-u-w-a20-orthorhombic); _phase:u-w:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–947.02 K, x(W) 0–0 | 0 | 2 |
-| [BCC_A2](#phase-u-w-bcc-a2); _phase:u-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1 | 8 | 2 |
+| [BCC_A2](#phase-u-w-bcc-a2); _phase:u-w:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1 | 6 | 2 |
 | [FCC_A1](#phase-u-w-fcc-a1); _phase:u-w:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-u-w-hcp-a3); _phase:u-w:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-u-w-liquid); _phase:u-w:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1404.22–4000 K, x(W) 0–1 | 19 | 2 |
-| [TETRAGONAL_U](#phase-u-w-u-tetragonal); _phase:u-w:u-tetragonal_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05 | 2 | 2 |
+| [TETRAGONAL_U](#phase-u-w-u-tetragonal); _phase:u-w:u-tetragonal_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05 | 1 | 2 |
 
 ## ORTHORHOMBIC_A20 (U–W)
 
 - Id: `phase:u-w:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–947.02 K, x(W) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-w:a20-orthorhombic)
@@ -59,11 +60,11 @@ _assessment that models this phase_
 - Id: `phase:u-w:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.88 K, x(W) 0–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-w:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:u-w:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2008.07.009:bcc (W), paper:10.1016/j.jnucmat.2008.07.009:β (U), paper:10.1016/j.jnucmat.2011.01.043:(W), paper:10.1016/j.jnucmat.2011.01.043:(γ-U)  
+Names (6): _corpus: _corpus:phase:u-w:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2008.07.009:bcc (W), paper:10.1016/j.jnucmat.2011.01.043:(W), paper:10.1016/j.jnucmat.2011.01.043:(γ-U)  
 _tdb: _tdb:UW-08Wan.tdb:BCC_A2, tdb:UW-11Ber.tdb:BCC_A2  
 
 
@@ -204,7 +205,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UW-08Wan.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UW-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 2 of 2 calculated diagram(s): 942.02–1089.95 K, x(W) 0–1e-05
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-w:u-tetragonal)
 
 Names (5): _corpus: _corpus:phase:u-w:u-tetragonal, corpus:phase:u-w:tetragonal-u  

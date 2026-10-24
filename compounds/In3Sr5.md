@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/In3Sr5.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -32.729 kJ/mol-atom (mp-aaabglta); OQMD -33.93 kJ/mol-atom (oqmd-25865).
 
-Systems: [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html)
+Systems: [In–Sr](https://data.orchid-project.org/systems/IN-SR.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of In3Sr5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -34 kJ/mol-atom | Sr5In3 | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 4 |  |
-| -33.86 kJ/mol-atom | Sr5In3 | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 3 |  |
+| -34 kJ/mol-atom | Sr5In3 | 298.15 | model | CALPHAD | [In–Sr](https://data.orchid-project.org/systems/IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 4 |  |
+| -33.86 kJ/mol-atom | Sr5In3 | 298.15 | DFT | First-principles calculations | [In–Sr](https://data.orchid-project.org/systems/IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 3 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of In3Sr5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -34 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.86 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -34 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -33.86 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -37,7 +37,7 @@ Table: DFT formation energy of In3Sr5
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabglta | -32.729 | -0.339218 | I4/mcm | 0.649 | 0.0067 | no |
-| OQMD | oqmd-25865 | -33.93 | -0.35166 | I4/mcm | 0.758 | 0.0079 | no |
+| OQMD | oqmd-25865 | -33.93 | -0.35166 | I4/mcm | 0.381 | 0.0039 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

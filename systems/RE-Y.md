@@ -1,10 +1,10 @@
 # Re–Y system
 
-> Re–Y system: 18 accepted literature values (crystal structure 16, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Re–Y system: 6 accepted literature values (crystal structure 4, invariant reaction 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RE-Y.html · Markdown: https://data.orchid-project.org/systems/RE-Y.md
 
-18 accepted literature values from 1 paper(s) (experimental 8, model 4, DFT 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 4, DFT 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RE-Y.json) · [CSV](https://data.orchid-project.org/systems/RE-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RE-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RE-Y/ReY-10Zac.json) · [phases (5)](https://data.orchid-project.org/phases/pages/RE-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RE-Y.html) · [Markdown](https://data.orchid-project.org/systems/RE-Y.md)
 
@@ -12,16 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 4 |
-| DFT | 6 |
+| experimental | 4 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
-| crystal structure | 16 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -57,28 +56,16 @@ Table: Invariant reactions reported in the literature for the Re–Y system (2)
 
 ## Other properties
 
-### Crystal structure (16)
+### Crystal structure (4)
 
 Table: Crystal structure, Re–Y system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.769 Å |  | Re; _alloy: Y 0_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 3 |  |
-| Lattice a | 2.785 Å |  | Re; _alloy: Y 0_ | model | [1] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2 |  |
 | Lattice a | 5.406 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8 |  |
-| Lattice a | 3.654 Å |  | Y; _alloy: Y 1_ | model | [1] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 5 |  |
-| Lattice a | 3.656 Å |  | Y; _alloy: Y 1_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 6 |  |
-| Lattice a | 2.76 Å | 298.15 | Re; _alloy: Y 0_ | experimental | [1] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1 |  |
 | Lattice a | 5.397 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7 |  |
-| Lattice a | 3.65 Å | 298.15 | Y; _alloy: Y 1_ | experimental | [1] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 4.472 Å |  | Re; _alloy: Y 0_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 3 |  |
-| Lattice c | 4.498 Å |  | Re; _alloy: Y 0_ | model | [1] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 2 |  |
 | Lattice c | 8.845 Å |  | Re2Y; _alloy: Y 0.333333_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 8 |  |
-| Lattice c | 5.649 Å |  | Y; _alloy: Y 1_ | model | [1] Zacherl 2010; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.actamat.2004.02.014) | Table 1, p. 3, row 5 |  |
-| Lattice c | 5.679 Å |  | Y; _alloy: Y 1_ | DFT | [1] Zacherl 2010 | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.46 Å | 298.15 | Re; _alloy: Y 0_ | experimental | [1] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 1 |  |
 | Lattice c | 8.824 Å | 298.15 | Re2Y; _alloy: Y 0.333333_ | experimental | [1] Zacherl 2010; _cites Compton 1959_ [doi](https://doi.org/10.1107/s0365110x59001918) | Table 1, p. 3, row 7 |  |
-| Lattice c | 5.73 Å | 298.15 | Y; _alloy: Y 1_ | experimental | [1] Zacherl 2010; _cites Kittel 2005_ | Table 1, p. 3, row 4 |  |
 
 ## Sources
 

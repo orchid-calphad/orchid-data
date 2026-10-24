@@ -12,7 +12,7 @@ Table: Phases of the Pb–Si system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-pb-si-a4-diamond); _phase:pb-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1687 K, x(Si) 0.99736–1 | 3 | 1 |
+| [DIAMOND_A4](#phase-pb-si-a4-diamond); _phase:pb-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1687 K, x(Si) 0.99736–1 | 0 | 1 |
 | [BCC_A2](#phase-pb-si-bcc-a2); _phase:pb-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-pb-si-fcc-a1); _phase:pb-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–600.61 K, x(Si) 0–0 | 0 | 1 |
 | [HCP_A3](#phase-pb-si-hcp-a3); _phase:pb-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -23,11 +23,10 @@ Table: Phases of the Pb–Si system (5)
 - Id: `phase:pb-si:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1687 K, x(Si) 0.99736–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-si:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:pb-si:a4-diamond, corpus:phase:pb-si:diamond-a4  
-_paper: _paper:10.1007/bf02868551:Si-rich, paper:10.1007/bf02868551:Si-rich liquidus  
+Names (3): _corpus: _corpus:phase:pb-si:a4-diamond, corpus:phase:pb-si:diamond-a4  
 _tdb: _tdb:PbSi-84Ole-LB.tdb:DIAMOND_A4  
 
 
@@ -40,12 +39,10 @@ _tdb: _tdb:PbSi-84Ole-LB.tdb:DIAMOND_A4
 42: CONST DIAMOND_A4 : PB SI% : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02868551](https://doi.org/10.1007/BF02868551) R.W. Olesinski, G.J. Abbaschian, Bull. Alloy Phase Diag., 5, 271-73(1984).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1021/j100824a528](https://doi.org/10.1021/j100824a528) David H. Kirkwood, John Chipman, THE FREE ENERGY OF SILICON CARBIDE FROM ITS SOLUBILITY IN MOLTEN LEAD, J. Phys. Chem. 65, 1082-1084 (1961).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Pb–Si)
 

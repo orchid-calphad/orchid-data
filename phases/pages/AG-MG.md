@@ -19,10 +19,10 @@ Table: Phases of the Ag–Mg system (14)
 | [AGMG3_PRIME](#phase-ag-mg-agmg3-prime); _phase:ag-mg:agmg3-prime_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 728.46–771.93 K, x(Mg) 0.77–0.77 | 0 | 1 |
 | [AGMG4](#phase-ag-mg-agmg4); _phase:ag-mg:agmg4_ | Ag9Mg37 · hP116 · P6_3/m (176) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–759.7 K, x(Mg) 0.8–0.8 | 3 | 3 |
 | [AGMG4_PRIME](#phase-ag-mg-agmg4-prime); _phase:ag-mg:agmg4-prime_ | (AgMg4) · hP9 · P6_3 (173) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–545.98 K, x(Mg) 0.8–0.8 | 0 | 1 |
-| [BCC_A2](#phase-ag-mg-bcc-a2); _phase:ag-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 7 calculated diagram(s): 300–2500 K, x(Mg) 0.35895–0.85 | 0 | 7 |
+| [BCC_A2](#phase-ag-mg-bcc-a2); _phase:ag-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 300–2500 K, x(Mg) 0.35895–0.85 | 0 | 7 |
 | [B2_BCC](#phase-ag-mg-bcc-b2); _phase:ag-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Mg) 0.33499–0.85192 | 3 | 3 |
 | [FCC_4SL](#phase-ag-mg-fcc-4sl); _phase:ag-mg:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1242.27 K, x(Mg) 0–0.29851 | 0 | 2 |
-| [FCC_A1](#phase-ag-mg-fcc-a1); _phase:ag-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 7 calculated diagram(s): 300–1236.93 K, x(Mg) 0–0.29851 | 0 | 7 |
+| [FCC_A1](#phase-ag-mg-fcc-a1); _phase:ag-mg:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1236.93 K, x(Mg) 0–0.29851 | 0 | 7 |
 | [L12_FCC](#phase-ag-mg-fcc-l12); _phase:ag-mg:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1235.93 K, x(Mg) 0–0.28416 | 0 | 1 |
 | [HCP_A3](#phase-ag-mg-hcp-a3); _phase:ag-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2499.25 K, x(Mg) 0.9396–1 | 3 | 4 |
 | [LIQUID](#phase-ag-mg-liquid); _phase:ag-mg:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 702.65–2500 K, x(Mg) 0–1 | 98 | 4 |
@@ -269,7 +269,7 @@ _assessment that models this phase_
 
 - Id: `phase:ag-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 7 calculated diagram(s): 300–2500 K, x(Mg) 0.35895–0.85
+- Stability: stable in 3 of 4 calculated diagram(s): 300–2500 K, x(Mg) 0.35895–0.85
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-mg:bcc-a2)
 
@@ -433,7 +433,7 @@ _assessment that models this phase_
 
 - Id: `phase:ag-mg:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 4 of 7 calculated diagram(s): 300–1236.93 K, x(Mg) 0–0.29851
+- Stability: stable in 4 of 4 calculated diagram(s): 300–1236.93 K, x(Mg) 0–0.29851
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-mg:fcc-a1)
 

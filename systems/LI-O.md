@@ -93,10 +93,10 @@ Table: Heat capacity / entropy / enthalpy, Li–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S298.15_ | 37.89 J/mol (basis unstated)/K | 298.15 | Li2O; _alloy: O 0.333333_ | experimental | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 1 |  |
-| Entropy; _printed: S298.15_ | 36.5 J/mol (basis unstated)/K | 298.15 | Li2O; _alloy: O 0.333333_ | model | [1] Chang 2011 | Table 5, p. 5, row 2 |  |
-| Entropy; _printed: S298.15_ | 60.83 J/mol (basis unstated)/K | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011 | Table 5, p. 5, row 4 |  |
-| Entropy; _printed: S298.15_ | 56.484 unknown ± 4.2 | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 3 |  |
+| Entropy; _printed: S298.15_ | 12.63 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | experimental | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 1 |  |
+| Entropy; _printed: S298.15_ | 12.1667 J/mol-atom/K | 298.15 | Li2O; _alloy: O 0.333333_ | model | [1] Chang 2011 | Table 5, p. 5, row 2 |  |
+| Entropy; _printed: S298.15_ | 15.2075 J/mol-atom/K | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011 | Table 5, p. 5, row 4 |  |
+| Entropy; _printed: S298.15_ | 14.121 J/mol-atom/K ± 1.05 | 298.15 | Li2O2; _alloy: O 0.5_ | model | [1] Chang 2011; _cites This_ | Table 5, p. 5, row 3 |  |
 
 ## Sources
 

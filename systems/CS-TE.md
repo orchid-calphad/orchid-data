@@ -1,19 +1,19 @@
 # Cs–Te system
 
-> Cs–Te system: 68 accepted literature values (crystal structure 26, invariant reaction 16, phase transition 12, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cs–Te system: 64 accepted literature values (crystal structure 22, invariant reaction 16, phase transition 12, formation 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CS-TE.html · Markdown: https://data.orchid-project.org/systems/CS-TE.md
 
-68 accepted literature values from 1 paper(s) (experimental 49, model 15, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+64 accepted literature values from 1 paper(s) (experimental 49, model 11, unspecified 4); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (16)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CS-TE.json) · [CSV](https://data.orchid-project.org/systems/CS-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CS-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CS-TE/CsTe-15Pha.json) · [phases (15)](https://data.orchid-project.org/phases/pages/CS-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/systems/CS-TE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | experimental | 49 |
-| model | 15 |
+| model | 11 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | formation | 5 |
 | heat capacity / entropy / enthalpy | 5 |
 | activity / EMF / Gibbs energy | 2 |
-| crystal structure | 26 |
+| crystal structure | 22 |
 | other property | 2 |
 
 ## Calculated phase diagrams
@@ -94,8 +94,8 @@ Table: Enthalpies of formation, Cs–Te system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cs2Te | [Cs2Te](https://data.orchid-project.org/compounds/Cs2Te.html) | -120.467 kJ/mol-atom ± 3.2 | 298.15 | experimental | -109.246 (mp-aaabgqtv) | -99.985 (oqmd-1343671) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
-| Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 8.3 | 298.15 (>) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| Cs2Te | [Cs2Te](https://data.orchid-project.org/compounds/Cs2Te.html) | -120.467 kJ/mol-atom ± 1.06667 | 298.15 | experimental | -109.246 (mp-aaabgqtv) | -99.985 (oqmd-1343671) | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
+| Cs5Te3 | [Cs5Te3](https://data.orchid-project.org/compounds/Cs5Te3.html) | -117.775 kJ/mol-atom ± 1.0375 | 298.15 (>) | model | -107.426 (mp-aaacppvd) | -94.605 (oqmd-6410) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | Cs₂Te |  | -361.4 kJ/mol (basis unstated) ± 3.2 | 298.15 | experimental |  |  | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 1 |  |
 | Cs₅Te₃ |  | -942.2 kJ/mol (basis unstated) ± 8.3 | 298.15 (>) | model |  |  | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 | UNKNOWN |  | -117.775 kJ/mol-atom ± 8300 | 298.15 | experimental |  |  | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 8 |  |
@@ -128,7 +128,7 @@ Table: Heat capacity / entropy / enthalpy, Cs–Te system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Entropy; _printed: S0_ | 61.7 J/mol-atom/K | 298.15 | Cs2Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2 |  |
-| Entropy; _printed: S0_ | 60 J/mol-atom/K ± 5 | 298.15 | Cs5Te3; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
+| Entropy; _printed: S0_ | 60 J/mol-atom/K ± 0.625 | 298.15 | Cs5Te3; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
 | Entropy; _printed: S0_ | 185.1 J/mol (basis unstated)/K | 298.15 | Cs₂Te; _alloy: Te 0.333333_ | experimental | [1] Thi 2015; _cites Cordfunke 1987_ [doi](https://doi.org/10.1016/0021-9614%2887%2990121-2) | Table 3, p. 4, row 2 |  |
 | Entropy; _printed: S0_ | 480 J/mol (basis unstated)/K ± 5 | 298.15 | Cs₅Te₃; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
 | Entropy; _printed: S0_ | 480 unknown ± 5 | 298.15 | UNKNOWN; _alloy: Te 0.375_ | model | [1] Thi 2015; _cites R 1997_ | Table 3, p. 4, row 9 |  |
@@ -142,18 +142,16 @@ Table: Activity / EMF / Gibbs energy, Cs–Te system
 | Vapour pressure; _printed: P(Cs)/P(Cs2Te2)_ | 1 unspecified | 1105 | Cs2Te | experimental | [1] Thi 2015; _cites Ball 1992_ | p. 5 | “Comparing the results obtained by Portman et al. at 1146 K with the results of Drowart and Smoes at 1105 K, the maximum temperature reached in their experiments, some discrepancies are denoted: - The three major species in \[44\] are Cs, Cs2Te2 and Te with a ratio P(Cs)/P(Cs2Te2)E 2.5, the other minor species being CsTe2, CsTe, Te3, Cs2Te and Te2 by order of decreasing abundance, - The three major…” |
 | Vapour pressure; _printed: P(Cs)/P(Cs2Te2)_ | 2.5 unspecified | 1146 | Cs2Te | experimental | [1] Thi 2015; _cites Portman 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2985081-6) | p. 5 | “Comparing the results obtained by Portman et al. at 1146 K with the results of Drowart and Smoes at 1105 K, the maximum temperature reached in their experiments, some discrepancies are denoted: - The three major species in \[44\] are Cs, Cs2Te2 and Te with a ratio P(Cs)/P(Cs2Te2)E 2.5, the other minor species being CsTe2, CsTe, Te3, Cs2Te and Te2 by order of decreasing abundance,” |
 
-### Crystal structure (26)
+### Crystal structure (22)
 
 Table: Crystal structure, Cs–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 5.2 Å |  | β-CsTe; _β-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 6 |  |
-| Lattice a | 6.141 Å | 298.15 | (Cs); _(Cs): Cs 1, Te 0_ | model | [1] Thi 2015; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 4, row 1 |  |
 | Lattice a | 8.666 Å | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
 | Lattice a | 9.37 Å | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
 | Lattice a | 7.857 Å | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
-| Lattice a | 4.4566 Å | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
 | Lattice a | 9.109 Å | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
 | Lattice a | 21.11 Å | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
 | Lattice a | 11.1639 Å | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
@@ -166,13 +164,11 @@ Table: Crystal structure, Cs–Te system
 | Lattice c | 8.68 Å | 298.15 | Cs2Te3; _Cs2Te3: Cs 0.4, Te 0.6_ | experimental | [1] Thi 2015; _cites Bottcher 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990235-0) | Table 2, p. 4, row 8 |  |
 | Lattice c | 10.12 Å | 298.15 | Cs2Te5; _Cs2Te5: Cs 0.286, Te 0.714_ | model | [1] Thi 2015; _cites Kretschmann 1982_ [doi](https://doi.org/10.1002/zaac.19824910106) | Table 2, p. 4, row 9 |  |
 | Lattice c | 14.155 Å | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
-| Lattice c | 5.9264 Å | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
 | Lattice c | 5.867 Å | 298.15 | α-Cs2Te; _α-Cs2Te: Cs 0.667, Te 0.333_ | model | [1] Thi 2015; _cites Maeda 1994_ | Table 2, p. 4, row 3 |  |
 | Lattice c | 15.07 Å | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
 | Lattice c | 4.9669 Å | 298.15 | α-CsTe; _α-CsTe: Cs 0.509, Te 0.491_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 7 |  |
 | lattice beta | 93.83 ° | 298.15 | CsTe4; _CsTe4: Cs 0.2, Te 0.8_ | unspecified | [1] Thi 2015; _cites Bottcher 1985_ [doi](https://doi.org/10.1002/zaac.19855230418) | Table 2, p. 4, row 10 |  |
 | lattice beta | 134.53 ° | 298.15 | α-Cs5Te3; _α-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 5 |  |
-| lattice c a | 1.3289 not_printed | 298.15 | Te; _Te: Cs 0, Te 1_ | model | [1] Thi 2015; _cites Massalski 1990_ | Table 2, p. 4, row 11 |  |
 | lattice gamma | 90 ° |  | β-Cs5Te3; _β-Cs5Te3: Cs 0.625, Te 0.375_ | experimental | [1] Thi 2015; _cites R 1995_ | Table 2, p. 4, row 4 |  |
 
 ### Other property (2)

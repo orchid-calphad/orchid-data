@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/MgSr2.html · Markdown: https://data.orchid-project.org/compounds/MgSr2.md
 
-1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project -3.38 kJ/mol-atom (mp-aaacpobs); OQMD -3.366 kJ/mol-atom (oqmd-289795).
+1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project 9.104 kJ/mol-atom (mp-aaackgug); OQMD 7.951 kJ/mol-atom (oqmd-290200).
 
-Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
+Systems: [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of MgSr2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 36.4176 kJ/mol-atom | Sr2Mg-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
+| 36.4176 kJ/mol-atom | Sr2Mg-C14 | 0 | unspecified |  | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 19 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of MgSr2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 36.4176 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 36.4176 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of MgSr2
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacpobs | -3.38 | -0.035029 | I4/mmm | 1.078 | 0.0112 | yes |
-| OQMD | oqmd-289795 | -3.366 | -0.034889 | C2/m | 1.731 | 0.0179 | yes |
+| Materials Project | mp-aaackgug | 9.104 | 0.094354 | P6_3/mmc | 13.562 | 0.1406 | yes |
+| OQMD | oqmd-290200 | 7.951 | 0.082409 | P63/mmc | 13.0483 | 0.1352 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -68,11 +68,11 @@ Table: Enthalpies of formation, Si–Te system (5)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α-Si2Te3 |  | -18.4 kJ/mol-atom ± 13 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3 |  |
-| α-Si2Te3 |  | -17.8 kJ/mol-atom ± 19 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4 |  |
-| α-Si2Te3 |  | -14.4 kJ/mol-atom ± 5 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6 |  |
-| α-Si2Te3 |  | -14.2 kJ/mol-atom ± 6 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
-| α-Si2Te3 |  | -13.8 kJ/mol-atom ± 7 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
+| α-Si2Te3 |  | -18.4 kJ/mol-atom ± 2.6 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 3 |  |
+| α-Si2Te3 |  | -17.8 kJ/mol-atom ± 3.8 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites EXSTEEN 1967_ | Table 2, p. 9, row 4 |  |
+| α-Si2Te3 |  | -14.4 kJ/mol-atom ± 1 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 6 |  |
+| α-Si2Te3 |  | -14.2 kJ/mol-atom ± 1.2 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites OHARE 1993_ | Table 2, p. 9, row 7 |  |
+| α-Si2Te3 |  | -13.8 kJ/mol-atom ± 1.4 | 298.15 | experimental |  |  | [1] Feutelais 1999; _cites ref. 13_ | Table 2, p. 9, row 5 |  |
 
 ## Other properties
 

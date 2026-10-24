@@ -1,10 +1,10 @@
 # Au–Er system
 
-> Au–Er system: 30 accepted literature values (invariant reaction 25, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Er system: 73 accepted literature values (crystal structure 25, invariant reaction 25, formation 18, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-ER.html · Markdown: https://data.orchid-project.org/systems/AU-ER.md
 
-30 accepted literature values from 1 paper(s) (experimental 16, model 14); 1 calculated phase diagram(s).
+73 accepted literature values from 1 paper(s) (experimental 22, model 14, DFT 37); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-ER.json) · [CSV](https://data.orchid-project.org/systems/AU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-ER/AuEr-11Don.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-ER.html) · [Markdown](https://data.orchid-project.org/systems/AU-ER.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
+| experimental | 22 |
 | model | 14 |
+| DFT | 37 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 25 |
 | phase transition | 5 |
+| formation | 18 |
+| crystal structure | 25 |
 
 ## Calculated phase diagrams
 
@@ -86,6 +89,33 @@ Table: Invariant reactions reported in the literature for the Au–Er system (25
 | 1078 | L ⇔ Au4Er + Au(fcc) | L: Au 0.895; Au4Er: Au 0.8, Er 0.2; Au(fcc): Au 0.929 | model | [1] Dong 2011 | Table 5, p. 5, row 25 |  |
 | 1078 | L ⇔ Au4Er + Au(fcc) | L: Au 0.89; Au4Er: Au 0.8, Er 0.2; Au(fcc): Au 0.945 | experimental | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 5, p. 5, row 23 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Au–Er system (18)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Au2Er |  | -88.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| Au2Er |  | -86 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 25 |  |
+| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -85.9 kJ/mol-atom ± 1.9 | 298.15 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 26 |  |
+| Au2Er | [Au2Er](https://data.orchid-project.org/compounds/Au2Er.html) | -79 kJ/mol-atom | 298.15 | experimental | -84.933 (mp-aaaaadqw) | -85.367 (oqmd-1979285) | [1] Dong 2011 | Table 1, p. 3, row 27 |  |
+| Au3Er |  | -73 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Au3Er |  | -71.1 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
+| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -66.1 kJ/mol-atom ± 1.9 | 298.15 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
+| Au3Er | [Au3Er](https://data.orchid-project.org/compounds/Au3Er.html) | -65.9 kJ/mol-atom | 298.15 | experimental | -69.749 (mp-aaacjmto) | -69.851 (oqmd-28151) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
+| Au4Er |  | -60.3 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| Au4Er |  | -59.2 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
+| AuEr2 |  | -67 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| AuEr2 |  | -52.2 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 13 |  |
+| αAuEr |  | -90.9 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| αAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -90.2 kJ/mol-atom ± 1.9 | 298.15 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 17 |  |
+| αAuEr |  | -77 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 16 |  |
+| βAuEr |  | -88.6 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
+| βAuEr |  | -87.7 kJ/mol-atom |  | DFT |  |  | [1] Dong 2011 | Table 1, p. 3, row 20 |  |
+| βAuEr | [AuEr](https://data.orchid-project.org/compounds/AuEr.html) | -85.1 kJ/mol-atom | 298.15 | experimental | -86.805 (mp-aaaaaqql) | -86.693 (oqmd-10719) | [1] Dong 2011 | Table 1, p. 3, row 21 |  |
+
 ## Other properties
 
 ### Phase transition (5)
@@ -99,6 +129,38 @@ Table: Phase transition, Au–Er system
 | Phase transition | 1623 K | 1623 |  | experimental | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | p. 5 | “The values 1623 K and 1583 K reported in Ref. \[6\] were based on the cooling curve of the DTA analysis.” |
 | Phase transition | 1640 K | 1640 |  | model | [1] Dong 2011 | p. 5 | “As for the temperature of the two reactions involving Au10 Er7 reported in Ref. \[6\] these were modified to be 1640 K and 1601 K, respectively.” |
 | Phase transition | 1983 K | 1983 |  | model | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | p. 2 | “Later, in 1971, McMasters et al. \[12\] reported the crystal structures of the intermetallic compounds in the Au-Er system, except for that of Au10 Er7 and further established the melting point of AuEr as 1983 ± 10 K.” |
+
+### Crystal structure (25)
+
+Table: Crystal structure, Au–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 10.17 Å |  | Au10Er7; _alloy: Er 0.411765_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
+| Lattice a; _printed: a_ | 3.663 Å |  | Au2Er; _alloy: Er 0.333333_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 28 |  |
+| Lattice a; _printed: Lattice parameter a_ | 3.663 Å | 0 | Au2Er; _alloy: Er 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| Lattice a; _printed: a_ | 6.029 Å |  | Au3Er; _alloy: Er 0.25_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
+| Lattice a; _printed: a_ | 6.029 Å | 0 | Au3Er; _alloy: Er 0.25_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice a; _printed: a_ | 6.636 Å |  | Au4Er; _alloy: Er 0.2_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 36 |  |
+| Lattice a; _printed: Lattice parameter a_ | 6.636 Å | 0 | Au4Er; _alloy: Er 0.2_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| Lattice a; _printed: Lattice parameter a_ | 6.996 Å | 0 | AuEr2; _alloy: Er 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice a; _printed: a_ | 6.996 Å |  | AuEr2; _alloy: Er 0.666667_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 3.65 Å |  | αAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
+| Lattice a; _printed: a_ | 3.65 Å | 0 | αAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| Lattice a; _printed: a_ | 3.535 Å |  | βAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 22 |  |
+| Lattice a; _printed: a_ | 3.535 Å | 0 | βAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 19 |  |
+| Lattice b; _printed: b_ | 4.949 Å |  | Au3Er; _alloy: Er 0.25_ | DFT | [1] Dong 2011; _cites Sadagopan 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990033-7) | Table 1, p. 3, row 33 |  |
+| Lattice b; _printed: b_ | 4.949 Å | 0 | Au3Er; _alloy: Er 0.25_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice b; _printed: Lattice parameter b_ | 4.869 Å | 0 | AuEr2; _alloy: Er 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice b; _printed: b_ | 4.869 Å |  | AuEr2; _alloy: Er 0.666667_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 14 |  |
+| Lattice b; _printed: b_ | 10.81 Å |  | αAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011; _cites McMasters 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990125-1) | Table 1, p. 3, row 18 |  |
+| Lattice b; _printed: b_ | 10.81 Å | 0 | αAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
+| Lattice c; _printed: c_ | 27.63 Å |  | Au10Er7; _alloy: Er 0.411765_ | DFT | [1] Dong 2011; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 3, row 23 |  |
+| Lattice c; _printed: c_ | 8.916 Å | 0 | Au2Er; _alloy: Er 0.333333_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 24 |  |
+| Lattice c; _printed: Lattice parameter c_ | 5.079 Å | 0 | Au3Er; _alloy: Er 0.25_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| Lattice c; _printed: c_ | 4.149 Å | 0 | Au4Er; _alloy: Er 0.2_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| Lattice c; _printed: Lattice parameter c_ | 8.802 Å | 0 | AuEr2; _alloy: Er 0.666667_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 12 |  |
+| Lattice c; _printed: Lattice parameter c_ | 4.58 Å | 0 | αAuEr; _alloy: Er 0.5_ | DFT | [1] Dong 2011 | Table 1, p. 3, row 15 |  |
 
 ## Sources
 

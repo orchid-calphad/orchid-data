@@ -83,8 +83,8 @@ Table: Enthalpies of formation, Fe–Pd system (4)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | FePd | [FePd](https://data.orchid-project.org/compounds/FePd.html) | -13.735 kJ/mol-atom | 298.15 | model | -6.145 (mp-aaaaaeex) | -6.376 (oqmd-116604) | [1] Ghosh 1999 | Table 2, p. 7, row 1 |  |
 | FePd | [FePd](https://data.orchid-project.org/compounds/FePd.html) | -6 kJ/mol-atom | 298.15 | model | -6.145 (mp-aaaaaeex) | -6.376 (oqmd-116604) | [1] Ghosh 1999; _cites F 1988_ | Table 2, p. 7, row 2 |  |
-| FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -22.01 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.694 (oqmd-2169161) | [1] Ghosh 1999 | Table 2, p. 7, row 3 |  |
-| FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -4 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.694 (oqmd-2169161) | [1] Ghosh 1999; _cites F 1988_ | Table 2, p. 7, row 4 |  |
+| FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -22.01 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.407 (oqmd-30235) | [1] Ghosh 1999 | Table 2, p. 7, row 3 |  |
+| FePd3 | [FePd3](https://data.orchid-project.org/compounds/FePd3.html) | -4 kJ/mol-atom | 298.15 | model | -10.445 (mp-aaaabgif) | -10.407 (oqmd-30235) | [1] Ghosh 1999; _cites F 1988_ | Table 2, p. 7, row 4 |  |
 
 ## Other properties
 

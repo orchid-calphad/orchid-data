@@ -1,10 +1,10 @@
 # La–Pr–Si system
 
-> La–Pr–Si system: 58 accepted literature values (invariant reaction 58) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Pr–Si system: 55 accepted literature values (invariant reaction 55) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-PR-SI.html · Markdown: https://data.orchid-project.org/systems/LA-PR-SI.md
 
-58 accepted literature values from 1 paper(s) (model 15, unspecified 43); 0 calculated phase diagram(s).
+55 accepted literature values from 1 paper(s) (model 14, unspecified 41); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-PR-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-PR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-PR-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-PR-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-PR-SI.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 15 |
-| unspecified | 43 |
+| model | 14 |
+| unspecified | 41 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 58 |
+| invariant reaction | 55 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Pr–Si system (58)
+Table: Invariant reactions reported in the literature for the La–Pr–Si system (55)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -56,9 +56,6 @@ Table: Invariant reactions reported in the literature for the La–Pr–Si syste
 | 1689.85 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 51 |  |
 | 1685.15 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 47_ | Table 4, p. 10, row 53 |  |
 | 1670.75 | peritectic: L + Pr5Si4 -> Pr5Si3 |  | model | [1] Xu 2020 | Table 4, p. 10, row 50 |  |
-| 1625.15 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 68 |  |
-| 1619.65 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 67 |  |
-| 1610.85 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 66 |  |
 | 1601.55 | peritectic: L + La5Si4 -> La3Si2 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 13 |  |
 | 1596.45 | peritectic: L + La5Si4 -> La3Si2 |  | model | [1] Xu 2020 | Table 4, p. 10, row 12 |  |
 | 1589.15 | peritectic: L + La3Si2 -> La5Si3 |  | unspecified | [1] Xu 2020; _cites ref. 23_ | Table 4, p. 10, row 11 |  |

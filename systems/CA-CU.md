@@ -1,10 +1,10 @@
 # Ca–Cu system
 
-> Ca–Cu system: 7 accepted literature values (invariant reaction 5, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Cu system: 6 accepted literature values (invariant reaction 5, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CU.html · Markdown: https://data.orchid-project.org/systems/CA-CU.md
 
-7 accepted literature values from 1 paper(s) (experimental 7); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+6 accepted literature values from 1 paper(s) (experimental 6); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CU.json) · [CSV](https://data.orchid-project.org/systems/CA-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CU/CaCu-96Ris-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CU.html) · [Markdown](https://data.orchid-project.org/systems/CA-CU.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
+| experimental | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| phase transition | 2 |
+| phase transition | 1 |
 
 ## Calculated phase diagrams
 
@@ -76,13 +76,12 @@ Table: Invariant reactions reported in the literature for the Ca–Cu system (5)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (1)
 
 Table: Phase transition, Ca–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 728 K | 728 | Ca | experimental | [1] Risold 1996 | p. 2 | “Bruzzone reports that the ,0Ca to &a transition in equilibrium with CasCu occurs at 728 K, which is 12 K higher than the value for pure Ca used in this work \[SlDin\].” |
 | Phase transition | 1223 K | 1223 | congruent melting | experimental | [1] Risold 1996 | p. 2 | “Bruzzone and Kuznetzov et al. report in perfect agreement that CaCus melts congruently at 1223 K.” |
 
 ## Sources

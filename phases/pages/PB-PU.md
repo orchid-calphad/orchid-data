@@ -23,7 +23,7 @@ Table: Phases of the Pb–Pu system (15)
 | [PB3PU5_D8M](#phase-pb-pu-pb3pu5-d8m); _phase:pb-pu:pb3pu5-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1608.58 K, x(Pu) 0.625–0.625 | 4 | 1 |
 | [PB4PU5](#phase-pb-pu-pb4pu5); _phase:pb-pu:pb4pu5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1658.28 K, x(Pu) 0.55556–0.55556 | 6 | 1 |
 | [PB5PU4](#phase-pb-pu-pb5pu4); _phase:pb-pu:pb5pu4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1461.97 K, x(Pu) 0.40602–0.44444 | 4 | 1 |
-| [PBPU3_L12](#phase-pb-pu-pbpu3-l12); _phase:pb-pu:pbpu3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1170.74 K, x(Pu) 0.75–0.75 | 6 | 1 |
+| [PBPU3_L12](#phase-pb-pu-pbpu3-l12); _phase:pb-pu:pbpu3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1170.74 K, x(Pu) 0.75–0.75 | 2 | 1 |
 | [ALPHA_PU](#phase-pb-pu-pu-alpha); _phase:pb-pu:pu-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–397.62 K, x(Pu) 1–1 | 0 | 1 |
 | [BETA_PU](#phase-pb-pu-pu-beta); _phase:pb-pu:pu-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 397.62–487.9 K, x(Pu) 1–1 | 0 | 1 |
 | [GAMMA_PU](#phase-pb-pu-pu-gamma); _phase:pb-pu:pu-gamma_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 487.9–728.06 K, x(Pu) 1–1 | 0 | 1 |
@@ -345,7 +345,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabdzi and oqmd-17917, space group 221
 - Stoichiometry: Pb 0.2500, Pu 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1170.74 K, x(Pu) 0.75–0.75
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-pu:pbpu3-l12)
 
 Names (5): _corpus: _corpus:phase:pb-pu:pbpu3-l12  

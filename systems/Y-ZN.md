@@ -1,10 +1,10 @@
 # Y–Zn system
 
-> Y–Zn system: 135 accepted literature values (formation 80, invariant reaction 55) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Y–Zn system: 152 accepted literature values (formation 80, invariant reaction 51, crystal structure 21) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/Y-ZN.html · Markdown: https://data.orchid-project.org/systems/Y-ZN.md
 
-135 accepted literature values from 2 paper(s) (experimental 79, model 56); 2 calculated phase diagram(s).
+152 accepted literature values from 2 paper(s) (experimental 76, model 55, unspecified 21); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/Y-ZN.json) · [CSV](https://data.orchid-project.org/systems/Y-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#Y-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#Y-ZN/YZn-06Sha.json) · [phases (13)](https://data.orchid-project.org/phases/pages/Y-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/Y-ZN.html) · [Markdown](https://data.orchid-project.org/systems/Y-ZN.md)
 
@@ -12,15 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 79 |
-| model | 56 |
+| experimental | 76 |
+| model | 55 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
+| invariant reaction | 51 |
 | formation | 80 |
+| crystal structure | 21 |
 
 ## Calculated phase diagrams
 
@@ -95,7 +97,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Y–Zn system (55)
+Table: Invariant reactions reported in the literature for the Y–Zn system (51)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -150,10 +152,6 @@ Table: Invariant reactions reported in the literature for the Y–Zn system (55)
 | 903.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 54 |  |
 | 903.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 55 |  |
 | 823.15 | polymorphic: βYZn2 -> αYZn2 (in the YZn2–YZn3 region) | βYZn2: Y 0.333333, Zn 0.666667; αYZn2: Y 0.333333, Zn 0.666667 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 53 |  |
-| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | model | [1] Liu 2008 | Table 3, p. 5, row 44 |  |
-| 693.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 3, p. 5, row 46 |  |
-| 692.73 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 3, p. 5, row 47 |  |
-| 692.15 | congruent melting: L -> hcp - Zn | L: Zn 1 | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 3, p. 5, row 45 |  |
 
 ## Formation enthalpies
 
@@ -172,9 +170,9 @@ Table: Enthalpies of formation, Y–Zn system (27)
 | Y3Zn11 | [Y3Zn11](https://data.orchid-project.org/compounds/Y3Zn11.html) | -40 kJ/mol-atom ± 2 | 298.15 | experimental | -33.683 (mp-aaackuls) | -33.029 (oqmd-1454495) | [2] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 14 |  |
 | Y3Zn11 | [Y3Zn11](https://data.orchid-project.org/compounds/Y3Zn11.html) | -38.743 kJ/mol-atom |  | model | -33.683 (mp-aaackuls) | -33.029 (oqmd-1454495) | [2] Shao 2006 | Table 2, p. 4, row 13 |  |
 | Y3Zn11 | [Y3Zn11](https://data.orchid-project.org/compounds/Y3Zn11.html) | -36 kJ/mol-atom |  | model | -33.683 (mp-aaackuls) | -33.029 (oqmd-1454495) | [2] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 15 |  |
-| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -54 kJ/mol-atom |  | model | -35.389 (mp-aaaaadsu) | -35.047 (oqmd-1975095) | [2] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 3 |  |
-| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -48 kJ/mol-atom ± 2 | 298.15 | experimental | -35.389 (mp-aaaaadsu) | -35.047 (oqmd-1975095) | [2] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 2 |  |
-| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -47 kJ/mol-atom |  | model | -35.389 (mp-aaaaadsu) | -35.047 (oqmd-1975095) | [2] Shao 2006 | Table 2, p. 4, row 1 |  |
+| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -54 kJ/mol-atom |  | model | -35.389 (mp-aaaaadsu) | -35.032 (oqmd-31121) | [2] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 3 |  |
+| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -48 kJ/mol-atom ± 2 | 298.15 | experimental | -35.389 (mp-aaaaadsu) | -35.032 (oqmd-31121) | [2] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 2 |  |
+| YZn | [YZn](https://data.orchid-project.org/compounds/YZn.html) | -47 kJ/mol-atom |  | model | -35.389 (mp-aaaaadsu) | -35.032 (oqmd-31121) | [2] Shao 2006 | Table 2, p. 4, row 1 |  |
 | YZn12 | [YZn12](https://data.orchid-project.org/compounds/YZn12.html) | -23.07 kJ/mol-atom |  | model | -17.93 (mp-aaaabtry) | -17.693 (oqmd-18184) | [2] Shao 2006 | Table 2, p. 4, row 25 |  |
 | YZn12 | [YZn12](https://data.orchid-project.org/compounds/YZn12.html) | -23 kJ/mol-atom ± 2 | 298.15 | experimental | -17.93 (mp-aaaabtry) | -17.693 (oqmd-18184) | [2] Shao 2006; _cites Mason 1976_ [doi](https://doi.org/10.1007/bf02644469) | Table 2, p. 4, row 26 |  |
 | YZn12 | [YZn12](https://data.orchid-project.org/compounds/YZn12.html) | -13 kJ/mol-atom |  | model | -17.93 (mp-aaaabtry) | -17.693 (oqmd-18184) | [2] Shao 2006; _cites F 1988_ | Table 2, p. 4, row 27 |  |
@@ -252,6 +250,34 @@ Table: Formation, Y–Zn system
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -21 kJ/mol-atom ± 1 | 1173.15 | YZn5; _alloy: Zn 0.833333_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 39 |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32 kJ/mol-atom ± 1 | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | experimental | [1] Liu 2008; _cites Chiotti 1963_ | Table 4, p. 5, row 14 |  |
 | Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.2 kJ/mol-atom | 1173.15 | βYZn2; _alloy: Zn 0.666667_ | model | [1] Liu 2008 | Table 4, p. 5, row 13 |  |
+
+### Crystal structure (21)
+
+Table: Crystal structure, Y–Zn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 14.28 Å | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
+| Lattice a | 8.911 Å | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
+| Lattice a | 4.388 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
+| Lattice a | 3.578 Å | 298.15 | YZn; _alloy: Y 0.5, Zn 0.5_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 4 |  |
+| Lattice a | 8.875 Å | 298.15 | YZn12; _alloy: Y 0.076923, Zn 0.923077_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 12 |  |
+| Lattice a | 6.69 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
+| Lattice a | 8.885 Å | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
+| Lattice a | 4.504 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
+| Lattice b | 12.929 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
+| Lattice b | 4.405 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
+| Lattice b | 7.143 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
+| Lattice c | 14 Å | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
+| Lattice c | 8.764 Å | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.871 Å | 298.15 | Y3Zn11; _alloy: Y 0.214286, Zn 0.785714_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 8 |  |
+| Lattice c | 5.192 Å | 298.15 | YZn12; _alloy: Y 0.076923, Zn 0.923077_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 12 |  |
+| Lattice c | 10.111 Å | 298.15 | YZn3; _alloy: Y 0.25, Zn 0.75_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 7 |  |
+| Lattice c | 9.201 Å | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
+| Lattice c | 7.664 Å | 298.15 | αYZn2; _alloy: Y 0.333333, Zn 0.666667_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 5 |  |
+| lattice gamma | 120 ° | 298.15 | Y13Zn58 (Y2Zn9) | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 9 |  |
+| lattice gamma | 120 ° | 298.15 | Y2Zn17; _alloy: Y 0.105263, Zn 0.894737_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 11 |  |
+| lattice gamma | 120 ° | 298.15 | YZn5; _alloy: Y 0.166667, Zn 0.833333_ | unspecified | [2] Shao 2006; _cites Tsai 2000_ [doi](https://doi.org/10.1080/01418610008212098) | Table 1, p. 2, row 10 |  |
 
 ## Sources
 

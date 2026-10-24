@@ -1,10 +1,10 @@
 # Cu–Mg system
 
-> Cu–Mg system: 38 accepted literature values (invariant reaction 22, phase transition 14, formation 2) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Mg system: 36 accepted literature values (invariant reaction 22, phase transition 14) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-MG.html · Markdown: https://data.orchid-project.org/systems/CU-MG.md
 
-38 accepted literature values from 2 paper(s) (experimental 16, model 15, DFT 2, unspecified 5); 6 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+36 accepted literature values from 2 paper(s) (experimental 16, model 15, unspecified 5); 6 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-MG.json) · [CSV](https://data.orchid-project.org/systems/CU-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-MG/CuMg-07Zho.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CU-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-MG.html) · [Markdown](https://data.orchid-project.org/systems/CU-MG.md)
 
@@ -14,7 +14,6 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 16 |
 | model | 15 |
-| DFT | 2 |
 | unspecified | 5 |
 
 Table: Accepted values by property group
@@ -23,7 +22,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 22 |
 | phase transition | 14 |
-| formation | 2 |
 
 ## Calculated phase diagrams
 
@@ -101,17 +99,6 @@ Table: Invariant reactions reported in the literature for the Cu–Mg system (22
 | 758 | Liq -> hcp + CuMg2-Cb | L: Mg 0.855; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | experimental | [1] Zhou 2007; _cites Jones 1931_ | Table 5, p. 6, row 31 |  |
 | 757.3 | Liq -> hcp + CuMg2-Cb | L: Mg 0.838; hcp: Mg 1; CuMg2-Cb: Mg 0.667 | model | [1] Zhou 2007 | Table 5, p. 6, row 26 |  |
 | 753 | Liq -> hcp + CuMg2-Cb | CuMg2-Cb: Mg 0.666667 | experimental | [1] Zhou 2007; _cites Urazova 1907_ | Table 5, p. 6, row 29 |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, Cu–Mg system (2)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu-fcc |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2007 | Table 1, p. 4, row 1 |  |
-| Mg-hcp |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Zhou 2007 | Table 1, p. 4, row 2 |  |
 
 ## Other properties
 

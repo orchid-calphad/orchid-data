@@ -1,10 +1,10 @@
 # Al–Ga system
 
-> Al–Ga system: 3 accepted literature values (invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ga system: 6 accepted literature values (crystal structure 3, invariant reaction 3) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-GA.html · Markdown: https://data.orchid-project.org/systems/AL-GA.md
 
-3 accepted literature values from 3 paper(s) (experimental 2, model 1); 3 calculated phase diagram(s).
+6 accepted literature values from 3 paper(s) (experimental 2, model 4); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-GA.json) · [CSV](https://data.orchid-project.org/systems/AL-GA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-GA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-GA/AlGa-00Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/AL-GA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-GA.html) · [Markdown](https://data.orchid-project.org/systems/AL-GA.md)
 
@@ -13,13 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 1 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
+| crystal structure | 3 |
 
 ## Calculated phase diagrams
 
@@ -44,6 +45,18 @@ Table: Invariant reactions reported in the literature for the Al–Ga system (3)
 | 303 | eutectic |  | model | [1] Moussa 2018; _cites Massalski 1990_ | p. 2 | “It is characterized by a rather limited solubility of Ga into solid Al to a maximum of about 9 at.% and an eutectic reaction at 303 K.” |
 | 300 | eutectic |  | experimental | [2] Watson 1992; _cites ref. 5_ | p. 3 | “The experimental determinations of the eutectic point 5-9 11-13 at around 300 K and at a gallium content of approxtmately 97 at% are in very close agreement wtt \*b\* each otbcr.” |
 | 298.5 | eutectic |  | experimental | [3] Mathon 2000 | p. 6 | “The melting temperature of Ga at 303 K and the Al-Ga binary eutectic at 298.5 K and the Ga-Zn eutectic at 297.3 K, lead to the appearance of two-phases and three-phases fields.” |
+
+## Other properties
+
+### Crystal structure (3)
+
+Table: Crystal structure, Al–Ga system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice b | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
+| Lattice c | 4.041 Å | 933 (\<) | Al; _Al: Ga 0.01_ | model | [1] Moussa 2018; _cites Massalski 1990_ | Table 1, p. 3, row 4 |  |
 
 ## Sources
 

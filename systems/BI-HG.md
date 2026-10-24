@@ -1,10 +1,10 @@
 # Bi–Hg system
 
-> Bi–Hg system: 5 accepted literature values (phase equilibrium 3, phase transition 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Hg system: 4 accepted literature values (phase equilibrium 3, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-HG.html · Markdown: https://data.orchid-project.org/systems/BI-HG.md
 
-5 accepted literature values from 1 paper(s) (experimental 3, model 2); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 3, model 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-HG.json) · [CSV](https://data.orchid-project.org/systems/BI-HG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-HG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-HG/BiHg-02Mai.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-HG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-HG.html) · [Markdown](https://data.orchid-project.org/systems/BI-HG.md)
 
@@ -13,13 +13,12 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 3 |
-| model | 2 |
+| model | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 1 |
 | phase transition | 1 |
 | phase equilibrium | 3 |
 
@@ -35,14 +34,6 @@ Table: Assessments with a calculated phase diagram
 | BiHg-80Che-LB.tdb | P.-Y. Chevalier, unpublished work, 1980. | `a10ad94ad23b9638c800c057c4e8dc02cae77f49761eec9b2a9cb55721f1ee60` | [viewer](https://orchid-project.org/phase-diagrams/#BI-HG/BiHg-80Che-LB.json) · [TDB](https://orchid-project.org/data/databases/sgte-binary/BiHg-80Che-LB.tdb) · [JSON](https://data.orchid-project.org/phase-diagrams/sgte/BiHg-80Che-LB.json) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/BI/BI-HG.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/BI/BI-HG.json) · [CALPHAD hull BiHg-80Che-LB](https://data.orchid-project.org/hulls/calphad-sgte/BI/BI-HG--BiHg-80Che-LB.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Bi–Hg system (1)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 233.5 | eutectic | Rhombo_A10(Hg): Hg 1; Rhombo_A7(Bi): Hg 1; Liquid: Hg 0.996 | model | [1] Maitre 2002 | Table 5, p. 4, row 1 |  |
 
 ## Other properties
 

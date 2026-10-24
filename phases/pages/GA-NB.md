@@ -15,12 +15,12 @@ Table: Phases of the Ga–Nb system (12)
 | [ORTHORHOMBIC_A11](#phase-ga-nb-a11-orthorhombic); _phase:ga-nb:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–302.91 K, x(Nb) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-ga-nb-bcc-a2); _phase:ga-nb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3005 K, x(Nb) 0.84335–1 | 0 | 1 |
 | [FCC_A1](#phase-ga-nb-fcc-a1); _phase:ga-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [GA13NB5](#phase-ga-nb-ga13nb5); _phase:ga-nb:ga13nb5_ | Ga13Nb5 · oC36 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1531.43 K, x(Nb) 0.27778–0.27778 | 0 | 1 |
+| [GA13NB5](#phase-ga-nb-ga13nb5); _phase:ga-nb:ga13nb5_ | Ga13Nb5 · oC36 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1531.43 K, x(Nb) 0.27778–0.27778 | 4 | 1 |
 | [GA3NB_D022](#phase-ga-nb-ga3nb-d022); _phase:ga-nb:ga3nb-d022_ | Al3Ti · D0_22 · tI8 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1393.64 K, x(Nb) 0.25–0.25 | 0 | 1 |
 | [GA3NB5_D8M](#phase-ga-nb-ga3nb5-d8m); _phase:ga-nb:ga3nb5-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2202.28 K, x(Nb) 0.625–0.625 | 0 | 1 |
-| [GA4NB](#phase-ga-nb-ga4nb); _phase:ga-nb:ga4nb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1446.2–1544.7 K, x(Nb) 0.2–0.2 | 0 | 1 |
-| [GA4NB5](#phase-ga-nb-ga4nb5); _phase:ga-nb:ga4nb5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1804.68 K, x(Nb) 0.55556–0.55556 | 0 | 1 |
-| [GA5NB4](#phase-ga-nb-ga5nb4); _phase:ga-nb:ga5nb4_ | Ga5Nb4 · tP144 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1567.57 K, x(Nb) 0.44444–0.44444 | 0 | 1 |
+| [GA4NB](#phase-ga-nb-ga4nb); _phase:ga-nb:ga4nb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1446.2–1544.7 K, x(Nb) 0.2–0.2 | 2 | 1 |
+| [GA4NB5](#phase-ga-nb-ga4nb5); _phase:ga-nb:ga4nb5_ | Ga4Ti5 · hP18 · P6_3/mcm (193) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1804.68 K, x(Nb) 0.55556–0.55556 | 2 | 1 |
+| [GA5NB4](#phase-ga-nb-ga5nb4); _phase:ga-nb:ga5nb4_ | Ga5Nb4 · tP144 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1567.57 K, x(Nb) 0.44444–0.44444 | 4 | 1 |
 | [GANB3_A15](#phase-ga-nb-ganb3-a15); _phase:ga-nb:ganb3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2126.41 K, x(Nb) 0.75094–0.80218 | 0 | 1 |
 | [HCP_A3](#phase-ga-nb-hcp-a3); _phase:ga-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ga-nb-liquid); _phase:ga-nb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.91–4000 K, x(Nb) 0–1 | 0 | 1 |
@@ -112,10 +112,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.7222, Nb 0.2778
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1531.43 K, x(Nb) 0.27778–0.27778
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-nb:ga13nb5)
 
-Names (2): _corpus: _corpus:phase:ga-nb:ga13nb5  
+Names (3): _corpus: _corpus:phase:ga-nb:ga13nb5  
+_paper: _paper:10.1016/j.calphad.2023.102596:Ga13Nb5  
 _tdb: _tdb:GaNb-23Tam.tdb:GA13NB5  
 
 
@@ -131,7 +132,7 @@ _tdb: _tdb:GaNb-23Tam.tdb:GA13NB5
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GA3NB_D022 (Ga–Nb)
 
@@ -194,13 +195,15 @@ _assessment that models this phase_
 
 - Id: `phase:ga-nb:ga4nb`; status `needs_review`
 - No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token; sgte_mmc2_row_incomplete
+- Candidate (literature_printed): (Ga4Nb) · ? — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): (Ga4Nb) — Hallstedt 2025 mmc2 row for GA4NB: Ga4Nb
 - Stoichiometry: Ga 0.8000, Nb 0.2000
 - Stability: stable in 1 of 1 calculated diagram(s): 1446.2–1544.7 K, x(Nb) 0.2–0.2
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-nb:ga4nb)
 
-Names (2): _corpus: _corpus:phase:ga-nb:ga4nb  
+Names (3): _corpus: _corpus:phase:ga-nb:ga4nb  
+_paper: _paper:10.1016/j.calphad.2023.102596:ht_Ga4Nb  
 _tdb: _tdb:GaNb-23Tam.tdb:GA4NB  
 
 
@@ -216,7 +219,7 @@ _tdb: _tdb:GaNb-23Tam.tdb:GA4NB
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GA4NB5 (Ga–Nb)
 
@@ -226,10 +229,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.4444, Nb 0.5556
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1804.68 K, x(Nb) 0.55556–0.55556
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-nb:ga4nb5)
 
-Names (2): _corpus: _corpus:phase:ga-nb:ga4nb5  
+Names (3): _corpus: _corpus:phase:ga-nb:ga4nb5  
+_paper: _paper:10.1016/j.calphad.2023.102596:Ga4Nb5  
 _tdb: _tdb:GaNb-23Tam.tdb:GA4NB5  
 
 
@@ -245,7 +249,7 @@ _tdb: _tdb:GaNb-23Tam.tdb:GA4NB5
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GA5NB4 (Ga–Nb)
 
@@ -255,10 +259,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.5556, Nb 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1567.57 K, x(Nb) 0.44444–0.44444
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-nb:ga5nb4)
 
-Names (2): _corpus: _corpus:phase:ga-nb:ga5nb4  
+Names (3): _corpus: _corpus:phase:ga-nb:ga5nb4  
+_paper: _paper:10.1016/j.calphad.2023.102596:Ga5Nb4  
 _tdb: _tdb:GaNb-23Tam.tdb:GA5NB4  
 
 
@@ -274,7 +279,7 @@ _tdb: _tdb:GaNb-23Tam.tdb:GA5NB4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## GANB3_A15 (Ga–Nb)
 

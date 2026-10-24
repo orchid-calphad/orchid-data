@@ -1,10 +1,10 @@
 # Au–Ru system
 
-> Au–Ru system: 29 accepted literature values (phase equilibrium 19, phase transition 6, crystal structure 3, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ru system: 27 accepted literature values (phase equilibrium 19, phase transition 6, crystal structure 1, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-RU.html · Markdown: https://data.orchid-project.org/systems/AU-RU.md
 
-29 accepted literature values from 1 paper(s) (experimental 5, model 21, unspecified 3); 2 calculated phase diagram(s).
+27 accepted literature values from 1 paper(s) (experimental 5, model 21, unspecified 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-RU.json) · [CSV](https://data.orchid-project.org/systems/AU-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-RU/AuRu-84Oka.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AU-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-RU.html) · [Markdown](https://data.orchid-project.org/systems/AU-RU.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 5 |
 | model | 21 |
-| unspecified | 3 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 1 |
 | phase transition | 6 |
 | phase equilibrium | 19 |
-| crystal structure | 3 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -96,15 +96,13 @@ Table: Phase equilibrium, Au–Ru system
 | Phase composition |  | 3473.15 | L1 (L1/L1 + L2) + L2 (L2/L1 + L2) + L1 + L2; _L1 (L1/L1 + L2): Au 0.666, Ru 0.334; L2 (L2/L1 + L2): Au 0.253, Ru 0.747; L1: Au 0.666, Ru 0.334; L2: Au 0.253, Ru 0.747_ | model | [1] Okamoto 1984 | Table 4, p. 3, row 16 |  |
 | Phase composition |  | 3673.15 | L1 (L1/L1 + L2) + L2 (L2/L1 + L2) + L1 + L2; _L1 (L1/L1 + L2): Au 0.529, Ru 0.471; L2 (L2/L1 + L2): Au 0.377, Ru 0.623; L1: Au 0.529, Ru 0.471; L2: Au 0.377, Ru 0.623_ | model | [1] Okamoto 1984 | Table 4, p. 3, row 15 |  |
 
-### Crystal structure (3)
+### Crystal structure (1)
 
 Table: Crystal structure, Au–Ru system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 4.0784 Å | 298.15 | (Au) | unspecified | [1] Okamoto 1984 | Table 2, p. 2, row 1 |  |
-| Lattice a | 2.7053 Å | 298.15 | (Ru); _(Ru): Au 0, Ru 1_ | unspecified | [1] Okamoto 1984 | Table 2, p. 2, row 2 |  |
-| Lattice c | 4.2814 Å | 298.15 | (Ru); _(Ru): Au 0, Ru 1_ | unspecified | [1] Okamoto 1984 | Table 2, p. 2, row 2 |  |
 
 ## Sources
 

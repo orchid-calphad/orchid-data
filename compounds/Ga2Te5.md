@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga2Te5.html · Markdown: https:/
 
 3 accepted literature formation-enthalpy value(s) (model 1, DFT 2); Materials Project -52.205 kJ/mol-atom (mp-aaaaadnf); OQMD -23.361 kJ/mol-atom (oqmd-1822539).
 
-Systems: [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html)
+Systems: [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Ga2Te5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -22.495 kJ/mol-atom | Ga2Te5 | 298.15 | model | CALPHAD | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 13 |  |
-| -22.85 kJ/mol-atom | Ga2Te5 | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 11 |  |
-| -22.76 kJ/mol-atom | Ga2Te5 | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 12 |  |
+| -22.495 kJ/mol-atom | Ga2Te5 | 298.15 | model | CALPHAD | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 13 |  |
+| -22.85 kJ/mol-atom | Ga2Te5 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 11 |  |
+| -22.76 kJ/mol-atom | Ga2Te5 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 12 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ga2Te5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22.495 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.85 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -22.76 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -22.495 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.85 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -22.76 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Al–As system
 
-> Al–As system: 8 accepted literature values (formation 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–As system: 9 accepted literature values (formation 8, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-AS.html · Markdown: https://data.orchid-project.org/systems/AL-AS.md
 
-8 accepted literature values from 1 paper(s) (experimental 8); 1 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 8, unspecified 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-AS.json) · [CSV](https://data.orchid-project.org/systems/AL-AS.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-AS) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-AS/AlAs-84Ans-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AL-AS.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-AS.html) · [Markdown](https://data.orchid-project.org/systems/AL-AS.md)
 
@@ -13,12 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | formation | 8 |
+| heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
 
@@ -58,6 +60,16 @@ Table: Enthalpies of formation, Al–As system (8)
 | UNKNOWN |  | -60.37 unknown ± 0.63 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 14_ | Table V, p. 8, row 3 |  |
 | UNKNOWN |  | -58.2 unknown ± 1.2 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 38_ | Table V, p. 8, row 2 |  |
 | UNKNOWN |  | -31 unknown ± 3.5 | 298.15 | experimental |  |  | [1] Ansara 1984; _cites ref. 41_ | Table V, p. 8, row 4 |  |
+
+## Other properties
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, Al–As system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: °S^L - °S^f.c.c._ | 35.45 J/mol (basis unstated)/K | 2043 | Al0.5As0.5; _alloy: As 0.5_ | unspecified | [1] Ansara 1984 | Table VI, p. 13, row 5 |  |
 
 ## Sources
 

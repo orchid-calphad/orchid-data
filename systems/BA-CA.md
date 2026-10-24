@@ -1,10 +1,10 @@
 # Ba–Ca system
 
-> Ba–Ca system: 16 accepted literature values (mixing / partial 9, crystal structure 4, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Ca system: 13 accepted literature values (mixing / partial 9, phase transition 3, crystal structure 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-CA.html · Markdown: https://data.orchid-project.org/systems/BA-CA.md
 
-16 accepted literature values from 1 paper(s) (experimental 12, unspecified 4); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 12, unspecified 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-CA.json) · [CSV](https://data.orchid-project.org/systems/BA-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-CA/BaCa-86Alc.json) · [phases (4)](https://data.orchid-project.org/phases/pages/BA-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-CA.html) · [Markdown](https://data.orchid-project.org/systems/BA-CA.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| unspecified | 4 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 3 |
 | mixing / partial | 9 |
-| crystal structure | 4 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -63,16 +63,13 @@ Table: Mixing / partial, Ba–Ca system
 | Enthalpy of mixing; _printed: Δmix H_ | -2.008 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.34, Ca 0.66_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 3 |  |
 | Enthalpy of mixing; _printed: Δmix H_ | -2.284 kJ/mol (basis unstated) |  | liquid; _alloy: Ba 0.44, Ca 0.56_ | experimental | [1] Alcock 1986; _cites ref. 74Pre_ | Table 2, p. 3, row 4 |  |
 
-### Crystal structure (4)
+### Crystal structure (1)
 
 Table: Crystal structure, Ba–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 0.55884 not_printed | 298.15 | (αCa); _(αCa): Ba 0, Ca 1_ | unspecified | [1] Alcock 1986 | Table 1, p. 2, row 1 |  |
-| Lattice a | 0.5023 not_printed | 298.15 | (βCa, Ba); _(βCa, Ba): Ba 1, Ca 0_ | unspecified | [1] Alcock 1986; _cites ref. 1_ | Table 1, p. 2, row 4 |  |
 | Lattice a | 0.581 not_printed | 473.15 | (αCa); _(αCa): Ba 0.3, Ca 0.7_ | unspecified | [1] Alcock 1986; _cites ref. 49She_ | Table 1, p. 2, row 2 |  |
-| Lattice a | 0.448 not_printed | 1010.15 | (βCa, Ba); _(βCa, Ba): Ba 0, Ca 1_ | unspecified | [1] Alcock 1986; _cites ref. 2_ | Table 1, p. 2, row 3 |  |
 
 ## Sources
 

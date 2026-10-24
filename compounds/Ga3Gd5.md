@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga3Gd5.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (model 4); OQMD -46.682 kJ/mol-atom (oqmd-18351).
 
-Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) · [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
+Systems: [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html)
 
 ## Literature values
 
@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Ga3Gd5 reported in the literature (4)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -61.56 kJ/mol-atom | Ga3Gd5 |  | model | Prediction optimization | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
-| -61.56 kJ/mol-atom | Ga3Gd5 | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 27 |  |
-| -60.698 kJ/mol-atom | Ga3Gd5 | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [2] Tamim 2023 | Table 2, p. 8, row 28 |  |
+| -61.56 kJ/mol-atom | Ga3Gd5 | 298.15 | model | Miedema | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 27 |  |
+| -60.698 kJ/mol-atom | Ga3Gd5 | 298.15 | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [2] Tamim 2023 | Table 2, p. 8, row 28 |  |
 | -59.78 kJ/mol-atom | Ga3Gd5 |  | model |  | [Ga–Gd](https://data.orchid-project.org/systems/GA-GD.html) | [1] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 
 ### Uncertainty budget
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ga3Gd5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -61.56 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61.56 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60.698 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.78 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -61.56 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61.56 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60.698 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.78 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -40,7 +40,7 @@ Table: DFT formation energy of Ga3Gd5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| OQMD | oqmd-18351 | -46.682 | -0.483826 | P4/ncc | 0.924 | 0.0096 | no |
+| OQMD | oqmd-18351 | -46.682 | -0.483826 | P4/ncc | 0.9237 | 0.0096 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -74,9 +74,9 @@ Table: Invariant reactions reported in the literature for the Ca–Ge system (15
 | 1073 | Liq ↔ βCa + Ca2Ge | Liq: Ge 0.026; βCa: Ge 0; Ca2Ge: Ge 0.3333 | experimental | [1] Djaballah 2010; _cites Massalski 1990_ | Table 2, p. 4, row 1 |  |
 | 1053 | Liq ↔ βCa + Ca2Ge | Liq: Ge 0.032; βCa: Ge 0; Ca2Ge: Ge 0.3333 | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 2 |  |
 | 1050.13 | Liq ↔ βCa + Ca2Ge | Liq: Ge 0.0282; βCa: Ge 0; Ca2Ge: Ge 0.3333 | model | [1] Djaballah 2010 | Table 2, p. 4, row 3 |  |
-| 1046.22 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.779; CaGe2: Ge 0.6666; Ge: Ge 0.01 | model | [1] Djaballah 2010 | Table 2, p. 4, row 22 |  |
-| 1033 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.76; CaGe2: Ge 0.6666; Ge: Ge 0.01 | experimental | [1] Djaballah 2010; _cites Massalski 1990_ | Table 2, p. 4, row 20 |  |
-| 1018 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.759; CaGe2: Ge 0.6666; Ge: Ge 0.01 | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 21 |  |
+| 1046.22 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.779; CaGe2: Ge 0.6666; Ge: Ge 1 | model | [1] Djaballah 2010 | Table 2, p. 4, row 22 |  |
+| 1033 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.76; CaGe2: Ge 0.6666; Ge: Ge 1 | experimental | [1] Djaballah 2010; _cites Massalski 1990_ | Table 2, p. 4, row 20 |  |
+| 1018 | Liq ↔ CaGe2 + Ge | Liq: Ge 0.759; CaGe2: Ge 0.6666; Ge: Ge 1 | experimental | [1] Djaballah 2010; _cites Palenzona 2002_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900326-2) | Table 2, p. 4, row 21 |  |
 
 ## Formation enthalpies
 

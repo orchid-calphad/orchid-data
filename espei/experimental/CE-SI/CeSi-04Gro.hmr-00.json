@@ -466,7 +466,7 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 500.0,
+     "sigma_reading": 50.0,
      "sigma_method": 1000.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -506,7 +506,7 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 500.0,
+     "sigma_reading": 50.0,
      "sigma_method": 1000.0,
      "sigma_composition": null,
      "sigma_scatter": null,

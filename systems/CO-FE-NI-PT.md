@@ -1,10 +1,10 @@
 # Co–Fe–Ni–Pt system
 
-> Co–Fe–Ni–Pt system: 12 accepted literature values (crystal structure 12) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Fe–Ni–Pt system: 3 accepted literature values (crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-FE-NI-PT.html · Markdown: https://data.orchid-project.org/systems/CO-FE-NI-PT.md
 
-12 accepted literature values from 1 paper(s) (model 12); 0 calculated phase diagram(s).
+3 accepted literature values from 1 paper(s) (model 3); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-FE-NI-PT.json) · [CSV](https://data.orchid-project.org/systems/CO-FE-NI-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-FE-NI-PT) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-FE-NI-PT.html) · [Markdown](https://data.orchid-project.org/systems/CO-FE-NI-PT.md)
 
@@ -12,34 +12,25 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 12 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 12 |
+| crystal structure | 3 |
 
 ## Other properties
 
-### Crystal structure (12)
+### Crystal structure (3)
 
 Table: Crystal structure, Co–Fe–Ni–Pt system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.923 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 1_ | model | [1] Kim 2011 | Table 1, p. 2, row 12 |  |
-| Lattice a | 3.964 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 1_ | model | [1] Kim 2011 | Table 1, p. 2, row 10 |  |
-| Lattice a | 3.523 Å |  | fcc; _alloy: Fe 0, Ni 1, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 9 |  |
-| Lattice a | 3.517 Å |  | fcc; _alloy: Fe 0, Ni 1, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 8 |  |
-| Lattice a | 3.448 Å |  | fcc; _alloy: Fe 1, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 4 |  |
-| Lattice a | 3.985 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 1_ | model | [1] Kim 2011 | Table 1, p. 2, row 11 |  |
 | Lattice a | 3.545 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 3 |  |
 | Lattice a | 3.518 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 2 |  |
-| Lattice a | 3.647 Å |  | fcc; _alloy: Fe 1, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 6 |  |
 | Lattice a | 3.501 Å |  | fcc; _alloy: Fe 0, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 1 |  |
-| Lattice a | 3.446 Å |  | fcc; _alloy: Fe 1, Ni 0, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 5 |  |
-| Lattice a | 3.498 Å |  | fcc; _alloy: Fe 0, Ni 1, Pt 0_ | model | [1] Kim 2011 | Table 1, p. 2, row 7 |  |
 
 ## Sources
 

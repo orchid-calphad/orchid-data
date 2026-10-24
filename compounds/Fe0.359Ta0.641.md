@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Fe0.359Ta0.641.html · Markdown:
 
 1 accepted literature formation-enthalpy value(s) (experimental 1).
 
-Systems: [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html)
+Systems: [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Fe0.359Ta0.641 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.8 kJ/mol (basis unstated) ± 2.1 | Fe0.359Ta0.641 | 298.15 | experimental | isoperibolic drop calorimetry | [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html) | [1] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
+| -5.8 kJ/mol (basis unstated) ± 2.1 | Fe0.359Ta0.641 | 298.15 | experimental | isoperibolic drop calorimetry | [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html) | [1] Witusiewicz 2011 | Table 4, p. 10, row 7 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe0.359Ta0.641
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.8 | kJ/mol (basis unstated) | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -5.8 | kJ/mol (basis unstated) | 2.1 | 0.05 | 28 (solution_reaction_calorimetry, calibrated) |  |  |  | 28 |
 
 ## Sources
 

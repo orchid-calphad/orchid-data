@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Hf5Sn3.html · Markdown: https:/
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)
+Systems: [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Hf5Sn3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.57 kJ/mol (basis unstated) | D88-Hf5Sn3 | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 14 |  |
+| -37.57 kJ/mol (basis unstated) | D88-Hf5Sn3 | 0 | DFT | DFT | [Hf–Sn](https://data.orchid-project.org/systems/HF-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 14 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf5Sn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -37.57 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -37.57 | kJ/mol (basis unstated) |  | 0.005 | 67.78 (dft, calibrated) |  |  |  | 67.78 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Si–Ta system
 
-> Si–Ta system: 114 accepted literature values (formation 45, invariant reaction 45, phase transition 22, heat capacity / entropy / enthalpy 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–Ta system: 160 accepted literature values (formation 71, invariant reaction 45, phase transition 22, crystal structure 20) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-TA.html · Markdown: https://data.orchid-project.org/systems/SI-TA.md
 
-114 accepted literature values from 3 paper(s) (experimental 54, model 54, DFT 1, unspecified 5); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+160 accepted literature values from 4 paper(s) (experimental 62, model 66, DFT 11, unspecified 21); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-TA.json) · [CSV](https://data.orchid-project.org/systems/SI-TA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-TA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-TA/SiTa-03Che-LB.json) · [phases (11)](https://data.orchid-project.org/phases/pages/SI-TA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-TA.html) · [Markdown](https://data.orchid-project.org/systems/SI-TA.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 54 |
-| model | 54 |
-| DFT | 1 |
-| unspecified | 5 |
+| experimental | 62 |
+| model | 66 |
+| DFT | 11 |
+| unspecified | 21 |
 
 Table: Accepted values by property group
 
@@ -23,8 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 45 |
 | phase transition | 22 |
-| formation | 45 |
+| formation | 71 |
 | heat capacity / entropy / enthalpy | 2 |
+| crystal structure | 20 |
 
 ## Calculated phase diagrams
 
@@ -157,36 +158,62 @@ Table: Invariant reactions reported in the literature for the Si–Ta system (45
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si–Ta system (26)
+Table: Enthalpies of formation, Si–Ta system (52)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Si0.25Ta0.75 | [Si0.25Ta0.75](https://data.orchid-project.org/compounds/Si0.25Ta0.75.html) | -43.332 kJ/mol-atom | 2087.5 | experimental | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
-| Si0.25Ta0.75 | [Si0.25Ta0.75](https://data.orchid-project.org/compounds/Si0.25Ta0.75.html) | -42.2237 kJ/mol-atom | 298.15 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
-| Si0.25Ta0.75 | [Si0.25Ta0.75](https://data.orchid-project.org/compounds/Si0.25Ta0.75.html) | -39 kJ/mol-atom | 298.15 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 24 |  |
-| Si0.3333Ta0.6667 | [Si0.3333Ta0.6667](https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.html) | -55.969 kJ/mol-atom | 1027 | experimental | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
-| Si0.3333Ta0.6667 | [Si0.3333Ta0.6667](https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.html) | -52.117 kJ/mol-atom | 2045 | experimental | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
-| Si0.3333Ta0.6667 | [Si0.3333Ta0.6667](https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.html) | -52.0086 kJ/mol-atom | 298.15 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
-| Si0.3333Ta0.6667 | [Si0.3333Ta0.6667](https://data.orchid-project.org/compounds/Si0.3333Ta0.6667.html) | -51 kJ/mol-atom | 298.15 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 20 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -54.937 kJ/mol-atom | 1027 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 19 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -52.423 kJ/mol-atom | 1900 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 17 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -52.42 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Tao 2009_ [doi](https://doi.org/10.1103/physrevb.80.104103) | Table 2, p. 2, row 18 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -52.3815 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -41.9 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 15 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 14 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -38.1 kJ/mol-atom ± 1.7 | 1473 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 2, row 12 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -38.1 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Nowotny 1956_ [doi](https://doi.org/10.1007/bf00902640) | Table 2, p. 2, row 13 |  |
-| Si0.375Ta0.625_HT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -37.7 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 11 |  |
+| Si0.25Ta0.75 | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43.332 kJ/mol-atom | 2087.5 | experimental | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
+| Si0.25Ta0.75 | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -42.2237 kJ/mol-atom | 298.15 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013 | Table 2, p. 2, row 25 |  |
+| Si0.25Ta0.75 | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -39 kJ/mol-atom | 298.15 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 24 |  |
+| Si0.3333Ta0.6667 | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -55.969 kJ/mol-atom | 1027 | experimental | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 23 |  |
+| Si0.3333Ta0.6667 | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.117 kJ/mol-atom | 2045 | experimental | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 21 |  |
+| Si0.3333Ta0.6667 | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.0086 kJ/mol-atom | 298.15 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013 | Table 2, p. 2, row 22 |  |
+| Si0.3333Ta0.6667 | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -51 kJ/mol-atom | 298.15 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 20 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -54.937 kJ/mol-atom | 1027 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 19 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.423 kJ/mol-atom | 1900 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 17 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.42 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Tao 2009_ [doi](https://doi.org/10.1103/physrevb.80.104103) | Table 2, p. 2, row 18 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.3815 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -41.9 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 15 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 14 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -38.1 kJ/mol-atom ± 1.7 | 1473 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 2, row 12 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -38.1 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Nowotny 1956_ [doi](https://doi.org/10.1007/bf00902640) | Table 2, p. 2, row 13 |  |
+| Si0.375Ta0.625_HT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -37.7 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 2, row 11 |  |
 | Si0.375Ta0.625_LT |  | -56.15 kJ/mol-atom | 298.15 | DFT |  |  | [3] Drouelle 2013; _cites Tao 2009_ [doi](https://doi.org/10.1103/physrevb.80.104103) | Table 2, p. 2, row 10 |  |
-| Si0.375Ta0.625_LT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -55 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 9 |  |
-| Si0.375Ta0.625_LT | [Si0.375Ta0.625](https://data.orchid-project.org/compounds/Si0.375Ta0.625.html) | -52.3807 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -46.0991 kJ/mol-atom | 298.15 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -46 kJ/mol-atom ± 2.5 | 1473 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 2, row 7 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -44 kJ/mol-atom | 298.15 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 5 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -43.332 kJ/mol-atom | 1760.5 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Kubaschewski 1968_ | Table 2, p. 2, row 3 |  |
-| Si0.6667Ta0.3333 | [Si0.6667Ta0.3333](https://data.orchid-project.org/compounds/Si0.6667Ta0.3333.html) | -38.8 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 2 |  |
-| Si0.75Ta0.25 | [Si0.75Ta0.25](https://data.orchid-project.org/compounds/Si0.75Ta0.25.html) | -39 kJ/mol-atom | 298.15 | model |  | 4.527 (oqmd-2031407) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 1 |  |
+| Si0.375Ta0.625_LT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -55 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 9 |  |
+| Si0.375Ta0.625_LT | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.3807 kJ/mol-atom | 298.15 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [3] Drouelle 2013 | Table 2, p. 2, row 8 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46.0991 kJ/mol-atom | 298.15 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46 kJ/mol-atom ± 2.5 | 1473 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 2, row 7 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -44 kJ/mol-atom | 298.15 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 5 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -43.332 kJ/mol-atom | 1760.5 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 4 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Kubaschewski 1968_ | Table 2, p. 2, row 3 |  |
+| Si0.6667Ta0.3333 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -38.8 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [3] Drouelle 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 2, row 2 |  |
+| Si0.75Ta0.25 | [Si3Ta](https://data.orchid-project.org/compounds/Si3Ta.html) | -39 kJ/mol-atom | 298.15 | model |  | 4.527 (oqmd-2031407) | [3] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 1 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -56 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [4] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 67 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -54.3 kJ/mol-atom | 0 | unspecified | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [4] Broz 2013 | Table 2, p. 6, row 64 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.8 kJ/mol-atom | 0 | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 68 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -52.1 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [4] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 65 |  |
+| Ta2Si | [SiTa2](https://data.orchid-project.org/compounds/SiTa2.html) | -51 kJ/mol-atom |  | model | -51.407 (mp-aaaaaedb) | -53.99 (oqmd-7796) | [4] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 66 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43.3 kJ/mol-atom |  | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [4] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43 kJ/mol-atom | 0 | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -43 kJ/mol-atom | 0 | unspecified | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [4] Broz 2013 | Table 2, p. 6, row 60 |  |
+| Ta3Si | [SiTa3](https://data.orchid-project.org/compounds/SiTa3.html) | -39 kJ/mol-atom |  | model | -40.609 (mp-aaabgjfa) | -42.591 (oqmd-18906) | [4] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
+| Ta5Si3 | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -48.1 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013 | Table 2, p. 6, row 59 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -59.8 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013 | Table 2, p. 6, row 49 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -56.2 kJ/mol-atom |  | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 54 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.3 kJ/mol-atom | 0 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 55 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -41.8 kJ/mol-atom ± 7.8 | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 50 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -39.7 kJ/mol-atom | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 53 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -38.1 kJ/mol-atom ± 1.7 | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 51 |  |
+| Ta5Si3 (α) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -37.7 kJ/mol-atom ± 4.7 | 298.15 | experimental | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 52 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -55.4 kJ/mol-atom | 0 | unspecified | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013 | Table 2, p. 6, row 56 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -52.4 kJ/mol-atom |  | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Tao 2011_ | Table 2, p. 6, row 57 |  |
+| Ta5Si3 (β) | [Si3Ta5](https://data.orchid-project.org/compounds/Si3Ta5.html) | -51.6 kJ/mol-atom | 0 | model | -57.039 (mp-aaaaacyn) | -59.481 (oqmd-3573) | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 58 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46.7 kJ/mol-atom | 0 | unspecified | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013 | Table 2, p. 6, row 43 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -46 kJ/mol-atom ± 2.5 | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 45 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -41.1 kJ/mol-atom | 0 | model | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 48 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -38.8 kJ/mol-atom | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013; _cites Robins 1955_ [doi](https://doi.org/10.1016/0001-6160%2855%2990120-6) | Table 2, p. 6, row 47 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -32.4 kJ/mol-atom ± 14 | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013; _cites Myers 1957_ | Table 2, p. 6, row 44 |  |
+| TaSi2 | [Si2Ta](https://data.orchid-project.org/compounds/Si2Ta.html) | -22.6 kJ/mol-atom ± 7.8 | 298.15 | experimental | -41.496 (mp-aaaaaqom) | -46.105 (oqmd-8153) | [4] Broz 2013; _cites Levine 1969_ [doi](https://doi.org/10.1149/1.2411545) | Table 2, p. 6, row 46 |  |
 
 ## Other properties
 
@@ -254,6 +281,33 @@ Table: Heat capacity / entropy / enthalpy, Si–Ta system
 | Entropy; _printed: s = b_ | -0.776768 J/mol-atom/K | 298.15 | Si0.375Ta0.625_HT; _alloy: Ta 0.625_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 16 |  |
 | Entropy; _printed: s = b_ | 0.024162 J/mol-atom/K | 298.15 | Si0.6667Ta0.3333; _alloy: Ta 0.3333_ | model | [3] Drouelle 2013 | Table 2, p. 2, row 6 |  |
 
+### Crystal structure (20)
+
+Table: Crystal structure, Si–Ta system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.19 Å | 0 | Ta2Si; _alloy: Ta 0.666667_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice a | 10.195 Å | 0 | Ta3Si; _alloy: Ta 0.75_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice a | 6.552 Å | 0 | Ta5Si3 (α); _alloy: Ta 0.625_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice a | 9.892 Å |  | Ta5Si3 (β); _alloy: Ta 0.625_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice a | 9.913 Å | 0 | Ta5Si3 (β); _alloy: Ta 0.625_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice a | 4.792 Å | 0 | TaSi2; _alloy: Ta 0.333333_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice a | 6.172 Å | 298.15 | Ta2Si; _alloy: Ta 0.666667_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice a | 10.184 Å | 298.15 | Ta3Si; _alloy: Ta 0.75_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice a | 6.519 Å | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice a | 4.784 Å | 298.15 | TaSi2; _alloy: Ta 0.333333_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+| Lattice c | 5.071 Å | 0 | Ta2Si; _alloy: Ta 0.666667_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 10 |  |
+| Lattice c | 5.206 Å | 0 | Ta3Si; _alloy: Ta 0.75_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 7 |  |
+| Lattice c | 11.911 Å | 0 | Ta5Si3 (α); _alloy: Ta 0.625_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 14 |  |
+| Lattice c | 5.042 Å |  | Ta5Si3 (β); _alloy: Ta 0.625_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 17 |  |
+| Lattice c | 5.078 Å | 0 | Ta5Si3 (β); _alloy: Ta 0.625_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 18 |  |
+| Lattice c | 6.572 Å | 0 | TaSi2; _alloy: Ta 0.333333_ | DFT | [4] Broz 2013 | Table 1, p. 3, row 33 |  |
+| Lattice c | 5.05 Å | 298.15 | Ta2Si; _alloy: Ta 0.666667_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 9 |  |
+| Lattice c | 5.183 Å | 298.15 | Ta3Si; _alloy: Ta 0.75_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.87 Å | 298.15 | Ta5Si3 (α); _alloy: Ta 0.625_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 13 |  |
+| Lattice c | 6.568 Å | 298.15 | TaSi2; _alloy: Ta 0.333333_ | unspecified | [4] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 1, p. 3, row 32 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -261,6 +315,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. Zhongnan Guo, Wenxia Yuan, Yu Sun, Zhoufei Cai, Zhiyu Qiao, Thermodynamic Assessment of the Si-Ta and Si-W Systems, J. Phase Equilib. Diffus. 30, 564-570 (2009). [doi:10.1007/s11669-009-9579-x](https://doi.org/10.1007/s11669-009-9579-x)
 2. C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989). [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2)
 3. I. Drouelle, C. Servant, Thermodynamic assessment of the Si–Ta system, Journal of Alloys and Compounds 551, 293-299 (2013). [doi:10.1016/j.jallcom.2012.09.148](https://doi.org/10.1016/j.jallcom.2012.09.148)
+4. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
 
 ## Please cite
 

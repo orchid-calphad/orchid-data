@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of BeMo3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -0.81 | kJ/mol (basis unstated) |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -13 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -0.81 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
 
 ## Sources
 

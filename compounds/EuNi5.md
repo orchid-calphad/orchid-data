@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/EuNi5.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 2); Materials Project -12.017 kJ/mol-atom (mp-aaaabhad); OQMD -21.135 kJ/mol-atom (oqmd-30109).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
+Systems: [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html)
 
 ## Literature values
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of EuNi5 reported in the literature (3)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -15.6 kJ/mol (basis unstated) | Ni5Eu | 298.15 | experimental | Calorimetry | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
-| -14.47 kJ/mol-atom | Ni5Eu | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
+| -14.47 kJ/mol-atom | Ni5Eu | 298.15 | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
 | -14.47 kJ/mol (basis unstated) | Ni5Eu |  | model | Optimization | [Eu–Ni](https://data.orchid-project.org/systems/EU-NI.html) | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
 
 ### Uncertainty budget
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of EuNi5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.6 | kJ/mol (basis unstated) |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -14.47 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -14.47 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -15.6 | kJ/mol (basis unstated) |  | 0.05 | 21 (solution_reaction_calorimetry, calibrated) |  |  |  | 21 |
+| -14.47 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -14.47 | kJ/mol (basis unstated) |  | 0.005 | 20.4 (model_calculated, calibrated) |  |  |  | 20.4 |
 
 ## DFT formation energies
 

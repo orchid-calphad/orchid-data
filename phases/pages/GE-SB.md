@@ -17,7 +17,7 @@ Table: Phases of the Ge–Sb system (6)
 | [BCC_A2](#phase-ge-sb-bcc-a2); _phase:ge-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [FCC_A1](#phase-ge-sb-fcc-a1); _phase:ge-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-ge-sb-hcp-a3); _phase:ge-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [LIQUID](#phase-ge-sb-liquid); _phase:ge-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 854.35–2500 K, x(Sb) 0–1 | 7 | 4 |
+| [LIQUID](#phase-ge-sb-liquid); _phase:ge-sb:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 854.35–2500 K, x(Sb) 0–1 | 12 | 4 |
 
 ## DIAMOND_A4 (Ge–Sb)
 
@@ -307,11 +307,11 @@ _assessment that models this phase_
 - Id: `phase:ge-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 854.35–2500 K, x(Sb) 0–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-sb:liquid)
 
-Names (6): _corpus: _corpus:phase:ge-sb:liquid  
-_paper: _paper:10.1016/j.tca.2011.03.008:Liq.  
+Names (7): _corpus: _corpus:phase:ge-sb:liquid  
+_paper: _paper:10.1016/j.jallcom.2009.06.030:L, paper:10.1016/j.tca.2011.03.008:Liq.  
 _tdb: _tdb:GeSb-09Wan.tdb:LIQUID, tdb:GeSb-11Liu.tdb:LIQUID, tdb:GeSb-89Che-LB.tdb:LIQUID, tdb:GeSb-99Sch.tdb:LIQUID  
 
 
@@ -349,15 +349,15 @@ Example references (8 of 8; assessments first):
 
 - [doi:10.1016/j.tca.2011.03.008](https://doi.org/10.1016/j.tca.2011.03.008) Jinming Liu, Cuiping Guo, Changrong Li, Zhenmin Du, Thermodynamic optimization of the Ge–Sb and Ge–Sb–Sn systems, Thermochimica Acta 520, 38-47 (2011).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5) Pierre-Yves Chewvalier, A thermodynamic evaluation of the Ge-In, Ge-Pb, Ge-Sb, Ge-Tl and Ge-Zn systems, Thermochimica Acta 155, 227-240 (1989).  
-_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2009.06.030](https://doi.org/10.1016/j.jallcom.2009.06.030) J. Wang, C. Leinenbach, M. Roth, Thermodynamic description of the Au–Ge–Sb ternary system, Journal of Alloys and Compounds 485, 577-582 (2009).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/0040-6031(89)87148-5](https://doi.org/10.1016/0040-6031%2889%2987148-5) Pierre-Yves Chewvalier, A thermodynamic evaluation of the Ge-In, Ge-Pb, Ge-Sb, Ge-Tl and Ge-Zn systems, Thermochimica Acta 155, 227-240 (1989).  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1999-900703](https://doi.org/10.1515/ijmr-1999-900703) A. Schlieper, R. Blachnik, Z. Metallkd., 90, 475-85(1999).  
 _assessment that models this phase_
-- [doi:10.1002/zaac.19402440211](https://doi.org/10.1002/zaac.19402440211) Herbert Stöhr, Wilhelm Klemm, Über Zweistoffsysteme mit Germanium. II. Germanium/Arsen, Germanium/Antimon, Germanium/Wismut, Z. Anorg. Allg. Chem. 244, 205-223 (1940).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02868990](https://doi.org/10.1007/bf02868990) R.W. Olesinski, G.J. Abbaschian, The Ge–Sb system, Bull. Alloy Phase Diagrams 7 (1986) 219–222.  
+_cited as the source of values for this phase_
+- [doi:10.1002/zaac.19402440211](https://doi.org/10.1002/zaac.19402440211) Herbert Stöhr, Wilhelm Klemm, Über Zweistoffsysteme mit Germanium. II. Germanium/Arsen, Germanium/Antimon, Germanium/Wismut, Z. Anorg. Allg. Chem. 244, 205-223 (1940).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jssc.2008.12.009](https://doi.org/10.1016/j.jssc.2008.12.009) Navida Nasir, Andriy Grytsiv, Peter Rogl, Adriana Saccone, Gerald Giester, Phase equilibria in systems Ce–M–Sb (M=Si, Ge, Sn) and superstructure Ce12Ge9−xSb23+x (x=3.8±0.1), Journal of Solid State Chemistry 182, 645-656 (2009).  
 _cited as the source of values for this phase_

@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of PbO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -109.031 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -109.528 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -108.721 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -109.704 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -109.031 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -109.031 | kJ/mol-atom |  | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -109.528 | kJ/mol-atom |  | 2.500e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -108.721 | kJ/mol-atom |  | 2.500e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -109.704 | kJ/mol-atom |  | 2.500e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -109.031 | kJ/mol-atom |  | 2.500e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

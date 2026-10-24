@@ -12,10 +12,10 @@ Table: Phases of the Al–Ba system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AL13BA7](#phase-al-ba-al13ba7); _phase:al-ba:al13ba7_ | Al13Ba7 · hP20 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1197.08 K, x(Ba) 0.35–0.35 | 25 | 3 |
+| [AL13BA7](#phase-al-ba-al13ba7); _phase:al-ba:al13ba7_ | Al13Ba7 · hP20 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1197.08 K, x(Ba) 0.35–0.35 | 31 | 3 |
 | [AL4BA_D13](#phase-al-ba-al4ba-d13); _phase:al-ba:al4ba-d13_ | Al4Ba · D1_3 · tI10 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1379.52 K, x(Ba) 0.2–0.2 | 38 | 3 |
-| [AL5BA3](#phase-al-ba-al5ba3); _phase:al-ba:al5ba3_ | Al5Ba3 · hP16 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1024.66 K, x(Ba) 0.375–0.375 | 23 | 2 |
-| [AL5BA4](#phase-al-ba-al5ba4); _phase:al-ba:al5ba4_ | Al5Ba4 · hP18 · P6_3/mmc (194) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1003.15 K, x(Ba) 0.44444–0.44444 | 32 | 3 |
+| [AL5BA3](#phase-al-ba-al5ba3); _phase:al-ba:al5ba3_ | Al5Ba3 · hP16 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1024.66 K, x(Ba) 0.375–0.375 | 26 | 2 |
+| [AL5BA4](#phase-al-ba-al5ba4); _phase:al-ba:al5ba4_ | Al5Ba4 · hP18 · P6_3/mmc (194) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1003.15 K, x(Ba) 0.44444–0.44444 | 38 | 3 |
 | [BCC_A2](#phase-al-ba-bcc-a2); _phase:al-ba:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Ba) 0.96601–1 | 14 | 3 |
 | [FCC_A1](#phase-al-ba-fcc-a1); _phase:al-ba:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–990.97 K, x(Ba) 0–0 | 13 | 3 |
 | [HCP_A3](#phase-al-ba-hcp-a3); _phase:al-ba:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -29,7 +29,7 @@ Table: Phases of the Al–Ba system (8)
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.6500, Ba 0.3500
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1197.08 K, x(Ba) 0.35–0.35
-- Literature: 25 values (25 accepted) from 3 papers
+- Literature: 31 values (31 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ba:al13ba7)
 
 Names (7): _corpus: _corpus:phase:al-ba:al13ba7  
@@ -144,7 +144,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.6250, Ba 0.3750
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1024.66 K, x(Ba) 0.375–0.375
-- Literature: 23 values (23 accepted) from 2 papers
+- Literature: 26 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ba:al5ba3)
 
 Names (5): _corpus: _corpus:phase:al-ba:al5ba3  
@@ -191,7 +191,7 @@ _cited as the source of values for this phase_
 - Structure: Al5Ba4 · hP18 · P6_3/mmc (194); type `st:al5ba4-hp18`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Al 0.5556, Ba 0.4444
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1003.15 K, x(Ba) 0.44444–0.44444
-- Literature: 32 values (32 accepted) from 3 papers
+- Literature: 38 values (38 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ba:al5ba4)
 
 Names (9): _corpus: _corpus:phase:al-ba:al5ba4  
@@ -232,9 +232,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1140/epjst/e2016-60183-4](https://doi.org/10.1140/epjst/e2016-60183-4) H. Azza, N. Selhaoui, K. Achgar, Thermodynamic description of the aluminum-barium phase diagram, Eur. Phys. J. Spec. Top. 226, 1143-1150 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02671974](https://doi.org/10.1007/bf02671974) V. P. Itkin, C. B. Alcock, The Al-Ba (Aluminum-Barium) system, JPE 14, 518-524 (1993).  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf02679015](https://doi.org/10.1007/bf02679015) S. Srikanth, K. T. Jacob, Thermodynamics of aluminum-barium alloys, Metall Trans B 22, 607-616 (1991).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02671974](https://doi.org/10.1007/bf02671974) V. P. Itkin, C. B. Alcock, The Al-Ba (Aluminum-Barium) system, JPE 14, 518-524 (1993).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(75)90212-x](https://doi.org/10.1016/0022-5088%2875%2990212-x) G. Bruzzone, F. Merlo, The strontium-aluminium and barium-aluminium systems, Journal of the Less Common Metals 39, 1-6 (1975).  
 _cited as the source of values for this phase_

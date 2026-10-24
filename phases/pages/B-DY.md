@@ -14,12 +14,12 @@ Table: Phases of the B–Dy system (11)
 |---|---|---|---|---:|---:|
 | [ALPHA_RHOMBO_B](#phase-b-dy-b-alpha-rhombo); _phase:b-dy:b-alpha-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1388 K, x(B) 1–1 | 0 | 1 |
 | [BETA_RHOMBO_B](#phase-b-dy-b-beta-rhombo); _phase:b-dy:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1388–2349.42 K, x(B) 1–1 | 0 | 1 |
-| [BCC_A2](#phase-b-dy-bcc-a2); _phase:b-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1652.97–1680 K, x(B) 0–0.00044 | 4 | 1 |
+| [BCC_A2](#phase-b-dy-bcc-a2); _phase:b-dy:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1652.97–1680 K, x(B) 0–0.00044 | 2 | 1 |
 | [DYB12_D2F](#phase-b-dy-dyb12-d2f); _phase:b-dy:dyb12-d2f_ | UB12 · D2_f · cF52 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2369.57 K, x(B) 0.92308–0.92308 | 7 | 1 |
 | [DYB2_C32](#phase-b-dy-dyb2-c32); _phase:b-dy:dyb2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2352.49 K, x(B) 0.66667–0.66667 | 6 | 1 |
 | [DYB4_D1E](#phase-b-dy-dyb4-d1e); _phase:b-dy:dyb4-d1e_ | UB4 · D1_e · tP20 · P4/mbm (127) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2754.79 K, x(B) 0.8–0.8 | 10 | 1 |
 | [DYB6_D21](#phase-b-dy-dyb6-d21); _phase:b-dy:dyb6-d21_ | CaB6 · D2_1 · cP7 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2468.46 K, x(B) 0.85714–0.85714 | 7 | 1 |
-| [DYB66](#phase-b-dy-dyb66); _phase:b-dy:dyb66_ | YB66 · cF1936 · Fm-3c (226) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 965.53–2365.39 K, x(B) 0.98507–0.98507 | 6 | 1 |
+| [DYB66](#phase-b-dy-dyb66); _phase:b-dy:dyb66_ | YB66 · cF1936 · Fm-3c (226) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 965.53–2365.39 K, x(B) 0.98507–0.98507 | 7 | 1 |
 | [FCC_A1](#phase-b-dy-fcc-a1); _phase:b-dy:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-b-dy-hcp-a3); _phase:b-dy:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1677.97 K, x(B) 0–0.00052 | 5 | 1 |
 | [LIQUID](#phase-b-dy-liquid); _phase:b-dy:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1607.59–4000 K, x(B) 0–1 | 24 | 1 |
@@ -30,6 +30,7 @@ Table: Phases of the B–Dy system (11)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — DyB-20Li.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-dy:b-alpha-rhombo)
@@ -58,6 +59,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — DyB-20Li.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1388–2349.42 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-dy:b-beta-rhombo)
@@ -85,11 +87,11 @@ _assessment that models this phase_
 - Id: `phase:b-dy:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1652.97–1680 K, x(B) 0–0.00044
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-dy:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:b-dy:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2020.101740:β-B, paper:10.1016/j.calphad.2020.101740:β-Dy  
+Names (3): _corpus: _corpus:phase:b-dy:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2020.101740:β-Dy  
 _tdb: _tdb:DyB-20Li.tdb:BCC_A2  
 
 
@@ -236,7 +238,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: B 0.9851, Dy 0.0149
 - Stability: stable in 1 of 1 calculated diagram(s): 965.53–2365.39 K, x(B) 0.98507–0.98507
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-dy:dyb66)
 
 Names (3): _corpus: _corpus:phase:b-dy:dyb66  

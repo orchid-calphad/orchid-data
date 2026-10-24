@@ -49,12 +49,12 @@ Table: Invariant reactions reported in the literature for the Pb–Se system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.005; liq#1: Se 0.0076 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3 |  |
-| 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.00761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4 |  |
-| 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.005; liq#1: Se 0.00746 | model | [1] Liu 2012 | Table VII, p. 8, row 5 |  |
-| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.005 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1 |  |
-| 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.005 | model | [1] Liu 2012 | Table VII, p. 8, row 2 |  |
-| 493.9 | liq -> (Se) + PbSe | L: Se 0.01; (Se): Se 0.01; PbSe: Se 0.005 | model | [1] Liu 2012 | Table VII, p. 8, row 6 |  |
+| 954 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.76 | experimental | [1] Liu 2012; _cites Nozato 1955_ | Table VII, p. 8, row 3 |  |
+| 951.3 | liq#1 -> liq#2 + PbSe | PbSe: Pb 0.5, Se 0.5; liq#1: Se 0.761 | experimental | [1] Liu 2012; _cites Seidman 1966_ | Table VII, p. 8, row 4 |  |
+| 947.2 | liq#1 -> liq#2 + PbSe | PbSe: Se 0.5; liq#1: Se 0.746 | model | [1] Liu 2012 | Table VII, p. 8, row 5 |  |
+| 600.3 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | experimental | [1] Liu 2012; _cites Greenwood 1939_ | Table VII, p. 8, row 1 |  |
+| 600 | liq -> (Pb) + PbSe | L: Se 0; (Pb): Se 0; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 2 |  |
+| 493.9 | liq -> (Se) + PbSe | L: Se 1; (Se): Se 1; PbSe: Se 0.5 | model | [1] Liu 2012 | Table VII, p. 8, row 6 |  |
 
 ## Formation enthalpies
 

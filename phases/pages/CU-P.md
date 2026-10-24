@@ -1,10 +1,10 @@
 # Cu–P phases
 
-> Cu–P system: 11 phases (tier A 4, tier B 1, tier C 2, liquid 1, gas 1, needs_review 2); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cu–P system: 11 phases (tier A 4, tier C 2, liquid 1, gas 1, needs_review 3); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CU-P.html · Markdown: https://data.orchid-project.org/phases/pages/CU-P.md
 
-11 phases (tier A 4, tier B 1, tier C 2, liquid 1, gas 1, needs_review 2); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 4, tier C 2, liquid 1, gas 1, needs_review 3); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CU-P) · [full JSON](https://data.orchid-project.org/phases/systems/CU-P.json) · [Cu–P system page](https://data.orchid-project.org/systems/CU-P.html) · [Markdown](https://data.orchid-project.org/phases/pages/CU-P.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,14 +13,14 @@ Table: Phases of the Cu–P system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-p-bcc-a2); _phase:cu-p:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [CU2P7](#phase-cu-p-cu2p7); _phase:cu-p:cu2p7_ | Ni7Zr2 · mC36 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1024.72 K, x(P) 0.77778–0.77778 | 0 | 2 |
+| [CU2P7](#phase-cu-p-cu2p7); _phase:cu-p:cu2p7_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1024.72 K, x(P) 0.77778–0.77778 | 1 | 2 |
 | [CU3P_HT](#phase-cu-p-cu3p); _phase:cu-p:cu3p_ | Cu3P-beta · hP8 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 831.66–1302.57 K, x(P) 0.25–0.25 | 0 | 1 |
 | [CU3P_D021](#phase-cu-p-cu3p-d021); _phase:cu-p:cu3p-d021_ | Cu3P · D0_21 · hP24 · P6_3cm (185) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1313.84 K, x(P) 0.25–0.27297 | 2 | 5 |
-| [CUP2](#phase-cu-p-cup2); _phase:cu-p:cup2_ | CuP2 · mP12 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1504.04 K, x(P) 0.66667–0.66667 | 0 | 3 |
+| [CUP2](#phase-cu-p-cup2); _phase:cu-p:cup2_ | CuP2 · mP12 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1504.04 K, x(P) 0.66667–0.66667 | 1 | 3 |
 | [FCC_A1](#phase-cu-p-fcc-a1); _phase:cu-p:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1362.76 K, x(P) 0–0.0363 | 0 | 5 |
 | [GAS](#phase-cu-p-gas); _phase:cu-p:gas_ | gas | gas | stable in 5 of 5 calculated diagram(s): 704.7–2500 K, x(P) 0.91101–1 | 0 | 5 |
 | [HCP_A3](#phase-cu-p-hcp-a3); _phase:cu-p:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LIQUID](#phase-cu-p-liquid); _phase:cu-p:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 300–2500 K, x(P) 0–0.91039 | 4 | 5 |
+| [LIQUID](#phase-cu-p-liquid); _phase:cu-p:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 300–2500 K, x(P) 0–0.91039 | 5 | 5 |
 | [RED_P](#phase-cu-p-p-red); _phase:cu-p:p-red_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–704.7 K, x(P) 1–1 | 0 | 5 |
 | [WHITE_P](#phase-cu-p-p-white); _phase:cu-p:p-white_ |  | needs_review | not stable in 5 calculated diagram(s) | 0 | 5 |
 
@@ -86,16 +86,16 @@ _assessment that models this phase_
 
 ## CU2P7 (Cu–P)
 
-- Id: `phase:cu-p:cu2p7`; status `assigned`
-- Structure: Ni7Zr2 · mC36 · C2/m (12); type `st:ni7zr2-mc36`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Id: `phase:cu-p:cu2p7`; status `needs_review`
+- No structure assigned. Why: tdb_comment_names_own_prototype_Cu2P7_not_Ni7Zr2 (CuP-11Hin.tdb)
+- Candidate (dft_unique_match): Ni7Zr2 · mC36 · C2/m (12) — assignment withdrawn: tdb_comment_names_own_prototype_Cu2P7_not_Ni7Zr2 (CuP-11Hin.tdb)
 - Stoichiometry: Cu 0.2222, P 0.7778
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1024.72 K, x(P) 0.77778–0.77778
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-p:cu2p7)
 
-Names (5): _corpus: _corpus:phase:cu-p:cu2p7  
-_mp: _mp:mp-aaaabpmg  
-_oqmd: _oqmd:oqmd-6537  
+Names (4): _corpus: _corpus:phase:cu-p:cu2p7  
+_paper: _paper:10.1007/s11669-024-01112-z:Cu2P7  
 _tdb: _tdb:CuP-11Hin.tdb:CU2P7, tdb:CuP-24Oik.tdb:CU2P7  
 
 
@@ -118,7 +118,7 @@ _tdb: _tdb:CuP-11Hin.tdb:CU2P7, tdb:CuP-24Oik.tdb:CU2P7
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-024-01112-z](https://doi.org/10.1007/s11669-024-01112-z) Katsunari Oikawa, Nobufumi Ueshima, Thermodynamic Reassessment of the Binary Cu-Sn, Cu-P, and Sn-P and Ternary Cu-Sn-P Systems, J. Phase Equilib. Diffus. 45, 547-566 (2024).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/htmp.2011.061](https://doi.org/10.1515/htmp.2011.061) Masashi Hino,, Satoshi Iikubo,, Hiroshi Ohtani,, Thermodynamic Analysis of the Cu-Sn-P Ternary System, High Temperature Materials and Processes 30, 387-404 (2011).  
 _assessment that models this phase_
 
@@ -220,10 +220,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_14_matches_5_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.3333, P 0.6667
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1504.04 K, x(P) 0.66667–0.66667
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-p:cup2)
 
-Names (4): _corpus: _corpus:phase:cu-p:cup2  
+Names (5): _corpus: _corpus:phase:cu-p:cup2  
+_paper: _paper:10.1007/s11669-024-01112-z:CuP2  
 _tdb: _tdb:CuP-09Nod.tdb:CUP2, tdb:CuP-11Hin.tdb:CUP2, tdb:CuP-24Oik.tdb:CUP2  
 
 
@@ -253,7 +254,7 @@ _tdb: _tdb:CuP-09Nod.tdb:CUP2, tdb:CuP-11Hin.tdb:CUP2, tdb:CuP-24Oik.tdb:CUP2
 Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-024-01112-z](https://doi.org/10.1007/s11669-024-01112-z) Katsunari Oikawa, Nobufumi Ueshima, Thermodynamic Reassessment of the Binary Cu-Sn, Cu-P, and Sn-P and Ternary Cu-Sn-P Systems, J. Phase Equilib. Diffus. 45, 547-566 (2024).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.03.005](https://doi.org/10.1016/j.calphad.2009.03.005) T. Noda, K. Oikawa, S. Itoh, M. Hino, T. Nagasaka, Calphad, 33, 557-60(2009).  
 _assessment that models this phase_
 - [doi:10.1515/htmp.2011.061](https://doi.org/10.1515/htmp.2011.061) Masashi Hino,, Satoshi Iikubo,, Hiroshi Ohtani,, Thermodynamic Analysis of the Cu-Sn-P Ternary System, High Temperature Materials and Processes 30, 387-404 (2011).  
@@ -445,11 +446,11 @@ _assessment that models this phase_
 - Id: `phase:cu-p:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–2500 K, x(P) 0–0.91039
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-p:liquid)
 
-Names (7): _corpus: _corpus:phase:cu-p:liquid  
-_paper: _paper:10.1007/s11669-024-01112-z:liquid  
+Names (8): _corpus: _corpus:phase:cu-p:liquid  
+_paper: _paper:10.1007/s11669-024-01112-z:Liq., paper:10.1007/s11669-024-01112-z:liquid  
 _tdb: _tdb:CuP-01Mie.tdb:LIQUID, tdb:CuP-09Nod.tdb:LIQUID, tdb:CuP-11Hin.tdb:LIQUID, tdb:CuP-24Oik.tdb:LIQUID, tdb:CuP-87Cha.tdb:LIQUID  
 
 
@@ -514,6 +515,7 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-p:p-red`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token
 - Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P
+- Stoichiometry: P 1.0000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–704.7 K, x(P) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-p:p-red)
@@ -575,6 +577,7 @@ _assessment that models this phase_
 - Id: `phase:cu-p:p-white`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token
 - Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P
+- Stoichiometry: P 1.0000
 - Stability: not stable in 5 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-p:p-white)

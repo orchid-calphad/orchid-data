@@ -19,11 +19,11 @@ Table: Phases of the Al–Pt system (14)
 | [AL3PT5](#phase-al-pt-al3pt5); _phase:al-pt:al3pt5_ | Ge3Rh5 · oP16 · Pbam (55) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1735.72 K, x(Pt) 0.625–0.625 | 7 | 2 |
 | [ALPT_B20](#phase-al-pt-alpt-b20); _phase:al-pt:alpt-b20_ | FeSi · B20 · cP8 · P2_13 (198) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1826.41 K, x(Pt) 0.5–0.5 | 7 | 2 |
 | [ALPT2](#phase-al-pt-alpt2); _phase:al-pt:alpt2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1621.35 K, x(Pt) 0.66667–0.66667 | 0 | 1 |
-| [ALPT3_L12](#phase-al-pt-alpt3-l12); _phase:al-pt:alpt3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1824.92 K, x(Pt) 0.74881–0.78294 | 6 | 1 |
-| [BCC_A2](#phase-al-pt-bcc-a2); _phase:al-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
+| [ALPT3_L12](#phase-al-pt-alpt3-l12); _phase:al-pt:alpt3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1824.92 K, x(Pt) 0.74881–0.78294 | 5 | 1 |
+| [BCC_A2](#phase-al-pt-bcc-a2); _phase:al-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 3 |
 | [B2_BCC](#phase-al-pt-bcc-b2); _phase:al-pt:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1534.5–1817.32 K, x(Pt) 0.49818–0.55566 | 0 | 1 |
 | [FCC_4SL](#phase-al-pt-fcc-4sl); _phase:al-pt:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2499.43 K, x(Pt) 0–1 | 0 | 1 |
-| [FCC_A1](#phase-al-pt-fcc-a1); _phase:al-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 300–2329.92 K, x(Pt) 0–1 | 4 | 3 |
+| [FCC_A1](#phase-al-pt-fcc-a1); _phase:al-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2329.92 K, x(Pt) 0–1 | 4 | 3 |
 | [HCP_A3](#phase-al-pt-hcp-a3); _phase:al-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-al-pt-liquid); _phase:al-pt:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 928.07–2500 K, x(Pt) 0–1 | 21 | 2 |
 
@@ -314,7 +314,7 @@ _assessment that models this phase_
 - Structure: AuCu3 · L1_2 · cP4 · Pm-3m (221); type `st:l1-2-aucu3-cp4`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in AlPt-00Wu.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1824.92 K, x(Pt) 0.74881–0.78294
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pt:alpt3-l12)
 
 Names (3): _corpus: _corpus:phase:al-pt:alpt3-l12  
@@ -342,7 +342,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-pt:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 3 calculated diagram(s)
+- Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pt:bcc-a2)
 
@@ -446,7 +446,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 300–2329.92 K, x(Pt) 0–1
+- Stability: stable in 2 of 2 calculated diagram(s): 300–2329.92 K, x(Pt) 0–1
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-pt:fcc-a1)
 

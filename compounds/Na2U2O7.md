@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Na2U2O7 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -291.255 kJ/mol-atom ± 4 | α-Na2U2O7 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
+| -291.255 kJ/mol-atom ± 0.363636 | α-Na2U2O7 | 298.15 | experimental | experimental (calorimetry) | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017; _cites Guillaumont 2003_ | Table 8, p. 12, row 9 |  |
 | -291.255 kJ/mol-atom | α-Na2U2O7 | 298.15 | model | CALPHAD | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 11 |  |
 | -284.618 kJ/mol-atom | β-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 12 |  |
 | -284.591 kJ/mol-atom | α-Na2U2O7 | 298.15 | DFT | DFT | [Na–O–U](https://data.orchid-project.org/systems/NA-O-U.html) | [1] Smith 2017 | Table 8, p. 12, row 10 |  |
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Na2U2O7
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -291.255 | kJ/mol-atom | 4 | 0.004545 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4 |
-| -291.255 | kJ/mol-atom |  | 0.004545 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -284.618 | kJ/mol-atom |  | 0.004545 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -284.591 | kJ/mol-atom |  | 0.004545 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -291.255 | kJ/mol-atom | 0.3636 | 0.004545 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -291.255 | kJ/mol-atom |  | 0.004545 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -284.618 | kJ/mol-atom |  | 0.004545 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -284.591 | kJ/mol-atom |  | 0.004545 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

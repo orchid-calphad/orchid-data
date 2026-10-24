@@ -81,8 +81,8 @@ _assessment that models this phase_
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-fe:ce2fe17)
 
-Names (6): _corpus: _corpus:phase:ce-fe:ce2fe17  
-_paper: _paper:10.1016/j.calphad.2006.06.003:(αFe), paper:10.1016/j.calphad.2006.06.003:Ce2Fe17  
+Names (5): _corpus: _corpus:phase:ce-fe:ce2fe17  
+_paper: _paper:10.1016/j.calphad.2006.06.003:Ce2Fe17  
 _tdb: _tdb:CeFe-06Su.tdb:CE2FE17, tdb:CeFe-19Zhu.tdb:CE2FE17, tdb:CeFe-23Su.tdb:CE2FE17  
 
 

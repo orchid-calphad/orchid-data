@@ -1,14 +1,14 @@
 # Sb–Yb phases
 
-> Sb–Yb system: 13 phases (tier A 8, tier C 3, liquid 1, unresolved_no_candidates 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Sb–Yb system: 12 phases (tier A 8, tier C 3, liquid 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/SB-YB.html · Markdown: https://data.orchid-project.org/phases/pages/SB-YB.md
 
-13 phases (tier A 8, tier C 3, liquid 1, unresolved_no_candidates 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 8, tier C 3, liquid 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=SB-YB) · [full JSON](https://data.orchid-project.org/phases/systems/SB-YB.json) · [Sb–Yb system page](https://data.orchid-project.org/systems/SB-YB.html) · [Markdown](https://data.orchid-project.org/phases/pages/SB-YB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Sb–Yb system (13)
+Table: Phases of the Sb–Yb system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -23,7 +23,6 @@ Table: Phases of the Sb–Yb system (13)
 | [SB3YB4_D73](#phase-sb-yb-sb3yb4-d73); _phase:sb-yb:sb3yb4-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1953.22 K, x(Yb) 0.57143–0.57143 | 12 | 2 |
 | [SB3YB5_HT](#phase-sb-yb-sb3yb5); _phase:sb-yb:sb3yb5_ | Sb3Yb5 · oP32 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1553.22–1813.03 K, x(Yb) 0.625–0.625 | 4 | 1 |
 | [SB3YB5_D88](#phase-sb-yb-sb3yb5-d88); _phase:sb-yb:sb3yb5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1811.98 K, x(Yb) 0.625–0.625 | 9 | 2 |
-| [SB3YB5-HT](#phase-sb-yb-sb3yb5-ht); _phase:sb-yb:sb3yb5-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [SBYB_B1](#phase-sb-yb-sbyb-b1); _phase:sb-yb:sbyb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1348.34 K, x(Yb) 0.5–0.5 | 9 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Sb–Yb)
@@ -366,7 +365,7 @@ _cited as the source of values for this phase_
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-yb:sb3yb5)
 
-Names (3): _corpus: _corpus:phase:sb-yb:sb3yb5  
+Names (4): _corpus: _corpus:phase:sb-yb:sb3yb5, corpus:phase:sb-yb:sb3yb5-ht  
 _paper: _paper:10.1016/j.calphad.2012.02.004:βSb3Yb5  
 _tdb: _tdb:SbYb-12Liu.tdb:SB3YB5_HT  
 
@@ -421,17 +420,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102541](https://doi.org/10.1016/j.calphad.2023.102541) Jorge Paz Soldan Palma, XiaoYu Chong, Yi Wang, Shun-Li Shang, Zi-Kui Liu, Thermodynamic re-modeling of the Yb-Sb system aided by first-principles calculations, Calphad 81, 102541 (2023).  
 _assessment that models this phase; reports values for this phase_
-
-## SB3YB5-HT (Sb–Yb)
-
-- Id: `phase:sb-yb:sb3yb5-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-yb:sb3yb5-ht)
-
-Names (1): _corpus: _corpus:phase:sb-yb:sb3yb5-ht  
-
 
 ## SBYB_B1 (Sb–Yb)
 

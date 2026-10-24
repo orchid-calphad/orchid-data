@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe3O4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -159.411 | kJ/mol-atom |  | 7.143e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -159.411 | kJ/mol-atom |  | 7.143e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -21,7 +21,7 @@ Table: Phases of the Al–Ta system (14)
 | [AL69TA39](#phase-al-ta-al69ta39); _phase:al-ta:al69ta39_ | Al69Ta39 · cF444 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 1371.45–1884.72 K, x(Ta) 0.35489–0.37818 | 23 | 2 |
 | [AL7TA5](#phase-al-ta-al7ta5); _phase:al-ta:al7ta5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1618.38 K, x(Ta) 0.41667–0.41667 | 4 | 1 |
 | [ALTA](#phase-al-ta-alta); _phase:al-ta:alta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2037.05 K, x(Ta) 0.5–0.51515 | 4 | 2 |
-| [BCC_A2](#phase-al-ta-bcc-a2); _phase:al-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.99 K, x(Ta) 0.87743–1 | 30 | 4 |
+| [BCC_A2](#phase-al-ta-bcc-a2); _phase:al-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.99 K, x(Ta) 0.87743–1 | 5 | 4 |
 | [SIGMA_D8B](#phase-al-ta-d8b-sigma); _phase:al-ta:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2378.58 K, x(Ta) 0.50945–0.85074 | 56 | 4 |
 | [FCC_A1](#phase-al-ta-fcc-a1); _phase:al-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–935.02 K, x(Ta) 0–0.00252 | 7 | 4 |
 | [HCP_A3](#phase-al-ta-hcp-a3); _phase:al-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
@@ -314,11 +314,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:al-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–3999.99 K, x(Ta) 0.87743–1
-- Literature: 30 values (28 accepted) from 3 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ta:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:al-ta:bcc-a2  
-_paper: _paper:10.1007/bf02665557:bcc (Ta), paper:10.1016/j.intermet.2009.06.015:β, paper:10.1016/j.intermet.2009.06.015:ε, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+Names (7): _corpus: _corpus:phase:al-ta:bcc-a2  
+_paper: _paper:10.1007/bf02665557:bcc (Ta), paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
 _tdb: _tdb:AlTa-10Wit.tdb:BCC_A2, tdb:AlTa-90Kat.tdb:BCC_A2, tdb:AlTa-96Du-LB.tdb:BCC_A2, tdb:AlTa-98Sau.tdb:BCC_A2  
 
 
@@ -354,10 +354,10 @@ _tdb: _tdb:AlTa-10Wit.tdb:BCC_A2, tdb:AlTa-90Kat.tdb:BCC_A2, tdb:AlTa-96Du-LB.td
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02665557](https://doi.org/10.1007/BF02665557) Y. Du, R. Schmid-Fetzer, J. Phase Equilib., 17, 311-324(1996).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2009.06.015](https://doi.org/10.1016/j.intermet.2009.06.015) V.T. Witusiewicz, A.A. Bondar, U. Hecht, J. Zollinger, V.M. Petyukh, O.S. Fomichov et al., Experimental study and thermodynamic re-assessment of the binary Al–Ta system, Intermetallics 18, 92-106 (2010).  
+_assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 

@@ -1,21 +1,20 @@
 # Bi–Li phases
 
-> Bi–Li system: 9 phases (tier A 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–Li system: 8 phases (tier A 6, liquid 1, needs_review 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-LI.html · Markdown: https://data.orchid-project.org/phases/pages/BI-LI.md
 
-9 phases (tier A 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 6, liquid 1, needs_review 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-LI) · [full JSON](https://data.orchid-project.org/phases/systems/BI-LI.json) · [Bi–Li system page](https://data.orchid-project.org/systems/BI-LI.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-LI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–Li system (9)
+Table: Phases of the Bi–Li system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-bi-li-a7-rhombohedral); _phase:bi-li:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Li) 0–0 | 2 | 1 |
 | [BCC_A2](#phase-bi-li-bcc-a2); _phase:bi-li:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–454.6 K, x(Li) 1–1 | 2 | 1 |
 | [BILI_HT](#phase-bi-li-bili); _phase:bi-li:bili_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 680–680 K, x(Li) 0.5–0.5 | 3 | 1 |
-| [BILI-HT](#phase-bi-li-bili-ht); _phase:bi-li:bili-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [BILI_L10](#phase-bi-li-bili-l10); _phase:bi-li:bili-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–670 K, x(Li) 0.5–0.5 | 5 | 1 |
 | [BILI3_D03](#phase-bi-li-bili3-d03); _phase:bi-li:bili3-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1431.82 K, x(Li) 0.75–0.75 | 8 | 1 |
 | [FCC_A1](#phase-bi-li-fcc-a1); _phase:bi-li:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -90,7 +89,7 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-li:bili)
 
-Names (3): _corpus: _corpus:phase:bi-li:bili  
+Names (4): _corpus: _corpus:phase:bi-li:bili, corpus:phase:bi-li:bili-ht  
 _paper: _paper:10.1016/j.tca.2013.01.029:βBiLi  
 _tdb: _tdb:BiLi-13Liu.tdb:BILI_HT  
 
@@ -110,17 +109,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1149/1.2131401](https://doi.org/10.1149/1.2131401) W. Weppner, R. A. Huggins, Thermodynamic Properties of the Intermetallic Systems Lithium‐Antimony and Lithium‐Bismuth, J. Electrochem. Soc. 125, 7-14 (1978).  
 _cited as the source of values for this phase_
-
-## BILI-HT (Bi–Li)
-
-- Id: `phase:bi-li:bili-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-li:bili-ht)
-
-Names (1): _corpus: _corpus:phase:bi-li:bili-ht  
-
 
 ## BILI_L10 (Bi–Li)
 

@@ -12,7 +12,7 @@ Table: Phases of the Pd–Te system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [HEXAGONAL_A8](#phase-pd-te-a8-hexagonal); _phase:pd-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.72 K, x(Te) 1–1 | 2 | 1 |
+| [HEXAGONAL_A8](#phase-pd-te-a8-hexagonal); _phase:pd-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.72 K, x(Te) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-pd-te-bcc-a2); _phase:pd-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-pd-te-fcc-a1); _phase:pd-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1833 K, x(Te) 0–0.16637 | 4 | 1 |
 | [HCP_A3](#phase-pd-te-hcp-a3); _phase:pd-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -32,11 +32,10 @@ Table: Phases of the Pd–Te system (13)
 - Structure: gamma-Se · A8 · hP3 · P3_121 (152); type `st:a8-gamma-se-hp3`; tier A: standard phase name; confidence high
 - Stoichiometry: Te 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–722.72 K, x(Te) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-te:a8-hexagonal)
 
-Names (4): _corpus: _corpus:phase:pd-te:a8-hexagonal, corpus:phase:pd-te:hexagonal-a8  
-_paper: _paper:10.1016/j.intermet.2010.12.014:Te-HEXA  
+Names (3): _corpus: _corpus:phase:pd-te:a8-hexagonal, corpus:phase:pd-te:hexagonal-a8  
 _tdb: _tdb:PdTe-11Gos.tdb:HEXAGONAL_A8  
 
 
@@ -49,12 +48,10 @@ _tdb: _tdb:PdTe-11Gos.tdb:HEXAGONAL_A8
 50: CONST HEXAGONAL_A8 : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.intermet.2010.12.014](https://doi.org/10.1016/j.intermet.2010.12.014) S. Gossé, C. Guéneau, Thermodynamic assessment of the palladium–tellurium (Pd–Te) system, Intermetallics 19, 621-629 (2011).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02645383](https://doi.org/10.1007/bf02645383) H Okamoto, The pd-te system (palladium-tellurium), JPE 13, 73-78 (1992).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Pd–Te)
 

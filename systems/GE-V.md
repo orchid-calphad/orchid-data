@@ -1,10 +1,10 @@
 # Ge–V system
 
-> Ge–V system: 61 accepted literature values (invariant reaction 35, formation 24, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–V system: 59 accepted literature values (invariant reaction 33, formation 24, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-V.html · Markdown: https://data.orchid-project.org/systems/GE-V.md
 
-61 accepted literature values from 2 paper(s) (experimental 29, model 29, unspecified 3); 2 calculated phase diagram(s).
+59 accepted literature values from 2 paper(s) (experimental 28, model 28, unspecified 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-V.json) · [CSV](https://data.orchid-project.org/systems/GE-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-V/GeV-08Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GE-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-V.html) · [Markdown](https://data.orchid-project.org/systems/GE-V.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 29 |
-| model | 29 |
+| experimental | 28 |
+| model | 28 |
 | unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 35 |
+| invariant reaction | 33 |
 | phase transition | 2 |
 | formation | 24 |
 
@@ -70,7 +70,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–V system (35)
+Table: Invariant reactions reported in the literature for the Ge–V system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -103,8 +103,6 @@ Table: Invariant reactions reported in the literature for the Ge–V system (35)
 | 1233.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.95; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 13 |  |
 | 1233.15 | L + V11Ge8 -> V17Ge31 | L: Ge 0.958; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 12 |  |
 | 1232.15 | peritectic: L + V11Ge8 -> V17Ge31 | L: Ge 0.961; V11Ge8: Ge 0.421; V17Ge31: Ge 0.646 | model | [1] Wang 2008 | Table 4, p. 4, row 14 |  |
-| 1210.15 | congruent melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | model | [1] Wang 2008 | Table 4, p. 4, row 18 |  |
-| 1210.15 | congruent melting: L -> (Ge) | L: Ge 1; (Ge): Ge 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 17 |  |
 | 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.971; V17Ge31: Ge 0.646; Ge: Ge 1 | experimental | [2] Yuan 2011 | Table 6, p. 5, row 14 |  |
 | 1203.85 | L -> V17Ge31 + Ge | L: Ge 0.975; V17Ge31: Ge 0.646; Ge: Ge 1 | model | [2] Yuan 2011 | Table 6, p. 5, row 13 |  |
 | 1203.15 | eutectic: L -> (Ge) + V17Ge31 | L: Ge 1; (Ge): Ge 0.98; V17Ge31: Ge 0.646 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 4, p. 4, row 15 |  |

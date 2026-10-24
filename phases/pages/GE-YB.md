@@ -13,11 +13,11 @@ Table: Phases of the Ge–Yb system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ge-yb-a4-diamond); _phase:ge-yb:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1213.6 K, x(Yb) 0–0 | 3 | 2 |
-| [BCC_A2](#phase-ge-yb-bcc-a2); _phase:ge-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1033–1090 K, x(Yb) 1–1 | 3 | 2 |
+| [BCC_A2](#phase-ge-yb-bcc-a2); _phase:ge-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1033–1090 K, x(Yb) 1–1 | 0 | 2 |
 | [FCC_A1](#phase-ge-yb-fcc-a1); _phase:ge-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1088 K, x(Yb) 1–1 | 3 | 2 |
 | [GE10YB11](#phase-ge-yb-ge10yb11); _phase:ge-yb:ge10yb11_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1777.83 K, x(Yb) 0.52381–0.52381 | 6 | 2 |
 | [GE3YB5_D88](#phase-ge-yb-ge3yb5-d88); _phase:ge-yb:ge3yb5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1857.88 K, x(Yb) 0.625–0.625 | 6 | 2 |
-| [GE4YB5](#phase-ge-yb-ge4yb5); _phase:ge-yb:ge4yb5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1914.51 K, x(Yb) 0.55556–0.55556 | 9 | 2 |
+| [GE4YB5](#phase-ge-yb-ge4yb5); _phase:ge-yb:ge4yb5_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1914.51 K, x(Yb) 0.55556–0.55556 | 6 | 2 |
 | [GE5YB3](#phase-ge-yb-ge5yb3); _phase:ge-yb:ge5yb3_ | Pd5Th3 · hP8 · P-62m (189) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1351.33 K, x(Yb) 0.375–0.375 | 6 | 2 |
 | [GE8YB3](#phase-ge-yb-ge8yb3); _phase:ge-yb:ge8yb3_ | Ge8Yb3 · aP22 · P-1 (2) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1141.02 K, x(Yb) 0.27273–0.27273 | 6 | 2 |
 | [GEYB2_C37](#phase-ge-yb-geyb2-c37); _phase:ge-yb:geyb2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1477.86 K, x(Yb) 0.66667–0.66667 | 6 | 2 |
@@ -65,11 +65,10 @@ _assessment that models this phase_
 - Id: `phase:ge-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1033–1090 K, x(Yb) 1–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-yb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ge-yb:bcc-a2  
-_paper: _paper:10.1080/00150193.2018.1392217:β(Yb)  
+Names (3): _corpus: _corpus:phase:ge-yb:bcc-a2  
 _tdb: _tdb:GeYb-18Ach.tdb:BCC_A2, tdb:GeYb-18Zhu.tdb:BCC_A2  
 
 
@@ -91,9 +90,9 @@ _tdb: _tdb:GeYb-18Ach.tdb:BCC_A2, tdb:GeYb-18Zhu.tdb:BCC_A2
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1080/00150193.2018.1392217](https://doi.org/10.1080/00150193.2018.1392217) Zhu Dai-man, Li Chang-rong, Guo Cui-ping, Du Zhen-min, Thermodynamic assessment of the Ge-Yb binary system, Ferroelectrics 522, 80-87 (2018).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-017-6203-x](https://doi.org/10.1007/s10973-017-6203-x) Khadija Achgar, Saïd Kardellass, Najim Selhaoui, Thermodynamic assessment of the Ytterbium–Germanium binary system, J Therm Anal Calorim 131, 443-453 (2018).  
+_assessment that models this phase_
+- [doi:10.1080/00150193.2018.1392217](https://doi.org/10.1080/00150193.2018.1392217) Zhu Dai-man, Li Chang-rong, Guo Cui-ping, Du Zhen-min, Thermodynamic assessment of the Ge-Yb binary system, Ferroelectrics 522, 80-87 (2018).  
 _assessment that models this phase_
 
 ## FCC_A1 (Ge–Yb)
@@ -216,7 +215,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.4444, Yb 0.5556
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1914.51 K, x(Yb) 0.55556–0.55556
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-yb:ge4yb5)
 
 Names (4): _corpus: _corpus:phase:ge-yb:ge4yb5  

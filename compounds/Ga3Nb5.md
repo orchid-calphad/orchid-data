@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga3Nb5.html · Markdown: https:/
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 1); experimental median -33.05 kJ/mol-atom (n = 2); Materials Project -32.041 kJ/mol-atom (mp-aaabglqj); OQMD -32.471 kJ/mol-atom (oqmd-30301).
 
-Systems: [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html)
+Systems: [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga3Nb5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298.15 | experimental | EMF | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
-| -26.5 kJ/mol-atom ± 1.7 | Ga3Nb5 | 1373 | experimental | Calorimetry | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
-| -28.953 kJ/mol-atom | Ga3Nb5 | 298.15 | model |  | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
-| -27.43 kJ/mol-atom | Ga3Nb5 | 298.15 | model | Miedema | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
-| -32.89 kJ/mol-atom | Ga3Nb5 | 298.15 | DFT | DFT | [Ga–Gd–Nb](https://data.orchid-project.org/systems/GA-GD-NB.html) | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13 |  |
+| -39.6 kJ/mol-atom ± 1 | Ga3Nb5 | 298.15 | experimental | EMF | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Kober 1986_ | Table 2, p. 8, row 12 |  |
+| -26.5 kJ/mol-atom ± 1.7 | Ga3Nb5 | 1373 | experimental | Calorimetry | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2899%2900599-x) | Table 2, p. 8, row 11 |  |
+| -28.953 kJ/mol-atom | Ga3Nb5 | 298.15 | model |  | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023 | Table 2, p. 8, row 15 |  |
+| -27.43 kJ/mol-atom | Ga3Nb5 | 298.15 | model | Miedema | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 14 |  |
+| -32.89 kJ/mol-atom | Ga3Nb5 | 298.15 | DFT | DFT | [Ga–Nb](https://data.orchid-project.org/systems/GA-NB.html) | [1] Tamim 2023; _cites Colinet 2015_ | Table 2, p. 8, row 13 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Ga3Nb5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.6 | kJ/mol-atom | 1 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -39.6 | kJ/mol-atom | 1 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -26.5 | kJ/mol-atom | 1.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -28.953 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -27.43 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.89 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -28.953 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -27.43 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.89 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -42,8 +42,8 @@ Table: DFT formation energy of Ga3Nb5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabglqj | -32.041 | -0.332087 | I4/mcm | 0.813 | 0.0084 | no |
-| OQMD | oqmd-30301 | -32.471 | -0.33654 | I4/mcm | 0.501 | 0.0052 | no |
+| Materials Project | mp-aaabglqj | -32.041 | -0.332087 | I4/mcm | 0.8134 | 0.0084 | no |
+| OQMD | oqmd-30301 | -32.471 | -0.33654 | I4/mcm | 0.5007 | 0.0052 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

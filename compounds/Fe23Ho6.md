@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Fe23Ho6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -6.7 | kJ/mol (basis unstated) |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.12 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1.84 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -6.7 | kJ/mol (basis unstated) |  | 0.05 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -6.2 | kJ/mol (basis unstated) |  | 0.05 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -2.12 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -1.84 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 
 ## Sources
 

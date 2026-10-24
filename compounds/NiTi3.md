@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/NiTi3.html · Markdown: https://data.orchid-project.org/compounds/NiTi3.md
 
-4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -7.619 kJ/mol-atom (mp-aaacdvmv); OQMD -24.754 kJ/mol-atom (oqmd-1280355).
+4 accepted literature formation-enthalpy value(s) (model 1, DFT 3); Materials Project -7.619 kJ/mol-atom (mp-aaacdvmv); OQMD -10.781 kJ/mol-atom (oqmd-311353).
 
-Systems: [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) · [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
+Systems: [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html)
 
 ## Literature values
 
@@ -16,8 +16,8 @@ Table: Enthalpy of formation of NiTi3 reported in the literature (4)
 |---:|---|---:|---|---|---|---|---|---|
 | -13.68 kJ/mol-atom | NiTi3(D03) | 298.15 | model | CALPHAD | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 17 |  |
 | -12.11 kJ/mol-atom | NiTi3(D03) | 0 | DFT | First-principles | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [1] Hu 2014 | Table 1, p. 5, row 16 |  |
-| -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
-| -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Si–Ti](https://data.orchid-project.org/systems/NI-SI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
+| -8.04 kJ/mol-atom | Ti3Ni(L12) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 7 |  |
+| -5.69 kJ/mol-atom | Ti3Ni(D024) | 0 | DFT | Ab initio | [Ni–Ti](https://data.orchid-project.org/systems/NI-TI.html) | [2] Tokunaga 2004 | Table 2, p. 3, row 13 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of NiTi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -13.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12.11 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -8.04 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -5.69 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -13.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -12.11 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -8.04 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -5.69 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of NiTi3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacdvmv | -7.619 | -0.078961 | Pm-3m | 12.45 | 0.129 | yes |
-| OQMD | oqmd-1280355 | -24.754 | -0.256557 | Pm-3n | 1.137 | 0.0118 | yes |
+| OQMD | oqmd-311353 | -10.781 | -0.111734 | Fm-3m | 15.1103 | 0.1566 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -18,12 +18,12 @@ Table: Phases of the Pr–Si system (12)
 | [FCC_A1](#phase-pr-si-fcc-a1); _phase:pr-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-pr-si-hcp-a3); _phase:pr-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pr-si-liquid); _phase:pr-si:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1003.93–2500 K, x(Si) 0–1 | 0 | 1 |
-| [PR3SI4](#phase-pr-si-pr3si4); _phase:pr-si:pr3si4_ | V2B3 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1618.25 K, x(Si) 0.57143–0.57143 | 1 | 1 |
+| [PR3SI4](#phase-pr-si-pr3si4); _phase:pr-si:pr3si4_ | V2B3 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1618.25 K, x(Si) 0.57143–0.57143 | 10 | 1 |
 | [PR5SI3_D8L](#phase-pr-si-pr5si3-d8l); _phase:pr-si:pr5si3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1670.8 K, x(Si) 0.375–0.375 | 0 | 1 |
-| [PR5SI4](#phase-pr-si-pr5si4); _phase:pr-si:pr5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1795.19 K, x(Si) 0.44444–0.44444 | 1 | 1 |
+| [PR5SI4](#phase-pr-si-pr5si4); _phase:pr-si:pr5si4_ | Si4Zr5 · tP36 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1795.19 K, x(Si) 0.44444–0.44444 | 5 | 1 |
 | [PR5SI9_ALPHA](#phase-pr-si-pr5si9-alpha); _phase:pr-si:pr5si9-alpha_ | Gd5Si4 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–305.34 K, x(Si) 0.64286–0.64286 | 0 | 1 |
-| [PR5SI9_CC](#phase-pr-si-pr5si9-cc); _phase:pr-si:pr5si9-cc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 305.34–1972.55 K, x(Si) 0.64286–0.64286 | 0 | 1 |
-| [PRSI_B27](#phase-pr-si-prsi-b27); _phase:pr-si:prsi-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1933.48 K, x(Si) 0.5–0.5 | 0 | 1 |
+| [PR5SI9_CC](#phase-pr-si-pr5si9-cc); _phase:pr-si:pr5si9-cc_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 305.34–1972.55 K, x(Si) 0.64286–0.64286 | 3 | 1 |
+| [PRSI_B27](#phase-pr-si-prsi-b27); _phase:pr-si:prsi-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1933.48 K, x(Si) 0.5–0.5 | 3 | 1 |
 
 ## DIAMOND_A4 (Pr–Si)
 
@@ -193,7 +193,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pr 0.4286, Si 0.5714
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1618.25 K, x(Si) 0.57143–0.57143
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-si:pr3si4)
 
 Names (3): _corpus: _corpus:phase:pr-si:pr3si4  
@@ -250,7 +250,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pr 0.5556, Si 0.4444
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1795.19 K, x(Si) 0.44444–0.44444
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-si:pr5si4)
 
 Names (3): _corpus: _corpus:phase:pr-si:pr5si4  
@@ -305,15 +305,17 @@ _assessment that models this phase_
 
 - Id: `phase:pr-si:pr5si9-cc`; status `needs_review`
 - No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_C_c; stoichiometry_contradicts_C_c:PrSi-20Xu.tdb
+- Candidate (literature_printed): Si2Th · tI12 — printed with a label mapped to this phase
 - Candidate (name_token): Si2Th · C_c · tI12 · I4_1/amd (141) — Strukturbericht/word 'CC' in the TDB name
 - Candidate (sgte_mmc2): Si2Th · C_c · tI12 · I4_1/amd (141) — Hallstedt 2025 mmc2 row for PR5SI9_CC: Pr5Si9 (high T)
 - Candidate (tdb_comment): Si2Th · tI12 · I4_1/amd — PrSi-20Xu.tdb: 'Prototype Si2Th (tI12, I4_1/amd)'
 - Stoichiometry: Pr 0.3571, Si 0.6429
 - Stability: stable in 1 of 1 calculated diagram(s): 305.34–1972.55 K, x(Si) 0.64286–0.64286
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-si:pr5si9-cc)
 
-Names (2): _corpus: _corpus:phase:pr-si:pr5si9-cc  
+Names (3): _corpus: _corpus:phase:pr-si:pr5si9-cc  
+_paper: _paper:10.1111/jace.17031:β-Pr5Si9  
 _tdb: _tdb:PrSi-20Xu.tdb:PR5SI9_CC  
 
 
@@ -329,7 +331,7 @@ _tdb: _tdb:PrSi-20Xu.tdb:PR5SI9_CC
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1111/jace.17031](https://doi.org/10.1111/jace.17031) Kai Xu, Keke Chang, Xiaobing Zhou, Leilei Chen, Junwen Liu, Zixuan Deng et al., Thermodynamic descriptions of the light rare‐earth elements in silicon carbide ceramics, J Am Ceram Soc 103, 3812-3825 (2020).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## PRSI_B27 (Pr–Si)
 
@@ -338,12 +340,13 @@ _assessment that models this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaaotk and oqmd-7935, space group 62
 - Stoichiometry: Pr 0.5000, Si 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1933.48 K, x(Si) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pr-si:prsi-b27)
 
-Names (4): _corpus: _corpus:phase:pr-si:prsi-b27  
+Names (5): _corpus: _corpus:phase:pr-si:prsi-b27  
 _mp: _mp:mp-aaaaaotk  
 _oqmd: _oqmd:oqmd-7935  
+_paper: _paper:10.1111/jace.17031:PrSi  
 _tdb: _tdb:PrSi-20Xu.tdb:PRSI_B27  
 
 
@@ -359,7 +362,7 @@ _tdb: _tdb:PrSi-20Xu.tdb:PRSI_B27
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1111/jace.17031](https://doi.org/10.1111/jace.17031) Kai Xu, Keke Chang, Xiaobing Zhou, Leilei Chen, Junwen Liu, Zixuan Deng et al., Thermodynamic descriptions of the light rare‐earth elements in silicon carbide ceramics, J Am Ceram Soc 103, 3812-3825 (2020).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

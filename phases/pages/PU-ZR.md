@@ -13,7 +13,7 @@ Table: Phases of the Pu–Zr system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-pu-zr-a6-tetragonal); _phase:pu-zr:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 740–750 K, x(Zr) 0–0 | 0 | 2 |
-| [BCC_A2](#phase-pu-zr-bcc-a2); _phase:pu-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 754.9–3999.25 K, x(Zr) 0–1 | 2 | 2 |
+| [BCC_A2](#phase-pu-zr-bcc-a2); _phase:pu-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 754.9–3999.25 K, x(Zr) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-pu-zr-fcc-a1); _phase:pu-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 506.77–1179.2 K, x(Zr) 0–0.65231 | 0 | 2 |
 | [HCP_A3](#phase-pu-zr-hcp-a3); _phase:pu-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2124 K, x(Zr) 0.85656–1 | 3 | 2 |
 | [LIQUID](#phase-pu-zr-liquid); _phase:pu-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 910–4000 K, x(Zr) 0–1 | 0 | 2 |
@@ -60,11 +60,10 @@ _assessment that models this phase_
 - Id: `phase:pu-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 754.9–3999.25 K, x(Zr) 0–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pu-zr:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:pu-zr:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(00)00004-3:δ-Pu  
+Names (3): _corpus: _corpus:phase:pu-zr:bcc-a2  
 _tdb: _tdb:PuZr-10Kur.tdb:BCC_A2, tdb:PuZr-99Kur.tdb:BCC_A2  
 
 
@@ -87,7 +86,7 @@ _tdb: _tdb:PuZr-10Kur.tdb:BCC_A2, tdb:PuZr-99Kur.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/S0364-5916(00)00004-3](https://doi.org/10.1016/S0364-5916%2800%2900004-3) M. Kurata, Calphad, 23, 305-37(1999).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Pu–Zr)
 

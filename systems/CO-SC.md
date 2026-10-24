@@ -1,10 +1,10 @@
 # Co–Sc system
 
-> Co–Sc system: 22 accepted literature values (invariant reaction 22) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Sc system: 18 accepted literature values (invariant reaction 18) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-SC.html · Markdown: https://data.orchid-project.org/systems/CO-SC.md
 
-22 accepted literature values from 1 paper(s) (experimental 11, model 11); 1 calculated phase diagram(s).
+18 accepted literature values from 1 paper(s) (experimental 9, model 9); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-SC.json) · [CSV](https://data.orchid-project.org/systems/CO-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-SC/CoSc-08Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CO-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-SC.html) · [Markdown](https://data.orchid-project.org/systems/CO-SC.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 11 |
+| experimental | 9 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
+| invariant reaction | 18 |
 
 ## Calculated phase diagrams
 
@@ -53,7 +53,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Sc system (22)
+Table: Invariant reactions reported in the literature for the Co–Sc system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -63,8 +63,6 @@ Table: Invariant reactions reported in the literature for the Co–Sc system (22
 | 1793.15 | congruent melting: L ↔ Co2Sc |  | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 15 |  |
 | 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 20 |  |
 | 1768.15 | congruent melting: L ↔ αCo | αCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 19 |  |
-| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 3 |  |
-| 1610.15 | polymorphic: βSc ↔ αSc | αSc: Sc 1 | model | [1] Liu 2008 | Table 2, p. 4, row 4 |  |
 | 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.137; Co2Sc: Sc 0.31; αCo: Sc 0.006 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 17 |  |
 | 1413.15 | eutectic: L ↔ Co2Sc + αCo | L: Sc 0.142; Co2Sc: Sc 0.31; αCo: Sc 0.013 | model | [1] Liu 2008 | Table 2, p. 4, row 18 |  |
 | 1323.15 | peritectic: L + Co2Sc ↔ CoSc | L: Sc 0.542; Co2Sc: Sc 0.364; CoSc: Sc 0.48 | model | [1] Liu 2008 | Table 2, p. 4, row 14 |  |
@@ -77,8 +75,6 @@ Table: Invariant reactions reported in the literature for the Co–Sc system (22
 | 1092.15 | eutectic: L ↔ CoSc + CoSc2 | L: Sc 0.639; CoSc: Sc 0.48; CoSc2: Sc 0.667 | model | [1] Liu 2008 | Table 2, p. 4, row 12 |  |
 | 1046.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | model | [1] Liu 2008 | Table 2, p. 4, row 8 |  |
 | 1043.15 | eutectic: L ↔ CoSc2 + CoSc3 | L: Sc 0.715; CoSc2: Sc 0.667; CoSc3: Sc 0.773 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 7 |  |
-| 695.15 | polymorphic: αCo ↔ εCo | εCo: Sc 0 | experimental | [1] Liu 2008; _cites Okamoto 2000_ | Table 2, p. 4, row 21 |  |
-| 694.15 | polymorphic: αCo ↔ εCo | εCo: Sc 0 | model | [1] Liu 2008 | Table 2, p. 4, row 22 |  |
 
 ## Sources
 

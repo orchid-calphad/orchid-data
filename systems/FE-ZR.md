@@ -1,10 +1,10 @@
 # Fe–Zr system
 
-> Fe–Zr system: 296 accepted literature values (invariant reaction 175, formation 56, phase transition 41, phase equilibrium 23) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Zr system: 349 accepted literature values (invariant reaction 183, formation 71, phase transition 41, crystal structure 30) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-ZR.html · Markdown: https://data.orchid-project.org/systems/FE-ZR.md
 
-296 accepted literature values from 7 paper(s) (experimental 151, model 128, unspecified 17); 12 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+349 accepted literature values from 7 paper(s) (experimental 155, model 138, DFT 39, unspecified 17); 12 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-ZR/FeZr-01Jia.json) · [phases (12)](https://data.orchid-project.org/phases/pages/FE-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-ZR.md)
 
@@ -12,18 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 151 |
-| model | 128 |
+| experimental | 155 |
+| model | 138 |
+| DFT | 39 |
 | unspecified | 17 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 175 |
+| invariant reaction | 183 |
 | phase transition | 41 |
 | phase equilibrium | 23 |
-| formation | 56 |
+| formation | 71 |
+| crystal structure | 30 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -216,7 +218,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Zr system (175)
+Table: Invariant reactions reported in the literature for the Fe–Zr system (183)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -284,6 +286,8 @@ Table: Invariant reactions reported in the literature for the Fe–Zr system (17
 | 1573.15 | L -> γFe + Fe23Zr6 | Fe23Zr6: Zr 0.206897 | experimental | [3] Jiang 2001; _cites Alekseeva 1989_ | Table 1, p. 3, row 18 |  |
 | 1573.15 | liquid -> Fe2Zr + Fe - f.c.c. | Fe2Zr: Fe 0.666667, Zr 0.333333 | unspecified | [1] Servant 1995; _cites Alekseeva 1989_ | Table 1, p. 2, row 40 |  |
 | 1544 | eutectic |  | model | [5] Jiang 2023 | p. 5 | “The eutectic temperature and composition are calculated at 1544 K and 6.6 mol. % β ZrO2 .” |
+| 1525.15 | Fe2Zr_H ↔ Fe2Zr_C + γ(Fe) | Fe2Zr_H: Zr 0.263; Fe2Zr_C: Zr 0.268; γ(Fe): Zr 0.011 | model | [6] Yang 2013 | Table 2, p. 3, row 21 |  |
+| 1513.15 | Fe2Zr_H ↔ Fe2Zr_C + γ(Fe) |  | experimental | [6] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 22 |  |
 | 1513 | hex.-Fe2Zr -> fcc + Fe2Zr | hex.-Fe2Zr: Zr 0.2717; fcc: Zr 0.0124; Fe2Zr: Zr 0.2845 | model | [2] Guo 2008 | Table 2, p. 6, row 7 |  |
 | 1513 | hex.-Fe2Zr -> Fe2Zr + Fe23Zr6 | hex.-Fe2Zr: Zr 0.265; Fe2Zr: Zr 0.2883; Fe23Zr6: Zr 0.2069 | model | [4] Du 2021 | Table 5, p. 12, row 11 |  |
 | 1513 | hex.-Fe2Zr -> fcc + Fe2Zr | hex.-Fe2Zr: Fe 0.666667, Zr 0.333333 | experimental | [2] Guo 2008; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 2, p. 6, row 8 |  |
@@ -345,8 +349,10 @@ Table: Invariant reactions reported in the literature for the Fe–Zr system (17
 | 1198.15 | Fe23Zr6 + Fe - b.c.c. -> Fe - f.c.c. | Fe23Zr6: Fe 0.793103, Zr 0.206897 | unspecified | [1] Servant 1995; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02669163) | Table 1, p. 2, row 46 |  |
 | 1198.15 | γFe + Fe23Zr6 -> αFe | Fe23Zr6: Zr 0.206897 | experimental | [3] Jiang 2001; _cites Svechnikov 1962_ | Table 1, p. 3, row 25 |  |
 | 1198.15 | γFe + Fe23Zr6 -> αFe | Fe23Zr6: Zr 0.206897 | experimental | [3] Jiang 2001; _cites Fischer 1970_ [doi](https://doi.org/10.1002/srin.197001633) | Table 1, p. 3, row 26 |  |
+| 1198 | fcc-Fe + Fe23Zr6 -> bcc-Fe |  | experimental | [7] Lu 2017; _cites Svechnikov 1962_ | Table 4, p. 7, row 2 |  |
 | 1196.15 | Zr - b.c.c. + FeZr2 -> FeZr3 | FeZr2: Fe 0.333333, Zr 0.666667; FeZr3: Fe 0.25, Zr 0.75 | model | [1] Servant 1995 | Table 1, p. 2, row 7 |  |
 | 1196.15 | FeZr2 + βZr -> FeZr3 | FeZr2: Zr 0.684; βZr: Zr 0.882; FeZr3: Zr 0.751 | model | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 1, p. 4, row 12 |  |
+| 1191 | fcc-Fe + Fe23Zr6 -> bcc-Fe | fcc-Fe: Zr 5.490e-4; Fe23Zr6: Zr 0.207; bcc-Fe: Zr 0.001063 | model | [7] Lu 2017 | Table 4, p. 7, row 1 |  |
 | 1190.15 | γFe + Fe23Zr6 -> αFe | γFe: Zr 0.004; Fe23Zr6: Zr 0.207; αFe: Zr 0.003 | model | [3] Jiang 2001 | Table 1, p. 3, row 33 |  |
 | 1189.15 | Fe23Zr6 + Fe - b.c.c. -> Fe - f.c.c. | Fe23Zr6: Fe 0.793103, Zr 0.206897 | experimental | [1] Servant 1995 | Table 1, p. 2, row 41 |  |
 | 1189.15 | γFe + Fe23Zr6 -> αFe | Fe23Zr6: Zr 0.206897 | experimental | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 1, p. 3, row 28 |  |
@@ -377,16 +383,20 @@ Table: Invariant reactions reported in the literature for the Fe–Zr system (17
 | 1068.15 | βZr -> αZr + FeZr3 | βZr: Zr 0.965; αZr: Zr 0.9997; FeZr3: Fe 0.25, Zr 0.75 | experimental | [3] Jiang 2001; _cites Tanner 1959_ | Table 1, p. 4, row 17 |  |
 | 1068 | bcc(Zr) -> FeZr3 + hcp(Zr) | FeZr3: Zr 0.75 | experimental | [4] Du 2021 | Table 5, p. 12, row 24 |  |
 | 1068 | bcc(Zr) -> FeZr3 + hcp(Zr) | bcc(Zr): Zr 0.9683; FeZr3: Zr 0.7517; hcp(Zr): Zr 0.9976 | model | [4] Du 2021 | Table 5, p. 12, row 23 |  |
+| 1059.7 | FeZr3 + hcp-Zr -> bcc-Zr | FeZr3: Zr 0.753; hcp-Zr: Zr 0.999; bcc-Zr: Zr 0.971 | model | [7] Lu 2017 | Table 4, p. 7, row 15 |  |
+| 1053.15 | FeZr2 ↔ Fe2Zr_C + FeZr3 | FeZr2: Zr 0.667; Fe2Zr_C: Zr 0.344; FeZr3: Zr 0.745 | experimental | [6] Yang 2013; _cites Stain 2002_ | Table 2, p. 3, row 34 |  |
 | 1053 | FeZr2 -> FeZr3 + Fe2Zr | FeZr2: Zr 0.666667; FeZr3: Zr 0.75; Fe2Zr: Zr 0.333333 | experimental | [4] Du 2021; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 5, p. 12, row 27 |  |
 | 1053 | FeZr2 -> Fe2Zr + FeZr3 | FeZr2: Zr 0.6682; Fe2Zr: Zr 0.3402; FeZr3: Zr 0.7452 | model | [2] Guo 2008 | Table 2, p. 6, row 17 |  |
-| 1053 | FeZr2 -> FeZr3 + Fe2Zr | FeZr2: Zr 0.7483; FeZr3: Zr 0.6696; Fe2Zr: Zr 0.343 | model | [4] Du 2021 | Table 5, p. 12, row 26 |  |
+| 1053 | FeZr2 -> FeZr3 + Fe2Zr | FeZr2: Zr 0.6696; FeZr3: Zr 0.7483; Fe2Zr: Zr 0.343 | model | [4] Du 2021 | Table 5, p. 12, row 26 |  |
 | 1053 | FeZr2 -> Fe2Zr + FeZr3 | FeZr2: Zr 0.667; Fe2Zr: Zr 0.344; FeZr3: Zr 0.745 | experimental | [2] Guo 2008; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 2, p. 6, row 18 |  |
 | 1050.15 | FeZr2 -> FeZr3 + Fe2Zr | FeZr2: Fe 0.333333, Zr 0.666667; FeZr3: Fe 0.25, Zr 0.75; Fe2Zr: Fe 0.666667, Zr 0.333333 | model | [1] Servant 1995 | Table 1, p. 2, row 47 |  |
 | 1048.15 | FeZr2 -> FeZr3 + Fe2Zr | FeZr2: Fe 0.333333, Zr 0.666667; FeZr3: Fe 0.25, Zr 0.75; Fe2Zr: Fe 0.666667, Zr 0.333333 | experimental | [1] Servant 1995; _cites Arias 1993_ | Table 1, p. 2, row 48 |  |
 | 1048 | bcc -> hcp + FeZr3 | bcc: Zr 0.9618; hcp: Zr 0.9983; FeZr3: Zr 0.7521 | model | [2] Guo 2008 | Table 2, p. 6, row 21 |  |
+| 1048 | FeZr3 + hcp-Zr -> bcc-Zr | FeZr3: Zr 0.75; bcc-Zr: Zr 0.96 | experimental | [7] Lu 2017; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 4, p. 7, row 16 |  |
 | 1048 | bcc(Zr) -> FeZr3 + hcp(Zr) | FeZr3: Zr 0.75 | experimental | [4] Du 2021; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 5, p. 12, row 25 |  |
 | 1048 | bcc -> hcp + FeZr3 | bcc: Zr 0.96; hcp: Zr 0.998; FeZr3: Zr 0.755 | experimental | [2] Guo 2008; _cites Stein 2002_ [doi](https://doi.org/10.1361/105497102770331172) | Table 2, p. 6, row 22 |  |
 | 1043.15 | βZr -> αZr + FeZr3 | βZr: Zr 0.965; αZr: Zr 0.9998; FeZr3: Fe 0.25, Zr 0.75 | model | [3] Jiang 2001; _cites Alekseeva 1989_ | Table 1, p. 4, row 26 |  |
+| 1039.15 | FeZr2 ↔ Fe2Zr_C + FeZr3 | FeZr2: Zr 0.682; Fe2Zr_C: Zr 0.346; FeZr3: Zr 0.757 | model | [6] Yang 2013 | Table 2, p. 3, row 33 |  |
 | 1029.15 | Zr - b.c.c. -> FeZr3 + Zr - h.c.p. | FeZr3: Fe 0.25, Zr 0.75 | model | [1] Servant 1995 | Table 1, p. 2, row 3 |  |
 | 1029.15 | βZr -> αZr + FeZr3 | βZr: Zr 0.954; αZr: Zr 0.9949; FeZr3: Zr 0.756 | model | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 1, p. 4, row 25 |  |
 | 1013.15 | Zr - b.c.c. -> FeZr3 + Zr - h.c.p. | FeZr3: Fe 0.25, Zr 0.75 | experimental | [1] Servant 1995 | Table 1, p. 2, row 1 |  |
@@ -400,18 +410,23 @@ Table: Invariant reactions reported in the literature for the Fe–Zr system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Zr system (56)
+Table: Enthalpies of formation, Fe–Zr system (71)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | — |  | -31.632 kJ/mol-atom | 1673 | model |  |  | [2] Guo 2008 | p. 12 | “The calculated enthalpies of formation of Fe2 Zr are -31.135 kJ/mol of atoms at 1760 K and -31.632 kJ/mol of atoms at 1673 K, which are in good agreement with the experimental data -29.7 kJ/mol of atoms \[50\] and -30.63/-32.43 kJ/mol of atoms \[48\] respectively.” |
 | — |  | -31.135 kJ/mol-atom | 1760 | model |  |  | [2] Guo 2008 | p. 12 | “The calculated enthalpies of formation of Fe2 Zr are -31.135 kJ/mol of atoms at 1760 K and -31.632 kJ/mol of atoms at 1673 K, which are in good agreement with the experimental data -29.7 kJ/mol of atoms \[50\] and -30.63/-32.43 kJ/mol of atoms \[48\] respectively.” |
-| — |  | -25.9 kJ/mol-atom | 1573.15 | experimental |  |  | [6] Lu 2017; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | p. 2 | “Mahdouk and Gachon \[16\] investigated the Fe-rich part of the Fe-Zr system and presented the formation enthalpy of Fe0.75Zr0.25 at 1300 °C as -25.9 kJ/mol-atom.” |
+| — |  | -25.9 kJ/mol-atom | 1573.15 | experimental |  |  | [7] Lu 2017; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | p. 2 | “Mahdouk and Gachon \[16\] investigated the Fe-rich part of the Fe-Zr system and presented the formation enthalpy of Fe0.75Zr0.25 at 1300 °C as -25.9 kJ/mol-atom.” |
 | Fe23Zr6 | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -30.164 kJ/mol-atom | 1573.15 | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 5 |  |
 | Fe23Zr6 | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -23.2862 kJ/mol-atom |  | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [1] Servant 1995 | Table 2, p. 3, row 1 |  |
 | Fe23Zr6 | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -23.286 kJ/mol-atom | 298.15 | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 6 |  |
 | Fe23Zr6 | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -19 kJ/mol-atom |  | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [3] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 32 |  |
 | Fe23Zr6 | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -16.705 kJ/mol-atom | 298.15 | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [3] Jiang 2001 | Table 2, p. 5, row 8 |  |
+| Fe23Zr6 |  | -16.21 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 50 |  |
+| Fe23Zr6 |  | -16 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 49 |  |
+| Fe23Zr6 |  | 19 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 52 |  |
+| Fe23Zr6 |  | 34.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 51 |  |
+| Fe23Zr6 |  | 45.12 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 53 |  |
 | Fe23Zr6 + Fe2Zr |  | -25.9 kJ/mol-atom ± 1.1 | 1573.15 | experimental |  |  | [3] Jiang 2001; _cites Mahdouk 1996_ [doi](https://doi.org/10.1007/bf02648490) | Table 2, p. 5, row 1 |  |
 | Fe23Zr6 + Fe2Zr |  | -25.105 kJ/mol-atom | 1573.15 | model |  |  | [3] Jiang 2001 | Table 2, p. 5, row 2 |  |
 | Fe23Zr6 + γ | [Fe23Zr6](https://data.orchid-project.org/compounds/Fe23Zr6.html) | -22.364 kJ/mol-atom | 1573.15 | model | -16.072 (mp-aaabheie) | -16.029 (oqmd-30272) | [3] Jiang 2001 | Table 2, p. 5, row 4 |  |
@@ -434,7 +449,7 @@ Table: Enthalpies of formation, Fe–Zr system (56)
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -30.559 kJ/mol-atom | 1023.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001 | Table 2, p. 5, row 18 |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -30.3333 kJ/mol-atom | 1760 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995 | Table 2, p. 3, row 3 |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -30.333 kJ/mol-atom | 1760.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 10 |  |
-| Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -29.7 kJ/mol-atom ± 5.1 | 1760 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
+| Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -29.7 kJ/mol-atom ± 1.7 | 1760 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 3, row 2 |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -29.7 kJ/mol-atom ± 1.7 | 1760.15 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 2, p. 5, row 9 |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -28.2333 kJ/mol-atom | 1023 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995 | Table 2, p. 3, row 10 |  |
 | Fe2Zr | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -28.233 kJ/mol-atom | 1023.15 | model | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 17 |  |
@@ -451,15 +466,25 @@ Table: Enthalpies of formation, Fe–Zr system (56)
 | FeZr2 | [FeZr2](https://data.orchid-project.org/compounds/FeZr2.html) | -20 kJ/mol-atom |  | model | -13.424 (mp-aaaaabsp) | -13.55 (oqmd-30271) | [3] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 36 |  |
 | FeZr2 | [FeZr2](https://data.orchid-project.org/compounds/FeZr2.html) | -17.6167 kJ/mol-atom | 298.15 | model | -13.424 (mp-aaaaabsp) | -13.55 (oqmd-30271) | [1] Servant 1995 | Table 2, p. 3, row 18 |  |
 | FeZr2 | [FeZr2](https://data.orchid-project.org/compounds/FeZr2.html) | -17.6 kJ/mol-atom | 298.15 | model | -13.424 (mp-aaaaabsp) | -13.55 (oqmd-30271) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 26 |  |
+| FeZr2 |  | -16.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 41 |  |
+| FeZr2 |  | -13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 42 |  |
+| FeZr2 |  | 8.86 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 43 |  |
+| FeZr2 |  | 26.3 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 39 |  |
+| FeZr2 |  | 28.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 40 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -20 kJ/mol-atom |  | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [1] Servant 1995; _cites F 1988_ | Table 2, p. 3, row 20 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -17 kJ/mol-atom |  | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [1] Servant 1995; _cites Colinet 1982_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 19 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -16.5 kJ/mol-atom |  | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [3] Jiang 2001; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 5, row 37 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -16.121 kJ/mol-atom | 298.15 | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [3] Jiang 2001 | Table 2, p. 5, row 31 |  |
+| FeZr3 |  | -14.23 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 46 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -13.1575 kJ/mol-atom | 298.15 | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [1] Servant 1995 | Table 2, p. 3, row 21 |  |
 | FeZr3 | [FeZr3](https://data.orchid-project.org/compounds/FeZr3.html) | -13.157 kJ/mol-atom | 298.15 | model | -10.562 (mp-aaaabuef) | -11.724 (oqmd-18349) | [3] Jiang 2001; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 2, p. 5, row 30 |  |
-| FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [7] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |
-| FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [7] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24 |  |
-| UNKNOWN | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.7 kJ/mol-atom ± 10.5 | 1023 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
+| FeZr3 |  | -11.77 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
+| FeZr3 |  | 1.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 45 |  |
+| FeZr3 |  | 8.14 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 44 |  |
+| FeZr3 |  | 11.61 kJ/mol (basis unstated) | 0 | DFT |  |  | [7] Lu 2017 | Table 2, p. 3, row 48 |  |
+| FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [6] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 8 |  |
+| FeZr3 |  | 13158 not printed | 298.15 | model |  |  | [6] Yang 2013; _cites Servant 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2906036-3) | Table 3, p. 4, row 24 |  |
+| UNKNOWN | [Fe2Zr](https://data.orchid-project.org/compounds/Fe2Zr.html) | -24.7 kJ/mol-atom ± 3.5 | 1023 | experimental | -27.082 (mp-aaaaacoc) | -26.998 (oqmd-18350) | [1] Servant 1995; _cites Schneider 1961_ [doi](https://doi.org/10.1351/pac196102010013) | Table 2, p. 3, row 9 |  |
 
 ## Other properties
 
@@ -469,8 +494,8 @@ Table: Phase transition, Fe–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 225 K | 225 | other | model | [6] Lu 2017 | p. 1 | “However, the first-principles calculations show that the Fe23Zr6 phase is not stable at 0 K implying a transition from metastable to stable Fe23Zr6 at certain temperature, i.e. 225 K predicted by the present work.” |
-| Phase transition | 225 K | 225 | other: C15 + bcc Fe -> Fe23Zr6 | model | [6] Lu 2017 | p. 5 | “In the present assessment taking into account of the experimental data and all total energies of the end-member compounds for C15 and Fe23Zr6, the transition temperature is predicted to be 225 K, above which Fe23Zr6 is stable.” |
+| Phase transition | 225 K | 225 | other | model | [7] Lu 2017 | p. 1 | “However, the first-principles calculations show that the Fe23Zr6 phase is not stable at 0 K implying a transition from metastable to stable Fe23Zr6 at certain temperature, i.e. 225 K predicted by the present work.” |
+| Phase transition | 225 K | 225 | other: C15 + bcc Fe -> Fe23Zr6 | model | [7] Lu 2017 | p. 5 | “In the present assessment taking into account of the experimental data and all total energies of the end-member compounds for C15 and Fe23Zr6, the transition temperature is predicted to be 225 K, above which Fe23Zr6 is stable.” |
 | Phase transition | 584.15 K | 584.15 | magnetic | experimental | [1] Servant 1995; _cites LOck 1993_ | p. 2 | “By differential scanning calorimetry, Liick and Wang \[29\] measured the heat capacity of FezZr in the temperature range 37-387 °C. This compound exhibits a magnetic transition at 311 °C.” |
 | Phase transition | 1066 K | 1066 | bcc(Zr) -> FeZr3 + hcp(Zr); _alloy: Zr 1_ | experimental | [4] Du 2021 | Table 3, p. 9, row 26 |  |
 | Phase transition | 1068 K | 1068 | bcc(Zr) -> FeZr3 + hcp(Zr); _alloy: Zr 1_ | experimental | [4] Du 2021 | Table 3, p. 9, row 25 |  |
@@ -541,6 +566,43 @@ Table: Phase equilibrium, Fe–Zr system
 | Phase composition |  | 1373 | fcc(Fe) + Fe23Zr6 + Fe2Zr; _fcc(Fe): Fe 0.994, Zr 0.006; Fe23Zr6: Fe 0.802, Zr 0.198; Fe2Zr: Fe 0.719, Zr 0.281_ | experimental | [4] Du 2021 | Table 1, p. 3, row 11 |  |
 | Phase composition |  | 1373 | fcc(Fe) + Fe23Zr6 + Fe2Zr; _fcc(Fe): Fe 0.993, Zr 0.007; Fe23Zr6: Fe 0.794, Zr 0.206; Fe2Zr: Fe 0.717, Zr 0.283_ | experimental | [4] Du 2021 | Table 1, p. 3, row 7 |  |
 
+### Crystal structure (30)
+
+Table: Crystal structure, Fe–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 11.49 Å | 0 | Fe23Zr6; _alloy: Zr 0.206897_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 49 |  |
+| Lattice a; _printed: a_ | 11.66 Å | 0 | Fe23Zr6; _alloy: Zr 0.206897_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 50 |  |
+| Lattice a; _printed: a_ | 11.17 Å | 0 | Fe23Zr6; _alloy: Zr 0.206897_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 51 |  |
+| Lattice a; _printed: a_ | 14.07 Å | 0 | Fe23Zr6; _alloy: Zr 0.206897_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 52 |  |
+| Lattice a; _printed: a_ | 13.93 Å | 0 | Fe23Zr6; _alloy: Zr 0.206897_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 53 |  |
+| Lattice a; _printed: a_ | 6.26 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 41 |  |
+| Lattice a; _printed: a_ | 6.82 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 40 |  |
+| Lattice a; _printed: a_ | 5.46 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 39 |  |
+| Lattice a; _printed: a_ | 4.66 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 43 |  |
+| Lattice a; _printed: a_ | 6.28 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 42 |  |
+| Lattice a; _printed: a_ | 2.45 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 44 |  |
+| Lattice a; _printed: a_ | 3.29 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 46 |  |
+| Lattice a; _printed: a_ | 2.96 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 48 |  |
+| Lattice a; _printed: a_ | 3.31 Å | 0 | FeZr3; _alloy: Zr 0.75_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
+| Lattice a; _printed: a_ | 3.15 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 45 |  |
+| Lattice b; _printed: b_ | 8.88 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 44 |  |
+| Lattice b; _printed: b_ | 10.87 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 46 |  |
+| Lattice b; _printed: b_ | 12.65 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 48 |  |
+| Lattice b; _printed: b_ | 10.9 Å | 0 | FeZr3; _alloy: Zr 0.75_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
+| Lattice b; _printed: b_ | 11.92 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 45 |  |
+| Lattice c; _printed: c_ | 5.74 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 41 |  |
+| Lattice c; _printed: c_ | 6.17 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 40 |  |
+| Lattice c; _printed: c_ | 4.49 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 39 |  |
+| Lattice c; _printed: c_ | 8.56 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 43 |  |
+| Lattice c; _printed: c_ | 5.74 Å | 0 | FeZr2; _alloy: Zr 0.666667_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 42 |  |
+| Lattice c; _printed: c_ | 7.56 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 44 |  |
+| Lattice c; _printed: c_ | 8.93 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 46 |  |
+| Lattice c; _printed: c_ | 5.99 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 48 |  |
+| Lattice c; _printed: c_ | 8.94 Å | 0 | FeZr3; _alloy: Zr 0.75_ | model | [7] Lu 2017; _cites Kawsar 2016_ | Table 2, p. 3, row 47 |  |
+| Lattice c; _printed: c_ | 9.91 Å | 0 | FeZr3; _alloy: Zr 0.75_ | DFT | [7] Lu 2017 | Table 2, p. 3, row 45 |  |
+
 ### Other property (1)
 
 Table: Other property, Fe–Zr system
@@ -558,8 +620,8 @@ Reporting papers the values were read from (a value cited from another work name
 3. M. Jiang, K. Oikawa, T. Ikeshoji, L. Wulff, K. Ishida, Thermodynamic calculations of Fe-Zr and Fe-Zr-C systems, JPE 22, 406-417 (2001). [doi:10.1361/105497101770332965](https://doi.org/10.1361/105497101770332965)
 4. Ze-ting Du, Lei Zou, Cui-ping Guo, Xue-ping Ren, Chang-rong Li, Phase stability of Fe23Zr6 and thermodynamic reassessment of Fe–Zr system, J. Iron Steel Res. Int. 28, 1375-1389 (2021). [doi:10.1007/s42243-021-00570-w](https://doi.org/10.1007/s42243-021-00570-w)
 5. Yueshan Jiang, Yanlin He, Weisen Zheng, Jianlei Zhang, Dekui Zhang, Xiaogang Lu, Thermodynamic analysis for molten corium stratification with U-Zr-O-Fe database, Journal of Nuclear Materials 574, 154180 (2023). [doi:10.1016/j.jnucmat.2022.154180](https://doi.org/10.1016/j.jnucmat.2022.154180)
-6. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
-7. Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013). [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061)
+6. Ying Yang, Lizhen Tan, Hongbin Bei, Jeremy T. Busby, Thermodynamic modeling and experimental study of the Fe–Cr–Zr system, Journal of Nuclear Materials 441, 190-202 (2013). [doi:10.1016/j.jnucmat.2013.05.061](https://doi.org/10.1016/j.jnucmat.2013.05.061)
+7. Hai-Jin Lu, Nan Zou, Xu-Shan Zhao, Jian-Yun Shen, Xiao-Gang Lu, Yan-Lin He, Thermodynamic investigation of the Zr-Fe-Nb system and its applications, Intermetallics 88, 91-100 (2017). [doi:10.1016/j.intermet.2017.05.008](https://doi.org/10.1016/j.intermet.2017.05.008)
 
 ## Please cite
 

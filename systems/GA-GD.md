@@ -1,10 +1,10 @@
 # Ga–Gd system
 
-> Ga–Gd system: 84 accepted literature values (invariant reaction 52, formation 18, phase transition 14) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Gd system: 93 accepted literature values (invariant reaction 52, formation 29, phase transition 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-GD.html · Markdown: https://data.orchid-project.org/systems/GA-GD.md
 
-84 accepted literature values from 3 paper(s) (experimental 49, model 35); 3 calculated phase diagram(s).
+93 accepted literature values from 3 paper(s) (experimental 50, model 43); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-GD.json) · [CSV](https://data.orchid-project.org/systems/GA-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-GD/GaGd-19Liu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-GD.html) · [Markdown](https://data.orchid-project.org/systems/GA-GD.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 49 |
-| model | 35 |
+| experimental | 50 |
+| model | 43 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 52 |
-| phase transition | 14 |
-| formation | 18 |
+| phase transition | 12 |
+| formation | 29 |
 
 ## Calculated phase diagrams
 
@@ -138,27 +138,38 @@ Table: Invariant reactions reported in the literature for the Ga–Gd system (52
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ga–Gd system (13)
+Table: Enthalpies of formation, Ga–Gd system (24)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ga2Gd |  | -261.5 unspecified ± 5.9 | 823.15 | model |  |  | [1] Liu 2019; _cites Kober 1983_ | p. 4 | “The enthalpy, entropy, and Gibbs energy of formation of ­Ga2Gd from liquid Ga and solid Gd at 550 °C were as: - 261.5 ± 5.9 kJ/mol, - 88.3 ± 7.1 J/mol, and - 189.0 ± 0.4 kJ/mol \[42\], respectively, which was cited from Ref. \[17\].” |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -83.5 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Bayanov 1975_ | Table 4, p. 4, row 5 |  |
+| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom ± 2.8 | 1373 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [3] Tamim 2023; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 2, p. 8, row 20 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020 | Table 4, p. 4, row 6 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -72.8 kJ/mol-atom | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites Meschel 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2900913-6) | Table 4, p. 4, row 4 |  |
+| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -65.03 kJ/mol-atom ± 1 | 298.15 | experimental | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [3] Tamim 2023; _cites Bayanov 1975_ | Table 2, p. 8, row 21 |  |
 | Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -65.03 kJ/mol-atom |  | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 3 |  |
+| Ga2Gd | [Ga2Gd](https://data.orchid-project.org/compounds/Ga2Gd.html) | -63.156 kJ/mol-atom | 298.15 | model | -63.164 (mp-aaaabdgn) | -64.461 (oqmd-91491) | [3] Tamim 2023 | Table 2, p. 8, row 22 |  |
 | Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -64.68 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 9 |  |
+| Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -64.68 kJ/mol-atom | 298.15 | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [3] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 25 |  |
 | Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -63.06 kJ/mol-atom |  | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [2] Boukideur 2020 | Table 4, p. 4, row 10 |  |
+| Ga2Gd3 | [Ga2Gd3](https://data.orchid-project.org/compounds/Ga2Gd3.html) | -61.009 kJ/mol-atom | 298.15 | model | -49.123 (mp-aaaeiziy) | -50.779 (oqmd-89453) | [3] Tamim 2023 | Table 2, p. 8, row 26 |  |
 | Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -61.56 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 11 |  |
+| Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -61.56 kJ/mol-atom | 298.15 | model |  | -46.682 (oqmd-18351) | [3] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 27 |  |
+| Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -60.698 kJ/mol-atom | 298.15 | model |  | -46.682 (oqmd-18351) | [3] Tamim 2023 | Table 2, p. 8, row 28 |  |
 | Ga3Gd5 | [Ga3Gd5](https://data.orchid-project.org/compounds/Ga3Gd5.html) | -59.78 kJ/mol-atom |  | model |  | -46.682 (oqmd-18351) | [2] Boukideur 2020 | Table 4, p. 4, row 12 |  |
 | Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -36 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020 | Table 4, p. 4, row 2 |  |
+| Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -31.514 kJ/mol-atom | 298.15 | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [3] Tamim 2023 | Table 2, p. 8, row 19 |  |
+| Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -30.14 kJ/mol-atom | 298.15 | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [3] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 18 |  |
 | Ga6Gd | [Ga6Gd](https://data.orchid-project.org/compounds/Ga6Gd.html) | -30.14 kJ/mol-atom |  | model | -31.251 (mp-aaackwju) | -31.82 (oqmd-1484077) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 1 |  |
+| GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -72.65 kJ/mol-atom | 298.15 | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [3] Tamim 2023; _cites De 1988_ | Table 2, p. 8, row 23 |  |
 | GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -72.65 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020; _cites De 2014_ | Table 4, p. 4, row 7 |  |
 | GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -70 kJ/mol-atom |  | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [2] Boukideur 2020 | Table 4, p. 4, row 8 |  |
+| GaGd | [GaGd](https://data.orchid-project.org/compounds/GaGd.html) | -61.701 kJ/mol-atom | 298.15 | model | -60.894 (mp-aaaabecv) | -60.055 (oqmd-19090) | [3] Tamim 2023 | Table 2, p. 8, row 24 |  |
 
 ## Other properties
 
-### Phase transition (14)
+### Phase transition (12)
 
 Table: Phase transition, Ga–Gd system
 
@@ -169,8 +180,6 @@ Table: Phase transition, Ga–Gd system
 | Phase transition | 302.15 K | 302.15 | congruent melting: Liq \<=> (αGa); _(αGa): Gd 0_ | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | Table 3, p. 4, row 2 |  |
 | Phase transition | 652.15 K | 652.15 |  | experimental | [2] Boukideur 2020; _cites Joshua 1981_ | p. 1 | “They detected the presence of an intermetallic compound that formed perectectically at 379 °C.” |
 | Phase transition | 679 K | 679 |  | experimental | [3] Tamim 2023 | p. 5 | “This temperature was later modified by the same authors to 679K.” |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 30 |  |
-| Phase transition | 1508.15 K | 1508.15 | polymorphic: (βGd) \<=> (αGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 31 |  |
 | Phase transition | 1586.15 K | 1586.15 | congruent melting: Liq \<=> (βGd); _(βGd): Gd 1_ | experimental | [2] Boukideur 2020; _cites Palenzona 1990_ [doi](https://doi.org/10.1007/bf02841585) | Table 3, p. 4, row 29 |  |
 | Phase transition | 1586.15 K | 1586.15 | congruent melting: Liq \<=> (βGd); _(βGd): Gd 1_ | model | [2] Boukideur 2020 | Table 3, p. 4, row 28 |  |
 | Phase transition | 1673.15 K | 1673.15 | congruent melting: Liq \<=> Ga2Gd; _Ga2Gd: Gd 0.333_ | experimental | [2] Boukideur 2020; _cites Buschow 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990277-0) | Table 3, p. 4, row 12 |  |

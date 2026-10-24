@@ -12,15 +12,15 @@ Table: Phases of the Cu–Y system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cu-y-bcc-a2); _phase:cu-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1751.15–2499.9 K, x(Y) 1–1 | 1 | 1 |
+| [BCC_A2](#phase-cu-y-bcc-a2); _phase:cu-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1751.15–2499.9 K, x(Y) 1–1 | 0 | 1 |
 | [CU2Y_H](#phase-cu-y-cu2y-h); _phase:cu-y:cu2y-h_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1128–1172.87 K, x(Y) 0.33333–0.33333 | 14 | 1 |
 | [CU2Y_R](#phase-cu-y-cu2y-r); _phase:cu-y:cu2y-r_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1128 K, x(Y) 0.33333–0.33333 | 10 | 1 |
 | [CU4Y](#phase-cu-y-cu4y); _phase:cu-y:cu4y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1244.31 K, x(Y) 0.2–0.2 | 15 | 1 |
 | [CU6Y](#phase-cu-y-cu6y); _phase:cu-y:cu6y_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1184.64 K, x(Y) 0.12878–0.15945 | 13 | 1 |
 | [CU7Y2](#phase-cu-y-cu7y2); _phase:cu-y:cu7y2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1199.13 K, x(Y) 0.22222–0.22222 | 9 | 1 |
-| [CUY_B2](#phase-cu-y-cuy-b2); _phase:cu-y:cuy-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1222.1 K, x(Y) 0.5–0.5 | 17 | 1 |
+| [CUY_B2](#phase-cu-y-cuy-b2); _phase:cu-y:cuy-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1222.1 K, x(Y) 0.5–0.5 | 16 | 1 |
 | [FCC_A1](#phase-cu-y-fcc-a1); _phase:cu-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1358.77 K, x(Y) 0–0 | 8 | 1 |
-| [HCP_A3](#phase-cu-y-hcp-a3); _phase:cu-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1751.15 K, x(Y) 1–1 | 6 | 1 |
+| [HCP_A3](#phase-cu-y-hcp-a3); _phase:cu-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1751.15 K, x(Y) 1–1 | 5 | 1 |
 | [LIQUID](#phase-cu-y-liquid); _phase:cu-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1077.1–2500 K, x(Y) 0–1 | 51 | 1 |
 
 ## BCC_A2 (Cu–Y)
@@ -28,11 +28,10 @@ Table: Phases of the Cu–Y system (10)
 - Id: `phase:cu-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1751.15–2499.9 K, x(Y) 1–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:cu-y:bcc-a2  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+Names (2): _corpus: _corpus:phase:cu-y:bcc-a2  
 _tdb: _tdb:CuY-94Fri-LB.tdb:BCC_A2  
 
 
@@ -45,12 +44,10 @@ _tdb: _tdb:CuY-94Fri-LB.tdb:BCC_A2
 40: CONST BCC_A2 : CU Y% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02647621](https://doi.org/10.1007/BF02647621) S.G. Fries, H.L. Lukas, R. Konetzki, R. Schmid-Fetzer, J. Phase Equilib., 15, 606-14(1994).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
-_reports values for this phase_
 
 ## CU2Y_H (Cu–Y)
 
@@ -227,7 +224,7 @@ _reports values for this phase_
 - Candidate (tdb_comment): CsCl · cP2 · Pm3m — CuY-94Fri-LB.tdb: 'Prototype CsCl (cP2, Pm3m)'
 - Stoichiometry: Cu 0.5000, Y 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1222.1 K, x(Y) 0.5–0.5
-- Literature: 17 values (15 accepted) from 2 papers
+- Literature: 16 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:cuy-b2)
 
 Names (4): _corpus: _corpus:phase:cu-y:cuy-b2  
@@ -285,7 +282,7 @@ _reports values for this phase_
 - Id: `phase:cu-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1751.15 K, x(Y) 1–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-y:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:cu-y:hcp-a3  

@@ -10,14 +10,12 @@
   "LIQUID",
   "NI2V",
   "NI3V_D022",
-  "NI8V",
   "NIV3_A15"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
    1216.195163,
-   500.695163,
    843.695163,
    856.195163,
    539.195163,
@@ -39,17 +37,6 @@
     ],
     [
      0.1436572259
-    ]
-   ]
-  ],
-  [
-   [
-    "NI8V",
-    [
-     "V"
-    ],
-    [
-     0.1005848202
     ]
    ]
   ],
@@ -272,7 +259,6 @@
   "diagram": "NI-V-p696",
   "record_ids": [
    "aspa-f8fb7b0c2b11e45c",
-   "aspa-30e667868d67f5ee",
    "aspa-23991b8eaf0dec91",
    "aspa-12803bf5dea86797",
    "aspa-acfb45d9cdc440ca",
@@ -284,7 +270,6 @@
    "aspa-eb8d65772d128afc"
   ],
   "boundary_basis": [
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -316,24 +301,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0616036,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-30e667868d67f5ee",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.183,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 28.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0160269,
      "sigma_effective": 0.02
     }
    },

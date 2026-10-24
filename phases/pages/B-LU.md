@@ -21,7 +21,7 @@ Table: Phases of the B–Lu system (10)
 | [LUB12_D2F](#phase-b-lu-lub12-d2f); _phase:b-lu:lub12-d2f_ | UB12 · D2_f · cF52 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2449.26 K, x(B) 0.92308–0.92308 | 4 | 1 |
 | [LUB2_C32](#phase-b-lu-lub2-c32); _phase:b-lu:lub2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2524.98 K, x(B) 0.66667–0.66667 | 4 | 1 |
 | [LUB4_D1E](#phase-b-lu-lub4-d1e); _phase:b-lu:lub4-d1e_ | UB4 · D1_e · tP20 · P4/mbm (127) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2873.35 K, x(B) 0.8–0.8 | 6 | 1 |
-| [LUB66](#phase-b-lu-lub66); _phase:b-lu:lub66_ | YB66 · cF1936 · Fm-3c (226) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2380.33 K, x(B) 0.98507–0.98507 | 4 | 1 |
+| [LUB66](#phase-b-lu-lub66); _phase:b-lu:lub66_ | YB66 · cF1936 · Fm-3c (226) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2380.33 K, x(B) 0.98507–0.98507 | 5 | 1 |
 
 ## ALPHA_RHOMBO_B (B–Lu)
 
@@ -29,6 +29,7 @@ Table: Phases of the B–Lu system (10)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — LuB-20Li.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-lu:b-alpha-rhombo)
@@ -57,6 +58,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — LuB-20Li.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1388–2350.67 K, x(B) 1–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-lu:b-beta-rhombo)
@@ -84,6 +86,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:b-lu:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: B 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-lu:bcc-a2)
@@ -110,6 +113,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-lu:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: B 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-lu:fcc-a1)
@@ -287,7 +291,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: B 0.9851, Lu 0.0149
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2380.33 K, x(B) 0.98507–0.98507
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-lu:lub66)
 
 Names (3): _corpus: _corpus:phase:b-lu:lub66  

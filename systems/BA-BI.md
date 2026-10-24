@@ -1,10 +1,10 @@
 # Ba–Bi system
 
-> Ba–Bi system: 86 accepted literature values (crystal structure 67, invariant reaction 10, phase transition 7, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Bi system: 70 accepted literature values (crystal structure 51, invariant reaction 10, phase transition 7, activity / EMF / Gibbs energy 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-BI.html · Markdown: https://data.orchid-project.org/systems/BA-BI.md
 
-86 accepted literature values from 1 paper(s) (experimental 50, model 36); 1 calculated phase diagram(s).
+70 accepted literature values from 1 paper(s) (experimental 40, model 30); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-BI.json) · [CSV](https://data.orchid-project.org/systems/BA-BI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-BI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-BI/BaBi-19Liu.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BA-BI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-BI.html) · [Markdown](https://data.orchid-project.org/systems/BA-BI.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
-| model | 36 |
+| experimental | 40 |
+| model | 30 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 10 |
 | phase transition | 7 |
 | activity / EMF / Gibbs energy | 2 |
-| crystal structure | 67 |
+| crystal structure | 51 |
 
 ## Calculated phase diagrams
 
@@ -91,7 +91,7 @@ Table: Activity / EMF / Gibbs energy, Ba–Bi system
 | Activity; _printed: activity_ | 0 unspecified | 773 |  | experimental | [1] Liu 2019; _cites Lichtenstein 2017_ [doi](https://doi.org/10.1016/j.electacta.2016.12.141) | p. 1 | “This notion was further elucidated by Lichtenstein et al. \[3\] who performed electromotive force (EMF) measurements on the Ba-Bi system, determining the activity of Ba in Bi to be as low as 1015 at xBa 1⁄4 0.05 and 773 K, whereas the activity of Li in Bi is only about 106 at xLi 1⁄4 0.05 \[4\].” |
 | Activity; _printed: activity_ | 0 unspecified | 773 |  | experimental | [1] Liu 2019; _cites Lichtenstein 2017_ [doi](https://doi.org/10.1016/j.electacta.2016.12.141) | p. 2 | “At 773 K, the activity values of Ba were found to be as low as 6.6  1016 at xBa 1⁄4 0.05, increased linearly as a function of xBa in the liquid phase, remained constant in two-phase regions, and approached unity with xBa  0.80.” |
 
-### Crystal structure (67)
+### Crystal structure (51)
 
 Table: Crystal structure, Ba–Bi system
 
@@ -110,10 +110,6 @@ Table: Crystal structure, Ba–Bi system
 | Lattice a | 10.13 Å | 298.15 | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019; _cites Calvert 1991_ | Table 1, p. 4, row 11 |  |
 | Lattice a | 5.17 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | model | [1] Liu 2019 | Table 1, p. 4, row 6 |  |
 | Lattice a | 5.18 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019; _cites Zhuravlev 1970_ | Table 1, p. 4, row 5 |  |
-| Lattice a | 4.35 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | experimental | [1] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1 |  |
-| Lattice a | 4.36 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | model | [1] Liu 2019 | Table 1, p. 4, row 2 |  |
-| Lattice a | 4.56 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [1] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3 |  |
-| Lattice a | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [1] Liu 2019 | Table 1, p. 4, row 4 |  |
 | Lattice b | 13.23 Å | 298.15 | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019; _cites Derrien 2002_ [doi](https://doi.org/10.1006/jssc.2001.9470) | Table 1, p. 4, row 7 |  |
 | Lattice b | 13.47 Å | 298.15 | Ba11Bi10; _alloy: Bi 0.47619_ | model | [1] Liu 2019 | Table 1, p. 4, row 8 |  |
 | Lattice b | 5.26 Å | 298.15 | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019; _cites Brauer 1961_ [doi](https://doi.org/10.1002/ange.19610730505) | Table 1, p. 4, row 13 |  |
@@ -127,10 +123,6 @@ Table: Crystal structure, Ba–Bi system
 | Lattice b | 10.13 Å | 298.15 | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019; _cites Calvert 1991_ | Table 1, p. 4, row 11 |  |
 | Lattice b | 5.17 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | model | [1] Liu 2019 | Table 1, p. 4, row 6 |  |
 | Lattice b | 5.18 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019; _cites Zhuravlev 1970_ | Table 1, p. 4, row 5 |  |
-| Lattice b | 4.35 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | experimental | [1] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1 |  |
-| Lattice b | 4.36 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | model | [1] Liu 2019 | Table 1, p. 4, row 2 |  |
-| Lattice b | 4.56 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [1] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3 |  |
-| Lattice b | 4.6 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [1] Liu 2019 | Table 1, p. 4, row 4 |  |
 | Lattice c | 19.36 Å | 298.15 | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019; _cites Derrien 2002_ [doi](https://doi.org/10.1006/jssc.2001.9470) | Table 1, p. 4, row 7 |  |
 | Lattice c | 19.36 Å | 298.15 | Ba11Bi10; _alloy: Bi 0.47619_ | model | [1] Liu 2019 | Table 1, p. 4, row 8 |  |
 | Lattice c | 18.7 Å | 298.15 | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019; _cites Brauer 1961_ [doi](https://doi.org/10.1002/ange.19610730505) | Table 1, p. 4, row 13 |  |
@@ -144,26 +136,18 @@ Table: Crystal structure, Ba–Bi system
 | Lattice c | 7.79 Å | 298.15 | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019; _cites Calvert 1991_ | Table 1, p. 4, row 11 |  |
 | Lattice c | 5.17 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | model | [1] Liu 2019 | Table 1, p. 4, row 6 |  |
 | Lattice c | 5.16 Å | 298.15 | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019; _cites Zhuravlev 1970_ | Table 1, p. 4, row 5 |  |
-| Lattice c | 4.35 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | experimental | [1] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 1, p. 4, row 1 |  |
-| Lattice c | 4.36 Å | 298.15 | Bcc-Ba; _alloy: Bi 0_ | model | [1] Liu 2019 | Table 1, p. 4, row 2 |  |
-| Lattice c | 4.75 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | experimental | [1] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 1, p. 4, row 3 |  |
-| Lattice c | 4.8 Å | 298.15 | Rhom_A7-Bi; _alloy: Bi 1_ | model | [1] Liu 2019 | Table 1, p. 4, row 4 |  |
-| Molar volume; _printed: V0_ | 62.875 Å3/atom | 0 | Ba; _alloy: Bi 0_ | experimental | [1] Liu 2019; _cites Evers 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990586-x) | Table 2, p. 4, row 2 |  |
-| Molar volume; _printed: V0_ | 62.522 Å3/atom | 0 | Ba; _alloy: Bi 0_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 1 |  |
-| Molar volume; _printed: V0_ | 40.345 Å3/atom | 0 | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019; _cites Derrien 2002_ [doi](https://doi.org/10.1006/jssc.2001.9470) | Table 2, p. 4, row 12 |  |
-| Molar volume; _printed: V0_ | 42.541 Å3/atom | 0 | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 11 |  |
-| Molar volume; _printed: V0_ | 46.117 Å3/atom | 0 | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 5 |  |
-| Molar volume; _printed: V0_ | 43.164 Å3/atom | 0 | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019; _cites Martinez-Ripoll 1974_ [doi](https://doi.org/10.1107/s0567740874006261) | Table 2, p. 4, row 6 |  |
-| Molar volume; _printed: V0_ | 39.909 Å3/atom | 0 | Ba2Bi3; _alloy: Bi 0.6_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 16 |  |
-| Molar volume; _printed: V0_ | 57.096 Å3/atom | 0 | Ba3Bi2; _alloy: Bi 0.4_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 15 |  |
-| Molar volume; _printed: V0_ | 41.937 Å3/atom | 0 | Ba4Bi3; _alloy: Bi 0.428571_ | experimental | [1] Liu 2019; _cites Bin 2003_ | Table 2, p. 4, row 8 |  |
-| Molar volume; _printed: V0_ | 44.03 Å3/atom | 0 | Ba4Bi3; _alloy: Bi 0.428571_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 7 |  |
-| Molar volume; _printed: V0_ | 45.922 Å3/atom | 0 | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 9 |  |
-| Molar volume; _printed: V0_ | 43.24 Å3/atom | 0 | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019; _cites Eisenmann 1975_ [doi](https://doi.org/10.1515/znb-1975-1-218) | Table 2, p. 4, row 10 |  |
-| Molar volume; _printed: V0_ | 34.779 Å3/atom | 0 | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 13 |  |
-| Molar volume; _printed: V0_ | 34.748 Å3/atom | 0 | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019; _cites Zhuravlev 1970_ | Table 2, p. 4, row 14 |  |
-| Molar volume; _printed: V0_ | 36.597 Å3/atom | 0 | Bi; _alloy: Bi 1_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 3 |  |
-| Molar volume; _printed: V0_ | 35.385 Å3/atom | 0 | Bi; _alloy: Bi 1_ | experimental | [1] Liu 2019; _cites Straumanis 1949_ [doi](https://doi.org/10.1063/1.1698520) | Table 2, p. 4, row 4 |  |
+| Molar volume; _printed: V0_ | 40.345 Å3/atom |  | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019; _cites Derrien 2002_ [doi](https://doi.org/10.1006/jssc.2001.9470) | Table 2, p. 4, row 12 |  |
+| Molar volume; _printed: V0_ | 42.541 Å3/atom |  | Ba11Bi10; _alloy: Bi 0.47619_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 11 |  |
+| Molar volume; _printed: V0_ | 46.117 Å3/atom |  | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 5 |  |
+| Molar volume; _printed: V0_ | 43.164 Å3/atom |  | Ba2Bi; _alloy: Bi 0.333333_ | experimental | [1] Liu 2019; _cites Martinez-Ripoll 1974_ [doi](https://doi.org/10.1107/s0567740874006261) | Table 2, p. 4, row 6 |  |
+| Molar volume; _printed: V0_ | 39.909 Å3/atom |  | Ba2Bi3; _alloy: Bi 0.6_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 16 |  |
+| Molar volume; _printed: V0_ | 57.096 Å3/atom |  | Ba3Bi2; _alloy: Bi 0.4_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 15 |  |
+| Molar volume; _printed: V0_ | 41.937 Å3/atom |  | Ba4Bi3; _alloy: Bi 0.428571_ | experimental | [1] Liu 2019; _cites Bin 2003_ | Table 2, p. 4, row 8 |  |
+| Molar volume; _printed: V0_ | 44.03 Å3/atom |  | Ba4Bi3; _alloy: Bi 0.428571_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 7 |  |
+| Molar volume; _printed: V0_ | 45.922 Å3/atom |  | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 9 |  |
+| Molar volume; _printed: V0_ | 43.24 Å3/atom |  | Ba5Bi3; _alloy: Bi 0.375_ | experimental | [1] Liu 2019; _cites Eisenmann 1975_ [doi](https://doi.org/10.1515/znb-1975-1-218) | Table 2, p. 4, row 10 |  |
+| Molar volume; _printed: V0_ | 34.779 Å3/atom |  | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019 | Table 2, p. 4, row 13 |  |
+| Molar volume; _printed: V0_ | 34.748 Å3/atom |  | BaBi3; _alloy: Bi 0.75_ | experimental | [1] Liu 2019; _cites Zhuravlev 1970_ | Table 2, p. 4, row 14 |  |
 
 ## Sources
 

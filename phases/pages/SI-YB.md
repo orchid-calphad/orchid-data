@@ -13,7 +13,7 @@ Table: Phases of the Si–Yb system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-si-yb-a4-diamond); _phase:si-yb:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1689.32 K, x(Yb) 0–0 | 7 | 1 |
-| [BCC_A2](#phase-si-yb-bcc-a2); _phase:si-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1033–2499.95 K, x(Yb) 1–1 | 4 | 1 |
+| [BCC_A2](#phase-si-yb-bcc-a2); _phase:si-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1033–2499.95 K, x(Yb) 1–1 | 2 | 1 |
 | [FCC_A1](#phase-si-yb-fcc-a1); _phase:si-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1033 K, x(Yb) 1–1 | 0 | 1 |
 | [HCP_A3](#phase-si-yb-hcp-a3); _phase:si-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-si-yb-liquid); _phase:si-yb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1096.2–2500 K, x(Yb) 0–1 | 48 | 1 |
@@ -61,7 +61,7 @@ _cited as the source of values for this phase_
 - Id: `phase:si-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1033–2499.95 K, x(Yb) 1–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:si-yb:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:si-yb:bcc-a2  

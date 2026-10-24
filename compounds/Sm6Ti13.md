@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sm6Ti13
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 11.858 | kJ/mol-atom |  | 0.004824 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 11.858 | kJ/mol-atom |  | 0.004824 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

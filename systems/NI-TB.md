@@ -1,10 +1,10 @@
 # Ni–Tb system
 
-> Ni–Tb system: 316 accepted literature values (invariant reaction 99, phase transition 87, crystal structure 44, activity / EMF / Gibbs energy 43) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Tb system: 310 accepted literature values (invariant reaction 99, phase transition 87, activity / EMF / Gibbs energy 43, crystal structure 38) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-TB.html · Markdown: https://data.orchid-project.org/systems/NI-TB.md
 
-316 accepted literature values from 3 paper(s) (experimental 196, model 81, DFT 30, unspecified 9); 3 calculated phase diagram(s).
+310 accepted literature values from 3 paper(s) (experimental 193, model 81, DFT 27, unspecified 9); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-TB.json) · [CSV](https://data.orchid-project.org/systems/NI-TB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-TB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-TB/NiTb-04Ron.json) · [phases (12)](https://data.orchid-project.org/phases/pages/NI-TB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-TB.html) · [Markdown](https://data.orchid-project.org/systems/NI-TB.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 196 |
+| experimental | 193 |
 | model | 81 |
-| DFT | 30 |
+| DFT | 27 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -26,7 +26,7 @@ Table: Accepted values by property group
 | formation | 35 |
 | mixing / partial | 8 |
 | activity / EMF / Gibbs energy | 43 |
-| crystal structure | 44 |
+| crystal structure | 38 |
 
 ## Calculated phase diagrams
 
@@ -432,16 +432,13 @@ Table: Activity / EMF / Gibbs energy, Ni–Tb system
 | Gibbs energy; _printed: ΔGcalc_ | -38.943 kJ/mol | 973 | NiTb; _alloy: Tb 0.5_ | unspecified | [1] Rong 2004 | Table 4, p. 6, row 12 |  |
 | Gibbs energy; _printed: ΔGcalc_ | -21.29 kJ/mol | 973 | NiTb3; _alloy: Tb 0.75_ | unspecified | [1] Rong 2004 | Table 4, p. 6, row 16 |  |
 
-### Crystal structure (44)
+### Crystal structure (38)
 
 Table: Crystal structure, Ni–Tb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.48 Å | 0 | (Ni); _alloy: Tb 0_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 21 |  |
-| Lattice a | 3.67 Å | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
-| Lattice a | 4.02 Å |  | (β-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 4 |  |
-| Lattice a | 4.02 Å | 0 | (β-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 3 |  |
 | Lattice a | 8.27 Å | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
 | Lattice a | 4.93 Å | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
 | Lattice a | 6.82 Å | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
@@ -451,7 +448,6 @@ Table: Crystal structure, Ni–Tb system
 | Lattice a | 4.96 Å | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
 | Lattice a | 4.84 Å | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
 | Lattice a | 3.52 Å | 298.15 | (Ni); _alloy: Tb 0_ | experimental | [3] Rahou 2024; _cites Kittel 1996_ | Table 1, p. 4, row 22 |  |
-| Lattice a | 3.61 Å | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
 | Lattice a | 8.31 Å | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
 | Lattice a | 4.94 Å | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
 | Lattice a | 6.88 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
@@ -466,7 +462,6 @@ Table: Crystal structure, Ni–Tb system
 | Lattice b | 9.61 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |
 | Lattice b | 3.71 Å | 298.15 | Tb3Ni2; _alloy: Tb 0.6_ | experimental | [3] Rahou 2024; _cites Moreau 1974_ [doi](https://doi.org/10.1107/s0567740874007631) | Table 1, p. 4, row 8 |  |
 | Lattice b | 10.26 Å | 298.15 | TbNi; _alloy: Tb 0.5_ | experimental | [3] Rahou 2024; _cites Abrahams 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990129-5) | Table 1, p. 4, row 10 |  |
-| Lattice c | 5.6 Å | 0 | (α-Tb); _alloy: Tb 1_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 1 |  |
 | Lattice c | 8.01 Å | 0 | Tb2Ni17; _alloy: Tb 0.105263_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 19 |  |
 | Lattice c | 35.99 Å | 0 | Tb2Ni7; _alloy: Tb 0.222222_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 15 |  |
 | Lattice c | 6.32 Å | 0 | Tb3Ni; _alloy: Tb 0.75_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 5 |  |
@@ -474,7 +469,6 @@ Table: Crystal structure, Ni–Tb system
 | Lattice c | 4.2 Å | 0 | TbNi; _alloy: Tb 0.5_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 9 |  |
 | Lattice c | 24.34 Å | 0 | TbNi3; _alloy: Tb 0.25_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 13 |  |
 | Lattice c | 3.91 Å | 0 | TbNi5; _alloy: Tb 0.166667_ | DFT | [3] Rahou 2024 | Table 1, p. 4, row 17 |  |
-| Lattice c | 5.69 Å | 298.15 | (α-Tb); _alloy: Tb 1_ | experimental | [3] Rahou 2024; _cites Gschneidner 1986_ | Table 1, p. 4, row 2 |  |
 | Lattice c | 8.04 Å | 298.15 | Tb2Ni17; _alloy: Tb 0.105263_ | experimental | [3] Rahou 2024; _cites Buschow 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990006-3) | Table 1, p. 4, row 20 |  |
 | Lattice c | 36.23 Å | 298.15 | Tb2Ni7; _alloy: Tb 0.222222_ | experimental | [3] Rahou 2024; _cites Buschow 2024_ | Table 1, p. 4, row 16 |  |
 | Lattice c | 6.29 Å | 298.15 | Tb3Ni; _alloy: Tb 0.75_ | experimental | [3] Rahou 2024; _cites Lemaire 1967_ | Table 1, p. 4, row 6 |  |

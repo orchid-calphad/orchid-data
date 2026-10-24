@@ -1,10 +1,10 @@
 # B–V phases
 
-> B–V system: 11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> B–V system: 11 phases (tier A 5, tier B 1, tier C 3, liquid 1, needs_review 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/B-V.html · Markdown: https://data.orchid-project.org/phases/pages/B-V.md
 
-11 phases (tier A 5, tier C 4, liquid 1, needs_review 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 5, tier B 1, tier C 3, liquid 1, needs_review 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=B-V) · [full JSON](https://data.orchid-project.org/phases/systems/B-V.json) · [B–V system page](https://data.orchid-project.org/systems/B-V.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-V.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -22,7 +22,7 @@ Table: Phases of the B–V system (11)
 | [V2B3](#phase-b-v-v2b3); _phase:b-v:v2b3_ | V2B3 · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–2923.06 K, x(B) 0.6–0.6 | 0 | 4 |
 | [V3B2_D5A](#phase-b-v-v3b2-d5a); _phase:b-v:v3b2-d5a_ | Si2U3 · D5_a · tP10 · P4/mbm (127) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2195.92 K, x(B) 0.4–0.4 | 1 | 4 |
 | [V3B4_D7B](#phase-b-v-v3b4-d7b); _phase:b-v:v3b4-d7b_ | Ta3B4 · D7_b · oI14 · Immm (71) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2912.58 K, x(B) 0.57143–0.57143 | 1 | 4 |
-| [V5B6](#phase-b-v-v5b6); _phase:b-v:v5b6_ | V5B6 · oC22 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–2857.7 K, x(B) 0.54545–0.54545 | 2 | 4 |
+| [V5B6](#phase-b-v-v5b6); _phase:b-v:v5b6_ | V5B6 · oC22 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–2857.7 K, x(B) 0.54545–0.54545 | 2 | 4 |
 
 ## BETA_RHOMBO_B (B–V)
 
@@ -33,6 +33,7 @@ Table: Phases of the B–V system (11)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — VB-17Pin.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — VB-81Spe.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — VB-91Pan-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2405.36 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:b-beta-rhombo)
@@ -86,6 +87,7 @@ _assessment that models this phase_
 - Structure: CrB · B33 · oC8 · Cmcm (63); type `st:b33-crb-oc8`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MB, no_structure_token, structure_token_is_also_a_formula); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.5000, V 0.5000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2858.84 K, x(B) 0.5–0.5
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:b33-mb)
@@ -190,12 +192,16 @@ _assessment that models this phase_
 - Id: `phase:b-v:c32-mb2`; status `assigned`
 - Structure: AlB2 · C32 · hP3 · P6/mmm (191); type `st:c32-alb2-hp3`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: DFT agrees: on-hull mp-aaaaacfj and oqmd-109274, space group 191
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:MB2); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.6667, V 0.3333
 - Stability: stable in 4 of 4 calculated diagram(s): 300–3040 K, x(B) 0.66667–0.66667
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:c32-mb2)
 
-Names (6): _corpus: _corpus:phase:b-v:c32-mb2  
+Names (8): _corpus: _corpus:phase:b-v:c32-mb2  
+_mp: _mp:mp-aaaaacfj  
+_oqmd: _oqmd:oqmd-109274  
 _paper: _paper:10.1016/0022-5088(81)90224-1:VB2  
 _tdb: _tdb:VB-12Hom.tdb:MB2_C32, tdb:VB-17Pin.tdb:MB2_C32, tdb:VB-81Spe.tdb:MB2_C32, tdb:VB-91Pan-LB.tdb:MB2_C32  
 
@@ -398,7 +404,8 @@ _assessment that models this phase_
 - Id: `phase:b-v:v2b3`; status `assigned`
 - Structure: V2B3 · oC20 · Cmcm (63); type `st:v2b3-oc20`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (dft_space_group_63_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.6000, V 0.4000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2923.06 K, x(B) 0.6–0.6
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:v2b3)
@@ -450,11 +457,15 @@ _assessment that models this phase_
 
 - Id: `phase:b-v:v3b2-d5a`; status `assigned`
 - Structure: Si2U3 · D5_a · tP10 · P4/mbm (127); type `st:d5-a-si2u3-tp10`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaadcl and oqmd-18594, space group 127
+- Stoichiometry: B 0.4000, V 0.6000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2195.92 K, x(B) 0.4–0.4
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:v3b2-d5a)
 
-Names (6): _corpus: _corpus:phase:b-v:v3b2-d5a  
+Names (8): _corpus: _corpus:phase:b-v:v3b2-d5a  
+_mp: _mp:mp-aaaaadcl  
+_oqmd: _oqmd:oqmd-18594  
 _paper: _paper:10.1016/0022-5088(81)90224-1:V3B2  
 _tdb: _tdb:VB-12Hom.tdb:V3B2_D5A, tdb:VB-17Pin.tdb:V3B2_D5A, tdb:VB-81Spe.tdb:V3B2_D5A, tdb:VB-91Pan-LB.tdb:V3B2_D5A  
 
@@ -502,11 +513,15 @@ _assessment that models this phase_
 
 - Id: `phase:b-v:v3b4-d7b`; status `assigned`
 - Structure: Ta3B4 · D7_b · oI14 · Immm (71); type `st:d7-b-ta3b4-oi14`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaabgkda and oqmd-28626, space group 71
+- Stoichiometry: B 0.5714, V 0.4286
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2912.58 K, x(B) 0.57143–0.57143
 - Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:v3b4-d7b)
 
-Names (6): _corpus: _corpus:phase:b-v:v3b4-d7b  
+Names (8): _corpus: _corpus:phase:b-v:v3b4-d7b  
+_mp: _mp:mp-aaabgkda  
+_oqmd: _oqmd:oqmd-28626  
 _paper: _paper:10.1016/0022-5088(81)90224-1:V3B4  
 _tdb: _tdb:VB-12Hom.tdb:V3B4_D7B, tdb:VB-17Pin.tdb:V3B4_D7B, tdb:VB-81Spe.tdb:V3B4_D7B, tdb:VB-91Pan-LB.tdb:V3B4_D7B  
 
@@ -553,14 +568,15 @@ _assessment that models this phase_
 ## V5B6 (B–V)
 
 - Id: `phase:b-v:v5b6`; status `assigned`
-- Structure: V5B6 · oC22 · Cmmm (65); type `st:v5b6-oc22`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Structure: V5B6 · oC22 · Cmmm (65); type `st:v5b6-oc22`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: B 0.5455, V 0.4545
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2857.7 K, x(B) 0.54545–0.54545
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-v:v5b6)
 
-Names (6): _corpus: _corpus:phase:b-v:v5b6  
+Names (8): _corpus: _corpus:phase:b-v:v5b6  
+_mp: _mp:mp-aaacqqrp  
+_oqmd: _oqmd:oqmd-1454661  
 _paper: _paper:10.1016/0022-5088(81)90224-1:V5B6  
 _tdb: _tdb:VB-12Hom.tdb:V5B6, tdb:VB-17Pin.tdb:V5B6, tdb:VB-81Spe.tdb:V5B6, tdb:VB-91Pan-LB.tdb:V5B6  
 

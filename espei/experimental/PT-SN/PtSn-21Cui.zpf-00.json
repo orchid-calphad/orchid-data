@@ -5,15 +5,12 @@
   "VA"
  ],
  "phases": [
-  "LIQUID",
-  "PTSN4_D1C",
-  "PTSN_B81"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   942.35,
-   773.15
+   942.35
   ]
  },
  "output": "ZPF",
@@ -28,35 +25,6 @@
      0.88
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.9807
-    ]
-   ],
-   [
-    "PTSN4_D1C",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PTSN_B81",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Cui 2021, doi:10.1016/j.jallcom.2020.157064",
@@ -65,7 +33,7 @@
   "phase_compositions_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CFU6SUIU52 ORC-OJYRH6CWKW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CFU6SUIU52",
  "bibtex": "cui2021_d95982",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -73,12 +41,6 @@
   "observations": [
    {
     "id": "ORC-CFU6SUIU52",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.jallcom.2020.157064",
-    "measured_in": "doi:10.1016/j.jallcom.2020.157064"
-   },
-   {
-    "id": "ORC-OJYRH6CWKW",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2020.157064",
     "measured_in": "doi:10.1016/j.jallcom.2020.157064"
@@ -91,7 +53,7 @@
    "10.1016/j.jallcom.2020.157064"
   ],
   "source_dataset": "db-v2.1/general/espei/PtSn-21Cui/zpf-00.json",
-  "values_dropped": 4
+  "values_dropped": 5
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -129,46 +91,9 @@
       "method_entry": "value_types/X_PHASE/classes/thermal_analysis"
      }
     }
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "budget": {
-     "temperature_K": {
-      "sigma_printed": null,
-      "sigma_reading": 0.5,
-      "sigma_method": 5.0,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 5.0,
-      "method_class": "microanalysis",
-      "method_basis": "prior",
-      "method_n_pairs": 0,
-      "method_entry": "value_types/T_CONDITION/classes/unknown"
-     },
-     "composition_mole_fraction": {
-      "sigma_printed": null,
-      "sigma_reading": 5e-05,
-      "sigma_method": 0.005,
-      "sigma_composition": null,
-      "sigma_scatter": null,
-      "sigma_conversion": null,
-      "sigma_effective": 0.005,
-      "method_class": "microanalysis",
-      "method_basis": "prior",
-      "method_n_pairs": 0,
-      "method_entry": "value_types/X_PHASE/classes/microanalysis"
-     }
-    }
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
- },
- "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 2,
-  "hyperplanes_added": 0,
-  "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  },
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
@@ -177,11 +102,6 @@
   "values": [
    {
     "id": "ORC-CFU6SUIU52",
-    "espei_certified": false,
-    "calphad_check": "not_available"
-   },
-   {
-    "id": "ORC-OJYRH6CWKW",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

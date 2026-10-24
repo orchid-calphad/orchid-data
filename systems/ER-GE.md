@@ -1,28 +1,27 @@
 # Er–Ge system
 
-> Er–Ge system: 154 accepted literature values (formation 65, invariant reaction 37, mixing / partial 33, phase transition 19) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Ge system: 151 accepted literature values (formation 98, invariant reaction 37, phase transition 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-GE.html · Markdown: https://data.orchid-project.org/systems/ER-GE.md
 
-154 accepted literature values from 1 paper(s) (experimental 60, model 94); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+151 accepted literature values from 1 paper(s) (experimental 59, model 92); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ER-GE.json) · [CSV](https://data.orchid-project.org/systems/ER-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-GE/ErGe-17Ach.json) · [phases (17)](https://data.orchid-project.org/phases/pages/ER-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-GE.html) · [Markdown](https://data.orchid-project.org/systems/ER-GE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ER-GE.json) · [CSV](https://data.orchid-project.org/systems/ER-GE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-GE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-GE/ErGe-17Ach.json) · [phases (16)](https://data.orchid-project.org/phases/pages/ER-GE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-GE.html) · [Markdown](https://data.orchid-project.org/systems/ER-GE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 60 |
-| model | 94 |
+| experimental | 59 |
+| model | 92 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 37 |
-| phase transition | 19 |
-| formation | 65 |
-| mixing / partial | 33 |
+| phase transition | 16 |
+| formation | 98 |
 
 ## Calculated phase diagrams
 
@@ -160,7 +159,7 @@ Table: Enthalpies of formation, Er–Ge system (35)
 
 ## Other properties
 
-### Phase transition (19)
+### Phase transition (16)
 
 Table: Phase transition, Er–Ge system
 
@@ -175,9 +174,6 @@ Table: Phase transition, Er–Ge system
 | Phase transition | 1216.15 K | 1216.15 | polymorphic: LT_Er2Ge3 -> HT_Er2Ge3; _LT_Er2Ge3: Ge 0.6; HT_Er2Ge3: Ge 0.6_ | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 22 |  |
 | Phase transition | 1216.15 K | 1216.15 | polymorphic: LT_Er2Ge3 -> HT_Er2Ge3; _LT_Er2Ge3: Ge 0.6; HT_Er2Ge3: Ge 0.6_ | model | [1] Achgar 2017 | Table 2, p. 5, row 24 |  |
 | Phase transition | 1216.15 K | 1216.15 | polymorphic: LT_Er2Ge3 -> HT_Er2Ge3; _LT_Er2Ge3: Ge 0.6; HT_Er2Ge3: Ge 0.6_ | model | [1] Achgar 2017 | Table 2, p. 5, row 23 |  |
-| Phase transition | 1484.45 K | 1484.45 | congruent melting: L -> Ge; _L: Ge 1; Ge: Ge 1_ | model | [1] Achgar 2017 | Table 2, p. 5, row 44 |  |
-| Phase transition | 1484.45 K | 1484.45 | congruent melting: L -> Ge; _L: Ge 1; Ge: Ge 1_ | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 43 |  |
-| Phase transition | 1484.45 K | 1484.45 | congruent melting: L -> Ge; _L: Ge 1; Ge: Ge 1_ | model | [1] Achgar 2017 | Table 2, p. 5, row 45 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _L: Ge 0_ | model | [1] Achgar 2017 | Table 2, p. 5, row 2 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _L: Ge 0_ | model | [1] Achgar 2017 | Table 2, p. 5, row 3 |  |
 | Phase transition | 1802.15 K | 1802.15 | congruent melting: L -> Er; _L: Ge 0_ | experimental | [1] Achgar 2017; _cites Eremenko 1981_ | Table 2, p. 5, row 1 |  |
@@ -186,7 +182,7 @@ Table: Phase transition, Er–Ge system
 | Phase transition | 2223.15 K | 2223.15 | congruent transformation | experimental | [1] Achgar 2017; _cites Tsuchiya 2006_ [doi](https://doi.org/10.1143/jjap.45.2925) | p. 2 | “Er5Ge3 melts congruently at 1950 C, Er3Ge4 form during the peritectoid reaction and disintegrates into two solid phases ErGe and Er2Ge3 at 1367 C.” |
 | Phase transition | 2227.15 K | 2227.15 | congruent melting: L -> Er5Ge3; _L: Ge 0.375; Er5Ge3: Ge 0.375_ | model | [1] Achgar 2017 | Table 2, p. 5, row 9 |  |
 
-### Formation (30)
+### Formation (63)
 
 Table: Formation, Er–Ge system
 
@@ -222,46 +218,39 @@ Table: Formation, Er–Ge system
 | Entropy of formation | -2.36 J/mol-atom/K | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 29 |  |
 | Entropy of formation | -13.6 J/mol-atom/K ± 1.1 | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 28 |  |
 | Entropy of formation | -2.26 J/mol-atom/K | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 30 |  |
-
-### Mixing / partial (33)
-
-Table: Mixing / partial, Er–Ge system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -77.32 kJ/mol-atom ± 0.16 | 950 | Er11Ge10; _alloy: Ge 0.47619_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 10 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -92.1 kJ/mol-atom | 950 | Er11Ge10; _alloy: Ge 0.47619_ | model | [1] Achgar 2017 | Table 5, p. 7, row 12 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -91.95 kJ/mol-atom | 950 | Er11Ge10; _alloy: Ge 0.47619_ | model | [1] Achgar 2017 | Table 5, p. 7, row 11 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -61.87 kJ/mol-atom | 950 | Er2Ge5; _alloy: Ge 0.714286_ | model | [1] Achgar 2017 | Table 5, p. 7, row 35 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -61.99 kJ/mol-atom | 950 | Er2Ge5; _alloy: Ge 0.714286_ | model | [1] Achgar 2017 | Table 5, p. 7, row 36 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -48.47 kJ/mol-atom ± 0.08 | 950 | Er2Ge5; _alloy: Ge 0.714286_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 34 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -70.04 kJ/mol-atom ± 0.13 | 950 | Er3Ge4; _alloy: Ge 0.571429_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 16 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -86.01 kJ/mol-atom | 950 | Er3Ge4; _alloy: Ge 0.571429_ | model | [1] Achgar 2017 | Table 5, p. 7, row 18 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -85.83 kJ/mol-atom | 950 | Er3Ge4; _alloy: Ge 0.571429_ | model | [1] Achgar 2017 | Table 5, p. 7, row 17 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -89.05 kJ/mol-atom | 950 | Er5Ge3; _alloy: Ge 0.375_ | model | [1] Achgar 2017 | Table 5, p. 7, row 6 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -88.63 kJ/mol-atom | 950 | Er5Ge3; _alloy: Ge 0.375_ | model | [1] Achgar 2017 | Table 5, p. 7, row 5 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -78.4 kJ/mol-atom ± 0.22 | 950 | Er5Ge3; _alloy: Ge 0.375_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 1 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -91.88 kJ/mol-atom | 950 | Er5Ge4; _alloy: Ge 0.444444_ | model | [1] Achgar 2017 | Table 5, p. 7, row 9 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -91.72 kJ/mol-atom | 950 | Er5Ge4; _alloy: Ge 0.444444_ | model | [1] Achgar 2017 | Table 5, p. 7, row 8 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -77.91 kJ/mol-atom ± 0.18 | 950 | Er5Ge4; _alloy: Ge 0.444444_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 7 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -91.6 kJ/mol-atom | 950 | ErGe; _alloy: Ge 0.5_ | model | [1] Achgar 2017 | Table 5, p. 7, row 15 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -75.5 kJ/mol-atom ± 0.16 | 950 | ErGe; _alloy: Ge 0.5_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 13 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -91.29 kJ/mol-atom | 950 | ErGe; _alloy: Ge 0.5_ | model | [1] Achgar 2017 | Table 5, p. 7, row 14 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -83.1 kJ/mol-atom | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 24 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -67.86 kJ/mol-atom ± 0.12 | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 22 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -82.9 kJ/mol-atom | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 23 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.68 kJ/mol-atom | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 33 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.54 kJ/mol-atom | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 32 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 31 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -67.86 kJ/mol-atom ± 0.12 | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 19 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -82.92 kJ/mol-atom | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 20 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -83.12 kJ/mol-atom | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 21 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 25 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.61 kJ/mol-atom | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 26 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.69 kJ/mol-atom | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 27 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.62 kJ/mol-atom | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 29 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 28 |  |
-| Gibbs energy of mixing; _printed: Gibbs free Energy_ | -71.73 kJ/mol-atom | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 30 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -77.32 kJ/mol-atom ± 0.16 | 950 | Er11Ge10; _alloy: Ge 0.47619_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 10 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -92.1 kJ/mol-atom | 950 | Er11Ge10; _alloy: Ge 0.47619_ | model | [1] Achgar 2017 | Table 5, p. 7, row 12 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -91.95 kJ/mol-atom | 950 | Er11Ge10; _alloy: Ge 0.47619_ | model | [1] Achgar 2017 | Table 5, p. 7, row 11 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -61.87 kJ/mol-atom | 950 | Er2Ge5; _alloy: Ge 0.714286_ | model | [1] Achgar 2017 | Table 5, p. 7, row 35 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -61.99 kJ/mol-atom | 950 | Er2Ge5; _alloy: Ge 0.714286_ | model | [1] Achgar 2017 | Table 5, p. 7, row 36 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -48.47 kJ/mol-atom ± 0.08 | 950 | Er2Ge5; _alloy: Ge 0.714286_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 34 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -70.04 kJ/mol-atom ± 0.13 | 950 | Er3Ge4; _alloy: Ge 0.571429_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 16 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -86.01 kJ/mol-atom | 950 | Er3Ge4; _alloy: Ge 0.571429_ | model | [1] Achgar 2017 | Table 5, p. 7, row 18 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -85.83 kJ/mol-atom | 950 | Er3Ge4; _alloy: Ge 0.571429_ | model | [1] Achgar 2017 | Table 5, p. 7, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -89.05 kJ/mol-atom | 950 | Er5Ge3; _alloy: Ge 0.375_ | model | [1] Achgar 2017 | Table 5, p. 7, row 6 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -88.63 kJ/mol-atom | 950 | Er5Ge3; _alloy: Ge 0.375_ | model | [1] Achgar 2017 | Table 5, p. 7, row 5 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -78.4 kJ/mol-atom ± 0.22 | 950 | Er5Ge3; _alloy: Ge 0.375_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 1 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -91.88 kJ/mol-atom | 950 | Er5Ge4; _alloy: Ge 0.444444_ | model | [1] Achgar 2017 | Table 5, p. 7, row 9 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -91.72 kJ/mol-atom | 950 | Er5Ge4; _alloy: Ge 0.444444_ | model | [1] Achgar 2017 | Table 5, p. 7, row 8 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -77.91 kJ/mol-atom ± 0.18 | 950 | Er5Ge4; _alloy: Ge 0.444444_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 7 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -91.6 kJ/mol-atom | 950 | ErGe; _alloy: Ge 0.5_ | model | [1] Achgar 2017 | Table 5, p. 7, row 15 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -75.5 kJ/mol-atom ± 0.16 | 950 | ErGe; _alloy: Ge 0.5_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 13 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -91.29 kJ/mol-atom | 950 | ErGe; _alloy: Ge 0.5_ | model | [1] Achgar 2017 | Table 5, p. 7, row 14 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -83.1 kJ/mol-atom | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 24 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -67.86 kJ/mol-atom ± 0.12 | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 22 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -82.9 kJ/mol-atom | 950 | HT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 23 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.68 kJ/mol-atom | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 33 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.54 kJ/mol-atom | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 32 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | HT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 31 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -67.86 kJ/mol-atom ± 0.12 | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 19 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -82.92 kJ/mol-atom | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 20 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -83.12 kJ/mol-atom | 950 | LT_Er2Ge3; _alloy: Ge 0.6_ | model | [1] Achgar 2017 | Table 5, p. 7, row 21 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 25 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.61 kJ/mol-atom | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 26 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.69 kJ/mol-atom | 950 | LT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 27 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.62 kJ/mol-atom | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 29 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -56.55 kJ/mol-atom ± 0.1 | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | experimental | [1] Achgar 2017; _cites Sidorko 2008_ | Table 5, p. 7, row 28 |  |
+| Gibbs energy of formation; _printed: Gibbs free Energy_ | -71.73 kJ/mol-atom | 950 | MT_ErGe2; _alloy: Ge 0.666667_ | model | [1] Achgar 2017 | Table 5, p. 7, row 30 |  |
 
 ## Sources
 

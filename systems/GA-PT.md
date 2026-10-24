@@ -1,10 +1,10 @@
 # Ga–Pt system
 
-> Ga–Pt system: 29 accepted literature values (invariant reaction 25, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pt system: 45 accepted literature values (invariant reaction 25, formation 16, phase transition 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PT.html · Markdown: https://data.orchid-project.org/systems/GA-PT.md
 
-29 accepted literature values from 1 paper(s) (experimental 16, model 13); 2 calculated phase diagram(s).
+45 accepted literature values from 2 paper(s) (experimental 18, model 20, DFT 7); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-PT.json) · [CSV](https://data.orchid-project.org/systems/GA-PT.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PT) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PT/GaPt-06Li.json) · [phases (13)](https://data.orchid-project.org/phases/pages/GA-PT.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PT.html) · [Markdown](https://data.orchid-project.org/systems/GA-PT.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 13 |
+| experimental | 18 |
+| model | 20 |
+| DFT | 7 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 25 |
 | phase transition | 4 |
+| formation | 16 |
 
 ## Calculated phase diagrams
 
@@ -104,6 +106,31 @@ Table: Invariant reactions reported in the literature for the Ga–Pt system (25
 | 303 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | model | [1] Li 2006 | Table 1, p. 2, row 2 |  |
 | 301 | eutectic: L -> Ga + Ga6Pt | Ga: Pt 0; Ga6Pt: Pt 0.142857 | experimental | [1] Li 2006; _cites Gruex 1976_ | Table 1, p. 2, row 1 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–Pt system (16)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ga2Pt | [Ga2Pt](https://data.orchid-project.org/compounds/Ga2Pt.html) | -60.45 kJ/mol-atom | 298.15 | model | -56.063 (mp-aaaabgrv) | -56.439 (oqmd-17288) | [2] Wang 2009 | Table 1, p. 3, row 22 |  |
+| Ga2Pt |  | -59.79 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 21 |  |
+| Ga3Pt2 | [Ga3Pt2](https://data.orchid-project.org/compounds/Ga3Pt2.html) | -65.09 kJ/mol-atom | 298.15 | model | -57.587 (mp-aaaabfrc) | -57.975 (oqmd-17289) | [2] Wang 2009 | Table 1, p. 3, row 24 |  |
+| Ga3Pt2 |  | -60.91 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 23 |  |
+| Ga3Pt5 | [Ga3Pt5](https://data.orchid-project.org/compounds/Ga3Pt5.html) | -61.68 kJ/mol-atom | 298.15 | model | -53.529 (mp-aaaabtjj) | -53.883 (oqmd-17290) | [2] Wang 2009 | Table 1, p. 3, row 29 |  |
+| Ga3Pt5 |  | -56.16 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 28 |  |
+| Ga7Pt3 | [Ga7Pt3](https://data.orchid-project.org/compounds/Ga7Pt3.html) | -59.23 kJ/mol-atom | 298.15 | model | -51.918 (mp-aaacpqea) | -51.998 (oqmd-22205) | [2] Wang 2009 | Table 1, p. 3, row 20 |  |
+| Ga7Pt3 |  | -54.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 19 |  |
+| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -68.12 kJ/mol-atom | 298.15 | model | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009 | Table 1, p. 3, row 27 |  |
+| GaPt |  | -64.27 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 26 |  |
+| GaPt | [GaPt](https://data.orchid-project.org/compounds/GaPt.html) | -59.6 kJ/mol-atom | 298.15 | experimental | -60.784 (mp-aaacgjch) | -63.427 (oqmd-1374058) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 25 |  |
+| GaPt2 | [GaPt2](https://data.orchid-project.org/compounds/GaPt2.html) | -58.1 kJ/mol-atom | 298.15 | model | -51.431 (mp-aaaaadhn) | -52.458 (oqmd-17285) | [2] Wang 2009 | Table 1, p. 3, row 31 |  |
+| GaPt2 |  | -54.07 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 30 |  |
+| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -46.9 kJ/mol-atom | 298.15 | model | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009 | Table 1, p. 3, row 34 |  |
+| GaPt3 |  | -45.64 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2009 | Table 1, p. 3, row 33 |  |
+| GaPt3 | [GaPt3](https://data.orchid-project.org/compounds/GaPt3.html) | -43.5 kJ/mol-atom | 298.15 | experimental | -42.855 (mp-aaabxcbt) | -43.749 (oqmd-17287) | [2] Wang 2009; _cites Meschel 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901113-0) | Table 1, p. 3, row 32 |  |
+
 ## Other properties
 
 ### Phase transition (4)
@@ -122,6 +149,7 @@ Table: Phase transition, Ga–Pt system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Mei Li, Changrong Li, Fuming Wang, Weijing Zhang, Thermodynamic assessment of the Ga–Pt system, Intermetallics 14, 826-831 (2006). [doi:10.1016/j.intermet.2005.12.002](https://doi.org/10.1016/j.intermet.2005.12.002)
+2. J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009). [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002)
 
 ## Please cite
 

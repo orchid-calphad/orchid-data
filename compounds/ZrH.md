@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/ZrH.html · Markdown: https://da
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1).
 
-Systems: [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) · [H–Zr](https://data.orchid-project.org/systems/H-ZR.html)
+Systems: [H–Zr](https://data.orchid-project.org/systems/H-ZR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of ZrH reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41.24 kJ/mol (basis unstated) | γ-ZrH |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
+| -41.24 kJ/mol (basis unstated) | γ-ZrH |  | model |  | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [1] Ukita 2007 | Table 2, p. 5, row 4 |  |
 | -41.4 kJ/mol-atom | γ-ZrH | 0 | DFT | first-principles calculation | [H–Zr](https://data.orchid-project.org/systems/H-ZR.html) | [2] Zhong 2012 | Table 3, p. 2, row 1 |  |
 
 ### Uncertainty budget
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of ZrH
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -41.24 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -41.4 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -41.24 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -41.4 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

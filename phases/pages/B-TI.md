@@ -14,11 +14,11 @@ Table: Phases of the B–Ti system (10)
 |---|---|---|---|---:|---:|
 | [BETA_RHOMBO_B](#phase-b-ti-b-beta-rhombo); _phase:b-ti:b-beta-rhombo_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–2549.98 K, x(B) 1–1 | 7 | 7 |
 | [MB_B27](#phase-b-ti-b27-mb); _phase:b-ti:b27-mb_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2456.06 K, x(B) 0.5–0.5 | 2 | 2 |
-| [BCC_A2](#phase-b-ti-bcc-a2); _phase:b-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108 | 19 | 7 |
+| [BCC_A2](#phase-b-ti-bcc-a2); _phase:b-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108 | 17 | 7 |
 | [MB2_C32](#phase-b-ti-c32-mb2); _phase:b-ti:c32-mb2_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–3488.99 K, x(B) 0.66667–0.66667 | 0 | 1 |
 | [FCC_A1](#phase-b-ti-fcc-a1); _phase:b-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
-| [HCP_A3](#phase-b-ti-hcp-a3); _phase:b-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1157.68 K, x(B) 0–0.00164 | 7 | 7 |
-| [LIQUID](#phase-b-ti-liquid); _phase:b-ti:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1 | 64 | 7 |
+| [HCP_A3](#phase-b-ti-hcp-a3); _phase:b-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1157.68 K, x(B) 0–0.00164 | 6 | 7 |
+| [LIQUID](#phase-b-ti-liquid); _phase:b-ti:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1 | 63 | 7 |
 | [TI3B4_D7B](#phase-b-ti-ti3b4-d7b); _phase:b-ti:ti3b4-d7b_ | Ta3B4 · D7_b · oI14 · Immm (71) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2481.63 K, x(B) 0.57143–0.57143 | 19 | 7 |
 | [TIB_B27](#phase-b-ti-tib-b27); _phase:b-ti:tib-b27_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–2459.71 K, x(B) 0.48221–0.5 | 32 | 5 |
 | [TIB2_C32](#phase-b-ti-tib2-c32); _phase:b-ti:tib2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3496.05 K, x(B) 0.63954–0.6769 | 48 | 6 |
@@ -36,7 +36,7 @@ Table: Phases of the B–Ti system (10)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — TiB-19Wit.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — TiB-94Bat-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2549.98 K, x(B) 1–1
-- Literature: 7 values (7 accepted) from 3 papers
+- Literature: 7 values (6 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:b-beta-rhombo)
 
 Names (12): _corpus: _corpus:phase:b-ti:b-beta-rhombo, corpus:phase:b-ti:beta-rhombo-b  
@@ -152,11 +152,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:b-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300.18–3999.73 K, x(B) 0–0.0108
-- Literature: 19 values (19 accepted) from 4 papers
+- Literature: 17 values (17 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:b-ti:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1016/s0364-5916(98)00037-6:β-rhombo-B  
+Names (12): _corpus: _corpus:phase:b-ti:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2011.10.003:bcc-Ti, paper:10.1016/j.jallcom.2003.09.017:(βTi), paper:10.1016/j.jallcom.2006.10.034:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
 _tdb: _tdb:TiB-04Ma.tdb:BCC_A2, tdb:TiB-08Wit.tdb:BCC_A2, tdb:TiB-09Nak.tdb:BCC_A2, tdb:TiB-11Cac.tdb:BCC_A2, tdb:TiB-16Wit.tdb:BCC_A2, tdb:TiB-19Wit.tdb:BCC_A2, tdb:TiB-94Bat-LB.tdb:BCC_A2  
 
 
@@ -338,7 +338,7 @@ _assessment that models this phase_
 - Id: `phase:b-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1157.68 K, x(B) 0–0.00164
-- Literature: 7 values (7 accepted) from 3 papers
+- Literature: 6 values (6 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:hcp-a3)
 
 Names (11): _corpus: _corpus:phase:b-ti:hcp-a3  
@@ -419,7 +419,7 @@ _reports values for this phase_
 - Id: `phase:b-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 1780–4000 K, x(B) 0–1
-- Literature: 64 values (64 accepted) from 5 papers
+- Literature: 63 values (62 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ti:liquid)
 
 Names (14): _corpus: _corpus:phase:b-ti:liquid  
@@ -494,10 +494,10 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
-- [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997).  
-_reports values for this phase_
 - [doi:10.1002/zaac.19522680308](https://doi.org/10.1002/zaac.19522680308) R. Kieffer, F. Benesovsky, E. R. Honak, Über ein neues Verfahren zur Herstellung von Metallboriden der Übergangsmetalle, insbesondere von Titan‐und Zirkonborid, Zeitschrift anorg allge chemie 268, 191-200 (1952).  
 _cited as the source of values for this phase_
+- [doi:10.1007/bf02646757](https://doi.org/10.1007/bf02646757) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system boron-hafnium-titanium (B-Hf-Ti), JPE 18, 24-47 (1997).  
+_reports values for this phase_
 - [doi:10.1016/0001-6160(54)90090-5](https://doi.org/10.1016/0001-6160%2854%2990090-5) Benjamin Post, Frank W. Glaser, David Moskowitz, Transition metal diborides, Acta Metallurgica 2, 20-25 (1954).  
 _cited as the source of values for this phase_
 

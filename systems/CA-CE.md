@@ -1,29 +1,29 @@
 # Ca–Ce system
 
-> Ca–Ce system: 40 accepted literature values (invariant reaction 14, mixing / partial 12, crystal structure 11, phase transition 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–Ce system: 30 accepted literature values (invariant reaction 13, mixing / partial 12, phase transition 3, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-CE.html · Markdown: https://data.orchid-project.org/systems/CA-CE.md
 
-40 accepted literature values from 2 paper(s) (experimental 11, model 11, DFT 18); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+30 accepted literature values from 2 paper(s) (experimental 6, model 11, DFT 13); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [phases (6)](https://data.orchid-project.org/phases/pages/CA-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CA-CE.json) · [CSV](https://data.orchid-project.org/systems/CA-CE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-CE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-CE/CaCe-07Ham.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CA-CE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/systems/CA-CE.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
+| experimental | 6 |
 | model | 11 |
-| DFT | 18 |
+| DFT | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 13 |
 | phase transition | 3 |
 | mixing / partial | 12 |
-| crystal structure | 11 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -55,7 +55,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ca–Ce system (14)
+Table: Invariant reactions reported in the literature for the Ca–Ce system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -65,7 +65,6 @@ Table: Invariant reactions reported in the literature for the Ca–Ce system (14
 | 1105.8 | Liquid 1 -> bcc(Ca) + liquid 2 | Liquid 1: Ce 0.0027; bcc(Ca): Ce 2.300e-4; liquid 2: Ce 0.9997 | model | [2] Zhang 2008 | Table 5, p. 4, row 4 |  |
 | 1079.15 | L″ + βCa = βCe |  | model | [1] Hampl 2007 | Table 3, p. 5, row 3 |  |
 | 1078.15 | L″ + βCa = βCe |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 4 |  |
-| 1068 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.997 | experimental | [2] Zhang 2008; _cites Gschneider 1961_ | Table 5, p. 4, row 1 |  |
 | 1061.7 | Liquid 1 -> bcc(Ce) + bcc(Ca) | Liquid 1: Ce 0.998; bcc(Ce): Ce 0.9998; bcc(Ca): Ce 1.500e-5 | model | [2] Zhang 2008 | Table 5, p. 4, row 2 |  |
 | 993.15 | βCe = αCe + βCa |  | model | [1] Hampl 2007 | Table 3, p. 5, row 5 |  |
 | 993.15 | βCe = αCe + βCa |  | experimental | [1] Hampl 2007 | Table 3, p. 5, row 6 |  |
@@ -105,23 +104,14 @@ Table: Mixing / partial, Ca–Ce system
 | Enthalpy of mixing | 18.208 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.75_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 10 |  |
 | Enthalpy of mixing | 16.488 kJ/mol (basis unstated) | 0 | bcc; _alloy: Ce 0.25_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 9 |  |
 
-### Crystal structure (11)
+### Crystal structure (2)
 
 Table: Crystal structure, Ca–Ce system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | Ca; _alloy: Ce 0_ | experimental | [2] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.4 Å | 0 | Ca; _alloy: Ce 0_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 1 |  |
 | lattice unspecified axis; _printed: Lattice parameter_ | 4.5 Å |  | bcc; _alloy: Ce 0_ | experimental | [2] Zhang 2008; _cites Lide 2002_ | Table 1, p. 2, row 2 |  |
 | lattice unspecified axis; _printed: Calculated lattice parameter_ | 4.4 Å | 0 | bcc; _alloy: Ce 0_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 1 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 3.756 Å | 1041 | Ce; _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 3 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce; _alloy: Ce 1_ | experimental | [2] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 4 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | experimental | [2] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 3.759 Å | 1041 | Ce (with magnetic); _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 5 |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.756 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 3 |  |
-| lattice unspecified axis; _printed: Lattice parameter_ | 4.11 Å | 1041 | bcc; _alloy: Ce 1_ | experimental | [2] Zhang 2008; _cites Koskenmaki 1981_ | Table 1, p. 2, row 6 |  |
-| lattice unspecified axis; _printed: Calculated lattice parameter_ | 3.759 Å | 1041 | bcc; _alloy: Ce 1_ | DFT | [2] Zhang 2008 | Table 1, p. 2, row 5 |  |
 
 ## Sources
 

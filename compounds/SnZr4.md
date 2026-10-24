@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of SnZr4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -58.898 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.082 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.667 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.292 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -29.94 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -58.898 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -48.082 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -42.667 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -38.292 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -29.94 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
 
 ## Sources
 

@@ -1,30 +1,32 @@
 # Al3Ni: enthalpy of formation
 
-> Enthalpy of formation of Al3Ni: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of Al3Ni: 13 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Al3Ni.html · Markdown: https://data.orchid-project.org/compounds/Al3Ni.md
 
-11 accepted literature formation-enthalpy value(s) (experimental 3, model 7, DFT 1); experimental median -38.5 kJ/mol-atom (n = 3); Materials Project -39.068 kJ/mol-atom (mp-aaabjkld); OQMD -39.608 kJ/mol-atom (oqmd-10517).
+13 accepted literature formation-enthalpy value(s) (experimental 3, model 9, DFT 1); experimental median -38.5 kJ/mol-atom (n = 3); Materials Project -39.068 kJ/mol-atom (mp-aaabjkld); OQMD -39.608 kJ/mol-atom (oqmd-10517).
 
 Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) · [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Al3Ni reported in the literature (11)
+Table: Enthalpy of formation of Al3Ni reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -41 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Chrifi-Alaoui 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900493-6) | Table 1, p. 4, row 1 |  |
 | -38.5 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Oelsen 1937_ | Table 1, p. 4, row 2 |  |
 | -37.7 kJ/mol-atom | Al3Ni | 298.15 | experimental |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Kubaschewski 1958_ [doi](https://doi.org/10.1039/tf9585400814) | Table 1, p. 4, row 3 |  |
+| -69.8016 kJ/mol (basis unstated) | Al0.75Ni0.25 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Ansara 1988 | Table 1, p. 5, row 9 |  |
 | -48 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Dupin 2001_ [doi](https://doi.org/10.1016/s0364-5916%2801%2900049-9) | Table 1, p. 4, row 6 |  |
 | -42.1 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Shi 2009_ [doi](https://doi.org/10.1016/j.jssc.2009.07.026) | Table 1, p. 4, row 5 |  |
 | -40.7 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011 | Table 1, p. 4, row 7 |  |
 | -39.6 kJ/mol-atom | Al3Ni | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [1] Chen 2011; _cites Wang 2009_ | Table 1, p. 4, row 4 |  |
-| -22.9 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19 |  |
-| -21.6 kJ/mol (basis unstated) | L12-Al3Ni |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 1 |  |
-| -21.175 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [2] Liu 2016 | Table 4, p. 38, row 18 |  |
-| -21.919 kJ/mol (basis unstated) | L12-Al3Ni |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [3] Yang 2022 | Table 3, p. 5, row 2 |  |
+| -37.656 kJ/mol (basis unstated) | Al0.75Ni0.25 | 298.15 | model |  | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [2] Ansara 1988; _cites Hultgren 1973_ | Table 1, p. 5, row 10 |  |
+| -22.9 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [3] Liu 2016; _cites ref. 86_ | Table 4, p. 38, row 19 |  |
+| -21.6 kJ/mol (basis unstated) | L12-Al3Ni |  | model | CALPHAD | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 1 |  |
+| -21.175 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [3] Liu 2016 | Table 4, p. 38, row 18 |  |
+| -21.919 kJ/mol (basis unstated) | L12-Al3Ni |  | DFT | DFT (OQMD) | [Al–Ni](https://data.orchid-project.org/systems/AL-NI.html) | [4] Yang 2022 | Table 3, p. 5, row 2 |  |
 
 ### Uncertainty budget
 
@@ -34,17 +36,19 @@ Table: Uncertainty budget of the literature values of Al3Ni
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -41 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.5 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -48 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -42.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -40.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.6 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.175 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -41 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -69.8016 | kJ/mol (basis unstated) |  | 5.000e-5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -48 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -40.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.656 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -22.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.6 | kJ/mol (basis unstated) |  | 0.05 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -21.175 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -21.919 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
 
 ## DFT formation energies
 
@@ -56,14 +60,16 @@ Table: DFT formation energy of Al3Ni
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabjkld | -39.068 | -0.404916 | Pnma | 0 | 0 | no |
 | OQMD | oqmd-10517 | -39.608 | -0.410514 | Pnma | 0 | 0 | no |
+| OQMD | oqmd-344444 | -21.441 | -0.222218 | Pm-3m | 18.1678 | 0.1883 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 
 ## Sources
 
 1. H.-L. Chen, E. Doernberg, P. Svoboda, R. Schmid-Fetzer, Thermodynamics of the Al3Ni phase and revision of the Al–Ni system, Thermochimica Acta 512, 189-195 (2011). [doi:10.1016/j.tca.2010.10.005](https://doi.org/10.1016/j.tca.2010.10.005)
-2. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
-3. Wei Yang, Peisheng Wang, Xiaozhong Huang, Shuyan Zhang, Thermodynamic analysis of the Al–Ni system, Intermetallics 149, 107647 (2022). [doi:10.1016/j.intermet.2022.107647](https://doi.org/10.1016/j.intermet.2022.107647)
+2. I. Ansara, B. Sundman, P. Willemin, Thermodynamic modeling of ordered phases in the NiAl system, Acta Metallurgica 36, 977-982 (1988). [doi:10.1016/0001-6160(88)90152-6](https://doi.org/10.1016/0001-6160%2888%2990152-6)
+3. Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016). [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007)
+4. Wei Yang, Peisheng Wang, Xiaozhong Huang, Shuyan Zhang, Thermodynamic analysis of the Al–Ni system, Intermetallics 149, 107647 (2022). [doi:10.1016/j.intermet.2022.107647](https://doi.org/10.1016/j.intermet.2022.107647)
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Pd–Yb system
 
-> Pd–Yb system: 28 accepted literature values (invariant reaction 18, phase transition 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Yb system: 146 accepted literature values (formation 117, invariant reaction 18, phase transition 10, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-YB.html · Markdown: https://data.orchid-project.org/systems/PD-YB.md
 
-28 accepted literature values from 1 paper(s) (experimental 22, model 6); 1 calculated phase diagram(s). 124 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+146 accepted literature values from 1 paper(s) (experimental 27, model 111, DFT 8); 1 calculated phase diagram(s). 124 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-YB.json) · [CSV](https://data.orchid-project.org/systems/PD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-YB/PdYb-20Kar.json) · [phases (17)](https://data.orchid-project.org/phases/pages/PD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-YB.html) · [Markdown](https://data.orchid-project.org/systems/PD-YB.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 6 |
+| experimental | 27 |
+| model | 111 |
+| DFT | 8 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 18 |
 | phase transition | 10 |
+| formation | 117 |
+| heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
 
@@ -93,6 +96,73 @@ Table: Invariant reactions reported in the literature for the Pd–Yb system (18
 | 888.15 | eutectic: βYb + PdYb3 -> Liq | βYb: Yb 0.851; PdYb3: Yb 0.75 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 4 |  |
 | 722.15 | peritectoid: Pd7Yb -> Pd3Yb + fcc_A1 | Pd7Yb: Yb 0.125; Pd3Yb: Yb 0.25 | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 61 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Pd–Yb system (58)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd21Yb10 |  | -80.7767 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 49 |  |
+| Pd21Yb10 |  | -75.63 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 51 |  |
+| Pd21Yb10 |  | -75 kJ/mol-atom ± 4 | 1029.5 | experimental |  |  | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 50 |  |
+| Pd21Yb10 |  | -71.4441 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 46 |  |
+| Pd21Yb10 |  | -71.2839 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 45 |  |
+| Pd21Yb10 |  | -65.0944 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 48 |  |
+| Pd21Yb10 |  | -64.0132 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 47 |  |
+| Pd2Yb | [Pd2Yb](https://data.orchid-project.org/compounds/Pd2Yb.html) | -80.7767 kJ/mol-atom | 298.15 | model |  | -80.519 (oqmd-1592418) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 66 |  |
+| Pd2Yb | [Pd2Yb](https://data.orchid-project.org/compounds/Pd2Yb.html) | -72.0479 kJ/mol-atom | 298.15 | model |  | -80.519 (oqmd-1592418) | [1] Kardellass 2020 | Table 3, p. 5, row 64 |  |
+| Pd2Yb | [Pd2Yb](https://data.orchid-project.org/compounds/Pd2Yb.html) | -65.717 kJ/mol-atom | 298.15 | model |  | -80.519 (oqmd-1592418) | [1] Kardellass 2020 | Table 3, p. 5, row 65 |  |
+| Pd2Yb5 | [Pd2Yb5](https://data.orchid-project.org/compounds/Pd2Yb5.html) | -60.467 kJ/mol-atom | 298.15 | model |  | -60.832 (oqmd-1791175) | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
+| Pd2Yb5 |  | -60.35 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 20 |  |
+| Pd2Yb5 | [Pd2Yb5](https://data.orchid-project.org/compounds/Pd2Yb5.html) | -56.8189 kJ/mol-atom | 298.15 | model |  | -60.832 (oqmd-1791175) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 19 |  |
+| Pd2Yb5 | [Pd2Yb5](https://data.orchid-project.org/compounds/Pd2Yb5.html) | -56.723 kJ/mol-atom | 298.15 | model |  | -60.832 (oqmd-1791175) | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
+| Pd2Yb5 | [Pd2Yb5](https://data.orchid-project.org/compounds/Pd2Yb5.html) | -48.25 kJ/mol-atom | 298.15 | model |  | -60.832 (oqmd-1791175) | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
+| Pd2Yb5 | [Pd2Yb5](https://data.orchid-project.org/compounds/Pd2Yb5.html) | -45.3022 kJ/mol-atom | 298.15 | model |  | -60.832 (oqmd-1791175) | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -68 kJ/mol-atom ± 2 | 1029.5 | experimental |  | -67.303 (oqmd-17988) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 10 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -64.7552 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 9 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -60.7175 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -60.1448 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -40.1795 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -32.2396 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Pd3Yb | [Pd3Yb](https://data.orchid-project.org/compounds/Pd3Yb.html) | -32.0719 kJ/mol-atom | 298.15 | model |  | -67.303 (oqmd-17988) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
+| Pd3Yb |  | -21.084 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 11 |  |
+| Pd4Yb3 | [Pd4Yb3](https://data.orchid-project.org/compounds/Pd4Yb3.html) | -92.562 kJ/mol-atom | 298.15 | model |  | -81.152 (oqmd-1799704) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 41 |  |
+| Pd4Yb3 |  | -81.181 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 43 |  |
+| Pd4Yb3 | [Pd4Yb3](https://data.orchid-project.org/compounds/Pd4Yb3.html) | -77.2289 kJ/mol-atom | 298.15 | model |  | -81.152 (oqmd-1799704) | [1] Kardellass 2020 | Table 3, p. 5, row 39 |  |
+| Pd4Yb3 | [Pd4Yb3](https://data.orchid-project.org/compounds/Pd4Yb3.html) | -73 kJ/mol-atom ± 3 | 1029.5 | experimental |  | -81.152 (oqmd-1799704) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 42 |  |
+| Pd4Yb3 | [Pd4Yb3](https://data.orchid-project.org/compounds/Pd4Yb3.html) | -71.5898 kJ/mol-atom | 298.15 | model |  | -81.152 (oqmd-1799704) | [1] Kardellass 2020 | Table 3, p. 5, row 40 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -88.6816 kJ/mol-atom | 298.15 | model |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 56 |  |
+| Pd5Yb3 |  | -81.703 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 58 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -75 kJ/mol-atom ± 3 | 1029.5 | experimental |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 57 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -74.4199 kJ/mol-atom | 298.15 | model |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020 | Table 3, p. 5, row 53 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -72.6797 kJ/mol-atom | 298.15 | model |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020 | Table 3, p. 5, row 52 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -68.6462 kJ/mol-atom | 298.15 | model |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020 | Table 3, p. 5, row 55 |  |
+| Pd5Yb3 | [Pd5Yb3](https://data.orchid-project.org/compounds/Pd5Yb3.html) | -68.2429 kJ/mol-atom | 298.15 | model |  | -80.513 (oqmd-2021701) | [1] Kardellass 2020 | Table 3, p. 5, row 54 |  |
+| Pd7RE |  | -40.1795 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 6, row 11 |  |
+| Pd7RE |  | -32.2396 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 6, row 12 |  |
+| Pd7RE |  | -32.0719 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 6, row 13 |  |
+| Pd7Yb | [Pd7Yb](https://data.orchid-project.org/compounds/Pd7Yb.html) | -40.1795 kJ/mol-atom | 298.15 | model |  | -37.784 (oqmd-1366674) | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Pd7Yb | [Pd7Yb](https://data.orchid-project.org/compounds/Pd7Yb.html) | -32.2396 kJ/mol-atom | 298.15 | model |  | -37.784 (oqmd-1366674) | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Pd7Yb | [Pd7Yb](https://data.orchid-project.org/compounds/Pd7Yb.html) | -32.0719 kJ/mol-atom | 298.15 | model |  | -37.784 (oqmd-1366674) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 79 |  |
+| PdRE3 |  | -52.9927 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 6, row 3 |  |
+| PdRE3 |  | -52.818 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 6, row 5 |  |
+| PdRE3 |  | -52.7182 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020 | Table 3, p. 6, row 2 |  |
+| PdRE3 |  | -49.6098 kJ/mol-atom | 298.15 | model |  |  | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 6, row 4 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -90.954 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 32 |  |
+| PdYb |  | -83.45 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 34 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -80.8323 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020 | Table 3, p. 5, row 27 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -80.832 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020 | Table 3, p. 5, row 28 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -75.6454 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020 | Table 3, p. 5, row 29 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -75.6029 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020 | Table 3, p. 5, row 30 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -66 kJ/mol-atom ± 3 | 1029.5 | experimental |  | -83.728 (oqmd-17987) | [1] Kardellass 2020; _cites Ciccioli 2016_ [doi](https://doi.org/10.1016/j.tca.2016.01.004) | Table 3, p. 5, row 33 |  |
+| PdYb | [PdYb](https://data.orchid-project.org/compounds/PdYb.html) | -54 kJ/mol-atom | 298.15 | model |  | -83.728 (oqmd-17987) | [1] Kardellass 2020; _cites Ivanov 2011_ [doi](https://doi.org/10.1134/s0036024411120144) | Table 3, p. 5, row 31 |  |
+| PdYb3 | [PdYb3](https://data.orchid-project.org/compounds/PdYb3.html) | -52.9927 kJ/mol-atom | 298.15 | model |  | -53.678 (oqmd-1912924) | [1] Kardellass 2020 | Table 3, p. 5, row 69 |  |
+| PdYb3 |  | -52.818 kJ/mol-atom | 298.15 | DFT |  |  | [1] Kardellass 2020 | Table 3, p. 5, row 71 |  |
+| PdYb3 | [PdYb3](https://data.orchid-project.org/compounds/PdYb3.html) | -52.7182 kJ/mol-atom | 298.15 | model |  | -53.678 (oqmd-1912924) | [1] Kardellass 2020 | Table 3, p. 5, row 68 |  |
+| PdYb3 | [PdYb3](https://data.orchid-project.org/compounds/PdYb3.html) | -49.6098 kJ/mol-atom | 298.15 | model |  | -53.678 (oqmd-1912924) | [1] Kardellass 2020; _cites De 2014_ | Table 3, p. 5, row 70 |  |
+
 ## Other properties
 
 ### Phase transition (10)
@@ -111,6 +181,80 @@ Table: Phase transition, Pd–Yb system
 | Phase transition | 1828.15 K | 1828.15 | congruent melting: Liq -> (Pd) | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 64 |  |
 | Phase transition | 1828.15 K | 1828.15 | congruent melting: Liq -> (Pd); _(Pd): Yb 0_ | model | [1] Kardellass 2020 | Table 2, p. 4, row 65 |  |
 | Phase transition | 1973.15 K | 1973.15 | congruent melting: Pd3Yb -> Liq; _Pd3Yb: Yb 0.25_ | experimental | [1] Kardellass 2020; _cites Iandelli 1973_ | Table 2, p. 4, row 55 |  |
+
+### Formation (59)
+
+Table: Formation, Pd–Yb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | 0.738 J/mol-atom/K | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 48 |  |
+| Entropy of formation | 0.896 J/mol-atom/K | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 46 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.787 J/mol-atom/K | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 45 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.00146 J/mol-atom/K | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 47 |  |
+| Entropy of formation | 0.679 J/mol-atom/K | 298.15 | Pd2Yb; _alloy: Pd 0.666667, Yb 0.333333_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 65 |  |
+| Entropy of formation | 0.806 J/mol-atom/K | 298.15 | Pd2Yb; _alloy: Pd 0.666667, Yb 0.333333_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 64 |  |
+| Entropy of formation | -0.179 J/mol-atom/K | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
+| Entropy of formation | 8.859 J/mol-atom/K | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.0501 J/mol-atom/K | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.574 J/mol-atom/K | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| Entropy of formation; _printed: ΔfS_ | -2.336 J/mol-atom/K | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| Entropy of formation; _printed: ΔfS_ | 7.518 J/mol-atom/K | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Entropy of formation; _printed: ΔfS_ | 1.315 J/mol-atom/K | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Entropy of formation | 1.065 J/mol-atom/K | 298.15 | Pd4Yb3; _alloy: Pd 0.571429, Yb 0.428571_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 40 |  |
+| Entropy of formation | 0.65 J/mol-atom/K | 298.15 | Pd4Yb3; _alloy: Pd 0.571429, Yb 0.428571_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 39 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.705 J/mol-atom/K | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 54 |  |
+| Entropy of formation; _printed: ΔfS_ | 0.65 J/mol-atom/K | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 53 |  |
+| Entropy of formation | 0.972 J/mol-atom/K | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 55 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.522 J/mol-atom/K | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 52 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 7.518 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 11 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 1.315 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Pd 0.875, Yb 0.125_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 12 |  |
+| Entropy of formation | 7.518 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Entropy of formation | 1.315 J/mol-atom/K | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 13.275 J/mol-atom/K | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 3 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 10.843 J/mol-atom/K | 298.15 | PdRE3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 6, row 2 |  |
+| Entropy of formation | 3.076 J/mol-atom/K | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 29 |  |
+| Entropy of formation; _printed: ΔfS_ | 3.051 J/mol-atom/K | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 30 |  |
+| Entropy of formation; _printed: ΔfS_ | 2.5637 J/mol-atom/K | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 27 |  |
+| Entropy of formation; _printed: ΔfS_ | 2.5635 J/mol-atom/K | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 28 |  |
+| Entropy of formation | 13.275 J/mol-atom/K | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 69 |  |
+| Entropy of formation; _printed: ΔfS_ | 10.843 J/mol-atom/K | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 68 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -65.3144 kJ/mol-atom | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 48 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -71.7112 kJ/mol-atom | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 46 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -71.5186 kJ/mol-atom | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 45 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -64.0137 kJ/mol-atom | 298.15 | Pd21Yb10; _alloy: Pd 0.677419, Yb 0.322581_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 47 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -65.9194 kJ/mol-atom | 298.15 | Pd2Yb; _alloy: Pd 0.666667, Yb 0.333333_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 65 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -72.2882 kJ/mol-atom | 298.15 | Pd2Yb; _alloy: Pd 0.666667, Yb 0.333333_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 64 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -45.2488 kJ/mol-atom | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 18 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -59.3643 kJ/mol-atom | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 16 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -65.1488 kJ/mol-atom | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -48.265 kJ/mol-atom | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 15 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -60.316 kJ/mol-atom | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 8 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -60.021 kJ/mol-atom | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 7 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -42.421 kJ/mol-atom | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -32.6317 kJ/mol-atom | 298.15 | Pd3Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -71.9073 kJ/mol-atom | 298.15 | Pd4Yb3; _alloy: Pd 0.571429, Yb 0.428571_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 40 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -77.4227 kJ/mol-atom | 298.15 | Pd4Yb3; _alloy: Pd 0.571429, Yb 0.428571_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 39 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -68.4531 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 54 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -74.6137 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 53 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -68.936 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 55 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -72.8353 kJ/mol-atom | 298.15 | Pd5Yb3; _alloy: Pd 0.625, Yb 0.375_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 52 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -42.421 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 77 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -32.6317 kJ/mol-atom | 298.15 | Pd7Yb; _alloy: Pd 0.75, Yb 0.25_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 78 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -76.5625 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 29 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -76.5126 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 30 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -81.5966 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 27 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -81.5963 kJ/mol-atom | 298.15 | PdYb; _alloy: Pd 0.5, Yb 0.5_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 28 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -56.9506 kJ/mol-atom | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 69 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -55.951 kJ/mol-atom | 298.15 | PdYb3; _alloy: Pd 0.25, Yb 0.75_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 68 |  |
+
+### Heat capacity / entropy / enthalpy (1)
+
+Table: Heat capacity / entropy / enthalpy, Pd–Yb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔfS_ | 15.703 J/mol-atom/K | 298.15 | Pd2Yb5; _alloy: Pd 0.285714, Yb 0.714286_ | model | [1] Kardellass 2020 | Table 3, p. 5, row 17 |  |
 
 ## Sources
 

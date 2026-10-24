@@ -1,10 +1,10 @@
 # Ga–Zn system
 
-> Ga–Zn system: 60 accepted literature values (phase equilibrium 32, crystal structure 14, phase transition 7, invariant reaction 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Zn system: 52 accepted literature values (phase equilibrium 32, phase transition 7, invariant reaction 7, crystal structure 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-ZN.html · Markdown: https://data.orchid-project.org/systems/GA-ZN.md
 
-60 accepted literature values from 3 paper(s) (experimental 45, model 1, unspecified 14); 2 calculated phase diagram(s).
+52 accepted literature values from 3 paper(s) (experimental 45, model 1, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GA-ZN.json) · [CSV](https://data.orchid-project.org/systems/GA-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-ZN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-ZN/GaZn-00Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/GA-ZN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GA-ZN.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 45 |
 | model | 1 |
-| unspecified | 14 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 7 |
 | phase transition | 7 |
 | phase equilibrium | 32 |
-| crystal structure | 14 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -107,7 +107,7 @@ Table: Phase equilibrium, Ga–Zn system
 | Phase composition |  | 646.15 | other; _L: Ga 0.104, Zn 0.896_ | experimental | [1] Dutkiewicz 1990; _cites ref. 55Heu_ | Table 2, p. 3, row 32 |  |
 | Phase composition |  | 651.15 | other; _L: Ga 0.098, Zn 0.902_ | experimental | [1] Dutkiewicz 1990; _cites ref. 55Heu_ | Table 2, p. 3, row 33 |  |
 
-### Crystal structure (14)
+### Crystal structure (6)
 
 Table: Crystal structure, Ga–Zn system
 
@@ -116,17 +116,9 @@ Table: Crystal structure, Ga–Zn system
 | Lattice a | 2.6484 Å | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
 | Lattice a | 2.6513 Å | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
 | Lattice a | 2.652 Å | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
-| Lattice a | 2.6535 Å | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice a | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice a | 2.9 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
-| Lattice b | 7.6602 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice b | 8.13 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
 | Lattice c | 4.9721 Å | 291.15 | (Zn); _(Zn): Ga 0.0195, Zn 0.9805_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 3 |  |
 | Lattice c | 4.9123 Å | 291.15 | (Zn); _(Zn): Ga 0.0095, Zn 0.9905_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 4 |  |
 | Lattice c | 4.937 Å | 291.15 | (Zn); _(Zn): Ga 0.0061, Zn 0.9939_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 5 |  |
-| Lattice c | 4.9251 Å | 291.15 | Zn; _Zn: Ga 0, Zn 1_ | unspecified | [1] Dutkiewicz 1990; _cites ref. 65Dav_ | Table 4, p. 4, row 6 |  |
-| Lattice c | 4.5198 Å | 297.15 | Ga; _Ga: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 1 |  |
-| Lattice c | 3.17 Å | 298.15 | βGa; _βGa: Ga 1, Zn 0_ | unspecified | [1] Dutkiewicz 1990; _cites Barrett 1965_ | Table 4, p. 4, row 2 |  |
 
 ## Sources
 

@@ -1,18 +1,18 @@
 # Cd–Pr phases
 
-> Cd–Pr system: 13 phases (tier A 8, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cd–Pr system: 12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CD-PR.html · Markdown: https://data.orchid-project.org/phases/pages/CD-PR.md
 
-13 phases (tier A 8, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 7, tier C 3, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CD-PR) · [full JSON](https://data.orchid-project.org/phases/systems/CD-PR.json) · [Cd–Pr system page](https://data.orchid-project.org/systems/CD-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/CD-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cd–Pr system (13)
+Table: Phases of the Cd–Pr system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cd-pr-bcc-a2); _phase:cd-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 710.48–1989 K, x(Pr) 0.79643–1 | 6 | 1 |
+| [BCC_A2](#phase-cd-pr-bcc-a2); _phase:cd-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 710.48–1989 K, x(Pr) 0.79643–1 | 4 | 1 |
 | [CD11PR_D2E](#phase-cd-pr-cd11pr-d2e); _phase:cd-pr:cd11pr-d2e_ | BaHg11 · D2_e · cP36 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–833.17 K, x(Pr) 0.08333–0.08333 | 4 | 1 |
 | [CD2PR](#phase-cd-pr-cd2pr); _phase:cd-pr:cd2pr_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1256.51 K, x(Pr) 0.33333–0.33333 | 5 | 1 |
 | [CD3PR_D03](#phase-cd-pr-cd3pr-d03); _phase:cd-pr:cd3pr-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1142.58 K, x(Pr) 0.25–0.25 | 7 | 1 |
@@ -20,7 +20,6 @@ Table: Phases of the Cd–Pr system (13)
 | [CD58PR13](#phase-cd-pr-cd58pr13); _phase:cd-pr:cd58pr13_ | Gd13Zn58 · hP142 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1147.8 K, x(Pr) 0.1831–0.1831 | 10 | 1 |
 | [CD6PR](#phase-cd-pr-cd6pr); _phase:cd-pr:cd6pr_ | Cd6Y · cI184 · Im-3 (204) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1011.15 K, x(Pr) 0.14286–0.14286 | 5 | 1 |
 | [CDPR_B2](#phase-cd-pr-cdpr-b2); _phase:cd-pr:cdpr-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1269.71 K, x(Pr) 0.5–0.53095 | 8 | 1 |
-| [DHCP](#phase-cd-pr-dhcp); _phase:cd-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
 | [DHCP](#phase-cd-pr-dhcp-a3); _phase:cd-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1068 K, x(Pr) 0.95345–1 | 2 | 1 |
 | [FCC_A1](#phase-cd-pr-fcc-a1); _phase:cd-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cd-pr-hcp-a3); _phase:cd-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–594.16 K, x(Pr) 0–0 | 2 | 1 |
@@ -31,11 +30,11 @@ Table: Phases of the Cd–Pr system (13)
 - Id: `phase:cd-pr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 710.48–1989 K, x(Pr) 0.79643–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-pr:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:cd-pr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.06.005:β-Cd2Pr, paper:10.1016/j.calphad.2014.06.005:β-Pr  
+Names (3): _corpus: _corpus:phase:cd-pr:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.06.005:β-Pr  
 _tdb: _tdb:CdPr-14Rei.tdb:BCC_A2  
 
 
@@ -262,24 +261,13 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (Cd–Pr)
 
-- Id: `phase:cd-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:cd-pr:dhcp  
-
-
-## DHCP (Cd–Pr)
-
 - Id: `phase:cd-pr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1068 K, x(Pr) 0.95345–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-pr:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:cd-pr:dhcp-a3  
+Names (4): _corpus: _corpus:phase:cd-pr:dhcp-a3, corpus:phase:cd-pr:dhcp  
 _paper: _paper:10.1016/j.calphad.2014.06.005:α-Pr  
 _tdb: _tdb:CdPr-14Rei.tdb:DHCP  
 

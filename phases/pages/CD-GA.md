@@ -16,7 +16,7 @@ Table: Phases of the Cd–Ga system (5)
 | [BCC_A2](#phase-cd-ga-bcc-a2); _phase:cd-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-cd-ga-fcc-a1); _phase:cd-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cd-ga-hcp-a3); _phase:cd-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–594.22 K, x(Ga) 0–3e-05 | 0 | 1 |
-| [LIQUID](#phase-cd-ga-liquid); _phase:cd-ga:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.04–2500 K, x(Ga) 0–1 | 0 | 1 |
+| [LIQUID](#phase-cd-ga-liquid); _phase:cd-ga:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 302.04–2500 K, x(Ga) 0–1 | 4 | 1 |
 
 ## ORTHORHOMBIC_A11 (Cd–Ga)
 
@@ -128,10 +128,11 @@ _assessment that models this phase_
 - Id: `phase:cd-ga:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 302.04–2500 K, x(Ga) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-ga:liquid)
 
-Names (2): _corpus: _corpus:phase:cd-ga:liquid  
+Names (3): _corpus: _corpus:phase:cd-ga:liquid  
+_paper: _paper:10.1007/bf02667807:liquid  
 _tdb: _tdb:CdGa-93Zak-LB.tdb:LIQUID  
 
 
@@ -147,7 +148,7 @@ _tdb: _tdb:CdGa-93Zak-LB.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02667807](https://doi.org/10.1007/BF02667807) W. Zakulski, Z. Moser, K. Rzyman, H.L. Lukas, S.G. Fries, M. Sukiennik, R. Kaczmarczyk, R. Castanet, J. Phase Equilib., 14, 184-96(1993).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

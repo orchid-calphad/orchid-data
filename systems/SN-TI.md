@@ -143,7 +143,7 @@ Table: Invariant reactions reported in the literature for the Sn–Ti system (42
 | 1023.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.86; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007 | Table 1, p. 3, row 27 |  |
 | 1023.15 | peritectic: L + Ti6Sn5 \<-> Ti2Sn3 | L: Sn 0.8; Ti6Sn5: Sn 0.454545, Ti 0.545455; Ti2Sn3: Sn 0.6 | experimental | [1] Yin 2007; _cites Ch 1998_ | Table 1, p. 3, row 25 |  |
 | 505.95 | eutectic: L \<-> Ti2Sn3 + (Sn) | Ti2Sn3: Sn 0.6, Ti 0.4 | experimental | [1] Yin 2007 | Table 1, p. 3, row 30 |  |
-| 505.05 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.9999; Ti2Sn3: Sn 0.455; (Sn): Sn 0.01 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 31 |  |
+| 505.05 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.9999; Ti2Sn3: Sn 0.455; (Sn): Sn 1 | unspecified | [1] Yin 2007 | Table 1, p. 3, row 31 |  |
 | 504.8 | other: Liquid -> bct-A5 + Sn5Ti6 | L: Ti 0.001; bct-A5: Ti 0; Sn5Ti6: Ti 0.545 | model | [2] Hämäläinen 1998 | Table I, p. 302, row 8 |  |
 | 504.15 | eutectic: L \<-> Ti2Sn3 + (Sn) | L: Sn 0.995; Ti2Sn3: Sn 0.455; (Sn): Sn 0.9998 | experimental | [1] Yin 2007; _cites Eremenko 1962_ | Table 1, p. 3, row 29 |  |
 

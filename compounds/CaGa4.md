@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CaGa4.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -24.9 kJ/mol-atom (n = 1); Materials Project -35.27 kJ/mol-atom (mp-aaaaacya); OQMD -35.178 kJ/mol-atom (oqmd-647536).
 
-Systems: [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html)
+Systems: [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CaGa4 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -24.9 kJ/mol-atom ± 4.9 | CaGa4 | 298.15 | experimental |  | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12 |  |
-| -34.155 kJ/mol-atom | CaGa4 | 0 | DFT | first-principles calculations | [Ba–Ca–Ga–Sr](https://data.orchid-project.org/systems/BA-CA-GA-SR.html) | [1] Li 2013 | Table 2, p. 3, row 11 |  |
+| -24.9 kJ/mol-atom ± 4.9 | CaGa4 | 298.15 | experimental |  | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013; _cites Reddy 1999_ [doi](https://doi.org/10.1007/s11663-999-0079-5) | Table 2, p. 3, row 12 |  |
+| -34.155 kJ/mol-atom | CaGa4 | 0 | DFT | first-principles calculations | [Ca–Ga](https://data.orchid-project.org/systems/CA-GA.html) | [1] Li 2013 | Table 2, p. 3, row 11 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CaGa4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -24.9 | kJ/mol-atom | 4.9 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.9 |
-| -34.155 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -24.9 | kJ/mol-atom | 4.9 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 4.9 |
+| -34.155 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Al–Yb system
 
-> Al–Yb system: 32 accepted literature values (invariant reaction 24, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Yb system: 30 accepted literature values (invariant reaction 24, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-YB.html · Markdown: https://data.orchid-project.org/systems/AL-YB.md
 
-32 accepted literature values from 1 paper(s) (experimental 22, model 9, unspecified 1); 1 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 21, model 8, unspecified 1); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-YB.json) · [CSV](https://data.orchid-project.org/systems/AL-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-YB/AlYb-08Men.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AL-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-YB.html) · [Markdown](https://data.orchid-project.org/systems/AL-YB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 9 |
+| experimental | 21 |
+| model | 8 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| phase transition | 8 |
+| phase transition | 6 |
 
 ## Calculated phase diagrams
 
@@ -81,15 +81,13 @@ Table: Invariant reactions reported in the literature for the Al–Yb system (24
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (6)
 
 Table: Phase transition, Al–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1013.15 K | 1013.15 | Yb | experimental | [1] Meng 2008; _cites Palenzona 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990116-6) | p. 2 | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
 | Phase transition | 1033.15 K | 1033.15 |  | model | [1] Meng 2008; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 2 | “However, the ␤ ↔ ␥ transformation temperature from SGTE database \[11\] was 760 ◦ C, instead of 795 ◦ C.” |
-| Phase transition | 1068.15 K | 1068.15 | Yb | model | [1] Meng 2008; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882175) | p. 2 | “The accepted ␤ ↔ ␥ transformation temperature by Gschneidner et al. \[10\] was 795 ◦ C, while the given value by Palenzona et al. \[9\] was 740 ◦ C.” |
 | Phase transition | 1628 K | 1628 | Liquid -> Al2Yb; _L: Yb 0.333333; Al2Yb: Yb 0.333333_ | model | [1] Meng 2008 | Table 2, p. 3, row 8 |  |
 | Phase transition | 1633 K | 1633 | Liquid -> Al2Yb; _L: Yb 0.333333; Al2Yb: Yb 0.333333_ | experimental | [1] Meng 2008; _cites Palenzona 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990116-6) | Table 2, p. 3, row 9 |  |
 | Phase transition | 1633.15 K | 1633.15 | Al2Yb | experimental | [1] Meng 2008 | p. 2 | “The melting point of Al2 Yb was shown to be 1360 ◦ C, instead of 1450 ◦ C.” |

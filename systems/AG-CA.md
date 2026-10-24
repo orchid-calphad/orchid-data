@@ -1,10 +1,10 @@
 # Ag–Ca system
 
-> Ag–Ca system: 95 accepted literature values (invariant reaction 46, phase transition 38, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ca system: 93 accepted literature values (invariant reaction 46, phase transition 36, formation 7, activity / EMF / Gibbs energy 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CA.html · Markdown: https://data.orchid-project.org/systems/AG-CA.md
 
-95 accepted literature values from 2 paper(s) (experimental 65, model 21, unspecified 9); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+93 accepted literature values from 2 paper(s) (experimental 65, model 20, unspecified 8); 3 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CA.json) · [CSV](https://data.orchid-project.org/systems/AG-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CA/AgCa-08Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AG-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CA.html) · [Markdown](https://data.orchid-project.org/systems/AG-CA.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 65 |
-| model | 21 |
-| unspecified | 9 |
+| model | 20 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 46 |
-| phase transition | 38 |
+| phase transition | 36 |
 | formation | 7 |
 | activity / EMF / Gibbs energy | 4 |
 
@@ -172,14 +172,12 @@ Table: Enthalpies of formation, Ag–Ca system (7)
 
 ## Other properties
 
-### Phase transition (38)
+### Phase transition (36)
 
 Table: Phase transition, Ag–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | model | [2] Huang 2008 | Table 3, p. 3, row 19 |  |
-| Phase transition | 716 K | 716 | polymorphic: (βCa) -> (αCa); _(βCa): Ca 1_ | unspecified | [2] Huang 2008; _cites Baren 1988_ [doi](https://doi.org/10.1007/bf02881269) | Table 3, p. 3, row 20 |  |
 | Phase transition | 730 K | 730 | Cooling; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 30 |  |
 | Phase transition | 731 K | 731 | Heating; _alloy: Ag 0.2, Ca 0.8_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 29 |  |
 | Phase transition | 735 K | 735 | Cooling; _alloy: Ag 0.1, Ca 0.9_ | experimental | [1] Braga 2014 | Table 2, p. 2, row 33 |  |

@@ -1,10 +1,10 @@
 # Al–Cu–Er system
 
-> Al–Cu–Er system: 66 accepted literature values (crystal structure 37, invariant reaction 29) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cu–Er system: 53 accepted literature values (invariant reaction 29, crystal structure 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CU-ER.html · Markdown: https://data.orchid-project.org/systems/AL-CU-ER.md
 
-66 accepted literature values from 1 paper(s) (model 29, unspecified 37); 0 calculated phase diagram(s).
+53 accepted literature values from 1 paper(s) (model 29, unspecified 24); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CU-ER.json) · [CSV](https://data.orchid-project.org/systems/AL-CU-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CU-ER) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CU-ER.html) · [Markdown](https://data.orchid-project.org/systems/AL-CU-ER.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 29 |
-| unspecified | 37 |
+| unspecified | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 29 |
-| crystal structure | 37 |
+| crystal structure | 24 |
 
 ## Invariant reactions (literature)
 
@@ -60,20 +60,13 @@ Table: Invariant reactions reported in the literature for the Al–Cu–Er syste
 
 ## Other properties
 
-### Crystal structure (37)
+### Crystal structure (24)
 
 Table: Crystal structure, Al–Cu–Er system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 2.946 Å |  | β | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 7 |  |
-| Lattice a | 7.7967 Å | 298.15 | Al2Er; _alloy: Cu 0, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 9 |  |
-| Lattice a | 8.123 Å | 298.15 | Al2Er3; _alloy: Cu 0, Er 0.6_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 11 |  |
-| Lattice a | 5.57 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice a | 6.516 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice a | 4.275 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
-| Lattice a | 7.003 Å | 298.15 | Cu5Er; _alloy: Cu 0.833333, Er 0.166667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 13 |  |
-| Lattice a | 3.425 Å | 298.15 | CuEr; _alloy: Cu 0.5, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 17 |  |
 | Lattice a | 4.214 Å | 298.15 | L12 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 8 |  |
 | Lattice a | 8.7023 Å | 298.15 | γD83 | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 5 |  |
 | Lattice a | 4.146 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
@@ -85,15 +78,9 @@ Table: Crystal structure, Al–Cu–Er system
 | Lattice a | 5.029 Å | 298.15 | τ3-(Al, Cu)5Er; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 20 |  |
 | Lattice a | 4.184 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
 | Lattice a | 6.975 Å | 298.15 | τ7-AlCuEr; _alloy: Cu 0.333333, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 24 |  |
-| Lattice b | 5.801 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice b | 5.015 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice b | 6.726 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
 | Lattice b | 7.1313 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
 | Lattice b | 4.105 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |
 | Lattice b | 4.112 Å | 298.15 | τ4-Al3CuEr; _alloy: Cu 0.2, Er 0.2_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 21 |  |
-| Lattice c | 11.272 Å | 298.15 | AlEr; _alloy: Cu 0, Er 0.5_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 10 |  |
-| Lattice c | 9.279 Å | 298.15 | AlEr2; _alloy: Cu 0, Er 0.666667_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 12 |  |
-| Lattice c | 7.265 Å | 298.15 | Cu2Er; _alloy: Cu 0.666667, Er 0.333333_ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 16 |  |
 | Lattice c | 5.063 Å | 298.15 | ε | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 4 |  |
 | Lattice c | 9.9793 Å | 298.15 | ζ | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 3 |  |
 | Lattice c | 6.913 Å | 298.15 | η | unspecified | [1] Zhang 2008 | Table 1, p. 3, row 2 |  |

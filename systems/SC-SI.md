@@ -1,10 +1,10 @@
 # Sc–Si system
 
-> Sc–Si system: 60 accepted literature values (crystal structure 32, invariant reaction 16, formation 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Si system: 57 accepted literature values (crystal structure 31, invariant reaction 14, formation 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-SI.html · Markdown: https://data.orchid-project.org/systems/SC-SI.md
 
-60 accepted literature values from 1 paper(s) (experimental 47, model 13); 2 calculated phase diagram(s).
+57 accepted literature values from 1 paper(s) (experimental 45, model 12); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-SI.json) · [CSV](https://data.orchid-project.org/systems/SC-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-SI/ScSi-08GTT.json) · [phases (10)](https://data.orchid-project.org/phases/pages/SC-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-SI.html) · [Markdown](https://data.orchid-project.org/systems/SC-SI.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 47 |
-| model | 13 |
+| experimental | 45 |
+| model | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 14 |
 | formation | 12 |
-| crystal structure | 32 |
+| crystal structure | 31 |
 
 ## Calculated phase diagrams
 
@@ -70,7 +70,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sc–Si system (16)
+Table: Invariant reactions reported in the literature for the Sc–Si system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -78,8 +78,6 @@ Table: Invariant reactions reported in the literature for the Sc–Si system (16
 | 2330.15 | L -> Sc5Si3 | L: Si 0.375; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 14 |  |
 | 2058.15 | L + Sc5Si3 -> ScSi | Sc5Si3: Si 0.375; ScSi: Si 0.5 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 3 |  |
 | 2057.15 | L + Sc5Si3 -> ScSi | L: Si 0.5045; Sc5Si3: Si 0.375; ScSi: Si 0.5 | model | [1] Qin 2015 | Table 4, p. 5, row 4 |  |
-| 1703.15 | (βSc) -> (αSc) | (βSc): Si 0; (αSc): Si 0 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 15 |  |
-| 1608.15 | (βSc) -> (αSc) | (βSc): Si 0; (αSc): Si 0 | model | [1] Qin 2015 | Table 4, p. 5, row 16 |  |
 | 1548.15 | L -> (αSc) + Sc5Si3 | L: Si 0.12; (αSc): Si 0; Sc5Si3: Si 0.375 | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 4, p. 5, row 1 |  |
 | 1547.15 | L -> (αSc) + Sc5Si3 | L: Si 0.101; (αSc): Si 0; Sc5Si3: Si 0.375 | model | [1] Qin 2015 | Table 4, p. 5, row 2 |  |
 | 1536.15 | L + ScSi -> βSc3Si5 | L: Si 0.711; ScSi: Si 0.5; βSc3Si5: Si 0.625 | model | [1] Qin 2015 | Table 4, p. 5, row 6 |  |
@@ -102,11 +100,11 @@ Table: Enthalpies of formation, Sc–Si system (12)
 | Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | -161.1 kJ/mol-atom | 298.15 | experimental | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015; _cites Golutvin 1984_ | Table 2, p. 3, row 1 |  |
 | Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | -102.8 kJ/mol-atom ± 3.8 | 935 | experimental | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015; _cites Lukashenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990229-3) | Table 2, p. 3, row 3 |  |
 | Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | -90.3 kJ/mol-atom | 298.15 | model | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015 | Table 2, p. 3, row 7 |  |
-| Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | -89.9 kJ/mol-atom ± 4.3 | 1473 | experimental | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015; _cites Topor 1989_ [doi](https://doi.org/10.1007/bf02670193) | Table 2, p. 3, row 2 |  |
+| Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | -89.9 kJ/mol-atom ± 4.3 | 298.15 | experimental | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015; _cites Topor 1989_ [doi](https://doi.org/10.1007/bf02670193) | Table 2, p. 3, row 2 |  |
 | Sc5Si3 | [Sc5Si3](https://data.orchid-project.org/compounds/Sc5Si3.html) | 4.236 kJ/mol-atom | 298.15 | model | -71.535 (mp-aaaaalow) | -74.229 (oqmd-4475) | [1] Qin 2015; _cites Sychev 1980_ | Table 2, p. 3, row 6 |  |
 | ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -117.2 kJ/mol-atom | 298.15 | experimental | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015; _cites Golutvin 1984_ | Table 2, p. 3, row 1 |  |
 | ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -87.21 kJ/mol-atom ± 2.1 | 935 | experimental | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015; _cites Lukashenko 1992_ [doi](https://doi.org/10.1016/0925-8388%2892%2990229-3) | Table 2, p. 3, row 3 |  |
-| ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -82.3 kJ/mol-atom ± 2.1 | 1473 | experimental | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 4 |  |
+| ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -82.3 kJ/mol-atom ± 2.1 | 298.15 | experimental | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 4 |  |
 | ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -81.2 kJ/mol-atom | 298.15 | model | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015 | Table 2, p. 3, row 7 |  |
 | ScSi | [ScSi](https://data.orchid-project.org/compounds/ScSi.html) | -80 kJ/mol-atom | 0 | model | -77.326 (mp-aaaaaotl) | -80.839 (oqmd-7936) | [1] Qin 2015; _cites Niessen 1981_ | Table 2, p. 3, row 5 |  |
 | αSc3Si5 |  | -71.2 kJ/mol-atom | 298.15 | experimental |  |  | [1] Qin 2015; _cites Golutvin 1984_ | Table 2, p. 3, row 1 |  |
@@ -114,13 +112,12 @@ Table: Enthalpies of formation, Sc–Si system (12)
 
 ## Other properties
 
-### Crystal structure (32)
+### Crystal structure (31)
 
 Table: Crystal structure, Sc–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.4306 Å | 298.15 | (Si); _alloy: Si 1_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 1 |  |
 | Lattice a | 3.3088 Å | 298.15 | (αSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites King 1981_ | Table 1, p. 2, row 2 |  |
 | Lattice a | 3.73 Å | 298.15 | (βSc); _alloy: Si 0_ | experimental | [1] Qin 2015; _cites Massalski 1986_ | Table 1, p. 2, row 3 |  |
 | Lattice a | 3.99 Å | 298.15 | ScSi; _alloy: Si 0.5_ | experimental | [1] Qin 2015; _cites Eremenko 1988_ [doi](https://doi.org/10.1007/bf00794560) | Table 1, p. 2, row 9 |  |

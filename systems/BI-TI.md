@@ -1,10 +1,10 @@
 # Bi–Ti system
 
-> Bi–Ti system: 18 accepted literature values (invariant reaction 17, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Ti system: 35 accepted literature values (invariant reaction 18, crystal structure 14, formation 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TI.html · Markdown: https://data.orchid-project.org/systems/BI-TI.md
 
-18 accepted literature values from 2 paper(s) (experimental 10, model 8); 2 calculated phase diagram(s).
+35 accepted literature values from 2 paper(s) (experimental 12, model 13, DFT 6, unspecified 4); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TI.json) · [CSV](https://data.orchid-project.org/systems/BI-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TI/BiTi-13Cao.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BI-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TI.html) · [Markdown](https://data.orchid-project.org/systems/BI-TI.md)
 
@@ -12,15 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 10 |
-| model | 8 |
+| experimental | 12 |
+| model | 13 |
+| DFT | 6 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 17 |
+| invariant reaction | 18 |
 | phase transition | 1 |
+| formation | 2 |
+| crystal structure | 14 |
 
 ## Calculated phase diagrams
 
@@ -78,7 +82,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Bi–Ti system (17)
+Table: Invariant reactions reported in the literature for the Bi–Ti system (18)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -97,8 +101,20 @@ Table: Invariant reactions reported in the literature for the Bi–Ti system (17
 | 992.62 | eutectoid: (βTi) = (αTi) + Ti3Bi |  | model | [2] Cao 2013 | p. 3 | “The calculated eutectoid point of reaction (βTi) = (αTi) + Ti3Bi lies at 719.47 °C, 6.03 at.% Bi, while the experimental \[15\] one lies at 725 °C, 8.6 at.% Bi.” |
 | 698.5 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | model | [1] Huang 2014 | Table 5, p. 5, row 12 |  |
 | 698 | L + Bi9Ti8 = Bi2Ti | Bi9Ti8: Ti 0.470588; Bi2Ti: Ti 0.333333 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 11 |  |
+| 544.55 | Liquid=Bi2Ti+(Bi) | Liquid: Bi 0.999; Bi2Ti: Bi 0.667; (Bi): Bi 1 | model | [2] Cao 2013 | Table 3, p. 5, row 2 |  |
 | 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | experimental | [1] Huang 2014; _cites Maruyama 2013_ [doi](https://doi.org/10.1007/s11669-013-0243-0) | Table 5, p. 5, row 13 |  |
 | 544 | L + Bi2Ti = (Bi) | Bi2Ti: Ti 0.333333; (Bi): Ti 0 | model | [1] Huang 2014 | Table 5, p. 5, row 14 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Ti system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Bi9Ti8 |  | -16.71 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
+| BiTi2 |  | -12.5 kJ/mol (basis unstated) | 0 | DFT |  |  | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
 
 ## Other properties
 
@@ -109,6 +125,27 @@ Table: Phase transition, Bi–Ti system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 544 K | 544 |  | experimental | [1] Huang 2014 | p. 5 | “The observed phase (Bi) should be a product of solidified liquid which is an equilibrium phase at 773 K because the melting point of Bi is 544 K.” |
+
+### Crystal structure (14)
+
+Table: Crystal structure, Bi–Ti system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 10.277 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
+| Lattice a; _printed: a_ | 10.294 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
+| Lattice a; _printed: a_ | 4.04 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
+| Lattice a; _printed: a_ | 4.219 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
+| Lattice a | 10.277 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.08 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 6.02 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
+| Lattice c; _printed: c_ | 7.375 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 3 |  |
+| Lattice c; _printed: c_ | 7.442 Å | 0 | Bi9Ti8; _alloy: Ti 0.470588_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 4 |  |
+| Lattice c; _printed: c_ | 14.5 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | model | [1] Huang 2014; _cites Richter 1997_ | Table 4, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 14.056 Å | 0 | BiTi2; _alloy: Ti 0.666667_ | DFT | [1] Huang 2014 | Table 4, p. 5, row 2 |  |
+| Lattice c | 7.375 Å | 1270.95 (\<) | Bi9Ti8; _alloy: Ti 0.470588_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 14.57 Å | 1562.65 (\<) | BiTi2; _alloy: Ti 0.666667_ | unspecified | [2] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 8.204 Å | 1609.15 (\<) | BiTi3; _alloy: Ti 0.75_ | experimental | [2] Cao 2013; _cites Obinata 1960_ | Table 1, p. 2, row 6 |  |
 
 ## Sources
 

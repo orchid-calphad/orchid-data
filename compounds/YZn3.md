@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of YZn3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43 | kJ/mol-atom | 2 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -42 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -41.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43 | kJ/mol-atom | 2 | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -42 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -41.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

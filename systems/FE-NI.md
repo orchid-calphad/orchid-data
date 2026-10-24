@@ -1,10 +1,10 @@
 # Fe–Ni system
 
-> Fe–Ni system: 83 accepted literature values (crystal structure 36, phase transition 24, formation 14, invariant reaction 9) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Ni system: 71 accepted literature values (crystal structure 29, phase transition 24, invariant reaction 9, formation 8) and 12 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-NI.html · Markdown: https://data.orchid-project.org/systems/FE-NI.md
 
-83 accepted literature values from 3 paper(s) (experimental 13, model 18, DFT 44, unspecified 8); 12 calculated phase diagram(s).
+71 accepted literature values from 5 paper(s) (experimental 13, model 19, DFT 31, unspecified 8); 12 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-NI.json) · [CSV](https://data.orchid-project.org/systems/FE-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-NI/FeNi-00Ans-2SL.json) · [phases (10)](https://data.orchid-project.org/phases/pages/FE-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-NI.html) · [Markdown](https://data.orchid-project.org/systems/FE-NI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 18 |
-| DFT | 44 |
+| model | 19 |
+| DFT | 31 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -23,8 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 9 |
 | phase transition | 24 |
-| formation | 14 |
-| crystal structure | 36 |
+| formation | 8 |
+| mixing / partial | 1 |
+| crystal structure | 29 |
 
 ## Calculated phase diagrams
 
@@ -119,24 +120,18 @@ Table: Invariant reactions reported in the literature for the Fe–Ni system (9)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Ni system (14)
+Table: Enthalpies of formation, Fe–Ni system (8)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Fe A1 |  | 9.3 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
-| Fe A1 |  | 16.3 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
-| Fe A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
 | Fe2Ni C11f |  | -0.6 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 6 |  |
 | Fe3Ni D03 |  | 4.3 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 5 |  |
-| Fe3Ni L12 |  | 5.2 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
 | FeNi B2 |  | 8.9 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 8 |  |
 | FeNi B32 |  | 2.9 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 9 |  |
 | FeNi L10 |  | -5.5 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 7 |  |
 | FeNi2 C11f |  | -4.6 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 10 |  |
 | FeNi3 D03 |  | 2.8 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 12 |  |
 | FeNi3 L12 |  | -7.7 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 11 |  |
-| Ni A1 |  | 9.2 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 13 |  |
-| Ni A2 |  | 0 kJ/mol-atom | 0 | DFT |  |  | [1] Cacciamani 2010 | Table 3, p. 7, row 14 |  |
 
 ## Other properties
 
@@ -171,48 +166,49 @@ Table: Phase transition, Fe–Ni system
 | Phase transition | 1713.15 K | 1713.15 | other | model | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | p. 2 | “The g-(Fe,Ni) þ liquid two-phase field is very narrow with a minimum which is most probably located at approximately 1440 C and 66 at% Ni, according to the critical assessment by \[11\].” |
 | Phase transition | 1716.15 K | 1716.15 | congruent melting: γ-(Fe,Ni) -> liquid; _γ-(Fe,Ni): Ni 0.66; L: Ni 0.66_ | unspecified | [1] Cacciamani 2010; _cites Swartzendruber 1991_ [doi](https://doi.org/10.1007/bf02649918) | Table 4, p. 11, row 4 |  |
 
-### Crystal structure (36)
+### Mixing / partial (1)
+
+Table: Mixing / partial, Fe–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -6.517 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Bracq 2021 | Table 1, p. 4, row 9 |  |
+
+### Crystal structure (29)
 
 Table: Crystal structure, Fe–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 2.8577 Å |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 7 |  |
-| Lattice a | 2.8547 Å |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 8 |  |
-| Lattice a | 2.8279 Å |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 11 |  |
-| Lattice a | 2.8041 Å |  | bcc; _alloy: Fe 0, Ni 1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 16 |  |
-| Lattice a | 2.8368 Å |  | bcc; _alloy: Fe 1, Ni 0_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 1 |  |
-| Lattice a | 2.8487 Å |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 3 |  |
-| Lattice a | 2.812 Å |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 14 |  |
-| Lattice a | 2.8602 Å |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 6 |  |
-| Lattice a | 2.8202 Å |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 13 |  |
-| Lattice a | 2.8514 Å |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 4 |  |
-| Lattice a | 2.8428 Å |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 2 |  |
-| Lattice a | 2.8569 Å |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 5 |  |
-| Lattice a | 2.8241 Å |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 12 |  |
-| Lattice a | 2.8353 Å |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 10 |  |
-| Lattice a | 2.8422 Å |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 9 |  |
-| Lattice a | 2.805 Å |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [3] Xiong 2011 | Table 1, p. 5, row 15 |  |
+| Lattice a | 2.8577 Å |  | bcc; _alloy: Fe 0.75, Ni 0.25_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 7 |  |
+| Lattice a | 2.8547 Å |  | bcc; _alloy: Fe 0.7, Ni 0.3_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 8 |  |
+| Lattice a | 2.8279 Å |  | bcc; _alloy: Fe 0.3, Ni 0.7_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 11 |  |
+| Lattice a | 2.8487 Å |  | bcc; _alloy: Fe 0.96, Ni 0.04_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 3 |  |
+| Lattice a | 2.812 Å |  | bcc; _alloy: Fe 0.1, Ni 0.9_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 14 |  |
+| Lattice a | 2.8602 Å |  | bcc; _alloy: Fe 0.9, Ni 0.1_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 6 |  |
+| Lattice a | 2.8202 Å |  | bcc; _alloy: Fe 0.2, Ni 0.8_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 13 |  |
+| Lattice a | 2.8514 Å |  | bcc; _alloy: Fe 0.95, Ni 0.05_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 4 |  |
+| Lattice a | 2.8428 Å |  | bcc; _alloy: Fe 0.98, Ni 0.02_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 2 |  |
+| Lattice a | 2.8569 Å |  | bcc; _alloy: Fe 0.925, Ni 0.075_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 5 |  |
+| Lattice a | 2.8241 Å |  | bcc; _alloy: Fe 0.25, Ni 0.75_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 12 |  |
+| Lattice a | 2.8353 Å |  | bcc; _alloy: Fe 0.4, Ni 0.6_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 10 |  |
+| Lattice a | 2.8422 Å |  | bcc; _alloy: Fe 0.5, Ni 0.5_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 9 |  |
+| Lattice a | 2.805 Å |  | bcc; _alloy: Fe 0.01, Ni 0.99_ | DFT | [4] Xiong 2011 | Table 1, p. 5, row 15 |  |
 | Lattice a | 3.5523 Å | 298.15 | FeNi3; _alloy: Ni 0.75_ | model | [1] Cacciamani 2010 | Table 1, p. 4, row 5 |  |
 | Lattice a | 2.8665 Å | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
 | Lattice a | 2.9315 Å | 298.15 | α-Fe, δ-Fe; _alloy: Ni 0_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 2 |  |
 | Lattice a | 3.6467 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
 | Lattice a | 3.524 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
 | Lattice a | 3.575 Å | 298.15 | γ-(Fe,Ni); _alloy: Ni 0.5_ | model | [1] Cacciamani 2010; _cites Kuznetsov 2003_ | Table 1, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: a0_ | 3.7 Å | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 3 |  |
-| lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | Fe A1; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 2 |  |
-| lattice unspecified axis; _printed: a0_ | 2.826 Å | 0 | Fe A2; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 1 |  |
+| Lattice a | 3.5523 Å | 790.15 (\<) | FeNi3 | model | [5] Keyzer 2009 | Table 1, p. 3, row 4 |  |
 | lattice unspecified axis; _printed: a0_ | 3.504 Å | 0 | Fe2Ni C11f; _alloy: Fe 0.667, Ni 0.333_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 6 |  |
 | lattice unspecified axis; _printed: a0_ | 5.705 Å | 0 | Fe3Ni D03; _alloy: Fe 0.75, Ni 0.25_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 5 |  |
-| lattice unspecified axis; _printed: a0_ | 3.56 Å | 0 | Fe3Ni L12; _alloy: Fe 1, Ni 0_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 4 |  |
 | lattice unspecified axis; _printed: a0_ | 2.844 Å | 0 | FeNi B2; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 8 |  |
 | lattice unspecified axis; _printed: a0_ | 5.668 Å | 0 | FeNi B32; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 9 |  |
 | lattice unspecified axis; _printed: a0_ | 3.547 Å | 0 | FeNi L10; _alloy: Fe 0.5, Ni 0.5_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 7 |  |
 | lattice unspecified axis; _printed: a0_ | 3.55 Å | 0 | FeNi2 C11f; _alloy: Fe 0.333, Ni 0.667_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 10 |  |
 | lattice unspecified axis; _printed: a0_ | 5.6 Å | 0 | FeNi3 D03; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 12 |  |
 | lattice unspecified axis; _printed: a0_ | 3.5 Å | 0 | FeNi3 L12; _alloy: Fe 0.25, Ni 0.75_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 11 |  |
-| lattice unspecified axis; _printed: a0_ | 2.8 Å | 0 | Ni A1; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 13 |  |
-| lattice unspecified axis; _printed: a0_ | 3.518 Å | 0 | Ni A2; _alloy: Fe 0, Ni 1_ | DFT | [1] Cacciamani 2010 | Table 3, p. 7, row 14 |  |
 
 ## Sources
 
@@ -220,7 +216,9 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. G. Cacciamani, A. Dinsdale, M. Palumbo, A. Pasturel, The Fe–Ni system: Thermodynamic modelling assisted by atomistic calculations, Intermetallics 18, 1148-1162 (2010). [doi:10.1016/j.intermet.2010.02.026](https://doi.org/10.1016/j.intermet.2010.02.026)
 2. Muriel Mathon, Damien Connétable, Bo Sundman, Jacques Lacaze, Calphad-type assessment of the Fe–Nb–Ni ternary system, Calphad 33, 136-161 (2009). [doi:10.1016/j.calphad.2008.10.005](https://doi.org/10.1016/j.calphad.2008.10.005)
-3. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
+3. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
+4. W. Xiong, H. Zhang, L. Vitos, M. Selleby, Magnetic phase diagram of the Fe–Ni system, Acta Materialia 59, 521-530 (2011). [doi:10.1016/j.actamat.2010.09.055](https://doi.org/10.1016/j.actamat.2010.09.055)
+5. Jozefien De Keyzer, Gabriele Cacciamani, Nathalie Dupin, Patrick Wollants, Thermodynamic modeling and optimization of the Fe–Ni–Ti system, Calphad 33, 109-123 (2009). [doi:10.1016/j.calphad.2008.10.003](https://doi.org/10.1016/j.calphad.2008.10.003)
 
 ## Please cite
 

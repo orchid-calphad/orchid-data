@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of SiYb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -51.1 | kJ/mol-atom | 5.1 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 5.1 |
-| -51 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.1 | kJ/mol-atom | 5.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 5.1 |
+| -51 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

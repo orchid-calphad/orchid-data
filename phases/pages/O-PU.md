@@ -12,16 +12,16 @@ Table: Phases of the O–Pu system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-o-pu-a6-tetragonal); _phase:o-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 3 | 3 |
+| [TETRAGONAL_A6](#phase-o-pu-a6-tetragonal); _phase:o-pu:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 2 | 3 |
 | [BCC_A2](#phase-o-pu-bcc-a2); _phase:o-pu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 3 calculated diagram(s): 912–913 K, x(O) 0–0 | 2 | 3 |
 | [FCC_A1](#phase-o-pu-fcc-a1); _phase:o-pu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [GAS](#phase-o-pu-gas); _phase:o-pu:gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 300.29–4000 K, x(O) 1e-05–1 | 3 | 3 |
 | [ION](#phase-o-pu-ion); _phase:o-pu:ion_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 912–4000 K, x(O) 0–0.6682 | 0 | 3 |
 | [LIQUID](#phase-o-pu-liquid); _phase:o-pu:liquid_ | liquid | liquid | not stable in 3 calculated diagram(s) | 19 | 3 |
 | [O2GAS](#phase-o-pu-o2gas); _phase:o-pu:o2gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 300–1185 K, x(O) 1–1 | 0 | 3 |
-| [ALPHA_PU](#phase-o-pu-pu-alpha); _phase:o-pu:pu-alpha_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–405 K, x(O) 0–0 | 1 | 3 |
-| [BETA_PU](#phase-o-pu-pu-beta); _phase:o-pu:pu-beta_ |  | needs_review | stable in 1 of 3 calculated diagram(s): 397.62–462.62 K, x(O) 0–0 | 2 | 3 |
-| [GAMMA_PU](#phase-o-pu-pu-gamma); _phase:o-pu:pu-gamma_ |  | needs_review | not stable in 3 calculated diagram(s) | 2 | 3 |
+| [ALPHA_PU](#phase-o-pu-pu-alpha); _phase:o-pu:pu-alpha_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–405 K, x(O) 0–0 | 0 | 3 |
+| [BETA_PU](#phase-o-pu-pu-beta); _phase:o-pu:pu-beta_ |  | needs_review | stable in 1 of 3 calculated diagram(s): 397.62–462.62 K, x(O) 0–0 | 0 | 3 |
+| [GAMMA_PU](#phase-o-pu-pu-gamma); _phase:o-pu:pu-gamma_ |  | needs_review | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [PU2O3_D52](#phase-o-pu-pu2o3-d52); _phase:o-pu:pu2o3-d52_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–462.62 K, x(O) 0.6–0.6 | 33 | 3 |
 | [PUO152_D53](#phase-o-pu-puo152-d53); _phase:o-pu:puo152-d53_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–737.47 K, x(O) 0.60317–0.60317 | 11 | 3 |
 | [PUO161_D53](#phase-o-pu-puo161-d53); _phase:o-pu:puo161-d53_ | Mn2O3 · D5_3 · cI80 · Ia-3 (206) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 572.47–1444.76 K, x(O) 0.61717–0.63212 | 21 | 3 |
@@ -33,11 +33,11 @@ Table: Phases of the O–Pu system (14)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: Pu 1.0000
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-pu:a6-tetragonal)
 
-Names (6): _corpus: _corpus:phase:o-pu:a6-tetragonal  
-_paper: _paper:10.1016/j.jnucmat.2008.06.013:δ-Pu, paper:10.1016/j.jnucmat.2008.06.013:δ′-Pu  
+Names (5): _corpus: _corpus:phase:o-pu:a6-tetragonal  
+_paper: _paper:10.1016/j.jnucmat.2008.06.013:δ′-Pu  
 _tdb: _tdb:PuO-08Gue.tdb:TETRAGONAL_A6, tdb:PuO-11Gue.tdb:TETRAGONAL_A6, tdb:PuO-23Fou.tdb:TETRAGONAL_A6  
 
 
@@ -350,18 +350,16 @@ _assessment that models this phase_
 
 - Id: `phase:o-pu:pu-alpha`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): alpha-Pu · mP16 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): alpha-Pu · mP16 · P2_1/m (11) — Hallstedt 2025 mmc2 row for ALPHA_PU: Pu (alpha)
 - Candidate (tdb_comment): alpha-Pu · mP16 · P2_1/m — PuO-08Gue.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'
 - Candidate (tdb_comment): alpha-Pu · mP16 · P2_1/m — PuO-11Gue.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'
 - Candidate (tdb_comment): alpha-Pu · mP16 · P2_1/m — PuO-23Fou.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–405 K, x(O) 0–0
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-pu:pu-alpha)
 
-Names (5): _corpus: _corpus:phase:o-pu:pu-alpha  
-_paper: _paper:10.1016/j.jnucmat.2008.06.013:α-Pu  
+Names (4): _corpus: _corpus:phase:o-pu:pu-alpha  
 _tdb: _tdb:PuO-08Gue.tdb:ALPHA_PU, tdb:PuO-11Gue.tdb:ALPHA_PU, tdb:PuO-23Fou.tdb:ALPHA_PU  
 
 
@@ -390,9 +388,9 @@ _tdb: _tdb:PuO-08Gue.tdb:ALPHA_PU, tdb:PuO-11Gue.tdb:ALPHA_PU, tdb:PuO-23Fou.tdb
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102523](https://doi.org/10.1016/j.calphad.2022.102523) P. Fouquet-Métivier, P.M. Martin, D. Manara, K. Dardenne, J. Rothe, P.C.M. Fossati et al., Investigation of the solid/liquid phase transitions in the U–Pu–O system, Calphad 80, 102523 (2023).  
+_assessment that models this phase_
+- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2011.07.033](https://doi.org/10.1016/j.jnucmat.2011.07.033) Christine Guéneau, Nathalie Dupin, Bo Sundman, Chantal Martial, Jean-Christophe Dumas, Stéphane Gossé et al., Thermodynamic modelling of advanced oxide and carbide nuclear fuels: Description of the U–Pu–O–C systems, Journal of Nuclear Materials 419, 145-167 (2011).  
 _assessment that models this phase_
@@ -401,18 +399,16 @@ _assessment that models this phase_
 
 - Id: `phase:o-pu:pu-beta`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): beta-Pu · mC34 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): beta-Pu · mC34 · C2/m (12) — Hallstedt 2025 mmc2 row for BETA_PU: Pu (beta)
 - Candidate (tdb_comment): beta-Pu · mC34 · C2/m — PuO-08Gue.tdb: 'Prototype beta-Pu (mC34, C2/m)'
 - Candidate (tdb_comment): beta-Pu · mC34 · C2/m — PuO-11Gue.tdb: 'Prototype beta-Pu (mC34, C2/m)'
 - Candidate (tdb_comment): beta-Pu · mC34 · C2/m — PuO-23Fou.tdb: 'Prototype beta-Pu (mC34, C2/m)'
 - Stoichiometry: Pu 1.0000
 - Stability: stable in 1 of 3 calculated diagram(s): 397.62–462.62 K, x(O) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-pu:pu-beta)
 
-Names (5): _corpus: _corpus:phase:o-pu:pu-beta  
-_paper: _paper:10.1016/j.jnucmat.2008.06.013:β-Pu  
+Names (4): _corpus: _corpus:phase:o-pu:pu-beta  
 _tdb: _tdb:PuO-08Gue.tdb:BETA_PU, tdb:PuO-11Gue.tdb:BETA_PU, tdb:PuO-23Fou.tdb:BETA_PU  
 
 
@@ -441,9 +437,9 @@ _tdb: _tdb:PuO-08Gue.tdb:BETA_PU, tdb:PuO-11Gue.tdb:BETA_PU, tdb:PuO-23Fou.tdb:B
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102523](https://doi.org/10.1016/j.calphad.2022.102523) P. Fouquet-Métivier, P.M. Martin, D. Manara, K. Dardenne, J. Rothe, P.C.M. Fossati et al., Investigation of the solid/liquid phase transitions in the U–Pu–O system, Calphad 80, 102523 (2023).  
+_assessment that models this phase_
+- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2011.07.033](https://doi.org/10.1016/j.jnucmat.2011.07.033) Christine Guéneau, Nathalie Dupin, Bo Sundman, Chantal Martial, Jean-Christophe Dumas, Stéphane Gossé et al., Thermodynamic modelling of advanced oxide and carbide nuclear fuels: Description of the U–Pu–O–C systems, Journal of Nuclear Materials 419, 145-167 (2011).  
 _assessment that models this phase_
@@ -452,18 +448,16 @@ _assessment that models this phase_
 
 - Id: `phase:o-pu:pu-gamma`; status `needs_review`
 - No structure assigned. Why: no_structure_token; unary_composition
-- Candidate (literature_printed): gamma-Pu · oF8 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): gamma-Pu · oF8 · Fddd (70) — Hallstedt 2025 mmc2 row for GAMMA_PU: Hg4In, Pu (gamma)
 - Candidate (tdb_comment): gamma-Pu · oF8 · Fddd — PuO-08Gue.tdb: 'Prototype gamma-Pu (oF8, Fddd)'
 - Candidate (tdb_comment): gamma-Pu · oF8 · Fddd — PuO-11Gue.tdb: 'Prototype gamma-Pu (oF8, Fddd)'
 - Candidate (tdb_comment): gamma-Pu · oF8 · Fddd — PuO-23Fou.tdb: 'Prototype gamma-Pu (oF8, Fddd)'
 - Stoichiometry: Pu 1.0000
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-pu:pu-gamma)
 
-Names (5): _corpus: _corpus:phase:o-pu:pu-gamma  
-_paper: _paper:10.1016/j.jnucmat.2008.06.013:γ-Pu  
+Names (4): _corpus: _corpus:phase:o-pu:pu-gamma  
 _tdb: _tdb:PuO-08Gue.tdb:GAMMA_PU, tdb:PuO-11Gue.tdb:GAMMA_PU, tdb:PuO-23Fou.tdb:GAMMA_PU  
 
 
@@ -492,9 +486,9 @@ _tdb: _tdb:PuO-08Gue.tdb:GAMMA_PU, tdb:PuO-11Gue.tdb:GAMMA_PU, tdb:PuO-23Fou.tdb
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102523](https://doi.org/10.1016/j.calphad.2022.102523) P. Fouquet-Métivier, P.M. Martin, D. Manara, K. Dardenne, J. Rothe, P.C.M. Fossati et al., Investigation of the solid/liquid phase transitions in the U–Pu–O system, Calphad 80, 102523 (2023).  
+_assessment that models this phase_
+- [doi:10.1016/j.jnucmat.2008.06.013](https://doi.org/10.1016/j.jnucmat.2008.06.013) Christine Guéneau, Christian Chatillon, Bo Sundman, Thermodynamic modelling of the plutonium–oxygen system, Journal of Nuclear Materials 378, 257-272 (2008).  
 _assessment that models this phase_
 - [doi:10.1016/j.jnucmat.2011.07.033](https://doi.org/10.1016/j.jnucmat.2011.07.033) Christine Guéneau, Nathalie Dupin, Bo Sundman, Chantal Martial, Jean-Christophe Dumas, Stéphane Gossé et al., Thermodynamic modelling of advanced oxide and carbide nuclear fuels: Description of the U–Pu–O–C systems, Journal of Nuclear Materials 419, 145-167 (2011).  
 _assessment that models this phase_

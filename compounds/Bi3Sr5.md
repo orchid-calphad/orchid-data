@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi3Sr5.html · Markdown: https:/
 
 4 accepted literature formation-enthalpy value(s) (model 2, DFT 2); Materials Project -84.259 kJ/mol-atom (mp-aaaabrvg); OQMD -85.527 kJ/mol-atom (oqmd-7612).
 
-Systems: [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html)
+Systems: [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Bi3Sr5 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -82 kJ/mol-atom | αSr5Bi3 | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 19 |  |
-| -80 kJ/mol-atom | βSr5Bi3 | 298.15 | model | CALPHAD | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 21 |  |
-| -84.51 kJ/mol-atom | αSr5Bi3 | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 18 |  |
-| -82.84 kJ/mol-atom | βSr5Bi3 | 298.15 | DFT | First-principles calculations | [Bi–In–Sr](https://data.orchid-project.org/systems/BI-IN-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 20 |  |
+| -82 kJ/mol-atom | αSr5Bi3 | 298.15 | model | CALPHAD | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 19 |  |
+| -80 kJ/mol-atom | βSr5Bi3 | 298.15 | model | CALPHAD | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 21 |  |
+| -84.51 kJ/mol-atom | αSr5Bi3 | 298.15 | DFT | First-principles calculations | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 18 |  |
+| -82.84 kJ/mol-atom | βSr5Bi3 | 298.15 | DFT | First-principles calculations | [Bi–Sr](https://data.orchid-project.org/systems/BI-SR.html) | [1] Wang 2014 | Table 2, p. 3, row 20 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Bi3Sr5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -82 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -80 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -84.51 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -82.84 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -82 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -80 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -84.51 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -82.84 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

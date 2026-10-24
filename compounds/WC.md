@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of WC
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -40170 | per formula unit | 1700 | 0.5 | unit 'per formula unit' not convertible to kJ/mol-atom |  |  |  | 1700 |
-| -20.0887 | kJ/mol-atom |  | 2.500e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20.0852 | kJ/mol-atom |  | 2.500e-6 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -20.0887 | kJ/mol-atom |  | 2.500e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20.0852 | kJ/mol-atom |  | 2.500e-6 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

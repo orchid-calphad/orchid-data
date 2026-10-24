@@ -15,8 +15,8 @@ Table: Enthalpy of formation of Si2Zr reported in the literature (5)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -56.2933 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 5 |  |
-| -53.086 kJ/mol-atom ± 37.62 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3 |  |
-| -51.308 kJ/mol-atom ± 2.92 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4 |  |
+| -53.086 kJ/mol-atom ± 12.54 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 3 |  |
+| -51.308 kJ/mol-atom ± 0.973333 | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 78Mas_ | Table II, p. 4, row 4 |  |
 | -50.2993 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Bol_ | Table II, p. 4, row 2 |  |
 | -49.8813 kJ/mol-atom | Si2Zr | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 1 |  |
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Si2Zr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -56.2933 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53.086 | kJ/mol-atom | 37.62 | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 37.62 |
-| -51.308 | kJ/mol-atom | 2.92 | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -50.2993 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -49.8813 | kJ/mol-atom |  | 1.667e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -56.2933 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -53.086 | kJ/mol-atom | 12.54 | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 12.54 |
+| -51.308 | kJ/mol-atom | 0.9733 | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -50.2993 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -49.8813 | kJ/mol-atom |  | 1.667e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

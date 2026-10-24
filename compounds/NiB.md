@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NiB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -50.2 | kJ/mol (basis unstated) | 6.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 6.3 |
+| -50.2 | kJ/mol (basis unstated) | 6.3 | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

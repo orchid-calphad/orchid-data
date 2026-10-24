@@ -1,10 +1,10 @@
 # Hf–W system
 
-> Hf–W system: 17 accepted literature values (crystal structure 14, invariant reaction 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Hf–W system: 8 accepted literature values (formation 3, invariant reaction 3, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/HF-W.html · Markdown: https://data.orchid-project.org/systems/HF-W.md
 
-17 accepted literature values from 1 paper(s) (experimental 7, model 5, DFT 5); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+8 accepted literature values from 2 paper(s) (experimental 3, model 4, DFT 1); 2 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/HF-W.json) · [CSV](https://data.orchid-project.org/systems/HF-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#HF-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#HF-W/HfW-02Sha-LB.json) · [phases (5)](https://data.orchid-project.org/phases/pages/HF-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/HF-W.html) · [Markdown](https://data.orchid-project.org/systems/HF-W.md)
 
@@ -12,16 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 7 |
-| model | 5 |
-| DFT | 5 |
+| experimental | 3 |
+| model | 4 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| crystal structure | 14 |
+| formation | 3 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -57,34 +58,35 @@ Table: Invariant reactions reported in the literature for the Hf–W system (3)
 | 2222 | eutectic |  | model | [1] Lieser 2012 | p. 6 | “A subregular solution model is necessary to reproduce the eutectic reaction at 2222 K and 20.42 at% W.” |
 | 2222 | eutectic |  | experimental | [1] Lieser 2012; _cites Ackerman 1972_ | p. 2 | “The eutectic reaction happens at 2222 K and 18 at% W \[8\], and the eutectoid occurs at 7-8 at% W with a disagreement of 90 K about the reaction temperature \[6-7\].” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Hf–W system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -14.1 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002 | Table 1, p. 5, row 3 |  |
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -8 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites de Boer FR 1989_ | Table 1, p. 5, row 2 |  |
+| HfW2–15 | [HfW2](https://data.orchid-project.org/compounds/HfW2.html) | -3 kJ/mol-atom |  | model | -16.679 (mp-aaaaacbw) | -16.555 (oqmd-17394) | [2] Shao 2002; _cites Lee 1986_ [doi](https://doi.org/10.1016/0364-5916%2886%2990010-6) | Table 1, p. 5, row 1 |  |
+
 ## Other properties
 
-### Crystal structure (14)
+### Crystal structure (2)
 
 Table: Crystal structure, Hf–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.537 Å |  | Hf (bcc); _alloy: W 0_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 1 |  |
-| Lattice a | 3.538 Å |  | Hf (bcc); _alloy: W 0_ | model | [1] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 3 |  |
-| Lattice a | 3.2 Å |  | Hf (hcp); _alloy: W 0_ | model | [1] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 6 |  |
-| Lattice a | 3.2 Å |  | Hf (hcp); _alloy: W 0_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 4 |  |
 | Lattice a | 7.617 Å |  | HfW2; _alloy: W 0.666667_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 10 |  |
-| Lattice a | 3.185 Å |  | W; _alloy: W 1_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 7 |  |
-| Lattice a | 3.19 Å |  | W; _alloy: W 1_ | model | [1] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 9 |  |
-| Lattice a | 3.5 Å | 298.15 | Hf (bcc); _alloy: W 0_ | experimental | [1] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 2 |  |
-| Lattice a | 3.1952 Å | 298.15 | Hf (hcp); _alloy: W 0_ | experimental | [1] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 5 |  |
 | Lattice a | 7.593 Å | 298.15 | HfW2; _alloy: W 0.666667_ | experimental | [1] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 11 |  |
-| Lattice a | 3.166 Å | 298.15 | W; _alloy: W 1_ | experimental | [1] Lieser 2012; _cites Braun 1960_ | Table 1, p. 4, row 8 |  |
-| lattice c a | 1.58 not_printed |  | Hf (hcp); _alloy: W 0_ | model | [1] Lieser 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 1, p. 4, row 6 |  |
-| lattice c a | 1.58 not_printed |  | Hf (hcp); _alloy: W 0_ | DFT | [1] Lieser 2012 | Table 1, p. 4, row 4 |  |
-| lattice c a | 1.5827 not_printed | 298.15 | Hf (hcp); _alloy: W 0_ | experimental | [1] Lieser 2012; _cites Duwez 1951_ [doi](https://doi.org/10.1063/1.1700127) | Table 1, p. 4, row 5 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Alyson C. Lieser, Chelsey L. Zacherl, Arkapol Saengdeejing, Zi-Kui Liu, Laszlo J. Kecskes, First-principles calculations and thermodynamic re-modeling of the Hf–W system, Calphad 38, 92-99 (2012). [doi:10.1016/j.calphad.2012.04.005](https://doi.org/10.1016/j.calphad.2012.04.005)
+2. G. Shao, Thermodynamic assessment of the Hf–Mo and Hf–W systems, Intermetallics 10, 429-434 (2002). [doi:10.1016/s0966-9795(02)00017-1](https://doi.org/10.1016/s0966-9795%2802%2900017-1)
 
 ## Please cite
 

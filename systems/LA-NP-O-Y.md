@@ -1,10 +1,10 @@
 # La–Np–O–Y system
 
-> La–Np–O–Y system: 8 accepted literature values (formation 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Np–O–Y system: 4 accepted literature values (formation 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-NP-O-Y.html · Markdown: https://data.orchid-project.org/systems/LA-NP-O-Y.md
 
-8 accepted literature values from 1 paper(s) (model 8); 0 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (model 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-NP-O-Y.json) · [CSV](https://data.orchid-project.org/systems/LA-NP-O-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-NP-O-Y) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-NP-O-Y.html) · [Markdown](https://data.orchid-project.org/systems/LA-NP-O-Y.md)
 
@@ -12,26 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 8 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 8 |
+| formation | 4 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, La–Np–O–Y system (8)
+Table: Enthalpies of formation, La–Np–O–Y system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| NpO(g) |  | -16.5 kJ/mol (basis unstated) ± 12.2 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
-| NpO(g) |  | -13.3 kJ/mol (basis unstated) ± 11.5 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
-| NpO(g) |  | -6.3 kJ/mol (basis unstated) ± 10.6 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3 |  |
-| NpO(g) |  | -2 kJ/mol (basis unstated) ± 11.4 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3 |  |
 | gas |  | -16.5 kJ/mol (basis unstated) ± 12.2 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
 | gas |  | -13.3 kJ/mol (basis unstated) ± 11.5 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 4 |  |
 | gas |  | -6.3 kJ/mol (basis unstated) ± 10.6 | 298.15 | model |  |  | [1] Smith 2016 | Table B.3, p. 17, row 3 |  |

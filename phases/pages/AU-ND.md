@@ -1,14 +1,14 @@
 # Au–Nd phases
 
-> Au–Nd system: 14 phases (tier A 9, tier B 1, tier C 3, liquid 1); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Au–Nd system: 13 phases (tier A 8, tier B 1, tier C 3, liquid 1); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/AU-ND.html · Markdown: https://data.orchid-project.org/phases/pages/AU-ND.md
 
-14 phases (tier A 9, tier B 1, tier C 3, liquid 1); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 8, tier B 1, tier C 3, liquid 1); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=AU-ND) · [full JSON](https://data.orchid-project.org/phases/systems/AU-ND.json) · [Au–Nd system page](https://data.orchid-project.org/systems/AU-ND.html) · [Markdown](https://data.orchid-project.org/phases/pages/AU-ND.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Au–Nd system (14)
+Table: Phases of the Au–Nd system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -17,11 +17,10 @@ Table: Phases of the Au–Nd system (14)
 | [AU51ND14](#phase-au-nd-au51nd14); _phase:au-nd:au51nd14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 2 calculated diagram(s): 300–1475.88 K, x(Nd) 0.19732–0.21538 | 17 | 2 |
 | [AU6ND](#phase-au-nd-au6nd); _phase:au-nd:au6nd_ | Au6Pr · mC28 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 2 calculated diagram(s): 300–1150.88 K, x(Nd) 0.14286–0.14286 | 13 | 2 |
 | [AUND_B2](#phase-au-nd-aund-b2); _phase:au-nd:aund-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 705.88–1744.15 K, x(Nd) 0.5–0.5 | 11 | 2 |
-| [AUND_B27](#phase-au-nd-aund-b27); _phase:au-nd:aund-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–705.88 K, x(Nd) 0.5–0.5 | 8 | 2 |
+| [AUND_B27](#phase-au-nd-aund-b27); _phase:au-nd:aund-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–705.88 K, x(Nd) 0.5–0.5 | 6 | 2 |
 | [AUND_B33](#phase-au-nd-aund-b33); _phase:au-nd:aund-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1640–1640 K | 8 | 2 |
 | [AUND2_C37](#phase-au-nd-aund2-c37); _phase:au-nd:aund2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–1082.9 K, x(Nd) 0.66667–0.66667 | 12 | 2 |
-| [BCC_A2](#phase-au-nd-bcc-a2); _phase:au-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1099.04–2499.04 K, x(Nd) 0.99228–1 | 18 | 2 |
-| [DHCP](#phase-au-nd-dhcp); _phase:au-nd:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
+| [BCC_A2](#phase-au-nd-bcc-a2); _phase:au-nd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1099.04–2499.04 K, x(Nd) 0.99228–1 | 5 | 2 |
 | [DHCP](#phase-au-nd-dhcp-a3); _phase:au-nd:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1134.04 K, x(Nd) 1–1 | 8 | 2 |
 | [FCC_A1](#phase-au-nd-fcc-a1); _phase:au-nd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1458.83 K, x(Nd) 0–0 | 7 | 2 |
 | [HCP_A3](#phase-au-nd-hcp-a3); _phase:au-nd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -235,7 +234,7 @@ _cited as the source of values for this phase_
 - Structure: FeB · B27 · oP8 · Pnma (62); type `st:b27-feb-op8`; tier A: standard phase name; confidence high
 - Stoichiometry: Au 0.5000, Nd 0.5000
 - Stability: stable in 1 of 2 calculated diagram(s): 300–705.88 K, x(Nd) 0.5–0.5
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-nd:aund-b27)
 
 Names (6): _corpus: _corpus:phase:au-nd:aund-b27  
@@ -354,11 +353,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-nd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1099.04–2499.04 K, x(Nd) 0.99228–1
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-nd:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:au-nd:bcc-a2  
-_paper: _paper:10.1007/s11669-015-0378-2:βNd, paper:10.1016/j.jallcom.2016.02.170:(βNd), paper:10.1016/j.jallcom.2016.02.170:βNdAu  
+Names (5): _corpus: _corpus:phase:au-nd:bcc-a2  
+_paper: _paper:10.1007/s11669-015-0378-2:βNd, paper:10.1016/j.jallcom.2016.02.170:(βNd)  
 _tdb: _tdb:AuNd-15Wan.tdb:BCC_A2, tdb:AuNd-16Mou.tdb:BCC_A2  
 
 
@@ -380,23 +379,12 @@ _tdb: _tdb:AuNd-15Wan.tdb:BCC_A2, tdb:AuNd-16Mou.tdb:BCC_A2
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jallcom.2016.02.170](https://doi.org/10.1016/j.jallcom.2016.02.170) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the neodymium–gold binary system, Journal of Alloys and Compounds 673, 115-125 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-015-0378-2](https://doi.org/10.1007/s11669-015-0378-2) S. L. Wang, L. J. Zhou, Z. F. Lan, J. L. Li, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Au-Nd and Au-Dy Systems, J. Phase Equilib. Diffus. 36, 241-247 (2015).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2016.02.170](https://doi.org/10.1016/j.jallcom.2016.02.170) D. Moustaine, K. Mahdouk, Thermodynamic reassessment of the neodymium–gold binary system, Journal of Alloys and Compounds 673, 115-125 (2016).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-999-0266-7](https://doi.org/10.1007/s11661-999-0266-7) A. Saccone, D. Macciò, S. Delfino, R. Ferro, The neodymium-gold phase diagram, Metall Mater Trans A 30, 1169-1176 (1999).  
 _cited as the source of values for this phase_
-
-## DHCP (Au–Nd)
-
-- Id: `phase:au-nd:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-nd:dhcp)
-
-Names (1): _corpus: _corpus:phase:au-nd:dhcp  
-
 
 ## DHCP (Au–Nd)
 
@@ -406,7 +394,7 @@ Names (1): _corpus: _corpus:phase:au-nd:dhcp
 - Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-nd:dhcp-a3)
 
-Names (5): _corpus: _corpus:phase:au-nd:dhcp-a3  
+Names (6): _corpus: _corpus:phase:au-nd:dhcp-a3, corpus:phase:au-nd:dhcp  
 _paper: _paper:10.1007/s11669-015-0378-2:αNd, paper:10.1016/j.jallcom.2016.02.170:αNd  
 _tdb: _tdb:AuNd-15Wan.tdb:DHCP, tdb:AuNd-16Mou.tdb:DHCP  
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al2S3.html · Markdown: https://
 
 8 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 4); experimental median -137.4 kJ/mol-atom (n = 2); Materials Project -131.06 kJ/mol-atom (mp-aaaaadyc); OQMD -118.658 kJ/mol-atom (oqmd-27954).
 
-Systems: [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html)
+Systems: [Al–S](https://data.orchid-project.org/systems/AL-S.html)
 
 ## Literature values
 
@@ -14,14 +14,14 @@ Table: Enthalpy of formation of Al2S3 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -144.6 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Evaluation | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Solution calorimetry | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
-| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
-| -107.9 kJ/mol-atom | γAl2S3 | 298.15 | model | CALPHAD | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
-| -140.7 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
-| -136.8 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
-| -118.9 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
-| -115.2 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S–Se–Te](https://data.orchid-project.org/systems/AL-S-SE-TE.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
+| -144.6 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Evaluation | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Mills 1974_ | Table 3, p. 3, row 5 |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | experimental | Solution calorimetry | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites Ferrante 1981_ | Table 3, p. 3, row 2 |  |
+| -130.2 kJ/mol-atom | αAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 6 |  |
+| -107.9 kJ/mol-atom | γAl2S3 | 298.15 | model | CALPHAD | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019 | Table 3, p. 3, row 9 |  |
+| -140.7 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 4 |  |
+| -136.8 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 8 |  |
+| -118.9 kJ/mol-atom | αAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 3 |  |
+| -115.2 kJ/mol-atom | γAl2S3 | 0 | DFT | DFT | [Al–S](https://data.orchid-project.org/systems/AL-S.html) | [1] Shi 2019; _cites The 2019_ | Table 3, p. 3, row 7 |  |
 
 ### Uncertainty budget
 
@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of Al2S3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -144.6 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -144.6 | kJ/mol-atom |  | 0.05 | 3.5 (evaluated_compilation, calibrated) |  |  |  | 3.5 |
 | -130.2 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -130.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -107.9 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -140.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -136.8 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -118.9 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -115.2 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -130.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -107.9 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -140.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -136.8 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -118.9 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -115.2 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

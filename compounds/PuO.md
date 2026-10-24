@@ -14,11 +14,11 @@ Table: Enthalpy of formation of PuO reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -447.5 kJ/mol-atom ± 6 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
-| -442.25 kJ/mol-atom ± 16.7 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
-| -437.75 kJ/mol-atom ± 10 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
+| -447.5 kJ/mol-atom ± 3 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Markin 1966_ | Table 5, p. 12, row 11 |  |
+| -442.25 kJ/mol-atom ± 8.35 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Chereau 1977_ [doi](https://doi.org/10.1016/0021-9614%2877%2990040-4) | Table 5, p. 12, row 12 |  |
+| -437.75 kJ/mol-atom ± 5 | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 13 |  |
 | -433.6 kJ/mol-atom | PuO1,61 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 10 |  |
-| -422.5 kJ/mol-atom ± 10 | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9 |  |
+| -422.5 kJ/mol-atom ± 5 | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008; _cites Lemire 2001_ | Table 5, p. 12, row 9 |  |
 | -419 kJ/mol-atom | PuO1,52 | 298.15 | model |  | [O–Pu](https://data.orchid-project.org/systems/O-PU.html) | [1] Guéneau 2008 | Table 5, p. 12, row 8 |  |
 
 ### Uncertainty budget
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of PuO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -447.5 | kJ/mol-atom | 6 | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 6 |
-| -442.25 | kJ/mol-atom | 16.7 | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 16.7 |
-| -437.75 | kJ/mol-atom | 10 | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 10 |
-| -433.6 | kJ/mol-atom |  | 0.025 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -422.5 | kJ/mol-atom | 10 | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 10 |
-| -419 | kJ/mol-atom |  | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -447.5 | kJ/mol-atom | 3 | 0.25 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -442.25 | kJ/mol-atom | 8.35 | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 8.35 |
+| -437.75 | kJ/mol-atom | 5 | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 5 |
+| -433.6 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -422.5 | kJ/mol-atom | 5 | 0.25 | 3.4 (model_calculated, calibrated) |  |  |  | 5 |
+| -419 | kJ/mol-atom |  | 0.025 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -44,8 +44,8 @@ Table: DFT formation energy of PuO
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaabfa | -270.318 | -2.80165 | Fm-3m | 10.542 | 0.1093 | no |
-| OQMD | oqmd-1243279 | -276.45 | -2.86521 | P63/mmc | 18.701 | 0.1938 | yes |
+| Materials Project | mp-aaaaabfa | -270.318 | -2.80165 | Fm-3m | 10.5415 | 0.1093 | no |
+| OQMD | oqmd-1243279 | -276.45 | -2.86521 | P63/mmc | 18.7014 | 0.1938 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

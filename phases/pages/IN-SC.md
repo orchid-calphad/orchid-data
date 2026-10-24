@@ -16,7 +16,7 @@ Table: Phases of the In–Sc system (11)
 | [BCC_A2](#phase-in-sc-bcc-a2); _phase:in-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1373.91–2169 K, x(Sc) 0.79773–1 | 0 | 1 |
 | [FCC_A1](#phase-in-sc-fcc-a1); _phase:in-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-in-sc-hcp-a3); _phase:in-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1678.91 K, x(Sc) 0.86315–1 | 0 | 1 |
-| [IN2SC](#phase-in-sc-in2sc); _phase:in-sc:in2sc_ | Ga2Zr · oC12 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1245.87 K, x(Sc) 0.33333–0.33333 | 0 | 1 |
+| [IN2SC](#phase-in-sc-in2sc); _phase:in-sc:in2sc_ | Ga2Zr · oC12 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1245.87 K, x(Sc) 0.33333–0.33333 | 1 | 1 |
 | [IN3SC_L12](#phase-in-sc-in3sc-l12); _phase:in-sc:in3sc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1213.85 K, x(Sc) 0.25–0.25 | 0 | 1 |
 | [IN4SC5_B2](#phase-in-sc-in4sc5-b2); _phase:in-sc:in4sc5-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1549.77 K, x(Sc) 0.55556–0.55556 | 0 | 1 |
 | [INSC_L10](#phase-in-sc-insc-l10); _phase:in-sc:insc-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1397.3 K, x(Sc) 0.5–0.5 | 0 | 1 |
@@ -135,12 +135,13 @@ _assessment that models this phase_
 - Structure: Ga2Zr · oC12 · Cmmm (65); type `st:ga2zr-oc12`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: In 0.6667, Sc 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1245.87 K, x(Sc) 0.33333–0.33333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-sc:in2sc)
 
-Names (4): _corpus: _corpus:phase:in-sc:in2sc  
+Names (5): _corpus: _corpus:phase:in-sc:in2sc  
 _mp: _mp:mp-aaacqqky  
 _oqmd: _oqmd:oqmd-1368785  
+_paper: _paper:10.2298/jmmb171121004h:In2Sc  
 _tdb: _tdb:InSc-18Hu.tdb:IN2SC  
 
 
@@ -156,7 +157,7 @@ _tdb: _tdb:InSc-18Hu.tdb:IN2SC
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2298/JMMB171121004H](https://doi.org/10.2298/JMMB171121004H) Z. Hu, C. Huang, J. Tu, Y. Huang, A. Dong, J. Mining Metall. B, 54, 161-67(2018).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## IN3SC_L12 (In–Sc)
 

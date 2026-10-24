@@ -12,7 +12,7 @@ Table: Phases of the Ta–V system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ta-v-bcc-a2); _phase:ta-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3999.25 K, x(V) 0–1 | 29 | 5 |
+| [BCC_A2](#phase-ta-v-bcc-a2); _phase:ta-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–3999.25 K, x(V) 0–1 | 23 | 5 |
 | [C14_LAVES](#phase-ta-v-c14-laves); _phase:ta-v:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1705.03 K, x(V) 0.63798–0.69321 | 0 | 4 |
 | [C15_LAVES](#phase-ta-v-c15-laves); _phase:ta-v:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1576.32 K, x(V) 0.59861–0.68709 | 8 | 5 |
 | [FCC_A1](#phase-ta-v-fcc-a1); _phase:ta-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
@@ -24,11 +24,11 @@ Table: Phases of the Ta–V system (6)
 - Id: `phase:ta-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–3999.25 K, x(V) 0–1
-- Literature: 29 values (29 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ta-v:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:ta-v:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2010.12.002:NM BCC Ta, paper:10.1016/j.calphad.2010.12.002:NM BCC V, paper:10.1016/s0925-8388(03)00728-x:bcc  
+Names (8): _corpus: _corpus:phase:ta-v:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2010.12.002:NM BCC Ta, paper:10.1016/s0925-8388(03)00728-x:bcc  
 _tdb: _tdb:TaV-04Dan-LB.tdb:BCC_A2, tdb:TaV-04Dan-final.tdb:BCC_A2, tdb:TaV-11Pav-3sl.tdb:BCC_A2, tdb:TaV-11Pav.tdb:BCC_A2, tdb:TaV-13Bro.tdb:BCC_A2  
 
 

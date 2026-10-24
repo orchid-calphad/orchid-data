@@ -1,14 +1,14 @@
 # Mg–Zr phases
 
-> Mg–Zr system: 5 phases (tier A 3, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mg–Zr system: 4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MG-ZR.html · Markdown: https://data.orchid-project.org/phases/pages/MG-ZR.md
 
-5 phases (tier A 3, liquid 1, unresolved_no_candidates 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+4 phases (tier A 3, liquid 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MG-ZR) · [full JSON](https://data.orchid-project.org/phases/systems/MG-ZR.json) · [Mg–Zr system page](https://data.orchid-project.org/systems/MG-ZR.html) · [Markdown](https://data.orchid-project.org/phases/pages/MG-ZR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Mg–Zr system (5)
+Table: Phases of the Mg–Zr system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,14 +16,13 @@ Table: Phases of the Mg–Zr system (5)
 | [FCC_A1](#phase-mg-zr-fcc-a1); _phase:mg-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mg-zr-hcp-a3); _phase:mg-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1154.63 K, x(Zr) 0–1 | 9 | 3 |
 | [LIQUID](#phase-mg-zr-liquid); _phase:mg-zr:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 860.5–4000 K, x(Zr) 0–1 | 11 | 3 |
-| [LIQUID-2](#phase-mg-zr-liquid-2); _phase:mg-zr:liquid-2_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 
 ## BCC_A2 (Mg–Zr)
 
 - Id: `phase:mg-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 794.01–3999.9 K, x(Zr) 0.26–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 8 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:mg-zr:bcc-a2  
@@ -155,10 +154,10 @@ _cited as the source of values for this phase_
 - Id: `phase:mg-zr:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 860.5–4000 K, x(Zr) 0–1
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 11 values (10 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:liquid)
 
-Names (8): _corpus: _corpus:phase:mg-zr:liquid  
+Names (9): _corpus: _corpus:phase:mg-zr:liquid, corpus:phase:mg-zr:liquid-2  
 _paper: _paper:10.1016/j.calphad.2005.07.004:L, paper:10.1016/j.calphad.2005.07.004:L#2, paper:10.1016/j.calphad.2005.07.004:liquid, paper:10.1016/s0364-5916(98)00037-6:Liquid'  
 _tdb: _tdb:MgZr-05Arr.tdb:LIQUID, tdb:MgZr-98Ham-LB.tdb:LIQUID, tdb:MgZr-98Ham-alt.tdb:LIQUID  
 
@@ -194,17 +193,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/bf02880408](https://doi.org/10.1007/bf02880408) A.A. Nayeb-Hashemi, J.B. Clark, Bull. Alloy Phase Diagr. 6 (3) (1985) 246–250.  
 _cited as the source of values for this phase_
-
-## LIQUID-2 (Mg–Zr)
-
-- Id: `phase:mg-zr:liquid-2`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:2,LIQUID; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zr:liquid-2)
-
-Names (1): _corpus: _corpus:phase:mg-zr:liquid-2  
-
 
 ## Please cite
 

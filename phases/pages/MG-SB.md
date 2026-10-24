@@ -13,12 +13,12 @@ Table: Phases of the Mg–Sb system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-mg-sb-a7-rhombohedral); _phase:mg-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 6 | 3 |
-| [BCC_A2](#phase-mg-sb-bcc-a2); _phase:mg-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 3 | 3 |
+| [BCC_A2](#phase-mg-sb-bcc-a2); _phase:mg-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-mg-sb-fcc-a1); _phase:mg-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-mg-sb-hcp-a3); _phase:mg-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–926.98 K, x(Sb) 0–0.00071 | 6 | 3 |
 | [ION](#phase-mg-sb-ion); _phase:mg-sb:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 851.75–2500 K, x(Sb) 0–1 | 2 | 1 |
-| [LIQUID](#phase-mg-sb-liquid); _phase:mg-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 853.07–2500 K, x(Sb) 0–1 | 11 | 2 |
-| [MG3SB2_D52](#phase-mg-sb-mg3sb2-d52); _phase:mg-sb:mg3sb2-d52_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1203.91 K, x(Sb) 0.37942–0.4 | 16 | 3 |
+| [LIQUID](#phase-mg-sb-liquid); _phase:mg-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 853.07–2500 K, x(Sb) 0–1 | 12 | 2 |
+| [MG3SB2_D52](#phase-mg-sb-mg3sb2-d52); _phase:mg-sb:mg3sb2-d52_ | A-La2O3 · D5_2 · hP5 · P-3m1 (164) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1203.91 K, x(Sb) 0.37942–0.4 | 17 | 3 |
 | [MG3SB2_D53](#phase-mg-sb-mg3sb2-d53); _phase:mg-sb:mg3sb2-d53_ | Mn2O3 · D5_3 · cI80 · Ia-3 (206) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1165.55–1583.07 K, x(Sb) 0.37561–0.39984 | 0 | 3 |
 
 ## RHOMBOHEDRAL_A7 (Mg–Sb)
@@ -72,11 +72,10 @@ _assessment that models this phase_
 - Id: `phase:mg-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-sb:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:mg-sb:bcc-a2  
-_paper: _paper:10.1007/bf02646653:β, paper:10.1007/bf02646653:β\*  
+Names (4): _corpus: _corpus:phase:mg-sb:bcc-a2  
 _tdb: _tdb:MgSb-05Bal.tdb:BCC_A2, tdb:MgSb-21Zha.tdb:BCC_A2, tdb:MgSb-87Jon.tdb:BCC_A2  
 
 
@@ -106,7 +105,7 @@ _tdb: _tdb:MgSb-05Bal.tdb:BCC_A2, tdb:MgSb-21Zha.tdb:BCC_A2, tdb:MgSb-87Jon.tdb:
 Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02646653](https://doi.org/10.1007/BF02646653) B. Joensson, J. Agren, Metall. Trans. A, 18A, 1395-1401(1987).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2005.03.001](https://doi.org/10.1016/j.calphad.2005.03.001) T. Balakumar, M. Medraj, Thermodynamic modeling of the Mg–Al–Sb system, Calphad 29, 24-36 (2005).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2021.102361](https://doi.org/10.1016/j.calphad.2021.102361) J. Zhang, J. Wang, Y. Yuan, Calphad, 75, 102361(2021).  
@@ -233,7 +232,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:mg-sb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 853.07–2500 K, x(Sb) 0–1
-- Literature: 11 values (11 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-sb:liquid)
 
 Names (5): _corpus: _corpus:phase:mg-sb:liquid  
@@ -271,7 +270,7 @@ _cited as the source of values for this phase; reports values for this phase_
 - Id: `phase:mg-sb:mg3sb2-d52`; status `assigned`
 - Structure: A-La2O3 · D5_2 · hP5 · P-3m1 (164); type `st:d5-2-a-la2o3-hp5`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1203.91 K, x(Sb) 0.37942–0.4
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 17 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-sb:mg3sb2-d52)
 
 Names (7): _corpus: _corpus:phase:mg-sb:mg3sb2-d52  

@@ -1,10 +1,10 @@
 # La–Si system
 
-> La–Si system: 32 accepted literature values (invariant reaction 26, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Si system: 69 accepted literature values (crystal structure 37, invariant reaction 26, phase transition 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SI.html · Markdown: https://data.orchid-project.org/systems/LA-SI.md
 
-32 accepted literature values from 2 paper(s) (experimental 20, model 12); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+69 accepted literature values from 2 paper(s) (experimental 29, model 12, unspecified 28); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SI/LaSi-10Zho.json) · [phases (13)](https://data.orchid-project.org/phases/pages/LA-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-SI.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
+| experimental | 29 |
 | model | 12 |
+| unspecified | 28 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 26 |
 | phase transition | 6 |
+| crystal structure | 37 |
 
 ## Calculated phase diagrams
 
@@ -129,6 +131,50 @@ Table: Phase transition, La–Si system
 | Phase transition | 1893 K | 1893 | congruent transformation | experimental | [1] Zhou 2010 | p. 2 | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
 | Phase transition | 1898.15 K | 1898.15 | congruent transformation | experimental | [2] Xu 2020 | p. 2 | “The La5Si3, La3Si2, and La5Si4 phases formed by peritectic reactions at 1260°C, 1470°C, and 1570°C, respectively, while the LaSi phase melted congruently at 1625 oC.” |
 | Phase transition | 2003 K | 2003 | congruent transformation | experimental | [1] Zhou 2010 | p. 2 | “Among them, LaSi and LaSi2-a1 melt congruently at 1893 and 2003 K.” |
+
+### Crystal structure (37)
+
+Table: Crystal structure, La–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
+| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 7.889 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
+| Lattice a | 7.98 Å ± 0.006 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
+| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
+| Lattice a | 8.034 Å ± 0.002 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
+| Lattice a | 0.842 not_printed ± 2.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
+| Lattice a | 0.842 not_printed ± 6.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 8.42 Å ± 0.006 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 4.251 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice a | 0.4251 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice a | 4.265 Å ± 0.002 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
+| Lattice a | 0.4265 not_printed ± 2.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
+| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
+| Lattice b | 4.005 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice b | 0.4155 not_printed ± 1.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice b | 4.155 Å ± 0.001 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
+| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 4.424 Å ± 0.002 | 298.15 | La3Si2; _alloy: La 0.6, Si 0.4_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 3 |  |
+| Lattice c | 14.13 Å ± 0.01 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: La 0.625, Si 0.375_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
+| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
+| Lattice c | 15.407 Å ± 0.009 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: La 0.555556, Si 0.444444_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 5 |  |
+| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
+| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 6.044 Å ± 0.001 | 298.15 | LaSi; _alloy: La 0.5, Si 0.5_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 7 |  |
+| Lattice c | 1.4076 not_printed ± 5.000e-4 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice c | 14.076 Å ± 0.005 | 298.15 | LaSi2-a1; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 9 |  |
+| Lattice c | 1.3922 not_printed ± 6.000e-4 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
+| Lattice c | 13.922 Å ± 0.006 | 298.15 | LaSi2-a2; _alloy: La 0.333333, Si 0.666667_ | unspecified | [2] Xu 2020; _cites ref. 18_ | Table 1, p. 3, row 11 |  |
 
 ## Sources
 

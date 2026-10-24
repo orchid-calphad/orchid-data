@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf3Si2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -80 | kJ/mol-atom | 4.7 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.7 |
+| -80 | kJ/mol-atom | 4.7 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4.7 |
 
 ## DFT formation energies
 

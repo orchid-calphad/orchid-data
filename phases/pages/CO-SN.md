@@ -14,14 +14,14 @@ Table: Phases of the Co–Sn system (13)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-co-sn-a4-diamond); _phase:co-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [BCT_A5](#phase-co-sn-a5-bct); _phase:co-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 7 | 4 |
-| [BCC_A2](#phase-co-sn-bcc-a2); _phase:co-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 2 | 4 |
+| [BCC_A2](#phase-co-sn-bcc-a2); _phase:co-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [CO3SN2_ALPHA](#phase-co-sn-co3sn2-alpha); _phase:co-sn:co3sn2-alpha_ | Ni3Sn2 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–847.44 K, x(Sn) 0.4–0.4 | 9 | 2 |
 | [CO3SN2_B82](#phase-co-sn-co3sn2-b82); _phase:co-sn:co3sn2-b82_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1472.42 K, x(Sn) 0.38645–0.41738 | 42 | 4 |
 | [COSN_B35](#phase-co-sn-cosn-b35); _phase:co-sn:cosn-b35_ | CoSn · B35 · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1240.16 K, x(Sn) 0.5–0.5 | 24 | 4 |
 | [COSN2_C16](#phase-co-sn-cosn2-c16); _phase:co-sn:cosn2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–848.39 K, x(Sn) 0.66667–0.66667 | 21 | 4 |
 | [COSN3](#phase-co-sn-cosn3); _phase:co-sn:cosn3_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–623.87 K, x(Sn) 0.75–0.75 | 7 | 2 |
-| [COSN3_HT](#phase-co-sn-cosn3-ht); _phase:co-sn:cosn3-ht_ | CoSn3 · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75 | 6 | 1 |
-| [COSN3_LT](#phase-co-sn-cosn3-lt); _phase:co-sn:cosn3-lt_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–547.79 K, x(Sn) 0.75–0.75 | 4 | 1 |
+| [COSN3_HT](#phase-co-sn-cosn3-ht); _phase:co-sn:cosn3-ht_ | CoSn3 · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75 | 2 | 1 |
+| [COSN3_LT](#phase-co-sn-cosn3-lt); _phase:co-sn:cosn3-lt_ | PdSn3 · oC32 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–547.79 K, x(Sn) 0.75–0.75 | 0 | 1 |
 | [FCC_A1](#phase-co-sn-fcc-a1); _phase:co-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 370–1775.94 K, x(Sn) 0–0.02715 | 18 | 4 |
 | [HCP_A3](#phase-co-sn-hcp-a3); _phase:co-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–696.99 K, x(Sn) 0–0.00061 | 3 | 4 |
 | [LIQUID](#phase-co-sn-liquid); _phase:co-sn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 501.01–2500 K, x(Sn) 0–1 | 54 | 4 |
@@ -144,11 +144,10 @@ _cited as the source of values for this phase_
 - Id: `phase:co-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sn:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:co-sn:bcc-a2  
-_paper: _paper:10.1007/s11669-018-0687-3:(ε-Co)  
+Names (5): _corpus: _corpus:phase:co-sn:bcc-a2  
 _tdb: _tdb:CoSn-04Jia.tdb:BCC_A2, tdb:CoSn-04Liu.tdb:BCC_A2, tdb:CoSn-09Don.tdb:BCC_A2, tdb:CoSn-19Jed.tdb:BCC_A2  
 
 
@@ -184,11 +183,11 @@ _tdb: _tdb:CoSn-04Jia.tdb:BCC_A2, tdb:CoSn-04Liu.tdb:BCC_A2, tdb:CoSn-09Don.tdb:
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-004-0019-8](https://doi.org/10.1007/s11664-004-0019-8) Libin Liu, Cristina Andersson, Johan Liu, Thermodynamic assessment of the Sn-Co lead-free solder system, Journal of Elec Materi 33, 935-939 (2004).  
 _assessment that models this phase_
 - [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4) H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009).  
+_assessment that models this phase_
+- [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2004.08.001](https://doi.org/10.1016/j.calphad.2004.08.001) M. Jiang, J. Sato, I. Ohnuma, R. Kainuma, K. Ishida, A thermodynamic assessment of the Co–Sn system, Calphad 28, 213-220 (2004).  
 _assessment that models this phase_
@@ -478,7 +477,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.2500, Sn 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 547.79–650 K, x(Sn) 0.75–0.75
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sn:cosn3-ht)
 
 Names (3): _corpus: _corpus:phase:co-sn:cosn3-ht  
@@ -508,11 +507,10 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Co 0.2500, Sn 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–547.79 K, x(Sn) 0.75–0.75
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-sn:cosn3-lt)
 
-Names (3): _corpus: _corpus:phase:co-sn:cosn3-lt  
-_paper: _paper:10.1007/s11669-018-0687-3:α-CoSn3  
+Names (2): _corpus: _corpus:phase:co-sn:cosn3-lt  
 _tdb: _tdb:CoSn-19Jed.tdb:COSN3_LT  
 
 
@@ -528,7 +526,7 @@ _tdb: _tdb:CoSn-19Jed.tdb:COSN3_LT
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-018-0687-3](https://doi.org/10.1007/s11669-018-0687-3) V. Jedličková, A. Zemanová, A. Kroupa, The Thermodynamic Assessment of the Co-Sn System, J. Phase Equilib. Diffus. 40, 21-33 (2019).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Co–Sn)
 

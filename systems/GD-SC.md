@@ -1,10 +1,10 @@
 # Gd–Sc system
 
-> Gd–Sc system: 4 accepted literature values (phase transition 2, mixing / partial 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Sc system: 6 accepted literature values (mixing / partial 4, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-SC.html · Markdown: https://data.orchid-project.org/systems/GD-SC.md
 
-4 accepted literature values from 1 paper(s) (experimental 2, model 2); 2 calculated phase diagram(s).
+6 accepted literature values from 1 paper(s) (experimental 2, model 4); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-SC.json) · [CSV](https://data.orchid-project.org/systems/GD-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-SC/GdSc-00Nor.json) · [phases (4)](https://data.orchid-project.org/phases/pages/GD-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-SC.html) · [Markdown](https://data.orchid-project.org/systems/GD-SC.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 2 |
-| model | 2 |
+| model | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
-| mixing / partial | 2 |
+| mixing / partial | 4 |
 
 ## Calculated phase diagrams
 
@@ -46,7 +46,7 @@ Table: Phase transition, Gd–Sc system
 | Phase transition | 1398.15 K | 1398.15 |  | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
 | Phase transition | 1548.15 K | 1548.15 | other | experimental | [1] Wang 2015; _cites Beaudry 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990129-8) | p. 1 | “Based on thermal analysis, optical pyrometer and x-ray diffraction methods, the phase diagram in the Sc-Gd system was measured by Beaudry and Daane,\[12\] who indicated the minimum solidus at 35 at.% Sc and 1275 °C, and the minimum transition temperature from the hcp phase to the bcc phase at 45 at.% Sc and 1125 °C.” |
 
-### Mixing / partial (2)
+### Mixing / partial (4)
 
 Table: Mixing / partial, Gd–Sc system
 
@@ -54,6 +54,8 @@ Table: Mixing / partial, Gd–Sc system
 |---|---:|---:|---|---|---|---|---|
 | Enthalpy of mixing; _printed: enthalpies of mixing_ | 1 kJ/mol (basis unstated) | 1873.15 |  | model | [1] Wang 2015; _cites F 1988_ | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
 | Enthalpy of mixing; _printed: enthalpies of mixing_ | 0.993 kJ/mol (basis unstated) | 1873.15 |  | model | [1] Wang 2015 | p. 3 | “The calculated enthalpies of mixing of the liquid phase at 1600 °C with reference states of pure Sc (liquid) and Gd (liquid) is shown in Fig. 4, and the calculated value at 50 at.% Sc is 0.993 kJ/mol, which shows good agreement with the predicted values of 1 kJ/mol.\[5\]” |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.993 kJ/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 4 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 1873.15 | liquid; _alloy: Gd 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 3 |  |
 
 ## Sources
 

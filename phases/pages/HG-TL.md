@@ -14,7 +14,7 @@ Table: Phases of the Hg–Tl system (5)
 |---|---|---|---|---:|---:|
 | [RHOMBO_A10](#phase-hg-tl-a10-rhombo); _phase:hg-tl:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [BCC_A2](#phase-hg-tl-bcc-a2); _phase:hg-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.67 K, x(Tl) 0.86457–1 | 1 | 1 |
-| [FCC_A1](#phase-hg-tl-fcc-a1); _phase:hg-tl:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 3 | 1 |
+| [FCC_A1](#phase-hg-tl-fcc-a1); _phase:hg-tl:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-hg-tl-hcp-a3); _phase:hg-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–515 K, x(Tl) 0.97178–1 | 0 | 1 |
 | [LIQUID](#phase-hg-tl-liquid); _phase:hg-tl:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(Tl) 0–1 | 3 | 1 |
 
@@ -82,11 +82,10 @@ _cited as the source of values for this phase_
 - Id: `phase:hg-tl:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hg-tl:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:hg-tl:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2006.07.006:Hg5Tl2, paper:10.1016/j.calphad.2006.07.006:γ  
+Names (2): _corpus: _corpus:phase:hg-tl:fcc-a1  
 _tdb: _tdb:HgTl-06Gie.tdb:FCC_A1  
 
 
@@ -99,14 +98,10 @@ _tdb: _tdb:HgTl-06Gie.tdb:FCC_A1
 29: CONST FCC_A1 : HG TL : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2006.07.006](https://doi.org/10.1016/j.calphad.2006.07.006) W. Gierlotka, J. Sopousek, K. Fitzner, Thermodynamic assessment of the Hg–Tl system, Calphad 30, 425-430 (2006).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0001-6160(73)90195-8](https://doi.org/10.1016/0001-6160%2873%2990195-8) P.W Richter, C.W.F.T Pistorius, The system Hg-Tl to high pressures, Acta Metallurgica 21, 391-394 (1973).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0022-5088(80)90270-2](https://doi.org/10.1016/0022-5088%2880%2990270-2) Y. Claire, J. Rey, Diagrammes de phases du système mercure-thallium, Journal of the Less Common Metals 70, 33-38 (1980).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## HCP_A3 (Hg–Tl)
 

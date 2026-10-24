@@ -141,7 +141,7 @@
     "MN": 1519,
     "SI": 1687
    },
-   "highest_literature_liquid_T_K": 1687.0,
+   "highest_literature_liquid_T_K": 1573.15,
    "highest_assessed_liquid_two_phase_T_K": 1525.512103,
    "lowest_boiling_point_K": 2334,
    "margin_K": 50.0

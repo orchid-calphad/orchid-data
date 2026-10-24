@@ -23,7 +23,7 @@ Table: Phases of the Pd–Sb system (13)
 | [PD5SB2](#phase-pd-sb-pd5sb2); _phase:pd-sb:pd5sb2_ | Pd5Sb2 · hP42 · P6_3cm (185) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1402.07 K, x(Sb) 0.28571–0.28571 | 8 | 1 |
 | [PD5SB3](#phase-pd-sb-pd5sb3); _phase:pd-sb:pd5sb3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 848.24–1108.95 K, x(Sb) 0.35424–0.37534 | 8 | 1 |
 | [PD8SB3](#phase-pd-sb-pd8sb3); _phase:pd-sb:pd8sb3_ | In3Yb8 · hR44 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1383.18 K, x(Sb) 0.27273–0.27273 | 4 | 1 |
-| [PDSB_B81](#phase-pd-sb-pdsb-b81); _phase:pd-sb:pdsb-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1067.11 K, x(Sb) 0.5–0.5 | 10 | 1 |
+| [PDSB_B81](#phase-pd-sb-pdsb-b81); _phase:pd-sb:pdsb-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1067.11 K, x(Sb) 0.5–0.5 | 8 | 1 |
 | [PDSB2_C2](#phase-pd-sb-pdsb2-c2); _phase:pd-sb:pdsb2-c2_ | beta-FeS2 · C2 · cP12 · Pa-3 (205) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–951.6 K, x(Sb) 0.66667–0.66667 | 2 | 1 |
 
 ## RHOMBOHEDRAL_A7 (Pd–Sb)
@@ -368,7 +368,7 @@ _cited as the source of values for this phase_
 - Structure: NiAs · B8_1 · hP4 · P6_3/mmc (194); type `st:b8-1-nias-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: Pd 0.5000, Sb 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1067.11 K, x(Sb) 0.5–0.5
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sb:pdsb-b81)
 
 Names (3): _corpus: _corpus:phase:pd-sb:pdsb-b81  

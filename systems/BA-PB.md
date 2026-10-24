@@ -1,10 +1,10 @@
 # Ba–Pb system
 
-> Ba–Pb system: 85 accepted literature values (invariant reaction 30, formation 27, phase transition 22, heat capacity / entropy / enthalpy 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ba–Pb system: 77 accepted literature values (invariant reaction 30, formation 27, phase transition 20) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BA-PB.html · Markdown: https://data.orchid-project.org/systems/BA-PB.md
 
-85 accepted literature values from 1 paper(s) (experimental 24, model 61); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+77 accepted literature values from 1 paper(s) (experimental 22, model 55); 1 calculated phase diagram(s). 6 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BA-PB.json) · [CSV](https://data.orchid-project.org/systems/BA-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BA-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BA-PB/BaPb-07Idb.json) · [phases (11)](https://data.orchid-project.org/phases/pages/BA-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BA-PB.html) · [Markdown](https://data.orchid-project.org/systems/BA-PB.md)
 
@@ -12,17 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 61 |
+| experimental | 22 |
+| model | 55 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 30 |
-| phase transition | 22 |
+| phase transition | 20 |
 | formation | 27 |
-| heat capacity / entropy / enthalpy | 6 |
 
 ## Calculated phase diagrams
 
@@ -95,44 +94,42 @@ Table: Enthalpies of formation, Ba–Pb system (27)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ba0.25Pb0.75 | [Ba0.25Pb0.75](https://data.orchid-project.org/compounds/Ba0.25Pb0.75.html) | -49.434 kJ/mol-atom | 300 | model | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007 | Table 5, p. 9, row 27 |  |
-| Ba0.25Pb0.75 | [Ba0.25Pb0.75](https://data.orchid-project.org/compounds/Ba0.25Pb0.75.html) | -47.202 kJ/mol-atom | 300 | model | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007 | Table 5, p. 9, row 29 |  |
-| Ba0.25Pb0.75 | [Ba0.25Pb0.75](https://data.orchid-project.org/compounds/Ba0.25Pb0.75.html) | -46 kJ/mol-atom ± 2 | 300 | experimental | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 28 |  |
-| Ba0.25Pb0.75 | [Ba0.25Pb0.75](https://data.orchid-project.org/compounds/Ba0.25Pb0.75.html) | -44 kJ/mol-atom ± 2 | 300 | experimental | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 30 |  |
+| Ba0.25Pb0.75 | [BaPb3](https://data.orchid-project.org/compounds/BaPb3.html) | -49.434 kJ/mol-atom | 300 | model | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007 | Table 5, p. 9, row 27 |  |
+| Ba0.25Pb0.75 | [BaPb3](https://data.orchid-project.org/compounds/BaPb3.html) | -47.202 kJ/mol-atom | 300 | model | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007 | Table 5, p. 9, row 29 |  |
+| Ba0.25Pb0.75 | [BaPb3](https://data.orchid-project.org/compounds/BaPb3.html) | -46 kJ/mol-atom ± 2 | 300 | experimental | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 28 |  |
+| Ba0.25Pb0.75 | [BaPb3](https://data.orchid-project.org/compounds/BaPb3.html) | -44 kJ/mol-atom ± 2 | 300 | experimental | -35.948 (mp-aaaabfsw) | -35.568 (oqmd-10854) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 30 |  |
 | Ba0.425Pb0.575 |  | -68.449 kJ/mol-atom | 300 | model |  |  | [1] Idbenali 2007 | Table 5, p. 9, row 16 |  |
 | Ba0.425Pb0.575 |  | -67.7 kJ/mol-atom ± 2 | 300 | experimental |  |  | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 17 |  |
 | Ba0.425Pb0.575 |  | -65.055 kJ/mol-atom | 300 | model |  |  | [1] Idbenali 2007 | Table 5, p. 9, row 18 |  |
-| Ba0.5Pb0.5 | [Ba0.5Pb0.5](https://data.orchid-project.org/compounds/Ba0.5Pb0.5.html) | -101 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites F 2007_ | Table 5, p. 9, row 13 |  |
-| Ba0.5Pb0.5 | [Ba0.5Pb0.5](https://data.orchid-project.org/compounds/Ba0.5Pb0.5.html) | -76.223 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007 | Table 5, p. 9, row 11 |  |
-| Ba0.5Pb0.5 | [Ba0.5Pb0.5](https://data.orchid-project.org/compounds/Ba0.5Pb0.5.html) | -75.3 kJ/mol-atom ± 12 | 300 | experimental | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 15 |  |
-| Ba0.5Pb0.5 | [Ba0.5Pb0.5](https://data.orchid-project.org/compounds/Ba0.5Pb0.5.html) | -74.454 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007 | Table 5, p. 9, row 14 |  |
-| Ba0.5Pb0.5 | [Ba0.5Pb0.5](https://data.orchid-project.org/compounds/Ba0.5Pb0.5.html) | -73 kJ/mol-atom ± 2 | 300 | experimental | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 12 |  |
-| Ba0.625Pb0.375 | [Ba0.625Pb0.375](https://data.orchid-project.org/compounds/Ba0.625Pb0.375.html) | -69 kJ/mol-atom ± 2 | 300 | experimental | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 7 |  |
-| Ba0.625Pb0.375 | [Ba0.625Pb0.375](https://data.orchid-project.org/compounds/Ba0.625Pb0.375.html) | -68.993 kJ/mol-atom | 300 | model | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007 | Table 5, p. 9, row 6 |  |
-| Ba0.625Pb0.375 | [Ba0.625Pb0.375](https://data.orchid-project.org/compounds/Ba0.625Pb0.375.html) | -68.54 kJ/mol-atom | 300 | model | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007 | Table 5, p. 9, row 5 |  |
-| Ba0.6667Pb0.3333 | [Ba0.6667Pb0.3333](https://data.orchid-project.org/compounds/Ba0.6667Pb0.3333.html) | -96 kJ/mol-atom ± 12 | 300 | experimental | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 4 |  |
-| Ba0.6667Pb0.3333 | [Ba0.6667Pb0.3333](https://data.orchid-project.org/compounds/Ba0.6667Pb0.3333.html) | -67.814 kJ/mol-atom | 300 | model | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007 | Table 5, p. 9, row 3 |  |
-| Ba0.6667Pb0.3333 | [Ba0.6667Pb0.3333](https://data.orchid-project.org/compounds/Ba0.6667Pb0.3333.html) | -67 kJ/mol-atom ± 2 | 300 | experimental | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 2 |  |
-| Ba0.6667Pb0.3333 | [Ba0.6667Pb0.3333](https://data.orchid-project.org/compounds/Ba0.6667Pb0.3333.html) | -64.24 kJ/mol-atom | 300 | model | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007 | Table 5, p. 9, row 1 |  |
-| αBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -62.811 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 25 |  |
-| αBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -62.709 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 23 |  |
-| αBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -60 kJ/mol-atom ± 2 | 300 | experimental | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24 |  |
-| αBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -59.844 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 26 |  |
-| βBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -62.809 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 21 |  |
-| βBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -62.708 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 19 |  |
-| βBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -60 kJ/mol-atom ± 2 | 300 | experimental | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20 |  |
-| βBa0.375Pb0.625 | [Ba0.375Pb0.625](https://data.orchid-project.org/compounds/Ba0.375Pb0.625.html) | -59.843 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 22 |  |
+| Ba0.5Pb0.5 | [BaPb](https://data.orchid-project.org/compounds/BaPb.html) | -101 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites F 2007_ | Table 5, p. 9, row 13 |  |
+| Ba0.5Pb0.5 | [BaPb](https://data.orchid-project.org/compounds/BaPb.html) | -76.223 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007 | Table 5, p. 9, row 11 |  |
+| Ba0.5Pb0.5 | [BaPb](https://data.orchid-project.org/compounds/BaPb.html) | -75.3 kJ/mol-atom ± 12 | 300 | experimental | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 15 |  |
+| Ba0.5Pb0.5 | [BaPb](https://data.orchid-project.org/compounds/BaPb.html) | -74.454 kJ/mol-atom | 300 | model | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007 | Table 5, p. 9, row 14 |  |
+| Ba0.5Pb0.5 | [BaPb](https://data.orchid-project.org/compounds/BaPb.html) | -73 kJ/mol-atom ± 2 | 300 | experimental | -56.755 (mp-aaaabdum) | -56.392 (oqmd-10853) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 12 |  |
+| Ba0.625Pb0.375 | [Ba5Pb3](https://data.orchid-project.org/compounds/Ba5Pb3.html) | -69 kJ/mol-atom ± 2 | 300 | experimental | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 7 |  |
+| Ba0.625Pb0.375 | [Ba5Pb3](https://data.orchid-project.org/compounds/Ba5Pb3.html) | -68.993 kJ/mol-atom | 300 | model | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007 | Table 5, p. 9, row 6 |  |
+| Ba0.625Pb0.375 | [Ba5Pb3](https://data.orchid-project.org/compounds/Ba5Pb3.html) | -68.54 kJ/mol-atom | 300 | model | -51.899 (mp-aaabjkhe) | -51.776 (oqmd-10856) | [1] Idbenali 2007 | Table 5, p. 9, row 5 |  |
+| Ba0.6667Pb0.3333 | [Ba2Pb](https://data.orchid-project.org/compounds/Ba2Pb.html) | -96 kJ/mol-atom ± 12 | 300 | experimental | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007; _cites Kubaschewski 1949_ | Table 5, p. 9, row 4 |  |
+| Ba0.6667Pb0.3333 | [Ba2Pb](https://data.orchid-project.org/compounds/Ba2Pb.html) | -67.814 kJ/mol-atom | 300 | model | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007 | Table 5, p. 9, row 3 |  |
+| Ba0.6667Pb0.3333 | [Ba2Pb](https://data.orchid-project.org/compounds/Ba2Pb.html) | -67 kJ/mol-atom ± 2 | 300 | experimental | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 2 |  |
+| Ba0.6667Pb0.3333 | [Ba2Pb](https://data.orchid-project.org/compounds/Ba2Pb.html) | -64.24 kJ/mol-atom | 300 | model | -52.226 (mp-aaaabfle) | -52.132 (oqmd-10855) | [1] Idbenali 2007 | Table 5, p. 9, row 1 |  |
+| αBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -62.811 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 25 |  |
+| αBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -62.709 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 23 |  |
+| αBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -60 kJ/mol-atom ± 2 | 300 | experimental | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 24 |  |
+| αBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -59.844 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 26 |  |
+| βBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -62.809 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 21 |  |
+| βBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -62.708 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 19 |  |
+| βBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -60 kJ/mol-atom ± 2 | 300 | experimental | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 20 |  |
+| βBa0.375Pb0.625 | [Ba3Pb5](https://data.orchid-project.org/compounds/Ba3Pb5.html) | -59.843 kJ/mol-atom | 300 | model | -48.835 (mp-aaabjxih) | -48.642 (oqmd-20937) | [1] Idbenali 2007 | Table 5, p. 9, row 22 |  |
 
 ## Other properties
 
-### Phase transition (22)
+### Phase transition (20)
 
 Table: Phase transition, Ba–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 562.95 K | 562.95 | (Pb); _(Pb): Pb 0.9578_ | model | [1] Idbenali 2007 | Table 4, p. 8, row 2 |  |
-| Phase transition | 563.25 K | 563.25 | (Pb); _(Pb): Pb 0.958_ | model | [1] Idbenali 2007 | Table 4, p. 8, row 3 |  |
 | Phase transition | 876.35 K | 876.35 | congruent melting: Liq \<=> BaPb3; _Liq: Pb 0.75; BaPb3: Pb 0.75_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 38 |  |
 | Phase transition | 878.75 K | 878.75 | congruent melting: Liq \<=> BaPb3; _Liq: Pb 0.75; BaPb3: Pb 0.75_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 39 |  |
 | Phase transition | 879.75 K | 879.75 | congruent melting: Liq \<=> BaPb3; _Liq: Pb 0.75; BaPb3: Pb 0.75_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 40 |  |
@@ -153,19 +150,6 @@ Table: Phase transition, Ba–Pb system
 | Phase transition | 1243.15 K | 1243.15 | congruent transformation | experimental | [1] Idbenali 2007 | p. 1 | “For the Ba5 Pb3 and BaPb3 compounds, a congruent melting was determined respectively at 970 ◦ C and 610 ◦ C; for the Ba2 Pb, BaPb, and Ba3 Pb5 (α and β) compounds, a peritectic formation was reported, see Fig. 1.” |
 | Phase transition | 1244.15 K | 1244.15 | congruent melting: Liq \<=> Ba5Pb3; _Liq: Pb 0.375; Ba5Pb3: Pb 0.375_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 12 |  |
 | Phase transition | 1245.15 K | 1245.15 | congruent melting: Liq \<=> Ba5Pb3; _Liq: Pb 0.375; Ba5Pb3: Pb 0.375_ | model | [1] Idbenali 2007 | Table 4, p. 7, row 11 |  |
-
-### Heat capacity / entropy / enthalpy (6)
-
-Table: Heat capacity / entropy / enthalpy, Ba–Pb system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Heat content; _printed: enthalpy of melting_ | 12588 J/mol atom | 300 | Ba0.25Pb0.75; _alloy: Pb 0.75_ | model | [1] Idbenali 2007 | Table 5, p. 9, row 31 |  |
-| Heat content; _printed: enthalpy of melting_ | 16451 J/mol atom | 300 | Ba0.25Pb0.75; _alloy: Pb 0.75_ | model | [1] Idbenali 2007 | Table 5, p. 9, row 33 |  |
-| Heat content; _printed: enthalpy of melting_ | 13000 unknown ± 2000 | 300 | Ba0.25Pb0.75; _alloy: Pb 0.75_ | experimental | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 32 |  |
-| Heat content; _printed: enthalpy of melting_ | 12100 unknown ± 400 | 300 | Ba0.625Pb0.375; _alloy: Pb 0.375_ | experimental | [1] Idbenali 2007; _cites Conclusion_ | Table 5, p. 9, row 9 |  |
-| Heat content; _printed: enthalpy of melting_ | 11103 J/mol atom | 300 | Ba0.625Pb0.375; _alloy: Pb 0.375_ | model | [1] Idbenali 2007 | Table 5, p. 9, row 8 |  |
-| Heat content; _printed: enthalpy of melting_ | 32585 J/mol atom | 300 | Ba0.625Pb0.375; _alloy: Pb 0.375_ | model | [1] Idbenali 2007 | Table 5, p. 9, row 10 |  |
 
 ## Sources
 

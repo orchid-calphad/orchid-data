@@ -13,14 +13,14 @@ Table: Phases of the Fe–Ti system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_4SL](#phase-fe-ti-bcc-4sl); _phase:fe-ti:bcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1780 K, x(Ti) 0.04–0.96 | 12 | 1 |
-| [BCC_A2](#phase-fe-ti-bcc-a2); _phase:fe-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 15 of 25 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1 | 182 | 25 |
+| [BCC_A2](#phase-fe-ti-bcc-a2); _phase:fe-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1 | 182 | 25 |
 | [B2_BCC](#phase-fe-ti-bcc-b2); _phase:fe-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 7 of 8 calculated diagram(s): 300–2499.76 K, x(Ti) 0–1 | 63 | 8 |
-| [C14_LAVES](#phase-fe-ti-c14-laves); _phase:fe-ti:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 14 of 15 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128 | 107 | 15 |
+| [C14_LAVES](#phase-fe-ti-c14-laves); _phase:fe-ti:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 14 of 15 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128 | 106 | 15 |
 | [FCC_4SL](#phase-fe-ti-fcc-4sl); _phase:fe-ti:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1172.46–1686.08 K, x(Ti) 0–0.00879 | 0 | 1 |
-| [FCC_A1](#phase-fe-ti-fcc-a1); _phase:fe-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 15 of 17 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013 | 0 | 17 |
+| [FCC_A1](#phase-fe-ti-fcc-a1); _phase:fe-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013 | 0 | 17 |
 | [FE2TI_C14](#phase-fe-ti-fe2ti-c14); _phase:fe-ti:fe2ti-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1699.74 K, x(Ti) 0.26027–0.49993 | 41 | 3 |
 | [FETI_B2](#phase-fe-ti-feti-b2); _phase:fe-ti:feti-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1608.99 K, x(Ti) 0.49594–0.52103 | 99 | 7 |
-| [HCP_A3](#phase-fe-ti-hcp-a3); _phase:fe-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1 | 30 | 16 |
+| [HCP_A3](#phase-fe-ti-hcp-a3); _phase:fe-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 15 of 16 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1 | 28 | 16 |
 | [LIQUID](#phase-fe-ti-liquid); _phase:fe-ti:liquid_ | liquid | liquid | stable in 15 of 16 calculated diagram(s): 1335.77–2500 K, x(Ti) 0–1 | 256 | 16 |
 
 ## BCC_4SL (Fe–Ti)
@@ -67,12 +67,12 @@ _cited as the source of values for this phase_
 
 - Id: `phase:fe-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 15 of 25 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1
+- Stability: stable in 15 of 16 calculated diagram(s): 300–2499.94 K, x(Ti) 0–1
 - Literature: 182 values (182 accepted) from 8 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:bcc-a2)
 
-Names (42): _corpus: _corpus:phase:fe-ti:bcc-a2  
-_paper: _paper:10.1007/s11663-998-0113-z:Bcc, paper:10.1007/s11663-998-0113-z:Bcc(Fe), paper:10.1007/s11663-998-0113-z:Bcc(Ti), paper:10.1007/s11669-024-01124-9:β-Fe, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/0364-5916(94)90028-0:α, paper:10.1016/0364-5916(94)90028-0:ε, paper:10.1016/j.intermet.2020.106978:α-Fe, paper:10.1016/j.intermet.2020.106978:β-Ti, paper:10.1016/j.jallcom.2019.05.341:A2, paper:10.1016/j.matchemphys.2011.07.071:αFe, paper:10.1016/j.matchemphys.2011.07.071:βTi, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497198770341923:bcc, paper:10.1361/105497198770341923:bcc(Fe), paper:10.1361/105497198770341923:bcc(Ti)  
+Names (41): _corpus: _corpus:phase:fe-ti:bcc-a2  
+_paper: _paper:10.1007/s11663-998-0113-z:Bcc, paper:10.1007/s11663-998-0113-z:Bcc(Fe), paper:10.1007/s11663-998-0113-z:Bcc(Ti), paper:10.1007/s11669-024-01124-9:β-Fe, paper:10.1007/s11669-024-01124-9:β-Ti, paper:10.1016/0364-5916(94)90028-0:α, paper:10.1016/j.intermet.2020.106978:α-Fe, paper:10.1016/j.intermet.2020.106978:β-Ti, paper:10.1016/j.jallcom.2019.05.341:A2, paper:10.1016/j.matchemphys.2011.07.071:αFe, paper:10.1016/j.matchemphys.2011.07.071:βTi, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1361/105497198770341923:bcc, paper:10.1361/105497198770341923:bcc(Fe), paper:10.1361/105497198770341923:bcc(Ti)  
 _tdb: _tdb:FeTi-09Key.tdb:A2_BCC, tdb:FeTi-09Key.tdb:BCC_A2, tdb:FeTi-11Wan.tdb:BCC_A2, tdb:FeTi-12Bo.tdb:A2_BCC, tdb:FeTi-12Bo.tdb:BCC_A2, tdb:FeTi-12Guo.tdb:A2_BCC, tdb:FeTi-12Guo.tdb:BCC_A2, tdb:FeTi-19Wit.tdb:A2_BCC, tdb:FeTi-19Wit.tdb:BCC_A2, tdb:FeTi-21San.tdb:A2_BCC, tdb:FeTi-21San.tdb:BCC_A2, tdb:FeTi-21Zha.tdb:A2_BCC, tdb:FeTi-21Zha.tdb:BCC_A2, tdb:FeTi-22Kri.tdb:BCC_A2, tdb:FeTi-23Wal-3g.tdb:A2_BCC, tdb:FeTi-23Wal-3g.tdb:BCC_A2, tdb:FeTi-24Lia.tdb:A2_BCC, tdb:FeTi-24Lia.tdb:BCC_A2, tdb:FeTi-89Bal.tdb:BCC_A2, tdb:FeTi-94Har.tdb:BCC_A2, tdb:FeTi-98Dum.tdb:BCC_A2, tdb:FeTi-98Har-LB.tdb:A2_BCC, tdb:FeTi-98Har-LB.tdb:BCC_A2, tdb:FeTi-98Jon.tdb:BCC_A2, tdb:FeTi-98Ran.tdb:BCC_A2  
 
 
@@ -405,7 +405,7 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in FeTi-98Jon.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTi-98Ran.tdb also describes the disordered state
 - Stability: stable in 14 of 15 calculated diagram(s): 300–1735.31 K, x(Ti) 0.2589–0.4128
-- Literature: 107 values (107 accepted) from 6 papers
+- Literature: 106 values (106 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:c14-laves)
 
 Names (22): _corpus: _corpus:phase:fe-ti:c14-laves  
@@ -570,7 +570,7 @@ _tdb: _tdb:FeTi-09Key.tdb:FCC_4SL
 
 - Id: `phase:fe-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 15 of 17 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013
+- Stability: stable in 15 of 16 calculated diagram(s): 939.83–1804.83 K, x(Ti) 0–0.01013
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:fcc-a1)
 
@@ -863,11 +863,11 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-ti:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 15 of 16 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99925–1
-- Literature: 30 values (30 accepted) from 8 papers
+- Literature: 28 values (28 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ti:hcp-a3)
 
-Names (25): _corpus: _corpus:phase:fe-ti:hcp-a3  
-_paper: _paper:10.1007/s11663-998-0113-z:Hcp(Ti), paper:10.1007/s11669-024-01124-9:α-Ti, paper:10.1016/j.intermet.2020.106978:α-Ti, paper:10.1016/j.jallcom.2019.05.341:A3, paper:10.1016/j.matchemphys.2011.07.071:αTi, paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1016/s1003-6326(11)61450-7:HCP_Ti, paper:10.1361/105497198770341923:cph(Ti)  
+Names (24): _corpus: _corpus:phase:fe-ti:hcp-a3  
+_paper: _paper:10.1007/s11663-998-0113-z:Hcp(Ti), paper:10.1016/j.intermet.2020.106978:α-Ti, paper:10.1016/j.jallcom.2019.05.341:A3, paper:10.1016/j.matchemphys.2011.07.071:αTi, paper:10.1016/s0364-5916(98)00037-6:hcp-A3, paper:10.1016/s1003-6326(11)61450-7:HCP_Ti, paper:10.1361/105497198770341923:cph(Ti)  
 _tdb: _tdb:FeTi-09Key.tdb:HCP_A3, tdb:FeTi-11Wan.tdb:HCP_A3, tdb:FeTi-12Bo.tdb:HCP_A3, tdb:FeTi-12Guo.tdb:HCP_A3, tdb:FeTi-19Wit.tdb:HCP_A3, tdb:FeTi-21San.tdb:HCP_A3, tdb:FeTi-21Zha.tdb:HCP_A3, tdb:FeTi-22Kri.tdb:HCP_A3, tdb:FeTi-23Wal-3g.tdb:HCP_A3, tdb:FeTi-24Lia.tdb:HCP_A3, tdb:FeTi-89Bal.tdb:HCP_A3, tdb:FeTi-94Har.tdb:HCP_A3, tdb:FeTi-98Dum.tdb:HCP_A3, tdb:FeTi-98Har-LB.tdb:HCP_A3, tdb:FeTi-98Jon.tdb:HCP_A3, tdb:FeTi-98Ran.tdb:HCP_A3  
 
 
@@ -1001,11 +1001,11 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.intermet.2020.106978](https://doi.org/10.1016/j.intermet.2020.106978) K. Santhy, K.C. Hari Kumar, Thermodynamic modelling of magnetic laves phase in Fe–Ti system using first principle method, Intermetallics 128, 106978 (2021).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9) Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2012.06.010](https://doi.org/10.1016/j.calphad.2012.06.010) Cuiping Guo, Changrong Li, Xiang Zheng, Zhenmin Du, Thermodynamic modeling of the Fe–Ti–V system, Calphad 38, 155-160 (2012).  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11669-021-00889-7](https://doi.org/10.1007/s11669-021-00889-7) G. Zhang, W. Zheng, Z. Zhao, Y. He, Z. Zheng, D. Tang, J. Phase Equilib. Diffus., 42, 363-72(2021).  
+_assessment that models this phase_
+- [doi:10.1007/s11669-024-01124-9](https://doi.org/10.1007/s11669-024-01124-9) Zhi Liang, Ursula Kattner, Kamal Choudharry, Francesca Tavazza, Carelyn Campbell, Thermodynamic Assessments of Ti-Al, Ti-Fe, and Ti-Al-Fe Systems with Four-Sublattice Description of Ordered Body-Centered Cubic Phase and Density Functional Theory Data, J. Phase Equilib. Diffus. 45, 732-756 (2024).  
 _assessment that models this phase_
 
 ## LIQUID (Fe–Ti)

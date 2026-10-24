@@ -16,11 +16,11 @@ Table: Phases of the Al–B system (9)
 | [ALB12_ALPHA](#phase-al-b-alb12-alpha); _phase:al-b:alb12-alpha_ | alpha-AlB12 · tP216 · P4_12_12 (92) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–2367.09 K, x(B) 0.92308–0.92308 | 10 | 5 |
 | [ALB12_BETA](#phase-al-b-alb12-beta); _phase:al-b:alb12-beta_ | beta-AlB12 · oP384 · P2_12_12_1 (19) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1826.25–2448.45 K, x(B) 0.92308–0.92308 | 0 | 1 |
 | [ALB2_C32](#phase-al-b-alb2-c32); _phase:al-b:alb2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1303.12 K, x(B) 0.66667–0.66667 | 13 | 5 |
-| [BETA_RHOMBO_B](#phase-al-b-b-beta-rhombo); _phase:al-b:b-beta-rhombo_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3999.88 K, x(B) 0.97485–1 | 6 | 5 |
+| [BETA_RHOMBO_B](#phase-al-b-b-beta-rhombo); _phase:al-b:b-beta-rhombo_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–3999.88 K, x(B) 0.97485–1 | 4 | 5 |
 | [BCC_A2](#phase-al-b-bcc-a2); _phase:al-b:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [FCC_A1](#phase-al-b-fcc-a1); _phase:al-b:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–935.04 K, x(B) 0–0.0031 | 10 | 5 |
 | [HCP_A3](#phase-al-b-hcp-a3); _phase:al-b:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
-| [LIQUID](#phase-al-b-liquid); _phase:al-b:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 932.64–4000 K, x(B) 0–1 | 20 | 5 |
+| [LIQUID](#phase-al-b-liquid); _phase:al-b:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 932.64–4000 K, x(B) 0–1 | 18 | 5 |
 
 ## AL2B3 (Al–B)
 
@@ -225,7 +225,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — AlB-98Luk.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — AlB-99Cam.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Stability: stable in 5 of 5 calculated diagram(s): 300–3999.88 K, x(B) 0.97485–1
-- Literature: 6 values (6 accepted) from 3 papers
+- Literature: 4 values (4 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:b-beta-rhombo)
 
 Names (10): _corpus: _corpus:phase:al-b:b-beta-rhombo, corpus:phase:al-b:beta-rhombo-b  
@@ -270,7 +270,7 @@ _tdb: _tdb:AlB-01Luk-LB.tdb:BETA_RHOMBO_B, tdb:AlB-04Mir.tdb:BETA_RHOMBO_B, tdb:
 46: CONST BETA_RHOMBO_B : AL B% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase; reports values for this phase_
@@ -279,10 +279,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2015.07.001](https://doi.org/10.1016/j.calphad.2015.07.001) W. Wang, Z. Fu, T. Liu, W. Zhang, Calphad, 51, 24-34(2015).  
 _assessment that models this phase_
 - [doi:10.1007/bf02649415](https://doi.org/10.1007/bf02649415) H. Duschanek, P. Rogl, The Al-B (aluminum-boron) system, JPE 15, 543-552 (1994).  
-_cited as the source of values for this phase_
-- [doi:10.1007/bf02841717](https://doi.org/10.1007/bf02841717) O.N. Carlson, The Al-B System, Bull. Alloy Phase Diagrams, Vol 11, 1990, p 560-566 496  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
@@ -477,7 +473,7 @@ _assessment that models this phase_
 - Id: `phase:al-b:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 932.64–4000 K, x(B) 0–1
-- Literature: 20 values (20 accepted) from 3 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-b:liquid)
 
 Names (9): _corpus: _corpus:phase:al-b:liquid  

@@ -16,11 +16,11 @@ Table: Phases of the Ge–Pt system (11)
 | [BCC_A2](#phase-ge-pt-bcc-a2); _phase:ge-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-ge-pt-fcc-a1); _phase:ge-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2498.99 K, x(Pt) 0.94883–1 | 3 | 1 |
 | [GE2PT_C18](#phase-ge-pt-ge2pt-c18); _phase:ge-pt:ge2pt-c18_ | alpha-FeS2 · C18 · oP6 · Pnnm (58) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1102.39 K, x(Pt) 0.33333–0.33333 | 6 | 1 |
-| [GE2PT3](#phase-ge-pt-ge2pt3); _phase:ge-pt:ge2pt3_ | Ge2Pt3 · oP40 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1075.23 K, x(Pt) 0.6–0.6 | 8 | 1 |
-| [GE3PT2](#phase-ge-pt-ge3pt2); _phase:ge-pt:ge3pt2_ | Ge3Pt2 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1151.04 K, x(Pt) 0.4–0.4 | 6 | 1 |
+| [GE2PT3](#phase-ge-pt-ge2pt3); _phase:ge-pt:ge2pt3_ | Ge2Pt3 · oP40 · Pnma (62) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1075.23 K, x(Pt) 0.6–0.6 | 11 | 1 |
+| [GE3PT2](#phase-ge-pt-ge3pt2); _phase:ge-pt:ge3pt2_ | Ge3Pt2 · oP20 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1151.04 K, x(Pt) 0.4–0.4 | 9 | 1 |
 | [GEPT_B31](#phase-ge-pt-gept-b31); _phase:ge-pt:gept-b31_ | MnP · B31 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1340.02 K, x(Pt) 0.5–0.5 | 9 | 1 |
 | [GEPT2_C22](#phase-ge-pt-gept2-c22); _phase:ge-pt:gept2-c22_ | Fe2P · C22 · hP9 · P-62m (189) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1064.21 K, x(Pt) 0.66667–0.66667 | 3 | 1 |
-| [GEPT3](#phase-ge-pt-gept3); _phase:ge-pt:gept3_ | GePt3 · mC16 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907 | 5 | 1 |
+| [GEPT3](#phase-ge-pt-gept3); _phase:ge-pt:gept3_ | GePt3 · mC16 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907 | 8 | 1 |
 | [HCP_A3](#phase-ge-pt-hcp-a3); _phase:ge-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ge-pt-liquid); _phase:ge-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1052.95–2500 K, x(Pt) 0–1 | 23 | 1 |
 
@@ -151,7 +151,7 @@ _cited as the source of values for this phase_
 - Structure: Ge2Pt3 · oP40 · Pnma (62); type `st:ge2pt3-op40`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ge 0.4000, Pt 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1075.23 K, x(Pt) 0.6–0.6
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-pt:ge2pt3)
 
 Names (5): _corpus: _corpus:phase:ge-pt:ge2pt3  
@@ -170,13 +170,15 @@ _tdb: _tdb:GePt-09Wan.tdb:GE2PT3
 62: CONST GE2PT3 : GE : PT : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1103/physrevb.54.11169](https://doi.org/10.1103/physrevb.54.11169) G. Kresse, J. Furthmüller, Efficient iterative schemes for \<i>ab initio\</i> total-energy calculations using a plane-wave basis set, Phys. Rev. B 54, 11169-11186 (1996).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.molcata.2004.09.050](https://doi.org/10.1016/j.molcata.2004.09.050) Yraida Diaz, Luis Melo, Marta Mediavilla, Alberto Albornoz, Joaquín L. Brito, Characterization of bifunctional Pt/H\[Ga\]ZSM5 and Pt/H\[Al\]ZSM5 catalysts, Journal of Molecular Catalysis A: Chemical 227, 7-15 (2005).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(91)90038-w](https://doi.org/10.1016/0925-8388%2891%2990038-w) Woo-Gwang Jung, O.J. Kleppa, Standard molar enthalpies of formation of Hf3Ge2, MeGe (Me = Ir, Pt) and Pt2Ge, Journal of Alloys and Compounds 176, 301-308 (1991).  
 _cited as the source of values for this phase_
 
 ## GE3PT2 (Ge–Pt)
@@ -187,7 +189,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_7_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.6000, Pt 0.4000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1151.04 K, x(Pt) 0.4–0.4
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-pt:ge3pt2)
 
 Names (3): _corpus: _corpus:phase:ge-pt:ge3pt2  
@@ -204,13 +206,15 @@ _tdb: _tdb:GePt-09Wan.tdb:GE3PT2
 52: CONST GE3PT2 : GE : PT : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.molcata.2004.09.050](https://doi.org/10.1016/j.molcata.2004.09.050) Yraida Diaz, Luis Melo, Marta Mediavilla, Alberto Albornoz, Joaquín L. Brito, Characterization of bifunctional Pt/H\[Ga\]ZSM5 and Pt/H\[Al\]ZSM5 catalysts, Journal of Molecular Catalysis A: Chemical 227, 7-15 (2005).  
 _cited as the source of values for this phase_
 - [doi:10.1103/physrevb.54.11169](https://doi.org/10.1103/physrevb.54.11169) G. Kresse, J. Furthmüller, Efficient iterative schemes for \<i>ab initio\</i> total-energy calculations using a plane-wave basis set, Phys. Rev. B 54, 11169-11186 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(93)90056-s](https://doi.org/10.1016/0925-8388%2893%2990056-s) Rachid Lbibb, Robert Castanet, Calorimetric determination of the enthalpies of formation of the solid compounds of the PtGe system, Journal of Alloys and Compounds 191, L13-L15 (1993).  
 _cited as the source of values for this phase_
 
 ## GEPT_B31 (Ge–Pt)
@@ -287,7 +291,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1222.52 K, x(Pt) 0.75604–0.77907
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-pt:gept3)
 
 Names (3): _corpus: _corpus:phase:ge-pt:gept3  
@@ -304,11 +308,13 @@ _tdb: _tdb:GePt-09Wan.tdb:GEPT3
 72: CONST GEPT3 : GE% PT : PT : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.05.002](https://doi.org/10.1016/j.calphad.2009.05.002) J.S. Wang, S. Jin, W.J. Zhu, H.Q. Dong, X.M. Tao, H.S. Liu et al., First-principles calculations assisted thermodynamic assessment of the Pt–Ga–Ge ternary system, Calphad 33, 561-569 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1103/physrevb.54.11169](https://doi.org/10.1103/physrevb.54.11169) G. Kresse, J. Furthmüller, Efficient iterative schemes for \<i>ab initio\</i> total-energy calculations using a plane-wave basis set, Phys. Rev. B 54, 11169-11186 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0925-8388(93)90056-s](https://doi.org/10.1016/0925-8388%2893%2990056-s) Rachid Lbibb, Robert Castanet, Calorimetric determination of the enthalpies of formation of the solid compounds of the PtGe system, Journal of Alloys and Compounds 191, L13-L15 (1993).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.molcata.2004.09.050](https://doi.org/10.1016/j.molcata.2004.09.050) Yraida Diaz, Luis Melo, Marta Mediavilla, Alberto Albornoz, Joaquín L. Brito, Characterization of bifunctional Pt/H\[Ga\]ZSM5 and Pt/H\[Al\]ZSM5 catalysts, Journal of Molecular Catalysis A: Chemical 227, 7-15 (2005).  
 _cited as the source of values for this phase_

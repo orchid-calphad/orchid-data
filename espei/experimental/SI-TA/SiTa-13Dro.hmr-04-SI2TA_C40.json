@@ -67,7 +67,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 2500.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 2000.0,
      "sigma_composition": null,
      "sigma_scatter": null,

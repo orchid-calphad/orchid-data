@@ -1,0 +1,129 @@
+{
+ "components": [
+  "BI",
+  "GD",
+  "VA"
+ ],
+ "phases": [
+  "BI3GD4_D73"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   4.0
+  ],
+  "sublattice_configurations": [
+   [
+    "BI",
+    "GD"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -78210.1
+   ]
+  ]
+ ],
+ "reference": "Wang 2013, doi:10.1016/j.calphad.2013.01.003",
+ "bibtex": "wang2013_668370",
+ "weight": [
+  0.060031
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid",
+  "orchid_caveat"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB BiGd-13Wan.tdb (sha256 deb2422aa42efa6ff0f9e1b807d14a4a0584f57aa3b54519f61624b34bd5b23a), phase BI3GD4_D73. Ids, in value order: ORC-E3QKWSRJV5. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "BiGd-13Wan.tdb",
+   "path": "databases/sgte-binary/BiGd-13Wan.tdb",
+   "sha256": "deb2422aa42efa6ff0f9e1b807d14a4a0584f57aa3b54519f61624b34bd5b23a",
+   "phase": "BI3GD4_D73"
+  },
+  "registry_phase": "phase:bi-gd:bi3gd4-d73",
+  "mapping": [
+   {
+    "id": "ORC-E3QKWSRJV5",
+    "compound": "Bi3Gd4",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null,
+    "caveats": [
+     "system_mismatch",
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.01.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.01.003"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 8329.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "BI-GD",
+     "n": 238,
+     "sigma_robust_kJ": 8.329,
+     "bias_median_kJ_not_applied": 1.05,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.060031,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -78.2101,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-E3QKWSRJV5",
+    "compound": "Bi3Gd4",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 8329.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 8329.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 238,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|BI-GD"
+    }
+   }
+  ]
+ }
+}

@@ -1,10 +1,10 @@
 # Dy–Te system
 
-> Dy–Te system: 4 accepted literature values (phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Te system: 22 accepted literature values (crystal structure 15, phase transition 4, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-TE.html · Markdown: https://data.orchid-project.org/systems/DY-TE.md
 
-4 accepted literature values from 1 paper(s) (experimental 4); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 20, model 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-TE.json) · [CSV](https://data.orchid-project.org/systems/DY-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-TE/DyTe-23Cui.json) · [phases (10)](https://data.orchid-project.org/phases/pages/DY-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-TE.html) · [Markdown](https://data.orchid-project.org/systems/DY-TE.md)
 
@@ -12,13 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
+| experimental | 20 |
+| model | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| invariant reaction | 3 |
 | phase transition | 4 |
+| crystal structure | 15 |
 
 ## Calculated phase diagrams
 
@@ -50,6 +53,16 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/DY/DY-TE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/DY/DY-TE.json)
 
+## Invariant reactions (literature)
+
+Table: Invariant reactions reported in the literature for the Dy–Te system (3)
+
+| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
+|---:|---|---|---|---|---|---|
+| 1343 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 3, p. 7, row 21 |  |
+| 1342 | Dy2Te -> hcp(Dy) + DyTe | Dy2Te: Te 0.33; hcp(Dy): Te 0; DyTe: Te 0.5 | model | [1] Cui 2023 | Table 3, p. 7, row 22 |  |
+| 723 | Liquid -> Dy4Te11 + hex(Te) | Liquid: Te 1; Dy4Te11: Te 0.733; hex(Te): Te 1 | model | [1] Cui 2023 | Table 3, p. 7, row 34 |  |
+
 ## Other properties
 
 ### Phase transition (4)
@@ -62,6 +75,28 @@ Table: Phase transition, Dy–Te system
 | Phase transition | 1343 K | 1343 | other: Dy2Te -> DyTe + hcp(Dy) | experimental | [1] Cui 2023 | p. 8 | “According to the experimental data, Dy2Te decomposes into DyTe and hcp(Dy) above about 1343 K, which is also reflected by our calculated results.” |
 | Phase transition | 1846 K | 1846 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
 | Phase transition | 2123 K | 2123 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | p. 3 | “According to the measured phase diagram, there are two congruent melting compounds in the Dy-Te binary system: DyTe and Dy2Te3, which melt at 2123 and 1846 K, respectively.” |
+
+### Crystal structure (15)
+
+Table: Crystal structure, Dy–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 21.922 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
+| Lattice a | 12.2 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
+| Lattice a | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
+| Lattice a | 4.274 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
+| Lattice a | 4.304 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
+| Lattice a | 6.077 Å | 298.15 | DyTe; _alloy: Te 0.5_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 14 |  |
+| Lattice b | 4.65 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
+| Lattice b | 8.645 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
+| Lattice b | 4.298 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
+| Lattice b | 4.301 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
+| Lattice c | 11.428 Å | 298.15 | Dy2Te; _alloy: Te 0.333333_ | experimental | [1] Cui 2023; _cites Herle 2001_ | Table 1, p. 2, row 13 |  |
+| Lattice c | 25.85 Å | 298.15 | Dy2Te3; _alloy: Te 0.6_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 15 |  |
+| Lattice c | 25.42 Å | 298.15 | Dy4Te11; _alloy: Te 0.733333_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 18 |  |
+| Lattice c | 8.917 Å | 298.15 | Dy4Te7; _alloy: Te 0.636364_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 16 |  |
+| Lattice c | 43.2 Å | 298.15 | Dy4Te9; _alloy: Te 0.692308_ | experimental | [1] Cui 2023; _cites Abrikosov 1970_ | Table 1, p. 2, row 17 |  |
 
 ## Sources
 

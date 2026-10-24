@@ -1,10 +1,10 @@
 # Gd–Te system
 
-> Gd–Te system: 2 accepted literature values (phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Te system: 16 accepted literature values (crystal structure 14, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-TE.html · Markdown: https://data.orchid-project.org/systems/GD-TE.md
 
-2 accepted literature values from 1 paper(s) (experimental 2); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 10, DFT 2, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-TE.json) · [CSV](https://data.orchid-project.org/systems/GD-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-TE/GdTe-23Cui.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GD-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-TE.html) · [Markdown](https://data.orchid-project.org/systems/GD-TE.md)
 
@@ -12,13 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 2 |
+| experimental | 10 |
+| DFT | 2 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase transition | 2 |
+| crystal structure | 14 |
 
 ## Calculated phase diagrams
 
@@ -65,6 +68,27 @@ Table: Phase transition, Gd–Te system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1323 K | 1323 | Gd2Te -> GdTe + Gd | experimental | [1] Cui 2023; _cites Herle 2001_ | p. 2 | “Herle and Corbett26 report that the Gd2Te exists stably below 1323 K and decomposes into GdTe and Gd above this temperature.” |
 | Phase transition | 2098 K | 2098 | congruent transformation | experimental | [1] Cui 2023; _cites Abrikosov 1967_ | p. 2 | “GdTe has the highest melting point and congruently melts at 2098 K.” |
+
+### Crystal structure (14)
+
+Table: Crystal structure, Gd–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 12.01 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
+| Lattice a | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
+| Lattice a | 6.12 Å | 298.15 | Gd4Te7; _alloy: Gd 0.363636, Te 0.636364_ | unspecified | [1] Cui 2023; _cites Gd-Te 2012_ | Table 1, p. 2, row 9 |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
+| Lattice a | 4.32 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
+| Lattice b | 4.301 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
+| Lattice b | 43.6 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
+| Lattice b | 25.28 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
+| Lattice c | 11.82 Å | 298.15 | Gd2Te3; _alloy: Gd 0.4, Te 0.6_ | unspecified | [1] Cui 2023; _cites Swinnea 1987_ [doi](https://doi.org/10.1107/s0021889887087065) | Table 1, p. 2, row 8 |  |
+| Lattice c | 4.34 Å | 298.15 | Gd2Te5; _alloy: Gd 0.285714, Te 0.714286_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 11 |  |
+| Lattice c | 8.9 Å | 298.15 | GdTe; _alloy: Gd 0.5, Te 0.5_ | DFT | [1] Cui 2023; _cites Beckenbaugh 2023_ | Table 1, p. 2, row 7 |  |
+| Lattice c | 8.95 Å | 298.15 | GdTe2; _alloy: Gd 0.333333, Te 0.666667_ | experimental | [1] Cui 2023; _cites Niihara 1972_ [doi](https://doi.org/10.1246/bcsj.45.1239) | Table 1, p. 2, row 10 |  |
+| Lattice c | 4.33 Å | 298.15 | GdTe3; _alloy: Gd 0.25, Te 0.75_ | experimental | [1] Cui 2023; _cites Pardo 1967_ | Table 1, p. 2, row 12 |  |
 
 ## Sources
 

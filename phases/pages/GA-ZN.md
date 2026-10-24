@@ -12,8 +12,8 @@ Table: Phases of the Ga–Zn system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A11](#phase-ga-zn-a11-orthorhombic); _phase:ga-zn:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 298.92–302.91 K, x(Zn) 0–0 | 8 | 2 |
-| [BCC_A2](#phase-ga-zn-bcc-a2); _phase:ga-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 3 | 2 |
+| [ORTHORHOMBIC_A11](#phase-ga-zn-a11-orthorhombic); _phase:ga-zn:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 298.92–302.91 K, x(Zn) 0–0 | 5 | 2 |
+| [BCC_A2](#phase-ga-zn-bcc-a2); _phase:ga-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ga-zn-fcc-a1); _phase:ga-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ga-zn-hcp-a3); _phase:ga-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–692.68 K, x(Zn) 0.97407–1 | 5 | 2 |
 | [LIQUID](#phase-ga-zn-liquid); _phase:ga-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 298.92–2500 K, x(Zn) 0–1 | 44 | 2 |
@@ -24,11 +24,11 @@ Table: Phases of the Ga–Zn system (5)
 - Structure: alpha-Ga · A11 · oC8 · Cmce (64); type `st:a11-alpha-ga-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 298.92–302.91 K, x(Zn) 0–0
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-zn:a11-orthorhombic)
 
-Names (5): _corpus: _corpus:phase:ga-zn:a11-orthorhombic  
-_paper: _paper:10.1007/bf02841587:(Ga), paper:10.1007/bf02841587:Ga  
+Names (4): _corpus: _corpus:phase:ga-zn:a11-orthorhombic  
+_paper: _paper:10.1007/bf02841587:(Ga)  
 _tdb: _tdb:GaZn-00Mat.tdb:ORTHORHOMBIC_A11, tdb:GaZn-90Dut-LB.tdb:ORTHORHOMBIC_A11  
 
 
@@ -60,11 +60,10 @@ _assessment that models this phase_
 - Id: `phase:ga-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-zn:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ga-zn:bcc-a2  
-_paper: _paper:10.1007/bf02841587:βGa  
+Names (3): _corpus: _corpus:phase:ga-zn:bcc-a2  
 _tdb: _tdb:GaZn-00Mat.tdb:BCC_A2, tdb:GaZn-90Dut-LB.tdb:BCC_A2  
 
 
@@ -87,7 +86,7 @@ _tdb: _tdb:GaZn-00Mat.tdb:BCC_A2, tdb:GaZn-90Dut-LB.tdb:BCC_A2
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02841587](https://doi.org/10.1007/BF02841587) J. Dutkiewicz, Z. Moser, Z. Zabdyr, D.D. Gohil, T.G. Chart, I. Ansara, C. Girard, Bull. Alloy Phase Diag., 11, 77-82(1990).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/S0364-5916(01)00004-9](https://doi.org/10.1016/S0364-5916%2801%2900004-9) M. Mathon, K. Jardet, E. Aragon, P. Satre, A. Sebaoun, Calphad, 24, 253-84(2000).  
 _assessment that models this phase_
 

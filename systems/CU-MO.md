@@ -1,25 +1,12 @@
 # Cu–Mo system
 
-> Cu–Mo system: 4 accepted literature values (invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Mo system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-MO.html · Markdown: https://data.orchid-project.org/systems/CU-MO.md
 
-4 accepted literature values from 1 paper(s) (experimental 2, unspecified 2); 1 calculated phase diagram(s).
+0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-MO.json) · [CSV](https://data.orchid-project.org/systems/CU-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-MO/CuMo-00Wan.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CU-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-MO.html) · [Markdown](https://data.orchid-project.org/systems/CU-MO.md)
-
-Table: Accepted values by evidence class
-
-| Evidence class | Values |
-|---|---:|
-| experimental | 2 |
-| unspecified | 2 |
-
-Table: Accepted values by property group
-
-| Property group | Values |
-|---|---:|
-| invariant reaction | 4 |
 
 ## Calculated phase diagrams
 
@@ -39,23 +26,6 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | CuMo-00Wan.tdb | 1357.04 | FCC_A1 (x(Mo) 1.500e-4) + LIQUID (x(Mo) 7.900e-4) + BCC_A2 (x(Mo) 0.99944) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/CU/CU-MO.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/CU-MO.json)
-
-## Invariant reactions (literature)
-
-Table: Invariant reactions reported in the literature for the Cu–Mo system (4)
-
-| T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
-|---:|---|---|---|---|---|---|
-| 2788.2 | monotectic: L2 -> (Mo) + L1 | L2: Mo 92.8 (basis unresolved); (Mo): Mo 98.9 (basis unresolved); L1: Mo 16.8 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 3 |  |
-| 2787.6 | monotectic: L2 -> (Mo) + L1 | L2: Mo 93.22 (basis unresolved); (Mo): Mo 98.96 (basis unresolved); L1: Mo 15.89 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 4 |  |
-| 1357.3 | eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.119; (Cu): Mo 0.023; (Mo): Mo 99.962 (basis unresolved) | experimental | [1] Wang 2000 | Table 7, p. 7, row 2 |  |
-| 1356.6 | eutectic: L1 -> (Cu) + (Mo) | L1: Mo 0.101; (Cu): Mo 0.092; (Mo): Mo 99.958 (basis unresolved) | unspecified | [1] Wang 2000; _cites Brewer 1980_ | Table 7, p. 7, row 1 |  |
-
-## Sources
-
-Reporting papers the values were read from (a value cited from another work names that work in its row).
-
-1. Cui Ping Wang, Xing Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Kiyohito Ishida, Shi Ming Hao, Phase equilibria in the Cu-Fe-Mo and Cu-Fe-Nb systems, JPE 21, 54-62 (2000). [doi:10.1361/105497100770340426](https://doi.org/10.1361/105497100770340426)
 
 ## Please cite
 

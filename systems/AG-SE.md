@@ -1,10 +1,10 @@
 # Ag–Se system
 
-> Ag–Se system: 111 accepted literature values (formation 62, phase transition 21, heat capacity / entropy / enthalpy 16, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Se system: 105 accepted literature values (formation 56, phase transition 21, heat capacity / entropy / enthalpy 16, invariant reaction 11) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-SE.html · Markdown: https://data.orchid-project.org/systems/AG-SE.md
 
-111 accepted literature values from 2 paper(s) (experimental 69, model 10, DFT 30, unspecified 2); 3 calculated phase diagram(s).
+105 accepted literature values from 2 paper(s) (experimental 69, model 10, DFT 24, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-SE.json) · [CSV](https://data.orchid-project.org/systems/AG-SE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-SE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-SE/AgSe-18Li.json) · [phases (9)](https://data.orchid-project.org/phases/pages/AG-SE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-SE.html) · [Markdown](https://data.orchid-project.org/systems/AG-SE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 69 |
 | model | 10 |
-| DFT | 30 |
+| DFT | 24 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 11 |
 | phase transition | 21 |
-| formation | 62 |
+| formation | 56 |
 | heat capacity / entropy / enthalpy | 16 |
 | other property | 1 |
 
@@ -91,12 +91,10 @@ Table: Invariant reactions reported in the literature for the Ag–Se system (11
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ag–Se system (46)
+Table: Enthalpies of formation, Ag–Se system (40)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| α-Ag |  | 0.518 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 3 |  |
-| α-Ag |  | 0.561 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 4 |  |
 | α-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -14.3633 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Voronin 2011_ [doi](https://doi.org/10.1134/s1023193511040203) | Table 1, p. 3, row 4 |  |
 | α-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -14.2433 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018; _cites Osadchii 2007_ [doi](https://doi.org/10.2138/am.2007.2209) | Table 1, p. 3, row 1 |  |
 | α-Ag2Se | [Ag2Se](https://data.orchid-project.org/compounds/Ag2Se.html) | -14.2433 kJ/mol-atom | 298.15 | experimental | -21.663 (mp-aaabgjqe) | -7.938 (oqmd-1374449) | [1] Li 2018 | Table 1, p. 3, row 9 |  |
@@ -110,8 +108,6 @@ Table: Enthalpies of formation, Ag–Se system (46)
 | α-Ag2Se |  | -5.869 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 2 |  |
 | α-Ag₂Se |  | -9.936 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 1 |  |
 | α-Ag₂Se |  | -5.869 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 2 |  |
-| α-Se |  | 21.468 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 6 |  |
-| α-Se |  | 22.869 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 5 |  |
 | β-Ag12Se2 |  | 91.738 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 13 |  |
 | β-Ag12Se2 |  | 97.68 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 14 |  |
 | β-Ag18Se2 |  | 149.37 kJ/mol-atom |  | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 18 |  |
@@ -139,8 +135,6 @@ Table: Enthalpies of formation, Ag–Se system (46)
 | β-Ag₂₄Se₂ |  | 20.653 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 16 |  |
 | β-Ag₆Se₂ |  | 13.937 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 11 |  |
 | β-Ag₆Se₂ |  | 22.092 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 12 |  |
-| β-Se |  | 43.164 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 10 |  |
-| β-Se |  | 53.402 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2018 | Table 4, p. 6, row 9 |  |
 
 ## Other properties
 

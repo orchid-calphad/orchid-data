@@ -24,7 +24,6 @@
   "experimental",
   "thermochemical_table",
   "no_printed_uncertainty",
-  "orchid_caveat",
   "orchid",
   "compound_formation_endmember"
  ],
@@ -38,10 +37,7 @@
    {
     "id": "ORC-HF5NC5ZLMW",
     "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/bf02646757",
-    "caveats": [
-     "basis_inferred_from_magnitude"
-    ]
+    "paper": "doi:10.1007/bf02646757"
    }
   ],
   "papers": [
@@ -74,7 +70,7 @@
      "sigma_effective": 3800.0,
      "method_class": "experimental_unspecified",
      "method_basis": "calibrated",
-     "method_n_pairs": 35,
+     "method_n_pairs": 30,
      "method_entry": "value_types/HM_FORM/classes/experimental_unspecified"
     },
     "sigma_effective_used": 3800.0,

@@ -1,10 +1,10 @@
 # Co–Nb–Zr system
 
-> Co–Nb–Zr system: 82 accepted literature values (phase equilibrium 75, invariant reaction 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Nb–Zr system: 81 accepted literature values (phase equilibrium 75, invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-NB-ZR.html · Markdown: https://data.orchid-project.org/systems/CO-NB-ZR.md
 
-82 accepted literature values from 1 paper(s) (experimental 75, model 7); 0 calculated phase diagram(s). 48 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+81 accepted literature values from 1 paper(s) (experimental 75, model 6); 0 calculated phase diagram(s). 48 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-NB-ZR.json) · [CSV](https://data.orchid-project.org/systems/CO-NB-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-NB-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-NB-ZR.html) · [Markdown](https://data.orchid-project.org/systems/CO-NB-ZR.md)
 
@@ -13,24 +13,23 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 75 |
-| model | 7 |
+| model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 7 |
+| invariant reaction | 6 |
 | phase equilibrium | 75 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Nb–Zr system (7)
+Table: Invariant reactions reported in the literature for the Co–Nb–Zr system (6)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1672.15 | eutectic: Liq. -> CoZr + λ2 + μ | Liq.: Co 0.55, Zr 0.327 | model | [1] Sun 2023 | Table VII, p. 23, row 1 |  |
 | 1657.15 | quasi-peritectic: Liq. + λ2 -> λ1 + μ | Liq.: Co 0.571, Zr 0.002 | model | [1] Sun 2023 | Table VII, p. 23, row 2 |  |
-| 1524.15 | eutectic: Liq. -> Co11Zr2 + Co23Zr6 + fcc(Co) | Liq.: Co 0.893, Zr 0.104 | model | [1] Sun 2023 | Table VII, p. 23, row 3 |  |
 | 1522.15 | eutectic: Liq. -> Co23Zr6 + fcc(Co) + λ2 | Liq.: Co 0.878, Zr 0.072 | model | [1] Sun 2023 | Table VII, p. 23, row 4 |  |
 | 1512.15 | eutectic: Liq. -> fcc(Co) + λ2 + λ3 | Liq.: Co 0.847 | model | [1] Sun 2023 | Table VII, p. 23, row 5 |  |
 | 1447.15 | quasi-peritectic: Liq. + μ -> bcc(Nb,Zr) + CoZr | Liq.: Co 0.349, Zr 0.338 | model | [1] Sun 2023 | Table VII, p. 23, row 6 |  |

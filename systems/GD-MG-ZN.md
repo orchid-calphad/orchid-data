@@ -1,10 +1,10 @@
 # Gd–Mg–Zn system
 
-> Gd–Mg–Zn system: 246 accepted literature values (phase transition 150, crystal structure 36, invariant reaction 32, phase equilibrium 28) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg–Zn system: 226 accepted literature values (phase transition 150, invariant reaction 32, phase equilibrium 28, crystal structure 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG-ZN.html · Markdown: https://data.orchid-project.org/systems/GD-MG-ZN.md
 
-246 accepted literature values from 1 paper(s) (experimental 116, model 130); 0 calculated phase diagram(s).
+226 accepted literature values from 1 paper(s) (experimental 112, model 114); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG-ZN.json) · [CSV](https://data.orchid-project.org/systems/GD-MG-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG-ZN.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG-ZN.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 116 |
-| model | 130 |
+| experimental | 112 |
+| model | 114 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 32 |
 | phase transition | 150 |
 | phase equilibrium | 28 |
-| crystal structure | 36 |
+| crystal structure | 16 |
 
 ## Invariant reactions (literature)
 
@@ -257,7 +257,7 @@ Table: Phase equilibrium, Gd–Mg–Zn system
 | Phase assemblage |  | 773.15 | (Mg) + W + (+L); _alloy: Gd 0.049, Mg 0.811, Zn 0.14_ | experimental | [1] Gröbner 2015 | Table 3, p. 7, row 21 |  |
 | Phase assemblage |  | 773.15 | 14H + GdMg3 + (+some not dissolved Gd?); _alloy: Gd 0.13, Mg 0.78, Zn 0.09_ | experimental | [1] Gröbner 2015 | Table 3, p. 7, row 11 |  |
 
-### Crystal structure (36)
+### Crystal structure (16)
 
 Table: Crystal structure, Gd–Mg–Zn system
 
@@ -269,36 +269,16 @@ Table: Crystal structure, Gd–Mg–Zn system
 | Lattice a | 12.4 Å | 298.15 | Gd10Mg30Zn60; _alloy: Mg 0.3, Zn 0.6_ | model | [1] Gröbner 2015; _cites Lou 1993_ | Table 4, p. 9, row 11 |  |
 | Lattice a | 9.0962 Å | 298.15 | Gd16.6Mg17.8Zn65.6; _alloy: Mg 0.178, Zn 0.656_ | model | [1] Gröbner 2015; _cites Yamasaki 2009_ [doi](https://doi.org/10.1016/j.scriptamat.2008.10.022) | Table 4, p. 9, row 10 |  |
 | Lattice a | 14.633 Å | 298.15 | Gd3Mg13Zn3; _alloy: Mg 0.684211, Zn 0.157895_ | model | [1] Gröbner 2015; _cites Li 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.008) | Table 4, p. 9, row 8 |  |
-| Lattice a | 3.812 Å | 298.15 | GdMg; _alloy: Mg 0.5, Zn 0_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 4 |  |
-| Lattice a | 8.55 Å | 298.15 | GdMg2; _alloy: Mg 0.666667, Zn 0_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 3 |  |
-| Lattice a | 6.857 Å | 298.15 | GdMg3; _alloy: Mg 0.75, Zn 0_ | model | [1] Gröbner 2015; _cites Gao 2007_ [doi](https://doi.org/10.1016/j.scriptamat.2007.06.005) | Table 4, p. 9, row 2 |  |
-| Lattice a | 7.31 Å | 298.15 | GdMg3; _alloy: Mg 0.75, Zn 0_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 2 |  |
-| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333, Zn 0_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 1 |  |
-| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333, Zn 0_ | model | [1] Gröbner 2015; _cites Massalski 1990_ | Table 4, p. 9, row 1 |  |
 | Lattice a | 33.53 Å | 298.15 | H1 | model | [1] Gröbner 2015 | Table 4, p. 9, row 3 |  |
 | Lattice a | 9.0962 Å | 298.15 | H2 | model | [1] Gröbner 2015; _cites Li 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.008) | Table 4, p. 9, row 7 |  |
-| Lattice a | 8.55 Å | 298.15 | Mg2Zn11; _alloy: Mg 0.153846, Zn 0.846154_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 9 |  |
-| Lattice a | 25.96 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [1] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice a | 14.08 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice a | 16.1 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [1] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
-| Lattice a | 5.253 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8 |  |
 | Lattice a | 14.3 Å | 298.15 | RE(Zn,Mg)4 | model | [1] Gröbner 2015; _cites Yamasaki 2009_ [doi](https://doi.org/10.1016/j.scriptamat.2008.10.022) | Table 4, p. 9, row 9 |  |
 | Lattice a | 6.9 Å | 298.15 | W | model | [1] Gröbner 2015 | Table 4, p. 9, row 4 |  |
-| Lattice b | 14.28 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [1] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice b | 14.49 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice b | 25.79 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [1] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
 | Lattice c | 8.8 Å | 298.15 | Gd10Mg30Zn60; _alloy: Mg 0.3, Zn 0.6_ | model | [1] Gröbner 2015; _cites Lou 1993_ | Table 4, p. 9, row 11 |  |
 | Lattice c | 9.4112 Å | 298.15 | Gd16.6Mg17.8Zn65.6; _alloy: Mg 0.178, Zn 0.656_ | model | [1] Gröbner 2015; _cites Yamasaki 2009_ [doi](https://doi.org/10.1016/j.scriptamat.2008.10.022) | Table 4, p. 9, row 10 |  |
 | Lattice c | 8.761 Å | 298.15 | Gd3Mg13Zn3; _alloy: Mg 0.684211, Zn 0.157895_ | model | [1] Gröbner 2015; _cites Li 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.008) | Table 4, p. 9, row 8 |  |
 | Lattice c | 8.95 Å | 298.15 | H1 | model | [1] Gröbner 2015 | Table 4, p. 9, row 3 |  |
 | Lattice c | 9.4112 Å | 298.15 | H2 | model | [1] Gröbner 2015; _cites Li 2006_ [doi](https://doi.org/10.1016/j.jallcom.2005.07.008) | Table 4, p. 9, row 7 |  |
-| Lattice c | 5.24 Å | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [1] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| Lattice c | 14.03 Å | 298.15 | Mg5Zn2; _alloy: Mg 0.714286, Zn 0.285714_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 5 |  |
-| Lattice c | 8.8 Å | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [1] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
-| Lattice c | 8.568 Å | 298.15 | MgZn2; _alloy: Mg 0.333333, Zn 0.666667_ | model | [1] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 8 |  |
 | Lattice c | 14.1 Å | 298.15 | RE(Zn,Mg)4 | model | [1] Gröbner 2015; _cites Yamasaki 2009_ [doi](https://doi.org/10.1016/j.scriptamat.2008.10.022) | Table 4, p. 9, row 9 |  |
-| lattice unspecified angle | 102.5 ° | 298.15 | Mg2Zn3; _alloy: Mg 0.4, Zn 0.6_ | model | [1] Gröbner 2015; _cites Schmid-Fetzer 2012_ [doi](https://doi.org/10.1016/j.calphad.2012.01.006) | Table 5, p. 10, row 7 |  |
-| lattice unspecified angle | 112.4 ° | 298.15 | MgZn; _alloy: Mg 0.5, Zn 0.5_ | experimental | [1] Gröbner 2015; _cites Chiotti 1965_ | Table 5, p. 10, row 6 |  |
 
 ## Sources
 

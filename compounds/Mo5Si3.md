@@ -48,31 +48,31 @@ Table: Uncertainty budget of the literature values of Mo5Si3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.3 | kJ/mol-atom | 1.1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1.1 |
-| -39.2 | kJ/mol-atom | 1.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -39.3 | kJ/mol-atom | 1.1 | 0.05 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1.1 |
+| -39.2 | kJ/mol-atom | 1.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -38.7 | kJ/mol-atom | 3 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -38.7 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.7 | kJ/mol-atom | 3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.62 | kJ/mol-atom | 2.09 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.813 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.4 | kJ/mol-atom | 0.1 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -39.1725 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.1725 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.983 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.7 | kJ/mol-atom | 3 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.682 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.62 | kJ/mol-atom | 2.09 | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38.2 | kJ/mol-atom | 1.6 | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.813 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.0884 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.0884 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.0084 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.0084 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -38.7 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.7 | kJ/mol-atom | 3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38.62 | kJ/mol-atom | 2.09 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.813 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.4 | kJ/mol-atom | 0.1 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -39.1725 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.1725 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.983 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.98 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.98 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.7 | kJ/mol-atom | 3 | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.682 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.62 | kJ/mol-atom | 2.09 | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38.2 | kJ/mol-atom | 1.6 | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.813 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.0884 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.0884 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.0084 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.0084 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

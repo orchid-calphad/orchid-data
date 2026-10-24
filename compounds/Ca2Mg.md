@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Ca2Mg.html · Markdown: https://data.orchid-project.org/compounds/Ca2Mg.md
 
-1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project -3.827 kJ/mol-atom (mp-aaachdrn); OQMD -5.306 kJ/mol-atom (oqmd-289790).
+1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project 5.636 kJ/mol-atom (mp-aaachdih); OQMD 3.889 kJ/mol-atom (oqmd-290195).
 
-Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
+Systems: [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Ca2Mg reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 26.8549 kJ/mol-atom | Ca2Mg-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 16 |  |
+| 26.8549 kJ/mol-atom | Ca2Mg-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006 | Table 2, p. 4, row 16 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Ca2Mg
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 26.8549 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 26.8549 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of Ca2Mg
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaachdrn | -3.827 | -0.039659 | C2/m | 1.294 | 0.0134 | yes |
-| OQMD | oqmd-289790 | -5.306 | -0.054989 | C2/m | 0.778 | 0.0081 | yes |
+| Materials Project | mp-aaachdih | 5.636 | 0.058408 | P6_3/mmc | 10.7557 | 0.1115 | yes |
+| OQMD | oqmd-290195 | 3.889 | 0.040309 | P63/mmc | 9.9728 | 0.1034 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

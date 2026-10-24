@@ -1,10 +1,10 @@
 # Mg–Sb system
 
-> Mg–Sb system: 49 accepted literature values (formation 25, invariant reaction 14, heat capacity / entropy / enthalpy 4, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sb system: 50 accepted literature values (formation 25, invariant reaction 15, heat capacity / entropy / enthalpy 4, phase transition 4) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SB.html · Markdown: https://data.orchid-project.org/systems/MG-SB.md
 
-49 accepted literature values from 2 paper(s) (experimental 14, model 33, unspecified 2); 3 calculated phase diagram(s).
+50 accepted literature values from 2 paper(s) (experimental 14, model 34, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SB.json) · [CSV](https://data.orchid-project.org/systems/MG-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SB/MgSb-05Bal.json) · [phases (8)](https://data.orchid-project.org/phases/pages/MG-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SB.html) · [Markdown](https://data.orchid-project.org/systems/MG-SB.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 14 |
-| model | 33 |
+| model | 34 |
 | unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 14 |
+| invariant reaction | 15 |
 | phase transition | 4 |
 | formation | 25 |
 | heat capacity / entropy / enthalpy | 4 |
@@ -61,7 +61,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Mg–Sb system (14)
+Table: Invariant reactions reported in the literature for the Mg–Sb system (15)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -73,6 +73,7 @@ Table: Invariant reactions reported in the literature for the Mg–Sb system (14
 | 902 | L = (Mg) + α-Mg3Sb2 | L: Sb 0.1; α-Mg3Sb2: Mg 0.6, Sb 0.4 | model | [2] Balakumar 2005; _cites Grube 1934_ | Table 7, p. 9, row 2 |  |
 | 902 | HCP/Liq/α\* | HCP: Sb 0; Liq: Sb 0.026; α\*: Sb 0.4 | model | [1] Jönsson 1987 | Table I, p. 4, row 2 |  |
 | 902 | L = (Mg) + α-Mg3Sb2 | L: Sb 0.076; α-Mg3Sb2: Mg 0.6, Sb 0.4 | model | [2] Balakumar 2005 | Table 7, p. 9, row 5 |  |
+| 898.8 | eutectic: L -> α-Mg3Sb2 + (Mg) | L: Mg 0.93, Sb 0.063 | model | [2] Balakumar 2005 | Table 9, p. 10, row 2 |  |
 | 854 | L = (Sb) + α-Mg3Sb2 | L: Sb 0.9; α-Mg3Sb2: Mg 0.6, Sb 0.4 | model | [2] Balakumar 2005 | Table 7, p. 9, row 10 |  |
 | 852 | α/Liq/α-Sb | α: Sb 0.4; Liq: Sb 0.848; α-Sb: Sb 1 | model | [1] Jönsson 1987 | Table I, p. 4, row 5 |  |
 | 852 | L = (Sb) + α-Mg3Sb2 | L: Sb 0.86; α-Mg3Sb2: Mg 0.6, Sb 0.4 | model | [2] Balakumar 2005; _cites Grube 1934_ | Table 7, p. 9, row 7 |  |
@@ -93,16 +94,16 @@ Table: Enthalpies of formation, Mg–Sb system (21)
 | — |  | 299 unspecified ± 3 | 900 | experimental |  |  | [1] Jönsson 1987; _cites Sommer 1985_ | p. 2 | “Rao and Patil 1~who also used emf measurements to determine the heat of formation obtained 299 (-+3) kJ/mol at 900 K.” |
 | — |  | 300 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | p. 2 | “These values can be compared to the value chosen by Hultgren et al.,~4 320 (-+40) kJ/mol at 800 K and the value chosen by Barin et al., 15 300 kJ/mol at 298 K.” |
 | — |  | 320 unspecified ± 40 | 800 | experimental |  |  | [1] Jönsson 1987; _cites Kauzmann 1948_ [doi](https://doi.org/10.1021/cr60135a002) | p. 2 | “These values can be compared to the value chosen by Hultgren et al.,~4 320 (-+40) kJ/mol at 800 K and the value chosen by Barin et al., 15 300 kJ/mol at 298 K.” |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -64 kJ/mol-atom ± 40 | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
+| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -64 kJ/mol-atom ± 8 | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Hultgren 1973_ | Table 1I, p. 4, row 8 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -60 kJ/mol-atom | 298.15 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Barin 1977_ [doi](https://doi.org/10.1007/978-3-662-02293-1) | Table 1I, p. 4, row 2 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 3 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
+| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -59.8 kJ/mol-atom ± 0.6 | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Rao 1971_ | Table 1I, p. 4, row 10 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -57 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Kubaschewski 1939_ | Table 1I, p. 4, row 12 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -55.2 kJ/mol-atom | 298.15 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 1 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 773 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 5 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -53.2 kJ/mol-atom | 800 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 7 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.6 kJ/mol-atom | 900 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 9 |  |
 | Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -52.4 kJ/mol-atom | 923 | model | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987 | Table 1I, p. 4, row 11 |  |
-| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -47 kJ/mol-atom ± 6 | 773 | experimental | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
+| Mg3Sb2 | [Mg3Sb2](https://data.orchid-project.org/compounds/Mg3Sb2.html) | -47 kJ/mol-atom ± 1.2 | 773 | experimental | -43.056 (mp-aaacqblj) | -36.528 (oqmd-116230) | [1] Jönsson 1987; _cites Eremenko 1964_ | Table 1I, p. 4, row 6 |  |
 | α-Mg3Sb2 |  | -490 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Balakumar 2005 | Table 8, p. 9, row 6 |  |
 | α-Mg3Sb2 |  | -320 kJ/mol (basis unstated) ± 40 | 800 | model |  |  | [2] Balakumar 2005; _cites Hultgren 1973_ | Table 8, p. 9, row 4 |  |
 | α-Mg3Sb2 |  | -300 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Balakumar 2005; _cites Barin 1977_ | Table 8, p. 9, row 5 |  |

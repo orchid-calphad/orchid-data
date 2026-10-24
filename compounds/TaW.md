@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/TaW.html · Markdown: https://da
 
 2 accepted literature formation-enthalpy value(s) (unspecified 2).
 
-Systems: [Mo–Ta–W](https://data.orchid-project.org/systems/MO-TA-W.html)
+Systems: [Ta–W](https://data.orchid-project.org/systems/TA-W.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of TaW reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -17 kJ/mol (basis unstated) | Ordered B2 TaW | 0 | unspecified | TB-LMTO-CPA-GPM | [Mo–Ta–W](https://data.orchid-project.org/systems/MO-TA-W.html) | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
-| -10.5 kJ/mol (basis unstated) | Ordered B2 TaW | 0 | unspecified | TB-LMTO-CPA-GPM | [Mo–Ta–W](https://data.orchid-project.org/systems/MO-TA-W.html) | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
+| -17 kJ/mol (basis unstated) | Ordered B2 TaW | 0 | unspecified | TB-LMTO-CPA-GPM | [Ta–W](https://data.orchid-project.org/systems/TA-W.html) | [1] Turchi 2005 | Table I, p. 5, row 11 |  |
+| -10.5 kJ/mol (basis unstated) | Ordered B2 TaW | 0 | unspecified | TB-LMTO-CPA-GPM | [Ta–W](https://data.orchid-project.org/systems/TA-W.html) | [1] Turchi 2005 | Table I, p. 5, row 7 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of TaW
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -17 | kJ/mol (basis unstated) |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -10.5 | kJ/mol (basis unstated) |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -17 | kJ/mol (basis unstated) |  | 0.05 | 7.6 (experimental_unspecified, calibrated) |  |  |  | 7.6 |
+| -10.5 | kJ/mol (basis unstated) |  | 0.05 | 7.6 (experimental_unspecified, calibrated) |  |  |  | 7.6 |
 
 ## Sources
 

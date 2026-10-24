@@ -1,23 +1,22 @@
 # Er–Ge phases
 
-> Er–Ge system: 17 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Er–Ge system: 16 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/ER-GE.html · Markdown: https://data.orchid-project.org/phases/pages/ER-GE.md
 
-17 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+16 phases (tier A 6, tier B 1, tier C 5, liquid 1, needs_review 3); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=ER-GE) · [full JSON](https://data.orchid-project.org/phases/systems/ER-GE.json) · [Er–Ge system page](https://data.orchid-project.org/systems/ER-GE.html) · [Markdown](https://data.orchid-project.org/phases/pages/ER-GE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Er–Ge system (17)
+Table: Phases of the Er–Ge system (16)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-er-ge-a4-diamond); _phase:er-ge:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1 | 7 | 1 |
+| [DIAMOND_A4](#phase-er-ge-a4-diamond); _phase:er-ge:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1 | 4 | 1 |
 | [BCC_A2](#phase-er-ge-bcc-a2); _phase:er-ge:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [ER11GE10](#phase-er-ge-er11ge10); _phase:er-ge:er11ge10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1978.86 K, x(Ge) 0.47619–0.47619 | 15 | 1 |
 | [ER2GE3_LT](#phase-er-ge-er2ge3); _phase:er-ge:er2ge3_ | Er2Ge3 · mC6 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1239 K, x(Ge) 0.6–0.6 | 3 | 1 |
 | [ER2GE3_C32](#phase-er-ge-er2ge3-c32); _phase:er-ge:er2ge3-c32_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1239–1676.46 K, x(Ge) 0.6–0.6 | 12 | 1 |
-| [ER2GE3-LT](#phase-er-ge-er2ge3-lt); _phase:er-ge:er2ge3-lt_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [ER2GE5](#phase-er-ge-er2ge5); _phase:er-ge:er2ge5_ | DyGe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1153.27 K, x(Ge) 0.71429–0.71429 | 16 | 1 |
 | [ER3GE4](#phase-er-ge-er3ge4); _phase:er-ge:er3ge4_ | Er3Ge4 · oC28 · Cmcm (63) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1535.75 K, x(Ge) 0.57143–0.57143 | 11 | 1 |
 | [ER5GE3_D88](#phase-er-ge-er5ge3-d88); _phase:er-ge:er5ge3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2224.69 K, x(Ge) 0.375–0.39509 | 21 | 1 |
@@ -28,7 +27,7 @@ Table: Phases of the Er–Ge system (17)
 | [ERGE2_MT](#phase-er-ge-erge2-mt); _phase:er-ge:erge2-mt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1179.78–1234.45 K, x(Ge) 0.66667–0.66667 | 6 | 1 |
 | [FCC_A1](#phase-er-ge-fcc-a1); _phase:er-ge:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-er-ge-hcp-a3); _phase:er-ge:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1807 K, x(Ge) 0–0 | 7 | 1 |
-| [LIQUID](#phase-er-ge-liquid); _phase:er-ge:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.25–2500 K, x(Ge) 0–1 | 37 | 1 |
+| [LIQUID](#phase-er-ge-liquid); _phase:er-ge:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1139.25–2500 K, x(Ge) 0–1 | 34 | 1 |
 
 ## DIAMOND_A4 (Er–Ge)
 
@@ -36,7 +35,7 @@ Table: Phases of the Er–Ge system (17)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ge 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1211.4 K, x(Ge) 1–1
-- Literature: 7 values (6 accepted) from 1 papers
+- Literature: 4 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-ge:a4-diamond)
 
 Names (4): _corpus: _corpus:phase:er-ge:a4-diamond, corpus:phase:er-ge:diamond-a4  
@@ -137,7 +136,7 @@ _cited as the source of values for this phase_
 - Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-ge:er2ge3)
 
-Names (3): _corpus: _corpus:phase:er-ge:er2ge3  
+Names (4): _corpus: _corpus:phase:er-ge:er2ge3, corpus:phase:er-ge:er2ge3-lt  
 _paper: _paper:10.1016/j.jallcom.2017.07.129:LT_Er2Ge3  
 _tdb: _tdb:ErGe-17Ach.tdb:ER2GE3_LT  
 
@@ -199,17 +198,6 @@ _cited as the source of values for this phase_
 _cited as the source of values for this phase_
 - [doi:10.1021/ie50458a036](https://doi.org/10.1021/ie50458a036) Otto Redlich, A. T. Kister, Algebraic Representation of Thermodynamic Properties and the Classification of Solutions, Ind. Eng. Chem. 40, 345-348 (1948).  
 _cited as the source of values for this phase_
-
-## ER2GE3-LT (Er–Ge)
-
-- Id: `phase:er-ge:er2ge3-lt`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-ge:er2ge3-lt)
-
-Names (1): _corpus: _corpus:phase:er-ge:er2ge3-lt  
-
 
 ## ER2GE5 (Er–Ge)
 
@@ -563,7 +551,7 @@ _cited as the source of values for this phase_
 - Id: `phase:er-ge:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1139.25–2500 K, x(Ge) 0–1
-- Literature: 37 values (35 accepted) from 1 papers
+- Literature: 34 values (32 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-ge:liquid)
 
 Names (4): _corpus: _corpus:phase:er-ge:liquid  

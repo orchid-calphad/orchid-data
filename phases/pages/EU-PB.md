@@ -1,14 +1,14 @@
 # Eu–Pb phases
 
-> Eu–Pb system: 10 phases (tier A 7, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Eu–Pb system: 9 phases (tier A 7, liquid 1, needs_review 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/EU-PB.html · Markdown: https://data.orchid-project.org/phases/pages/EU-PB.md
 
-10 phases (tier A 7, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+9 phases (tier A 7, liquid 1, needs_review 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=EU-PB) · [full JSON](https://data.orchid-project.org/phases/systems/EU-PB.json) · [Eu–Pb system page](https://data.orchid-project.org/systems/EU-PB.html) · [Markdown](https://data.orchid-project.org/phases/pages/EU-PB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Eu–Pb system (10)
+Table: Phases of the Eu–Pb system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,7 +16,6 @@ Table: Phases of the Eu–Pb system (10)
 | [EU2PB_C37](#phase-eu-pb-eu2pb-c37); _phase:eu-pb:eu2pb-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1520.3 K, x(Pb) 0.31718–0.33333 | 6 | 1 |
 | [EU5PB3_D8M](#phase-eu-pb-eu5pb3-d8m); _phase:eu-pb:eu5pb3-d8m_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1412.55 K, x(Pb) 0.375–0.375 | 6 | 1 |
 | [EUPB_HT](#phase-eu-pb-eupb); _phase:eu-pb:eupb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1135.84–1342.17 K, x(Pb) 0.48768–0.4997 | 8 | 1 |
-| [EUPB-HT](#phase-eu-pb-eupb-ht); _phase:eu-pb:eupb-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [EUPB_L10](#phase-eu-pb-eupb-l10); _phase:eu-pb:eupb-l10_ | AuCu · L1_0 · tP4 · P4/mmm (123) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1147.17 K, x(Pb) 0.49394–0.5 | 6 | 1 |
 | [EUPB3_L12](#phase-eu-pb-eupb3-l12); _phase:eu-pb:eupb3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1065.75 K, x(Pb) 0.75–0.75 | 4 | 1 |
 | [FCC_A1](#phase-eu-pb-fcc-a1); _phase:eu-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.36 K, x(Pb) 1–1 | 0 | 1 |
@@ -115,7 +114,7 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-pb:eupb)
 
-Names (3): _corpus: _corpus:phase:eu-pb:eupb  
+Names (4): _corpus: _corpus:phase:eu-pb:eupb, corpus:phase:eu-pb:eupb-ht  
 _paper: _paper:10.1016/j.calphad.2013.01.007:βEuPb  
 _tdb: _tdb:EuPb-13Wan.tdb:EUPB_HT  
 
@@ -133,17 +132,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1016/j.calphad.2013.01.007](https://doi.org/10.1016/j.calphad.2013.01.007) D. Wang, Y. Yu, X.J. Liu, C.P. Wang, Thermodynamic assessment of the Eu–Pb and Lu–Pb systems, Calphad 41, 20-25 (2013).  
 _assessment that models this phase; reports values for this phase_
-
-## EUPB-HT (Eu–Pb)
-
-- Id: `phase:eu-pb:eupb-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:eu-pb:eupb-ht)
-
-Names (1): _corpus: _corpus:phase:eu-pb:eupb-ht  
-
 
 ## EUPB_L10 (Eu–Pb)
 

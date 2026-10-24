@@ -14,7 +14,7 @@ Table: Enthalpy of formation of GeNi3 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -35 kJ/mol-atom | βNi3Ge | 1063 | experimental | Calorimetry | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 11 |  |
+| -35 kJ/mol-atom | βNi3Ge | 298.15 | experimental | Calorimetry | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 11 |  |
 | -31.6 kJ/mol-atom | βNi3Ge | 0 | DFT | DFT | [Ge–Ni](https://data.orchid-project.org/systems/GE-NI.html) | [1] Jin 2012 | Table 1, p. 2, row 2 |  |
 
 ### Uncertainty budget
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of GeNi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -35 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -31.6 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -35 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -31.6 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 

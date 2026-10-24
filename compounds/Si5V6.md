@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Si5V6.html · Markdown: https://
 
 9 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1, unspecified 2); experimental median -50.7 kJ/mol-atom (n = 2); Materials Project -49.196 kJ/mol-atom (mp-aaaaablo); OQMD -51.21 kJ/mol-atom (oqmd-31070).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) · [Si–V](https://data.orchid-project.org/systems/SI-V.html)
+Systems: [Si–V](https://data.orchid-project.org/systems/SI-V.html)
 
 ## Literature values
 
@@ -15,14 +15,14 @@ Table: Enthalpy of formation of Si5V6 reported in the literature (9)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental | emf measurement | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 6 |  |
-| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
-| -52.8 kJ/mol-atom | V6Si5 | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
-| -51.2 kJ/mol-atom | V6Si5 |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
+| -50.7 kJ/mol-atom ± 2 | V6Si5 | 298.15 | experimental |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
+| -52.8 kJ/mol-atom | V6Si5 | 0 | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
+| -51.2 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
 | -48.13 kJ/mol-atom | V6Si5 | 298.15 | model | Miedema model | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 17 |  |
-| -48.1 kJ/mol-atom | V6Si5 |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
+| -48.1 kJ/mol-atom | V6Si5 |  | model |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
 | -51.22 kJ/mol-atom | V6Si5 | 298.15 | DFT | First-principles | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 21 |  |
-| -52.7 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013 | Table 2, p. 6, row 23 |  |
-| -44.1 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [2] Broz 2013 | Table 2, p. 6, row 21 |  |
+| -52.7 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 23 |  |
+| -44.1 kJ/mol-atom | V6Si5 | 0 | unspecified |  | [Si–V](https://data.orchid-project.org/systems/SI-V.html) | [2] Broz 2013 | Table 2, p. 6, row 21 |  |
 
 ### Uncertainty budget
 
@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of Si5V6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -50.7 | kJ/mol-atom | 2 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -50.7 | kJ/mol-atom | 2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -52.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.13 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -48.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51.22 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -52.7 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -44.1 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -50.7 | kJ/mol-atom | 2 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -50.7 | kJ/mol-atom | 2 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -52.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.13 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51.22 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -52.7 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -44.1 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -50,8 +50,8 @@ Table: DFT formation energy of Si5V6
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaaablo | -49.196 | -0.509879 | Ibam | 1.365 | 0.0141 | no |
-| OQMD | oqmd-31070 | -51.21 | -0.530758 | Ibam | 1.449 | 0.015 | no |
+| Materials Project | mp-aaaaablo | -49.196 | -0.509879 | Ibam | 1.3649 | 0.0141 | no |
+| OQMD | oqmd-31070 | -51.21 | -0.530758 | Ibam | 1.4495 | 0.015 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

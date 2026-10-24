@@ -1,10 +1,10 @@
 # Gd–Pd system
 
-> Gd–Pd system: 34 accepted literature values (invariant reaction 26, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Pd system: 54 accepted literature values (invariant reaction 26, formation 20, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-PD.html · Markdown: https://data.orchid-project.org/systems/GD-PD.md
 
-34 accepted literature values from 1 paper(s) (experimental 17, model 17); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+54 accepted literature values from 2 paper(s) (experimental 17, model 37); 1 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-PD.json) · [CSV](https://data.orchid-project.org/systems/GD-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-PD/GdPd-00Du.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GD-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-PD.html) · [Markdown](https://data.orchid-project.org/systems/GD-PD.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 17 |
-| model | 17 |
+| model | 37 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 26 |
 | phase transition | 8 |
+| formation | 20 |
 
 ## Calculated phase diagrams
 
@@ -94,6 +95,22 @@ Table: Invariant reactions reported in the literature for the Gd–Pd system (26
 | 810 | GdPd3 + fcc(Pd) -> GdPd7 | GdPd3: Pd 0.77; fcc(Pd): Pd 0.892; GdPd7: Pd 0.875 | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 34 |  |
 | 810 | GdPd3 + fcc(Pd) -> GdPd7 | GdPd3: Pd 0.7713; fcc(Pd): Pd 0.8879; GdPd7: Pd 0.875 | model | [1] Du 2000 | Table 3, p. 5, row 33 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Gd–Pd system (7)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd2Gd | [GdPd2](https://data.orchid-project.org/compounds/GdPd2.html) | -80.498 kJ/mol-atom | 298.15 | model |  | -77.954 (oqmd-18407) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 62 |  |
+| Pd3Gd | [GdPd3](https://data.orchid-project.org/compounds/GdPd3.html) | -78.078 kJ/mol-atom | 298.15 | model | -83.652 (mp-aaaabfsd) | -83.791 (oqmd-18693) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 4 |  |
+| Pd3Gd | [GdPd3](https://data.orchid-project.org/compounds/GdPd3.html) | -48.335 kJ/mol-atom | 298.15 | model | -83.652 (mp-aaaabfsd) | -83.791 (oqmd-18693) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Pd4Gd3 | [Gd3Pd4](https://data.orchid-project.org/compounds/Gd3Pd4.html) | -82.523 kJ/mol-atom | 298.15 | model |  | -87.901 (oqmd-1437083) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36 |  |
+| Pd7Gd | [GdPd7](https://data.orchid-project.org/compounds/GdPd7.html) | -48.335 kJ/mol-atom | 298.15 | model |  | -42.984 (oqmd-1376299) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Pd7RE |  | -48.335 kJ/mol-atom | 298.15 | model |  |  | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 8 |  |
+| PdGd | [GdPd](https://data.orchid-project.org/compounds/GdPd.html) | -85.265 kJ/mol-atom | 298.15 | model | -85.094 (mp-aaaaaqxn) | -86.932 (oqmd-30400) | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 24 |  |
+
 ## Other properties
 
 ### Phase transition (8)
@@ -111,11 +128,32 @@ Table: Phase transition, Gd–Pd system
 | Phase transition | 1903 K | 1903 | liq. -> GdPd3; _GdPd3: Pd 0.7503_ | model | [1] Du 2000 | Table 3, p. 5, row 29 |  |
 | Phase transition | 1903 K | 1903 | liq. -> GdPd3; _GdPd3: Pd 0.75_ | experimental | [1] Du 2000; _cites Loebich 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990134-3) | Table 3, p. 5, row 30 |  |
 
+### Formation (13)
+
+Table: Formation, Gd–Pd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔfS_ | 6.446 J/mol-atom/K | 298.15 | Pd2Gd; _alloy: Gd 0.333333, Pd 0.666667_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 62 |  |
+| Entropy of formation | 7.63 J/mol-atom/K | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 4 |  |
+| Entropy of formation; _printed: ΔfS_ | 9.402 J/mol-atom/K | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Entropy of formation; _printed: ΔfS_ | 5.79 J/mol-atom/K | 298.15 | Pd4Gd3; _alloy: Gd 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36 |  |
+| Entropy of formation | 9.402 J/mol-atom/K | 298.15 | Pd7Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Entropy of formation; _printed: Entropies of formation_ | 9.402 J/mol-atom/K | 298.15 | Pd7RE; _alloy: Gd 0.125, Pd 0.875_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 6, row 8 |  |
+| Entropy of formation | 8.684 J/mol-atom/K | 298.15 | PdGd; _alloy: Gd 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 24 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -82.4199 kJ/mol-atom | 298.15 | Pd2Gd; _alloy: Gd 0.333333, Pd 0.666667_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 62 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -80.3529 kJ/mol-atom | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 4 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -51.1382 kJ/mol-atom | 298.15 | Pd3Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -84.2493 kJ/mol-atom | 298.15 | Pd4Gd3; _alloy: Gd 0.428571, Pd 0.571429_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 36 |  |
+| Gibbs energy of formation; _printed: Gibbs free energy of formation_ | -51.1382 kJ/mol-atom | 298.15 | Pd7Gd; _alloy: Gd 0.25, Pd 0.75_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 74 |  |
+| Gibbs energy of formation; _printed: ΔfG_ | -87.8541 kJ/mol-atom | 298.15 | PdGd; _alloy: Gd 0.5, Pd 0.5_ | model | [2] Kardellass 2020; _cites Du 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901144-0) | Table 3, p. 5, row 24 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Zhenmin Du, Haifang Yang, Thermodynamic assessment of the Gd–Pd system, Journal of Alloys and Compounds 312, 181-188 (2000). [doi:10.1016/s0925-8388(00)01144-0](https://doi.org/10.1016/s0925-8388%2800%2901144-0)
+2. Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020). [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196)
 
 ## Please cite
 

@@ -10,10 +10,10 @@
   "CU4SM",
   "CU5SM_D2D",
   "CU6SM",
-  "CUSM",
   "FCC_A1",
   "HCP_A3",
-  "LIQUID"
+  "LIQUID",
+  "RHOMB_C19"
  ],
  "conditions": {
   "P": 101325.0,
@@ -22,12 +22,10 @@
    883.0954879,
    686.0954879,
    838.0954879,
-   804.0954879,
    981.0954879,
-   916.5954879,
+   913.0954879,
    1270.095488,
    1087.595488,
-   1044.095488,
    1072.095488,
    1125.095488,
    1112.595488,
@@ -149,35 +147,6 @@
   ],
   [
    [
-    "CU2SM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUSM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.4161328808
-    ]
-   ]
-  ],
-  [
-   [
     "CU5SM_D2D",
     [
      "SM"
@@ -207,21 +176,21 @@
   ],
   [
    [
-    "CUSM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "LIQUID",
     [
      "SM"
     ],
     [
-     0.6625471086
+     0.7479406571
+    ]
+   ],
+   [
+    "RHOMB_C19",
+    [
+     "SM"
+    ],
+    [
+     1.0
     ]
    ]
   ],
@@ -262,35 +231,6 @@
     ],
     [
      0.918978175
-    ]
-   ]
-  ],
-  [
-   [
-    "CUSM",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.4797398054
     ]
    ]
   ],
@@ -497,12 +437,10 @@
    "aspa-4a055c96e398fd08",
    "aspa-104c8423ec6fefb4",
    "aspa-5d510529dc585690",
-   "aspa-0e30961f482d94f9",
    "aspa-f984a6e5bf95e01d",
-   "aspa-9635364953011111",
+   "aspa-3f108e9e28d3b430",
    "aspa-f1f2b4df03bda800",
    "aspa-e0b2cf0808737201",
-   "aspa-f892e790dad079a7",
    "aspa-5e5cf095c262fcde",
    "aspa-75c655ef7a9f5312",
    "aspa-a93ba0d246f9b0b8",
@@ -518,11 +456,9 @@
    "printed_solid",
    "printed_solid",
    "printed_solid",
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "mixed",
    "printed_solid",
+   "mixed",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -610,24 +546,6 @@
     }
    },
    {
-    "record_id": "aspa-0e30961f482d94f9",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.795,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 231.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0535901,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-f984a6e5bf95e01d",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -646,21 +564,21 @@
     }
    },
    {
-    "record_id": "aspa-9635364953011111",
-    "boundary_basis": "printed_solid",
+    "record_id": "aspa-3f108e9e28d3b430",
+    "boundary_basis": "mixed",
     "temperature_K": {
      "sigma_printed": null,
-     "sigma_reading": 0.795,
+     "sigma_reading": 15.0,
      "sigma_method": 10.0,
-     "sigma_boundary_margin": 88.5,
-     "sigma_effective": 10.0
+     "sigma_boundary_margin": 85.0,
+     "sigma_effective": 15.0
     },
     "composition_mole_fraction": {
      "sigma_printed": null,
-     "sigma_reading": 0.000672421,
+     "sigma_reading": 0.03,
      "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0786322,
-     "sigma_effective": 0.02
+     "sigma_boundary_margin": 0.12521,
+     "sigma_effective": 0.03
     }
    },
    {
@@ -697,24 +615,6 @@
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0280471,
      "sigma_effective": 0.03
-    }
-   },
-   {
-    "record_id": "aspa-f892e790dad079a7",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.795,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 8.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0195328,
-     "sigma_effective": 0.02
     }
    },
    {

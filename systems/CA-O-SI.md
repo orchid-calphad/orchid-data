@@ -64,17 +64,13 @@ Table: Invariant reactions reported in the literature for the Ca–O–Si system
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ca–O–Si system (26)
+Table: Enthalpies of formation, Ca–O–Si system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ca3Si2O7 |  | -17.6667 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 5 |  |
-| CaSiO3-cyclowollastonite |  | -15.5 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
-| CaSiO3-wollastonite |  | -17.14 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
 | Cyclowollastonite-CaSiO3 |  | -1627 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 10 |  |
 | Cyclowollastonite-CaSiO3 |  | -1627 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 9 |  |
 | Monoclinic-Ca3SiO5 |  | -2932 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 1 |  |
-| Monoclinic-Ca3SiO5 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
 | Rankinite-Ca3Si2O7 |  | -3973 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 6 |  |
 | Rankinite-Ca3Si2O7 |  | -3951 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 5 |  |
 | Rhombohedral-Ca3SiO5 |  | -2932 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 4 |  |
@@ -87,13 +83,10 @@ Table: Enthalpies of formation, Ca–O–Si system (26)
 | α-Ca2SiO4 |  | -2293 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
 | α′-Ca2SiO4 |  | -2304 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
 | α′-Ca2SiO4 |  | -2198 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
-| α′-Ca2SiO4 |  | -17.4857 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
 | β-Ca2SiO4 |  | -2307 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 15 |  |
 | β-Ca2SiO4 |  | -2306 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 16 |  |
-| β-Ca2SiO4 |  | -17.8286 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
 | γ-Ca2SiO4 |  | -2316 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023 | Table 7, p. 8, row 17 |  |
 | γ-Ca2SiO4 |  | -2316 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 18 |  |
-| γ-Ca2SiO4 |  | -18.7429 kJ/mol-atom | 0 | DFT |  |  | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 
 ## Other properties
 
@@ -105,6 +98,20 @@ Table: Phase transition, Ca–O–Si system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1295.15 K | 1295.15 | polymorphic: Kilch → rank; _alloy: O 0.583333, Si 0.166667_ | unspecified | [1] Abdul 2023; _cites Hanic 1987_ | Table 2, p. 2, row 20 |  |
 | Phase transition | 1398.15 K | 1398.15 | polymorphic: Woll → p-woll; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Voronko 2002_ | Table 2, p. 2, row 21 |  |
+
+### Formation (7)
+
+Table: Formation, Ca–O–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| hm from compounds; _printed: Efor(0 K)_ | -17.6667 kJ/mol-atom | 0 | Ca3Si2O7; _alloy: O 0.583333, Si 0.166667_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 5 |  |
+| hm from compounds; _printed: Efor(0 K)_ | -15.5 kJ/mol-atom | 0 | CaSiO3-cyclowollastonite; _alloy: O 0.6, Si 0.2_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 7 |  |
+| hm from compounds; _printed: Efor(0 K)_ | -17.14 kJ/mol-atom | 0 | CaSiO3-wollastonite; _alloy: O 0.6, Si 0.2_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 6 |  |
+| hm from compounds; _printed: Efor_ | -13.1 kJ/mol-atom | 0 | Monoclinic-Ca3SiO5; _alloy: O 0.555556, Si 0.111111_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 1 |  |
+| hm from compounds; _printed: Efor_ | -17.4857 kJ/mol-atom | 0 | α′-Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
+| hm from compounds; _printed: Efor_ | -17.8286 kJ/mol-atom | 0 | β-Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
+| hm from compounds; _printed: Efor_ | -18.7429 kJ/mol-atom | 0 | γ-Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | DFT | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
 
 ### Heat capacity / entropy / enthalpy (53)
 
@@ -135,36 +142,36 @@ Table: Heat capacity / entropy / enthalpy, Ca–O–Si system
 | Heat capacity; _printed: Cp_ | 97.4 J/mol (basis unstated)/K ± 1 | 773.2 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Wagner 1932_ [doi](https://doi.org/10.1002/zaac.19322080102) | Table A.2, p. 13, row 16 |  |
 | Heat capacity; _printed: Cp_ | 0.22 J/mol (basis unstated)/K ± 0.01 | 791.95 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Wagner 1932_ [doi](https://doi.org/10.1002/zaac.19322080102) | Table A.2, p. 13, row 23 |  |
 | Heat capacity; _printed: Cp_ | 95.81 J/mol (basis unstated)/K ± 1 | 973.2 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Wagner 1932_ [doi](https://doi.org/10.1002/zaac.19322080102) | Table A.2, p. 13, row 24 |  |
-| Heat content; _printed: HT-H298K_ | 212360 J mol^-1 ± 6444.6 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7 |  |
-| Heat content; _printed: HT-H298K_ | 108431 J mol^-1 ± 3617.9 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 2 |  |
-| Heat content; _printed: HT-H298K_ | 171305 J mol^-1 ± 4185.5 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 5 |  |
-| Heat content; _printed: HT-H298K_ | 123307 J mol^-1 ± 3251.5 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3 |  |
-| Heat content; _printed: HT-H298K_ | 187890 J mol^-1 ± 4479.1 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6 |  |
-| Heat content; _printed: HT-H298K_ | 148802 J mol^-1 ± 3879.2 | 298.15 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4 |  |
-| Heat content; _printed: HT-H298K_ | 212360 J mol-1 ± 6444.6 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7 |  |
-| Heat content; _printed: HT-H298K_ | 108431 J mol-1 ± 3617.9 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 2 |  |
-| Heat content; _printed: HT-H298K_ | 171305 J mol-1 ± 4185.5 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 5 |  |
-| Heat content; _printed: HT-H298K_ | 123307 J mol-1 ± 3251.5 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3 |  |
-| Heat content; _printed: HT-H298K_ | 187890 J mol-1 ± 4479.1 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6 |  |
-| Heat content; _printed: HT-H298K_ | 148802 J mol-1 ± 3879.2 | 298.15 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4 |  |
-| Heat content; _printed: HT-H298K_ | 233440 J mol−1 K−1 ± 6032.1 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 5 |  |
-| Heat content; _printed: HT-H298K_ | 147433 J mol−1 K−1 ± 3570.3 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 2 |  |
-| Heat content; _printed: HT-H298K_ | 293304 J mol−1 K−1 ± 7690.3 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 7 |  |
-| Heat content; _printed: HT-H298K_ | 180037 J mol−1 K−1 ± 4109.9 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3 |  |
-| Heat content; _printed: HT-H298K_ | 264147 J mol−1 K−1 ± 6983.6 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 6 |  |
-| Heat content; _printed: HT-H298K_ | 206086 J mol−1 K−1 ± 5517.3 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4 |  |
-| Heat content; _printed: HT-H298K_ | 322841 J mol−1 K−1 ± 6913.1 | 298.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8 |  |
-| Heat content; _printed: HT-H298K_ | 233440 J mol-1 K-1 ± 6032.1 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 5 |  |
-| Heat content; _printed: HT-H298K_ | 147433 J mol-1 K-1 ± 3570.3 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 2 |  |
-| Heat content; _printed: HT-H298K_ | 293304 J mol-1 K-1 ± 7690.3 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 7 |  |
-| Heat content; _printed: HT-H298K_ | 180037 J mol-1 K-1 ± 4109.9 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3 |  |
-| Heat content; _printed: HT-H298K_ | 264147 J mol-1 K-1 ± 6983.6 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 6 |  |
-| Heat content; _printed: HT-H298K_ | 206086 J mol-1 K-1 ± 5517.3 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4 |  |
-| Heat content; _printed: HT-H298K_ | 322841 J mol-1 K-1 ± 6913.1 | 298.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8 |  |
-| Heat content; _printed: HT - H298.15_ | 148229 J mol^-1 ± 3574.7 | 298.15 | rankinite-Ca3Si2O7; _alloy: O 0.583333, Si 0.166667_ | unspecified | [1] Abdul 2023 | Table A.2, p. 13, row 10 |  |
+| Heat content; _printed: HT-H298K_ | 147433 J mol−1 K−1 ± 3570.3 | 872.45 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 2 |  |
+| Heat content; _printed: HT-H298K_ | 147433 J mol-1 K-1 ± 3570.3 | 872.45 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 2 |  |
+| Heat content; _printed: HT-H298K_ | 108431 J mol^-1 ± 3617.9 | 972.86 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 2 |  |
+| Heat content; _printed: HT-H298K_ | 108431 J mol-1 ± 3617.9 | 972.86 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 2 |  |
+| Heat content; _printed: HT-H298K_ | 180037 J mol−1 K−1 ± 4109.9 | 972.95 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3 |  |
+| Heat content; _printed: HT-H298K_ | 180037 J mol-1 K-1 ± 4109.9 | 972.95 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 3 |  |
 | Heat content; _printed: HT - H293.15_ | 28503.1 J mol^-1 ± 761 | 973.15 | wollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites H 1933_ | Table A.2, p. 13, row 17 |  |
+| Heat content; _printed: HT-H298K_ | 123307 J mol^-1 ± 3251.5 | 1072.09 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3 |  |
+| Heat content; _printed: HT-H298K_ | 123307 J mol-1 ± 3251.5 | 1072.09 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 3 |  |
+| Heat content; _printed: HT-H298K_ | 206086 J mol−1 K−1 ± 5517.3 | 1072.35 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4 |  |
+| Heat content; _printed: HT-H298K_ | 206086 J mol-1 K-1 ± 5517.3 | 1072.35 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 4 |  |
 | Heat content; _printed: HT - H273.15_ | 57803 J mol^-1 ± 2000 | 1152.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | unspecified | [1] Abdul 2023; _cites Richet 1991_ [doi](https://doi.org/10.1029/90jb02172) | Table A.2, p. 13, row 25 |  |
+| Heat content; _printed: HT-H298K_ | 148802 J mol^-1 ± 3879.2 | 1171.39 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4 |  |
+| Heat content; _printed: HT-H298K_ | 148802 J mol-1 ± 3879.2 | 1171.39 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 4 |  |
+| Heat content; _printed: HT - H298.15_ | 148229 J mol^-1 ± 3574.7 | 1172.05 | rankinite-Ca3Si2O7; _alloy: O 0.583333, Si 0.166667_ | unspecified | [1] Abdul 2023 | Table A.2, p. 13, row 10 |  |
+| Heat content; _printed: HT-H298K_ | 233440 J mol−1 K−1 ± 6032.1 | 1172.15 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 5 |  |
+| Heat content; _printed: HT-H298K_ | 233440 J mol-1 K-1 ± 6032.1 | 1172.15 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 5 |  |
+| Heat content; _printed: HT-H298K_ | 171305 J mol^-1 ± 4185.5 | 1271.67 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 5 |  |
+| Heat content; _printed: HT-H298K_ | 171305 J mol-1 ± 4185.5 | 1271.67 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 5 |  |
+| Heat content; _printed: HT-H298K_ | 264147 J mol−1 K−1 ± 6983.6 | 1271.95 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 6 |  |
+| Heat content; _printed: HT-H298K_ | 264147 J mol-1 K-1 ± 6983.6 | 1271.95 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 6 |  |
+| Heat content; _printed: HT-H298K_ | 293304 J mol−1 K−1 ± 7690.3 | 1370.85 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 7 |  |
+| Heat content; _printed: HT-H298K_ | 293304 J mol-1 K-1 ± 7690.3 | 1370.85 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 7 |  |
+| Heat content; _printed: HT-H298K_ | 187890 J mol^-1 ± 4479.1 | 1371.05 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6 |  |
+| Heat content; _printed: HT-H298K_ | 187890 J mol-1 ± 4479.1 | 1371.05 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 6 |  |
 | Heat content; _printed: HT - H273.15_ | 92588 J mol^-1 ± 2000 | 1454.4 | cyclowollastonite-CaSiO3; _alloy: O 0.6, Si 0.2_ | experimental | [1] Abdul 2023; _cites Courtial 2000_ [doi](https://doi.org/10.1007/s002690050253) | Table A.2, p. 13, row 26 |  |
+| Heat content; _printed: HT-H298K_ | 212360 J mol^-1 ± 6444.6 | 1471.05 | (γ, α') - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7 |  |
+| Heat content; _printed: HT-H298K_ | 212360 J mol-1 ± 6444.6 | 1471.05 | (γ, α′) - Ca2SiO4; _alloy: O 0.571429, Si 0.142857_ | experimental | [1] Abdul 2023 | Table 4, p. 7, row 7 |  |
+| Heat content; _printed: HT-H298K_ | 322841 J mol−1 K−1 ± 6913.1 | 1471.65 | Ca3Si2O7 (Rankinite); _alloy: O 0.583333, Si 0.166667_ | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8 |  |
+| Heat content; _printed: HT-H298K_ | 322841 J mol-1 K-1 ± 6913.1 | 1471.65 | Rankinite | experimental | [1] Abdul 2023 | Table 3, p. 7, row 8 |  |
 
 ### Activity / EMF / Gibbs energy (4)
 

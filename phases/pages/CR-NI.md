@@ -12,14 +12,14 @@ Table: Phases of the Cr–Ni system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cr-ni-bcc-a2); _phase:cr-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 10 calculated diagram(s): 300–2197.48 K, x(Ni) 0–0.3826 | 0 | 10 |
-| [B2_BCC](#phase-cr-ni-bcc-b2); _phase:cr-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273 | 3 | 3 |
+| [BCC_A2](#phase-cr-ni-bcc-a2); _phase:cr-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2197.48 K, x(Ni) 0–0.3826 | 0 | 10 |
+| [B2_BCC](#phase-cr-ni-bcc-b2); _phase:cr-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273 | 6 | 3 |
 | [CRNI2](#phase-cr-ni-crni2); _phase:cr-ni:crni2_ | MoPt2 · oI6 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–863.39 K, x(Ni) 0.66179–0.71048 | 4 | 5 |
 | [SIGMA_D8B](#phase-cr-ni-d8b-sigma); _phase:cr-ni:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [DIS_SIG](#phase-cr-ni-dis-sig); _phase:cr-ni:dis-sig_ |  | unresolved_no_candidates | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-cr-ni-fcc-4sl); _phase:cr-ni:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1728.16 K, x(Ni) 0.50323–1 | 0 | 1 |
-| [FCC_A1](#phase-cr-ni-fcc-a1); _phase:cr-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 10 calculated diagram(s): 300–1728.25 K, x(Ni) 0–1 | 0 | 10 |
-| [L12_FCC](#phase-cr-ni-fcc-l12); _phase:cr-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1 | 3 | 2 |
+| [FCC_A1](#phase-cr-ni-fcc-a1); _phase:cr-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1728.25 K, x(Ni) 0–1 | 0 | 10 |
+| [L12_FCC](#phase-cr-ni-fcc-l12); _phase:cr-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1 | 9 | 2 |
 | [HCP_A3](#phase-cr-ni-hcp-a3); _phase:cr-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [LIQUID](#phase-cr-ni-liquid); _phase:cr-ni:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1589.63–4000 K, x(Ni) 0–1 | 8 | 7 |
 
@@ -27,7 +27,7 @@ Table: Phases of the Cr–Ni system (10)
 
 - Id: `phase:cr-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 10 calculated diagram(s): 300–2197.48 K, x(Ni) 0–0.3826
+- Stability: stable in 7 of 7 calculated diagram(s): 300–2197.48 K, x(Ni) 0–0.3826
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:bcc-a2)
 
@@ -131,11 +131,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrNi-16Tan.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrNi-92Lee-LB.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2190.98 K, x(Ni) 0–0.40273
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:bcc-b2)
 
-Names (5): _corpus: _corpus:phase:cr-ni:bcc-b2  
-_paper: _paper:10.1016/s0364-5916(01)00049-9:β  
+Names (6): _corpus: _corpus:phase:cr-ni:bcc-b2  
+_paper: _paper:10.1016/j.calphad.2015.12.007:B2, paper:10.1016/s0364-5916(01)00049-9:β  
 _tdb: _tdb:CrNi-06Hal.tdb:B2_BCC, tdb:CrNi-16Tan.tdb:B2_BCC, tdb:CrNi-92Lee-LB.tdb:B2_BCC  
 
 
@@ -162,12 +162,14 @@ _tdb: _tdb:CrNi-06Hal.tdb:B2_BCC, tdb:CrNi-16Tan.tdb:B2_BCC, tdb:CrNi-92Lee-LB.t
 57: CONST B2_BCC : CR NI VA : CR NI% VA : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/0364-5916(92)90002-F](https://doi.org/10.1016/0364-5916%2892%2990002-F) B.-J. Lee, Calphad, 16, 121-49(1992).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.10.003](https://doi.org/10.1016/j.calphad.2016.10.003) F. Tang, B. Hallstedt, Calphad, 55, 260-69(2016).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007) Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016).  
+_reports values for this phase_
 - [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9) N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001).  
 _reports values for this phase_
 
@@ -331,7 +333,7 @@ _assessment that models this phase_
 
 - Id: `phase:cr-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 10 calculated diagram(s): 300–1728.25 K, x(Ni) 0–1
+- Stability: stable in 7 of 7 calculated diagram(s): 300–1728.25 K, x(Ni) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:fcc-a1)
 
@@ -433,11 +435,11 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in CrNi-06Hal.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in CrNi-92Lee-LB.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1728.25 K, x(Ni) 0.49994–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ni:fcc-l12)
 
-Names (5): _corpus: _corpus:phase:cr-ni:fcc-l12  
-_paper: _paper:10.1016/s0364-5916(01)00049-9:γ, paper:10.1016/s0364-5916(01)00049-9:γ'  
+Names (6): _corpus: _corpus:phase:cr-ni:fcc-l12  
+_paper: _paper:10.1016/j.calphad.2015.12.007:γ'-L12, paper:10.1016/s0364-5916(01)00049-9:γ, paper:10.1016/s0364-5916(01)00049-9:γ'  
 _tdb: _tdb:CrNi-06Hal.tdb:L12_FCC, tdb:CrNi-92Lee-LB.tdb:L12_FCC  
 
 
@@ -457,10 +459,12 @@ _tdb: _tdb:CrNi-06Hal.tdb:L12_FCC, tdb:CrNi-92Lee-LB.tdb:L12_FCC
 42: CONST L12_FCC : CR NI% : CR NI : VA :  !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/0364-5916(92)90002-F](https://doi.org/10.1016/0364-5916%2892%2990002-F) B.-J. Lee, Calphad, 16, 121-49(1992).  
 _assessment that models this phase_
+- [doi:10.1016/j.calphad.2015.12.007](https://doi.org/10.1016/j.calphad.2015.12.007) Xuan L. Liu, Greta Lindwall, Thomas Gheno, Zi-Kui Liu, Thermodynamic modeling of Al–Co–Cr, Al–Co–Ni, Co–Cr–Ni ternary systems towards a description for Al–Co–Cr–Ni, Calphad 52, 125-142 (2016).  
+_reports values for this phase_
 - [doi:10.1016/s0364-5916(01)00049-9](https://doi.org/10.1016/s0364-5916%2801%2900049-9) N. Dupin, I. Ansara, B. Sundman, Thermodynamic re-assessment of the ternary system Al-Cr-Ni, Calphad 25, 279-298 (2001).  
 _reports values for this phase_
 

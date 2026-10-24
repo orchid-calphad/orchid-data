@@ -1,10 +1,10 @@
 # Si–W system
 
-> Si–W system: 77 accepted literature values (invariant reaction 42, phase transition 24, formation 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–W system: 81 accepted literature values (invariant reaction 42, phase transition 24, formation 11, crystal structure 4) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-W.html · Markdown: https://data.orchid-project.org/systems/SI-W.md
 
-77 accepted literature values from 3 paper(s) (experimental 61, model 16); 4 calculated phase diagram(s).
+81 accepted literature values from 3 paper(s) (experimental 61, model 20); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-W.json) · [CSV](https://data.orchid-project.org/systems/SI-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-W/SiW-03Che-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/SI-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-W.html) · [Markdown](https://data.orchid-project.org/systems/SI-W.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 61 |
-| model | 16 |
+| model | 20 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 42 |
 | phase transition | 24 |
 | formation | 11 |
+| crystal structure | 4 |
 
 ## Calculated phase diagrams
 
@@ -166,6 +167,17 @@ Table: Phase transition, Si–W system
 | Phase transition | 3680 K | 3680 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 58_ | Table 8, p. 15, row 36 |  |
 | Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | experimental | [1] Vahlas 1989; _cites ref. 10_ | Table 8, p. 15, row 35 |  |
 | Phase transition | 3695 K | 3695 | W(bcc)->(L); _W(bcc): W 1_ | model | [1] Vahlas 1989 | Table 8, p. 15, row 34 |  |
+
+### Crystal structure (4)
+
+Table: Crystal structure, Si–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 9.59 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice a | 3.22 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
+| Lattice c | 4.92 Å | 298.15 | W5Si3; _alloy: Si 0.375, W 0.625_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 8 |  |
+| Lattice c | 7.83 Å | 298.15 | WSi2; _alloy: Si 0.666667, W 0.333333_ | model | [3] Li 2013; _cites Daams 1991_ | Table 1, p. 2, row 9 |  |
 
 ## Sources
 

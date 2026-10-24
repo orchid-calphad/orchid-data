@@ -12,10 +12,10 @@ Table: Phases of the Ce–Zr system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ce-zr-bcc-a2); _phase:ce-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 988.29–3999.1 K, x(Zr) 0–1 | 8 | 1 |
-| [DHCP](#phase-ce-zr-dhcp-a3); _phase:ce-zr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 3 | 1 |
+| [BCC_A2](#phase-ce-zr-bcc-a2); _phase:ce-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 988.29–3999.1 K, x(Zr) 0–1 | 6 | 1 |
+| [DHCP](#phase-ce-zr-dhcp-a3); _phase:ce-zr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [FCC_A1](#phase-ce-zr-fcc-a1); _phase:ce-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1000 K, x(Zr) 0–0.00644 | 2 | 1 |
-| [HCP_A3](#phase-ce-zr-hcp-a3); _phase:ce-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1139 K, x(Zr) 0.96921–1 | 7 | 1 |
+| [HCP_A3](#phase-ce-zr-hcp-a3); _phase:ce-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1139 K, x(Zr) 0.96921–1 | 6 | 1 |
 | [LIQUID](#phase-ce-zr-liquid); _phase:ce-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1064.72–4000 K, x(Zr) 0–1 | 4 | 1 |
 
 ## BCC_A2 (Ce–Zr)
@@ -23,11 +23,11 @@ Table: Phases of the Ce–Zr system (5)
 - Id: `phase:ce-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 988.29–3999.1 K, x(Zr) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-zr:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ce-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.05.002:bcc-Ce, paper:10.1016/j.calphad.2014.05.002:bcc-Zr, paper:10.1016/j.calphad.2014.05.002:β(Ce), paper:10.1016/j.calphad.2014.05.002:β(Zr)  
+Names (4): _corpus: _corpus:phase:ce-zr:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.05.002:bcc-Ce, paper:10.1016/j.calphad.2014.05.002:bcc-Zr  
 _tdb: _tdb:CeZr-14Mat.tdb:BCC_A2  
 
 
@@ -40,23 +40,21 @@ _tdb: _tdb:CeZr-14Mat.tdb:BCC_A2
 35: CONST BCC_A2 : CE% ZR% : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.05.002](https://doi.org/10.1016/j.calphad.2014.05.002) N. Mattern, Y. Yokoyama, A. Mizuno, J.H. Han, O. Fabrichnaya, H. Wendrock et al., Experimental and thermodynamic assessment of the Ce–Zr system, Calphad 46, 213-219 (2014).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1361/105497199770340590](https://doi.org/10.1361/105497199770340590) K. A. Gschneidner, V. K. Pecharsky, The standard state of cerium, JPE 20, 612-614 (1999).  
-_cited as the source of values for this phase_
 
 ## DHCP (Ce–Zr)
 
 - Id: `phase:ce-zr:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-zr:dhcp-a3)
 
-Names (6): _corpus: _corpus:phase:ce-zr:dhcp-a3, corpus:phase:ce-zr:dhcp  
-_paper: _paper:10.1016/j.calphad.2014.05.002:bcc-Ce, paper:10.1016/j.calphad.2014.05.002:dhcp-Ce, paper:10.1016/j.calphad.2014.05.002:fcc-Ce  
+Names (4): _corpus: _corpus:phase:ce-zr:dhcp-a3, corpus:phase:ce-zr:dhcp  
+_paper: _paper:10.1016/j.calphad.2014.05.002:dhcp-Ce  
 _tdb: _tdb:CeZr-14Mat.tdb:DHCP  
 
 
@@ -108,7 +106,7 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:ce-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1139 K, x(Zr) 0.96921–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-zr:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:ce-zr:hcp-a3  

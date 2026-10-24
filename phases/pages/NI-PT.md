@@ -12,18 +12,18 @@ Table: Phases of the Ni–Pt system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-ni-pt-bcc-a2); _phase:ni-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [BCC_A2](#phase-ni-pt-bcc-a2); _phase:ni-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 2 |
 | [B2_BCC](#phase-ni-pt-bcc-b2); _phase:ni-pt:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-ni-pt-fcc-4sl); _phase:ni-pt:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2499 K, x(Pt) 0–1 | 0 | 1 |
-| [A1_FCC](#phase-ni-pt-fcc-a1); _phase:ni-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–2020 K, x(Pt) 0–0.99 | 0 | 2 |
+| [FCC_A1](#phase-ni-pt-fcc-a1); _phase:ni-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2020 K, x(Pt) 0–0.99 | 0 | 2 |
 | [HCP_A3](#phase-ni-pt-hcp-a3); _phase:ni-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ni-pt-liquid); _phase:ni-pt:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1707.92–2500 K, x(Pt) 0–1 | 0 | 1 |
 
-## A2_BCC (Ni–Pt)
+## BCC_A2 (Ni–Pt)
 
 - Id: `phase:ni-pt:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 2 calculated diagram(s)
+- Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-pt:bcc-a2)
 
@@ -31,7 +31,7 @@ Names (3): _corpus: _corpus:phase:ni-pt:bcc-a2
 _tdb: _tdb:NiPt-09Lu.tdb:A2_BCC, tdb:NiPt-09Lu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [NiPt-09Lu.tdb](https://orchid-project.org/data/databases/sgte-binary/NiPt-09Lu.tdb): A2_BCC, type code %B, sha256 `fe66306490091640…`
 
@@ -114,11 +114,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.1016/j.calphad.2009.06.002](https://doi.org/10.1016/j.calphad.2009.06.002) Xiao-Gang Lu, Bo Sundman, John A˚gren, Thermodynamic assessments of the Ni–Pt and Al–Ni–Pt systems, Calphad 33, 450-456 (2009).  
 _assessment that models this phase_
 
-## A1_FCC (Ni–Pt)
+## FCC_A1 (Ni–Pt)
 
 - Id: `phase:ni-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–2020 K, x(Pt) 0–0.99
+- Stability: stable in 1 of 1 calculated diagram(s): 300–2020 K, x(Pt) 0–0.99
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-pt:fcc-a1)
 
@@ -126,7 +126,7 @@ Names (3): _corpus: _corpus:phase:ni-pt:fcc-a1
 _tdb: _tdb:NiPt-09Lu.tdb:A1_FCC, tdb:NiPt-09Lu.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written
 
 [NiPt-09Lu.tdb](https://orchid-project.org/data/databases/sgte-binary/NiPt-09Lu.tdb): A1_FCC, type code %A, sha256 `fe66306490091640…`
 

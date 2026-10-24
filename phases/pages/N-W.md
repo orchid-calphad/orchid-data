@@ -129,6 +129,7 @@ _assessment that models this phase_
 - Structure: WC · B_h · hP2 · P-6m2 (187); type `st:b-h-wc-hp2`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:MC,SHP, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: N 0.5000, W 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–565.67 K, x(N) 0.5–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-w:mc-shp)

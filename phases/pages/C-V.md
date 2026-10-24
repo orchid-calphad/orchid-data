@@ -1,33 +1,33 @@
 # C–V phases
 
-> C–V system: 11 phases (tier A 5, tier C 4, liquid 1, unresolved_no_candidates 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–V system: 10 phases (tier A 4, tier C 3, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-V.html · Markdown: https://data.orchid-project.org/phases/pages/C-V.md
 
-11 phases (tier A 5, tier C 4, liquid 1, unresolved_no_candidates 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 4, tier C 3, liquid 1, needs_review 1, interstitial_fcc_a1_compound 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-V) · [full JSON](https://data.orchid-project.org/phases/systems/C-V.json) · [C–V system page](https://data.orchid-project.org/systems/C-V.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-V.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the C–V system (11)
+Table: Phases of the C–V system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-c-v-a4-diamond); _phase:c-v:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [GRAPHITE_A9](#phase-c-v-a9-graphite); _phase:c-v:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 3 |
-| [BCC_A2](#phase-c-v-bcc-a2); _phase:c-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2198 K, x(C) 0–0.0383 | 4 | 3 |
-| [FCC_A1](#phase-c-v-fcc-a1); _phase:c-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 300–2931.49 K, x(C) 0.37104–0.49502 | 19 | 4 |
+| [BCC_A2](#phase-c-v-bcc-a2); _phase:c-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2198 K, x(C) 0–0.0383 | 2 | 3 |
+| [FCC_A1](#phase-c-v-fcc-a1); _phase:c-v:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 3 of 3 calculated diagram(s): 300–2931.49 K, x(C) 0.37104–0.49502 | 19 | 4 |
 | [HCP_A3](#phase-c-v-hcp-a3); _phase:c-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2466.49 K, x(C) 0.28161–0.33333 | 12 | 3 |
 | [LIQUID](#phase-c-v-liquid); _phase:c-v:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1920.76–4000 K, x(C) 0–0.64671 | 18 | 3 |
 | [V3C2](#phase-c-v-v3c2); _phase:c-v:v3c2_ | Sc2Te3 · hR8 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1591.67 K, x(C) 0.4–0.4 | 0 | 2 |
-| [V4C3](#phase-c-v-v4c3); _phase:c-v:v4c3_ | Sc2Te3 · hR8 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1534.2–2150 K, x(C) 0.379–0.379 | 4 | 1 |
+| [V4C3](#phase-c-v-v4c3); _phase:c-v:v4c3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1534.2–2150 K, x(C) 0.379–0.379 | 4 | 1 |
 | [V6C5](#phase-c-v-v6c5); _phase:c-v:v6c5_ | V6C5 · hP33 · P3_112 (151) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2931.49 K, x(C) 0.37104–0.47241 | 13 | 1 |
-| [V6C5-2](#phase-c-v-v6c5-2); _phase:c-v:v6c5-2_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [V8C7](#phase-c-v-v8c7); _phase:c-v:v8c7_ | V8C7 · cP60 · P4_132 (213) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 647.96–1381.99 K, x(C) 0.46667–0.46667 | 11 | 1 |
 
 ## DIAMOND_A4 (C–V)
 
 - Id: `phase:c-v:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:a4-diamond)
@@ -72,6 +72,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-v:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:a9-graphite)
@@ -117,7 +118,7 @@ _assessment that models this phase_
 - Id: `phase:c-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2198 K, x(C) 0–0.0383
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:bcc-a2)
 
 Names (5): _corpus: _corpus:phase:c-v:bcc-a2  
@@ -162,8 +163,8 @@ _cited as the source of values for this phase_
 ## FCC_A1 (C–V)
 
 - Id: `phase:c-v:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 4 calculated diagram(s): 300–2931.49 K, x(C) 0.37104–0.49502
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
+- Stability: stable in 3 of 3 calculated diagram(s): 300–2931.49 K, x(C) 0.37104–0.49502
 - Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:fcc-a1)
 
@@ -328,7 +329,8 @@ _cited as the source of values for this phase_
 - Id: `phase:c-v:v3c2`; status `assigned`
 - Structure: Sc2Te3 · hR8 · R-3m (166); type `st:sc2te3-hr8`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: C 0.4000, V 0.6000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1591.67 K, x(C) 0.4–0.4
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:v3c2)
@@ -362,10 +364,12 @@ _assessment that models this phase_
 
 ## V4C3 (C–V)
 
-- Id: `phase:c-v:v4c3`; status `assigned`
-- Structure: Sc2Te3 · hR8 · R-3m (166); type `st:sc2te3-hr8`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Id: `phase:c-v:v4c3`; status `needs_review`
+- No structure assigned. Why: assessment_declared_compound_differs_from_model_composition; no_on_hull_entry_in_both; no_structure_token
+- Candidate (literature_printed): Sc2Te3 · hR8 — printed with a label mapped to this phase
+- Candidate (sgte_mmc2): Sc2Te3 · hR8 · R-3m (166) — Hallstedt 2025 mmc2 row for V4C3: V3C2 (zeta-carbide)
+- Candidate (tdb_comment): Sc2Te3 · hR8 · R-3m — VC-06Hu.tdb: 'Prototype Sc2Te3 (hR8, R-3m), zeta-carbide'
+- Stoichiometry: C 0.3790, V 0.6210
 - Stability: stable in 1 of 1 calculated diagram(s): 1534.2–2150 K, x(C) 0.379–0.379
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:v4c3)
@@ -401,7 +405,7 @@ _cited as the source of values for this phase_
 - Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:v6c5)
 
-Names (3): _corpus: _corpus:phase:c-v:v6c5  
+Names (4): _corpus: _corpus:phase:c-v:v6c5, corpus:phase:c-v:v6c5-2  
 _paper: _paper:10.1016/j.jallcom.2005.11.033:V6C5  
 _tdb: _tdb:VC-06Hu.tdb:V6C5  
 
@@ -424,23 +428,13 @@ _cited as the source of values for this phase_
 - [doi:10.1007/bf00547575](https://doi.org/10.1007/bf00547575) George H. Emmons, Wendell S. Williams, Thermodynamics of order-disorder transformations in vanadium carbide, J Mater Sci 18, 2589-2602 (1983).  
 _cited as the source of values for this phase_
 
-## V6C5-2 (C–V)
-
-- Id: `phase:c-v:v6c5-2`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:2; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:v6c5-2)
-
-Names (1): _corpus: _corpus:phase:c-v:v6c5-2  
-
-
 ## V8C7 (C–V)
 
 - Id: `phase:c-v:v8c7`; status `assigned`
 - Structure: V8C7 · cP60 · P4_132 (213); type `st:v8c7-cp60`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: C 0.4667, V 0.5333
 - Stability: stable in 1 of 1 calculated diagram(s): 647.96–1381.99 K, x(C) 0.46667–0.46667
 - Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-v:v8c7)

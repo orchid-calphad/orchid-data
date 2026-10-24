@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Ce5Sn3.html · Markdown: https://data.orchid-project.org/compounds/Ce5Sn3.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -74.26 kJ/mol-atom (n = 2); Materials Project -51.357 kJ/mol-atom (mp-aaabkgtw); OQMD -68.361 kJ/mol-atom (oqmd-18282).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 3); experimental median -74.26 kJ/mol-atom (n = 2); Materials Project -51.357 kJ/mol-atom (mp-aaabkgtw); OQMD -68.361 kJ/mol-atom (oqmd-18282).
 
-Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
+Systems: [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html)
 
 ## Literature values
 
@@ -14,13 +14,13 @@ Table: Enthalpy of formation of Ce5Sn3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -75.3 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
-| -73.22 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |
-| -75 kJ/mol-atom | αCe5Sn3 | 300 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
-| -70.03 kJ/mol-atom | βCe5Sn3 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 22 |  |
-| -65.89 kJ/mol-atom | αCe5Sn3 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 23 |  |
-| -65.34 kJ/mol-atom | βCe5Sn3 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 21 |  |
-| -73.794 kJ/mol-atom | Ce5Sn3 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 4 |  |
+| -75.3 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borsese 1980_ [doi](https://doi.org/10.1016/0022-5088%2880%2990230-1) | Table 4, p. 4, row 26 |  |
+| -73.22 kJ/mol-atom ± 4.2 | αCe5Sn3 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 24 |  |
+| -75 kJ/mol-atom | αCe5Sn3 | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 25 |  |
+| -70.03 kJ/mol-atom | βCe5Sn3 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 22 |  |
+| -73.794 kJ/mol-atom | Ce5Sn3 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 4 |  |
+| -65.89 kJ/mol-atom | αCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 23 |  |
+| -65.34 kJ/mol-atom | βCe5Sn3 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 21 |  |
 
 ### Uncertainty budget
 
@@ -32,11 +32,11 @@ Table: Uncertainty budget of the literature values of Ce5Sn3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -75.3 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
 | -73.22 | kJ/mol-atom | 4.2 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
-| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -70.03 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65.89 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65.34 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.794 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -75 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -70.03 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -73.794 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -65.89 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -65.34 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

@@ -190,11 +190,15 @@ _assessment that models this phase_
 
 - Id: `phase:w-zr:w2zr-c15`; status `assigned`
 - Structure: Cu2Mg · C15 · cF24 · Fd-3m (227); type `st:c15-cu2mg-cf24`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaaazz and oqmd-18179, space group 227
+- Stoichiometry: W 0.6667, Zr 0.3333
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2483.01 K, x(Zr) 0.33333–0.33333
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:w-zr:w2zr-c15)
 
-Names (4): _corpus: _corpus:phase:w-zr:w2zr-c15  
+Names (6): _corpus: _corpus:phase:w-zr:w2zr-c15  
+_mp: _mp:mp-aaaaaazz  
+_oqmd: _oqmd:oqmd-18179  
 _tdb: _tdb:WZr-05Che-LB.tdb:W2ZR_C15, tdb:WZr-14Guo.tdb:W2ZR_C15, tdb:WZr-15Zho.tdb:W2ZR_C15  
 
 

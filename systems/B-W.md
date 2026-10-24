@@ -1,10 +1,10 @@
 # B–W system
 
-> B–W system: 197 accepted literature values (crystal structure 133, invariant reaction 24, formation 21, heat capacity / entropy / enthalpy 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–W system: 184 accepted literature values (crystal structure 120, invariant reaction 24, formation 21, heat capacity / entropy / enthalpy 19) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-W.html · Markdown: https://data.orchid-project.org/systems/B-W.md
 
-197 accepted literature values from 1 paper(s) (experimental 105, model 39, unspecified 53); 0 calculated phase diagram(s).
+184 accepted literature values from 1 paper(s) (experimental 102, model 31, unspecified 51); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-W.json) · [CSV](https://data.orchid-project.org/systems/B-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-W) · [phases (10)](https://data.orchid-project.org/phases/pages/B-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-W.html) · [Markdown](https://data.orchid-project.org/systems/B-W.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 105 |
-| model | 39 |
-| unspecified | 53 |
+| experimental | 102 |
+| model | 31 |
+| unspecified | 51 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 24 |
 | formation | 21 |
 | heat capacity / entropy / enthalpy | 19 |
-| crystal structure | 133 |
+| crystal structure | 120 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-W.json)
 
@@ -116,17 +116,12 @@ Table: Heat capacity / entropy / enthalpy, B–W system
 | Heat capacity; _printed: C^0_p_ | 33.7 unknown |  | αWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 93Kub_ | Table 6, p. 7, row 13 |  |
 | Heat capacity; _printed: C^0_p_ | 36.4 unknown |  | βWB; _alloy: W 0.5_ | model | [1] Duschanek 1995 | Table 6, p. 7, row 15 |  |
 
-### Crystal structure (133)
+### Crystal structure (120)
 
 Table: Crystal structure, B–W system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 10.9382 Å ± 5.000e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| Lattice a | 10.9276 Å ± 5.000e-4 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| Lattice a | 10.9251 Å | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
-| Lattice a | 3.1665 Å | 298.15 | W; _alloy: W 1_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.1652 Å | 298.15 | W; _alloy: W 1_ | model | [1] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
 | Lattice a | 5.189 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
 | Lattice a | 5.2 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
 | Lattice a | 5.2004 Å ± 2.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
@@ -169,9 +164,6 @@ Table: Crystal structure, B–W system
 | Lattice b | 8.445 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
 | Lattice b | 8.4 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
 | Lattice b | 8.506 Å | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
-| Lattice c | 23.8356 Å ± 0.0018 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| Lattice c | 23.8141 Å ± 0.0015 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| Lattice c | 23.8143 Å | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
 | Lattice c | 6.332 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
 | Lattice c | 6.34 Å | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
 | Lattice c | 6.3348 Å ± 3.000e-4 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |
@@ -211,11 +203,6 @@ Table: Crystal structure, B–W system
 | Lattice c | 3.06 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Rudy 1963_ | Table 2, p. 3, row 22 |  |
 | Lattice c | 3.07 Å | 298.15 | βWB; _alloy: W 0.5_ | experimental | [1] Duschanek 1995; _cites Post 1952_ [doi](https://doi.org/10.1063/1.1700644) | Table 2, p. 3, row 21 |  |
 | Lattice c | 3.065 Å | 298.15 | βWB; _alloy: W 0.5_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 23 |  |
-| lattice v | 2469.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 44 |  |
-| lattice v | 2462.72 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | model | [1] Duschanek 1995; _cites Crespo 1981_ | Table 2, p. 3, row 43 |  |
-| lattice v | 2461.61 nm3 × 10^3 | 298.15 | B; _alloy: W 0_ | experimental | [1] Duschanek 1995; _cites Callmer 1977_ | Table 2, p. 3, row 42 |  |
-| lattice v | 31.75 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | unspecified | [1] Duschanek 1995; _cites ref. 65Rud_ | Table 2, p. 3, row 2 |  |
-| lattice v | 31.71 nm3 × 10^3 | 298.15 | W; _alloy: W 1_ | model | [1] Duschanek 1995; _cites Massalski 1990_ | Table 2, p. 3, row 1 |  |
 | lattice v | 147.65 nm3 × 10^3 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites E Galasso and A 1966_ | Table 2, p. 3, row 38 |  |
 | lattice v | 148.47 nm3 × 10^3 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites EA 1966_ | Table 2, p. 3, row 37 |  |
 | lattice v | 148.37 nm3 × 10^3 | 298.15 | W1-xB3; _alloy: W 0.25_ | experimental | [1] Duschanek 1995; _cites LundstrOm 1968_ | Table 2, p. 3, row 40 |  |

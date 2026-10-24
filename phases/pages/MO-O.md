@@ -1,10 +1,10 @@
 # Mo–O phases
 
-> Mo–O system: 13 phases (tier A 3, tier C 3, liquid 2, gas 2, needs_review 3); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mo–O system: 13 phases (tier A 3, tier C 3, liquid 3, gas 2, needs_review 2); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MO-O.html · Markdown: https://data.orchid-project.org/phases/pages/MO-O.md
 
-13 phases (tier A 3, tier C 3, liquid 2, gas 2, needs_review 3); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+13 phases (tier A 3, tier C 3, liquid 3, gas 2, needs_review 2); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MO-O) · [full JSON](https://data.orchid-project.org/phases/systems/MO-O.json) · [Mo–O system page](https://data.orchid-project.org/systems/MO-O.html) · [Markdown](https://data.orchid-project.org/phases/pages/MO-O.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -17,7 +17,7 @@ Table: Phases of the Mo–O system (13)
 | [GAS](#phase-mo-o-gas); _phase:mo-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300.22–4000 K, x(O) 0.65995–1 | 0 | 2 |
 | [HCP_A3](#phase-mo-o-hcp-a3); _phase:mo-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [ION](#phase-mo-o-ion); _phase:mo-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1055.64–4000 K, x(O) 0–0.75189 | 0 | 1 |
-| [OXIDE_L](#phase-mo-o-l-oxide); _phase:mo-o:l-oxide_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1070.09–1576.58 K, x(O) 0.73644–0.74999 | 0 | 1 |
+| [OXIDE_L](#phase-mo-o-l-oxide); _phase:mo-o:l-oxide_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1070.09–1576.58 K, x(O) 0.73644–0.74999 | 0 | 1 |
 | [LIQUID](#phase-mo-o-liquid); _phase:mo-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2481.38–4000 K, x(O) 0–0.1831 | 9 | 1 |
 | [MO4O11](#phase-mo-o-mo4o11); _phase:mo-o:mo4o11_ | Mo4O11 · oP60 · Pna2_1 (33) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1093.72 K, x(O) 0.73333–0.73333 | 18 | 2 |
 | [MO8O23](#phase-mo-o-mo8o23); _phase:mo-o:mo8o23_ | Mo8O23 · mP62 · P2/c (13) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1070.09 K, x(O) 0.74194–0.74194 | 42 | 2 |
@@ -196,11 +196,8 @@ _assessment that models this phase_
 
 ## OXIDE_L (Mo–O)
 
-- Id: `phase:mo-o:l-oxide`; status `needs_review`
-- No structure assigned. Why: name_has_descriptive_tokens:L; no_structure_token
-- Candidate (dft_mp): P2/c (13) — on-hull MP Mo8O23 at x(O)=0.7419
-- Candidate (dft_mp): C2/c (15) — on-hull MP Mo9O26 at x(O)=0.7429
-- Candidate (dft_oqmd): P2/c (13) — on-hull OQMD Mo9 O26 at x(O)=0.7429
+- Id: `phase:mo-o:l-oxide`; status `assigned`
+- Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1070.09–1576.58 K, x(O) 0.73644–0.74999
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-o:l-oxide)

@@ -12,7 +12,7 @@ Table: Phases of the Hf–Os system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-hf-os-bcc-a2); _phase:hf-os:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1500–2450 K, x(Os) 0–0.13 | 4 | 2 |
+| [BCC_A2](#phase-hf-os-bcc-a2); _phase:hf-os:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1500–2450 K, x(Os) 0–0.13 | 4 | 2 |
 | [B2_BCC](#phase-hf-os-bcc-b2); _phase:hf-os:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2867.72 K, x(Os) 0–0.5 | 6 | 1 |
 | [FCC_A1](#phase-hf-os-fcc-a1); _phase:hf-os:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-hf-os-hcp-a3); _phase:hf-os:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.74 K, x(Os) 0–1 | 4 | 1 |
@@ -20,11 +20,11 @@ Table: Phases of the Hf–Os system (7)
 | [HFOS2_C14](#phase-hf-os-hfos2-c14); _phase:hf-os:hfos2-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2952.94 K, x(Os) 0.6516–0.6723 | 6 | 1 |
 | [LIQUID](#phase-hf-os-liquid); _phase:hf-os:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1872.91–4000 K, x(Os) 0–1 | 12 | 1 |
 
-## A2_BCC (Hf–Os)
+## BCC_A2 (Hf–Os)
 
 - Id: `phase:hf-os:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1500–2450 K, x(Os) 0–0.13
+- Stability: stable in 1 of 1 calculated diagram(s): 1500–2450 K, x(Os) 0–0.13
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hf-os:bcc-a2)
 
@@ -33,7 +33,7 @@ _paper: _paper:10.1016/j.jallcom.2005.06.034:bcc(Hf)
 _tdb: _tdb:HfOs-06Guo.tdb:A2_BCC, tdb:HfOs-06Guo.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [HfOs-06Guo.tdb](https://orchid-project.org/data/databases/sgte-binary/HfOs-06Guo.tdb): A2_BCC, type code %B, sha256 `a62b29616d7b4270…`
 

@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of Bi2Mg3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -37.181 | kJ/mol (basis unstated) |  | 5.000e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -30.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -25.377 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -34.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.884 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.255 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25.355 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -37.181 | kJ/mol (basis unstated) |  | 5.000e-4 | 23 (emf, cleaned_below_threshold) |  |  |  | 23 |
+| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -31.403 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |
+| -30.146 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 17.5 |
+| -25.377 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (evaluated_compilation, calibrated) |  |  |  | 17.5 |
+| -34.08 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -33.884 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -33.255 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -25.355 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -71.276 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
+| -31.454 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
+| -24.369 | kJ/mol (basis unstated) |  | 5.000e-4 | 42.36 (dft, calibrated) |  |  |  | 42.36 |
 
 ## Sources
 

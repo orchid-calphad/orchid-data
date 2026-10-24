@@ -1,10 +1,10 @@
 # Fe–Mn–Nb system
 
-> Fe–Mn–Nb system: 277 accepted literature values (crystal structure 222, invariant reaction 55) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mn–Nb system: 205 accepted literature values (crystal structure 152, invariant reaction 53) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MN-NB.html · Markdown: https://data.orchid-project.org/systems/FE-MN-NB.md
 
-277 accepted literature values from 1 paper(s) (experimental 31, model 38, DFT 208); 0 calculated phase diagram(s).
+205 accepted literature values from 1 paper(s) (experimental 30, model 27, DFT 148); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN-NB.json) · [CSV](https://data.orchid-project.org/systems/FE-MN-NB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN-NB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN-NB.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN-NB.md)
 
@@ -12,20 +12,20 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 38 |
-| DFT | 208 |
+| experimental | 30 |
+| model | 27 |
+| DFT | 148 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 55 |
-| crystal structure | 222 |
+| invariant reaction | 53 |
+| crystal structure | 152 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Fe–Mn–Nb system (55)
+Table: Invariant reactions reported in the literature for the Fe–Mn–Nb system (53)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -72,8 +72,6 @@ Table: Invariant reactions reported in the literature for the Fe–Mn–Nb syste
 | 1416.15 | (δMn) + λ ↔ (βMn) | (δMn): Nb 0.0161; λ: Nb 0.2951; (βMn): Nb 0.0233 | model | [1] Liu 2012 | Table 2, p. 4, row 58 |  |
 | 1416.15 | (δMn) + λ ↔ (βMn) | (δMn): Nb 0.0151; λ: Nb 0.2914; (βMn): Nb 0.0225 | model | [1] Liu 2012 | Table 2, p. 4, row 59 |  |
 | 1408.15 | (γMn) + λ ↔ (βMn) |  | experimental | [1] Liu 2012; _cites Savitskii 1960_ | Table 2, p. 4, row 60 |  |
-| 1395.15 | (δMn) ↔ (γMn) + (βMn) | (δMn): Nb 0.0051; (γMn): Nb 0.0032; (βMn): Nb 0.0079 | model | [1] Liu 2012 | Table 2, p. 4, row 62 |  |
-| 1393.15 | (δMn) ↔ (γMn) + (βMn) | (γMn): Nb 0.004 | experimental | [1] Liu 2012; _cites Hellawell 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990036-0) | Table 2, p. 4, row 61 |  |
 | 1373.15 | (δMn) + λ ↔ (βMn) |  | experimental | [1] Liu 2012; _cites Svechnikov 1976_ | Table 2, p. 4, row 57 |  |
 | 1262.15 | (γFe) + ε ↔ (αFe) |  | experimental | [1] Liu 2012; _cites Genders 1939_ | Table 2, p. 4, row 24 |  |
 | 1238.15 | (γFe) + ε ↔ (αFe) | (γFe): Nb 0.0048; ε: Nb 0.3477; (αFe): Nb 0.0307 | experimental | [1] Liu 2012; _cites Eggers 1938_ | Table 2, p. 4, row 23 |  |
@@ -87,38 +85,25 @@ Table: Invariant reactions reported in the literature for the Fe–Mn–Nb syste
 
 ## Other properties
 
-### Crystal structure (222)
+### Crystal structure (152)
 
 Table: Crystal structure, Fe–Mn–Nb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.322 Å |  | (Nb); _alloy: Mn 0, Nb 1_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 8 |  |
-| Lattice a | 3.32 Å |  | (Nb); _alloy: Mn 0, Nb 1_ | model | [1] Liu 2012 | Table 5, p. 9, row 7 |  |
 | Lattice a | 2.832 Å |  | (αFe); _alloy: Mn 0, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 1 |  |
 | Lattice a | 2.822 Å |  | (αFe); _alloy: Mn 0, Nb 0_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 2 |  |
-| Lattice a | 3.502 Å |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 4 |  |
-| Lattice a | 3.496 Å |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 3 |  |
-| Lattice a | 3.55 Å |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 5 |  |
-| Lattice a | 4.547 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 7 |  |
 | Lattice a | 4.822 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 12 |  |
 | Lattice a | 4.677 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 18 |  |
-| Lattice a | 5.438 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4 |  |
-| Lattice a | 5.467 Å | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
 | Lattice a | 5.423 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
 | Lattice a | 4.766 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
 | Lattice a | 5.341 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
 | Lattice a | 5.385 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
-| Lattice a | 4.806 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| Lattice a | 5.471 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | Lattice a | 4.531 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | Lattice a | 4.797 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
 | Lattice a | 4.56 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 19 |  |
-| Lattice a | 4.802 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 2 |  |
-| Lattice a | 5.432 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 6 |  |
 | Lattice a | 4.743 Å | 0 | μ; _alloy: Mn 0.307692, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 43 |  |
 | Lattice a | 4.855 Å | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 21 |  |
-| Lattice a | 4.854 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 36 |  |
 | Lattice a | 4.883 Å | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 20 |  |
 | Lattice a | 5.437 Å | 0 | μ; _alloy: Mn 0, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 28 |  |
 | Lattice a | 4.837 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 51 |  |
@@ -134,44 +119,28 @@ Table: Crystal structure, Fe–Mn–Nb system
 | Lattice a | 4.875 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 46 |  |
 | Lattice a | 5.367 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 49 |  |
 | Lattice a | 5.458 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 50 |  |
-| Lattice a | 4.826 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 35 |  |
 | Lattice a | 5.452 Å | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 31 |  |
 | Lattice a | 4.879 Å | 0 | μ; _alloy: Mn 0, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 22 |  |
 | Lattice a | 4.762 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 54 |  |
-| Lattice a | 4.974 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 38 |  |
 | Lattice a | 5.015 Å | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 26 |  |
-| Lattice a | 5.465 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40 |  |
-| Lattice a | 4.971 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37 |  |
-| Lattice a | 5.456 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39 |  |
 | Lattice a | 4.71 Å | 0 | μ; _alloy: Mn 0, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 24 |  |
-| Lattice a | 5.456 Å | 0 | μ; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 34 |  |
 | Lattice a | 4.914 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 45 |  |
 | Lattice a | 4.767 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 47 |  |
 | Lattice a | 4.756 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 53 |  |
 | Lattice a | 4.97 Å | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 27 |  |
 | Lattice a | 4.856 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 42 |  |
 | Lattice a | 5.45 Å | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 30 |  |
-| Lattice c | 7.358 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 7 |  |
 | Lattice c | 7.839 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 12 |  |
 | Lattice c | 7.615 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 18 |  |
-| Lattice c | 8.428 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4 |  |
-| Lattice c | 8.869 Å | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
 | Lattice c | 8.587 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
-| Lattice c | 7.357 Å | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 9 |  |
 | Lattice c | 7.811 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
 | Lattice c | 8.482 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
 | Lattice c | 8.258 Å | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
-| Lattice c | 7.937 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| Lattice c | 8.524 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | Lattice c | 7.288 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | Lattice c | 7.891 Å | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
 | Lattice c | 7.471 Å | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 19 |  |
-| Lattice c | 7.942 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 2 |  |
-| Lattice c | 9.135 Å | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 6 |  |
-| Lattice c | 7.93 Å | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 1 |  |
 | Lattice c | 25.968 Å | 0 | μ; _alloy: Mn 0.307692, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 43 |  |
 | Lattice c | 27 Å | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 21 |  |
-| Lattice c | 27.056 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 36 |  |
 | Lattice c | 26.247 Å | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 20 |  |
 | Lattice c | 27.368 Å | 0 | μ; _alloy: Mn 0, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 28 |  |
 | Lattice c | 26.493 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 51 |  |
@@ -187,40 +156,23 @@ Table: Crystal structure, Fe–Mn–Nb system
 | Lattice c | 26.757 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 46 |  |
 | Lattice c | 27.057 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 49 |  |
 | Lattice c | 26.357 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 50 |  |
-| Lattice c | 27.349 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 35 |  |
 | Lattice c | 28.488 Å | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 31 |  |
 | Lattice c | 25.628 Å | 0 | μ; _alloy: Mn 0, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 22 |  |
 | Lattice c | 26.228 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 54 |  |
-| Lattice c | 27.169 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 38 |  |
 | Lattice c | 26.103 Å | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 26 |  |
-| Lattice c | 27.784 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40 |  |
-| Lattice c | 27.167 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37 |  |
-| Lattice c | 27.855 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39 |  |
 | Lattice c | 25.794 Å | 0 | μ; _alloy: Mn 0, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 24 |  |
-| Lattice c | 28.825 Å | 0 | μ; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 34 |  |
 | Lattice c | 25.934 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 45 |  |
 | Lattice c | 25.341 Å | 0 | μ; _alloy: Mn 0.076923, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 47 |  |
 | Lattice c | 25.876 Å | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 53 |  |
 | Lattice c | 27.027 Å | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 27 |  |
 | Lattice c | 26.964 Å | 0 | μ; _alloy: Mn 0.461538, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 42 |  |
 | Lattice c | 28.522 Å | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 30 |  |
-| lattice v0 | 36.7 Å3 |  | (Nb); _alloy: Mn 0, Nb 1_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 8 |  |
-| lattice v0 | 36.6 Å3 |  | (Nb); _alloy: Mn 0, Nb 1_ | model | [1] Liu 2012 | Table 5, p. 9, row 7 |  |
 | lattice v0 | 22.7 Å3 |  | (αFe); _alloy: Mn 0, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 1 |  |
 | lattice v0 | 22.5 Å3 |  | (αFe); _alloy: Mn 0, Nb 0_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 2 |  |
-| lattice v0 | 43 Å3 |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012; _cites Wang 2004_ [doi](https://doi.org/10.1016/j.calphad.2004.05.002) | Table 5, p. 9, row 4 |  |
-| lattice v0 | 42.7 Å3 |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 3 |  |
-| lattice v0 | 44.7 Å3 |  | (γMn); _alloy: Mn 1, Nb 0_ | model | [1] Liu 2012 | Table 5, p. 9, row 5 |  |
-| lattice v0 | 131.7 Å3 per formula unit | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 7 |  |
-| lattice v0 | 131.7 Å3 | 0 | C14; _alloy: Mn 1, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 7 |  |
 | lattice v0 | 157.9 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 12 |  |
 | lattice v0 | 157.9 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 12 |  |
 | lattice v0 | 144.3 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 18 |  |
 | lattice v0 | 144.3 Å3 | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 18 |  |
-| lattice v0 | 215.8 Å3 | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4 |  |
-| lattice v0 | 215.8 Å3 per formula unit | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 4 |  |
-| lattice v0 | 229.6 Å3 | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
-| lattice v0 | 229.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 10 |  |
 | lattice v0 | 218.7 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
 | lattice v0 | 218.7 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 15 |  |
 | lattice v0 | 153.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 11 |  |
@@ -229,28 +181,16 @@ Table: Crystal structure, Fe–Mn–Nb system
 | lattice v0 | 209.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 16 |  |
 | lattice v0 | 207.4 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
 | lattice v0 | 207.4 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 14 |  |
-| lattice v0 | 158.7 Å3 per formula unit | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| lattice v0 | 158.7 Å3 | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 3 |  |
-| lattice v0 | 221 Å3 per formula unit | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
-| lattice v0 | 221 Å3 | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 5 |  |
 | lattice v0 | 129.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | lattice v0 | 129.6 Å3 | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 17 |  |
 | lattice v0 | 157.3 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
 | lattice v0 | 157.3 Å3 | 0 | C14; _alloy: Mn 0, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 13 |  |
 | lattice v0 | 134.5 Å3 per formula unit | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 19 |  |
 | lattice v0 | 134.5 Å3 | 0 | C14; _alloy: Mn 0, Nb 0_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 19 |  |
-| lattice v0 | 158.6 Å3 per formula unit | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 2 |  |
-| lattice v0 | 158.6 Å3 | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 2 |  |
-| lattice v0 | 233.45 Å3 per formula unit | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 6 |  |
-| lattice v0 | 233.45 Å3 | 0 | C14; _alloy: Mn 0.333333, Nb 0.666667_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 6 |  |
-| lattice v0 | 158.4 Å3 per formula unit | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 1 |  |
-| lattice v0 | 158.4 Å3 | 0 | C14; _alloy: Mn 0.666667, Nb 0.333333_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 1 |  |
 | lattice v0 | 505.9 Å3 per formula unit | 0 | μ; _alloy: Mn 0.307692, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 43 |  |
 | lattice v0 | 505.9 Å3 | 0 | μ; _alloy: Mn 0.307692, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 43 |  |
 | lattice v0 | 551.2 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 21 |  |
 | lattice v0 | 551.2 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 21 |  |
-| lattice v0 | 552.2 Å3 | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 36 |  |
-| lattice v0 | 552.2 Å3 per formula unit | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 36 |  |
 | lattice v0 | 542 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 20 |  |
 | lattice v0 | 542 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 20 |  |
 | lattice v0 | 700.3 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 28 |  |
@@ -281,28 +221,16 @@ Table: Crystal structure, Fe–Mn–Nb system
 | lattice v0 | 675 Å3 per formula unit | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 49 |  |
 | lattice v0 | 686.47 Å3 per formula unit | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 50 |  |
 | lattice v0 | 686.47 Å3 | 0 | μ; _alloy: Mn 0.076923, Nb 0.769231_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 50 |  |
-| lattice v0 | 551.7 Å3 | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 35 |  |
-| lattice v0 | 551.7 Å3 per formula unit | 0 | μ; _alloy: Mn 0.538462, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 35 |  |
 | lattice v0 | 733.4 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 31 |  |
 | lattice v0 | 733.4 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.846154_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 31 |  |
 | lattice v0 | 528.3 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 22 |  |
 | lattice v0 | 528.3 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.384615_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 22 |  |
 | lattice v0 | 515 Å3 per formula unit | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 54 |  |
 | lattice v0 | 515 Å3 | 0 | μ; _alloy: Mn 0.538462, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 54 |  |
-| lattice v0 | 582.1 Å3 per formula unit | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 38 |  |
-| lattice v0 | 582.1 Å3 | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 38 |  |
 | lattice v0 | 568.5 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 26 |  |
 | lattice v0 | 568.5 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 26 |  |
-| lattice v0 | 718.7 Å3 per formula unit | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40 |  |
-| lattice v0 | 718.7 Å3 | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 40 |  |
-| lattice v0 | 581.4 Å3 | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37 |  |
-| lattice v0 | 581.4 Å3 per formula unit | 0 | μ; _alloy: Mn 0.461538, Nb 0.538462_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 37 |  |
-| lattice v0 | 718.1 Å3 per formula unit | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39 |  |
-| lattice v0 | 718.1 Å3 | 0 | μ; _alloy: Mn 0.076923, Nb 0.923077_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 39 |  |
 | lattice v0 | 495.6 Å3 | 0 | μ; _alloy: Mn 0, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 24 |  |
 | lattice v0 | 495.6 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 24 |  |
-| lattice v0 | 743 Å3 per formula unit | 0 | μ; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 34 |  |
-| lattice v0 | 743 Å3 | 0 | μ; _alloy: Mn 0, Nb 1_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 34 |  |
 | lattice v0 | 542.4 Å3 per formula unit | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 45 |  |
 | lattice v0 | 542.4 Å3 | 0 | μ; _alloy: Mn 0.076923, Nb 0.461538_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 45 |  |
 | lattice v0 | 498.8 Å3 | 0 | μ; _alloy: Mn 0.076923, Nb 0.307692_ | DFT | [1] Liu 2012 | Table 4, p. 8, row 47 |  |

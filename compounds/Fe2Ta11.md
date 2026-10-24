@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Fe2Ta11
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 28.3285 | kJ/mol-atom |  | 3.846e-5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 28.3285 | kJ/mol-atom |  | 3.846e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

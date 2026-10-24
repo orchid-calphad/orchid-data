@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/BeTi3.html · Markdown: https://data.orchid-project.org/compounds/BeTi3.md
 
-2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -0.057 kJ/mol-atom (mp-aaacpoqd); OQMD -6.723 kJ/mol-atom (oqmd-344817).
+2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -0.057 kJ/mol-atom (mp-aaacpoqd); OQMD 7.452 kJ/mol-atom (oqmd-314708).
 
 Systems: [Be–Ti](https://data.orchid-project.org/systems/BE-TI.html)
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of BeTi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 3.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| 3.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 3.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| 3.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of BeTi3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacpoqd | -0.057 | -5.910e-4 | I4/mmm | 6.954 | 0.0721 | yes |
-| OQMD | oqmd-344817 | -6.723 | -0.069678 | Pm-3m | 1.484 | 0.0154 | yes |
+| Materials Project | mp-aaacpoqd | -0.057 | -5.910e-4 | I4/mmm | 6.9544 | 0.0721 | yes |
+| OQMD | oqmd-314708 | 7.452 | 0.077234 | Fm-3m | 15.6589 | 0.1623 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

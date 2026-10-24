@@ -12,7 +12,7 @@ Table: Phases of the Co–Zn system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-zn-bcc-a2); _phase:co-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266 | 14 | 2 |
+| [BCC_A2](#phase-co-zn-bcc-a2); _phase:co-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266 | 0 | 2 |
 | [CO2ZN15](#phase-co-zn-co2zn15); _phase:co-zn:co2zn15_ | Co2Zn15 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 948.09–1016.39 K, x(Zn) 0.88235–0.88235 | 12 | 1 |
 | [CO2ZN28](#phase-co-zn-co2zn28); _phase:co-zn:co2zn28_ | CoZn13 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–850.44 K, x(Zn) 0.93333–0.93333 | 0 | 1 |
 | [CO3ZN22](#phase-co-zn-co3zn22); _phase:co-zn:co3zn22_ | CoZn7 · hP60 · P6_2 (171) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1020 K, x(Zn) 0.88–0.88 | 2 | 1 |
@@ -20,8 +20,8 @@ Table: Phases of the Co–Zn system (11)
 | [COZN_A13](#phase-co-zn-cozn-a13); _phase:co-zn:cozn-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1233.14 K, x(Zn) 0.46711–0.5699 | 21 | 2 |
 | [COZN13](#phase-co-zn-cozn13); _phase:co-zn:cozn13_ | CoZn13 · mC28 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–840.18 K, x(Zn) 0.92857–0.92857 | 8 | 1 |
 | [COZN7](#phase-co-zn-cozn7); _phase:co-zn:cozn7_ | CoZn7 · hP60 · P6_2 (171) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–961.13 K, x(Zn) 0.875–0.875 | 12 | 1 |
-| [FCC_A1](#phase-co-zn-fcc-a1); _phase:co-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 380–1768.99 K, x(Zn) 0–0.36965 | 17 | 2 |
-| [HCP_A3](#phase-co-zn-hcp-a3); _phase:co-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1647.6 K, x(Zn) 0–1 | 8 | 2 |
+| [FCC_A1](#phase-co-zn-fcc-a1); _phase:co-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 380–1768.99 K, x(Zn) 0–0.36965 | 14 | 2 |
+| [HCP_A3](#phase-co-zn-hcp-a3); _phase:co-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1647.6 K, x(Zn) 0–1 | 4 | 2 |
 | [LIQUID](#phase-co-zn-liquid); _phase:co-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 692.6–2500 K, x(Zn) 0–1 | 35 | 2 |
 
 ## BCC_A2 (Co–Zn)
@@ -29,11 +29,10 @@ Table: Phases of the Co–Zn system (11)
 - Id: `phase:co-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266
-- Literature: 14 values (14 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:co-zn:bcc-a2  
-_paper: _paper:10.1361/15477030419522:(εCo), paper:10.1361/15477030419522:β  
+Names (3): _corpus: _corpus:phase:co-zn:bcc-a2  
 _tdb: _tdb:CoZn-04Iso.tdb:BCC_A2, tdb:CoZn-04Vas-LB.tdb:BCC_A2  
 
 
@@ -55,9 +54,9 @@ _tdb: _tdb:CoZn-04Iso.tdb:BCC_A2, tdb:CoZn-04Vas-LB.tdb:BCC_A2
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1361/15477030419522](https://doi.org/10.1361/15477030419522) George Penev Vassilev, Min Jiang, Thermodynamic Optimization of the Co-Zn System, Journal of Phase Equilibria &amp; Diffusion 25, 259-268 (2004).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2003.12.002](https://doi.org/10.1016/j.jallcom.2003.12.002) I Isomäki, M Hämäläinen, Thermodynamic evaluation of the Co–Zn system, Journal of Alloys and Compounds 375, 191-195 (2004).  
+_assessment that models this phase_
+- [doi:10.1361/15477030419522](https://doi.org/10.1361/15477030419522) George Penev Vassilev, Min Jiang, Thermodynamic Optimization of the Co-Zn System, Journal of Phase Equilibria &amp; Diffusion 25, 259-268 (2004).  
 _assessment that models this phase_
 
 ## CO2ZN15 (Co–Zn)
@@ -293,11 +292,11 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:co-zn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 380–1768.99 K, x(Zn) 0–0.36965
-- Literature: 17 values (17 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:fcc-a1)
 
-Names (8): _corpus: _corpus:phase:co-zn:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2003.12.002:Fcc_A1, paper:10.1361/15477030419522:(αCo), paper:10.1361/15477030419522:(αCo) (c), paper:10.1361/15477030419522:Co(FCC), paper:10.1361/15477030419522:α  
+Names (6): _corpus: _corpus:phase:co-zn:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2003.12.002:Fcc_A1, paper:10.1361/15477030419522:(αCo), paper:10.1361/15477030419522:α  
 _tdb: _tdb:CoZn-04Iso.tdb:FCC_A1, tdb:CoZn-04Vas-LB.tdb:FCC_A1  
 
 
@@ -331,11 +330,11 @@ _cited as the source of values for this phase_
 - Id: `phase:co-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1647.6 K, x(Zn) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:hcp-a3)
 
-Names (6): _corpus: _corpus:phase:co-zn:hcp-a3  
-_paper: _paper:10.1361/15477030419522:(Zn), paper:10.1361/15477030419522:Zn, paper:10.1361/15477030419522:Zn(s)  
+Names (4): _corpus: _corpus:phase:co-zn:hcp-a3  
+_paper: _paper:10.1361/15477030419522:(Zn)  
 _tdb: _tdb:CoZn-04Iso.tdb:HCP_A3, tdb:CoZn-04Vas-LB.tdb:HCP_A3  
 
 

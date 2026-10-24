@@ -1,29 +1,29 @@
 # Nd–Ti system
 
-> Nd–Ti system: 38 accepted literature values (crystal structure 18, invariant reaction 10, phase transition 5, phase equilibrium 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Nd–Ti system: 30 accepted literature values (crystal structure 12, invariant reaction 10, phase equilibrium 5, phase transition 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ND-TI.html · Markdown: https://data.orchid-project.org/systems/ND-TI.md
 
-38 accepted literature values from 1 paper(s) (experimental 11, model 13, unspecified 14); 1 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 11, model 7, unspecified 12); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/ND-TI.json) · [CSV](https://data.orchid-project.org/systems/ND-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-TI/NdTi-14Mat.json) · [phases (6)](https://data.orchid-project.org/phases/pages/ND-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-TI.html) · [Markdown](https://data.orchid-project.org/systems/ND-TI.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/ND-TI.json) · [CSV](https://data.orchid-project.org/systems/ND-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ND-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ND-TI/NdTi-14Mat.json) · [phases (5)](https://data.orchid-project.org/phases/pages/ND-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ND-TI.html) · [Markdown](https://data.orchid-project.org/systems/ND-TI.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
 | experimental | 11 |
-| model | 13 |
-| unspecified | 14 |
+| model | 7 |
+| unspecified | 12 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 10 |
-| phase transition | 5 |
+| phase transition | 3 |
 | phase equilibrium | 5 |
-| crystal structure | 18 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -65,16 +65,14 @@ Table: Invariant reactions reported in the literature for the Nd–Ti system (10
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (3)
 
 Table: Phase transition, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1140 K | 1140 | polymorphic: dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 2 |  |
-| Phase transition | 1159 K | 1159 | polymorphic: hcp-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 4 |  |
 | Phase transition | 1294 K | 1294 | congruent transformation: bcc-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 1 |  |
-| Phase transition | 1943 K | 1943 | congruent transformation: bcc-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Murray 1987_ | Table 1, p. 3, row 3 |  |
 | Phase transition | 2120 K | 2120 | other | model | [1] Mattern 2014 | p. 7 | “The calculated coordinates of the miscibility gap critical point are 2120 K and 52.32 at%Ti.” |
 
 ### Phase equilibrium (5)
@@ -89,30 +87,24 @@ Table: Phase equilibrium, Nd–Ti system
 | Phase composition |  |  | L2 + Ti; _L2: Nd 0.108, Ti 0.892; Ti: Nd 0.003, Ti 0.997_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 5 |  |
 | Phase composition |  |  | e1 + Nd; _e1: Nd 0.987, Ti 0.013; Nd: Nd 0.996, Ti 0.004_ | experimental | [1] Mattern 2014 | Table 3, p. 6, row 1 |  |
 
-### Crystal structure (18)
+### Crystal structure (12)
 
 Table: Crystal structure, Nd–Ti system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 0.3655 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6 |  |
-| Lattice a | 0.3656 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Ti 0_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 1 |  |
 | Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4 |  |
-| Lattice a | 0.36593 not_printed |  | dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8 |  |
 | Lattice a | 0.3658 not_printed ± 1.000e-4 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2 |  |
 | Lattice a | 0.2952 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3 |  |
 | Lattice a | 0.2951 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7 |  |
 | Lattice a | 0.2949 not_printed ± 1.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5 |  |
-| Lattice a | 0.29503 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9 |  |
 | Lattice c | 1.177 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 6 |  |
-| Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Ti 0_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 1 |  |
 | Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 4 |  |
-| Lattice c | 1.1799 not_printed |  | dhcp-Nd; _alloy: Ti 0_ | model | [1] Mattern 2014; _cites Mattern 2008_ [doi](https://doi.org/10.1016/j.jnoncrysol.2007.08.035) | Table 2, p. 5, row 8 |  |
 | Lattice c | 1.178 not_printed ± 0.001 |  | dhcp-Nd; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 2 |  |
 | Lattice c | 0.4691 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.8, Ti 0.2_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 3 |  |
 | Lattice c | 0.4687 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.4, Ti 0.6_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 7 |  |
 | Lattice c | 0.4688 not_printed ± 2.000e-4 |  | hcp-Ti; _alloy: Nd 0.6, Ti 0.4_ | unspecified | [1] Mattern 2014 | Table 2, p. 5, row 5 |  |
-| Lattice c | 0.4681 not_printed |  | hcp-Ti; _alloy: Ti 1_ | model | [1] Mattern 2014; _cites Beaudry 1974_ [doi](https://doi.org/10.1016/0022-5088%2874%2990163-5) | Table 2, p. 5, row 9 |  |
 
 ## Sources
 

@@ -94,9 +94,9 @@ Table: Invariant reactions reported in the literature for the Co–La system (26
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1548.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.81; fcc (Co): Co 0.001; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 2 |  |
-| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.803; fcc (Co): Co 0.001; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 1 |  |
-| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.789; fcc (Co): Co 0.001; Co13La: Co 0.929 | model | [1] Wang 2008 | Table 2, p. 5, row 3 |  |
+| 1548.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.81; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 2 |  |
+| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.803; fcc (Co): Co 0.999; Co13La: Co 0.929 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 1 |  |
+| 1458.15 | peritectic: L + fcc (Co) -> Co13La | L: Co 0.789; fcc (Co): Co 0.999; Co13La: Co 0.929 | model | [1] Wang 2008 | Table 2, p. 5, row 3 |  |
 | 1397.15 | peritectic: L + Co13La -> Co5La | L: Co 0.73; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Ray 1974_ | Table 2, p. 5, row 5 |  |
 | 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.699; Co13La: Co 0.929; Co5La: Co 0.834 | model | [1] Wang 2008 | Table 2, p. 5, row 6 |  |
 | 1363.15 | peritectic: L + Co13La -> Co5La | L: Co 0.717; Co13La: Co 0.929; Co5La: Co 0.834 | experimental | [1] Wang 2008; _cites Buschow 1967_ | Table 2, p. 5, row 4 |  |

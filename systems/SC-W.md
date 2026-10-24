@@ -1,10 +1,10 @@
 # Sc–W system
 
-> Sc–W system: 2 accepted literature values (invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–W system: 4 accepted literature values (mixing / partial 2, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-W.html · Markdown: https://data.orchid-project.org/systems/SC-W.md
 
-2 accepted literature values from 1 paper(s) (experimental 1, model 1); 2 calculated phase diagram(s).
+4 accepted literature values from 1 paper(s) (experimental 1, model 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-W.json) · [CSV](https://data.orchid-project.org/systems/SC-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-W/ScW-00Kri.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-W.html) · [Markdown](https://data.orchid-project.org/systems/SC-W.md)
 
@@ -13,13 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 1 |
-| model | 1 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -53,6 +54,17 @@ Table: Invariant reactions reported in the literature for the Sc–W system (2)
 |---:|---|---|---|---|---|---|
 | 1783.25 | eutectic: L M bSc + (W) |  | model | [1] Wang 2015 | p. 5 | “According to the calculation, the temperature and composition of the eutectic reaction (L M bSc + (W)) are 1510.1 °C and 98.35 at.% Sc, which are the same as the experimental data\[17\] basically.” |
 | 1783.15 | eutectic: L -> (W) + bSc |  | experimental | [1] Wang 2015; _cites Dennison 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990089-0) | p. 2 | “By means of equilibration and quenching method, Dennison et al.\[17\] reported some solubility data of W in liquid Sc and indicated a eutectic reaction: L (98.67 at.% Sc) M (W) + bSc at 1510 °C.” |
+
+## Other properties
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Sc–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 8.75 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 8 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 9 kJ/mol (basis unstated) | 3773.15 | liquid; _alloy: Sc 0.5, W 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

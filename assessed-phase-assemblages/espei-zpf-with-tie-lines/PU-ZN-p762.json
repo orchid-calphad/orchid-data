@@ -12,7 +12,6 @@
   "GAMMA_PU",
   "LIQUID",
   "PU13ZN58",
-  "PU2ZN17",
   "PU3ZN22",
   "PUZN2_C15"
  ],
@@ -22,7 +21,6 @@
    335.270892,
    679.770892,
    537.770892,
-   716.770892,
    1033.770892,
    442.770892,
    500.770892,
@@ -33,10 +31,8 @@
    864.770892,
    950.270892,
    1043.270892,
-   1133.770892,
    1141.770892,
-   1119.770892,
-   1177.770892
+   1119.770892
   ]
  },
  "output": "ZPF",
@@ -107,35 +103,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "PU3ZN22",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PU2ZN17",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.8864058029
     ]
    ]
   ],
@@ -314,26 +281,6 @@
   ],
   [
    [
-    "PU2ZN17",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     0.9522665162
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ZN"
@@ -380,35 +327,6 @@
      0.8100274091
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PU2ZN17",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.8748864386
-    ]
-   ]
   ]
  ],
  "reference": "Binary Alloy Phase Diagrams, 2nd ed., T.B. Massalski, H. Okamoto, P.R. Subramanian, and L. Kacprzak, ed., ASM International, Materials Park, OH, 3180, 3184 (1990); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 762",
@@ -425,7 +343,6 @@
    "aspa-268531dff8738ef2",
    "aspa-7878430dd42410e2",
    "aspa-68e1900556d0a67c",
-   "aspa-24286239a3d64205",
    "aspa-175dd528a3b2edeb",
    "aspa-6bac88a66ab85775",
    "aspa-07438704fc500148",
@@ -436,15 +353,10 @@
    "aspa-41fc5de6fda35d5a",
    "aspa-7db61698ba895326",
    "aspa-e6c7f82b51a531fc",
-   "aspa-66cef5636fdc497f",
    "aspa-4a148e918e49be0a",
-   "aspa-86f6a4f28a43d9dc",
-   "aspa-b7cc438d3fcbf9a9"
+   "aspa-86f6a4f28a43d9dc"
   ],
   "boundary_basis": [
-   "printed_solid",
-   "printed_solid",
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -517,24 +429,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0290488,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-24286239a3d64205",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 444.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.00701179,
      "sigma_effective": 0.02
     }
    },
@@ -719,24 +613,6 @@
     }
    },
    {
-    "record_id": "aspa-66cef5636fdc497f",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 48.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0275463,
-     "sigma_effective": 0.02
-    }
-   },
-   {
     "record_id": "aspa-4a148e918e49be0a",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -769,24 +645,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.022037,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-b7cc438d3fcbf9a9",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 14.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0185312,
      "sigma_effective": 0.02
     }
    }

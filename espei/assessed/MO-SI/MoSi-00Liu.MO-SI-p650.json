@@ -17,8 +17,6 @@
    1573.727047,
    1907.227047,
    2614.727047,
-   2221.727047,
-   2223.227047,
    2525.227047
   ]
  },
@@ -106,64 +104,6 @@
   ],
   [
    [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MOSI2_C11B",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.7395140198
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MOSI2_C11B",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6178831181
-    ]
-   ]
-  ],
-  [
-   [
     "BCC_A2",
     [
      "SI"
@@ -207,13 +147,9 @@
    "aspa-b01912034698680c",
    "aspa-e3c155d0fc13879f",
    "aspa-7703e288a96ca546",
-   "aspa-4f45b41e29d2beda",
-   "aspa-617728ac6b5ea607",
    "aspa-da53da1d8a1fc6cf"
   ],
   "confidence": [
-   "high",
-   "high",
    "high",
    "high",
    "high",
@@ -292,40 +228,6 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.395926,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-4f45b41e29d2beda",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.002,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 47.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0725781,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-617728ac6b5ea607",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.002,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 48.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0480517,
      "sigma_effective": 0.02
     }
    },

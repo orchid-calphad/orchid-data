@@ -12,7 +12,7 @@ Table: Phases of the Fe–Th system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-fe-th-bcc-a2); _phase:fe-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1 | 8 | 1 |
+| [BCC_A2](#phase-fe-th-bcc-a2); _phase:fe-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1 | 6 | 1 |
 | [FCC_A1](#phase-fe-th-fcc-a1); _phase:fe-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1667.5 K, x(Th) 0–1 | 4 | 1 |
 | [FE17TH2](#phase-fe-th-fe17th2); _phase:fe-th:fe17th2_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 479.4–1735.38 K, x(Th) 0.10526–0.10526 | 12 | 1 |
 | [FE3TH](#phase-fe-th-fe3th); _phase:fe-th:fe3th_ | Ni3Pu · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 461.04–1374.59 K, x(Th) 0.25–0.25 | 10 | 1 |
@@ -21,14 +21,14 @@ Table: Phases of the Fe–Th system (10)
 | [FE7TH2_ALPHA](#phase-fe-th-fe7th2-alpha); _phase:fe-th:fe7th2-alpha_ | Ce2Ni7 · hP36 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1455.45 K, x(Th) 0.22222–0.22222 | 12 | 1 |
 | [FE7TH2_BETA](#phase-fe-th-fe7th2-beta); _phase:fe-th:fe7th2-beta_ | Co7Gd2 · hR18 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1455.45–1495.62 K, x(Th) 0.22222–0.22222 | 4 | 1 |
 | [HCP_A3](#phase-fe-th-hcp-a3); _phase:fe-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [LIQUID](#phase-fe-th-liquid); _phase:fe-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1128.23–4000 K, x(Th) 0–1 | 24 | 1 |
+| [LIQUID](#phase-fe-th-liquid); _phase:fe-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1128.23–4000 K, x(Th) 0–1 | 22 | 1 |
 
 ## BCC_A2 (Fe–Th)
 
 - Id: `phase:fe-th:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.49 K, x(Th) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-th:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:fe-th:bcc-a2  
@@ -311,7 +311,7 @@ _assessment that models this phase_
 - Id: `phase:fe-th:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1128.23–4000 K, x(Th) 0–1
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 22 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-th:liquid)
 
 Names (3): _corpus: _corpus:phase:fe-th:liquid  

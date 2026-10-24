@@ -1,10 +1,10 @@
 # Au–Te system
 
-> Au–Te system: 49 accepted literature values (phase transition 22, crystal structure 12, invariant reaction 10, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Te system: 43 accepted literature values (phase transition 22, invariant reaction 10, crystal structure 6, formation 4) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TE.html · Markdown: https://data.orchid-project.org/systems/AU-TE.md
 
-49 accepted literature values from 2 paper(s) (experimental 46, model 3); 2 calculated phase diagram(s).
+43 accepted literature values from 2 paper(s) (experimental 40, model 3); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TE.json) · [CSV](https://data.orchid-project.org/systems/AU-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TE/AuTe-06Wan.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AU-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TE.html) · [Markdown](https://data.orchid-project.org/systems/AU-TE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 46 |
+| experimental | 40 |
 | model | 3 |
 
 Table: Accepted values by property group
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 10 |
 | phase transition | 22 |
 | formation | 4 |
-| crystal structure | 12 |
+| crystal structure | 6 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -113,18 +113,12 @@ Table: Phase transition, Au–Te system
 | Phase transition | 737 K | 737 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | experimental | [1] Wang 2006; _cites Pellini 1910_ | Table 2, p. 3, row 11 |  |
 | Phase transition | 738.4 K | 738.4 | congruent melting: Liquid = AuTe2; _L: Te 0.666667; AuTe2: Te 0.666667_ | model | [1] Wang 2006 | Table 2, p. 3, row 14 |  |
 
-### Crystal structure (12)
+### Crystal structure (6)
 
 Table: Crystal structure, Au–Te system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.09 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 5 |  |
-| Lattice a | 4.093 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 1 |  |
-| Lattice a | 4.086 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 9 |  |
-| Lattice a | 4.089 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 11 |  |
-| Lattice a | 4.087 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 3 |  |
-| Lattice a | 4.09 Å | 298.15 | Au; _alloy: Te 0_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 7 |  |
 | Lattice a | 4.098 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 4 |  |
 | Lattice a | 4.108 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 2 |  |
 | Lattice a | 4.095 Å | 298.15 | Au0.500Te0.500; _alloy: Te 0.5_ | experimental | [2] Feutelais 1994 | Table 3, p. 2, row 8 |  |

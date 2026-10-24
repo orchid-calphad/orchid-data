@@ -4,7 +4,6 @@
   "SI"
  ],
  "phases": [
-  "ALPHA_RHOMBO_B",
   "DIAMOND_A4",
   "LIQUID"
  ],
@@ -12,8 +11,7 @@
   "P": 101325.0,
   "T": [
    1653.448753,
-   2175.948753,
-   2189.948753
+   2175.948753
   ]
  },
  "output": "ZPF",
@@ -57,35 +55,6 @@
      0.6284722108
     ]
    ]
-  ],
-  [
-   [
-    "ALPHA_RHOMBO_B",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.1692001642
-    ]
-   ]
   ]
  ],
  "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 26(4), 396 (2005) doi:10.1361/154770305x56908; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 152",
@@ -100,11 +69,9 @@
   "diagram": "B-SI-p152",
   "record_ids": [
    "aspa-c9c5c90cc2fef29b",
-   "aspa-79730ee1063afc9b",
-   "aspa-dd798dc979ae9f57"
+   "aspa-79730ee1063afc9b"
   ],
   "boundary_basis": [
-   "printed_solid",
    "printed_solid",
    "printed_solid"
   ]
@@ -146,24 +113,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.330556,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-dd798dc979ae9f57",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.859,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 66.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.103173,
      "sigma_effective": 0.02
     }
    }

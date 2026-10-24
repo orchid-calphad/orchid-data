@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of NiSe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -38.5 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -29 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -21 | kJ/mol (basis unstated) | 5 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 5 |
-| -39.97 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -38.5 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -29 | kJ/mol (basis unstated) |  | 0.5 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -21 | kJ/mol (basis unstated) | 5 | 0.5 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -39.97 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

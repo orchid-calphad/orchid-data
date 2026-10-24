@@ -1,10 +1,10 @@
 # Al–Fe–Zr system
 
-> Al–Fe–Zr system: 79 accepted literature values (invariant reaction 63, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Fe–Zr system: 76 accepted literature values (invariant reaction 60, formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-FE-ZR.html · Markdown: https://data.orchid-project.org/systems/AL-FE-ZR.md
 
-79 accepted literature values from 2 paper(s) (experimental 19, model 60); 0 calculated phase diagram(s).
+76 accepted literature values from 2 paper(s) (experimental 19, model 57); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-FE-ZR.json) · [CSV](https://data.orchid-project.org/systems/AL-FE-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-FE-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-FE-ZR.html) · [Markdown](https://data.orchid-project.org/systems/AL-FE-ZR.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 19 |
-| model | 60 |
+| model | 57 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 63 |
+| invariant reaction | 60 |
 | formation | 16 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Fe–Zr system (63)
+Table: Invariant reactions reported in the literature for the Al–Fe–Zr system (60)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -50,7 +50,6 @@ Table: Invariant reactions reported in the literature for the Al–Fe–Zr syste
 | 1561 | quasi-peritectic: liq. + Fe2Zr -> τ3 + τ1 | L: Al 0.6388, Fe 0.2518, Zr 0.1094; liq.: Al 0.6388, Fe 0.2518, Zr 0.1094 | model | [1] Guo 2008 | Table 3, p. 7, row 20 |  |
 | 1553 | other: liq. + bcc + τ1 |  | experimental | [1] Guo 2008; _cites Stein 2004_ [doi](https://doi.org/10.3139/146.017985) | Table 3, p. 7, row 8 |  |
 | 1553 | quasi-peritectic: liq. + Fe2Zr -> τ3 + τ1 |  | experimental | [1] Guo 2008; _cites Raghavan 2006_ [doi](https://doi.org/10.1361/154770306x109845) | Table 3, p. 7, row 21 |  |
-| 1548 | peritectic: Al2Zr + Al3Zr2 + Al4Zr5 -> AlZr |  | model | [1] Guo 2008 | Table 3, p. 7, row 47 |  |
 | 1547 | quasi-peritectic: liq. + Al3Zr5 -> Al2Zr3 + bcc | L: Al 0.2336, Fe 0.1043, Zr 0.6621; liq.: Al 0.2336, Fe 0.1043, Zr 0.6621 | model | [1] Guo 2008 | Table 3, p. 7, row 22 |  |
 | 1525 | quasi-peritectic: liq. + Fe2Zr -> Al2Zr + bcc | L: Al 0.1778, Fe 0.7136, Zr 0.1086; liq.: Al 0.1778, Fe 0.7136, Zr 0.1086 | model | [1] Guo 2008 | Table 3, p. 7, row 23 |  |
 | 1523 | quasi-peritectic: liq. + τ3 -> Al3Zr + τ1 |  | experimental | [1] Guo 2008; _cites Raghavan 2006_ [doi](https://doi.org/10.1361/154770306x109845) | Table 3, p. 7, row 25 |  |
@@ -77,8 +76,6 @@ Table: Invariant reactions reported in the literature for the Al–Fe–Zr syste
 | 1368 | eutectic: Fe4Al5 -> FeAl + FeAl2 + τ1 |  | model | [1] Guo 2008 | Table 3, p. 7, row 52 |  |
 | 1350 | peritectic: liq. + Al2Zr + bcc -> τ2 |  | experimental | [1] Guo 2008; _cites Raghavan 2006_ [doi](https://doi.org/10.1361/154770306x109845) | Table 3, p. 7, row 36 |  |
 | 1329 | quasi-peritectic: Al3Zr5 + τ2 -> Al2Zr3 + AlZr2 |  | model | [1] Guo 2008 | Table 3, p. 7, row 53 |  |
-| 1303 | quasi-peritectic: Al2Zr3 + Al4Zr5 -> Al2Zr + Al3Zr4 |  | model | [1] Guo 2008 | Table 3, p. 7, row 54 |  |
-| 1272 | eutectic: Al4Zr5 -> Al2Zr + Al3Zr4 + AlZr |  | model | [1] Guo 2008 | Table 3, p. 7, row 55 |  |
 | 1267 | quasi-peritectic: bcc + AlZr2 -> AlZr3 + τ2 |  | model | [1] Guo 2008 | Table 3, p. 7, row 56 |  |
 | 1248 | peritectic: liq. + Fe2Zr + τ2 -> FeZr2 | L: Al 0.0118, Fe 0.2941, Zr 0.6941; liq.: Al 0.0118, Fe 0.2941, Zr 0.6941 | model | [1] Guo 2008 | Table 3, p. 7, row 42 |  |
 | 1232 | quasi-peritectic: liq. + τ2 -> bcc + FeZr2 | L: Al 0.0078, Fe 0.2761, Zr 0.7161; liq.: Al 0.0078, Fe 0.2761, Zr 0.7161 | model | [1] Guo 2008 | Table 3, p. 7, row 43 |  |

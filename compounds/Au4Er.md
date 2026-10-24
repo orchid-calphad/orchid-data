@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au4Er.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (DFT 2).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–Er](https://data.orchid-project.org/systems/AU-ER.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Au4Er reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -60.3 kJ/mol-atom | Au4Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
-| -59.2 kJ/mol-atom | Au4Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
+| -60.3 kJ/mol-atom | Au4Er | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 34 |  |
+| -59.2 kJ/mol-atom | Au4Er |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 35 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Au4Er
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -60.3 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -59.2 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -60.3 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -59.2 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

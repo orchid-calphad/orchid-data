@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/systems/MO-ZR.html · Markdown: https://data.orchid-project.org/systems/MO-ZR.md
 
-51 accepted literature values from 3 paper(s) (experimental 30, model 20, unspecified 1); 4 calculated phase diagram(s).
+51 accepted literature values from 3 paper(s) (experimental 30, model 19, DFT 1, unspecified 1); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-ZR.json) · [CSV](https://data.orchid-project.org/systems/MO-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-ZR/MoZr-02Zin.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MO-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-ZR.html) · [Markdown](https://data.orchid-project.org/systems/MO-ZR.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 30 |
-| model | 20 |
+| model | 19 |
+| DFT | 1 |
 | unspecified | 1 |
 
 Table: Accepted values by property group
@@ -116,7 +117,7 @@ Table: Enthalpies of formation, Mo–Zr system (3)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -13.48 kJ/mol-atom |  | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
+| Mo2Zr (Laves_c15) |  | -13.48 kJ/mol-atom |  | DFT |  |  | [1] Pérez 2003 | Table 2, p. 7, row 3 |  |
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -9.3 kJ/mol-atom |  | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites Brewer 1980_ | Table 2, p. 7, row 1 |  |
 | Mo2Zr (Laves_c15) | [Mo2Zr](https://data.orchid-project.org/compounds/Mo2Zr.html) | -7.49 kJ/mol-atom | 298.15 | model | -13.443 (mp-aaaaadav) | -13.282 (oqmd-17718) | [1] Pérez 2003; _cites De 1988_ | Table 2, p. 7, row 2 |  |
 

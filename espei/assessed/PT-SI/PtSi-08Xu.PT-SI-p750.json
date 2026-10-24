@@ -12,7 +12,6 @@
   "PT17SI8_BETA",
   "PT25SI7",
   "PT2SI_C22",
-  "PT2SI_L2B",
   "PT3SI_ALPHA",
   "PT3SI_D011",
   "PT5SI2",
@@ -26,8 +25,6 @@
    699.6758398,
    692.6758398,
    788.1758398,
-   845.1758398,
-   845.6758398,
    987.1758398,
    957.6758398,
    776.1758398,
@@ -167,64 +164,6 @@
     ],
     [
      0.3035448208
-    ]
-   ]
-  ],
-  [
-   [
-    "PT17SI8_ALPHA",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PT2SI_L2B",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.3265696005
-    ]
-   ]
-  ],
-  [
-   [
-    "PT6SI5",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PT2SI_L2B",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.3941423237
     ]
    ]
   ],
@@ -864,8 +803,6 @@
    "aspa-c355cf76bb526272",
    "aspa-03a4c7f8f56c1b11",
    "aspa-75821903eace1680",
-   "aspa-e56fefb9130a77b4",
-   "aspa-f7914b2a7899704c",
    "aspa-1070500698e34065",
    "aspa-6008cbe0656d91be",
    "aspa-0763b5971192aa8d",
@@ -890,8 +827,6 @@
    "aspa-89b9cf7ba9fb2d64"
   ],
   "confidence": [
-   "high",
-   "high",
    "high",
    "high",
    "high",
@@ -991,40 +926,6 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0160172,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-e56fefb9130a77b4",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 172.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.00600646,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-f7914b2a7899704c",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.25,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 172.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0315339,
      "sigma_effective": 0.02
     }
    },

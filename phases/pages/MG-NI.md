@@ -13,7 +13,7 @@ Table: Phases of the Mg–Ni system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-mg-ni-bcc-a2); _phase:mg-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [C36_LAVES](#phase-mg-ni-c36-laves); _phase:mg-ni:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341 | 40 | 3 |
+| [C36_LAVES](#phase-mg-ni-c36-laves); _phase:mg-ni:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341 | 35 | 3 |
 | [FCC_A1](#phase-mg-ni-fcc-a1); _phase:mg-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2499.49 K, x(Ni) 0.99846–1 | 9 | 3 |
 | [HCP_A3](#phase-mg-ni-hcp-a3); _phase:mg-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–926.54 K, x(Ni) 0–1e-05 | 5 | 3 |
 | [LIQUID](#phase-mg-ni-liquid); _phase:mg-ni:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 780–2500 K, x(Ni) 0–1 | 35 | 3 |
@@ -70,7 +70,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in MgNi-98Jac-2.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in MgNi-98Jac-LB.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1420.57 K, x(Ni) 0.662–0.67341
-- Literature: 40 values (40 accepted) from 3 papers
+- Literature: 35 values (35 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-ni:c36-laves)
 
 Names (9): _corpus: _corpus:phase:mg-ni:c36-laves  

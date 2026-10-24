@@ -16,7 +16,7 @@ Table: Phases of the Cu–Se system (12)
 | [BCC_A2](#phase-cu-se-bcc-a2); _phase:cu-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [CU2SE_ALPHA](#phase-cu-se-cu2se-alpha); _phase:cu-se:cu2se-alpha_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–396 K, x(Se) 0.33333–0.33333 | 0 | 2 |
 | [CU2SE_BETA](#phase-cu-se-cu2se-beta); _phase:cu-se:cu2se-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 377.74–1433.74 K, x(Se) 0.33333–0.36305 | 0 | 2 |
-| [CU3SE2](#phase-cu-se-cu3se2); _phase:cu-se:cu3se2_ | Cu3Se2 · tP10 · P-42_1m (113) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–390.33 K, x(Se) 0.4–0.4 | 0 | 2 |
+| [CU3SE2](#phase-cu-se-cu3se2); _phase:cu-se:cu3se2_ | Cu3Se2 · tP10 · P-42_1m (113) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–390.33 K, x(Se) 0.4–0.4 | 2 | 2 |
 | [CUSE_ALPHA](#phase-cu-se-cuse-alpha); _phase:cu-se:cuse-alpha_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–328.45 K, x(Se) 0.5–0.5 | 0 | 2 |
 | [CUSE_B18](#phase-cu-se-cuse-b18); _phase:cu-se:cuse-b18_ | CuS · B18 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 409.15–652.72 K, x(Se) 0.5–0.5 | 0 | 2 |
 | [CUSE_BETA](#phase-cu-se-cuse-beta); _phase:cu-se:cuse-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 326.81–410.42 K, x(Se) 0.5–0.5 | 0 | 2 |
@@ -179,12 +179,13 @@ _assessment that models this phase_
 - Structure: Cu3Se2 · tP10 · P-42_1m (113); type `st:cu3se2-tp10`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Cu 0.6000, Se 0.4000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–390.33 K, x(Se) 0.4–0.4
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-se:cu3se2)
 
-Names (5): _corpus: _corpus:phase:cu-se:cu3se2  
+Names (6): _corpus: _corpus:phase:cu-se:cu3se2  
 _mp: _mp:mp-aaaabepn  
 _oqmd: _oqmd:oqmd-1659  
+_paper: _paper:10.1007/s11669-023-01074-8:Cu3Se2  
 _tdb: _tdb:CuSe-08Du.tdb:CU3SE2, tdb:CuSe-23Liu.tdb:CU3SE2  
 
 
@@ -204,12 +205,14 @@ _tdb: _tdb:CuSe-08Du.tdb:CU3SE2, tdb:CuSe-23Liu.tdb:CU3SE2
 68: CONST CU3SE2 : CU : SE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/s11669-023-01074-8](https://doi.org/10.1007/s11669-023-01074-8) Runlin Liu, Jiong Wang, Dongyu Cui, Thermodynamic Modeling of the Cu-Sb-Se System, J. Phase Equilib. Diffus. 44, 687-703 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.101636](https://doi.org/10.3139/146.101636) Z. Du, C. Guo, M. Tao, C. Li, Int. J. Mater. Res., 99, 294-300(2008).  
 _assessment that models this phase_
+- [doi:10.1139/v75-122](https://doi.org/10.1139/v75-122) Ritchie MacLaren Murray, Robert Donald Heyding, The Copper–Selenium System at Temperatures to 850 K and Pressures To 50 Kbar, Can. J. Chem. 53, 878-887 (1975).  
+_cited as the source of values for this phase_
 
 ## CUSE_ALPHA (Cu–Se)
 

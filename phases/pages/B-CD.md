@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/B-CD.html · Markdown: https:
 
 6 phases (tier A 3, liquid 1, needs_review 2); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=B-CD) · [full JSON](https://data.orchid-project.org/phases/systems/B-CD.json) · [Markdown](https://data.orchid-project.org/phases/pages/B-CD.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=B-CD) · [full JSON](https://data.orchid-project.org/phases/systems/B-CD.json) · [B–Cd system page](https://data.orchid-project.org/systems/B-CD.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-CD.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the B–Cd system (6)
 
@@ -25,6 +25,7 @@ Table: Phases of the B–Cd system (6)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — CdB-13Zha.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-cd:b-alpha-rhombo)
@@ -53,6 +54,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — CdB-13Zha.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1388–2351 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-cd:b-beta-rhombo)

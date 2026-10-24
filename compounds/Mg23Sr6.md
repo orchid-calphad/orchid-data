@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Mg23Sr6.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (unspecified 1); Materials Project -6.786 kJ/mol-atom (mp-aaaabtny); OQMD -7.661 kJ/mol-atom (oqmd-17656).
 
-Systems: [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
+Systems: [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Mg23Sr6 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -7.7392 kJ/mol-atom | Mg23Sr6 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
+| -7.7392 kJ/mol-atom | Mg23Sr6 | 0 | unspecified |  | [Mg–Sr](https://data.orchid-project.org/systems/MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 4 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Mg23Sr6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7.7392 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -7.7392 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

@@ -15,7 +15,7 @@ Table: Phases of the Cd–Zn system (4)
 | [BCC_A2](#phase-cd-zn-bcc-a2); _phase:cd-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-cd-zn-fcc-a1); _phase:cd-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-cd-zn-hcp-a3); _phase:cd-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–692.68 K, x(Zn) 0–1 | 0 | 2 |
-| [LIQUID](#phase-cd-zn-liquid); _phase:cd-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 538.16–2500 K, x(Zn) 0–1 | 2 | 2 |
+| [LIQUID](#phase-cd-zn-liquid); _phase:cd-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 538.16–2500 K, x(Zn) 0–1 | 1 | 2 |
 
 ## BCC_A2 (Cd–Zn)
 
@@ -121,7 +121,7 @@ _assessment that models this phase_
 - Id: `phase:cd-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 538.16–2500 K, x(Zn) 0–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-zn:liquid)
 
 Names (4): _corpus: _corpus:phase:cd-zn:liquid  

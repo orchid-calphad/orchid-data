@@ -280,47 +280,47 @@ Table: Heat capacity / entropy / enthalpy, Fe–O system
 | Heat capacity; _printed: Cp_ | 29.3679 J/mol-atom/K | 1850 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 33 |  |
 | Heat capacity; _printed: Cp_ | 27.343 J/mol-atom/K | 1900 | Fe2O3; _alloy: O 0.6_ | model | [1] Sundman 1991 | Table 4, p. 11, row 34 |  |
 | Heat capacity; _printed: Cp_ | 29.484 J/mol-atom/K | 1900 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 34 |  |
-| Heat content; _printed: H-H(298.15)_ | 9964.5 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 6 |  |
-| Heat content; _printed: H-H(298.15)_ | 12503.2 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 7 |  |
-| Heat content; _printed: H-H(298.15)_ | 15069.8 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 8 |  |
-| Heat content; _printed: H-H(298.15)_ | 4971 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 4 |  |
-| Heat content; _printed: H-H(298.15)_ | 7453.8 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 5 |  |
-| Heat content; _printed: H-H(298.15)_ | 17664.4 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 9 |  |
-| Heat content; _printed: H-H(298.15)_ | 2516.2 J/mol | 298.15 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 3 |  |
-| Heat content; _printed: H-H(298.15)_ | 249917 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 26 |  |
-| Heat content; _printed: H-H(298.15)_ | 126326 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 14 |  |
-| Heat content; _printed: H-H(298.15)_ | 54531 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 7 |  |
-| Heat content; _printed: H-H(298.15)_ | 178553 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 19 |  |
-| Heat content; _printed: H-H(298.15)_ | 147642 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 16 |  |
-| Heat content; _printed: H-H(298.15)_ | 229487 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 24 |  |
-| Heat content; _printed: H-H(298.15)_ | 101130 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 11 |  |
-| Heat content; _printed: H-H(298.15)_ | 311854 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 32 |  |
-| Heat content; _printed: H-H(298.15)_ | 260166 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 27 |  |
-| Heat content; _printed: H-H(298.15)_ | 291081 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 30 |  |
-| Heat content; _printed: H-H(298.15)_ | 88340 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 10 |  |
-| Heat content; _printed: H-H(298.15)_ | 322295 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 33 |  |
-| Heat content; _printed: H-H(298.15)_ | 332773 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 34 |  |
-| Heat content; _printed: H-H(298.15)_ | 16519 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 3 |  |
-| Heat content; _printed: H-H(298.15)_ | 115039 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 13 |  |
-| Heat content; _printed: H-H(298.15)_ | 137111 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 15 |  |
-| Heat content; _printed: H-H(298.15)_ | 209116 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 22 |  |
-| Heat content; _printed: H-H(298.15)_ | 25359 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 4 |  |
-| Heat content; _printed: H-H(298.15)_ | 158025 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 17 |  |
-| Heat content; _printed: H-H(298.15)_ | 168317 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 18 |  |
-| Heat content; _printed: H-H(298.15)_ | 219297 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 23 |  |
-| Heat content; _printed: H-H(298.15)_ | 114570 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 12 |  |
-| Heat content; _printed: H-H(298.15)_ | 280745 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 29 |  |
-| Heat content; _printed: H-H(298.15)_ | 65201 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 8 |  |
-| Heat content; _printed: H-H(298.15)_ | 198938 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 21 |  |
-| Heat content; _printed: H-H(298.15)_ | 270441 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 28 |  |
-| Heat content; _printed: H-H(298.15)_ | 34637 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 5 |  |
-| Heat content; _printed: H-H(298.15)_ | 76432 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 9 |  |
-| Heat content; _printed: H-H(298.15)_ | 8136 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 2 |  |
-| Heat content; _printed: H-H(298.15)_ | 301450 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 31 |  |
 | Heat content; _printed: H-H(298.15)_ | 0 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 1 |  |
-| Heat content; _printed: H-H(298.15)_ | 239692 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 25 |  |
-| Heat content; _printed: H-H(298.15)_ | 188755 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 20 |  |
-| Heat content; _printed: H-H(298.15)_ | 44355 J/mol | 298.15 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 6 |  |
+| Heat content; _printed: H-H(298.15)_ | 2516.2 J/mol | 350 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 3 |  |
+| Heat content; _printed: H-H(298.15)_ | 8136 J/mol | 350 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 2 |  |
+| Heat content; _printed: H-H(298.15)_ | 4971 J/mol | 400 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 4 |  |
+| Heat content; _printed: H-H(298.15)_ | 16519 J/mol | 400 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 3 |  |
+| Heat content; _printed: H-H(298.15)_ | 7453.8 J/mol | 450 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 5 |  |
+| Heat content; _printed: H-H(298.15)_ | 25359 J/mol | 450 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 4 |  |
+| Heat content; _printed: H-H(298.15)_ | 9964.5 J/mol | 500 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 6 |  |
+| Heat content; _printed: H-H(298.15)_ | 34637 J/mol | 500 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 5 |  |
+| Heat content; _printed: H-H(298.15)_ | 12503.2 J/mol | 550 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 7 |  |
+| Heat content; _printed: H-H(298.15)_ | 44355 J/mol | 550 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 6 |  |
+| Heat content; _printed: H-H(298.15)_ | 15069.8 J/mol | 600 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 8 |  |
+| Heat content; _printed: H-H(298.15)_ | 54531 J/mol | 600 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 7 |  |
+| Heat content; _printed: H-H(298.15)_ | 17664.4 J/mol | 650 | Fe0.947O; _alloy: O 0.513611_ | model | [1] Sundman 1991 | Table 2, p. 8, row 9 |  |
+| Heat content; _printed: H-H(298.15)_ | 65201 J/mol | 650 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 8 |  |
+| Heat content; _printed: H-H(298.15)_ | 76432 J/mol | 700 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 9 |  |
+| Heat content; _printed: H-H(298.15)_ | 88340 J/mol | 750 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 10 |  |
+| Heat content; _printed: H-H(298.15)_ | 101130 J/mol | 800 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 11 |  |
+| Heat content; _printed: H-H(298.15)_ | 114570 J/mol | 848 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 12 |  |
+| Heat content; _printed: H-H(298.15)_ | 115039 J/mol | 850 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 13 |  |
+| Heat content; _printed: H-H(298.15)_ | 126326 J/mol | 900 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 14 |  |
+| Heat content; _printed: H-H(298.15)_ | 137111 J/mol | 950 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 15 |  |
+| Heat content; _printed: H-H(298.15)_ | 147642 J/mol | 1000 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 16 |  |
+| Heat content; _printed: H-H(298.15)_ | 158025 J/mol | 1050 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 17 |  |
+| Heat content; _printed: H-H(298.15)_ | 168317 J/mol | 1100 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 18 |  |
+| Heat content; _printed: H-H(298.15)_ | 178553 J/mol | 1150 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 19 |  |
+| Heat content; _printed: H-H(298.15)_ | 188755 J/mol | 1200 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 20 |  |
+| Heat content; _printed: H-H(298.15)_ | 198938 J/mol | 1250 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 21 |  |
+| Heat content; _printed: H-H(298.15)_ | 209116 J/mol | 1300 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 22 |  |
+| Heat content; _printed: H-H(298.15)_ | 219297 J/mol | 1350 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 23 |  |
+| Heat content; _printed: H-H(298.15)_ | 229487 J/mol | 1400 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 24 |  |
+| Heat content; _printed: H-H(298.15)_ | 239692 J/mol | 1450 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 25 |  |
+| Heat content; _printed: H-H(298.15)_ | 249917 J/mol | 1500 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 26 |  |
+| Heat content; _printed: H-H(298.15)_ | 260166 J/mol | 1550 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 27 |  |
+| Heat content; _printed: H-H(298.15)_ | 270441 J/mol | 1600 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 28 |  |
+| Heat content; _printed: H-H(298.15)_ | 280745 J/mol | 1650 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 29 |  |
+| Heat content; _printed: H-H(298.15)_ | 291081 J/mol | 1700 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 30 |  |
+| Heat content; _printed: H-H(298.15)_ | 301450 J/mol | 1750 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 31 |  |
+| Heat content; _printed: H-H(298.15)_ | 311854 J/mol | 1800 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 32 |  |
+| Heat content; _printed: H-H(298.15)_ | 322295 J/mol | 1850 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 33 |  |
+| Heat content; _printed: H-H(298.15)_ | 332773 J/mol | 1900 | Magnetite (Fe3O4); _alloy: O 0.571429_ | model | [1] Sundman 1991 | Table 3, p. 9, row 34 |  |
 
 ### Activity / EMF / Gibbs energy (97)
 

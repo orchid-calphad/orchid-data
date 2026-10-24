@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of SrO
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -643 | kJ/mol (basis unstated) |  | 0.5 | 3 (kems_vapour_second_law, prior) |  |  |  | 3 |
-| -604.3 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -595 | kJ/mol (basis unstated) |  | 0.5 | 2 (kems_vapour_third_law, prior) |  |  |  | 2 |
-| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -592.04 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -591.01 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -643 | kJ/mol (basis unstated) |  | 0.5 | 6 (kems_vapour_second_law, prior) |  |  |  | 6 |
+| -604.3 | kJ/mol (basis unstated) |  | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
+| -595 | kJ/mol (basis unstated) |  | 0.5 | 4 (kems_vapour_third_law, prior) |  |  |  | 4 |
+| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 7 (solution_reaction_calorimetry, calibrated) |  |  |  | 7 |
+| -592.15 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -592.04 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -591.01 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AsGe.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (experimental 1, model 3, unspecified 1); experimental median -5.5 kJ/mol-atom (n = 1); Materials Project -4.154 kJ/mol-atom (mp-aaaaaodg); OQMD -4.148 kJ/mol-atom (oqmd-15392).
 
-Systems: [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html)
+Systems: [As–Ge](https://data.orchid-project.org/systems/AS-GE.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of AsGe reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.5 kJ/mol-atom ± 2.6 | GeAs | 298.15 | experimental | Drop calorimetry | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 1 |  |
-| -4.481 kJ/mol-atom | GeAs | 298.15 | model | CALPHAD | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 5 |  |
-| -4.14 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 2 |  |
-| -2.98 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 3 |  |
-| -4.43 kJ/mol-atom | GeAs | 0 | unspecified | First–principles | [As–Ge–P–S–Se](https://data.orchid-project.org/systems/AS-GE-P-S-SE.html) | [1] Chen 2022 | Table II, p. 3, row 4 |  |
+| -5.5 kJ/mol-atom ± 2.6 | GeAs | 298.15 | experimental | Drop calorimetry | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Fitzner 1996_ [doi](https://doi.org/10.1016/0925-8388%2895%2902186-8) | Table II, p. 3, row 1 |  |
+| -4.481 kJ/mol-atom | GeAs | 298.15 | model | CALPHAD | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 5 |  |
+| -4.14 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 2 |  |
+| -2.98 kJ/mol-atom | GeAs | 0 | model | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 3 |  |
+| -4.43 kJ/mol-atom | GeAs | 0 | unspecified | First–principles | [As–Ge](https://data.orchid-project.org/systems/AS-GE.html) | [1] Chen 2022 | Table II, p. 3, row 4 |  |
 
 ### Uncertainty budget
 
@@ -29,9 +29,9 @@ Table: Uncertainty budget of the literature values of AsGe
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -5.5 | kJ/mol-atom | 2.6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -4.481 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -4.14 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2.98 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.481 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -4.14 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -2.98 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -4.43 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 
 ## DFT formation energies
@@ -43,7 +43,7 @@ Table: DFT formation energy of AsGe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaaodg | -4.154 | -0.043056 | C2/m | 0 | 0 | no |
-| OQMD | oqmd-15392 | -4.148 | -0.04299 | C2/m | 0.228 | 0.0024 | no |
+| OQMD | oqmd-15392 | -4.148 | -0.04299 | C2/m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

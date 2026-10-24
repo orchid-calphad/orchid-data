@@ -12,7 +12,7 @@ Table: Phases of the Ni–Sc system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ni-sc-bcc-a2); _phase:ni-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 4 calculated diagram(s): 1160–2499.14 K, x(Sc) 0.93989–1 | 15 | 4 |
+| [BCC_A2](#phase-ni-sc-bcc-a2); _phase:ni-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1160–2499.14 K, x(Sc) 0.93989–1 | 13 | 4 |
 | [B2_BCC](#phase-ni-sc-bcc-b2); _phase:ni-sc:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2161.01 K, x(Sc) 0.49991–1 | 8 | 1 |
 | [C15_LAVES](#phase-ni-sc-c15-laves); _phase:ni-sc:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1581.16 K, x(Sc) 0.27895–0.3499 | 31 | 3 |
 | [FCC_A1](#phase-ni-sc-fcc-a1); _phase:ni-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1770.42 K, x(Sc) 0–0.00706 | 15 | 3 |
@@ -27,8 +27,8 @@ Table: Phases of the Ni–Sc system (10)
 
 - Id: `phase:ni-sc:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 4 calculated diagram(s): 1160–2499.14 K, x(Sc) 0.93989–1
-- Literature: 15 values (15 accepted) from 3 papers
+- Stability: stable in 3 of 3 calculated diagram(s): 1160–2499.14 K, x(Sc) 0.93989–1
+- Literature: 13 values (13 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-sc:bcc-a2)
 
 Names (8): _corpus: _corpus:phase:ni-sc:bcc-a2  

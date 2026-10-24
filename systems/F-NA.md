@@ -1,10 +1,10 @@
 # F–Na system
 
-> F–Na system: 7 accepted literature values (invariant reaction 5, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–Na system: 11 accepted literature values (invariant reaction 5, crystal structure 2, formation 2, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-NA.html · Markdown: https://data.orchid-project.org/systems/F-NA.md
 
-7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 5, model 4, DFT 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-NA.json) · [CSV](https://data.orchid-project.org/systems/F-NA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-NA) · [phases (7)](https://data.orchid-project.org/phases/pages/F-NA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-NA.html) · [Markdown](https://data.orchid-project.org/systems/F-NA.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 5 |
 | model | 4 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 2 |
+| formation | 2 |
+| crystal structure | 2 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/F/F-NA.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/F/F-NA.json)
 
@@ -36,6 +39,17 @@ Table: Invariant reactions reported in the literature for the F–Na system (5)
 | 1254 | monotectic: Liquid 1 = liquid 2 + NaF | Liquid 1: F 0.488; liquid 2: F 0.142; NaF: F 0.5 | model | [1] Zhang 2006 | Table 4, p. 9, row 3 |  |
 | 371 | eutectic: Liquid = bcc + NaF | Liquid: F 0; bcc: F 0; NaF: F 0.5 | model | [1] Zhang 2006 | Table 4, p. 9, row 5 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, F–Na system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| NaF | [NaF](https://data.orchid-project.org/compounds/NaF.html) | -287.69 kJ/mol-atom | 298.15 | experimental | -283.373 (mp-aaaaabag) | -286.946 (oqmd-5686) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 29 |  |
+| NaF |  | -269.597 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -46,6 +60,15 @@ Table: Phase transition, F–Na system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1373 K | 1373 | other | experimental | [1] Zhang 2006 | p. 2 | “The composition of the consolute point in the liquid was estimated to be 23.1 at.% F at 1373 K by extrapolation.” |
 | Phase transition | 1453 K | 1453 | other | experimental | [1] Zhang 2006 | p. 2 | “The composition of the consolute point was extrapolated to be 41.9 at.% F at 1453 K.” |
+
+### Crystal structure (2)
+
+Table: Crystal structure, F–Na system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: Lattice constant a_ | 4.5 Å | 0 | NaF; _alloy: Na 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
+| Lattice a; _printed: Lattice constant a_ | 4.62 Å ± 0.004 |  | NaF; _alloy: Na 0.5_ | experimental | [1] Zhang 2006; _cites Davey 1923_ [doi](https://doi.org/10.1103/physrev.21.143) | Table 2, p. 3, row 11 |  |
 
 ## Sources
 

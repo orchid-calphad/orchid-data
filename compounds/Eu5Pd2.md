@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Eu5Pd2.html · Markdown: https:/
 
 1 accepted literature formation-enthalpy value(s) (model 1); Materials Project -47.438 kJ/mol-atom (mp-aaackwba); OQMD -59.161 kJ/mol-atom (oqmd-30128).
 
-Systems: [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html)
+Systems: [Eu–Pd](https://data.orchid-project.org/systems/EU-PD.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Eu5Pd2 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -44.766 kJ/mol-atom | Pd2Eu5 | 298.15 | model | Optimization | [Dy–Er–Eu–Gd–Pd–Sc–Y–Yb](https://data.orchid-project.org/systems/DY-ER-EU-GD-PD-SC-Y-YB.html) | [1] Kardellass 2020; _cites Du 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901411-6) | Table 3, p. 5, row 13 |  |
+| -44.766 kJ/mol-atom | Pd2Eu5 | 298.15 | model | Optimization | [Eu–Pd](https://data.orchid-project.org/systems/EU-PD.html) | [1] Kardellass 2020; _cites Du 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901411-6) | Table 3, p. 5, row 13 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Eu5Pd2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -44.766 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -44.766 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

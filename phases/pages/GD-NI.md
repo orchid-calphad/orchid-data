@@ -1,14 +1,14 @@
 # Gd–Ni phases
 
-> Gd–Ni system: 15 phases (tier A 7, tier C 3, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Gd–Ni system: 14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 14 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/GD-NI.html · Markdown: https://data.orchid-project.org/phases/pages/GD-NI.md
 
-15 phases (tier A 7, tier C 3, liquid 1, needs_review 3, unresolved_no_candidates 1); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 14 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=GD-NI) · [full JSON](https://data.orchid-project.org/phases/systems/GD-NI.json) · [Gd–Ni system page](https://data.orchid-project.org/systems/GD-NI.html) · [Markdown](https://data.orchid-project.org/phases/pages/GD-NI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Gd–Ni system (15)
+Table: Phases of the Gd–Ni system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -18,7 +18,6 @@ Table: Phases of the Gd–Ni system (15)
 | [GD2NI7](#phase-gd-ni-gd2ni7); _phase:gd-ni:gd2ni7_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1532.2 K, x(Ni) 0.77778–0.77778 | 10 | 3 |
 | [GD3NI_HT](#phase-gd-ni-gd3ni); _phase:gd-ni:gd3ni_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 910.71–1038.62 K, x(Ni) 0.25–0.25 | 9 | 1 |
 | [GD3NI_D011](#phase-gd-ni-gd3ni-d011); _phase:gd-ni:gd3ni-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1006.66 K, x(Ni) 0.25–0.25 | 2 | 3 |
-| [GD3NI-HT](#phase-gd-ni-gd3ni-ht); _phase:gd-ni:gd3ni-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [GD3NI2](#phase-gd-ni-gd3ni2); _phase:gd-ni:gd3ni2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–961.3 K, x(Ni) 0.4–0.4 | 0 | 2 |
 | [GDNI_B33](#phase-gd-ni-gdni-b33); _phase:gd-ni:gdni-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1551.72 K, x(Ni) 0.5–0.5 | 11 | 3 |
 | [GDNI2_C15](#phase-gd-ni-gdni2-c15); _phase:gd-ni:gdni2-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1349.39 K, x(Ni) 0.66667–0.66667 | 10 | 3 |
@@ -230,7 +229,7 @@ _cited as the source of values for this phase_
 - Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-ni:gd3ni)
 
-Names (3): _corpus: _corpus:phase:gd-ni:gd3ni  
+Names (4): _corpus: _corpus:phase:gd-ni:gd3ni, corpus:phase:gd-ni:gd3ni-ht  
 _paper: _paper:10.1016/j.jallcom.2015.06.201:Gd3Ni_HT  
 _tdb: _tdb:GdNi-15Rah.tdb:GD3NI_HT  
 
@@ -296,17 +295,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.3139/146.110756](https://doi.org/10.3139/146.110756) Guanglong Xu, Yu-Wen Cui, Houjun Fei, Ligang Zhang, Feng Zheng, Libin Liu et al., Phase equilibria in the Gd–Ni binary and Mg–Ni–Gd ternary systems, International Journal of Materials Research 103, 1179-1187 (2012).  
 _cited as the source of values for this phase_
-
-## GD3NI-HT (Gd–Ni)
-
-- Id: `phase:gd-ni:gd3ni-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-ni:gd3ni-ht)
-
-Names (1): _corpus: _corpus:phase:gd-ni:gd3ni-ht  
-
 
 ## GD3NI2 (Gd–Ni)
 

@@ -1,10 +1,10 @@
 # O–Pb system
 
-> O–Pb system: 217 accepted literature values (activity / EMF / Gibbs energy 64, invariant reaction 46, phase transition 39, formation 35) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Pb system: 218 accepted literature values (model expression 65, invariant reaction 46, phase transition 39, formation 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-PB.html · Markdown: https://data.orchid-project.org/systems/O-PB.md
 
-217 accepted literature values from 1 paper(s) (experimental 155, model 40, unspecified 22); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+218 accepted literature values from 1 paper(s) (experimental 155, model 40, unspecified 23); 0 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-PB.json) · [CSV](https://data.orchid-project.org/systems/O-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-PB) · [phases (13)](https://data.orchid-project.org/phases/pages/O-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-PB.html) · [Markdown](https://data.orchid-project.org/systems/O-PB.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 155 |
 | model | 40 |
-| unspecified | 22 |
+| unspecified | 23 |
 
 Table: Accepted values by property group
 
@@ -22,9 +22,10 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 46 |
 | phase transition | 39 |
-| formation | 35 |
+| formation | 33 |
 | heat capacity / entropy / enthalpy | 33 |
-| activity / EMF / Gibbs energy | 64 |
+| activity / EMF / Gibbs energy | 2 |
+| model expression | 65 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-PB.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-PB.json)
 
@@ -153,7 +154,7 @@ Table: Phase transition, O–Pb system
 | Phase transition | 1170 K | 1170 | congruent transformation: \[61Rod\] | experimental | [1] Risold 1998; _cites Rodigina 1961_ | Table 5, p. 5, row 12 |  |
 | Phase transition | 1808 K | 1808 | other | experimental | [1] Risold 1998 | p. 13 | “The boiling point of PbO has been determined by \[64Kna\] as 1808 K.” |
 
-### Formation (20)
+### Formation (18)
 
 Table: Formation, O–Pb system
 
@@ -171,9 +172,7 @@ Table: Formation, O–Pb system
 | Gibbs energy of formation; _printed: ΔfG298_ | -85.9437 kJ/mol-atom | 298.15 | Pb3O4-T; _alloy: Pb 0.428571_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 13 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.4685 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 2 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.5205 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites D 1923_ | Table 1, p. 1, row 3 |  |
-| Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.659 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 4 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.6415 kJ/mol-atom | 298.15 | PbO-L; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG298 (a)_ | -94.3555 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 9 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.018 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | model | [1] Risold 1998 | Table 1, p. 1, row 8 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -94.3235 kJ/mol-atom | 298.15 | PbO-M; _alloy: Pb 0.5_ | unspecified | [1] Risold 1998; _cites Chase 1985_ | Table 1, p. 1, row 7 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -74.2247 kJ/mol-atom | 298.15 | PbO2-I.; _alloy: Pb 0.333333_ | model | [1] Risold 1998 | Table 1, p. 1, row 22 |  |
@@ -220,76 +219,86 @@ Table: Heat capacity / entropy / enthalpy, O–Pb system
 | Entropy; _printed: ΔS_ | 1.35 J/mol · K | 762 | UNKNOWN | model | [1] Risold 1998 | Table 3, p. 3, row 4 |  |
 | Entropy; _printed: ΔS_ | 0.79 J/mol · K | 816 | UNKNOWN | experimental | [1] Risold 1998; _cites White 1961_ | Table 3, p. 3, row 5 |  |
 
-### Activity / EMF / Gibbs energy (64)
+### Activity / EMF / Gibbs energy (2)
 
 Table: Activity / EMF / Gibbs energy, O–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -220010 J/mol | 811 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 100.91 J/mol/K | 811 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 92.54 J/mol/K | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -212640 J/mol | 834 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 97.4 J/mol/K | 891.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -216000 J/mol | 891.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -219367 J/mol | 895 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Alc_ | Table 4, p. 4, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 100.92 J/mol/K | 895 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Alc_ | Table 4, p. 4, row 15 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -218099 J/mol | 939 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 4, p. 4, row 18 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 98.89 J/mol/K | 939 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 4, p. 4, row 18 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 96.39 J/mol/K | 966 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 4, p. 4, row 17 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -215058 J/mol | 966 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 4, p. 4, row 17 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -218059 J/mol | 966.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 4, p. 4, row 16 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 98.2 J/mol/K | 966.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 4, p. 4, row 16 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 95.65 J/mol/K | 1012 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 4, p. 4, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -214660 J/mol | 1012 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 4, p. 4, row 21 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 97.28 J/mol/K | 1037.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 4, p. 4, row 22 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -215000 J/mol | 1037.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 4, p. 4, row 22 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 94.14 J/mol/K | 1076 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 4, p. 4, row 20 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -214095 J/mol | 1076 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 4, p. 4, row 20 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 98.03 J/mol/K | 1083 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 4, p. 4, row 24 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -216606 J/mol | 1083 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 4, p. 4, row 24 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -218279 J/mol | 1083.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 4, p. 4, row 23 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 97.49 J/mol/K | 1083.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 4, p. 4, row 23 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -215058 J/mol | 1096.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 4, p. 4, row 19 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 96.23 J/mol/K | 1096.5 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 4, p. 4, row 19 |  |
-| Gibbs energy; _printed: ΔG0 (constant term)_ | -215231 J/mol | 1109 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 4, p. 4, row 25 |  |
-| Gibbs energy; _printed: ΔG0 (T coefficient)_ | 96.54 J/mol/K | 1109 | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 4, p. 4, row 25 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 69.45 J/mol/K | 1133 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 7, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -185226 J/mol | 1133 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 7, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -189851 J/mol | 1174 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 7, p. 6, row 38 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 74.36 J/mol/K | 1174 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 7, p. 6, row 38 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -214430 J/mol | 1200 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Codron 1972_ | Table 7, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 91.14 J/mol/K | 1200 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Codron 1972_ | Table 7, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -189410 J/mol | 1216 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 7, p. 6, row 32 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 72.63 J/mol/K | 1216 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 7, p. 6, row 32 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 81.3 J/mol/K | 1228 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Suito 1976_ [doi](https://doi.org/10.2320/matertrans1960.17.819) | Table 7, p. 6, row 36 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -194472 J/mol | 1228 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Suito 1976_ [doi](https://doi.org/10.2320/matertrans1960.17.819) | Table 7, p. 6, row 36 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -184700 J/mol | 1237.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 7, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 70.92 J/mol/K | 1237.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 7, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -180761 J/mol | 1239 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1971_ [doi](https://doi.org/10.1080/00305316.1971.10434031) | Table 7, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 65.44 J/mol/K | 1239 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1971_ [doi](https://doi.org/10.1080/00305316.1971.10434031) | Table 7, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191209 J/mol | 1240 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.2.137) | Table 7, p. 6, row 28 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 73.64 J/mol/K | 1240 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.2.137) | Table 7, p. 6, row 28 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -188615 J/mol | 1243 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 7, p. 6, row 33 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -190623 J/mol | 1261.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 7, p. 6, row 27 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191753 J/mol | 1263 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sridhar 1967_ | Table 7, p. 6, row 22 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 75.15 J/mol/K | 1265.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 6, row 23 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -190623 J/mol | 1265.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 6, row 23 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 79.89 J/mol/K | 1273 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Minenko 1963_ | Table 7, p. 6, row 20 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191093 J/mol | 1273 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Minenko 1963_ | Table 7, p. 6, row 20 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 94.14 J/mol/K | 1273 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Perrot 1976_ | Table 7, p. 6, row 35 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -214430 J/mol | 1273 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Perrot 1976_ | Table 7, p. 6, row 35 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -189037 J/mol | 1274.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Leung 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.3.227) | Table 7, p. 6, row 34 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 74.91 J/mol/K | 1276.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 7, p. 6, row 24 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191008 J/mol | 1276.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 7, p. 6, row 24 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 74.56 J/mol/K | 1291.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 7, p. 6, row 21 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191229 J/mol | 1291.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 7, p. 6, row 21 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -191350 J/mol | 1292.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sugawara 1977_ [doi](https://doi.org/10.1007/bf02696940) | Table 7, p. 6, row 37 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 74.6 J/mol/K | 1292.5 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sugawara 1977_ [doi](https://doi.org/10.1007/bf02696940) | Table 7, p. 6, row 37 |  |
-| Gibbs energy; _printed: ΔG0 coefficient of T_ | 71.38 J/mol/K | 1302 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 7, p. 6, row 30 |  |
-| Gibbs energy; _printed: ΔG0 constant term_ | -185891 J/mol | 1302 | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 7, p. 6, row 30 |  |
 | Vapour pressure; _printed: p(O2)_ | 0.59 bar 02 | 515 |  | experimental | [1] Risold 1998 | p. 13 | “This evolution of oxygen was so slow that a precise value for the equilibrium oxygen pressure could not be obtained; however, it gives a limiting interval of 0.59 to 1.19 bar 02 at 515 K.” |
 | Vapour pressure; _printed: p(O2)_ | 2 bar | 653 | Pb3Oa-T + Pb12017 + Pb\]2019 | experimental | [1] Risold 1998; _cites White 1964_ | p. 12 | “The three phase Pb3Oa-T, Pb12017, and Pb\]2019 have been predicted to be in equilibrium at about 653 K and 2 bar 02 based on the XRD analysis of annealed samples \[64Whi, 65Roy\].” |
+
+### Model expression (65)
+
+Table: Model expression, O–Pb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -189851 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 7, p. 6, row 38 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 74.36 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 7, p. 6, row 38 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191753 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sridhar 1967_ | Table 7, p. 6, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -188615 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 7, p. 6, row 33 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191350 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sugawara 1977_ [doi](https://doi.org/10.1007/bf02696940) | Table 7, p. 6, row 37 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 74.6 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Sugawara 1977_ [doi](https://doi.org/10.1007/bf02696940) | Table 7, p. 6, row 37 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 74.91 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 7, p. 6, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191008 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 7, p. 6, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191209 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.2.137) | Table 7, p. 6, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 73.64 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1973_ [doi](https://doi.org/10.1179/cmq.1973.12.2.137) | Table 7, p. 6, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -180761 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1971_ [doi](https://doi.org/10.1080/00305316.1971.10434031) | Table 7, p. 6, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 65.44 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Kapoor 1971_ [doi](https://doi.org/10.1080/00305316.1971.10434031) | Table 7, p. 6, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 79.89 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Minenko 1963_ | Table 7, p. 6, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191093 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Minenko 1963_ | Table 7, p. 6, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 94.14 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Perrot 1976_ | Table 7, p. 6, row 35 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -214430 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Perrot 1976_ | Table 7, p. 6, row 35 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 71.38 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 7, p. 6, row 30 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -185891 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 7, p. 6, row 30 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -190623 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 7, p. 6, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -184700 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 7, p. 6, row 31 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 70.92 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 7, p. 6, row 31 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -214430 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Codron 1972_ | Table 7, p. 6, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 91.14 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Codron 1972_ | Table 7, p. 6, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 69.45 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 7, p. 6, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -185226 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 7, p. 6, row 29 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 75.15 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 6, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -190623 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 6, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 81.3 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Suito 1976_ [doi](https://doi.org/10.2320/matertrans1960.17.819) | Table 7, p. 6, row 36 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -194472 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Suito 1976_ [doi](https://doi.org/10.2320/matertrans1960.17.819) | Table 7, p. 6, row 36 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 74.56 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 7, p. 6, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -191229 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 7, p. 6, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -189410 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 7, p. 6, row 32 |  |
+| gibbs energy expression term; _printed: ΔG0 coefficient of T_ | 72.63 J/mol/K |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 7, p. 6, row 32 |  |
+| gibbs energy expression term; _printed: ΔG0 constant term_ | -189037 J/mol |  | PbO(liq); _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Leung 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.3.227) | Table 7, p. 6, row 34 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 95.65 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 4, p. 4, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -214660 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 75Cal_ | Table 4, p. 4, row 21 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -218279 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 4, p. 4, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 97.49 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1975_ | Table 4, p. 4, row 23 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 97.4 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -216000 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Sugimoto 1980_ [doi](https://doi.org/10.2320/jinstmet1952.44.6_644) | Table 4, p. 4, row 26 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -220010 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 100.91 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 84Ban_ | Table 4, p. 4, row 27 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -218099 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 4, p. 4, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 98.89 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ICT 1971_ | Table 4, p. 4, row 18 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 92.54 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -212640 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mallika 1995_ | Table 4, p. 4, row 28 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 96.39 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 4, p. 4, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -215058 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 4, p. 4, row 17 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -215231 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 4, p. 4, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 96.54 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Taskinen 1979_ | Table 4, p. 4, row 25 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -219367 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Alc_ | Table 4, p. 4, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 100.92 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Alc_ | Table 4, p. 4, row 15 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 97.28 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 4, p. 4, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -215000 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Iwase 1975_ [doi](https://doi.org/10.2320/jinstmet1952.39.11_1118) | Table 4, p. 4, row 22 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -215058 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 4, p. 4, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 96.23 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Szware 1972_ | Table 4, p. 4, row 19 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 98.03 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 4, p. 4, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -216606 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Charl 1976_ | Table 4, p. 4, row 24 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 94.14 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 4, p. 4, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -214095 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites Mehrotra 1973_ [doi](https://doi.org/10.1016/0036-9748%2873%2990012-4) | Table 4, p. 4, row 20 |  |
+| gibbs energy expression term; _printed: ΔG0 (constant term)_ | -218059 J/mol |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 4, p. 4, row 16 |  |
+| gibbs energy expression term; _printed: ΔG0 (T coefficient)_ | 98.2 J/mol/K |  | UNKNOWN; _alloy: Pb 1_ | experimental | [1] Risold 1998; _cites ref. 64Mat1_ | Table 4, p. 4, row 16 |  |
+| gm form expression term; _printed: ΔfG298 (a)_ | -94.659 kJ/mol-atom |  | PbO-L; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 4 |  |
+| gm form expression term; _printed: ΔfG298 (a)_ | -94.3555 kJ/mol-atom |  | PbO-M; _alloy: Pb 0.5_ | experimental | [1] Risold 1998; _cites Spencer 1932_ [doi](https://doi.org/10.1021/ja01351a018) | Table 1, p. 1, row 9 |  |
+| gm form expression term; _printed: ΔfG298 (a)_ | -72.983 kJ/mol-atom |  | PbO2-I; _alloy: Pb 0.333333_ | unspecified | [1] Risold 1998; _cites ref. 29Mil_ | Table 1, p. 1, row 23 |  |
 
 ## Sources
 

@@ -18,7 +18,7 @@ Table: Phases of the Na–Sb system (7)
 | [HCP_A3](#phase-na-sb-hcp-a3); _phase:na-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-na-sb-liquid); _phase:na-sb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 370.87–2500 K, x(Sb) 0–1 | 12 | 2 |
 | [NA3SB_D018](#phase-na-sb-na3sb-d018); _phase:na-sb:na3sb-d018_ | Na3As · D0_18 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1168.13 K, x(Sb) 0.25–0.25 | 13 | 2 |
-| [NASB](#phase-na-sb-nasb); _phase:na-sb:nasb_ | LiAs · mP16 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5 | 16 | 2 |
+| [NASB](#phase-na-sb-nasb); _phase:na-sb:nasb_ | LiAs · mP16 · P2_1/c (14) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5 | 18 | 2 |
 
 ## RHOMBOHEDRAL_A7 (Na–Sb)
 
@@ -252,7 +252,7 @@ _cited as the source of values for this phase_
 - Structure: LiAs · mP16 · P2_1/c (14); type `st:lias-mp16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Na 0.5000, Sb 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–744.86 K, x(Sb) 0.5–0.5
-- Literature: 16 values (15 accepted) from 2 papers
+- Literature: 18 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sb:nasb)
 
 Names (7): _corpus: _corpus:phase:na-sb:nasb  

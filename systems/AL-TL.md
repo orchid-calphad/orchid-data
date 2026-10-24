@@ -1,10 +1,10 @@
 # Al–Tl system
 
-> Al–Tl system: 12 accepted literature values (phase transition 5, crystal structure 4, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Tl system: 7 accepted literature values (phase transition 4, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TL.html · Markdown: https://data.orchid-project.org/systems/AL-TL.md
 
-12 accepted literature values from 1 paper(s) (model 8, unspecified 4); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TL.json) · [CSV](https://data.orchid-project.org/systems/AL-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TL/AlTl-89McA.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AL-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TL.html) · [Markdown](https://data.orchid-project.org/systems/AL-TL.md)
 
@@ -12,16 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 8 |
-| unspecified | 4 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| phase transition | 5 |
-| crystal structure | 4 |
+| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -55,28 +53,16 @@ Table: Invariant reactions reported in the literature for the Al–Tl system (3)
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (4)
 
 Table: Phase transition, Al–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 507.15 K | 507.15 | polymorphic: βTl -> αTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 8 |  |
 | Phase transition | 577.15 K | 577.15 | congruent melting: L -> βTl; _βTl: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 7 |  |
 | Phase transition | 933.602 K | 933.602 | congruent melting: L -> Al; _Al: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 6 |  |
 | Phase transition | 1696.15 K | 1696.15 | other: vapor -> L; _vapor: Tl 1_ | model | [1] McAlister 1989 | Table I, p. 1, row 5 |  |
 | Phase transition | 2793.15 K | 2793.15 | other: vapor -> L; _vapor: Tl 0_ | model | [1] McAlister 1989 | Table I, p. 1, row 4 |  |
-
-### Crystal structure (4)
-
-Table: Crystal structure, Al–Tl system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0414 Å | 298.15 | (Al); _(Al): Al 1, Tl 0_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 1 |  |
-| Lattice a | 3.4496 Å | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
-| Lattice a | 3.874 Å | 298.15 | (βTl); _(βTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 2 |  |
-| Lattice c | 5.5137 Å | 298.15 | (αTl); _(αTl): Al 0, Tl 1_ | unspecified | [1] McAlister 1989 | Table 3, p. 2, row 3 |  |
 
 ## Sources
 

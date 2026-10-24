@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Sc6Sn5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -51.5 | kJ/mol-atom | 1.4 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -53.661 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -51.5 | kJ/mol-atom | 1.4 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -53.661 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

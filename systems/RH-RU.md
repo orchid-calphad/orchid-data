@@ -1,10 +1,10 @@
 # Rh–Ru system
 
-> Rh–Ru system: 1 accepted literature values (invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Rh–Ru system: 11 accepted literature values (mixing / partial 10, invariant reaction 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/RH-RU.html · Markdown: https://data.orchid-project.org/systems/RH-RU.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (model 1, DFT 10); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/RH-RU.json) · [CSV](https://data.orchid-project.org/systems/RH-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#RH-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#RH-RU/RhRu-16Gos.json) · [phases (4)](https://data.orchid-project.org/phases/pages/RH-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/RH-RU.html) · [Markdown](https://data.orchid-project.org/systems/RH-RU.md)
 
@@ -13,12 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 1 |
+| DFT | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 1 |
+| mixing / partial | 10 |
 
 ## Calculated phase diagrams
 
@@ -45,6 +47,25 @@ Table: Invariant reactions reported in the literature for the Rh–Ru system (1)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2360 | peritectic |  | model | [1] Gossé 2016 | p. 6 | “The invariant compositions are respectively: 40.1 at.% Ru, 48.2 at.% Ru, 37.8 at.% Ru at the peritectic reaction calculated at 2360 K (Fig. 7).” |
+
+## Other properties
+
+### Mixing / partial (10)
+
+Table: Mixing / partial, Rh–Ru system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2926 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -0.9132 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | 0.0707 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.3808 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: FCC mixing enthalpy_ | -1.2842 kJ/mol (basis unstated) | 0 | FCC; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.4479 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.25, Ru 0.75_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 12 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.3147 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.94, Ru 0.06_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 15 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | 0.2358 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.06, Ru 0.94_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 11 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.2123 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.75, Ru 0.25_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 14 |  |
+| Enthalpy of mixing; _printed: HCP mixing enthalpy_ | -0.8385 kJ/mol (basis unstated) | 0 | HCP; _alloy: Rh 0.5, Ru 0.5_ | DFT | [1] Gossé 2016 | Table 2, p. 4, row 13 |  |
 
 ## Sources
 

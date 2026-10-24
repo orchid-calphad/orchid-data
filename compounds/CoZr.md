@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CoZr.html · Markdown: https://d
 
 10 accepted literature formation-enthalpy value(s) (experimental 5, model 5); experimental median -35.8 kJ/mol-atom (n = 1); Materials Project -28.143 kJ/mol-atom (mp-aaaaadjv); OQMD -32.068 kJ/mol-atom (oqmd-1926887).
 
-Systems: [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) · [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html)
+Systems: [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html)
 
 ## Literature values
 
@@ -17,10 +17,10 @@ Table: Enthalpy of formation of CoZr reported in the literature (10)
 | -43.05 per mol-atom ± 3900 | CoZr | 1030 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gomozov 1986_ | Table 3, p. 5, row 13 |  |
 | -42.2 per mol-atom ± 1000 | CoZr | 1512 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Gachon 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990024-x) | Table 3, p. 5, row 12 |  |
 | -35.8 per mol-atom ± 700 | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Guo 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900246-1) | Table 3, p. 5, row 14 |  |
-| -35.8 kJ/mol-atom | CoZr | 298.15 | experimental |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
-| -28.83 per mol-atom | CoZr | 0 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15 |  |
-| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [2] Bratberg 2006 | Table 6, p. 5, row 3 |  |
-| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
+| -35.8 kJ/mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 1 |  |
+| -28.83 per mol-atom | CoZr | 298.15 | experimental |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Ohodnicki 2008_ [doi](https://doi.org/10.1103/physrevb.78.144414) | Table 3, p. 5, row 15 |  |
+| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006 | Table 6, p. 5, row 3 |  |
+| -60 kJ/mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 2 |  |
 | -40.267 per mol-atom | CoZr | 1512 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 17 |  |
 | -35.694 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021 | Table 3, p. 5, row 18 |  |
 | -35.326 per mol-atom | CoZr | 298.15 | model |  | [Co–Zr](https://data.orchid-project.org/systems/CO-ZR.html) | [1] Zhou 2021; _cites Agraval 2020_ [doi](https://doi.org/10.1007/s11669-020-00805-5) | Table 3, p. 5, row 16 |  |
@@ -36,10 +36,10 @@ Table: Uncertainty budget of the literature values of CoZr
 | -43.05 | per mol-atom | 3900 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 3900 |
 | -42.2 | per mol-atom | 1000 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 1000 |
 | -35.8 | per mol-atom | 700 | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | 700 |
-| -35.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -35.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -28.83 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
-| -60 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -60 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -60 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -60 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 | -40.267 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -35.694 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
 | -35.326 | per mol-atom |  | 5.000e-4 | unit 'per mol-atom' not convertible to kJ/mol-atom |  |  |  | unit 'per mol-atom' not convertible to kJ/mol-atom |
@@ -53,7 +53,7 @@ Table: DFT formation energy of CoZr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadjv | -28.143 | -0.291685 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-1926887 | -32.068 | -0.33236 | Cm | 0.221 | 0.0023 | yes |
+| OQMD | oqmd-1926887 | -32.068 | -0.33236 | Cm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

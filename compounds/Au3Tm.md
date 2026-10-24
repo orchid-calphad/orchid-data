@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au3Tm.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -72.7 kJ/mol-atom (n = 1); Materials Project -69.952 kJ/mol-atom (mp-aaabgipr); OQMD -70.135 kJ/mol-atom (oqmd-28227).
 
-Systems: [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html)
+Systems: [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Au3Tm reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -72.7 kJ/mol-atom ± 2.1 | Au3Tm | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 54 |  |
-| -69.2 kJ/mol-atom | Au3Tm | 298.15 | model | CALPHAD assessment | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 55 |  |
-| -71.5 kJ/mol-atom | Au3Tm | 0 | DFT | ab initio | [Au–Ho–Tm](https://data.orchid-project.org/systems/AU-HO-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 53 |  |
+| -72.7 kJ/mol-atom ± 2.1 | Au3Tm | 298.15 | experimental | High temperature direct synthesis calorimetry at 1373 ± 2 K | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 54 |  |
+| -69.2 kJ/mol-atom | Au3Tm | 298.15 | model | CALPHAD assessment | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 55 |  |
+| -71.5 kJ/mol-atom | Au3Tm | 0 | DFT | ab initio | [Au–Tm](https://data.orchid-project.org/systems/AU-TM.html) | [1] Dong 2012 | Table 1, p. 2, row 53 |  |
 
 ### Uncertainty budget
 
@@ -27,8 +27,8 @@ Table: Uncertainty budget of the literature values of Au3Tm
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -72.7 | kJ/mol-atom | 2.1 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -69.2 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.5 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -69.2 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -71.5 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

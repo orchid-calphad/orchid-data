@@ -1,10 +1,10 @@
 # B–Bi–La system
 
-> B–Bi–La system: 68 accepted literature values (crystal structure 35, invariant reaction 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Bi–La system: 29 accepted literature values (invariant reaction 25, crystal structure 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-BI-LA.html · Markdown: https://data.orchid-project.org/systems/B-BI-LA.md
 
-68 accepted literature values from 1 paper(s) (experimental 30, model 22, unspecified 16); 0 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 11, model 16, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-BI-LA.json) · [CSV](https://data.orchid-project.org/systems/B-BI-LA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-BI-LA) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-BI-LA.html) · [Markdown](https://data.orchid-project.org/systems/B-BI-LA.md)
 
@@ -12,29 +12,26 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 30 |
-| model | 22 |
-| unspecified | 16 |
+| experimental | 11 |
+| model | 16 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 33 |
-| crystal structure | 35 |
+| invariant reaction | 25 |
+| crystal structure | 4 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the B–Bi–La system (33)
+Table: Invariant reactions reported in the literature for the B–Bi–La system (25)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 2325.15 | Liquid = LaB6 + (B) | Liquid: B 0.95; LaB6: B 0.85714 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 4 |  |
 | 2325.05 | Liquid = LaB6 + (B) | Liquid: B 0.98; LaB6: B 0.85714; (B): B 1 | model | [1] Tang 2013 | Table 4, p. 6, row 6 |  |
 | 2322.65 | Liquid = LaB6 + (B) | Liquid: B 0.9838; LaB6: B 0.85714 | model | [1] Tang 2013 | Table 4, p. 6, row 5 |  |
-| 2280.15 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; LaB9: B 0.9 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 7 |  |
-| 2278.85 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 8 |  |
-| 2276.05 | LaB6 + (B) = LaB9 | LaB6: B 0.85714; (B): B 1; LaB9: B 0.9 | model | [1] Tang 2013 | Table 4, p. 6, row 9 |  |
 | 2075.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5519; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 12 |  |
 | 2074.95 | Liquid + LaB6 = LaB4 | Liquid: B 0.5847; LaB6: B 0.85714; LaB4: B 0.8 | model | [1] Tang 2013 | Table 4, p. 6, row 11 |  |
 | 2073.15 | Liquid + LaB6 = LaB4 | Liquid: B 0.667; LaB6: B 0.85714; LaB4: B 0.8 | experimental | [1] Tang 2013; _cites Storms 2013_ | Table 4, p. 6, row 10 |  |
@@ -56,56 +53,20 @@ Table: Invariant reactions reported in the literature for the B–Bi–La system
 | 1098.25 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0868; Bcc(La): Bi 0.0205; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 20 |  |
 | 1098.05 | Liquid = Bcc(La) + La2Bi | Liquid: Bi 0.0866; Bcc(La): Bi 0.0197; La2Bi: Bi 0.3333 | model | [1] Tang 2013 | Table 4, p. 6, row 21 |  |
 | 1093.15 | Liquid = Bcc(La) + La2Bi | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 19 |  |
-| 1023.15 | Bcc(La) = La2Bi +Fcc(La) | La2Bi: Bi 0.3333 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 16 |  |
-| 1022.55 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 17 |  |
-| 1022.45 | Bcc(La) = La2Bi +Fcc(La) | Bcc(La): Bi 0.0218; La2Bi: Bi 0.3333; Fcc(La): Bi 0 | model | [1] Tang 2013 | Table 4, p. 6, row 18 |  |
 | 544.55 | Liquid = LaBi2 + (Bi) | LaBi2: Bi 0.6667 | experimental | [1] Tang 2013; _cites Nomura 1977_ [doi](https://doi.org/10.1016/0022-5088%2877%2990007-8) | Table 4, p. 6, row 37 |  |
-| 544.55 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9997; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 38 |  |
-| 544.25 | Liquid = LaBi2 + (Bi) | Liquid: Bi 0.9998; LaBi2: Bi 0.6667; (Bi): Bi 1 | model | [1] Tang 2013 | Table 4, p. 6, row 39 |  |
 
 ## Other properties
 
-### Crystal structure (35)
+### Crystal structure (4)
 
 Table: Crystal structure, B–Bi–La system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.583 Å | 0 | (Bi); _alloy: Bi 1, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 12 |  |
-| Lattice a | 4.546 Å | 0 | (Bi); _alloy: Bi 1, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 11 |  |
 | Lattice a | 5.052 Å | 0 | (αB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 8 |  |
-| Lattice a | 5.057 Å | 0 | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 5.057 Å |  | (αB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 7 |  |
 | Lattice a | 10.12 Å | 0 | (βB); _alloy: Bi 0, La 0_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 10 |  |
-| Lattice a | 10.17 Å | 0 | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9 |  |
-| Lattice a | 4.29 Å | 0 | Bcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 1 |  |
-| Lattice a | 4.25 Å | 0 | Bcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.772 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice a | 3.762 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice a | 5.29 Å | 0 | Fcc(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 3 |  |
-| Lattice a | 5.26 Å | 0 | Fcc(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 4 |  |
-| Lattice a | 4.712 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice a | 4.737 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice a | 9.886 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 22 |  |
-| Lattice a | 9.79 Å | 0 | La4Bi3; _alloy: Bi 0.428571, La 0.571429_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 21 |  |
-| Lattice a | 9.659 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice a | 9.767 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice a | 7.31 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice a | 7.325 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
-| Lattice a | 4.151 Å | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 15 |  |
-| Lattice a | 4.155 Å | 0 | LaB6; _alloy: Bi 0, La 0.142857_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 16 |  |
-| Lattice a | 6.659 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 24 |  |
-| Lattice a | 6.658 Å | 0 | LaBi; _alloy: Bi 0.5, La 0.5_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 23 |  |
-| Lattice a | 4.737 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice b | 17.51 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
-| Lattice c | 12.144 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 5 |  |
-| Lattice c | 12.078 Å | 0 | Dhcp(La); _alloy: Bi 0, La 1_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 6 |  |
-| Lattice c | 18.583 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 18 |  |
-| Lattice c | 18.34 Å | 0 | La2Bi; _alloy: Bi 0.333333, La 0.666667_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 17 |  |
-| Lattice c | 6.697 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 19 |  |
-| Lattice c | 6.727 Å | 0 | La5Bi3; _alloy: Bi 0.375, La 0.625_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 20 |  |
-| Lattice c | 4.184 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | unspecified | [1] Tang 2013 | Table 2, p. 3, row 14 |  |
-| Lattice c | 4.181 Å | 0 | LaB4; _alloy: Bi 0, La 0.2_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 13 |  |
-| Lattice c | 4.564 Å | 0 | LaBi2; _alloy: Bi 0.666667, La 0.333333_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 25 |  |
+| Lattice a | 10.17 Å |  | (βB); _alloy: Bi 0, La 0_ | experimental | [1] Tang 2013; _cites Villars 2013_ | Table 2, p. 3, row 9 |  |
 
 ## Sources
 

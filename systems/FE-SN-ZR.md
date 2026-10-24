@@ -1,10 +1,10 @@
 # Fe–Sn–Zr system
 
-> Fe–Sn–Zr system: 43 accepted literature values (mixing / partial 25, formation 14, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Sn–Zr system: 41 accepted literature values (mixing / partial 25, formation 12, phase equilibrium 4) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-SN-ZR.html · Markdown: https://data.orchid-project.org/systems/FE-SN-ZR.md
 
-43 accepted literature values from 1 paper(s) (model 38, DFT 1, unspecified 4); 0 calculated phase diagram(s).
+41 accepted literature values from 1 paper(s) (model 37, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-SN-ZR.json) · [CSV](https://data.orchid-project.org/systems/FE-SN-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-SN-ZR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-SN-ZR.html) · [Markdown](https://data.orchid-project.org/systems/FE-SN-ZR.md)
 
@@ -12,8 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 38 |
-| DFT | 1 |
+| model | 37 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -21,14 +20,14 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 4 |
-| formation | 14 |
+| formation | 12 |
 | mixing / partial | 25 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Sn–Zr system (14)
+Table: Enthalpies of formation, Fe–Sn–Zr system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -38,8 +37,6 @@ Table: Enthalpies of formation, Fe–Sn–Zr system (14)
 | Fe36.36Sn36.36Zr27.27 (N) |  | -28.97 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 1 |  |
 | Fe36.36Sn36.36Zr27.27 (N) |  | -27.623 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 1 |  |
 | Fe56.24Sn28.13Zr15.63 (Y) |  | -18.146 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 7 |  |
-| Fe5Sn3 | [Fe5Sn3](https://data.orchid-project.org/compounds/Fe5Sn3.html) | 2.79 kJ/mol-atom |  | model |  | 18.263 (oqmd-1277778) | [1] Lafaye 2020 | Table 2, p. 4, row 8 |  |
-| Fe5Sn3 |  | 2.79 kJ/mol-atom | 0 | DFT |  |  | [1] Lafaye 2020 | Table 2, p. 4, row 7 |  |
 | Fe6Sn6Zr |  | -8.94 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | Fe6Sn6Zr |  | -8.789 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 3 |  |
 | FeSn2Zr6 (θ) |  | -40.881 kJ/mol-atom |  | model |  |  | [1] Lafaye 2020 | Table 7, p. 8, row 9 |  |

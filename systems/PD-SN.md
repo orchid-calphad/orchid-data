@@ -1,10 +1,10 @@
 # Pd–Sn system
 
-> Pd–Sn system: 209 accepted literature values (invariant reaction 105, crystal structure 56, formation 26, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pd–Sn system: 208 accepted literature values (invariant reaction 104, crystal structure 56, formation 26, mixing / partial 18) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PD-SN.html · Markdown: https://data.orchid-project.org/systems/PD-SN.md
 
-209 accepted literature values from 2 paper(s) (experimental 111, model 67, unspecified 31); 3 calculated phase diagram(s).
+208 accepted literature values from 2 paper(s) (experimental 111, model 66, unspecified 31); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PD-SN.json) · [CSV](https://data.orchid-project.org/systems/PD-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PD-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PD-SN/PdSn-06Viz.json) · [phases (18)](https://data.orchid-project.org/phases/pages/PD-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PD-SN.html) · [Markdown](https://data.orchid-project.org/systems/PD-SN.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 111 |
-| model | 67 |
+| model | 66 |
 | unspecified | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 105 |
+| invariant reaction | 104 |
 | phase transition | 4 |
 | formation | 26 |
 | mixing / partial | 18 |
@@ -91,7 +91,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pd–Sn system (105)
+Table: Invariant reactions reported in the literature for the Pd–Sn system (104)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -199,7 +199,6 @@ Table: Invariant reactions reported in the literature for the Pd–Sn system (10
 | 503 | L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1; PdSn4: Sn 0.8 | experimental | [2] Ghosh 1999; _cites Schubert 1959_ [doi](https://doi.org/10.1515/ijmr-1959-500907) | Table III, p. 7, row 8 |  |
 | 502.15 | Liquid = PdSn4 + (β\_Sn) | PdSn4: Sn 0.8; (β\_Sn): Sn 1; Liquid: Sn 0.99 | experimental | [1] Cui 2020; _cites Knight 1959_ [doi](https://doi.org/10.1016/0022-5088%2859%2990005-0) | Table 4, p. 7, row 49 |  |
 | 502 | L -> (Sn) + PdSn4 | L: Sn 1; (Sn): Sn 1 | experimental | [2] Ghosh 1999; _cites Knight 1999_ | Table III, p. 7, row 7 |  |
-| 286.15 | (β\_Sn) = (α\_Sn) | (β\_Sn): Sn 1; (α\_Sn): Sn 1 | model | [1] Cui 2020; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 8, row 17 |  |
 
 ## Formation enthalpies
 

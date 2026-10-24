@@ -1,10 +1,10 @@
 # Au–Dy system
 
-> Au–Dy system: 67 accepted literature values (invariant reaction 39, phase transition 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Dy system: 63 accepted literature values (invariant reaction 39, phase transition 24) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-DY.html · Markdown: https://data.orchid-project.org/systems/AU-DY.md
 
-67 accepted literature values from 2 paper(s) (experimental 37, model 30); 3 calculated phase diagram(s).
+63 accepted literature values from 2 paper(s) (experimental 35, model 28); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-DY.json) · [CSV](https://data.orchid-project.org/systems/AU-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-DY/AuDy-15Otm.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-DY.html) · [Markdown](https://data.orchid-project.org/systems/AU-DY.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 37 |
-| model | 30 |
+| experimental | 35 |
+| model | 28 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 39 |
-| phase transition | 28 |
+| phase transition | 24 |
 
 ## Calculated phase diagrams
 
@@ -143,7 +143,7 @@ Table: Invariant reactions reported in the literature for the Au–Dy system (39
 
 ## Other properties
 
-### Phase transition (28)
+### Phase transition (24)
 
 Table: Phase transition, Au–Dy system
 
@@ -167,10 +167,6 @@ Table: Phase transition, Au–Dy system
 | Phase transition | 1633 K | 1633 | polymorphic: αDyAu -> βDyAu; _αDyAu: Dy 0.5; βDyAu: Dy 0.5_ | model | [1] Otmani 2015 | Table 2, p. 3, row 12 |  |
 | Phase transition | 1633.15 K | 1633.15 | polymorphic: bAuDy M aAuDy | experimental | [2] Wang 2015 | p. 3 | “three peritectic reactions (L + Au51Dy14 M Au6Dy at 845 C, L + Au3Dy M Au51Dy14 at 1095 C, and L + aAuDy M AuDy2 at 1065 C) and a polymorphic reaction (bAuDy M aAuDy at 1360 C).” |
 | Phase transition | 1633.15 K | 1633.15 | polymorphic: βAuDy -> αAuDy; _βAuDy: Dy 0.5; αAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 7 |  |
-| Phase transition | 1651 K | 1651 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 4 |  |
-| Phase transition | 1653 K | 1653 | polymorphic: βDy -> αDy; _βDy: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 3 |  |
-| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 1 |  |
-| Phase transition | 1685 K | 1685 | congruent melting: L -> βDy; _L: Dy 1_ | model | [1] Otmani 2015 | Table 2, p. 3, row 2 |  |
 | Phase transition | 1933 K | 1933 | congruent melting: L -> βDyAu; _L: Dy 0.5; βDyAu: Dy 0.5_ | experimental | [1] Otmani 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 2, p. 3, row 9 |  |
 | Phase transition | 1933.15 K | 1933.15 | AuDy | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | p. 2 | “Later, based on microscopic, DTA and XRD, McMasters and Gschneidner\[23\] investigated the Au-Dy phase diagram, and reported three stoichiometry compounds of the AuDy (melting point, 1660 C), Au2Dy (melting point, 1320 C) and Au3Dy (melting point, 1230 C).” |
 | Phase transition | 1933.15 K | 1933.15 | congruent melting: L -> βAuDy; _L: Dy 0.5; βAuDy: Dy 0.5_ | experimental | [2] Wang 2015; _cites McMasters 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990144-6) | Table 3, p. 5, row 5 |  |

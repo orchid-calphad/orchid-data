@@ -12,7 +12,7 @@ Table: Phases of the In–Pd system (13)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-in-pd-a6-tetragonal); _phase:in-pd:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.64 K, x(Pd) 0–0 | 2 | 1 |
+| [TETRAGONAL_A6](#phase-in-pd-a6-tetragonal); _phase:in-pd:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.64 K, x(Pd) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-in-pd-bcc-a2); _phase:in-pd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-in-pd-fcc-a1); _phase:in-pd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1828 K, x(Pd) 0.79955–1 | 4 | 1 |
 | [HCP_A3](#phase-in-pd-hcp-a3); _phase:in-pd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -32,11 +32,10 @@ Table: Phases of the In–Pd system (13)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: In 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–429.64 K, x(Pd) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pd:a6-tetragonal)
 
-Names (4): _corpus: _corpus:phase:in-pd:a6-tetragonal, corpus:phase:in-pd:tetragonal-a6  
-_paper: _paper:10.1007/s11661-002-0235-x:In(bct)  
+Names (3): _corpus: _corpus:phase:in-pd:a6-tetragonal, corpus:phase:in-pd:tetragonal-a6  
 _tdb: _tdb:InPd-02Jia-LB.tdb:TETRAGONAL_A6  
 
 
@@ -49,12 +48,10 @@ _tdb: _tdb:InPd-02Jia-LB.tdb:TETRAGONAL_A6
 47: CONST TETRAGONAL_A6 : IN : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11661-002-0235-x](https://doi.org/10.1007/s11661-002-0235-x) Chao Jiang, Zi-Kuk Liu, Thermodynamic modeling of the indium-palladium system, Metall Mater Trans A 33, 3597-3603 (2002).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0925-8388(01)01859-x](https://doi.org/10.1016/s0925-8388%2801%2901859-x) Hans Flandorfer, Phase relationships in the In-rich part of the In–Pd system, Journal of Alloys and Compounds 336, 176-180 (2002).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (In–Pd)
 

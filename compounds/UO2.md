@@ -14,10 +14,10 @@ Table: Enthalpy of formation of UO2 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -361.637 kJ/mol-atom ± 0.8368 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1978_ | Table 10, p. 8, row 3 |  |
+| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1978_ | Table 10, p. 8, row 3 |  |
 | -361.637 kJ/mol-atom | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 4 |  |
-| -361.637 kJ/mol-atom ± 0.8368 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 1 |  |
-| -361.219 kJ/mol-atom ± 2.5104 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 2 |  |
+| -361.637 kJ/mol-atom ± 0.278933 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Huber 1969_ [doi](https://doi.org/10.1016/0021-9614%2869%2990046-9) | Table 10, p. 8, row 1 |  |
+| -361.219 kJ/mol-atom ± 0.8368 | UO2 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 2 |  |
 | -361.667 kJ/mol-atom ± 0.333 | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 2 |  |
 | -361.637 kJ/mol-atom | UO2 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 5 |  |
 | -361.374 kJ/mol-atom | UO2 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 1 |  |
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of UO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -361.637 | kJ/mol-atom | 0.8368 | 1.667e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -361.637 | kJ/mol-atom |  | 1.667e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -361.637 | kJ/mol-atom | 0.8368 | 1.667e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -361.219 | kJ/mol-atom | 2.51 | 1.667e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -361.667 | kJ/mol-atom | 0.333 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -361.637 | kJ/mol-atom |  | 1.667e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -361.374 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -361.637 | kJ/mol-atom | 0.2789 | 1.667e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -361.637 | kJ/mol-atom |  | 1.667e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -361.637 | kJ/mol-atom | 0.2789 | 1.667e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -361.219 | kJ/mol-atom | 0.8368 | 1.667e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -361.667 | kJ/mol-atom | 0.333 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -361.637 | kJ/mol-atom |  | 1.667e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -361.374 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

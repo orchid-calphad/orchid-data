@@ -17,9 +17,9 @@ Table: Phases of the Re–Si system (8)
 | [FCC_A1](#phase-re-si-fcc-a1); _phase:re-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-re-si-hcp-a3); _phase:re-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.18 K, x(Si) 0–0.12322 | 2 | 2 |
 | [LIQUID](#phase-re-si-liquid); _phase:re-si:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1633.7–4000 K, x(Si) 0–1 | 12 | 2 |
-| [RE2SI](#phase-re-si-re2si); _phase:re-si:re2si_ | Re2Si · mP24 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2072.83 K, x(Si) 0.33333–0.33333 | 13 | 2 |
+| [RE2SI](#phase-re-si-re2si); _phase:re-si:re2si_ | Re2Si · mP24 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–2072.83 K, x(Si) 0.33333–0.33333 | 19 | 2 |
 | [RESI_B20](#phase-re-si-resi-b20); _phase:re-si:resi-b20_ | FeSi · B20 · cP8 · P2_13 (198) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1922.5–2088.64 K, x(Si) 0.5–0.5 | 10 | 2 |
-| [RESI2](#phase-re-si-resi2); _phase:re-si:resi2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2229.28 K, x(Si) 0.63807–0.66667 | 8 | 2 |
+| [RESI2](#phase-re-si-resi2); _phase:re-si:resi2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2229.28 K, x(Si) 0.63807–0.66667 | 13 | 2 |
 
 ## DIAMOND_A4 (Re–Si)
 
@@ -214,7 +214,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Re 0.6667, Si 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2072.83 K, x(Si) 0.33333–0.33333
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-si:re2si)
 
 Names (5): _corpus: _corpus:phase:re-si:re2si  
@@ -238,15 +238,17 @@ _tdb: _tdb:ReSi-01Sha.tdb:RE2SI, tdb:ReSi-10Yan.tdb:RE2SI
 48: CONST RE2SI : RE : SI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.intermet.2009.06.003](https://doi.org/10.1016/j.intermet.2009.06.003) Ying Yang, Shuanglin Chen, Y. Austin Chang, Thermodynamic modeling of the Re–Si–B system, Intermetallics 18, 51-56 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(01)00110-8](https://doi.org/10.1016/S0966-9795%2801%2900110-8) G. Shao, Intermetallics, 9, 1063-68(2001).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/bf02667640](https://doi.org/10.1007/bf02667640) A. B. Gokhale, R. Abbaschian, The Re-Si system (rhenium-silicon), JPE 17, 451-454 (1996).  
 _cited as the source of values for this phase_
 - [doi:10.1021/ja01103a017](https://doi.org/10.1021/ja01103a017) Alan W. Searcy, Robert A. McNees, The Silicides of Rhenium\<sup>1-3\</sup>, J. Am. Chem. Soc. 75, 1578-1580 (1953).  
+_cited as the source of values for this phase_
+- [doi:10.1016/s0925-8388(98)00747-6](https://doi.org/10.1016/s0925-8388%2898%2900747-6) S.V. Meschel, O.J. Kleppa, Standard enthalpies of formation of some 5d transition metal silicides by high temperature direct synthesis calorimetry, Journal of Alloys and Compounds 280, 231-239 (1998).  
 _cited as the source of values for this phase_
 
 ## RESI_B20 (Re–Si)
@@ -301,7 +303,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Re4Si7 · mC44 · Cm — ReSi-01Sha.tdb: 'Prototype Re4Si7 (mC44, Cm)'
 - Candidate (tdb_comment): Re4Si7 · mC44 · Cm — ReSi-10Yan.tdb: 'Prototype Re4Si7 (mC44, Cm)'
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2229.28 K, x(Si) 0.63807–0.66667
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 13 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:re-si:resi2)
 
 Names (4): _corpus: _corpus:phase:re-si:resi2  
@@ -325,13 +327,15 @@ _tdb: _tdb:ReSi-01Sha.tdb:RESI2, tdb:ReSi-10Yan.tdb:RESI2
 58: CONST RESI2 : RE : SI VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.intermet.2009.06.003](https://doi.org/10.1016/j.intermet.2009.06.003) Ying Yang, Shuanglin Chen, Y. Austin Chang, Thermodynamic modeling of the Re–Si–B system, Intermetallics 18, 51-56 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0966-9795(01)00110-8](https://doi.org/10.1016/S0966-9795%2801%2900110-8) G. Shao, Intermetallics, 9, 1063-68(2001).  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/bf02667640](https://doi.org/10.1007/bf02667640) A. B. Gokhale, R. Abbaschian, The Re-Si system (rhenium-silicon), JPE 17, 451-454 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1021/ja01103a017](https://doi.org/10.1021/ja01103a017) Alan W. Searcy, Robert A. McNees, The Silicides of Rhenium\<sup>1-3\</sup>, J. Am. Chem. Soc. 75, 1578-1580 (1953).  
 _cited as the source of values for this phase_
 
 ## Please cite

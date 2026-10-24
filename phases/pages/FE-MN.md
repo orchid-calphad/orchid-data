@@ -18,7 +18,7 @@ Table: Phases of the Fe–Mn system (9)
 | [CBCC_A12](#phase-fe-mn-cbcc-a12); _phase:fe-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–1002.48 K, x(Mn) 0.64146–1 | 6 | 8 |
 | [CUB_A13](#phase-fe-mn-cub-a13); _phase:fe-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 967.25–1435.66 K, x(Mn) 0.66381–1 | 8 | 8 |
 | [FCC_4SL](#phase-fe-mn-fcc-4sl); _phase:fe-mn:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 522.54–1746.75 K, x(Mn) 0–1 | 0 | 1 |
-| [FCC_A1](#phase-fe-mn-fcc-a1); _phase:fe-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 8 calculated diagram(s): 306.61–1748.48 K, x(Mn) 0–1 | 18 | 9 |
+| [FCC_A1](#phase-fe-mn-fcc-a1); _phase:fe-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 306.61–1748.48 K, x(Mn) 0–1 | 18 | 9 |
 | [HCP_A3](#phase-fe-mn-hcp-a3); _phase:fe-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 8 |
 | [LIQUID](#phase-fe-mn-liquid); _phase:fe-mn:liquid_ | liquid | liquid | stable in 7 of 7 calculated diagram(s): 1507.22–2500 K, x(Mn) 0–1 | 9 | 8 |
 
@@ -377,7 +377,7 @@ _assessment that models this phase_
 
 - Id: `phase:fe-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 7 of 8 calculated diagram(s): 306.61–1748.48 K, x(Mn) 0–1
+- Stability: stable in 7 of 7 calculated diagram(s): 306.61–1748.48 K, x(Mn) 0–1
 - Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-mn:fcc-a1)
 

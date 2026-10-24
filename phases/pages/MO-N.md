@@ -1,10 +1,10 @@
 # Mo–N phases
 
-> Mo–N system: 8 phases (tier A 3, tier C 1, liquid 1, gas 1, needs_review 2); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mo–N system: 8 phases (tier A 2, tier C 1, liquid 1, gas 1, needs_review 2, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MO-N.html · Markdown: https://data.orchid-project.org/phases/pages/MO-N.md
 
-8 phases (tier A 3, tier C 1, liquid 1, gas 1, needs_review 2); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 2, tier C 1, liquid 1, gas 1, needs_review 2, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MO-N) · [full JSON](https://data.orchid-project.org/phases/systems/MO-N.json) · [Mo–N system page](https://data.orchid-project.org/systems/MO-N.html) · [Markdown](https://data.orchid-project.org/phases/pages/MO-N.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the Mo–N system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-mo-n-bcc-a2); _phase:mo-n:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.14 K, x(N) 0–0.0019 | 1 | 2 |
-| [FCC_A1](#phase-mo-n-fcc-a1); _phase:mo-n:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–1092.37 K, x(N) 0.30895–0.48355 | 0 | 2 |
+| [FCC_A1](#phase-mo-n-fcc-a1); _phase:mo-n:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 2 calculated diagram(s): 300–1092.37 K, x(N) 0.30895–0.48355 | 2 | 2 |
 | [HCP_A3](#phase-mo-n-hcp-a3); _phase:mo-n:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-mo-n-liquid); _phase:mo-n:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2877.89–4000 K, x(N) 0–0.0096 | 1 | 2 |
 | [MC_SHP](#phase-mo-n-mc-shp); _phase:mo-n:mc-shp_ | WC · B_h · hP2 · P-6m2 (187) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–769.48 K, x(N) 0.5–0.5 | 0 | 1 |
@@ -62,12 +62,13 @@ _cited as the source of values for this phase_
 ## FCC_A1 (Mo–N)
 
 - Id: `phase:mo-n:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 2 calculated diagram(s): 300–1092.37 K, x(N) 0.30895–0.48355
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-n:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:mo-n:fcc-a1  
+Names (4): _corpus: _corpus:phase:mo-n:fcc-a1  
+_paper: _paper:10.1016/0364-5916(91)90028-i:MoN  
 _tdb: _tdb:MoN-23Dac.tdb:FCC_A1, tdb:MoN-91Fri-LB.tdb:FCC_A1  
 
 
@@ -90,7 +91,7 @@ _tdb: _tdb:MoN-23Dac.tdb:FCC_A1, tdb:MoN-91Fri-LB.tdb:FCC_A1
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0364-5916(91)90028-I](https://doi.org/10.1016/0364-5916%2891%2990028-I) K. Frisk, Calphad, 15, 79-106(1991).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.2298/JMMB210330011D](https://doi.org/10.2298/JMMB210330011D) R.A. Daclan, M.G. Mena, M.R. Vazquez, W. Gierlotka, J. Mining Metall. B, 59, 125-36(2023).  
 _assessment that models this phase_
 

@@ -14,7 +14,7 @@ Table: Phases of the Ga–Ni system (16)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ga-ni-a11-orthorhombic); _phase:ga-ni:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.91 K, x(Ni) 0–0 | 0 | 2 |
 | [BCC_A2](#phase-ga-ni-bcc-a2); _phase:ga-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [FCC_A1](#phase-ga-ni-fcc-a1); _phase:ga-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 300–2499.63 K, x(Ni) 0.78634–1 | 0 | 3 |
+| [FCC_A1](#phase-ga-ni-fcc-a1); _phase:ga-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.63 K, x(Ni) 0.78634–1 | 0 | 3 |
 | [L12_FCC](#phase-ga-ni-fcc-l12); _phase:ga-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1728.02 K, x(Ni) 0.71082–1 | 0 | 1 |
 | [GA2NI3](#phase-ga-ni-ga2ni3); _phase:ga-ni:ga2ni3_ | Ga9Ni13 · mC44 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1227.63 K, x(Ni) 0.6–0.6 | 0 | 1 |
 | [GA2NI3_B82](#phase-ga-ni-ga2ni3-b82); _phase:ga-ni:ga2ni3-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 985.74–1212.15 K, x(Ni) 0.6319–0.6428 | 0 | 1 |
@@ -104,7 +104,7 @@ _assessment that models this phase_
 
 - Id: `phase:ga-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 300–2499.63 K, x(Ni) 0.78634–1
+- Stability: stable in 2 of 2 calculated diagram(s): 300–2499.63 K, x(Ni) 0.78634–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-ni:fcc-a1)
 

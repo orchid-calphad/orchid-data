@@ -1,10 +1,10 @@
 # Sn–U system
 
-> Sn–U system: 81 accepted literature values (invariant reaction 42, formation 21, crystal structure 11, phase transition 7) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sn–U system: 68 accepted literature values (invariant reaction 38, formation 21, phase transition 7, crystal structure 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SN-U.html · Markdown: https://data.orchid-project.org/systems/SN-U.md
 
-81 accepted literature values from 2 paper(s) (experimental 43, model 23, unspecified 15); 2 calculated phase diagram(s).
+68 accepted literature values from 2 paper(s) (experimental 43, model 19, unspecified 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SN-U.json) · [CSV](https://data.orchid-project.org/systems/SN-U.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SN-U) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SN-U/SnU-21Wan.json) · [phases (15)](https://data.orchid-project.org/phases/pages/SN-U.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SN-U.html) · [Markdown](https://data.orchid-project.org/systems/SN-U.md)
 
@@ -13,17 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 43 |
-| model | 23 |
-| unspecified | 15 |
+| model | 19 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 42 |
+| invariant reaction | 38 |
 | phase transition | 7 |
 | formation | 21 |
-| crystal structure | 11 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -80,7 +80,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Sn–U system (42)
+Table: Invariant reactions reported in the literature for the Sn–U system (38)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -107,7 +107,6 @@ Table: Invariant reactions reported in the literature for the Sn–U system (42)
 | 1613.15 | peritectic: Liquid+U3Sn7->USn3 | U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 14 |  |
 | 1613.15 | peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.196; U3Sn7: U 0.3; USn3: U 0.25 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 15 |  |
 | 1613.15 | peritectic: Liquid+U3Sn7->USn3 | Liquid: U 0.1982; U3Sn7: U 0.3; USn3: U 0.25 | model | [2] Wang 2021 | Table 3, p. 7, row 13 |  |
-| 1408.15 | other: L -> γU | L: U 1; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 11 |  |
 | 1408.15 | eutectic: L -> Sn2U3 + γU | L: U 0.999; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 9 |  |
 | 1402.15 | eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.97; bcc_A2: U 0.984; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 18 |  |
 | 1393.15 | eutectic: Liquid->bcc_A2+U5Sn4 | Liquid: U 0.88; U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 17 |  |
@@ -115,17 +114,14 @@ Table: Invariant reactions reported in the literature for the Sn–U system (42)
 | 1354.15 | eutectic: L -> Sn2U3 + γU | L: U 0.97; Sn2U3: U 0.6; γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 10 |  |
 | 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9953; U5Sn4: U 0.556; Tetragonal_U: U 0.9954 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 21 |  |
 | 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 20 |  |
-| 1049.15 | polymorphic: γU -> βU | γU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 12 |  |
 | 1049.15 | eutectoid: bcc_U->U5Sn4+Tetragonal_U | bcc_U: U 0.9999; U5Sn4: U 0.556; Tetragonal_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 19 |  |
 | 942.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 1; U5Sn4: U 0.556; Orthorhombic_U: U 1 | model | [2] Wang 2021 | Table 3, p. 7, row 22 |  |
-| 942.15 | polymorphic: βU -> αU | βU: U 1; αU: U 1 | model | [1] Sheldon 1987 | Table 1, p. 2, row 13 |  |
 | 941.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | Tetragonal_U: U 0.9971; U5Sn4: U 0.556; Orthorhombic_U: U 0.9968 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 24 |  |
 | 938.15 | eutectoid: Tetragonal_U+U5Sn4->Orthorhombic_U | U5Sn4: U 0.556 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 23 |  |
 | 505.15 | eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | model | [2] Wang 2021 | Table 3, p. 7, row 25 |  |
 | 505.15 | eutectic: Liquid->USn3+bct_Sn | USn3: U 0.25 | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 3, p. 7, row 26 |  |
 | 505.15 | eutectic: Liquid->USn3+bct_Sn | Liquid: U 0; USn3: U 0.25; bct_Sn: U 0 | experimental | [2] Wang 2021; _cites Wang 2016_ [doi](https://doi.org/10.1016/j.jct.2015.08.029) | Table 3, p. 7, row 27 |  |
 | 505.15 | other: L -> βSn | L: U 0; βSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 1 |  |
-| 286.15 | polymorphic: βSn -> αSn | βSn: U 0; αSn: U 0 | model | [1] Sheldon 1987 | Table 1, p. 2, row 2 |  |
 
 ## Formation enthalpies
 
@@ -150,7 +146,7 @@ Table: Enthalpies of formation, Sn–U system (21)
 | USn2 | [Sn2U](https://data.orchid-project.org/compounds/Sn2U.html) | -58.3 kJ/mol-atom | 794.15 | unspecified | -9.73 (mp-aaacqroo) |  | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | Table 1, p. 3, row 3 |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -43.47 kJ/mol-atom | 794.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 10 |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -43.2 kJ/mol-atom | 794.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | Table 1, p. 3, row 11 |  |
-| USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -42.9 kJ/mol-atom | 692 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12 |  |
+| USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -42.9 kJ/mol-atom | 965.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12 |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -41.8 kJ/mol-atom | 794.15 | unspecified | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Sheldon 1987_ [doi](https://doi.org/10.1007/bf02869271) | Table 1, p. 3, row 9 |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -36.5 kJ/mol-atom | 298.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Johnson 1962_ | Table 1, p. 3, row 6 |  |
 | USn3 | [Sn3U](https://data.orchid-project.org/compounds/Sn3U.html) | -35.3 kJ/mol-atom | 298.15 | experimental | -12.058 (mp-aaaabece) | -19.098 (oqmd-18132) | [2] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 7 |  |
@@ -173,23 +169,14 @@ Table: Phase transition, Sn–U system
 | Phase transition | 1663.15 K | 1663.15 |  | experimental | [2] Wang 2021; _cites Palenzona 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901463-9) | p. 2 | “The melting temperature of these compounds U5Sn4, USn, USn2, U3Sn7, and USn3 was reported as 1390 C, 1385 C, 1370 C, 1360 C, 1350 C, respectively.” |
 | Phase transition | 1773.15 K | 1773.15 | congruent transformation | experimental | [1] Sheldon 1987; _cites ref. 45Tre_ | p. 3 | “T h e r m a l d a t a i n d i c a t e d this compound m e l t s c o n g r u e n t l y at 1500 ~ \[45Tre\].” |
 
-### Crystal structure (11)
+### Crystal structure (2)
 
 Table: Crystal structure, Sn–U system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 6.4892 Å | 293.15 | (αSn); _(αSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 2 |  |
-| Lattice a | 2.8537 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice a | 5.8315 Å | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
 | Lattice a | 4.6089 Å | 298.15 | Sn3U; _alloy: Sn 0.75, U 0.25_ | model | [1] Sheldon 1987; _cites Sari 1983_ | Table 3, p. 3, row 9 |  |
 | Lattice a | 4.626 Å | 298.15 | Sn3U; _Sn3U: Sn 0.75, U 0.25_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 3 |  |
-| Lattice a | 10.759 Å | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
-| Lattice a | 3.524 Å | 1078.15 | (γU); _(γU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 6 |  |
-| Lattice b | 5.8695 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice c | 4.9548 Å | 298.15 | (αU); _(αU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 8 |  |
-| Lattice c | 3.1814 Å | 298.15 | (βSn); _(βSn): Sn 1, U 0_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 1 |  |
-| Lattice c | 5.656 Å | 993.15 | (βU); _(βU): Sn 0, U 1_ | unspecified | [1] Sheldon 1987 | Table 3, p. 3, row 7 |  |
 
 ## Sources
 

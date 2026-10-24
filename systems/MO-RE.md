@@ -1,10 +1,10 @@
 # Mo–Re system
 
-> Mo–Re system: 207 accepted literature values (formation 104, invariant reaction 82, phase equilibrium 13, phase transition 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mo–Re system: 197 accepted literature values (formation 94, invariant reaction 82, phase equilibrium 13, phase transition 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MO-RE.html · Markdown: https://data.orchid-project.org/systems/MO-RE.md
 
-207 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 97); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+197 accepted literature values from 5 paper(s) (experimental 54, model 56, DFT 87); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MO-RE.json) · [CSV](https://data.orchid-project.org/systems/MO-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MO-RE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MO-RE/MoRe-08Mao-oldsigma.json) · [phases (11)](https://data.orchid-project.org/phases/pages/MO-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MO-RE.html) · [Markdown](https://data.orchid-project.org/systems/MO-RE.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 54 |
 | model | 56 |
-| DFT | 97 |
+| DFT | 87 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 82 |
 | phase transition | 8 |
 | phase equilibrium | 13 |
-| formation | 104 |
+| formation | 94 |
 
 ## Calculated phase diagrams
 
@@ -155,7 +155,7 @@ Table: Invariant reactions reported in the literature for the Mo–Re system (82
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Mo–Re system (104)
+Table: Enthalpies of formation, Mo–Re system (94)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -189,8 +189,6 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | \\sigma |  | -0.69 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 4 |  |
 | \\sigma |  | -0.52 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 16 |  |
 | \\sigma |  | -0.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 18 |  |
-| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
-| \\sigma |  | 0 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
 | \\sigma |  | 0.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 13 |  |
 | \\sigma |  | 0.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 3 |  |
 | \\sigma |  | 1.83 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 9 |  |
@@ -201,7 +199,6 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | \\sigma |  | 5.34 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 30 |  |
 | \\sigma |  | 5.72 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 12 |  |
 | \\sigma |  | 6.85 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 29 |  |
-| \\sigma |  | 9.33 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 32 |  |
 | \\sigma |  | 10.2 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 10 |  |
 | \\sigma |  | 10.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 21 |  |
 | \\sigma |  | 10.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 14 |  |
@@ -211,7 +208,6 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | \\sigma |  | 13.08 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 27 |  |
 | \\sigma |  | 13.51 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 2 |  |
 | \\sigma |  | 14.15 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 24 |  |
-| \\sigma |  | 16.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 1 |  |
 | bcc |  | 7 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 3 |  |
 | σ |  | 0.68 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
 | σ |  | 0.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 20 |  |
@@ -225,7 +221,6 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | σ |  | 5.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 28 |  |
 | σ |  | 5.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 3 |  |
 | σ |  | 6.6 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 25 |  |
-| σ |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
 | σ |  | 10 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 8 |  |
 | σ |  | 10.46 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 31 |  |
 | σ |  | 12.37 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 4, p. 5, row 7 |  |
@@ -237,14 +232,11 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | σ: Re10(Mo,Re)4(Mo,Re)16 |  | 2.54 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 1 |  |
 | σ: Re10(Mo,Re)4(Mo,Re)16 |  | 4.43 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 2 |  |
 | σ: Re10(Mo,Re)4(Mo,Re)16 |  | 5.99 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 3 |  |
-| σ: Re10(Mo,Re)4(Mo,Re)16 |  | 9.88 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 4 |  |
 | χ |  | -1.26 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 13 |  |
 | χ |  | -0.8 kJ/mol (basis unstated) | 1773 | experimental |  |  | [2] Farzadfar 2009 | Table 4, p. 4, row 1 |  |
 | χ |  | -0.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 7 |  |
 | χ |  | -0.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 14 |  |
 | χ |  | 3.46 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 15 |  |
-| χ |  | 4.9 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 16 |  |
-| χ |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
 | χ |  | 5.59 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 6 |  |
 | χ |  | 9.24 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 10 |  |
 | χ |  | 10.84 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 12 |  |
@@ -255,12 +247,10 @@ Table: Enthalpies of formation, Mo–Re system (104)
 | χ |  | 17.81 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 11 |  |
 | χ |  | 18.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 6 |  |
 | χ |  | 19.32 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 7 |  |
-| χ |  | 26.13 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 1 |  |
 | χ |  | 26.65 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 2 |  |
 | χ |  | 27.31 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 3 |  |
 | χ |  | 28.11 kJ/mol (basis unstated) | 0 | DFT |  |  | [3] Mathieu 2013; _cites Crivello 2013_ | Table 5, p. 5, row 4 |  |
 | χ: (Mo,Re)10(Mo,Re)24Re24 |  | -0.76 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 7 |  |
-| χ: (Mo,Re)10(Mo,Re)24Re24 |  | 5.48 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 8 |  |
 | χ: (Mo,Re)10(Mo,Re)24Re24 |  | 14.56 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 5 |  |
 | χ: (Mo,Re)10(Mo,Re)24Re24 |  | 18.97 kJ/mol (basis unstated) | 0 | DFT |  |  | [4] Yang 2010 | Table 4, p. 4, row 6 |  |
 

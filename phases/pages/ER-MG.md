@@ -12,7 +12,7 @@ Table: Phases of the Er–Mg system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-er-mg-bcc-a2); _phase:er-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 944.85–1530 K, x(Mg) 0.14533–0.43804 | 0 | 2 |
+| [BCC_A2](#phase-er-mg-bcc-a2); _phase:er-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 944.85–1530 K, x(Mg) 0.14533–0.43804 | 0 | 2 |
 | [B2_BCC](#phase-er-mg-bcc-b2); _phase:er-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1530 K, x(Mg) 0.14533–0.62073 | 0 | 1 |
 | [C14_LAVES](#phase-er-mg-c14-laves); _phase:er-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–952.28 K, x(Mg) 0.6648–0.68045 | 0 | 1 |
 | [ER5MG24_A12](#phase-er-mg-er5mg24-a12); _phase:er-mg:er5mg24-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–875.96 K, x(Mg) 0.82759–0.846 | 0 | 1 |
@@ -20,11 +20,11 @@ Table: Phases of the Er–Mg system (7)
 | [HCP_A3](#phase-er-mg-hcp-a3); _phase:er-mg:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1813.75 K, x(Mg) 0–1 | 0 | 1 |
 | [LIQUID](#phase-er-mg-liquid); _phase:er-mg:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 839.55–2500 K, x(Mg) 0–1 | 2 | 1 |
 
-## A2_BCC (Er–Mg)
+## BCC_A2 (Er–Mg)
 
 - Id: `phase:er-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 944.85–1530 K, x(Mg) 0.14533–0.43804
+- Stability: stable in 1 of 1 calculated diagram(s): 944.85–1530 K, x(Mg) 0.14533–0.43804
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-mg:bcc-a2)
 
@@ -32,7 +32,7 @@ Names (3): _corpus: _corpus:phase:er-mg:bcc-a2
 _tdb: _tdb:ErMg-02Cac.tdb:A2_BCC, tdb:ErMg-02Cac.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [ErMg-02Cac.tdb](https://orchid-project.org/data/databases/sgte-binary/ErMg-02Cac.tdb): A2_BCC, type code %B, sha256 `e4be248b91beab31…`
 

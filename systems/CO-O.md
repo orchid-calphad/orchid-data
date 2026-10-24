@@ -1,10 +1,10 @@
 # Co–O system
 
-> Co–O system: 128 accepted literature values (activity / EMF / Gibbs energy 74, invariant reaction 21, phase transition 15, formation 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–O system: 126 accepted literature values (model expression 73, invariant reaction 21, phase transition 14, formation 10) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-O.html · Markdown: https://data.orchid-project.org/systems/CO-O.md
 
-128 accepted literature values from 1 paper(s) (experimental 94, model 34); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+126 accepted literature values from 1 paper(s) (experimental 93, model 33); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-O.json) · [CSV](https://data.orchid-project.org/systems/CO-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-O/CoO-03Che-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CO-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-O.html) · [Markdown](https://data.orchid-project.org/systems/CO-O.md)
 
@@ -12,18 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 94 |
-| model | 34 |
+| experimental | 93 |
+| model | 33 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 15 |
+| phase transition | 14 |
 | formation | 10 |
 | heat capacity / entropy / enthalpy | 8 |
-| activity / EMF / Gibbs energy | 74 |
+| model expression | 73 |
 
 ## Calculated phase diagrams
 
@@ -86,7 +86,7 @@ Table: Enthalpies of formation, Co–O system (10)
 
 ## Other properties
 
-### Phase transition (15)
+### Phase transition (14)
 
 Table: Phase transition, Co–O system
 
@@ -96,7 +96,6 @@ Table: Phase transition, Co–O system
 | Phase transition | 40 K | 40 | magnetic | experimental | [1] Chen 2003; _cites Roth 1964_ [doi](https://doi.org/10.1016/0022-3697%2864%2990156-8) | p. 3 | “Co3O4 has been found to undergo a transition from paramagnetic state to antiferromagnetic state at 40 K \[1964Rot\] or 33 K \[1984Chi\].” |
 | Phase transition | 290 K | 290 | magnetic | experimental | [1] Chen 2003; _cites Jauch 2003_ | p. 3 | “At low temperature, CoO is an antiferromagnetic compound with a Néel temperature of TN ≈ 290 K \[2001Jau\].” |
 | Phase transition | 695 K | 695 | hcp + fcc | model | [1] Chen 2003; _cites Nishizawa 1983_ [doi](https://doi.org/10.1007/bf02868089) | p. 6 | “In the recent review papers on the thermodynamic properties of cobalt metal \[1983Nis, 1987Gui, 1990Mas\], the stable temperature range for the hcp phase is below 695 K; the range for the fcc phase is from 695 K up to its melting point.” |
-| Phase transition | 695 K | 695 | ε-Co + α-Co | model | [1] Chen 2003; _cites Dinsdale 2003_ | p. 1 | “␧-Co (hcp) is stable up to 695 K, at which temperature it transforms to ␣-Co (fcc) \[1991Din\].” |
 | Phase transition | 1120 K | 1120 | other | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | p. 3 | “Furthermore, EMF measurements on the oxygen potential of the CoO-Co3O4 equilibrium made by O'Neill \[1985ONe\] and Kale et al. \[1988Kal\] also indicated that a second (or higher) order transition in Co3O4 may happen at about 1120 K.” |
 | Phase transition | 1123 K | 1123 | other | experimental | [1] Chen 2003; _cites Seybolt 1935_ | p. 1 | “They concluded that another transformation of cobalt might happen in the cobalt-oxygen system at about 1123 K.” |
 | Phase transition | 1170 K | 1170 | other | model | [1] Chen 2003 | p. 12 | “For Co3O4, the calculated decomposition temperature is 1170 K in air and 1224 K in 1 bar oxygen, also agreeing well with the experimental data.” |
@@ -123,86 +122,85 @@ Table: Heat capacity / entropy / enthalpy, Co–O system
 | Entropy; _printed: S (CoO)_ | 26.485 J/mol-atom/K | 298.15 | CoO; _alloy: O 0.5_ | experimental | [1] Chen 2003; _cites King 1957_ [doi](https://doi.org/10.1021/ja01567a016) | Table 6, p. 10, row 1 |  |
 | Entropy; _printed: S (CoO)_ | 26.4965 J/mol-atom/K | 298.15 | CoO; _alloy: O 0.5_ | model | [1] Chen 2003; _cites Chase 1985_ | Table 6, p. 10, row 4 |  |
 
-### Activity / EMF / Gibbs energy (74)
+### Model expression (73)
 
-Table: Activity / EMF / Gibbs energy, Co–O system
+Table: Model expression, Co–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 177.58 J/mol/K | 900 | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 27 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -213459 J/mol | 900 | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 27 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 150.334 J/mol/K | 900 | UNKNOWN | experimental | [1] Chen 2003; _cites Chizhikov 1972_ | Table 3, p. 9, row 11 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -179962 J/mol | 900 | UNKNOWN | experimental | [1] Chen 2003; _cites Chizhikov 1972_ | Table 3, p. 9, row 11 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -215413 J/mol | 905.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 14 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 180.15 J/mol/K | 905.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 14 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -207759 J/mol | 940 | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 24 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 172.606 J/mol/K | 940 | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 24 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 162.545 J/mol/K | 955 | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 10 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -197142 J/mol | 955 | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 10 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -191643 J/mol | 955 | UNKNOWN | experimental | [1] Chen 2003; _cites Enoki 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.5_505) | Table 3, p. 9, row 13 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 153.282 J/mol/K | 955 | UNKNOWN | experimental | [1] Chen 2003; _cites Enoki 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.5_505) | Table 3, p. 9, row 13 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -212713 J/mol | 995 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 175.972 J/mol/K | 995 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -167564 J/mol | 1021 | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 15 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 77.593 J/mol/K | 1021 | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 15 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 140.219 J/mol/K | 1023 | UNKNOWN | experimental | [1] Chen 2003; _cites Narducci 1985_ [doi](https://doi.org/10.1016/0254-0584%2885%2990107-5) | Table 3, p. 9, row 20 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -172172 J/mol | 1023 | UNKNOWN | experimental | [1] Chen 2003; _cites Narducci 1985_ [doi](https://doi.org/10.1016/0254-0584%2885%2990107-5) | Table 3, p. 9, row 20 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 165.433 J/mol/K | 1030 | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 9 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -200022 J/mol | 1030 | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 9 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -147573 J/mol | 1048 | UNKNOWN | experimental | [1] Chen 2003; _cites Balakirev 1961_ | Table 3, p. 9, row 5 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 118.051 J/mol/K | 1048 | UNKNOWN | experimental | [1] Chen 2003; _cites Balakirev 1961_ | Table 3, p. 9, row 5 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -201995 J/mol | 1050 | UNKNOWN | model | [1] Chen 2003; _cites Chase 1985_ | Table 3, p. 9, row 26 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 165.062 J/mol/K | 1050 | UNKNOWN | model | [1] Chen 2003; _cites Chase 1985_ | Table 3, p. 9, row 26 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -122011 J/mol | 1073 | UNKNOWN | experimental | [1] Chen 2003; _cites Chufarov 1950_ | Table 3, p. 9, row 4 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 94.855 J/mol/K | 1073 | UNKNOWN | experimental | [1] Chen 2003; _cites Chufarov 1950_ | Table 3, p. 9, row 4 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -169432 J/mol | 1088 | UNKNOWN | experimental | [1] Chen 2003; _cites Melnik 1974_ | Table 3, p. 9, row 12 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 137.515 J/mol/K | 1088 | UNKNOWN | experimental | [1] Chen 2003; _cites Melnik 1974_ | Table 3, p. 9, row 12 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -165220 J/mol | 1098 | UNKNOWN | experimental | [1] Chen 2003; _cites Oppermann 1980_ [doi](https://doi.org/10.1002/zaac.19804610126) | Table 3, p. 9, row 17 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 135.851 J/mol/K | 1098 | UNKNOWN | experimental | [1] Chen 2003; _cites Oppermann 1980_ [doi](https://doi.org/10.1002/zaac.19804610126) | Table 3, p. 9, row 17 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -165686 J/mol | 1134.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Alcock 1965_ | Table 3, p. 9, row 7 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 135.771 J/mol/K | 1134.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Alcock 1965_ | Table 3, p. 9, row 7 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 189.972 J/mol/K | 1135.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Koumoto 1981_ [doi](https://doi.org/10.1143/jjap.20.445) | Table 3, p. 9, row 18 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -223995 J/mol | 1135.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Koumoto 1981_ [doi](https://doi.org/10.1143/jjap.20.445) | Table 3, p. 9, row 18 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 122.668 J/mol/K | 1152.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Ingraham 1964_ [doi](https://doi.org/10.1179/cmq.1964.3.3.221) | Table 3, p. 9, row 6 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -151244 J/mol | 1152.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Ingraham 1964_ [doi](https://doi.org/10.1179/cmq.1964.3.3.221) | Table 3, p. 9, row 6 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 138.616 J/mol/K | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1965_ | Table 3, p. 9, row 8 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -171251 J/mol | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1965_ | Table 3, p. 9, row 8 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 128.332 J/mol/K | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites Watanabe 1933_ | Table 3, p. 9, row 3 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -161074 J/mol | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites Watanabe 1933_ | Table 3, p. 9, row 3 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -146890 J/mol | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 3, p. 9, row 2 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 118.266 J/mol/K | 1158 | UNKNOWN | experimental | [1] Chen 2003; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 3, p. 9, row 2 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T ln T)_ | -258.981 J/mol/K | 1160 | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 2219.6 J/mol/K | 1160 | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -463419 J/mol | 1160 | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 129.381 J/mol/K | 1180 | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 25 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -159324 J/mol | 1180 | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 25 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 147.875 J/mol/K | 1185 | UNKNOWN | experimental | [1] Chen 2003; _cites Flamand 1984_ | Table 3, p. 9, row 19 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -181187 J/mol | 1185 | UNKNOWN | experimental | [1] Chen 2003; _cites Flamand 1984_ | Table 3, p. 9, row 19 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 130.44 J/mol/K | 1190 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -161071 J/mol | 1190 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -108698 J/mol | 1200 | UNKNOWN | experimental | [1] Chen 2003; _cites Biltz 1907_ | Table 3, p. 9, row 1 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 85.958 J/mol/K | 1200 | UNKNOWN | experimental | [1] Chen 2003; _cites Biltz 1907_ | Table 3, p. 9, row 1 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 140.226 J/mol/K | 1200 | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 28 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -171649 J/mol | 1200 | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 28 |  |
-| Gibbs energy; _printed: ΔG° (coefficient of T)_ | 144.197 J/mol/K | 1200.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Grimsey 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990095-9) | Table 3, p. 9, row 23 |  |
-| Gibbs energy; _printed: ΔG° (constant term A)_ | -188824 J/mol | 1200.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Grimsey 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990095-9) | Table 3, p. 9, row 23 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -61504.8 J/mol | 1868 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Tankins 1964_ | Table 7, p. 11, row 1 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -20.489 J/mol/K | 1868 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Tankins 1964_ | Table 7, p. 11, row 1 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -61630 J/mol | 1873 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Sigworth 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.123) | Table 7, p. 11, row 6 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -20.493 J/mol/K | 1873 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Sigworth 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.123) | Table 7, p. 11, row 6 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -90984 J/mol | 1873 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003 | Table 7, p. 11, row 9 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -4.292 J/mol/K | 1873 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003 | Table 7, p. 11, row 9 |  |
-| Gibbs energy; _printed: ΔG°_ | -98862 J/mol | 1873 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Fischer 1971_ | Table 7, p. 11, row 4 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -4.181 J/mol/K | 1873 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Janke 1978_ | Table 7, p. 11, row 7 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -91335 J/mol | 1873 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Janke 1978_ | Table 7, p. 11, row 7 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -0.326 J/mol/K | 1875 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Fischer 1966_ [doi](https://doi.org/10.1002/srin.196602732) | Table 7, p. 11, row 2 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -98240 J/mol | 1875 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Fischer 1966_ [doi](https://doi.org/10.1002/srin.196602732) | Table 7, p. 11, row 2 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -72467 J/mol | 1878 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Belov 1967_ | Table 7, p. 11, row 3 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -13.086 J/mol/K | 1878 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Belov 1967_ | Table 7, p. 11, row 3 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -7.555 J/mol/K | 1885.5 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Jacob 1985_ | Table 7, p. 11, row 8 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -84935 J/mol | 1885.5 | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Jacob 1985_ | Table 7, p. 11, row 8 |  |
-| Gibbs energy; _printed: ΔG° (coefficient B of A + B·T)_ | -16.681 J/mol/K | 1898 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Chiang 1976_ [doi](https://doi.org/10.1007/bf02652717) | Table 7, p. 11, row 5 |  |
-| Gibbs energy; _printed: ΔG° (constant term A of A + B·T)_ | -67613 J/mol | 1898 | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Chiang 1976_ [doi](https://doi.org/10.1007/bf02652717) | Table 7, p. 11, row 5 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 177.58 J/mol/K |  | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 27 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -213459 J/mol |  | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 27 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -215413 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 14 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 180.15 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 14 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 138.616 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1965_ | Table 3, p. 9, row 8 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -171251 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1965_ | Table 3, p. 9, row 8 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -207759 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 24 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 172.606 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 24 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 144.197 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Grimsey 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990095-9) | Table 3, p. 9, row 23 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -188824 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Grimsey 1986_ [doi](https://doi.org/10.1016/0021-9614%2886%2990095-9) | Table 3, p. 9, row 23 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 130.44 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 22 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -161071 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 22 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -201995 J/mol |  | UNKNOWN | model | [1] Chen 2003; _cites Chase 1985_ | Table 3, p. 9, row 26 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 165.062 J/mol/K |  | UNKNOWN | model | [1] Chen 2003; _cites Chase 1985_ | Table 3, p. 9, row 26 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -212713 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 21 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 175.972 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1985_ | Table 3, p. 9, row 21 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 162.545 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 10 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -197142 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 10 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 165.433 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 9 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -200022 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bugden 1970_ | Table 3, p. 9, row 9 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -169432 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Melnik 1974_ | Table 3, p. 9, row 12 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 137.515 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Melnik 1974_ | Table 3, p. 9, row 12 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -191643 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Enoki 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.5_505) | Table 3, p. 9, row 13 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 153.282 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Enoki 1977_ [doi](https://doi.org/10.2320/jinstmet1952.41.5_505) | Table 3, p. 9, row 13 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 122.668 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Ingraham 1964_ [doi](https://doi.org/10.1179/cmq.1964.3.3.221) | Table 3, p. 9, row 6 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -151244 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Ingraham 1964_ [doi](https://doi.org/10.1179/cmq.1964.3.3.221) | Table 3, p. 9, row 6 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 129.381 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 25 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -159324 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Kale 1988_ [doi](https://doi.org/10.2320/matertrans1960.29.125) | Table 3, p. 9, row 25 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -108698 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Biltz 1907_ | Table 3, p. 9, row 1 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 85.958 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Biltz 1907_ | Table 3, p. 9, row 1 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 128.332 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Watanabe 1933_ | Table 3, p. 9, row 3 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -161074 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Watanabe 1933_ | Table 3, p. 9, row 3 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 140.219 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Narducci 1985_ [doi](https://doi.org/10.1016/0254-0584%2885%2990107-5) | Table 3, p. 9, row 20 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -172172 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Narducci 1985_ [doi](https://doi.org/10.1016/0254-0584%2885%2990107-5) | Table 3, p. 9, row 20 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -165686 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Alcock 1965_ | Table 3, p. 9, row 7 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 135.771 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Alcock 1965_ | Table 3, p. 9, row 7 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 150.334 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Chizhikov 1972_ | Table 3, p. 9, row 11 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -179962 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Chizhikov 1972_ | Table 3, p. 9, row 11 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 189.972 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Koumoto 1981_ [doi](https://doi.org/10.1143/jjap.20.445) | Table 3, p. 9, row 18 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -223995 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Koumoto 1981_ [doi](https://doi.org/10.1143/jjap.20.445) | Table 3, p. 9, row 18 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -147573 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Balakirev 1961_ | Table 3, p. 9, row 5 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 118.051 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Balakirev 1961_ | Table 3, p. 9, row 5 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 147.875 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Flamand 1984_ | Table 3, p. 9, row 19 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -181187 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Flamand 1984_ | Table 3, p. 9, row 19 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -146890 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 3, p. 9, row 2 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 118.266 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Foote 1908_ [doi](https://doi.org/10.1021/ja01951a002) | Table 3, p. 9, row 2 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -122011 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Chufarov 1950_ | Table 3, p. 9, row 4 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 94.855 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Chufarov 1950_ | Table 3, p. 9, row 4 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T ln T)_ | -258.981 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 2219.6 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -463419 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Bjorkman 1979_ | Table 3, p. 9, row 16 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 140.226 J/mol/K |  | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 28 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -171649 J/mol |  | UNKNOWN | model | [1] Chen 2003 | Table 3, p. 9, row 28 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -167564 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 15 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 77.593 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Sreedharan 1977_ | Table 3, p. 9, row 15 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A)_ | -165220 J/mol |  | UNKNOWN | experimental | [1] Chen 2003; _cites Oppermann 1980_ [doi](https://doi.org/10.1002/zaac.19804610126) | Table 3, p. 9, row 17 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient of T)_ | 135.851 J/mol/K |  | UNKNOWN | experimental | [1] Chen 2003; _cites Oppermann 1980_ [doi](https://doi.org/10.1002/zaac.19804610126) | Table 3, p. 9, row 17 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -61504.8 J/mol |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Tankins 1964_ | Table 7, p. 11, row 1 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -20.489 J/mol/K |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Tankins 1964_ | Table 7, p. 11, row 1 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -0.326 J/mol/K |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Fischer 1966_ [doi](https://doi.org/10.1002/srin.196602732) | Table 7, p. 11, row 2 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -98240 J/mol |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Fischer 1966_ [doi](https://doi.org/10.1002/srin.196602732) | Table 7, p. 11, row 2 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -61630 J/mol |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Sigworth 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.123) | Table 7, p. 11, row 6 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -20.493 J/mol/K |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Sigworth 1976_ [doi](https://doi.org/10.1179/cmq.1976.15.2.123) | Table 7, p. 11, row 6 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -90984 J/mol |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003 | Table 7, p. 11, row 9 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -4.292 J/mol/K |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003 | Table 7, p. 11, row 9 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -16.681 J/mol/K |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Chiang 1976_ [doi](https://doi.org/10.1007/bf02652717) | Table 7, p. 11, row 5 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -67613 J/mol |  | liquid Co; _alloy: O 0_ | model | [1] Chen 2003; _cites Chiang 1976_ [doi](https://doi.org/10.1007/bf02652717) | Table 7, p. 11, row 5 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -72467 J/mol |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Belov 1967_ | Table 7, p. 11, row 3 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -13.086 J/mol/K |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Belov 1967_ | Table 7, p. 11, row 3 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -7.555 J/mol/K |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Jacob 1985_ | Table 7, p. 11, row 8 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -84935 J/mol |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Jacob 1985_ | Table 7, p. 11, row 8 |  |
+| gibbs energy expression term; _printed: ΔG° (coefficient B of A + B·T)_ | -4.181 J/mol/K |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Janke 1978_ | Table 7, p. 11, row 7 |  |
+| gibbs energy expression term; _printed: ΔG° (constant term A of A + B·T)_ | -91335 J/mol |  | liquid Co; _alloy: O 0_ | experimental | [1] Chen 2003; _cites Janke 1978_ | Table 7, p. 11, row 7 |  |
 
 ## Sources
 

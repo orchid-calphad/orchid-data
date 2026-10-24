@@ -18,7 +18,7 @@ Table: Phases of the Al–Ru system (11)
 | [AL5RU2](#phase-al-ru-al5ru2); _phase:al-ru:al5ru2_ | Al5Fe2 · oC24 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 1613.11–1765.05 K, x(Ru) 0.28571–0.28571 | 0 | 1 |
 | [AL6RU_D2H](#phase-al-ru-al6ru-d2h); _phase:al-ru:al6ru-d2h_ | Al6Mn · D2_h · oC28 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1007.03 K, x(Ru) 0.14286–0.14286 | 0 | 3 |
 | [ALRU_B2](#phase-al-ru-alru-b2); _phase:al-ru:alru-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2342.04 K, x(Ru) 0.46569–0.50654 | 0 | 2 |
-| [BCC_A2](#phase-al-ru-bcc-a2); _phase:al-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
+| [BCC_A2](#phase-al-ru-bcc-a2); _phase:al-ru:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 5 |
 | [B2_BCC](#phase-al-ru-bcc-b2); _phase:al-ru:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2391.71 K, x(Ru) 0.42848–0.53955 | 0 | 2 |
 | [FCC_A1](#phase-al-ru-fcc-a1); _phase:al-ru:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–936.73 K, x(Ru) 0–0 | 0 | 3 |
 | [HCP_A3](#phase-al-ru-hcp-a3); _phase:al-ru:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.75 K, x(Ru) 0.88228–1 | 0 | 3 |
@@ -274,7 +274,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-ru:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: not stable in 5 calculated diagram(s)
+- Stability: not stable in 3 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ru:bcc-a2)
 

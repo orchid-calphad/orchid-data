@@ -52,7 +52,7 @@ Table: Enthalpies of formation, Ga–N system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| GaN | [GaN](https://data.orchid-project.org/compounds/GaN.html) | -52.1 kJ/mol-atom ± 4 | 298.15 | experimental | -63.373 (mp-aaaaabey) | -55.891 (oqmd-6450) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1 |  |
+| GaN | [GaN](https://data.orchid-project.org/compounds/GaN.html) | -52.1 kJ/mol-atom ± 2 | 298.15 | experimental | -63.373 (mp-aaaaabey) | -55.891 (oqmd-6450) | [1] Unland 2003; _cites Hahn 1940_ [doi](https://doi.org/10.1002/zaac.19402440203) | Table 2, p. 3, row 1 |  |
 
 ## Other properties
 

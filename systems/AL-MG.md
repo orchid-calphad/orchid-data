@@ -1,10 +1,10 @@
 # Al–Mg system
 
-> Al–Mg system: 162 accepted literature values (crystal structure 80, invariant reaction 31, mixing / partial 28, formation 14) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mg system: 148 accepted literature values (crystal structure 69, invariant reaction 31, mixing / partial 28, formation 11) and 10 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MG.html · Markdown: https://data.orchid-project.org/systems/AL-MG.md
 
-162 accepted literature values from 4 paper(s) (experimental 10, model 26, DFT 110, unspecified 16); 10 calculated phase diagram(s).
+148 accepted literature values from 5 paper(s) (experimental 10, model 30, DFT 92, unspecified 16); 10 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MG.json) · [CSV](https://data.orchid-project.org/systems/AL-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MG/AlMg-05Zho.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MG.html) · [Markdown](https://data.orchid-project.org/systems/AL-MG.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 10 |
-| model | 26 |
-| DFT | 110 |
+| model | 30 |
+| DFT | 92 |
 | unspecified | 16 |
 
 Table: Accepted values by property group
@@ -23,9 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 31 |
 | phase transition | 9 |
-| formation | 14 |
+| formation | 11 |
 | mixing / partial | 28 |
-| crystal structure | 80 |
+| crystal structure | 69 |
 
 ## Calculated phase diagrams
 
@@ -206,15 +206,13 @@ Table: Invariant reactions reported in the literature for the Al–Mg system (31
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Mg system (14)
+Table: Enthalpies of formation, Al–Mg system (11)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Al2Mg-C14 |  | -2.713 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | Al2Mg-C15 |  | -2.301 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | Al2Mg-C36 |  | -2.802 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| fcc-Al |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| hcp-Mg |  | 0 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | γ-Al5Al12Al12 |  | 5.721 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | γ-Al5Al12Mg12 |  | 11.684 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | γ-Al5Mg12Al12 |  | 1.383 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -222,7 +220,6 @@ Table: Enthalpies of formation, Al–Mg system (14)
 | γ-Mg5Al12Al12 |  | 0.288 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | γ-Mg5Al12Mg12 |  | 6.226 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | γ-Mg5Mg12Al12 |  | -3.599 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| γ-Mg5Mg12Mg12 |  | 4.806 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | ε-Al30Mg23 |  | -3.423 kJ/mol-atom | 0 | DFT |  |  | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 
 ## Other properties
@@ -278,7 +275,7 @@ Table: Mixing / partial, Al–Mg system
 | Entropy of mixing; _printed: ΔSm_ | 10.1 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 11 |  |
 | Entropy of mixing; _printed: ΔSm_ | 16 unknown | 736.05 | Al12Mg17; _alloy: Mg 0.586207_ | model | [2] Zuo 1993 | Table 4, p. 12, row 12 |  |
 
-### Crystal structure (80)
+### Crystal structure (69)
 
 Table: Crystal structure, Al–Mg system
 
@@ -294,9 +291,6 @@ Table: Crystal structure, Al–Mg system
 | Lattice a; _printed: a_ | 4.041 Å | 0 | fcc; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 1 |  |
 | Lattice a; _printed: a_ | 4.154 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 2 |  |
 | Lattice a; _printed: a_ | 4.136 Å | 0 | fcc; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 4.513 Å | 0 | fcc; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 8 |  |
-| Lattice a; _printed: a_ | 4.041 Å | 0 | fcc-Al; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice a; _printed: a_ | 3.177 Å | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
 | Lattice a; _printed: a_ | 3.07 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
 | Lattice a; _printed: a_ | 3.018 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
 | Lattice a; _printed: a_ | 3.103 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
@@ -304,7 +298,6 @@ Table: Crystal structure, Al–Mg system
 | Lattice a; _printed: a_ | 2.926 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
 | Lattice a; _printed: a_ | 2.993 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
 | Lattice a; _printed: a_ | 2.938 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 3.177 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | Lattice a; _printed: a_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | Lattice a; _printed: a_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | Lattice a; _printed: a_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -312,13 +305,13 @@ Table: Crystal structure, Al–Mg system
 | Lattice a; _printed: a_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | Lattice a; _printed: a_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | Lattice a; _printed: a_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice a; _printed: a_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | Lattice a; _printed: a_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
+| Lattice a | 12.8254 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
+| Lattice a | 28.16 Å | 725.15 (\<) | β, Al3Mg2; _alloy: Mg 0.4_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 7 |  |
+| Lattice a | 10.5438 Å | 731.15 (\<) | γ, Mg17Al12; _alloy: Mg 0.586207_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 8 |  |
 | Lattice b; _printed: b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | Lattice b; _printed: b_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | Lattice b; _printed: b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Lattice b; _printed: b_ | 4.041 Å | 0 | fcc-Al; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice b; _printed: b_ | 3.177 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | Lattice b; _printed: b_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | Lattice b; _printed: b_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | Lattice b; _printed: b_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -326,13 +319,10 @@ Table: Crystal structure, Al–Mg system
 | Lattice b; _printed: b_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | Lattice b; _printed: b_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | Lattice b; _printed: b_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice b; _printed: b_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | Lattice b; _printed: b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 | Lattice c; _printed: c_ | 8.742 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | Lattice c; _printed: c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | Lattice c; _printed: c_ | 17.514 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| Lattice c; _printed: c_ | 4.041 Å | 0 | fcc-Al; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| Lattice c; _printed: c_ | 5.172 Å | 0 | hcp; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 16 |  |
 | Lattice c; _printed: c_ | 5.081 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 15 |  |
 | Lattice c; _printed: c_ | 4.92 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 12 |  |
 | Lattice c; _printed: c_ | 5.043 Å | 0 | hcp; _alloy: Al 0.25, Mg 0.75_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 14 |  |
@@ -340,7 +330,6 @@ Table: Crystal structure, Al–Mg system
 | Lattice c; _printed: c_ | 4.831 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 11 |  |
 | Lattice c; _printed: c_ | 4.952 Å | 0 | hcp; _alloy: Al 0.5, Mg 0.5_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 13 |  |
 | Lattice c; _printed: c_ | 4.803 Å | 0 | hcp; _alloy: Al 0.75, Mg 0.25_ | DFT | [3] Zhong 2005 | Table 1, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 5.172 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | Lattice c; _printed: c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | Lattice c; _printed: c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | Lattice c; _printed: c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -348,13 +337,11 @@ Table: Crystal structure, Al–Mg system
 | Lattice c; _printed: c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | Lattice c; _printed: c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | Lattice c; _printed: c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| Lattice c; _printed: c_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | Lattice c; _printed: c_ | 21.848 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
+| Lattice c | 21.7478 Å | 330 | ε, Mg30Al23; _alloy: Mg 0.566038_ | model | [5] Wang 2011; _cites SGTE 2002_ | Table 1, p. 3, row 9 |  |
 | lattice unspecified axis; _printed: a = b_ | 5.448 Å | 0 | Al2Mg-C14; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 3 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 7.667 Å | 0 | Al2Mg-C15; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 2 |  |
 | lattice unspecified axis; _printed: a = b_ | 5.45 Å | 0 | Al2Mg-C36; _alloy: Mg 0.333333_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 4 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 4.041 Å | 0 | fcc-Al; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 1 |  |
-| lattice unspecified axis; _printed: a = b_ | 3.177 Å | 0 | hcp-Mg; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 15 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 9.953 Å | 0 | γ-Al5Al12Al12; _alloy: Mg 0_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 12 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 10.424 Å | 0 | γ-Al5Al12Mg12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 14 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 10.419 Å | 0 | γ-Al5Mg12Al12; _alloy: Mg 0.413793_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 11 |  |
@@ -362,7 +349,6 @@ Table: Crystal structure, Al–Mg system
 | lattice unspecified axis; _printed: a = b = c_ | 10.102 Å | 0 | γ-Mg5Al12Al12; _alloy: Mg 0.172414_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 8 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 10.584 Å | 0 | γ-Mg5Al12Mg12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 10 |  |
 | lattice unspecified axis; _printed: a = b = c_ | 10.514 Å | 0 | γ-Mg5Mg12Al12; _alloy: Mg 0.586207_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 7 |  |
-| lattice unspecified axis; _printed: a = b = c_ | 11.032 Å | 0 | γ-Mg5Mg12Mg12; _alloy: Mg 1_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 9 |  |
 | lattice unspecified axis; _printed: a = b_ | 12.718 Å | 0 | ε-Al30Mg23; _alloy: Mg 0.433962_ | DFT | [3] Zhong 2005 | Table 3, p. 4, row 6 |  |
 
 ## Sources
@@ -373,6 +359,7 @@ Reporting papers the values were read from (a value cited from another work name
 2. Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993). [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6)
 3. Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005). [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004)
 4. F. ISLAM, M. MEDRAJ, THERMODYNAMIC MODELLING OF THE Mg-Al-Ca SYSTEM, Canadian Metallurgical Quarterly 44, 523-536 (2005). [doi:10.1179/cmq.2005.44.4.523](https://doi.org/10.1179/cmq.2005.44.4.523)
+5. Peisheng Wang, Yong Du, Shuhong Liu, Thermodynamic optimization of the Li–Mg and Al–Li–Mg systems, Calphad 35, 523-532 (2011). [doi:10.1016/j.calphad.2011.09.003](https://doi.org/10.1016/j.calphad.2011.09.003)
 
 ## Please cite
 

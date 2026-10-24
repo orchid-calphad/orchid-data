@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Na3Sb.html · Markdown: https://
 
 7 accepted literature formation-enthalpy value(s) (experimental 4, model 1, DFT 2); experimental median -55 kJ/mol-atom (n = 4); Materials Project -45.951 kJ/mol-atom (mp-aaaaalua); OQMD -50.428 kJ/mol-atom (oqmd-5156).
 
-Systems: [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) · [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html)
+Systems: [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html)
 
 ## Literature values
 
@@ -19,8 +19,8 @@ Table: Enthalpy of formation of Na3Sb reported in the literature (7)
 | -53.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4 |  |
 | -49.25 kJ/mol-atom | Na3Sb(s) | 298.15 | experimental |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5 |  |
 | -56.5 kJ/mol-atom | Na3Sb(s) |  | model |  | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
-| -1.786 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [2] Dreval 2017 | Table 3, p. 7, row 20 |  |
-| -1.784 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [2] Dreval 2017 | Table 3, p. 7, row 19 |  |
+| -1.786 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 20 |  |
+| -1.784 eV | Na3Sb | 0 | DFT | DFT | [Na–Sb](https://data.orchid-project.org/systems/NA-SB.html) | [2] Dreval 2017 | Table 3, p. 7, row 19 |  |
 
 ### Uncertainty budget
 
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Na3Sb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -58.5 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -56.75 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -53.25 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -49.25 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -56.5 | kJ/mol-atom |  | 0.125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -1.786 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| -1.784 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -58.5 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -56.75 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -53.25 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -49.25 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -56.5 | kJ/mol-atom |  | 0.125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -1.786 | eV |  | 5.000e-4 | 0.4224 (dft, calibrated) |  |  |  | 0.4224 |
+| -1.784 | eV |  | 5.000e-4 | 0.4224 (dft, calibrated) |  |  |  | 0.4224 |
 
 ## DFT formation energies
 

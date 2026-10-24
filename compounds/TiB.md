@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/TiB.html · Markdown: https://da
 
 11 accepted literature formation-enthalpy value(s) (experimental 1, model 3, DFT 7); Materials Project -80.281 kJ/mol-atom (mp-aaaaalqf); OQMD -82.177 kJ/mol-atom (oqmd-28621).
 
-Systems: [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) · [B–Ti](https://data.orchid-project.org/systems/B-TI.html)
+Systems: [B–Ti](https://data.orchid-project.org/systems/B-TI.html)
 
 ## Literature values
 
@@ -15,16 +15,16 @@ Table: Enthalpy of formation of TiB reported in the literature (11)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -160.247 kJ/mol (basis unstated) | TiB | 298.15 | experimental |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [1] Ma 2004; _cites Schissel 1962_ [doi](https://doi.org/10.1021/j100814a027) | Table 3, p. 4, row 5 |  |
-| -82.5 kJ/mol-atom | TiB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29 |  |
+| -82.5 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29 |  |
 | -82.5 kJ/mol (basis unstated) | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 3, p. 6, row 2 |  |
-| -69.3 kJ/mol-atom | TiB |  | model |  | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22 |  |
+| -69.3 kJ/mol-atom | TiB |  | model |  | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22 |  |
 | -83 kJ/mol (basis unstated) | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 3, p. 6, row 1 |  |
-| -83 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 28 |  |
-| -82.9 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 26 |  |
-| -82.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 25 |  |
-| -82 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 24 |  |
-| -80.1 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 23 |  |
-| -78.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Nb–Ti](https://data.orchid-project.org/systems/B-NB-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 21 |  |
+| -83 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 28 |  |
+| -82.9 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 26 |  |
+| -82.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 25 |  |
+| -82 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 24 |  |
+| -80.1 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 23 |  |
+| -78.7 kJ/mol-atom | TiB | 0 | DFT | First principles | [B–Ti](https://data.orchid-project.org/systems/B-TI.html) | [2] Nakama 2009 | Table 4, p. 7, row 21 |  |
 
 ### Uncertainty budget
 
@@ -34,17 +34,17 @@ Table: Uncertainty budget of the literature values of TiB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -160.247 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -82.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -82.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -69.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -83 | kJ/mol (basis unstated) |  | 0.5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -83 | kJ/mol-atom |  | 0.5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -82.9 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -82.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -82 | kJ/mol-atom |  | 0.5 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -80.1 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -78.7 | kJ/mol-atom |  | 0.05 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -160.247 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -82.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -82.5 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -69.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -83 | kJ/mol (basis unstated) |  | 0.05 | 20.38 (dft, calibrated) |  |  |  | 20.38 |
+| -83 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -82.9 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -82.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -82 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -80.1 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -78.7 | kJ/mol-atom |  | 0.05 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

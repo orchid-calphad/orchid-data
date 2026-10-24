@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/phases/pages/O-YB.html · Markdown: https:
 
 7 phases (tier A 3, tier C 2, liquid 1, gas 1); 4 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
-Data: [interactive registry](https://orchid-project.org/phases/?q=O-YB) · [full JSON](https://data.orchid-project.org/phases/systems/O-YB.json) · [Markdown](https://data.orchid-project.org/phases/pages/O-YB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
+Data: [interactive registry](https://orchid-project.org/phases/?q=O-YB) · [full JSON](https://data.orchid-project.org/phases/systems/O-YB.json) · [O–Yb system page](https://data.orchid-project.org/systems/O-YB.html) · [Markdown](https://data.orchid-project.org/phases/pages/O-YB.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
 Table: Phases of the O–Yb system (7)
 

@@ -15,7 +15,7 @@ Table: Phases of the Gd–Sc system (4)
 | [BCC_A2](#phase-gd-sc-bcc-a2); _phase:gd-sc:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1398.06–2499 K, x(Sc) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-gd-sc-fcc-a1); _phase:gd-sc:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-gd-sc-hcp-a3); _phase:gd-sc:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1607.99 K, x(Sc) 0–1 | 0 | 2 |
-| [LIQUID](#phase-gd-sc-liquid); _phase:gd-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1548.16–2500 K, x(Sc) 0–1 | 0 | 2 |
+| [LIQUID](#phase-gd-sc-liquid); _phase:gd-sc:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1548.16–2500 K, x(Sc) 0–1 | 2 | 2 |
 
 ## BCC_A2 (Gd–Sc)
 
@@ -121,10 +121,11 @@ _assessment that models this phase_
 - Id: `phase:gd-sc:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1548.16–2500 K, x(Sc) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-sc:liquid)
 
-Names (3): _corpus: _corpus:phase:gd-sc:liquid  
+Names (4): _corpus: _corpus:phase:gd-sc:liquid  
+_paper: _paper:10.1007/s11669-014-0340-8:liquid  
 _tdb: _tdb:GdSc-00Nor.tdb:LIQUID, tdb:GdSc-15Wan.tdb:LIQUID  
 
 
@@ -147,7 +148,7 @@ _tdb: _tdb:GdSc-00Nor.tdb:LIQUID, tdb:GdSc-15Wan.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/s11669-014-0340-8](https://doi.org/10.1007/s11669-014-0340-8) S. L. Wang, L. J. Zhou, Y. Ye, X. H. Wang, Y. H. Lin, C. P. Wang et al., Thermodynamic Assessments of the Sc-M (M: Cr, Gd, Mo, W and Zr) Systems, J. Phase Equilib. Diffus. 36, 3-9 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

@@ -16,7 +16,7 @@ Table: Phases of the B–Fe system (11)
 | [MB_B27](#phase-b-fe-b27-mb); _phase:b-fe:b27-mb_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1935.8 K, x(B) 0.48749–0.50573 | 54 | 7 |
 | [MB_B33](#phase-b-fe-b33-mb); _phase:b-fe:b33-mb_ | CrB · B33 · oC8 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1485.05 K, x(B) 0.49124–0.50254 | 28 | 1 |
 | [BCC_A2](#phase-b-fe-bcc-a2); _phase:b-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–3999.7 K, x(B) 0–0.00235 | 45 | 7 |
-| [M2B_C16](#phase-b-fe-c16-m2b); _phase:b-fe:c16-m2b_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1683.9 K, x(B) 0.33333–0.33333 | 76 | 7 |
+| [M2B_C16](#phase-b-fe-c16-m2b); _phase:b-fe:c16-m2b_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–1683.9 K, x(B) 0.33333–0.33333 | 73 | 7 |
 | [CEMENTITE_D011](#phase-b-fe-cementite-d011); _phase:b-fe:cementite-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 3 | 1 |
 | [FCC_A1](#phase-b-fe-fcc-a1); _phase:b-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 301.08–1802.45 K, x(B) 0–0.00114 | 54 | 7 |
 | [FE3B_HT](#phase-b-fe-fe3b); _phase:b-fe:fe3b_ | Ti3P · tP32 · P4_2/n (86) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 15 | 1 |
@@ -351,7 +351,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:M2B); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: B 0.3333, Fe 0.6667
 - Stability: stable in 7 of 7 calculated diagram(s): 300–1683.9 K, x(B) 0.33333–0.33333
-- Literature: 76 values (76 accepted) from 2 papers
+- Literature: 73 values (73 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-fe:c16-m2b)
 
 Names (14): _corpus: _corpus:phase:b-fe:c16-m2b, corpus:phase:b-fe:m2b-c16  
@@ -417,7 +417,7 @@ Example references (10 of 21; assessments first):
 - [doi:10.1016/j.jallcom.2019.05.341](https://doi.org/10.1016/j.jallcom.2019.05.341) V.T. Witusiewicz, A.A. Bondar, U. Hecht, A. Theofilatos, N.I. Tsyganenko, S.V. Utkin et al., Experimental study and thermodynamic re-modelling of the constituent binaries and ternary B–Fe–Ti system, Journal of Alloys and Compounds 800, 419-449 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0364-5916(02)00012-3](https://doi.org/10.1016/S0364-5916%2802%2900012-3) M. Palumbo, G. Cacciamani, E. Bosco, M. Baricco, Calphad, 25, 625-37(2001).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-1994-851002](https://doi.org/10.1515/ijmr-1994-851002) B. Hallemans, P. Wollants, J.R. Roos, Z. Metallkd. 85 (1994) 676–682.  
 _assessment that models this phase_
 - [doi:10.2355/isijinternational.48.835](https://doi.org/10.2355/isijinternational.48.835) K. Yoshitomi, Y. Nakama, H. Ohtani, M. Hasebe, ISIJ Int., 48, 835-44(2008).  
@@ -428,9 +428,9 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1007/bf00652720](https://doi.org/10.1007/bf00652720) L. G. Voroshnin, L. S. Lyakhovich, G. G. Panich, G. F. Protasevich, The structure of Fe?B alloys, Met Sci Heat Treat 12, 732-735 (1970).  
 _cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2013.08.001](https://doi.org/10.1016/j.calphad.2013.08.001) M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of  
-_cited as the source of values for this phase_
 - [doi:10.1007/bf00775428](https://doi.org/10.1007/bf00775428) K. I. Portnoi, M. Kh. Levinskaya, V. M. Romashov, Constitution diagram of the system iron-boron, Powder Metall Met Ceram 8, 657-659 (1969).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2013.08.001](https://doi.org/10.1016/j.calphad.2013.08.001) M.G. Poletti, L. Battezzati, Assessment of the ternary Fe-Si-B phase diagram, Calphad 43 (2013) 40e47. , M. Leonowicz, Thermodynamic assessment of  
 _cited as the source of values for this phase_
 - [doi:10.1039/b208548h](https://doi.org/10.1039/b208548h) Alexander Zaitsev, Natal'ya Zaitseva, Alexander Kodentsov, Thermodynamic properties and phase equilibria in the iron–boron system. Transition of the Fe–B melt into the amorphous stateElectronic supplementary information (ESI) available: Fig. S1–S4 and Tables S1 and S2. See http://www.rsc.org/suppdata/jm/b2/b208548h/, J. Mater. Chem. 13, 943-950 (2003).  
 _cited as the source of values for this phase_

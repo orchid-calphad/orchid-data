@@ -1,10 +1,10 @@
 # Ag–P system
 
-> Ag–P system: 20 accepted literature values (crystal structure 15, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–P system: 13 accepted literature values (crystal structure 8, invariant reaction 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-P.html · Markdown: https://data.orchid-project.org/systems/AG-P.md
 
-20 accepted literature values from 1 paper(s) (model 3, unspecified 17); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (model 3, unspecified 10); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-P.json) · [CSV](https://data.orchid-project.org/systems/AG-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-P/AgP-88Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AG-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-P.html) · [Markdown](https://data.orchid-project.org/systems/AG-P.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | model | 3 |
-| unspecified | 17 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 5 |
-| crystal structure | 15 |
+| crystal structure | 8 |
 
 ## Calculated phase diagrams
 
@@ -60,25 +60,18 @@ Table: Invariant reactions reported in the literature for the Ag–P system (5)
 
 ## Other properties
 
-### Crystal structure (15)
+### Crystal structure (8)
 
 Table: Crystal structure, Ag–P system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0861 Å | 298.15 | Ag(s); _Ag(s): Ag 1, P 0_ | unspecified | [1] Karakaya 1988; _cites ref. 1_ | Table 3, p. 3, row 1 |  |
 | Lattice a | 12.999 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
 | Lattice a | 6.218 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice a | 3.3136 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice a | 11.31 Å | 298.15 | P(red); _P(red): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 6 |  |
-| Lattice a | 7.18 Å | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
 | Lattice b | 7.555 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
 | Lattice b | 5.056 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice b | 10.478 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
 | Lattice c | 6.612 Å | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | model | [1] Karakaya 1988; _cites Moller 1984_ | Table 3, p. 3, row 3 |  |
 | Lattice c | 7.804 Å | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988; _cites ref. 65Olo_ | Table 3, p. 3, row 2 |  |
-| Lattice c | 4.3763 Å | 298.15 | P(black); _P(black): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 4 |  |
-| Lattice c | 4.3763 Å | 298.15 | P(white); _P(white): Ag 0, P 1_ | unspecified | [1] Karakaya 1988; _cites ref. 2_ | Table 3, p. 3, row 5 |  |
 | lattice beta | 118.84 ° | 298.15 | Ag3P11; _Ag3P11: Ag 0.216, P 0.784_ | unspecified | [1] Karakaya 1988 | Table 2, p. 3, row 3 |  |
 | lattice beta | 113.48 ° | 298.15 | AgP2; _AgP2: Ag 0.333, P 0.667_ | unspecified | [1] Karakaya 1988 | Table 2, p. 3, row 2 |  |
 

@@ -6,18 +6,14 @@
  ],
  "phases": [
   "AL11SM3",
-  "AL4SM_D1B",
-  "BCC_A2",
   "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   928.0,
-   888.0,
-   893.0,
-   853.0
+   930.0,
+   886.0
   ]
  },
  "output": "ZPF",
@@ -88,64 +84,6 @@
      0.04
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "SM"
-    ],
-    [
-     0.2
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.19
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.21
-    ]
-   ]
-  ],
-  [
-   [
-    "AL4SM_D1B",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.19
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.21
-    ]
-   ]
   ]
  ],
  "reference": "Zhou 2008, doi:10.1007/s11661-007-9445-6",
@@ -156,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-SM/AlSm-08Zho.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-RO2CT6SGWC ORC-ZWGJM37ALJ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-SM/AlSm-08Zho.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-ZWGJM37ALJ",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AL-SM/AlSm-08Zho.zpf-01.json",
@@ -167,8 +105,8 @@
     "source_observation": "ORC-ZWGJM37ALJ",
     "side": "above",
     "T_invariant_K": 908.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.03,
     "hyperplane_delta": 0.01,
@@ -186,8 +124,8 @@
     "source_observation": "ORC-ZWGJM37ALJ",
     "side": "below",
     "T_invariant_K": 908.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.03,
     "hyperplane_delta": 0.01,
@@ -200,53 +138,15 @@
      "FCC_A1",
      "AL11SM3"
     ]
-   },
-   {
-    "source_observation": "ORC-RO2CT6SGWC",
-    "side": "above",
-    "T_invariant_K": 873.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.2,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β -> γ",
-    "reaction_type": null,
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "AL4SM_D1B"
-    ]
-   },
-   {
-    "source_observation": "ORC-RO2CT6SGWC",
-    "side": "below",
-    "T_invariant_K": 873.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.2,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β -> γ",
-    "reaction_type": null,
-    "phases_above": [
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "AL4SM_D1B"
-    ]
    }
   ],
   "dois": [
    "10.1007/s11661-007-9445-6",
-   "10.1016/0167-577x(95)00066-6",
-   "10.1016/s0921-5093(00)01537-9"
+   "10.1016/0167-577x(95)00066-6"
   ],
   "papers": [
    "doi:10.1007/s11661-007-9445-6",
-   "doi:10.1016/0167-577x(95)00066-6",
-   "doi:10.1016/s0921-5093(00)01537-9"
+   "doi:10.1016/0167-577x(95)00066-6"
   ]
  },
  "orchid_uncertainty_budget": {
@@ -262,9 +162,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -278,41 +178,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-RO2CT6SGWC",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-RO2CT6SGWC",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

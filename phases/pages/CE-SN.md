@@ -14,16 +14,16 @@ Table: Phases of the Ce–Sn system (15)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-ce-sn-a4-diamond); _phase:ce-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [BCT_A5](#phase-ce-sn-a5-bct); _phase:ce-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.41 K, x(Sn) 1–1 | 4 | 2 |
-| [BCC_A2](#phase-ce-sn-bcc-a2); _phase:ce-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602 | 9 | 2 |
-| [CE11SN10](#phase-ce-sn-ce11sn10); _phase:ce-sn:ce11sn10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1651.52 K, x(Sn) 0.47611–0.5144 | 9 | 2 |
-| [CE2SN5](#phase-ce-sn-ce2sn5); _phase:ce-sn:ce2sn5_ | Ce2Sn5 · oC28 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1419.94 K, x(Sn) 0.71429–0.71429 | 8 | 2 |
+| [BCC_A2](#phase-ce-sn-bcc-a2); _phase:ce-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602 | 4 | 2 |
+| [CE11SN10](#phase-ce-sn-ce11sn10); _phase:ce-sn:ce11sn10_ | Ge10Ho11 · tI84 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1651.52 K, x(Sn) 0.47611–0.5144 | 28 | 2 |
+| [CE2SN5](#phase-ce-sn-ce2sn5); _phase:ce-sn:ce2sn5_ | Ce2Sn5 · oC28 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1419.94 K, x(Sn) 0.71429–0.71429 | 29 | 2 |
 | [CE3SN_L12](#phase-ce-sn-ce3sn-l12); _phase:ce-sn:ce3sn-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1233.1 K, x(Sn) 0.25–0.25 | 14 | 2 |
-| [CE3SN5](#phase-ce-sn-ce3sn5); _phase:ce-sn:ce3sn5_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1452.91 K, x(Sn) 0.625–0.625 | 12 | 2 |
-| [CE3SN7](#phase-ce-sn-ce3sn7); _phase:ce-sn:ce3sn7_ | Ce3Sn7 · oC20 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1407.25 K, x(Sn) 0.7–0.7 | 8 | 2 |
-| [CE5SN3](#phase-ce-sn-ce5sn3); _phase:ce-sn:ce5sn3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1780.49 K, x(Sn) 0.375–0.375 | 6 | 2 |
-| [CE5SN4](#phase-ce-sn-ce5sn4); _phase:ce-sn:ce5sn4_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1808.69 K, x(Sn) 0.44444–0.44444 | 14 | 2 |
+| [CE3SN5](#phase-ce-sn-ce3sn5); _phase:ce-sn:ce3sn5_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1452.91 K, x(Sn) 0.625–0.625 | 35 | 2 |
+| [CE3SN7](#phase-ce-sn-ce3sn7); _phase:ce-sn:ce3sn7_ | Ce3Sn7 · oC20 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–1407.25 K, x(Sn) 0.7–0.7 | 26 | 2 |
+| [CE5SN3](#phase-ce-sn-ce5sn3); _phase:ce-sn:ce5sn3_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1780.49 K, x(Sn) 0.375–0.375 | 19 | 2 |
+| [CE5SN4](#phase-ce-sn-ce5sn4); _phase:ce-sn:ce5sn4_ | Ge4Sm5 · oP36 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1808.69 K, x(Sn) 0.44444–0.44444 | 40 | 2 |
 | [CESN3_L12](#phase-ce-sn-cesn3-l12); _phase:ce-sn:cesn3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1454.71 K, x(Sn) 0.75–0.75 | 12 | 2 |
-| [DHCP](#phase-ce-sn-dhcp-a3); _phase:ce-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 6 | 2 |
+| [DHCP](#phase-ce-sn-dhcp-a3); _phase:ce-sn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ce-sn-fcc-a1); _phase:ce-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1007.5 K, x(Sn) 0–0 | 2 | 2 |
 | [HCP_A3](#phase-ce-sn-hcp-a3); _phase:ce-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ce-sn-liquid); _phase:ce-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 498.41–2500 K, x(Sn) 0–1 | 52 | 2 |
@@ -110,11 +110,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ce-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 957.16–1079.72 K, x(Sn) 0–0.01602
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:ce-sn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2013.04.003:Bcc_A2, paper:10.1016/j.calphad.2013.07.013:βCe5Sn3, paper:10.1016/j.calphad.2013.07.013:βCe5Sn3\*  
+Names (4): _corpus: _corpus:phase:ce-sn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2013.04.003:Bcc_A2  
 _tdb: _tdb:CeSn-13Don.tdb:BCC_A2, tdb:CeSn-13Li.tdb:BCC_A2  
 
 
@@ -134,15 +134,13 @@ _tdb: _tdb:CeSn-13Don.tdb:BCC_A2, tdb:CeSn-13Li.tdb:BCC_A2
 41: CONST BCC_A2 : CE% SN : VA : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
+_assessment that models this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
-_cited as the source of values for this phase_
-- [doi:10.1016/s0925-8388(00)01429-8](https://doi.org/10.1016/s0925-8388%2800%2901429-8) P Boulet, D Mazzone, H Noël, P Rogl, R Ferro, Phase equilibria and magnetic studies in the ternary system Ce–Au–Sn, Journal of Alloys and Compounds 317-318, 350-356 (2001).  
 _cited as the source of values for this phase_
 
 ## CE11SN10 (Ce–Sn)
@@ -152,7 +150,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1651.52 K, x(Sn) 0.47611–0.5144
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 28 values (28 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce11sn10)
 
 Names (5): _corpus: _corpus:phase:ce-sn:ce11sn10  
@@ -176,13 +174,15 @@ _tdb: _tdb:CeSn-13Don.tdb:CE11SN10, tdb:CeSn-13Li.tdb:CE11SN10
 82: CONST CE11SN10 : CE : SN : CE SN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(91)90019-z](https://doi.org/10.1016/0022-5088%2891%2990019-z) F. Weitzer, K. Hiebl, P. Rogl, Magnetism and crystal chemistry of cerium stannides, Journal of the Less Common Metals 175, 331-338 (1991).  
 _cited as the source of values for this phase_
 - [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
 _cited as the source of values for this phase_
@@ -195,7 +195,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ce 0.2857, Sn 0.7143
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1419.94 K, x(Sn) 0.71429–0.71429
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 29 values (29 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce2sn5)
 
 Names (5): _corpus: _corpus:phase:ce-sn:ce2sn5  
@@ -219,12 +219,14 @@ _tdb: _tdb:CeSn-13Don.tdb:CE2SN5, tdb:CeSn-13Li.tdb:CE2SN5
 97: CONST CE2SN5 : CE : SN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(91)90019-z](https://doi.org/10.1016/0022-5088%2891%2990019-z) F. Weitzer, K. Hiebl, P. Rogl, Magnetism and crystal chemistry of cerium stannides, Journal of the Less Common Metals 175, 331-338 (1991).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
@@ -279,7 +281,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ce 0.3750, Sn 0.6250
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1452.91 K, x(Sn) 0.625–0.625
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 35 values (35 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce3sn5)
 
 Names (5): _corpus: _corpus:phase:ce-sn:ce3sn5  
@@ -303,15 +305,21 @@ _tdb: _tdb:CeSn-13Don.tdb:CE3SN5, tdb:CeSn-13Li.tdb:CE3SN5
 87: CONST CE3SN5 : CE : SN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(91)90019-z](https://doi.org/10.1016/0022-5088%2891%2990019-z) F. Weitzer, K. Hiebl, P. Rogl, Magnetism and crystal chemistry of cerium stannides, Journal of the Less Common Metals 175, 331-338 (1991).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(82)90070-4](https://doi.org/10.1016/0022-5088%2882%2990070-4) Gabriella Borzone, Aldo Borsese, Riccardo Ferro, On the alloying behaviour of cerium with tin, Journal of the Less Common Metals 85, 195-203 (1982).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(84)90313-8](https://doi.org/10.1016/0022-5088%2884%2990313-8) C. Colinet, A. Pasturel, A. Percheron-Guégan, J.C. Achard, Experimental and calculated enthalpies of formation of rare earth-tin alloys, Journal of the Less Common Metals 102, 167-177 (1984).  
 _cited as the source of values for this phase_
 
 ## CE3SN7 (Ce–Sn)
@@ -320,7 +328,7 @@ _cited as the source of values for this phase_
 - Structure: Ce3Sn7 · oC20 · Cmmm (65); type `st:ce3sn7-oc20`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ce 0.3000, Sn 0.7000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1407.25 K, x(Sn) 0.7–0.7
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 26 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce3sn7)
 
 Names (7): _corpus: _corpus:phase:ce-sn:ce3sn7  
@@ -346,12 +354,14 @@ _tdb: _tdb:CeSn-13Don.tdb:CE3SN7, tdb:CeSn-13Li.tdb:CE3SN7
 92: CONST CE3SN7 : CE : SN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(91)90019-z](https://doi.org/10.1016/0022-5088%2891%2990019-z) F. Weitzer, K. Hiebl, P. Rogl, Magnetism and crystal chemistry of cerium stannides, Journal of the Less Common Metals 175, 331-338 (1991).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
 _cited as the source of values for this phase_
 - [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
@@ -371,7 +381,7 @@ _cited as the source of values for this phase_
 - Candidate (sgte_mmc2): W5Si3 · D8_m · tI32 · I4/mcm (140) — Hallstedt 2025 mmc2 row for CE5SN3: Ce5Sn3, low T
 - Stoichiometry: Ce 0.6250, Sn 0.3750
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1780.49 K, x(Sn) 0.375–0.375
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce5sn3)
 
 Names (6): _corpus: _corpus:phase:ce-sn:ce5sn3  
@@ -414,7 +424,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_62_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ce 0.5556, Sn 0.4444
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1808.69 K, x(Sn) 0.44444–0.44444
-- Literature: 14 values (14 accepted) from 2 papers
+- Literature: 40 values (40 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:ce5sn4)
 
 Names (5): _corpus: _corpus:phase:ce-sn:ce5sn4  
@@ -438,13 +448,17 @@ _tdb: _tdb:CeSn-13Don.tdb:CE5SN4, tdb:CeSn-13Li.tdb:CE5SN4
 77: CONST CE5SN4 : CE : SN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(82)90070-4](https://doi.org/10.1016/0022-5088%2882%2990070-4) Gabriella Borzone, Aldo Borsese, Riccardo Ferro, On the alloying behaviour of cerium with tin, Journal of the Less Common Metals 85, 195-203 (1982).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(84)90313-8](https://doi.org/10.1016/0022-5088%2884%2990313-8) C. Colinet, A. Pasturel, A. Percheron-Guégan, J.C. Achard, Experimental and calculated enthalpies of formation of rare earth-tin alloys, Journal of the Less Common Metals 102, 167-177 (1984).  
 _cited as the source of values for this phase_
 
 ## CESN3_L12 (Ce–Sn)
@@ -496,11 +510,10 @@ _cited as the source of values for this phase_
 - Id: `phase:ce-sn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-sn:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:ce-sn:dhcp-a3  
-_paper: _paper:10.1016/j.calphad.2013.07.013:δCe  
+Names (3): _corpus: _corpus:phase:ce-sn:dhcp-a3  
 _tdb: _tdb:CeSn-13Don.tdb:DHCP, tdb:CeSn-13Li.tdb:DHCP  
 
 
@@ -520,16 +533,12 @@ _tdb: _tdb:CeSn-13Don.tdb:DHCP, tdb:CeSn-13Li.tdb:DHCP
 51: CONST DHCP : CE : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2013.04.003](https://doi.org/10.1016/j.calphad.2013.04.003) Juan Li, Xiaoma Tao, Sisi Dong, Feng Yang, Huashan Liu, Zhanpeng Jin et al., Thermodynamic assessment of Sn–Cu–Ce system, Calphad 43, 124-132 (2013).  
 _assessment that models this phase_
-- [doi:10.1007/bf01913184](https://doi.org/10.1007/bf01913184) E. A. Franceschi, G. A. Costa, The phase diagram of the Ce-Sn System up to 50 AT.% Sn, Journal of Thermal Analysis 34, 451-456 (1988).  
-_cited as the source of values for this phase_
-- [doi:10.1361/105497198770342256](https://doi.org/10.1361/105497198770342256) P. Riani, D. Mazzone, G. Zanicchi, R. Marazza, R. Ferro, F. Faudot et al., On the Ce-Cu-Sn system, JPE 19, 239-251 (1998).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2013.07.013](https://doi.org/10.1016/j.calphad.2013.07.013) H.Q. Dong, X.M. Tao, T. Laurila, V. Vuorinen, M. Paulasto-Kröckel, Thermodynamic modeling of Au–Ce–Sn ternary system, Calphad 42, 38-50 (2013).  
+_assessment that models this phase_
 
 ## FCC_A1 (Ce–Sn)
 

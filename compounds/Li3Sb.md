@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of Li3Sb
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -81.5 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -75.25 | kJ/mol-atom |  | 0.125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -73.325 | kJ/mol-atom |  | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -75.25 | kJ/mol-atom |  | 0.125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -73.325 | kJ/mol-atom |  | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -70.03 | kJ/mol-atom | 0.3 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -76.825 | kJ/mol-atom |  | 0.0125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -76.825 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

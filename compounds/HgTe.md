@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/HgTe.html · Markdown: https://d
 
 10 accepted literature formation-enthalpy value(s) (experimental 3, model 3, unspecified 4).
 
-Systems: [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) · [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html)
+Systems: [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html)
 
 ## Literature values
 
@@ -19,8 +19,8 @@ Table: Enthalpy of formation of HgTe reported in the literature (10)
 | -31.8 kJ/mol (basis unstated) | HgTe | 298.15 | experimental |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Mills 1974_ | Table 4, p. 4, row 2 |  |
 | -44.02 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Yang 1995_ [doi](https://doi.org/10.1016/0364-5916%2895%2900039-h) | Table 4, p. 4, row 7 |  |
 | -43.648 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010 | Table 4, p. 4, row 8 |  |
-| -43.538 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
-| -44.002 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Cd–Hg–Te](https://data.orchid-project.org/systems/CD-HG-TE.html) | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+| -43.538 kJ/mol (basis unstated) | HgTe | 298.15 | model |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
+| -44.002 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 | -43.802 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Su 1981_ | Table 4, p. 4, row 4 |  |
 | -43.69 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Brebrick 1991_ | Table 4, p. 4, row 6 |  |
 | -41.2 kJ/mol (basis unstated) | HgTe | 298.15 | unspecified |  | [Hg–Te](https://data.orchid-project.org/systems/HG-TE.html) | [1] Gierlotka 2010; _cites Sha 1989_ [doi](https://doi.org/10.1149/1.2096558) | Table 4, p. 4, row 3 |  |
@@ -33,16 +33,16 @@ Table: Uncertainty budget of the literature values of HgTe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -36.5 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -33.9 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.8 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -44.02 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43.648 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43.538 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -44.002 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43.802 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43.69 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -41.2 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -36.5 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -33.9 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -31.8 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -44.02 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -43.648 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -43.538 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -44.002 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -43.802 | kJ/mol (basis unstated) |  | 5.000e-4 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -43.69 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -41.2 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

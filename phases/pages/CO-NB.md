@@ -12,13 +12,13 @@ Table: Phases of the Co–Nb system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-nb-bcc-a2); _phase:co-nb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.98 K, x(Nb) 0.94182–1 | 14 | 4 |
+| [BCC_A2](#phase-co-nb-bcc-a2); _phase:co-nb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.98 K, x(Nb) 0.94182–1 | 12 | 4 |
 | [C14_LAVES](#phase-co-nb-c14-laves); _phase:co-nb:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1511.5–1696.9 K, x(Nb) 0.3583–0.37375 | 26 | 3 |
 | [C15_LAVES](#phase-co-nb-c15-laves); _phase:co-nb:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1756.47 K, x(Nb) 0.25058–0.35362 | 59 | 4 |
 | [C36_LAVES](#phase-co-nb-c36-laves); _phase:co-nb:c36-laves_ | MgNi2 · C36 · hP24 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1302.19–1537.36 K, x(Nb) 0.23704–0.25743 | 32 | 3 |
 | [CO16NB9_C14](#phase-co-nb-co16nb9-c14); _phase:co-nb:co16nb9-c14_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1460–1700.54 K, x(Nb) 0.36–0.36 | 9 | 1 |
 | [CO3NB_C36](#phase-co-nb-co3nb-c36); _phase:co-nb:co3nb-c36_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1277.93–1521.8 K, x(Nb) 0.25–0.25 | 12 | 1 |
-| [CO7NB2](#phase-co-nb-co7nb2); _phase:co-nb:co7nb2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1359.48 K, x(Nb) 0.22222–0.22222 | 22 | 4 |
+| [CO7NB2](#phase-co-nb-co7nb2); _phase:co-nb:co7nb2_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1359.48 K, x(Nb) 0.22222–0.22222 | 23 | 4 |
 | [MU_D85](#phase-co-nb-d85-mu); _phase:co-nb:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1708.54 K, x(Nb) 0.45992–0.56446 | 48 | 4 |
 | [FCC_A1](#phase-co-nb-fcc-a1); _phase:co-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 688.19–1768.99 K, x(Nb) 0–0.05372 | 27 | 4 |
 | [HCP_A3](#phase-co-nb-hcp-a3); _phase:co-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–819.19 K, x(Nb) 0–7e-05 | 1 | 4 |
@@ -29,11 +29,11 @@ Table: Phases of the Co–Nb system (11)
 - Id: `phase:co-nb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–3999.98 K, x(Nb) 0.94182–1
-- Literature: 14 values (14 accepted) from 3 papers
+- Literature: 12 values (12 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nb:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:co-nb:bcc-a2  
-_paper: _paper:10.1007/s11661-020-05963-2:bcc(Nb), paper:10.1016/j.jallcom.2015.02.182:(Nb), paper:10.1016/j.jallcom.2015.02.182:(εCo), paper:10.1016/s0925-8388(97)00465-9:bcc  
+Names (8): _corpus: _corpus:phase:co-nb:bcc-a2  
+_paper: _paper:10.1007/s11661-020-05963-2:bcc(Nb), paper:10.1016/j.jallcom.2015.02.182:(Nb), paper:10.1016/s0925-8388(97)00465-9:bcc  
 _tdb: _tdb:CoNb-15He.tdb:BCC_A2, tdb:CoNb-20Zho.tdb:BCC_A2, tdb:CoNb-22Wei.tdb:BCC_A2, tdb:CoNb-98Har-LB.tdb:BCC_A2  
 
 
@@ -333,7 +333,7 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Ni7Zr2 · mC36 · C2/m — CoNb-22Wei.tdb: 'Prototype Ni7Zr2 (mC36, C2/m)'
 - Stoichiometry: Co 0.7778, Nb 0.2222
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1359.48 K, x(Nb) 0.22222–0.22222
-- Literature: 22 values (22 accepted) from 3 papers
+- Literature: 23 values (23 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-nb:co7nb2)
 
 Names (8): _corpus: _corpus:phase:co-nb:co7nb2  
@@ -375,10 +375,10 @@ Example references (5 of 5; assessments first):
 
 - [doi:10.1016/j.jallcom.2015.02.182](https://doi.org/10.1016/j.jallcom.2015.02.182) Cuiyun He, Frank Stein, Martin Palm, Thermodynamic description of the systems Co–Nb, Al–Nb and Co–Al–Nb, Journal of Alloys and Compounds 637, 361-375 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/S0925-8388(97)00465-9](https://doi.org/10.1016/S0925-8388%2897%2900465-9) K.C. Hari Kumar, I. Ansara, P. Wollants, L. Delaye, J. Alloys Compd., 267, 105-12(1998).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11661-020-05963-2](https://doi.org/10.1007/s11661-020-05963-2) Chenyang Zhou, Cuiping Guo, Jingbo Li, Changrong Li, Zhenmin Du, Key Experiments and Thermodynamic Description of the Co-Nb-Ni System, Metall Mater Trans A 51, 5892-5911 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/S0925-8388(97)00465-9](https://doi.org/10.1016/S0925-8388%2897%2900465-9) K.C. Hari Kumar, I. Ansara, P. Wollants, L. Delaye, J. Alloys Compd., 267, 105-12(1998).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2022.166516](https://doi.org/10.1016/j.jallcom.2022.166516) Dawei Wei, Xiaofeng Bai, Cuiping Guo, Changrong Li, Zhenmin Du, Experimental investigation and thermodynamic description of the Co–Nb–Ti system, Journal of Alloys and Compounds 924, 166516 (2022).  
 _assessment that models this phase_
 - [doi:10.1016/j.intermet.2008.02.017](https://doi.org/10.1016/j.intermet.2008.02.017) F. Stein, D. Jiang, M. Palm, G. Sauthoff, D. Grüner, G. Kreiner, Experimental reinvestigation of the Co–Nb phase diagram, Intermetallics 16, 785-792 (2008).  

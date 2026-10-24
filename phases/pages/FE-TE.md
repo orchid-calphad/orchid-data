@@ -1,14 +1,14 @@
 # Fe–Te phases
 
-> Fe–Te system: 12 phases (tier A 6, liquid 2, needs_review 3, unresolved_no_candidates 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Fe–Te system: 10 phases (tier A 6, liquid 1, needs_review 3); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/FE-TE.html · Markdown: https://data.orchid-project.org/phases/pages/FE-TE.md
 
-12 phases (tier A 6, liquid 2, needs_review 3, unresolved_no_candidates 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 6, liquid 1, needs_review 3); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=FE-TE) · [full JSON](https://data.orchid-project.org/phases/systems/FE-TE.json) · [Fe–Te system page](https://data.orchid-project.org/systems/FE-TE.html) · [Markdown](https://data.orchid-project.org/phases/pages/FE-TE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Fe–Te system (12)
+Table: Phases of the Fe–Te system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,14 +16,12 @@ Table: Phases of the Fe–Te system (12)
 | [BCC_A2](#phase-fe-te-bcc-a2); _phase:fe-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1865.92 K, x(Te) 0–0.01095 | 0 | 2 |
 | [FCC_A1](#phase-fe-te-fcc-a1); _phase:fe-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1142.21–1702.21 K, x(Te) 0–0.00046 | 0 | 2 |
 | [FETE_BETA_HT](#phase-fe-te-fete-beta); _phase:fe-te:fete-beta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1072.24–1185.14 K, x(Te) 0.461–0.48909 | 0 | 2 |
-| [FETE-BETA-HT](#phase-fe-te-fete-beta-ht); _phase:fe-te:fete-beta-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [FETE_C38](#phase-fe-te-fete-c38); _phase:fe-te:fete-c38_ | Cu2Sb · C38 · tP6 · P4/nmm (129) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1117.04 K, x(Te) 0.44834–0.49076 | 0 | 2 |
 | [FETE_DELTA](#phase-fe-te-fete-delta); _phase:fe-te:fete-delta_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 788.46–1084.69 K, x(Te) 0.55292–0.65624 | 0 | 2 |
 | [FETE_GAMMA](#phase-fe-te-fete-gamma); _phase:fe-te:fete-gamma_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 909.74–1080.24 K, x(Te) 0.54191–0.54191 | 0 | 2 |
 | [FETE2_C18](#phase-fe-te-fete2-c18); _phase:fe-te:fete2-c18_ | alpha-FeS2 · C18 · oP6 · Pnnm (58) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–925.49 K, x(Te) 0.66667–0.68192 | 0 | 2 |
 | [HCP_A3](#phase-fe-te-hcp-a3); _phase:fe-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [ION](#phase-fe-te-ion); _phase:fe-te:ion_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 720.08–2500 K, x(Te) 0–1 | 0 | 2 |
-| [LIQUID](#phase-fe-te-liquid); _phase:fe-te:liquid_ | liquid | liquid | no calculated diagram | 0 | 0 |
 
 ## HEXAGONAL_A8 (Fe–Te)
 
@@ -142,7 +140,7 @@ _assessment that models this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-te:fete-beta)
 
-Names (3): _corpus: _corpus:phase:fe-te:fete-beta  
+Names (4): _corpus: _corpus:phase:fe-te:fete-beta, corpus:phase:fe-te:fete-beta-ht  
 _tdb: _tdb:FeTe-18Arv.tdb:FETE_BETA_HT, tdb:FeTe-19Arv.tdb:FETE_BETA_HT  
 
 
@@ -168,17 +166,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.051](https://doi.org/10.1016/j.jallcom.2018.07.051) C.-M. Arvhult, C. Guéneau, S. Gossé, M. Selleby, Thermodynamic assessment of the Fe-Te system. Part II: Thermodynamic modeling, Journal of Alloys and Compounds 767, 883-893 (2018).  
 _assessment that models this phase_
-
-## FETE-BETA-HT (Fe–Te)
-
-- Id: `phase:fe-te:fete-beta-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-te:fete-beta-ht)
-
-Names (1): _corpus: _corpus:phase:fe-te:fete-beta-ht  
-
 
 ## FETE_C38 (Fe–Te)
 
@@ -370,7 +357,7 @@ _assessment that models this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-te:ion)
 
-Names (3): _corpus: _corpus:phase:fe-te:ion  
+Names (4): _corpus: _corpus:phase:fe-te:ion, corpus:phase:fe-te:liquid  
 _tdb: _tdb:FeTe-18Arv.tdb:ION, tdb:FeTe-19Arv.tdb:ION  
 
 
@@ -396,17 +383,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2018.07.051](https://doi.org/10.1016/j.jallcom.2018.07.051) C.-M. Arvhult, C. Guéneau, S. Gossé, M. Selleby, Thermodynamic assessment of the Fe-Te system. Part II: Thermodynamic modeling, Journal of Alloys and Compounds 767, 883-893 (2018).  
 _assessment that models this phase_
-
-## LIQUID (Fe–Te)
-
-- Id: `phase:fe-te:liquid`; status `assigned`
-- Structure: liquid; type `st:liquid`; liquid; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-te:liquid)
-
-Names (1): _corpus: _corpus:phase:fe-te:liquid  
-
 
 ## Please cite
 

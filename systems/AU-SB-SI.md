@@ -1,10 +1,10 @@
 # Au–Sb–Si system
 
-> Au–Sb–Si system: 33 accepted literature values (invariant reaction 32, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Sb–Si system: 29 accepted literature values (invariant reaction 28, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SB-SI.html · Markdown: https://data.orchid-project.org/systems/AU-SB-SI.md
 
-33 accepted literature values from 1 paper(s) (experimental 18, model 15); 0 calculated phase diagram(s).
+29 accepted literature values from 1 paper(s) (experimental 16, model 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SB-SI.json) · [CSV](https://data.orchid-project.org/systems/AU-SB-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SB-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SB-SI.html) · [Markdown](https://data.orchid-project.org/systems/AU-SB-SI.md)
 
@@ -12,26 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
-| model | 15 |
+| experimental | 16 |
+| model | 13 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 28 |
 | phase transition | 1 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Sb–Si system (32)
+Table: Invariant reactions reported in the literature for the Au–Sb–Si system (28)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011; _cites Olesinski 1985_ [doi](https://doi.org/10.1007/bf02869508) | Table 1, p. 2, row 3 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | experimental | [1] Wang 2011; _cites Thurmond 1960_ [doi](https://doi.org/10.1002/j.1538-7305.1960.tb03927.x) | Table 1, p. 2, row 2 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.999, Si 0.001 | experimental | [1] Wang 2011; _cites Williams 1907_ [doi](https://doi.org/10.1002/zaac.19070550102) | Table 1, p. 2, row 1 |  |
-| 903 | eutectic: L \<-> (Sb) + (Si) | L: Sb 0.997, Si 0.003 | model | [1] Wang 2011 | Table 1, p. 2, row 4 |  |
 | 740 | peritectic: L + (Sb) \<-> AuSb2 | L: Sb 0.655 | model | [1] Wang 2011; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 15 |  |
 | 740 | peritectic: L + (Sb) \<-> AuSb2 |  | experimental | [1] Wang 2011; _cites Wallbrecht 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980143-8) | Table 1, p. 2, row 10 |  |
 | 734 | peritectic: L + (Sb) \<-> AuSb2 | L: Sb 0.663 | model | [1] Wang 2011; _cites Chevalier 1989_ [doi](https://doi.org/10.1016/0040-6031%2889%2987147-3) | Table 1, p. 2, row 13 |  |

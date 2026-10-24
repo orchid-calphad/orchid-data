@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Al6Mn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -12.38 | kJ/mol-atom | 1.05 | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -15.06 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -15 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -12.38 | kJ/mol-atom | 1.05 | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -15.06 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -15 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -115,7 +115,7 @@ Table: Enthalpies of formation, Gd–Ge system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -82 unspecified ± 2.6 | 1473 | experimental |  |  | [1] Chen 2008; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901342-x) | p. 2 | “Using direct-synthesis calorimetry, Meschel and Kleppa \[27\] determined the standard enthalpy of formation of Gd5 Ge3 to be -82.0 ± 2.6 kJ/mol-atoms at 1473 ± 2 K.” |
+| — |  | -82 unspecified ± 2.6 | 298.15 | experimental |  |  | [1] Chen 2008; _cites Meschel 1995_ [doi](https://doi.org/10.1016/0925-8388%2894%2901342-x) | p. 2 | “Using direct-synthesis calorimetry, Meschel and Kleppa \[27\] determined the standard enthalpy of formation of Gd5 Ge3 to be -82.0 ± 2.6 kJ/mol-atoms at 1473 ± 2 K.” |
 
 ## Other properties
 

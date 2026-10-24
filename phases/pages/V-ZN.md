@@ -1,10 +1,10 @@
 # V–Zn phases
 
-> V–Zn system: 8 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> V–Zn system: 8 phases (tier A 4, tier B 1, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/V-ZN.html · Markdown: https://data.orchid-project.org/phases/pages/V-ZN.md
 
-8 phases (tier A 4, tier C 1, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 4, tier B 1, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=V-ZN) · [full JSON](https://data.orchid-project.org/phases/systems/V-ZN.json) · [V–Zn system page](https://data.orchid-project.org/systems/V-ZN.html) · [Markdown](https://data.orchid-project.org/phases/pages/V-ZN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -17,7 +17,7 @@ Table: Phases of the V–Zn system (8)
 | [GAS](#phase-v-zn-gas); _phase:v-zn:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1179.8–4000 K, x(Zn) 0–1 | 0 | 2 |
 | [HCP_A3](#phase-v-zn-hcp-a3); _phase:v-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1177.01 K, x(Zn) 0.99975–1 | 2 | 2 |
 | [LIQUID](#phase-v-zn-liquid); _phase:v-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 691.85–3757.28 K, x(Zn) 0–1 | 6 | 2 |
-| [V4ZN5](#phase-v-zn-v4zn5); _phase:v-zn:v4zn5_ | V4Zn5 · tI18 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–943.15 K, x(Zn) 0.55556–0.55556 | 11 | 2 |
+| [V4ZN5](#phase-v-zn-v4zn5); _phase:v-zn:v4zn5_ | V4Zn5 · tI18 · I4/mmm (139) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–943.15 K, x(Zn) 0.55556–0.55556 | 11 | 2 |
 | [VZN16](#phase-v-zn-vzn16); _phase:v-zn:vzn16_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–700.54 K, x(Zn) 0.94118–0.94118 | 0 | 1 |
 | [VZN3_L12](#phase-v-zn-vzn3-l12); _phase:v-zn:vzn3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–896.13 K, x(Zn) 0.75–0.75 | 4 | 2 |
 
@@ -202,14 +202,15 @@ _assessment that models this phase_
 ## V4ZN5 (V–Zn)
 
 - Id: `phase:v-zn:v4zn5`; status `assigned`
-- Structure: V4Zn5 · tI18 · I4/mmm (139); type `st:v4zn5-ti18`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Structure: V4Zn5 · tI18 · I4/mmm (139); type `st:v4zn5-ti18`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: V 0.4444, Zn 0.5556
 - Stability: stable in 2 of 2 calculated diagram(s): 300–943.15 K, x(Zn) 0.55556–0.55556
 - Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zn:v4zn5)
 
-Names (5): _corpus: _corpus:phase:v-zn:v4zn5  
+Names (7): _corpus: _corpus:phase:v-zn:v4zn5  
+_mp: _mp:mp-aaaabtrv  
+_oqmd: _oqmd:oqmd-18177  
 _paper: _paper:10.1016/j.calphad.2009.12.003:V4Zn5, paper:10.1016/j.calphad.2011.05.005:V4Zn5  
 _tdb: _tdb:VZn-10Cha.tdb:V4ZN5, tdb:VZn-11Wu.tdb:V4ZN5  
 
@@ -240,8 +241,9 @@ _assessment that models this phase; reports values for this phase_
 ## VZN16 (V–Zn)
 
 - Id: `phase:v-zn:vzn16`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model
+- No structure assigned. Why: no_on_hull_entry_in_both; no_structure_token
 - Candidate (sgte_mmc2): (VZn16) — Hallstedt 2025 mmc2 row for VZN16: VZN16
+- Stoichiometry: V 0.0588, Zn 0.9412
 - Stability: stable in 1 of 1 calculated diagram(s): 300–700.54 K, x(Zn) 0.94118–0.94118
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zn:vzn16)
@@ -268,11 +270,15 @@ _assessment that models this phase_
 
 - Id: `phase:v-zn:vzn3-l12`; status `assigned`
 - Structure: AuCu3 · L1_2 · cP4 · Pm-3m (221); type `st:l1-2-aucu3-cp4`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaardi and oqmd-18189, space group 221
+- Stoichiometry: V 0.2500, Zn 0.7500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–896.13 K, x(Zn) 0.75–0.75
 - Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:v-zn:vzn3-l12)
 
-Names (4): _corpus: _corpus:phase:v-zn:vzn3-l12  
+Names (6): _corpus: _corpus:phase:v-zn:vzn3-l12  
+_mp: _mp:mp-aaaaardi  
+_oqmd: _oqmd:oqmd-18189  
 _paper: _paper:10.1016/j.calphad.2009.12.003:VZn3  
 _tdb: _tdb:VZn-10Cha.tdb:VZN3_L12, tdb:VZn-11Wu.tdb:VZN3_L12  
 

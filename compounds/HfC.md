@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of HfC
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -262.7 | kJ/mol (basis unstated) |  | 0.05 | 3 (kems_vapour, prior) |  |  |  | 3 |
-| -231.1 | kJ/mol (basis unstated) | 2.1 | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 2.1 |
-| -210.5 | kJ/mol (basis unstated) | 20.9 | 0.05 | 3 (kems_vapour, prior) |  |  |  | 20.9 |
-| -209.4 | kJ/mol (basis unstated) |  | 0.05 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -209.4 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -262.7 | kJ/mol (basis unstated) |  | 0.05 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 11.2 |
+| -231.1 | kJ/mol (basis unstated) | 2.1 | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2.1 |
+| -210.5 | kJ/mol (basis unstated) | 20.9 | 0.05 | 11.2 (kems_vapour, cleaned_below_threshold) |  |  |  | 20.9 |
+| -209.4 | kJ/mol (basis unstated) |  | 0.05 | 2 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 2 |
+| -209.4 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
 
 ## Sources
 

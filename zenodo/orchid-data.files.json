@@ -18,12 +18,12 @@
  ],
  "exclude": [],
  "n_files": 19,
- "total_bytes": 209702,
+ "total_bytes": 217132,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 33307,
-   "sha256": "b8ccd978b2806595ce1e027cbed84d085c816dc6260c950df5f031a3bfd0fef9"
+   "bytes": 38061,
+   "sha256": "60c9cd9470d8dd4d55dedbf8790b1c6f161b2419386b9585d513e0a1b8615f39"
   },
   {
    "path": "CITATION.cff",
@@ -32,8 +32,8 @@
   },
   {
    "path": "DATASET_CARD.md",
-   "bytes": 59582,
-   "sha256": "0c76d321e568f9e755b01f3c7334a7f7ab8eb85ff849b8433c863765a0fd0ade"
+   "bytes": 61916,
+   "sha256": "06e40d2d5a96d5ac8e6457d21f729aefa8602dd8a33de9fe2dfef27da33a6edd"
   },
   {
    "path": "LICENSE",
@@ -57,8 +57,8 @@
   },
   {
    "path": "parquet/MANIFEST.json",
-   "bytes": 24617,
-   "sha256": "5dabae65a6bee82dcf29dd4186f0e1172542c227dba8a818218132a8b45605dd"
+   "bytes": 24959,
+   "sha256": "fe157813f50f05e0cb428d7bad24556d4f3ecfa5ebd2ad8855e52fa161e28eac"
   },
   {
    "path": "zenodo/README.md",
@@ -68,7 +68,7 @@
   {
    "path": "zenodo/assessed-phase-assemblages.metadata.json",
    "bytes": 4073,
-   "sha256": "a2002fa426347bc5668f376aebaca6f830651eeaae8f8a80142c13d5eb26bc8c"
+   "sha256": "357fdf843cbee8579363b37725c5e15dc3838fdf22c451b346f1ef45d27b7a2a"
   },
   {
    "path": "zenodo/bibliography.metadata.json",

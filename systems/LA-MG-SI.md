@@ -1,10 +1,10 @@
 # La–Mg–Si system
 
-> La–Mg–Si system: 72 accepted literature values (crystal structure 48, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Mg–Si system: 49 accepted literature values (crystal structure 25, invariant reaction 24) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-MG-SI.html · Markdown: https://data.orchid-project.org/systems/LA-MG-SI.md
 
-72 accepted literature values from 1 paper(s) (experimental 24, model 48); 0 calculated phase diagram(s).
+49 accepted literature values from 1 paper(s) (experimental 5, model 44); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LA-MG-SI.json) · [CSV](https://data.orchid-project.org/systems/LA-MG-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-MG-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-MG-SI.html) · [Markdown](https://data.orchid-project.org/systems/LA-MG-SI.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 24 |
-| model | 48 |
+| experimental | 5 |
+| model | 44 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 24 |
-| crystal structure | 48 |
+| crystal structure | 25 |
 
 ## Invariant reactions (literature)
 
@@ -55,24 +55,12 @@ Table: Invariant reactions reported in the literature for the La–Mg–Si syste
 
 ## Other properties
 
-### Crystal structure (48)
+### Crystal structure (25)
 
 Table: Crystal structure, La–Mg–Si system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 1.037 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
-| Lattice a | 0.7889 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Mg 0, Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
-| Lattice a | 1.4822 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
-| Lattice a | 0.798 not_printed ± 6.000e-4 | 298.15 | La5Si3; _alloy: Mg 0, Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
-| Lattice a | 0.8034 not_printed ± 2.000e-4 | 298.15 | La5Si4; _alloy: Mg 0, Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
-| Lattice a | 0.3962 not_printed | 298.15 | LaMg; _alloy: Mg 0.5, Si 0_ | model | [1] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice a | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice a | 0.8774 not_printed | 298.15 | LaMg2; _alloy: Mg 0.666667, Si 0_ | model | [1] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 8 |  |
-| Lattice a | 0.7494 not_printed | 298.15 | LaMg3; _alloy: Mg 0.75, Si 0_ | model | [1] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 9 |  |
-| Lattice a | 0.842 not_printed ± 2.000e-4 | 298.15 | LaSi; _alloy: Mg 0, Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
-| Lattice a | 0.6347 not_printed ± 4.000e-4 | 298.15 | Mg2Si; _alloy: Mg 0.666667, Si 0.333333_ | model | [1] Zhou 2010; _cites Villars 1991_ | Table 1, p. 3, row 13 |  |
 | Lattice a | 0.78102 not_printed ± 9.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice a | 0.7839 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice a | 7.587 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |
@@ -86,18 +74,7 @@ Table: Crystal structure, La–Mg–Si system
 | Lattice a | 0.88 not_printed ± 1.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 19 |  |
 | Lattice a | 0.43048 not_printed ± 2.000e-5 | 298.15 | UNKNOWN; _alloy: Mg 0.4, Si 0.4_ | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 17 |  |
 | Lattice a | 7.561 Å ± 0.001 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 22 |  |
-| Lattice b | 1.033 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice b | 1.034 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice b | 0.4005 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Mg 0, Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
 | Lattice b | 0.4155 not_printed ± 1.000e-4 | 298.15 | UNKNOWN; _alloy: Mg 0, Si 0.666667_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 5 |  |
-| Lattice c | 1.024 not_printed | 298.15 | La2Mg17; _alloy: Mg 0.894737, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 11 |  |
-| Lattice c | 0.4424 not_printed ± 2.000e-4 | 298.15 | La3Si2; _alloy: Mg 0, Si 0.4_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 2 |  |
-| Lattice c | 1.0468 not_printed | 298.15 | La5Mg41; _alloy: Mg 0.891304, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 10 |  |
-| Lattice c | 1.413 not_printed ± 0.001 | 298.15 | La5Si3; _alloy: Mg 0, Si 0.375_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 1 |  |
-| Lattice c | 1.5407 not_printed ± 9.000e-4 | 298.15 | La5Si4; _alloy: Mg 0, Si 0.444444_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 3 |  |
-| Lattice c | 7.774 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice c | 7.749 not_printed | 298.15 | LaMg12; _alloy: Mg 0.923077, Si 0_ | experimental | [1] Zhou 2010; _cites Giovannini 1995_ [doi](https://doi.org/10.1007/bf02669789) | Table 1, p. 3, row 12 |  |
-| Lattice c | 0.6044 not_printed ± 1.000e-4 | 298.15 | LaSi; _alloy: Mg 0, Si 0.5_ | experimental | [1] Zhou 2010; _cites Bulanova 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901686-3) | Table 1, p. 3, row 4 |  |
 | Lattice c | 0.44433 not_printed ± 6.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice c | 0.44396 not_printed ± 4.000e-5 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 15 |  |
 | Lattice c | 4.4543 Å ± 6.000e-4 | 298.15 | UNKNOWN | model | [1] Zhou 2010; _cites De 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.07.012) | Table 1, p. 3, row 23 |  |

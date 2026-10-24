@@ -416,7 +416,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 11.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -442,7 +442,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 22.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -468,7 +468,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 34.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -494,7 +494,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 46.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -520,7 +520,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 61.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -546,7 +546,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 76.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -572,7 +572,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 94.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -598,7 +598,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 114.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -624,7 +624,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 134.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -650,7 +650,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 155.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -676,7 +676,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 176.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -702,7 +702,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 196.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -728,7 +728,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 217.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -754,7 +754,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 237.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -780,7 +780,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 260.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -806,7 +806,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 282.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -832,7 +832,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 289.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -858,7 +858,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 295.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -884,7 +884,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 307.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -910,7 +910,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 334.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -936,7 +936,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 362.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -962,7 +962,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 389.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -988,7 +988,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 417.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -1014,7 +1014,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 445.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -1040,7 +1040,7 @@
     "sigma_basis": "printed",
     "budget": {
      "sigma_printed": 474.0,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 500.0,
      "sigma_composition": null,
      "sigma_scatter": null,

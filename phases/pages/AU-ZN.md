@@ -23,7 +23,7 @@ Table: Phases of the Au–Zn system (15)
 | [AUZN3](#phase-au-zn-auzn3); _phase:au-zn:auzn3_ | UH3 · cP32 · Pm-3n (223) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–830 K, x(Zn) 0.75–0.75 | 2 | 1 |
 | [AUZN4](#phase-au-zn-auzn4); _phase:au-zn:auzn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 307.05–857.88 K, x(Zn) 0.80019–0.84616 | 8 | 1 |
 | [BCC_A2](#phase-au-zn-bcc-a2); _phase:au-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [FCC_A1](#phase-au-zn-fcc-a1); _phase:au-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1339.22 K, x(Zn) 0–0.34554 | 11 | 1 |
+| [FCC_A1](#phase-au-zn-fcc-a1); _phase:au-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1339.22 K, x(Zn) 0–0.34554 | 9 | 1 |
 | [HCP_A3](#phase-au-zn-hcp-a3); _phase:au-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–715.8 K, x(Zn) 0.95349–1 | 2 | 1 |
 | [HCP_IM_A3](#phase-au-zn-hcp-a3-im); _phase:au-zn:hcp-a3-im_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–762.99 K, x(Zn) 0.86866–0.90659 | 6 | 1 |
 | [LIQUID](#phase-au-zn-liquid); _phase:au-zn:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 692.68–2500 K, x(Zn) 0–1 | 16 | 1 |
@@ -381,11 +381,11 @@ _assessment that models this phase_
 - Id: `phase:au-zn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1339.22 K, x(Zn) 0–0.34554
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-zn:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:au-zn:fcc-a1  
-_paper: _paper:10.1016/s0966-9795(03)00115-8:(Au), paper:10.1016/s0966-9795(03)00115-8:fcc(Au)  
+Names (3): _corpus: _corpus:phase:au-zn:fcc-a1  
+_paper: _paper:10.1016/s0966-9795(03)00115-8:(Au)  
 _tdb: _tdb:AuZn-03Liu.tdb:FCC_A1  
 
 

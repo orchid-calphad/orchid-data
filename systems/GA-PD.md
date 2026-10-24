@@ -1,12 +1,25 @@
 # Ga–Pd system
 
-> Ga–Pd system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ga–Pd system: 16 accepted literature values (formation 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GA-PD.html · Markdown: https://data.orchid-project.org/systems/GA-PD.md
 
-0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (experimental 4, model 12); 1 calculated phase diagram(s).
 
-Data: [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PD/GaPd-99Gro.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PD.html) · [Markdown](https://data.orchid-project.org/systems/GA-PD.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/GA-PD.json) · [CSV](https://data.orchid-project.org/systems/GA-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GA-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GA-PD/GaPd-99Gro.json) · [phases (10)](https://data.orchid-project.org/phases/pages/GA-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GA-PD.html) · [Markdown](https://data.orchid-project.org/systems/GA-PD.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 4 |
+| model | 12 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| formation | 16 |
 
 ## Calculated phase diagrams
 
@@ -33,17 +46,60 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/GA/GA-PD.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GA/GA-PD.json)
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ga–Pd system (16)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -77 kJ/mol-atom | 1410 | experimental | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites El 1992_ [doi](https://doi.org/10.1007/bf02654034) | Table 1, p. 2, row 28 |  |
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -67.2 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999 | Table 1, p. 2, row 29 |  |
+| Pd2Ga | [GaPd2](https://data.orchid-project.org/compounds/GaPd2.html) | -66 kJ/mol-atom | 298.15 | model | -62.272 (mp-aaaaactx) | -61.947 (oqmd-18584) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 30 |  |
+| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -59 kJ/mol-atom | 1000 | experimental | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
+| Pd3Ga(b) | [GaPd3](https://data.orchid-project.org/compounds/GaPd3.html) | -50.3 kJ/mol-atom | 298.15 | model | -43.858 (mp-aaacpjxe) | -47.778 (oqmd-1338998) | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
+| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -61.4 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999 | Table 1, p. 2, row 39 |  |
+| Pd3Ga7 | [Ga7Pd3](https://data.orchid-project.org/compounds/Ga7Pd3.html) | -60 kJ/mol-atom | 298.15 | model | -42.994 (mp-aaackynp) | -42.648 (oqmd-22139) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 38 |  |
+| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -73.2 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999 | Table 1, p. 2, row 34 |  |
+| Pd5Ga3 | [Ga3Pd5](https://data.orchid-project.org/compounds/Ga3Pd5.html) | -72 kJ/mol-atom | 298.15 | model | -61.425 (mp-aaaaadoq) | -61.425 (oqmd-30321) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 33 |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79.4 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999 | Table 1, p. 2, row 36 |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -79 kJ/mol-atom | 298.15 | model | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 37 |  |
+| PdGa | [GaPd](https://data.orchid-project.org/compounds/GaPd.html) | -72 kJ/mol-atom | 320 | experimental | -63.934 (mp-aaacjjlu) | -63.587 (oqmd-23801) | [1] Gröbner 1999; _cites Pratt 1971_ | Table 1, p. 2, row 35 |  |
+| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -39.8 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999 | Table 1, p. 2, row 41 |  |
+| PdGa5 | [Ga5Pd](https://data.orchid-project.org/compounds/Ga5Pd.html) | -33 kJ/mol-atom | 298.15 | model | -24.79 (mp-aaaabtjg) | -24.149 (oqmd-17279) | [1] Gröbner 1999; _cites F 1988_ | Table 1, p. 2, row 40 |  |
+| Pg3Ga(b) |  | -59 kJ/mol-atom | 1000 | experimental |  |  | [1] Gröbner 1999; _cites Vogelbein 1981_ [doi](https://doi.org/10.1016/0040-6031%2881%2980036-6) | Table 1, p. 2, row 31 |  |
+| Pg3Ga(b) |  | -50.3 kJ/mol-atom | 298.15 | model |  |  | [1] Gröbner 1999 | Table 1, p. 2, row 32 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999). [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608)
+
 ## Please cite
 
+- R. Arróyave, J. Saal, D. Shin, ORCHID literature values (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-literature
 - R. Arróyave, J. Saal, D. Shin, ORCHID calculated binary phase diagrams (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-phase-diagrams
 - R. Arróyave, J. Saal, D. Shin, ORCHID binary convex hulls (Materials Project, OQMD, assessed CALPHAD) (version 2026.10), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-hulls
 - R. Arróyave, J. Saal, D. Shin, ORCHID data (version 2026.10; Version 1, machine-extracted), Zenodo (2026). https://doi.org/10.5281/zenodo.PENDING-orchid-data
 
-Also cite B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0); the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work).
+Also cite the original source of every value you use (paper_citation / paper_doi, and cited_dois for values the paper cites from earlier work); B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, https://doi.org/10.1016/j.calphad.2025.102833 (CC BY 4.0), and the original assessment named in each file; A. Jain et al., The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002, https://doi.org/10.1063/1.4812323 (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501, https://doi.org/10.1007/s11837-013-0755-4 and S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010, https://doi.org/10.1038/npjcompumats.2015.10 (CC BY 4.0).
 
 Version 1, machine-extracted: values were read from papers by language-model readers constrained to quote their source and checked automatically (quote verification, field-placement rule, printed-page sign checks, DFT and Kim et al. 2017 cross-checks); a hand-checked precision sample is in progress.
 
 ```bibtex
+@misc{orchid_literature_2026,
+  author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
+  title     = {{ORCHID literature values}},
+  version   = {2026.10},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.PENDING-literature},
+  url       = {https://doi.org/10.5281/zenodo.PENDING-literature},
+  note      = {Version 1, machine-extracted}
+}
+
 @misc{orchid_phase_diagrams_2026,
   author    = {Arr{\'o}yave, Raymundo and Saal, James and Shin, Dongwon},
   title     = {{ORCHID calculated binary phase diagrams}},

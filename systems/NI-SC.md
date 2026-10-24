@@ -1,10 +1,10 @@
 # Ni–Sc system
 
-> Ni–Sc system: 222 accepted literature values (invariant reaction 96, phase transition 45, formation 42, crystal structure 28) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ni–Sc system: 222 accepted literature values (invariant reaction 96, formation 45, phase transition 45, crystal structure 22) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NI-SC.html · Markdown: https://data.orchid-project.org/systems/NI-SC.md
 
-222 accepted literature values from 3 paper(s) (experimental 108, model 101, unspecified 13); 3 calculated phase diagram(s).
+222 accepted literature values from 4 paper(s) (experimental 104, model 107, unspecified 11); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NI-SC.json) · [CSV](https://data.orchid-project.org/systems/NI-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NI-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NI-SC/NiSc-13Kar.json) · [phases (10)](https://data.orchid-project.org/phases/pages/NI-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NI-SC.html) · [Markdown](https://data.orchid-project.org/systems/NI-SC.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 108 |
-| model | 101 |
-| unspecified | 13 |
+| experimental | 104 |
+| model | 107 |
+| unspecified | 11 |
 
 Table: Accepted values by property group
 
@@ -23,8 +23,9 @@ Table: Accepted values by property group
 | invariant reaction | 96 |
 | phase transition | 45 |
 | phase equilibrium | 11 |
-| formation | 42 |
-| crystal structure | 28 |
+| formation | 45 |
+| heat capacity / entropy / enthalpy | 3 |
+| crystal structure | 22 |
 
 ## Calculated phase diagrams
 
@@ -192,7 +193,7 @@ Table: Invariant reactions reported in the literature for the Ni–Sc system (96
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ni–Sc system (42)
+Table: Enthalpies of formation, Ni–Sc system (45)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -205,9 +206,11 @@ Table: Enthalpies of formation, Ni–Sc system (42)
 | Ni2Sc | [Ni2Sc](https://data.orchid-project.org/compounds/Ni2Sc.html) | -43 kJ/mol-atom ± 2.3 | 1473 | experimental | -50.261 (mp-aaaaabgs) | -50.606 (oqmd-17796) | [1] Kardellass 2013; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 8 |  |
 | Ni2Sc | [Ni2Sc](https://data.orchid-project.org/compounds/Ni2Sc.html) | -37.038 kJ/mol-atom | 298.15 | model | -50.261 (mp-aaaaabgs) | -50.606 (oqmd-17796) | [1] Kardellass 2013 | Table 2, p. 3, row 10 |  |
 | Ni2Sc | [Ni2Sc](https://data.orchid-project.org/compounds/Ni2Sc.html) | -34.996 kJ/mol-atom | 298.15 | model | -50.261 (mp-aaaaabgs) | -50.606 (oqmd-17796) | [1] Kardellass 2013 | Table 2, p. 3, row 9 |  |
+| Ni2Sc | [Ni2Sc](https://data.orchid-project.org/compounds/Ni2Sc.html) | -33.77 kJ/mol-atom | 298.15 | model | -50.261 (mp-aaaaabgs) | -50.606 (oqmd-17796) | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 11 |  |
 | Ni5Sc | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -29 kJ/mol-atom | 298.15 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [1] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 1 |  |
 | Ni5Sc | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -19.6 kJ/mol-atom | 298.15 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [1] Kardellass 2013 | Table 2, p. 3, row 3 |  |
 | Ni5Sc | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -19.126 kJ/mol-atom | 298.15 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [1] Kardellass 2013 | Table 2, p. 3, row 2 |  |
+| Ni5Sc | [Ni5Sc](https://data.orchid-project.org/compounds/Ni5Sc.html) | -17.59 kJ/mol-atom | 298.15 | model | -27.346 (mp-aaabgmez) | -27.824 (oqmd-17797) | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 7 |  |
 | Ni7Sc2 | [Ni7Sc2](https://data.orchid-project.org/compounds/Ni7Sc2.html) | -33 kJ/mol-atom | 298.15 | model | -37.558 (mp-aaacqdim) | -39.527 (oqmd-1799157) | [1] Kardellass 2013 | Table 2, p. 3, row 4 |  |
 | Ni7Sc2 | [Ni7Sc2](https://data.orchid-project.org/compounds/Ni7Sc2.html) | -25.75 kJ/mol-atom | 298.15 | model | -37.558 (mp-aaacqdim) | -39.527 (oqmd-1799157) | [1] Kardellass 2013 | Table 2, p. 3, row 6 |  |
 | Ni7Sc2 | [Ni7Sc2](https://data.orchid-project.org/compounds/Ni7Sc2.html) | -24.45 kJ/mol-atom | 298.15 | model | -37.558 (mp-aaacqdim) | -39.527 (oqmd-1799157) | [1] Kardellass 2013 | Table 2, p. 3, row 5 |  |
@@ -215,6 +218,7 @@ Table: Enthalpies of formation, Ni–Sc system (42)
 | NiSc | [NiSc](https://data.orchid-project.org/compounds/NiSc.html) | -56 kJ/mol-atom | 298.15 | model | -48.935 (mp-aaaaarbd) | -49.771 (oqmd-17795) | [1] Kardellass 2013; _cites Miedema_ | Table 2, p. 3, row 11 |  |
 | NiSc | [NiSc](https://data.orchid-project.org/compounds/NiSc.html) | -46.532 kJ/mol-atom | 298.15 | model | -48.935 (mp-aaaaarbd) | -49.771 (oqmd-17795) | [1] Kardellass 2013 | Table 2, p. 3, row 14 |  |
 | NiSc | [NiSc](https://data.orchid-project.org/compounds/NiSc.html) | -45.809 kJ/mol-atom | 298.15 | model | -48.935 (mp-aaaaarbd) | -49.771 (oqmd-17795) | [1] Kardellass 2013 | Table 2, p. 3, row 15 |  |
+| NiSc | [NiSc](https://data.orchid-project.org/compounds/NiSc.html) | -45.67 kJ/mol-atom | 298.15 | model | -48.935 (mp-aaaaarbd) | -49.771 (oqmd-17795) | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 15 |  |
 | NiSc | [NiSc](https://data.orchid-project.org/compounds/NiSc.html) | -44.7 kJ/mol-atom ± 2.3 | 1473 | experimental | -48.935 (mp-aaaaarbd) | -49.771 (oqmd-17795) | [1] Kardellass 2013; _cites Selhaoui 1993_ [doi](https://doi.org/10.1016/0925-8388%2893%2990287-w) | Table 2, p. 3, row 13 |  |
 | NiSc2 | [NiSc2](https://data.orchid-project.org/compounds/NiSc2.html) | -41 kJ/mol-atom | 298.15 | model | -34.396 (mp-aaabxjhl) | -36.147 (oqmd-1369418) | [1] Kardellass 2013; _cites F 1988_ | Table 2, p. 3, row 17 |  |
 | NiSc2 | [NiSc2](https://data.orchid-project.org/compounds/NiSc2.html) | -27.429 kJ/mol-atom | 298.15 | model | -34.396 (mp-aaabxjhl) | -36.147 (oqmd-1369418) | [1] Kardellass 2013 | Table 2, p. 3, row 18 |  |
@@ -311,15 +315,23 @@ Table: Phase equilibrium, Ni–Sc system
 | Phase assemblage |  | 1273 | Sc2Ni7 + ScNi2; _alloy: Ni 0.75, Sc 0.25_ | experimental | [3] Cao 2014 | Table 3, p. 3, row 3 |  |
 | Phase assemblage |  | 1273 | ScNi2 + ScNi; _alloy: Ni 0.55, Sc 0.45_ | experimental | [3] Cao 2014 | Table 3, p. 3, row 4 |  |
 
-### Crystal structure (28)
+### Heat capacity / entropy / enthalpy (3)
+
+Table: Heat capacity / entropy / enthalpy, Ni–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Entropies of formation_ | 29.38 J/mol-atom/K | 298.15 | Ni2Sc; _alloy: Ni 0.666667, Sc 0.333333_ | model | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 11 |  |
+| Entropy; _printed: Entropies of formation_ | 32.52 J/mol-atom/K | 298.15 | Ni5Sc; _alloy: Ni 0.833333, Sc 0.166667_ | model | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 7 |  |
+| Entropy; _printed: Entropies of formation_ | 23.12 J/mol-atom/K | 298.15 | NiSc; _alloy: Ni 0.5, Sc 0.5_ | model | [4] Kardellass 2016; _cites Kardellass 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.003) | Table 4, p. 7, row 15 |  |
+
+### Crystal structure (22)
 
 Table: Crystal structure, Ni–Sc system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 3.51 Å | 298.15 | (Ni); _(Ni): Ni 0.993, Sc 0.007_ | unspecified | [3] Cao 2014; _cites Maslenkov 2014_ | Table 2, p. 3, row 22 |  |
-| Lattice a | 3.296 Å | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice a | 4.73 Å | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
 | Lattice a | 12.12 Å | 298.15 | Sc2Ni; _alloy: Sc 0.666667_ | experimental | [3] Cao 2014; _cites Aldred 1962_ | Table 2, p. 3, row 20 |  |
 | Lattice a | 12.17 Å | 298.15 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 19 |  |
 | Lattice a | 4.74 Å | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
@@ -331,19 +343,15 @@ Table: Crystal structure, Ni–Sc system
 | Lattice a | 4.69 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
 | Lattice a | 4.745 Å | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
 | Lattice a | 4.74 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
-| Lattice a | 3.308 Å ± 0.008 | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
 | Lattice a | 3.292 Å ± 0.007 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
 | Lattice a | 12.18 Å ± 0.03 | 1053 | Sc2Ni; _Sc2Ni: Ni 0.28, Sc 0.72_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 21 |  |
 | Lattice a | 3.1718 Å ± 1.000e-4 | 1273 | ScNi; _ScNi: Ni 0.5, Sc 0.5_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 17 |  |
 | Lattice a | 6.938 Å ± 0.003 | 1273 | ScNi2 | experimental | [3] Cao 2014 | Table 2, p. 3, row 14 |  |
-| Lattice c | 5.235 Å | 298.15 | (αSc); _(αSc): Ni 0, Sc 1; (ɑSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 1 |  |
-| Lattice c | 3.18 Å | 298.15 | (βSc); _(βSc): Ni 0, Sc 1_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 4 |  |
 | Lattice c | 22.56 Å | 298.15 | Sc2Ni7; _alloy: Sc 0.222222_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 10 |  |
 | Lattice c | 22.72 Å | 298.15 | Sc2Ni7; _Sc2Ni7: Ni 0.7778, Sc 0.2222_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 9 |  |
 | Lattice c | 3.887 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | unspecified | [3] Cao 2014; _cites Braslayskaya 1987_ | Table 2, p. 3, row 7 |  |
 | Lattice c | 3.75 Å | 298.15 | ScNi5; _ScNi5: Ni 0.8333, Sc 0.1667_ | experimental | [3] Cao 2014; _cites Semenova 1997_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900467-2) | Table 2, p. 3, row 5 |  |
 | Lattice c | 3.76 Å | 298.15 | ScNi5; _alloy: Sc 0.166667_ | experimental | [3] Cao 2014; _cites Goebel 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990142-2) | Table 2, p. 3, row 6 |  |
-| Lattice c | 5.268 Å | 298.15 | UNKNOWN; _alloy: Sc 1_ | unspecified | [3] Cao 2014; _cites Saw 1983_ [doi](https://doi.org/10.1103/physrevb.27.7013) | Table 2, p. 3, row 2 |  |
 | Lattice c | 5.222 Å ± 0.007 | 1053 | (αSc); _(αSc): Ni 0.003, Sc 0.997; (ɑSc): Ni 0.003, Sc 0.997_ | experimental | [3] Cao 2014 | Table 2, p. 3, row 3 |  |
 
 ## Sources
@@ -353,6 +361,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. S. Kardellass, C. Servant, N. Selhaoui, A. Iddaoudi, M. Ait Amar, L. Bouirden, Thermodynamic description of the Ni–Sc system, Calphad 42, 59-65 (2013). [doi:10.1016/j.calphad.2013.07.003](https://doi.org/10.1016/j.calphad.2013.07.003)
 2. Daiman Zhu, Changrong Li, Cuiping Guo, Zhenmin Du, Junqin Li, Thermodynamic assessment of the Ni–Sc binary system, Calphad 48, 106-112 (2015). [doi:10.1016/j.calphad.2014.11.005](https://doi.org/10.1016/j.calphad.2014.11.005)
 3. Zhaoping Cao, Shuhong Liu, Xu Fang, Kaiming Cheng, Qiannan Gao, Yong Du et al., Experimental investigation and thermodynamic analysis of the Sc–Ni system supplemented with first-principles calculations, Thermochimica Acta 586, 30-39 (2014). [doi:10.1016/j.tca.2014.04.006](https://doi.org/10.1016/j.tca.2014.04.006)
+4. Saïd Kardellass, Colette Servant, Najim Selhaoui, Thermodynamic description of the Ni–Yb and Ni–Eu binary systems, J Therm Anal Calorim 125, 255-269 (2016). [doi:10.1007/s10973-016-5380-3](https://doi.org/10.1007/s10973-016-5380-3)
 
 ## Please cite
 

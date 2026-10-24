@@ -15,7 +15,7 @@ Table: Phases of the Ca–Fe system (4)
 | [BCC_A2](#phase-ca-fe-bcc-a2); _phase:ca-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2345.95 K, x(Fe) 0–1 | 0 | 2 |
 | [FCC_A1](#phase-ca-fe-fcc-a1); _phase:ca-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1667.47 K, x(Fe) 0–1 | 0 | 2 |
 | [HCP_A3](#phase-ca-fe-hcp-a3); _phase:ca-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ca-fe-liquid); _phase:ca-fe:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1115–2500 K, x(Fe) 0–1 | 1 | 2 |
+| [LIQUID](#phase-ca-fe-liquid); _phase:ca-fe:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1115–2500 K, x(Fe) 0–1 | 0 | 2 |
 
 ## BCC_A2 (Ca–Fe)
 
@@ -121,11 +121,10 @@ _assessment that models this phase_
 - Id: `phase:ca-fe:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1115–2500 K, x(Fe) 0–1
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-fe:liquid)
 
-Names (4): _corpus: _corpus:phase:ca-fe:liquid  
-_paper: _paper:10.1007/bf02646071:liquid  
+Names (3): _corpus: _corpus:phase:ca-fe:liquid  
 _tdb: _tdb:CaFe-13Sel.tdb:LIQUID, tdb:CaFe-90Hil.tdb:LIQUID  
 
 
@@ -148,7 +147,7 @@ _tdb: _tdb:CaFe-13Sel.tdb:LIQUID, tdb:CaFe-90Hil.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02646071](https://doi.org/10.1007/BF02646071) M. Hillert, M. Selleby, B. Sundman, Metall. Trans. A, 21A, 2759-76(1990).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## Please cite
 

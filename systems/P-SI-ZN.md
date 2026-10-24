@@ -1,10 +1,10 @@
 # P–Si–Zn system
 
-> P–Si–Zn system: 36 accepted literature values (crystal structure 16, formation 15, phase equilibrium 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Si–Zn system: 14 accepted literature values (formation 7, phase equilibrium 5, crystal structure 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-SI-ZN.html · Markdown: https://data.orchid-project.org/systems/P-SI-ZN.md
 
-36 accepted literature values from 1 paper(s) (experimental 22, model 8, DFT 2, unspecified 4); 0 calculated phase diagram(s).
+14 accepted literature values from 1 paper(s) (experimental 8, model 2, DFT 2, unspecified 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI-ZN.json) · [CSV](https://data.orchid-project.org/systems/P-SI-ZN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI-ZN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI-ZN.html) · [Markdown](https://data.orchid-project.org/systems/P-SI-ZN.md)
 
@@ -12,31 +12,27 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 22 |
-| model | 8 |
+| experimental | 8 |
+| model | 2 |
 | DFT | 2 |
-| unspecified | 4 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | phase equilibrium | 5 |
-| formation | 15 |
-| crystal structure | 16 |
+| formation | 7 |
+| crystal structure | 2 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, P–Si–Zn system (8)
+Table: Enthalpies of formation, P–Si–Zn system (4)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Zn3P2 | [Zn3P2](https://data.orchid-project.org/compounds/Zn3P2.html) | -30.3678 kJ/mol-atom | 298.15 | model | -18.169 (mp-aaaaadbr) | -27.768 (oqmd-14030) | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| ZnP2 |  | -127.4 kJ/mol (basis unstated) ± 7.5 | 298.15 | unspecified |  |  | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
-| ZnP2 |  | -126.85 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| ZnP2 |  | -92.9282 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
 | ZnSiP2 |  | -171.658 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
 | ZnSiP2 |  | -153.168 kJ/mol (basis unstated) | 298.15 | model |  |  | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
 | ZnSiP2 |  | -108.618 kJ/mol (basis unstated) | 298.15 | DFT |  |  | [1] Liu 2016; _cites Arab 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.08.012) | Table 4, p. 6, row 13 |  |
@@ -56,42 +52,24 @@ Table: Phase equilibrium, P–Si–Zn system
 | Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.002, Si 0.001, Zn 0.997; Zn3P2: P 0.435, Si 0.002, Zn 0.563; ZnSiP2: P 0.511, Si 0.241, Zn 0.248_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 3 |  |
 | Phase composition |  |  | η-Zn + Zn3P2 + ZnSiP2; _η-Zn: P 0.013, Si 0.002, Zn 0.985; Zn3P2: P 0.432, Si 0.002, Zn 0.566; ZnSiP2: P 0.521, Si 0.244, Zn 0.235_ | experimental | [1] Liu 2016 | Table 2, p. 5, row 2 |  |
 
-### Formation (7)
+### Formation (3)
 
 Table: Formation, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy of formation; _printed: ΔfG298_ | -31.7414 kJ/mol-atom | 298.15 | Zn3P2; _alloy: Si 0, Zn 0.6_ | model | [1] Liu 2016 | Table 4, p. 6, row 1 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -122.9 kJ/mol (basis unstated) ± 5.5 | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | unspecified | [1] Liu 2016; _cites Sirota 2016_ | Table 4, p. 6, row 8 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -126.2 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016; _cites Tu 2009_ [doi](https://doi.org/10.1016/j.calphad.2009.10.003) | Table 4, p. 6, row 9 |  |
-| Gibbs energy of formation; _printed: ΔfG298_ | -118.032 kJ/mol (basis unstated) | 298.15 | ZnP2; _alloy: Si 0, Zn 0.333333_ | model | [1] Liu 2016 | Table 4, p. 6, row 7 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -129.89 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | experimental | [1] Liu 2016; _cites Buehler 1971_ [doi](https://doi.org/10.1016/0022-0248%2871%2990260-0) | Table 4, p. 6, row 12 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -176.593 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | model | [1] Liu 2016 | Table 4, p. 6, row 10 |  |
 | Gibbs energy of formation; _printed: ΔfG298_ | -168.87 kJ/mol (basis unstated) | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | DFT | [1] Liu 2016; _cites Kumar 2014_ [doi](https://doi.org/10.1016/j.jallcom.2013.08.025) | Table 4, p. 6, row 14 |  |
 
-### Crystal structure (16)
+### Crystal structure (2)
 
 Table: Crystal structure, P–Si–Zn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.08 Å |  | β-Zn3P2; _alloy: Si 0, Zn 0.6_ | experimental | [1] Liu 2016; _cites Berak 1969_ | Table 1, p. 3, row 6 |  |
-| Lattice a | 8.85 Å |  | β-ZnP2; _alloy: Si 0, Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
-| Lattice a | 20.49 Å | 298.15 | SiP; _alloy: Si 0.5, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 13.97 Å | 298.15 | SiP2; _alloy: Si 0.333333, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
 | Lattice a | 5.4 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7 |  |
-| Lattice a | 8.089 Å | 298.15 | α-Zn3P2; _alloy: Si 0, Zn 0.6_ | experimental | [1] Liu 2016; _cites Pistorius 1977_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 5.08 Å | 298.15 | α-ZnP2; _alloy: Si 0, Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 3 |  |
-| Lattice b | 7.29 Å |  | β-ZnP2; _alloy: Si 0, Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
-| Lattice b | 13.61 Å | 298.15 | SiP; _alloy: Si 0.5, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
-| Lattice b | 10.08 Å | 298.15 | SiP2; _alloy: Si 0.333333, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
-| Lattice c | 7.56 Å |  | β-ZnP2; _alloy: Si 0, Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 5 |  |
-| Lattice c | 3.51 Å | 298.15 | SiP; _alloy: Si 0.5, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
-| Lattice c | 3.43 Å | 298.15 | SiP2; _alloy: Si 0.333333, Zn 0_ | experimental | [1] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
 | Lattice c | 10.438 Å | 298.15 | ZnSiP2; _alloy: Si 0.25, Zn 0.25_ | unspecified | [1] Liu 2016; _cites Madelung 2000_ | Table 1, p. 3, row 7 |  |
-| Lattice c | 11.407 Å | 298.15 | α-Zn3P2; _alloy: Si 0, Zn 0.6_ | experimental | [1] Liu 2016; _cites Pistorius 1977_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 18.59 Å | 298.15 | α-ZnP2; _alloy: Si 0, Zn 0.333333_ | experimental | [1] Liu 2016; _cites Hegyi 1963_ [doi](https://doi.org/10.1016/0022-3697%2863%2990140-9) | Table 1, p. 3, row 3 |  |
 
 ## Sources
 

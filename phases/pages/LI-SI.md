@@ -16,14 +16,14 @@ Table: Phases of the Li–Si system (14)
 | [BCC_A2](#phase-li-si-bcc-a2); _phase:li-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–453.57 K, x(Si) 0–0 | 5 | 3 |
 | [FCC_A1](#phase-li-si-fcc-a1); _phase:li-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-li-si-hcp-a3); _phase:li-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [LI12SI7](#phase-li-si-li12si7); _phase:li-si:li12si7_ | Li12Si7 · oP152 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–924.75 K, x(Si) 0.36842–0.36842 | 21 | 3 |
-| [LI13SI4](#phase-li-si-li13si4); _phase:li-si:li13si4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529 | 26 | 3 |
+| [LI12SI7](#phase-li-si-li12si7); _phase:li-si:li12si7_ | Li12Si7 · oP152 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–924.75 K, x(Si) 0.36842–0.36842 | 24 | 3 |
+| [LI13SI4](#phase-li-si-li13si4); _phase:li-si:li13si4_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529 | 29 | 3 |
 | [LI15SI4_D86](#phase-li-si-li15si4-d86); _phase:li-si:li15si4-d86_ | Cu15Si4 · D8_6 · cI76 · I-43d (220) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 1 | 1 |
 | [LI17SI4](#phase-li-si-li17si4); _phase:li-si:li17si4_ | Li17Si4 · cF420 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–803.64 K, x(Si) 0.19048–0.19048 | 13 | 2 |
 | [LI21SI5](#phase-li-si-li21si5); _phase:li-si:li21si5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 730.94–893.07 K, x(Si) 0.19231–0.19589 | 5 | 2 |
-| [LI22SI5](#phase-li-si-li22si5); _phase:li-si:li22si5_ | Li21Si5 · cF416 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–956.72 K, x(Si) 0.18519–0.18519 | 7 | 1 |
+| [LI22SI5](#phase-li-si-li22si5); _phase:li-si:li22si5_ | Li21Si5 · cF416 · F-43m (216) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–956.72 K, x(Si) 0.18519–0.18519 | 8 | 1 |
 | [LI33SI8](#phase-li-si-li33si8); _phase:li-si:li33si8_ | Li33Si8 · mP82 · Pm (6) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–902.17 K, x(Si) 0.19512–0.19512 | 0 | 1 |
-| [LI7SI3](#phase-li-si-li7si3); _phase:li-si:li7si3_ | Li7Si3 · hP60 · P3_212 (153) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1026.82 K, x(Si) 0.3–0.3 | 21 | 3 |
+| [LI7SI3](#phase-li-si-li7si3); _phase:li-si:li7si3_ | Li7Si3 · hP60 · P3_212 (153) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1026.82 K, x(Si) 0.3–0.3 | 19 | 3 |
 | [LIQUID](#phase-li-si-liquid); _phase:li-si:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 453.55–2500 K, x(Si) 0–1 | 87 | 3 |
 | [LISI](#phase-li-si-lisi); _phase:li-si:lisi_ | GeLi · tI32 · I4_1/a (88) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–757.19 K, x(Si) 0.5–0.5 | 8 | 2 |
 
@@ -219,11 +219,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.6316, Si 0.3684
 - Stability: stable in 3 of 3 calculated diagram(s): 300–924.75 K, x(Si) 0.36842–0.36842
-- Literature: 21 values (21 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:li12si7)
 
-Names (6): _corpus: _corpus:phase:li-si:li12si7  
-_paper: _paper:10.1016/j.intermet.2013.06.003:L12Si7, paper:10.1016/j.intermet.2017.02.024:Li12Si7  
+Names (7): _corpus: _corpus:phase:li-si:li12si7  
+_paper: _paper:10.1016/j.intermet.2013.06.003:L12Si7, paper:10.1016/j.intermet.2017.02.024:Li12Si7, paper:10.1016/j.jallcom.2018.07.211:Li12Si7  
 _tdb: _tdb:LiSi-13Wan.tdb:LI12SI7, tdb:LiSi-14Bra.tdb:LI12SI7, tdb:LiSi-17Lia.tdb:LI12SI7  
 
 
@@ -250,7 +250,7 @@ _tdb: _tdb:LiSi-13Wan.tdb:LI12SI7, tdb:LiSi-14Bra.tdb:LI12SI7, tdb:LiSi-17Lia.td
 76: CONST LI12SI7 : LI : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.intermet.2017.02.024](https://doi.org/10.1016/j.intermet.2017.02.024) Song-Mao Liang, Franziska Taubert, Artem Kozlov, Jürgen Seidel, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamics of Li-Si and Li-Si-H phase diagrams applied to hydrogen absorption and Li-ion batteries, Intermetallics 81, 32-46 (2017).  
 _assessment that models this phase; reports values for this phase_
@@ -260,6 +260,12 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1002/cber.19861191207](https://doi.org/10.1002/cber.19861191207) Reinhard Nesper, Hans Georg von Schnering, Jan Curda, Li\<sub>12\</sub>Si\<sub>7\</sub>, eine Verbindung mit trigonal‐planaren Si\<sub>4\</sub>‐Clustern und isometrischen Si\<sub>5\</sub>‐Ringen, Chem. Ber. 119, 3576-3590 (1986).  
 _cited as the source of values for this phase_
+- [doi:10.1007/bf03029305](https://doi.org/10.1007/bf03029305) H. Okamoto, The LieSi (LithiumeSilicon) system, Bull. Alloy Phase Diagr. 11 (1990) 306e312.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2015.06.007](https://doi.org/10.1016/j.calphad.2015.06.007) Z.H. Long, C.H. Tang, J. Ding, J. Gong, F.C. Yin, Z.P. Jin, Experimental investigation and thermodynamic description of the LieSieNi ternary system, Calphad 51 (2015) 13e23.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
+_reports values for this phase_
 - [doi:10.1002/anie.199314421](https://doi.org/10.1002/anie.199314421) Jürgen Evers, Gilbert Oehlinger, Gerhard Sextl, High‐Pressure Synthesis of LiSi: Three‐Dimensional Network of Three‐Bonded Si\<sup>−\</sup> Ions, Angew. Chem. Int. Ed. Engl. 32, 1442-1444 (1993).  
 _cited as the source of values for this phase_
 - [doi:10.1149/2.089308jes](https://doi.org/10.1149/2.089308jes) Wan Si Tang, Jean-Noël Chotard, Raphaël Janot, Synthesis of Single-Phase LiSi by Ball-Milling: Electrochemical Behavior and Hydrogenation Properties, J. Electrochem. Soc. 160, A1232-A1240 (2013).  
@@ -278,11 +284,11 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Li13Si4 · mP34 · Pm — LiSi-17Lia.tdb: 'Prototype Li13Si4 (mP34, Pm)'
 - Stoichiometry: Li 0.7647, Si 0.2353
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1005.27 K, x(Si) 0.23529–0.23529
-- Literature: 26 values (26 accepted) from 2 papers
+- Literature: 29 values (29 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:li13si4)
 
-Names (7): _corpus: _corpus:phase:li-si:li13si4  
-_paper: _paper:10.1016/j.intermet.2013.06.003:L13Si4, paper:10.1016/j.intermet.2013.06.003:Li13Si4, paper:10.1016/j.intermet.2017.02.024:Li13Si4  
+Names (8): _corpus: _corpus:phase:li-si:li13si4  
+_paper: _paper:10.1016/j.intermet.2013.06.003:L13Si4, paper:10.1016/j.intermet.2013.06.003:Li13Si4, paper:10.1016/j.intermet.2017.02.024:Li13Si4, paper:10.1016/j.jallcom.2018.07.211:Li13Si4  
 _tdb: _tdb:LiSi-13Wan.tdb:LI13SI4, tdb:LiSi-14Bra.tdb:LI13SI4, tdb:LiSi-17Lia.tdb:LI13SI4  
 
 
@@ -309,7 +315,7 @@ _tdb: _tdb:LiSi-13Wan.tdb:LI13SI4, tdb:LiSi-14Bra.tdb:LI13SI4, tdb:LiSi-17Lia.td
 66: CONST LI13SI4 : LI : SI : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.intermet.2017.02.024](https://doi.org/10.1016/j.intermet.2017.02.024) Song-Mao Liang, Franziska Taubert, Artem Kozlov, Jürgen Seidel, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamics of Li-Si and Li-Si-H phase diagrams applied to hydrogen absorption and Li-ion batteries, Intermetallics 81, 32-46 (2017).  
 _assessment that models this phase; reports values for this phase_
@@ -319,6 +325,12 @@ _assessment that models this phase; cited as the source of values for this phase
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1021/cm400612k](https://doi.org/10.1021/cm400612k) Michael Zeilinger, Daryn Benson, Ulrich Häussermann, Thomas F. Fässler, Single Crystal Growth and Thermodynamic Stability of Li\<sub>17\</sub>Si\<sub>4\</sub>, Chem. Mater. 25, 1960-1967 (2013).  
 _cited as the source of values for this phase_
+- [doi:10.1007/bf03029305](https://doi.org/10.1007/bf03029305) H. Okamoto, The LieSi (LithiumeSilicon) system, Bull. Alloy Phase Diagr. 11 (1990) 306e312.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2015.06.007](https://doi.org/10.1016/j.calphad.2015.06.007) Z.H. Long, C.H. Tang, J. Ding, J. Gong, F.C. Yin, Z.P. Jin, Experimental investigation and thermodynamic description of the LieSieNi ternary system, Calphad 51 (2015) 13e23.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
+_reports values for this phase_
 - [doi:10.1515/znb-1975-1-204](https://doi.org/10.1515/znb-1975-1-204) Ursula Frank, Wiking Müller, Herbert Schäfer, Zur Kenntnis der Phase Li\<sub>13\</sub>Si\<sub>4\</sub> / On the Phase Li\<sub>13\</sub>Si\<sub>4\</sub>, Zeitschrift für Naturforschung B 30, 10-13 (1975).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jct.2015.01.004](https://doi.org/10.1016/j.jct.2015.01.004) Daniel Thomas, Michael Zeilinger, Daniel Gruner, Regina Hüttl, Jürgen Seidel, Anja U.B. Wolter et al., The heat capacity and entropy of the lithium silicides Li17Si4 and Li16.42Si4 in the temperature range from (2 to 873) K, The Journal of Chemical Thermodynamics 85, 178-190 (2015).  
@@ -447,11 +459,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.8148, Si 0.1852
 - Stability: stable in 1 of 1 calculated diagram(s): 300–956.72 K, x(Si) 0.18519–0.18519
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 8 values (8 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:li22si5)
 
-Names (4): _corpus: _corpus:phase:li-si:li22si5  
-_paper: _paper:10.1016/j.intermet.2013.06.003:L22Si5, paper:10.1016/j.intermet.2017.02.024:Li22Si5  
+Names (5): _corpus: _corpus:phase:li-si:li22si5  
+_paper: _paper:10.1016/j.intermet.2013.06.003:L22Si5, paper:10.1016/j.intermet.2017.02.024:Li22Si5, paper:10.1016/j.jallcom.2018.07.211:Li22Si5  
 _tdb: _tdb:LiSi-13Wan.tdb:LI22SI5  
 
 
@@ -464,11 +476,17 @@ _tdb: _tdb:LiSi-13Wan.tdb:LI22SI5
 51: CONST LI22SI5 : LI : SI : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.intermet.2013.06.003](https://doi.org/10.1016/j.intermet.2013.06.003) Peisheng Wang, Artem Kozlov, Daniel Thomas, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamic analysis of the Li–Si phase equilibria from 0 K to liquidus temperatures, Intermetallics 42, 137-145 (2013).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2017.02.024](https://doi.org/10.1016/j.intermet.2017.02.024) Song-Mao Liang, Franziska Taubert, Artem Kozlov, Jürgen Seidel, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamics of Li-Si and Li-Si-H phase diagrams applied to hydrogen absorption and Li-ion batteries, Intermetallics 81, 32-46 (2017).  
+_reports values for this phase_
+- [doi:10.1007/bf03029305](https://doi.org/10.1007/bf03029305) H. Okamoto, The LieSi (LithiumeSilicon) system, Bull. Alloy Phase Diagr. 11 (1990) 306e312.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2015.06.007](https://doi.org/10.1016/j.calphad.2015.06.007) Z.H. Long, C.H. Tang, J. Ding, J. Gong, F.C. Yin, Z.P. Jin, Experimental investigation and thermodynamic description of the LieSieNi ternary system, Calphad 51 (2015) 13e23.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
 _reports values for this phase_
 - [doi:10.1149/1.2132692](https://doi.org/10.1149/1.2132692) Ram A. Sharma, Randall N. Seefurth, Thermodynamic Properties of the Lithium‐Silicon System, J. Electrochem. Soc. 123, 1763-1768 (1976).  
 _cited as the source of values for this phase_
@@ -512,11 +530,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.7000, Si 0.3000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1026.82 K, x(Si) 0.3–0.3
-- Literature: 21 values (21 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-si:li7si3)
 
 Names (7): _corpus: _corpus:phase:li-si:li7si3  
-_paper: _paper:10.1016/j.intermet.2013.06.003:L7Si3, paper:10.1016/j.intermet.2013.06.003:Li7Si3, paper:10.1016/j.intermet.2017.02.024:Li7Si3  
+_paper: _paper:10.1016/j.intermet.2013.06.003:Li7Si3, paper:10.1016/j.intermet.2017.02.024:Li7Si3, paper:10.1016/j.jallcom.2018.07.211:Li7Si3  
 _tdb: _tdb:LiSi-13Wan.tdb:LI7SI3, tdb:LiSi-14Bra.tdb:LI7SI3, tdb:LiSi-17Lia.tdb:LI7SI3  
 
 
@@ -543,7 +561,7 @@ _tdb: _tdb:LiSi-13Wan.tdb:LI7SI3, tdb:LiSi-14Bra.tdb:LI7SI3, tdb:LiSi-17Lia.tdb:
 71: CONST LI7SI3 : LI : SI : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1016/j.intermet.2017.02.024](https://doi.org/10.1016/j.intermet.2017.02.024) Song-Mao Liang, Franziska Taubert, Artem Kozlov, Jürgen Seidel, Florian Mertens, Rainer Schmid-Fetzer, Thermodynamics of Li-Si and Li-Si-H phase diagrams applied to hydrogen absorption and Li-ion batteries, Intermetallics 81, 32-46 (2017).  
 _assessment that models this phase; reports values for this phase_
@@ -551,6 +569,12 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.06.212](https://doi.org/10.1016/j.jallcom.2014.06.212) M. Helena Braga, Adam Dębski, Władysław Gąsior, Li–Si phase diagram: Enthalpy of mixing, thermodynamic stability, and coherent assessment, Journal of Alloys and Compounds 616, 581-593 (2014).  
 _assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1007/bf03029305](https://doi.org/10.1007/bf03029305) H. Okamoto, The LieSi (LithiumeSilicon) system, Bull. Alloy Phase Diagr. 11 (1990) 306e312.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2015.06.007](https://doi.org/10.1016/j.calphad.2015.06.007) Z.H. Long, C.H. Tang, J. Ding, J. Gong, F.C. Yin, Z.P. Jin, Experimental investigation and thermodynamic description of the LieSieNi ternary system, Calphad 51 (2015) 13e23.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2018.07.211](https://doi.org/10.1016/j.jallcom.2018.07.211) Zhaohui Long, Xiaorong Dai, Zhi Li, Fucheng Yin, Zhanpeng Jin, Experimental investigation and thermodynamic description of the Li–Si–Mn ternary system, Journal of Alloys and Compounds 768, 686-696 (2018).  
+_reports values for this phase_
 
 ## LIQUID (Li–Si)
 

@@ -1,10 +1,10 @@
 # H–Ti phases
 
-> H–Ti system: 7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> H–Ti system: 7 phases (tier A 3, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/H-TI.html · Markdown: https://data.orchid-project.org/phases/pages/H-TI.md
 
-7 phases (tier A 4, liquid 1, gas 1, needs_review 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier A 3, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=H-TI) · [full JSON](https://data.orchid-project.org/phases/systems/H-TI.json) · [H–Ti system page](https://data.orchid-project.org/systems/H-TI.html) · [Markdown](https://data.orchid-project.org/phases/pages/H-TI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the H–Ti system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-h-ti-bcc-a2); _phase:h-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 561.33–2259.99 K, x(H) 0–0.52817 | 8 | 5 |
-| [FCC_A1](#phase-h-ti-fcc-a1); _phase:h-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–948.24 K, x(H) 0.50248–0.66667 | 10 | 5 |
+| [FCC_A1](#phase-h-ti-fcc-a1); _phase:h-ti:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 5 of 5 calculated diagram(s): 300–948.24 K, x(H) 0.50248–0.66667 | 0 | 5 |
 | [GAS](#phase-h-ti-gas); _phase:h-ti:gas_ | gas | gas | stable in 5 of 5 calculated diagram(s): 300–2500 K, x(H) 1–1 | 0 | 5 |
 | [HCP_A3](#phase-h-ti-hcp-a3); _phase:h-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–2259.99 K, x(H) 0–0.10002 | 6 | 5 |
 | [LIQUID](#phase-h-ti-liquid); _phase:h-ti:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 1486–2500 K, x(H) 0–0.09203 | 5 | 5 |
@@ -84,13 +84,12 @@ _assessment that models this phase_
 ## FCC_A1 (H–Ti)
 
 - Id: `phase:h-ti:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–948.24 K, x(H) 0.50248–0.66667
-- Literature: 10 values (10 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:h-ti:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:h-ti:fcc-a1  
-_paper: _paper:10.1016/j.calphad.2010.07.001:δ  
+Names (6): _corpus: _corpus:phase:h-ti:fcc-a1  
 _tdb: _tdb:TiH-00Koe.tdb:FCC_A1, tdb:TiH-07Uki.tdb:FCC_A1, tdb:TiH-08Qiu.tdb:FCC_A1, tdb:TiH-10Wan.tdb:FCC_A1, tdb:TiH-87Kiv.tdb:FCC_A1  
 
 
@@ -133,11 +132,11 @@ _tdb: _tdb:TiH-00Koe.tdb:FCC_A1, tdb:TiH-07Uki.tdb:FCC_A1, tdb:TiH-08Qiu.tdb:FCC
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2010.07.001](https://doi.org/10.1016/j.calphad.2010.07.001) Kun Wang, Xiangcheng Kong, Junlin Du, Chonghe Li, Zhilin Li, Zhu Wu, Thermodynamic description of the Ti–H system, Calphad 34, 317-323 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(87)90014-9](https://doi.org/10.1016/0364-5916%2887%2990014-9) J.K. Kivilahti, J.M. Miettinen, A thermodynamic analysis of the ti-h system, Calphad 11, 187-199 (1987).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2008.08.005](https://doi.org/10.1016/j.calphad.2008.08.005) Caian Qiu, Susanne M. Opalka, Ole M. Løvvik, Gregory B. Olson, Thermodynamic modeling of the Na–Al–Ti–H system and Ti dissolution in sodium alanates, Calphad 32, 624-636 (2008).  
+_assessment that models this phase_
+- [doi:10.1016/j.calphad.2010.07.001](https://doi.org/10.1016/j.calphad.2010.07.001) Kun Wang, Xiangcheng Kong, Junlin Du, Chonghe Li, Zhilin Li, Zhu Wu, Thermodynamic description of the Ti–H system, Calphad 34, 317-323 (2010).  
 _assessment that models this phase_
 - [doi:10.2320/jinstmet.71.721](https://doi.org/10.2320/jinstmet.71.721) Shusuke Ukita, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ti-H and Zr-H Binary Phase Diagrams, J. Japan Inst. Metals 71, 721-729 (2007).  
 _assessment that models this phase_

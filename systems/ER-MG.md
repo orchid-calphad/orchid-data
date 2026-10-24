@@ -1,10 +1,10 @@
 # Er–Mg system
 
-> Er–Mg system: 8 accepted literature values (invariant reaction 6, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–Mg system: 7 accepted literature values (invariant reaction 5, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-MG.html · Markdown: https://data.orchid-project.org/systems/ER-MG.md
 
-8 accepted literature values from 1 paper(s) (unspecified 8); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (unspecified 7); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-MG.json) · [CSV](https://data.orchid-project.org/systems/ER-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-MG/ErMg-02Cac.json) · [phases (7)](https://data.orchid-project.org/phases/pages/ER-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-MG.html) · [Markdown](https://data.orchid-project.org/systems/ER-MG.md)
 
@@ -12,13 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 8 |
+| unspecified | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 6 |
+| invariant reaction | 5 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -51,7 +51,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Er–Mg system (6)
+Table: Invariant reactions reported in the literature for the Er–Mg system (5)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -60,7 +60,6 @@ Table: Invariant reactions reported in the literature for the Er–Mg system (6)
 | 953.15 | eutectoid: "(βEr)" -> MgEr + (Er) | "(βEr)": Mg 0.305; MgEr: Mg 0.5; (Er): Mg 0.13 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 6 |  |
 | 943.15 | peritectic: L + MgEr -> Mg2Er | L: Mg 0.8; MgEr: Mg 0.5; Mg2Er: Mg 0.667 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 4 |  |
 | 873.15 | peritectic: L + Mg2Er -> Mg24Er5 | L: Mg 0.85; Mg2Er: Mg 0.667; Mg24Er5: Mg 0.828 | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 3 |  |
-| 843.15 | eutectic: L -> (Mg) + Mg24Er5 | L: Mg 0.895; (Mg): Mg 0.931; Mg24Er5: Mg -0.72 (basis unresolved) | unspecified | [1] Okamoto 1992 | Table 1, p. 2, row 2 |  |
 
 ## Other properties
 

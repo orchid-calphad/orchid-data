@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al2Np.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html)
+Systems: [Al–Np](https://data.orchid-project.org/systems/AL-NP.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al2Np reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -110.2 kJ/mol (basis unstated) | NpAl2 |  | model |  | [Al–Np–Pu–U](https://data.orchid-project.org/systems/AL-NP-PU-U.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
+| -110.2 kJ/mol (basis unstated) | NpAl2 |  | model |  | [Al–Np](https://data.orchid-project.org/systems/AL-NP.html) | [1] Sedmidubský 2010 | Table 2, p. 3, row 2 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al2Np
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -110.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -110.2 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

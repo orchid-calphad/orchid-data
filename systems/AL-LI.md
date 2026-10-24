@@ -1,10 +1,10 @@
 # Al–Li system
 
-> Al–Li system: 37 accepted literature values (invariant reaction 31, phase transition 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Li system: 99 accepted literature values (formation 47, invariant reaction 30, crystal structure 16, phase transition 6) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-LI.html · Markdown: https://data.orchid-project.org/systems/AL-LI.md
 
-37 accepted literature values from 4 paper(s) (experimental 14, model 18, unspecified 5); 7 calculated phase diagram(s).
+99 accepted literature values from 4 paper(s) (experimental 16, model 44, DFT 25, unspecified 14); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-LI.json) · [CSV](https://data.orchid-project.org/systems/AL-LI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-LI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-LI/AlLi-07Hal-condensed.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AL-LI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-LI.html) · [Markdown](https://data.orchid-project.org/systems/AL-LI.md)
 
@@ -12,16 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 18 |
-| unspecified | 5 |
+| experimental | 16 |
+| model | 44 |
+| DFT | 25 |
+| unspecified | 14 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 31 |
+| invariant reaction | 30 |
 | phase transition | 6 |
+| formation | 47 |
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -119,7 +122,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Li system (31)
+Table: Invariant reactions reported in the literature for the Al–Li system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -139,7 +142,6 @@ Table: Invariant reactions reported in the literature for the Al–Li system (31
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.567; L: Li 0.745; Al2Li3: Li 0.6 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 15 |  |
 | 793 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.5; Al2Li3: Li 0.6 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 13 |  |
 | 792 | AlLi + L ↔ Al2Li3 | AlLi: Li 0.58; L: Li 0.756; Al2Li3: Li 0.667 | experimental | [2] Long 2020; _cites Schurmann 1981_ | Table 3, p. 5, row 14 |  |
-| 620 | Al2Li3 + L ↔ Al4Li9 | Al2Li3: Li 0.6; L: Li 9.208 (basis unresolved); Al4Li9: Li 0.692 | experimental | [2] Long 2020; _cites Pulham 1994_ [doi](https://doi.org/10.1007/bf02647619) | Table 3, p. 5, row 18 |  |
 | 610 | Al2Li3 + L ↔ Al4Li9 | Al2Li3: Li 0.6; L: Li 0.916; Al4Li9: Li 0.692308 | model | [2] Long 2020 | Table 3, p. 5, row 20 |  |
 | 610 | Al2Li3 + L ↔ Al4Li9 | Al2Li3: Li 0.6; L: Li 0.916; Al4Li9: Li 0.692308 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 19 |  |
 | 608 | Al2Li3 + L ↔ Al4Li9 | Al2Li3: Li 0.6; Al4Li9: Li 0.692 | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 17 |  |
@@ -155,6 +157,62 @@ Table: Invariant reactions reported in the literature for the Al–Li system (31
 | 452.3 | L + Al4Li9 ↔ bcc(Li) | L: Li 0.9957; Al4Li9: Li 0.692; bcc(Li): Li 0.9932 | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 23 |  |
 | 447.8 | eutectic: Liquid -> Al4Li9 + bcc-A2 | Liquid: Li 0.989; Al4Li9: Li 0.692; bcc-A2: Li 0.999 | unspecified | [1] Hämäläinen 1998 | Table I, p. 58, row 4 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–Li system (47)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Al2Li3 |  | -21.1 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 145 |  |
+| Al2Li3 | [Al2Li3](https://data.orchid-project.org/compounds/Al2Li3.html) | -19.1 kJ/mol-atom | 298.15 | experimental | -17.867 (mp-aaaaaykw) | -18.525 (oqmd-10488) | [2] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 146 |  |
+| Al2Li3 |  | -19 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 144 |  |
+| Al2Li3 | [Al2Li3](https://data.orchid-project.org/compounds/Al2Li3.html) | -18.8 kJ/mol-atom |  | model | -17.867 (mp-aaaaaykw) | -18.525 (oqmd-10488) | [2] Long 2020 | Table 4, p. 7, row 143 |  |
+| Al2Li3 | [Al2Li3](https://data.orchid-project.org/compounds/Al2Li3.html) | -18.8 kJ/mol-atom |  | model | -17.867 (mp-aaaaaykw) | -18.525 (oqmd-10488) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 147 |  |
+| Al3Li(D03) | [Al3Li](https://data.orchid-project.org/compounds/Al3Li.html) | -5 kJ/mol-atom |  | model | -9.552 (mp-aaaaaqcw) | 0.112 (oqmd-314565) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 162 |  |
+| Al3Li(D03) | [Al3Li](https://data.orchid-project.org/compounds/Al3Li.html) | -5 kJ/mol-atom |  | model | -9.552 (mp-aaaaaqcw) | 0.112 (oqmd-314565) | [2] Long 2020 | Table 4, p. 7, row 159 |  |
+| Al3Li(D03) |  | -3.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 161 |  |
+| Al3Li(D03) |  | 1.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 160 |  |
+| Al3Li(L12) |  | -11.1 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 155 |  |
+| Al3Li(L12) |  | -10.1 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 156 |  |
+| Al3Li(L12) | [Al3Li](https://data.orchid-project.org/compounds/Al3Li.html) | -8.1 kJ/mol-atom |  | model | -9.552 (mp-aaaaaqcw) | -9.616 (oqmd-10489) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 158 |  |
+| Al3Li(L12) | [Al3Li](https://data.orchid-project.org/compounds/Al3Li.html) | -8.1 kJ/mol-atom |  | model | -9.552 (mp-aaaaaqcw) | -9.616 (oqmd-10489) | [2] Long 2020 | Table 4, p. 7, row 154 |  |
+| Al3Li(L12) |  | -7.5 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 157 |  |
+| Al4Li9 |  | -16.8 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 151 |  |
+| Al4Li9 | [Al4Li9](https://data.orchid-project.org/compounds/Al4Li9.html) | -15.1 kJ/mol-atom |  | model | -13.974 (mp-aaabgivs) | -15.411 (oqmd-654950) | [2] Long 2020 | Table 4, p. 7, row 149 |  |
+| Al4Li9 | [Al4Li9](https://data.orchid-project.org/compounds/Al4Li9.html) | -15.1 kJ/mol-atom | 298.15 | experimental | -13.974 (mp-aaabgivs) | -15.411 (oqmd-654950) | [2] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 152 |  |
+| Al4Li9 |  | -14.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 150 |  |
+| Al4Li9 | [Al4Li9](https://data.orchid-project.org/compounds/Al4Li9.html) | -14.9 kJ/mol-atom |  | model | -13.974 (mp-aaabgivs) | -15.411 (oqmd-654950) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 153 |  |
+| AlLi (B2) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -14 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -10.059 (oqmd-307710) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 137 |  |
+| AlLi (B2) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -14 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -10.059 (oqmd-307710) | [2] Long 2020 | Table 4, p. 7, row 133 |  |
+| AlLi (B2) |  | -13.8 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 136 |  |
+| AlLi (B2) |  | -13.7 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 135 |  |
+| AlLi (B2) |  | 6.1 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Christensen 1985_ [doi](https://doi.org/10.1103/physrevb.32.207) | Table 4, p. 7, row 134 |  |
+| AlLi (B32) |  | -23.8 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 129 |  |
+| AlLi (B32) |  | -21.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 128 |  |
+| AlLi (B32) |  | -21.8 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Yao 1971_ [doi](https://doi.org/10.1149/1.2408242) | Table 4, p. 7, row 126 |  |
+| AlLi (B32) |  | -20.7 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 130 |  |
+| AlLi (B32) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -20.7 kJ/mol-atom | 298.15 | experimental | -17.139 (mp-aaaaabpb) | -17.958 (oqmd-2012) | [2] Long 2020; _cites Ga 2013_ | Table 4, p. 7, row 131 |  |
+| AlLi (B32) |  | -20.3 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Christensen 1985_ [doi](https://doi.org/10.1103/physrevb.32.207) | Table 4, p. 7, row 127 |  |
+| AlLi (B32) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -20 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -17.958 (oqmd-2012) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 132 |  |
+| AlLi (B32) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -20 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -17.958 (oqmd-2012) | [2] Long 2020 | Table 4, p. 7, row 125 |  |
+| AlLi(L10) |  | -13.7 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 139 |  |
+| AlLi(L10) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -13.1 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -8.258 (oqmd-339252) | [2] Long 2020 | Table 4, p. 7, row 138 |  |
+| AlLi(L10) | [AlLi](https://data.orchid-project.org/compounds/AlLi.html) | -13.1 kJ/mol-atom |  | model | -17.139 (mp-aaaaabpb) | -8.258 (oqmd-339252) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 142 |  |
+| AlLi(L10) |  | -11.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 140 |  |
+| AlLi(L10) |  | -9.5 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 141 |  |
+| AlLi2 | [AlLi2](https://data.orchid-project.org/compounds/AlLi2.html) | -17.2 kJ/mol-atom |  | model | -15.719 (mp-aaacqxbl) | -16.17 (oqmd-1795039) | [2] Long 2020 | Table 4, p. 7, row 148 |  |
+| AlLi3(D03) |  | -10.9 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 169 |  |
+| AlLi3(D03) | [AlLi3](https://data.orchid-project.org/compounds/AlLi3.html) | -10.5 kJ/mol-atom |  | model | -7.688 (mp-aaacdnpk) | -8.815 (oqmd-309145) | [2] Long 2020 | Table 4, p. 7, row 168 |  |
+| AlLi3(D03) | [AlLi3](https://data.orchid-project.org/compounds/AlLi3.html) | -10.5 kJ/mol-atom |  | model | -7.688 (mp-aaacdnpk) | -8.815 (oqmd-309145) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 171 |  |
+| AlLi3(D03) |  | -10.2 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 170 |  |
+| AlLi3(L12) |  | -6.5 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Guo 1990_ [doi](https://doi.org/10.1103/physrevb.42.10912) | Table 4, p. 7, row 164 |  |
+| AlLi3(L12) | [AlLi3](https://data.orchid-project.org/compounds/AlLi3.html) | -5 kJ/mol-atom |  | model | -7.688 (mp-aaacdnpk) | -4.548 (oqmd-349593) | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 4, p. 7, row 167 |  |
+| AlLi3(L12) | [AlLi3](https://data.orchid-project.org/compounds/AlLi3.html) | -5 kJ/mol-atom |  | model | -7.688 (mp-aaacdnpk) | -4.548 (oqmd-349593) | [2] Long 2020 | Table 4, p. 7, row 163 |  |
+| AlLi3(L12) |  | -5 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Arya 1994_ [doi](https://doi.org/10.1088/0953-8984/6/18/015) | Table 4, p. 7, row 165 |  |
+| AlLi3(L12) |  | -2.3 kJ/mol-atom |  | DFT |  |  | [2] Long 2020; _cites Sluiter 1996_ [doi](https://doi.org/10.1103/physrevb.53.6137) | Table 4, p. 7, row 166 |  |
+
 ## Other properties
 
 ### Phase transition (6)
@@ -169,6 +227,29 @@ Table: Phase transition, Al–Li system
 | Phase transition | 965 K | 965 | L ↔ AlLi; _L: Li 0.5; AlLi: Li 0.5_ | model | [2] Long 2020; _cites Myles 2020_ | Table 3, p. 5, row 1 |  |
 | Phase transition | 970 K | 970 | L ↔ AlLi; _L: Li 0.49; AlLi: Li 0.49_ | experimental | [2] Long 2020; _cites Schurmann 1981_ | Table 3, p. 5, row 2 |  |
 | Phase transition | 975 K | 975 | L ↔ AlLi; _L: Li 0.497; AlLi: Li 0.497_ | model | [2] Long 2020; _cites Hallstedt 2007_ [doi](https://doi.org/10.3139/146.101553) | Table 3, p. 5, row 3 |  |
+
+### Crystal structure (16)
+
+Table: Crystal structure, Al–Li system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 4.508 Å | 298.15 | Al2Li3; _alloy: Li 0.6_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 15 |  |
+| Lattice a | 19.151 Å | 298.15 | Al4Li9; _alloy: Li 0.692308_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 16 |  |
+| Lattice a | 6.36 Å | 298.15 | AlLi; _alloy: Li 0.5_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 14 |  |
+| Lattice a | 4.658 Å | 298.15 | AlLi2; _alloy: Li 0.666667_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 17 |  |
+| Lattice a | 19.1551 Å | 302.5 | Al4Li9; _alloy: Li 0.692308_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
+| Lattice a | 4.508 Å | 793.15 (\<) | Al2Li3; _alloy: Li 0.6_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
+| Lattice a | 6.37 Å | 973.15 (\<) | AlLi; _alloy: Li 0.5_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 4 |  |
+| Lattice b | 5.429 Å | 298.15 | Al4Li9; _alloy: Li 0.692308_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 16 |  |
+| Lattice b | 9.767 Å | 298.15 | AlLi2; _alloy: Li 0.666667_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 17 |  |
+| Lattice b | 5.4288 Å | 302.5 | Al4Li9; _alloy: Li 0.692308_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
+| Lattice c | 14.259 Å | 298.15 | Al2Li3; _alloy: Li 0.6_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 15 |  |
+| Lattice c | 4.499 Å | 298.15 | Al4Li9; _alloy: Li 0.692308_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 16 |  |
+| Lattice c | 4.49 Å | 298.15 | AlLi2; _alloy: Li 0.666667_ | unspecified | [2] Long 2020 | Table 1, p. 2, row 17 |  |
+| Lattice c | 4.4988 Å | 302.5 | Al4Li9; _alloy: Li 0.692308_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
+| Lattice c | 14.26 Å | 793.15 (\<) | Al2Li3; _alloy: Li 0.6_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 5 |  |
+| lattice beta | 107.67 ° | 302.5 | Al4Li9; _alloy: Li 0.692308_ | model | [3] Wang 2011; _cites McAlister 1982_ [doi](https://doi.org/10.1007/bf02892377) | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

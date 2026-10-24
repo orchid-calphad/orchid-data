@@ -16,7 +16,7 @@ Table: Enthalpy of formation of Sn3U reported in the literature (8)
 |---:|---|---:|---|---|---|---|---|---|
 | -43.47 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 10 |  |
 | -43.2 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Pattanaik 2013_ [doi](https://doi.org/10.1016/j.jallcom.2012.09.144) | Table 1, p. 3, row 11 |  |
-| -42.9 kJ/mol-atom | USn3 | 692 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12 |  |
+| -42.9 kJ/mol-atom | USn3 | 965.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Kadochnikov 1976_ | Table 1, p. 3, row 12 |  |
 | -36.5 kJ/mol-atom | USn3 | 298.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Johnson 1962_ | Table 1, p. 3, row 6 |  |
 | -35.3 kJ/mol-atom | USn3 | 298.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Colinet 1988_ [doi](https://doi.org/10.1016/0022-5088%2888%2990049-5) | Table 1, p. 3, row 7 |  |
 | -24.06 kJ/mol-atom | USn3 | 794.15 | experimental |  | [Sn–U](https://data.orchid-project.org/systems/SN-U.html) | [1] Wang 2021; _cites Alcock 1962_ | Table 1, p. 3, row 8 |  |
@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of Sn3U
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.47 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43.2 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -42.9 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -36.5 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -35.3 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -24.06 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -41.8 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -22.59 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -43.47 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -43.2 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -42.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -36.5 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -35.3 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -24.06 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -41.8 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -22.59 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -49,7 +49,7 @@ Table: DFT formation energy of Sn3U
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabece | -12.058 | -0.12497 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-18132 | -19.098 | -0.197936 | Pm-3m | 0.043 | 4.000e-4 | no |
+| OQMD | oqmd-18132 | -19.098 | -0.197936 | Pm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Si–V system
 
-> Si–V system: 47 accepted literature values (formation 22, invariant reaction 12, phase transition 11, phase equilibrium 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Si–V system: 132 accepted literature values (formation 66, crystal structure 41, invariant reaction 12, phase transition 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SI-V.html · Markdown: https://data.orchid-project.org/systems/SI-V.md
 
-47 accepted literature values from 1 paper(s) (experimental 28, model 6, DFT 4, unspecified 9); 4 calculated phase diagram(s).
+132 accepted literature values from 3 paper(s) (experimental 46, model 46, DFT 21, unspecified 19); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SI-V.json) · [CSV](https://data.orchid-project.org/systems/SI-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SI-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SI-V/SiV-08Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/SI-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SI-V.html) · [Markdown](https://data.orchid-project.org/systems/SI-V.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 28 |
-| model | 6 |
-| DFT | 4 |
-| unspecified | 9 |
+| experimental | 46 |
+| model | 46 |
+| DFT | 21 |
+| unspecified | 19 |
 
 Table: Accepted values by property group
 
@@ -24,7 +24,8 @@ Table: Accepted values by property group
 | invariant reaction | 12 |
 | phase transition | 11 |
 | phase equilibrium | 2 |
-| formation | 22 |
+| formation | 66 |
+| crystal structure | 41 |
 
 ## Calculated phase diagrams
 
@@ -113,31 +114,75 @@ Table: Invariant reactions reported in the literature for the Si–V system (12)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Si–V system (22)
+Table: Enthalpies of formation, Si–V system (66)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Si2V | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -54.674 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [2] Luo 2018 | Table 3, p. 5, row 23 |  |
+| Si2V | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -54.1 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 21 |  |
+| Si2V |  | -47 kJ/mol-atom | 0 | DFT |  |  | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 22 |  |
+| Si2V | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -44.4 kJ/mol-atom ± 1 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [2] Luo 2018; _cites OHare 2000_ | Table 3, p. 5, row 24 |  |
+| Si2V | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -8.285 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [2] Luo 2018 | Table 3, p. 5, row 25 |  |
+| Si3V | [Si3V](https://data.orchid-project.org/compounds/Si3V.html) | 6.3 kJ/mol-atom | 0 | unspecified |  | 1.542 (oqmd-2031400) | [3] Broz 2013 | Table 2, p. 6, row 19 |  |
+| Si3V | [Si3V](https://data.orchid-project.org/compounds/Si3V.html) | 54.3 kJ/mol-atom | 0 | model |  | 1.542 (oqmd-2031400) | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 20 |  |
+| Si3V5 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -59 kJ/mol-atom ± 2 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [2] Luo 2018; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 3, p. 5, row 17 |  |
+| Si3V5 |  | -57.6 kJ/mol-atom | 0 | DFT |  |  | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 16 |  |
+| Si3V5 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -55.4 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 15 |  |
+| Si3V5 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -43.584 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [2] Luo 2018 | Table 3, p. 5, row 18 |  |
+| Si3V5 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -17.465 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [2] Luo 2018 | Table 3, p. 5, row 19 |  |
+| Si3V5 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -10.955 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [2] Luo 2018 | Table 3, p. 5, row 20 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -46.4 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 12 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -46.4 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 12 |  |
 | V3Si |  | -45.23 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 22 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.2 kJ/mol-atom |  | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 15 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.1 kJ/mol-atom ± 2 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 10 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -45.1 kJ/mol-atom ± 2 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 7 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -44.5 kJ/mol-atom | 0 | unspecified | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013 | Table 2, p. 6, row 8 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -44.3 kJ/mol-atom | 0 | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 16 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -41.8 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites P 2000_ | Table 2, p. 6, row 13 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -41.75 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites OHare 2000_ [doi](https://doi.org/10.1006/jcht.1999.0612) | Table 2, p. 3, row 14 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -38.8 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 11 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -38.75 kJ/mol-atom ± 1 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 10 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -35.3 kJ/mol-atom ± 3 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 9 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -35.25 kJ/mol-atom ± 3 | 298.15 | experimental | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 3 |  |
+| V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -33.9 kJ/mol-atom |  | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [3] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 14 |  |
 | V3Si | [SiV3](https://data.orchid-project.org/compounds/SiV3.html) | -33.88 kJ/mol-atom | 298.15 | model | -42.956 (mp-aaaaadut) | -45.324 (oqmd-4182) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 18 |  |
 | V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -59 kJ/mol-atom ± 2 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Zhang 2008; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 3, row 11 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -59 kJ/mol-atom ± 2 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2897%2900528-8) | Table 2, p. 6, row 31 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -58.1 kJ/mol-atom ± 3 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 28 |  |
 | V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -58.1 kJ/mol-atom ± 3 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 2 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -57.6 kJ/mol-atom | 0 | unspecified | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013 | Table 2, p. 6, row 27 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -55.4 kJ/mol-atom | 0 | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 34 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -54.2 kJ/mol-atom ± 2 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 29 |  |
 | V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -54.2 kJ/mol-atom ± 2 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 5 |  |
 | V5Si3 |  | -53.73 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 20 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -53.7 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 33 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -50.5 kJ/mol-atom ± 1 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 30 |  |
 | V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -50.48 kJ/mol-atom ± 1 | 298.15 | experimental | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 9 |  |
+| V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -46 kJ/mol-atom |  | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [3] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 32 |  |
 | V5Si3 | [Si3V5](https://data.orchid-project.org/compounds/Si3V5.html) | -45.95 kJ/mol-atom | 298.15 | model | -53.719 (mp-aaabgjfz) | -55.174 (oqmd-31069) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 16 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -52.8 kJ/mol-atom | 0 | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 22 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -52.7 kJ/mol-atom | 0 | unspecified | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013 | Table 2, p. 6, row 23 |  |
 | V6Si5 |  | -51.22 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 21 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -51.2 kJ/mol-atom |  | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 26 |  |
 | V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -50.7 kJ/mol-atom ± 2 | 298.15 | experimental | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 6 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -50.7 kJ/mol-atom ± 2 | 298.15 | experimental | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 24 |  |
 | V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -48.13 kJ/mol-atom | 298.15 | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 17 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -48.1 kJ/mol-atom |  | model | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 25 |  |
+| V6Si5 | [Si5V6](https://data.orchid-project.org/compounds/Si5V6.html) | -44.1 kJ/mol-atom | 0 | unspecified | -49.196 (mp-aaaaablo) | -51.21 (oqmd-31070) | [3] Broz 2013 | Table 2, p. 6, row 21 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -54.1 kJ/mol-atom | 0 | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 2, p. 6, row 42 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -47 kJ/mol-atom | 0 | unspecified | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013 | Table 2, p. 6, row 35 |  |
 | VSi2 |  | -45.91 kJ/mol-atom | 298.15 | DFT |  |  | [1] Zhang 2008; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 3, row 19 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -45.9 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Zhang 2007_ [doi](https://doi.org/10.1007/s10853-007-1865-6) | Table 2, p. 6, row 41 |  |
 | VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -44.43 kJ/mol-atom ± 1 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Zhang 2008; _cites OHare 1999_ [doi](https://doi.org/10.1006/jcht.1999.0579) | Table 2, p. 3, row 13 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -44.4 kJ/mol-atom ± 1 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites P 1999_ | Table 2, p. 6, row 39 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.7 kJ/mol-atom ± 3 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 36 |  |
 | VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.67 kJ/mol-atom ± 3 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Zhang 2008; _cites Gorelkin 1971_ | Table 2, p. 3, row 1 |  |
 | VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.5 kJ/mol-atom ± 2 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Zhang 2008; _cites Eremenko 1976_ | Table 2, p. 3, row 4 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -41.5 kJ/mol-atom ± 2 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 37 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -39.7 kJ/mol-atom ± 1 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Storms 1985_ | Table 2, p. 6, row 38 |  |
 | VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -39.67 kJ/mol-atom ± 1 | 298.15 | experimental | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Zhang 2008; _cites Storms 1985_ | Table 2, p. 3, row 8 |  |
+| VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -29 kJ/mol-atom |  | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [3] Broz 2013; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 6, row 40 |  |
 | VSi2 | [Si2V](https://data.orchid-project.org/compounds/Si2V.html) | -29 kJ/mol-atom | 298.15 | model | -42.137 (mp-aaaaapvz) | -45.955 (oqmd-16520) | [1] Zhang 2008; _cites Chen 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.04.004) | Table 2, p. 3, row 15 |  |
 
 ## Other properties
@@ -169,11 +214,61 @@ Table: Phase equilibrium, Si–V system
 | Phase composition |  | 1681.15 | other: V7Si93; _liquid: Si 0.93, V 0.07_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 2 |  |
 | Phase composition |  | 1683.15 | other: V3Si97; _liquid: Si 0.97, V 0.03_ | experimental | [1] Zhang 2008 | Table 1, p. 2, row 4 |  |
 
+### Crystal structure (41)
+
+Table: Crystal structure, Si–V system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 4.872 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018 | Table 3, p. 5, row 25 |  |
+| Lattice a; _printed: a_ | 4.573 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 21 |  |
+| Lattice a; _printed: a_ | 4.578 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018 | Table 3, p. 5, row 23 |  |
+| Lattice a; _printed: a_ | 4.563 Å | 0 | Si2V; _alloy: Si 0.666667, V 0.333333_ | DFT | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 22 |  |
+| Lattice a; _printed: a_ | 9.49 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018 | Table 3, p. 5, row 18 |  |
+| Lattice a; _printed: a_ | 9.395 Å | 0 | Si3V5; _alloy: Si 0.375, V 0.625_ | DFT | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 16 |  |
+| Lattice a; _printed: a_ | 9.383 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 15 |  |
+| Lattice a; _printed: a_ | 9.864 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018 | Table 3, p. 5, row 20 |  |
+| Lattice a | 4.711 Å | 0 | V3Si; _alloy: V 0.75_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 39 |  |
+| Lattice a | 9.395 Å | 0 | V5Si3; _alloy: V 0.625_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice a | 4.882 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice a | 7.483 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice a | 4.563 Å | 0 | VSi2; _alloy: V 0.333333_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice a | 4.727 Å | 298.15 | V3Si; _alloy: V 0.75_ | model | [3] Broz 2013; _cites Kanematsu 1986_ [doi](https://doi.org/10.2320/matertrans1960.27.225) | Table 1, p. 3, row 38 |  |
+| Lattice a | 9.383 Å | 298.15 | V5Si3; _alloy: V 0.625_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice a | 0.94264 not_printed ± 4.000e-5 | 298.15 | V5Si3; _alloy: V 0.625_ | experimental | [3] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.858 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice a | 7.501 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice a | 4.573 Å | 298.15 | VSi2; _alloy: V 0.333333_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+| Lattice b | 16.012 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice b | 15.897 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice b | 15.966 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice b | 15.966 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c; _printed: c_ | 6.736 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018 | Table 3, p. 5, row 25 |  |
+| Lattice c; _printed: c_ | 6.374 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 21 |  |
+| Lattice c; _printed: c_ | 6.367 Å |  | Si2V; _alloy: Si 0.666667, V 0.333333_ | model | [2] Luo 2018 | Table 3, p. 5, row 23 |  |
+| Lattice c; _printed: c_ | 6.364 Å | 0 | Si2V; _alloy: Si 0.666667, V 0.333333_ | DFT | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 22 |  |
+| Lattice c; _printed: c_ | 4.86 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018 | Table 3, p. 5, row 18 |  |
+| Lattice c; _printed: c_ | 4.731 Å | 0 | Si3V5; _alloy: Si 0.375, V 0.625_ | DFT | [2] Luo 2018; _cites Broz 2013_ [doi](https://doi.org/10.1016/j.jssc.2012.12.003) | Table 3, p. 5, row 16 |  |
+| Lattice c; _printed: c_ | 4.76 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 3, p. 5, row 15 |  |
+| Lattice c; _printed: c_ | 4.812 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018 | Table 3, p. 5, row 20 |  |
+| Lattice c; _printed: c_ | 4.682 Å |  | Si3V5; _alloy: Si 0.375, V 0.625_ | model | [2] Luo 2018 | Table 3, p. 5, row 19 |  |
+| Lattice c | 4.731 Å | 0 | V5Si3; _alloy: V 0.625_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 21 |  |
+| Lattice c | 7.582 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 43 |  |
+| Lattice c | 4.827 Å | 0 | V6Si5; _alloy: V 0.545455_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 45 |  |
+| Lattice c | 6.364 Å | 0 | VSi2; _alloy: V 0.333333_ | DFT | [3] Broz 2013 | Table 1, p. 3, row 36 |  |
+| Lattice c | 4.76 Å | 298.15 | V5Si3; _alloy: V 0.625_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 19 |  |
+| Lattice c | 0.47585 not_printed ± 3.000e-5 | 298.15 | V5Si3; _alloy: V 0.625_ | experimental | [3] Broz 2013; _cites Khan 2012_ [doi](https://doi.org/10.1016/j.jssc.2011.12.024) | Table 1, p. 3, row 20 |  |
+| Lattice c | 7.501 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 42 |  |
+| Lattice c | 4.858 Å | 298.15 | V6Si5; _alloy: V 0.545455_ | model | [3] Broz 2013; _cites Spinat 1970_ [doi](https://doi.org/10.3406/bulmi.1970.6423) | Table 1, p. 3, row 44 |  |
+| Lattice c | 6.374 Å | 298.15 | VSi2; _alloy: V 0.333333_ | unspecified | [3] Broz 2013; _cites Zhang 2008_ [doi](https://doi.org/10.1016/j.calphad.2007.12.005) | Table 1, p. 3, row 35 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Chao Zhang, Yong Du, Wei Xiong, Honghui Xu, Philip Nash, Yifang Ouyang et al., Thermodynamic modeling of the V–Si system supported by key experiments, Calphad 32, 320-325 (2008). [doi:10.1016/j.calphad.2007.12.005](https://doi.org/10.1016/j.calphad.2007.12.005)
+2. Qun Luo, Kang Li, Qian Li, Thermodynamic investigation of phase equilibria in Al–Si–V system, Journal of Materials Science &amp; Technology 34, 1592-1601 (2018). [doi:10.1016/j.jmst.2018.01.004](https://doi.org/10.1016/j.jmst.2018.01.004)
+3. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
 
 ## Please cite
 

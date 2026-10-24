@@ -1,10 +1,10 @@
 # Mn–O system
 
-> Mn–O system: 356 accepted literature values (activity / EMF / Gibbs energy 113, formation 103, heat capacity / entropy / enthalpy 69, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–O system: 353 accepted literature values (formation 103, heat capacity / entropy / enthalpy 69, activity / EMF / Gibbs energy 62, invariant reaction 53) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-O.html · Markdown: https://data.orchid-project.org/systems/MN-O.md
 
-356 accepted literature values from 2 paper(s) (experimental 176, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+353 accepted literature values from 2 paper(s) (experimental 173, model 162, unspecified 18); 2 calculated phase diagram(s). 11 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-O.json) · [CSV](https://data.orchid-project.org/systems/MN-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-O/MnO-03Gru-LB.json) · [phases (16)](https://data.orchid-project.org/phases/pages/MN-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-O.html) · [Markdown](https://data.orchid-project.org/systems/MN-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 176 |
+| experimental | 173 |
 | model | 162 |
 | unspecified | 18 |
 
@@ -21,11 +21,12 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 53 |
-| phase transition | 17 |
+| phase transition | 14 |
 | formation | 103 |
 | mixing / partial | 1 |
 | heat capacity / entropy / enthalpy | 69 |
-| activity / EMF / Gibbs energy | 113 |
+| activity / EMF / Gibbs energy | 62 |
+| model expression | 51 |
 
 ## Calculated phase diagrams
 
@@ -239,7 +240,7 @@ Table: Enthalpies of formation, Mn–O system (103)
 
 ## Other properties
 
-### Phase transition (17)
+### Phase transition (14)
 
 Table: Phase transition, Mn–O system
 
@@ -248,10 +249,7 @@ Table: Phase transition, Mn–O system
 | Phase transition | 300 K | 300 | a-Mn2O3 -> b-Mn2O3 | experimental | [2] Kjellqvist 2010 | p. 5 | “a-Bixbyite (a-Mn2O3) transforms to b-Mn2O3 (Strukturbericht D53) at around 300 K.” |
 | Phase transition | 300 K | 300 | alpha-Mn2O3 + beta-Mn2O3 | experimental | [1] Grundy 2003; _cites Geller 1970_ [doi](https://doi.org/10.1103/physrevb.1.3763) | p. 3 | “Orthorhombic ␣-bixbyite (␣-Mn2O3) transforms to cubic ␤-bixbyite\[59\] at around 300 K.” |
 | Phase transition | 300 K | 300 | α-Mn2O3 → β-Mn2O3 | experimental | [1] Grundy 2003 | p. 10 | “It should again be noted that no attempt was made to model the ␣ → ␤-Mn2O3 transition at ∼300 K, which causes the pronounced peak in the measured cP values (Fig. 8), and only the cP data above the transition temperature were used for the optimization.” |
-| Phase transition | 980 K | 980 | alpha-Mn + beta-Mn | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
-| Phase transition | 1360 K | 1360 | beta-Mn + gamma-Mn | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
 | Phase transition | 1408 K | 1408 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Driessens 1967_ [doi](https://doi.org/10.1016/s0020-1693%2800%2993169-4) | p. 3 | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
-| Phase transition | 1411 K | 1411 | gamma-Mn + delta-Mn | experimental | [1] Grundy 2003; _cites Fernandez 1990_ | p. 1 | “Manganese exists in four modifications: ␣-Mn (up to 980 K), ␤-Mn (up to 1360 K), ␥-Mn (up to 1411 K), and ␦-Mn (up to the melting temperature of 1519 K).” |
 | Phase transition | 1430 K | 1430 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Metselaar 1981_ [doi](https://doi.org/10.1016/0022-4596%2881%2990064-5) | p. 3 | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
 | Phase transition | 1433 K | 1433 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Van 1958_ | p. 3 | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
 | Phase transition | 1473 K | 1473 | alpha-Mn3O4 + beta-Mn3O4 | experimental | [1] Grundy 2003; _cites Schmier 1966_ [doi](https://doi.org/10.1002/zaac.19663460310) | p. 3 | “The measured temperatures at which this transformation takes place are between 1408 K,\[52\] 1430 K,\[54\] 1433 K,\[30\] and 1473 K \[51\] with a larger number of other measurements\[5,20,55-57\] grouped between 1443 and 1450 K (Table 2).” |
@@ -347,58 +345,31 @@ Table: Heat capacity / entropy / enthalpy, Mn–O system
 | Entropy; _printed: °S298_ | 17.6967 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003; _cites Pankratz 1982_ | Table 10, p. 15, row 23 |  |
 | Entropy; _printed: °S298_ | 17.9833 J/mol-atom/K | 298.15 | Pyrolusite (MnO2); _alloy: O 0.666667_ | model | [1] Grundy 2003 | Table 10, p. 15, row 30 |  |
 
-### Activity / EMF / Gibbs energy (113)
+### Activity / EMF / Gibbs energy (62)
 
 Table: Activity / EMF / Gibbs energy, Mn–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 120.8 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 30 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -155690 J/mol |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 30 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -76338 J/mol |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 103.63 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 77.823 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 32 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -94568 J/mol |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 32 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 72.33 J/mol/K |  | α-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 14 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -385510 J/mol |  | α-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 14 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 75.345 J/mol/K |  | β-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -387830 J/mol |  | β-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -390140 J/mol |  | γ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 77.048 J/mol/K |  | γ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 79.023 J/mol/K |  | δ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 20 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -392940 J/mol |  | δ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 20 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 112.51 J/mol/K | 713 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 9, p. 11, row 14 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -91933 J/mol | 713 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 9, p. 11, row 14 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -66236 J/mol | 723 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 9, p. 11, row 10 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 82.61 J/mol/K | 723 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 9, p. 11, row 10 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -49862 J/mol | 732 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Askenasy 1910_ | Table 9, p. 11, row 13 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 62.24 J/mol/K | 732 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Askenasy 1910_ | Table 9, p. 11, row 13 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -386000 J/mol | 750 | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of Tln(T))_ | -0.559 J/mol/K | 750 | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 77.3 J/mol/K | 750 | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -45055 J/mol | 790.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 9, p. 11, row 12 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 49.56 J/mol/K | 790.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 9, p. 11, row 12 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -224.87 J/mol | 813.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 9, p. 11, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 46.76 J/mol/K | 813.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 9, p. 11, row 16 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 106.63 J/mol/K | 814.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 1965_ [doi](https://doi.org/10.1149/1.2423551) | Table 9, p. 11, row 11 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -77583 J/mol | 814.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 1965_ [doi](https://doi.org/10.1149/1.2423551) | Table 9, p. 11, row 11 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -124740 J/mol | 820.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 9, p. 11, row 15 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 148.91 J/mol/K | 820.5 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 9, p. 11, row 15 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -245604 J/mol | 973 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Chou 1978_ | Table 7, p. 11, row 9 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 130.48 J/mol | 973 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Chou 1978_ | Table 7, p. 11, row 9 |  |
 | Gibbs energy; _printed: Δ°G(T) T ln(T) coefficient_ | 2.11 J/mol/K | 1000 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) T coefficient_ | 94.4 J/mol/K | 1000 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17 |  |
 | Gibbs energy; _printed: Δ°G(T) constant_ | -80000 J/mol | 1000 | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 92.63 J/mol/K | 1003.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 8, p. 11, row 28 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -114139 J/mol | 1003.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 8, p. 11, row 28 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -90311 J/mol | 1043.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 8, p. 11, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 72.11 J/mol/K | 1043.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 8, p. 11, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 84.47 J/mol/K | 1059 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 8, p. 11, row 24 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -105768 J/mol | 1059 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 8, p. 11, row 24 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 71.54 J/mol/K | 1060.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 8, p. 11, row 21 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -95305 J/mol | 1060.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 8, p. 11, row 21 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -104252 J/mol | 1073 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 8, p. 11, row 19 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 80.73 J/mol/K | 1073 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 8, p. 11, row 19 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T ln(T)\]_ | 7.82 J/mol | 1075 | MnO + α-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 14 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -214000 J/mol | 1075 | MnO + α-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 14 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 48.8 J/mol | 1075 | MnO + α-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 14 |  |
@@ -406,57 +377,33 @@ Table: Activity / EMF / Gibbs energy, Mn–O system
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 111.1 J/mol | 1075 | MnO + α-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 15 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -224450 J/mol | 1076.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 11, row 12 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T (printed without T)\]_ | 112.35 J/mol | 1076.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 11, row 12 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 69.25 J/mol/K | 1089.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 8, p. 11, row 26 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -64756 J/mol | 1089.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 8, p. 11, row 26 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 289 J/mol/K | 1100 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 29 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -140000 J/mol | 1100 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 29 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T ln(T)_ | -24.8 J/mol/K | 1100 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 29 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | -151.43 J/mol | 1125.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 7, p. 11, row 1 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -241735 J/mol | 1125.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 7, p. 11, row 1 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 84.74 J/mol/K | 1129.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Ingraham 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.2.109) | Table 8, p. 11, row 23 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -105600 J/mol | 1129.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Ingraham 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.2.109) | Table 8, p. 11, row 23 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 96.73 J/mol/K | 1148 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Schmahl 1963_ [doi](https://doi.org/10.1002/srin.196304016) | Table 8, p. 11, row 27 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -1119770 J/mol | 1148 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Schmahl 1963_ [doi](https://doi.org/10.1002/srin.196304016) | Table 8, p. 11, row 27 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 111.4 J/mol | 1174 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 7, p. 11, row 8 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -222827 J/mol | 1174 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites ONeill 1993_ [doi](https://doi.org/10.1007/bf01046534) | Table 7, p. 11, row 8 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of Tln(T))_ | 1.74 J/mol/K | 1175 | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 61.3 J/mol/K | 1175 | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -386000 J/mol | 1175 | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -87423 J/mol | 1181.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hahn 1960_ [doi](https://doi.org/10.2475/ajs.258.1.66) | Table 8, p. 11, row 18 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 70.54 J/mol/K | 1181.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hahn 1960_ [doi](https://doi.org/10.2475/ajs.258.1.66) | Table 8, p. 11, row 18 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -97719 J/mol | 1182.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Shenouda 1967_ [doi](https://doi.org/10.1002/jctb.5010170905) | Table 8, p. 11, row 22 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 78.88 J/mol/K | 1182.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Shenouda 1967_ [doi](https://doi.org/10.1002/jctb.5010170905) | Table 8, p. 11, row 22 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 68.97 J/mol/K | 1189.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 2003_ | Table 8, p. 11, row 25 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -86401 J/mol | 1189.5 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 2003_ | Table 8, p. 11, row 25 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -223681 J/mol | 1193 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 11, row 11 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 111.9 J/mol | 1193 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 7, p. 11, row 11 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -245694 J/mol | 1255.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 7, p. 11, row 4 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 129.68 J/mol | 1255.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 7, p. 11, row 4 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 52.53 J/mol/K | 1288 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 8, p. 11, row 20 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -71513 J/mol | 1288 | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 8, p. 11, row 20 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 109.94 J/mol | 1335.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schwerdtfeger 1967_ | Table 7, p. 11, row 6 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -222259 J/mol | 1335.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schwerdtfeger 1967_ | Table 7, p. 11, row 6 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 107.36 J/mol | 1335.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schwerdtfeger 1967_ | Table 7, p. 11, row 7 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -219419 J/mol | 1335.5 | MnO + α-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schwerdtfeger 1967_ | Table 7, p. 11, row 7 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -391657 J/mol | 1357.5 | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 12 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 78.06 J/mol/K | 1357.5 | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 12 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 76.26 J/mol/K | 1357.5 | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 11 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -391538 J/mol | 1357.5 | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 11 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 110.05 J/mol | 1373 | MnO + α-, β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Fender 1970_ | Table 7, p. 11, row 13 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -221609 J/mol | 1373 | MnO + α-, β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Fender 1970_ | Table 7, p. 11, row 13 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -386000 J/mol | 1375 | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 50.7 J/mol/K | 1375 | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of Tln(T))_ | 3.21 J/mol/K | 1375 | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
-| Gibbs energy; _printed: Δ°G(T) (constant term)_ | -386000 J/mol | 1450 | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of Tln(T))_ | 4.55 J/mol/K | 1450 | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
-| Gibbs energy; _printed: Δ°G(T) (coefficient of T)_ | 40.9 J/mol/K | 1450 | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -240533 J/mol | 1530.5 | MnO + α-, β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 7, p. 11, row 10 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 123.59 J/mol | 1530.5 | MnO + α-, β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Tromel 1976_ | Table 7, p. 11, row 10 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 73.66 J/mol | 1589 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Hed 1967_ [doi](https://doi.org/10.1149/1.2426584) | Table 7, p. 11, row 5 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -159463 J/mol | 1589 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Hed 1967_ [doi](https://doi.org/10.1149/1.2426584) | Table 7, p. 11, row 5 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T_ | 306 J/mol/K | 1600 | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31 |  |
 | Gibbs energy; _printed: Δ°G(T) constant A_ | -174000 J/mol | 1600 | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31 |  |
-| Gibbs energy; _printed: Δ°G(T) coefficient of T ln(T)_ | -23.8 J/mol/K | 1600 | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 117.77 J/mol | 1625 | MnO + β-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 17 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -231960 J/mol | 1625 | MnO + β-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 17 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T ln(T)\]_ | 110.2 J/mol | 1625 | MnO + β-Mn3O4; _alloy: O 0.5_ | model | [1] Grundy 2003 | Table 7, p. 11, row 16 |  |
@@ -466,6 +413,64 @@ Table: Activity / EMF / Gibbs energy, Mn–O system
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -266649 J/mol | 1668 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Hahn 1960_ [doi](https://doi.org/10.2475/ajs.258.1.66) | Table 7, p. 11, row 3 |  |
 | Gibbs energy; _printed: Δ°G(T) \[T\]_ | 117.2 J/mol | 1733.5 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schmahl 1969_ [doi](https://doi.org/10.1002/srin.196904332) | Table 7, p. 11, row 2 |  |
 | Gibbs energy; _printed: Δ°G(T) \[a\]_ | -229774 J/mol | 1733.5 | MnO + β-Mn3O4; _alloy: O 0.5_ | experimental | [1] Grundy 2003; _cites Schmahl 1969_ [doi](https://doi.org/10.1002/srin.196904332) | Table 7, p. 11, row 2 |  |
+
+### Model expression (51)
+
+Table: Model expression, Mn–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 92.63 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Charette 1968_ [doi](https://doi.org/10.1149/1.2411434) | Table 8, p. 11, row 28 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 96.73 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Schmahl 1963_ [doi](https://doi.org/10.1002/srin.196304016) | Table 8, p. 11, row 27 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 120.8 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 30 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 80.73 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 8, p. 11, row 19 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 69.25 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 8, p. 11, row 26 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 84.74 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Ingraham 1966_ [doi](https://doi.org/10.1179/cmq.1966.5.2.109) | Table 8, p. 11, row 23 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 72.11 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Huebner 1970_ | Table 8, p. 11, row 17 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 52.53 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 8, p. 11, row 20 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 68.97 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 2003_ | Table 8, p. 11, row 25 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 289 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 29 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T ln(T)_ | -24.8 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 29 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 70.54 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hahn 1960_ [doi](https://doi.org/10.2475/ajs.258.1.66) | Table 8, p. 11, row 18 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 78.88 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Shenouda 1967_ [doi](https://doi.org/10.1002/jctb.5010170905) | Table 8, p. 11, row 22 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 71.54 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 8, p. 11, row 21 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 84.47 J/mol/K |  | Mn2O3 + α-Mn3O4; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 8, p. 11, row 24 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 148.91 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Meyer 1908_ [doi](https://doi.org/10.1002/zaac.19080570105) | Table 9, p. 11, row 15 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 106.63 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Otto 1965_ [doi](https://doi.org/10.1149/1.2423551) | Table 9, p. 11, row 11 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 112.51 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Hochgeschwender 1967_ [doi](https://doi.org/10.1179/cmq.1967.6.1.71) | Table 9, p. 11, row 14 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 82.61 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Vlasov 1958_ | Table 9, p. 11, row 10 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 46.76 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Klingsberg 1960_ | Table 9, p. 11, row 16 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 103.63 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 18 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 62.24 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Askenasy 1910_ | Table 9, p. 11, row 13 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 49.56 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | experimental | [1] Grundy 2003; _cites Kim 1966_ | Table 9, p. 11, row 12 |  |
+| gibbs energy expression term; _printed: Δ°G(T) T coefficient_ | 94.4 J/mol/K |  | Mn2O3 + α-MnO2; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 9, p. 11, row 17 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 306 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T ln(T)_ | -23.8 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 31 |  |
+| gibbs energy expression term; _printed: Δ°G(T) coefficient of T_ | 77.823 J/mol/K |  | Mn2O3 + β-Mn3O4; _alloy: O 0.6_ | model | [1] Grundy 2003 | Table 8, p. 11, row 32 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 72.33 J/mol/K |  | α-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 14 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -385510 J/mol |  | α-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 14 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -386000 J/mol |  | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of Tln(T))_ | -0.559 J/mol/K |  | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 77.3 J/mol/K |  | α-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -391657 J/mol |  | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 12 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 78.06 J/mol/K |  | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 12 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 76.26 J/mol/K |  | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 11 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -391538 J/mol |  | β-, γ-, δ-Mn + MnO; _alloy: O 0_ | experimental | [1] Grundy 2003; _cites Alcock 1967_ [doi](https://doi.org/10.1016/0013-4686%2867%2985035-7) | Table 6, p. 10, row 11 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 75.345 J/mol/K |  | β-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 16 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -387830 J/mol |  | β-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 16 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of Tln(T))_ | 1.74 J/mol/K |  | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 61.3 J/mol/K |  | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -386000 J/mol |  | β-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 15 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -386000 J/mol |  | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 50.7 J/mol/K |  | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of Tln(T))_ | 3.21 J/mol/K |  | γ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 17 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -390140 J/mol |  | γ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 18 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 77.048 J/mol/K |  | γ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 18 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 79.023 J/mol/K |  | δ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 20 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -392940 J/mol |  | δ-Mn + MnO; _alloy: O 0_ | unspecified | [1] Grundy 2003 | Table 6, p. 10, row 20 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (constant term)_ | -386000 J/mol |  | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of Tln(T))_ | 4.55 J/mol/K |  | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
+| gibbs energy expression term; _printed: Δ°G(T) (coefficient of T)_ | 40.9 J/mol/K |  | δ-Mn + MnO; _alloy: O 0_ | model | [1] Grundy 2003 | Table 6, p. 10, row 19 |  |
 
 ## Sources
 

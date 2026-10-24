@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Ba0.425Pb0.575
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -67.7 | kJ/mol-atom | 2 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -68.449 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65.055 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -67.7 | kJ/mol-atom | 2 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -68.449 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -65.055 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Gd–Mg system
 
-> Gd–Mg system: 58 accepted literature values (invariant reaction 53, phase transition 5) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mg system: 71 accepted literature values (invariant reaction 53, crystal structure 13, phase transition 5) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MG.html · Markdown: https://data.orchid-project.org/systems/GD-MG.md
 
-58 accepted literature values from 3 paper(s) (experimental 25, model 33); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 4 paper(s) (experimental 32, model 39); 5 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MG.json) · [CSV](https://data.orchid-project.org/systems/GD-MG.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MG) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MG/GdMg-03Cac-LB.json) · [phases (12)](https://data.orchid-project.org/phases/pages/GD-MG.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MG.html) · [Markdown](https://data.orchid-project.org/systems/GD-MG.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 25 |
-| model | 33 |
+| experimental | 32 |
+| model | 39 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 53 |
 | phase transition | 5 |
+| crystal structure | 13 |
 
 ## Calculated phase diagrams
 
@@ -184,6 +185,26 @@ Table: Phase transition, Gd–Mg system
 | Phase transition | 1029.15 K | 1029.15 | L + GdMg = GdMg2 | experimental | [1] Hampl 2013; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1016/0022-5088%2886%2990135-9) | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
 | Phase transition | 1033.15 K | 1033.15 | L + GdMg = GdMg2 | model | [1] Hampl 2013 | p. 9 | “As seen from Fig. 6 and Fig. 3 few experimental data are available to support the next invariant reaction at 760 °C, where the interpretation from model II, L + GdMg = GdMg2, agrees with the reaction type reported at 756 °C \[8\].” |
 
+### Crystal structure (13)
+
+Table: Crystal structure, Gd–Mg system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.3824 not_printed ± 5.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001; _cites Miller 1964_ | Table 2, p. 3, row 1 |  |
+| Lattice a | 3.812 Å | 298.15 | GdMg; _alloy: Mg 0.5_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 4 |  |
+| Lattice a | 0.3833 not_printed ± 2.000e-4 | 298.15 | GdMg; _alloy: Mg 0.5_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 2 |  |
+| Lattice a | 0.8575 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001; _cites Manfrinetti 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 4 |  |
+| Lattice a | 8.55 Å | 298.15 | GdMg2; _alloy: Mg 0.666667_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 3 |  |
+| Lattice a | 0.864 not_printed ± 1.000e-4 | 298.15 | GdMg2; _alloy: Mg 0.666667_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 5 |  |
+| Lattice a | 6.857 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Gao 2007_ [doi](https://doi.org/10.1016/j.scriptamat.2007.06.005) | Table 4, p. 9, row 2 |  |
+| Lattice a | 7.31 Å | 298.15 | GdMg3; _alloy: Mg 0.75_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 2 |  |
+| Lattice a | 0.7326 not_printed | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001; _cites Will 1978_ | Table 2, p. 3, row 7 |  |
+| Lattice a | 0.7315 not_printed ± 5.000e-4 | 298.15 | GdMg3; _alloy: Mg 0.75_ | experimental | [4] Kevorkov 2001 | Table 2, p. 3, row 8 |  |
+| Lattice a | 2.2344 not_printed ± 8.000e-4 | 298.15 | GdMg5; _alloy: Mg 0.833333_ | experimental | [4] Kevorkov 2001; _cites Fornasini 1986_ [doi](https://doi.org/10.1107/s0108270186097019) | Table 2, p. 3, row 10 |  |
+| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Cao 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.08.004) | Table 5, p. 10, row 1 |  |
+| Lattice a | 22.344 Å | 298.15 | GdMg5; _alloy: Mg 0.833333_ | model | [3] Gröbner 2015; _cites Massalski 1990_ | Table 4, p. 9, row 1 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -191,6 +212,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. M. Hampl, C. Blawert, M.R. Silva Campos, N. Hort, Q. Peng, K.U. Kainer et al., Thermodynamic assessment and experimental study of Mg–Gd alloys, Journal of Alloys and Compounds 581, 166-177 (2013). [doi:10.1016/j.jallcom.2013.07.042](https://doi.org/10.1016/j.jallcom.2013.07.042)
 2. Cuiping Guo, Zhenmin Du, Changrong Li, A thermodynamic description of the Gd–Mg–Y system, Calphad 31, 75-88 (2007). [doi:10.1016/j.calphad.2006.10.004](https://doi.org/10.1016/j.calphad.2006.10.004)
 3. Joachim Gröbner, Artem Kozlov, Xi-Ya Fang, Suming Zhu, Jian-Feng Nie, Mark A. Gibson et al., Phase equilibria and transformations in ternary Mg–Gd–Zn alloys, Acta Materialia 90, 400-416 (2015). [doi:10.1016/j.actamat.2015.02.044](https://doi.org/10.1016/j.actamat.2015.02.044)
+4. D. G. Kevorkov, J. Gröbner, R. Schmid-Fetzer, V. V. Pavlyuk, G. S. Dmytriv, O. I. Bodak, The ternary Gd-Li-Mg system: Phase diagram study and computational evaluation, JPE 22, 34-42 (2001). [doi:10.1361/105497101770339274](https://doi.org/10.1361/105497101770339274)
 
 ## Please cite
 

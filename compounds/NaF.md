@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/NaF.html · Markdown: https://da
 
 2 accepted literature formation-enthalpy value(s) (experimental 1, DFT 1); experimental median -287.69 kJ/mol-atom (n = 1); Materials Project -283.373 kJ/mol-atom (mp-aaaaabag); OQMD -286.946 kJ/mol-atom (oqmd-5686).
 
-Systems: [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html)
+Systems: [F–Na](https://data.orchid-project.org/systems/F-NA.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of NaF reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -287.69 kJ/mol-atom | NaF | 0 | experimental |  | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 29 |  |
-| -269.597 kJ/mol-atom | NaF | 0 | DFT | first-principle calculations | [F–K–Na](https://data.orchid-project.org/systems/F-K-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
+| -287.69 kJ/mol-atom | NaF | 298.15 | experimental |  | [F–Na](https://data.orchid-project.org/systems/F-NA.html) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 29 |  |
+| -269.597 kJ/mol-atom | NaF | 0 | DFT | first-principle calculations | [F–Na](https://data.orchid-project.org/systems/F-NA.html) | [1] Zhang 2006 | Table 2, p. 3, row 28 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of NaF
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -287.69 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -269.597 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -287.69 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -269.597 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

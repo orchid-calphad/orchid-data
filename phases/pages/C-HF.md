@@ -1,10 +1,10 @@
 # C–Hf phases
 
-> C–Hf system: 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Hf system: 6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-HF.html · Markdown: https://data.orchid-project.org/phases/pages/C-HF.md
 
-6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-HF) · [full JSON](https://data.orchid-project.org/phases/systems/C-HF.json) · [C–Hf system page](https://data.orchid-project.org/systems/C-HF.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-HF.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -12,23 +12,23 @@ Table: Phases of the C–Hf system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-c-hf-a4-diamond); _phase:c-hf:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 2 | 2 |
+| [DIAMOND_A4](#phase-c-hf-a4-diamond); _phase:c-hf:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [GRAPHITE_A9](#phase-c-hf-a9-graphite); _phase:c-hf:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 2 |
-| [BCC_A2](#phase-c-hf-bcc-a2); _phase:c-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 2016.13–2506.99 K, x(C) 0–0.01068 | 9 | 2 |
-| [FCC_A1](#phase-c-hf-fcc-a1); _phase:c-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 0.33419–0.49872 | 14 | 2 |
-| [HCP_A3](#phase-c-hf-hcp-a3); _phase:c-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2649.08 K, x(C) 0–0.13983 | 9 | 2 |
+| [BCC_A2](#phase-c-hf-bcc-a2); _phase:c-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 2016.13–2506.99 K, x(C) 0–0.01068 | 6 | 2 |
+| [FCC_A1](#phase-c-hf-fcc-a1); _phase:c-hf:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 0.33419–0.49872 | 14 | 2 |
+| [HCP_A3](#phase-c-hf-hcp-a3); _phase:c-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2649.08 K, x(C) 0–0.13983 | 6 | 2 |
 | [LIQUID](#phase-c-hf-liquid); _phase:c-hf:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2463.94–4000 K, x(C) 0–0.74728 | 15 | 2 |
 
 ## DIAMOND_A4 (C–Hf)
 
 - Id: `phase:c-hf:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-hf:a4-diamond)
 
-Names (4): _corpus: _corpus:phase:c-hf:a4-diamond  
-_paper: _paper:10.1007/s11669-997-0061-3:(αHf)  
+Names (3): _corpus: _corpus:phase:c-hf:a4-diamond  
 _tdb: _tdb:HfC-16Pan.tdb:DIAMOND_A4, tdb:HfC-97Bit-LB.tdb:DIAMOND_A4  
 
 
@@ -51,7 +51,7 @@ _tdb: _tdb:HfC-16Pan.tdb:DIAMOND_A4, tdb:HfC-97Bit-LB.tdb:DIAMOND_A4
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-997-0061-3](https://doi.org/10.1007/s11669-997-0061-3) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the binary system hafnium-carbon (Hf-C), JPE 18, 344-356 (1997).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.calphad.2016.02.001](https://doi.org/10.1016/j.calphad.2016.02.001) Y. Pan, P. Zhou, Y. Peng, Y. Du, F. Luo, Calphad, 53, 1-9(2016).  
 _assessment that models this phase_
 
@@ -59,6 +59,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-hf:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-hf:a9-graphite)
@@ -95,7 +96,7 @@ _assessment that models this phase_
 - Id: `phase:c-hf:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 2016.13–2506.99 K, x(C) 0–0.01068
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-hf:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:c-hf:bcc-a2  
@@ -131,7 +132,7 @@ _cited as the source of values for this phase_
 ## FCC_A1 (C–Hf)
 
 - Id: `phase:c-hf:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 0.33419–0.49872
 - Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-hf:fcc-a1)
@@ -169,7 +170,7 @@ _assessment that models this phase_
 - Id: `phase:c-hf:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2649.08 K, x(C) 0–0.13983
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-hf:hcp-a3)
 
 Names (4): _corpus: _corpus:phase:c-hf:hcp-a3  
@@ -193,14 +194,12 @@ _tdb: _tdb:HfC-16Pan.tdb:HCP_A3, tdb:HfC-97Bit-LB.tdb:HCP_A3
 36: CONST HCP_A3 : HF : C VA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-997-0061-3](https://doi.org/10.1007/s11669-997-0061-3) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the binary system hafnium-carbon (Hf-C), JPE 18, 344-356 (1997).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2016.02.001](https://doi.org/10.1016/j.calphad.2016.02.001) Y. Pan, P. Zhou, Y. Peng, Y. Du, F. Luo, Calphad, 53, 1-9(2016).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 
 ## LIQUID (C–Hf)
 

@@ -1,12 +1,25 @@
 # Ir–W system
 
-> Ir–W system: 0 accepted literature values (none) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ir–W system: 12 accepted literature values (crystal structure 12) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/IR-W.html · Markdown: https://data.orchid-project.org/systems/IR-W.md
 
-0 accepted literature values from 0 paper(s); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+12 accepted literature values from 1 paper(s) (experimental 6, model 6); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/IR-W.json) · [CSV](https://data.orchid-project.org/systems/IR-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#IR-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#IR-W/IrW-20Hua.json) · [phases (8)](https://data.orchid-project.org/phases/pages/IR-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/IR-W.html) · [Markdown](https://data.orchid-project.org/systems/IR-W.md)
+
+Table: Accepted values by evidence class
+
+| Evidence class | Values |
+|---|---:|
+| experimental | 6 |
+| model | 6 |
+
+Table: Accepted values by property group
+
+| Property group | Values |
+|---|---:|
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -31,6 +44,33 @@ Table: Calculated three-phase invariants (model, mole fraction of the second com
 | IrW-20Hua.tdb | 1507.94 | IR3W_D019 (x(W) 0.33617) + IRW_A3 (x(W) 0.37392) + IRW_B19 (x(W) 0.47839) |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/IR/IR-W.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/IR/IR-W.json)
+
+## Other properties
+
+### Crystal structure (12)
+
+Table: Crystal structure, Ir–W system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
+| Lattice a | 4.486 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
+| Lattice a | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
+| Lattice a | 4.452 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
+| Lattice b | 5.551 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
+| Lattice b | 2.788 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
+| Lattice b | 5.496 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
+| Lattice b | 2.76 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
+| Lattice c | 4.436 Å |  | Ir3W; _alloy: W 0.25_ | model | [1] Huang 2020 | Table 1, p. 3, row 20 |  |
+| Lattice c | 4.866 Å |  | IrW; _alloy: W 0.5_ | model | [1] Huang 2020 | Table 1, p. 3, row 22 |  |
+| Lattice c | 4.39 Å | 298.15 | Ir3W; _alloy: W 0.25_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 19 |  |
+| Lattice c | 4.811 Å | 298.15 | IrW; _alloy: W 0.5_ | experimental | [1] Huang 2020; _cites Giessen 1965_ | Table 1, p. 3, row 21 |  |
+
+## Sources
+
+Reporting papers the values were read from (a value cited from another work names that work in its row).
+
+1. Y.-Y. Huang, B. Wu, F. Li, L.-L. Chen, Z.-X. Deng, K. Chang, First-principles and CALPHAD-type study of the Ir-Mo and Ir-W systems, J min metall B Metall 56, 109-118 (2020). [doi:10.2298/jmmb190211001h](https://doi.org/10.2298/jmmb190211001h)
 
 ## Please cite
 

@@ -14,7 +14,7 @@ Table: Phases of the Al–C system (8)
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-al-c-a4-diamond); _phase:al-c:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GRAPHITE_A9](#phase-al-c-a9-graphite); _phase:al-c:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 6 |
-| [AL4C3_D71](#phase-al-c-al4c3-d71); _phase:al-c:al4c3-d71_ | Al4C3 · D7_1 · hR21 · R-3m (166) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2455.51 K, x(C) 0.42857–0.42857 | 40 | 6 |
+| [AL4C3_D71](#phase-al-c-al4c3-d71); _phase:al-c:al4c3-d71_ | Al4C3 · D7_1 · hR7 · R-3m (166) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2455.51 K, x(C) 0.42857–0.42857 | 40 | 6 |
 | [BCC_A2](#phase-al-c-bcc-a2); _phase:al-c:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [FCC_A1](#phase-al-c-fcc-a1); _phase:al-c:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2088.47 K, x(C) 0–0.00046 | 0 | 6 |
 | [GAS](#phase-al-c-gas); _phase:al-c:gas_ | gas | gas | stable in 3 of 3 calculated diagram(s): 2763.07–4000 K, x(C) 0–1 | 0 | 3 |
@@ -25,6 +25,7 @@ Table: Phases of the Al–C system (8)
 
 - Id: `phase:al-c:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-c:a4-diamond)
@@ -51,6 +52,7 @@ _assessment that models this phase_
 
 - Id: `phase:al-c:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-c:a9-graphite)
@@ -121,7 +123,7 @@ _assessment that models this phase_
 ## AL4C3_D71 (Al–C)
 
 - Id: `phase:al-c:al4c3-d71`; status `assigned`
-- Structure: Al4C3 · D7_1 · hR21 · R-3m (166); type `st:d7-1-al4c3-hr21`; tier A: standard phase name; confidence high
+- Structure: Al4C3 · D7_1 · hR7 · R-3m (166); type `st:d7-1-al4c3-hr7`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.5714, C 0.4286
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2455.51 K, x(C) 0.42857–0.42857
 - Literature: 40 values (40 accepted) from 2 papers

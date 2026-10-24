@@ -14,7 +14,7 @@ Table: Phases of the Fe–Pt system (5)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-fe-pt-bcc-a2); _phase:fe-pt:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1818.78 K, x(Pt) 0–0.04262 | 0 | 2 |
 | [FCC_4SL](#phase-fe-pt-fcc-4sl); _phase:fe-pt:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2499 K, x(Pt) 0–1 | 0 | 2 |
-| [A1_FCC](#phase-fe-pt-fcc-a1); _phase:fe-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 4 calculated diagram(s): 300–2020 K, x(Pt) 0–0.98 | 0 | 4 |
+| [FCC_A1](#phase-fe-pt-fcc-a1); _phase:fe-pt:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2020 K, x(Pt) 0–0.98 | 0 | 4 |
 | [HCP_A3](#phase-fe-pt-hcp-a3); _phase:fe-pt:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-fe-pt-liquid); _phase:fe-pt:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1772.02–2500 K, x(Pt) 0–1 | 0 | 2 |
 
@@ -92,11 +92,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.1016/S0364-5916(02)00006-8](https://doi.org/10.1016/S0364-5916%2802%2900006-8) P. Fredriksson, B. Sundman, Calphad, 25, 535-48(2001).  
 _assessment that models this phase_
 
-## A1_FCC (Fe–Pt)
+## FCC_A1 (Fe–Pt)
 
 - Id: `phase:fe-pt:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 4 calculated diagram(s): 300–2020 K, x(Pt) 0–0.98
+- Stability: stable in 2 of 2 calculated diagram(s): 300–2020 K, x(Pt) 0–0.98
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-pt:fcc-a1)
 
@@ -104,7 +104,7 @@ Names (5): _corpus: _corpus:phase:fe-pt:fcc-a1
 _tdb: _tdb:FePt-01Fre-LB.tdb:A1_FCC, tdb:FePt-01Fre-LB.tdb:FCC_A1, tdb:FePt-01Fre-orig.tdb:A1_FCC, tdb:FePt-01Fre-orig.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (4): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (4): PHASE and CONSTITUENT statements as written
 
 [FePt-01Fre-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/FePt-01Fre-LB.tdb): A1_FCC, type code %A, sha256 `1c359cccce909a24…`
 

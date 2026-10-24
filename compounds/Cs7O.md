@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs7O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -42.5625 | kJ/mol-atom |  | 0.00625 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.475 | kJ/mol-atom |  | 0.00625 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -42.5625 | kJ/mol-atom |  | 0.00625 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.475 | kJ/mol-atom |  | 0.00625 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -36,7 +36,7 @@ Table: DFT formation energy of Cs7O
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabfyzf | -44.374 | -0.459909 | P-6m2 | 0.403 | 0.0042 | no |
+| Materials Project | mp-aaabfyzf | -44.374 | -0.459909 | P-6m2 | 0.4033 | 0.0042 | no |
 | OQMD | oqmd-1632 | -43.119 | -0.4469 | P-6m2 | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

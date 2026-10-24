@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/DyB4.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (model 1, DFT 2); Materials Project -57.547 kJ/mol-atom (mp-aaaaaeap); OQMD -57.764 kJ/mol-atom (oqmd-12458).
 
-Systems: [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html)
+Systems: [B–Dy](https://data.orchid-project.org/systems/B-DY.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of DyB4 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -55.007 kJ/mol-atom | DyB4 | 298.15 | model | Optimization | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
-| -57.692 kJ/mol-atom | DyB4 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
-| -57.596 kJ/mol-atom | DyB4 | 298.15 | DFT | First-principle calculation | [B–Ce–Dy–Lu](https://data.orchid-project.org/systems/B-CE-DY-LU.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
+| -55.007 kJ/mol-atom | DyB4 | 298.15 | model | Optimization | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020 | Table 2, p. 25, row 21 |  |
+| -57.692 kJ/mol-atom | DyB4 | 298.15 | DFT | First-principle calculation | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 30_ | Table 2, p. 25, row 19 |  |
+| -57.596 kJ/mol-atom | DyB4 | 298.15 | DFT | First-principle calculation | [B–Dy](https://data.orchid-project.org/systems/B-DY.html) | [1] Li 2020; _cites ref. 31_ | Table 2, p. 25, row 20 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of DyB4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -55.007 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -57.692 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -57.596 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -55.007 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -57.692 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -57.596 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

@@ -25,7 +25,7 @@ Table: Uncertainty budget of the literature values of Sn2Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -71.8 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -71.8 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -65.95 | kJ/mol-atom | 4.2 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
 
 ## DFT formation energies

@@ -13,7 +13,7 @@ Table: Phases of the Mn–Zr system (8)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-mn-zr-bcc-a2); _phase:mn-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1060.11–3999.1 K, x(Zr) 0–1 | 5 | 4 |
-| [C14_LAVES](#phase-mn-zr-c14-laves); _phase:mn-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1764.95 K, x(Zr) 0.24426–0.34961 | 6 | 2 |
+| [C14_LAVES](#phase-mn-zr-c14-laves); _phase:mn-zr:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1764.95 K, x(Zr) 0.24426–0.34961 | 4 | 2 |
 | [CBCC_A12](#phase-mn-zr-cbcc-a12); _phase:mn-zr:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1005 K, x(Zr) 0–0.00291 | 1 | 4 |
 | [CUB_A13](#phase-mn-zr-cub-a13); _phase:mn-zr:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 975.45–1474.65 K, x(Zr) 0–0.0184 | 3 | 4 |
 | [FCC_A1](#phase-mn-zr-fcc-a1); _phase:mn-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1317.15–1508.44 K, x(Zr) 0–0.01172 | 1 | 4 |
@@ -82,7 +82,7 @@ _reports values for this phase_
 - Caveat: partitioned order/disorder model in MnZr-20Kup.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in MnZr-21Si.tdb also describes the disordered state
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1764.95 K, x(Zr) 0.24426–0.34961
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zr:c14-laves)
 
 Names (4): _corpus: _corpus:phase:mn-zr:c14-laves  

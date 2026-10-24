@@ -1,10 +1,10 @@
 # B–Nb–Ti system
 
-> B–Nb–Ti system: 68 accepted literature values (formation 53, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Nb–Ti system: 52 accepted literature values (formation 37, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-NB-TI.html · Markdown: https://data.orchid-project.org/systems/B-NB-TI.md
 
-68 accepted literature values from 1 paper(s) (experimental 5, model 22, DFT 41); 0 calculated phase diagram(s).
+52 accepted literature values from 1 paper(s) (experimental 5, model 18, DFT 29); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-NB-TI.json) · [CSV](https://data.orchid-project.org/systems/B-NB-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-NB-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-NB-TI.html) · [Markdown](https://data.orchid-project.org/systems/B-NB-TI.md)
 
@@ -13,15 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 5 |
-| model | 22 |
-| DFT | 41 |
+| model | 18 |
+| DFT | 29 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 15 |
-| formation | 53 |
+| formation | 37 |
 
 ## Invariant reactions (literature)
 
@@ -49,7 +49,7 @@ Table: Invariant reactions reported in the literature for the B–Nb–Ti system
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, B–Nb–Ti system (53)
+Table: Enthalpies of formation, B–Nb–Ti system (37)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -90,22 +90,6 @@ Table: Enthalpies of formation, B–Nb–Ti system (53)
 | (Nb,Ti)B2 |  | -84.4 kJ/mol-atom |  | model |  |  | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 49 |  |
 | (Nb,Ti)B2 |  | -80.1 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 50 |  |
 | (Nb,Ti)B2 |  | -72.7 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 48 |  |
-| NbB |  | -82.6 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 18 |  |
-| NbB |  | -82.4 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 17 |  |
-| NbB |  | -82.2 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 16 |  |
-| NbB |  | -79.4 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 15 |  |
-| NbB |  | -79.2 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 14 |  |
-| NbB |  | -78.7 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 12 |  |
-| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -78.7 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 13 |  |
-| NbB | [NbB](https://data.orchid-project.org/compounds/NbB.html) | -67.9 kJ/mol-atom |  | model | -74.259 (mp-aaaaadvg) | -74.633 (oqmd-7942) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 20 |  |
-| TiB |  | -83 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 28 |  |
-| TiB |  | -82.9 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 26 |  |
-| TiB |  | -82.7 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 25 |  |
-| TiB | [TiB](https://data.orchid-project.org/compounds/TiB.html) | -82.5 kJ/mol-atom |  | model | -80.281 (mp-aaaaalqf) | -82.177 (oqmd-28621) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 29 |  |
-| TiB |  | -82 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 24 |  |
-| TiB |  | -80.1 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 23 |  |
-| TiB |  | -78.7 kJ/mol-atom | 0 | DFT |  |  | [1] Nakama 2009 | Table 4, p. 7, row 21 |  |
-| TiB | [TiB](https://data.orchid-project.org/compounds/TiB.html) | -69.3 kJ/mol-atom |  | model | -80.281 (mp-aaaaalqf) | -82.177 (oqmd-28621) | [1] Nakama 2009; _cites Witusiewicz 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.02.030) | Table 4, p. 7, row 22 |  |
 
 ## Sources
 

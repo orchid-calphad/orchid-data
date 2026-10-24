@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of CeSi1.68
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -70 | kJ/mol-atom | 6 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6 |
-| -70 | kJ/mol-atom | 6 | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 6 |
-| -65 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -70 | kJ/mol-atom | 6 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 6 |
+| -70 | kJ/mol-atom | 6 | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 6 |
+| -65 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -65 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

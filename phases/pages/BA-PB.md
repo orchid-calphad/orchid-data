@@ -19,8 +19,8 @@ Table: Phases of the Ba–Pb system (11)
 | [BA5PB3_D8L](#phase-ba-pb-ba5pb3-d8l); _phase:ba-pb:ba5pb3-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1243.81 K, x(Pb) 0.375–0.375 | 12 | 1 |
 | [BAPB_B33](#phase-ba-pb-bapb-b33); _phase:ba-pb:bapb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1126.91 K, x(Pb) 0.5–0.5 | 12 | 1 |
 | [BAPB3](#phase-ba-pb-bapb3); _phase:ba-pb:bapb3_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–870.28 K, x(Pb) 0.75–0.75 | 11 | 1 |
-| [BCC_A2](#phase-ba-pb-bcc-a2); _phase:ba-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1004 K, x(Pb) 0–0.00133 | 8 | 1 |
-| [FCC_A1](#phase-ba-pb-fcc-a1); _phase:ba-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–601.61 K, x(Pb) 0.99184–1 | 5 | 1 |
+| [BCC_A2](#phase-ba-pb-bcc-a2); _phase:ba-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1004 K, x(Pb) 0–0.00133 | 3 | 1 |
+| [FCC_A1](#phase-ba-pb-fcc-a1); _phase:ba-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–601.61 K, x(Pb) 0.99184–1 | 2 | 1 |
 | [HCP_A3](#phase-ba-pb-hcp-a3); _phase:ba-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ba-pb-liquid); _phase:ba-pb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 563.12–2500 K, x(Pb) 0–1 | 43 | 1 |
 
@@ -253,11 +253,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ba-pb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1004 K, x(Pb) 0–0.00133
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-pb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:ba-pb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2007.04.003:(Ba), paper:10.1016/j.calphad.2007.04.003:βBa0.375Pb0.625  
+Names (3): _corpus: _corpus:phase:ba-pb:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2007.04.003:(Ba)  
 _tdb: _tdb:BaPb-07Idb.tdb:BCC_A2  
 
 
@@ -270,19 +270,17 @@ _tdb: _tdb:BaPb-07Idb.tdb:BCC_A2
 44: CONST BCC_A2 : BA% PB : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2007.04.003](https://doi.org/10.1016/j.calphad.2007.04.003) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, A thermodynamic modelling of the Ba–Pb system, Calphad 31, 479-489 (2007).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0022-5088(77)90003-0](https://doi.org/10.1016/0022-5088%2877%2990003-0) Giacomo Bruzzone, Enrico Franceschi, Equilibrium phase diagram and crystal structures of the intermediate phases of the Ba-Pb binary system, Journal of the Less Common Metals 52, 211-216 (1977).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Ba–Pb)
 
 - Id: `phase:ba-pb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–601.61 K, x(Pb) 0.99184–1
-- Literature: 5 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ba-pb:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:ba-pb:fcc-a1  

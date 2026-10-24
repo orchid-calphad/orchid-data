@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Ni2B
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -22.6 | kJ/mol (basis unstated) | 1.4 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -27 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -26.7 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.13 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -22.6 | kJ/mol (basis unstated) | 1.4 | 0.05 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -27 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -26.7 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -21.13 | kJ/mol (basis unstated) |  | 0.005 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
 
 ## Sources
 

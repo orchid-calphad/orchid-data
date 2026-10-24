@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CaMg2.html · Markdown: https://
 
 13 accepted literature formation-enthalpy value(s) (experimental 7, model 2, DFT 1, unspecified 3); experimental median -13.04 kJ/mol-atom (n = 7); Materials Project -10.24 kJ/mol-atom (mp-aaaaadpo); OQMD -12.167 kJ/mol-atom (oqmd-21025).
 
-Systems: [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) · [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html)
+Systems: [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html)
 
 ## Literature values
 
@@ -14,19 +14,19 @@ Table: Enthalpy of formation of CaMg2 reported in the literature (13)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
-| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
-| -13.38 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
-| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
-| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
-| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
-| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
-| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
-| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg–Sn](https://data.orchid-project.org/systems/CA-MG-SN.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
-| -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
-| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
-| -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg–Sr](https://data.orchid-project.org/systems/CA-MG-SR.html) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
+| -14.59 kJ/mol-atom | Mg2Ca-C14 | 255.5 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Chiotti 1964_ [doi](https://doi.org/10.1016/0022-5088%2864%2990053-0) | Table 2, p. 4, row 13 |  |
+| -13.5 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 5, row 4 |  |
+| -13.38 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites King 1964_ [doi](https://doi.org/10.1016/0001-6160%2864%2990056-2) | Table 2, p. 4, row 9 |  |
+| -13.04 kJ/mol-atom | Mg2Ca-C14 | 298.15 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Gartner 1965_ | Table 2, p. 4, row 10 |  |
+| -13 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Davison 1968_ | Table 2, p. 5, row 6 |  |
+| -12.7 kJ/mol-atom | Mg2Ca | 298.15 | experimental | experimental | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Gartner 1965_ | Table 2, p. 5, row 5 |  |
+| -11.29 kJ/mol-atom | Mg2Ca-C14 | 359 | experimental |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Smith 1961_ | Table 2, p. 4, row 12 |  |
+| -12.85 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008; _cites Agarwal 1995_ | Table 2, p. 5, row 2 |  |
+| -12.78 kJ/mol-atom | Mg2Ca | 298.15 | model | Calphad | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 3 |  |
+| -12.37 kJ/mol-atom | Mg2Ca | 298.15 | DFT | first-principles | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [2] Kozlov 2008 | Table 2, p. 5, row 1 |  |
+| -20.97 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Pyagai 1990_ | Table 2, p. 4, row 8 |  |
+| -13.04 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006; _cites Davison 1968_ | Table 2, p. 4, row 11 |  |
+| -11.7161 kJ/mol-atom | Mg2Ca-C14 | 0 | unspecified |  | [Ca–Mg](https://data.orchid-project.org/systems/CA-MG.html) | [1] Zhong 2006 | Table 2, p. 4, row 6 |  |
 
 ### Uncertainty budget
 
@@ -36,19 +36,19 @@ Table: Uncertainty budget of the literature values of CaMg2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.59 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -14.59 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 | -13.5 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -13.38 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13.04 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13 | kJ/mol-atom |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -13.38 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.04 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -12.7 | kJ/mol-atom |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -11.29 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -12.85 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12.78 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -12.37 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -20.97 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13.04 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.7161 | kJ/mol-atom |  | 5.000e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -11.29 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -12.85 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -12.78 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -12.37 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -20.97 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.04 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.7161 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

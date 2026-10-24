@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu4Sb.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html)
+Systems: [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cu4Sb reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -5.142 kJ/mol-atom | δ(Cu4Sb) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 3 |  |
+| -5.142 kJ/mol-atom | δ(Cu4Sb) |  | model |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000 | Table 2, p. 3, row 3 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cu4Sb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.142 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -5.142 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

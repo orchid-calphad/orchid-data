@@ -1,10 +1,10 @@
 # Cu–Yb system
 
-> Cu–Yb system: 22 accepted literature values (invariant reaction 16, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Yb system: 20 accepted literature values (invariant reaction 14, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-YB.html · Markdown: https://data.orchid-project.org/systems/CU-YB.md
 
-22 accepted literature values from 1 paper(s) (experimental 13, model 8, unspecified 1); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 13, model 7); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-YB.json) · [CSV](https://data.orchid-project.org/systems/CU-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-YB/CuYb-07Zha.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CU-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-YB.html) · [Markdown](https://data.orchid-project.org/systems/CU-YB.md)
 
@@ -13,14 +13,13 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 8 |
-| unspecified | 1 |
+| model | 7 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 14 |
 | phase transition | 6 |
 
 ## Calculated phase diagrams
@@ -59,7 +58,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/CU/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Yb system (16)
+Table: Invariant reactions reported in the literature for the Cu–Yb system (14)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -71,8 +70,6 @@ Table: Invariant reactions reported in the literature for the Cu–Yb system (16
 | 1132 | eutectic: L -> FCC(Cu) + Cu5Yb | L: Cu 0.9; Cu5Yb: Cu 0.833333, Yb 0.166667 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 16 |  |
 | 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.6839; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | model | [1] Zhang 2007 | Table 4, p. 5, row 9 |  |
 | 1098 | peritectic: L + Cu9Yb2 -> Cu7Yb2 | L: Cu 0.7; Cu9Yb2: Cu 0.818182, Yb 0.181818; Cu7Yb2: Cu 0.777778, Yb 0.222222 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 10 |  |
-| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | unspecified | [1] Zhang 2007; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 4, p. 5, row 2 |  |
-| 1033 | polymorphic: BCC(Yb) -> FCC(Yb) |  | model | [1] Zhang 2007 | Table 4, p. 5, row 1 |  |
 | 1030 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.64; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 8 |  |
 | 1028 | peritectic: L + Cu7Yb2 -> Cu2Yb | L: Cu 0.6208; Cu7Yb2: Cu 0.777778, Yb 0.222222; Cu2Yb: Cu 0.666667, Yb 0.333333 | model | [1] Zhang 2007 | Table 4, p. 5, row 7 |  |
 | 901 | peritectic: L + Cu2Yb -> CuYb | L: Cu 0.49; Cu2Yb: Cu 0.666667, Yb 0.333333; CuYb: Cu 0.5, Yb 0.5 | experimental | [1] Zhang 2007; _cites Iandelli 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990158-5) | Table 4, p. 5, row 6 |  |

@@ -1,20 +1,20 @@
 # Bi–Er system
 
-> Bi–Er system: 101 accepted literature values (invariant reaction 47, formation 37, activity / EMF / Gibbs energy 12, phase transition 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Er system: 153 accepted literature values (formation 60, invariant reaction 47, crystal structure 29, activity / EMF / Gibbs energy 12) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-ER.html · Markdown: https://data.orchid-project.org/systems/BI-ER.md
 
-101 accepted literature values from 3 paper(s) (experimental 35, model 57, DFT 2, unspecified 7); 3 calculated phase diagram(s).
+153 accepted literature values from 3 paper(s) (experimental 49, model 67, DFT 30, unspecified 7); 3 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ER.json) · [CSV](https://data.orchid-project.org/systems/BI-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ER/BiEr-13Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/BI-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-ER.html) · [Markdown](https://data.orchid-project.org/systems/BI-ER.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-ER.json) · [CSV](https://data.orchid-project.org/systems/BI-ER.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-ER) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-ER/BiEr-13Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-ER.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-ER.html) · [Markdown](https://data.orchid-project.org/systems/BI-ER.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
-| model | 57 |
-| DFT | 2 |
+| experimental | 49 |
+| model | 67 |
+| DFT | 30 |
 | unspecified | 7 |
 
 Table: Accepted values by property group
@@ -23,8 +23,9 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 47 |
 | phase transition | 5 |
-| formation | 37 |
+| formation | 60 |
 | activity / EMF / Gibbs energy | 12 |
+| crystal structure | 29 |
 
 ## Calculated phase diagrams
 
@@ -125,30 +126,41 @@ Table: Invariant reactions reported in the literature for the Bi–Er system (47
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–Er system (37)
+Table: Enthalpies of formation, Bi–Er system (60)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Bi3Er5 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -81 kJ/mol-atom | 0 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 1 |  |
-| Bi3Er5 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -77 kJ/mol-atom | 0 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 2 |  |
+| Bi3Er5 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -81 kJ/mol-atom | 298.15 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 1 |  |
+| Bi3Er5 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -77 kJ/mol-atom | 298.15 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 2 |  |
 | Bi3Er5 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -69 kJ/mol-atom | 0 | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [2] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 4 |  |
 | Bi3Er5 |  | -66.035 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2013 | Table 4, p. 4, row 3 |  |
-| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -109 kJ/mol-atom | 0 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6 |  |
-| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -103 kJ/mol-atom | 0 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7 |  |
-| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -90 kJ/mol-atom | 0 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5 |  |
+| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -109 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6 |  |
+| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -103 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7 |  |
+| BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -90 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5 |  |
 | BiEr |  | -82.069 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2013 | Table 4, p. 4, row 8 |  |
 | BiEr | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -75 kJ/mol-atom | 0 | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [2] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 9 |  |
 | Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -81 kJ/mol-atom | 298.15 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [3] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 7 |  |
 | Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -77 kJ/mol-atom | 298.15 | experimental | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [3] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 8 |  |
+| Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -70.28 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 21 |  |
+| Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -69 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [1] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 23 |  |
 | Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -69 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [3] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 6 |  |
+| Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -66.486 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 22 |  |
 | Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -66.486 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [3] Wang 2017 | Table 9, p. 7, row 9 |  |
+| Er5Bi3 |  | -66.035 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 20 |  |
+| Er5Bi3 |  | -64.084 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 18 |  |
+| Er5Bi3 |  | -63.496 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 16 |  |
+| Er5Bi3 | [Bi3Er5](https://data.orchid-project.org/compounds/Bi3Er5.html) | -62.917 kJ/mol-atom |  | model | -62.124 (mp-aaaabuog) | -64.128 (oqmd-18567) | [1] Bennoui 2022 | Table 2, p. 5, row 17 |  |
+| Er5Bi3 |  | -62.157 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 19 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -109 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 2 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -103 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 4 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -90 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -80.35 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017 | Table 9, p. 7, row 5 |  |
 | ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -75 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [3] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1 |  |
+| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -59 kJ/mol-atom |  | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 3 |  |
+| ErBi2 | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -53.528 kJ/mol-atom |  | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 2, p. 5, row 2 |  |
+| ErBi2 |  | -45.237 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 1 |  |
 | ErBi2 (Ag2Se-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -21.1173 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 5 |  |
-| ErBi2 (Al2Cu-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -38.4406 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 12 |  |
+| ErBi2 (Al2Cu-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -38.4406 kJ/mol-atom | 0 | model |  | -38.396 (oqmd-1039322) | [1] Bennoui 2022 | Table 3, p. 6, row 12 |  |
 | ErBi2 (AuTe2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -35.9422 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 11 |  |
 | ErBi2 (CaSb2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -45.9664 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 17 |  |
 | ErBi2 (CdI2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 39.6679 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 1 |  |
@@ -163,9 +175,21 @@ Table: Enthalpies of formation, Bi–Er system (37)
 | ErBi2 (LaAs2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -43.6048 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 14 |  |
 | ErBi2 (MoS2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -23.4701 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 7 |  |
 | ErBi2 (MoS2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | 15.2241 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 2 |  |
-| ErBi2 (MoSi2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -33.6478 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 10 |  |
+| ErBi2 (MoSi2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -33.6478 kJ/mol-atom | 0 | model |  | -33.717 (oqmd-1040064) | [1] Bennoui 2022 | Table 3, p. 6, row 10 |  |
 | ErBi2 (NdAs2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -48.2365 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 19 |  |
 | ErBi2 (SmSb2-type) | [Bi2Er](https://data.orchid-project.org/compounds/Bi2Er.html) | -47.7533 kJ/mol-atom | 0 | model |  | -46.37 (oqmd-1800946) | [1] Bennoui 2022 | Table 3, p. 6, row 18 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -109 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Petrashkevich 1976_ | Table 2, p. 5, row 12 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -103 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Yamshchikov 1979_ | Table 2, p. 5, row 11 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -101.3 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Sidorko 2011_ [doi](https://doi.org/10.1007/s11106-011-9339-4) | Table 2, p. 5, row 14 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -90 kJ/mol-atom | 298.15 | experimental | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -83.62 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9 |  |
+| α-ErBi |  | -82.069 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -80.35 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10 |  |
+| α-ErBi |  | -80.274 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6 |  |
+| α-ErBi |  | -80.005 kJ/mol-atom | 0 | DFT |  |  | [1] Bennoui 2022 | Table 2, p. 5, row 4 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -79.131 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022 | Table 2, p. 5, row 5 |  |
+| α-ErBi |  | -77.576 kJ/mol-atom |  | DFT |  |  | [1] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7 |  |
+| α-ErBi | [BiEr](https://data.orchid-project.org/compounds/BiEr.html) | -75 kJ/mol-atom |  | model | -77.511 (mp-aaaabikb) | -80.472 (oqmd-1926318) | [1] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15 |  |
 
 ## Other properties
 
@@ -199,6 +223,42 @@ Table: Activity / EMF / Gibbs energy, Bi–Er system
 | Activity coefficient; _printed: Log(activity coefficient)_ | -7.6 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017 | Table 12, p. 9, row 9 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.37 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Gschneidner 1989_ [doi](https://doi.org/10.1007/bf02882364) | Table 12, p. 9, row 8 |  |
 | Activity coefficient; _printed: Log(activity coefficient)_ | -8.08 unknown | 973 | liquid Bi; _alloy: Er 0_ | model | [3] Wang 2017; _cites Hajimu 2001_ | Table 12, p. 9, row 7 |  |
+
+### Crystal structure (29)
+
+Table: Crystal structure, Bi–Er system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.171 Å | 0 | Bi3Er5; _alloy: Er 0.625_ | DFT | [2] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice a | 6.2644 Å | 0 | BiEr; _alloy: Er 0.5_ | DFT | [2] Wang 2013 | Table 3, p. 3, row 9 |  |
+| Lattice a | 8.19 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice a | 8.171 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice a | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice a | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice a | 4.18 Å | 0 | ErBi2; _alloy: Er 0.333333_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice a | 8.09 Å | 298.15 | Bi3Er5; _alloy: Er 0.625_ | experimental | [2] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Lattice a | 6.2023 Å | 298.15 | BiEr; _alloy: Er 0.5_ | experimental | [2] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 10 |  |
+| Lattice a | 8.09 Å | 298.15 | Er5Bi3; _alloy: Er 0.625_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice a | 6.2023 Å | 298.15 | ErBi(α); _alloy: Er 0.5_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
+| Lattice b | 9.446 Å | 0 | Bi3Er5; _alloy: Er 0.625_ | DFT | [2] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice b | 9.457 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice b | 9.446 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice b | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice b | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice b | 7.608 Å | 0 | ErBi2; _alloy: Er 0.333333_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice b | 9.349 Å | 298.15 | Bi3Er5; _alloy: Er 0.625_ | experimental | [2] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Lattice b | 9.349 Å | 298.15 | Er5Bi3; _alloy: Er 0.625_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice b | 6.2023 Å | 298.15 | ErBi(α); _alloy: Er 0.5_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
+| Lattice c | 11.889 Å | 0 | Bi3Er5; _alloy: Er 0.625_ | DFT | [2] Wang 2013 | Table 3, p. 3, row 7 |  |
+| Lattice c | 11.919 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 10 |  |
+| Lattice c | 11.889 Å | 0 | Er5Bi3; _alloy: Er 0.625_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 9 |  |
+| Lattice c | 6.279 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 7 |  |
+| Lattice c | 6.264 Å | 0 | ErBi(α); _alloy: Er 0.5_ | DFT | [1] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 1, p. 3, row 6 |  |
+| Lattice c | 11.495 Å | 0 | ErBi2; _alloy: Er 0.333333_ | DFT | [1] Bennoui 2022 | Table 1, p. 3, row 4 |  |
+| Lattice c | 11.806 Å | 298.15 | Bi3Er5; _alloy: Er 0.625_ | experimental | [2] Wang 2013; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 3, p. 3, row 8 |  |
+| Lattice c | 11.806 Å | 298.15 | Er5Bi3; _alloy: Er 0.625_ | experimental | [1] Bennoui 2022; _cites Drzyzga 2001_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901009-x) | Table 1, p. 3, row 8 |  |
+| Lattice c | 6.202 Å | 298.15 | ErBi(α); _alloy: Er 0.5_ | experimental | [1] Bennoui 2022; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 3, row 5 |  |
 
 ## Sources
 

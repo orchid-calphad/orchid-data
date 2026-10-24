@@ -14,10 +14,10 @@ Table: Phases of the Mn–Ti system (18)
 |---|---|---|---|---:|---:|
 | [DIS_A12](#phase-mn-ti-a12-dis); _phase:mn-ti:a12-dis_ |  | needs_review | no calculated diagram | 0 | 1 |
 | [DIS_A13](#phase-mn-ti-a13-dis); _phase:mn-ti:a13-dis_ |  | needs_review | no calculated diagram | 0 | 1 |
-| [BCC_A2](#phase-mn-ti-bcc-a2); _phase:mn-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 811.38–2499.81 K, x(Ti) 0–1 | 60 | 5 |
+| [BCC_A2](#phase-mn-ti-bcc-a2); _phase:mn-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 811.38–2499.81 K, x(Ti) 0–1 | 59 | 5 |
 | [C14_LAVES](#phase-mn-ti-c14-laves); _phase:mn-ti:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1639.22 K, x(Ti) 0.29184–0.4119 | 35 | 5 |
 | [CBCC_A12](#phase-mn-ti-cbcc-a12); _phase:mn-ti:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1451.9 K, x(Ti) 0–0.12352 | 26 | 5 |
-| [CUB_A13](#phase-mn-ti-cub-a13); _phase:mn-ti:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 945.04–1434.69 K, x(Ti) 0–0.07985 | 13 | 5 |
+| [CUB_A13](#phase-mn-ti-cub-a13); _phase:mn-ti:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 945.04–1434.69 K, x(Ti) 0–0.07985 | 9 | 5 |
 | [FCC_A1](#phase-mn-ti-fcc-a1); _phase:mn-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 1345–1521 K, x(Ti) 0–0.00547 | 5 | 5 |
 | [HCP_A3](#phase-mn-ti-hcp-a3); _phase:mn-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1939.99 K, x(Ti) 0.99156–1 | 7 | 5 |
 | [LIQUID](#phase-mn-ti-liquid); _phase:mn-ti:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1454.45–2500 K, x(Ti) 0–1 | 64 | 5 |
@@ -92,11 +92,11 @@ _assessment that models this phase_
 - Id: `phase:mn-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 811.38–2499.81 K, x(Ti) 0–1
-- Literature: 60 values (46 accepted) from 4 papers
+- Literature: 59 values (45 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:bcc-a2)
 
-Names (14): _corpus: _corpus:phase:mn-ti:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2009.08.002:bcc(βTi), paper:10.1016/j.calphad.2009.08.002:bcc(δMn), paper:10.1016/j.jallcom.2021.161957:βTi, paper:10.1016/j.jallcom.2021.161957:δMn, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1039/c6cp04542a:(βMn), paper:10.1039/c6cp04542a:(βTi), paper:10.1039/c6cp04542a:(δMn)  
+Names (13): _corpus: _corpus:phase:mn-ti:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2009.08.002:bcc(βTi), paper:10.1016/j.calphad.2009.08.002:bcc(δMn), paper:10.1016/j.jallcom.2021.161957:βTi, paper:10.1016/j.jallcom.2021.161957:δMn, paper:10.1016/s0364-5916(98)00037-6:bcc-A2, paper:10.1039/c6cp04542a:(βTi), paper:10.1039/c6cp04542a:(δMn)  
 _tdb: _tdb:MnTi-09Che.tdb:BCC_A2, tdb:MnTi-16Kha.tdb:BCC_A2, tdb:MnTi-22Zhe.tdb:BCC_A2, tdb:MnTi-23Wal-3g.tdb:BCC_A2, tdb:MnTi-98Sau-LB.tdb:BCC_A2  
 
 
@@ -294,11 +294,11 @@ _cited as the source of values for this phase_
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Caveat: MnTi-23Wal-3g.tdb: ordered phase with disordered part DIS_A13,,, (order/disorder model)
 - Stability: stable in 4 of 4 calculated diagram(s): 945.04–1434.69 K, x(Ti) 0–0.07985
-- Literature: 13 values (5 accepted) from 3 papers
+- Literature: 9 values (5 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-ti:cub-a13)
 
-Names (10): _corpus: _corpus:phase:mn-ti:cub-a13  
-_paper: _paper:10.1016/j.calphad.2009.08.002:βMn, paper:10.1016/s0364-5916(98)00037-6:cub-A13, paper:10.1039/c6cp04542a:(̠Mn), paper:10.1039/c6cp04542a:(βMn)  
+Names (9): _corpus: _corpus:phase:mn-ti:cub-a13  
+_paper: _paper:10.1016/j.calphad.2009.08.002:βMn, paper:10.1016/s0364-5916(98)00037-6:cub-A13, paper:10.1039/c6cp04542a:(βMn)  
 _tdb: _tdb:MnTi-09Che.tdb:CUB_A13, tdb:MnTi-16Kha.tdb:CUB_A13, tdb:MnTi-22Zhe.tdb:CUB_A13, tdb:MnTi-23Wal-3g.tdb:CUB_A13, tdb:MnTi-98Sau-LB.tdb:CUB_A13  
 
 

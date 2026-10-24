@@ -17,7 +17,7 @@ Table: Phases of the Cd–Ti system (6)
 | [CDTI2](#phase-cd-ti-cdti2); _phase:cd-ti:cdti2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1101.02 K, x(Ti) 0.66667–0.66667 | 0 | 1 |
 | [FCC_A1](#phase-cd-ti-fcc-a1); _phase:cd-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-cd-ti-hcp-a3); _phase:cd-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1155.1 K, x(Ti) 0–1 | 0 | 1 |
-| [LIQUID](#phase-cd-ti-liquid); _phase:cd-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 594.29–2500 K, x(Ti) 0–1 | 0 | 1 |
+| [LIQUID](#phase-cd-ti-liquid); _phase:cd-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 594.29–2500 K, x(Ti) 0–1 | 4 | 1 |
 
 ## BCC_A2 (Cd–Ti)
 
@@ -158,10 +158,11 @@ _assessment that models this phase_
 - Id: `phase:cd-ti:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 594.29–2500 K, x(Ti) 0–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cd-ti:liquid)
 
-Names (2): _corpus: _corpus:phase:cd-ti:liquid  
+Names (3): _corpus: _corpus:phase:cd-ti:liquid  
+_paper: _paper:10.1016/j.calphad.2013.06.005:Liquid  
 _tdb: _tdb:CdTi-13Zha.tdb:LIQUID  
 
 
@@ -177,7 +178,7 @@ _tdb: _tdb:CdTi-13Zha.tdb:LIQUID
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.06.005](https://doi.org/10.1016/j.calphad.2013.06.005) Cong Zhang, Kaiming Cheng, Weiwei Wang, Xi Li, Biao Hu, Shuhong Liu et al., Thermodynamic assessment of the Cd–X (X= Sr, Ti, B, V) systems, Calphad 42, 6-12 (2013).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

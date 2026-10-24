@@ -1,10 +1,10 @@
 # Bi–Tm system
 
-> Bi–Tm system: 36 accepted literature values (invariant reaction 34, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Tm system: 56 accepted literature values (invariant reaction 34, crystal structure 12, formation 8, phase transition 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-TM.html · Markdown: https://data.orchid-project.org/systems/BI-TM.md
 
-36 accepted literature values from 2 paper(s) (experimental 16, model 12, unspecified 8); 2 calculated phase diagram(s).
+56 accepted literature values from 2 paper(s) (experimental 22, model 24, DFT 2, unspecified 8); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-TM.json) · [CSV](https://data.orchid-project.org/systems/BI-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-TM/BiTm-10Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/BI-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-TM.html) · [Markdown](https://data.orchid-project.org/systems/BI-TM.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 16 |
-| model | 12 |
+| experimental | 22 |
+| model | 24 |
+| DFT | 2 |
 | unspecified | 8 |
 
 Table: Accepted values by property group
@@ -22,6 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 34 |
 | phase transition | 2 |
+| formation | 8 |
+| crystal structure | 12 |
 
 ## Calculated phase diagrams
 
@@ -95,6 +98,23 @@ Table: Invariant reactions reported in the literature for the Bi–Tm system (34
 | 539 | eutectic: L \<-> (Bi) + BiTm | L: Tm 0.021; (Bi): Tm 0; BiTm: Tm 0.5 | model | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 5, p. 6, row 3 |  |
 | 535.1 | eutectic: L \<-> (Bi) + BiTm | L: Tm 0.023; (Bi): Tm 0; BiTm: Tm 0.5 | model | [2] Djaballah 2015 | Table 5, p. 6, row 4 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Bi–Tm system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Bi3Tm5 | [Bi3Tm5](https://data.orchid-project.org/compounds/Bi3Tm5.html) | -73.565 kJ/mol-atom |  | model | -59.592 (mp-aaacqtbi) | -60.919 (oqmd-28780) | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 21 |  |
+| Bi3Tm5 | [Bi3Tm5](https://data.orchid-project.org/compounds/Bi3Tm5.html) | -68 kJ/mol-atom |  | model | -59.592 (mp-aaacqtbi) | -60.919 (oqmd-28780) | [2] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 20 |  |
+| Bi3Tm5 | [Bi3Tm5](https://data.orchid-project.org/compounds/Bi3Tm5.html) | -60.85 kJ/mol-atom |  | model | -59.592 (mp-aaacqtbi) | -60.919 (oqmd-28780) | [2] Djaballah 2015 | Table 2, p. 4, row 23 |  |
+| Bi3Tm5 |  | -60.751 kJ/mol-atom | 0 | DFT |  |  | [2] Djaballah 2015 | Table 2, p. 4, row 22 |  |
+| BiTm | [BiTm](https://data.orchid-project.org/compounds/BiTm.html) | -99 kJ/mol-atom |  | model | -74.592 (mp-aaaabijq) | -77.416 (oqmd-1926383) | [2] Djaballah 2015; _cites Wang 2010_ [doi](https://doi.org/10.1016/j.jallcom.2010.03.042) | Table 2, p. 4, row 17 |  |
+| BiTm | [BiTm](https://data.orchid-project.org/compounds/BiTm.html) | -76.796 kJ/mol-atom |  | model | -74.592 (mp-aaaabijq) | -77.416 (oqmd-1926383) | [2] Djaballah 2015 | Table 2, p. 4, row 19 |  |
+| BiTm |  | -76.501 kJ/mol-atom | 0 | DFT |  |  | [2] Djaballah 2015 | Table 2, p. 4, row 18 |  |
+| BiTm | [BiTm](https://data.orchid-project.org/compounds/BiTm.html) | -73 kJ/mol-atom |  | model | -74.592 (mp-aaaabijq) | -77.416 (oqmd-1926383) | [2] Djaballah 2015; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 4, row 16 |  |
+
 ## Other properties
 
 ### Phase transition (2)
@@ -105,6 +125,25 @@ Table: Phase transition, Bi–Tm system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2010.15 K | 2010.15 | BiTm | experimental | [1] Wang 2010; _cites Abulkhaev 2003_ [doi](https://doi.org/10.1023/a:1021887102509) | p. 3 | “However, more recently Abulkhaev \[25\] have studied the Bi-Tm phase diagram by means of differential thermal analysis, X-ray diffraction and microstructural analysis, and reported there are two eutectic reactions of the L ↔ (Bi) + BiTm at 268 ± 5 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1137 ± 10 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1417 ± 15 ◦ C, and the compound BiTm melts at 1737 ±…” |
 | Phase transition | 2053.15 K | 2053.15 | BiTm | experimental | [1] Wang 2010; _cites Abdusalyamova 1996_ [doi](https://doi.org/10.1016/0925-8388%2896%2902314-6) | p. 3 | “In this system, there are two eutectic reactions of the L ↔ (Bi) + BiTm at 266 ◦ C and L ↔ (Tm) + Bi3 Tm5 at 1140 ◦ C, and a peritectic reaction of the L + BiTm ↔ Bi3 Tm5 at 1510 ◦ C, and the compound BiTm melts at 1780 ◦ C, and the bismuth solubility in thulium is about 1 at.%.” |
+
+### Crystal structure (12)
+
+Table: Crystal structure, Bi–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 8.163 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice a | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice a | 8.064 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice a | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
+| Lattice b | 9.447 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice b | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice b | 9.305 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice b | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
+| Lattice c | 11.868 Å |  | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 21 |  |
+| Lattice c | 6.27 Å |  | BiTm; _BiTm: Tm 0.5_ | model | [2] Djaballah 2015 | Table 1, p. 2, row 19 |  |
+| Lattice c | 11.758 Å | 298.15 | Bi3Tm5; _Bi3Tm5: Tm 0.625_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 20 |  |
+| Lattice c | 6.188 Å | 298.15 | BiTm; _BiTm: Tm 0.5_ | experimental | [2] Djaballah 2015; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 1, p. 2, row 18 |  |
 
 ## Sources
 

@@ -12,7 +12,7 @@ Table: Phases of the Pb–Yb system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-pb-yb-bcc-a2); _phase:pb-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1032.01–1104.26 K, x(Yb) 0.99576–1 | 4 | 1 |
+| [BCC_A2](#phase-pb-yb-bcc-a2); _phase:pb-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1032.01–1104.26 K, x(Yb) 0.99576–1 | 0 | 1 |
 | [FCC_A1](#phase-pb-yb-fcc-a1); _phase:pb-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1057.61 K, x(Yb) 0–1 | 2 | 1 |
 | [HCP_A3](#phase-pb-yb-hcp-a3); _phase:pb-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pb-yb-liquid); _phase:pb-yb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 600.62–2500 K, x(Yb) 0–1 | 18 | 1 |
@@ -27,11 +27,10 @@ Table: Phases of the Pb–Yb system (9)
 - Id: `phase:pb-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1032.01–1104.26 K, x(Yb) 0.99576–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pb-yb:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:pb-yb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2009.05.001:(βYb)  
+Names (2): _corpus: _corpus:phase:pb-yb:bcc-a2  
 _tdb: _tdb:PbYb-09Idb.tdb:BCC_A2  
 
 
@@ -47,7 +46,7 @@ _tdb: _tdb:PbYb-09Idb.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.05.001](https://doi.org/10.1016/j.calphad.2009.05.001) M. Idbenali, C. Servant, N. Selhaoui, L. Bouirden, Thermodynamic description of the Pb–Yb binary system, Calphad 33, 570-575 (2009).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Pb–Yb)
 

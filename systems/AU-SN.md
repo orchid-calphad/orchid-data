@@ -1,20 +1,20 @@
 # Au–Sn system
 
-> Au–Sn system: 103 accepted literature values (invariant reaction 76, phase transition 20, formation 7) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Sn system: 139 accepted literature values (invariant reaction 76, crystal structure 30, phase transition 20, formation 13) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-SN.html · Markdown: https://data.orchid-project.org/systems/AU-SN.md
 
-103 accepted literature values from 6 paper(s) (experimental 35, model 53, DFT 3, unspecified 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+139 accepted literature values from 6 paper(s) (experimental 49, model 55, DFT 23, unspecified 12); 7 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SN/AuSn-03Liu.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/AU-SN.json) · [CSV](https://data.orchid-project.org/systems/AU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-SN/AuSn-03Liu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/AU-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-SN.html) · [Markdown](https://data.orchid-project.org/systems/AU-SN.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 35 |
-| model | 53 |
-| DFT | 3 |
+| experimental | 49 |
+| model | 55 |
+| DFT | 23 |
 | unspecified | 12 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 76 |
 | phase transition | 20 |
-| formation | 7 |
+| formation | 13 |
+| crystal structure | 30 |
 
 ## Calculated phase diagrams
 
@@ -260,17 +261,23 @@ Table: Invariant reactions reported in the literature for the Au–Sn system (76
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Au–Sn system (7)
+Table: Enthalpies of formation, Au–Sn system (13)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| AuSn2 | [AuSn2](https://data.orchid-project.org/compounds/AuSn2.html) | -13.38 kJ/mol-atom |  | model | -12.827 (mp-aaaaaceg) | -18.403 (oqmd-10801) | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 5 |  |
-| AuSn2 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 4 |  |
-| AuSn4 | [AuSn4](https://data.orchid-project.org/compounds/AuSn4.html) | -7.2 kJ/mol-atom |  | model | -7.214 (mp-aaaaacbp) | -13.929 (oqmd-19456) | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 7 |  |
-| AuSn4 |  | -7.19 kJ/mol-atom | 0 | DFT |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 6 |  |
-| NiAs-type AuSn |  | -18.77 kJ/mol-atom | 0 | DFT |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 2 |  |
-| NiAs-type AuSn |  | -15.75 kJ/mol-atom |  | model |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 3 |  |
-| NiAs-type AuSn |  | -15.69 kJ/mol-atom | 78 | experimental |  |  | [5] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 1 |  |
+| AuSn |  | -18.77 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Dong 2009 | Table II, p. 4, row 5 |  |
+| AuSn |  | -15.75 kJ/mol (basis unstated) | 10 | model |  |  | [5] Dong 2009 | Table II, p. 4, row 6 |  |
+| AuSn |  | -15.69 kJ/mol (basis unstated) | 78 | experimental |  |  | [5] Dong 2009 | Table II, p. 4, row 3 |  |
+| AuSn |  | -14.88 kJ/mol (basis unstated) | 78 | experimental |  |  | [5] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
+| AuSn2 |  | -13.38 kJ/mol (basis unstated) | 10 | model |  |  | [5] Dong 2009 | Table II, p. 4, row 8 |  |
+| AuSn2 | [AuSn2](https://data.orchid-project.org/compounds/AuSn2.html) | -13.38 kJ/mol-atom |  | model | -12.827 (mp-aaaaaceg) | -18.403 (oqmd-10801) | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 5 |  |
+| AuSn2 |  | -13.1 kJ/mol (basis unstated) | 0 | DFT |  |  | [5] Dong 2009 | Table II, p. 4, row 7 |  |
+| AuSn2 |  | -13.1 kJ/mol-atom | 0 | DFT |  |  | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 4 |  |
+| AuSn4 | [AuSn4](https://data.orchid-project.org/compounds/AuSn4.html) | -7.2 kJ/mol-atom |  | model | -7.214 (mp-aaaaacbp) | -13.929 (oqmd-19456) | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 7 |  |
+| AuSn4 |  | -7.19 kJ/mol-atom | 0 | DFT |  |  | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 6 |  |
+| NiAs-type AuSn |  | -18.77 kJ/mol-atom | 0 | DFT |  |  | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 2 |  |
+| NiAs-type AuSn |  | -15.75 kJ/mol-atom |  | model |  |  | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 3 |  |
+| NiAs-type AuSn |  | -15.69 kJ/mol-atom | 78 | experimental |  |  | [6] Hu 2022; _cites Dong 2009_ | Table 3, p. 4, row 1 |  |
 
 ## Other properties
 
@@ -287,7 +294,7 @@ Table: Phase transition, Au–Sn system
 | Phase transition | 468 K | 468 | hcp -> Au5Sn; _Au5Sn: Sn 0.167_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 20 |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 34 |  |
 | Phase transition | 505.12 K | 505.12 | Sn(bct) -> Sn(liq); _Sn(bct): Sn 1_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 35 |  |
-| Phase transition | 553 K | 553 | congruent melting | experimental | [6] Dong 2009 | p. 11 | “Figures 12 and 13 indicate that a new kind of solder with lower melting temperature than that of Au-30 at.% Sn solder, i.e., 553 K, can be designed based on the eutectic point of E2.” |
+| Phase transition | 553 K | 553 | congruent melting | experimental | [5] Dong 2009 | p. 11 | “Figures 12 and 13 indicate that a new kind of solder with lower melting temperature than that of Au-30 at.% Sn solder, i.e., 553 K, can be designed based on the eutectic point of E2.” |
 | Phase transition | 584.45 K | 584.45 | other | model | [4] Gao 2010 | p. 10 | “The calculated decomposition temperature of the ternary intermetallic compound (j) is 311.3 C, which agrees with the experimental results (312.7 C) determined in the present work.” |
 | Phase transition | 585.85 K | 585.85 | other | experimental | [4] Gao 2010 | p. 10 | “The calculated decomposition temperature of the ternary intermetallic compound (j) is 311.3 C, which agrees with the experimental results (312.7 C) determined in the present work.” |
 | Phase transition | 586.15 K | 586.15 | other | experimental | [4] Gao 2010 | p. 10 | “DSC measurements indicate the decomposition temperature of the j phase is about 313 C.” |
@@ -301,6 +308,43 @@ Table: Phase transition, Au–Sn system
 | Phase transition | 1337.58 K | 1337.58 | Au(fcc) -> Au(liq); _Au(fcc): Sn 0_ | experimental | [2] Chevalier 1988; _cites Okamoto 1984_ [doi](https://doi.org/10.1007/bf02872904) | Table 3, p. 8, row 33 |  |
 | Phase transition | 1337.58 K | 1337.58 | Au(fcc) -> Au(liq); _Au(fcc): Sn 0_ | model | [2] Chevalier 1988 | Table 3, p. 8, row 32 |  |
 
+### Crystal structure (30)
+
+Table: Crystal structure, Au–Sn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.465 Å | 0 | Au5Sn; _alloy: Sn 0.166667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 7 |  |
+| Lattice a; _printed: a_ | 3.824 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [5] Dong 2009 | Table II, p. 4, row 5 |  |
+| Lattice a | 4.397 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 1 |  |
+| Lattice a; _printed: a_ | 7.025 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [5] Dong 2009 | Table II, p. 4, row 7 |  |
+| Lattice a | 7.128 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 3 |  |
+| Lattice a | 6.664 Å | 0 | AuSn4; _alloy: Sn 0.8_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 5 |  |
+| Lattice a | 5.092 Å | 298.15 | Au5Sn; _alloy: Sn 0.166667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
+| Lattice a | 4.322 Å | 298.15 | AuSn; _alloy: Sn 0.5_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
+| Lattice a | 6.898 Å | 298.15 | AuSn2; _alloy: Sn 0.666667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
+| Lattice a | 6.512 Å | 298.15 | AuSn4; _alloy: Sn 0.8_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
+| Lattice b | 5.465 Å | 0 | Au5Sn; _alloy: Sn 0.166667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 7 |  |
+| Lattice b; _printed: b_ | 2.208 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [5] Dong 2009 | Table II, p. 4, row 5 |  |
+| Lattice b | 4.397 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 1 |  |
+| Lattice b; _printed: b_ | 7.182 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [5] Dong 2009 | Table II, p. 4, row 7 |  |
+| Lattice b | 7.25 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 3 |  |
+| Lattice b | 6.534 Å | 0 | AuSn4; _alloy: Sn 0.8_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 5 |  |
+| Lattice b | 5.092 Å | 298.15 | Au5Sn; _alloy: Sn 0.166667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
+| Lattice b | 4.397 Å | 298.15 | AuSn; _alloy: Sn 0.5_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
+| Lattice b | 7.011 Å | 298.15 | AuSn2; _alloy: Sn 0.666667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
+| Lattice b | 6.516 Å | 298.15 | AuSn4; _alloy: Sn 0.8_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
+| Lattice c | 13.669 Å | 0 | Au5Sn; _alloy: Sn 0.166667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 7 |  |
+| Lattice c; _printed: c_ | 5.677 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [5] Dong 2009 | Table II, p. 4, row 5 |  |
+| Lattice c | 5.758 Å | 0 | AuSn; _alloy: Sn 0.5_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 1 |  |
+| Lattice c; _printed: c_ | 12.12 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [5] Dong 2009 | Table II, p. 4, row 7 |  |
+| Lattice c | 11.788 Å | 0 | AuSn2; _alloy: Sn 0.666667_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 3 |  |
+| Lattice c | 11.917 Å | 0 | AuSn4; _alloy: Sn 0.8_ | DFT | [6] Hu 2022 | Table 6, p. 8, row 5 |  |
+| Lattice c | 14.333 Å | 298.15 | Au5Sn; _alloy: Sn 0.166667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 8 |  |
+| Lattice c | 5.523 Å | 298.15 | AuSn; _alloy: Sn 0.5_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 2 |  |
+| Lattice c | 11.773 Å | 298.15 | AuSn2; _alloy: Sn 0.666667_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 4 |  |
+| Lattice c | 11.707 Å | 298.15 | AuSn4; _alloy: Sn 0.8_ | experimental | [6] Hu 2022; _cites Chevalier 1988_ | Table 6, p. 8, row 6 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -309,8 +353,8 @@ Reporting papers the values were read from (a value cited from another work name
 2. P.-Y. Chevalier, A thermodynamic evaluation of the Au-Sn system, Thermochimica Acta 130, 1-13 (1988). [doi:10.1016/0040-6031(88)87045-x](https://doi.org/10.1016/0040-6031%2888%2987045-x)
 3. H. S. Liu, C. L. Liu, K. Ishida, Z. P. Jin, Thermodynamic modeling of the Au-In-Sn system, J. Electron. Mater. 32, 1290-1296 (2003). [doi:10.1007/s11664-003-0025-2](https://doi.org/10.1007/s11664-003-0025-2)
 4. Feng Gao, Cuiping Wang, Xingjun Liu, Yoshikazu Takaku, Ikuo Ohnuma, Kiyohito Ishida, Thermodynamic assessment of phase equilibria in the Sn-Au-Bi system with key experimental verification, J. Mater. Res. 25, 576-586 (2010). [doi:10.1557/jmr.2010.0056](https://doi.org/10.1557/jmr.2010.0056)
-5. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
-6. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+5. H. Q. Dong, S. Jin, L. G. Zhang, J. S. Wang, X. M. Tao, H. S. Liu et al., Thermodynamic Assessment of the Au-Co-Sn Ternary System, Journal of Elec Materi 38, 2158-2169 (2009). [doi:10.1007/s11664-009-0874-4](https://doi.org/10.1007/s11664-009-0874-4)
+6. Jieqiong Hu, Ming Xie, Yongtai Chen, Jiheng Fang, Qiao Zhang, Thermodynamic reassessment of Au–Pt–Sn system, Mater. Res. Express 9, 016507 (2022). [doi:10.1088/2053-1591/ac475f](https://doi.org/10.1088/2053-1591/ac475f)
 
 ## Please cite
 

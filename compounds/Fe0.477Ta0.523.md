@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Fe0.477Ta0.523.html · Markdown:
 
 1 accepted literature formation-enthalpy value(s) (experimental 1).
 
-Systems: [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html)
+Systems: [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Fe0.477Ta0.523 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -7.1 kJ/mol (basis unstated) ± 1.4 | Fe0.477Ta0.523 | 298.15 | experimental | isoperibolic drop calorimetry | [Fe–Ni–Ta](https://data.orchid-project.org/systems/FE-NI-TA.html) | [1] Witusiewicz 2011 | Table 4, p. 10, row 6 |  |
+| -7.1 kJ/mol (basis unstated) ± 1.4 | Fe0.477Ta0.523 | 298.15 | experimental | isoperibolic drop calorimetry | [Fe–Ta](https://data.orchid-project.org/systems/FE-TA.html) | [1] Witusiewicz 2011 | Table 4, p. 10, row 6 |  |
 
 ### Uncertainty budget
 

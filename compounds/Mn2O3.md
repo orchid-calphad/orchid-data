@@ -41,24 +41,24 @@ Table: Uncertainty budget of the literature values of Mn2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -194.854 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -194.854 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -194.77 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -194.77 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, prior) |  |  |  | 1 |
-| -192.518 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -192.518 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.922 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.922 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.922 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.922 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.8 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.8 | kJ/mol-atom |  | 0.1 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.62 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.62 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.504 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.504 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.254 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -191.254 | kJ/mol-atom |  | 0.001 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -194.854 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -194.854 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -194.77 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -194.77 | kJ/mol-atom |  | 0.001 | 1 (combustion_calorimetry, cleaned_below_threshold) |  |  |  | 1 |
+| -192.518 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -192.518 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.922 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.922 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.922 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.922 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.8 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.8 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.62 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.62 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.504 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.504 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.254 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -191.254 | kJ/mol-atom |  | 0.001 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

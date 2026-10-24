@@ -13,14 +13,14 @@ Table: Phases of the Ga–Gd system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ga-gd-a11-orthorhombic); _phase:ga-gd:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–302.91 K, x(Gd) 0–0 | 10 | 3 |
-| [BCC_A2](#phase-ga-gd-bcc-a2); _phase:ga-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1508.05–2499.87 K, x(Gd) 0.99999–1 | 8 | 3 |
+| [BCC_A2](#phase-ga-gd-bcc-a2); _phase:ga-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1508.05–2499.87 K, x(Gd) 0.99999–1 | 6 | 3 |
 | [FCC_A1](#phase-ga-gd-fcc-a1); _phase:ga-gd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [GA2GD_C32](#phase-ga-gd-ga2gd-c32); _phase:ga-gd:ga2gd-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1681.61 K, x(Gd) 0.1949–0.33346 | 27 | 3 |
-| [GA2GD3](#phase-ga-gd-ga2gd3); _phase:ga-gd:ga2gd3_ | Ga2Gd3 · tI80 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1380.29 K, x(Gd) 0.6–0.6 | 18 | 3 |
-| [GA3GD5](#phase-ga-gd-ga3gd5); _phase:ga-gd:ga3gd5_ | Ba5Si3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1363.62 K, x(Gd) 0.625–0.625 | 18 | 3 |
-| [GA6GD](#phase-ga-gd-ga6gd); _phase:ga-gd:ga6gd_ | Ga6Pu · tP14 · P4/nbm (125) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–678.55 K, x(Gd) 0.14286–0.14286 | 16 | 3 |
+| [GA2GD3](#phase-ga-gd-ga2gd3); _phase:ga-gd:ga2gd3_ | Ga2Gd3 · tI80 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1380.29 K, x(Gd) 0.6–0.6 | 20 | 3 |
+| [GA3GD5](#phase-ga-gd-ga3gd5); _phase:ga-gd:ga3gd5_ | Ba5Si3 · tP32 · P4/ncc (130) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1363.62 K, x(Gd) 0.625–0.625 | 20 | 3 |
+| [GA6GD](#phase-ga-gd-ga6gd); _phase:ga-gd:ga6gd_ | Ga6Pu · tP14 · P4/nbm (125) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–678.55 K, x(Gd) 0.14286–0.14286 | 18 | 3 |
 | [GAGD_B33](#phase-ga-gd-gagd-b33); _phase:ga-gd:gagd-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1466.07 K, x(Gd) 0.5–0.5 | 18 | 3 |
-| [HCP_A3](#phase-ga-gd-hcp-a3); _phase:ga-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1583.06 K, x(Gd) 0.99998–1 | 13 | 3 |
+| [HCP_A3](#phase-ga-gd-hcp-a3); _phase:ga-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1583.06 K, x(Gd) 0.99998–1 | 11 | 3 |
 | [LIQUID](#phase-ga-gd-liquid); _phase:ga-gd:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 302.91–2500 K, x(Gd) 0–1 | 60 | 3 |
 
 ## ORTHORHOMBIC_A11 (Ga–Gd)
@@ -78,7 +78,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ga-gd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1508.05–2499.87 K, x(Gd) 0.99999–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-gd:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:ga-gd:bcc-a2  
@@ -226,11 +226,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.4000, Gd 0.6000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1380.29 K, x(Gd) 0.6–0.6
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-gd:ga2gd3)
 
-Names (6): _corpus: _corpus:phase:ga-gd:ga2gd3  
-_paper: _paper:10.1007/s00706-019-02420-8:Ga2Gd3, paper:10.1016/j.matpr.2019.07.598:Ga2Gd3  
+Names (7): _corpus: _corpus:phase:ga-gd:ga2gd3  
+_paper: _paper:10.1007/s00706-019-02420-8:Ga2Gd3, paper:10.1016/j.calphad.2023.102596:Ga2Gd3, paper:10.1016/j.matpr.2019.07.598:Ga2Gd3  
 _tdb: _tdb:GaGd-19Liu.tdb:GA2GD3, tdb:GaGd-20Ait.tdb:GA2GD3, tdb:GaGd-23Tam.tdb:GA2GD3  
 
 
@@ -264,7 +264,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598) M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02841585](https://doi.org/10.1007/bf02841585) A. Palenzona, S. Clrafici, The Ga-Gd (Gallium-Gadolinium) system, Bulletin of Alloy Phase Diagrams 11, 67-72 (1990).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(76)90277-0](https://doi.org/10.1016/0022-5088%2876%2990277-0) K.H.J. Buschow, W.W.v.d. Hoogenhof, Magnetic properties and phase relationships of gadolinium-gallium compounds, Journal of the Less Common Metals 45, 309-313 (1976).  
@@ -278,11 +278,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ga 0.3750, Gd 0.6250
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1363.62 K, x(Gd) 0.625–0.625
-- Literature: 18 values (18 accepted) from 2 papers
+- Literature: 20 values (20 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-gd:ga3gd5)
 
-Names (6): _corpus: _corpus:phase:ga-gd:ga3gd5  
-_paper: _paper:10.1007/s00706-019-02420-8:Ga3Gd5, paper:10.1016/j.matpr.2019.07.598:Ga3Gd5  
+Names (7): _corpus: _corpus:phase:ga-gd:ga3gd5  
+_paper: _paper:10.1007/s00706-019-02420-8:Ga3Gd5, paper:10.1016/j.calphad.2023.102596:Ga3Gd5, paper:10.1016/j.matpr.2019.07.598:Ga3Gd5  
 _tdb: _tdb:GaGd-19Liu.tdb:GA3GD5, tdb:GaGd-20Ait.tdb:GA3GD5, tdb:GaGd-23Tam.tdb:GA3GD5  
 
 
@@ -316,7 +316,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598) M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02841585](https://doi.org/10.1007/bf02841585) A. Palenzona, S. Clrafici, The Ga-Gd (Gallium-Gadolinium) system, Bulletin of Alloy Phase Diagrams 11, 67-72 (1990).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(76)90277-0](https://doi.org/10.1016/0022-5088%2876%2990277-0) K.H.J. Buschow, W.W.v.d. Hoogenhof, Magnetic properties and phase relationships of gadolinium-gallium compounds, Journal of the Less Common Metals 45, 309-313 (1976).  
@@ -328,13 +328,13 @@ _cited as the source of values for this phase_
 - Structure: Ga6Pu · tP14 · P4/nbm (125); type `st:ga6pu-tp14`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Ga 0.8571, Gd 0.1429
 - Stability: stable in 3 of 3 calculated diagram(s): 300–678.55 K, x(Gd) 0.14286–0.14286
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-gd:ga6gd)
 
-Names (8): _corpus: _corpus:phase:ga-gd:ga6gd  
+Names (9): _corpus: _corpus:phase:ga-gd:ga6gd  
 _mp: _mp:mp-aaackwju  
 _oqmd: _oqmd:oqmd-1484077  
-_paper: _paper:10.1007/s00706-019-02420-8:Ga6Gd, paper:10.1016/j.matpr.2019.07.598:Ga6Gd  
+_paper: _paper:10.1007/s00706-019-02420-8:Ga6Gd, paper:10.1016/j.calphad.2023.102596:Ga6Gd, paper:10.1016/j.matpr.2019.07.598:Ga6Gd  
 _tdb: _tdb:GaGd-19Liu.tdb:GA6GD, tdb:GaGd-20Ait.tdb:GA6GD, tdb:GaGd-23Tam.tdb:GA6GD  
 
 
@@ -368,7 +368,7 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s00706-019-02420-8](https://doi.org/10.1007/s00706-019-02420-8) Jinming Liu, Fei Li, Jinping Liu, Xu Zhang, Tahir Ahmad, Tongxiang Liang, Thermodynamic description of the Ce–Ga and Ga–Gd systems, Monatsh Chem 150, 1225-1233 (2019).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02841585](https://doi.org/10.1007/bf02841585) A. Palenzona, S. Clrafici, The Ga-Gd (Gallium-Gadolinium) system, Bulletin of Alloy Phase Diagrams 11, 67-72 (1990).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90171-5](https://doi.org/10.1016/0022-5088%2881%2990171-5) Joshua Pelleg, L Zevin, The Gd-Ga system: Redetermination of the phase diagram on the gallium-rich side, Journal of the Less Common Metals 77, 197-203 (1981).  
@@ -434,7 +434,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ga-gd:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1583.06 K, x(Gd) 0.99998–1
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-gd:hcp-a3)
 
 Names (7): _corpus: _corpus:phase:ga-gd:hcp-a3  
@@ -467,9 +467,9 @@ _tdb: _tdb:GaGd-19Liu.tdb:HCP_A3, tdb:GaGd-20Ait.tdb:HCP_A3, tdb:GaGd-23Tam.tdb:
 
 Example references (5 of 5; assessments first): 
 
-- [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598) M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s00706-019-02420-8](https://doi.org/10.1007/s00706-019-02420-8) Jinming Liu, Fei Li, Jinping Liu, Xu Zhang, Tahir Ahmad, Tongxiang Liang, Thermodynamic description of the Ce–Ga and Ga–Gd systems, Monatsh Chem 150, 1225-1233 (2019).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.matpr.2019.07.598](https://doi.org/10.1016/j.matpr.2019.07.598) M. AiT Boukideur, N. Selhaoui, F.Z. chrifi Alaoui, A. Iddaoudi, K. Achgar, Thermodynamic modeling of the Ga-Gd binary system, Materials Today: Proceedings 24, 71-75 (2020).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2023.102596](https://doi.org/10.1016/j.calphad.2023.102596) Rkia Tamim, Olivier Rapaud, Rémy Boulesteix, Alexandre Maître, Thermodynamic assessment of the Ga–Gd, Ga–Nb and Gd–Nb binary phase diagrams towards the Ga–Gd–Nb system, Calphad 82, 102596 (2023).  
 _assessment that models this phase_

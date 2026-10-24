@@ -12,14 +12,14 @@ Table: Phases of the Co–Hf system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-hf-bcc-a2); _phase:co-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 5 calculated diagram(s): 1480–3999.74 K, x(Hf) 0.84811–1 | 7 | 5 |
+| [BCC_A2](#phase-co-hf-bcc-a2); _phase:co-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1480–3999.74 K, x(Hf) 0.84811–1 | 5 | 5 |
 | [B2_BCC](#phase-co-hf-bcc-b2); _phase:co-hf:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3531.03 K, x(Hf) 0.48209–1 | 8 | 2 |
 | [C15_LAVES](#phase-co-hf-c15-laves); _phase:co-hf:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1895.96 K, x(Hf) 0.25028–0.34687 | 20 | 2 |
 | [CO11HF2](#phase-co-hf-co11hf2); _phase:co-hf:co11hf2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 928.48–1545.8 K, x(Hf) 0.15385–0.15385 | 9 | 2 |
 | [CO23HF6_D8A](#phase-co-hf-co23hf6-d8a); _phase:co-hf:co23hf6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1600 K, x(Hf) 0.2069–0.2069 | 11 | 2 |
 | [CO2HF_C15](#phase-co-hf-co2hf-c15); _phase:co-hf:co2hf-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2065.65 K, x(Hf) 0.33333–0.33333 | 0 | 1 |
 | [COHF_B2](#phase-co-hf-cohf-b2); _phase:co-hf:cohf-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2028.18 K, x(Hf) 0.5–0.5 | 0 | 1 |
-| [COHF2](#phase-co-hf-cohf2); _phase:co-hf:cohf2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1699.29 K, x(Hf) 0.65937–0.68042 | 18 | 3 |
+| [COHF2](#phase-co-hf-cohf2); _phase:co-hf:cohf2_ | NiTi2 · cF96 · Fd-3m (227) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–1699.29 K, x(Hf) 0.65937–0.68042 | 20 | 3 |
 | [FCC_A1](#phase-co-hf-fcc-a1); _phase:co-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 694.96–1773.17 K, x(Hf) 0–0.01466 | 8 | 3 |
 | [HCP_A3](#phase-co-hf-hcp-a3); _phase:co-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500.33 K, x(Hf) 0–1 | 2 | 3 |
 | [LIQUID](#phase-co-hf-liquid); _phase:co-hf:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1516.31–4000 K, x(Hf) 0–1 | 25 | 3 |
@@ -28,12 +28,12 @@ Table: Phases of the Co–Hf system (11)
 
 - Id: `phase:co-hf:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 3 of 5 calculated diagram(s): 1480–3999.74 K, x(Hf) 0.84811–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Stability: stable in 3 of 3 calculated diagram(s): 1480–3999.74 K, x(Hf) 0.84811–1
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-hf:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:co-hf:bcc-a2  
-_paper: _paper:10.1016/j.tca.2015.04.004:(βHf), paper:10.1016/j.tca.2015.04.004:(εCo)  
+Names (7): _corpus: _corpus:phase:co-hf:bcc-a2  
+_paper: _paper:10.1016/j.tca.2015.04.004:(βHf)  
 _tdb: _tdb:CoHf-06Bra.tdb:BCC_A2, tdb:CoHf-15Lu.tdb:A2_BCC, tdb:CoHf-15Lu.tdb:BCC_A2, tdb:CoHf-18Hua.tdb:A2_BCC, tdb:CoHf-18Hua.tdb:BCC_A2  
 
 
@@ -321,11 +321,11 @@ _assessment that models this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1699.29 K, x(Hf) 0.65937–0.68042
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 20 values (20 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-hf:cohf2)
 
-Names (5): _corpus: _corpus:phase:co-hf:cohf2  
-_paper: _paper:10.1016/j.tca.2015.04.004:CoHf2  
+Names (6): _corpus: _corpus:phase:co-hf:cohf2  
+_paper: _paper:10.1016/j.tca.2015.04.004:CoHf2, paper:10.1361/154770306x109746:CoHf2  
 _tdb: _tdb:CoHf-06Bra.tdb:COHF2, tdb:CoHf-15Lu.tdb:COHF2, tdb:CoHf-18Hua.tdb:COHF2  
 
 
@@ -356,9 +356,9 @@ Example references (4 of 4; assessments first):
 
 - [doi:10.1016/j.tca.2015.04.004](https://doi.org/10.1016/j.tca.2015.04.004) Xingxu Lu, Shuhong Liu, Kaiming Cheng, Ying Tang, Pengfei Ou, Philip Nash et al., Thermodynamic modeling of the Co–Hf system supported by key experiments and first-principles calculations, Thermochimica Acta 608, 49-58 (2015).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.calphad.2018.06.002](https://doi.org/10.1016/j.calphad.2018.06.002) X.M. Huang, W.J. Zeng, J.L. Liu, G.M. Cai, S.H. Liu, H.S. Liu, Z.P. Jin, Calphad, 62, 128-40(2018).  
-_assessment that models this phase_
 - [doi:10.1361/154770306X109746](https://doi.org/10.1361/154770306X109746) J. Bratberg, B. Jansson, J. Phase Equilib. Diffus., 27, 213-19(2006).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2018.06.002](https://doi.org/10.1016/j.calphad.2018.06.002) X.M. Huang, W.J. Zeng, J.L. Liu, G.M. Cai, S.H. Liu, H.S. Liu, Z.P. Jin, Calphad, 62, 128-40(2018).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2014.11.206](https://doi.org/10.1016/j.jallcom.2014.11.206) Xingxu Lu, Kaiming Cheng, Shuhong Liu, Kai Li, Feng Zheng, Yong Du, Experimental investigation of phase equilibria in the Co–Hf system, Journal of Alloys and Compounds 627, 251-260 (2015).  
 _cited as the source of values for this phase_

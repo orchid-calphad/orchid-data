@@ -1,10 +1,10 @@
 # Cd–Sb system
 
-> Cd–Sb system: 42 accepted literature values (invariant reaction 22, phase transition 20) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Sb system: 41 accepted literature values (invariant reaction 22, phase transition 19) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-SB.html · Markdown: https://data.orchid-project.org/systems/CD-SB.md
 
-42 accepted literature values from 3 paper(s) (experimental 25, model 14, unspecified 3); 3 calculated phase diagram(s).
+41 accepted literature values from 3 paper(s) (experimental 25, model 14, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-SB.json) · [CSV](https://data.orchid-project.org/systems/CD-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-SB/CdSb-09Liu.json) · [phases (8)](https://data.orchid-project.org/phases/pages/CD-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-SB.html) · [Markdown](https://data.orchid-project.org/systems/CD-SB.md)
 
@@ -14,14 +14,14 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 25 |
 | model | 14 |
-| unspecified | 3 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
-| phase transition | 20 |
+| phase transition | 19 |
 
 ## Calculated phase diagrams
 
@@ -86,7 +86,7 @@ Table: Invariant reactions reported in the literature for the Cd–Sb system (22
 
 ## Other properties
 
-### Phase transition (20)
+### Phase transition (19)
 
 Table: Phase transition, Cd–Sb system
 
@@ -110,7 +110,6 @@ Table: Phase transition, Cd–Sb system
 | Phase transition | 732.15 K | 732.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 11_ | Table 1, p. 2, row 14 |  |
 | Phase transition | 732.23 K | 732.23 | L \<-> ω-CdSb; _L: Sb 0.5; ω-CdSb: Sb 0.5_ | model | [2] Liu 2009 | Table 5, p. 5, row 3 |  |
 | Phase transition | 738.15 K | 738.15 | congruent melting: L -> CdSb; _L: Sb 0.5; CdSb: Sb 0.5_ | experimental | [1] Zabdyr 1993; _cites ref. 1_ | Table 1, p. 2, row 10 |  |
-| Phase transition | 903 K | 903 | congruent melting: L \<-> (Sb); _L: Sb 1; (Sb): Sb 1_ | unspecified | [2] Liu 2009; _cites Zabdyr 1993_ [doi](https://doi.org/10.1016/0364-5916%2893%2990005-v) | Table 5, p. 5, row 1 |  |
 | Phase transition | 903.905 K | 903.905 | congruent melting: L -> (Sb); _(Sb): Sb 1_ | experimental | [1] Zabdyr 1993; _cites ref. 37_ | Table 1, p. 2, row 26 |  |
 
 ## Sources

@@ -12,8 +12,8 @@ Table: Phases of the Ag–Bi system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBOHEDRAL_A7](#phase-ag-bi-a7-rhombohedral); _phase:ag-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 1–1 | 2 | 3 |
-| [BCC_A2](#phase-ag-bi-bcc-a2); _phase:ag-bi:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 4 | 3 |
+| [RHOMBOHEDRAL_A7](#phase-ag-bi-a7-rhombohedral); _phase:ag-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 1–1 | 0 | 3 |
+| [BCC_A2](#phase-ag-bi-bcc-a2); _phase:ag-bi:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-ag-bi-fcc-a1); _phase:ag-bi:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1243.59 K, x(Bi) 0–0.0287 | 0 | 3 |
 | [HCP_A3](#phase-ag-bi-hcp-a3); _phase:ag-bi:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-ag-bi-liquid); _phase:ag-bi:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 534.75–2500 K, x(Bi) 0–1 | 0 | 3 |
@@ -24,11 +24,10 @@ Table: Phases of the Ag–Bi system (5)
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 1–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-bi:a7-rhombohedral)
 
-Names (5): _corpus: _corpus:phase:ag-bi:a7-rhombohedral  
-_paper: _paper:10.1007/bf02671975:αBi  
+Names (4): _corpus: _corpus:phase:ag-bi:a7-rhombohedral  
 _tdb: _tdb:AgBi-94Kat.tdb:RHOMBOHEDRAL_A7, tdb:AgBi-98Luk-LB.tdb:RHOMBOHEDRAL_A7, tdb:AgBi-99Ass.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -55,25 +54,22 @@ _tdb: _tdb:AgBi-94Kat.tdb:RHOMBOHEDRAL_A7, tdb:AgBi-98Luk-LB.tdb:RHOMBOHEDRAL_A7
 42: CONST RHOMBOHEDRAL_A7 : BI : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02653345](https://doi.org/10.1007/BF02653345) U.R. Kattner, W.J. Boettinger, J. Electron. Mater., 23, 603-10(1994).  
 _assessment that models this phase_
 - [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
 _assessment that models this phase_
-- [doi:10.1007/bf02671975](https://doi.org/10.1007/bf02671975) I. Karakaya, W. T. Thompson, The Ag-Bi (Silver-Bismuth) System, JPE 14, 525-530 (1993).  
-_reports values for this phase_
 
 ## BCC_A2 (Ag–Bi)
 
 - Id: `phase:ag-bi:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-bi:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ag-bi:bcc-a2  
-_paper: _paper:10.1007/bf02671975:βBi (b)  
+Names (4): _corpus: _corpus:phase:ag-bi:bcc-a2  
 _tdb: _tdb:AgBi-94Kat.tdb:BCC_A2, tdb:AgBi-98Luk-LB.tdb:BCC_A2, tdb:AgBi-99Ass.tdb:BCC_A2  
 
 
@@ -100,14 +96,12 @@ _tdb: _tdb:AgBi-94Kat.tdb:BCC_A2, tdb:AgBi-98Luk-LB.tdb:BCC_A2, tdb:AgBi-99Ass.t
 32: CONST BCC_A2 : AG BI : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/BF02653345](https://doi.org/10.1007/BF02653345) U.R. Kattner, W.J. Boettinger, J. Electron. Mater., 23, 603-10(1994).  
 _assessment that models this phase_
 - [doi:10.1111/j.1151-2916.1999.tb01821.x](https://doi.org/10.1111/j.1151-2916.1999.tb01821.x) Jérôme Assal, Bengt Hallstedt, Ludwig J. Gauckler, Experimental Phase Diagram Study and Thermodynamic Optimization of the Ag‐Bi‐O System, Journal of the American Ceramic Society 82, 711-715 (1999).  
 _assessment that models this phase_
-- [doi:10.1007/bf02671975](https://doi.org/10.1007/bf02671975) I. Karakaya, W. T. Thompson, The Ag-Bi (Silver-Bismuth) System, JPE 14, 525-530 (1993).  
-_reports values for this phase_
 
 ## FCC_A1 (Ag–Bi)
 

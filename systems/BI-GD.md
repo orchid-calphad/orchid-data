@@ -1,10 +1,10 @@
 # Bi–Gd system
 
-> Bi–Gd system: 26 accepted literature values (invariant reaction 22, formation 2, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Gd system: 54 accepted literature values (invariant reaction 22, formation 19, crystal structure 11, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-GD.html · Markdown: https://data.orchid-project.org/systems/BI-GD.md
 
-26 accepted literature values from 1 paper(s) (experimental 6, model 13, DFT 1, unspecified 6); 1 calculated phase diagram(s).
+54 accepted literature values from 1 paper(s) (experimental 13, model 20, DFT 15, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-GD.json) · [CSV](https://data.orchid-project.org/systems/BI-GD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-GD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-GD/BiGd-13Wan.json) · [phases (9)](https://data.orchid-project.org/phases/pages/BI-GD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-GD.html) · [Markdown](https://data.orchid-project.org/systems/BI-GD.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 13 |
-| DFT | 1 |
+| experimental | 13 |
+| model | 20 |
+| DFT | 15 |
 | unspecified | 6 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 22 |
 | phase transition | 2 |
-| formation | 2 |
+| formation | 19 |
+| crystal structure | 11 |
 
 ## Calculated phase diagrams
 
@@ -91,12 +92,29 @@ Table: Invariant reactions reported in the literature for the Bi–Gd system (22
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–Gd system (2)
+Table: Enthalpies of formation, Bi–Gd system (19)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Gd4Bi3 | [Bi3Gd4](https://data.orchid-project.org/compounds/Bi3Gd4.html) | -92 kJ/mol-atom | 298.15 | experimental |  | -76.181 (oqmd-28723) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 4 |  |
+| Gd4Bi3 | [Bi3Gd4](https://data.orchid-project.org/compounds/Bi3Gd4.html) | -81 kJ/mol-atom | 0 | model |  | -76.181 (oqmd-28723) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 6 |  |
+| Gd4Bi3 |  | -78.2101 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 5 |  |
+| Gd5Bi3 | [Bi3Gd5](https://data.orchid-project.org/compounds/Bi3Gd5.html) | -87.4 kJ/mol-atom | 298.15 | experimental |  | -72.034 (oqmd-10931) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 1 |  |
+| Gd5Bi3 | [Bi3Gd5](https://data.orchid-project.org/compounds/Bi3Gd5.html) | -76 kJ/mol-atom | 0 | model |  | -72.034 (oqmd-10931) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 3 |  |
+| Gd5Bi3 |  | -74.2502 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 2 |  |
+| GdBi | [BiGd](https://data.orchid-project.org/compounds/BiGd.html) | -96.7 kJ/mol-atom | 298.15 | experimental | -87.324 (mp-aaabiyzx) | -88.653 (oqmd-1926131) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 7 |  |
+| GdBi |  | -90.4625 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 8 |  |
+| GdBi | [BiGd](https://data.orchid-project.org/compounds/BiGd.html) | -83 kJ/mol-atom | 0 | model | -87.324 (mp-aaabiyzx) | -88.653 (oqmd-1926131) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 9 |  |
 | GdBi2(EuBi2) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 11 |  |
 | GdBi2(EuBi2) |  | -54.0316 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 10 |  |
+| GdBi2(EuSb2) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 13 |  |
+| GdBi2(EuSb2) |  | -56.8759 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 12 |  |
+| GdBi2(GdSb2-1) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 15 |  |
+| GdBi2(GdSb2-2) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 17 |  |
+| GdBi2(GdSb2-2) |  | -53.812 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 16 |  |
+| GdBi2(GdSb2–1) |  | -21.5319 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 14 |  |
+| GdBi2(YbSb2) | [Bi2Gd](https://data.orchid-project.org/compounds/Bi2Gd.html) | -67 kJ/mol-atom | 0 | model |  | -55.782 (oqmd-1800951) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 19 |  |
+| GdBi2(YbSb2) |  | -56.8396 kJ/mol-atom | 0 | DFT |  |  | [1] Wang 2013 | Table 5, p. 3, row 18 |  |
 
 ## Other properties
 
@@ -108,6 +126,24 @@ Table: Phase transition, Bi–Gd system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2042 K | 2042 | congruent transformation | model | [1] Wang 2013 | p. 4 | “The calculated peritectic temperatures of the intermetallic compounds, Gd5Bi3, Gd4Bi3, and GdBi2, are 1753, 1853 and 1183 K, respectively, and the congruent melting temperature of GdBi is 2042 K.” |
 | Phase transition | 2043 K | 2043 | congruent melting | experimental | [1] Wang 2013; _cites Abulkhaev 1993_ | p. 1 | “The Gd5Bi3, Gd4Bi3 and GdBi phases were formed from the peritectic reactions, Lþ Gd4Bi32Gd5Bi3 at 1753 K, LþGdBi2Gd4Bi3 at 1853 K and LþGdBi2GdBi2 at 1183 K, respectively, whereas the GdBi phase melted congruently at about 2043 K.” |
+
+### Crystal structure (11)
+
+Table: Crystal structure, Bi–Gd system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 9.4418 Å | 0 | Gd4Bi3; _alloy: Gd 0.571429_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 3 |  |
+| Lattice a | 9.252 Å | 0 | Gd5Bi3; _alloy: Gd 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
+| Lattice a | 6.3562 Å | 0 | GdBi; _alloy: Gd 0.5_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 5 |  |
+| Lattice a | 9.3853 Å | 298.15 | Gd4Bi3; _alloy: Gd 0.571429_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 4 |  |
+| Lattice a | 9.182 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
+| Lattice a | 6.3108 Å | 298.15 | GdBi; _alloy: Gd 0.5_ | experimental | [1] Wang 2013; _cites Yoshihara 1975_ [doi](https://doi.org/10.1016/0022-5088%2875%2990038-7) | Table 3, p. 3, row 6 |  |
+| Lattice c | 6.412 Å | 0 | Gd5Bi3; _alloy: Gd 0.625_ | DFT | [1] Wang 2013 | Table 3, p. 3, row 1 |  |
+| Lattice c | 6.426 Å | 298.15 | Gd5Bi3; _alloy: Gd 0.625_ | experimental | [1] Wang 2013; _cites Hohnke 1969_ [doi](https://doi.org/10.1016/0022-5088%2869%2990146-5) | Table 3, p. 3, row 2 |  |
+| Molar volume; _printed: V0_ | 420.857 Å3 | 0 | Gd4Bi3; _alloy: Gd 0.571429_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 2 |  |
+| Molar volume; _printed: V0_ | 475.316 Å3 | 0 | Gd5Bi3; _alloy: Gd 0.625_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 1 |  |
+| Molar volume; _printed: V0_ | 64.199 Å3 | 0 | GdBi; _alloy: Gd 0.5_ | DFT | [1] Wang 2013 | Table 4, p. 3, row 3 |  |
 
 ## Sources
 

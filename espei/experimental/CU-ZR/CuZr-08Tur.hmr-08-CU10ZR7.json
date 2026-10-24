@@ -69,14 +69,14 @@
     "budget": {
      "sigma_printed": 240.0,
      "sigma_reading": 0.5,
-     "sigma_method": 4100.0,
+     "sigma_method": 3500.0,
      "sigma_composition": 471.4,
      "sigma_scatter": 5630.0,
      "sigma_conversion": null,
      "sigma_effective": 5630.0,
      "method_class": "unknown",
      "method_basis": "calibrated",
-     "method_n_pairs": 312,
+     "method_n_pairs": 296,
      "method_entry": "value_types/HM_FORM/classes/unknown"
     },
     "printed": {

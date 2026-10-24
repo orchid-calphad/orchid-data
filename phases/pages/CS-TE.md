@@ -1,19 +1,19 @@
 # Cs–Te phases
 
-> Cs–Te system: 16 phases (tier A 4, tier B 1, tier C 4, liquid 2, gas 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Cs–Te system: 15 phases (tier A 4, tier B 1, tier C 4, liquid 2, gas 1, needs_review 3); 13 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CS-TE.html · Markdown: https://data.orchid-project.org/phases/pages/CS-TE.md
 
-16 phases (tier A 4, tier B 1, tier C 4, liquid 2, gas 1, needs_review 3, unresolved_no_candidates 1); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+15 phases (tier A 4, tier B 1, tier C 4, liquid 2, gas 1, needs_review 3); 13 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CS-TE) · [full JSON](https://data.orchid-project.org/phases/systems/CS-TE.json) · [Cs–Te system page](https://data.orchid-project.org/systems/CS-TE.html) · [Markdown](https://data.orchid-project.org/phases/pages/CS-TE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Cs–Te system (16)
+Table: Phases of the Cs–Te system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [HEXAGONAL_A8](#phase-cs-te-a8-hexagonal); _phase:cs-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 4 | 1 |
-| [BCC_A2](#phase-cs-te-bcc-a2); _phase:cs-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–301.33 K, x(Te) 0–0 | 1 | 1 |
+| [HEXAGONAL_A8](#phase-cs-te-a8-hexagonal); _phase:cs-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 1 | 1 |
+| [BCC_A2](#phase-cs-te-bcc-a2); _phase:cs-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–301.33 K, x(Te) 0–0 | 0 | 1 |
 | [CS2TE_HT](#phase-cs-te-cs2te-ht); _phase:cs-te:cs2te-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 895–1071.73 K, x(Te) 0.33333–0.33333 | 3 | 1 |
 | [CS2TE_LT](#phase-cs-te-cs2te-lt); _phase:cs-te:cs2te-lt_ | Cs2S · oP12 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–895 K, x(Te) 0.33333–0.33333 | 4 | 1 |
 | [CS2TE3](#phase-cs-te-cs2te3); _phase:cs-te:cs2te3_ | K2S3 · oC20 · Cmc2_1 (36) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–665.76 K, x(Te) 0.6–0.6 | 10 | 1 |
@@ -21,7 +21,6 @@ Table: Phases of the Cs–Te system (16)
 | [CS5TE3](#phase-cs-te-cs5te3); _phase:cs-te:cs5te3_ | K5Se3 · mC32 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–934.23 K, x(Te) 0.375–0.375 | 10 | 1 |
 | [CSTE_LT](#phase-cs-te-cste); _phase:cs-te:cste_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–673.58 K, x(Te) 0.4898–0.4898 | 5 | 1 |
 | [CSTE_B2](#phase-cs-te-cste-b2); _phase:cs-te:cste-b2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 673.58–730 K, x(Te) 0.4898–0.4898 | 3 | 1 |
-| [CSTE-LT](#phase-cs-te-cste-lt); _phase:cs-te:cste-lt_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [CSTE4](#phase-cs-te-cste4); _phase:cs-te:cste4_ | CsTe4 · mP20 · P2_1/c (14) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–528.55 K, x(Te) 0.8–0.8 | 9 | 1 |
 | [FCC_A1](#phase-cs-te-fcc-a1); _phase:cs-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GAS](#phase-cs-te-gas); _phase:cs-te:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 942.38–2500 K, x(Te) 0–1 | 0 | 1 |
@@ -35,7 +34,7 @@ Table: Phases of the Cs–Te system (16)
 - Structure: gamma-Se · A8 · hP3 · P3_121 (152); type `st:a8-gamma-se-hp3`; tier A: standard phase name; confidence high
 - Stoichiometry: Te 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–722.66 K, x(Te) 1–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:a8-hexagonal)
 
 Names (4): _corpus: _corpus:phase:cs-te:a8-hexagonal, corpus:phase:cs-te:hexagonal-a8  
@@ -63,11 +62,10 @@ _assessment that models this phase; reports values for this phase_
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stoichiometry: Cs 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–301.33 K, x(Te) 0–0
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:cs-te:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.10.006:β-Cs5Te3  
+Names (2): _corpus: _corpus:phase:cs-te:bcc-a2  
 _tdb: _tdb:CsTe-15Pha.tdb:BCC_A2  
 
 
@@ -83,7 +81,7 @@ _tdb: _tdb:CsTe-15Pha.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.10.006](https://doi.org/10.1016/j.calphad.2014.10.006) T.-N. Pham Thi, J.-C. Dumas, V. Bouineau, N. Dupin, C. Guéneau, S. Gossé et al., Thermodynamic assessment of the Cs–Te binary system, Calphad 48, 1-12 (2015).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## CS2TE_HT (Cs–Te)
 
@@ -255,7 +253,7 @@ _assessment that models this phase; reports values for this phase_
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:cste)
 
-Names (4): _corpus: _corpus:phase:cs-te:cste  
+Names (5): _corpus: _corpus:phase:cs-te:cste, corpus:phase:cs-te:cste-lt  
 _paper: _paper:10.1016/j.calphad.2014.10.006:CsTe, paper:10.1016/j.calphad.2014.10.006:α-CsTe  
 _tdb: _tdb:CsTe-15Pha.tdb:CSTE_LT  
 
@@ -305,17 +303,6 @@ Example references (1 of 1; assessments first):
 
 - [doi:10.1016/j.calphad.2014.10.006](https://doi.org/10.1016/j.calphad.2014.10.006) T.-N. Pham Thi, J.-C. Dumas, V. Bouineau, N. Dupin, C. Guéneau, S. Gossé et al., Thermodynamic assessment of the Cs–Te binary system, Calphad 48, 1-12 (2015).  
 _assessment that models this phase; reports values for this phase_
-
-## CSTE-LT (Cs–Te)
-
-- Id: `phase:cs-te:cste-lt`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cs-te:cste-lt)
-
-Names (1): _corpus: _corpus:phase:cs-te:cste-lt  
-
 
 ## CSTE4 (Cs–Te)
 

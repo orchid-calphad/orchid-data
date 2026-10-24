@@ -14,7 +14,7 @@ Table: Phases of the Au–Cu system (5)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-au-cu-bcc-a2); _phase:au-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-au-cu-fcc-4sl); _phase:au-cu:fcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2499.02 K, x(Cu) 0–1 | 0 | 1 |
-| [A1_FCC](#phase-au-cu-fcc-a1); _phase:au-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–1338.33 K, x(Cu) 0–0.99 | 0 | 2 |
+| [FCC_A1](#phase-au-cu-fcc-a1); _phase:au-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1338.33 K, x(Cu) 0–0.99 | 0 | 2 |
 | [HCP_A3](#phase-au-cu-hcp-a3); _phase:au-cu:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-au-cu-liquid); _phase:au-cu:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1182.04–2500 K, x(Cu) 0–1 | 0 | 1 |
 
@@ -78,11 +78,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.1016/S0364-5916(98)00034-0](https://doi.org/10.1016/S0364-5916%2898%2900034-0) B. Sundman, S.G. Fries, A. Oates, Calphad, 22, 335-54(1998).  
 _assessment that models this phase_
 
-## A1_FCC (Au–Cu)
+## FCC_A1 (Au–Cu)
 
 - Id: `phase:au-cu:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 300–1338.33 K, x(Cu) 0–0.99
+- Stability: stable in 1 of 1 calculated diagram(s): 300–1338.33 K, x(Cu) 0–0.99
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-cu:fcc-a1)
 
@@ -90,7 +90,7 @@ Names (3): _corpus: _corpus:phase:au-cu:fcc-a1
 _tdb: _tdb:AuCu-98Sun-LB.tdb:A1_FCC, tdb:AuCu-98Sun-LB.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written
 
 [AuCu-98Sun-LB.tdb](https://orchid-project.org/data/databases/sgte-binary/AuCu-98Sun-LB.tdb): A1_FCC, type code %A, sha256 `66a5545540f92ed9…`
 

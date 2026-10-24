@@ -1,10 +1,10 @@
 # B–Re system
 
-> B–Re system: 10 accepted literature values (invariant reaction 8, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Re system: 20 accepted literature values (formation 10, invariant reaction 8, phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-RE.html · Markdown: https://data.orchid-project.org/systems/B-RE.md
 
-10 accepted literature values from 1 paper(s) (experimental 5, model 5); 0 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 7, model 13); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-RE.json) · [CSV](https://data.orchid-project.org/systems/B-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-RE) · [phases (8)](https://data.orchid-project.org/phases/pages/B-RE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-RE.html) · [Markdown](https://data.orchid-project.org/systems/B-RE.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
-| model | 5 |
+| experimental | 7 |
+| model | 13 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 8 |
 | phase transition | 2 |
+| formation | 10 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/B/B-RE.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/B/B-RE.json)
 
@@ -38,6 +39,25 @@ Table: Invariant reactions reported in the literature for the B–Re system (8)
 | 2273 | Liquid + Re3B -> Re7B3 | L: B 0.34; Re3B: B 0.25; Re7B3: B 0.3 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 6 |  |
 | 2103 | Liquid -> ReB2 + Re7B3 | L: B 0.418; ReB2: B 0.652; Re7B3: B 0.3 | experimental | [1] Yang 2010; _cites Portnoi 1968_ [doi](https://doi.org/10.1007/bf00774302) | Table 4, p. 4, row 10 |  |
 | 2092.76 | Liquid -> ReB2 + Re7B3 | L: B 0.434; ReB2: B 0.667; Re7B3: B 0.3 | model | [1] Yang 2010 | Table 4, p. 4, row 9 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, B–Re system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -32.22 kJ/mol-atom ± 2.5 | 298.15 | experimental | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
+| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -21 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
+| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -20 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
+| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -19.2975 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
+| Re7B3 | [Re7B3](https://data.orchid-project.org/compounds/Re7B3.html) | -24 kJ/mol-atom |  | model | -21.423 (mp-aaackyjk) | -20.395 (oqmd-28588) | [1] Yang 2010 | Table 2, p. 3, row 22 |  |
+| Re7B3 | [Re7B3](https://data.orchid-project.org/compounds/Re7B3.html) | -22.29 kJ/mol-atom |  | model | -21.423 (mp-aaackyjk) | -20.395 (oqmd-28588) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 21 |  |
+| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -43.1 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 23 |  |
+| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -40 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010 | Table 2, p. 3, row 26 |  |
+| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -28 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 24 |  |
+| ReB2.5 |  | -21.5 kJ/mol-atom ± 0.5 | 298.15 | experimental |  |  | [1] Yang 2010; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 2, p. 3, row 25 |  |
 
 ## Other properties
 

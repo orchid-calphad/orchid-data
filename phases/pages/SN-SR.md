@@ -12,16 +12,16 @@ Table: Phases of the Sn–Sr system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-sn-sr-a4-diamond); _phase:sn-sr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 2 | 2 |
+| [DIAMOND_A4](#phase-sn-sr-a4-diamond); _phase:sn-sr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 1 | 2 |
 | [BCT_A5](#phase-sn-sr-a5-bct); _phase:sn-sr:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–505.08 K, x(Sr) 0–0 | 8 | 2 |
 | [BCC_A2](#phase-sn-sr-bcc-a2); _phase:sn-sr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 820–1050 K, x(Sr) 1–1 | 8 | 2 |
 | [FCC_A1](#phase-sn-sr-fcc-a1); _phase:sn-sr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–820.03 K, x(Sr) 1–1 | 2 | 2 |
 | [HCP_A3](#phase-sn-sr-hcp-a3); _phase:sn-sr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-sn-sr-liquid); _phase:sn-sr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 502.83–2500 K, x(Sr) 0–1 | 52 | 2 |
-| [SN3SR](#phase-sn-sr-sn3sr); _phase:sn-sr:sn3sr_ | InMg3 · hR16 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–834.3 K, x(Sr) 0.25–0.25 | 13 | 2 |
+| [SN3SR](#phase-sn-sr-sn3sr); _phase:sn-sr:sn3sr_ | InMg3 · hR16 · R-3m (166) | tier B: DFT-supported (unique MP + OQMD match) | stable in 2 of 2 calculated diagram(s): 300–834.3 K, x(Sr) 0.25–0.25 | 19 | 2 |
 | [SN3SR5_D8L](#phase-sn-sr-sn3sr5-d8l); _phase:sn-sr:sn3sr5-d8l_ | Cr5B3 · D8_l · tI32 · I4/mcm (140) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 421.82–1463.12 K, x(Sr) 0.625–0.625 | 12 | 2 |
-| [SN4SR](#phase-sn-sr-sn4sr); _phase:sn-sr:sn4sr_ | Sn4Sr · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–587.96 K, x(Sr) 0.2–0.2 | 15 | 2 |
-| [SN5SR3](#phase-sn-sr-sn5sr3); _phase:sn-sr:sn5sr3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1048.67 K, x(Sr) 0.375–0.375 | 12 | 2 |
+| [SN4SR](#phase-sn-sr-sn4sr); _phase:sn-sr:sn4sr_ | Sn4Sr · oC20 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–587.96 K, x(Sr) 0.2–0.2 | 26 | 2 |
+| [SN5SR3](#phase-sn-sr-sn5sr3); _phase:sn-sr:sn5sr3_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1048.67 K, x(Sr) 0.375–0.375 | 23 | 2 |
 | [SNSR_B33](#phase-sn-sr-snsr-b33); _phase:sn-sr:snsr-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1419.36 K, x(Sr) 0.5–0.5 | 19 | 2 |
 | [SNSR2_C37](#phase-sn-sr-snsr2-c37); _phase:sn-sr:snsr2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1560.78 K, x(Sr) 0.66667–0.66667 | 20 | 2 |
 
@@ -31,11 +31,11 @@ Table: Phases of the Sn–Sr system (12)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 2 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-sr:a4-diamond)
 
-Names (6): _corpus: _corpus:phase:sn-sr:a4-diamond, corpus:phase:sn-sr:diamond-a4  
-_paper: _paper:10.1016/j.tca.2011.11.026:α-Sn, paper:10.1016/j.tca.2011.11.026:α-Sr  
+Names (5): _corpus: _corpus:phase:sn-sr:a4-diamond, corpus:phase:sn-sr:diamond-a4  
+_paper: _paper:10.1016/j.tca.2011.11.026:α-Sn  
 _tdb: _tdb:SnSr-12Zha.tdb:DIAMOND_A4, tdb:SnSr-14Zho.tdb:DIAMOND_A4  
 
 
@@ -269,7 +269,7 @@ _cited as the source of values for this phase_
 - Structure: InMg3 · hR16 · R-3m (166); type `st:inmg3-hr16`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Sn 0.7500, Sr 0.2500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–834.3 K, x(Sr) 0.25–0.25
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 19 values (19 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-sr:sn3sr)
 
 Names (7): _corpus: _corpus:phase:sn-sr:sn3sr  
@@ -295,15 +295,17 @@ _tdb: _tdb:SnSr-12Zha.tdb:SN3SR, tdb:SnSr-14Zho.tdb:SN3SR
 62: CONST SN3SR : SN : SR : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.04.003](https://doi.org/10.1016/j.calphad.2014.04.003) Bi-Cheng Zhou, Shun-Li Shang, Zi-Kui Liu, First-principles calculations and thermodynamic modeling of the Sn−Sr and Mg−Sn−Sr systems, Calphad 46, 237-248 (2014).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.097](https://doi.org/10.1016/j.jallcom.2004.04.097) A. Palenzona, M. Pani, The phase diagram of the Sr–Sn system, Journal of Alloys and Compounds 384, 227-230 (2004).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90121-1](https://doi.org/10.1016/0022-5088%2881%2990121-1) D Marshall, Y.A Chang, Constitution of the tin-strontium system up to 35 at.% Sr, Journal of the Less Common Metals 78, 139-145 (1981).  
+_cited as the source of values for this phase_
+- [doi:10.4028/www.scientific.net/msf.443-444.357](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) P. Villars, M. Berndt, K. Brandenburg, K. Cenzual, J. Daams, F. Hulliger et al., The Pauling File, MSF 443-444, 357-360 (2004).  
 _cited as the source of values for this phase_
 - [doi:10.1021/ie50245a026](https://doi.org/10.1021/ie50245a026) K. W. Ray, Properties of Strontium-tin Alloys\<sup>1\</sup>, Ind. Eng. Chem. 22, 519-522 (1930).  
 _cited as the source of values for this phase_
@@ -357,7 +359,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sn 0.8000, Sr 0.2000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–587.96 K, x(Sr) 0.2–0.2
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 26 values (26 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-sr:sn4sr)
 
 Names (5): _corpus: _corpus:phase:sn-sr:sn4sr  
@@ -381,13 +383,15 @@ _tdb: _tdb:SnSr-12Zha.tdb:SN4SR, tdb:SnSr-14Zho.tdb:SN4SR
 57: CONST SN4SR : SN : SR : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.04.003](https://doi.org/10.1016/j.calphad.2014.04.003) Bi-Cheng Zhou, Shun-Li Shang, Zi-Kui Liu, First-principles calculations and thermodynamic modeling of the Sn−Sr and Mg−Sn−Sr systems, Calphad 46, 237-248 (2014).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.097](https://doi.org/10.1016/j.jallcom.2004.04.097) A. Palenzona, M. Pani, The phase diagram of the Sr–Sn system, Journal of Alloys and Compounds 384, 227-230 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.4028/www.scientific.net/msf.443-444.357](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) P. Villars, M. Berndt, K. Brandenburg, K. Cenzual, J. Daams, F. Hulliger et al., The Pauling File, MSF 443-444, 357-360 (2004).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(81)90121-1](https://doi.org/10.1016/0022-5088%2881%2990121-1) D Marshall, Y.A Chang, Constitution of the tin-strontium system up to 35 at.% Sr, Journal of the Less Common Metals 78, 139-145 (1981).  
 _cited as the source of values for this phase_
@@ -402,7 +406,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_63_matches_3_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Sn 0.6250, Sr 0.3750
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1048.67 K, x(Sr) 0.375–0.375
-- Literature: 12 values (12 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sn-sr:sn5sr3)
 
 Names (5): _corpus: _corpus:phase:sn-sr:sn5sr3  
@@ -426,13 +430,15 @@ _tdb: _tdb:SnSr-12Zha.tdb:SN5SR3, tdb:SnSr-14Zho.tdb:SN5SR3
 67: CONST SN5SR3 : SN : SR : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.04.003](https://doi.org/10.1016/j.calphad.2014.04.003) Bi-Cheng Zhou, Shun-Li Shang, Zi-Kui Liu, First-principles calculations and thermodynamic modeling of the Sn−Sr and Mg−Sn−Sr systems, Calphad 46, 237-248 (2014).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2011.11.026](https://doi.org/10.1016/j.tca.2011.11.026) Jingrui Zhao, Yong Du, Lijun Zhang, Aijun Wang, Liangcai Zhou, Dongdong Zhao et al., Thermodynamic assessment of the Sn–Sr system supported by first-principles calculations, Thermochimica Acta 529, 74-79 (2012).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.097](https://doi.org/10.1016/j.jallcom.2004.04.097) A. Palenzona, M. Pani, The phase diagram of the Sr–Sn system, Journal of Alloys and Compounds 384, 227-230 (2004).  
+_cited as the source of values for this phase_
+- [doi:10.4028/www.scientific.net/msf.443-444.357](https://doi.org/10.4028/www.scientific.net/msf.443-444.357) P. Villars, M. Berndt, K. Brandenburg, K. Cenzual, J. Daams, F. Hulliger et al., The Pauling File, MSF 443-444, 357-360 (2004).  
 _cited as the source of values for this phase_
 - [doi:10.1002/1521-3749(200109)627:9\<2211::aid-zaac2211>3.0.co;2-2](https://doi.org/10.1002/1521-3749%28200109%29627:9<2211::aid-zaac2211>3.0.co;2-2) Fabio Zürcher, Reinhard Nesper, Stefan Hoffmann, Thomas F. Fässler, Novel Arachno-type X56– Zintl Anions in Sr3Sn5, Ba3Sn5, and Ba3Pb5 and Charge Influence on Zintl Clusters, Z. anorg. allg. Chem. 627, 2211 (2001).  
 _cited as the source of values for this phase_

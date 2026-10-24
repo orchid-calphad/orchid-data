@@ -34,17 +34,17 @@ Table: Uncertainty budget of the literature values of Ga2Y
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -74.6 | kJ/mol-atom | 1.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -72.1 | kJ/mol-atom | 1.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -70.9 | kJ/mol-atom | 1.5 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -69 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -68.4 | kJ/mol-atom | 1.3 | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -74.6 | kJ/mol-atom | 1.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -72.1 | kJ/mol-atom | 1.3 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -70.9 | kJ/mol-atom | 1.5 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -69 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -68.4 | kJ/mol-atom | 1.3 | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -68.1 | kJ/mol-atom | 2.3 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -64.4 | kJ/mol-atom | 2.5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -61.8 | kJ/mol-atom | 2.8 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -73.49 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.47 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -65 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -73.49 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -73.47 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -65 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

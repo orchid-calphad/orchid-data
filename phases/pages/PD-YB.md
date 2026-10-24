@@ -12,20 +12,20 @@ Table: Phases of the Pd–Yb system (17)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-pd-yb-bcc-a2); _phase:pd-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300.04–2498.79 K, x(Yb) 1–1 | 5 | 1 |
-| [FCC_A1](#phase-pd-yb-fcc-a1); _phase:pd-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1830 K, x(Yb) 0–1 | 46 | 1 |
+| [BCC_A2](#phase-pd-yb-bcc-a2); _phase:pd-yb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300.04–2498.79 K, x(Yb) 1–1 | 0 | 1 |
+| [FCC_A1](#phase-pd-yb-fcc-a1); _phase:pd-yb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1830 K, x(Yb) 0–1 | 22 | 1 |
 | [HCP_A3](#phase-pd-yb-hcp-a3); _phase:pd-yb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-pd-yb-liquid); _phase:pd-yb:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 905.94–2500 K, x(Yb) 0–1 | 108 | 1 |
 | [PD21YB10_HT](#phase-pd-yb-pd21yb10-ht); _phase:pd-yb:pd21yb10-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1483.15–1629.75 K, x(Yb) 0.32258–0.32258 | 15 | 1 |
 | [PD21YB10_LT](#phase-pd-yb-pd21yb10-lt); _phase:pd-yb:pd21yb10-lt_ | Pd21Sm10 · mC124 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1483.15 K, x(Yb) 0.32258–0.32258 | 10 | 1 |
-| [PD2YB](#phase-pd-yb-pd2yb); _phase:pd-yb:pd2yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 700–1465.81 K, x(Yb) 0.33333–0.33333 | 9 | 1 |
+| [PD2YB](#phase-pd-yb-pd2yb); _phase:pd-yb:pd2yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 700–1465.81 K, x(Yb) 0.33333–0.33333 | 16 | 1 |
 | [PD2YB5_HT](#phase-pd-yb-pd2yb5-ht); _phase:pd-yb:pd2yb5-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–961.86 K, x(Yb) 0.71429–0.71429 | 10 | 1 |
 | [PD2YB5_LT](#phase-pd-yb-pd2yb5-lt); _phase:pd-yb:pd2yb5-lt_ | Mn5C2 · mC28 · C2/c (15) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 961.86–974.99 K, x(Yb) 0.71429–0.71429 | 10 | 1 |
 | [PD3YB_L12](#phase-pd-yb-pd3yb-l12); _phase:pd-yb:pd3yb-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1969.31 K, x(Yb) 0.20889–0.25 | 20 | 1 |
-| [PD4YB3](#phase-pd-yb-pd4yb3); _phase:pd-yb:pd4yb3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1674.87 K, x(Yb) 0.42857–0.42857 | 20 | 1 |
+| [PD4YB3](#phase-pd-yb-pd4yb3); _phase:pd-yb:pd4yb3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1674.87 K, x(Yb) 0.42857–0.42857 | 29 | 1 |
 | [PD5YB3_HT](#phase-pd-yb-pd5yb3-ht); _phase:pd-yb:pd5yb3-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1369.02–1640.94 K, x(Yb) 0.3771–0.38618 | 24 | 1 |
 | [PD5YB3_LT](#phase-pd-yb-pd5yb3-lt); _phase:pd-yb:pd5yb3-lt_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1389.6 K, x(Yb) 0.375–0.37568 | 9 | 1 |
-| [PD7YB](#phase-pd-yb-pd7yb); _phase:pd-yb:pd7yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–723.79 K, x(Yb) 0.125–0.125 | 5 | 1 |
+| [PD7YB](#phase-pd-yb-pd7yb); _phase:pd-yb:pd7yb_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–723.79 K, x(Yb) 0.125–0.125 | 12 | 1 |
 | [PDYB_B2](#phase-pd-yb-pdyb-b2); _phase:pd-yb:pdyb-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1664.96–1715.71 K, x(Yb) 0.49815–0.49989 | 21 | 1 |
 | [PDYB_B27](#phase-pd-yb-pdyb-b27); _phase:pd-yb:pdyb-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1705 K, x(Yb) 0.4982–0.5 | 28 | 1 |
 | [PDYB3_D011](#phase-pd-yb-pdyb3-d011); _phase:pd-yb:pdyb3-d011_ | Fe3C · D0_11 · oP16 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–925.75 K, x(Yb) 0.75–0.75 | 14 | 1 |
@@ -35,11 +35,10 @@ Table: Phases of the Pd–Yb system (17)
 - Id: `phase:pd-yb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300.04–2498.79 K, x(Yb) 1–1
-- Literature: 5 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-yb:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:pd-yb:bcc-a2  
-_paper: _paper:10.1016/j.matpr.2019.08.196:αYb  
+Names (2): _corpus: _corpus:phase:pd-yb:bcc-a2  
 _tdb: _tdb:PdYb-20Kar.tdb:BCC_A2  
 
 
@@ -55,18 +54,18 @@ _tdb: _tdb:PdYb-20Kar.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Pd–Yb)
 
 - Id: `phase:pd-yb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1830 K, x(Yb) 0–1
-- Literature: 46 values (5 accepted) from 1 papers
+- Literature: 22 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-yb:fcc-a1)
 
-Names (13): _corpus: _corpus:phase:pd-yb:fcc-a1  
-_paper: _paper:10.1016/j.matpr.2019.08.196:(Pd), paper:10.1016/j.matpr.2019.08.196:Pd_2Yb_5\\\_HT, paper:10.1016/j.matpr.2019.08.196:Pd_2Yb_5\\\_LT, paper:10.1016/j.matpr.2019.08.196:Pd_4Yb_3, paper:10.1016/j.matpr.2019.08.196:Pd_5Yb_3\\\_HT, paper:10.1016/j.matpr.2019.08.196:Pd\_{21}Yb\_{10}\\\_HT, paper:10.1016/j.matpr.2019.08.196:\\alpha Yb, paper:10.1016/j.matpr.2019.08.196:\\beta Yb, paper:10.1016/j.matpr.2019.08.196:fcc\\\_A1, paper:10.1016/j.matpr.2019.08.196:fcc_A1, paper:10.1016/j.matpr.2019.08.196:βYb  
+Names (6): _corpus: _corpus:phase:pd-yb:fcc-a1  
+_paper: _paper:10.1016/j.matpr.2019.08.196:(Pd), paper:10.1016/j.matpr.2019.08.196:fcc\\\_A1, paper:10.1016/j.matpr.2019.08.196:fcc_A1, paper:10.1016/j.matpr.2019.08.196:βYb  
 _tdb: _tdb:PdYb-20Kar.tdb:FCC_A1  
 
 
@@ -206,7 +205,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): (Pd2Yb) — Hallstedt 2025 mmc2 row for PD2YB: Pd2Yb
 - Stoichiometry: Pd 0.6667, Yb 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 700–1465.81 K, x(Yb) 0.33333–0.33333
-- Literature: 9 values (2 accepted) from 1 papers
+- Literature: 16 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-yb:pd2yb)
 
 Names (3): _corpus: _corpus:phase:pd-yb:pd2yb  
@@ -324,7 +323,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Pd 0.5714, Yb 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1674.87 K, x(Yb) 0.42857–0.42857
-- Literature: 20 values (4 accepted) from 1 papers
+- Literature: 29 values (13 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-yb:pd4yb3)
 
 Names (3): _corpus: _corpus:phase:pd-yb:pd4yb3  
@@ -341,10 +340,12 @@ _tdb: _tdb:PdYb-20Kar.tdb:PD4YB3
 86: CONST PD4YB3 : PD : YB : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.matpr.2019.08.196](https://doi.org/10.1016/j.matpr.2019.08.196) Said Kardellass, Colette Servant, Isabelle Drouelle, Fatima Zahra Chrifi-Alaoui, Mohamed Idbenali, Alyen Abahazem et al., Calphad-type assessment of the Pd-Yb binary system supported by first-principles calculations – Part II: Results, Materials Today: Proceedings 24, 140-150 (2020).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.tca.2016.01.004](https://doi.org/10.1016/j.tca.2016.01.004) A. Ciccioli, G. Balducci, G. Gigli, A. Provino, A. Palenzona, P. Manfrinetti, Vaporization thermodynamics of Pd-rich intermediate phases in the Pd–Yb system, Thermochimica Acta 626, 31-36 (2016).  
+_cited as the source of values for this phase_
 
 ## PD5YB3_HT (Pd–Yb)
 
@@ -413,7 +414,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): (Pd7Yb) — Hallstedt 2025 mmc2 row for PD7YB: Pd7Yb
 - Stoichiometry: Pd 0.8750, Yb 0.1250
 - Stability: stable in 1 of 1 calculated diagram(s): 300–723.79 K, x(Yb) 0.125–0.125
-- Literature: 5 values (1 accepted) from 1 papers
+- Literature: 12 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-yb:pd7yb)
 
 Names (3): _corpus: _corpus:phase:pd-yb:pd7yb  

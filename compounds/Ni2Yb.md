@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ni2Yb.html · Markdown: https://
 
 7 accepted literature formation-enthalpy value(s) (experimental 3, model 4); experimental median -30 kJ/mol-atom (n = 3); OQMD -38.261 kJ/mol-atom (oqmd-17857).
 
-Systems: [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) · [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)
+Systems: [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html)
 
 ## Literature values
 
@@ -19,7 +19,7 @@ Table: Enthalpy of formation of Ni2Yb reported in the literature (7)
 | -23.3 kJ/mol-atom | Ni2Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 19 |  |
 | -37.6 kJ/mol-atom | YbNi2 | 298.15 | model |  | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Hu 2017 | p. 17 | “The enthalpy of formation of the YbNi2 phase at 298K is predicted to be -37.6 kJ/mol-atom, which is more negative than the experimental values reported by Brutti et al. \[13\], but very close to the lower bound of the measurement uncertainty.” |
 | -33.6 kJ/mol-atom | Ni2Yb | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 15 |  |
-| -22.7 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Eu–Ho–Ni–Sc–Yb](https://data.orchid-project.org/systems/EU-HO-NI-SC-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 8 |  |
+| -22.7 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 4, p. 7, row 8 |  |
 | -22.07 kJ/mol-atom | Ni2Yb | 298.15 | model | Optimization | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Kardellass 2016 | Table 2, p. 5, row 18 |  |
 
 ### Uncertainty budget
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of Ni2Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32 | kJ/mol-atom | 4.6 | 0.5 | 3 (kems_vapour, prior) |  |  |  | 4.6 |
-| -30 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -32 | kJ/mol-atom | 4.6 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -30 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -23.3 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -37.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -22.07 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -37.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -33.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -22.07 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

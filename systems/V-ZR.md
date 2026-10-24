@@ -1,10 +1,10 @@
 # V–Zr system
 
-> V–Zr system: 51 accepted literature values (invariant reaction 47, crystal structure 4) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> V–Zr system: 54 accepted literature values (invariant reaction 47, formation 3, mixing / partial 3, crystal structure 1) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/V-ZR.html · Markdown: https://data.orchid-project.org/systems/V-ZR.md
 
-51 accepted literature values from 3 paper(s) (experimental 24, model 20, unspecified 7); 5 calculated phase diagram(s).
+54 accepted literature values from 3 paper(s) (experimental 24, model 26, unspecified 4); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/V-ZR.json) · [CSV](https://data.orchid-project.org/systems/V-ZR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#V-ZR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#V-ZR/VZr-05Ser.json) · [phases (6)](https://data.orchid-project.org/phases/pages/V-ZR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/V-ZR.html) · [Markdown](https://data.orchid-project.org/systems/V-ZR.md)
 
@@ -13,15 +13,17 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 24 |
-| model | 20 |
-| unspecified | 7 |
+| model | 26 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 47 |
-| crystal structure | 4 |
+| formation | 3 |
+| mixing / partial | 3 |
+| crystal structure | 1 |
 
 ## Calculated phase diagrams
 
@@ -116,18 +118,37 @@ Table: Invariant reactions reported in the literature for the V–Zr system (47)
 | 1044.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 5, p. 6, row 11 |  |
 | 1043.15 | eutectoid: bcc_A2 -> C15-Laves + cph_A3 |  | model | [2] Servant 2005 | Table 4, p. 5, row 11 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, V–Zr system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Laves |  | -5.181 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 10 |  |
+| Laves |  | -4.786 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Laves phase |  | -4.681 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Servant 2005 | Table 1, p. 2, row 9 |  |
+
 ## Other properties
 
-### Crystal structure (4)
+### Mixing / partial (3)
+
+Table: Mixing / partial, V–Zr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.204 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 9 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -4.35 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 8 |  |
+| Enthalpy of mixing; _printed: ΔHmelting_ | -3.92 kJ/mol (basis unstated) | 298.15 | liquid; _alloy: V 0.5, Zr 0.5_ | model | [2] Servant 2005 | Table 1, p. 2, row 10 |  |
+
+### Crystal structure (1)
 
 Table: Crystal structure, V–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 7.45 Å | 298.15 | V2Zr; _alloy: Zr 0.333333_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 3 |  |
-| Lattice a | 3.0278 Å | 298.15 | bcc-V; _alloy: Zr 0_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 1 |  |
-| Lattice a | 3.2321 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2 |  |
-| Lattice b | 5.1478 Å | 298.15 | hcp-Zr; _alloy: Zr 1_ | unspecified | [1] Zhao 2012; _cites Finkel 1980_ | Table 1, p. 3, row 2 |  |
 
 ## Sources
 

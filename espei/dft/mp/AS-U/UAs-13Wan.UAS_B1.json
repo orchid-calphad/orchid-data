@@ -1,0 +1,122 @@
+{
+ "components": [
+  "AS",
+  "U",
+  "VA"
+ ],
+ "phases": [
+  "UAS_B1"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "U",
+    "AS"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -69611.92
+   ]
+  ]
+ ],
+ "reference": "Materials Project (Jain et al. 2013), doi:10.1063/1.4812323, release 2026.04.13",
+ "bibtex": "jain2013_mp",
+ "weight": [
+  0.046228
+ ],
+ "tags": [
+  "dft_mp",
+  "orchid",
+  "polymorph_ambiguous"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (mp), third-party DFT database; TDB UAs-13Wan.tdb (sha256 c7741be41943a282bd10133f8d1a5729ca202c482abf8b6439f6a46b8d0bf270), phase UAS_B1. Ids, in value order: mp-aaaaadcy. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "mp",
+  "tdb": {
+   "name": "UAs-13Wan.tdb",
+   "path": "databases/sgte-binary/UAs-13Wan.tdb",
+   "sha256": "c7741be41943a282bd10133f8d1a5729ca202c482abf8b6439f6a46b8d0bf270",
+   "phase": "UAS_B1"
+  },
+  "registry_phase": "phase:as-u:uas-b1",
+  "mapping": [
+   {
+    "id": "mp-aaaaadcy",
+    "compound": "UAs",
+    "basis": "registry DFT name mp:mp-aaaaadcy",
+    "space_group": "Fm-3m",
+    "match_quality": "polymorph_ambiguous"
+   }
+  ],
+  "dois": [
+   "10.1063/1.4812323"
+  ],
+  "status": "third-party DFT (published ORCHID hull layer)",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 10816.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "mp",
+     "stratum": "polymorph_ambiguous|pblock_anion",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "AS-U",
+     "n": 335,
+     "sigma_robust_kJ": 10.816,
+     "bias_median_kJ_not_applied": -1.156,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      9.395,
+      13.635
+     ],
+     "n_full_stratum": 335
+    },
+    "weight_used": 0.046228,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -0.7214766775000001,
+     "unit": "eV/atom"
+    },
+    "id": "mp-aaaaadcy",
+    "compound": "UAs",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 10816.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 10816.0,
+     "method_class": "dft_mp",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 335,
+     "method_entry": "dft/CALIBRATION.json#lso/mp|polymorph_ambiguous|pblock_anion|AS-U"
+    }
+   }
+  ]
+ }
+}

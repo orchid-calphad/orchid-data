@@ -12,8 +12,8 @@ Table: Phases of the Ce–V system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ce-v-bcc-a2); _phase:ce-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.2 K, x(V) 0–1 | 12 | 1 |
-| [FCC_A1](#phase-ce-v-fcc-a1); _phase:ce-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1065 K, x(V) 0–0 | 6 | 1 |
+| [BCC_A2](#phase-ce-v-bcc-a2); _phase:ce-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.2 K, x(V) 0–1 | 10 | 1 |
+| [FCC_A1](#phase-ce-v-fcc-a1); _phase:ce-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1065 K, x(V) 0–0 | 4 | 1 |
 | [HCP_A3](#phase-ce-v-hcp-a3); _phase:ce-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-ce-v-liquid); _phase:ce-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 970.87–4000 K, x(V) 0–1 | 6 | 1 |
 
@@ -22,11 +22,11 @@ Table: Phases of the Ce–V system (4)
 - Id: `phase:ce-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3999.2 K, x(V) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-v:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:ce-v:bcc-a2  
-_paper: _paper:10.1007/s11669-010-9779-4:V, paper:10.1007/s11669-010-9779-4:βCe, paper:10.1007/s11669-010-9779-4:δCe  
+Names (4): _corpus: _corpus:phase:ce-v:bcc-a2  
+_paper: _paper:10.1007/s11669-010-9779-4:V, paper:10.1007/s11669-010-9779-4:δCe  
 _tdb: _tdb:CeV-10Cha.tdb:BCC_A2  
 
 
@@ -53,7 +53,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ce-v:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1065 K, x(V) 0–0
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ce-v:fcc-a1)
 
 Names (3): _corpus: _corpus:phase:ce-v:fcc-a1  

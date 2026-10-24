@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Sm4Ti15
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 9.69678 | kJ/mol-atom |  | 0.004824 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 9.69678 | kJ/mol-atom |  | 0.004824 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of NbF5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -302.293 | kJ/mol-atom |  | 8.333e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -302.293 | kJ/mol-atom |  | 8.333e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AgDy.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -37.3 kJ/mol-atom (n = 1); Materials Project -32.233 kJ/mol-atom (mp-aaaaadfj); OQMD -32.376 kJ/mol-atom (oqmd-10365).
 
-Systems: [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html)
+Systems: [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of AgDy reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
-| -44 kJ/mol-atom | AgDy |  | model |  | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15 |  |
-| -32.812 kJ/mol-atom | AgDy | 298.15 | DFT | first-principles calculations | [Ag–Dy–Er](https://data.orchid-project.org/systems/AG-DY-ER.html) | [1] Long 2010 | Table 1, p. 3, row 13 |  |
+| -37.3 kJ/mol-atom ± 1.8 | AgDy | 298.15 | experimental |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
+| -44 kJ/mol-atom | AgDy |  | model |  | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15 |  |
+| -32.812 kJ/mol-atom | AgDy | 298.15 | DFT | first-principles calculations | [Ag–Dy](https://data.orchid-project.org/systems/AG-DY.html) | [1] Long 2010 | Table 1, p. 3, row 13 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AgDy
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -37.3 | kJ/mol-atom | 1.8 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -44 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.812 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -37.3 | kJ/mol-atom | 1.8 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -44 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.812 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -39,7 +39,7 @@ Table: DFT formation energy of AgDy
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadfj | -32.233 | -0.334072 | Pm-3m | 0 | 0 | no |
-| OQMD | oqmd-10365 | -32.376 | -0.335555 | Pm-3m | 0.06 | 6.000e-4 | no |
+| OQMD | oqmd-10365 | -32.376 | -0.335555 | Pm-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

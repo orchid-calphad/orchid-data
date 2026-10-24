@@ -14,7 +14,7 @@ Table: Phases of the Bi–U system (10)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-bi-u-a20-orthorhombic); _phase:bi-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–942.03 K, x(U) 1–1 | 0 | 2 |
 | [RHOMBOHEDRAL_A7](#phase-bi-u-a7-rhombohedral); _phase:bi-u:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–544.55 K, x(U) 0–0 | 2 | 2 |
-| [BCC_A2](#phase-bi-u-bcc-a2); _phase:bi-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1048.99–3999.24 K, x(U) 0.99998–1 | 6 | 2 |
+| [BCC_A2](#phase-bi-u-bcc-a2); _phase:bi-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1048.99–3999.24 K, x(U) 0.99998–1 | 4 | 2 |
 | [BI2U](#phase-bi-u-bi2u); _phase:bi-u:bi2u_ | UAs2 · tP6 · P4/nmm (129) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1281.52 K, x(U) 0.33333–0.33333 | 76 | 2 |
 | [BI4U3_D73](#phase-bi-u-bi4u3-d73); _phase:bi-u:bi4u3-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1424.47 K, x(U) 0.42857–0.42857 | 4 | 2 |
 | [BIU_B1](#phase-bi-u-biu-b1); _phase:bi-u:biu-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1674.42 K, x(U) 0.5–0.5 | 10 | 2 |
@@ -99,11 +99,11 @@ _assessment that models this phase_
 - Id: `phase:bi-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1048.99–3999.24 K, x(U) 0.99998–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-u:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:bi-u:bcc-a2  
-_paper: _paper:10.1016/j.jnucmat.2011.02.021:βU, paper:10.1016/j.jnucmat.2011.02.021:γU  
+Names (4): _corpus: _corpus:phase:bi-u:bcc-a2  
+_paper: _paper:10.1016/j.jnucmat.2011.02.021:γU  
 _tdb: _tdb:BiU-11Wan.tdb:BCC_A2, tdb:BiU-21Aga.tdb:BCC_A2  
 
 

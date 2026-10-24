@@ -1,10 +1,10 @@
 # Ni–Ti phases
 
-> Ni–Ti system: 14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ni–Ti system: 14 phases (tier A 6, tier C 3, liquid 1, needs_review 3, tdb_comment_structure 1); 12 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/NI-TI.html · Markdown: https://data.orchid-project.org/phases/pages/NI-TI.md
 
-14 phases (tier A 7, tier C 3, liquid 1, needs_review 3); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+14 phases (tier A 6, tier C 3, liquid 1, needs_review 3, tdb_comment_structure 1); 12 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=NI-TI) · [full JSON](https://data.orchid-project.org/phases/systems/NI-TI.json) · [Ni–Ti system page](https://data.orchid-project.org/systems/NI-TI.html) · [Markdown](https://data.orchid-project.org/phases/pages/NI-TI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,19 +13,19 @@ Table: Phases of the Ni–Ti system (14)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_4SL](#phase-ni-ti-bcc-4sl); _phase:ni-ti:bcc-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2499.72 K, x(Ti) 0.4478–1 | 0 | 1 |
-| [BCC_A2](#phase-ni-ti-bcc-a2); _phase:ni-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 13 of 22 calculated diagram(s): 1036.31–2499.91 K, x(Ti) 0.88033–1 | 8 | 22 |
+| [BCC_A2](#phase-ni-ti-bcc-a2); _phase:ni-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 1036.31–2499.91 K, x(Ti) 0.88033–1 | 6 | 22 |
 | [B2_BCC](#phase-ni-ti-bcc-b2); _phase:ni-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–2499.93 K, x(Ti) 0.42452–1 | 28 | 9 |
 | [FCC_4SL](#phase-ni-ti-fcc-4sl); _phase:ni-ti:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1728.24 K, x(Ti) 0–0.15079 | 0 | 2 |
-| [FCC_A1](#phase-ni-ti-fcc-a1); _phase:ni-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 15 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698 | 2 | 15 |
+| [FCC_A1](#phase-ni-ti-fcc-a1); _phase:ni-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698 | 2 | 15 |
 | [HCP_A3](#phase-ni-ti-hcp-a3); _phase:ni-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–1939.99 K, x(Ti) 0.9976–1 | 4 | 13 |
 | [LIQUID](#phase-ni-ti-liquid); _phase:ni-ti:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 1212.05–2500 K, x(Ti) 0–1 | 23 | 13 |
 | [NI3TI_D024](#phase-ni-ti-ni3ti-d024); _phase:ni-ti:ni3ti-d024_ | Ni3Ti · D0_24 · hP16 · P6_3/mmc (194) | tier A: standard phase name | stable in 13 of 13 calculated diagram(s): 300–2500 K, x(Ti) 0.0776–0.262 | 20 | 13 |
 | [NI3TI2](#phase-ni-ti-ni3ti2); _phase:ni-ti:ni3ti2_ | Ni8Ti5 · hR52 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [NI4TI3](#phase-ni-ti-ni4ti3); _phase:ni-ti:ni4ti3_ | Pd4Pu3 · hR14 · R-3 (148) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [NITI_B19](#phase-ni-ti-niti-b19); _phase:ni-ti:niti-b19_ | AuCd · B19 · oP4 · Pmma (51) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–366.4 K, x(Ti) 0.5–0.50028 | 0 | 1 |
+| [NITI_B19](#phase-ni-ti-niti-b19); _phase:ni-ti:niti-b19_ | NiTi · B19' · mP4 · P2_1/m (11) | assigned | stable in 1 of 1 calculated diagram(s): 300–366.4 K, x(Ti) 0.5–0.50028 | 0 | 1 |
 | [NITI_B19P](#phase-ni-ti-niti-b19p); _phase:ni-ti:niti-b19p_ | NiTi · B19' · mP4 · P2_1/m (11) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–351.3 K, x(Ti) 0.5–0.50001 | 0 | 2 |
 | [NITI_B2](#phase-ni-ti-niti-b2); _phase:ni-ti:niti-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1584.59 K, x(Ti) 0.43263–0.53215 | 0 | 3 |
-| [NITI2](#phase-ni-ti-niti2); _phase:ni-ti:niti2_ |  | needs_review | stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704 | 20 | 13 |
+| [NITI2](#phase-ni-ti-niti2); _phase:ni-ti:niti2_ |  | needs_review | stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704 | 22 | 13 |
 
 ## BCC_4SL (Ni–Ti)
 
@@ -60,8 +60,8 @@ _tdb: _tdb:NiTi-14Hu.tdb:BCC_4SL
 
 - Id: `phase:ni-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 13 of 22 calculated diagram(s): 1036.31–2499.91 K, x(Ti) 0.88033–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Stability: stable in 13 of 13 calculated diagram(s): 1036.31–2499.91 K, x(Ti) 0.88033–1
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:bcc-a2)
 
 Names (24): _corpus: _corpus:phase:ni-ti:bcc-a2  
@@ -399,7 +399,7 @@ _tdb: _tdb:NiTi-09Key.tdb:FCC_4SL, tdb:NiTi-14Hu.tdb:FCC_4SL
 
 - Id: `phase:ni-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 13 of 15 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698
+- Stability: stable in 13 of 13 calculated diagram(s): 300–1753.24 K, x(Ti) 0–0.15698
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:fcc-a1)
 
@@ -993,7 +993,7 @@ _assessment that models this phase_
 ## NITI_B19 (Ni–Ti)
 
 - Id: `phase:ni-ti:niti-b19`; status `assigned`
-- Structure: AuCd · B19 · oP4 · Pmma (51); type `st:b19-aucd-op4`; tier A: standard phase name; confidence high
+- Structure: NiTi · B19' · mP4 · P2_1/m (11); type `st:b19-niti-mp4`; tdb_comment_structure; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–366.4 K, x(Ti) 0.5–0.50028
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:niti-b19)
@@ -1108,11 +1108,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): NiTi2 · cF96 · Fd-3m — NiTi-15San.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'
 - Candidate (tdb_comment): NiTi2 · cF96 · Fd-3m — NiTi-16Ber.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'
 - Stability: stable in 13 of 13 calculated diagram(s): 300–1287.9 K, x(Ti) 0.66667–0.66704
-- Literature: 20 values (20 accepted) from 1 papers
+- Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-ti:niti2)
 
-Names (15): _corpus: _corpus:phase:ni-ti:niti2  
-_paper: _paper:10.1016/j.jallcom.2014.08.200:NiTi2  
+Names (16): _corpus: _corpus:phase:ni-ti:niti2  
+_paper: _paper:10.1016/j.calphad.2008.10.003:NiTi2, paper:10.1016/j.jallcom.2014.08.200:NiTi2  
 _tdb: _tdb:NiTi-04Tok.tdb:NITI2, tdb:NiTi-09Key.tdb:NITI2, tdb:NiTi-13Pov.tdb:NITI2, tdb:NiTi-14Hu.tdb:NITI2, tdb:NiTi-15San.tdb:NITI2, tdb:NiTi-16Ber.tdb:NITI2, tdb:NiTi-18Hua.tdb:NITI2, tdb:NiTi-21Jin.tdb:NITI2, tdb:NiTi-22Sun.tdb:NITI2, tdb:NiTi-92Sau.tdb:NITI2, tdb:NiTi-95Oh.tdb:NITI2, tdb:NiTi-96Bel-LB.tdb:NITI2, tdb:NiTi-99Tan.tdb:NITI2  
 
 
@@ -1209,7 +1209,7 @@ _tdb: _tdb:NiTi-04Tok.tdb:NITI2, tdb:NiTi-09Key.tdb:NITI2, tdb:NiTi-13Pov.tdb:NI
 74: CONST NITI2 : NI : TI : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.jallcom.2014.08.200](https://doi.org/10.1016/j.jallcom.2014.08.200) K. Santhy, K.C. Hari Kumar, Thermodynamic reassessment of Nb-Ni-Ti system with order–disorder model, Journal of Alloys and Compounds 619, 733-747 (2015).  
 _assessment that models this phase; reports values for this phase_
@@ -1229,8 +1229,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/matertrans.45.1507](https://doi.org/10.2320/matertrans.45.1507) Tatsuya Tokunaga, Koji Hashima, Hiroshi Ohtani, Mitsuhiro Hasebe, Thermodynamic Analysis of the Ni-Si-Ti System Using Thermochemical Properties Determined from Ab Initio Calculations, Mater. Trans. 45, 1507-1514 (2004).  
 _assessment that models this phase_
-- [doi:10.1103/physrevb.52.15176](https://doi.org/10.1103/physrevb.52.15176) A. Pasturel, C. Colinet, D. Nguyen Manh, A. T. Paxton, M. van Schilfgaarde, Electronic structure and phase stability study in the Ni-Ti system, Phys. Rev. B 52, 15176-15190 (1995).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2008.10.003](https://doi.org/10.1016/j.calphad.2008.10.003) Jozefien De Keyzer, Gabriele Cacciamani, Nathalie Dupin, Patrick Wollants, Thermodynamic modeling and optimization of the Fe–Ni–Ti system, Calphad 33, 109-123 (2009).  
+_reports values for this phase_
 
 ## Please cite
 

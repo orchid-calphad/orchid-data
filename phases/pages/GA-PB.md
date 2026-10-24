@@ -12,7 +12,7 @@ Table: Phases of the Ga–Pb system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A11](#phase-ga-pb-a11-orthorhombic); _phase:ga-pb:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Pb) 0–0 | 6 | 2 |
+| [ORTHORHOMBIC_A11](#phase-ga-pb-a11-orthorhombic); _phase:ga-pb:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Pb) 0–0 | 3 | 2 |
 | [BCC_A2](#phase-ga-pb-bcc-a2); _phase:ga-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ga-pb-fcc-a1); _phase:ga-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.36 K, x(Pb) 0.9955–1 | 7 | 2 |
 | [HCP_A3](#phase-ga-pb-hcp-a3); _phase:ga-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
@@ -24,7 +24,7 @@ Table: Phases of the Ga–Pb system (5)
 - Structure: alpha-Ga · A11 · oC8 · Cmce (64); type `st:a11-alpha-ga-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–302.91 K, x(Pb) 0–0
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-pb:a11-orthorhombic)
 
 Names (5): _corpus: _corpus:phase:ga-pb:a11-orthorhombic, corpus:phase:ga-pb:orthorhombic-a11  

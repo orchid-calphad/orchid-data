@@ -15,9 +15,9 @@ Table: Phases of the Ag–Gd system (7)
 | [AG2GD_C11B](#phase-ag-gd-ag2gd-c11b); _phase:ag-gd:ag2gd-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1104.66 K, x(Gd) 0.33333–0.33333 | 10 | 2 |
 | [AG51GD14](#phase-ag-gd-ag51gd14); _phase:ag-gd:ag51gd14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1245.13 K, x(Gd) 0.21538–0.21538 | 16 | 2 |
 | [AGGD_B2](#phase-ag-gd-aggd-b2); _phase:ag-gd:aggd-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1395.91 K, x(Gd) 0.5–0.5 | 15 | 2 |
-| [BCC_A2](#phase-ag-gd-bcc-a2); _phase:ag-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1507.85–2499.83 K, x(Gd) 0.99849–1 | 5 | 2 |
+| [BCC_A2](#phase-ag-gd-bcc-a2); _phase:ag-gd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1507.85–2499.83 K, x(Gd) 0.99849–1 | 3 | 2 |
 | [FCC_A1](#phase-ag-gd-fcc-a1); _phase:ag-gd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1239.85 K, x(Gd) 0–0.00856 | 9 | 2 |
-| [HCP_A3](#phase-ag-gd-hcp-a3); _phase:ag-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1582.85 K, x(Gd) 0.99713–1 | 7 | 2 |
+| [HCP_A3](#phase-ag-gd-hcp-a3); _phase:ag-gd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1582.85 K, x(Gd) 0.99713–1 | 5 | 2 |
 | [LIQUID](#phase-ag-gd-liquid); _phase:ag-gd:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1052.14–2500 K, x(Gd) 0–1 | 37 | 2 |
 
 ## AG2GD_C11B (Ag–Gd)
@@ -153,7 +153,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-gd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1507.85–2499.83 K, x(Gd) 0.99849–1
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-gd:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:ag-gd:bcc-a2  
@@ -233,7 +233,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-gd:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1582.85 K, x(Gd) 0.99713–1
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-gd:hcp-a3)
 
 Names (5): _corpus: _corpus:phase:ag-gd:hcp-a3  
@@ -263,9 +263,9 @@ Example references (4 of 4; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2007.11.049](https://doi.org/10.1016/j.jallcom.2007.11.049) H. Wang, L.G. Zhang, W.J. Zhu, H.S. Liu, Z.P. Jin, Thermodynamic assessment of the Ag–Gd binary system, Journal of Alloys and Compounds 466, 165-168 (2008).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02869227](https://doi.org/10.1007/bf02869227) K. A. Gschneidner, F. W. Calderwood, The Ag−Gd (silver-gadolinium) system, Bulletin of Alloy Phase Diagrams 6, 138-140 (1985).  
-_cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(72)90049-5](https://doi.org/10.1016/0022-5088%2872%2990049-5) Gonde Kiessler, Erich Gebhardt, Siegfried Steeb, Das system silber-gadolinium, Journal of the Less Common Metals 26, 293-298 (1972).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02869227](https://doi.org/10.1007/bf02869227) K. A. Gschneidner, F. W. Calderwood, The Ag−Gd (silver-gadolinium) system, Bulletin of Alloy Phase Diagrams 6, 138-140 (1985).  
 _cited as the source of values for this phase_
 
 ## LIQUID (Ag–Gd)

@@ -17,10 +17,10 @@ Table: Phases of the Al–Ni system (12)
 | [AL3NI5](#phase-al-ni-al3ni5); _phase:al-ni:al3ni5_ | Ga3Pt5 · oC16 · Cmmm (65) | tier B: DFT-supported (unique MP + OQMD match) | stable in 12 of 12 calculated diagram(s): 300–1024.89 K, x(Ni) 0.625–0.625 | 14 | 12 |
 | [AL4NI3](#phase-al-ni-al4ni3); _phase:al-ni:al4ni3_ | Ga4Ni3 · cI112 · Ia-3d (230) | tier B: DFT-supported (unique MP + OQMD match) | stable in 4 of 4 calculated diagram(s): 300–975.24 K, x(Ni) 0.42857–0.42857 | 2 | 4 |
 | [ALNI3_L12](#phase-al-ni-alni3-l12); _phase:al-ni:alni3-l12_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1643.07 K, x(Ni) 0.76–0.76 | 15 | 1 |
-| [BCC_A2](#phase-al-ni-bcc-a2); _phase:al-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 18 calculated diagram(s): 300–1916.22 K, x(Ni) 0.41534–0.65223 | 16 | 18 |
+| [BCC_A2](#phase-al-ni-bcc-a2); _phase:al-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 12 calculated diagram(s): 300–1916.22 K, x(Ni) 0.41534–0.65223 | 16 | 18 |
 | [B2_BCC](#phase-al-ni-bcc-b2); _phase:al-ni:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1952.88 K, x(Ni) 0.40974–0.7244 | 36 | 12 |
 | [FCC_4SL](#phase-al-ni-fcc-4sl); _phase:al-ni:fcc-4sl_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1731.78 K, x(Ni) 0–1 | 15 | 4 |
-| [FCC_A1](#phase-al-ni-fcc-a1); _phase:al-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 12 of 22 calculated diagram(s): 300–1734.62 K, x(Ni) 0–1 | 25 | 22 |
+| [FCC_A1](#phase-al-ni-fcc-a1); _phase:al-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 12 of 12 calculated diagram(s): 300–1734.62 K, x(Ni) 0–1 | 25 | 22 |
 | [L12_FCC](#phase-al-ni-fcc-l12); _phase:al-ni:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 8 of 8 calculated diagram(s): 300–1728.42 K, x(Ni) 0–1 | 15 | 8 |
 | [HCP_A3](#phase-al-ni-hcp-a3); _phase:al-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 13 calculated diagram(s) | 0 | 13 |
 | [LIQUID](#phase-al-ni-liquid); _phase:al-ni:liquid_ | liquid | liquid | stable in 13 of 13 calculated diagram(s): 908.3–2500 K, x(Ni) 0–1 | 80 | 13 |
@@ -510,7 +510,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-ni:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 18 calculated diagram(s): 300–1916.22 K, x(Ni) 0.41534–0.65223
+- Stability: stable in 1 of 12 calculated diagram(s): 300–1916.22 K, x(Ni) 0.41534–0.65223
 - Literature: 16 values (16 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ni:bcc-a2)
 
@@ -872,7 +872,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:al-ni:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 12 of 22 calculated diagram(s): 300–1734.62 K, x(Ni) 0–1
+- Stability: stable in 12 of 12 calculated diagram(s): 300–1734.62 K, x(Ni) 0–1
 - Literature: 25 values (25 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-ni:fcc-a1)
 

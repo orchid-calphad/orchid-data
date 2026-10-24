@@ -1,22 +1,21 @@
 # Hf3Nb: enthalpy of formation
 
-> Enthalpy of formation of Hf3Nb: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Hf3Nb: 2 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Hf3Nb.html · Markdown: https://data.orchid-project.org/compounds/Hf3Nb.md
 
-3 accepted literature formation-enthalpy value(s) (DFT 3).
+2 accepted literature formation-enthalpy value(s) (DFT 2).
 
 Systems: [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Hf3Nb reported in the literature (3)
+Table: Enthalpy of formation of Hf3Nb reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | 4.04 kJ/mol (basis unstated) | Hf3Nb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
 | 11.499 kJ/mol (basis unstated) | Hf3Nb | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 6, p. 11, row 2 |  |
-| 13.243 kJ/mol (basis unstated) | Hf3Nb (DO3) | 0 | DFT | ab-initio | [Hf–Nb](https://data.orchid-project.org/systems/HF-NB.html) | [1] Ghosh 2002 | Table 5, p. 10, row 1 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +25,8 @@ Table: Uncertainty budget of the literature values of Hf3Nb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 4.04 | kJ/mol (basis unstated) |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| 11.499 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| 13.243 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| 4.04 | kJ/mol (basis unstated) |  | 0.005 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| 11.499 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
 
 ## Sources
 

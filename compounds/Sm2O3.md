@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Sm2O3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -365.36 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -364.6 | kJ/mol-atom |  | 1.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -365.36 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -364.6 | kJ/mol-atom |  | 1.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

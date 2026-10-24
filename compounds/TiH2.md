@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/TiH2.html · Markdown: https://d
 
 14 accepted literature formation-enthalpy value(s) (experimental 4, model 7, unspecified 3).
 
-Systems: [H–Ti](https://data.orchid-project.org/systems/H-TI.html) · [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html)
+Systems: [H–Ti](https://data.orchid-project.org/systems/H-TI.html)
 
 ## Literature values
 
@@ -23,8 +23,8 @@ Table: Enthalpy of formation of TiH2 reported in the literature (14)
 | -139 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites E Konigsberger 2000_ | Table 3, p. 4, row 7 |  |
 | -133.2 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [2] Königsberger 2000 | Table 2, p. 2, row 9 |  |
 | -129 kJ/mol (basis unstated) | TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Kivilahti 1987_ [doi](https://doi.org/10.1016/0364-5916%2887%2990014-9) | Table 3, p. 4, row 6 |  |
-| -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
-| -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti–Zr](https://data.orchid-project.org/systems/H-TI-ZR.html) | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
+| -47.3 kJ/mol (basis unstated) | ε-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 3 |  |
+| -47.1 kJ/mol (basis unstated) | δ-TiH2 |  | model |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [3] Ukita 2007 | Table 2, p. 5, row 2 |  |
 | -165 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Wang 1996_ | Table 3, p. 4, row 4 |  |
 | -148 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Tokujiro 2001_ | Table 3, p. 4, row 5 |  |
 | -134 kJ/mol (basis unstated) | TiH2 |  | unspecified |  | [H–Ti](https://data.orchid-project.org/systems/H-TI.html) | [1] Wang 2010; _cites Shusuke 2007_ | Table 3, p. 4, row 8 |  |
@@ -37,20 +37,20 @@ Table: Uncertainty budget of the literature values of TiH2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -179 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -151.2 | kJ/mol (basis unstated) | 27.8 | 0.06126 | 4.1 (unknown, calibrated) |  |  |  | 27.8 |
-| -137 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -136.95 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -146 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -142 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -139 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -133.2 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -129 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -47.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -47.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -165 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -148 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -134 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -179 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -151.2 | kJ/mol (basis unstated) | 27.8 | 0.06126 | 10.5 (unknown, calibrated) |  |  |  | 27.8 |
+| -137 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -136.95 | kJ/mol (basis unstated) |  | 0.005 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -146 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -142 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -139 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -133.2 | kJ/mol (basis unstated) |  | 0.05 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -129 | kJ/mol (basis unstated) |  | 0.5 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -47.3 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -47.1 | kJ/mol (basis unstated) |  | 5.000e-4 | 10.2 (model_calculated, calibrated) |  |  |  | 10.2 |
+| -165 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -148 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
+| -134 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (unknown, calibrated) |  |  |  | 10.5 |
 
 ## Sources
 

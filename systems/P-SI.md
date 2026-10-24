@@ -1,10 +1,10 @@
 # P–Si system
 
-> P–Si system: 72 accepted literature values (invariant reaction 26, formation 14, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> P–Si system: 76 accepted literature values (invariant reaction 24, formation 14, heat capacity / entropy / enthalpy 12, phase equilibrium 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/P-SI.html · Markdown: https://data.orchid-project.org/systems/P-SI.md
 
-72 accepted literature values from 2 paper(s) (experimental 34, model 28, unspecified 10); 0 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+76 accepted literature values from 3 paper(s) (experimental 40, model 27, unspecified 9); 0 calculated phase diagram(s). 5 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/P-SI.json) · [CSV](https://data.orchid-project.org/systems/P-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#P-SI) · [phases (10)](https://data.orchid-project.org/phases/pages/P-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/P-SI.html) · [Markdown](https://data.orchid-project.org/systems/P-SI.md)
 
@@ -12,27 +12,28 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 34 |
-| model | 28 |
-| unspecified | 10 |
+| experimental | 40 |
+| model | 27 |
+| unspecified | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 26 |
+| invariant reaction | 24 |
 | phase transition | 7 |
 | phase equilibrium | 7 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 12 |
 | activity / EMF / Gibbs energy | 5 |
+| crystal structure | 6 |
 | model expression | 1 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/P/P-SI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/P/P-SI.json) · [CALPHAD hull SiP-04Din-LB](https://data.orchid-project.org/hulls/calphad-sgte/P/P-SI--SiP-04Din-LB.json) · [CALPHAD hull SiP-14Lia](https://data.orchid-project.org/hulls/calphad-sgte/P/P-SI--SiP-14Lia.json) · [CALPHAD hull SiP-21Don](https://data.orchid-project.org/hulls/calphad-sgte/P/P-SI--SiP-21Don.json)
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the P–Si system (26)
+Table: Invariant reactions reported in the literature for the P–Si system (24)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -46,13 +47,11 @@ Table: Invariant reactions reported in the literature for the P–Si system (26)
 | 1410.15 | other: Congruent melting L = SiP | L: P 0.5, Si 0.5; SiP: P 0.5, Si 0.5 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 9 |  |
 | 1407.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 6 |  |
 | 1407.15 | eutectic: Eutectic L = SiP + SiP2 | SiP: P 0.5, Si 0.5; SiP2: P 0.666667, Si 0.333333 | model | [1] Liang 2014; _cites Jung 2012_ [doi](https://doi.org/10.1007/s11837-012-0387-0) | Table 4, p. 7, row 15 |  |
-| 1407 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5; L: P 39.4 (basis unresolved) | model | [2] Favre 2024 | Table 9, p. 50, row 6 |  |
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 (basis unresolved) | model | [1] Liang 2014 | Table 4, p. 7, row 5 |  |
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | L: P 0.32807, Si 0.67193; SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Giessen 1959_ | Table 4, p. 7, row 1 |  |
 | 1404.15 | eutectic: Eutectic L = (Si) + SiP | SiP: P 0.5, Si 0.5 | experimental | [1] Liang 2014; _cites Ugai 1987_ | Table 4, p. 7, row 2 |  |
 | 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 12 | “Conventional thermal analysis TGA-DTA experiment of Safarian and Tangstad \[6\] previously mentioned in this paper is able to determine the low phosphorus composition of the Si(s. sat. P) in equilibrium with liquid eutectic as mentioned above: indeed at XP = 0.0094 a thermal event occurs at 1400K slightly lower than the eutectic plateau at 1404K.” |
 | 1404 | eutectic |  | experimental | [2] Favre 2024; _cites ref. 43_ | p. 32 | “We retain P activity values from Blitz\[43\] and Korb and Hein\[44\] as thermodynamic data for the diphasic Si-SiP up to the eutectic temperature at 1404K.” |
-| 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5; L: P 34.3 (basis unresolved) | unspecified | [2] Favre 2024; _cites ref. 1_ | Table 9, p. 50, row 5 |  |
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites ref. 12_ | Table 9, p. 50, row 2 |  |
 | 1404 | eutectic: Si-SiP-liq. eutectic | SiP: P 0.5 | unspecified | [2] Favre 2024; _cites as well as Safarian and Tangstad\[6\] namely for liquidus retained data_ | Table 9, p. 50, row 1 |  |
 | 1404 | eutectic |  | experimental | [2] Favre 2024 | p. 6 | “The mean value of the eutectic temperature is therefore close to that adopted by other authors at 1404K.” |
@@ -147,6 +146,19 @@ Table: Activity / EMF / Gibbs energy, P–Si system
 | Vapour pressure; _printed: total pressure_ | 2.7 bar | 1443 |  | experimental | [2] Favre 2024 | p. 29 | “Full results allow the authors to propose the melting temperature of the two compounds as well as their total pressure in equilibrium: for SiP 1443K and 2.7 bar and for SiP2 1451K and 3.7 bar.” |
 | Vapour pressure; _printed: total pressure_ | 3.7 bar | 1451 |  | experimental | [2] Favre 2024 | p. 29 | “Full results allow the authors to propose the melting temperature of the two compounds as well as their total pressure in equilibrium: for SiP 1443K and 2.7 bar and for SiP2 1451K and 3.7 bar.” |
 
+### Crystal structure (6)
+
+Table: Crystal structure, P–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 20.49 Å | 298.15 | SiP; _alloy: Si 0.5_ | experimental | [3] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
+| Lattice a | 13.97 Å | 298.15 | SiP2; _alloy: Si 0.333333_ | experimental | [3] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
+| Lattice b | 13.61 Å | 298.15 | SiP; _alloy: Si 0.5_ | experimental | [3] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
+| Lattice b | 10.08 Å | 298.15 | SiP2; _alloy: Si 0.333333_ | experimental | [3] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
+| Lattice c | 3.51 Å | 298.15 | SiP; _alloy: Si 0.5_ | experimental | [3] Liu 2016; _cites Wadsten 1975_ | Table 1, p. 3, row 1 |  |
+| Lattice c | 3.43 Å | 298.15 | SiP2; _alloy: Si 0.333333_ | experimental | [3] Liu 2016; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table 1, p. 3, row 2 |  |
+
 ### Model expression (1)
 
 Table: Model expression, P–Si system
@@ -161,6 +173,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Song-Mao Liang, Rainer Schmid-Fetzer, Modeling of Thermodynamic Properties and Phase Equilibria of the Si-P System, J. Phase Equilib. Diffus. 35, 24-35 (2014). [doi:10.1007/s11669-013-0269-3](https://doi.org/10.1007/s11669-013-0269-3)
 2. Simon Favre, Ioana Nuta, Guy Chichignoud, Evelyne Fischer, Christian Chatillon, Critical assessment of the Si-P system: P solubility in the Si-rich region and refining by phosphorus distillation, Calphad 87, 102758 (2024). [doi:10.1016/j.calphad.2024.102758](https://doi.org/10.1016/j.calphad.2024.102758)
+3. Ya Liu, Bin Zhou, Wei Lv, Changjun Wu, Xuping Su, Jianhua Wang, Experimental investigation and thermodynamic assessment of the Zn–Si–P system, Surface and Coatings Technology 306, 370-377 (2016). [doi:10.1016/j.surfcoat.2016.01.016](https://doi.org/10.1016/j.surfcoat.2016.01.016)
 
 ## Please cite
 

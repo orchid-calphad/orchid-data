@@ -869,6 +869,7 @@ C-FE-p222,16,partly_drawn_truncated_edge,the field reaches a cut-off composition
 C-FE-p222,17,partly_drawn_truncated_edge,the field reaches a cut-off composition edge of the drawing,
 C-FE-p222,20,too_thin_for_margin,max interior clearance 0.0050 < margin 0.0060 (normalised),(γFe)+(δFe)
 C-HF-p223,1,tracing_fault,,
+C-HG-p223,1,schematic_field_unbounded_below,point at -8.2 K in a full-width field with no drawn lower boundary,(C)+(Hg)
 C-HG-p223,4,undetermined_in_source,,
 C-LA-p224,4,partly_drawn_truncated_edge,the field reaches a cut-off composition edge of the drawing,
 C-LA-p224,12,partly_drawn_truncated_edge,the field reaches a cut-off composition edge of the drawing,
@@ -2847,6 +2848,7 @@ LI-SE-p602,6,too_thin_for_margin,max interior clearance 0.0025 < margin 0.0060 (
 LI-SE-p602,10,tracing_fault,,
 LI-SN-p603,8,too_thin_for_margin,max interior clearance 0.0025 < margin 0.0060 (normalised),Li13Sn5+Li5Sn2
 LI-SN-p603,19,too_thin_for_margin,max interior clearance 0.0025 < margin 0.0060 (normalised),Li13Sn5+Li5Sn2
+LI-TA-p604,1,schematic_field_unbounded_below,point at -74.0 K in a full-width field with no drawn lower boundary,(Ta)+(αLi)
 LI-TE-p604,7,too_thin_for_margin,max interior clearance 0.0022 < margin 0.0060 (normalised),LiTe3
 LI-TE-p604,12,too_thin_for_margin,max interior clearance 0.0038 < margin 0.0060 (normalised),L+L#2
 LI-TL-p605,22,too_thin_for_margin,max interior clearance 0.0055 < margin 0.0060 (normalised),L+Li3Tl

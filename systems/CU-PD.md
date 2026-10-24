@@ -1,10 +1,10 @@
 # Cu–Pd system
 
-> Cu–Pd system: 12 accepted literature values (invariant reaction 6, phase transition 5, mixing / partial 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Pd system: 13 accepted literature values (invariant reaction 6, phase transition 5, formation 1, mixing / partial 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-PD.html · Markdown: https://data.orchid-project.org/systems/CU-PD.md
 
-12 accepted literature values from 2 paper(s) (experimental 7, model 5); 2 calculated phase diagram(s).
+13 accepted literature values from 2 paper(s) (experimental 7, model 5, DFT 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-PD.json) · [CSV](https://data.orchid-project.org/systems/CU-PD.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-PD) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-PD/CuPd-07Hua.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-PD.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-PD.html) · [Markdown](https://data.orchid-project.org/systems/CU-PD.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 7 |
 | model | 5 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 5 |
+| formation | 1 |
 | mixing / partial | 1 |
 
 ## Calculated phase diagrams
@@ -54,6 +56,16 @@ Table: Invariant reactions reported in the literature for the Cu–Pd system (6)
 | 748 | fcc + 1D - LPS -> 2D-LPS | fcc: Pd 0.2231; 1D - LPS: Pd 0.2022; 2D-LPS: Pd 0.2185 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 8 |  |
 | 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.2941; 2D-LPS: Pd 0.2825; CuPd: Pd 0.3426 | model | [1] Li 2008 | Table 3, p. 6, row 9 |  |
 | 673 | fcc -> 2D-LPS + CuPd | fcc: Pd 0.3092; 2D-LPS: Pd 0.3002; CuPd: Pd 0.3525 | experimental | [1] Li 2008; _cites Huang 1991_ [doi](https://doi.org/10.1007/bf02663663) | Table 3, p. 6, row 10 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–Pd system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| CuPd B2 |  | -12.73 kJ/mol-atom | 298.15 | DFT |  |  | [2] Huang 2007 | Table 2, p. 6, row 6 |  |
 
 ## Other properties
 

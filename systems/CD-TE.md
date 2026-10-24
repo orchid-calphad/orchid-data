@@ -1,10 +1,10 @@
 # Cd–Te system
 
-> Cd–Te system: 20 accepted literature values (phase transition 15, invariant reaction 5) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Te system: 24 accepted literature values (phase transition 15, invariant reaction 5, mixing / partial 2, formation 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-TE.html · Markdown: https://data.orchid-project.org/systems/CD-TE.md
 
-20 accepted literature values from 2 paper(s) (experimental 13, model 7); 3 calculated phase diagram(s).
+24 accepted literature values from 2 paper(s) (experimental 13, model 9, unspecified 2); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CD-TE.json) · [CSV](https://data.orchid-project.org/systems/CD-TE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-TE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-TE/CdTe-00Yam-LB.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CD-TE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-TE.html) · [Markdown](https://data.orchid-project.org/systems/CD-TE.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 13 |
-| model | 7 |
+| model | 9 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 15 |
+| formation | 2 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -65,6 +68,17 @@ Table: Invariant reactions reported in the literature for the Cd–Te system (5)
 | 594.13 | liq -> Cd + CdTe | liq: Te 1.820e-4; Cd: Te 0; CdTe: Te 0.5 | model | [1] Liu 2009 | Table III, p. 7, row 1 |  |
 | 594 | liq -> Cd + CdTe | Cd: Te 0; CdTe: Te 0.5 | experimental | [1] Liu 2009; _cites Kobayashi 1911_ [doi](https://doi.org/10.1002/zaac.19100690102) | Table III, p. 7, row 2 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cd–Te system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| CdTe |  | -100.708 kJ/mol (basis unstated) | 298.15 | model |  |  | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
+| CdTe |  | -100.663 kJ/mol (basis unstated) | 298.15 | unspecified |  |  | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
+
 ## Other properties
 
 ### Phase transition (15)
@@ -88,6 +102,15 @@ Table: Phase transition, Cd–Te system
 | Phase transition | 1371.15 K | 1371.15 | CdTe | model | [2] Jianrong 1995; _cites ref. 12_ | p. 1 | “Their assessment predicts 1098'C for the melting point of CdTe compared with the mean experimental value of 1094°C.” |
 | Phase transition | 1372 K | 1372 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Sysoev 1967_ | Table III, p. 7, row 11 |  |
 | Phase transition | 1379 K | 1379 | liq -> CdTe; _liq: Te 0.5; CdTe: Te 0.5_ | experimental | [1] Liu 2009; _cites Lawson 1959_ [doi](https://doi.org/10.1016/0022-3697%2859%2990110-6) | Table III, p. 7, row 5 |  |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Cd–Te system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of mixing; _printed: S°298(CdTe)_ | 93.3 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | model | [2] Jianrong 1995 | Table 4, p. 13, row 2 |  |
+| Entropy of mixing; _printed: S°298(CdTe)_ | 95.4 J/mol (basis unstated)/K | 298.15 | CdTe; _alloy: Te 0.5_ | unspecified | [2] Jianrong 1995; _cites ref. 13_ | Table 4, p. 13, row 1 |  |
 
 ## Sources
 

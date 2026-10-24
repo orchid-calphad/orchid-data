@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Re3B.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (experimental 1, model 3); experimental median -32.22 kJ/mol-atom (n = 1); Materials Project -19.625 kJ/mol-atom (mp-aaaaaxet); OQMD -18.988 kJ/mol-atom (oqmd-8178).
 
-Systems: [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html)
+Systems: [B–Re](https://data.orchid-project.org/systems/B-RE.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Re3B reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -32.22 kJ/mol-atom ± 2.5 | Re3B | 298.15 | experimental | Chemical reaction | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
-| -21 kJ/mol-atom | Re3B |  | model | This work | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
-| -20 kJ/mol-atom | Re3B |  | model | Estimation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
-| -19.2975 kJ/mol-atom | Re3B |  | model | FP calculation | [B–Re–Si](https://data.orchid-project.org/systems/B-RE-SI.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
+| -32.22 kJ/mol-atom ± 2.5 | Re3B | 298.15 | experimental | Chemical reaction | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
+| -21 kJ/mol-atom | Re3B |  | model | This work | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
+| -20 kJ/mol-atom | Re3B |  | model | Estimation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
+| -19.2975 kJ/mol-atom | Re3B |  | model | FP calculation | [B–Re](https://data.orchid-project.org/systems/B-RE.html) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
 
 ### Uncertainty budget
 
@@ -28,9 +28,9 @@ Table: Uncertainty budget of the literature values of Re3B
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -32.22 | kJ/mol-atom | 2.5 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -21 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -20 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -19.2975 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -21 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -20 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -19.2975 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

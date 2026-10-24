@@ -20,14 +20,14 @@ Table: Phases of the Na–Sn system (16)
 | [NA15SN4_D86](#phase-na-sn-na15sn4-d86); _phase:na-sn:na15sn4-d86_ | Cu15Si4 · D8_6 · cI76 · I-43d (220) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–710 K, x(Sn) 0.21053–0.21053 | 14 | 1 |
 | [NA3SN](#phase-na-sn-na3sn); _phase:na-sn:na3sn_ | Na3.7Sn · oP40 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–649.95 K, x(Sn) 0.25–0.25 | 3 | 1 |
 | [NA4SN3](#phase-na-sn-na4sn3); _phase:na-sn:na4sn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 621.35–840 K, x(Sn) 0.42857–0.42857 | 15 | 1 |
-| [NA5SN13](#phase-na-sn-na5sn13); _phase:na-sn:na5sn13_ | Na5Sn13 · oC288 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–562.08 K, x(Sn) 0.72222–0.72222 | 0 | 1 |
-| [NA7SN12](#phase-na-sn-na7sn12); _phase:na-sn:na7sn12_ | Na7Sn12 · mP78 · P2/c (13) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–598.58 K, x(Sn) 0.63158–0.63158 | 0 | 1 |
-| [NA9SN4](#phase-na-sn-na9sn4); _phase:na-sn:na9sn4_ | Ge4Li9 · oC52 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–800 K, x(Sn) 0.30769–0.30769 | 23 | 1 |
+| [NA5SN13](#phase-na-sn-na5sn13); _phase:na-sn:na5sn13_ | Na5Sn13 · oC288 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–562.08 K, x(Sn) 0.72222–0.72222 | 2 | 1 |
+| [NA7SN12](#phase-na-sn-na7sn12); _phase:na-sn:na7sn12_ | Na7Sn12 · mP78 · P2/c (13) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–598.58 K, x(Sn) 0.63158–0.63158 | 2 | 1 |
+| [NA9SN4](#phase-na-sn-na9sn4); _phase:na-sn:na9sn4_ | Ge4Li9 · oC52 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–800 K, x(Sn) 0.30769–0.30769 | 25 | 1 |
 | [NASN_HT](#phase-na-sn-nasn-ht); _phase:na-sn:nasn-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 756.27–851.27 K, x(Sn) 0.5–0.5 | 8 | 1 |
 | [NASN_LT](#phase-na-sn-nasn-lt); _phase:na-sn:nasn-lt_ | NaPb · tI64 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–756.27 K, x(Sn) 0.5–0.5 | 12 | 1 |
 | [NASN2](#phase-na-sn-nasn2); _phase:na-sn:nasn2_ | NaSn2 · mC48 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–580.67 K, x(Sn) 0.66667–0.66667 | 0 | 1 |
 | [NASN4](#phase-na-sn-nasn4); _phase:na-sn:nasn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–502.28 K, x(Sn) 0.8–0.8 | 0 | 1 |
-| [NASN5](#phase-na-sn-nasn5); _phase:na-sn:nasn5_ | NaSn5 · tP12 · P-42_1m (113) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–499.39 K, x(Sn) 0.83333–0.83333 | 0 | 1 |
+| [NASN5](#phase-na-sn-nasn5); _phase:na-sn:nasn5_ | NaSn5 · tP12 · P-42_1m (113) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–499.39 K, x(Sn) 0.83333–0.83333 | 1 | 1 |
 
 ## BCT_A5 (Na–Sn)
 
@@ -305,10 +305,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.2778, Sn 0.7222
 - Stability: stable in 1 of 1 calculated diagram(s): 300–562.08 K, x(Sn) 0.72222–0.72222
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:na5sn13)
 
-Names (2): _corpus: _corpus:phase:na-sn:na5sn13  
+Names (3): _corpus: _corpus:phase:na-sn:na5sn13  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:Na5Sn13  
 _tdb: _tdb:NaSn-17Dre.tdb:NA5SN13  
 
 
@@ -324,7 +325,7 @@ _tdb: _tdb:NaSn-17Dre.tdb:NA5SN13
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## NA7SN12 (Na–Sn)
 
@@ -334,10 +335,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.3684, Sn 0.6316
 - Stability: stable in 1 of 1 calculated diagram(s): 300–598.58 K, x(Sn) 0.63158–0.63158
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:na7sn12)
 
-Names (2): _corpus: _corpus:phase:na-sn:na7sn12  
+Names (3): _corpus: _corpus:phase:na-sn:na7sn12  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:Na7Sn12  
 _tdb: _tdb:NaSn-17Dre.tdb:NA7SN12  
 
 
@@ -353,7 +355,7 @@ _tdb: _tdb:NaSn-17Dre.tdb:NA7SN12
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## NA9SN4 (Na–Sn)
 
@@ -363,7 +365,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.6923, Sn 0.3077
 - Stability: stable in 1 of 1 calculated diagram(s): 300–800 K, x(Sn) 0.30769–0.30769
-- Literature: 23 values (23 accepted) from 1 papers
+- Literature: 25 values (25 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:na9sn4)
 
 Names (3): _corpus: _corpus:phase:na-sn:na9sn4  
@@ -538,10 +540,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Na 0.1667, Sn 0.8333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–499.39 K, x(Sn) 0.83333–0.83333
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:na-sn:nasn5)
 
-Names (2): _corpus: _corpus:phase:na-sn:nasn5  
+Names (3): _corpus: _corpus:phase:na-sn:nasn5  
+_paper: _paper:10.1016/j.jallcom.2016.11.003:NaSn5  
 _tdb: _tdb:NaSn-17Dre.tdb:NASN5  
 
 
@@ -557,7 +560,7 @@ _tdb: _tdb:NaSn-17Dre.tdb:NASN5
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.jallcom.2016.11.003](https://doi.org/10.1016/j.jallcom.2016.11.003) Liya Dreval, Matthias Zschornak, Wolfram Münchgesang, Olga Fabrichnaya, David Rafaja, Miléna L. Martine et al., Thermodynamic assessment and first principle calculations of the Na Sb Sn system, Journal of Alloys and Compounds 695, 1725-1742 (2017).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## Please cite
 

@@ -1,10 +1,10 @@
 # Al–Ca system
 
-> Al–Ca system: 290 accepted literature values (formation 100, crystal structure 95, invariant reaction 62, phase transition 33) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ca system: 263 accepted literature values (formation 96, crystal structure 78, invariant reaction 62, phase transition 27) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CA.html · Markdown: https://data.orchid-project.org/systems/AL-CA.md
 
-290 accepted literature values from 5 paper(s) (experimental 76, model 84, DFT 100, unspecified 30); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+263 accepted literature values from 5 paper(s) (experimental 75, model 82, DFT 80, unspecified 26); 7 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CA.json) · [CSV](https://data.orchid-project.org/systems/AL-CA.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CA) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-CA/AlCa-01Kev-LB.json) · [phases (13)](https://data.orchid-project.org/phases/pages/AL-CA.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CA.html) · [Markdown](https://data.orchid-project.org/systems/AL-CA.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 76 |
-| model | 84 |
-| DFT | 100 |
-| unspecified | 30 |
+| experimental | 75 |
+| model | 82 |
+| DFT | 80 |
+| unspecified | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 62 |
-| phase transition | 33 |
-| formation | 100 |
-| crystal structure | 95 |
+| phase transition | 27 |
+| formation | 96 |
+| crystal structure | 78 |
 
 ## Calculated phase diagrams
 
@@ -193,7 +193,7 @@ Table: Invariant reactions reported in the literature for the Al–Ca system (62
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ca system (69)
+Table: Enthalpies of formation, Al–Ca system (65)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -262,22 +262,15 @@ Table: Enthalpies of formation, Al–Ca system (69)
 | C15-Ca2Al |  | 43.38 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 29 |  |
 | C15-Ca2Al |  | 46.508 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 30 |  |
 | C15-Ca2Al |  | 46.508 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 27 |  |
-| C15-Ca2Ca |  | 8.182 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 33 |  |
-| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 31 |  |
-| C15-Ca2Ca |  | 8.201 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 34 |  |
-| C15-Ca2Ca |  | 8.708 kJ/mol-atom | 0 | DFT |  |  | [1] Ozturk 2005 | Table IV, p. 5, row 32 |  |
 
 ## Other properties
 
-### Phase transition (33)
+### Phase transition (27)
 
 Table: Phase transition, Al–Ca system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 714.28 K | 714.28 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 8 |  |
-| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 9 |  |
-| Phase transition | 715.9 K | 715.9 | polymorphic: Ca-fcc -> Ca-bcc; _Ca-fcc: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 7 |  |
 | Phase transition | 847.6 K | 847.6 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005 | Table V, p. 7, row 33 |  |
 | Phase transition | 849.5 K | 849.5 | congruent melting: Liquid = Al3Ca8; _Liquid: Ca 0.7272; Al3Ca8: Ca 0.727273_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 31 |  |
 | Phase transition | 850 K | 850 | congruent transformation | experimental | [3] Ozturk 2002; _cites Huang 1998_ [doi](https://doi.org/10.1021/ic980656h) | p. 2 | “The recently discovered Al 3 Ca 8 phase \[15,16\] in the system is triclinic in crystalline nature and melts congruently at around 850 K.” |
@@ -292,9 +285,6 @@ Table: Phase transition, Al–Ca system
 | Phase transition | 933.33 K | 933.33 | congruent melting: L -> Al-bcc; _L: Ca 0_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 2 |  |
 | Phase transition | 933.45 K | 933.45 | congruent melting: L -> Al-bcc; _L: Ca 0_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 3 |  |
 | Phase transition | 973 K | 973 |  | experimental | [2] ISLAM 2005; _cites ref. 24_ | p. 6 | “They reported two intermetallic compounds: Al2Ca which melts congruently at 1352 K and Al4Ca which melts incongruently at 973 K \[24\].” |
-| Phase transition | 1114.9 K | 1114.9 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 26_ | Table IV, p. 8, row 4 |  |
-| Phase transition | 1115 K | 1115 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | model | [2] ISLAM 2005 | Table IV, p. 8, row 6 |  |
-| Phase transition | 1116.66 K | 1116.66 | congruent melting: L -> Ca-bcc; _L: Ca 1_ | unspecified | [2] ISLAM 2005; _cites ref. 28_ | Table IV, p. 8, row 5 |  |
 | Phase transition | 1346.4 K | 1346.4 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005; _cites Ozturk 2002_ [doi](https://doi.org/10.1016/s0925-8388%2801%2901713-3) | Table V, p. 7, row 26 |  |
 | Phase transition | 1349.8 K | 1349.8 | congruent melting: Liquid = C15; _Liquid: Ca 0.3333; C15: Ca 0.333333_ | model | [1] Ozturk 2005 | Table V, p. 7, row 28 |  |
 | Phase transition | 1352 K | 1352 | congruent melting: L -> Al2Ca; _L: Ca 0.333; Al2Ca: Ca 0.333333_ | unspecified | [2] ISLAM 2005; _cites ref. 24_ | Table IV, p. 8, row 32 |  |
@@ -347,7 +337,7 @@ Table: Formation, Al–Ca system
 | Gibbs energy of formation; _printed: ΔGf_ | -81.43 kJ/mol (basis unstated) | 800 | Al₄Ca | model | [5] Anglezio 1994 | Table II, p. 8, row 8 |  |
 | Gibbs energy of formation; _printed: ΔGf_ | -89 kJ/mol (basis unstated) | 823 | Al₄Ca | experimental | [5] Anglezio 1994; _cites ref. 77Pre_ | Table II, p. 8, row 3 |  |
 
-### Crystal structure (95)
+### Crystal structure (78)
 
 Table: Crystal structure, Al–Ca system
 
@@ -366,35 +356,21 @@ Table: Crystal structure, Al–Ca system
 | Lattice a | 8.892 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 14 |  |
 | Lattice a | 9.278 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 13 |  |
 | Lattice a | 9.209 Å | 0 | C15-Ca2Al; _alloy: Ca 0.666667_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 15 |  |
-| Lattice a | 10.208 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 16 |  |
-| Lattice a | 9.858 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 17 |  |
-| Lattice a | 10.123 Å | 0 | C15-Ca2Ca; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 18 |  |
 | Lattice a | 3.216 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 11 |  |
-| Lattice a | 3.769 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 26 |  |
 | Lattice a | 2.808 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14 |  |
 | Lattice a | 3.239 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 10 |  |
 | Lattice a | 3.969 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 3 |  |
 | Lattice a | 3.186 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 7 |  |
-| Lattice a | 4.349 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 24 |  |
-| Lattice a | 5.492 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 20 |  |
 | Lattice a | 4.0495 Å |  | UNKNOWN; _alloy: Ca 0_ | experimental | [1] Ozturk 2005; _cites Witt 1967_ [doi](https://doi.org/10.1515/zna-1967-0115) | Table I, p. 3, row 6 |  |
-| Lattice a | 5.545 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 18 |  |
-| Lattice a | 5.344 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 19 |  |
 | Lattice a | 4.04 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 4 |  |
 | Lattice a | 3.233 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 8 |  |
-| Lattice a | 5.331 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 17 |  |
-| Lattice a | 5.5884 Å |  | UNKNOWN; _alloy: Ca 1_ | experimental | [1] Ozturk 2005; _cites Bernstein 1959_ [doi](https://doi.org/10.1107/s0365110x59001268) | Table I, p. 3, row 21 |  |
-| Lattice a | 3.775 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 25 |  |
 | Lattice a | 4.039 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 2 |  |
 | Lattice a | 4.02 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 5 |  |
 | Lattice a | 2.852 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15 |  |
 | Lattice a | 2.845 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16 |  |
-| Lattice a | 3.864 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 27 |  |
 | Lattice a | 3.183 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 9 |  |
 | Lattice a | 2.856 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13 |  |
-| Lattice a | 4.218 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 23 |  |
 | Lattice a | 2.817 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12 |  |
-| Lattice a | 4.211 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 22 |  |
 | Lattice a | 3.981 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 1 |  |
 | Lattice a | 15.146 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19 |  |
 | Lattice a | 15.428 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 20 |  |
@@ -417,12 +393,9 @@ Table: Crystal structure, Al–Ca system
 | Lattice c | 11.2 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 3 |  |
 | Lattice c | 11.121 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 1 |  |
 | Lattice c | 11.051 Å | 0 | Al4Ca; _alloy: Ca 0.2_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 2 |  |
-| Lattice c | 6.244 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 26 |  |
 | Lattice c | 4.663 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 14 |  |
-| Lattice c | 6.228 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 25 |  |
 | Lattice c | 4.752 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 15 |  |
 | Lattice c | 4.646 Å |  | UNKNOWN; _alloy: Ca 0_ | model | [1] Ozturk 2005; _cites Boettger 1996_ [doi](https://doi.org/10.1103/physrevb.53.3007) | Table I, p. 3, row 16 |  |
-| Lattice c | 6.414 Å | 0 | UNKNOWN; _alloy: Ca 1_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 27 |  |
 | Lattice c | 4.712 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 13 |  |
 | Lattice c | 4.647 Å | 0 | UNKNOWN; _alloy: Ca 0_ | DFT | [1] Ozturk 2005 | Table I, p. 3, row 12 |  |
 | Lattice c | 9.572 Å | 298.15 | Al14Ca13; _alloy: Ca 0.481481_ | DFT | [1] Ozturk 2005 | Table III, p. 4, row 19 |  |

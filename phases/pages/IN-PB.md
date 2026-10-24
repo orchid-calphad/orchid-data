@@ -13,7 +13,7 @@ Table: Phases of the In–Pb system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-in-pb-a6-tetragonal); _phase:in-pb:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 299.48–434.61 K, x(Pb) 0–0.21183 | 3 | 3 |
-| [BCC_A2](#phase-in-pb-bcc-a2); _phase:in-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 4 | 3 |
+| [BCC_A2](#phase-in-pb-bcc-a2); _phase:in-pb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-in-pb-fcc-a1); _phase:in-pb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 299.22–600.61 K, x(Pb) 0.29005–1 | 2 | 3 |
 | [HCP_A3](#phase-in-pb-hcp-a3); _phase:in-pb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-in-pb-liquid); _phase:in-pb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 429.38–2500 K, x(Pb) 0–1 | 5 | 3 |
@@ -67,11 +67,10 @@ _assessment that models this phase_
 - Id: `phase:in-pb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:in-pb:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:in-pb:bcc-a2  
-_paper: _paper:10.1016/j.tca.2003.10.020:β  
+Names (4): _corpus: _corpus:phase:in-pb:bcc-a2  
 _tdb: _tdb:InPb-04Dav.tdb:BCC_A2, tdb:InPb-86Nab.tdb:BCC_A2, tdb:InPb-98Boa-LB.tdb:BCC_A2  
 
 
@@ -101,7 +100,7 @@ _tdb: _tdb:InPb-04Dav.tdb:BCC_A2, tdb:InPb-86Nab.tdb:BCC_A2, tdb:InPb-98Boa-LB.t
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.tca.2003.10.020](https://doi.org/10.1016/j.tca.2003.10.020) N David, Khadija El Aissaoui, J.M Fiorani, J Hertz, M Vilasi, Thermodynamic optimization of the In–Pb–Sn system based on new evaluations of the binary borders In–Pb and In–Sn, Thermochimica Acta 413, 127-137 (2004).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/S0040-6031(98)00237-8](https://doi.org/10.1016/S0040-6031%2898%2900237-8) D. Boa, I. Ansara, Thermochim. Acta, 314, 79-86 (1998).  
 _assessment that models this phase_
 

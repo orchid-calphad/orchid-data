@@ -1,10 +1,10 @@
 # S system
 
-> S system: 382 accepted literature values (crystal structure 382) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> S system: 401 accepted literature values (crystal structure 396, other property 5) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/S.html · Markdown: https://data.orchid-project.org/systems/S.md
 
-382 accepted literature values from 1 paper(s) (experimental 21, DFT 361); 0 calculated phase diagram(s).
+401 accepted literature values from 4 paper(s) (experimental 32, DFT 369); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/S.json) · [CSV](https://data.orchid-project.org/systems/S.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#S) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/S.html) · [Markdown](https://data.orchid-project.org/systems/S.md)
 
@@ -12,18 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 21 |
-| DFT | 361 |
+| experimental | 32 |
+| DFT | 369 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 382 |
+| crystal structure | 396 |
+| other property | 5 |
 
 ## Other properties
 
-### Crystal structure (382)
+### Crystal structure (396)
 
 Table: Crystal structure, S system
 
@@ -137,6 +138,9 @@ Table: Crystal structure, S system
 | Lattice a | 9.886 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 30 |  |
 | Lattice a | 11.083 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 84 |  |
 | Lattice a | 9.489 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 18 |  |
+| Lattice a | 1.092 Å | 298.15 | (S); _alloy: S 1_ | experimental | [2] Chen 2022; _cites King 1981_ | Table I, p. 2, row 9 |  |
+| Lattice a | 1.0465 Å | 298.15 | (αS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
+| Lattice a | 1.092 Å | 298.15 | (βS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
 | Lattice a | 10.9 Å | 298.15 | S.hR6 | experimental | [1] Hu 2010; _cites Donnay 1955_ [doi](https://doi.org/10.1107/s0365110x55000807) | Table A.2, p. 6, row 109 |  |
 | Lattice a | 9.68 Å | 298.15 | S.mP28 | experimental | [1] Hu 2010; _cites Steudel 1980_ [doi](https://doi.org/10.1515/znb-1980-1111) | Table A.2, p. 6, row 110 |  |
 | Lattice a | 8.442 Å | 298.15 | S.mP32 | experimental | [1] Hu 2010; _cites Watanabe 1974_ [doi](https://doi.org/10.1107/s0567740874004961) | Table A.2, p. 6, row 111 |  |
@@ -233,6 +237,9 @@ Table: Crystal structure, S system
 | Lattice b | 12.209 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 30 |  |
 | Lattice b | 13.519 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 84 |  |
 | Lattice b | 11.867 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 18 |  |
+| Lattice b | 1.098 Å | 298.15 | (S); _alloy: S 1_ | experimental | [2] Chen 2022; _cites King 1981_ | Table I, p. 2, row 9 |  |
+| Lattice b | 1.2866 Å | 298.15 | (αS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
+| Lattice b | 1.098 Å | 298.15 | (βS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
 | Lattice b | 7.641 Å | 298.15 | S.mP28 | experimental | [1] Hu 2010; _cites Steudel 1980_ [doi](https://doi.org/10.1515/znb-1980-1111) | Table A.2, p. 6, row 110 |  |
 | Lattice b | 13.025 Å | 298.15 | S.mP32 | experimental | [1] Hu 2010; _cites Watanabe 1974_ [doi](https://doi.org/10.1107/s0567740874004961) | Table A.2, p. 6, row 111 |  |
 | Lattice b | 5.998 Å | 298.15 | S.mP56 | experimental | [1] Hu 2010; _cites Steudel 1980_ [doi](https://doi.org/10.1515/znb-1980-1111) | Table A.2, p. 6, row 112 |  |
@@ -346,6 +353,9 @@ Table: Crystal structure, S system
 | Lattice c | 23.433 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 30 |  |
 | Lattice c | 25.079 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 84 |  |
 | Lattice c | 23.141 Å | 0 | S.oF128 | DFT | [1] Hu 2010 | Table A.2, p. 6, row 18 |  |
+| Lattice c | 1.104 Å | 298.15 | (S); _alloy: S 1_ | experimental | [2] Chen 2022; _cites King 1981_ | Table I, p. 2, row 9 |  |
+| Lattice c | 2.4486 Å | 298.15 | (αS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites King 1981_ [doi](https://doi.org/10.1007/bf02868307) | Table 2, p. 3, row 2 |  |
+| Lattice c | 1.1104 Å | 298.15 | (βS); _alloy: S 1_ | experimental | [3] Shi 2019; _cites Reid 2006_ [doi](https://doi.org/10.1016/j.physb.2005.11.118) | Table 2, p. 3, row 3 |  |
 | Lattice c | 4.27 Å | 298.15 | S.hR6 | experimental | [1] Hu 2010; _cites Donnay 1955_ [doi](https://doi.org/10.1107/s0365110x55000807) | Table A.2, p. 6, row 109 |  |
 | Lattice c | 9.409 Å | 298.15 | S.mP28 | experimental | [1] Hu 2010; _cites Steudel 1980_ [doi](https://doi.org/10.1515/znb-1980-1111) | Table A.2, p. 6, row 110 |  |
 | Lattice c | 9.356 Å | 298.15 | S.mP32 | experimental | [1] Hu 2010; _cites Watanabe 1974_ [doi](https://doi.org/10.1107/s0567740874004961) | Table A.2, p. 6, row 111 |  |
@@ -411,12 +421,32 @@ Table: Crystal structure, S system
 | lattice beta | 125 ° | 298.15 | S.mP32 | experimental | [1] Hu 2010; _cites Watanabe 1974_ [doi](https://doi.org/10.1107/s0567740874004961) | Table A.2, p. 6, row 111 |  |
 | lattice beta | 133.9 ° | 298.15 | S.mP56 | experimental | [1] Hu 2010; _cites Steudel 1980_ [doi](https://doi.org/10.1515/znb-1980-1111) | Table A.2, p. 6, row 112 |  |
 | lattice beta | 96.7 ° | 298.15 | S.mP64 | experimental | [1] Hu 2010; _cites Sands 1965_ [doi](https://doi.org/10.1021/ja01084a052) | Table A.2, p. 6, row 113 |  |
+| volume; _printed: Volume_ | 25.76 Å3/atom |  | α-S | experimental | [4] Guan 2017; _cites Rettig 1987_ [doi](https://doi.org/10.1107/s0108270187088152) | Table 1, p. 5, row 1 |  |
+| volume; _printed: Volume_ | 23.51 Å3/atom | 0 | α-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 3 |  |
+| volume; _printed: Volume_ | 27.29 Å3/atom | 0 | α-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 2 |  |
+| volume; _printed: Volume_ | 26.86 Å3/atom | 0 | δ-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 8 |  |
+| volume; _printed: Volume_ | 22.2 Å3/atom | 0 | δ-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 9 |  |
+
+### Other property (5)
+
+Table: Other property, S system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| bulk modulus; _printed: B0_ | 11.096 GPa (range 7.692 to 14.5) |  | α-S | experimental | [4] Guan 2017; _cites Rettig 1987_ [doi](https://doi.org/10.1107/s0108270187088152) | Table 1, p. 5, row 1 |  |
+| bulk modulus; _printed: B0_ | 12.242 GPa | 0 | α-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 3 |  |
+| bulk modulus; _printed: B0_ | 5.804 GPa | 0 | α-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 2 |  |
+| bulk modulus; _printed: B0_ | 7.252 GPa | 0 | δ-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 8 |  |
+| bulk modulus; _printed: B0_ | 9.349 GPa | 0 | δ-S | DFT | [4] Guan 2017 | Table 1, p. 5, row 9 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Rongxiang Hu, Michael C. Gao, Ömer N. Doğan, Paul King, Michael Widom, Thermodynamic modeling of the Pd–S system supported by first-principles calculations, Calphad 34, 324-331 (2010). [doi:10.1016/j.calphad.2010.07.002](https://doi.org/10.1016/j.calphad.2010.07.002)
+2. Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022). [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1)
+3. Chenying Shi, Biaobiao Yang, Biao Hu, Yong Du, Sheng Yao, Thermodynamic Description of the Al–X (X = S, Se, Te) Systems, J. Phase Equilib. Diffus. 40, 392-402 (2019). [doi:10.1007/s11669-019-00733-z](https://doi.org/10.1007/s11669-019-00733-z)
+4. Pin-Wen Guan, Shun-Li Shang, Greta Lindwall, Tim Anderson, Zi-Kui Liu, First-principles calculations and thermodynamic modeling of the S-Se system and implications for chalcogenide alloys, Journal of Alloys and Compounds 694, 510-521 (2017). [doi:10.1016/j.jallcom.2016.10.037](https://doi.org/10.1016/j.jallcom.2016.10.037)
 
 ## Please cite
 

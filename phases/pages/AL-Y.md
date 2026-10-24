@@ -13,13 +13,13 @@ Table: Phases of the Al–Y system (13)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [AL2Y_C15](#phase-al-y-al2y-c15); _phase:al-y:al2y-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1757.38 K, x(Y) 0.33333–0.33333 | 0 | 3 |
-| [AL2Y3](#phase-al-y-al2y3); _phase:al-y:al2y3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1381.71 K, x(Y) 0.6–0.6 | 32 | 6 |
+| [AL2Y3](#phase-al-y-al2y3); _phase:al-y:al2y3_ | Al2Zr3 · tP20 · P4_2/mnm (136) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–1381.71 K, x(Y) 0.6–0.6 | 43 | 6 |
 | [AL3Y](#phase-al-y-al3y); _phase:al-y:al3y_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–1257.21 K, x(Y) 0.25–0.25 | 2 | 3 |
-| [AL3Y_BETA](#phase-al-y-al3y-beta); _phase:al-y:al3y-beta_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 917.21–1253.4 K, x(Y) 0.25–0.25 | 15 | 3 |
+| [AL3Y_BETA](#phase-al-y-al3y-beta); _phase:al-y:al3y-beta_ | BaPb3 · hR12 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 917.21–1253.4 K, x(Y) 0.25–0.25 | 17 | 3 |
 | [AL3Y_D019](#phase-al-y-al3y-d019); _phase:al-y:al3y-d019_ | Ni3Sn · D0_19 · hP8 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–918.92 K, x(Y) 0.25–0.25 | 17 | 3 |
-| [AL3Y5_D88](#phase-al-y-al3y5-d88); _phase:al-y:al3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1303.16 K, x(Y) 0.625–0.625 | 0 | 1 |
-| [ALY_B33](#phase-al-y-aly-b33); _phase:al-y:aly-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1410 K, x(Y) 0.5–0.5 | 20 | 6 |
-| [ALY2_C37](#phase-al-y-aly2-c37); _phase:al-y:aly2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1259.86 K, x(Y) 0.66667–0.66667 | 20 | 6 |
+| [AL3Y5_D88](#phase-al-y-al3y5-d88); _phase:al-y:al3y5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1303.16 K, x(Y) 0.625–0.625 | 6 | 1 |
+| [ALY_B33](#phase-al-y-aly-b33); _phase:al-y:aly-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1410 K, x(Y) 0.5–0.5 | 22 | 6 |
+| [ALY2_C37](#phase-al-y-aly2-c37); _phase:al-y:aly2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1259.86 K, x(Y) 0.66667–0.66667 | 24 | 6 |
 | [BCC_A2](#phase-al-y-bcc-a2); _phase:al-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1750.96–2499.9 K, x(Y) 0.9992–1 | 4 | 6 |
 | [C15_LAVES](#phase-al-y-c15-laves); _phase:al-y:c15-laves_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1763.21 K, x(Y) 0.33185–0.33708 | 32 | 3 |
 | [FCC_A1](#phase-al-y-fcc-a1); _phase:al-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–942.76 K, x(Y) 0–0.0011 | 12 | 6 |
@@ -80,11 +80,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.4000, Y 0.6000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1381.71 K, x(Y) 0.6–0.6
-- Literature: 32 values (32 accepted) from 3 papers
+- Literature: 43 values (43 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-y:al2y3)
 
-Names (10): _corpus: _corpus:phase:al-y:al2y3  
-_paper: _paper:10.1016/j.calphad.2006.01.001:Al2Y3, paper:10.1016/j.tca.2018.01.018:Al2Y3, paper:10.1361/154770306x109782:Al2Y3  
+Names (11): _corpus: _corpus:phase:al-y:al2y3  
+_paper: _paper:10.1016/j.calphad.2006.01.001:Al2Y3, paper:10.1016/j.jallcom.2008.07.105:Al2Y3, paper:10.1016/j.tca.2018.01.018:Al2Y3, paper:10.1361/154770306x109782:Al2Y3  
 _tdb: _tdb:AlY-06AlS.tdb:AL2Y3, tdb:AlY-06Liu.tdb:AL2Y3, tdb:AlY-15Hua.tdb:AL2Y3, tdb:AlY-18Hu.tdb:AL2Y3, tdb:AlY-95Gro-LB.tdb:AL2Y3, tdb:AlY-98Luk.tdb:AL2Y3  
 
 
@@ -132,7 +132,7 @@ _tdb: _tdb:AlY-06AlS.tdb:AL2Y3, tdb:AlY-06Liu.tdb:AL2Y3, tdb:AlY-15Hua.tdb:AL2Y3
 66: CONST AL2Y3 : AL : Y : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018) J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -146,6 +146,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2005.06.078](https://doi.org/10.1016/j.jallcom.2005.06.078) Shuhong Liu, Yong Du, Honghui Xu, Cuiyun He, Julius C. Schuster, Experimental investigation of the Al–Y phase diagram, Journal of Alloys and Compounds 414, 60-65 (2006).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2008.07.105](https://doi.org/10.1016/j.jallcom.2008.07.105) L.G. Zhang, H.M. Chen, H.Q. Dong, G.X. Huang, L.B. Liu, Z.P. Jin, Thermodynamic description of the Al–Sb–Y system, Journal of Alloys and Compounds 475, 233-237 (2009).  
+_reports values for this phase_
 
 ## AL3Y (Al–Y)
 
@@ -209,7 +211,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_structure_token, polymorph_family:other phases of this system have the same composition); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Al 0.7500, Y 0.2500
 - Stability: stable in 3 of 3 calculated diagram(s): 917.21–1253.4 K, x(Y) 0.25–0.25
-- Literature: 15 values (15 accepted) from 2 papers
+- Literature: 17 values (17 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-y:al3y-beta)
 
 Names (6): _corpus: _corpus:phase:al-y:al3y-beta  
@@ -309,10 +311,11 @@ _cited as the source of values for this phase_
 - Structure: Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193); type `st:d8-8-mn5si3-hp16`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.3750, Y 0.6250
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1303.16 K, x(Y) 0.625–0.625
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-y:al3y5-d88)
 
-Names (2): _corpus: _corpus:phase:al-y:al3y5-d88  
+Names (3): _corpus: _corpus:phase:al-y:al3y5-d88  
+_paper: _paper:10.1016/j.tca.2018.01.018:Al3Y5  
 _tdb: _tdb:AlY-98Luk.tdb:AL3Y5_D88  
 
 
@@ -325,13 +328,18 @@ _tdb: _tdb:AlY-98Luk.tdb:AL3Y5_D88
 71: CONST AL3Y5_D88 : AL : Y : !
 ~~~~
 
+Example references (1 of 1; assessments first): 
+
+- [doi:10.1016/j.tca.2018.01.018](https://doi.org/10.1016/j.tca.2018.01.018) J.L. Hu, H. Bo, L.B. Liu, Z.P. Jin, Thermodynamic study of the Al-Sc-Y system, Thermochimica Acta 661, 147-159 (2018).  
+_reports values for this phase_
+
 ## ALY_B33 (Al–Y)
 
 - Id: `phase:al-y:aly-b33`; status `assigned`
 - Structure: CrB · B33 · oC8 · Cmcm (63); type `st:b33-crb-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Al 0.5000, Y 0.5000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1410 K, x(Y) 0.5–0.5
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 22 values (22 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-y:aly-b33)
 
 Names (9): _corpus: _corpus:phase:al-y:aly-b33  
@@ -405,7 +413,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaaqpy and oqmd-10610, space group 62
 - Stoichiometry: Al 0.3333, Y 0.6667
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1259.86 K, x(Y) 0.66667–0.66667
-- Literature: 20 values (20 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-y:aly2-c37)
 
 Names (11): _corpus: _corpus:phase:al-y:aly2-c37  

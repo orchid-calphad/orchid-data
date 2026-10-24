@@ -6,14 +6,17 @@
  ],
  "phases": [
   "LIQUID",
+  "NI3SB_D03",
   "NI3SB_D0A",
   "NI5SB2_LT"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1464.0,
-   778.0
+   1466.0,
+   1422.0,
+   820.0,
+   776.0
   ]
  },
  "output": "ZPF",
@@ -44,6 +47,64 @@
     ],
     [
      0.295
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3SB_D03",
+    [
+     "SB"
+    ],
+    [
+     0.285
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.275
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.295
+    ]
+   ]
+  ],
+  [
+   [
+    "NI3SB_D03",
+    [
+     "SB"
+    ],
+    [
+     0.267
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.259
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.275
     ]
    ]
   ],
@@ -105,8 +166,26 @@
     "source_observation": "ORC-ET7ZISA7SU",
     "side": "above",
     "T_invariant_K": 1444.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.285,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <-> Ni3Sb_HT",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "NI3SB_D03"
+    ]
+   },
+   {
+    "source_observation": "ORC-ET7ZISA7SU",
+    "side": "below",
+    "T_invariant_K": 1444.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.285,
     "hyperplane_delta": 0.01,
@@ -121,10 +200,29 @@
    },
    {
     "source_observation": "ORC-Z6N5PUMCTO",
+    "side": "above",
+    "T_invariant_K": 798.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.267,
+    "hyperplane_delta": 0.00799999999999998,
+    "reaction_printed": "Ni3Sb_HT <-> Ni3Sb+Ni7Sb3",
+    "reaction_type": null,
+    "phases_above": [
+     "NI3SB_D03"
+    ],
+    "phases_below": [
+     "NI3SB_D0A",
+     "NI5SB2_LT"
+    ]
+   },
+   {
+    "source_observation": "ORC-Z6N5PUMCTO",
     "side": "below",
     "T_invariant_K": 798.0,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.267,
     "hyperplane_delta": 0.00799999999999998,
@@ -159,9 +257,25 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-ET7ZISA7SU",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -175,9 +289,25 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-Z6N5PUMCTO",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

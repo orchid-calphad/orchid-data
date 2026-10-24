@@ -13,11 +13,11 @@ Table: Phases of the La–Sb system (10)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-la-sb-a7-rhombohedral); _phase:la-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 4 | 2 |
-| [BCC_A2](#phase-la-sb-bcc-a2); _phase:la-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1134–1199 K, x(Sb) 0–0 | 2 | 2 |
+| [BCC_A2](#phase-la-sb-bcc-a2); _phase:la-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1134–1199 K, x(Sb) 0–0 | 0 | 2 |
 | [DHCP](#phase-la-sb-dhcp-a3); _phase:la-sb:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–550 K, x(Sb) 0–0 | 0 | 2 |
 | [FCC_A1](#phase-la-sb-fcc-a1); _phase:la-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1134 K, x(Sb) 0–0 | 2 | 2 |
 | [HCP_A3](#phase-la-sb-hcp-a3); _phase:la-sb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LA2SB](#phase-la-sb-la2sb); _phase:la-sb:la2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1894.39 K, x(Sb) 0.33333–0.33333 | 8 | 2 |
+| [LA2SB](#phase-la-sb-la2sb); _phase:la-sb:la2sb_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1894.39 K, x(Sb) 0.33333–0.33333 | 12 | 2 |
 | [LA3SB2](#phase-la-sb-la3sb2); _phase:la-sb:la3sb2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–2054.39 K, x(Sb) 0.4–0.4 | 10 | 2 |
 | [LASB_B1](#phase-la-sb-lasb-b1); _phase:la-sb:lasb-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1819.26 K, x(Sb) 0.5–0.5 | 8 | 2 |
 | [LASB2](#phase-la-sb-lasb2); _phase:la-sb:lasb2_ | Sb2Sm · oC24 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1382.8 K, x(Sb) 0.66667–0.66667 | 8 | 2 |
@@ -65,11 +65,10 @@ _assessment that models this phase; reports values for this phase_
 - Id: `phase:la-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1134–1199 K, x(Sb) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:la-sb:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2012.01.002:(β-La)  
+Names (3): _corpus: _corpus:phase:la-sb:bcc-a2  
 _tdb: _tdb:LaSb-12Gao.tdb:BCC_A2, tdb:LaSb-13Wan.tdb:BCC_A2  
 
 
@@ -92,7 +91,7 @@ _tdb: _tdb:LaSb-12Gao.tdb:BCC_A2, tdb:LaSb-13Wan.tdb:BCC_A2
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.01.002](https://doi.org/10.1016/j.calphad.2012.01.002) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the Sb–La and Sb–Tb systems, Calphad 37, 158-162 (2012).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/j.tca.2012.10.026](https://doi.org/10.1016/j.tca.2012.10.026) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Xushan Zhao, Jianyun Shen, Thermodynamic assessment of the La–Sb and the Ho–Sb systems using the associate model, Thermochimica Acta 551, 104-109 (2013).  
 _assessment that models this phase_
 
@@ -212,7 +211,7 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_139_matches_7_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: La 0.6667, Sb 0.3333
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1894.39 K, x(Sb) 0.33333–0.33333
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-sb:la2sb)
 
 Names (5): _corpus: _corpus:phase:la-sb:la2sb  
@@ -236,12 +235,16 @@ _tdb: _tdb:LaSb-12Gao.tdb:LA2SB, tdb:LaSb-13Wan.tdb:LA2SB
 64: CONST LA2SB : LA : SB : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.calphad.2012.01.002](https://doi.org/10.1016/j.calphad.2012.01.002) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the Sb–La and Sb–Tb systems, Calphad 37, 158-162 (2012).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.tca.2012.10.026](https://doi.org/10.1016/j.tca.2012.10.026) Jinsan Wang, Changrong Li, Cuiping Guo, Zhenmin Du, Xushan Zhao, Jianyun Shen, Thermodynamic assessment of the La–Sb and the Ho–Sb systems using the associate model, Thermochimica Acta 551, 104-109 (2013).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2012.01.002](https://doi.org/10.1016/j.calphad.2012.01.002) F. Gao, S.L. Wang, C.P. Wang, X.J. Liu, Thermodynamic assessments of the Sb–La and Sb–Tb systems, Calphad 37, 158-162 (2012).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(79)90115-2](https://doi.org/10.1016/0022-5088%2879%2990115-2) G. Borzone, A. Borsese, A. Saccone, R. Ferro, Heats of formation of lanthanum-antimony alloys, Journal of the Less Common Metals 65, 253-262 (1979).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(84)90320-5](https://doi.org/10.1016/0022-5088%2884%2990320-5) C. Colinet, A. Pasturel, A. Percheron-Guégan, J.C. Achard, Enthalpies of formation of liquid and solid binary alloys of lead, antimony and bismuth with rare earth elements, Journal of the Less Common Metals 102, 239-249 (1984).  
+_cited as the source of values for this phase_
 
 ## LA3SB2 (La–Sb)
 

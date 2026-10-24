@@ -18,7 +18,7 @@ Table: Phases of the Np–O system (9)
 | [ION](#phase-np-o-ion); _phase:np-o:ion_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 916.84–2500 K, x(O) 0–0.61213 | 0 | 1 |
 | [LIQUID](#phase-np-o-liquid); _phase:np-o:liquid_ | liquid | liquid | not stable in 1 calculated diagram(s) | 5 | 1 |
 | [NP2O5](#phase-np-o-np2o5); _phase:np-o:np2o5_ | Np2O5 · mP28 · P2/c (13) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–702.28 K, x(O) 0.71429–0.71429 | 11 | 1 |
-| [NPO2_C1](#phase-np-o-npo2-c1); _phase:np-o:npo2-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(O) 0.65532–0.66667 | 15 | 1 |
+| [NPO2_C1](#phase-np-o-npo2-c1); _phase:np-o:npo2-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(O) 0.65532–0.66667 | 14 | 1 |
 | [O2GAS](#phase-np-o-o2gas); _phase:np-o:o2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–1187.28 K, x(O) 1–1 | 0 | 1 |
 | [ORTHO_AC](#phase-np-o-ortho-ac); _phase:np-o:ortho-ac_ | alpha-Np · A_c · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–555.03 K, x(O) 0–0 | 3 | 1 |
 
@@ -203,7 +203,7 @@ _cited as the source of values for this phase_
 - Id: `phase:np-o:npo2-c1`; status `assigned`
 - Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2500 K, x(O) 0.65532–0.66667
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:np-o:npo2-c1)
 
 Names (7): _corpus: _corpus:phase:np-o:npo2-c1  

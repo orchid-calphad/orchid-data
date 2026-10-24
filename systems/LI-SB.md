@@ -72,7 +72,7 @@ Table: Invariant reactions reported in the literature for the Li–Sb system (27
 | 856.15 | peritectic: L+αLi3Sb→Li2Sb |  | model | [2] Zhang 2017 | p. 9 | “The calculated eutectic and peritectic reaction temperatures of L→(Sb)+Li2Sb and L+αLi3Sb→Li2Sb are 466 and 583 oC, which are consistent with those reported by Kane et al. \[8\].” |
 | 856.15 | peritectic: Liquid+αLi3Sb→Li2Sb | Liquid: Li 0.545; αLi3Sb: Li 0.75, Sb 0.25; Li2Sb: Li 0.666667, Sb 0.333333 | model | [2] Zhang 2017 | Table 4, p. 35, row 6 |  |
 | 744 | L -> Li2Sb + (Sb) | L: Sb 0.6; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [1] Li 2017 | Table 10, p. 11, row 7 |  |
-| 743.69 | L -> Li2Sb + (Sb) | L: Sb 0.584; Li2Sb: Sb 0.333; (Sb): Sb 0 | model | [1] Li 2017 | Table 10, p. 11, row 8 |  |
+| 743.69 | L -> Li2Sb + (Sb) | L: Sb 0.584; Li2Sb: Sb 0.333; (Sb): Sb 1 | model | [1] Li 2017 | Table 10, p. 11, row 8 |  |
 | 739.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.15; Li2Sb: Li 0.666667, Sb 0.333333 | experimental | [2] Zhang 2017; _cites ref. 7_ | Table 4, p. 35, row 2 |  |
 | 739.15 | eutectic: Liquid→(Sb)+Li2Sb | Liquid: Li 0.405; Li2Sb: Li 0.666667, Sb 0.333333 | model | [2] Zhang 2017 | Table 4, p. 35, row 4 |  |
 | 739.15 | eutectic: L→(Sb)+Li2Sb |  | model | [2] Zhang 2017 | p. 9 | “The calculated eutectic and peritectic reaction temperatures of L→(Sb)+Li2Sb and L+αLi3Sb→Li2Sb are 466 and 583 oC, which are consistent with those reported by Kane et al. \[8\].” |

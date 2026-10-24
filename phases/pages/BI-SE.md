@@ -1,14 +1,14 @@
 # Bi–Se phases
 
-> Bi–Se system: 15 phases (tier A 6, tier C 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Bi–Se system: 14 phases (tier A 6, tier C 6, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/BI-SE.html · Markdown: https://data.orchid-project.org/phases/pages/BI-SE.md
 
-15 phases (tier A 6, tier C 6, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+14 phases (tier A 6, tier C 6, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=BI-SE) · [full JSON](https://data.orchid-project.org/phases/systems/BI-SE.json) · [Bi–Se system page](https://data.orchid-project.org/systems/BI-SE.html) · [Markdown](https://data.orchid-project.org/phases/pages/BI-SE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Bi–Se system (15)
+Table: Phases of the Bi–Se system (14)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -16,17 +16,16 @@ Table: Phases of the Bi–Se system (15)
 | [HEXAGONAL_A8](#phase-bi-se-a8-hexagonal); _phase:bi-se:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–494 K, x(Se) 1–1 | 4 | 4 |
 | [BCC_A2](#phase-bi-se-bcc-a2); _phase:bi-se:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [BI2SE3_C33](#phase-bi-se-bi2se3-c33); _phase:bi-se:bi2se3-c33_ | Bi2Te3 · C33 · hR5 · R-3m (166) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–989.65 K, x(Se) 0.59944–0.6002 | 17 | 4 |
-| [BI3SE2](#phase-bi-se-bi3se2); _phase:bi-se:bi3se2_ | (Bi3Se2) · hP12 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–746.02 K, x(Se) 0.4–0.4 | 13 | 3 |
-| [BI3SE4](#phase-bi-se-bi3se4); _phase:bi-se:bi3se4_ | In3Te4 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–935.36 K, x(Se) 0.57143–0.57143 | 4 | 1 |
-| [BI4SE3](#phase-bi-se-bi4se3); _phase:bi-se:bi4se3_ | Bi4Se3 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–830.56 K, x(Se) 0.42857–0.42857 | 4 | 1 |
+| [BI3SE2](#phase-bi-se-bi3se2); _phase:bi-se:bi3se2_ | (Bi3Se2) · hP12 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–746.02 K, x(Se) 0.4–0.4 | 18 | 3 |
+| [BI3SE4](#phase-bi-se-bi3se4); _phase:bi-se:bi3se4_ | In3Te4 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–935.36 K, x(Se) 0.57143–0.57143 | 11 | 1 |
+| [BI4SE3](#phase-bi-se-bi4se3); _phase:bi-se:bi4se3_ | Bi4Se3 · hR7 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–830.56 K, x(Se) 0.42857–0.42857 | 11 | 1 |
 | [BI4SE5](#phase-bi-se-bi4se5); _phase:bi-se:bi4se5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–895.32 K, x(Se) 0.55556–0.55556 | 0 | 1 |
-| [BI8SE7](#phase-bi-se-bi8se7); _phase:bi-se:bi8se7_ | Bi8Se7 · hP45 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–855.48 K, x(Se) 0.46667–0.46667 | 4 | 1 |
-| [BI8SE9](#phase-bi-se-bi8se9); _phase:bi-se:bi8se9_ | Bi8Se9 · hR17 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–884.69 K, x(Se) 0.52941–0.52941 | 4 | 1 |
-| [BISE](#phase-bi-se-bise); _phase:bi-se:bise_ | BiSe · hP12 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–887.03 K, x(Se) 0.40604–0.56195 | 10 | 3 |
+| [BI8SE7](#phase-bi-se-bi8se7); _phase:bi-se:bi8se7_ | Bi8Se7 · hP45 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–855.48 K, x(Se) 0.46667–0.46667 | 11 | 1 |
+| [BI8SE9](#phase-bi-se-bi8se9); _phase:bi-se:bi8se9_ | Bi8Se9 · hR17 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–884.69 K, x(Se) 0.52941–0.52941 | 10 | 1 |
+| [BISE](#phase-bi-se-bise); _phase:bi-se:bise_ | BiSe · hP12 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–887.03 K, x(Se) 0.40604–0.56195 | 16 | 3 |
 | [FCC_A1](#phase-bi-se-fcc-a1); _phase:bi-se:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [HCP_A3](#phase-bi-se-hcp-a3); _phase:bi-se:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [LIQUID](#phase-bi-se-liquid); _phase:bi-se:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 494–2500 K, x(Se) 0–1 | 38 | 4 |
-| [LIQUID-2](#phase-bi-se-liquid-2); _phase:bi-se:liquid-2_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 
 ## RHOMBOHEDRAL_A7 (Bi–Se)
 
@@ -252,7 +251,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.6000, Se 0.4000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–746.02 K, x(Se) 0.4–0.4
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 18 values (18 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bi3se2)
 
 Names (6): _corpus: _corpus:phase:bi-se:bi3se2  
@@ -283,13 +282,17 @@ _tdb: _tdb:BiSe-14Che.tdb:BI3SE2, tdb:BiSe-18Pet.tdb:BI3SE2, tdb:BiSe-24Zho.tdb:
 62: CONST BI3SE2 : BI : SE : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.08.001](https://doi.org/10.1016/j.jallcom.2014.08.001) Yang Chen, Yajun Liu, Maoyou Chu, Lijun Wang, Phase diagrams and thermodynamic descriptions for the Bi–Se and Zn–Se binary systems, Journal of Alloys and Compounds 617, 423-428 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1975-660607](https://doi.org/10.1515/ijmr-1975-660607) B. Gather, and R. Blachnik, Tenary Systems Containing Chalcogenides. II. The Gold-Bismuth-Selenium System, Z. Metallkd., 1975, 66, p 356–359.  
 _cited as the source of values for this phase_
@@ -302,7 +305,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.4286, Se 0.5714
 - Stability: stable in 1 of 1 calculated diagram(s): 300–935.36 K, x(Se) 0.57143–0.57143
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bi3se4)
 
 Names (3): _corpus: _corpus:phase:bi-se:bi3se4  
@@ -319,11 +322,17 @@ _tdb: _tdb:BiSe-24Zho.tdb:BI3SE4
 87: CONST BI3SE4 : BI : SE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 
 ## BI4SE3 (Bi–Se)
@@ -334,7 +343,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.5714, Se 0.4286
 - Stability: stable in 1 of 1 calculated diagram(s): 300–830.56 K, x(Se) 0.42857–0.42857
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bi4se3)
 
 Names (3): _corpus: _corpus:phase:bi-se:bi4se3  
@@ -351,11 +360,17 @@ _tdb: _tdb:BiSe-24Zho.tdb:BI4SE3
 67: CONST BI4SE3 : BI : SE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 
 ## BI4SE5 (Bi–Se)
@@ -389,7 +404,7 @@ _tdb: _tdb:BiSe-18Pet.tdb:BI4SE5
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.5333, Se 0.4667
 - Stability: stable in 1 of 1 calculated diagram(s): 300–855.48 K, x(Se) 0.46667–0.46667
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bi8se7)
 
 Names (3): _corpus: _corpus:phase:bi-se:bi8se7  
@@ -406,11 +421,17 @@ _tdb: _tdb:BiSe-24Zho.tdb:BI8SE7
 72: CONST BI8SE7 : BI : SE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 
 ## BI8SE9 (Bi–Se)
@@ -421,7 +442,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Bi 0.4706, Se 0.5294
 - Stability: stable in 1 of 1 calculated diagram(s): 300–884.69 K, x(Se) 0.52941–0.52941
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bi8se9)
 
 Names (3): _corpus: _corpus:phase:bi-se:bi8se9  
@@ -438,11 +459,17 @@ _tdb: _tdb:BiSe-24Zho.tdb:BI8SE9
 82: CONST BI8SE9 : BI : SE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 
 ## BISE (Bi–Se)
@@ -452,7 +479,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 3 of 3 calculated diagram(s): 300–887.03 K, x(Se) 0.40604–0.56195
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:bise)
 
 Names (6): _corpus: _corpus:phase:bi-se:bise  
@@ -483,15 +510,21 @@ _tdb: _tdb:BiSe-14Che.tdb:BISE, tdb:BiSe-20Che.tdb:BISE, tdb:BiSe-24Zho.tdb:BISE
 77: CONST BISE : BI : SE : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (7 of 7; assessments first): 
 
-- [doi:10.1016/j.jallcom.2014.08.001](https://doi.org/10.1016/j.jallcom.2014.08.001) Yang Chen, Yajun Liu, Maoyou Chu, Lijun Wang, Phase diagrams and thermodynamic descriptions for the Bi–Se and Zn–Se binary systems, Journal of Alloys and Compounds 617, 423-428 (2014).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-024-01093-z](https://doi.org/10.1007/s11669-024-01093-z) Jiaqiang Zhou, Jiong Wang, Biao Hu, Dongyu Cui, Thermodynamic Modeling of the Bi-Se and Bi-Te Binary Systems, J. Phase Equilib. Diffus. 45, 89-113 (2024).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2014.08.001](https://doi.org/10.1016/j.jallcom.2014.08.001) Yang Chen, Yajun Liu, Maoyou Chu, Lijun Wang, Phase diagrams and thermodynamic descriptions for the Bi–Se and Zn–Se binary systems, Journal of Alloys and Compounds 617, 423-428 (2014).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2020.101744](https://doi.org/10.1016/j.calphad.2020.101744) S.-W. Chen, Y. Hutabalian, W. Gierlotka, C.-H. Wang, S.-T. Lu, Calphad, 68, 101744(2020).  
 _assessment that models this phase_
 - [doi:10.1007/s10973-021-10975-0](https://doi.org/10.1007/s10973-021-10975-0) Gunel S. Hasanova, Aytan I. Aghazade, Dunya M. Babanly, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Experimental study of the phase relations and thermodynamic properties of Bi-Se system, J Therm Anal Calorim 147, 6403-6414 (2022).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) James E. Saal, Scott Kirklin, Muratahan Aykol, Bryce Meredig, C. Wolverton, Materials Design and Discovery with High-Throughput Density Functional Theory: The Open Quantum Materials Database (OQMD), JOM 65, 1501-1509 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11837-021-04621-1](https://doi.org/10.1007/s11837-021-04621-1) Gunel S. Hasanova, Aytan I. Aghazade, Samira Z. Imamaliyeva, Yusif A. Yusibov, Mahammad B. Babanly, Refinement of the Phase Diagram of the Bi-Te System and the Thermodynamic Properties of Lower Bismuth Tellurides, JOM 73, 1511-1521 (2021).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Bi–Se)
@@ -606,7 +639,7 @@ _assessment that models this phase_
 - Literature: 38 values (38 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:liquid)
 
-Names (8): _corpus: _corpus:phase:bi-se:liquid  
+Names (9): _corpus: _corpus:phase:bi-se:liquid, corpus:phase:bi-se:liquid-2  
 _paper: _paper:10.1007/s11669-024-01093-z:Liquid#1, paper:10.1007/s11669-024-01093-z:Liquid#2, paper:10.1016/j.jallcom.2014.08.001:Liq  
 _tdb: _tdb:BiSe-14Che.tdb:LIQUID, tdb:BiSe-18Pet.tdb:LIQUID, tdb:BiSe-20Che.tdb:LIQUID, tdb:BiSe-24Zho.tdb:LIQUID  
 
@@ -653,17 +686,6 @@ _assessment that models this phase_
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1975-660607](https://doi.org/10.1515/ijmr-1975-660607) B. Gather, and R. Blachnik, Tenary Systems Containing Chalcogenides. II. The Gold-Bismuth-Selenium System, Z. Metallkd., 1975, 66, p 356–359.  
 _cited as the source of values for this phase_
-
-## LIQUID-2 (Bi–Se)
-
-- Id: `phase:bi-se:liquid-2`; status `unresolved_no_candidates`
-- No structure assigned. Why: name_has_descriptive_tokens:2,LIQUID; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-se:liquid-2)
-
-Names (1): _corpus: _corpus:phase:bi-se:liquid-2  
-
 
 ## Please cite
 

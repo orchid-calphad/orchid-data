@@ -5,15 +5,12 @@
   "VA"
  ],
  "phases": [
-  "FCC_A1",
-  "LIPB_B2",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   528.0,
-   488.0
+   530.0
   ]
  },
  "output": "ZPF",
@@ -26,44 +23,6 @@
     ],
     [
      0.843
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "PB"
-    ],
-    [
-     0.833
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "PB"
-    ],
-    [
-     0.853
-    ]
-   ]
-  ],
-  [
-   [
-    "LIPB_B2",
-    [
-     "PB"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "PB"
-    ],
-    [
-     0.966
     ]
    ],
    [
@@ -105,27 +64,8 @@
     "source_observation": "ORC-36OBL4OGEX",
     "side": "above",
     "T_invariant_K": 508,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.843,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "liq. -> βLiPb + fcc",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "LIPB_B2",
-     "FCC_A1"
-    ]
-   },
-   {
-    "source_observation": "ORC-36OBL4OGEX",
-    "side": "below",
-    "T_invariant_K": 508,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.843,
     "hyperplane_delta": 0.01,
@@ -161,25 +101,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
-     "sigma_effective_reason": "derived constraint, not a measurement"
-    }
-   },
-   {
-    "source_observation": "ORC-36OBL4OGEX",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": null,
-     "sigma_method": null,
-     "sigma_composition": null,
-     "sigma_scatter": null,
-     "sigma_conversion": null,
-     "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
-     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

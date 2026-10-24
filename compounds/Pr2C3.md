@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Pr2C3.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (experimental 1); experimental median -27.9 kJ/mol-atom (n = 1); Materials Project -13.558 kJ/mol-atom (mp-aaaaabah); OQMD -14.229 kJ/mol-atom (oqmd-2191).
 
-Systems: [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html)
+Systems: [C–Pr](https://data.orchid-project.org/systems/C-PR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Pr2C3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -27.9 kJ/mol-atom | Pr2C3 | 298.15 | experimental | emf | [C–Ce–La–Pr](https://data.orchid-project.org/systems/C-CE-LA-PR.html) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17 |  |
+| -27.9 kJ/mol-atom | Pr2C3 | 298.15 | experimental | emf | [C–Pr](https://data.orchid-project.org/systems/C-PR.html) | [1] Peng 2011; _cites Anderson 1970_ | Table 2, p. 2, row 17 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Pr2C3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -27.9 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -27.9 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 
 ## DFT formation energies
 

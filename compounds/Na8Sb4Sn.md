@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Na8Sb4Sn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -5.245 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| -5.227 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -5.245 | eV |  | 5.000e-4 | 0.1056 (dft, calibrated) |  |  |  | 0.1056 |
+| -5.227 | eV |  | 5.000e-4 | 0.1056 (dft, calibrated) |  |  |  | 0.1056 |
 
 ## Sources
 

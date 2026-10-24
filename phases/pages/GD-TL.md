@@ -12,22 +12,22 @@ Table: Phases of the Gd–Tl system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-gd-tl-bcc-a2); _phase:gd-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1143.02–1588.13 K, x(Tl) 0–0.13927 | 18 | 2 |
+| [BCC_A2](#phase-gd-tl-bcc-a2); _phase:gd-tl:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1143.02–1588.13 K, x(Tl) 0–0.13927 | 16 | 2 |
 | [B2_BCC](#phase-gd-tl-bcc-b2); _phase:gd-tl:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2499.5 K, x(Tl) 0–1 | 12 | 1 |
 | [FCC_A1](#phase-gd-tl-fcc-a1); _phase:gd-tl:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GD2TL_B82](#phase-gd-tl-gd2tl-b82); _phase:gd-tl:gd2tl-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1327.69 K, x(Tl) 0.33333–0.33333 | 12 | 1 |
 | [GD3TL5](#phase-gd-tl-gd3tl5); _phase:gd-tl:gd3tl5_ | Pd5Pu3 · oC32 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1322.75 K, x(Tl) 0.625–0.625 | 9 | 1 |
 | [GD5TL3_D88](#phase-gd-tl-gd5tl3-d88); _phase:gd-tl:gd5tl3-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1492.69 K, x(Tl) 0.375–0.39564 | 12 | 1 |
-| [GDTL3_L12](#phase-gd-tl-gdtl3-l12); _phase:gd-tl:gdtl3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1263.11 K, x(Tl) 0.75–0.75 | 12 | 1 |
-| [HCP_A3](#phase-gd-tl-hcp-a3); _phase:gd-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1518.02 K, x(Tl) 0–1 | 10 | 1 |
+| [GDTL3_L12](#phase-gd-tl-gdtl3-l12); _phase:gd-tl:gdtl3-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1263.11 K, x(Tl) 0.75–0.75 | 9 | 1 |
+| [HCP_A3](#phase-gd-tl-hcp-a3); _phase:gd-tl:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1518.02 K, x(Tl) 0–1 | 8 | 1 |
 | [LIQUID](#phase-gd-tl-liquid); _phase:gd-tl:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 576.23–2500 K, x(Tl) 0–1 | 36 | 1 |
 
-## A2_BCC (Gd–Tl)
+## BCC_A2 (Gd–Tl)
 
 - Id: `phase:gd-tl:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 1143.02–1588.13 K, x(Tl) 0–0.13927
-- Literature: 18 values (11 accepted) from 1 papers
+- Stability: stable in 1 of 1 calculated diagram(s): 1143.02–1588.13 K, x(Tl) 0–0.13927
+- Literature: 16 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-tl:bcc-a2)
 
 Names (4): _corpus: _corpus:phase:gd-tl:bcc-a2  
@@ -35,7 +35,7 @@ _paper: _paper:10.1016/j.jallcom.2009.11.101:bcc
 _tdb: _tdb:GdTl-10Guo.tdb:A2_BCC, tdb:GdTl-10Guo.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [GdTl-10Guo.tdb](https://orchid-project.org/data/databases/sgte-binary/GdTl-10Guo.tdb): A2_BCC, type code %B, sha256 `81d605effa4ab98f…`
 
@@ -57,9 +57,9 @@ Example references (4 of 4; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(88)90428-6](https://doi.org/10.1016/0022-5088%2888%2990428-6) A. Saccone, S. Delfino, G. Cacciamani, R. Ferro, The binary phase diagrams of thallium with gadolinium, terbium and dysprosium, Journal of the Less Common Metals 136, 249-259 (1988).  
 _cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2004.08.005](https://doi.org/10.1016/j.calphad.2004.08.005) G. Kaptay, Calphad 28 (2004) 115.  
-_cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1983-741007](https://doi.org/10.1515/ijmr-1983-741007) S. Delﬁno, A. Saccone, R. Ferro, Z. Metallkd. 74 (1983) 674.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2004.08.005](https://doi.org/10.1016/j.calphad.2004.08.005) G. Kaptay, Calphad 28 (2004) 115.  
 _cited as the source of values for this phase_
 
 ## B2_BCC (Gd–Tl)
@@ -233,7 +233,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaabeip and oqmd-30424, space group 221
 - Stoichiometry: Gd 0.2500, Tl 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1263.11 K, x(Tl) 0.75–0.75
-- Literature: 12 values (9 accepted) from 1 papers
+- Literature: 9 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-tl:gdtl3-l12)
 
 Names (5): _corpus: _corpus:phase:gd-tl:gdtl3-l12  
@@ -268,7 +268,7 @@ _cited as the source of values for this phase_
 - Id: `phase:gd-tl:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1518.02 K, x(Tl) 0–1
-- Literature: 10 values (5 accepted) from 1 papers
+- Literature: 8 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-tl:hcp-a3)
 
 Names (3): _corpus: _corpus:phase:gd-tl:hcp-a3  
@@ -291,9 +291,9 @@ Example references (4 of 4; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0022-5088(88)90428-6](https://doi.org/10.1016/0022-5088%2888%2990428-6) A. Saccone, S. Delfino, G. Cacciamani, R. Ferro, The binary phase diagrams of thallium with gadolinium, terbium and dysprosium, Journal of the Less Common Metals 136, 249-259 (1988).  
 _cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2004.08.005](https://doi.org/10.1016/j.calphad.2004.08.005) G. Kaptay, Calphad 28 (2004) 115.  
-_cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1983-741007](https://doi.org/10.1515/ijmr-1983-741007) S. Delﬁno, A. Saccone, R. Ferro, Z. Metallkd. 74 (1983) 674.  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2004.08.005](https://doi.org/10.1016/j.calphad.2004.08.005) G. Kaptay, Calphad 28 (2004) 115.  
 _cited as the source of values for this phase_
 
 ## LIQUID (Gd–Tl)

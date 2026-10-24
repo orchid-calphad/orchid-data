@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of SmTi6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 8.50036 | kJ/mol-atom |  | 0.004824 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| 8.50036 | kJ/mol-atom |  | 0.004824 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## Sources
 

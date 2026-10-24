@@ -2,25 +2,22 @@
 
 Reference: G. Kim, S. V. Meschel, P. Nash, W. Chen, Experimental formation enthalpies for intermetallic phases and other inorganic compounds, Scientific Data 4 (2017) 170162. doi:10.1038/sdata.2017.162 (Figshare dataset doi:10.6084/m9.figshare.7289723, MIT (Figshare dataset)).
 
-ORCHID candidates: 1419 experimental, accepted, signed HM_FORM records (kJ/mol-atom) over 598 formulas.
+ORCHID candidates: 1404 experimental, accepted, signed HM_FORM records (kJ/mol-atom) over 588 formulas.
 
 Reference file: `~/data/kim2017-expt-formation-enthalpy/formation_enthalpy_expt.csv` (1276 rows; complete file, SHA-256 matches).
 
 | n formulas in common | MAE | median abs diff | sign agreement | differ > 10 |
 |---:|---:|---:|---:|---:|
-| 159 | 3.879 | 0.985 | 1.0 | 20 |
+| 155 | 3.601 | 0.951 | 1.0 | 17 |
 
 | formula | ORCHID median | Kim median | difference | ORCHID ids |
 |---|---:|---:|---:|---|
 | Ge2Hf3 | -30.16 | -74.602 | 44.442 | ORC-RD3CLV2FOT.cf6f65 |
-| TaB2 | -20.967 | -53.298 | 32.332 | ORC-ENOMSME5IX, ORC-NWHOAUO467, ORC-PTU6CIJMOI |
 | AlIr | -118.0 | -89.215 | -28.785 | ORC-V3S6RNGLPA.43a09d |
 | Mn2Ti | -28.92 | -8.597 | -20.323 | ORC-TJIYWZ3M2H.09ad89 |
 | LaPt2 | -108.2 | -90.001 | -18.199 | ORC-2RGYOAFBJD.b01966, ORC-3FY37MU6YR.8b64fe, ORC-EDPRXRW4WL.c8079d, ORC-LLMXKPCYVE.1b1145, ORC-MKO4SURWL3.1e9813, ORC-QA4MPPXEHV.34fa39 |
-| LaMg | -3.7 | -20.358 | 16.658 | ORC-EQTOORKIKL.9c4590 |
 | LaPt | -111.8 | -95.896 | -15.904 | ORC-5IECZBKP2B.a6b839 |
 | NbNi3 | -31.715 | -16.798 | -14.917 | ORC-33IFFGWUUH.08e033, ORC-H6CHGHX5XI, ORC-MP75CMWX4X.7e46f8, ORC-VJ2BC6W776.4be015, ORC-ZI3WR77ALH.34226d |
-| MgSm | -3.9 | -18.496 | 14.596 | ORC-YT6SCNYYX5.2a1cae |
 | Al2Y | -65.65 | -51.952 | -13.698 | ORC-DDUCGWQENM, ORC-MMSUJPXEYZ |
 | Fe2Hf | -25.85 | -12.302 | -13.548 | ORC-QJ56PUEUMY, ORC-U33KIRTKYB |
 | Au2Ce | -70.6 | -57.495 | -13.105 | ORC-DHKTM2TLJO, ORC-FOOEYBCXYF.b7ce88, ORC-MDDDPLJSRA, ORC-PWC4XQVDFG, ORC-XLRYQNPQ34 |

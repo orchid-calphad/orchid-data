@@ -1,10 +1,10 @@
 # Dy–Ru system
 
-> Dy–Ru system: 8 accepted literature values (invariant reaction 7, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Ru system: 21 accepted literature values (formation 13, invariant reaction 7, phase transition 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-RU.html · Markdown: https://data.orchid-project.org/systems/DY-RU.md
 
-8 accepted literature values from 1 paper(s) (experimental 6, model 2); 1 calculated phase diagram(s).
+21 accepted literature values from 1 paper(s) (experimental 6, model 13, DFT 2); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-RU.json) · [CSV](https://data.orchid-project.org/systems/DY-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-RU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-RU/DyRu-23Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/DY-RU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-RU.html) · [Markdown](https://data.orchid-project.org/systems/DY-RU.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 6 |
-| model | 2 |
+| model | 13 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 7 |
 | phase transition | 1 |
+| formation | 13 |
 
 ## Calculated phase diagrams
 
@@ -63,6 +65,22 @@ Table: Invariant reactions reported in the literature for the Dy–Ru system (7)
 | 1363 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 20 | “The Liq Dy73Ru27 ? Dy2Ru eutectic reaction was calculated at (1406 K; 29.8 at.% Ru) and (1389 K; 29.7 at.% Ru) versus (1363 K; 29 at.% Ru) according to Ref 26 in the case of exponential and combined model, respectively.” |
 | 1263 | eutectic |  | experimental | [1] Kardellass 2023; _cites Loebich 1976_ [doi](https://doi.org/10.1016/0022-5088%2876%2990172-7) | p. 3 | “The two eutectic points of the Gd-Ru system correspond to 1190 K and 1238 K for 70 and 85 at.% Gd, and, in the case of the Dy-Ru system, they are 1263 K and 1363 K for compositions of 70 and 82 at.% Dy.” |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Dy–Ru system (7)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Dy3Ru |  | -31.223 kJ/mol-atom | 0 | DFT |  |  | [1] Kardellass 2023; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 7, row 21 |  |
+| Dy3Ru |  | -30.934 kJ/mol-atom | 0 | DFT |  |  | [1] Kardellass 2023; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 7, row 22 |  |
+| Dy3Ru | [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.html) | -28.644 kJ/mol-atom |  | model | -31.247 (mp-aaackxwj) | -30.961 (oqmd-29929) | [1] Kardellass 2023; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 7, row 19 |  |
+| Dy3Ru | [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.html) | -25.204 kJ/mol-atom |  | model | -31.247 (mp-aaackxwj) | -30.961 (oqmd-29929) | [1] Kardellass 2023; _cites Zhang 2007_ [doi](https://doi.org/10.1016/j.cplett.2007.06.031) | Table 2, p. 7, row 20 |  |
+| Dy3Ru | [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.html) | -16.545 kJ/mol-atom |  | model | -31.247 (mp-aaackxwj) | -30.961 (oqmd-29929) | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
+| Dy3Ru | [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.html) | -15.978 kJ/mol-atom |  | model | -31.247 (mp-aaackxwj) | -30.961 (oqmd-29929) | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
+| Dy3Ru | [Dy3Ru](https://data.orchid-project.org/compounds/Dy3Ru.html) | -15.693 kJ/mol-atom |  | model | -31.247 (mp-aaackxwj) | -30.961 (oqmd-29929) | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -72,6 +90,19 @@ Table: Phase transition, Dy–Ru system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1423 K | 1423 | congruent transformation | experimental | [1] Kardellass 2023 | p. 3 | “Within the four compounds, only two with the composition Ln73Ru27, melt congruently at 1173 K for Gd73Ru27 and 1423 K for Dy73Ru27.” |
+
+### Formation (6)
+
+Table: Formation, Dy–Ru system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy of formation; _printed: ΔSf_ | -0.166 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
+| Entropy of formation; _printed: ΔSf_ | -0.055 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
+| Entropy of formation; _printed: ΔSf_ | -0.138 J/mol-atom/K |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -15.811 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 18 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -15.637 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 17 |  |
+| Gibbs energy of formation; _printed: ΔGf_ | -16.407 kJ/mol-atom |  | Dy3Ru; _alloy: Ru 0_ | model | [1] Kardellass 2023 | Table 2, p. 7, row 16 |  |
 
 ## Sources
 

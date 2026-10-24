@@ -13,7 +13,7 @@ Table: Phases of the Ag–Ga system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-ag-ga-a11-orthorhombic); _phase:ag-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–302.84 K, x(Ga) 1–1 | 7 | 2 |
-| [AG2GA_C22](#phase-ag-ga-ag2ga-c22); _phase:ag-ga:ag2ga-c22_ | Fe2P · C22 · hP9 · P-62m (189) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–721.68 K, x(Ga) 0.24048–0.33329 | 24 | 2 |
+| [AG2GA_C22](#phase-ag-ga-ag2ga-c22); _phase:ag-ga:ag2ga-c22_ | Fe2P · C22 · hP9 · P-62m (189) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–721.68 K, x(Ga) 0.24048–0.33329 | 23 | 2 |
 | [AG3GA2_B2](#phase-ag-ga-ag3ga2-b2); _phase:ag-ga:ag3ga2-b2_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–581.05 K, x(Ga) 0.4–0.4 | 3 | 2 |
 | [BCC_A2](#phase-ag-ga-bcc-a2); _phase:ag-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ag-ga-fcc-a1); _phase:ag-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(Ga) 0–0.80745 | 21 | 2 |
@@ -68,7 +68,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-ga:ag2ga-c22`; status `assigned`
 - Structure: Fe2P · C22 · hP9 · P-62m (189); type `st:c22-fe2p-hp9`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–721.68 K, x(Ga) 0.24048–0.33329
-- Literature: 24 values (24 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ga:ag2ga-c22)
 
 Names (6): _corpus: _corpus:phase:ag-ga:ag2ga-c22  

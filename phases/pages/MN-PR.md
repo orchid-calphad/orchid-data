@@ -1,23 +1,22 @@
 # Mn–Pr phases
 
-> Mn–Pr system: 9 phases (tier A 8, liquid 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Mn–Pr system: 8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/MN-PR.html · Markdown: https://data.orchid-project.org/phases/pages/MN-PR.md
 
-9 phases (tier A 8, liquid 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+8 phases (tier A 7, liquid 1); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=MN-PR) · [full JSON](https://data.orchid-project.org/phases/systems/MN-PR.json) · [Mn–Pr system page](https://data.orchid-project.org/systems/MN-PR.html) · [Markdown](https://data.orchid-project.org/phases/pages/MN-PR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Mn–Pr system (9)
+Table: Phases of the Mn–Pr system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mn-pr-bcc-a2); _phase:mn-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 937.89–1619 K, x(Pr) 0–1 | 4 | 2 |
+| [BCC_A2](#phase-mn-pr-bcc-a2); _phase:mn-pr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 937.89–1619 K, x(Pr) 0–1 | 2 | 2 |
 | [CBCC_A12](#phase-mn-pr-cbcc-a12); _phase:mn-pr:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(Pr) 0–0 | 4 | 2 |
-| [CUB_A13](#phase-mn-pr-cub-a13); _phase:mn-pr:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1473.6 K, x(Pr) 0–0 | 2 | 2 |
-| [DHCP](#phase-mn-pr-dhcp); _phase:mn-pr:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
+| [CUB_A13](#phase-mn-pr-cub-a13); _phase:mn-pr:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1473.6 K, x(Pr) 0–0 | 0 | 2 |
 | [DHCP](#phase-mn-pr-dhcp-a3); _phase:mn-pr:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1203.01 K, x(Pr) 0.98969–1 | 6 | 2 |
-| [FCC_A1](#phase-mn-pr-fcc-a1); _phase:mn-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1359.85–1473.6 K, x(Pr) 0–2e-05 | 4 | 2 |
+| [FCC_A1](#phase-mn-pr-fcc-a1); _phase:mn-pr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1359.85–1473.6 K, x(Pr) 0–2e-05 | 0 | 2 |
 | [HCP_A3](#phase-mn-pr-hcp-a3); _phase:mn-pr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-mn-pr-liquid); _phase:mn-pr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 933.71–2500 K, x(Pr) 0–1 | 6 | 2 |
 | [MN23PR6_D8A](#phase-mn-pr-mn23pr6-d8a); _phase:mn-pr:mn23pr6-d8a_ | Mn23Th6 · D8_a · cF116 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 922.39–1065.06 K, x(Pr) 0.2069–0.2069 | 6 | 2 |
@@ -27,11 +26,11 @@ Table: Phases of the Mn–Pr system (9)
 - Id: `phase:mn-pr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 937.89–1619 K, x(Pr) 0–1
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-pr:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:mn-pr:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2008.01.092:βPr, paper:10.1016/j.jallcom.2008.01.092:δMn  
+Names (4): _corpus: _corpus:phase:mn-pr:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2008.01.092:βPr  
 _tdb: _tdb:MnPr-09Wan.tdb:BCC_A2, tdb:MnPr-24Ye.tdb:BCC_A2  
 
 
@@ -101,11 +100,10 @@ _assessment that models this phase_
 - Structure: beta-Mn · A13 · cP20 · P4_132 (213); type `st:a13-beta-mn-cp20`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 980–1473.6 K, x(Pr) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-pr:cub-a13)
 
-Names (4): _corpus: _corpus:phase:mn-pr:cub-a13  
-_paper: _paper:10.1016/j.jallcom.2008.01.092:βMn  
+Names (3): _corpus: _corpus:phase:mn-pr:cub-a13  
 _tdb: _tdb:MnPr-09Wan.tdb:CUB_A13, tdb:MnPr-24Ye.tdb:CUB_A13  
 
 
@@ -127,21 +125,10 @@ _tdb: _tdb:MnPr-09Wan.tdb:CUB_A13, tdb:MnPr-24Ye.tdb:CUB_A13
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.jallcom.2008.01.092](https://doi.org/10.1016/j.jallcom.2008.01.092) C.P. Wang, Z. Lin, X.J. Liu, Thermodynamic assessments of the Dy–Mn and Mn–Pr systems, Journal of Alloys and Compounds 469, 123-128 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39) Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024).  
 _assessment that models this phase_
-
-## DHCP (Mn–Pr)
-
-- Id: `phase:mn-pr:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-pr:dhcp)
-
-Names (1): _corpus: _corpus:phase:mn-pr:dhcp  
-
+- [doi:10.1016/j.jallcom.2008.01.092](https://doi.org/10.1016/j.jallcom.2008.01.092) C.P. Wang, Z. Lin, X.J. Liu, Thermodynamic assessments of the Dy–Mn and Mn–Pr systems, Journal of Alloys and Compounds 469, 123-128 (2009).  
+_assessment that models this phase_
 
 ## DHCP (Mn–Pr)
 
@@ -151,7 +138,7 @@ Names (1): _corpus: _corpus:phase:mn-pr:dhcp
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-pr:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:mn-pr:dhcp-a3  
+Names (5): _corpus: _corpus:phase:mn-pr:dhcp-a3, corpus:phase:mn-pr:dhcp  
 _paper: _paper:10.1016/j.jallcom.2008.01.092:αPr  
 _tdb: _tdb:MnPr-09Wan.tdb:DHCP, tdb:MnPr-24Ye.tdb:DHCP  
 
@@ -184,11 +171,10 @@ _assessment that models this phase_
 - Id: `phase:mn-pr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1359.85–1473.6 K, x(Pr) 0–2e-05
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-pr:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:mn-pr:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2008.01.092:γMn  
+Names (3): _corpus: _corpus:phase:mn-pr:fcc-a1  
 _tdb: _tdb:MnPr-09Wan.tdb:FCC_A1, tdb:MnPr-24Ye.tdb:FCC_A1  
 
 
@@ -210,9 +196,9 @@ _tdb: _tdb:MnPr-09Wan.tdb:FCC_A1, tdb:MnPr-24Ye.tdb:FCC_A1
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.jallcom.2008.01.092](https://doi.org/10.1016/j.jallcom.2008.01.092) C.P. Wang, Z. Lin, X.J. Liu, Thermodynamic assessments of the Dy–Mn and Mn–Pr systems, Journal of Alloys and Compounds 469, 123-128 (2009).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/mgea.39](https://doi.org/10.1002/mgea.39) Hongjian Ye, Jiang Wang, Qing Chen, Guanghui Rao, Huaiying Zhou, Development of thermodynamic database of the Mn‐RE (RE = rare earth metals) binary systems, Materials Genome Engineering Advances 2 (2024).  
+_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2008.01.092](https://doi.org/10.1016/j.jallcom.2008.01.092) C.P. Wang, Z. Lin, X.J. Liu, Thermodynamic assessments of the Dy–Mn and Mn–Pr systems, Journal of Alloys and Compounds 469, 123-128 (2009).  
 _assessment that models this phase_
 
 ## HCP_A3 (Mn–Pr)

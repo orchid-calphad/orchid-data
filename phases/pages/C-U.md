@@ -1,10 +1,10 @@
 # C–U phases
 
-> C–U system: 11 phases (tier A 8, liquid 1, needs_review 2); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–U system: 11 phases (tier A 6, liquid 1, needs_review 3, interstitial_fcc_a1_compound 1); 9 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-U.html · Markdown: https://data.orchid-project.org/phases/pages/C-U.md
 
-11 phases (tier A 8, liquid 1, needs_review 2); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 6, liquid 1, needs_review 3, interstitial_fcc_a1_compound 1); 9 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-U) · [full JSON](https://data.orchid-project.org/phases/systems/C-U.json) · [C–U system page](https://data.orchid-project.org/systems/C-U.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-U.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -14,20 +14,21 @@ Table: Phases of the C–U system (11)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A20](#phase-c-u-a20-orthorhombic); _phase:c-u:a20-orthorhombic_ | alpha-U · A20 · oC4 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–942.02 K, x(C) 0–0 | 0 | 2 |
 | [DIAMOND_A4](#phase-c-u-a4-diamond); _phase:c-u:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 25 | 2 |
-| [GRAPHITE_A9](#phase-c-u-a9-graphite); _phase:c-u:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1 | 146 | 2 |
+| [GRAPHITE_A9](#phase-c-u-a9-graphite); _phase:c-u:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 2 |
 | [BCC_A2](#phase-c-u-bcc-a2); _phase:c-u:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1048.99–3272.99 K, x(C) 0–0 | 0 | 2 |
-| [FCC_A1](#phase-c-u-fcc-a1); _phase:c-u:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 300–2765.65 K, x(C) 0.47136–0.65811 | 0 | 2 |
+| [FCC_A1](#phase-c-u-fcc-a1); _phase:c-u:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 2 calculated diagram(s): 300–2765.65 K, x(C) 0.47136–0.65811 | 0 | 2 |
 | [FCC_B1](#phase-c-u-fcc-b1); _phase:c-u:fcc-b1_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–2797.66 K, x(C) 0.47608–0.65628 | 0 | 1 |
 | [HCP_A3](#phase-c-u-hcp-a3); _phase:c-u:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-c-u-liquid); _phase:c-u:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1390.16–4000 K, x(C) 0–0.84082 | 81 | 2 |
 | [TETRAGONAL_U](#phase-c-u-u-tetragonal); _phase:c-u:u-tetragonal_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 942.02–1048.99 K, x(C) 0–0 | 0 | 2 |
 | [U2C3_D5C](#phase-c-u-u2c3-d5c); _phase:c-u:u2c3-d5c_ | Pu2C3 · D5_c · cI40 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2090 K, x(C) 0.6–0.6 | 41 | 2 |
-| [UC2_C11A](#phase-c-u-uc2-c11a); _phase:c-u:uc2-c11a_ | CaC2 · C11_a · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1678.76–2063.89 K, x(C) 0.64282–0.6588 | 7 | 2 |
+| [UC2_C11A](#phase-c-u-uc2-c11a); _phase:c-u:uc2-c11a_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1678.76–2063.89 K, x(C) 0.64282–0.6588 | 7 | 2 |
 
 ## ORTHORHOMBIC_A20 (C–U)
 
 - Id: `phase:c-u:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–942.02 K, x(C) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:a20-orthorhombic)
@@ -63,6 +64,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-u:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 25 values (22 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:a4-diamond)
@@ -101,12 +103,12 @@ _cited as the source of values for this phase_
 
 - Id: `phase:c-u:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–4000 K, x(C) 1–1
-- Literature: 146 values (146 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:a9-graphite)
 
-Names (8): _corpus: _corpus:phase:c-u:a9-graphite  
-_paper: _paper:10.1016/s0022-3115(00)00713-3:L(φ1), paper:10.1016/s0022-3115(00)00713-3:L(φ2), paper:10.1016/s0022-3115(00)00713-3:δ-(UC, UC2)(φ2), paper:10.1016/s0022-3115(00)00713-3:δ-(UC2)(φ2), paper:10.1016/s0022-3115(00)00713-3:φ2  
+Names (3): _corpus: _corpus:phase:c-u:a9-graphite  
 _tdb: _tdb:UC-01Che.tdb:GRAPHITE_A9, tdb:UC-11Gue.tdb:GRAPHITE_A9  
 
 
@@ -126,23 +128,18 @@ _tdb: _tdb:UC-01Che.tdb:GRAPHITE_A9, tdb:UC-11Gue.tdb:GRAPHITE_A9
 51: CONST GRAPHITE_A9 : C : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/S0022-3115(00)00713-3](https://doi.org/10.1016/S0022-3115%2800%2900713-3) P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 288, 100-29(2001).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jnucmat.2011.07.033](https://doi.org/10.1016/j.jnucmat.2011.07.033) Christine Guéneau, Nathalie Dupin, Bo Sundman, Chantal Martial, Jean-Christophe Dumas, Stéphane Gossé et al., Thermodynamic modelling of advanced oxide and carbide nuclear fuels: Description of the U–Pu–O–C systems, Journal of Nuclear Materials 419, 145-167 (2011).  
 _assessment that models this phase_
-- [doi:10.1149/1.2423930](https://doi.org/10.1149/1.2423930) Mildred Bradley Sears, Leslie M. Ferris, Robert J. Gray, High-Temperature Immiscibility of Uranium Mono- and Dicarbides, J. Electrochem. Soc. 113, 269 (1966).  
-_cited as the source of values for this phase_
-- [doi:10.2172/4279680](https://doi.org/10.2172/4279680) A.C. Jr. Secrest, E.L. Foster, R.F. Dickerson, PREPARATION AND PROPERTIES OF URANIUM MONOCARBIDE CASTINGS, (1959).  
-_cited as the source of values for this phase_
-- [doi:10.6028/jres.054.026](https://doi.org/10.6028/jres.054.026) M.D. Burdick, H.S. Parker, R.S. Roth, E.L. McGandy, An x-ray study of the system uranium monocarbide-uranium dicarbide-beryllium carbide, J. RES. NATL. BUR. STAN. 54, 217 (1955).  
-_cited as the source of values for this phase_
+- [doi:10.1016/S0022-3115(00)00713-3](https://doi.org/10.1016/S0022-3115%2800%2900713-3) P.-Y. Chevalier, E. Fischer, J. Nucl. Mater., 288, 100-29(2001).  
+_assessment that models this phase_
 
 ## BCC_A2 (C–U)
 
 - Id: `phase:c-u:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 1048.99–3272.99 K, x(C) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:bcc-a2)
@@ -177,7 +174,7 @@ _assessment that models this phase_
 ## FCC_A1 (C–U)
 
 - Id: `phase:c-u:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 2 calculated diagram(s): 300–2765.65 K, x(C) 0.47136–0.65811
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:fcc-a1)
@@ -243,6 +240,7 @@ _assessment that models this phase_
 
 - Id: `phase:c-u:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:hcp-a3)
@@ -317,6 +315,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UC-01Che.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UC-11Gue.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
+- Stoichiometry: U 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 942.02–1048.99 K, x(C) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:u-tetragonal)
@@ -352,11 +351,15 @@ _assessment that models this phase_
 
 - Id: `phase:c-u:u2c3-d5c`; status `assigned`
 - Structure: Pu2C3 · D5_c · cI40 · I-43d (220); type `st:d5-c-pu2c3-ci40`; tier A: standard phase name; confidence high
+- Caveat: DFT agrees: on-hull mp-aaaaadwz and oqmd-5019, space group 220
+- Stoichiometry: C 0.6000, U 0.4000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–2090 K, x(C) 0.6–0.6
 - Literature: 41 values (41 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:u2c3-d5c)
 
-Names (5): _corpus: _corpus:phase:c-u:u2c3-d5c  
+Names (7): _corpus: _corpus:phase:c-u:u2c3-d5c  
+_mp: _mp:mp-aaaaadwz  
+_oqmd: _oqmd:oqmd-5019  
 _paper: _paper:10.1016/s0022-3115(00)00713-3:U2C3, paper:10.1016/s0022-3115(00)00713-3:U2C3(ϕ2)  
 _tdb: _tdb:UC-01Che.tdb:U2C3_D5C, tdb:UC-11Gue.tdb:U2C3_D5C  
 
@@ -390,8 +393,12 @@ _cited as the source of values for this phase_
 
 ## UC2_C11A (C–U)
 
-- Id: `phase:c-u:uc2-c11a`; status `assigned`
-- Structure: CaC2 · C11_a · tI6 · I4/mmm (139); type `st:c11-a-cac2-ti6`; tier A: standard phase name; confidence high
+- Id: `phase:c-u:uc2-c11a`; status `needs_review`
+- No structure assigned. Why: assessment_declared_blocked_by:site_ratios_contradict_C11_a; site_ratios_contradict_C11_a:UC-01Che.tdb
+- Candidate (name_token): CaC2 · C11_a · tI6 · I4/mmm (139) — Strukturbericht/word 'C11A' in the TDB name
+- Candidate (sgte_mmc2): CaC2 · C11_a · tI6 · I4/mmm (139) — Hallstedt 2025 mmc2 row for UC2_C11A: UC2 (lt)
+- Candidate (tdb_comment): CaC2 · tI6 · I4/mmm — UC-01Che.tdb: 'Prototype CaC2 (tI6, I4/mmm)'
+- Candidate (tdb_comment): CaC2 · tI6 · I4/mmm — UC-11Gue.tdb: 'Prototype CaC2 (tI6, I4/mmm)'
 - Stability: stable in 2 of 2 calculated diagram(s): 1678.76–2063.89 K, x(C) 0.64282–0.6588
 - Literature: 7 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-u:uc2-c11a)

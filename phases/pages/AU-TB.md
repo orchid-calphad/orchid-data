@@ -19,12 +19,12 @@ Table: Phases of the Au–Tb system (13)
 | [AU51TB14](#phase-au-tb-au51tb14); _phase:au-tb:au51tb14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1445.8 K, x(Tb) 0.21538–0.21538 | 10 | 2 |
 | [AU6TB](#phase-au-tb-au6tb); _phase:au-tb:au6tb_ | Au6Sm · tP56 · P4_2/ncm (138) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1130.73 K, x(Tb) 0.14286–0.14286 | 11 | 2 |
 | [AUTB_B2](#phase-au-tb-autb-b2); _phase:au-tb:autb-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1723.29–1863.91 K, x(Tb) 0.5–0.5 | 8 | 2 |
-| [AUTB_B33](#phase-au-tb-autb-b33); _phase:au-tb:autb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5 | 16 | 2 |
+| [AUTB_B33](#phase-au-tb-autb-b33); _phase:au-tb:autb-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5 | 14 | 2 |
 | [AUTB2_C37](#phase-au-tb-autb2-c37); _phase:au-tb:autb2-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1272.88 K, x(Tb) 0.66667–0.66667 | 10 | 2 |
-| [BCC_A2](#phase-au-tb-bcc-a2); _phase:au-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1483.16–2499.49 K, x(Tb) 0.98741–1 | 8 | 2 |
+| [BCC_A2](#phase-au-tb-bcc-a2); _phase:au-tb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1483.16–2499.49 K, x(Tb) 0.98741–1 | 4 | 2 |
 | [FCC_A1](#phase-au-tb-fcc-a1); _phase:au-tb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1484.51 K, x(Tb) 0–0.02096 | 8 | 2 |
-| [HCP_A3](#phase-au-tb-hcp-a3); _phase:au-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1 | 7 | 2 |
-| [LIQUID](#phase-au-tb-liquid); _phase:au-tb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(Tb) 0–1 | 70 | 2 |
+| [HCP_A3](#phase-au-tb-hcp-a3); _phase:au-tb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1 | 5 | 2 |
+| [LIQUID](#phase-au-tb-liquid); _phase:au-tb:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(Tb) 0–1 | 68 | 2 |
 
 ## AU10TB7 (Au–Tb)
 
@@ -316,7 +316,7 @@ _cited as the source of values for this phase_
 - Structure: CrB · B33 · oC8 · Cmcm (63); type `st:b33-crb-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Au 0.5000, Tb 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1731.41 K, x(Tb) 0.5–0.5
-- Literature: 16 values (16 accepted) from 2 papers
+- Literature: 14 values (14 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:autb-b33)
 
 Names (7): _corpus: _corpus:phase:au-tb:autb-b33  
@@ -393,11 +393,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-tb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1483.16–2499.49 K, x(Tb) 0.98741–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 4 values (4 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:au-tb:bcc-a2  
-_paper: _paper:10.1007/s11669-016-0460-4:(βTb), paper:10.1016/j.jallcom.2016.01.260:(βTb), paper:10.1016/j.jallcom.2016.01.260:βTb  
+Names (5): _corpus: _corpus:phase:au-tb:bcc-a2  
+_paper: _paper:10.1007/s11669-016-0460-4:(βTb), paper:10.1016/j.jallcom.2016.01.260:(βTb)  
 _tdb: _tdb:AuTb-16Otm.tdb:BCC_A2, tdb:AuTb-16Wan.tdb:BCC_A2  
 
 
@@ -419,9 +419,9 @@ _tdb: _tdb:AuTb-16Otm.tdb:BCC_A2, tdb:AuTb-16Wan.tdb:BCC_A2
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jallcom.2016.01.260](https://doi.org/10.1016/j.jallcom.2016.01.260) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the terbium–gold binary system, Journal of Alloys and Compounds 670, 369-373 (2016).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-016-0460-4](https://doi.org/10.1007/s11669-016-0460-4) S. L. Wang, J. L. Li, L. L. Qiu, L. J. Zhou, Y. H. Li, C. Q. Ren et al., Thermodynamic Assessments of the Au-Tb and Au-Lu Systems, J. Phase Equilib. Diffus. 37, 319-326 (2016).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2016.01.260](https://doi.org/10.1016/j.jallcom.2016.01.260) Samira Otmani, Kamal Mahdouk, Thermodynamic assessment of the terbium–gold binary system, Journal of Alloys and Compounds 670, 369-373 (2016).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/s0966-9795(99)00099-0](https://doi.org/10.1016/s0966-9795%2899%2900099-0) A Saccone, D Macciò, S Delfino, R Ferro, The phase diagram of the terbium–gold alloy system, Intermetallics 8, 229-237 (2000).  
 _cited as the source of values for this phase_
@@ -469,11 +469,11 @@ _cited as the source of values for this phase_
 - Id: `phase:au-tb:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1626.9 K, x(Tb) 0.98399–1
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:au-tb:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2016.01.260:(αTb), paper:10.1016/j.jallcom.2016.01.260:αTb  
+Names (4): _corpus: _corpus:phase:au-tb:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2016.01.260:(αTb)  
 _tdb: _tdb:AuTb-16Otm.tdb:HCP_A3, tdb:AuTb-16Wan.tdb:HCP_A3  
 
 
@@ -507,7 +507,7 @@ _cited as the source of values for this phase_
 - Id: `phase:au-tb:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1072.01–2500 K, x(Tb) 0–1
-- Literature: 70 values (70 accepted) from 2 papers
+- Literature: 68 values (68 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-tb:liquid)
 
 Names (5): _corpus: _corpus:phase:au-tb:liquid  

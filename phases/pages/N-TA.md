@@ -1,10 +1,10 @@
 # N–Ta phases
 
-> N–Ta system: 6 phases (tier A 3, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> N–Ta system: 6 phases (tier A 2, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/N-TA.html · Markdown: https://data.orchid-project.org/phases/pages/N-TA.md
 
-6 phases (tier A 3, liquid 1, gas 1, needs_review 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 2, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=N-TA) · [full JSON](https://data.orchid-project.org/phases/systems/N-TA.json) · [N–Ta system page](https://data.orchid-project.org/systems/N-TA.html) · [Markdown](https://data.orchid-project.org/phases/pages/N-TA.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the N–Ta system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-n-ta-bcc-a2); _phase:n-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3999.96 K, x(N) 0–0.10705 | 0 | 1 |
-| [FCC_A1](#phase-n-ta-fcc-a1); _phase:n-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1966.92–2281.07 K, x(N) 0.41782–0.44066 | 0 | 1 |
+| [FCC_A1](#phase-n-ta-fcc-a1); _phase:n-ta:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 1966.92–2281.07 K, x(N) 0.41782–0.44066 | 0 | 1 |
 | [HCP_A3](#phase-n-ta-hcp-a3); _phase:n-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2993.7 K, x(N) 0.2347–0.33333 | 0 | 1 |
 | [LIQUID](#phase-n-ta-liquid); _phase:n-ta:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2591.13–4000 K, x(N) 0–0.2384 | 0 | 1 |
 | [N2GAS](#phase-n-ta-n2gas); _phase:n-ta:n2gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–4000 K, x(N) 1–1 | 0 | 1 |
@@ -48,7 +48,7 @@ _assessment that models this phase_
 ## FCC_A1 (N–Ta)
 
 - Id: `phase:n-ta:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1966.92–2281.07 K, x(N) 0.41782–0.44066
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-ta:fcc-a1)

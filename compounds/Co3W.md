@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Co3W.html · Markdown: https://d
 
 3 accepted literature formation-enthalpy value(s) (DFT 3).
 
-Systems: [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html)
+Systems: [Co–W](https://data.orchid-project.org/systems/CO-W.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Co3W reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -7.94 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21 |  |
-| -7.81 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20 |  |
-| -7.72 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 19 |  |
+| -7.94 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Co–W](https://data.orchid-project.org/systems/CO-W.html) | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 21 |  |
+| -7.81 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Co–W](https://data.orchid-project.org/systems/CO-W.html) | [1] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 20 |  |
+| -7.72 kJ/mol-atom | Co3W | 0 | DFT | DFT | [Co–W](https://data.orchid-project.org/systems/CO-W.html) | [1] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 19 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Co3W
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -7.94 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.81 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -7.72 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -7.94 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -7.81 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -7.72 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

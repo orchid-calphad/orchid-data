@@ -1,10 +1,10 @@
 # B–Si phases
 
-> B–Si system: 7 phases (tier A 1, liquid 1, needs_review 5); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> B–Si system: 7 phases (tier A 1, tier C 1, liquid 1, needs_review 4); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/B-SI.html · Markdown: https://data.orchid-project.org/phases/pages/B-SI.md
 
-7 phases (tier A 1, liquid 1, needs_review 5); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier A 1, tier C 1, liquid 1, needs_review 4); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=B-SI) · [full JSON](https://data.orchid-project.org/phases/systems/B-SI.json) · [B–Si system page](https://data.orchid-project.org/systems/B-SI.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-SI.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -18,7 +18,7 @@ Table: Phases of the B–Si system (7)
 | [LIQUID](#phase-b-si-liquid); _phase:b-si:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1635.39–4000 K, x(B) 0–1 | 21 | 4 |
 | [SIB24](#phase-b-si-sib24); _phase:b-si:sib24_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–2305.08 K, x(B) 0.94185–0.97581 | 10 | 3 |
 | [SIB3_D1G](#phase-b-si-sib3-d1g); _phase:b-si:sib3-d1g_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1560 K, x(B) 0.7299–0.75 | 7 | 4 |
-| [SIB6](#phase-b-si-sib6); _phase:b-si:sib6_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–2129.74 K, x(B) 0.85438–0.86312 | 26 | 4 |
+| [SIB6](#phase-b-si-sib6); _phase:b-si:sib6_ | SiB6 · oP280 · Pnnm (58) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–2129.74 K, x(B) 0.85438–0.86312 | 26 | 4 |
 
 ## DIAMOND_A4 (B–Si)
 
@@ -299,7 +299,7 @@ _reports values for this phase_
 ## SIB3_D1G (B–Si)
 
 - Id: `phase:b-si:sib3-d1g`; status `needs_review`
-- No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_D1_g; site_ratios_contradict_D1_g:SiB-95Lim-LB.tdb; stoichiometry_contradicts_D1_g:SiB-01Tok.tdb; stoichiometry_contradicts_D1_g:SiB-03Tok.tdb; stoichiometry_contradicts_D1_g:SiB-09Che.tdb
+- No structure assigned. Why: assessment_declared_blocked_by:stoichiometry_contradicts_D1_g; stoichiometry_contradicts_D1_g:SiB-01Tok.tdb; stoichiometry_contradicts_D1_g:SiB-03Tok.tdb; stoichiometry_contradicts_D1_g:SiB-09Che.tdb
 - Candidate (literature_printed): B13C2 · hR15 — printed with a label mapped to this phase
 - Candidate (name_token): B13C2 · D1_g · hR15 · R-3m (166) — Strukturbericht/word 'D1G' in the TDB name
 - Candidate (sgte_mmc2): B13C2 · D1_g · hR15 · R-3m (166) — Hallstedt 2025 mmc2 row for SIB3_D1G: SiB3
@@ -363,14 +363,10 @@ _reports values for this phase_
 
 ## SIB6 (B–Si)
 
-- Id: `phase:b-si:sib6`; status `needs_review`
-- No structure assigned. Why: assessment_declared_compound_differs_from_site_ratios; no_structure_token; off_stoichiometric_model
-- Candidate (literature_printed): SiB6 · oP280 — printed with a label mapped to this phase
-- Candidate (sgte_mmc2): SiB6 · oP280 · Pnnm (58) — Hallstedt 2025 mmc2 row for SIB6: SiB6
-- Candidate (tdb_comment): SiB6 · oP280 · Pnnm — SiB-01Tok.tdb: 'Prototype SiB6 (oP280, Pnnm)'
-- Candidate (tdb_comment): SiB6 · oP280 · Pnnm — SiB-03Tok.tdb: 'Prototype SiB6 (oP280, Pnnm)'
-- Candidate (tdb_comment): SiB6 · oP280 · Pnnm — SiB-09Che.tdb: 'Prototype SiB6 (oP280, Pnnm)'
-- Candidate (tdb_comment): SiB6 · oP280 · Pnnm — SiB-95Lim-LB.tdb: 'Prototype SiB6 (oP280, Pnnm)'
+- Id: `phase:b-si:sib6`; status `assigned`
+- Structure: SiB6 · oP280 · Pnnm (58); type `st:sib6-op280`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
+- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
+- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2129.74 K, x(B) 0.85438–0.86312
 - Literature: 26 values (26 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-si:sib6)

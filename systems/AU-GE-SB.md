@@ -1,10 +1,10 @@
 # Au–Ge–Sb system
 
-> Au–Ge–Sb system: 14 accepted literature values (invariant reaction 13, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Ge–Sb system: 9 accepted literature values (invariant reaction 8, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-GE-SB.html · Markdown: https://data.orchid-project.org/systems/AU-GE-SB.md
 
-14 accepted literature values from 1 paper(s) (experimental 8, model 6); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (experimental 4, model 5); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-GE-SB.json) · [CSV](https://data.orchid-project.org/systems/AU-GE-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-GE-SB) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-GE-SB.html) · [Markdown](https://data.orchid-project.org/systems/AU-GE-SB.md)
 
@@ -12,27 +12,22 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 8 |
-| model | 6 |
+| experimental | 4 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 13 |
+| invariant reaction | 8 |
 | phase transition | 1 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Au–Ge–Sb system (13)
+Table: Invariant reactions reported in the literature for the Au–Ge–Sb system (8)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.135, Sb 0.865 | experimental | [1] Wang 2009; _cites Ruttewit 1949_ | Table 1, p. 2, row 1 |  |
-| 865 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.145, Sb 0.855 | experimental | [1] Wang 2009; _cites Olesinki 1986_ [doi](https://doi.org/10.1007/bf02868990) | Table 1, p. 2, row 3 |  |
-| 860 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.143, Sb 0.857 | model | [1] Wang 2009 | Table 1, p. 2, row 5 |  |
-| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.168, Sb 0.832 | experimental | [1] Wang 2009; _cites Stohr 1940_ | Table 1, p. 2, row 2 |  |
-| 859 | eutectic: L -> (Ge) + (Sb) | L: Ge 0.162, Sb 0.838 | experimental | [1] Wang 2009; _cites Chevalier 1989_ | Table 1, p. 2, row 4 |  |
 | 740 | peritectic: L + (Sb) -> AuSb2 | L: Sb 0.655 | model | [1] Wang 2009; _cites Liu 2003_ [doi](https://doi.org/10.1007/s11664-003-0240-x) | Table 1, p. 2, row 7 |  |
 | 703 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.14, Sb 0.51 | experimental | [1] Wang 2009; _cites Zwingmann 1964_ | Table 1, p. 2, row 9 |  |
 | 702 | quasi-peritectic: L+(Sb) -> (Ge)+AuSb2 | L: Ge 0.137, Sb 0.487 | model | [1] Wang 2009 | Table 1, p. 2, row 10 |  |

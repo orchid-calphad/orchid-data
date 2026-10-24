@@ -17,12 +17,13 @@ Table: Phases of the U–V system (6)
 | [FCC_A1](#phase-u-v-fcc-a1); _phase:u-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-u-v-hcp-a3); _phase:u-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LIQUID](#phase-u-v-liquid); _phase:u-v:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1316.02–4000 K, x(V) 0–1 | 13 | 1 |
-| [TETRAGONAL_U](#phase-u-v-u-tetragonal); _phase:u-v:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 935.3–1201.94 K, x(V) 0–0.00361 | 7 | 1 |
+| [TETRAGONAL_U](#phase-u-v-u-tetragonal); _phase:u-v:u-tetragonal_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 935.3–1201.94 K, x(V) 0–0.00361 | 5 | 1 |
 
 ## ORTHORHOMBIC_A20 (U–V)
 
 - Id: `phase:u-v:a20-orthorhombic`; status `assigned`
 - Structure: alpha-U · A20 · oC4 · Cmcm (63); type `st:a20-alpha-u-oc4`; tier A: standard phase name; confidence high
+- Stoichiometry: U 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–947.02 K, x(V) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-v:a20-orthorhombic)
@@ -158,7 +159,7 @@ _assessment that models this phase; reports values for this phase_
 - Candidate (sgte_mmc2): beta-U · A_b · tP30 · P4_2/mnm (136) — Hallstedt 2025 mmc2 row for TETRAGONAL_U: beta-U
 - Candidate (tdb_comment): beta-U · tP30 · P4_2/mnm, SB: A_b — UV-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'
 - Stability: stable in 1 of 1 calculated diagram(s): 935.3–1201.94 K, x(V) 0–0.00361
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:u-v:u-tetragonal)
 
 Names (5): _corpus: _corpus:phase:u-v:u-tetragonal  

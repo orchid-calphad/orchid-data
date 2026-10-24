@@ -1,10 +1,10 @@
 # Ag–Ti system
 
-> Ag–Ti system: 93 accepted literature values (crystal structure 44, invariant reaction 39, phase equilibrium 7, formation 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Ti system: 76 accepted literature values (invariant reaction 37, crystal structure 29, phase equilibrium 7, formation 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-TI.html · Markdown: https://data.orchid-project.org/systems/AG-TI.md
 
-93 accepted literature values from 2 paper(s) (experimental 31, model 16, unspecified 46); 4 calculated phase diagram(s).
+76 accepted literature values from 2 paper(s) (experimental 31, model 14, unspecified 31); 4 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-TI.json) · [CSV](https://data.orchid-project.org/systems/AG-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-TI/AgTi-04Arr.json) · [phases (6)](https://data.orchid-project.org/phases/pages/AG-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-TI.html) · [Markdown](https://data.orchid-project.org/systems/AG-TI.md)
 
@@ -13,18 +13,18 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 31 |
-| model | 16 |
-| unspecified | 46 |
+| model | 14 |
+| unspecified | 31 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 39 |
+| invariant reaction | 37 |
 | phase transition | 1 |
 | phase equilibrium | 7 |
 | formation | 2 |
-| crystal structure | 44 |
+| crystal structure | 29 |
 
 ## Calculated phase diagrams
 
@@ -75,7 +75,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Ti system (39)
+Table: Invariant reactions reported in the literature for the Ag–Ti system (37)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -105,7 +105,6 @@ Table: Invariant reactions reported in the literature for the Ag–Ti system (39
 | 1213 | (β-Ti) + AgTi = AgTi2 | (β-Ti): Ti 0.117; AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites Plichta 1977_ | Table 1, p. 2, row 6 |  |
 | 1213 | peritectoid: β(Ti) + (AgTi) -> AgTi2 | β(Ti): Ti 0.886; (AgTi): Ti 0.51; AgTi2: Ti 0.667 | model | [1] Li 2005 | Table 3, p. 4, row 7 |  |
 | 1212 | AgTi + (β Ti) = AgTi2 | AgTi: Ti 0.5; (β Ti): Ti 0.889; AgTi2: Ti 0.667 | model | [2] Gierlotka 2023 | Table 5, p. 5, row 4 |  |
-| 1206 | AgTi + (β Ti) = AgTi2 | AgTi: Ti 5 (basis unresolved); (β Ti): Ti 0.887; AgTi2: Ti 0.667 | model | [2] Gierlotka 2023; _cites Li 2005_ [doi](https://doi.org/10.1016/j.calphad.2005.09.002) | Table 5, p. 5, row 5 |  |
 | 1203 | (β-Ti) + AgTi = AgTi2 | (β-Ti): Ti 0.12; AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites McQuilian 1960_ | Table 1, p. 2, row 8 |  |
 | 1203 | peritectoid: β(Ti) + (AgTi) -> AgTi2 | β(Ti): Ti 0.88; (AgTi): Ti 0.52; AgTi2: Ti 0.667 | experimental | [1] Li 2005; _cites McQuillan 1960_ | Table 3, p. 4, row 9 |  |
 | 1173 | (β-Ti) + AgTi = AgTi2 | (β-Ti): Ti 0.1; AgTi: Ti 0.5; AgTi2: Ti 0.66 | experimental | [2] Gierlotka 2023; _cites Adenstedt 1953_ [doi](https://doi.org/10.21236/ad0018321) | Table 1, p. 2, row 7 |  |
@@ -114,7 +113,6 @@ Table: Invariant reactions reported in the literature for the Ag–Ti system (39
 | 1128 | (β-Ti) = (α-Ti) + AgTi2 | (β-Ti): Ti 0.076; (α-Ti): Ti 0.047; AgTi2: Ti 0.66 | unspecified | [2] Gierlotka 2023; _cites Murray 1983_ [doi](https://doi.org/10.1007/bf02884876) | Table 1, p. 2, row 10 |  |
 | 1128 | eutectoid: β(Ti) -> AgTi2 + α(Ti) | β(Ti): Ti 0.885; AgTi2: Ti 0.72; α(Ti): Ti 0.93 | experimental | [1] Li 2005; _cites Worner 1953_ | Table 3, p. 4, row 11 |  |
 | 1127 | eutectoid: β(Ti) -> AgTi2 + α(Ti) | β(Ti): Ti 0.926; AgTi2: Ti 0.667; α(Ti): Ti 0.933 | model | [1] Li 2005 | Table 3, p. 4, row 10 |  |
-| 1126 | (β Ti) = AgTi2 + (α Ti) | (β Ti): Ti 0.934; AgTi2: Ti 667 (basis unresolved); (α Ti): Ti 0.947 | model | [2] Gierlotka 2023 | Table 5, p. 5, row 7 |  |
 | 1126 | (β Ti) = AgTi2 + (α Ti) | (β Ti): Ti 0.933; AgTi2: Ti 0.667; (α Ti): Ti 0.958 | model | [2] Gierlotka 2023; _cites Arroyave 2004_ | Table 5, p. 5, row 9 |  |
 | 1124 | eutectoid: β(Ti) -> AgTi2 + α(Ti) | β(Ti): Ti 0.916; AgTi2: Ti 0.667; α(Ti): Ti 0.958 | experimental | [1] Li 2005; _cites Eremenko 1969_ | Table 3, p. 4, row 12 |  |
 | 1122 | eutectoid: β(Ti) -> AgTi2 + α(Ti) | β(Ti): Ti 0.917; AgTi2: Ti 0.667; α(Ti): Ti 0.958 | experimental | [1] Li 2005; _cites Adenstedt 1953_ | Table 3, p. 4, row 13 |  |
@@ -127,8 +125,8 @@ Table: Enthalpies of formation, Ag–Ti system (2)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -2.3 unspecified ± 1.1 | 1372 | experimental |  |  | [1] Li 2005; _cites Meschel 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900983-0) | p. 3 | “The standard enthalpies of formation of the compounds AgTi and AgTi2 have been measured by high temperature direct synthesis calorimetry at 1372 K \[18\]. The experimental results are -1.6 ± 2.4 and -2.3 ± 1.1 kJ/mol of atoms for AgTi and AgTi2 respectively.” |
-| — |  | -1.6 unspecified ± 2.4 | 1372 | experimental |  |  | [1] Li 2005; _cites Meschel 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900983-0) | p. 3 | “The standard enthalpies of formation of the compounds AgTi and AgTi2 have been measured by high temperature direct synthesis calorimetry at 1372 K \[18\]. The experimental results are -1.6 ± 2.4 and -2.3 ± 1.1 kJ/mol of atoms for AgTi and AgTi2 respectively.” |
+| — |  | -2.3 unspecified ± 1.1 | 298.15 | experimental |  |  | [1] Li 2005; _cites Meschel 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900983-0) | p. 3 | “The standard enthalpies of formation of the compounds AgTi and AgTi2 have been measured by high temperature direct synthesis calorimetry at 1372 K \[18\]. The experimental results are -1.6 ± 2.4 and -2.3 ± 1.1 kJ/mol of atoms for AgTi and AgTi2 respectively.” |
+| — |  | -1.6 unspecified ± 2.4 | 298.15 | experimental |  |  | [1] Li 2005; _cites Meschel 2003_ [doi](https://doi.org/10.1016/s0925-8388%2802%2900983-0) | p. 3 | “The standard enthalpies of formation of the compounds AgTi and AgTi2 have been measured by high temperature direct synthesis calorimetry at 1372 K \[18\]. The experimental results are -1.6 ± 2.4 and -2.3 ± 1.1 kJ/mol of atoms for AgTi and AgTi2 respectively.” |
 
 ## Other properties
 
@@ -154,7 +152,7 @@ Table: Phase equilibrium, Ag–Ti system
 | Phase composition |  | 1373 | L + β(Ti); _L: Ag 0.937, Ti 0.063; β(Ti): Ag 0.1665, Ti 0.8335_ | experimental | [1] Li 2005 | Table 2, p. 3, row 6 |  |
 | Phase composition |  | 1473 | L + β(Ti); _L: Ag 0.875, Ti 0.125; β(Ti): Ag 0.1923, Ti 0.8077_ | experimental | [1] Li 2005 | Table 2, p. 3, row 7 |  |
 
-### Crystal structure (44)
+### Crystal structure (29)
 
 Table: Crystal structure, Ag–Ti system
 
@@ -164,11 +162,6 @@ Table: Crystal structure, Ag–Ti system
 | Lattice a | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
 | Lattice a | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
 | Lattice a | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice a | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice a | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice a | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice a | 2.818 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice a | 2.97 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
 | Lattice a | 2.9 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
 | Lattice a | 2.904 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
 | Lattice a | 2.96 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
@@ -178,11 +171,6 @@ Table: Crystal structure, Ag–Ti system
 | Lattice b | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
 | Lattice b | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
 | Lattice b | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice b | 2.951 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice b | 2.95 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice b | 2.9064 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice b | 2.818 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice b | 2.97 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
 | Lattice b | 2.9 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
 | Lattice b | 2.904 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 14 |  |
 | Lattice b | 2.96 Å | 0 | AgTi2; _alloy: Ti 0.666667_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 13 |  |
@@ -192,11 +180,6 @@ Table: Crystal structure, Ag–Ti system
 | Lattice c | 2.878 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 8 |  |
 | Lattice c | 2.932 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 6 |  |
 | Lattice c | 2.888 Å | 0 | (Ag); _alloy: Ti 0_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 7 |  |
-| Lattice c | 4.685 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 2 |  |
-| Lattice c | 4.686 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 4 |  |
-| Lattice c | 4.667 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 3 |  |
-| Lattice c | 4.551 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 1 |  |
-| Lattice c | 4.72 Å | 0 | (αTi); _alloy: Ti 1_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 5 |  |
 | Lattice c | 8.15 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 17 |  |
 | Lattice c | 8.12 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 16 |  |
 | Lattice c | 8.14 Å | 0 | AgTi; _alloy: Ti 0.5_ | unspecified | [2] Gierlotka 2023 | Table 3, p. 3, row 15 |  |

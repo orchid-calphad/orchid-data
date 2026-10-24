@@ -13,8 +13,8 @@ Table: Phases of the Mn–O system (16)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [B1_OXIDE](#phase-mn-o-b1-oxide); _phase:mn-o:b1-oxide_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2123.45 K, x(O) 0.5–0.53321 | 80 | 2 |
-| [BCC_A2](#phase-mn-o-bcc-a2); _phase:mn-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0 | 9 | 2 |
-| [CBCC_A12](#phase-mn-o-cbcc-a12); _phase:mn-o:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(O) 0–0 | 17 | 2 |
+| [BCC_A2](#phase-mn-o-bcc-a2); _phase:mn-o:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0 | 0 | 2 |
+| [CBCC_A12](#phase-mn-o-cbcc-a12); _phase:mn-o:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–980 K, x(O) 0–0 | 7 | 2 |
 | [CUB_A13](#phase-mn-o-cub-a13); _phase:mn-o:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 980–1359.99 K, x(O) 0–0 | 0 | 2 |
 | [FCC_A1](#phase-mn-o-fcc-a1); _phase:mn-o:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1359.99–1503.51 K, x(O) 0–0 | 0 | 2 |
 | [GAS](#phase-mn-o-gas); _phase:mn-o:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 1158.26–2500 K, x(O) 0–1 | 0 | 2 |
@@ -86,11 +86,10 @@ _cited as the source of values for this phase_
 - Id: `phase:mn-o:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1411.01–1518.46 K, x(O) 0–0
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-o:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:mn-o:bcc-a2  
-_paper: _paper:10.1007/s11669-003-0004-6:β-, γ-, δ-Mn, paper:10.1007/s11669-003-0004-6:β-Mn  
+Names (3): _corpus: _corpus:phase:mn-o:bcc-a2  
 _tdb: _tdb:MnO-03Gru-LB.tdb:BCC_A2, tdb:MnO-10Kje.tdb:BCC_A2  
 
 
@@ -110,14 +109,12 @@ _tdb: _tdb:MnO-03Gru-LB.tdb:BCC_A2, tdb:MnO-10Kje.tdb:BCC_A2
 58: CONST BCC_A2 : MN : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1007/s11669-003-0004-6](https://doi.org/10.1007/s11669-003-0004-6) A. Nicholas Grundy, Bengt Hallstedt, Ludwig J. Gauckler, Assessment of the Mn-O system, JPE 24, 21-39 (2003).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6) Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010).  
 _assessment that models this phase_
-- [doi:10.1016/0013-4686(67)85035-7](https://doi.org/10.1016/0013-4686%2867%2985035-7) C.B. Alcock, S. Zador, Thermodynamic study of the manganese/ manganous-oxide system by the use of solid oxide electrolytes, Electrochimica Acta 12, 673-677 (1967).  
-_cited as the source of values for this phase_
 
 ## CBCC_A12 (Mn–O)
 
@@ -125,11 +122,11 @@ _cited as the source of values for this phase_
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stoichiometry: Mn 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–980 K, x(O) 0–0
-- Literature: 17 values (17 accepted) from 1 papers
+- Literature: 7 values (7 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-o:cbcc-a12)
 
-Names (7): _corpus: _corpus:phase:mn-o:cbcc-a12  
-_paper: _paper:10.1007/s11669-003-0004-6:Mn, paper:10.1007/s11669-003-0004-6:α-Mn, paper:10.1007/s11669-003-0004-6:γ-Mn, paper:10.1007/s11669-003-0004-6:δ-Mn  
+Names (5): _corpus: _corpus:phase:mn-o:cbcc-a12  
+_paper: _paper:10.1007/s11669-003-0004-6:Mn, paper:10.1007/s11669-003-0004-6:α-Mn  
 _tdb: _tdb:MnO-03Gru-LB.tdb:CBCC_A12, tdb:MnO-10Kje.tdb:CBCC_A12  
 
 

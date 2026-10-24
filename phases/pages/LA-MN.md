@@ -1,32 +1,31 @@
 # La–Mn phases
 
-> La–Mn system: 8 phases (tier A 7, liquid 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> La–Mn system: 7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/LA-MN.html · Markdown: https://data.orchid-project.org/phases/pages/LA-MN.md
 
-8 phases (tier A 7, liquid 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier A 6, liquid 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=LA-MN) · [full JSON](https://data.orchid-project.org/phases/systems/LA-MN.json) · [La–Mn system page](https://data.orchid-project.org/systems/LA-MN.html) · [Markdown](https://data.orchid-project.org/phases/pages/LA-MN.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the La–Mn system (8)
+Table: Phases of the La–Mn system (7)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-la-mn-bcc-a2); _phase:la-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1030–2499.42 K, x(Mn) 0–1 | 8 | 2 |
+| [BCC_A2](#phase-la-mn-bcc-a2); _phase:la-mn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1030–2499.42 K, x(Mn) 0–1 | 7 | 2 |
 | [CBCC_A12](#phase-la-mn-cbcc-a12); _phase:la-mn:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1030.25 K, x(Mn) 0.23–1 | 10 | 2 |
 | [CUB_A13](#phase-la-mn-cub-a13); _phase:la-mn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300.25–1404.99 K, x(Mn) 0.2–1 | 9 | 2 |
-| [DHCP](#phase-la-mn-dhcp); _phase:la-mn:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
-| [DHCP](#phase-la-mn-dhcp-a3); _phase:la-mn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1130 K, x(Mn) 0–0 | 2 | 2 |
-| [FCC_A1](#phase-la-mn-fcc-a1); _phase:la-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1426.01 K, x(Mn) 0–1 | 19 | 2 |
+| [DHCP](#phase-la-mn-dhcp-a3); _phase:la-mn:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1130 K, x(Mn) 0–0 | 0 | 2 |
+| [FCC_A1](#phase-la-mn-fcc-a1); _phase:la-mn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 550–1426.01 K, x(Mn) 0–1 | 16 | 2 |
 | [HCP_A3](#phase-la-mn-hcp-a3); _phase:la-mn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-la-mn-liquid); _phase:la-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 972.01–2500 K, x(Mn) 0–1 | 25 | 2 |
+| [LIQUID](#phase-la-mn-liquid); _phase:la-mn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 972.01–2500 K, x(Mn) 0–1 | 24 | 2 |
 
 ## BCC_A2 (La–Mn)
 
 - Id: `phase:la-mn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1030–2499.42 K, x(Mn) 0–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mn:bcc-a2)
 
 Names (7): _corpus: _corpus:phase:la-mn:bcc-a2  
@@ -137,26 +136,14 @@ _cited as the source of values for this phase_
 
 ## DHCP (La–Mn)
 
-- Id: `phase:la-mn:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mn:dhcp)
-
-Names (1): _corpus: _corpus:phase:la-mn:dhcp  
-
-
-## DHCP (La–Mn)
-
 - Id: `phase:la-mn:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: La 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1130 K, x(Mn) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mn:dhcp-a3)
 
-Names (4): _corpus: _corpus:phase:la-mn:dhcp-a3  
-_paper: _paper:10.2298/jmmb120717049w:(αLa)  
+Names (4): _corpus: _corpus:phase:la-mn:dhcp-a3, corpus:phase:la-mn:dhcp  
 _tdb: _tdb:LaMn-12Wan.tdb:DHCP, tdb:LaMn-16Zhu.tdb:DHCP  
 
 
@@ -179,14 +166,14 @@ _tdb: _tdb:LaMn-12Wan.tdb:DHCP, tdb:LaMn-16Zhu.tdb:DHCP
 Example references (1 of 1; assessments first): 
 
 - [doi:10.2298/JMMB120717049W](https://doi.org/10.2298/JMMB120717049W) Y. Wang, B. Hu, S. Liu, Y. Du, J. Mining Metall. B, 48, 391-94(2012).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (La–Mn)
 
 - Id: `phase:la-mn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 550–1426.01 K, x(Mn) 0–1
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 16 values (16 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mn:fcc-a1)
 
 Names (7): _corpus: _corpus:phase:la-mn:fcc-a1  
@@ -258,7 +245,7 @@ _assessment that models this phase_
 - Id: `phase:la-mn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 972.01–2500 K, x(Mn) 0–1
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:la-mn:liquid)
 
 Names (6): _corpus: _corpus:phase:la-mn:liquid  

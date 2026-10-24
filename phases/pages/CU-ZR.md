@@ -12,7 +12,7 @@ Table: Phases of the Cu–Zr system (22)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-cu-zr-bcc-a2); _phase:cu-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 12 calculated diagram(s): 1086.36–3999.77 K, x(Zr) 0.93095–1 | 76 | 12 |
+| [BCC_A2](#phase-cu-zr-bcc-a2); _phase:cu-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 1086.36–3999.77 K, x(Zr) 0.93095–1 | 72 | 12 |
 | [B2_BCC](#phase-cu-zr-bcc-b2); _phase:cu-zr:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 990.68–2750.11 K, x(Zr) 0.49582–1 | 0 | 1 |
 | [CU10ZR7](#phase-cu-zr-cu10zr7); _phase:cu-zr:cu10zr7_ | Ni10Zr7 · oC68 · Cmce (64) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1210 K, x(Zr) 0.41176–0.41176 | 176 | 11 |
 | [CU24ZR13](#phase-cu-zr-cu24zr13); _phase:cu-zr:cu24zr13_ |  | needs_review | stable in 1 of 2 calculated diagram(s): 1192.06–1269.17 K, x(Zr) 0.35–0.35 | 11 | 2 |
@@ -31,20 +31,20 @@ Table: Phases of the Cu–Zr system (22)
 | [CUZR2](#phase-cu-zr-cuzr2); _phase:cu-zr:cuzr2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 300–1289.88 K, x(Zr) 0.66667–0.66667 | 116 | 10 |
 | [CUZR2_HT](#phase-cu-zr-cuzr2-ht); _phase:cu-zr:cuzr2-ht_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1200.02–1285.32 K, x(Zr) 0.66667–0.66667 | 16 | 1 |
 | [CUZR2_LT](#phase-cu-zr-cuzr2-lt); _phase:cu-zr:cuzr2-lt_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1200.02 K, x(Zr) 0.66667–0.66667 | 9 | 1 |
-| [FCC_A1](#phase-cu-zr-fcc-a1); _phase:cu-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1365.71 K, x(Zr) 0–0.00271 | 58 | 11 |
-| [HCP_A3](#phase-cu-zr-hcp-a3); _phase:cu-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–2701.44 K, x(Zr) 0.97638–1 | 22 | 11 |
+| [FCC_A1](#phase-cu-zr-fcc-a1); _phase:cu-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1365.71 K, x(Zr) 0–0.00271 | 57 | 11 |
+| [HCP_A3](#phase-cu-zr-hcp-a3); _phase:cu-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–2701.44 K, x(Zr) 0.97638–1 | 21 | 11 |
 | [LIQUID](#phase-cu-zr-liquid); _phase:cu-zr:liquid_ | liquid | liquid | stable in 11 of 11 calculated diagram(s): 1153.37–4000 K, x(Zr) 0–1 | 426 | 11 |
 
 ## BCC_A2 (Cu–Zr)
 
 - Id: `phase:cu-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 11 of 12 calculated diagram(s): 1086.36–3999.77 K, x(Zr) 0.93095–1
-- Literature: 76 values (76 accepted) from 6 papers
+- Stability: stable in 11 of 11 calculated diagram(s): 1086.36–3999.77 K, x(Zr) 0.93095–1
+- Literature: 72 values (72 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zr:bcc-a2)
 
-Names (22): _corpus: _corpus:phase:cu-zr:bcc-a2  
-_paper: _paper:10.1007/bf02647618:(βZr), paper:10.1007/s11106-008-9039-x:(βZr), paper:10.1016/j.actamat.2009.12.004:Cu51Zr14-β, paper:10.1016/j.actamat.2009.12.004:bcc, paper:10.1016/j.actamat.2009.12.004:β, paper:10.1016/j.calphad.2006.06.002:(βZr), paper:10.1016/j.jallcom.2011.04.141:BCC A2, paper:10.1016/j.jallcom.2011.04.141:BCC_A2, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+Names (21): _corpus: _corpus:phase:cu-zr:bcc-a2  
+_paper: _paper:10.1007/bf02647618:(βZr), paper:10.1007/s11106-008-9039-x:(βZr), paper:10.1016/j.actamat.2009.12.004:bcc, paper:10.1016/j.actamat.2009.12.004:β, paper:10.1016/j.calphad.2006.06.002:(βZr), paper:10.1016/j.jallcom.2011.04.141:BCC A2, paper:10.1016/j.jallcom.2011.04.141:BCC_A2, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
 _tdb: _tdb:CuZr-06Abe.tdb:BCC_A2, tdb:CuZr-06He.tdb:BCC_A2, tdb:CuZr-06Wan.tdb:BCC_A2, tdb:CuZr-08Tur.tdb:BCC_A2, tdb:CuZr-10Zho.tdb:BCC_A2, tdb:CuZr-11Gie.tdb:BCC_A2, tdb:CuZr-16Hsi.tdb:BCC_A2, tdb:CuZr-17Liu.tdb:BCC_A2, tdb:CuZr-22Zho.tdb:A2_BCC, tdb:CuZr-22Zho.tdb:BCC_A2, tdb:CuZr-85Sau.tdb:BCC_A2, tdb:CuZr-94Zen-LB.tdb:BCC_A2  
 
 
@@ -1278,11 +1278,11 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-zr:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 300–1365.71 K, x(Zr) 0–0.00271
-- Literature: 58 values (58 accepted) from 7 papers
+- Literature: 57 values (57 accepted) from 7 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zr:fcc-a1)
 
-Names (20): _corpus: _corpus:phase:cu-zr:fcc-a1  
-_paper: _paper:10.1007/bf02647618:(Cu), paper:10.1007/s11106-008-9039-x:(Cu), paper:10.1007/s11669-017-0522-2:(Cu), paper:10.1016/j.actamat.2009.12.004:fcc, paper:10.1016/j.actamat.2009.12.004:fcc-Cu, paper:10.1016/j.calphad.2006.06.002:(Cu), paper:10.1016/j.jallcom.2011.04.141:FCC_A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
+Names (19): _corpus: _corpus:phase:cu-zr:fcc-a1  
+_paper: _paper:10.1007/bf02647618:(Cu), paper:10.1007/s11106-008-9039-x:(Cu), paper:10.1007/s11669-017-0522-2:(Cu), paper:10.1016/j.actamat.2009.12.004:fcc, paper:10.1016/j.calphad.2006.06.002:(Cu), paper:10.1016/j.jallcom.2011.04.141:FCC_A1, paper:10.1016/s0364-5916(98)00037-6:fcc-A1  
 _tdb: _tdb:CuZr-06Abe.tdb:FCC_A1, tdb:CuZr-06He.tdb:FCC_A1, tdb:CuZr-06Wan.tdb:FCC_A1, tdb:CuZr-08Tur.tdb:FCC_A1, tdb:CuZr-10Zho.tdb:FCC_A1, tdb:CuZr-11Gie.tdb:FCC_A1, tdb:CuZr-16Hsi.tdb:FCC_A1, tdb:CuZr-17Liu.tdb:FCC_A1, tdb:CuZr-22Zho.tdb:FCC_A1, tdb:CuZr-85Sau.tdb:FCC_A1, tdb:CuZr-94Zen-LB.tdb:FCC_A1  
 
 
@@ -1371,9 +1371,9 @@ Example references (10 of 17; assessments first):
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11669-017-0522-2](https://doi.org/10.1007/s11669-017-0522-2) Yuling Liu, Shuhong Liu, Cong Zhang, Yong Du, Jiong Wang, Yiwei Li, Experimental Investigation and Thermodynamic Description of the Cu-Zr System, J. Phase Equilib. Diffus. 38, 121-134 (2017).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004) S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11106-008-9039-x](https://doi.org/10.1007/s11106-008-9039-x) M. A. Turchanin, P. G. Agraval, A. R. Abdulov, Thermodynamic assessment of the Cu-Ti-Zr system. II. Cu-Zr and Ti-Zr systems, Powder Metall Met Ceram 47, 428-446 (2008).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004) S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.06.002](https://doi.org/10.1016/j.calphad.2006.06.002) Na Wang, Changrong Li, Zhenmin Du, Fuming Wang, Weijing Zhang, The thermodynamic re-assessment of the Cu–Zr system, Calphad 30, 461-469 (2006).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -1393,11 +1393,11 @@ _assessment that models this phase_
 - Id: `phase:cu-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 11 of 11 calculated diagram(s): 300–2701.44 K, x(Zr) 0.97638–1
-- Literature: 22 values (22 accepted) from 6 papers
+- Literature: 21 values (21 accepted) from 6 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-zr:hcp-a3)
 
-Names (19): _corpus: _corpus:phase:cu-zr:hcp-a3  
-_paper: _paper:10.1007/bf02647618:(αZr), paper:10.1007/s11106-008-9039-x:(αZr), paper:10.1016/j.actamat.2009.12.004:hcp, paper:10.1016/j.actamat.2009.12.004:hcp-Zr, paper:10.1016/j.calphad.2006.06.002:(αZr), paper:10.1016/j.jallcom.2011.04.141:HCP_A3, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+Names (18): _corpus: _corpus:phase:cu-zr:hcp-a3  
+_paper: _paper:10.1007/bf02647618:(αZr), paper:10.1007/s11106-008-9039-x:(αZr), paper:10.1016/j.actamat.2009.12.004:hcp, paper:10.1016/j.calphad.2006.06.002:(αZr), paper:10.1016/j.jallcom.2011.04.141:HCP_A3, paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
 _tdb: _tdb:CuZr-06Abe.tdb:HCP_A3, tdb:CuZr-06He.tdb:HCP_A3, tdb:CuZr-06Wan.tdb:HCP_A3, tdb:CuZr-08Tur.tdb:HCP_A3, tdb:CuZr-10Zho.tdb:HCP_A3, tdb:CuZr-11Gie.tdb:HCP_A3, tdb:CuZr-16Hsi.tdb:HCP_A3, tdb:CuZr-17Liu.tdb:HCP_A3, tdb:CuZr-22Zho.tdb:HCP_A3, tdb:CuZr-85Sau.tdb:HCP_A3, tdb:CuZr-94Zen-LB.tdb:HCP_A3  
 
 
@@ -1482,10 +1482,10 @@ _tdb: _tdb:CuZr-06Abe.tdb:HCP_A3, tdb:CuZr-06He.tdb:HCP_A3, tdb:CuZr-06Wan.tdb:H
 
 Example references (10 of 15; assessments first): 
 
-- [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004) S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/BF02647618](https://doi.org/10.1007/BF02647618) K.-J. Zeng, M. Hamalainen, H.L. Lukas, J. Phase Equilib., 15, 577-83(1994).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004) S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.06.002](https://doi.org/10.1016/j.calphad.2006.06.002) Na Wang, Changrong Li, Zhenmin Du, Fuming Wang, Weijing Zhang, The thermodynamic re-assessment of the Cu–Zr system, Calphad 30, 461-469 (2006).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2011.04.141](https://doi.org/10.1016/j.jallcom.2011.04.141) Wojciech Gierlotka, Kai-Chien Zhang, Yuan-Pei Chang, Thermodynamic description of the binary Cu–Zr system, Journal of Alloys and Compounds 509, 8313-8318 (2011).  

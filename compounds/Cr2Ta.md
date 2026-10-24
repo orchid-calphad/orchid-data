@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cr2Ta.html · Markdown: https://
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 3); experimental median -8.5 kJ/mol-atom (n = 1); Materials Project -11.01 kJ/mol-atom (mp-aaaaadnt); OQMD -12.142 kJ/mol-atom (oqmd-18299).
 
-Systems: [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) · [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html)
+Systems: [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html)
 
 ## Literature values
 
@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cr2Ta reported in the literature (5)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -8.5 kJ/mol-atom ± 0.5 | Cr2Ta (LT) | 1693 | experimental |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Feschotte 1964_ [doi](https://doi.org/10.1039/tf9646001941) | Table 4, p. 5, row 1 |  |
-| -8.5 kJ/mol (basis unstated) | Cr2Ta C14 | 0 | experimental | Experiment | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
+| -8.5 kJ/mol (basis unstated) | Cr2Ta C14 | 298.15 | experimental | Experiment | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [2] Pavlů 2009; _cites Feschotte 1964_ | Table 4, p. 4, row 5 |  |
 | -8.93 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 3 |  |
 | -8.596 kJ/mol-atom | Cr2Ta (LT) |  | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993 | Table 4, p. 5, row 4 |  |
 | -5 kJ/mol-atom | Cr2Ta (LT) | 1693 | model |  | [Cr–Ta](https://data.orchid-project.org/systems/CR-TA.html) | [1] Dupin 1993; _cites Kaufman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990032-f) | Table 4, p. 5, row 2 |  |
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Cr2Ta
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -8.5 | kJ/mol-atom | 0.5 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -8.5 | kJ/mol (basis unstated) |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -8.93 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -8.596 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -5 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -8.5 | kJ/mol-atom | 0.5 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -8.5 | kJ/mol (basis unstated) |  | 0.05 | 11.4 (experimental_unspecified, calibrated) |  |  |  | 11.4 |
+| -8.93 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -8.596 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -5 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of Cr2Ta
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaadnt | -11.01 | -0.114112 | Fd-3m | 0 | 0 | no |
-| OQMD | oqmd-18299 | -12.142 | -0.125838 | Fd-3m | 0.006 | 1.000e-4 | no |
+| OQMD | oqmd-18299 | -12.142 | -0.125838 | Fd-3m | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

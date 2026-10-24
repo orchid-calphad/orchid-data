@@ -1,10 +1,10 @@
 # Pt–V system
 
-> Pt–V system: 22 accepted literature values (invariant reaction 22) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pt–V system: 20 accepted literature values (invariant reaction 20) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PT-V.html · Markdown: https://data.orchid-project.org/systems/PT-V.md
 
-22 accepted literature values from 1 paper(s) (experimental 11, model 11); 1 calculated phase diagram(s).
+20 accepted literature values from 1 paper(s) (experimental 10, model 10); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PT-V.json) · [CSV](https://data.orchid-project.org/systems/PT-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PT-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PT-V/PtV-08Wan.json) · [phases (8)](https://data.orchid-project.org/phases/pages/PT-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PT-V.html) · [Markdown](https://data.orchid-project.org/systems/PT-V.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 11 |
+| experimental | 10 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 22 |
+| invariant reaction | 20 |
 
 ## Calculated phase diagrams
 
@@ -45,7 +45,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pt–V system (22)
+Table: Invariant reactions reported in the literature for the Pt–V system (20)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -55,8 +55,6 @@ Table: Invariant reactions reported in the literature for the Pt–V system (22)
 | 2077.15 | other: L -> (Pt) | L: Pt 0.738; (Pt): Pt 0.738 | model | [1] Wang 2008 | Table 5, p. 5, row 20 |  |
 | 2076.15 | peritectic: L + (V) -> PtV3 | L: Pt 0.214; (V): Pt 0.106; PtV3: Pt 0.194 | model | [1] Wang 2008 | Table 5, p. 5, row 4 |  |
 | 2073.15 | peritectic: L + (V) -> PtV3 | L: Pt 0.31; (V): Pt 0.12; PtV3: Pt 0.18 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 3 |  |
-| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 21 |  |
-| 2042.15 | congruent melting: L -> (Pt) | L: Pt 1; (Pt): Pt 1 | model | [1] Wang 2008 | Table 5, p. 5, row 22 |  |
 | 1993.15 | eutectic: L -> (Pt) + PtV3 | L: Pt 0.397; (Pt): Pt 0.435; PtV3: Pt 0.327 | model | [1] Wang 2008 | Table 5, p. 5, row 6 |  |
 | 1993.15 | eutectic: L -> (Pt) + PtV3 | L: Pt 0.37; (Pt): Pt 0.43; PtV3: Pt 0.34 | experimental | [1] Wang 2008; _cites Smith 1989_ | Table 5, p. 5, row 5 |  |
 | 1774.15 | congruent melting: (Pt) -> PtV | (Pt): Pt 0.494; PtV: Pt 0.494 | model | [1] Wang 2008 | Table 5, p. 5, row 10 |  |

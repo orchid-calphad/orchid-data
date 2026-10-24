@@ -13,6 +13,7 @@
   "LA5SI3_D8L",
   "LA5SI4",
   "LASI2_CC",
+  "LASI2_X",
   "LASI_B27",
   "LIQUID"
  ],
@@ -23,6 +24,8 @@
    905.6921941,
    1008.692194,
    1060.192194,
+   1035.692194,
+   1125.192194,
    956.6921941,
    876.1921941,
    790.1921941,
@@ -36,7 +39,9 @@
    1618.192194,
    1777.692194,
    1839.192194,
-   1861.692194
+   1884.692194,
+   1861.692194,
+   1924.692194
   ]
  },
  "output": "ZPF",
@@ -145,6 +150,37 @@
     ],
     [
      0.4722440062
+    ]
+   ]
+  ],
+  [
+   [
+    "LASI_B27",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LASI2_X",
+    [
+     "SI"
+    ],
+    [
+     0.6274110001
+    ]
+   ]
+  ],
+  [
+   [
+    "LASI2_X",
+    [
+     "SI"
+    ],
+    [
+     0.6344185418
     ]
    ]
   ],
@@ -406,6 +442,26 @@
      "SI"
     ],
     [
+     0.5738533603
+    ]
+   ],
+   [
+    "LASI2_X",
+    [
+     "SI"
+    ],
+    [
+     0.6299136935
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
      null
     ]
    ],
@@ -427,6 +483,26 @@
      0.4782504705
     ]
    ]
+  ],
+  [
+   [
+    "LASI2_X",
+    [
+     "SI"
+    ],
+    [
+     0.63892339
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.7022415343
+    ]
+   ]
   ]
  ],
  "reference": "M.V. Bulanova, P.N. Zheltov, K.A. Meleshevich, P.A. Saltykov, G. Effenberg, and J.C. Tedenac, J. Alloys Compd., 329, 214-223 (2001) doi:10.1016/s0925-8388(01)01686-3; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 589",
@@ -444,6 +520,8 @@
    "aspa-32d985560e789751",
    "aspa-4cb7f8cd0346fffd",
    "aspa-3702c66832662112",
+   "aspa-e356529bd1226f06",
+   "aspa-3e7d19eba6d19b18",
    "aspa-c52adefa26237378",
    "aspa-4c1a9b0c488353a7",
    "aspa-7191aed887166897",
@@ -457,12 +535,18 @@
    "aspa-cadd593988352261",
    "aspa-85c888431dab73be",
    "aspa-7914e4d468fd2673",
-   "aspa-afd4448857468929"
+   "aspa-5b32b0f4b76b1f61",
+   "aspa-afd4448857468929",
+   "aspa-faa981413a64d67c"
   ],
   "boundary_basis": [
    "printed_solid",
    "printed_solid",
    "mixed",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -553,6 +637,42 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0270291,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-e356529bd1226f06",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 762.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0630679,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-3e7d19eba6d19b18",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 746.5,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.00600646,
      "sigma_effective": 0.02
     }
    },
@@ -791,6 +911,24 @@
     }
    },
    {
+    "record_id": "aspa-5b32b0f4b76b1f61",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 83.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0265286,
+     "sigma_effective": 0.02
+    }
+   },
+   {
     "record_id": "aspa-afd4448857468929",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -805,6 +943,24 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0210226,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-faa981413a64d67c",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.25,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 52.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672269,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0300323,
      "sigma_effective": 0.02
     }
    }

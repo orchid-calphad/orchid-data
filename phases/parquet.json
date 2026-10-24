@@ -1,13 +1,13 @@
 {
  "table": "registry.parquet",
- "rows": 10496,
- "csv_sha256": "24a8e84070e281123df66aba84ed72691b2d4f50bf52eea60b399ac70bd17823",
- "content_sha256": "c3e5f986f5c038a67db81921bd8e517470bb5e173919a90a061f4ed18628df07",
+ "rows": 10430,
+ "csv_sha256": "b0fb71d208b2c3a9e17cc4a36b0e5d6c8550035aebbe512afab816cc95d22448",
+ "content_sha256": "377423a816c30daaaa2e2a5e69ec31a7ccfded36560e522b00a1b34596c3fd0b",
  "note": "content_sha256 = SHA-256 of the canonical JSON rows (sorted keys); independent of the Parquet encoder",
  "structure_types": {
   "table": "structure_types.parquet",
   "rows": 1563,
-  "csv_sha256": "6188ea383f9444fc24dccc418d7f86fe9b9524f0619fe19653d72060deb5759b",
-  "content_sha256": "f1ab03c68e9bb2b33b11eef025d410e1394356c031c307e1d77d978ead7e5992"
+  "csv_sha256": "cca0040d7c63cac63735437cfdbb39fb8f78a5b2d78c2780dafbf3795d0cf2f3",
+  "content_sha256": "2fe06a061326cebaadd9dc247c37811fdb4010c84f6c2993d71dc1f51036fc49"
  }
 }

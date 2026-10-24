@@ -16,9 +16,9 @@ Table: Phases of the Ho–Te system (8)
 | [BCC_A2](#phase-ho-te-bcc-a2); _phase:ho-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ho-te-fcc-a1); _phase:ho-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-ho-te-hcp-a3); _phase:ho-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1749.37 K, x(Te) 0–0 | 3 | 2 |
-| [HO2TE5](#phase-ho-te-ho2te5); _phase:ho-te:ho2te5_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1076.11 K, x(Te) 0.71429–0.71429 | 12 | 2 |
+| [HO2TE5](#phase-ho-te-ho2te5); _phase:ho-te:ho2te5_ | Nd2Te5 · oC28 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1076.11 K, x(Te) 0.71429–0.71429 | 15 | 2 |
 | [HOTE_B1](#phase-ho-te-hote-b1); _phase:ho-te:hote-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1642.75 K, x(Te) 0.5–0.54701 | 10 | 2 |
-| [HOTE3](#phase-ho-te-hote3); _phase:ho-te:hote3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1052.29 K, x(Te) 0.75–0.75 | 8 | 2 |
+| [HOTE3](#phase-ho-te-hote3); _phase:ho-te:hote3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1052.29 K, x(Te) 0.75–0.75 | 11 | 2 |
 | [LIQUID](#phase-ho-te-liquid); _phase:ho-te:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 722.64–2500 K, x(Te) 0–1 | 11 | 2 |
 
 ## HEXAGONAL_A8 (Ho–Te)
@@ -166,11 +166,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ho 0.2857, Te 0.7143
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1076.11 K, x(Te) 0.71429–0.71429
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-te:ho2te5)
 
-Names (4): _corpus: _corpus:phase:ho-te:ho2te5  
-_paper: _paper:10.1016/j.jallcom.2012.11.084:Ho2Te5  
+Names (5): _corpus: _corpus:phase:ho-te:ho2te5  
+_paper: _paper:10.1007/s11669-023-01051-1:Ho2Te5, paper:10.1016/j.jallcom.2012.11.084:Ho2Te5  
 _tdb: _tdb:HoTe-13Gha.tdb:HO2TE5, tdb:HoTe-23Cui.tdb:HO2TE5  
 
 
@@ -195,7 +195,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1016/j.jallcom.2012.11.084](https://doi.org/10.1016/j.jallcom.2012.11.084) H. Ghamri, A. Belgacem-Bouzida, Y. Djaballah, A. Hidoussi, Thermodynamic assessment of the Ho–Te system supported by ab initio calculations, Journal of Alloys and Compounds 552, 387-391 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## HOTE_B1 (Ho–Te)
 
@@ -243,11 +243,11 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_63_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ho 0.2500, Te 0.7500
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1052.29 K, x(Te) 0.75–0.75
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ho-te:hote3)
 
-Names (4): _corpus: _corpus:phase:ho-te:hote3  
-_paper: _paper:10.1016/j.jallcom.2012.11.084:HoTe3  
+Names (5): _corpus: _corpus:phase:ho-te:hote3  
+_paper: _paper:10.1007/s11669-023-01051-1:HoTe3, paper:10.1016/j.jallcom.2012.11.084:HoTe3  
 _tdb: _tdb:HoTe-13Gha.tdb:HOTE3, tdb:HoTe-23Cui.tdb:HOTE3  
 
 
@@ -272,7 +272,7 @@ Example references (2 of 2; assessments first):
 - [doi:10.1016/j.jallcom.2012.11.084](https://doi.org/10.1016/j.jallcom.2012.11.084) H. Ghamri, A. Belgacem-Bouzida, Y. Djaballah, A. Hidoussi, Thermodynamic assessment of the Ho–Te system supported by ab initio calculations, Journal of Alloys and Compounds 552, 387-391 (2013).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-023-01051-1](https://doi.org/10.1007/s11669-023-01051-1) Dongyu Cui, Jiong Wang, Jiaqiang Zhou, Thermodynamic Modeling of the Te-X (X = Gd, Dy, Ho) Binary Systems Combined with the First-Principles Method, J. Phase Equilib. Diffus. 44, 456-467 (2023).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## LIQUID (Ho–Te)
 

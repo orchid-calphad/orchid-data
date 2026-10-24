@@ -1,22 +1,25 @@
 # FeU6: enthalpy of formation
 
-> Enthalpy of formation of FeU6: 3 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of FeU6: 6 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/FeU6.html · Markdown: https://data.orchid-project.org/compounds/FeU6.md
 
-3 accepted literature formation-enthalpy value(s) (model 3).
+6 accepted literature formation-enthalpy value(s) (model 6).
 
 Systems: [Fe–U](https://data.orchid-project.org/systems/FE-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of FeU6 reported in the literature (3)
+Table: Enthalpy of formation of FeU6 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -26.438 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Okamoto 1993_ [doi](https://doi.org/10.1007/bf02668229) | Table 7, p. 8, row 19 |  |
 | -21.343 kJ/mol (basis unstated) | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Kurata 2003_ | Table 7, p. 8, row 21 |  |
+| -20.931 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 20 |  |
+| -7.312 kJ/mol (basis unstated) | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003 | Table 7, p. 8, row 17 |  |
 | -6.75 kJ/mol (basis unstated) ± 1.3 | FeU6 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Labroche 2000_ | Table 7, p. 8, row 16 |  |
+| -2.33 kJ/mol (basis unstated) ± 0.72 | Fe0.143U0.857 | 298.15 | model |  | [Fe–U](https://data.orchid-project.org/systems/FE-U.html) | [1] Chatain 2003; _cites Ivanov 1962_ | Table 7, p. 8, row 18 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +29,12 @@ Table: Uncertainty budget of the literature values of FeU6
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.438 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -21.343 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -6.75 | kJ/mol (basis unstated) | 1.3 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -26.438 | kJ/mol (basis unstated) |  | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -21.343 | kJ/mol (basis unstated) |  | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -20.931 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -7.312 | kJ/mol (basis unstated) |  | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -6.75 | kJ/mol (basis unstated) | 1.3 | 5.000e-5 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2.33 | kJ/mol (basis unstated) | 0.72 | 5.000e-4 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
 
 ## Sources
 

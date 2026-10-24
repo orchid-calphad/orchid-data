@@ -1,10 +1,10 @@
 # Al–Cr–Ti system
 
-> Al–Cr–Ti system: 135 accepted literature values (phase transition 120, invariant reaction 15) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Cr–Ti system: 133 accepted literature values (phase transition 120, invariant reaction 13) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CR-TI.html · Markdown: https://data.orchid-project.org/systems/AL-CR-TI.md
 
-135 accepted literature values from 1 paper(s) (experimental 76, model 15, unspecified 44); 0 calculated phase diagram(s).
+133 accepted literature values from 1 paper(s) (experimental 76, model 13, unspecified 44); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CR-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-CR-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CR-TI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CR-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-CR-TI.md)
 
@@ -13,19 +13,19 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 76 |
-| model | 15 |
+| model | 13 |
 | unspecified | 44 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 15 |
+| invariant reaction | 13 |
 | phase transition | 120 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Al–Cr–Ti system (15)
+Table: Invariant reactions reported in the literature for the Al–Cr–Ti system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -37,9 +37,7 @@ Table: Invariant reactions reported in the literature for the Al–Cr–Ti syste
 | 1542 | peritectic: L + T -> βCr5Al8 | L: Al 0.639, Cr 0.235; T: Al 0.646, Cr 0.12; βCr5Al8: Al 0.639, Cr 0.227 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 6 |  |
 | 1514 | eutectic: L -> A2 + βCr5Al8 + T | L: Al 0.555, Cr 0.267; A2: Al 0.489, Cr 0.318; βCr5Al8: Al 0.601, Cr 0.258; T: Al 0.617, Cr 0.128 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 7 |  |
 | 1474 | quasi-peritectic: L + T -> ε + βCr5Al8 | L: Al 0.748, Cr 0.2; T: Al 0.666, Cr 0.12; ε: Al 0.748, Cr 0.12; βCr5Al8: Al 0.675, Cr 0.214 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 8 |  |
-| 1333 | quasi-peritectic: βCr5Al8 + γCr5Al8 -> L + αCr5Al8 | βCr5Al8: Al 0.681, Cr 0.319; γCr5Al8: Al 0.68, Cr 0.32; L: Al 0.826, Cr 0.174; αCr5Al8: Al 0.674, Cr 0.326 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 9 |  |
 | 1308 | peritectic: L + ε + βCr5Al8 -> CrAl4 | L: Al 0.835, Cr 0.159; ε: Al 0.75, Cr 0.16; βCr5Al8: Al 0.691, Cr 0.293; CrAl4: Al 0.803, Cr 0.187 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 10 |  |
-| 1306 | quasi-peritectic: L + βCr5Al8 -> αCr5Al8 + CrAl4 | L: Al 0.837, Cr 0.161; βCr5Al8: Al 0.688, Cr 0.307; αCr5Al8: Al 0.679, Cr 0.319; CrAl4: Al 0.803, Cr 0.192 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 11 |  |
 | 1249 | peritectic: L + ε + CrAl4 -> Cr2Al11 | L: Al 0.916, Cr 0.076; ε: Al 0.75, Cr 0.118; CrAl4: Al 0.809, Cr 0.176; Cr2Al11: Al 0.849, Cr 0.131 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 12 |  |
 | 1153 | quasi-peritectic: ε + Cr2Al11 -> L + ε(l) | ε: Al 0.75, Cr 0.067; Cr2Al11: Al 0.865, Cr 0.126; L: Al 0.951, Cr 0.045; ε(l): Al 0.752, Cr 0.065 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 13 |  |
 | 1131 | peritectic: L + ε(l) + Cr2Al11 -> CrAl7 | L: Al 0.959, Cr 0.038; ε(l): Al 0.751, Cr 0.058; Cr2Al11: Al 0.868, Cr 0.125; CrAl7: Al 0.879, Cr 0.112 | model | [1] Witusiewicz 2015 | Table 4, p. 13, row 14 |  |

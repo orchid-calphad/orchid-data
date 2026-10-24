@@ -1,34 +1,33 @@
 # Ca–Ce phases
 
-> Ca–Ce system: 6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ca–Ce system: 5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CA-CE.html · Markdown: https://data.orchid-project.org/phases/pages/CA-CE.md
 
-6 phases (tier A 5, liquid 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 4, liquid 1); 3 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CA-CE) · [full JSON](https://data.orchid-project.org/phases/systems/CA-CE.json) · [Ca–Ce system page](https://data.orchid-project.org/systems/CA-CE.html) · [Markdown](https://data.orchid-project.org/phases/pages/CA-CE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ca–Ce system (6)
+Table: Phases of the Ca–Ce system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-ca-ce-bcc-a2); _phase:ca-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1 | 19 | 2 |
-| [DHCP](#phase-ca-ce-dhcp); _phase:ca-ce:dhcp_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | no calculated diagram | 0 | 0 |
+| [BCC_A2](#phase-ca-ce-bcc-a2); _phase:ca-ce:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1 | 15 | 2 |
 | [DHCP](#phase-ca-ce-dhcp-a3); _phase:ca-ce:dhcp-a3_ | alpha-La · A3' · hP4 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ca-ce-fcc-a1); _phase:ca-ce:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1000 K, x(Ce) 0–1 | 2 | 2 |
 | [HCP_A3](#phase-ca-ce-hcp-a3); _phase:ca-ce:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [LIQUID](#phase-ca-ce-liquid); _phase:ca-ce:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1 | 6 | 2 |
+| [LIQUID](#phase-ca-ce-liquid); _phase:ca-ce:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1 | 5 | 2 |
 
 ## BCC_A2 (Ca–Ce)
 
 - Id: `phase:ca-ce:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 715.65–2499.5 K, x(Ce) 0–1
-- Literature: 19 values (19 accepted) from 2 papers
+- Literature: 15 values (15 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:ca-ce:bcc-a2  
-_paper: _paper:10.1007/s10853-007-2002-2:βCa, paper:10.1016/j.jallcom.2007.09.020:bcc, paper:10.1016/j.jallcom.2007.09.020:bcc(Ca), paper:10.1016/j.jallcom.2007.09.020:bcc(Ce)  
+Names (6): _corpus: _corpus:phase:ca-ce:bcc-a2  
+_paper: _paper:10.1007/s10853-007-2002-2:βCa, paper:10.1016/j.jallcom.2007.09.020:bcc, paper:10.1016/j.jallcom.2007.09.020:bcc(Ca)  
 _tdb: _tdb:CaCe-07Ham.tdb:BCC_A2, tdb:CaCe-08Zha.tdb:BCC_A2  
 
 
@@ -57,17 +56,6 @@ _assessment that models this phase; reports values for this phase_
 
 ## DHCP (Ca–Ce)
 
-- Id: `phase:ca-ce:dhcp`; status `assigned`
-- Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:dhcp)
-
-Names (1): _corpus: _corpus:phase:ca-ce:dhcp  
-
-
-## DHCP (Ca–Ce)
-
 - Id: `phase:ca-ce:dhcp-a3`; status `assigned`
 - Structure: alpha-La · A3' · hP4 · P6_3/mmc (194); type `st:a3-alpha-la-hp4`; tier A: standard phase name; confidence high
 - Stoichiometry: Ce 1.0000
@@ -75,7 +63,7 @@ Names (1): _corpus: _corpus:phase:ca-ce:dhcp
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:dhcp-a3)
 
-Names (3): _corpus: _corpus:phase:ca-ce:dhcp-a3  
+Names (4): _corpus: _corpus:phase:ca-ce:dhcp-a3, corpus:phase:ca-ce:dhcp  
 _tdb: _tdb:CaCe-07Ham.tdb:DHCP, tdb:CaCe-08Zha.tdb:DHCP  
 
 
@@ -178,7 +166,7 @@ _assessment that models this phase_
 - Id: `phase:ca-ce:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 1057–2500 K, x(Ce) 0–1
-- Literature: 6 values (6 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-ce:liquid)
 
 Names (6): _corpus: _corpus:phase:ca-ce:liquid  

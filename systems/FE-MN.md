@@ -1,10 +1,10 @@
 # Fe–Mn system
 
-> Fe–Mn system: 27 accepted literature values (invariant reaction 22, mixing / partial 2, formation 2, phase transition 1) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Mn system: 32 accepted literature values (invariant reaction 22, formation 6, mixing / partial 3, phase transition 1) and 7 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-MN.html · Markdown: https://data.orchid-project.org/systems/FE-MN.md
 
-27 accepted literature values from 5 paper(s) (experimental 9, model 18); 7 calculated phase diagram(s).
+32 accepted literature values from 7 paper(s) (experimental 9, model 20, DFT 3); 7 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-MN.json) · [CSV](https://data.orchid-project.org/systems/FE-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-MN/FeMn-04Wit.json) · [phases (9)](https://data.orchid-project.org/phases/pages/FE-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-MN.html) · [Markdown](https://data.orchid-project.org/systems/FE-MN.md)
 
@@ -13,7 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 9 |
-| model | 18 |
+| model | 20 |
+| DFT | 3 |
 
 Table: Accepted values by property group
 
@@ -21,8 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 22 |
 | phase transition | 1 |
-| formation | 2 |
-| mixing / partial | 2 |
+| formation | 6 |
+| mixing / partial | 3 |
 
 ## Calculated phase diagrams
 
@@ -113,12 +114,16 @@ Table: Invariant reactions reported in the literature for the Fe–Mn system (22
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Mn system (2)
+Table: Enthalpies of formation, Fe–Mn system (6)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| fee |  | -2 kJ/mol (basis unstated) | 1443 | experimental |  |  | [3] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
-| liquid |  | -1 kJ/mol (basis unstated) | 1873 | experimental |  |  | [3] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| C14 Laves FeMn2 |  | 18.636 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 11 |  |
+| C14 Laves FeMn2 | [FeMn2](https://data.orchid-project.org/compounds/FeMn2.html) | 18.653 kJ/mol-atom | 298.15 | model |  | 14.765 (oqmd-1449617) | [3] Zheng 2022 | Table 4, p. 6, row 12 |  |
+| C14 Laves MnFe2 |  | 21.311 kJ/mol-atom | 0 | DFT |  |  | [3] Zheng 2022 | Table 4, p. 6, row 13 |  |
+| C14 Laves MnFe2 | [Fe2Mn](https://data.orchid-project.org/compounds/Fe2Mn.html) | 25.409 kJ/mol-atom | 298.15 | model |  | 16.64 (oqmd-1449732) | [3] Zheng 2022 | Table 4, p. 6, row 14 |  |
+| fee |  | -2 kJ/mol (basis unstated) | 1443 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
+| liquid |  | -1 kJ/mol (basis unstated) | 1873 | experimental |  |  | [4] Huang 1991; _cites ref. 1_ | p. 4 | “For a SO-50 alloy and with the same structure of pure elements as reference give the following enthalpy of formation of the Fe-Mn states, the experiments alloy (1): -1 kJ/mol for liquid at 1873 K, -2 kJ/mol for fee at 1443 K; of the Fe-V alloy (2): -8.6 kJ/mol for liquid at 1873 K, -5.3 kJ/mol for bee at 1623 K.” |
 
 ## Other properties
 
@@ -128,16 +133,17 @@ Table: Phase transition, Fe–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 577 K | 577 | magnetic | experimental | [4] Kjellqvist 2010 | p. 6 | “The magnetic transition temperature was fixed to the experimental value of 577 K, and the Bohr magneton number, 0b, was used as the optimizing parameter to fit the k-peak in the heat capacity curve.” |
+| Phase transition | 577 K | 577 | magnetic | experimental | [5] Kjellqvist 2010 | p. 6 | “The magnetic transition temperature was fixed to the experimental value of 577 K, and the Bohr magneton number, 0b, was used as the optimizing parameter to fit the k-peak in the heat capacity curve.” |
 
-### Mixing / partial (2)
+### Mixing / partial (3)
 
 Table: Mixing / partial, Fe–Mn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Enthalpy of mixing; _printed: heat of mixing_ | -4900 J/m01 | 1400 |  | experimental | [5] Huang 1989; _cites ref. 24_ | p. 2 | “In the 7 phase, a negative heat of mixing at 1400 K with a minimum of -4900 J/m01 was reported by Kendall et al. (24).” |
-| Enthalpy of mixing; _printed: heat of mixing_ | -3 kJ/mol-atom | 1443 |  | experimental | [5] Huang 1989; _cites ref. 4_ | p. 2 | “Recently, Kubitx et al. (4) determined the heat of mixing at 1443. 1073 and 873 K with a minimum of -3000 J/m01 at 1443 K.” |
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.952 kJ/mol-atom |  | fcc; _alloy: Fe 0.5, Mn 0.5_ | DFT | [6] Bracq 2021 | Table 1, p. 4, row 8 |  |
+| Enthalpy of mixing; _printed: heat of mixing_ | -4900 J/m01 | 1400 |  | experimental | [7] Huang 1989; _cites ref. 24_ | p. 2 | “In the 7 phase, a negative heat of mixing at 1400 K with a minimum of -4900 J/m01 was reported by Kendall et al. (24).” |
+| Enthalpy of mixing; _printed: heat of mixing_ | -3 kJ/mol-atom | 1443 |  | experimental | [7] Huang 1989; _cites ref. 4_ | p. 2 | “Recently, Kubitx et al. (4) determined the heat of mixing at 1443. 1073 and 873 K with a minimum of -3000 J/m01 at 1443 K.” |
 
 ## Sources
 
@@ -145,9 +151,11 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. V.T. Witusiewicz, F. Sommer, E.J. Mittemeijer, Reevaluation of the Fe-Mn Phase Diagram, Journal of Phase Equilibria &amp; Diffusion 25, 346-354 (2004). [doi:10.1361/15477030420115](https://doi.org/10.1361/15477030420115)
 2. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
-3. Weiming Huang, A Thermodynamic Analysis of the Mn-V And Fe-Mn-V Systems, Calphad 15, 195-208 (1991). [doi:10.1016/0364-5916(91)90018-f](https://doi.org/10.1016/0364-5916%2891%2990018-f)
-4. Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010). [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6)
-5. Weiming Huang, An assessment of the Fe-Mn system, Calphad 13, 243-252 (1989). [doi:10.1016/0364-5916(89)90004-7](https://doi.org/10.1016/0364-5916%2889%2990004-7)
+3. Weisen Zheng, Wei Song, Tong Wu, Jingya Wang, Yanlin He, Xiao-Gang Lu, Experimental investigation and thermodynamic modeling of the ternary Ti–Fe–Mn system for hydrogen storage applications, Journal of Alloys and Compounds 891, 161957 (2022). [doi:10.1016/j.jallcom.2021.161957](https://doi.org/10.1016/j.jallcom.2021.161957)
+4. Weiming Huang, A Thermodynamic Analysis of the Mn-V And Fe-Mn-V Systems, Calphad 15, 195-208 (1991). [doi:10.1016/0364-5916(91)90018-f](https://doi.org/10.1016/0364-5916%2891%2990018-f)
+5. Lina Kjellqvist, Malin Selleby, Thermodynamic Assessment of the Fe-Mn-O System, J. Phase Equilib. Diffus. 31, 113-134 (2010). [doi:10.1007/s11669-009-9643-6](https://doi.org/10.1007/s11669-009-9643-6)
+6. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
+7. Weiming Huang, An assessment of the Fe-Mn system, Calphad 13, 243-252 (1989). [doi:10.1016/0364-5916(89)90004-7](https://doi.org/10.1016/0364-5916%2889%2990004-7)
 
 ## Please cite
 

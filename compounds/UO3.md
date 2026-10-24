@@ -15,14 +15,14 @@ Table: Enthalpy of formation of UO3 reported in the literature (12)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -317.879 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Mixter 1912_ [doi](https://doi.org/10.1002/zaac.19120780119) | Table 10, p. 8, row 23 |  |
-| -309.407 kJ/mol-atom ± 1.8828 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Vidavskii 1965_ | Table 10, p. 8, row 28 |  |
+| -309.407 kJ/mol-atom ± 0.4707 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Vidavskii 1965_ | Table 10, p. 8, row 28 |  |
 | -307.942 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Burdese 1958_ | Table 10, p. 8, row 30 |  |
-| -307.001 kJ/mol-atom ± 4.184 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27 |  |
-| -306.478 kJ/mol-atom ± 8.368 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 26 |  |
+| -307.001 kJ/mol-atom ± 1.046 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1965_ [doi](https://doi.org/10.1039/tf9656100050) | Table 10, p. 8, row 27 |  |
+| -306.478 kJ/mol-atom ± 2.092 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Rand 1963_ | Table 10, p. 8, row 26 |  |
 | -306.129 kJ/mol-atom | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Biltz 1928_ | Table 10, p. 8, row 24 |  |
-| -306.025 kJ/mol-atom ± 2.6 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32 |  |
-| -305.95 kJ/mol-atom ± 2 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33 |  |
-| -305.746 kJ/mol-atom ± 5.8576 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25 |  |
+| -306.025 kJ/mol-atom ± 0.65 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Johnson 1978_ [doi](https://doi.org/10.1016/0021-9614%2878%2990046-0) | Table 10, p. 8, row 32 |  |
+| -305.95 kJ/mol-atom ± 0.5 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Cordfunke 1988_ | Table 10, p. 8, row 33 |  |
+| -305.746 kJ/mol-atom ± 1.4644 | UO3 | 298.15 | experimental |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002; _cites Fitzgibbon 1967_ [doi](https://doi.org/10.1021/je60032a039) | Table 10, p. 8, row 25 |  |
 | -305.95 kJ/mol-atom | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002 | Table 4, p. 9, row 7 |  |
 | -305.95 kJ/mol-atom | UO3 | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [1] Chevalier 2002 | Table 10, p. 8, row 34 |  |
 | -304.375 kJ/mol-atom ± 0.75 | UO3 (s) | 298.15 | model |  | [O–U](https://data.orchid-project.org/systems/O-U.html) | [2] Guéneau 2002; _cites Grenthe 1992_ | Table 4, p. 9, row 8 |  |
@@ -35,18 +35,18 @@ Table: Uncertainty budget of the literature values of UO3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -317.879 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -309.407 | kJ/mol-atom | 1.883 | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -307.942 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -307.001 | kJ/mol-atom | 4.184 | 1.250e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.184 |
-| -306.478 | kJ/mol-atom | 8.368 | 1.250e-4 | 4.1 (unknown, calibrated) |  |  |  | 8.368 |
-| -306.129 | kJ/mol-atom |  | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -306.025 | kJ/mol-atom | 2.6 | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -305.95 | kJ/mol-atom | 2 | 0.0125 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -305.746 | kJ/mol-atom | 5.858 | 1.250e-5 | 4.1 (unknown, calibrated) |  |  |  | 5.858 |
-| -305.95 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -305.95 | kJ/mol-atom |  | 0.0125 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -304.375 | kJ/mol-atom | 0.75 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -317.879 | kJ/mol-atom |  | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -309.407 | kJ/mol-atom | 0.4707 | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -307.942 | kJ/mol-atom |  | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -307.001 | kJ/mol-atom | 1.046 | 1.250e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -306.478 | kJ/mol-atom | 2.092 | 1.250e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -306.129 | kJ/mol-atom |  | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -306.025 | kJ/mol-atom | 0.65 | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -305.95 | kJ/mol-atom | 0.5 | 0.0125 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -305.746 | kJ/mol-atom | 1.464 | 1.250e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -305.95 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -305.95 | kJ/mol-atom |  | 0.0125 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -304.375 | kJ/mol-atom | 0.75 | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Gd–H phases
 
-> Gd–H system: 5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Gd–H system: 5 phases (tier A 1, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/GD-H.html · Markdown: https://data.orchid-project.org/phases/pages/GD-H.md
 
-5 phases (tier A 2, liquid 1, gas 1, needs_review 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+5 phases (tier A 1, liquid 1, gas 1, needs_review 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=GD-H) · [full JSON](https://data.orchid-project.org/phases/systems/GD-H.json) · [Gd–H system page](https://data.orchid-project.org/systems/GD-H.html) · [Markdown](https://data.orchid-project.org/phases/pages/GD-H.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the Gd–H system (5)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-gd-h-bcc-a2); _phase:gd-h:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1221.91–1586.6 K, x(H) 0–0.00033 | 0 | 1 |
-| [FCC_A1](#phase-gd-h-fcc-a1); _phase:gd-h:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081 | 2 | 1 |
+| [FCC_A1](#phase-gd-h-fcc-a1); _phase:gd-h:fcc-a1_ | CaF2 · C1 · cF12 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081 | 2 | 1 |
 | [GAS](#phase-gd-h-gas); _phase:gd-h:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300–2500 K, x(H) 1–1 | 2 | 1 |
 | [HCP_A3](#phase-gd-h-hcp-a3); _phase:gd-h:hcp-a3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1916.51 K, x(H) 0–0.75 | 2 | 1 |
 | [LIQUID](#phase-gd-h-liquid); _phase:gd-h:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1586.6–2500 K, x(H) 0–0.00509 | 0 | 1 |
@@ -47,7 +47,7 @@ _assessment that models this phase_
 ## FCC_A1 (Gd–H)
 
 - Id: `phase:gd-h:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: CaF2 · C1 · cF12 · Fm-3m (225); type `st:c1-caf2-cf12`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1468.03 K, x(H) 0.52934–0.70081
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:gd-h:fcc-a1)

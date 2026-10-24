@@ -12,7 +12,7 @@ Table: Phases of the Ag–Sm system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AG2SM_ALPHA](#phase-ag-sm-ag2sm-alpha); _phase:ag-sm:ag2sm-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333 | 9 | 1 |
+| [AG2SM_ALPHA](#phase-ag-sm-ag2sm-alpha); _phase:ag-sm:ag2sm-alpha_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333 | 8 | 1 |
 | [AG2SM_BETA](#phase-ag-sm-ag2sm-beta); _phase:ag-sm:ag2sm-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 966.92–1061.99 K, x(Sm) 0.33333–0.33333 | 6 | 1 |
 | [AG51SM14](#phase-ag-sm-ag51sm14); _phase:ag-sm:ag51sm14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1214.39 K, x(Sm) 0.21538–0.21538 | 14 | 1 |
 | [AGSM_B2](#phase-ag-sm-agsm-b2); _phase:ag-sm:agsm-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1226.63 K, x(Sm) 0.5–0.5 | 13 | 1 |
@@ -30,7 +30,7 @@ Table: Phases of the Ag–Sm system (9)
 - Candidate (sgte_mmc2): (Ag2Sm-alpha) — Hallstedt 2025 mmc2 row for AG2SM_ALPHA: Ag2Sm-alpha
 - Stoichiometry: Ag 0.6667, Sm 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–966.92 K, x(Sm) 0.33333–0.33333
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-sm:ag2sm-alpha)
 
 Names (4): _corpus: _corpus:phase:ag-sm:ag2sm-alpha  

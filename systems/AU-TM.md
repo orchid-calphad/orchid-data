@@ -1,10 +1,10 @@
 # Au–Tm system
 
-> Au–Tm system: 22 accepted literature values (invariant reaction 22) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Au–Tm system: 54 accepted literature values (invariant reaction 22, formation 16, crystal structure 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AU-TM.html · Markdown: https://data.orchid-project.org/systems/AU-TM.md
 
-22 accepted literature values from 1 paper(s) (experimental 11, model 11); 1 calculated phase diagram(s).
+54 accepted literature values from 1 paper(s) (experimental 30, model 18, DFT 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AU-TM.json) · [CSV](https://data.orchid-project.org/systems/AU-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AU-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AU-TM/AuTm-12Don.json) · [phases (11)](https://data.orchid-project.org/phases/pages/AU-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AU-TM.html) · [Markdown](https://data.orchid-project.org/systems/AU-TM.md)
 
@@ -12,14 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 11 |
+| experimental | 30 |
+| model | 18 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 22 |
+| formation | 16 |
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -80,6 +83,56 @@ Table: Invariant reactions reported in the literature for the Au–Tm system (22
 | 1301 | L \<=> Tm(hcp) + AuTm2 | L: Au 0.215; Tm(hcp): Au 0.005; AuTm2: Au 0.333333, Tm 0.666667 | model | [1] Dong 2012 | Table 3, p. 3, row 2 |  |
 | 1113 | L \<=> Au4Tm + Au(fcc) | L: Au 0.886; Au4Tm: Au 0.8, Tm 0.2; Au(fcc): Au 0.926 | model | [1] Dong 2012 | Table 3, p. 3, row 22 |  |
 | 1113 | L \<=> Au4Tm + Au(fcc) | L: Au 0.89; Au4Tm: Au 0.8, Tm 0.2; Au(fcc): Au 0.935 | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 3, p. 3, row 21 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Au–Tm system (16)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Au10Tm7 |  | -87.6 kJ/mol-atom | 298.15 | model |  |  | [1] Dong 2012 | Table 1, p. 2, row 47 |  |
+| Au2Tm | [Au2Tm](https://data.orchid-project.org/compounds/Au2Tm.html) | -91.6 kJ/mol-atom ± 2.3 | 298.15 | experimental | -85.835 (mp-aaaaaavo) | -85.794 (oqmd-1895441) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 50 |  |
+| Au2Tm | [Au2Tm](https://data.orchid-project.org/compounds/Au2Tm.html) | -82.7 kJ/mol-atom | 298.15 | model | -85.835 (mp-aaaaaavo) | -85.794 (oqmd-1895441) | [1] Dong 2012 | Table 1, p. 2, row 51 |  |
+| Au2Tm |  | -59.4 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 49 |  |
+| Au3Tm | [Au3Tm](https://data.orchid-project.org/compounds/Au3Tm.html) | -72.7 kJ/mol-atom ± 2.1 | 298.15 | experimental | -69.952 (mp-aaabgipr) | -70.135 (oqmd-28227) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 54 |  |
+| Au3Tm |  | -71.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 53 |  |
+| Au3Tm | [Au3Tm](https://data.orchid-project.org/compounds/Au3Tm.html) | -69.2 kJ/mol-atom | 298.15 | model | -69.952 (mp-aaabgipr) | -70.135 (oqmd-28227) | [1] Dong 2012 | Table 1, p. 2, row 55 |  |
+| Au4Tm | [Au4Tm](https://data.orchid-project.org/compounds/Au4Tm.html) | -61.6 kJ/mol-atom | 298.15 | model | -58.494 (mp-aaaciuki) | -58.268 (oqmd-28228) | [1] Dong 2012 | Table 1, p. 2, row 58 |  |
+| Au4Tm |  | -59.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 57 |  |
+| AuTm2 | [AuTm2](https://data.orchid-project.org/compounds/AuTm2.html) | -70 kJ/mol-atom | 298.15 | model | -63.921 (mp-aaackivy) | -64.161 (oqmd-1800555) | [1] Dong 2012 | Table 1, p. 2, row 38 |  |
+| AuTm2 |  | -65.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 37 |  |
+| αAuTm | [AuTm](https://data.orchid-project.org/compounds/AuTm.html) | -92.8 kJ/mol-atom ± 1.9 | 298.15 | experimental | -87.323 (mp-aaacfxex) | -87.084 (oqmd-28226) | [1] Dong 2012; _cites Meschel 2004_ [doi](https://doi.org/10.1016/s0925-8388%2803%2900527-9) | Table 1, p. 2, row 41 |  |
+| αAuTm | [AuTm](https://data.orchid-project.org/compounds/AuTm.html) | -90.5 kJ/mol-atom | 298.15 | model | -87.323 (mp-aaacfxex) | -87.084 (oqmd-28226) | [1] Dong 2012 | Table 1, p. 2, row 42 |  |
+| αAuTm |  | -90 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 40 |  |
+| βAuTm |  | -87.5 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2012 | Table 1, p. 2, row 44 |  |
+| βAuTm | [AuTm](https://data.orchid-project.org/compounds/AuTm.html) | -68.9 kJ/mol-atom | 298.15 | model | -87.323 (mp-aaacfxex) | -87.084 (oqmd-28226) | [1] Dong 2012 | Table 1, p. 2, row 45 |  |
+
+## Other properties
+
+### Crystal structure (16)
+
+Table: Crystal structure, Au–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: lattice parameter a_ | 10.08 Å | 298.15 | Au10Tm7; _alloy: Tm 0.411765_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 48 |  |
+| Lattice a; _printed: a_ | 3.644 Å | 298.15 | Au2Tm; _alloy: Tm 0.333333_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 52 |  |
+| Lattice a; _printed: a_ | 6.016 Å | 298.15 | Au3Tm; _alloy: Tm 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 56 |  |
+| Lattice a; _printed: a_ | 6.634 Å | 298.15 | Au4Tm; _alloy: Tm 0.2_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 59 |  |
+| Lattice a; _printed: a_ | 6.958 Å | 298.15 | AuTm2; _alloy: Tm 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 39 |  |
+| Lattice a; _printed: a_ | 3.62 Å | 298.15 | αAuTm; _alloy: Tm 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 43 |  |
+| Lattice a; _printed: a_ | 3.519 Å | 298.15 | βAuTm; _alloy: Tm 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 46 |  |
+| Lattice b; _printed: lattice parameter b_ | 4.943 Å | 298.15 | Au3Tm; _alloy: Tm 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 56 |  |
+| Lattice b; _printed: lattice parameter b_ | 4.834 Å | 298.15 | AuTm2; _alloy: Tm 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 39 |  |
+| Lattice b; _printed: lattice parameter b_ | 10.78 Å | 298.15 | αAuTm; _alloy: Tm 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 43 |  |
+| Lattice c; _printed: c_ | 27.48 Å | 298.15 | Au10Tm7; _alloy: Tm 0.411765_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 48 |  |
+| Lattice c; _printed: lattice parameter c_ | 8.896 Å | 298.15 | Au2Tm; _alloy: Tm 0.333333_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 52 |  |
+| Lattice c; _printed: c_ | 5.071 Å | 298.15 | Au3Tm; _alloy: Tm 0.25_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 56 |  |
+| Lattice c; _printed: c_ | 4.141 Å | 298.15 | Au4Tm; _alloy: Tm 0.2_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 59 |  |
+| Lattice c; _printed: lattice parameter c_ | 8.767 Å | 298.15 | AuTm2; _alloy: Tm 0.666667_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 39 |  |
+| Lattice c; _printed: c_ | 4.57 Å | 298.15 | αAuTm; _alloy: Tm 0.5_ | experimental | [1] Dong 2012; _cites Saccone 2002_ [doi](https://doi.org/10.1016/s0966-9795%2802%2900093-6) | Table 1, p. 2, row 43 |  |
 
 ## Sources
 

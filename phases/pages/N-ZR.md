@@ -1,10 +1,10 @@
 # N–Zr phases
 
-> N–Zr system: 6 phases (tier A 3, liquid 1, gas 2); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> N–Zr system: 6 phases (tier A 2, liquid 1, gas 2, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/N-ZR.html · Markdown: https://data.orchid-project.org/phases/pages/N-ZR.md
 
-6 phases (tier A 3, liquid 1, gas 2); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 2, liquid 1, gas 2, interstitial_fcc_a1_compound 1); 6 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=N-ZR) · [full JSON](https://data.orchid-project.org/phases/systems/N-ZR.json) · [N–Zr system page](https://data.orchid-project.org/systems/N-ZR.html) · [Markdown](https://data.orchid-project.org/phases/pages/N-ZR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -13,7 +13,7 @@ Table: Phases of the N–Zr system (6)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-n-zr-bcc-a2); _phase:n-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1139.03–2153.32 K, x(N) 0–0.06386 | 2 | 2 |
-| [FCC_A1](#phase-n-zr-fcc-a1); _phase:n-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3300.91 K, x(N) 0.38143–0.5 | 12 | 2 |
+| [FCC_A1](#phase-n-zr-fcc-a1); _phase:n-zr:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 2 of 2 calculated diagram(s): 300–3300.91 K, x(N) 0.38143–0.5 | 12 | 2 |
 | [GAS](#phase-n-zr-gas); _phase:n-zr:gas_ | gas | gas | stable in 2 of 2 calculated diagram(s): 300.24–4000 K, x(N) 0.97934–1 | 0 | 2 |
 | [HCP_A3](#phase-n-zr-hcp-a3); _phase:n-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2272.29 K, x(N) 0–0.23084 | 2 | 2 |
 | [LIQUID](#phase-n-zr-liquid); _phase:n-zr:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2032.86–4000 K, x(N) 0–0.37367 | 0 | 2 |
@@ -58,7 +58,7 @@ _assessment that models this phase_
 ## FCC_A1 (N–Zr)
 
 - Id: `phase:n-zr:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3300.91 K, x(N) 0.38143–0.5
 - Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:n-zr:fcc-a1)

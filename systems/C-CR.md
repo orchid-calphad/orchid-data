@@ -144,18 +144,18 @@ Table: Heat capacity / entropy / enthalpy, C–Cr system
 | Heat capacity; _printed: °Cp(298.15)_ | 209.748 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites JANAF 1975_ | Table II, p. 5, row 11 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 263.3 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 12 |  |
 | Heat capacity; _printed: °Cp(298.15)_ | 224.66 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [5] Lee 1992 | Table 2, p. 11, row 8 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 635382 unknown | 298.15 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 21 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 1121000 unknown | 298.15 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | model | [3] Kajihara 1990 | Table II, p. 5, row 24 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 661900 unknown | 298.15 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | model | [3] Kajihara 1990 | Table II, p. 5, row 22 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 1039810 unknown | 298.15 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 23 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 107700 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | model | [3] Kajihara 1990 | Table II, p. 5, row 6 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 161670 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 7 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 104098 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 5 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 168500 unknown | 298.15 | Cr3C2; _alloy: Cr 0.6_ | model | [3] Kajihara 1990 | Table II, p. 5, row 8 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 376300 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 16 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 220500 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 14 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 208698 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 13 |  |
-| Heat content; _printed: °H(T) - °H(298.15)_ | 376978 unknown | 298.15 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 15 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 635382 unknown | 1070 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 21 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 661900 unknown | 1070 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | model | [3] Kajihara 1990 | Table II, p. 5, row 22 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 220500 unknown | 1080 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 14 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 208698 unknown | 1080 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 13 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 107700 unknown | 1085 | Cr3C2; _alloy: Cr 0.6_ | model | [3] Kajihara 1990 | Table II, p. 5, row 6 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 104098 unknown | 1085 | Cr3C2; _alloy: Cr 0.6_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 5 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 161670 unknown | 1459 | Cr3C2; _alloy: Cr 0.6_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 7 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 168500 unknown | 1459 | Cr3C2; _alloy: Cr 0.6_ | model | [3] Kajihara 1990 | Table II, p. 5, row 8 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 1121000 unknown | 1484 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | model | [3] Kajihara 1990 | Table II, p. 5, row 24 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 1039810 unknown | 1484 | Cr23C6 + Cr; _alloy: Cr 0.793103_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 23 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 376300 unknown | 1578 | Cr7C3; _alloy: Cr 0.7_ | model | [3] Kajihara 1990 | Table II, p. 5, row 16 |  |
+| Heat content; _printed: °H(T) - °H(298.15)_ | 376978 unknown | 1578 | Cr7C3; _alloy: Cr 0.7_ | experimental | [3] Kajihara 1990; _cites Kelley 1949_ | Table II, p. 5, row 15 |  |
 
 ### Activity / EMF / Gibbs energy (25)
 

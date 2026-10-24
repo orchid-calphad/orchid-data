@@ -12,8 +12,8 @@ Table: Phases of the Bi–Si system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-bi-si-a4-diamond); _phase:bi-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1686.57 K, x(Si) 0.99997–1 | 2 | 1 |
-| [RHOMBOHEDRAL_A7](#phase-bi-si-a7-rhombohedral); _phase:bi-si:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Si) 0–0 | 2 | 1 |
+| [DIAMOND_A4](#phase-bi-si-a4-diamond); _phase:bi-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1686.57 K, x(Si) 0.99997–1 | 0 | 1 |
+| [RHOMBOHEDRAL_A7](#phase-bi-si-a7-rhombohedral); _phase:bi-si:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Si) 0–0 | 0 | 1 |
 | [BCC_A2](#phase-bi-si-bcc-a2); _phase:bi-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_A1](#phase-bi-si-fcc-a1); _phase:bi-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-bi-si-hcp-a3); _phase:bi-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -24,11 +24,10 @@ Table: Phases of the Bi–Si system (6)
 - Id: `phase:bi-si:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1686.57 K, x(Si) 0.99997–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-si:a4-diamond)
 
-Names (4): _corpus: _corpus:phase:bi-si:a4-diamond, corpus:phase:bi-si:diamond-a4  
-_paper: _paper:10.1007/bf02880522:Si-rich liquid  
+Names (3): _corpus: _corpus:phase:bi-si:a4-diamond, corpus:phase:bi-si:diamond-a4  
 _tdb: _tdb:BiSi-85Ole-LB.tdb:DIAMOND_A4  
 
 
@@ -44,7 +43,7 @@ _tdb: _tdb:BiSi-85Ole-LB.tdb:DIAMOND_A4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02880522](https://doi.org/10.1007/BF02880522) R.W. Olesinski, G.J. Abbaschian, Bull. Alloy Phase Diagrams, 6, 359-61(1985).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## RHOMBOHEDRAL_A7 (Bi–Si)
 
@@ -52,11 +51,10 @@ _assessment that models this phase; reports values for this phase_
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stoichiometry: Bi 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–544.55 K, x(Si) 0–0
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-si:a7-rhombohedral)
 
-Names (3): _corpus: _corpus:phase:bi-si:a7-rhombohedral  
-_paper: _paper:10.1007/bf02880522:Bi-rich liquid  
+Names (2): _corpus: _corpus:phase:bi-si:a7-rhombohedral  
 _tdb: _tdb:BiSi-85Ole-LB.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -72,7 +70,7 @@ _tdb: _tdb:BiSi-85Ole-LB.tdb:RHOMBOHEDRAL_A7
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02880522](https://doi.org/10.1007/BF02880522) R.W. Olesinski, G.J. Abbaschian, Bull. Alloy Phase Diagrams, 6, 359-61(1985).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## BCC_A2 (Bi–Si)
 

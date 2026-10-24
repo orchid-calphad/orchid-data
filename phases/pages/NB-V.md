@@ -12,7 +12,7 @@ Table: Phases of the Nb–V system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-nb-v-bcc-a2); _phase:nb-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.25 K, x(V) 0–1 | 8 | 2 |
+| [BCC_A2](#phase-nb-v-bcc-a2); _phase:nb-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.25 K, x(V) 0–1 | 6 | 2 |
 | [FCC_A1](#phase-nb-v-fcc-a1); _phase:nb-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-nb-v-hcp-a3); _phase:nb-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-nb-v-liquid); _phase:nb-v:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 2130.84–4000 K, x(V) 0–1 | 0 | 2 |
@@ -22,11 +22,11 @@ Table: Phases of the Nb–V system (4)
 - Id: `phase:nb-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–3999.25 K, x(V) 0–1
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:nb-v:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:nb-v:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2018.07.254:βNb, paper:10.1016/j.jallcom.2018.07.254:βNb (G), paper:10.1016/j.jallcom.2018.07.254:βV  
+Names (5): _corpus: _corpus:phase:nb-v:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2018.07.254:βNb, paper:10.1016/j.jallcom.2018.07.254:βV  
 _tdb: _tdb:NbV-18Gao.tdb:BCC_A2, tdb:NbV-94Har-LB.tdb:BCC_A2  
 
 

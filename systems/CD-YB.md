@@ -1,19 +1,20 @@
 # Cd–Yb system
 
-> Cd–Yb system: 44 accepted literature values (invariant reaction 39, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cd–Yb system: 71 accepted literature values (invariant reaction 39, crystal structure 18, formation 9, phase transition 5) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CD-YB.html · Markdown: https://data.orchid-project.org/systems/CD-YB.md
 
-44 accepted literature values from 1 paper(s) (experimental 27, model 17); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 1 paper(s) (experimental 39, model 24, DFT 8); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-YB/CdYb-17Kal.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-YB.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-YB.json) · [CSV](https://data.orchid-project.org/systems/CD-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-YB/CdYb-17Kal.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CD-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-YB.html) · [Markdown](https://data.orchid-project.org/systems/CD-YB.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 27 |
-| model | 17 |
+| experimental | 39 |
+| model | 24 |
+| DFT | 8 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 39 |
 | phase transition | 5 |
+| formation | 9 |
+| crystal structure | 18 |
 
 ## Calculated phase diagrams
 
@@ -105,6 +108,24 @@ Table: Invariant reactions reported in the literature for the Cd–Yb system (39
 | 590 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.99; YbCd6: Cd 0.857; (Cd): Cd 1 | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 4, p. 6, row 19 |  |
 | 569.07 | eutectic: Liquid \<-> YbCd6 + (Cd) | L: Cd 0.975; YbCd6: Cd 0.857; (Cd): Cd 1 | model | [1] Kali-Ali 2017 | Table 4, p. 6, row 18 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cd–Yb system (9)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Yb14Cd51 | [Cd51Yb14](https://data.orchid-project.org/compounds/Cd51Yb14.html) | -27.85 kJ/mol-atom |  | model |  | -30.302 (oqmd-2141572) | [1] Kali-Ali 2017 | Table 2, p. 4, row 7 |  |
+| Yb3Cd8 |  | -33.2 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 6 |  |
+| YbCd |  | -42.451 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 1 |  |
+| YbCd | [CdYb](https://data.orchid-project.org/compounds/CdYb.html) | -42.021 kJ/mol-atom |  | model |  | -40.454 (oqmd-29044) | [1] Kali-Ali 2017 | Table 2, p. 4, row 2 |  |
+| YbCd5.7 |  | -21.603 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 8 |  |
+| YbCd6 |  | -20.973 kJ/mol-atom |  | model |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 9 |  |
+| αYbCd2 |  | -36.684 kJ/mol-atom | 0 | DFT |  |  | [1] Kali-Ali 2017 | Table 2, p. 4, row 3 |  |
+| αYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -36.196 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 4 |  |
+| βYbCd2 | [Cd2Yb](https://data.orchid-project.org/compounds/Cd2Yb.html) | -35.58 kJ/mol-atom |  | model |  | -36.261 (oqmd-1377351) | [1] Kali-Ali 2017 | Table 2, p. 4, row 5 |  |
+
 ## Other properties
 
 ### Phase transition (5)
@@ -118,6 +139,31 @@ Table: Phase transition, Cd–Yb system
 | Phase transition | 968 K | 968 | polymorphic | experimental | [1] Kali-Ali 2017 | p. 2 | “A polymorphic transition of YbCd2 was detected at 968 K.” |
 | Phase transition | 976 K | 976 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
 | Phase transition | 1069 K | 1069 | congruent transformation | experimental | [1] Kali-Ali 2017 | p. 2 | “Four of them, YbCd, YbCd2,Yb14Cd51 and YbCd5.7 melt congruently at 1069, 976, 928 and 909 K respectively while the other two, Yb3Cd8 and YbCd6, form through peritectic reactions at 927 and 887 K respectively.” |
+
+### Crystal structure (18)
+
+Table: Crystal structure, Cd–Yb system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice a | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice a | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice a | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice a | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice a | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice b | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice b | 6.03 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice b | 13.44 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice b | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice b | 5.98 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice b | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
+| Lattice c | 3.78 Å | 0 | YbCd; _YbCd: Cd 0.5_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 6 |  |
+| Lattice c | 9.59 Å | 0 | YbCd2; _YbCd2: Cd 0.667_ | DFT | [1] Kali-Ali 2017 | Table 1, p. 3, row 8 |  |
+| Lattice c | 9.65 Å | 298.15 | Yb14Cd51; _Yb14Cd51: Cd 0.785_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 10 |  |
+| Lattice c | 3.8 Å | 298.15 | YbCd; _YbCd: Cd 0.5_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 5 |  |
+| Lattice c | 9.59 Å | 298.15 | YbCd2; _YbCd2: Cd 0.667_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 7 |  |
+| Lattice c | 15.63 Å | 298.15 | YbCd6; _YbCd6: Cd 0.857_ | experimental | [1] Kali-Ali 2017; _cites Palenzona 1971_ [doi](https://doi.org/10.1016/0022-5088%2871%2990179-2) | Table 1, p. 3, row 12 |  |
 
 ## Sources
 

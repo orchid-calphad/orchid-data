@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/SiY.html · Markdown: https://da
 
 7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -84.9 kJ/mol-atom (n = 2); Materials Project -78.793 kJ/mol-atom (mp-aaaaaoto); OQMD -82.308 kJ/mol-atom (oqmd-1338441).
 
-Systems: [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html)
+Systems: [Si–Y](https://data.orchid-project.org/systems/SI-Y.html)
 
 ## Literature values
 
@@ -14,13 +14,13 @@ Table: Enthalpy of formation of SiY reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -89.1 kJ/mol-atom ± 4 | YSi | 298.15 | experimental |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
-| -80.7 kJ/mol-atom ± 1.3 | YSi | 298.15 | experimental |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 11 |  |
-| -86.5 kJ/mol-atom | YSi |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
-| -81.89 kJ/mol-atom | YSi |  | model | CALPHAD | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 6 |  |
-| -78 kJ/mol-atom | YSi |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 14 |  |
-| -61.92 kJ/mol-atom | YSi |  | model |  | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
-| -81.89 kJ/mol-atom | YSi | 0 | DFT | First principles | [C–Si–Y](https://data.orchid-project.org/systems/C-SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 5 |  |
+| -89.1 kJ/mol-atom ± 4 | YSi | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Polotskaya 1997_ [doi](https://doi.org/10.1007/bf02676225) | Table 2, p. 3, row 10 |  |
+| -80.7 kJ/mol-atom ± 1.3 | YSi | 298.15 | experimental |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900504-0) | Table 2, p. 3, row 11 |  |
+| -86.5 kJ/mol-atom | YSi |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Shukla 2009_ [doi](https://doi.org/10.3139/146.110003) | Table 2, p. 3, row 12 |  |
+| -81.89 kJ/mol-atom | YSi |  | model | CALPHAD | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 6 |  |
+| -78 kJ/mol-atom | YSi |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Niessen 1981_ [doi](https://doi.org/10.1016/0022-5088%2881%2990200-9) | Table 2, p. 3, row 14 |  |
+| -61.92 kJ/mol-atom | YSi |  | model |  | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019; _cites Ran 1989_ | Table 2, p. 3, row 13 |  |
+| -81.89 kJ/mol-atom | YSi | 0 | DFT | First principles | [Si–Y](https://data.orchid-project.org/systems/SI-Y.html) | [1] Xu 2019 | Table 3, p. 3, row 5 |  |
 
 ### Uncertainty budget
 
@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of SiY
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -89.1 | kJ/mol-atom | 4 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -80.7 | kJ/mol-atom | 1.3 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -86.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -81.89 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -78 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -61.92 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -81.89 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -89.1 | kJ/mol-atom | 4 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 4 |
+| -80.7 | kJ/mol-atom | 1.3 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -86.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -81.89 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -78 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -61.92 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -81.89 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

@@ -1,10 +1,10 @@
 # Gd–Mn system
 
-> Gd–Mn system: 68 accepted literature values (invariant reaction 38, phase transition 24, phase equilibrium 6) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Mn system: 71 accepted literature values (invariant reaction 38, phase transition 24, phase equilibrium 6, formation 3) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-MN.html · Markdown: https://data.orchid-project.org/systems/GD-MN.md
 
-68 accepted literature values from 1 paper(s) (experimental 40, model 19, unspecified 9); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 2 paper(s) (experimental 40, model 22, unspecified 9); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-MN.json) · [CSV](https://data.orchid-project.org/systems/GD-MN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-MN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-MN/GdMn-01Gro-LB.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GD-MN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-MN.html) · [Markdown](https://data.orchid-project.org/systems/GD-MN.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 40 |
-| model | 19 |
+| model | 22 |
 | unspecified | 9 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 38 |
 | phase transition | 24 |
 | phase equilibrium | 6 |
+| formation | 3 |
 
 ## Calculated phase diagrams
 
@@ -114,6 +115,18 @@ Table: Invariant reactions reported in the literature for the Gd–Mn system (38
 | 980 | peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | unspecified | [1] Wang 2017 | Table 3, p. 6, row 29 |  |
 | 980 | peritectoid: Mn12Gd + β-Mn ↔ α-Mn | Mn12Gd: Mn 0.923077; β-Mn: Mn 1; α-Mn: Mn 1 | model | [1] Wang 2017; _cites Grobner 2001_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901364-5) | Table 3, p. 6, row 28 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Gd–Mn system (3)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Mn12Gd | [GdMn12](https://data.orchid-project.org/compounds/GdMn12.html) | -4 kJ/mol-atom | 298.15 | model | 2.068 (mp-aaabkkpg) | 1.557 (oqmd-5135) | [2] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn23Gd6 | [Gd6Mn23](https://data.orchid-project.org/compounds/Gd6Mn23.html) | -6.4 kJ/mol-atom | 298.15 | model | 89.384 (mp-aaacpzik) | 12.168 (oqmd-30388) | [2] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+| Mn2Gd | [GdMn2](https://data.orchid-project.org/compounds/GdMn2.html) | -6.4 kJ/mol-atom | 298.15 | model | 21.064 (mp-aaacjhct) | 9.268 (oqmd-19430) | [2] Gröbner 2001 | Table 2, p. 3, row 2 |  |
+
 ## Other properties
 
 ### Phase transition (24)
@@ -165,6 +178,7 @@ Table: Phase equilibrium, Gd–Mn system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Jiang Wang, Shidong Lin, Maohua Rong, Guanghui Rao, Huaiying Zhou, Experimental investigation and thermodynamic re-assessment of the Mn–Gd binary system, J Therm Anal Calorim 128, 1009-1018 (2017). [doi:10.1007/s10973-016-6000-y](https://doi.org/10.1007/s10973-016-6000-y)
+2. J. Gröbner, A. Pisch, R. Schmid-Fetzer, Thermodynamic optimization of the systems Mn–Gd and Mn–Y using new experimental results, Journal of Alloys and Compounds 317-318, 433-437 (2001). [doi:10.1016/s0925-8388(00)01364-5](https://doi.org/10.1016/s0925-8388%2800%2901364-5)
 
 ## Please cite
 

@@ -12,7 +12,7 @@ Table: Phases of the Mo–Ta system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-mo-ta-bcc-a2); _phase:mo-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 8 calculated diagram(s): 300–4000 K, x(Ta) 0–1 | 0 | 8 |
+| [BCC_A2](#phase-mo-ta-bcc-a2); _phase:mo-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–4000 K, x(Ta) 0–1 | 0 | 8 |
 | [B2_BCC](#phase-mo-ta-bcc-b2); _phase:mo-ta:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3280 K, x(Ta) 0.07–0.97 | 0 | 2 |
 | [FCC_A1](#phase-mo-ta-fcc-a1); _phase:mo-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [HCP_A3](#phase-mo-ta-hcp-a3); _phase:mo-ta:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
@@ -22,7 +22,7 @@ Table: Phases of the Mo–Ta system (5)
 
 - Id: `phase:mo-ta:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 8 calculated diagram(s): 300–4000 K, x(Ta) 0–1
+- Stability: stable in 6 of 6 calculated diagram(s): 300–4000 K, x(Ta) 0–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-ta:bcc-a2)
 

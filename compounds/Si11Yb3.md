@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Si11Yb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48 | kJ/mol-atom | 3.1 | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -49.1 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -48 | kJ/mol-atom | 3.1 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -49.1 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -12,7 +12,7 @@ Table: Phases of the Au–Er system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AU10ER7](#phase-au-er-au10er7); _phase:au-er:au10er7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1635.32 K, x(Er) 0.41176–0.41176 | 6 | 1 |
+| [AU10ER7](#phase-au-er-au10er7); _phase:au-er:au10er7_ | Au10Gd7 · tI136 · I4_1/acd (142) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1635.32 K, x(Er) 0.41176–0.41176 | 8 | 1 |
 | [AU2ER_C11B](#phase-au-er-au2er-c11b); _phase:au-er:au2er-c11b_ | MoSi2 · C11_b · tI6 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1637.54 K, x(Er) 0.33333–0.33333 | 7 | 1 |
 | [AU3ER_D0A](#phase-au-er-au3er-d0a); _phase:au-er:au3er-d0a_ | beta-Cu3Ti · D0_a · oP8 · Pmmn (59) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1552.54 K, x(Er) 0.25–0.25 | 6 | 1 |
 | [AU4ER_D1A](#phase-au-er-au4er-d1a); _phase:au-er:au4er-d1a_ | MoNi4 · D1_a · tI10 · I4/m (87) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1273.86 K, x(Er) 0.2–0.2 | 5 | 1 |
@@ -32,7 +32,7 @@ Table: Phases of the Au–Er system (11)
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.5882, Er 0.4118
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1635.32 K, x(Er) 0.41176–0.41176
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-er:au10er7)
 
 Names (3): _corpus: _corpus:phase:au-er:au10er7  

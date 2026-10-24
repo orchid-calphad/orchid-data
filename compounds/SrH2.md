@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of SrH2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -197 | kJ/mol (basis unstated) |  | 0.5 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -189 | kJ/mol (basis unstated) | 8 | 0.5 | 4.1 (equilibration_other, calibrated) |  |  |  | 8 |
-| -183 | kJ/mol (basis unstated) | 3 | 0.5 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -180 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -176 | kJ/mol (basis unstated) |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -197 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (evaluated_compilation, calibrated) |  |  |  | 10.5 |
+| -189 | kJ/mol (basis unstated) | 8 | 0.5 | 10.5 (evaluated_compilation, calibrated) |  |  |  | 10.5 |
+| -183 | kJ/mol (basis unstated) | 3 | 0.5 | 10.5 (evaluated_compilation, calibrated) |  |  |  | 10.5 |
+| -180 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
+| -176 | kJ/mol (basis unstated) |  | 0.5 | 10.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 10.5 |
 
 ## Sources
 

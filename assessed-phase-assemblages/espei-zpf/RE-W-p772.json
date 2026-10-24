@@ -6,7 +6,6 @@
  ],
  "phases": [
   "BCC_A2",
-  "CHI_A12",
   "HCP_A3",
   "LIQUID"
  ],
@@ -14,7 +13,6 @@
   "P": 101325.0,
   "T": [
    2571.456117,
-   2081.456117,
    2622.456117,
    3221.456117,
    3530.456117,
@@ -31,35 +29,6 @@
     ],
     [
      0.06502504346
-    ]
-   ]
-  ],
-  [
-   [
-    "HCP_A3",
-    [
-     "W"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CHI_A12",
-    [
-     "W"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "W"
-    ],
-    [
-     0.1872304735
     ]
    ]
   ],
@@ -155,14 +124,12 @@
   "diagram": "RE-W-p772",
   "record_ids": [
    "aspa-12fd78d28cc7b732",
-   "aspa-432f06a4bc733e93",
    "aspa-d47dc951d98c2f31",
    "aspa-68190129f513ee18",
    "aspa-3dabd988a8b8c280",
    "aspa-50011d2c2019d75f"
   ],
   "boundary_basis": [
-   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -189,24 +156,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0626052,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-432f06a4bc733e93",
-    "boundary_basis": "printed_solid",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.096,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 308.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0756271,
      "sigma_effective": 0.02
     }
    },

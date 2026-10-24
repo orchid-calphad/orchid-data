@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Bi3Gd5.html · Markdown: https:/
 
 3 accepted literature formation-enthalpy value(s) (experimental 1, model 1, DFT 1); experimental median -87.4 kJ/mol-atom (n = 1); OQMD -72.034 kJ/mol-atom (oqmd-10931).
 
-Systems: [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html)
+Systems: [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of Bi3Gd5 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -87.4 kJ/mol-atom | Gd5Bi3 | 0 | experimental |  | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 1 |  |
-| -76 kJ/mol-atom | Gd5Bi3 | 0 | model | Miedema model | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 3 |  |
-| -74.2502 kJ/mol-atom | Gd5Bi3 | 0 | DFT | first-principles | [Bi–Gd–Ho](https://data.orchid-project.org/systems/BI-GD-HO.html) | [1] Wang 2013 | Table 5, p. 3, row 2 |  |
+| -87.4 kJ/mol-atom | Gd5Bi3 | 298.15 | experimental |  | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Borzone 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2980062-1) | Table 5, p. 3, row 1 |  |
+| -76 kJ/mol-atom | Gd5Bi3 | 0 | model | Miedema model | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 5, p. 3, row 3 |  |
+| -74.2502 kJ/mol-atom | Gd5Bi3 | 0 | DFT | first-principles | [Bi–Gd](https://data.orchid-project.org/systems/BI-GD.html) | [1] Wang 2013 | Table 5, p. 3, row 2 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Bi3Gd5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -87.4 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -76 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -74.2502 | kJ/mol-atom |  | 5.000e-6 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -87.4 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -76 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -74.2502 | kJ/mol-atom |  | 5.000e-6 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

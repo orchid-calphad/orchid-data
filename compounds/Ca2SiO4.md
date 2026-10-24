@@ -1,16 +1,16 @@
 # Ca2SiO4: enthalpy of formation
 
-> Enthalpy of formation of Ca2SiO4: 11 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of Ca2SiO4: 8 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/Ca2SiO4.html · Markdown: https://data.orchid-project.org/compounds/Ca2SiO4.md
 
-11 accepted literature formation-enthalpy value(s) (model 8, DFT 3).
+8 accepted literature formation-enthalpy value(s) (model 8).
 
 Systems: [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of Ca2SiO4 reported in the literature (11)
+Table: Enthalpy of formation of Ca2SiO4 reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
@@ -22,9 +22,6 @@ Table: Enthalpy of formation of Ca2SiO4 reported in the literature (11)
 | -2304 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 13 |  |
 | -2293 kJ/mol (basis unstated) | α-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 7, p. 8, row 11 |  |
 | -2198 kJ/mol (basis unstated) | α′-Ca2SiO4 | 298.15 | model |  | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023; _cites Haas 1981_ [doi](https://doi.org/10.1063/1.555645) | Table 7, p. 8, row 14 |  |
-| -18.7429 kJ/mol-atom | γ-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 2 |  |
-| -17.8286 kJ/mol-atom | β-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 3 |  |
-| -17.4857 kJ/mol-atom | α′-Ca2SiO4 | 0 | DFT | DFT | [Ca–O–Si](https://data.orchid-project.org/systems/CA-O-SI.html) | [1] Abdul 2023 | Table 6, p. 8, row 4 |  |
 
 ### Uncertainty budget
 
@@ -34,17 +31,14 @@ Table: Uncertainty budget of the literature values of Ca2SiO4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -2548 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2316 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2316 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2307 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2306 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2304 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2293 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -2198 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -18.7429 | kJ/mol-atom |  | 0.007143 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -17.8286 | kJ/mol-atom |  | 0.007143 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -17.4857 | kJ/mol-atom |  | 0.007143 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -2548 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2316 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2316 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2307 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2306 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2304 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2293 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
+| -2198 | kJ/mol (basis unstated) |  | 0.05 | 23.8 (model_calculated, calibrated) |  |  |  | 23.8 |
 
 ## Sources
 

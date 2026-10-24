@@ -1,10 +1,10 @@
 # Mn–Ti system
 
-> Mn–Ti system: 133 accepted literature values (invariant reaction 98, crystal structure 33, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mn–Ti system: 143 accepted literature values (invariant reaction 98, crystal structure 33, formation 10, phase transition 2) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MN-TI.html · Markdown: https://data.orchid-project.org/systems/MN-TI.md
 
-133 accepted literature values from 4 paper(s) (experimental 63, model 29, DFT 2, unspecified 39); 4 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+143 accepted literature values from 4 paper(s) (experimental 64, model 33, DFT 7, unspecified 39); 4 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MN-TI.json) · [CSV](https://data.orchid-project.org/systems/MN-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MN-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MN-TI/MnTi-09Che.json) · [phases (18)](https://data.orchid-project.org/phases/pages/MN-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MN-TI.html) · [Markdown](https://data.orchid-project.org/systems/MN-TI.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 63 |
-| model | 29 |
-| DFT | 2 |
+| experimental | 64 |
+| model | 33 |
+| DFT | 7 |
 | unspecified | 39 |
 
 Table: Accepted values by property group
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 98 |
 | phase transition | 2 |
+| formation | 10 |
 | crystal structure | 33 |
 
 ## Calculated phase diagrams
@@ -183,7 +184,7 @@ Table: Invariant reactions reported in the literature for the Mn–Ti system (98
 | 1502.8 | peritectic: Liquid + Mn3Ti -> Mn4Ti | Liquid: Ti 0.153; Mn3Ti: Ti 0.25; Mn4Ti: Ti 0.185 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 2 |  |
 | 1501 | liquid+TiMn3->TiMn4 | L: Ti 0.122; TiMn3: Ti 0.25; TiMn4: Ti 0.185 | unspecified | [4] Zheng 2022 | Table 5, p. 7, row 28 |  |
 | 1500.3 | LavesC14 + liquid ↔ βTiMn | LavesC14: Ti 0.403; liquid: Ti 0.56; βTiMn: Ti 0.485 | model | [2] Chen 2009 | Table 2, p. 5, row 9 |  |
-| 1500.2 | peritectic: Liquid + Laves-C14 -> MnTi-β | Liquid: Ti 0.56; Laves-C14: Ti 0.485; MnTi-β: Ti 0.403 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 10 |  |
+| 1500.2 | peritectic: Liquid + Laves-C14 -> MnTi-β | Liquid: Ti 0.56; Laves-C14: Ti 0.403; MnTi-β: Ti 0.485 | unspecified | [1] Hämäläinen 1998 | Table I, p. 259, row 10 |  |
 | 1500.2 | LavesC14 + liquid ↔ βTiMn | LavesC14: Ti 0.403; liquid: Ti 0.56; βTiMn: Ti 0.485 | unspecified | [2] Chen 2009; _cites Ansara 1998_ | Table 2, p. 5, row 8 |  |
 | 1498.15 | peritectic: TiMn3 + L ↔ TiMn4 | TiMn3: Ti 0.245; L: Ti 0.1; TiMn4: Ti 0.185 | experimental | [3] Khan 2016 | Table 2, p. 7, row 15 |  |
 | 1498 | liquid+TiMn3->TiMn4 | L: Ti 0.1; TiMn3: Ti 0.245; TiMn4: Ti 0.185 | experimental | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 26 |  |
@@ -259,6 +260,25 @@ Table: Invariant reactions reported in the literature for the Mn–Ti system (98
 | 823 | βTi->αTiMn+αTi | βTi: Ti 0.86; αTiMn: Ti 0.495; αTi: Ti 0.996 | unspecified | [4] Zheng 2022; _cites Murray 1981_ [doi](https://doi.org/10.1007/bf02868287) | Table 5, p. 7, row 1 |  |
 | 811.15 | eutectoid: (βTi) \<-> (αTi) + TiMn1−x | (βTi): Ti 0.8872; (αTi): Ti 0.9916; TiMn1−x: Ti 0.55 | model | [3] Khan 2016 | Table 2, p. 7, row 24 |  |
 | 811 | βTi->αTiMn+αTi | βTi: Ti 0.887; αTiMn: Ti 0.55; αTi: Ti 0.992 | model | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 5, p. 7, row 3 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Mn–Ti system (10)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -6.584 kJ/mol-atom | 298.15 | model |  | -22.881 (oqmd-754888) | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 10 |  |
+| C14 Laves MnTi2 | [MnTi2](https://data.orchid-project.org/compounds/MnTi2.html) | -4.744 kJ/mol-atom | 298.15 | model |  | -22.881 (oqmd-754888) | [4] Zheng 2022 | Table 4, p. 6, row 9 |  |
+| C14 Laves MnTi2 |  | 36.577 kJ/mol-atom | 0 | DFT |  |  | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 8 |  |
+| C14 Laves MnTi2 |  | 43.732 kJ/mol-atom | 0 | DFT |  |  | [4] Zheng 2022 | Table 4, p. 6, row 7 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -28.92 kJ/mol-atom | 298.15 | experimental | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [4] Zheng 2022; _cites Chen 2003_ [doi](https://doi.org/10.1016/s1359-6454%2802%2900497-4) | Table 4, p. 6, row 4 |  |
+| C14 Laves TiMn2 |  | -28.4 kJ/mol-atom | 0 | DFT |  |  | [4] Zheng 2022; _cites Chen 2005_ | Table 4, p. 6, row 3 |  |
+| C14 Laves TiMn2 |  | -27.22 kJ/mol-atom | 0 | DFT |  |  | [4] Zheng 2022 | Table 4, p. 6, row 1 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298.15 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 6 |  |
+| C14 Laves TiMn2 |  | -26.714 kJ/mol-atom | 0 | DFT |  |  | [4] Zheng 2022; _cites Khan 2016_ [doi](https://doi.org/10.1039/c6cp04542a) | Table 4, p. 6, row 2 |  |
+| C14 Laves TiMn2 | [Mn2Ti](https://data.orchid-project.org/compounds/Mn2Ti.html) | -26.714 kJ/mol-atom | 298.15 | model | -26.259 (mp-aaaaacwz) | -27.684 (oqmd-17696) | [4] Zheng 2022 | Table 4, p. 6, row 5 |  |
 
 ## Other properties
 

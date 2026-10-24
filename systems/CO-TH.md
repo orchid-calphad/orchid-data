@@ -1,10 +1,10 @@
 # Co–Th system
 
-> Co–Th system: 47 accepted literature values (invariant reaction 45, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Th system: 44 accepted literature values (invariant reaction 42, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-TH.html · Markdown: https://data.orchid-project.org/systems/CO-TH.md
 
-47 accepted literature values from 1 paper(s) (experimental 31, model 16); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+44 accepted literature values from 1 paper(s) (experimental 29, model 15); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-TH.json) · [CSV](https://data.orchid-project.org/systems/CO-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-TH/CoTh-08Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CO-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-TH.html) · [Markdown](https://data.orchid-project.org/systems/CO-TH.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 31 |
-| model | 16 |
+| experimental | 29 |
+| model | 15 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 45 |
+| invariant reaction | 42 |
 | phase transition | 2 |
 
 ## Calculated phase diagrams
@@ -54,13 +54,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Co–Th system (45)
+Table: Invariant reactions reported in the literature for the Co–Th system (42)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2028.15 | congruent melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 2 |  |
-| 2028.15 | congruent melting: L \<-> βTh | L: Th 1 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 1 |  |
-| 2022.65 | congruent melting: L \<-> βTh | L: Th 1 | model | [1] Wang 2008 | Table 2, p. 3, row 3 |  |
 | 1768.15 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Thomson 1966_ [doi](https://doi.org/10.1016/0022-5088%2866%2990101-9) | Table 2, p. 3, row 39 |  |
 | 1768.15 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | experimental | [1] Wang 2008; _cites Palenzona 1989_ [doi](https://doi.org/10.1016/0022-5088%2889%2990170-7) | Table 2, p. 3, row 40 |  |
 | 1766.85 | congruent melting: L \<-> αCo | L: Th 0; αCo: Co 0.777778, Th 0.222222 | model | [1] Wang 2008 | Table 2, p. 3, row 41 |  |

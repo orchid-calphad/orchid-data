@@ -1,10 +1,10 @@
 # B–O phases
 
-> B–O system: 7 phases (tier C 2, liquid 1, gas 2, needs_review 2); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> B–O system: 7 phases (tier B 1, tier C 1, liquid 1, gas 2, needs_review 2); 7 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/B-O.html · Markdown: https://data.orchid-project.org/phases/pages/B-O.md
 
-7 phases (tier C 2, liquid 1, gas 2, needs_review 2); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+7 phases (tier B 1, tier C 1, liquid 1, gas 2, needs_review 2); 7 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=B-O) · [full JSON](https://data.orchid-project.org/phases/systems/B-O.json) · [B–O system page](https://data.orchid-project.org/systems/B-O.html) · [Markdown](https://data.orchid-project.org/phases/pages/B-O.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -14,7 +14,7 @@ Table: Phases of the B–O system (7)
 |---|---|---|---|---:|---:|
 | [ALPHA_RHOMBO_B](#phase-b-o-b-alpha-rhombo); _phase:b-o:b-alpha-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1388 K, x(O) 0–0 | 0 | 1 |
 | [BETA_RHOMBO_B](#phase-b-o-b-beta-rhombo); _phase:b-o:b-beta-rhombo_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 1388–2347.99 K, x(O) 0–0 | 0 | 1 |
-| [B2O3](#phase-b-o-b2o3); _phase:b-o:b2o3_ | B2O3 · hP15 · P3_121 (152) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6 | 0 | 1 |
+| [B2O3](#phase-b-o-b2o3); _phase:b-o:b2o3_ | B2O3 · hP15 · P3_121 (152) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6 | 0 | 1 |
 | [B6O](#phase-b-o-b6o); _phase:b-o:b6o_ | B6P · hR14 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1060.3 K, x(O) 0.14286–0.14286 | 0 | 1 |
 | [GAS](#phase-b-o-gas); _phase:b-o:gas_ | gas | gas | stable in 1 of 1 calculated diagram(s): 300.5–4000 K, x(O) 0.317–1 | 0 | 1 |
 | [LIQUID](#phase-b-o-liquid); _phase:b-o:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 723–4000 K, x(O) 0–0.6 | 0 | 1 |
@@ -26,6 +26,7 @@ Table: Phases of the B–O system (7)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — BO-23Pha.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1388 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:b-alpha-rhombo)
@@ -54,6 +55,7 @@ _assessment that models this phase_
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — BO-23Pha.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1388–2347.99 K, x(O) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:b-beta-rhombo)
@@ -79,14 +81,15 @@ _assessment that models this phase_
 ## B2O3 (B–O)
 
 - Id: `phase:b-o:b2o3`; status `assigned`
-- Structure: B2O3 · hP15 · P3_121 (152); type `st:b2o3-hp15`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
-- Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Structure: B2O3 · hP15 · P3_121 (152); type `st:b2o3-hp15`; tier B: DFT-supported (unique MP + OQMD match); confidence high
+- Stoichiometry: B 0.4000, O 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–723 K, x(O) 0.6–0.6
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:b2o3)
 
-Names (2): _corpus: _corpus:phase:b-o:b2o3  
+Names (4): _corpus: _corpus:phase:b-o:b2o3  
+_mp: _mp:mp-aaaaaalu  
+_oqmd: _oqmd:oqmd-9107  
 _tdb: _tdb:BO-23Pha.tdb:B2O3  
 
 
@@ -109,7 +112,8 @@ _assessment that models this phase_
 - Id: `phase:b-o:b6o`; status `assigned`
 - Structure: B6P · hR14 · R-3m (166); type `st:b6p-hr14`; tier C: assessor-stated (Hallstedt 2025 crystallographic table); confidence assessor-stated
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
-- Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
+- Caveat: not certain from the name or DFT alone (mp_oqmd_space_groups_differ, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
+- Stoichiometry: B 0.8571, O 0.1429
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1060.3 K, x(O) 0.14286–0.14286
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-o:b6o)

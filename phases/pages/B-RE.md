@@ -19,7 +19,7 @@ Table: Phases of the B–Re system (8)
 | [LIQUID](#phase-b-re-liquid); _phase:b-re:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2092.76–4000 K, x(B) 0–1 | 10 | 1 |
 | [RE3B_E1A](#phase-b-re-re3b-e1a); _phase:b-re:re3b-e1a_ | Re3B · E1_a · oC16 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2418.59 K, x(B) 0.25–0.25 | 4 | 1 |
 | [RE7B3_D102](#phase-b-re-re7b3-d102); _phase:b-re:re7b3-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2281.13 K, x(B) 0.3–0.3 | 4 | 1 |
-| [REB2](#phase-b-re-reb2); _phase:b-re:reb2_ | ReB2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2671.02 K, x(B) 0.66667–0.76092 | 6 | 1 |
+| [REB2](#phase-b-re-reb2); _phase:b-re:reb2_ | ReB2 · hP6 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2671.02 K, x(B) 0.66667–0.76092 | 9 | 1 |
 
 ## BETA_RHOMBO_B (B–Re)
 
@@ -27,6 +27,7 @@ Table: Phases of the B–Re system (8)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — ReB-10Yan.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2370.5 K, x(B) 1–1
 - Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-re:b-beta-rhombo)
@@ -235,7 +236,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2671.02 K, x(B) 0.66667–0.76092
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-re:reb2)
 
 Names (3): _corpus: _corpus:phase:b-re:reb2  

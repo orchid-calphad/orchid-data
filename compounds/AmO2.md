@@ -14,8 +14,8 @@ Table: Enthalpy of formation of AmO2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -310.767 kJ/mol-atom ± 3 | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
-| -310.733 kJ/mol-atom ± 3 | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
+| -310.767 kJ/mol-atom ± 1 | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Silva 2004_ | Table 3, p. 11, row 5 |  |
+| -310.733 kJ/mol-atom ± 1 | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011; _cites Konings_ [doi](https://doi.org/10.1016/j.jct.2011.02.024) | Table 3, p. 11, row 6 |  |
 | -310.567 kJ/mol-atom | AmO2 | 298.15 | model |  | [Am–O](https://data.orchid-project.org/systems/AM-O.html) | [1] Gotcu-Freis 2011 | Table 3, p. 11, row 4 |  |
 
 ### Uncertainty budget
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of AmO2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -310.767 | kJ/mol-atom | 3 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -310.733 | kJ/mol-atom | 3 | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -310.567 | kJ/mol-atom |  | 0.01667 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -310.767 | kJ/mol-atom | 1 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -310.733 | kJ/mol-atom | 1 | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -310.567 | kJ/mol-atom |  | 0.01667 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

@@ -15,7 +15,7 @@ Table: Enthalpy of formation of Cs5Te3 reported in the literature (2)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -942.2 kJ/mol (basis unstated) ± 8.3 | Cs₅Te₃ | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
-| -117.775 kJ/mol-atom ± 8.3 | Cs5Te3 | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
+| -117.775 kJ/mol-atom ± 1.0375 | Cs5Te3 | 298.15 (>) | model |  | [Cs–Te](https://data.orchid-project.org/systems/CS-TE.html) | [1] Thi 2015; _cites SGTE 2010_ | Table 3, p. 4, row 6 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs5Te3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -942.2 | kJ/mol (basis unstated) | 8.3 | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 8.3 |
-| -117.775 | kJ/mol-atom | 8.3 | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 8.3 |
+| -942.2 | kJ/mol (basis unstated) | 8.3 | 5.000e-5 | 27.2 (model_calculated, calibrated) |  |  |  | 27.2 |
+| -117.775 | kJ/mol-atom | 1.038 | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of Cs5Te3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacppvd | -107.426 | -1.1134 | I4/m | 0.042 | 4.000e-4 | yes |
-| OQMD | oqmd-6410 | -94.605 | -0.980514 | C2/m | 1.852 | 0.0192 | no |
+| Materials Project | mp-aaacppvd | -107.426 | -1.1134 | I4/m | 0.0415 | 4.000e-4 | yes |
+| OQMD | oqmd-6410 | -94.605 | -0.980514 | C2/m | 1.8524 | 0.0192 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

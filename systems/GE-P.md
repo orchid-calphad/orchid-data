@@ -1,10 +1,10 @@
 # Ge–P system
 
-> Ge–P system: 35 accepted literature values (crystal structure 15, formation 13, heat capacity / entropy / enthalpy 5, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–P system: 42 accepted literature values (crystal structure 18, formation 17, heat capacity / entropy / enthalpy 5, invariant reaction 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-P.html · Markdown: https://data.orchid-project.org/systems/GE-P.md
 
-35 accepted literature values from 2 paper(s) (experimental 11, model 7, DFT 17); 2 calculated phase diagram(s).
+42 accepted literature values from 2 paper(s) (experimental 14, model 10, DFT 17, unspecified 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-P.json) · [CSV](https://data.orchid-project.org/systems/GE-P.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-P) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-P/GeP-21Don.json) · [phases (8)](https://data.orchid-project.org/phases/pages/GE-P.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-P.html) · [Markdown](https://data.orchid-project.org/systems/GE-P.md)
 
@@ -12,18 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 11 |
-| model | 7 |
+| experimental | 14 |
+| model | 10 |
 | DFT | 17 |
+| unspecified | 1 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 2 |
-| formation | 13 |
+| formation | 17 |
 | heat capacity / entropy / enthalpy | 5 |
-| crystal structure | 15 |
+| crystal structure | 18 |
 
 ## Calculated phase diagrams
 
@@ -69,7 +70,7 @@ Table: Invariant reactions reported in the literature for the Ge–P system (2)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ge–P system (13)
+Table: Enthalpies of formation, Ge–P system (17)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -80,10 +81,14 @@ Table: Enthalpies of formation, Ge–P system (13)
 | Ge1P1 | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -10.5 kJ/mol-atom | 298.15 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
 | GeP |  | -11.4818 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
 | GeP |  | -11.48 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
+| GeP | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -11.442 kJ/mol-atom | 298.15 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [2] Chen 2022 | Table II, p. 3, row 51 |  |
+| GeP | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -11.44 kJ/mol-atom | 0 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [2] Chen 2022; _cites Saal 2013_ | Table II, p. 3, row 48 |  |
 | GeP |  | -3.86 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
 | GeP |  | -3.85941 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.005) | Table I, p. 5, row 5 |  |
+| GeP | [GeP](https://data.orchid-project.org/compounds/GeP.html) | -0.17 kJ/mol-atom | 0 | unspecified | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [2] Chen 2022 | Table II, p. 3, row 50 |  |
 | GeP |  | -0.072364 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021 | Table I, p. 5, row 6 |  |
 | GeP |  | -0.072 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021 | Table I, p. 5, row 6 |  |
+| GeP | [GeP](https://data.orchid-project.org/compounds/GeP.html) | 1.44 kJ/mol-atom | 0 | model | 0.383 (mp-aaackifz) | -11.483 (oqmd-1349377) | [2] Chen 2022; _cites ref. 36_ | Table II, p. 3, row 49 |  |
 | GeP |  | 1.44728 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | GeP |  | 1.45 kJ/mol-atom | 0 | DFT |  |  | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 
@@ -101,7 +106,7 @@ Table: Heat capacity / entropy / enthalpy, Ge–P system
 | Entropy; _printed: S0_298_ | 27.64 per mol-atom ± 3.32 | 298.15 | Ge1P1; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Suess 1982_ | Table II, p. 6, row 3 |  |
 | Entropy; _printed: S298 0_ | 31.5 J/mol-atom/K | 298.15 | Ge1P1; _alloy: P 0.5_ | model | [1] Dong 2021; _cites Lide 2005_ | Table II, p. 6, row 2 |  |
 
-### Crystal structure (15)
+### Crystal structure (18)
 
 Table: Crystal structure, Ge–P system
 
@@ -110,18 +115,21 @@ Table: Crystal structure, Ge–P system
 | Lattice a; _printed: a_ | 15.5183 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | Lattice a; _printed: a_ | 15.1948 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
 | Lattice a; _printed: a_ | 15.334 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice a; _printed: a_ | 15.1948 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice a; _printed: a_ | 15.14 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice a; _printed: a_ | 15.1948 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice a; _printed: a_ | 15.14 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice a | 15.334 Å | 298.15 | GeP; _alloy: Ge 0.5, P 0.5_ | experimental | [2] Chen 2022; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 2, row 13 |  |
 | Lattice b; _printed: b_ | 3.68332 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | Lattice b; _printed: b_ | 3.6337 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
 | Lattice b; _printed: b_ | 3.669 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice b; _printed: b_ | 3.6337 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice b; _printed: b_ | 3.638 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice b; _printed: b_ | 3.6337 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice b; _printed: b_ | 3.638 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice b | 3.669 Å | 298.15 | GeP; _alloy: Ge 0.5, P 0.5_ | experimental | [2] Chen 2022; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 2, row 13 |  |
 | Lattice c; _printed: c_ | 9.39563 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table I, p. 5, row 4 |  |
 | Lattice c; _printed: c_ | 9.1941 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021 | Table I, p. 5, row 6 |  |
 | Lattice c; _printed: c_ | 9.095 Å | 0 | GeP; _alloy: P 0.5_ | DFT | [1] Dong 2021; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table I, p. 5, row 3 |  |
-| Lattice c; _printed: c_ | 9.1941 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
-| Lattice c; _printed: c_ | 9.19 Å | 0 | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice c; _printed: c_ | 9.1941 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Lee 2015_ [doi](https://doi.org/10.1016/j.jssc.2014.04.021) | Table I, p. 5, row 2 |  |
+| Lattice c; _printed: c_ | 9.19 Å |  | GeP; _alloy: P 0.5_ | experimental | [1] Dong 2021; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 5, row 1 |  |
+| Lattice c | 9.274 Å | 298.15 | GeP; _alloy: Ge 0.5, P 0.5_ | experimental | [2] Chen 2022; _cites Wadsten 1967_ [doi](https://doi.org/10.3891/acta.chem.scand.21-0593) | Table I, p. 2, row 13 |  |
 
 ## Sources
 

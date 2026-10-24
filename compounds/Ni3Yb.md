@@ -15,9 +15,9 @@ Table: Enthalpy of formation of Ni3Yb reported in the literature (8)
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
 | -30 kJ/mol-atom | YbNi3 | 298.15 | experimental | DSC | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | p. 17 | “Two preliminary DSC measurements on YbNi3 and YbNi2 have also been mentioned in the work by Brutti et al. \[13\], where the enthalpies of formation at 298K were reported to be around -30 to -32 kJ/mol-atom for YbNi3 and -30 kJ/mol-atom for YbNi2 tentatively, which slightly differ from their KE results.” |
-| -30 kJ/mol-atom | YbNi3 | 0 | experimental | XRD, DSC | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
-| -30 unknown | YbNi3 | 0 | experimental | XRD, DSC | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
-| -26 unknown ± 4.8 | YbNi3 | 0 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
+| -30 kJ/mol-atom | YbNi3 | 298.15 | experimental | XRD, DSC | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
+| -30 unknown | YbNi3 | 298.15 | experimental | XRD, DSC | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Palenzona 1973_ [doi](https://doi.org/10.1016/0022-5088%2873%2990188-4) | Table 3, p. 26, row 19 |  |
+| -26 unknown ± 4.8 | YbNi3 | 298.15 | experimental | XRD, KE method | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [1] Hu 2017; _cites Buschow 1972_ [doi](https://doi.org/10.1016/0022-5088%2872%2990082-3) | Table 3, p. 26, row 18 |  |
 | -26 kJ/mol-atom ± 4.8 | Ni3Yb | 298.15 | experimental | Vapor pressure | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016; _cites Brutti 2002_ [doi](https://doi.org/10.1361/105497102770332207) | Table 2, p. 5, row 12 |  |
 | -24.8 kJ/mol-atom | Ni3Yb | 298.15 | experimental | Calorimetry | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 2, p. 5, row 14 |  |
 | -28.8 kJ/mol-atom | Ni3Yb | 298.15 | model | Prediction | [Ni–Yb](https://data.orchid-project.org/systems/NI-YB.html) | [2] Kardellass 2016; _cites De 1988_ | Table 2, p. 5, row 11 |  |
@@ -31,14 +31,14 @@ Table: Uncertainty budget of the literature values of Ni3Yb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -30 | kJ/mol-atom |  | 0.5 | 2 (dsc_dta, prior) |  |  |  | 2 |
+| -30 | kJ/mol-atom |  | 0.05 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -30 | kJ/mol-atom |  | 0.5 | 2 (dsc_dta, prior) |  |  |  | 2 |
 | -30 | unknown |  | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | unit 'unknown' not convertible to kJ/mol-atom |
 | -26 | unknown | 4.8 | 0.5 | unit 'unknown' not convertible to kJ/mol-atom |  |  |  | 4.8 |
-| -26 | kJ/mol-atom | 4.8 | 0.5 | 3 (kems_vapour, prior) |  |  |  | 4.8 |
+| -26 | kJ/mol-atom | 4.8 | 0.05 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
 | -24.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -28.8 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -23.42 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -28.8 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -23.42 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

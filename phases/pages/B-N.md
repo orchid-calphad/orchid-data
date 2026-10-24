@@ -28,6 +28,7 @@ Table: Phases of the B–N system (9)
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
 - Candidate (sgte_mmc2): alpha-B · hR12 · R-3m (166) — Hallstedt 2025 mmc2 row for ALPHA_RHOMBO_B: Si_nB
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — BN-19Sri.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1388 K, x(N) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-n:b-alpha-rhombo)
@@ -57,6 +58,7 @@ _assessment that models this phase_
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — BN-19Sri.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — BN-96Kas-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 1388–2376.26 K, x(N) 0–0
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-n:b-beta-rhombo)
@@ -89,11 +91,12 @@ _assessment that models this phase_
 ## BN_B3 (B–N)
 
 - Id: `phase:b-n:bn-b3`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model; structure_token_is_also_a_formula
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; structure_token_is_also_a_formula
 - Candidate (dft_mp): P6_3/mmc (194) — on-hull MP BN at x(N)=0.5000
 - Candidate (dft_oqmd): P63/mmc (194) — on-hull OQMD B1 N1 at x(N)=0.5000
 - Candidate (sgte_mmc2): ZnS (sphalerite) · B3 · cF8 · F-43m (216) — Hallstedt 2025 mmc2 row for BN_B3: c-BN (metastable)
 - Candidate (tdb_comment): ZnS 3C · cF8 · F-43m — BN-19Sri.tdb: 'Prototype ZnS 3C (cF8, F-43m), metastable'
+- Stoichiometry: B 0.5000, N 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1855.12 K, x(N) 0.5–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-n:bn-b3)
@@ -119,9 +122,12 @@ _assessment that models this phase_
 ## BN_B4 (B–N)
 
 - Id: `phase:b-n:bn-b4`; status `needs_review`
-- No structure assigned. Why: no_structure_token; off_stoichiometric_model; structure_token_is_also_a_formula
+- No structure assigned. Why: no_structure_token; polymorph_family:other phases of this system have the same composition; structure_token_is_also_a_formula
+- Candidate (dft_mp): P6_3/mmc (194) — on-hull MP BN at x(N)=0.5000
+- Candidate (dft_oqmd): P63/mmc (194) — on-hull OQMD B1 N1 at x(N)=0.5000
 - Candidate (sgte_mmc2): ZnS (wurtzite) · B4 · hP4 · P6_3mc (186) — Hallstedt 2025 mmc2 row for BN_B4: w-BN (metastable)
 - Candidate (tdb_comment): ZnS 2H · hP4 · P6_3mc — BN-19Sri.tdb: 'Prototype ZnS 2H (hP4, P6_3mc), metastable'
+- Stoichiometry: B 0.5000, N 0.5000
 - Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-n:bn-b4)
@@ -148,6 +154,7 @@ _assessment that models this phase_
 
 - Id: `phase:b-n:bn-bk`; status `assigned`
 - Structure: BN · B_k · hP4 · P6_3/mmc (194); type `st:b-k-bn-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: B 0.5000, N 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 1855.12–2777.04 K, x(N) 0.5–0.5
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-n:bn-bk)

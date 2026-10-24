@@ -12,8 +12,8 @@
  "conditions": {
   "P": 101325,
   "T": [
-   300.05,
-   260.05
+   302.05,
+   258.05
   ]
  },
  "output": "ZPF",
@@ -63,7 +63,7 @@
      "NA"
     ],
     [
-     0.6666666666666666
+     null
     ]
    ],
    [
@@ -105,8 +105,8 @@
     "source_observation": "ORC-KNDE3X332H",
     "side": "above",
     "T_invariant_K": 280.05,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.58,
     "hyperplane_delta": 0.01,
@@ -124,8 +124,8 @@
     "source_observation": "ORC-KNDE3X332H",
     "side": "below",
     "T_invariant_K": 280.05,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.58,
     "hyperplane_delta": 0.01,
@@ -160,9 +160,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -176,9 +176,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

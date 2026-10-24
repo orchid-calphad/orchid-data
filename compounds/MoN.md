@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/MoN.html · Markdown: https://da
 
 11 accepted literature formation-enthalpy value(s) (model 9, unspecified 2); Materials Project -52.788 kJ/mol-atom (mp-aaaaaeed); OQMD -45.43 kJ/mol-atom (oqmd-19511).
 
-Systems: [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) · [Mo–N](https://data.orchid-project.org/systems/MO-N.html)
+Systems: [Mo–N](https://data.orchid-project.org/systems/MO-N.html)
 
 ## Literature values
 
@@ -22,7 +22,7 @@ Table: Enthalpy of formation of MoN reported in the literature (11)
 | -44.286 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites The 2019_ | Table 2, p. 6, row 9 |  |
 | -39.2512 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
 | -39.251 kJ/mol-atom | MoN-delta | 0 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023; _cites Klimashin 2016_ [doi](https://doi.org/10.1063/1.4966664) | Table 2, p. 6, row 7 |  |
-| -24.5 kJ/mol-atom | MoN | 298.15 | model |  | [Cr–Mo–N](https://data.orchid-project.org/systems/CR-MO-N.html) | [2] Frisk 1991 | Table I, p. 6, row 9 |  |
+| -24.5 kJ/mol-atom | MoN | 298.15 | model |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [2] Frisk 1991 | Table I, p. 6, row 9 |  |
 | -37.7537 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
 | -37.753 kJ/mol-atom | MoN-delta | 0 | unspecified |  | [Mo–N](https://data.orchid-project.org/systems/MO-N.html) | [1] Daclan 2023 | Table 2, p. 6, row 6 |  |
 
@@ -34,17 +34,17 @@ Table: Uncertainty budget of the literature values of MoN
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -53.7423 | kJ/mol-atom |  | 0.04824 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -53.742 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51.8126 | kJ/mol-atom |  | 0.04824 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -51.812 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -44.2868 | kJ/mol-atom |  | 0.04824 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -44.286 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.2512 | kJ/mol-atom |  | 4.824e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.251 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -37.7537 | kJ/mol-atom |  | 4.824e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -37.753 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -53.7423 | kJ/mol-atom |  | 0.04824 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -53.742 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51.8126 | kJ/mol-atom |  | 0.04824 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -51.812 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -44.2868 | kJ/mol-atom |  | 0.04824 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -44.286 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.2512 | kJ/mol-atom |  | 4.824e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.251 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -24.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -37.7537 | kJ/mol-atom |  | 4.824e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -37.753 | kJ/mol-atom |  | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -55,7 +55,7 @@ Table: DFT formation energy of MoN
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaaeed | -52.788 | -0.547112 | P6_3mc | 0 | 0 | no |
-| OQMD | oqmd-19511 | -45.43 | -0.470852 | P63mc | 0.073 | 8.000e-4 | no |
+| OQMD | oqmd-19511 | -45.43 | -0.470852 | P63mc | 0.0731 | 8.000e-4 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

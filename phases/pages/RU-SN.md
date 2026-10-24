@@ -17,7 +17,7 @@ Table: Phases of the Ru–Sn system (8)
 | [BCC_A2](#phase-ru-sn-bcc-a2); _phase:ru-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ru-sn-fcc-a1); _phase:ru-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [HCP_A3](#phase-ru-sn-hcp-a3); _phase:ru-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2635.71 K, x(Sn) 0–0.02449 | 2 | 2 |
-| [LIQUID](#phase-ru-sn-liquid); _phase:ru-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1 | 232 | 2 |
+| [LIQUID](#phase-ru-sn-liquid); _phase:ru-sn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1 | 229 | 2 |
 | [RU2SN3](#phase-ru-sn-ru2sn3); _phase:ru-sn:ru2sn3_ | Ru2Sn3 · tP20 · P-4c2 (116) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1535.35 K, x(Sn) 0.6–0.6 | 4 | 2 |
 | [RU3SN7_D8F](#phase-ru-sn-ru3sn7-d8f); _phase:ru-sn:ru3sn7-d8f_ | Ru3Sn7 · D8_f · cI40 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1529.95 K, x(Sn) 0.7–0.7 | 6 | 2 |
 
@@ -209,7 +209,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ru-sn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 505.08–4000 K, x(Sn) 0–1
-- Literature: 232 values (232 accepted) from 2 papers
+- Literature: 229 values (229 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ru-sn:liquid)
 
 Names (6): _corpus: _corpus:phase:ru-sn:liquid  

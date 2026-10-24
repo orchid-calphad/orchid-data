@@ -1,8 +1,7 @@
 {
  "components": [
   "LI",
-  "SN",
-  "VA"
+  "SN"
  ],
  "phases": [
   "BCT_A5",
@@ -499,7 +498,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 4,
+  "points_left_out": 0,
   "source": "assessed-phase-assemblages/espei-zpf/LI-SN-p603.json"
  },
  "orchid_uncertainty_budget": {

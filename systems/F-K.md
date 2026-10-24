@@ -1,10 +1,10 @@
 # F–K system
 
-> F–K system: 7 accepted literature values (invariant reaction 6, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> F–K system: 11 accepted literature values (invariant reaction 6, crystal structure 2, formation 2, phase transition 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/F-K.html · Markdown: https://data.orchid-project.org/systems/F-K.md
 
-7 accepted literature values from 1 paper(s) (experimental 3, model 4); 0 calculated phase diagram(s).
+11 accepted literature values from 1 paper(s) (experimental 5, model 4, DFT 2); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/F-K.json) · [CSV](https://data.orchid-project.org/systems/F-K.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#F-K) · [phases (7)](https://data.orchid-project.org/phases/pages/F-K.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/F-K.html) · [Markdown](https://data.orchid-project.org/systems/F-K.md)
 
@@ -12,8 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 3 |
+| experimental | 5 |
 | model | 4 |
+| DFT | 2 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 1 |
+| formation | 2 |
+| crystal structure | 2 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/F/F-K.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/F/F-K.json)
 
@@ -37,6 +40,17 @@ Table: Invariant reactions reported in the literature for the F–K system (6)
 | 1120 | Liquid 1 = liquid 2 + KF | Liquid 1: F 0.49; liquid 2: F 0.322; KF: F 0.5; L1: F 0.49; L2: F 0.322 | model | [1] Zhang 2006 | Table 5, p. 9, row 3 |  |
 | 337 | Liquid = bcc + KF | Liquid: F 2.500e-5; bcc: F 2.500e-5; KF: F 0.5 | model | [1] Zhang 2006 | Table 5, p. 9, row 6 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, F–K system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| KF | [KF](https://data.orchid-project.org/compounds/KF.html) | -284.305 kJ/mol-atom | 298.15 | experimental | -283.123 (mp-aaaaaarv) | -281.083 (oqmd-1442813) | [1] Zhang 2006; _cites Chase 1998_ | Table 2, p. 3, row 27 |  |
+| KF |  | -264.865 kJ/mol-atom | 0 | DFT |  |  | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
+
 ## Other properties
 
 ### Phase transition (1)
@@ -46,6 +60,15 @@ Table: Phase transition, F–K system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1177 K | 1177 | other | experimental | [1] Zhang 2006 | p. 2 | “The composition of the consolute point was extrapolated to be 44.4 at.% F at 1177 K.” |
+
+### Crystal structure (2)
+
+Table: Crystal structure, F–K system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: Lattice constant a_ | 5.333 Å |  | KF; _alloy: K 0.5_ | experimental | [1] Zhang 2006; _cites Broch 1929_ [doi](https://doi.org/10.1515/zpch-1929-0314) | Table 2, p. 3, row 8 |  |
+| Lattice a; _printed: Lattice constant a_ | 5.178 Å | 0 | KF; _alloy: K 0.5_ | DFT | [1] Zhang 2006 | Table 2, p. 3, row 26 |  |
 
 ## Sources
 

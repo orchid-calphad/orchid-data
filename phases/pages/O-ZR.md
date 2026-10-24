@@ -12,7 +12,7 @@ Table: Phases of the O–Zr system (15)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-o-zr-bcc-a2); _phase:o-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1138–2255.73 K, x(O) 0–0.11818 | 49 | 7 |
+| [BCC_A2](#phase-o-zr-bcc-a2); _phase:o-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 1138–2255.73 K, x(O) 0–0.11818 | 45 | 7 |
 | [FLUORITE_C1](#phase-o-zr-c1-fluorite); _phase:o-zr:c1-fluorite_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 1789.79–3069.93 K, x(O) 0.61667–0.66666 | 6 | 3 |
 | [FCC_A1](#phase-o-zr-fcc-a1); _phase:o-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 7 |
 | [GAS](#phase-o-zr-gas); _phase:o-zr:gas_ | gas | gas | stable in 6 of 6 calculated diagram(s): 300.49–4000 K, x(O) 0.9431–1 | 0 | 7 |
@@ -33,11 +33,11 @@ Table: Phases of the O–Zr system (15)
 - Id: `phase:o-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 1138–2255.73 K, x(O) 0–0.11818
-- Literature: 49 values (49 accepted) from 3 papers
+- Literature: 45 values (45 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:o-zr:bcc-a2)
 
-Names (14): _corpus: _corpus:phase:o-zr:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2004.09.002:bcc, paper:10.1016/j.calphad.2004.09.002:β, paper:10.1016/j.calphad.2004.09.002:β-ZrO2, paper:10.1016/s0022-3115(98)00450-4:β, paper:10.1016/s0364-5916(02)00027-5:BCC, paper:10.1016/s0364-5916(02)00027-5:β ZrO2-x  
+Names (12): _corpus: _corpus:phase:o-zr:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2004.09.002:bcc, paper:10.1016/j.calphad.2004.09.002:β, paper:10.1016/s0022-3115(98)00450-4:β, paper:10.1016/s0364-5916(02)00027-5:BCC  
 _tdb: _tdb:ZrO-01Lia-LB.tdb:BCC_A2, tdb:ZrO-02Arr.tdb:BCC_A2, tdb:ZrO-04Che.tdb:BCC_A2, tdb:ZrO-04Wan.tdb:BCC_A2, tdb:ZrO-06Wan.tdb:BCC_A2, tdb:ZrO-23Jia.tdb:BCC_A2, tdb:ZrO-98Che.tdb:BCC_A2  
 
 

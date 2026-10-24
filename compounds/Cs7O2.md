@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs7O2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -75.8111 | kJ/mol-atom |  | 0.005556 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -64 | kJ/mol-atom |  | 0.05556 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -75.8111 | kJ/mol-atom |  | 0.005556 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -64 | kJ/mol-atom |  | 0.005556 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

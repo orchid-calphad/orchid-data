@@ -1,10 +1,10 @@
 # Ag–O system
 
-> Ag–O system: 65 accepted literature values (activity / EMF / Gibbs energy 26, invariant reaction 16, formation 11, heat capacity / entropy / enthalpy 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–O system: 63 accepted literature values (model expression 19, invariant reaction 16, formation 11, heat capacity / entropy / enthalpy 7) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-O.html · Markdown: https://data.orchid-project.org/systems/AG-O.md
 
-65 accepted literature values from 1 paper(s) (experimental 40, model 25); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+63 accepted literature values from 1 paper(s) (experimental 38, model 25); 1 calculated phase diagram(s). 4 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-O.json) · [CSV](https://data.orchid-project.org/systems/AG-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-O/AgO-97Ass-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/AG-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-O.html) · [Markdown](https://data.orchid-project.org/systems/AG-O.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 40 |
+| experimental | 38 |
 | model | 25 |
 
 Table: Accepted values by property group
@@ -23,7 +23,8 @@ Table: Accepted values by property group
 | phase transition | 5 |
 | formation | 11 |
 | heat capacity / entropy / enthalpy | 7 |
-| activity / EMF / Gibbs energy | 26 |
+| activity / EMF / Gibbs energy | 5 |
+| model expression | 19 |
 
 ## Calculated phase diagrams
 
@@ -114,7 +115,7 @@ Table: Heat capacity / entropy / enthalpy, Ag–O system
 | Heat capacity; _printed: Cp_ | 21.8667 J/mol-atom/K | 298.15 | Ag2O; _alloy: O 0.333333_ | experimental | [1] Assal 1997; _cites Pitzer 1937_ | Table IV, p. 6, row 1 |  |
 | Heat capacity; _printed: Cp_ | 22.2667 J/mol-atom/K | 298.15 | Ag2O; _alloy: O 0.333333_ | experimental | [1] Assal 1997; _cites Kobayashi 1951_ | Table IV, p. 6, row 2 |  |
 
-### Activity / EMF / Gibbs energy (26)
+### Activity / EMF / Gibbs energy (5)
 
 Table: Activity / EMF / Gibbs energy, Ag–O system
 
@@ -122,30 +123,35 @@ Table: Activity / EMF / Gibbs energy, Ag–O system
 |---|---:|---:|---|---|---|---|---|
 | Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | UNKNOWN | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1 |  |
 | Gibbs energy; _printed: Δ°G_ | -7028 J/mol |  | UNKNOWN | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 1 |  |
-| Gibbs energy; _printed: Δ°G_ | -6887 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Sieverts 1909_ | Table I, p. 2, row 13 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -17872 J/mol | 1273 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Baker 1968_ | Table I, p. 2, row 7 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 5.79 J/mol/K | 1276.5 | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 11 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -14759 J/mol | 1276.5 | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 11 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -15614 J/mol | 1298 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Magill 1988_ | Table I, p. 2, row 10 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 6.76 J/mol/K | 1298 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Magill 1988_ | Table I, p. 2, row 10 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -14940 J/mol | 1335 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Lupis 1968_ | Table I, p. 2, row 8 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 21.68 J/mol/K | 1335 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Lupis 1968_ | Table I, p. 2, row 8 |  |
 | Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | UNKNOWN | experimental | [1] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 5.98 J/mol/K | 1348 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Shah 1967_ | Table I, p. 2, row 6 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -14473 J/mol | 1348 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Shah 1967_ | Table I, p. 2, row 6 |  |
-| Gibbs energy; _printed: Δ°G_ | -6975 J/mol | 1348 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Donnan 1910_ | Table I, p. 2, row 2 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 21.22 J/mol/K | 1365 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Diaz 1966_ | Table I, p. 2, row 4 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -14145 J/mol | 1365 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Diaz 1966_ | Table I, p. 2, row 4 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -13904 J/mol | 1379.5 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Parlee 1965_ | Table I, p. 2, row 3 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 5.41 J/mol/K | 1379.5 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Parlee 1965_ | Table I, p. 2, row 3 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 6.52 J/mol/K | 1463 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Otsuka 1981_ | Table I, p. 2, row 9 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -16140 J/mol | 1463 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Otsuka 1981_ | Table I, p. 2, row 9 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 18.04 J/mol/K | 1473 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Fischer 1966_ | Table I, p. 2, row 5 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -10463 J/mol | 1473 | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Fischer 1966_ | Table I, p. 2, row 5 |  |
-| Gibbs energy; _printed: Δ°G (constant term A of A + B·T)_ | -15004 J/mol | 1513 | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 12 |  |
-| Gibbs energy; _printed: Δ°G (coefficient B of A + B·T)_ | 5.97 J/mol/K | 1513 | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 12 |  |
 | Vapour pressure; _printed: PO2_ | 5.370e7 Pa | 803 |  | model | [1] Assal 1997; _cites Keyes 1922_ | p. 1 | “Using the silver-Ag2 O equilibrium measurements from Keyes and Hara,14 they could calculate the eutectic point (i.e., the intersection of these three equilibria) and found T 4 803 K and PO2 4 5.37 × 107 Pa.” |
 | Vapour pressure; _printed: PO2_ | 5.260e7 Pa | 803.6 |  | model | [1] Assal 1997 | p. 6 | “The calculated eutectic point is at T 4 803.6 K, PO2 4 5.26 × 107 Pa, and xO 4 0.2514.” |
+
+### Model expression (19)
+
+Table: Model expression, Ag–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 5.98 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Shah 1967_ | Table I, p. 2, row 6 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -14473 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Shah 1967_ | Table I, p. 2, row 6 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -14940 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Lupis 1968_ | Table I, p. 2, row 8 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 21.68 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Lupis 1968_ | Table I, p. 2, row 8 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 18.04 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Fischer 1966_ | Table I, p. 2, row 5 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -10463 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Fischer 1966_ | Table I, p. 2, row 5 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 21.22 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Diaz 1966_ | Table I, p. 2, row 4 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -14145 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Diaz 1966_ | Table I, p. 2, row 4 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -15004 J/mol |  | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 12 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 5.97 J/mol/K |  | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 12 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -13904 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Parlee 1965_ | Table I, p. 2, row 3 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 5.41 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Parlee 1965_ | Table I, p. 2, row 3 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 6.52 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Otsuka 1981_ | Table I, p. 2, row 9 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -16140 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Otsuka 1981_ | Table I, p. 2, row 9 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -15614 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Magill 1988_ | Table I, p. 2, row 10 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 6.76 J/mol/K |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Magill 1988_ | Table I, p. 2, row 10 |  |
+| gibbs energy expression term; _printed: Δ°G (coefficient B of A + B·T)_ | 5.79 J/mol/K |  | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 11 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -14759 J/mol |  | liquid Ag; _alloy: O 0_ | model | [1] Assal 1997 | Table I, p. 2, row 11 |  |
+| gibbs energy expression term; _printed: Δ°G (constant term A of A + B·T)_ | -17872 J/mol |  | liquid Ag; _alloy: O 0_ | experimental | [1] Assal 1997; _cites Baker 1968_ | Table I, p. 2, row 7 |  |
 
 ## Sources
 

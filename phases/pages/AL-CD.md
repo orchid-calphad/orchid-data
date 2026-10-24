@@ -12,8 +12,8 @@ Table: Phases of the Al–Cd system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-al-cd-bcc-a2); _phase:al-cd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 2 | 1 |
-| [FCC_A1](#phase-al-cd-fcc-a1); _phase:al-cd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–935.47 K, x(Cd) 0–0.00142 | 3 | 1 |
+| [BCC_A2](#phase-al-cd-bcc-a2); _phase:al-cd:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
+| [FCC_A1](#phase-al-cd-fcc-a1); _phase:al-cd:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–935.47 K, x(Cd) 0–0.00142 | 0 | 1 |
 | [HCP_A3](#phase-al-cd-hcp-a3); _phase:al-cd:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–593.38 K, x(Cd) 0.99998–1 | 0 | 1 |
 | [LIQUID](#phase-al-cd-liquid); _phase:al-cd:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 593.38–2500 K, x(Cd) 0–1 | 38 | 1 |
 
@@ -22,11 +22,10 @@ Table: Phases of the Al–Cd system (4)
 - Id: `phase:al-cd:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cd:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:al-cd:bcc-a2  
-_paper: _paper:10.1007/bf02892376:ε  
+Names (2): _corpus: _corpus:phase:al-cd:bcc-a2  
 _tdb: _tdb:AlCd-82McA.tdb:BCC_A2  
 
 
@@ -42,18 +41,17 @@ _tdb: _tdb:AlCd-82McA.tdb:BCC_A2
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02892376](https://doi.org/10.1007/BF02892376) A.J. McAlister, Bull. Alloy Phase Diag., 3, 172-77(1982).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## FCC_A1 (Al–Cd)
 
 - Id: `phase:al-cd:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–935.47 K, x(Cd) 0–0.00142
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cd:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:al-cd:fcc-a1  
-_paper: _paper:10.1007/bf02892376:α  
+Names (2): _corpus: _corpus:phase:al-cd:fcc-a1  
 _tdb: _tdb:AlCd-82McA.tdb:FCC_A1  
 
 
@@ -69,7 +67,7 @@ _tdb: _tdb:AlCd-82McA.tdb:FCC_A1
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1007/BF02892376](https://doi.org/10.1007/BF02892376) A.J. McAlister, Bull. Alloy Phase Diag., 3, 172-77(1982).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## HCP_A3 (Al–Cd)
 

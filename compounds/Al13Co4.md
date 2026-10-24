@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Al13Co4.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html)
+Systems: [Al–Co](https://data.orchid-project.org/systems/AL-CO.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Al13Co4 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.46 kJ/mol-atom | o’-Al13Co4 | 0 | DFT | DFT | [Al–Co–W](https://data.orchid-project.org/systems/AL-CO-W.html) | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 8 |  |
+| -39.46 kJ/mol-atom | o’-Al13Co4 | 0 | DFT | DFT | [Al–Co](https://data.orchid-project.org/systems/AL-CO.html) | [1] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 8 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Al13Co4
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -39.46 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -39.46 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## Sources
 

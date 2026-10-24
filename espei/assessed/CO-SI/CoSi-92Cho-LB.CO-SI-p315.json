@@ -5,8 +5,6 @@
   "VA"
  ],
  "phases": [
-  "CO2SI_C37",
-  "CO3SI_D019",
   "COSI2_C1",
   "COSI_B20",
   "DIAMOND_A4",
@@ -22,7 +20,6 @@
    1153.199811,
    1279.199811,
    1435.199811,
-   1480.699811,
    1495.199811,
    1743.699811,
    1617.699811,
@@ -158,35 +155,6 @@
     ],
     [
      0.3299880694
-    ]
-   ]
-  ],
-  [
-   [
-    "CO3SI_D019",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO2SI_C37",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.2859139799
     ]
    ]
   ],
@@ -392,7 +360,6 @@
    "aspa-e3ec3bfaf6e6c1ea",
    "aspa-b3661e1ef6e05380",
    "aspa-6784e733d23dc166",
-   "aspa-43528a8bb9cb6148",
    "aspa-ac3ab17e0f1da0ca",
    "aspa-f59d8aa0fb9fd92f",
    "aspa-9c3d7e0cff9d9c25",
@@ -406,7 +373,6 @@
    "medium",
    "medium",
    "high",
-   "medium",
    "medium",
    "high",
    "high",
@@ -505,23 +471,6 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.00701179,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-43528a8bb9cb6148",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 0.687,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 10.5,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672421,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0360606,
      "sigma_effective": 0.02
     }
    },

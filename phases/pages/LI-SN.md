@@ -13,8 +13,8 @@ Table: Phases of the Li–Sn system (15)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-li-sn-a4-diamond); _phase:li-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [BCT_A5](#phase-li-sn-a5-bct); _phase:li-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 10 | 3 |
-| [BCC_A2](#phase-li-sn-bcc-a2); _phase:li-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Sn) 0–0.4496 | 13 | 3 |
+| [BCT_A5](#phase-li-sn-a5-bct); _phase:li-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 7 | 3 |
+| [BCC_A2](#phase-li-sn-bcc-a2); _phase:li-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Sn) 0–0.4496 | 11 | 3 |
 | [FCC_A1](#phase-li-sn-fcc-a1); _phase:li-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 3 calculated diagram(s): 1091.34–2500 K, x(Sn) 0.39257–0.58597 | 0 | 3 |
 | [HCP_A3](#phase-li-sn-hcp-a3); _phase:li-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LI13SN5](#phase-li-sn-li13sn5); _phase:li-sn:li13sn5_ | Li13Sn5 · hP18 · P-3m1 (164) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–994.84 K, x(Sn) 0.27778–0.27778 | 27 | 3 |
@@ -79,11 +79,11 @@ _assessment that models this phase_
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sn:a5-bct)
 
-Names (8): _corpus: _corpus:phase:li-sn:a5-bct, corpus:phase:li-sn:bct-a5  
-_paper: _paper:10.1016/j.calphad.2014.09.002:(βSn), paper:10.1016/j.calphad.2014.09.002:βSn, paper:10.1016/j.jallcom.2004.09.047:(βSn)  
+Names (7): _corpus: _corpus:phase:li-sn:a5-bct, corpus:phase:li-sn:bct-a5  
+_paper: _paper:10.1016/j.calphad.2014.09.002:(βSn), paper:10.1016/j.jallcom.2004.09.047:(βSn)  
 _tdb: _tdb:LiSn-05Yin-LB.tdb:BCT_A5, tdb:LiSn-06Du.tdb:BCT_A5, tdb:LiSn-14Li.tdb:BCT_A5  
 
 
@@ -110,7 +110,7 @@ _tdb: _tdb:LiSn-05Yin-LB.tdb:BCT_A5, tdb:LiSn-06Du.tdb:BCT_A5, tdb:LiSn-14Li.tdb
 53: CONST BCT_A5 : SN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.09.002](https://doi.org/10.1016/j.calphad.2014.09.002) D. Li, S. Fürtauer, H. Flandorfer, D.M. Cupid, Thermodynamic assessment and experimental investigation of the Li–Sn system, Calphad 47, 181-195 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -118,8 +118,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-2006-0002](https://doi.org/10.1515/ijmr-2006-0002) Z. Du, Z. Jiang, C. Guo, Z. Metallkd., 97, 10-16(2006).  
 _assessment that models this phase_
-- [doi:10.1016/0001-6160(64)90039-2](https://doi.org/10.1016/0001-6160%2864%2990039-2) W.J. Helfrich, R.A. Dodd, Densities and lattice parameters of tin (indium) solid solutions, Acta Metallurgica 12, 667-669 (1964).  
-_cited as the source of values for this phase_
 - [doi:10.1007/s12385-006-5008-6](https://doi.org/10.1007/s12385-006-5008-6) J. Sangster, C.W. Bale, The Li–Sn (lithium–tin) system, J. Phase Equilib. 19 (1998) 70–75.  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19100670114](https://doi.org/10.1002/zaac.19100670114) G. Masing, G. Tammann, Metallographische Mitteilungen aus dem Institut für physikalische Chemie der Universität Göttingen. LXXV. Über das Verhalten von Lithium zu Natrium, Kalium, Zinn, Cadmium und Magnesium, Z. Anorg. Chem. 67, 183-199 (1910).  
@@ -130,11 +128,11 @@ _cited as the source of values for this phase_
 - Id: `phase:li-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Sn) 0–0.4496
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 11 values (11 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-sn:bcc-a2)
 
-Names (7): _corpus: _corpus:phase:li-sn:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.09.002:(βLi), paper:10.1016/j.calphad.2014.09.002:βLi, paper:10.1016/j.jallcom.2004.09.047:(βLi)  
+Names (6): _corpus: _corpus:phase:li-sn:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.09.002:(βLi), paper:10.1016/j.jallcom.2004.09.047:(βLi)  
 _tdb: _tdb:LiSn-05Yin-LB.tdb:BCC_A2, tdb:LiSn-06Du.tdb:BCC_A2, tdb:LiSn-14Li.tdb:BCC_A2  
 
 
@@ -161,7 +159,7 @@ _tdb: _tdb:LiSn-05Yin-LB.tdb:BCC_A2, tdb:LiSn-06Du.tdb:BCC_A2, tdb:LiSn-14Li.tdb
 38: CONST BCC_A2 : LI% SN : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.09.002](https://doi.org/10.1016/j.calphad.2014.09.002) D. Li, S. Fürtauer, H. Flandorfer, D.M. Cupid, Thermodynamic assessment and experimental investigation of the Li–Sn system, Calphad 47, 181-195 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -170,8 +168,6 @@ _assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-2006-0002](https://doi.org/10.1515/ijmr-2006-0002) Z. Du, Z. Jiang, C. Guo, Z. Metallkd., 97, 10-16(2006).  
 _assessment that models this phase_
 - [doi:10.1007/s12385-006-5008-6](https://doi.org/10.1007/s12385-006-5008-6) J. Sangster, C.W. Bale, The Li–Sn (lithium–tin) system, J. Phase Equilib. 19 (1998) 70–75.  
-_cited as the source of values for this phase_
-- [doi:10.1103/physrevb.40.12086](https://doi.org/10.1103/physrevb.40.12086) R. Berliner, O. Fajen, H. G. Smith, R. L. Hitterman, Neutron powder-diffraction studies of lithium, sodium, and potassium metal, Phys. Rev. B 40, 12086-12097 (1989).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19100670114](https://doi.org/10.1002/zaac.19100670114) G. Masing, G. Tammann, Metallographische Mitteilungen aus dem Institut für physikalische Chemie der Universität Göttingen. LXXV. Über das Verhalten von Lithium zu Natrium, Kalium, Zinn, Cadmium und Magnesium, Z. Anorg. Chem. 67, 183-199 (1910).  
 _cited as the source of values for this phase_

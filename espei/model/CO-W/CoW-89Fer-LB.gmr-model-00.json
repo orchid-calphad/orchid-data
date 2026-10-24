@@ -128,7 +128,7 @@
      "sigma_effective": 1000.0,
      "method_class": "model_calculated",
      "method_basis": "prior",
-     "method_n_pairs": 157,
+     "method_n_pairs": 115,
      "method_entry": "model/G_MIX_PARTIAL"
     },
     "sigma_effective_used": 1000.0,
@@ -140,7 +140,7 @@
     "sigma_basis": "not printed",
     "budget": {
      "sigma_printed": null,
-     "sigma_reading": 0.5,
+     "sigma_reading": 0.05,
      "sigma_method": 1000.0,
      "sigma_composition": null,
      "sigma_scatter": null,
@@ -148,7 +148,7 @@
      "sigma_effective": 1000.0,
      "method_class": "model_calculated",
      "method_basis": "prior",
-     "method_n_pairs": 157,
+     "method_n_pairs": 115,
      "method_entry": "model/G_MIX_PARTIAL"
     },
     "sigma_effective_used": 1000.0,

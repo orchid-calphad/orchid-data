@@ -67,8 +67,8 @@ Table: Invariant reactions reported in the literature for the Co–U system (22)
 | 1403.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 19 |  |
 | 1398.15 | congruent melting: L -> Co11 U2 | L: Co 0.846; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 20 |  |
 | 1393.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 21 |  |
-| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.969; fcc (Co): Co 0; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 6 |  |
-| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.96; fcc (Co): Co 1.000e-4; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 5 |  |
+| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.969; fcc (Co): Co 1; Co11 U2: Co 0.846 | model | [1] Wang 2008 | Table 3, p. 7, row 6 |  |
+| 1393.15 | eutectic: L -> fcc (Co) + Co11 U2 | L: Co 0.96; fcc (Co): Co 0.9999; Co11 U2: Co 0.846 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 5 |  |
 | 1387.15 | congruent melting: L -> Co4U | L: Co 0.8; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 22 |  |
 | 1387.15 | eutectic: L -> Co11 U2 + Co4U | L: Co 0.805; Co11 U2: Co 0.846; Co4U: Co 0.8 | model | [1] Wang 2008 | Table 3, p. 7, row 8 |  |
 | 1385.15 | eutectic: L -> Co4U + Co2U | L: Co 0.779; Co4U: Co 0.8; Co2U: Co 0.667 | model | [1] Wang 2008 | Table 3, p. 7, row 10 |  |
@@ -76,12 +76,12 @@ Table: Invariant reactions reported in the literature for the Co–U system (22)
 | 1363.15 | eutectic: L -> Co4U + Co2U | L: Co 0.77; Co4U: Co 0.8; Co2U: Co 0.667 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 9 |  |
 | 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | model | [1] Wang 2008 | Table 3, p. 7, row 2 |  |
 | 1103.15 | peritectoid: Co4U + Co2 U -> Co3U | Co4U: Co 0.8; Co2 U: Co 0.75; Co3U: Co 0.75 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 1 |  |
-| 1099.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.215; γ(U): Co 0.985; CoU 6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 13 |  |
-| 1097.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.216; γ(U): Co 0.968; CoU 6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 14 |  |
+| 1099.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.215; γ(U): Co 0.015; CoU 6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 13 |  |
+| 1097.15 | peritectic: L + γ(U) -> CoU 6 | L: Co 0.216; γ(U): Co 0.032; CoU 6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 14 |  |
 | 1078.15 | peritectic: L + Co2U -> CoU | L: Co 0.427; Co2U: Co 0.667; CoU: Co 0.5 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 15 |  |
 | 1077.15 | peritectic: L + Co2U -> CoU | L: Co 0.437; Co2U: Co 0.667; CoU: Co 0.5 | model | [1] Wang 2008 | Table 3, p. 7, row 16 |  |
-| 1031.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.968; α (U): Co 6.000e-4 | model | [1] Wang 2008 | Table 3, p. 7, row 4 |  |
-| 1029.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.985; α (U): Co 6.000e-4 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 3 |  |
+| 1031.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.032; α (U): Co 6.000e-4 | model | [1] Wang 2008 | Table 3, p. 7, row 4 |  |
+| 1029.15 | peritectoid: CoU6 + γ (U) -> α (U) | CoU6: Co 0.846; γ (U): Co 0.015; α (U): Co 6.000e-4 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 3 |  |
 | 1010.15 | eutectic: L -> CoU + CoU6 | L: Co 0.353; CoU: Co 0.5; CoU6: Co 0.143 | model | [1] Wang 2008 | Table 3, p. 7, row 12 |  |
 | 1007.15 | eutectic: L -> CoU + CoU6 | L: Co 0.34; CoU: Co 0.5; CoU6: Co 0.143 | experimental | [1] Wang 2008; _cites Ishida 2000_ | Table 3, p. 7, row 11 |  |
 

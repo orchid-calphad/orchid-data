@@ -1,10 +1,10 @@
 # C–Ni–Si system
 
-> C–Ni–Si system: 123 accepted literature values (phase transition 83, invariant reaction 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Ni–Si system: 116 accepted literature values (phase transition 83, invariant reaction 33) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-NI-SI.html · Markdown: https://data.orchid-project.org/systems/C-NI-SI.md
 
-123 accepted literature values from 1 paper(s) (experimental 106, model 17); 0 calculated phase diagram(s).
+116 accepted literature values from 1 paper(s) (experimental 106, model 10); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-NI-SI.json) · [CSV](https://data.orchid-project.org/systems/C-NI-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-NI-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-NI-SI.html) · [Markdown](https://data.orchid-project.org/systems/C-NI-SI.md)
 
@@ -13,33 +13,29 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 106 |
-| model | 17 |
+| model | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 40 |
+| invariant reaction | 33 |
 | phase transition | 83 |
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the C–Ni–Si system (40)
+Table: Invariant reactions reported in the literature for the C–Ni–Si system (33)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1555.15 | L -> θ + C | L: Ni 0.655, Si 0.32; θ: Ni 0.677, Si 0.333; C: Ni 0, Si 0 | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 6, row 34 |  |
 | 1553.15 | L + C -> θ + SiC |  | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 6, row 1 |  |
-| 1545.15 | L -> θ + C | L: Ni 0.6606, Si 0.3303; θ: Ni 0.6632, Si 0.3308; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 35 |  |
 | 1543.15 | L -> γ + C | L: Ni 0.71, Si 0.28; γ: Ni 0.714, Si 0.286; C: Ni 0, Si 0 | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 6, row 36 |  |
 | 1533.15 | L + C -> θ + SiC | L: Ni 0.6354, Si 0.3565; C: Ni 0, Si 0; θ: Ni 0.6615, Si 0.3385; SiC: Ni 0, Si 0.5 | model | [1] Du 1999 | Table V, p. 6, row 3 |  |
 | 1524.15 | L + θ -> δ + C |  | experimental | [1] Du 1999 | Table V, p. 6, row 4 |  |
 | 1522.15 | L -> γ + C |  | experimental | [1] Du 1999 | Table V, p. 6, row 37 |  |
-| 1519.15 | L + θ -> δ + C | L: Ni 0.6886, Si 0.3024; θ: Ni 0.6645, Si 0.3355; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 5 |  |
 | 1512.15 | L + C -> θ + SiC |  | experimental | [1] Du 1999 | Table V, p. 6, row 2 |  |
-| 1506.15 | L -> γ + C | L: Ni 0.7075, Si 0.283; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 38 |  |
 | 1505.15 | L -> γ + δ + C |  | experimental | [1] Du 1999 | Table V, p. 6, row 6 |  |
-| 1504.15 | L -> γ + δ + C | L: Ni 0.6976, Si 0.2935; γ: Ni 0.7143, Si 0.2857; δ: Ni 0.6667, Si 0.3333; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 7 |  |
 | 1458.15 | L + δ -> β3 + C | L: Ni 0.7515, Si 0.2378; δ: Ni 0.7143, Si 0.2857; β3: Ni 0.75, Si 0.25; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 10 |  |
 | 1444.15 | L + δ -> β3 + C |  | experimental | [1] Du 1999 | Table V, p. 6, row 9 |  |
 | 1436.15 | C + θ -> δ + SiC | C: Ni 0, Si 0; θ: Ni 0.6625, Si 0.3375; δ: Ni 0.6667, Si 0.3333; SiC: Ni 0, Si 0.5 | model | [1] Du 1999 | Table V, p. 6, row 12 |  |
@@ -48,11 +44,8 @@ Table: Invariant reactions reported in the literature for the C–Ni–Si system
 | 1419.15 | L -> (Ni) + C + β3 |  | experimental | [1] Du 1999 | Table V, p. 6, row 14 |  |
 | 1418.15 | L -> (Ni) + C + β3 | L: Ni 0.78, Si 0.19; (Ni): Ni 0.822, Si 0.175; C: Ni 0, Si 0; β3: Ni 0.75, Si 0.25 | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 6, row 13 |  |
 | 1410.15 | L -> (Ni) + C + β3 | L: Ni 0.7812, Si 0.2069; (Ni): Ni 0.8302, Si 0.1685; C: Ni 0, Si 0; β3: Ni 0.75, Si 0.25 | model | [1] Du 1999 | Table V, p. 6, row 15 |  |
-| 1400.15 | β3 -> β2, γ, C | β3: Ni 0.75, Si 0.25; β2: Ni 0.75, Si 0.25; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 17 |  |
 | 1400.15 | β3 -> β2, γ, C |  | experimental | [1] Du 1999 | Table V, p. 6, row 16 |  |
-| 1314.15 | (Ni) + β2 -> β1 + C | (Ni): Ni 0.831, Si 0.168; β2: Ni 0.75, Si 0.25; β1: Ni 0.7706, Si 0.2294; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 19 |  |
 | 1310.15 | (Ni) + β2 -> β1 + C |  | experimental | [1] Du 1999 | Table V, p. 6, row 18 |  |
-| 1288.15 | β2 -> β1 + γ, C | β2: Ni 0.75, Si 0.25; β1: Ni 0.7579, Si 0.2421; γ: Ni 0.7143, Si 0.2857; C: Ni 0, Si 0 | model | [1] Du 1999 | Table V, p. 6, row 21 |  |
 | 1288.15 | β2 -> β1 + γ, C |  | experimental | [1] Du 1999 | Table V, p. 6, row 20 |  |
 | 1266.15 | L + (Si) -> NiSi2 + SiC | L: Ni 0.395, Si 0.6; (Si): Ni 0, Si 0.99; NiSi2: Ni 0.333, Si 0.667; SiC: Ni 0, Si 0.5 | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 6, row 22 |  |
 | 1265.15 | L -> NiSi + SiC |  | experimental | [1] Du 1999; _cites Brukl 1969_ | Table V, p. 7, row 1 |  |

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga2Te3.html · Markdown: https:/
 
 5 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 2); experimental median -39.2 kJ/mol-atom (n = 2); Materials Project -55.499 kJ/mol-atom (mp-aaaacfqw); OQMD -30.03 kJ/mol-atom (oqmd-2169177).
 
-Systems: [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html)
+Systems: [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ga2Te3 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -39.8 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 10 |  |
-| -38.6 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 9 |  |
-| -38.194 kJ/mol-atom | Ga2Te3 | 298.15 | model | CALPHAD | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 8 |  |
-| -35.511 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 6 |  |
-| -29.99 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Li–Sr–Te](https://data.orchid-project.org/systems/GA-LI-SR-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 7 |  |
+| -39.8 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 10 |  |
+| -38.6 kJ/mol-atom | Ga2Te3 | 298.15 | experimental | Calorimetry | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Said 1979_ [doi](https://doi.org/10.1016/0022-5088%2879%2990059-6) | Table 2, p. 5, row 9 |  |
+| -38.194 kJ/mol-atom | Ga2Te3 | 298.15 | model | CALPHAD | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 8 |  |
+| -35.511 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022 | Table 2, p. 5, row 6 |  |
+| -29.99 kJ/mol-atom | Ga2Te3 | 0 | DFT | First-principles | [Ga–Te](https://data.orchid-project.org/systems/GA-TE.html) | [1] Yu 2022; _cites Saal 2013_ [doi](https://doi.org/10.1007/s11837-013-0755-4) | Table 2, p. 5, row 7 |  |
 
 ### Uncertainty budget
 
@@ -30,9 +30,9 @@ Table: Uncertainty budget of the literature values of Ga2Te3
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -39.8 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -38.6 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -38.194 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -35.511 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -29.99 | kJ/mol-atom |  | 0.005 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -38.194 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -35.511 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -29.99 | kJ/mol-atom |  | 0.005 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -43,7 +43,7 @@ Table: DFT formation energy of Ga2Te3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaacfqw | -55.499 | -0.575208 | Cc | 0 | 0 | yes |
-| OQMD | oqmd-2169177 | -30.03 | -0.311236 | Fdd2 | 0.59 | 0.0061 | yes |
+| OQMD | oqmd-2169177 | -30.03 | -0.311236 | Fdd2 | 0.5897 | 0.0061 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

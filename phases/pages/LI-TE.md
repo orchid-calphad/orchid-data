@@ -18,7 +18,7 @@ Table: Phases of the Li–Te system (7)
 | [HCP_A3](#phase-li-te-hcp-a3); _phase:li-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [LI2TE_C1](#phase-li-te-li2te-c1); _phase:li-te:li2te-c1_ | CaF2 · C1 · cF12 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1528.07 K, x(Te) 0.33333–0.33333 | 10 | 1 |
 | [LIQUID](#phase-li-te-liquid); _phase:li-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 453.6–2500 K, x(Te) 0–1 | 12 | 1 |
-| [LITE3](#phase-li-te-lite3); _phase:li-te:lite3_ | LiTe3 · hP48 · P-3c1 (165) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 575.2–732.82 K, x(Te) 0.75–0.75 | 8 | 1 |
+| [LITE3](#phase-li-te-lite3); _phase:li-te:lite3_ | LiTe3 · hP48 · P-3c1 (165) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 575.2–732.82 K, x(Te) 0.75–0.75 | 10 | 1 |
 
 ## HEXAGONAL_A8 (Li–Te)
 
@@ -208,7 +208,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Li 0.2500, Te 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 575.2–732.82 K, x(Te) 0.75–0.75
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:li-te:lite3)
 
 Names (3): _corpus: _corpus:phase:li-te:lite3  

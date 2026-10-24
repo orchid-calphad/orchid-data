@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/BiEr.html · Markdown: https://d
 
 22 accepted literature formation-enthalpy value(s) (experimental 10, model 7, DFT 5); experimental median -103 kJ/mol-atom (n = 10); Materials Project -77.511 kJ/mol-atom (mp-aaaabikb); OQMD -80.472 kJ/mol-atom (oqmd-1926318).
 
-Systems: [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) · [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html)
+Systems: [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html)
 
 ## Literature values
 
@@ -14,28 +14,28 @@ Table: Enthalpy of formation of BiEr reported in the literature (22)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -109 kJ/mol-atom | BiEr | 0 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6 |  |
+| -109 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Petrashkevich 1976_ | Table 4, p. 4, row 6 |  |
 | -109 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Petrashkevich 1976_ | Table 9, p. 7, row 2 |  |
-| -109 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Petrashkevich 1976_ | Table 2, p. 5, row 12 |  |
+| -109 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Petrashkevich 1976_ | Table 2, p. 5, row 12 |  |
 | -103 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Yamshchikov 1979_ | Table 9, p. 7, row 4 |  |
-| -103 kJ/mol-atom | BiEr | 0 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7 |  |
-| -103 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Yamshchikov 1979_ | Table 2, p. 5, row 11 |  |
-| -101.3 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Sidorko 2011_ [doi](https://doi.org/10.1007/s11106-011-9339-4) | Table 2, p. 5, row 14 |  |
-| -90 kJ/mol-atom | α-ErBi | 298.15 | experimental | Calorimetry | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13 |  |
-| -90 kJ/mol-atom | BiEr | 0 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5 |  |
+| -103 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Yamshchikov 1979_ | Table 4, p. 4, row 7 |  |
+| -103 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Yamshchikov 1979_ | Table 2, p. 5, row 11 |  |
+| -101.3 kJ/mol-atom | α-ErBi | 298.15 | experimental | EMF | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Sidorko 2011_ [doi](https://doi.org/10.1007/s11106-011-9339-4) | Table 2, p. 5, row 14 |  |
+| -90 kJ/mol-atom | α-ErBi | 298.15 | experimental | Calorimetry | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 2, p. 5, row 13 |  |
+| -90 kJ/mol-atom | BiEr | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 4, p. 4, row 5 |  |
 | -90 kJ/mol-atom | ErBi | 298.15 | experimental |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Borzone 1993_ [doi](https://doi.org/10.1007/bf02671968) | Table 9, p. 7, row 3 |  |
-| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9 |  |
-| -80.35 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10 |  |
+| -83.62 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 9 |  |
+| -80.35 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2017_ [doi](https://doi.org/10.1016/j.jnucmat.2017.08.016) | Table 2, p. 5, row 10 |  |
 | -80.35 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017 | Table 9, p. 7, row 5 |  |
-| -79.131 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022 | Table 2, p. 5, row 5 |  |
+| -79.131 kJ/mol-atom | α-ErBi |  | model | CALPHAD | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 5 |  |
 | -75 kJ/mol-atom | BiEr | 0 | model | Miedima model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 4, p. 4, row 9 |  |
 | -75 kJ/mol-atom | ErBi |  | model |  | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [2] Wang 2017; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 9, p. 7, row 1 |  |
-| -75 kJ/mol-atom | α-ErBi |  | model | Miedema model | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15 |  |
-| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8 |  |
+| -75 kJ/mol-atom | α-ErBi |  | model | Miedema model | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990320-5) | Table 2, p. 5, row 15 |  |
+| -82.069 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Wang 2013_ [doi](https://doi.org/10.1007/s11669-013-0231-4) | Table 2, p. 5, row 8 |  |
 | -82.069 kJ/mol-atom | BiEr | 0 | DFT | first-principles | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [1] Wang 2013 | Table 4, p. 4, row 8 |  |
-| -80.274 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6 |  |
-| -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4 |  |
-| -77.576 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er–Te](https://data.orchid-project.org/systems/BI-ER-TE.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7 |  |
+| -80.274 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Kirklin 2015_ [doi](https://doi.org/10.1038/npjcompumats.2015.10) | Table 2, p. 5, row 6 |  |
+| -80.005 kJ/mol-atom | α-ErBi | 0 | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022 | Table 2, p. 5, row 4 |  |
+| -77.576 kJ/mol-atom | α-ErBi |  | DFT | DFT | [Bi–Er](https://data.orchid-project.org/systems/BI-ER.html) | [3] Bennoui 2022; _cites Jain 2013_ [doi](https://doi.org/10.1063/1.4812323) | Table 2, p. 5, row 7 |  |
 
 ### Uncertainty budget
 
@@ -45,28 +45,28 @@ Table: Uncertainty budget of the literature values of BiEr
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -109 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -109 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -109 | kJ/mol-atom |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -103 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -103 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -103 | kJ/mol-atom |  | 0.5 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -101.3 | kJ/mol-atom |  | 0.05 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
-| -90 | kJ/mol-atom |  | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
-| -90 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -90 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -83.62 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -80.35 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -80.35 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -79.131 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -82.069 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -80.274 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -80.005 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -77.576 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -109 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -109 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -109 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -103 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -103 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -103 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -101.3 | kJ/mol-atom |  | 0.05 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
+| -90 | kJ/mol-atom |  | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -90 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -90 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -83.62 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -80.35 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -79.131 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -75 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -75 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -75 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -82.069 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -80.274 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -80.005 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -77.576 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -77,7 +77,7 @@ Table: DFT formation energy of BiEr
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabikb | -77.511 | -0.803348 | Fm-3m | 0 | 0 | no |
-| OQMD | oqmd-1926318 | -80.472 | -0.834035 | P-3m1 | 0.002 | 0 | yes |
+| OQMD | oqmd-1926318 | -80.472 | -0.834035 | P-3m1 | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

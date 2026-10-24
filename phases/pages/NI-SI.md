@@ -15,12 +15,12 @@ Table: Phases of the Ni–Si system (19)
 | [DIAMOND_A4](#phase-ni-si-a4-diamond); _phase:ni-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–2499.34 K, x(Si) 0.99999–1 | 7 | 10 |
 | [BCC_A2](#phase-ni-si-bcc-a2); _phase:ni-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
 | [FCC_4SL](#phase-ni-si-fcc-4sl); _phase:ni-si:fcc-4sl_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–1730.22 K, x(Si) 0–0.25 | 10 | 2 |
-| [FCC_A1](#phase-ni-si-fcc-a1); _phase:ni-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 16 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029 | 36 | 16 |
+| [FCC_A1](#phase-ni-si-fcc-a1); _phase:ni-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029 | 36 | 16 |
 | [L12_FCC](#phase-ni-si-fcc-l12); _phase:ni-si:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1735.13 K, x(Si) 0–0.25273 | 19 | 4 |
 | [HCP_A3](#phase-ni-si-hcp-a3); _phase:ni-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
-| [LIQUID](#phase-ni-si-liquid); _phase:ni-si:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1 | 104 | 10 |
-| [NI2SI_C37](#phase-ni-si-ni2si-c37); _phase:ni-si:ni2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333 | 35 | 10 |
-| [NI2SI_THETA](#phase-ni-si-ni2si-theta); _phase:ni-si:ni2si-theta_ | Ni2Si · hP6 · P6_322 (182) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793 | 40 | 10 |
+| [LIQUID](#phase-ni-si-liquid); _phase:ni-si:liquid_ | liquid | liquid | stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1 | 108 | 10 |
+| [NI2SI_C37](#phase-ni-si-ni2si-c37); _phase:ni-si:ni2si-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333 | 37 | 10 |
+| [NI2SI_THETA](#phase-ni-si-ni2si-theta); _phase:ni-si:ni2si-theta_ | Ni2Si · hP6 · P6_322 (182) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793 | 42 | 10 |
 | [NI3SI_H](#phase-ni-si-ni3si-h); _phase:ni-si:ni3si-h_ |  | needs_review | stable in 10 of 10 calculated diagram(s): 1387.74–1472.58 K, x(Si) 0.2412–0.25 | 44 | 10 |
 | [NI3SI_L12](#phase-ni-si-ni3si-l12); _phase:ni-si:ni3si-l12_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1440 K, x(Si) 0.22478–0.71 | 9 | 4 |
 | [NI3SI_M](#phase-ni-si-ni3si-m); _phase:ni-si:ni3si-m_ | Ge9Pd25 · hP34 · P-3 (147) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 10 of 10 calculated diagram(s): 1260–1401.56 K, x(Si) 0.23926–0.25 | 42 | 10 |
@@ -289,7 +289,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:ni-si:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 10 of 16 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029
+- Stability: stable in 10 of 10 calculated diagram(s): 300–1739.46 K, x(Si) 0–0.17029
 - Literature: 36 values (36 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:fcc-a1)
 
@@ -609,7 +609,7 @@ _assessment that models this phase_
 - Id: `phase:ni-si:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 10 of 10 calculated diagram(s): 1216.37–2500 K, x(Si) 0–1
-- Literature: 104 values (104 accepted) from 3 papers
+- Literature: 108 values (108 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:liquid)
 
 Names (14): _corpus: _corpus:phase:ni-si:liquid  
@@ -719,7 +719,7 @@ _cited as the source of values for this phase_
 - Caveat: DFT agrees: on-hull mp-aaaaabra and oqmd-4675, space group 62
 - Stoichiometry: Ni 0.6667, Si 0.3333
 - Stability: stable in 10 of 10 calculated diagram(s): 300–1540.21 K, x(Si) 0.33333–0.33333
-- Literature: 35 values (35 accepted) from 4 papers
+- Literature: 37 values (37 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:ni2si-c37)
 
 Names (18): _corpus: _corpus:phase:ni-si:ni2si-c37  
@@ -831,7 +831,7 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 10 of 10 calculated diagram(s): 1086.66–1565.12 K, x(Si) 0.33515–0.39793
-- Literature: 40 values (40 accepted) from 4 papers
+- Literature: 42 values (42 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-si:ni2si-theta)
 
 Names (15): _corpus: _corpus:phase:ni-si:ni2si-theta  

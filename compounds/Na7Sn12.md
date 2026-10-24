@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Na7Sn12.html · Markdown: https:
 
 2 accepted literature formation-enthalpy value(s) (DFT 2).
 
-Systems: [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html)
+Systems: [Na–Sn](https://data.orchid-project.org/systems/NA-SN.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Na7Sn12 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -3.421 eV | Na7Sn12 | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 30 |  |
-| -3.335 eV | Na7Sn12 | 0 | DFT | DFT | [Na–Sb–Sn](https://data.orchid-project.org/systems/NA-SB-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 31 |  |
+| -3.421 eV | Na7Sn12 | 0 | DFT | DFT | [Na–Sn](https://data.orchid-project.org/systems/NA-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 30 |  |
+| -3.335 eV | Na7Sn12 | 0 | DFT | DFT | [Na–Sn](https://data.orchid-project.org/systems/NA-SN.html) | [1] Dreval 2017 | Table 3, p. 7, row 31 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Na7Sn12
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -3.421 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
-| -3.335 | eV |  | 5.000e-4 | 0.07134 (dft, calibrated) |  |  |  | 0.07134 |
+| -3.421 | eV |  | 5.000e-4 | 0.7025 (dft, calibrated) |  |  |  | 0.7025 |
+| -3.335 | eV |  | 5.000e-4 | 0.7025 (dft, calibrated) |  |  |  | 0.7025 |
 
 ## Sources
 

@@ -1,10 +1,10 @@
 # Ge–Tm system
 
-> Ge–Tm system: 62 accepted literature values (invariant reaction 32, formation 28, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Tm system: 60 accepted literature values (invariant reaction 30, formation 28, phase transition 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-TM.html · Markdown: https://data.orchid-project.org/systems/GE-TM.md
 
-62 accepted literature values from 1 paper(s) (experimental 20, model 42); 1 calculated phase diagram(s).
+60 accepted literature values from 1 paper(s) (experimental 19, model 41); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-TM.json) · [CSV](https://data.orchid-project.org/systems/GE-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-TM) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-TM/GeTm-18Ach.json) · [phases (14)](https://data.orchid-project.org/phases/pages/GE-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-TM.html) · [Markdown](https://data.orchid-project.org/systems/GE-TM.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 20 |
-| model | 42 |
+| experimental | 19 |
+| model | 41 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 32 |
+| invariant reaction | 30 |
 | phase transition | 2 |
 | formation | 28 |
 
@@ -64,41 +64,39 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Tm system (32)
+Table: Invariant reactions reported in the literature for the Ge–Tm system (30)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 2233.15 | congruent melting: L ↔ Tm5Ge3 | L: Ge 0.00375; Tm5Ge3: Ge 0.375, Tm 0.625 | model | [1] Achgar 2018 | Table 4, p. 7, row 6 |  |
-| 2233.15 | congruent melting: L ↔ Tm5Ge3 | L: Ge 0.00375; Tm5Ge3: Ge 0.375, Tm 0.625 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 5 |  |
-| 2050.15 | peritectic: Tm5Ge3 ↔ L + Tm5Ge4 | Tm5Ge3: Ge 0.375, Tm 0.625; L: Ge 0.00479; Tm5Ge4: Ge 0.444444, Tm 0.555556 | model | [1] Achgar 2018 | Table 4, p. 7, row 8 |  |
-| 2049.15 | peritectic: Tm5Ge3 ↔ L + Tm5Ge4 | Tm5Ge3: Ge 0.375, Tm 0.625; L: Ge 0.005; Tm5Ge4: Ge 0.444444, Tm 0.555556 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 7 |  |
-| 1995.15 | peritectic: Tm5Ge4 ↔ L + Tm11Ge10 | Tm5Ge4: Ge 0.444444, Tm 0.555556; L: Ge 0.00511; Tm11Ge10: Ge 0.47619, Tm 0.52381 | model | [1] Achgar 2018 | Table 4, p. 7, row 10 |  |
-| 1993.15 | peritectic: Tm5Ge4 ↔ L + Tm11Ge10 | Tm5Ge4: Ge 0.444444, Tm 0.555556; L: Ge 0.0052; Tm11Ge10: Ge 0.47619, Tm 0.52381 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 9 |  |
+| 2233.15 | congruent melting: L ↔ Tm5Ge3 | L: Ge 0.375; Tm5Ge3: Ge 0.375, Tm 0.625 | model | [1] Achgar 2018 | Table 4, p. 7, row 6 |  |
+| 2233.15 | congruent melting: L ↔ Tm5Ge3 | L: Ge 0.375; Tm5Ge3: Ge 0.375, Tm 0.625 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 5 |  |
+| 2050.15 | peritectic: Tm5Ge3 ↔ L + Tm5Ge4 | Tm5Ge3: Ge 0.375, Tm 0.625; L: Ge 0.479; Tm5Ge4: Ge 0.444444, Tm 0.555556 | model | [1] Achgar 2018 | Table 4, p. 7, row 8 |  |
+| 2049.15 | peritectic: Tm5Ge3 ↔ L + Tm5Ge4 | Tm5Ge3: Ge 0.375, Tm 0.625; L: Ge 0.5; Tm5Ge4: Ge 0.444444, Tm 0.555556 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 7 |  |
+| 1995.15 | peritectic: Tm5Ge4 ↔ L + Tm11Ge10 | Tm5Ge4: Ge 0.444444, Tm 0.555556; L: Ge 0.511; Tm11Ge10: Ge 0.47619, Tm 0.52381 | model | [1] Achgar 2018 | Table 4, p. 7, row 10 |  |
+| 1993.15 | peritectic: Tm5Ge4 ↔ L + Tm11Ge10 | Tm5Ge4: Ge 0.444444, Tm 0.555556; L: Ge 0.52; Tm11Ge10: Ge 0.47619, Tm 0.52381 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 9 |  |
 | 1823.15 | congruent melting: L ↔ Tm | L: Ge 0 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 1 |  |
 | 1823.15 | congruent melting: L ↔ Tm | L: Ge 0 | model | [1] Achgar 2018 | Table 4, p. 7, row 2 |  |
-| 1647.15 | peritectic: Tm11Ge10 + L ↔ Tm4Ge5 | Tm11Ge10: Ge 0.47619, Tm 0.52381; L: Ge 0.006; Tm4Ge5: Ge 0.555556, Tm 0.444444 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 11 |  |
-| 1636.15 | peritectic: Tm11Ge10 + L ↔ Tm4Ge5 | Tm11Ge10: Ge 0.47619, Tm 0.52381; L: Ge 0.00629; Tm4Ge5: Ge 0.555556, Tm 0.444444 | model | [1] Achgar 2018 | Table 4, p. 7, row 12 |  |
-| 1618.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.00127; Tm5Ge3: Ge 0.375, Tm 0.625 | model | [1] Achgar 2018 | Table 4, p. 7, row 4 |  |
-| 1615.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.00135; Tm5Ge3: Ge 0.375, Tm 0.625 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 3 |  |
+| 1647.15 | peritectic: Tm11Ge10 + L ↔ Tm4Ge5 | Tm11Ge10: Ge 0.47619, Tm 0.52381; L: Ge 0.6; Tm4Ge5: Ge 0.555556, Tm 0.444444 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 11 |  |
+| 1636.15 | peritectic: Tm11Ge10 + L ↔ Tm4Ge5 | Tm11Ge10: Ge 0.47619, Tm 0.52381; L: Ge 0.629; Tm4Ge5: Ge 0.555556, Tm 0.444444 | model | [1] Achgar 2018 | Table 4, p. 7, row 12 |  |
+| 1618.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.127; Tm5Ge3: Ge 0.375, Tm 0.625 | model | [1] Achgar 2018 | Table 4, p. 7, row 4 |  |
+| 1615.15 | eutectic: L ↔ Tm + Tm5Ge3 | L: Ge 0.135; Tm5Ge3: Ge 0.375, Tm 0.625 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 3 |  |
 | 1615.15 | eutectic |  | experimental | [1] Achgar 2018 | p. 2 | “Tm5Ge4 crystallizes together with the thulium-base solid solution at 1342 ± 2 C, and the composition of the eutectic is 13.5 at.% Ge.” |
 | 1606.15 | peritectoid: TmGe ↔ Tm11Ge10 + Tm4Ge5 | TmGe: Ge 0.5, Tm 0.5; Tm11Ge10: Ge 0.47619, Tm 0.52381; Tm4Ge5: Ge 0.555556, Tm 0.444444 | model | [1] Achgar 2018 | Table 4, p. 7, row 14 |  |
 | 1606.15 | peritectoid: TmGe ↔ Tm11Ge10 + Tm4Ge5 | TmGe: Ge 0.5, Tm 0.5; Tm11Ge10: Ge 0.47619, Tm 0.52381; Tm4Ge5: Ge 0.555556, Tm 0.444444 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 13 |  |
-| 1547.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.00668; TmGe1.5: Ge 0.6, Tm 0.4 | model | [1] Achgar 2018 | Table 4, p. 7, row 16 |  |
-| 1545.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.0067; TmGe1.5: Ge 0.6, Tm 0.4 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 15 |  |
-| 1318.15 | peritectic: TmGe1.5 + L ↔ TmGe1.8_HT | TmGe1.5: Ge 0.6, Tm 0.4; L: Ge 0.00764; TmGe1.8_HT: Ge 0.666667, Tm 0.333333 | model | [1] Achgar 2018 | Table 4, p. 7, row 22 |  |
-| 1313.15 | peritectic: TmGe1.5 + L ↔ TmGe1.8_HT | TmGe1.5: Ge 0.6, Tm 0.4; L: Ge 0.0075; TmGe1.8_HT: Ge 0.666667, Tm 0.333333 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 21 |  |
-| 1295.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.00643 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 19 |  |
-| 1290.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.00643 | model | [1] Achgar 2018 | Table 4, p. 7, row 20 |  |
+| 1547.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.668; TmGe1.5: Ge 0.6, Tm 0.4 | model | [1] Achgar 2018 | Table 4, p. 7, row 16 |  |
+| 1545.15 | peritectic: Tm4Ge5 + L ↔ TmGe1.5 | Tm4Ge5: Ge 0.555556, Tm 0.444444; L: Ge 0.67; TmGe1.5: Ge 0.6, Tm 0.4 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 15 |  |
+| 1318.15 | peritectic: TmGe1.5 + L ↔ TmGe1.8_HT | TmGe1.5: Ge 0.6, Tm 0.4; L: Ge 0.764; TmGe1.8_HT: Ge 0.666667, Tm 0.333333 | model | [1] Achgar 2018 | Table 4, p. 7, row 22 |  |
+| 1313.15 | peritectic: TmGe1.5 + L ↔ TmGe1.8_HT | TmGe1.5: Ge 0.6, Tm 0.4; L: Ge 0.75; TmGe1.8_HT: Ge 0.666667, Tm 0.333333 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 21 |  |
+| 1295.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.643 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 19 |  |
+| 1290.15 | metatectic/catatectic: TmGe1.8_HT ↔ TmGe1.8_LT + L | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.643 | model | [1] Achgar 2018 | Table 4, p. 7, row 20 |  |
 | 1225.15 | peritectoid: TmGe1.8_HT ↔ TmGe1.8_LT + TmGe1.5 | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; TmGe1.5: Ge 0.6, Tm 0.4 | model | [1] Achgar 2018 | Table 4, p. 7, row 18 |  |
 | 1223.15 | peritectoid: TmGe1.8_HT ↔ TmGe1.8_LT + TmGe1.5 | TmGe1.8_HT: Ge 0.666667, Tm 0.333333; TmGe1.8_LT: Ge 0.666667, Tm 0.333333; TmGe1.5: Ge 0.6, Tm 0.4 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 17 |  |
-| 1209.15 | congruent melting: L ↔ Ge | L: Ge 0.01 | model | [1] Achgar 2018 | Table 4, p. 7, row 28 |  |
-| 1209.15 | congruent melting: L ↔ Ge | L: Ge 0.01 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 27 |  |
 | 1158.15 | peritectic |  | experimental | [1] Achgar 2018 | p. 2 | “All of the remaining thulium germanides Tm5Ge4, Tm11Ge10, Tm4Ge5, TmGe1.5, TmGe1.8, and Tm0.9Ge2 melt incongruently by peritectic reactions at 1776 ± 5, 1720 ± 5, 1374 ± 8, 1272 ± 3, 1022 ± 3, and 885 ± 10 C, respectively.” |
-| 1158.15 | peritectic: Tm5Ge9_LT + L ↔ Tm0.9Ge2 | Tm5Ge9_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.00835; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | model | [1] Achgar 2018 | Table 4, p. 7, row 24 |  |
-| 1158.15 | peritectic: Tm5Ge9_LT + L ↔ Tm0.9Ge2 | Tm5Ge9_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.0083; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 23 |  |
+| 1158.15 | peritectic: Tm5Ge9_LT + L ↔ Tm0.9Ge2 | Tm5Ge9_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.835; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | model | [1] Achgar 2018 | Table 4, p. 7, row 24 |  |
+| 1158.15 | peritectic: Tm5Ge9_LT + L ↔ Tm0.9Ge2 | Tm5Ge9_LT: Ge 0.666667, Tm 0.333333; L: Ge 0.83; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 23 |  |
 | 1143.15 | eutectic |  | experimental | [1] Achgar 2018 | p. 2 | “The most germanium-rich compound together with the germanium solid solution crystallizes according to the eutectic reaction at 870 C and 85 at.%.” |
-| 1143.15 | eutectic: L ↔ Tm0.9Ge2 + Ge | L: Ge 0.0085; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 25 |  |
-| 1140.15 | eutectic: L ↔ Tm0.9Ge2 + Ge | L: Ge 0.00846; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | model | [1] Achgar 2018 | Table 4, p. 7, row 26 |  |
+| 1143.15 | eutectic: L ↔ Tm0.9Ge2 + Ge | L: Ge 0.85; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | experimental | [1] Achgar 2018; _cites Idbenali 2013_ [doi](https://doi.org/10.1007/s10973-012-2271-0) | Table 4, p. 7, row 25 |  |
+| 1140.15 | eutectic: L ↔ Tm0.9Ge2 + Ge | L: Ge 0.846; Tm0.9Ge2: Ge 0.689655, Tm 0.310345 | model | [1] Achgar 2018 | Table 4, p. 7, row 26 |  |
 | 1040 | peritectic |  | model | [1] Achgar 2018 | p. 6 | “Concerning the TmGe1.8 phase which melts peritectically at 1040 K with two allotropic forms (aTmGe1.8 and bTmGe1.8), the temperatures of its polymorphic transformation (950 and 1022 C) are in good agreement with the literature data \[20\].” |
 
 ## Formation enthalpies
@@ -122,8 +120,8 @@ Table: Enthalpies of formation, Ge–Tm system (19)
 | Tm5Ge4 | [Ge4Tm5](https://data.orchid-project.org/compounds/Ge4Tm5.html) | -83.71 kJ/mol-atom |  | model | -81.101 (mp-aaacqbxn) | -81.399 (oqmd-2048117) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 5 |  |
 | TmGe | [GeTm](https://data.orchid-project.org/compounds/GeTm.html) | -87.57 kJ/mol-atom |  | model | -80.939 (mp-aaacevrr) | -80.988 (oqmd-30502) | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 9 |  |
 | TmGe | [GeTm](https://data.orchid-project.org/compounds/GeTm.html) | -83.8 kJ/mol-atom |  | model | -80.939 (mp-aaacevrr) | -80.988 (oqmd-30502) | [1] Achgar 2018 | Table 2, p. 5, row 8 |  |
-| TmGe1.5 | [Ge1.5Tm](https://data.orchid-project.org/compounds/Ge1.5Tm.html) | -84.18 kJ/mol-atom |  | model | -42.891 (mp-aaacrfqv) |  | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 13 |  |
-| TmGe1.5 | [Ge1.5Tm](https://data.orchid-project.org/compounds/Ge1.5Tm.html) | -77.3 kJ/mol-atom |  | model | -42.891 (mp-aaacrfqv) |  | [1] Achgar 2018 | Table 2, p. 5, row 12 |  |
+| TmGe1.5 | [Ge3Tm2](https://data.orchid-project.org/compounds/Ge3Tm2.html) | -84.18 kJ/mol-atom |  | model | -42.891 (mp-aaacrfqv) |  | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 13 |  |
+| TmGe1.5 | [Ge3Tm2](https://data.orchid-project.org/compounds/Ge3Tm2.html) | -77.3 kJ/mol-atom |  | model | -42.891 (mp-aaacrfqv) |  | [1] Achgar 2018 | Table 2, p. 5, row 12 |  |
 | TmGe1.8_HT |  | -87.37 kJ/mol-atom |  | model |  |  | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 15 |  |
 | TmGe1.8_HT |  | -69.48 kJ/mol-atom |  | model |  |  | [1] Achgar 2018 | Table 2, p. 5, row 14 |  |
 | TmGe1.8_LT |  | -87.37 kJ/mol-atom |  | model |  |  | [1] Achgar 2018; _cites Debski 2014_ [doi](https://doi.org/10.2478/amm-2014-0228) | Table 2, p. 5, row 17 |  |

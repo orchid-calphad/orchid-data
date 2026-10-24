@@ -1,10 +1,10 @@
 # Na–Sb system
 
-> Na–Sb system: 61 accepted literature values (formation 30, phase transition 14, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Na–Sb system: 65 accepted literature values (formation 34, phase transition 14, heat capacity / entropy / enthalpy 12, invariant reaction 5) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/NA-SB.html · Markdown: https://data.orchid-project.org/systems/NA-SB.md
 
-61 accepted literature values from 2 paper(s) (experimental 32, model 29); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+65 accepted literature values from 2 paper(s) (experimental 32, model 29, DFT 4); 2 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/NA-SB.json) · [CSV](https://data.orchid-project.org/systems/NA-SB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#NA-SB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#NA-SB/NaSb-13Liu.json) · [phases (7)](https://data.orchid-project.org/phases/pages/NA-SB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/NA-SB.html) · [Markdown](https://data.orchid-project.org/systems/NA-SB.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 32 |
 | model | 29 |
+| DFT | 4 |
 
 Table: Accepted values by property group
 
@@ -21,7 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 5 |
 | phase transition | 14 |
-| formation | 30 |
+| formation | 34 |
 | heat capacity / entropy / enthalpy | 12 |
 
 ## Calculated phase diagrams
@@ -64,15 +65,19 @@ Table: Invariant reactions reported in the literature for the Na–Sb system (5)
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Na–Sb system (18)
+Table: Enthalpies of formation, Na–Sb system (22)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
+| Na3Sb |  | -1.786 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 20 |  |
+| Na3Sb |  | -1.784 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 19 |  |
 | Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -58.5 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 2 |  |
 | Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.75 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 3 |  |
 | Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -56.5 kJ/mol-atom |  | model | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013 | Table 2, p. 4, row 1 |  |
 | Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -53.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Morozova 1959_ | Table 2, p. 4, row 4 |  |
 | Na3Sb(s) | [Na3Sb](https://data.orchid-project.org/compounds/Na3Sb.html) | -49.25 kJ/mol-atom | 298.15 | experimental | -45.951 (mp-aaaaalua) | -50.428 (oqmd-5156) | [1] Liu 2013; _cites Kubaschewski 1938_ | Table 2, p. 4, row 5 |  |
+| NaSb |  | -0.679 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 21 |  |
+| NaSb |  | -0.663 eV | 0 | DFT |  |  | [2] Dreval 2017 | Table 3, p. 7, row 22 |  |
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -37.5 kJ/mol-atom |  | model | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013 | Table 2, p. 4, row 6 |  |
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -36 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1987_ | Table 2, p. 4, row 8 |  |
 | NaSb(s) | [NaSb](https://data.orchid-project.org/compounds/NaSb.html) | -35 kJ/mol-atom | 298.15 | experimental | -40.415 (mp-aaaaalto) | -37.498 (oqmd-5018) | [1] Liu 2013; _cites Voronin 1967_ | Table 2, p. 4, row 7 |  |

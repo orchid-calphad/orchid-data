@@ -1,10 +1,10 @@
 # B–Re–Si system
 
-> B–Re–Si system: 35 accepted literature values (formation 26, invariant reaction 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–Re–Si system: 9 accepted literature values (invariant reaction 9) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-RE-SI.html · Markdown: https://data.orchid-project.org/systems/B-RE-SI.md
 
-35 accepted literature values from 1 paper(s) (experimental 6, model 29); 0 calculated phase diagram(s).
+9 accepted literature values from 1 paper(s) (model 9); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-RE-SI.json) · [CSV](https://data.orchid-project.org/systems/B-RE-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-RE-SI) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-RE-SI.html) · [Markdown](https://data.orchid-project.org/systems/B-RE-SI.md)
 
@@ -12,15 +12,13 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 29 |
+| model | 9 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 9 |
-| formation | 26 |
 
 ## Invariant reactions (literature)
 
@@ -37,41 +35,6 @@ Table: Invariant reactions reported in the literature for the B–Re–Si system
 | 1852.12 | Liquid -> Re7B3 + ReSi2 + ReB2 |  | model | [1] Yang 2010 | Table 6, p. 5, row 7 |  |
 | 1639.71 | Liquid + B6Si -> ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 8 |  |
 | 1628.82 | Liquid -> ReSi2 + ReB2 + (Si) |  | model | [1] Yang 2010 | Table 6, p. 5, row 9 |  |
-
-## Formation enthalpies
-
-Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
-
-Table: Enthalpies of formation, B–Re–Si system (26)
-
-| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
-|---|---|---:|---:|---|---:|---:|---|---|---|
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -22.7 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 5 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -22 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 3 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -20 kJ/mol-atom | 298.15 | experimental | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 1 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -19.7 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 2 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -19.367 kJ/mol-atom |  | model | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010 | Table 2, p. 3, row 6 |  |
-| Re2Si | [Re2Si](https://data.orchid-project.org/compounds/Re2Si.html) | -12.7 kJ/mol-atom ± 2.5 | 298.15 | experimental | 12.813 (mp-aaabmclv) | -21.934 (oqmd-1800633) | [1] Yang 2010; _cites Meschel 1998_ [doi](https://doi.org/10.1016/s0925-8388%2898%2900747-6) | Table 2, p. 3, row 4 |  |
-| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -32.22 kJ/mol-atom ± 2.5 | 298.15 | experimental | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Baehren 1969_ | Table 2, p. 3, row 19 |  |
-| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -21 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010 | Table 2, p. 3, row 20 |  |
-| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -20 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 18 |  |
-| Re3B | [Re3B](https://data.orchid-project.org/compounds/Re3B.html) | -19.2975 kJ/mol-atom |  | model | -19.625 (mp-aaaaaxet) | -18.988 (oqmd-8178) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 17 |  |
-| Re7B3 | [Re7B3](https://data.orchid-project.org/compounds/Re7B3.html) | -24 kJ/mol-atom |  | model | -21.423 (mp-aaackyjk) | -20.395 (oqmd-28588) | [1] Yang 2010 | Table 2, p. 3, row 22 |  |
-| Re7B3 | [Re7B3](https://data.orchid-project.org/compounds/Re7B3.html) | -22.29 kJ/mol-atom |  | model | -21.423 (mp-aaackyjk) | -20.395 (oqmd-28588) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 21 |  |
-| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -43.1 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010; _cites Gou 2009_ | Table 2, p. 3, row 23 |  |
-| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -40 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010 | Table 2, p. 3, row 26 |  |
-| ReB2 | [ReB2](https://data.orchid-project.org/compounds/ReB2.html) | -28 kJ/mol-atom |  | model | -41.281 (mp-aaaaacqf) | -40.537 (oqmd-4449) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 24 |  |
-| ReB2.5 |  | -21.5 kJ/mol-atom ± 0.5 | 298.15 | experimental |  |  | [1] Yang 2010; _cites Meschel 1993_ [doi](https://doi.org/10.1007/bf02656515) | Table 2, p. 3, row 25 |  |
-| ReSi | [ReSi](https://data.orchid-project.org/compounds/ReSi.html) | -28 kJ/mol-atom |  | model | -25.658 (mp-aaaaalts) | -27.31 (oqmd-5064) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 9 |  |
-| ReSi | [ReSi](https://data.orchid-project.org/compounds/ReSi.html) | -26.4 kJ/mol-atom |  | model | -25.658 (mp-aaaaalts) | -27.31 (oqmd-5064) | [1] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 8 |  |
-| ReSi | [ReSi](https://data.orchid-project.org/compounds/ReSi.html) | -26.356 kJ/mol-atom |  | model | -25.658 (mp-aaaaalts) | -27.31 (oqmd-5064) | [1] Yang 2010 | Table 2, p. 3, row 11 |  |
-| ReSi | [ReSi](https://data.orchid-project.org/compounds/ReSi.html) | -25.4 kJ/mol-atom | 298.15 | experimental | -25.658 (mp-aaaaalts) | -27.31 (oqmd-5064) | [1] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 7 |  |
-| ReSi | [ReSi](https://data.orchid-project.org/compounds/ReSi.html) | -24.8 kJ/mol-atom |  | model | -25.658 (mp-aaaaalts) | -27.31 (oqmd-5064) | [1] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 10 |  |
-| ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -33.445 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010 | Table 2, p. 3, row 16 |  |
-| ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -31.2 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Shao 2001_ [doi](https://doi.org/10.1016/s0966-9795%2801%2900110-8) | Table 2, p. 3, row 15 |  |
-| ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -30.1 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Chart 1973_ | Table 2, p. 3, row 13 |  |
-| ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -28.8 kJ/mol-atom | 298.15 | experimental | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Searcy 1962_ | Table 2, p. 3, row 12 |  |
-| ReSi2 | [ReSi2](https://data.orchid-project.org/compounds/ReSi2.html) | -10 kJ/mol-atom |  | model | -14.277 (mp-aaaaasqv) | -17.558 (oqmd-6973) | [1] Yang 2010; _cites Boer 1989_ | Table 2, p. 3, row 14 |  |
 
 ## Sources
 

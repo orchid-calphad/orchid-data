@@ -31,6 +31,7 @@ Table: Phases of the B–Er system (10)
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — ErB-12Wan.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — ErB-15Wan.tdb: 'Prototype alpha-B (hR12, R-3m)'
 - Candidate (tdb_comment): alpha-B · hR12 · R-3m — ErB-20Wei.tdb: 'Prototype alpha-B (hR12, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1388 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-er:b-alpha-rhombo)
@@ -79,6 +80,7 @@ _assessment that models this phase_
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — ErB-12Wan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — ErB-15Wan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — ErB-20Wei.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 1388–2365.95 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-er:b-beta-rhombo)
@@ -370,6 +372,7 @@ _cited as the source of values for this phase_
 
 - Id: `phase:b-er:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Stoichiometry: B 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-er:fcc-a1)

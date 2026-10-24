@@ -1,31 +1,23 @@
 # HfNiSn: enthalpy of formation
 
-> Enthalpy of formation of HfNiSn: 12 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of HfNiSn: 4 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/HfNiSn.html · Markdown: https://data.orchid-project.org/compounds/HfNiSn.md
 
-12 accepted literature formation-enthalpy value(s) (DFT 12).
+4 accepted literature formation-enthalpy value(s) (DFT 4).
 
-Systems: [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html)
+Systems: [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of HfNiSn reported in the literature (12)
+Table: Enthalpy of formation of HfNiSn reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 110.2 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 11 |  |
-| 159.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 7 |  |
-| 219.6 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 5 |  |
-| 260.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 2 |  |
-| 292.1 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
-| 352 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
-| 361.3 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 6 |  |
-| 362.1 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
-| 416.7 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 1 |  |
-| 435.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 12 |  |
-| 438.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
-| 606.9 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn–Ti](https://data.orchid-project.org/systems/HF-NI-SN-TI.html) | [1] Berche 2016 | Table 3, p. 5, row 8 |  |
+| 292.1 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 3, p. 5, row 3 |  |
+| 352 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 3, p. 5, row 4 |  |
+| 362.1 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 3, p. 5, row 10 |  |
+| 438.4 kJ/mol (basis unstated) | HfNiSn | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 3, p. 5, row 9 |  |
 
 ### Uncertainty budget
 
@@ -35,18 +27,10 @@ Table: Uncertainty budget of the literature values of HfNiSn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 110.2 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 159.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 219.6 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 260.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 292.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 352 | kJ/mol (basis unstated) |  | 0.5 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 361.3 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 362.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 416.7 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 435.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 438.4 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 606.9 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 292.1 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 352 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 362.1 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 438.4 | kJ/mol (basis unstated) |  | 0.05 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
 
 ## Sources
 

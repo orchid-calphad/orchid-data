@@ -1,10 +1,10 @@
 # Li–Pb system
 
-> Li–Pb system: 79 accepted literature values (crystal structure 36, invariant reaction 22, formation 16, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Li–Pb system: 73 accepted literature values (crystal structure 30, invariant reaction 22, formation 16, phase transition 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LI-PB.html · Markdown: https://data.orchid-project.org/systems/LI-PB.md
 
-79 accepted literature values from 1 paper(s) (experimental 41, DFT 38); 1 calculated phase diagram(s).
+73 accepted literature values from 1 paper(s) (experimental 37, DFT 36); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/LI-PB.json) · [CSV](https://data.orchid-project.org/systems/LI-PB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LI-PB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LI-PB/LiPb-16Zho.json) · [phases (10)](https://data.orchid-project.org/phases/pages/LI-PB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LI-PB.html) · [Markdown](https://data.orchid-project.org/systems/LI-PB.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 41 |
-| DFT | 38 |
+| experimental | 37 |
+| DFT | 36 |
 
 Table: Accepted values by property group
 
@@ -22,7 +22,7 @@ Table: Accepted values by property group
 | invariant reaction | 22 |
 | phase transition | 4 |
 | formation | 16 |
-| crystal structure | 36 |
+| crystal structure | 30 |
 | other property | 1 |
 
 ## Calculated phase diagrams
@@ -121,14 +121,12 @@ Table: Phase transition, Li–Pb system
 | Phase transition | 999 K | 999 | liq. -> Li7Pb2; _liq.: Pb 0.222; Li7Pb2: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Grube 1934_ [doi](https://doi.org/10.1002/bbpc.193400038) | Table 6, p. 5, row 6 |  |
 | Phase transition | 999 K | 999 | liq. -> Li7Pb2; _liq.: Pb 0.2212; Li7Pb2: Pb 0.2212_ | DFT | [1] Zhou 2016 | Table 6, p. 5, row 5 |  |
 
-### Crystal structure (36)
+### Crystal structure (30)
 
 Table: Crystal structure, Li–Pb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 3.508 Å | 298.15 | Li; _alloy: Pb 0_ | experimental | [1] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 1, p. 2, row 1 |  |
-| Lattice a | 4.95 Å | 298.15 | Pb; _alloy: Pb 1_ | experimental | [1] Zhou 2016; _cites Klug 1946_ [doi](https://doi.org/10.1021/ja01212a032) | Table 1, p. 2, row 10 |  |
 | Lattice a | 10.08 Å | 298.15 | UNKNOWN; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 1, p. 2, row 5 |  |
 | Lattice a | 6.687 Å | 298.15 | UNKNOWN; _alloy: Pb 0.25_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 6 |  |
 | Lattice a | 3.34 Å | 298.15 | UNKNOWN; _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 1, p. 2, row 3 |  |
@@ -140,29 +138,25 @@ Table: Crystal structure, Li–Pb system
 | Lattice b | 4.757 Å | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7 |  |
 | Lattice c | 8.589 Å | 298.15 | UNKNOWN; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 4 |  |
 | Lattice c | 11.03 Å | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7 |  |
-| Molar volume; _printed: V0_ | 21.59 Å3/atom | 0 | Li; _alloy: Pb 0_ | experimental | [1] Zhou 2016; _cites Perlitz 1940_ [doi](https://doi.org/10.1080/14786444008520697) | Table 4, p. 4, row 2 |  |
-| Molar volume; _printed: V0_ | 20.32 Å3/atom | 0 | Li; _alloy: Pb 0_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 1 |  |
 | Molar volume; _printed: V0_ | 19.91 Å3/atom | 0 | Li10Pb3; _alloy: Pb 0.230769_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 7 |  |
-| Molar volume; _printed: V0_ | 19.7 Å3/atom | 0 | Li10Pb3; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 4, p. 4, row 8 |  |
+| Molar volume; _printed: V0_ | 19.7 Å3/atom |  | Li10Pb3; _alloy: Pb 0.230769_ | experimental | [1] Zhou 2016; _cites Rollier 1939_ | Table 4, p. 4, row 8 |  |
 | Molar volume; _printed: V0_ | 18.78 Å3/atom | 0 | Li3Pb; _alloy: Pb 0.25_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 9 |  |
-| Molar volume; _printed: V0_ | 18.69 Å3/atom | 0 | Li3Pb; _alloy: Pb 0.25_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 10 |  |
+| Molar volume; _printed: V0_ | 18.69 Å3/atom |  | Li3Pb; _alloy: Pb 0.25_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 10 |  |
 | Molar volume; _printed: V0_ | 18.6 Å3/atom | 0 | Li4Pb; _alloy: Pb 0.2_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 3 |  |
-| Molar volume; _printed: V0_ | 18.74 Å3/atom | 0 | Li4Pb; _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4 |  |
+| Molar volume; _printed: V0_ | 18.74 Å3/atom |  | Li4Pb; _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4 |  |
 | Molar volume; _printed: V0_ | 19.54 Å3/atom | 0 | Li5Pb2; _alloy: Pb 0.285714_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 13 |  |
 | Molar volume; _printed: V0_ | 18.7 Å3/atom | 0 | Li7Pb2; _alloy: Pb 0.222222_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 5 |  |
-| Molar volume; _printed: V0_ | 18.65 Å3/atom | 0 | Li7Pb2; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 6 |  |
+| Molar volume; _printed: V0_ | 18.65 Å3/atom |  | Li7Pb2; _alloy: Pb 0.222222_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 6 |  |
 | Molar volume; _printed: V0_ | 20.39 Å3/atom | 0 | Li8Pb3; _alloy: Pb 0.272727_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 11 |  |
-| Molar volume; _printed: V0_ | 19.03 Å3/atom | 0 | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 12 |  |
-| Molar volume; _printed: V0_ | 30.32 Å3/atom | 0 | Pb; _alloy: Pb 1_ | experimental | [1] Zhou 2016; _cites Klug 1946_ [doi](https://doi.org/10.1021/ja01212a032) | Table 4, p. 4, row 19 |  |
-| Molar volume; _printed: V0_ | 31.98 Å3/atom | 0 | Pb; _alloy: Pb 1_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 18 |  |
-| Molar volume; _printed: V0_ | 22.18 Å3/atom | 0 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 15 |  |
+| Molar volume; _printed: V0_ | 19.03 Å3/atom |  | Li8Pb3; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 4, p. 4, row 12 |  |
+| Molar volume; _printed: V0_ | 22.18 Å3/atom |  | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 15 |  |
 | Molar volume; _printed: V0_ | 22.8 Å3/atom | 0 | αLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 14 |  |
-| Molar volume; _printed: V0_ | 22.62 Å3/atom | 0 | βLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 17 |  |
+| Molar volume; _printed: V0_ | 22.62 Å3/atom |  | βLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 4, p. 4, row 17 |  |
 | Molar volume; _printed: V0_ | 24.48 Å3/atom | 0 | βLiPb; _alloy: Pb 0.5_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 16 |  |
 | lattice unspecified angle | 104.5 deg | 298.15 | UNKNOWN; _alloy: Pb 0.272727_ | experimental | [1] Zhou 2016; _cites Zalkin 1956_ [doi](https://doi.org/10.1021/j150536a022) | Table 1, p. 2, row 7 |  |
 | lattice unspecified angle | 89.5 deg | 298.15 | αLiPb; _alloy: Pb 0.5_ | experimental | [1] Zhou 2016; _cites Zalkin 1957_ [doi](https://doi.org/10.1021/j150556a034) | Table 1, p. 2, row 8 |  |
 | volume; _printed: V0_ | 18.6 Å3/atom | 0 | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | DFT | [1] Zhou 2016 | Table 4, p. 4, row 3 |  |
-| volume; _printed: V0_ | 18.74 Å3/atom | 0 | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4 |  |
+| volume; _printed: V0_ | 18.74 Å3/atom |  | Li4Pb (Li22Pb5); _alloy: Pb 0.2_ | experimental | [1] Zhou 2016; _cites Zalkin 1958_ [doi](https://doi.org/10.1021/j150564a013) | Table 4, p. 4, row 4 |  |
 
 ### Other property (1)
 

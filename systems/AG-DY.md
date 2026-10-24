@@ -1,10 +1,10 @@
 # Ag–Dy system
 
-> Ag–Dy system: 16 accepted literature values (invariant reaction 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Dy system: 30 accepted literature values (invariant reaction 16, formation 8, crystal structure 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-DY.html · Markdown: https://data.orchid-project.org/systems/AG-DY.md
 
-16 accepted literature values from 1 paper(s) (experimental 9, model 7); 1 calculated phase diagram(s).
+30 accepted literature values from 1 paper(s) (experimental 12, model 12, DFT 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-DY.json) · [CSV](https://data.orchid-project.org/systems/AG-DY.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-DY) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-DY/AgDy-10Lon.json) · [phases (7)](https://data.orchid-project.org/phases/pages/AG-DY.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-DY.html) · [Markdown](https://data.orchid-project.org/systems/AG-DY.md)
 
@@ -12,14 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 9 |
-| model | 7 |
+| experimental | 12 |
+| model | 12 |
+| DFT | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 16 |
+| formation | 8 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -71,6 +74,38 @@ Table: Invariant reactions reported in the literature for the Ag–Dy system (16
 | 1074 | eutectic: L ↔ Fcc(Ag) + Ag51 Dy14 |  | experimental | [1] Long 2010; _cites Gschneidner 1970_ | p. 1 | “Gschneidner et al. \[16\] measured the maximum solid solubility of Dy in Ag to be 1.3 at.%, and determined the eutectic temperature of L ↔ Fcc(Ag) + Ag51 Dy14 as 1074 K.” |
 | 1074 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Gschneidner 1970_ | Table 3, p. 4, row 3 |  |
 | 1073 | eutectic: L -> Fcc(Ag) + Ag51Dy14 | L: Dy 0.12; Ag51Dy14: Ag 0.784615, Dy 0.215385 | experimental | [1] Long 2010; _cites Delfino 2010_ | Table 3, p. 4, row 2 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Ag–Dy system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Ag2Dy | [Ag2Dy](https://data.orchid-project.org/compounds/Ag2Dy.html) | -39 kJ/mol-atom |  | model | -31.753 (mp-aaaaadws) | -31.994 (oqmd-1895325) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 12 |  |
+| Ag2Dy |  | -32.579 kJ/mol-atom | 298.15 | DFT |  |  | [1] Long 2010 | Table 1, p. 3, row 10 |  |
+| Ag2Dy |  | -32.579 kJ/mol-atom | 298.15 | DFT |  |  | [1] Long 2010 | Table 1, p. 3, row 31 |  |
+| Ag2Dy | [Ag2Dy](https://data.orchid-project.org/compounds/Ag2Dy.html) | -22.3 kJ/mol-atom ± 2.3 |  | model | -31.753 (mp-aaaaadws) | -31.994 (oqmd-1895325) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 32 |  |
+| Ag2Dy | [Ag2Dy](https://data.orchid-project.org/compounds/Ag2Dy.html) | -22.3 kJ/mol-atom ± 2.3 | 298.15 | experimental | -31.753 (mp-aaaaadws) | -31.994 (oqmd-1895325) | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 11 |  |
+| AgDy | [AgDy](https://data.orchid-project.org/compounds/AgDy.html) | -44 kJ/mol-atom |  | model | -32.233 (mp-aaaaadfj) | -32.376 (oqmd-10365) | [1] Long 2010; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 1, p. 3, row 15 |  |
+| AgDy | [AgDy](https://data.orchid-project.org/compounds/AgDy.html) | -37.3 kJ/mol-atom ± 1.8 | 298.15 | experimental | -32.233 (mp-aaaaadfj) | -32.376 (oqmd-10365) | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
+| AgDy |  | -32.812 kJ/mol-atom | 298.15 | DFT |  |  | [1] Long 2010 | Table 1, p. 3, row 13 |  |
+
+## Other properties
+
+### Crystal structure (6)
+
+Table: Crystal structure, Ag–Dy system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a; _printed: a_ | 3.694 Å |  | Ag2Dy; _alloy: Dy 0.333333_ | model | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 32 |  |
+| Lattice a; _printed: a_ | 3.609 Å |  | AgDy; _alloy: Dy 0.5_ | experimental | [1] Long 2010; _cites Morin 1974_ [doi](https://doi.org/10.1002/pssa.2210210117) | Table 1, p. 3, row 14 |  |
+| Lattice a; _printed: a_ | 3.754 Å | 298.15 | Ag2Dy; _alloy: Dy 0.333333_ | DFT | [1] Long 2010 | Table 1, p. 3, row 31 |  |
+| Lattice a; _printed: a_ | 3.639 Å | 298.15 | AgDy; _alloy: Dy 0.5_ | DFT | [1] Long 2010 | Table 1, p. 3, row 13 |  |
+| Lattice c; _printed: c_ | 9.213 Å |  | Ag2Dy; _alloy: Dy 0.333333_ | model | [1] Long 2010; _cites Steeb 1968_ [doi](https://doi.org/10.1016/0022-5088%2868%2990047-7) | Table 1, p. 3, row 32 |  |
+| Lattice c; _printed: c_ | 9.259 Å | 298.15 | Ag2Dy; _alloy: Dy 0.333333_ | DFT | [1] Long 2010 | Table 1, p. 3, row 31 |  |
 
 ## Sources
 

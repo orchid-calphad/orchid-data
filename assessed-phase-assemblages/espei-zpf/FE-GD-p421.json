@@ -7,6 +7,7 @@
  "phases": [
   "BCC_A2",
   "FCC_A1",
+  "FE17GD2_HT",
   "FE2GD_C15",
   "FE3GD",
   "HCP_A3",
@@ -15,19 +16,51 @@
  "conditions": {
   "P": 101325.0,
   "T": [
+   1034.354064,
    1113.354064,
    988.3540644,
    1219.354064,
    1261.854064,
    1629.354064,
+   1400.854064,
    1389.854064,
    1537.354064,
+   1574.354064,
    1627.354064,
    1705.354064
   ]
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17GD2_HT",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.05202080023
+    ]
+   ]
+  ],
   [
    [
     "FE2GD_C15",
@@ -157,6 +190,35 @@
   ],
   [
    [
+    "FCC_A1",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FE17GD2_HT",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.0515199583
+    ]
+   ]
+  ],
+  [
+   [
     "FE3GD",
     [
      "GD"
@@ -210,6 +272,35 @@
     ],
     [
      0.9865918351
+    ]
+   ]
+  ],
+  [
+   [
+    "FE17GD2_HT",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "GD"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.1501858178
     ]
    ]
   ],
@@ -282,17 +373,23 @@
   "evidence_class": "assessed_phase_diagram",
   "diagram": "FE-GD-p421",
   "record_ids": [
+   "aspa-888501c8df34212c",
    "aspa-4981742f8c615ded",
    "aspa-19fd8b17dee66a16",
    "aspa-7be3f048635448f7",
    "aspa-7fefe3430a2b8007",
    "aspa-018147ea8d527ddb",
+   "aspa-d651304c5048678b",
    "aspa-7d6ff5f8cfb67187",
    "aspa-5c4745ffa69af3de",
+   "aspa-8bfa35bb74f9b90b",
    "aspa-edf4718452842395",
    "aspa-e2b0a7674fd996f2"
   ],
   "boundary_basis": [
+   "printed_solid",
+   "printed_solid",
+   "printed_solid",
    "printed_solid",
    "printed_solid",
    "printed_solid",
@@ -308,6 +405,24 @@
   "sigma_rule": "max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter); boundary margin reported, not combined",
   "calibration": "assessed-phase-assemblages handbook-class prior 2026-10-24",
   "points": [
+   {
+    "record_id": "aspa-888501c8df34212c",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.65,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 162.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0525884,
+     "sigma_effective": 0.02
+    }
+   },
    {
     "record_id": "aspa-4981742f8c615ded",
     "boundary_basis": "printed_solid",
@@ -399,6 +514,24 @@
     }
    },
    {
+    "record_id": "aspa-d651304c5048678b",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.65,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 202.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0225379,
+     "sigma_effective": 0.02
+    }
+   },
+   {
     "record_id": "aspa-7d6ff5f8cfb67187",
     "boundary_basis": "printed_solid",
     "temperature_K": {
@@ -431,6 +564,24 @@
      "sigma_reading": 0.000672421,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0135227,
+     "sigma_effective": 0.02
+    }
+   },
+   {
+    "record_id": "aspa-8bfa35bb74f9b90b",
+    "boundary_basis": "printed_solid",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": 0.65,
+     "sigma_method": 10.0,
+     "sigma_boundary_margin": 18.0,
+     "sigma_effective": 10.0
+    },
+    "composition_mole_fraction": {
+     "sigma_printed": null,
+     "sigma_reading": 0.000672421,
+     "sigma_method": 0.02,
+     "sigma_boundary_margin": 0.0445749,
      "sigma_effective": 0.02
     }
    },

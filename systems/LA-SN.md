@@ -1,26 +1,26 @@
 # La–Sn system
 
-> La–Sn system: 238 accepted literature values (invariant reaction 112, crystal structure 68, phase transition 50, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–Sn system: 234 accepted literature values (invariant reaction 108, crystal structure 68, phase transition 50, phase equilibrium 8) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-SN.html · Markdown: https://data.orchid-project.org/systems/LA-SN.md
 
-238 accepted literature values from 3 paper(s) (experimental 132, model 82, unspecified 24); 4 calculated phase diagram(s).
+234 accepted literature values from 3 paper(s) (experimental 130, model 80, unspecified 24); 4 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (16)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-SN.json) · [CSV](https://data.orchid-project.org/systems/LA-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-SN/LaSn-00Hua.json) · [phases (15)](https://data.orchid-project.org/phases/pages/LA-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-SN.html) · [Markdown](https://data.orchid-project.org/systems/LA-SN.md)
 
 Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 132 |
-| model | 82 |
+| experimental | 130 |
+| model | 80 |
 | unspecified | 24 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 112 |
+| invariant reaction | 108 |
 | phase transition | 50 |
 | phase equilibrium | 8 |
 | crystal structure | 68 |
@@ -106,7 +106,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–Sn system (112)
+Table: Invariant reactions reported in the literature for the La–Sn system (108)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -127,12 +127,12 @@ Table: Invariant reactions reported in the literature for the La–Sn system (11
 | 1718 | Liq + La5Sn4 \<=> La11Sn10 | Liq: Sn 0.526; La5Sn4: La 0.555, Sn 0.445; La11Sn10: La 0.524, Sn 0.476 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 16 |  |
 | 1718 | Liq + La5Sn4 \<=> La11Sn10 | Liq: Sn 0.55; La5Sn4: La 0.555, Sn 0.445; La11Sn10: La 0.524, Sn 0.476 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 15 |  |
 | 1718 | Liq + La5Sn4 \<=> La11Sn10 | Liq: Sn 0.506; La5Sn4: La 0.555, Sn 0.445; La11Sn10: La 0.524, Sn 0.476 | model | [1] Idbenali 2009 | Table 3, p. 5, row 17 |  |
-| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00455; La11Sn10: La 0.00524; LaSn: La 0.005 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 40 |  |
-| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00405; La11Sn10: La 0.00524; LaSn: La 0.005 | model | [3] Li 2019 | Table 4, p. 10, row 42 |  |
-| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00406; La11Sn10: La 0.00524; LaSn: La 0.005 | model | [3] Li 2019 | Table 4, p. 10, row 43 |  |
-| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00397; La11Sn10: La 0.00524; LaSn: La 0.005 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 41 |  |
-| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00422; La11Sn10: La 0.00524; LaSn: La 0.005 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 39 |  |
-| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.00467; La11Sn10: La 0.00524; LaSn: La 0.005 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 38 |  |
+| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.455; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 40 |  |
+| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.405; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019 | Table 4, p. 10, row 42 |  |
+| 1573.15 | peritectic: L+La11Sn10=LaSn | L: La 0.406; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019 | Table 4, p. 10, row 43 |  |
+| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.397; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 41 |  |
+| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.422; La11Sn10: La 0.524; LaSn: La 0.5 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 39 |  |
+| 1568.15 | peritectic: L+La11Sn10=LaSn | L: La 0.467; La11Sn10: La 0.524; LaSn: La 0.5 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 38 |  |
 | 1568.15 | peritectic |  | experimental | [3] Li 2019; _cites Eremenko 1989_ | p. 4 | “In addition, Eremenko et al.\[15\] also confirmed that the LaSn phase was formed by a peritectic reaction at 1295 °C using DTA.” |
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.577; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 19 |  |
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.57; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 18 |  |
@@ -140,67 +140,65 @@ Table: Invariant reactions reported in the literature for the La–Sn system (11
 | 1568 | Liq.+La11Sn10->LaSn | La11Sn10: La 0.52381, Sn 0.47619; LaSn: La 0.5, Sn 0.5; Liq.: Sn 0.5779 | model | [2] Huang 2000 | Table 1, p. 2, row 17 |  |
 | 1568 | Liq.+La11Sn10->LaSn | La11Sn10: La 0.52381, Sn 0.47619; LaSn: La 0.5, Sn 0.5; Liq.: Sn 0.56 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 18 |  |
 | 1568 | Liq + La11Sn10 \<=> LaSn | Liq: Sn 0.546; La11Sn10: La 0.524, Sn 0.476; LaSn: La 0.5, Sn 0.5 | model | [1] Idbenali 2009 | Table 3, p. 5, row 20 |  |
-| 1513.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 21 |  |
-| 1513.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 24 |  |
+| 1513.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 21 |  |
+| 1513.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 24 |  |
 | 1513 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 27 |  |
 | 1513 | Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 24 |  |
-| 1511.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 23 |  |
+| 1511.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 23 |  |
 | 1511 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009 | Table 3, p. 5, row 29 |  |
-| 1489.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 22 |  |
+| 1489.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 22 |  |
 | 1489 | Liq \<=> La3Sn5 | Liq: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 28 |  |
 | 1489 | Liq.->La3Sn5 | L: La 0.375, Sn 0.625; La3Sn5: La 0.375, Sn 0.625 | model | [2] Huang 2000 | Table 1, p. 2, row 23 |  |
-| 1487.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.00375; LaSn: La 0.005; La3Sn5: La 0.00375 | model | [3] Li 2019 | Table 4, p. 10, row 31 |  |
-| 1487.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | model | [3] Li 2019 | Table 4, p. 10, row 26 |  |
-| 1482.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.00396; LaSn: La 0.005; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 28 |  |
+| 1487.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.375; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 31 |  |
+| 1487.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 26 |  |
+| 1482.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.396; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 28 |  |
 | 1482 | Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.6043 | model | [2] Huang 2000 | Table 1, p. 2, row 19 |  |
 | 1482 | Liq \<=> LaSn + La3Sn5 | Liq: Sn 0.604; LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 22 |  |
-| 1478.15 | congruent melting: L=La3Sn5 | L: La 0.00375; La3Sn5: La 0.00375 | model | [3] Li 2019 | Table 4, p. 10, row 25 |  |
-| 1478.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.00376; LaSn: La 0.005; La3Sn5: La 0.00375 | model | [3] Li 2019 | Table 4, p. 10, row 30 |  |
-| 1474.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.00424; LaSn: La 0.005; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 29 |  |
+| 1478.15 | congruent melting: L=La3Sn5 | L: La 0.375; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 25 |  |
+| 1478.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.376; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019 | Table 4, p. 10, row 30 |  |
+| 1474.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.424; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 29 |  |
 | 1474 | Liq \<=> LaSn + La3Sn5 | Liq: Sn 0.575; LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625 | model | [1] Idbenali 2009 | Table 3, p. 5, row 23 |  |
-| 1473.15 | peritectic: L+LaSn=La3Sn5 | L: La 0.00359; LaSn: La 0.005; La3Sn5: La 0.00375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 20 |  |
-| 1473.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.00435; LaSn: La 0.005; La3Sn5: La 0.00375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 27 |  |
+| 1473.15 | peritectic: L+LaSn=La3Sn5 | L: La 0.359; LaSn: La 0.5; La3Sn5: La 0.375 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 20 |  |
+| 1473.15 | eutectic: L=LaSn+La3Sn5 | L: La 0.435; LaSn: La 0.5; La3Sn5: La 0.375 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 27 |  |
 | 1473 | Liq \<=> LaSn + La3Sn5 | Liq: Sn 0.565; LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 21 |  |
 | 1473 | Liq.->LaSn+La3Sn5 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; Liq.: Sn 0.565 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 20 |  |
-| 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.005; La3Sn5: La 0.00375; La2Sn3: La 0.004 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 34 |  |
-| 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.005; La3Sn5: La 0.00375; La2Sn3: La 0.004 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 32 |  |
+| 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 34 |  |
+| 1452.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 32 |  |
 | 1452 | LaSn+La3Sn5->La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 22 |  |
 | 1452 | LaSn + La3Sn5 \<=> La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | model | [1] Idbenali 2009 | Table 3, p. 5, row 26 |  |
 | 1452 | LaSn + La3Sn5 \<=> La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 24 |  |
-| 1451.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.005; La3Sn5: La 0.00375; La2Sn3: La 0.004 | model | [3] Li 2019 | Table 4, p. 10, row 36 |  |
-| 1451.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.005; La3Sn5: La 0.00375; La2Sn3: La 0.004 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 33 |  |
+| 1451.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019 | Table 4, p. 10, row 36 |  |
+| 1451.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 33 |  |
 | 1451 | LaSn + La3Sn5 \<=> La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 25 |  |
 | 1451 | LaSn+La3Sn5->La2Sn3 | LaSn: La 0.5, Sn 0.5; La3Sn5: La 0.375, Sn 0.625; La2Sn3: La 0.4, Sn 0.6 | model | [2] Huang 2000 | Table 1, p. 2, row 21 |  |
-| 1449.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.005; La3Sn5: La 0.00375; La2Sn3: La 0.004 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 35 |  |
-| 1432.15 | congruent melting: L=LaSn3 | L: La 0.0025; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 8 |  |
+| 1449.15 | peritectoid: LaSn+La3Sn5=La2Sn3 | LaSn: La 0.5; La3Sn5: La 0.375; La2Sn3: La 0.4 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 35 |  |
+| 1432.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 8 |  |
 | 1432 | Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [2] Huang 2000 | Table 1, p. 2, row 27 |  |
 | 1432 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 34 |  |
-| 1428.15 | congruent melting: L=LaSn3 | L: La 0.0025; LaSn3: La 0.0025 | model | [3] Li 2019 | Table 4, p. 10, row 11 |  |
-| 1428.15 | congruent melting: L=LaSn3 | L: La 0.0025; LaSn3: La 0.0025 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 7 |  |
+| 1428.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019 | Table 4, p. 10, row 11 |  |
+| 1428.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 7 |  |
 | 1428 | Liq.->LaSn3 | L: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 28 |  |
 | 1420 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 33 |  |
-| 1411.15 | congruent melting: L=LaSn3 | L: La 0.0025; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 10 |  |
-| 1408.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.0029; La3Sn5: La 0.00375; LaSn3: La 0.0025 | model | [3] Li 2019 | Table 4, p. 10, row 18 |  |
+| 1411.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 10 |  |
+| 1408.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.29; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019 | Table 4, p. 10, row 18 |  |
 | 1405 | Liq \<=> LaSn3 | Liq: La 0.25, Sn 0.75; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 35 |  |
-| 1404.15 | congruent melting: L=LaSn3 | L: La 0.0025; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 9 |  |
-| 1403.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.00263; La3Sn5: La 0.00375; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 15 |  |
+| 1404.15 | congruent melting: L=LaSn3 | L: La 0.25; LaSn3: La 0.25 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 9 |  |
+| 1403.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.263; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 15 |  |
 | 1403 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.736; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 32 |  |
-| 1402.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.00295; La3Sn5: La 0.00375; LaSn3: La 0.0025 | model | [3] Li 2019 | Table 4, p. 10, row 17 |  |
-| 1401.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.00286; La3Sn5: La 0.00375; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 16 |  |
-| 1386.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.00295; La3Sn5: La 0.00375; LaSn3: La 0.0025 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 13 |  |
+| 1402.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.295; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019 | Table 4, p. 10, row 17 |  |
+| 1401.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.286; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 16 |  |
+| 1386.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.295; La3Sn5: La 0.375; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 13 |  |
 | 1386 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.705; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 30 |  |
 | 1386 | Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.705 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 26 |  |
-| 1385.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.00299; La3Sn5: La 0.00375; LaSn3: La 0.0025 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 14 |  |
+| 1385.15 | eutectic: L=La3Sn5+LaSn3 | L: La 0.299; La3Sn5: La 0.375; LaSn3: La 0.25 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 14 |  |
 | 1385 | Liq.->La3Sn5 +LaSn3 | La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.7001 | model | [2] Huang 2000 | Table 1, p. 2, row 25 |  |
 | 1385 | Liq \<=> La3Sn5 + LaSn3 | Liq: Sn 0.7; La3Sn5: La 0.375, Sn 0.625; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 31 |  |
-| 1381.15 | eutectic: L=La2Sn3+LaSn3 | L: La 0.00315; La2Sn3: La 0.004; LaSn3: La 0.0025 | experimental | [3] Li 2019; _cites Rolla 1943_ | Table 4, p. 10, row 19 |  |
+| 1381.15 | eutectic: L=La2Sn3+LaSn3 | L: La 0.315; La2Sn3: La 0.4; LaSn3: La 0.25 | experimental | [3] Li 2019; _cites Rolla 1943_ | Table 4, p. 10, row 19 |  |
 | 1193 | Liq.->γLa (bcc) |  | model | [2] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 1 |  |
 | 1191 | Liq.->γLa (bcc) |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 2 |  |
 | 1138 | γLa \<=> βLa + Liq | Liq: Sn 0.05 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 1 |  |
-| 1138 | γLa->βLa (fcc) |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 4 |  |
 | 1138 | γLa->βLa+Liq. | Liq.: Sn 0.05 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 8 |  |
 | 1134 | γLa \<=> βLa + Liq | Liq: Sn 0.043 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 2 |  |
-| 1134 | γLa->βLa (fcc) |  | model | [2] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 3 |  |
 | 1134 | γLa->βLa+Liq. | Liq.: Sn 0.0435 | model | [2] Huang 2000 | Table 1, p. 2, row 7 |  |
 | 1134 | γLa \<=> βLa + Liq | Liq: Sn 0.026 | model | [1] Idbenali 2009 | Table 3, p. 5, row 3 |  |
 | 1020 | Liq \<=> βLa + βLa5Sn3 | Liq: Sn 0.115; βLa: Sn 0; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 5 |  |
@@ -210,15 +208,13 @@ Table: Invariant reactions reported in the literature for the La–Sn system (11
 | 1016 | Liq \<=> βLa + βLa5Sn3 | Liq: Sn 0.086; βLa: Sn 0; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009 | Table 3, p. 5, row 6 |  |
 | 673 | αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 10 |  |
 | 670 | αLa5Sn3 \<=> βLa5Sn3 | αLa5Sn3: La 0.625, Sn 0.375; βLa5Sn3: La 0.625, Sn 0.375 | model | [1] Idbenali 2009 | Table 3, p. 5, row 11 |  |
-| 583 | βLa->αLa (dhcp) |  | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 6 |  |
-| 550 | βLa->αLa (dhcp) |  | model | [2] Huang 2000; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 1, p. 2, row 5 |  |
-| 508.15 | peritectic: L+LaSn3=(βSn) | L: La 0.00197; LaSn3: La 0.0025; (βSn): La 0 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 6 |  |
+| 508.15 | peritectic: L+LaSn3=(βSn) | L: La 0.197; LaSn3: La 0.25; (βSn): La 0 | experimental | [3] Li 2019; _cites Eremenko 1989_ | Table 4, p. 10, row 6 |  |
 | 508 | Liq.+LaSn3 ->βSn (bct) | LaSn3: La 0.25, Sn 0.75; Liq.: Sn 1 | experimental | [2] Huang 2000; _cites Eremenko 1988_ | Table 1, p. 2, row 30 |  |
 | 508 | (βSn) \<=> Liq + LaSn3 | Liq: Sn 1; LaSn3: La 0.25, Sn 0.75 | experimental | [1] Idbenali 2009; _cites Palenzona 1992_ [doi](https://doi.org/10.1007/bf02645375) | Table 3, p. 5, row 36 |  |
-| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.0025; (βSn): La 0 | model | [3] Li 2019 | Table 4, p. 10, row 5 |  |
-| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.0025; (βSn): La 0 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 1 |  |
-| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.0025; (βSn): La 0 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 2 |  |
-| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.0025; (βSn): La 0 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 3 |  |
+| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019 | Table 4, p. 10, row 5 |  |
+| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019; _cites Huang 2000_ [doi](https://doi.org/10.1016/s0925-8388%2800%2901077-x) | Table 4, p. 10, row 1 |  |
+| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019; _cites Idbenali 2009_ [doi](https://doi.org/10.1016/j.calphad.2008.12.003) | Table 4, p. 10, row 2 |  |
+| 505.15 | eutectic: L=LaSn3+(βSn) | L: La 0; LaSn3: La 0.25; (βSn): La 0 | model | [3] Li 2019; _cites Kim 2016_ [doi](https://doi.org/10.1016/j.calphad.2016.08.004) | Table 4, p. 10, row 3 |  |
 | 505.1 | (βSn) \<=> Liq + LaSn3 | (βSn): Sn 1; Liq: Sn 1; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009 | Table 3, p. 5, row 38 |  |
 | 505 | Liq.->LaSn3 +βSn (bct) | LaSn3: La 0.25, Sn 0.75; Liq.: Sn 0.9996 | model | [2] Huang 2000 | Table 1, p. 2, row 29 |  |
 | 505 | (βSn) \<=> Liq + LaSn3 | (βSn): Sn 1; Liq: Sn 0.9996; LaSn3: La 0.25, Sn 0.75 | model | [1] Idbenali 2009; _cites Minhwa 2000_ | Table 3, p. 5, row 37 |  |

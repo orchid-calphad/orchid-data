@@ -1,10 +1,10 @@
 # Cu–Y system
 
-> Cu–Y system: 72 accepted literature values (invariant reaction 37, crystal structure 18, phase transition 17) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–Y system: 71 accepted literature values (invariant reaction 36, crystal structure 18, phase transition 17) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-Y.html · Markdown: https://data.orchid-project.org/systems/CU-Y.md
 
-72 accepted literature values from 2 paper(s) (experimental 51, model 10, unspecified 11); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+71 accepted literature values from 2 paper(s) (experimental 51, model 10, unspecified 10); 1 calculated phase diagram(s). 2 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-Y.json) · [CSV](https://data.orchid-project.org/systems/CU-Y.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-Y) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-Y/CuY-94Fri-LB.json) · [phases (10)](https://data.orchid-project.org/phases/pages/CU-Y.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-Y.html) · [Markdown](https://data.orchid-project.org/systems/CU-Y.md)
 
@@ -14,13 +14,13 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 51 |
 | model | 10 |
-| unspecified | 11 |
+| unspecified | 10 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 37 |
+| invariant reaction | 36 |
 | phase transition | 17 |
 | crystal structure | 18 |
 
@@ -59,11 +59,10 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cu–Y system (37)
+Table: Invariant reactions reported in the literature for the Cu–Y system (36)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1752 | polymorphic: hcp-A3 \<=> bcc-A2 | hcp-A3: Y 1; bcc-A2: Y 1 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 7 |  |
 | 1224 | congruent melting: Liquid \<=> Cu4Y | Liquid: Y 0.2; Cu4Y: Y 0.2 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 9 |  |
 | 1220 | congruent melting: Liquid \<=> CuY | Liquid: Y 0.5; CuY: Y 0.5 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 11 |  |
 | 1203 | L + YCu4 -> YCu6 | YCu4: Y 0.2; YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Dom_ | Table 2, p. 4, row 34 |  |
@@ -82,7 +81,7 @@ Table: Invariant reactions reported in the literature for the Cu–Y system (37)
 | 1153 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994 | Table 2, p. 4, row 42 |  |
 | 1149 | congruent melting: Liquid \<=> Cu2Y-H | Liquid: Y 0.333; Cu2Y-H: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 10 |  |
 | 1149 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | model | [2] Fries 1994 | Table 2, p. 4, row 24 |  |
-| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.222; Cu7Y2: Y 0.333 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3 |  |
+| 1148.6 | eutectic: Liquid \<=> Cu2Y-H + Cu7Y2 | Liquid: Y 0.299; Cu2Y-H: Y 0.333; Cu7Y2: Y 0.222 | unspecified | [1] Hämäläinen 1998 | Table I, p. 200, row 3 |  |
 | 1139 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 38 |  |
 | 1135 | L -> Y2Cu7 + YCu2 | Y2Cu7: Y 0.222222; YCu2: Y 0.333333 | experimental | [2] Fries 1994; _cites ref. 61Hae_ | Table 2, p. 4, row 21 |  |
 | 1133 | L -> (Cu) + YCu6 | YCu6: Y 0.142857 | experimental | [2] Fries 1994; _cites ref. 75Fed_ | Table 2, p. 4, row 40 |  |

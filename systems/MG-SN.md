@@ -1,10 +1,10 @@
 # Mg–Sn system
 
-> Mg–Sn system: 41 accepted literature values (invariant reaction 21, phase transition 12, mixing / partial 8) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Mg–Sn system: 43 accepted literature values (invariant reaction 21, phase transition 12, mixing / partial 8, crystal structure 2) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/MG-SN.html · Markdown: https://data.orchid-project.org/systems/MG-SN.md
 
-41 accepted literature values from 3 paper(s) (experimental 27, model 14); 5 calculated phase diagram(s).
+43 accepted literature values from 3 paper(s) (experimental 27, model 14, unspecified 2); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/MG-SN.json) · [CSV](https://data.orchid-project.org/systems/MG-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#MG-SN) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#MG-SN/MgSn-04Fri.json) · [phases (7)](https://data.orchid-project.org/phases/pages/MG-SN.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/MG-SN.html) · [Markdown](https://data.orchid-project.org/systems/MG-SN.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 27 |
 | model | 14 |
+| unspecified | 2 |
 
 Table: Accepted values by property group
 
@@ -22,6 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 21 |
 | phase transition | 12 |
 | mixing / partial | 8 |
+| crystal structure | 2 |
 
 ## Calculated phase diagrams
 
@@ -121,6 +123,15 @@ Table: Mixing / partial, Mg–Sn system
 | Enthalpy of mixing; _printed: ΔmixH_ | -4.908 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 7 |  |
 | Enthalpy of mixing; _printed: ΔmixH_ | -8.736 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 11 |  |
 | Enthalpy of mixing; _printed: ΔmixH_ | 9.347 kJ/mol (basis unstated) | 1100.15 | cph | model | [3] Morioka 1999 | Table 5, p. 7, row 12 |  |
+
+### Crystal structure (2)
+
+Table: Crystal structure, Mg–Sn system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 6.76 not_printed ± 0.002 | 773 (\<) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 7 |  |
+| Lattice a | 6.7645 not_printed ± 3.000e-4 | 773 (\<) | Mg2Sn; _alloy: Mg 0.666667, Sn 0.333333_ | unspecified | [2] Kozlov 2008 | Table 1, p. 4, row 7 |  |
 
 ## Sources
 

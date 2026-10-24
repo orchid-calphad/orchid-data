@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Si3Zr5 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -112.968 kJ/mol-atom ± 33.5 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 16 |  |
+| -112.968 kJ/mol-atom ± 4.1875 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 65Gol_ | Table II, p. 4, row 16 |  |
 | -78.175 kJ/mol-atom | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994 | Table II, p. 4, row 19 |  |
 | -76.494 kJ/mol-atom | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 55Rob_ | Table II, p. 4, row 15 |  |
-| -71.896 kJ/mol-atom ± 100.32 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 17 |  |
-| -71.65 kJ/mol-atom ± 38.32 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 90Top_ | Table II, p. 4, row 18 |  |
+| -71.896 kJ/mol-atom ± 12.54 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 73Hul_ | Table II, p. 4, row 17 |  |
+| -71.65 kJ/mol-atom ± 4.79 | Si3Zr5 | 298.15 | model |  | [Si–Zr](https://data.orchid-project.org/systems/SI-ZR.html) | [1] Gueneau 1994; _cites ref. 90Top_ | Table II, p. 4, row 18 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of Si3Zr5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -112.968 | kJ/mol-atom | 33.5 | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 33.5 |
-| -78.175 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -76.494 | kJ/mol-atom |  | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -71.896 | kJ/mol-atom | 100.3 | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 100.3 |
-| -71.65 | kJ/mol-atom | 38.32 | 6.250e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 38.32 |
+| -112.968 | kJ/mol-atom | 4.188 | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 4.188 |
+| -78.175 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -76.494 | kJ/mol-atom |  | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -71.896 | kJ/mol-atom | 12.54 | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 12.54 |
+| -71.65 | kJ/mol-atom | 4.79 | 6.250e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 4.79 |
 
 ## DFT formation energies
 
@@ -42,8 +42,8 @@ Table: DFT formation energy of Si3Zr5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaabgikp | -76.551 | -0.7934 | P6_3/mcm | 2.319 | 0.024 | no |
-| OQMD | oqmd-31218 | -79.039 | -0.81918 | P63/mcm | 2.577 | 0.0267 | no |
+| Materials Project | mp-aaabgikp | -76.551 | -0.7934 | P6_3/mcm | 2.3192 | 0.024 | no |
+| OQMD | oqmd-31218 | -79.039 | -0.81918 | P63/mcm | 2.5772 | 0.0267 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

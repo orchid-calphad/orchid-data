@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CoHf2.html · Markdown: https://
 
 2 accepted literature formation-enthalpy value(s) (model 2); Materials Project -28.174 kJ/mol-atom (mp-aaacptpp); OQMD -30.133 kJ/mol-atom (oqmd-1365971).
 
-Systems: [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html)
+Systems: [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of CoHf2 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
-| -38 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf–Zr](https://data.orchid-project.org/systems/CO-HF-ZR.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
+| -43 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html) | [1] Bratberg 2006 | Table 6, p. 5, row 17 |  |
+| -38 kJ/mol-atom | CoHf2 | 298.15 | model |  | [Co–Hf](https://data.orchid-project.org/systems/CO-HF.html) | [1] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of CoHf2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -38 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -43 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -38 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

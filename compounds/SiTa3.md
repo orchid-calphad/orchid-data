@@ -1,23 +1,26 @@
 # SiTa3: enthalpy of formation
 
-> Enthalpy of formation of SiTa3: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of SiTa3: 7 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/SiTa3.html · Markdown: https://data.orchid-project.org/compounds/SiTa3.md
 
-4 accepted literature formation-enthalpy value(s) (model 3, unspecified 1); Materials Project -40.609 kJ/mol-atom (mp-aaabgjfa); OQMD -42.591 kJ/mol-atom (oqmd-18906).
+7 accepted literature formation-enthalpy value(s) (experimental 1, model 5, unspecified 1); experimental median -43.332 kJ/mol-atom (n = 1); Materials Project -40.609 kJ/mol-atom (mp-aaabgjfa); OQMD -42.591 kJ/mol-atom (oqmd-18906).
 
-Systems: [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html)
+Systems: [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of SiTa3 reported in the literature (4)
+Table: Enthalpy of formation of SiTa3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -43.3 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
-| -43 kJ/mol-atom | Ta3Si | 0 | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
-| -39 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
-| -43 kJ/mol-atom | Ta3Si | 0 | unspecified |  | [Si–Ta–V](https://data.orchid-project.org/systems/SI-TA-V.html) | [1] Broz 2013 | Table 2, p. 6, row 60 |  |
+| -43.332 kJ/mol-atom | Si0.25Ta0.75 | 2087.5 | experimental | Kundsen eff. Method | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites Myers 1957_ [doi](https://doi.org/10.1021/ja01560a007) | Table 2, p. 2, row 26 |  |
+| -43.3 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Gorelkin 1971_ | Table 2, p. 6, row 61 |  |
+| -43 kJ/mol-atom | Ta3Si | 0 | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Guo 2009_ [doi](https://doi.org/10.1007/s11669-009-9579-x) | Table 2, p. 6, row 63 |  |
+| -42.2237 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Optimization | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013 | Table 2, p. 2, row 25 |  |
+| -39 kJ/mol-atom | Ta3Si |  | model |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013; _cites Eremenko 1975_ | Table 2, p. 6, row 62 |  |
+| -39 kJ/mol-atom | Si0.25Ta0.75 | 298.15 | model | Prediction | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [1] Drouelle 2013; _cites F 1988_ | Table 2, p. 2, row 24 |  |
+| -43 kJ/mol-atom | Ta3Si | 0 | unspecified |  | [Si–Ta](https://data.orchid-project.org/systems/SI-TA.html) | [2] Broz 2013 | Table 2, p. 6, row 60 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +30,13 @@ Table: Uncertainty budget of the literature values of SiTa3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -43.3 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -43 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -43.332 | kJ/mol-atom |  | 5.000e-4 | 5.6 (kems_vapour, cleaned_below_threshold) |  |  |  | 5.6 |
+| -43.3 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -43 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -42.2237 | kJ/mol-atom |  | 5.000e-8 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -43 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -47,7 +53,8 @@ DFT sources: A. Jain et al., Commentary: The Materials Project: A materials geno
 
 ## Sources
 
-1. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
+1. I. Drouelle, C. Servant, Thermodynamic assessment of the Si–Ta system, Journal of Alloys and Compounds 551, 293-299 (2013). [doi:10.1016/j.jallcom.2012.09.148](https://doi.org/10.1016/j.jallcom.2012.09.148)
+2. P. Broz, A.U. Khan, H. Niu, X.-Q. Chen, D. Li, J. Vrestal et al., The system Ta–V–Si: Thermodynamic modeling, Journal of Solid State Chemistry 199, 171-180 (2013). [doi:10.1016/j.jssc.2012.12.003](https://doi.org/10.1016/j.jssc.2012.12.003)
 
 ## Please cite
 

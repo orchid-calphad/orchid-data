@@ -12,7 +12,7 @@ Table: Phases of the Co–Th system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-th-bcc-a2); _phase:co-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1633.2–3999.45 K, x(Th) 0.99999–1 | 9 | 1 |
+| [BCC_A2](#phase-co-th-bcc-a2); _phase:co-th:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1633.2–3999.45 K, x(Th) 0.99999–1 | 3 | 1 |
 | [CO17TH2](#phase-co-th-co17th2); _phase:co-th:co17th2_ | Th2Zn17 · hR19 · R-3m (166) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1735.98 K, x(Th) 0.10526–0.10526 | 9 | 1 |
 | [CO3TH7_D102](#phase-co-th-co3th7-d102); _phase:co-th:co3th7-d102_ | Fe3Th7 · D10_2 · hP20 · P6_3mc (186) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1402.43 K, x(Th) 0.7–0.7 | 9 | 1 |
 | [CO5TH_D2D](#phase-co-th-co5th-d2d); _phase:co-th:co5th-d2d_ | CaCu5 · D2_d · hP6 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 400.45–1698.58 K, x(Th) 0.16667–0.16667 | 9 | 1 |
@@ -21,18 +21,18 @@ Table: Phases of the Co–Th system (10)
 | [COTH_B33](#phase-co-th-coth-b33); _phase:co-th:coth-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1398.31 K, x(Th) 0.5–0.5 | 9 | 1 |
 | [FCC_A1](#phase-co-th-fcc-a1); _phase:co-th:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1767.99 K, x(Th) 0–1 | 0 | 1 |
 | [HCP_A3](#phase-co-th-hcp-a3); _phase:co-th:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–694.99 K, x(Th) 0–0 | 0 | 1 |
-| [LIQUID](#phase-co-th-liquid); _phase:co-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1233.31–4000 K, x(Th) 0–1 | 42 | 1 |
+| [LIQUID](#phase-co-th-liquid); _phase:co-th:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1233.31–4000 K, x(Th) 0–1 | 39 | 1 |
 
 ## BCC_A2 (Co–Th)
 
 - Id: `phase:co-th:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1633.2–3999.45 K, x(Th) 0.99999–1
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-th:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:co-th:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2007.03.003:βTh, paper:10.1016/j.jallcom.2007.03.003:εCo  
+Names (3): _corpus: _corpus:phase:co-th:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2007.03.003:βTh  
 _tdb: _tdb:CoTh-08Wan.tdb:BCC_A2  
 
 
@@ -316,7 +316,7 @@ _assessment that models this phase_
 - Id: `phase:co-th:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1233.31–4000 K, x(Th) 0–1
-- Literature: 42 values (42 accepted) from 1 papers
+- Literature: 39 values (39 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-th:liquid)
 
 Names (3): _corpus: _corpus:phase:co-th:liquid  

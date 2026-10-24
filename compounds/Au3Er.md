@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Au3Er.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, DFT 2); experimental median -66 kJ/mol-atom (n = 2); Materials Project -69.749 kJ/mol-atom (mp-aaacjmto); OQMD -69.851 kJ/mol-atom (oqmd-28151).
 
-Systems: [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html)
+Systems: [Au–Er](https://data.orchid-project.org/systems/AU-ER.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of Au3Er reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -66.1 kJ/mol-atom ± 1.9 | Au3Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
-| -65.9 kJ/mol-atom | Au3Er | 298.15 | experimental |  | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
-| -73 kJ/mol-atom | Au3Er | 0 | DFT | ab initio | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
-| -71.1 kJ/mol-atom | Au3Er |  | DFT | VASP | [Au–Er–La](https://data.orchid-project.org/systems/AU-ER-LA.html) | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
+| -66.1 kJ/mol-atom ± 1.9 | Au3Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 31 |  |
+| -65.9 kJ/mol-atom | Au3Er | 298.15 | experimental |  | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 32 |  |
+| -73 kJ/mol-atom | Au3Er | 0 | DFT | ab initio | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 29 |  |
+| -71.1 kJ/mol-atom | Au3Er |  | DFT | VASP | [Au–Er](https://data.orchid-project.org/systems/AU-ER.html) | [1] Dong 2011 | Table 1, p. 3, row 30 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of Au3Er
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -66.1 | kJ/mol-atom | 1.9 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -65.9 | kJ/mol-atom |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -73 | kJ/mol-atom |  | 0.5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -71.1 | kJ/mol-atom |  | 0.05 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -66.1 | kJ/mol-atom | 1.9 | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -65.9 | kJ/mol-atom |  | 0.05 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -73 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -71.1 | kJ/mol-atom |  | 0.05 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -41,7 +41,7 @@ Table: DFT formation energy of Au3Er
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacjmto | -69.749 | -0.722904 | Pmmn | 0 | 0 | no |
-| OQMD | oqmd-28151 | -69.851 | -0.723954 | Pmmn | 0.498 | 0.0052 | no |
+| OQMD | oqmd-28151 | -69.851 | -0.723954 | Pmmn | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

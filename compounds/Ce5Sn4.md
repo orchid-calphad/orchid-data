@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/Ce5Sn4.html · Markdown: https://data.orchid-project.org/compounds/Ce5Sn4.md
 
-5 accepted literature formation-enthalpy value(s) (experimental 1, model 3, DFT 1); experimental median -83.68 kJ/mol-atom (n = 1); Materials Project -55.641 kJ/mol-atom (mp-aaaabgcj); OQMD -76.267 kJ/mol-atom (oqmd-18283).
+5 accepted literature formation-enthalpy value(s) (experimental 1, model 2, DFT 2); experimental median -83.68 kJ/mol-atom (n = 1); Materials Project -55.641 kJ/mol-atom (mp-aaaabgcj); OQMD -76.267 kJ/mol-atom (oqmd-18283).
 
-Systems: [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) · [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html)
+Systems: [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of Ce5Sn4 reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -83.68 kJ/mol-atom ± 4.2 | Ce5Sn4 | 300 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 28 |  |
-| -83 kJ/mol-atom | Ce5Sn4 | 300 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 29 |  |
-| -73.46 kJ/mol-atom | Ce5Sn4 | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 30 |  |
-| -73.25 kJ/mol-atom | Ce5Sn4 | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 27 |  |
-| -83.048 kJ/mol-atom | Ce5Sn4 | 0 | DFT | first-principles calculation | [Ce–Cu–Sn](https://data.orchid-project.org/systems/CE-CU-SN.html) | [2] Li 2013 | Table 1, p. 3, row 6 |  |
+| -83.68 kJ/mol-atom ± 4.2 | Ce5Sn4 | 300 | experimental | calorimetry | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 4, p. 4, row 28 |  |
+| -83 kJ/mol-atom | Ce5Sn4 | 300 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013; _cites Colinet 1984_ [doi](https://doi.org/10.1016/0022-5088%2884%2990313-8) | Table 4, p. 4, row 29 |  |
+| -73.46 kJ/mol-atom | Ce5Sn4 | 289 | model |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 30 |  |
+| -83.048 kJ/mol-atom | Ce5Sn4 | 0 | DFT | first-principles calculation | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [2] Li 2013 | Table 1, p. 3, row 6 |  |
+| -73.25 kJ/mol-atom | Ce5Sn4 | 0 | DFT |  | [Ce–Sn](https://data.orchid-project.org/systems/CE-SN.html) | [1] Dong 2013 | Table 4, p. 4, row 27 |  |
 
 ### Uncertainty budget
 
@@ -29,10 +29,10 @@ Table: Uncertainty budget of the literature values of Ce5Sn4
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -83.68 | kJ/mol-atom | 4.2 | 0.005 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
-| -83 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.46 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -73.25 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -83.048 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -83 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -73.46 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -83.048 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -73.25 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

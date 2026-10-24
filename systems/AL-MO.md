@@ -1,10 +1,10 @@
 # Al–Mo system
 
-> Al–Mo system: 239 accepted literature values (invariant reaction 117, crystal structure 38, phase equilibrium 29, formation 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Mo system: 237 accepted literature values (invariant reaction 117, crystal structure 36, phase equilibrium 29, formation 29) and 6 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-MO.html · Markdown: https://data.orchid-project.org/systems/AL-MO.md
 
-239 accepted literature values from 6 paper(s) (experimental 100, model 72, unspecified 67); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+237 accepted literature values from 6 paper(s) (experimental 100, model 72, unspecified 65); 6 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-MO.json) · [CSV](https://data.orchid-project.org/systems/AL-MO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-MO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-MO/AlMo-09Du.json) · [phases (15)](https://data.orchid-project.org/phases/pages/AL-MO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-MO.html) · [Markdown](https://data.orchid-project.org/systems/AL-MO.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 100 |
 | model | 72 |
-| unspecified | 67 |
+| unspecified | 65 |
 
 Table: Accepted values by property group
 
@@ -25,7 +25,7 @@ Table: Accepted values by property group
 | phase equilibrium | 29 |
 | formation | 29 |
 | mixing / partial | 8 |
-| crystal structure | 38 |
+| crystal structure | 36 |
 
 ## Calculated phase diagrams
 
@@ -345,8 +345,8 @@ Table: Enthalpies of formation, Al–Mo system (29)
 | Mo5Al3–D8m | [Al3Mo5](https://data.orchid-project.org/compounds/Al3Mo5.html) | -7.3 kJ/mol-atom |  | model |  | 0.223 (oqmd-1277798) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 9 |  |
 | MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 1 |  |
 | MoAl2-C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000 | Table 5, p. 8, row 2 |  |
-| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000 | Table 5, p. 8, row 4 |  |
-| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3 |  |
+| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -21 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [5] Liu 2000 | Table 5, p. 8, row 4 |  |
+| MoAl2-C40 | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -1.389 (oqmd-1797232) | [5] Liu 2000; _cites Boer 1989_ | Table 5, p. 8, row 3 |  |
 | MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Boer 1988_ | Table 3, p. 8, row 2 |  |
 | MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -20 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012 | Table 3, p. 8, row 1 |  |
 | MoAl2–C11b | [Al2Mo](https://data.orchid-project.org/compounds/Al2Mo.html) | -19 kJ/mol-atom |  | model |  | -2.255 (oqmd-1609942) | [6] Guo 2012; _cites Liu 2000_ [doi](https://doi.org/10.1016/s0966-9795%2800%2900068-6) | Table 3, p. 8, row 3 |  |
@@ -432,13 +432,12 @@ Table: Mixing / partial, Al–Mo system
 | Enthalpy of mixing; _printed: ΔHcalc_ | -16.88 kJ/mol (basis unstated) |  | Liquid; _alloy: Al 0.82, Mo 0.18_ | model | [1] Ltd. 1997 | Table 7, p. 6, row 8 |  |
 | Enthalpy of mixing; _printed: ΔHcalc_ | -14.61 kJ/mol (basis unstated) |  | Liquid; _alloy: Al 0.85, Mo 0.15_ | model | [1] Ltd. 1997 | Table 7, p. 6, row 6 |  |
 
-### Crystal structure (38)
+### Crystal structure (36)
 
 Table: Crystal structure, Al–Mo system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 4.0496 Å | 298.15 | Al; _Al: Al 1, Mo 0_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 1 |  |
 | Lattice a | 7.5815 Å | 298.15 | Al12Mo; _Al12Mo: Al 0.9223, Mo 0.0777_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 2 |  |
 | Lattice a | 7.5877 Å | 298.15 | Al12Mo; _alloy: Mo 0.076923_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 12 |  |
 | Lattice a | 4.945 Å ± 0.001 | 298.15 | Al3+xMo1-x; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 20 |  |
@@ -455,7 +454,6 @@ Table: Crystal structure, Al–Mo system
 | Lattice a | 3.089 Å | 298.15 | AlMo; _AlMo: Al 0.46, Mo 0.54_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 13 |  |
 | Lattice a | 3.098 Å | 298.15 | AlMo; _AlMo: Al 0.52, Mo 0.48_ | unspecified | [1] Ltd. 1997; _cites ref. 71Rex_ | Table 5, p. 5, row 12 |  |
 | Lattice a | 4.95 Å | 298.15 | AlMo3; _AlMo3: Al 0.75, Mo 0.25; Al3Mo: Al 0.75, Mo 0.25_ | experimental | [1] Ltd. 1997; _cites "Beta Wolfram Structure of Compounds Between Transition Elements and AI 1958_ | Table 5, p. 5, row 11 |  |
-| Lattice a | 3.147 Å | 298.15 | Mo; _Mo: Al 0, Mo 1_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 9 |  |
 | Lattice b | 3.594 Å ± 0.001 | 298.15 | Al3Mo; _alloy: Mo 0.25_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 21 |  |
 | Lattice b | 17.768 Å | 298.15 | Al4Mo; _Al4Mo: Al 0.8, Mo 0.2_ | unspecified | [1] Ltd. 1997 | Table 5, p. 5, row 4 |  |
 | Lattice b | 17.785 Å ± 0.003 | 298.15 | Al4Mo; _alloy: Mo 0.2_ | unspecified | [1] Ltd. 1997; _cites ref. 91Sch_ | Table A1, p. 8, row 19 |  |

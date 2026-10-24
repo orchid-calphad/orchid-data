@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AuSn.html · Markdown: https://d
 
 4 accepted literature formation-enthalpy value(s) (experimental 2, model 1, DFT 1).
 
-Systems: [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html)
+Systems: [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of AuSn reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.69 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 3 |  |
-| -14.88 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
-| -15.75 kJ/mol (basis unstated) | AuSn | 10 | model |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 6 |  |
-| -18.77 kJ/mol (basis unstated) | AuSn | 0 | DFT |  | [Au–Co–Sn](https://data.orchid-project.org/systems/AU-CO-SN.html) | [1] Dong 2009 | Table II, p. 4, row 5 |  |
+| -15.69 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 3 |  |
+| -14.88 kJ/mol (basis unstated) | AuSn | 78 | experimental |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009; _cites Jena 1979_ [doi](https://doi.org/10.1007/bf02662555) | Table II, p. 4, row 4 |  |
+| -15.75 kJ/mol (basis unstated) | AuSn | 10 | model |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 6 |  |
+| -18.77 kJ/mol (basis unstated) | AuSn | 0 | DFT |  | [Au–Sn](https://data.orchid-project.org/systems/AU-SN.html) | [1] Dong 2009 | Table II, p. 4, row 5 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of AuSn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.69 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.88 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -15.75 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -15.69 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -14.88 | kJ/mol (basis unstated) |  | 0.005 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -15.75 | kJ/mol (basis unstated) |  | 0.005 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -18.77 | kJ/mol (basis unstated) |  | 0.005 | 16.94 (dft, calibrated) |  |  |  | 16.94 |
 
 ## Sources
 

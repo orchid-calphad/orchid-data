@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of WB
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -108.8 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -63.7 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -54.5 | kJ/mol (basis unstated) |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.9 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -66.5 | kJ/mol (basis unstated) | 4.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.2 |
-| -66.1 | kJ/mol (basis unstated) |  | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -59.4 | kJ/mol (basis unstated) | 4.2 | 0.05 | 4.1 (unknown, calibrated) |  |  |  | 4.2 |
+| -108.8 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -63.7 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -54.5 | kJ/mol (basis unstated) |  | 0.05 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -66.9 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -66.5 | kJ/mol (basis unstated) | 4.2 | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -66.1 | kJ/mol (basis unstated) |  | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
+| -59.4 | kJ/mol (basis unstated) | 4.2 | 0.05 | 7 (unknown, calibrated) |  |  |  | 7 |
 
 ## Sources
 

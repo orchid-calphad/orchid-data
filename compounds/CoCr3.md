@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/CoCr3.html · Markdown: https://data.orchid-project.org/compounds/CoCr3.md
 
-1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 24.326 kJ/mol-atom (mp-aaacgjal); OQMD 3.465 kJ/mol-atom (oqmd-1280362).
+1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 24.326 kJ/mol-atom (mp-aaacgjal); OQMD 17.209 kJ/mol-atom (oqmd-343545).
 
-Systems: [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html)
+Systems: [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of CoCr3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 18.079 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Al–Co–Cr–Ni](https://data.orchid-project.org/systems/AL-CO-CR-NI.html) | [1] Liu 2016 | Table 4, p. 38, row 28 |  |
+| 18.079 kJ/mol-atom | γ'-L12 | 298.15 | model |  | [Co–Cr](https://data.orchid-project.org/systems/CO-CR.html) | [1] Liu 2016 | Table 4, p. 38, row 28 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of CoCr3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 18.079 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| 18.079 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of CoCr3
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaacgjal | 24.326 | 0.252124 | P6_3/mmc | 24.326 | 0.2521 | yes |
-| OQMD | oqmd-1280362 | 3.465 | 0.035917 | Pm-3n | 3.918 | 0.0406 | yes |
+| Materials Project | mp-aaacgjal | 24.326 | 0.252124 | P6_3/mmc | 24.3262 | 0.2521 | yes |
+| OQMD | oqmd-343545 | 17.209 | 0.178357 | Pm-3m | 17.4887 | 0.1813 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

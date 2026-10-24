@@ -1,10 +1,10 @@
 # H–Ni system
 
-> H–Ni system: 27 accepted literature values (mixing / partial 18, invariant reaction 6, phase transition 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> H–Ni system: 29 accepted literature values (mixing / partial 18, invariant reaction 6, phase transition 3, formation 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/H-NI.html · Markdown: https://data.orchid-project.org/systems/H-NI.md
 
-27 accepted literature values from 1 paper(s) (experimental 23, model 4); 0 calculated phase diagram(s).
+29 accepted literature values from 2 paper(s) (experimental 23, model 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/H-NI.json) · [CSV](https://data.orchid-project.org/systems/H-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#H-NI) · [phases (5)](https://data.orchid-project.org/phases/pages/H-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/H-NI.html) · [Markdown](https://data.orchid-project.org/systems/H-NI.md)
 
@@ -13,7 +13,7 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 23 |
-| model | 4 |
+| model | 6 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 3 |
+| formation | 2 |
 | mixing / partial | 18 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/H/H-NI.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/H/H-NI.json) · [CALPHAD hull NiH-99Zen](https://data.orchid-project.org/hulls/calphad-sgte/H/H-NI--NiH-99Zen.json)
@@ -37,6 +38,17 @@ Table: Invariant reactions reported in the literature for the H–Ni system (6)
 | 1679.15 | (Ni)+gas->L | (Ni): H 0.018; L: H 0.053 | model | [1] Zeng 1999 | Table 5, p. 9, row 4 |  |
 | 1678.15 | (Ni)+gas->L | (Ni): H 0.016 | experimental | [1] Zeng 1999; _cites Serdyuk 1992_ | Table 5, p. 9, row 5 |  |
 | 1659.15 | (Ni)+gas->L | (Ni): H 0.025; L: H 0.075 | model | [1] Zeng 1999 | Table 5, p. 9, row 6 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, H–Ni system (2)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| (Ce)(Ni)5(H)7 |  | -19.257 kJ/mol (basis unstated) |  | model |  |  | [2] Hannappel 2024 | Table 3, p. 5, row 3 |  |
+| (Ce)(Ni)5(H)7 |  | -11.176 kJ/mol (basis unstated) |  | model |  |  | [2] Hannappel 2024 | Table 3, p. 5, row 3 |  |
 
 ## Other properties
 
@@ -80,6 +92,7 @@ Table: Mixing / partial, H–Ni system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Kejun Zeng, T. Klassen, W. Oelerich, R. Bormann, Thermodynamics of the Ni–H system, Journal of Alloys and Compounds 283, 151-161 (1999). [doi:10.1016/s0925-8388(98)00857-3](https://doi.org/10.1016/s0925-8388%2898%2900857-3)
+2. Peter Hannappel, Ebert Alvares, Felix Heubner, Claudio Pistidda, Paul Jerabek, Thomas Weißgärber, Thermodynamic assessment of the Ce H and CeNi5 H system, Calphad 85, 102701 (2024). [doi:10.1016/j.calphad.2024.102701](https://doi.org/10.1016/j.calphad.2024.102701)
 
 ## Please cite
 

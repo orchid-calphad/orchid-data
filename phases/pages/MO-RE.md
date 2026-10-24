@@ -14,10 +14,10 @@ Table: Phases of the Mo–Re system (11)
 |---|---|---|---|---:|---:|
 | [SIGMA_2SL](#phase-mo-re-2sl-sigma); _phase:mo-re:2sl-sigma_ |  | needs_review | no calculated diagram | 0 | 2 |
 | [SIGMA_5SL](#phase-mo-re-5sl-sigma); _phase:mo-re:5sl-sigma_ |  | needs_review | no calculated diagram | 0 | 2 |
-| [CHI_A12](#phase-mo-re-a12-chi); _phase:mo-re:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2600 K, x(Re) 0.73854–0.86553 | 45 | 6 |
+| [CHI_A12](#phase-mo-re-a12-chi); _phase:mo-re:a12-chi_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2600 K, x(Re) 0.73854–0.86553 | 44 | 6 |
 | [BCC_A2](#phase-mo-re-bcc-a2); _phase:mo-re:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2897.02 K, x(Re) 0–0.43508 | 43 | 6 |
 | [DIS_CHI](#phase-mo-re-chi-dis); _phase:mo-re:chi-dis_ |  | needs_review | no calculated diagram | 0 | 2 |
-| [SIGMA_D8B](#phase-mo-re-d8b-sigma); _phase:mo-re:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1346.83–2922.99 K, x(Re) 0.52902–0.70475 | 44 | 5 |
+| [SIGMA_D8B](#phase-mo-re-d8b-sigma); _phase:mo-re:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1346.83–2922.99 K, x(Re) 0.52902–0.70475 | 43 | 5 |
 | [DIS_SIGMA](#phase-mo-re-dis-sigma); _phase:mo-re:dis-sigma_ |  | needs_review | no calculated diagram | 0 | 2 |
 | [FCC_A1](#phase-mo-re-fcc-a1); _phase:mo-re:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 6 |
 | [HCP_A3](#phase-mo-re-hcp-a3); _phase:mo-re:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–3999.25 K, x(Re) 0.81838–1 | 41 | 6 |
@@ -101,7 +101,7 @@ _assessment that models this phase_
 - Id: `phase:mo-re:a12-chi`; status `assigned`
 - Structure: alpha-Mn · A12 · cI58 · I-43m (217); type `st:a12-alpha-mn-ci58`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2600 K, x(Re) 0.73854–0.86553
-- Literature: 45 values (45 accepted) from 4 papers
+- Literature: 44 values (44 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-re:a12-chi)
 
 Names (13): _corpus: _corpus:phase:mo-re:a12-chi, corpus:phase:mo-re:chi-a12  
@@ -286,7 +286,7 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in MoRe-13Mat-orig.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in MoRe-20Yen.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 1346.83–2922.99 K, x(Re) 0.52902–0.70475
-- Literature: 44 values (44 accepted) from 3 papers
+- Literature: 43 values (43 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-re:d8b-sigma)
 
 Names (11): _corpus: _corpus:phase:mo-re:d8b-sigma, corpus:phase:mo-re:sigma-d8b  

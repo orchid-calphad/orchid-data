@@ -1,10 +1,10 @@
 # C–Cu–Fe–H–Ni–O system
 
-> C–Cu–Fe–H–Ni–O system: 55 accepted literature values (activity / EMF / Gibbs energy 55) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C–Cu–Fe–H–Ni–O system: 46 accepted literature values (activity / EMF / Gibbs energy 35, model expression 11) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.html · Markdown: https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.md
 
-55 accepted literature values from 2 paper(s) (experimental 55); 0 calculated phase diagram(s).
+46 accepted literature values from 2 paper(s) (experimental 46); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C-CU-FE-H-NI-O.json) · [CSV](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C-CU-FE-H-NI-O) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C-CU-FE-H-NI-O.html) · [Markdown](https://data.orchid-project.org/systems/C-CU-FE-H-NI-O.md)
 
@@ -12,17 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 55 |
+| experimental | 46 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| activity / EMF / Gibbs energy | 55 |
+| activity / EMF / Gibbs energy | 35 |
+| model expression | 11 |
 
 ## Other properties
 
-### Activity / EMF / Gibbs energy (55)
+### Activity / EMF / Gibbs energy (35)
 
 Table: Activity / EMF / Gibbs energy, C–Cu–Fe–H–Ni–O system
 
@@ -32,25 +33,12 @@ Table: Activity / EMF / Gibbs energy, C–Cu–Fe–H–Ni–O system
 | Gibbs energy; _printed: ΔG° b (T)_ | 53.087 J/mol/K | 750 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 29 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 54.782 J/mol/K | 950 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 30 |  |
 | Gibbs energy; _printed: ΔG° a_ | -247320 J/mol | 950 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 30 |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 95.804 J/mol/K | 980 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG° a_ | -132520 J/mol | 980 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 22 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 64.192 J/mol/K | 992.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites ref. 92Sun2_ | Table 4, p. 10, row 16 |  |
-| Gibbs energy; _printed: ΔG° (C, coefficient of T lnT)_ | 7.554 J/mol/K | 992.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 15 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 4.551 J/mol/K | 992.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 15 |  |
-| Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -255779 J/mol | 992.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 15 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 64.247 J/mol/K | 992.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 25 |  |
 | Gibbs energy; _printed: ΔG° a_ | -263165 J/mol | 992.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 25 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 4.606 J/mol/K | 992.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 24 |  |
 | Gibbs energy; _printed: ΔG° c (T ln T)_ | 7.554 J/mol/K | 992.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 24 |  |
 | Gibbs energy; _printed: ΔG° a_ | -255779 J/mol | 992.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 24 |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 125.535 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG° a_ | -174010 J/mol | 1020 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG° c (T ln T)_ | -6.79 J/mol/K | 1020 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 21 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 85.302 J/mol/K | 1050 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 12 |  |
 | Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -167024 J/mol | 1050 | UNKNOWN | experimental | [2] Hallstedt 1994 | Table 4, p. 10, row 14 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 71.595 J/mol/K | 1050 | UNKNOWN | experimental | [2] Hallstedt 1994 | Table 4, p. 10, row 14 |  |
-| Gibbs energy; _printed: ΔG° a_ | -167024 J/mol | 1050 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20 |  |
-| Gibbs energy; _printed: ΔG° b (T)_ | 71.65 J/mol/K | 1050 | UNKNOWN; _alloy: Cu 0.666667, Fe 0, H 0, Ni 0, O 0.333333_ | experimental | [1] Chen 2003; _cites Hallstedt 1994_ [doi](https://doi.org/10.1007/bf02649399) | Table 4, p. 9, row 20 |  |
 | Gibbs energy; _printed: ΔG° a_ | -234540 J/mol | 1050 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 18 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 85.357 J/mol/K | 1050 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 18 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 0.292 J/mol/K | 1067.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 23 |  |
@@ -58,31 +46,42 @@ Table: Activity / EMF / Gibbs energy, C–Cu–Fe–H–Ni–O system
 | Gibbs energy; _printed: ΔG° a_ | -255283 J/mol | 1067.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 23 |  |
 | Gibbs energy; _printed: ΔG° a_ | -282330 J/mol | 1100 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 28 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 86.651 J/mol/K | 1100 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 28 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 86.341 J/mol/K | 1170 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 18 |  |
 | Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -281968 J/mol | 1170 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 18 |  |
 | Gibbs energy; _printed: ΔG° c (T ln T)_ | -4.898 J/mol/K | 1200 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 17 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 124.257 J/mol/K | 1200 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 17 |  |
 | Gibbs energy; _printed: ΔG° a_ | -239484 J/mol | 1200 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 17 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 124.202 J/mol/K | 1200 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 11 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 56.472 J/mol/K | 1280 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 31 |  |
 | Gibbs energy; _printed: ΔG° a_ | -249200 J/mol | 1280 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 31 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 65.414 J/mol/K | 1292.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 17 |  |
-| Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -264533 J/mol | 1292.5 | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 17 |  |
 | Gibbs energy; _printed: ΔG° a_ | -264533 J/mol | 1292.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 27 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 65.469 J/mol/K | 1292.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 27 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 134.533 J/mol/K | 1392.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 26 |  |
 | Gibbs energy; _printed: ΔG° c (T ln T)_ | -8.47 J/mol/K | 1392.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 26 |  |
 | Gibbs energy; _printed: ΔG° a_ | -275409 J/mol | 1392.5 | UNKNOWN | experimental | [1] Chen 2003; _cites Sundman 1991_ [doi](https://doi.org/10.1007/bf02645709) | Table 4, p. 9, row 26 |  |
 | Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -280573 J/mol | 1468 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 19 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 86.341 J/mol/K | 1468 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 19 |  |
 | Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -232155 J/mol | 1500 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 13 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 83.485 J/mol/K | 1500 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 13 |  |
 | Gibbs energy; _printed: ΔG° a_ | -232155 J/mol | 1500 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 19 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 83.54 J/mol/K | 1500 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1993_ | Table 4, p. 9, row 19 |  |
 | Gibbs energy; _printed: ΔG° b (T)_ | 57.458 J/mol/K | 1623 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 32 |  |
 | Gibbs energy; _printed: ΔG° a_ | -250522 J/mol | 1623 | UNKNOWN | experimental | [1] Chen 2003; _cites ref. 1997_ | Table 4, p. 9, row 32 |  |
-| Gibbs energy; _printed: ΔG° (B, coefficient of T)_ | 57.4028 J/mol/K | 1623 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 20 |  |
 | Gibbs energy; _printed: ΔG° (A of A + B·T + C·T lnT)_ | -250522 J/mol | 1623 | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 20 |  |
+
+### Model expression (11)
+
+Table: Model expression, C–Cu–Fe–H–Ni–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 85.302 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 12 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 86.341 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 19 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 83.485 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 13 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 65.414 J/mol/K |  | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 17 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 64.192 J/mol/K |  | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites ref. 92Sun2_ | Table 4, p. 10, row 16 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 71.595 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994 | Table 4, p. 10, row 14 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 86.341 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 18 |  |
+| gibbs energy expression term; _printed: ΔG° (C, coefficient of T lnT)_ | 7.554 J/mol/K |  | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 15 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 4.551 J/mol/K |  | UNKNOWN; _alloy: Cu 0, Fe 0, H 0, Ni 0, O 1_ | experimental | [2] Hallstedt 1994; _cites Sundman 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990010-h) | Table 4, p. 10, row 15 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 124.202 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites St 1993_ | Table 4, p. 10, row 11 |  |
+| gibbs energy expression term; _printed: ΔG° (B, coefficient of T)_ | 57.4028 J/mol/K |  | UNKNOWN | experimental | [2] Hallstedt 1994; _cites ref. 92_ | Table 4, p. 10, row 20 |  |
 
 ## Sources
 

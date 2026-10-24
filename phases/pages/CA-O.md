@@ -19,7 +19,7 @@ Table: Phases of the Ca–O system (9)
 | [GAS](#phase-ca-o-gas); _phase:ca-o:gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 1347.5–2500 K, x(O) 0–1 | 0 | 4 |
 | [HCP_A3](#phase-ca-o-hcp-a3); _phase:ca-o:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
 | [ION](#phase-ca-o-ion); _phase:ca-o:ion_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 1100–1809.06 K, x(O) 0–0.07372 | 0 | 4 |
-| [LIQUID](#phase-ca-o-liquid); _phase:ca-o:liquid_ | liquid | liquid | not stable in 4 calculated diagram(s) | 18 | 4 |
+| [LIQUID](#phase-ca-o-liquid); _phase:ca-o:liquid_ | liquid | liquid | not stable in 4 calculated diagram(s) | 24 | 4 |
 | [O2GAS](#phase-ca-o-o2gas); _phase:ca-o:o2gas_ | gas | gas | stable in 4 of 4 calculated diagram(s): 300–1077.5 K, x(O) 1–1 | 0 | 4 |
 
 ## B1_OXIDE (Ca–O)
@@ -407,11 +407,11 @@ _assessment that models this phase_
 - Id: `phase:ca-o:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: not stable in 4 calculated diagram(s)
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 24 values (24 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ca-o:liquid)
 
-Names (6): _corpus: _corpus:phase:ca-o:liquid  
-_paper: _paper:10.1016/j.jeurceramsoc.2018.06.015:liquid  
+Names (7): _corpus: _corpus:phase:ca-o:liquid  
+_paper: _paper:10.1016/j.jeurceramsoc.2018.06.015:liquid, paper:10.1016/s0364-5916(03)00050-6:liquid  
 _tdb: _tdb:CaO-18Lia.tdb:LIQUID, tdb:CaO-20Def-3g.tdb:LIQUID, tdb:CaO-23Abd-3g.tdb:LIQUID, tdb:CaO-96Sel.tdb:LIQUID  
 
 
@@ -445,7 +445,7 @@ _tdb: _tdb:CaO-18Lia.tdb:LIQUID, tdb:CaO-20Def-3g.tdb:LIQUID, tdb:CaO-23Abd-3g.t
 37: CONST LIQUID:L : CA : !
 ~~~~
 
-Example references (10 of 12; assessments first): 
+Example references (10 of 14; assessments first): 
 
 - [doi:10.1016/j.jeurceramsoc.2018.06.015](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) Song-Mao Liang, Rainer Schmid-Fetzer, Complete thermodynamic description of the Mg-Ca-O phase diagram including the Ca-O, Mg-O and CaO-MgO subsystems, Journal of the European Ceramic Society 38, 4768-4785 (2018).  
 _assessment that models this phase; reports values for this phase_
@@ -455,6 +455,10 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/S0364-5916(96)00039-9](https://doi.org/10.1016/S0364-5916%2896%2900039-9) M. Selleby, B. Sundman, Calphad, 20, 391-92(1996).  
 _assessment that models this phase_
+- [doi:10.1016/s0364-5916(03)00050-6](https://doi.org/10.1016/s0364-5916%2803%2900050-6) Bengt Hallstedt, Ludwig J. Gauckler, Revision of the thermodynamic descriptions of the Cu–O, Ag–O, Ag–Cu–O, Bi–Sr–O, Bi–Ca–O, Bi–Cu–O, Sr–Cu–O, Ca–Cu–O and Sr–Ca–Cu–O systems, Calphad 27, 177-191 (2003).  
+_reports values for this phase_
+- [doi:10.1016/0921-4534(96)00289-4](https://doi.org/10.1016/0921-4534%2896%2900289-4) L. Margulies, K.W. Dennis, M.J. Kramer, R.W. McCallum, Effect of P(O2) and Ag content on the decompisition pathway of Bi2Sr2CaCu2Ox, Physica C: Superconductivity 266, 62-74 (1996).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf02880517](https://doi.org/10.1007/bf02880517) H.A. Wriedt, The Ca−O (Calcium-Oxygen) system, Bull. Alloy Phase Diagrams 6 (1985) 337–342, http://dx.doi.org/10.1007/BF02880517.  
 _cited as the source of values for this phase_
 - [doi:10.1351/pac198254030681](https://doi.org/10.1351/pac198254030681) J. Hlavac, Melting temperatures of refractory oxides: Part I, Pure and Applied Chemistry 54, 681-688 (1982).  
@@ -462,10 +466,6 @@ _cited as the source of values for this phase_
 - [doi:10.1016/0016-7037(87)90009-3](https://doi.org/10.1016/0016-7037%2887%2990009-3) Milton Blander, Arthur D. Pelton, Thermodynamic analysis of binary liquid silicates and prediction of ternary solution properties by modified quasichemical equations, Geochimica et Cosmochimica Acta 51, 85-95 (1987).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0038-092x(65)90162-3](https://doi.org/10.1016/0038-092x%2865%2990162-3) Marc Foex, Measurement of the solidification points of several refractory oxides by means of a solar furnace, Solar Energy 9, 61-67 (1965).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0038-092x(67)90022-9](https://doi.org/10.1016/0038-092x%2867%2990022-9) Tetsuo Noguchi, Masao Mizuno, William M. Conn, Fundamental research in refractory system with a solar furnace—ZrO2CaO system, Solar Energy 11, 145-152 (1967).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(89)90006-0](https://doi.org/10.1016/0364-5916%2889%2990006-0) M. Hillert, X. Wang, Thermodynamic calculation of the CaO–MgO system, Calphad 13 (1989) 267–271, http://dx.doi.org/10.1016/0364-5916(89)90006-0.  
 _cited as the source of values for this phase_
 
 ## O2GAS (Ca–O)

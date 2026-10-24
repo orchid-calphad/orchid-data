@@ -12,7 +12,7 @@ Table: Phases of the Fe–In system (5)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [TETRAGONAL_A6](#phase-fe-in-a6-tetragonal); _phase:fe-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.75 K, x(In) 1–1 | 3 | 1 |
+| [TETRAGONAL_A6](#phase-fe-in-a6-tetragonal); _phase:fe-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–429.75 K, x(In) 1–1 | 1 | 1 |
 | [BCC_A2](#phase-fe-in-bcc-a2); _phase:fe-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1810.95 K, x(In) 0–0.00919 | 2 | 1 |
 | [FCC_A1](#phase-fe-in-fcc-a1); _phase:fe-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1184.82–1692.46 K, x(In) 0–0.00645 | 2 | 1 |
 | [HCP_A3](#phase-fe-in-hcp-a3); _phase:fe-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -24,11 +24,11 @@ Table: Phases of the Fe–In system (5)
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stoichiometry: In 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–429.75 K, x(In) 1–1
-- Literature: 3 values (3 accepted) from 1 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-in:a6-tetragonal)
 
-Names (5): _corpus: _corpus:phase:fe-in:a6-tetragonal, corpus:phase:fe-in:tetragonal-a6  
-_paper: _paper:10.2320/matertrans.mer2008437:(δFe), paper:10.2320/matertrans.mer2008437:In  
+Names (4): _corpus: _corpus:phase:fe-in:a6-tetragonal, corpus:phase:fe-in:tetragonal-a6  
+_paper: _paper:10.2320/matertrans.mer2008437:In  
 _tdb: _tdb:FeIn-09Ohn.tdb:TETRAGONAL_A6  
 
 

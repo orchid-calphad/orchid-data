@@ -4,9 +4,9 @@
 
 HTML: https://data.orchid-project.org/compounds/AuCe.html · Markdown: https://data.orchid-project.org/compounds/AuCe.md
 
-14 accepted literature formation-enthalpy value(s) (experimental 5, model 7, DFT 2); experimental median -74 kJ/mol-atom (n = 5); Materials Project -61.985 kJ/mol-atom (mp-aaacfybf); OQMD -75.308 kJ/mol-atom (oqmd-28133).
+14 accepted literature formation-enthalpy value(s) (experimental 5, model 5, DFT 4); experimental median -74 kJ/mol-atom (n = 5); Materials Project -61.985 kJ/mol-atom (mp-aaacfybf); OQMD -75.308 kJ/mol-atom (oqmd-28133).
 
-Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) · [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html)
+Systems: [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html)
 
 ## Literature values
 
@@ -18,15 +18,15 @@ Table: Enthalpy of formation of AuCe reported in the literature (14)
 | -75.2 kJ/mol-atom ± 1.4 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Janghorban 1994_ | Table 2, p. 3, row 7 |  |
 | -74 kJ/mol-atom ± 1 | αCeAu | 1123 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites LomelloeTafin 2006_ | Table 2, p. 3, row 5 |  |
 | -62.8 kJ/mol-atom ± 4.2 | αCeAu | 298.15 | experimental | Calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Fitzner 1993_ [doi](https://doi.org/10.1007/bf02657857) | Table 2, p. 3, row 9 |  |
-| -62.8 kJ/mol-atom ± 4.2 | αAuCe | 298.15 | experimental | calorimetry | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6 |  |
+| -62.8 kJ/mol-atom ± 4.2 | αAuCe | 298.15 | experimental | calorimetry | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013; _cites Fitzner 1993_ | Table 4, p. 4, row 6 |  |
 | -79 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 14 |  |
 | -78.6 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016 | Table 2, p. 3, row 11 |  |
-| -76.02 kJ/mol-atom | αAuCe | 289 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 7 |  |
+| -76.02 kJ/mol-atom | αAuCe | 289 | model |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 7 |  |
 | -76.02 kJ/mol-atom | αCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 10 |  |
 | -75.7 kJ/mol-atom | βCeAu | 298.15 | model | Optimization | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Dong 2013_ [doi](https://doi.org/10.1016/j.calphad.2013.07.013) | Table 2, p. 3, row 13 |  |
-| -75.36 kJ/mol-atom | αAuCe | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 5 |  |
-| -74.71 kJ/mol-atom | βAuCe | 0 | model |  | [Au–Ce–Sn](https://data.orchid-project.org/systems/AU-CE-SN.html) | [2] Dong 2013 | Table 4, p. 4, row 4 |  |
+| -75.36 kJ/mol-atom | αAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 5 |  |
 | -75.36 kJ/mol-atom | αCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 6 |  |
+| -74.71 kJ/mol-atom | βAuCe | 0 | DFT |  | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [2] Dong 2013 | Table 4, p. 4, row 4 |  |
 | -74.71 kJ/mol-atom | βCeAu | 298.15 | DFT | ab initio | [Au–Ce](https://data.orchid-project.org/systems/AU-CE.html) | [1] Moustaine 2016; _cites Blo_ | Table 2, p. 3, row 12 |  |
 
 ### Uncertainty budget
@@ -42,15 +42,15 @@ Table: Uncertainty budget of the literature values of AuCe
 | -74 | kJ/mol-atom | 1 | 0.5 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -62.8 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
 | -62.8 | kJ/mol-atom | 4.2 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 4.2 |
-| -79 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -78.6 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -76.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -76.02 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75.7 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75.36 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -74.71 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -75.36 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
-| -74.71 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -79 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -78.6 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -76.02 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -76.02 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -75.7 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -75.36 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -75.36 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -74.71 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
+| -74.71 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -61,6 +61,7 @@ Table: DFT formation energy of AuCe
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaacfybf | -61.985 | -0.642431 | Cmcm | 0 | 0 | no |
+| Materials Project | mp-aaacgizc | -61.504 | -0.63745 | Pnma | 0.4806 | 0.005 | no |
 | OQMD | oqmd-28133 | -75.308 | -0.78052 | Pnma | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 

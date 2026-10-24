@@ -12,7 +12,7 @@ Table: Phases of the Dy–Mg system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-dy-mg-bcc-a2); _phase:dy-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 3 calculated diagram(s): 958.29–1776.6 K, x(Mg) 0–0.40124 | 0 | 3 |
+| [BCC_A2](#phase-dy-mg-bcc-a2); _phase:dy-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 958.29–1776.6 K, x(Mg) 0–0.40124 | 0 | 3 |
 | [B2_BCC](#phase-dy-mg-bcc-b2); _phase:dy-mg:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1686.11 K, x(Mg) 0–0.60944 | 0 | 1 |
 | [C14_LAVES](#phase-dy-mg-c14-laves); _phase:dy-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–982.76 K, x(Mg) 0.64852–0.70267 | 0 | 2 |
 | [DY5MG24_A12](#phase-dy-mg-dy5mg24-a12); _phase:dy-mg:dy5mg24-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–873.31 K, x(Mg) 0.82759–0.85163 | 0 | 2 |
@@ -26,7 +26,7 @@ Table: Phases of the Dy–Mg system (9)
 
 - Id: `phase:dy-mg:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 2 of 3 calculated diagram(s): 958.29–1776.6 K, x(Mg) 0–0.40124
+- Stability: stable in 2 of 2 calculated diagram(s): 958.29–1776.6 K, x(Mg) 0–0.40124
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:dy-mg:bcc-a2)
 

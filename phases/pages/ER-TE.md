@@ -14,9 +14,9 @@ Table: Phases of the Er–Te system (8)
 |---|---|---|---|---:|---:|
 | [HEXAGONAL_A8](#phase-er-te-a8-hexagonal); _phase:er-te:a8-hexagonal_ | gamma-Se · A8 · hP3 · P3_121 (152) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–722.66 K, x(Te) 1–1 | 3 | 1 |
 | [BCC_A2](#phase-er-te-bcc-a2); _phase:er-te:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [ER2TE3](#phase-er-te-er2te3); _phase:er-te:er2te3_ | Sc2S3 · oF80 · Fddd (70) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1470 K, x(Te) 0.6–0.6 | 11 | 1 |
+| [ER2TE3](#phase-er-te-er2te3); _phase:er-te:er2te3_ | Sc2S3 · oF80 · Fddd (70) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–1470 K, x(Te) 0.6–0.6 | 24 | 1 |
 | [ERTE_B1](#phase-er-te-erte-b1); _phase:er-te:erte-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1800 K, x(Te) 0.5–0.5 | 10 | 1 |
-| [ERTE3](#phase-er-te-erte3); _phase:er-te:erte3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–953.4 K, x(Te) 0.75–0.75 | 7 | 1 |
+| [ERTE3](#phase-er-te-erte3); _phase:er-te:erte3_ | NdTe3 · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–953.4 K, x(Te) 0.75–0.75 | 18 | 1 |
 | [FCC_A1](#phase-er-te-fcc-a1); _phase:er-te:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [HCP_A3](#phase-er-te-hcp-a3); _phase:er-te:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1802 K, x(Te) 0–0 | 3 | 1 |
 | [LIQUID](#phase-er-te-liquid); _phase:er-te:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 722.66–2500 K, x(Te) 0–1 | 22 | 1 |
@@ -82,7 +82,7 @@ _assessment that models this phase_
 - Structure: Sc2S3 · oF80 · Fddd (70); type `st:sc2s3-of80`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Er 0.4000, Te 0.6000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1470 K, x(Te) 0.6–0.6
-- Literature: 11 values (11 accepted) from 1 papers
+- Literature: 24 values (24 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-te:er2te3)
 
 Names (5): _corpus: _corpus:phase:er-te:er2te3  
@@ -101,11 +101,19 @@ _tdb: _tdb:ErTe-22Ben.tdb:ER2TE3
 58: CONST ER2TE3 : ER : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (6 of 6; assessments first): 
 
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.electacta.2016.11.075](https://doi.org/10.1016/j.electacta.2016.11.075) V.P. Vassiliev, V.A. Lysenko, A New Approach for the Study of Thermodynamic Properties of Lanthanide Compounds, Electrochimica Acta 222, 1770-1777 (2016).  
+_cited as the source of values for this phase_
 - [doi:10.1021/ic50026a021](https://doi.org/10.1021/ic50026a021) D. J. Haase, H. Steinfink, E. J. Weiss, The Phase Equilibria and Crystal Chemistry of the Rare Earth Group VI Systems. II. Erbium-Tellurium, Inorg. Chem. 4, 541-543 (1965).  
+_cited as the source of values for this phase_
+- [doi:10.1038/npjcompumats.2015.10](https://doi.org/10.1038/npjcompumats.2015.10) Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput Mater 1 (2015).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.15330/pcss.21.2.312-318](https://doi.org/10.15330/pcss.21.2.312-318) S. Z. Imamaliyeva, I. F. Mehdiyeva, D. B. Taghiyev, M. B. Babanly, Thermodynamic investigations of the erbium tellurides by EMF method, PCSS 21, 312-318 (2020).  
 _cited as the source of values for this phase_
 
 ## ERTE_B1 (Er–Te)
@@ -146,7 +154,7 @@ _cited as the source of values for this phase_
 - Caveat: not certain from the name or DFT alone (dft_space_group_63_matches_6_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Er 0.2500, Te 0.7500
 - Stability: stable in 1 of 1 calculated diagram(s): 300–953.4 K, x(Te) 0.75–0.75
-- Literature: 7 values (7 accepted) from 1 papers
+- Literature: 18 values (18 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-te:erte3)
 
 Names (3): _corpus: _corpus:phase:er-te:erte3  
@@ -163,11 +171,17 @@ _tdb: _tdb:ErTe-22Ben.tdb:ERTE3
 63: CONST ERTE3 : ER : TE : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s11669-022-00947-8](https://doi.org/10.1007/s11669-022-00947-8) S. Bennoui, Y. Djaballah, V. Vassiliev, A. Belgacem-Bouzida, Thermodynamic Study of Er-Bi and Er-Te Systems by Combination of First-Principles Calculations and the CALPHAD Method, J. Phase Equilib. Diffus. 43, 126-138 (2022).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1021/ic50026a021](https://doi.org/10.1021/ic50026a021) D. J. Haase, H. Steinfink, E. J. Weiss, The Phase Equilibria and Crystal Chemistry of the Rare Earth Group VI Systems. II. Erbium-Tellurium, Inorg. Chem. 4, 541-543 (1965).  
+_cited as the source of values for this phase_
+- [doi:10.1038/npjcompumats.2015.10](https://doi.org/10.1038/npjcompumats.2015.10) Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput Mater 1 (2015).  
+_cited as the source of values for this phase_
+- [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
+_cited as the source of values for this phase_
+- [doi:10.15330/pcss.21.2.312-318](https://doi.org/10.15330/pcss.21.2.312-318) S. Z. Imamaliyeva, I. F. Mehdiyeva, D. B. Taghiyev, M. B. Babanly, Thermodynamic investigations of the erbium tellurides by EMF method, PCSS 21, 312-318 (2020).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Er–Te)

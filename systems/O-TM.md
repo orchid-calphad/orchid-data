@@ -1,10 +1,10 @@
 # O–Tm system
 
-> O–Tm system: 1 accepted literature values (formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> O–Tm system: 22 accepted literature values (heat capacity / entropy / enthalpy 8, phase transition 5, other property 5, crystal structure 3) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/O-TM.html · Markdown: https://data.orchid-project.org/systems/O-TM.md
 
-1 accepted literature values from 1 paper(s) (model 1); 0 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 6, model 16); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/O-TM.json) · [CSV](https://data.orchid-project.org/systems/O-TM.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#O-TM) · [phases (5)](https://data.orchid-project.org/phases/pages/O-TM.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/O-TM.html) · [Markdown](https://data.orchid-project.org/systems/O-TM.md)
 
@@ -12,13 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 6 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 5 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 3 |
+| other property | 5 |
 
 Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls/dft-mp/O/O-TM.json) · [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/O/O-TM.json)
 
@@ -31,6 +36,57 @@ Table: Enthalpies of formation, O–Tm system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Tm₂O₃ | [Tm2O3](https://data.orchid-project.org/compounds/Tm2O3.html) | -377.86 kJ/mol-atom | 298.15 | model | -394.888 (mp-aaaaacpz) | -379.364 (oqmd-6310) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+
+## Other properties
+
+### Phase transition (5)
+
+Table: Phase transition, O–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 24 |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C \<=> H; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 22 |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C ⇔ H; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 32 |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C ⇔ H; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 7, row 31 |  |
+| Phase transition | 2623 K | 2623 | polymorphic: C ⇔ H; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 33 |  |
+
+### Heat capacity / entropy / enthalpy (8)
+
+Table: Heat capacity / entropy / enthalpy, O–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 46 |  |
+| Entropy; _printed: Δtrs°S_ | 5.328 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
+| Entropy; _printed: Δtrs°S_ | 3.8 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
+| Entropy; _printed: ΔS_ | 3.79 J mol−1 K−1 |  | Tm2O3; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 20 |  |
+| Entropy; _printed: ΔS_ | 3.79 J mol^-1 K^-1 |  | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 20 |  |
+| Entropy; _printed: °S_ | 139.72 unknown | 298.15 | C-Tm2O3; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 41 |  |
+| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2623 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
+| Entropy; _printed: Δtrs°S_ | 31.284 unknown | 2698 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, O–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 39.16 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15 |  |
+| lattice molar volume | 43.405 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15 |  |
+| lattice molar volume | 39.994 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: O 0.6, Tm 0.4_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 15 |  |
+
+### Other property (5)
+
+Table: Other property, O–Tm system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 38019 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 46 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 23031 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 45 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 13968 unknown |  | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 44 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 25322 unknown | 2623 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 42 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 84404 unknown | 2698 | C-Tm₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 43 |  |
 
 ## Sources
 

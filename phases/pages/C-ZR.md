@@ -1,10 +1,10 @@
 # C–Zr phases
 
-> C–Zr system: 6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> C–Zr system: 6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/C-ZR.html · Markdown: https://data.orchid-project.org/phases/pages/C-ZR.md
 
-6 phases (tier A 5, liquid 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+6 phases (tier A 4, liquid 1, interstitial_fcc_a1_compound 1); 5 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=C-ZR) · [full JSON](https://data.orchid-project.org/phases/systems/C-ZR.json) · [C–Zr system page](https://data.orchid-project.org/systems/C-ZR.html) · [Markdown](https://data.orchid-project.org/phases/pages/C-ZR.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
@@ -12,10 +12,10 @@ Table: Phases of the C–Zr system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-c-zr-a4-diamond); _phase:c-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 8 | 1 |
+| [DIAMOND_A4](#phase-c-zr-a4-diamond); _phase:c-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GRAPHITE_A9](#phase-c-zr-a9-graphite); _phase:c-zr:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 1 |
-| [BCC_A2](#phase-c-zr-bcc-a2); _phase:c-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1139.58–2130 K, x(C) 0–0.00528 | 8 | 1 |
-| [FCC_A1](#phase-c-zr-fcc-a1); _phase:c-zr:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5 | 16 | 1 |
+| [BCC_A2](#phase-c-zr-bcc-a2); _phase:c-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1139.58–2130 K, x(C) 0–0.00528 | 9 | 1 |
+| [FCC_A1](#phase-c-zr-fcc-a1); _phase:c-zr:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5 | 0 | 1 |
 | [HCP_A3](#phase-c-zr-hcp-a3); _phase:c-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1159 K, x(C) 0–0.00735 | 0 | 1 |
 | [LIQUID](#phase-c-zr-liquid); _phase:c-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2127.01–4000 K, x(C) 0–0.78212 | 16 | 1 |
 
@@ -23,12 +23,12 @@ Table: Phases of the C–Zr system (6)
 
 - Id: `phase:c-zr:a4-diamond`; status `assigned`
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: not stable in 1 calculated diagram(s)
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:a4-diamond)
 
-Names (4): _corpus: _corpus:phase:c-zr:a4-diamond, corpus:phase:c-zr:diamond-a4  
-_paper: _paper:10.1016/0925-8388(94)01310-e:α  
+Names (3): _corpus: _corpus:phase:c-zr:a4-diamond, corpus:phase:c-zr:diamond-a4  
 _tdb: _tdb:ZrC-95Fer-LB.tdb:DIAMOND_A4  
 
 
@@ -44,12 +44,13 @@ _tdb: _tdb:ZrC-95Fer-LB.tdb:DIAMOND_A4
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0925-8388(94)01310-E](https://doi.org/10.1016/0925-8388%2894%2901310-E) A. Fernandez Guillermet, J. Alloys Compd., 217, 69-89(1995).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 
 ## GRAPHITE_A9 (C–Zr)
 
 - Id: `phase:c-zr:a9-graphite`; status `assigned`
 - Structure: C (graphite) · A9 · hP4 · P6_3/mmc (194); type `st:a9-c-graphite-hp4`; tier A: standard phase name; confidence high
+- Stoichiometry: C 1.0000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:a9-graphite)
@@ -77,11 +78,11 @@ _assessment that models this phase_
 - Id: `phase:c-zr:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1139.58–2130 K, x(C) 0–0.00528
-- Literature: 8 values (8 accepted) from 1 papers
+- Literature: 9 values (9 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:c-zr:bcc-a2  
-_paper: _paper:10.1016/0925-8388(94)01310-e:β  
+Names (4): _corpus: _corpus:phase:c-zr:bcc-a2  
+_paper: _paper:10.1016/0925-8388(94)01310-e:β, paper:10.1361/105497102770331703:(βZr)  
 _tdb: _tdb:ZrC-95Fer-LB.tdb:BCC_A2  
 
 
@@ -94,21 +95,22 @@ _tdb: _tdb:ZrC-95Fer-LB.tdb:BCC_A2
 31: CONST BCC_A2 : ZR% : C VA% : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0925-8388(94)01310-E](https://doi.org/10.1016/0925-8388%2894%2901310-E) A. Fernandez Guillermet, J. Alloys Compd., 217, 69-89(1995).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1361/105497102770331703](https://doi.org/10.1361/105497102770331703) H. Bittermann, P. Rogl, Critical assessment and thermodynamic calculation of the ternary system C-Hf-Zr (Carbon-Zirconium-Hafnium), JPE 23, 218-235 (2002).  
+_reports values for this phase_
 
 ## FCC_A1 (C–Zr)
 
 - Id: `phase:c-zr:fcc-a1`; status `assigned`
-- Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
+- Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5
-- Literature: 16 values (16 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:fcc-a1)
 
-Names (3): _corpus: _corpus:phase:c-zr:fcc-a1  
-_paper: _paper:10.1016/0925-8388(94)01310-e:γ  
+Names (2): _corpus: _corpus:phase:c-zr:fcc-a1  
 _tdb: _tdb:ZrC-95Fer-LB.tdb:FCC_A1  
 
 
@@ -121,14 +123,10 @@ _tdb: _tdb:ZrC-95Fer-LB.tdb:FCC_A1
 26: CONST FCC_A1 : ZR : C% VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0925-8388(94)01310-E](https://doi.org/10.1016/0925-8388%2894%2901310-E) A. Fernandez Guillermet, J. Alloys Compd., 217, 69-89(1995).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1002/zaac.19311980122](https://doi.org/10.1002/zaac.19311980122) C. Agte, K. Moers, Methoden zur Reindarstellung hochschmelzender Carbide, Nitride und Boride und Beschreibung einiger ihrer Eigenschaften, Z. Anorg. Allg. Chem. 198, 233-275 (1931).  
-_cited as the source of values for this phase_
-- [doi:10.1021/j100798a019](https://doi.org/10.1021/j100798a019) T. C. Wallace, C. P. Gutierrez, P. L. Stone, THE MOLYBDENUM—ZIRCONIUM—CARBON SYSTEM\<sup>1\</sup>, J. Phys. Chem. 67, 796-801 (1963).  
-_cited as the source of values for this phase_
+_assessment that models this phase_
 
 ## HCP_A3 (C–Zr)
 

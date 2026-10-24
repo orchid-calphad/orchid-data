@@ -1,10 +1,10 @@
 # Fe–Hf system
 
-> Fe–Hf system: 38 accepted literature values (formation 16, invariant reaction 14, phase transition 7, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Fe–Hf system: 34 accepted literature values (invariant reaction 14, formation 12, phase transition 7, heat capacity / entropy / enthalpy 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/FE-HF.html · Markdown: https://data.orchid-project.org/systems/FE-HF.md
 
-38 accepted literature values from 1 paper(s) (experimental 14, model 24); 1 calculated phase diagram(s).
+34 accepted literature values from 1 paper(s) (experimental 13, model 21); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/FE-HF.json) · [CSV](https://data.orchid-project.org/systems/FE-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#FE-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#FE-HF/FeHf-08Idb.json) · [phases (8)](https://data.orchid-project.org/phases/pages/FE-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/FE-HF.html) · [Markdown](https://data.orchid-project.org/systems/FE-HF.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 14 |
-| model | 24 |
+| experimental | 13 |
+| model | 21 |
 
 Table: Accepted values by property group
 
@@ -21,7 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 14 |
 | phase transition | 7 |
-| formation | 16 |
+| formation | 12 |
 | heat capacity / entropy / enthalpy | 1 |
 
 ## Calculated phase diagrams
@@ -84,7 +84,7 @@ Table: Invariant reactions reported in the literature for the Fe–Hf system (14
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Fe–Hf system (16)
+Table: Enthalpies of formation, Fe–Hf system (12)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -100,10 +100,6 @@ Table: Enthalpies of formation, Fe–Hf system (16)
 | FeHf2 | [FeHf2](https://data.orchid-project.org/compounds/FeHf2.html) | -23.9 kJ/mol-atom | 1493 | model | -17.607 (mp-aaaaaeby) | -17.862 (oqmd-18331) | [1] Idbenali 2008 | Table 2, p. 3, row 12 |  |
 | FeHf2 | [FeHf2](https://data.orchid-project.org/compounds/FeHf2.html) | -23 kJ/mol-atom | 298.15 | model | -17.607 (mp-aaaaaeby) | -17.862 (oqmd-18331) | [1] Idbenali 2008; _cites Niessen 1983_ [doi](https://doi.org/10.1016/0364-5916%2883%2990030-5) | Table 2, p. 3, row 11 |  |
 | FeHf2 | [FeHf2](https://data.orchid-project.org/compounds/FeHf2.html) | -22 kJ/mol-atom |  | model | -17.607 (mp-aaaaaeby) | -17.862 (oqmd-18331) | [1] Idbenali 2008; _cites Yu 1973_ | Table 2, p. 3, row 10 |  |
-| λ |  | -38.22 kJ/mol-atom | 1723 | model |  |  | [1] Idbenali 2008 | Table 2, p. 3, row 16 |  |
-| λ |  | -38 kJ/mol-atom ± 2.7 | 1723 | experimental |  |  | [1] Idbenali 2008; _cites Mahdouk 1995_ | Table 2, p. 3, row 13 |  |
-| λ |  | -23 kJ/mol-atom |  | model |  |  | [1] Idbenali 2008; _cites F 1988_ | Table 2, p. 3, row 15 |  |
-| λ |  | -21 kJ/mol-atom |  | model |  |  | [1] Idbenali 2008; _cites Colinet 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990032-x) | Table 2, p. 3, row 14 |  |
 
 ## Other properties
 
@@ -114,8 +110,8 @@ Table: Phase transition, Fe–Hf system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1473 K | 1473 | Fe2Hf LT + Fe2Hf HT | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 1 | “According to the evaluation by Okamoto \[4\], the stoichiometric Fe2 Hf phase presents a crystalline transition at 1473 K from C15 (noted as ␣Fe2 Hf or Fe2 Hf cub or Fe2 Hf LT (low temperature), Cu2 Mg type) to C36 type (␤Fe2 Hf or Fe2 Hf hex2 or Fe2 Hf HT (high temperature), Ni2 Mg type).” |
-| Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.003333_ | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 1 |  |
-| Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.003333_ | model | [1] Idbenali 2008 | Table 4, p. 5, row 2 |  |
+| Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.3333_ | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 1 |  |
+| Phase transition | 1473.15 K | 1473.15 | Fe2Hf-LT -> Fe2Hf-HT; _Fe2Hf-LT: Hf 0.3333_ | model | [1] Idbenali 2008 | Table 4, p. 5, row 2 |  |
 | Phase transition | 1473.15 K | 1473.15 | polymorphic | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 2 | “We had to optimize the enthalpy of formation of the low temperature polytype in order to calculate the transition temperature at 1200 ◦ C \[4\] between the two polytypes.” |
 | Phase transition | 1473.15 K | 1473.15 | polymorphic | model | [1] Idbenali 2008; _cites Okamoto 2000_ | p. 6 | “optimized temperature of the polymorphic transition (1200 ◦ C) of Fe2 Hf HT ↔ Fe2 Hf LT was chosen in \[4\].” |
 | Phase transition | 2093.15 K | 2093.15 | (Liq -> λ; _Liq: Hf 0.298_ | experimental | [1] Idbenali 2008; _cites Svechnikov 1961_ | Table 4, p. 5, row 15 |  |

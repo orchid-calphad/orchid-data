@@ -12,17 +12,17 @@ Table: Phases of the Er–Y system (4)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-er-y-bcc-a2); _phase:er-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1751.15–1795.15 K, x(Y) 0.47298–1 | 12 | 1 |
+| [BCC_A2](#phase-er-y-bcc-a2); _phase:er-y:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1751.15–1795.15 K, x(Y) 0.47298–1 | 4 | 1 |
 | [FCC_A1](#phase-er-y-fcc-a1); _phase:er-y:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
-| [HCP_A3](#phase-er-y-hcp-a3); _phase:er-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1802 K, x(Y) 0–1 | 12 | 1 |
-| [LIQUID](#phase-er-y-liquid); _phase:er-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1779.94–2500 K, x(Y) 0–1 | 12 | 1 |
+| [HCP_A3](#phase-er-y-hcp-a3); _phase:er-y:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1802 K, x(Y) 0–1 | 8 | 1 |
+| [LIQUID](#phase-er-y-liquid); _phase:er-y:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1779.94–2500 K, x(Y) 0–1 | 8 | 1 |
 
 ## BCC_A2 (Er–Y)
 
 - Id: `phase:er-y:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1751.15–1795.15 K, x(Y) 0.47298–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-y:bcc-a2)
 
 Names (3): _corpus: _corpus:phase:er-y:bcc-a2  
@@ -79,11 +79,11 @@ _assessment that models this phase_
 - Id: `phase:er-y:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1802 K, x(Y) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-y:hcp-a3)
 
-Names (5): _corpus: _corpus:phase:er-y:hcp-a3  
-_paper: _paper:10.1016/j.jallcom.2009.10.039:(Er), paper:10.1016/j.jallcom.2009.10.039:(Er, αY), paper:10.1016/j.jallcom.2009.10.039:αY  
+Names (4): _corpus: _corpus:phase:er-y:hcp-a3  
+_paper: _paper:10.1016/j.jallcom.2009.10.039:(Er), paper:10.1016/j.jallcom.2009.10.039:(Er, αY)  
 _tdb: _tdb:ErY-10Wan.tdb:HCP_A3  
 
 
@@ -110,7 +110,7 @@ _cited as the source of values for this phase_
 - Id: `phase:er-y:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 1779.94–2500 K, x(Y) 0–1
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:er-y:liquid)
 
 Names (3): _corpus: _corpus:phase:er-y:liquid  

@@ -12,8 +12,8 @@ Table: Phases of the Ga–In system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [ORTHORHOMBIC_A11](#phase-ga-in-a11-orthorhombic); _phase:ga-in:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 299.05–302.91 K, x(In) 0–0 | 6 | 3 |
-| [TETRAGONAL_A6](#phase-ga-in-a6-tetragonal); _phase:ga-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 297.85–429.75 K, x(In) 0.96007–1 | 2 | 3 |
+| [ORTHORHOMBIC_A11](#phase-ga-in-a11-orthorhombic); _phase:ga-in:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 299.05–302.91 K, x(In) 0–0 | 0 | 3 |
+| [TETRAGONAL_A6](#phase-ga-in-a6-tetragonal); _phase:ga-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 297.85–429.75 K, x(In) 0.96007–1 | 0 | 3 |
 | [BCC_A2](#phase-ga-in-bcc-a2); _phase:ga-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-ga-in-fcc-a1); _phase:ga-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [HCP_A3](#phase-ga-in-hcp-a3); _phase:ga-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -25,11 +25,10 @@ Table: Phases of the Ga–In system (6)
 - Structure: alpha-Ga · A11 · oC8 · Cmce (64); type `st:a11-alpha-ga-oc8`; tier A: standard phase name; confidence high
 - Stoichiometry: Ga 1.0000
 - Stability: stable in 3 of 3 calculated diagram(s): 299.05–302.91 K, x(In) 0–0
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-in:a11-orthorhombic)
 
-Names (6): _corpus: _corpus:phase:ga-in:a11-orthorhombic  
-_paper: _paper:10.1007/bf02663677:αGa, paper:10.1007/bf02663677:γGa  
+Names (4): _corpus: _corpus:phase:ga-in:a11-orthorhombic  
 _tdb: _tdb:GaIn-78Ans.tdb:ORTHORHOMBIC_A11, tdb:GaIn-90Rug-LB.tdb:ORTHORHOMBIC_A11, tdb:GaIn-91And.tdb:ORTHORHOMBIC_A11  
 
 
@@ -59,7 +58,7 @@ _tdb: _tdb:GaIn-78Ans.tdb:ORTHORHOMBIC_A11, tdb:GaIn-90Rug-LB.tdb:ORTHORHOMBIC_A
 Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02663677](https://doi.org/10.1007/BF02663677) T.J. Anderson, I. Ansara, J. Phase Equilib., 12, 64-72(1991).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(78)90008-1](https://doi.org/10.1016/0364-5916%2878%2990008-1) I. Ansara, J.P. Bros, C. Girard, Calphad, 2, 187-96(1978).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(90)90013-P](https://doi.org/10.1016/0364-5916%2890%2990013-P) B.C. Rugg, T.G.Chart, Calphad, 14, 115-23(1990).  
@@ -70,11 +69,10 @@ _assessment that models this phase_
 - Id: `phase:ga-in:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 297.85–429.75 K, x(In) 0.96007–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ga-in:a6-tetragonal)
 
-Names (5): _corpus: _corpus:phase:ga-in:a6-tetragonal  
-_paper: _paper:10.1007/bf02663677:In  
+Names (4): _corpus: _corpus:phase:ga-in:a6-tetragonal  
 _tdb: _tdb:GaIn-78Ans.tdb:TETRAGONAL_A6, tdb:GaIn-90Rug-LB.tdb:TETRAGONAL_A6, tdb:GaIn-91And.tdb:TETRAGONAL_A6  
 
 
@@ -104,7 +102,7 @@ _tdb: _tdb:GaIn-78Ans.tdb:TETRAGONAL_A6, tdb:GaIn-90Rug-LB.tdb:TETRAGONAL_A6, td
 Example references (3 of 3; assessments first): 
 
 - [doi:10.1007/BF02663677](https://doi.org/10.1007/BF02663677) T.J. Anderson, I. Ansara, J. Phase Equilib., 12, 64-72(1991).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/0364-5916(78)90008-1](https://doi.org/10.1016/0364-5916%2878%2990008-1) I. Ansara, J.P. Bros, C. Girard, Calphad, 2, 187-96(1978).  
 _assessment that models this phase_
 - [doi:10.1016/0364-5916(90)90013-P](https://doi.org/10.1016/0364-5916%2890%2990013-P) B.C. Rugg, T.G.Chart, Calphad, 14, 115-23(1990).  

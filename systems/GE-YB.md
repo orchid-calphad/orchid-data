@@ -1,10 +1,10 @@
 # Ge–Yb system
 
-> Ge–Yb system: 128 accepted literature values (invariant reaction 57, formation 56, phase transition 13, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ge–Yb system: 122 accepted literature values (formation 56, invariant reaction 54, phase transition 10, heat capacity / entropy / enthalpy 2) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GE-YB.html · Markdown: https://data.orchid-project.org/systems/GE-YB.md
 
-128 accepted literature values from 2 paper(s) (experimental 51, model 69, DFT 8); 2 calculated phase diagram(s). 19 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+122 accepted literature values from 2 paper(s) (experimental 48, model 66, DFT 8); 2 calculated phase diagram(s). 18 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GE-YB.json) · [CSV](https://data.orchid-project.org/systems/GE-YB.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GE-YB) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GE-YB/GeYb-18Ach.json) · [phases (11)](https://data.orchid-project.org/phases/pages/GE-YB.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GE-YB.html) · [Markdown](https://data.orchid-project.org/systems/GE-YB.md)
 
@@ -12,16 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 51 |
-| model | 69 |
+| experimental | 48 |
+| model | 66 |
 | DFT | 8 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 57 |
-| phase transition | 13 |
+| invariant reaction | 54 |
+| phase transition | 10 |
 | formation | 56 |
 | heat capacity / entropy / enthalpy | 2 |
 
@@ -85,7 +85,7 @@ Convex hulls: [OQMD DFT hull](https://data.orchid-project.org/hulls/dft-oqmd/GE/
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ge–Yb system (57)
+Table: Invariant reactions reported in the literature for the Ge–Yb system (54)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -135,9 +135,6 @@ Table: Invariant reactions reported in the literature for the Ge–Yb system (57
 | 1083 | eutectic: Liq $ Yb2Ge CBcc_A2(Yb) |  | experimental | [1] Dai-man 2018 | p. 3 | “Two eutectic transformations are defined, Liq$Diamond_A4(Ge)C Yb3Ge8 at 1003 K and » 2.1 at.% Yb, and Liq $ Yb2Ge CBcc_A2(Yb) at 1083 K and more than 99.0 at.% Yb.” |
 | 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0024; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 23 |  |
 | 1083 | eutectic: Liq -> Yb2Ge + Fcc_A1 | L: Ge 0.0114; Yb2Ge: Ge 0.3333; Fcc_A1: Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 24 |  |
-| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Okamoto 2005_ | Table 1, p. 3, row 26 |  |
-| 1033 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | model | [1] Dai-man 2018 | Table 1, p. 3, row 27 |  |
-| 1023 | polymorphic: β(Yb) -> γ(Yb) | β(Yb): Ge 0 | experimental | [1] Dai-man 2018; _cites Pani 2003_ | Table 1, p. 3, row 25 |  |
 | 1014.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 30 |  |
 | 1007.15 | eutectic: L -> Yb3Ge8 + Ge |  | model | [2] Achgar 2018 | Table 5, p. 8, row 29 |  |
 | 1003.15 | eutectic: L -> Yb3Ge8 + Ge |  | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 28 |  |
@@ -200,15 +197,12 @@ Table: Enthalpies of formation, Ge–Yb system (42)
 
 ## Other properties
 
-### Phase transition (13)
+### Phase transition (10)
 
 Table: Phase transition, Ge–Yb system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 6 |  |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | model | [2] Achgar 2018 | Table 5, p. 8, row 5 |  |
-| Phase transition | 1053.15 K | 1053.15 | polymorphic: γYb -> βYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 4 |  |
 | Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 3 |  |
 | Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | model | [2] Achgar 2018 | Table 5, p. 8, row 2 |  |
 | Phase transition | 1093.15 K | 1093.15 | congruent melting: L -> γYb | experimental | [2] Achgar 2018; _cites Pani 2003_ | Table 5, p. 8, row 1 |  |

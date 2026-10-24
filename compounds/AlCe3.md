@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/AlCe3.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Al–Ce–Nd](https://data.orchid-project.org/systems/AL-CE-ND.html)
+Systems: [Al–Ce](https://data.orchid-project.org/systems/AL-CE.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of AlCe3 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -15.013 kJ/mol-atom | βAlCe3 | 0 | DFT | first principles | [Al–Ce–Nd](https://data.orchid-project.org/systems/AL-CE-ND.html) | [1] Gao 2005 | Table I, p. 6, row 8 |  |
+| -15.013 kJ/mol-atom | βAlCe3 | 0 | DFT | first principles | [Al–Ce](https://data.orchid-project.org/systems/AL-CE.html) | [1] Gao 2005 | Table I, p. 6, row 8 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of AlCe3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -15.013 | kJ/mol-atom |  | 5.000e-4 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -15.013 | kJ/mol-atom |  | 5.000e-4 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## Sources
 

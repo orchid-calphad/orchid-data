@@ -1,10 +1,10 @@
 # Co–Cr–Ni–Re system
 
-> Co–Cr–Ni–Re system: 162 accepted literature values (mixing / partial 128, activity / EMF / Gibbs energy 34) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Cr–Ni–Re system: 136 accepted literature values (mixing / partial 128, activity / EMF / Gibbs energy 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-CR-NI-RE.html · Markdown: https://data.orchid-project.org/systems/CO-CR-NI-RE.md
 
-162 accepted literature values from 1 paper(s) (model 34, DFT 128); 0 calculated phase diagram(s).
+136 accepted literature values from 1 paper(s) (model 8, DFT 128); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-CR-NI-RE.json) · [CSV](https://data.orchid-project.org/systems/CO-CR-NI-RE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-CR-NI-RE) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-CR-NI-RE.html) · [Markdown](https://data.orchid-project.org/systems/CO-CR-NI-RE.md)
 
@@ -12,7 +12,7 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 34 |
+| model | 8 |
 | DFT | 128 |
 
 Table: Accepted values by property group
@@ -20,7 +20,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | mixing / partial | 128 |
-| activity / EMF / Gibbs energy | 34 |
+| activity / EMF / Gibbs energy | 8 |
 
 ## Other properties
 
@@ -159,46 +159,20 @@ Table: Mixing / partial, Co–Cr–Ni–Re system
 | Gibbs energy of mixing; _printed: Lattice stability_ | 4.9 kJ/mol (basis unstated) |  | σ; _alloy: Cr 0, Ni 0, Re 1_ | DFT | [1] Santos 2024; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 8, row 80 |  |
 | Gibbs energy of mixing; _printed: Lattice stability_ | 4.9 kJ/mol (basis unstated) |  | σ; _alloy: Cr 0, Ni 0, Re 1_ | DFT | [1] Santos 2024; _cites Sluiter 2006_ [doi](https://doi.org/10.1016/j.calphad.2006.09.002) | Table 2, p. 8, row 80 |  |
 
-### Activity / EMF / Gibbs energy (34)
+### Activity / EMF / Gibbs energy (8)
 
 Table: Activity / EMF / Gibbs energy, Co–Cr–Ni–Re system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -766.64 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 47 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 67 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -793.17 J/mol | 0 | BCC_A2; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 7 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 61 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 41 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | FCC_A1; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 1 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 13 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 53 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: ΔG^φ\_Para_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: ΔG_Para^o_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | HCP_A3; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 73 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18 |  |
 | Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1296.97 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 18 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 0, Ni 0, Re 1_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 78 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1, Ni 0, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58 |  |
-| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -80.44 J/mol | 0 | σ; _alloy: Cr 0, Ni 1, Re 0_ | model | [1] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 58 |  |
 
 ## Sources
 

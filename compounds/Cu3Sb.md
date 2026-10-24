@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Cu3Sb.html · Markdown: https://
 
 1 accepted literature formation-enthalpy value(s) (model 1); Materials Project 3.13 kJ/mol-atom (mp-aaaabexw); OQMD 6.48 kJ/mol-atom (oqmd-320322).
 
-Systems: [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html)
+Systems: [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Cu3Sb reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -4.718 kJ/mol-atom | ε(Cu3Sb) |  | model |  | [Cu–Sb–Zn](https://data.orchid-project.org/systems/CU-SB-ZN.html) | [1] Liu 2000 | Table 2, p. 3, row 4 |  |
+| -4.718 kJ/mol-atom | ε(Cu3Sb) |  | model |  | [Cu–Sb](https://data.orchid-project.org/systems/CU-SB.html) | [1] Liu 2000 | Table 2, p. 3, row 4 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Cu3Sb
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.718 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -4.718 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 
@@ -34,8 +34,8 @@ Table: DFT formation energy of Cu3Sb
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaabexw | 3.13 | 0.032438 | Pmmn | 6.079 | 0.063 | no |
-| OQMD | oqmd-320322 | 6.48 | 0.067164 | P63/mmc | 6.481 | 0.0672 | yes |
+| Materials Project | mp-aaaabexw | 3.13 | 0.032438 | Pmmn | 6.0788 | 0.063 | no |
+| OQMD | oqmd-320322 | 6.48 | 0.067164 | P63/mmc | 6.4808 | 0.0672 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

@@ -1,10 +1,10 @@
 # Co–Fe system
 
-> Co–Fe system: 16 accepted literature values (phase equilibrium 9, phase transition 7) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Fe system: 17 accepted literature values (phase equilibrium 9, phase transition 7, mixing / partial 1) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-FE.html · Markdown: https://data.orchid-project.org/systems/CO-FE.md
 
-16 accepted literature values from 2 paper(s) (experimental 13, model 3); 4 calculated phase diagram(s).
+17 accepted literature values from 3 paper(s) (experimental 13, model 3, DFT 1); 4 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-FE.json) · [CSV](https://data.orchid-project.org/systems/CO-FE.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-FE) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-FE/CoFe-02Ohn.json) · [phases (5)](https://data.orchid-project.org/phases/pages/CO-FE.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-FE.html) · [Markdown](https://data.orchid-project.org/systems/CO-FE.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 13 |
 | model | 3 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | phase transition | 7 |
 | phase equilibrium | 9 |
+| mixing / partial | 1 |
 
 ## Calculated phase diagrams
 
@@ -83,12 +85,21 @@ Table: Phase equilibrium, Co–Fe system
 | Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 1 |  |
 | Phase composition |  | 1073.15 | b.c.c. + f.c.c.; _b.c.c.: Co 0.736, Fe 0.264; f.c.c.: Co 0.804, Fe 0.196_ | experimental | [1] Ohnuma 2002 | Table 1, p. 6, row 9 |  |
 
+### Mixing / partial (1)
+
+Table: Mixing / partial, Co–Fe system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: ΔmixH^SQS_ | -3.392 kJ/mol-atom |  | fcc; _alloy: Co 0.5, Fe 0.5_ | DFT | [3] Bracq 2021 | Table 1, p. 4, row 2 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Ikuo Ohnuma, Hirotoshi Enoki, Osamu Ikeda, Ryosuke Kainuma, Hiroshi Ohtani, Bo Sundman et al., Phase equilibria in the Fe–Co binary system, Acta Materialia 50, 379-393 (2002). [doi:10.1016/s1359-6454(01)00337-8](https://doi.org/10.1016/s1359-6454%2801%2900337-8)
 2. Justin E. Rodriguez, Douglas M. Matson, Thermodynamic modeling of the solidification path of levitated Fe–Co alloys, Calphad 49, 87-100 (2015). [doi:10.1016/j.calphad.2015.03.001](https://doi.org/10.1016/j.calphad.2015.03.001)
+3. Guillaume Bracq, Jean-Claude Crivello, Mathilde Laurent-Brocq, Jean-Marc Joubert, Ivan Guillot, What is the Enthalpy Contribution to the Stabilization of the Co–Cr–Fe–Mn–Ni Faced-centered Cubic Solid Solution?, J. Phase Equilib. Diffus. 42, 561-570 (2021). [doi:10.1007/s11669-021-00922-9](https://doi.org/10.1007/s11669-021-00922-9)
 
 ## Please cite
 

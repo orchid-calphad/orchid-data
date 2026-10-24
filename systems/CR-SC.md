@@ -1,10 +1,10 @@
 # Cr–Sc system
 
-> Cr–Sc system: 6 accepted literature values (invariant reaction 5, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr–Sc system: 10 accepted literature values (invariant reaction 7, mixing / partial 2, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR-SC.html · Markdown: https://data.orchid-project.org/systems/CR-SC.md
 
-6 accepted literature values from 2 paper(s) (experimental 4, model 2); 2 calculated phase diagram(s).
+10 accepted literature values from 2 paper(s) (experimental 5, model 5); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR-SC.json) · [CSV](https://data.orchid-project.org/systems/CR-SC.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR-SC) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CR-SC/CrSc-12Bu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/CR-SC.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR-SC.html) · [Markdown](https://data.orchid-project.org/systems/CR-SC.md)
 
@@ -12,15 +12,16 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 4 |
-| model | 2 |
+| experimental | 5 |
+| model | 5 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 5 |
+| invariant reaction | 7 |
 | phase transition | 1 |
+| mixing / partial | 2 |
 
 ## Calculated phase diagrams
 
@@ -46,7 +47,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Cr–Sc system (5)
+Table: Invariant reactions reported in the literature for the Cr–Sc system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -54,6 +55,8 @@ Table: Invariant reactions reported in the literature for the Cr–Sc system (5)
 | 1363.15 | eutectic: Liquid (bCr) + (bSc) |  | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2 | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
 | 1363.15 | eutectic: L -> (Cr) + bSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1 | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
 | 1263.25 | eutectoid: bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc) |  | model | [1] Wang 2015 | p. 2 | “The calculated eutectoid reaction (bSc(93.4 at.% Sc) M (Cr) + aSc(98.62 at.% Sc)) occurs at 990.1 °C, and the calculated eutectic reaction (L (65.2 at.% Sc) M (Cr) + bSc (92.3 at.% Sc)) is located at 1090 °C.” |
+| 1263.25 | βSc -> (Cr) + αSc | βSc: Sc 0.934; (Cr): Sc 0; αSc: Sc 0.9862 | model | [1] Wang 2015 | Table 1, p. 3, row 6 |  |
+| 1263.15 | βSc -> (Cr) + αSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | Table 1, p. 3, row 5 |  |
 | 1263.15 | eutectoid: bSc -> (Cr) + aSc |  | experimental | [1] Wang 2015; _cites Svechnikov 1972_ | p. 1 | “Based on differential thermal analysis (DTA), microhardness measurements, x-ray diffraction (XRD) and metallographic methods, the Sc-Cr system was investigated by Svechnikov et al.,\[8\] who determined a eutectic reaction (L (65 at.% Sc) M (Cr) + bSc at 1090 °C) and a eutectoid reaction (bSc M (Cr) + aSc at 990 °C).” |
 
 ## Other properties
@@ -65,6 +68,15 @@ Table: Phase transition, Cr–Sc system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 1263.15 K | 1263.15 | (bSc) (bCr) + (aSc) | experimental | [2] Bu 2012; _cites Svechnikov 1972_ | p. 2 | “The eutectoid reaction temperature for (bSc) (bCr) + (aSc) and the eutectic reaction temperature for Liquid (bCr) + (bSc) were determined by Svechnikov et al.\[18\] to be 990 °C at 60-65 at.% Sc and to be 1090 °C, respectively.” |
+
+### Mixing / partial (2)
+
+Table: Mixing / partial, Cr–Sc system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 1 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015; _cites F 1988_ | Table 3, p. 3, row 1 |  |
+| Enthalpy of mixing; _printed: enthalpy of mixing_ | 0.975 kJ/mol (basis unstated) | 2273.15 | liquid; _alloy: Cr 0.5, Sc 0.5_ | model | [1] Wang 2015 | Table 3, p. 3, row 2 |  |
 
 ## Sources
 

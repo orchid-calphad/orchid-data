@@ -7,12 +7,15 @@
  "phases": [
   "LIQUID",
   "NI10ZR7",
-  "NI21ZR8"
+  "NI21ZR8",
+  "NI3ZR_D019",
+  "NI7ZR2"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1348.0
+   1348.0,
+   1193.0
   ]
  },
  "output": "ZPF",
@@ -45,6 +48,44 @@
      null
     ]
    ]
+  ],
+  [
+   [
+    "NI7ZR2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI21ZR8",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "NI3ZR_D019",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.24936133333333332
+    ]
+   ]
   ]
  ],
  "reference": "Jana 2020, doi:10.1016/j.intermet.2019.106640",
@@ -54,7 +95,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2CD6XBUHWF",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2CD6XBUHWF ORC-HJEDEL7B3G",
  "bibtex": "jana2020_bdc191",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -62,6 +103,11 @@
   "observations": [
    {
     "id": "ORC-2CD6XBUHWF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2019.106640"
+   },
+   {
+    "id": "ORC-HJEDEL7B3G",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2019.106640"
    }
@@ -74,8 +120,7 @@
    "10.1016/0022-5088(79)90241-8",
    "10.1016/j.intermet.2019.106640"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-00.json",
-  "values_dropped": 1
+  "source_dataset": "db-v2.1/invariants/espei/NiZr-20Jan/zpf-00.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -88,15 +133,15 @@
     "budget": {
      "temperature_K": {
       "sigma_printed": 10.0,
-      "sigma_reading": 0.5,
-      "sigma_method": 10.0,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
       "sigma_composition": null,
       "sigma_scatter": null,
       "sigma_conversion": null,
-      "sigma_effective": 10.0,
+      "sigma_effective": 11.0,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 4981,
+      "method_n_pairs": 4914,
       "method_entry": "value_types/T_INVARIANT/classes/unknown"
      },
      "composition_mole_fraction": {
@@ -109,7 +154,41 @@
       "sigma_effective": 0.011,
       "method_class": "unknown",
       "method_basis": "calibrated",
-      "method_n_pairs": 3139,
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 10.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": 10.0,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-07,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
@@ -129,6 +208,11 @@
   "values": [
    {
     "id": "ORC-2CD6XBUHWF",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-HJEDEL7B3G",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

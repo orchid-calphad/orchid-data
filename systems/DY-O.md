@@ -1,10 +1,10 @@
 # Dy–O system
 
-> Dy–O system: 3 accepted literature values (phase transition 2, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–O system: 22 accepted literature values (heat capacity / entropy / enthalpy 8, other property 5, phase transition 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-O.html · Markdown: https://data.orchid-project.org/systems/DY-O.md
 
-3 accepted literature values from 1 paper(s) (model 3); 1 calculated phase diagram(s).
+22 accepted literature values from 1 paper(s) (experimental 2, model 20); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-O.json) · [CSV](https://data.orchid-project.org/systems/DY-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#DY-O/DyO-23Nak.json) · [phases (8)](https://data.orchid-project.org/phases/pages/DY-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-O.html) · [Markdown](https://data.orchid-project.org/systems/DY-O.md)
 
@@ -12,14 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 3 |
+| experimental | 2 |
+| model | 20 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 5 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 3 |
+| other property | 5 |
 
 ## Calculated phase diagrams
 
@@ -45,14 +49,54 @@ Table: Enthalpies of formation, Dy–O system (1)
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (5)
 
 Table: Phase transition, Dy–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 2145 K | 2145 | B | model | [1] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
+| Phase transition | 2263 K | 2263 | polymorphic: C \<=> B; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 5 |  |
 | Phase transition | 2445 K | 2445 | B | model | [1] ZINKEVICH 2007 | p. 17 | “Two datasets are available for Dy2O3 \[36,37\]. Extrapolation to the 1 bar pressure gives rise to the values of 2145 and 2445 K, respectively, which approximately correspond to the boundaries of experimental scatter (Table 2.1).” |
+| Phase transition | 2463 K | 2463 | polymorphic: B \<=> H; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 18 |  |
+| Phase transition | 2653 K | 2653 | polymorphic: H \<=> X; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 32 |  |
+
+### Heat capacity / entropy / enthalpy (8)
+
+Table: Heat capacity / entropy / enthalpy, Dy–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Δtrs°S_ | 5.546 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
+| Entropy; _printed: ΔS_ | 4.056 J mol−1 K−1 |  | Dy2O3; _alloy: O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 16 |  |
+| Entropy; _printed: ΔS_ | 3.384 J mol−1 K−1 |  | Dy2O3; _alloy: O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Seck 1969_ | Table 5.1, p. 18, row 17 |  |
+| Entropy; _printed: °S_ | 149.79 unknown | 298.15 | C-Dy2O3; _alloy: O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 23 |  |
+| Entropy; _printed: Δtrs°S_ | 4.09 unknown | 2263 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
+| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2463 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
+| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2653 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
+| Entropy; _printed: Δtrs°S_ | 29.486 unknown | 2681 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Dy–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 41.237 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12 |  |
+| lattice molar volume | 42.004 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12 |  |
+| lattice molar volume | 45.654 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Dy 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 12 |  |
+
+### Other property (5)
+
+Table: Other property, Dy–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 15637 unknown |  | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 28 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 9255 unknown | 2263 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 24 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 34448 unknown | 2463 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 25 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12122 unknown | 2653 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 26 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 79051 unknown | 2681 | C-Dy₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 27 |  |
 
 ## Sources
 

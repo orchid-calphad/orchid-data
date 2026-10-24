@@ -12,15 +12,15 @@ Table: Phases of the B–Hf system (9)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BETA_RHOMBO_B](#phase-b-hf-b-beta-rhombo); _phase:b-hf:b-beta-rhombo_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–2490.94 K, x(B) 1–1 | 10 | 4 |
+| [BETA_RHOMBO_B](#phase-b-hf-b-beta-rhombo); _phase:b-hf:b-beta-rhombo_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–2490.94 K, x(B) 1–1 | 7 | 4 |
 | [MB_B27](#phase-b-hf-b27-mb); _phase:b-hf:b27-mb_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–2380.45 K, x(B) 0.5–0.5 | 16 | 3 |
-| [BCC_A2](#phase-b-hf-bcc-a2); _phase:b-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 2016.03–3999.88 K, x(B) 0–0.04944 | 18 | 4 |
+| [BCC_A2](#phase-b-hf-bcc-a2); _phase:b-hf:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 2016.03–3999.88 K, x(B) 0–0.04944 | 15 | 4 |
 | [MB2_C32](#phase-b-hf-c32-mb2); _phase:b-hf:c32-mb2_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–3651.93 K, x(B) 0.66667–0.67697 | 27 | 3 |
 | [FCC_A1](#phase-b-hf-fcc-a1); _phase:b-hf:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 4 calculated diagram(s) | 0 | 4 |
-| [HCP_A3](#phase-b-hf-hcp-a3); _phase:b-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2070 K, x(B) 0–0.02014 | 9 | 4 |
+| [HCP_A3](#phase-b-hf-hcp-a3); _phase:b-hf:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–2070 K, x(B) 0–0.02014 | 6 | 4 |
 | [HFB_B27](#phase-b-hf-hfb-b27); _phase:b-hf:hfb-b27_ | FeB · B27 · oP8 · Pnma (62) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–2373.37 K, x(B) 0.49967–0.5 | 6 | 1 |
 | [HFB2_C32](#phase-b-hf-hfb2-c32); _phase:b-hf:hfb2-c32_ | AlB2 · C32 · hP3 · P6/mmm (191) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–3650.95 K, x(B) 0.66369–0.70713 | 6 | 1 |
-| [LIQUID](#phase-b-hf-liquid); _phase:b-hf:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 2148.11–4000 K, x(B) 0–1 | 32 | 4 |
+| [LIQUID](#phase-b-hf-liquid); _phase:b-hf:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 2148.11–4000 K, x(B) 0–1 | 29 | 4 |
 
 ## BETA_RHOMBO_B (B–Hf)
 
@@ -31,8 +31,9 @@ Table: Phases of the B–Hf system (9)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — HfB-11Cac.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — HfB-21Pan.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — HfB-97Bit-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2490.94 K, x(B) 1–1
-- Literature: 10 values (10 accepted) from 4 papers
+- Literature: 7 values (7 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:b-beta-rhombo)
 
 Names (10): _corpus: _corpus:phase:b-hf:b-beta-rhombo, corpus:phase:b-hf:beta-rhombo-b  
@@ -70,7 +71,7 @@ _tdb: _tdb:HfB-10Kau.tdb:BETA_RHOMBO_B, tdb:HfB-11Cac.tdb:BETA_RHOMBO_B, tdb:HfB
 47: CONST BETA_RHOMBO_B : B : B : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -80,8 +81,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
@@ -140,7 +139,7 @@ _reports values for this phase_
 - Id: `phase:b-hf:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 2016.03–3999.88 K, x(B) 0–0.04944
-- Literature: 18 values (18 accepted) from 4 papers
+- Literature: 15 values (15 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:bcc-a2)
 
 Names (9): _corpus: _corpus:phase:b-hf:bcc-a2  
@@ -188,10 +187,10 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
+- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
+_cited as the source of values for this phase_
 
 ## MB2_C32 (B–Hf)
 
@@ -302,7 +301,7 @@ _assessment that models this phase_
 - Id: `phase:b-hf:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2070 K, x(B) 0–0.02014
-- Literature: 9 values (9 accepted) from 4 papers
+- Literature: 6 values (6 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:hcp-a3)
 
 Names (9): _corpus: _corpus:phase:b-hf:hcp-a3  
@@ -340,7 +339,7 @@ _tdb: _tdb:HfB-10Kau.tdb:HCP_A3, tdb:HfB-11Cac.tdb:HCP_A3, tdb:HfB-21Pan.tdb:HCP
 42: CONST HCP_A3 : HF% : B VA% : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02646757](https://doi.org/10.1007/BF02646757) H. Bittermann, P. Rogl, J. Phase Equilib., 18, 24-47(1997).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -350,8 +349,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) L. Kaufman, G. Cacciamani, M.L. Muolo, F. Valenza, A. Passerone, Calphad, 34, 2-5(2010).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
 
@@ -421,7 +418,7 @@ _cited as the source of values for this phase_
 - Id: `phase:b-hf:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 4 of 4 calculated diagram(s): 2148.11–4000 K, x(B) 0–1
-- Literature: 32 values (32 accepted) from 4 papers
+- Literature: 29 values (29 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-hf:liquid)
 
 Names (9): _corpus: _corpus:phase:b-hf:liquid  

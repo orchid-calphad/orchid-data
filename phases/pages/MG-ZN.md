@@ -15,14 +15,14 @@ Table: Phases of the Mg–Zn system (12)
 | [BCC_A2](#phase-mg-zn-bcc-a2); _phase:mg-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [C14_LAVES](#phase-mg-zn-c14-laves); _phase:mg-zn:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–863.14 K, x(Zn) 0.65785–0.67132 | 13 | 5 |
 | [FCC_A1](#phase-mg-zn-fcc-a1); _phase:mg-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
-| [HCP_A3](#phase-mg-zn-hcp-a3); _phase:mg-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.81 K, x(Zn) 0–1 | 16 | 6 |
-| [LIQUID](#phase-mg-zn-liquid); _phase:mg-zn:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 612.07–2500 K, x(Zn) 0–1 | 38 | 6 |
-| [MG12ZN13](#phase-mg-zn-mg12zn13); _phase:mg-zn:mg12zn13_ | Re25Zr21 · hR92 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–620.15 K, x(Zn) 0.52–0.52 | 17 | 5 |
+| [HCP_A3](#phase-mg-zn-hcp-a3); _phase:mg-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.81 K, x(Zn) 0–1 | 17 | 6 |
+| [LIQUID](#phase-mg-zn-liquid); _phase:mg-zn:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 612.07–2500 K, x(Zn) 0–1 | 40 | 6 |
+| [MG12ZN13](#phase-mg-zn-mg12zn13); _phase:mg-zn:mg12zn13_ | Re25Zr21 · hR92 · R-3c (167) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–620.15 K, x(Zn) 0.52–0.52 | 18 | 5 |
 | [MG2ZN11_D8C](#phase-mg-zn-mg2zn11-d8c); _phase:mg-zn:mg2zn11-d8c_ | Mg2Zn11 · D8_c · cP39 · Pm-3 (200) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–658.61 K, x(Zn) 0.84615–0.84615 | 10 | 6 |
-| [MG2ZN3](#phase-mg-zn-mg2zn3); _phase:mg-zn:mg2zn3_ | Mg4Zn7 · mC110 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–691.44 K, x(Zn) 0.6–0.6 | 11 | 6 |
-| [MG51ZN20](#phase-mg-zn-mg51zn20); _phase:mg-zn:mg51zn20_ | Mg51Zn20 · oI158 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 596.08–617.96 K, x(Zn) 0.28169–0.28169 | 15 | 5 |
-| [MG7ZN3](#phase-mg-zn-mg7zn3); _phase:mg-zn:mg7zn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 590–614.2 K, x(Zn) 0.3–0.3 | 0 | 1 |
-| [MGZN](#phase-mg-zn-mgzn); _phase:mg-zn:mgzn_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–620.2 K, x(Zn) 0.5–0.5 | 0 | 1 |
+| [MG2ZN3](#phase-mg-zn-mg2zn3); _phase:mg-zn:mg2zn3_ | Mg4Zn7 · mC110 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–691.44 K, x(Zn) 0.6–0.6 | 19 | 6 |
+| [MG51ZN20](#phase-mg-zn-mg51zn20); _phase:mg-zn:mg51zn20_ | Mg51Zn20 · oI158 · Immm (71) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 596.08–617.96 K, x(Zn) 0.28169–0.28169 | 16 | 5 |
+| [MG7ZN3](#phase-mg-zn-mg7zn3); _phase:mg-zn:mg7zn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 590–614.2 K, x(Zn) 0.3–0.3 | 1 | 1 |
+| [MGZN](#phase-mg-zn-mgzn); _phase:mg-zn:mgzn_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–620.2 K, x(Zn) 0.5–0.5 | 5 | 1 |
 | [MGZN2_C14](#phase-mg-zn-mgzn2-c14); _phase:mg-zn:mgzn2-c14_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–863.04 K, x(Zn) 0.66667–0.66667 | 0 | 1 |
 
 ## BCC_A2 (Mg–Zn)
@@ -242,11 +242,11 @@ _assessment that models this phase_
 - Id: `phase:mg-zn:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–2499.81 K, x(Zn) 0–1
-- Literature: 16 values (14 accepted) from 3 papers
+- Literature: 17 values (15 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:hcp-a3)
 
-Names (11): _corpus: _corpus:phase:mg-zn:hcp-a3  
-_paper: _paper:10.1016/j.calphad.2010.07.010:hcp_A3, paper:10.1016/j.calphad.2013.07.007:(Mg), paper:10.1016/j.calphad.2013.07.007:(Zn), paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
+Names (12): _corpus: _corpus:phase:mg-zn:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2010.07.010:hcp_A3, paper:10.1016/j.calphad.2013.07.007:(Mg), paper:10.1016/j.calphad.2013.07.007:(Zn), paper:10.1016/j.jallcom.2010.08.124:hcp(Mg), paper:10.1016/s0364-5916(98)00037-6:hcp-A3  
 _tdb: _tdb:MgZn-10Niu.tdb:HCP_A3, tdb:MgZn-14Yua.tdb:HCP_A3, tdb:MgZn-20Hay.tdb:HCP_A3, tdb:MgZn-22Li.tdb:HCP_A3, tdb:MgZn-92Aga.tdb:HCP_A3, tdb:MgZn-98Lia-LB.tdb:HCP_A3  
 
 
@@ -294,7 +294,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:HCP_A3, tdb:MgZn-14Yua.tdb:HCP_A3, tdb:MgZn-20Hay.tdb:
 44: CONST HCP_A3 : MG% ZN : VA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.07.010](https://doi.org/10.1016/j.calphad.2010.07.010) Chunju Niu, Miao Liu, Changrong Li, Zhenmin Du, Cuiping Guo, Thermodynamic description on the miscibility gap of the Mg-based solid solution in the Mg–Zn, Mg–Nd and Mg–Zn–Nd systems, Calphad 34, 428-433 (2010).  
 _assessment that models this phase; reports values for this phase_
@@ -310,17 +310,19 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
+- [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
+_reports values for this phase_
 
 ## LIQUID (Mg–Zn)
 
 - Id: `phase:mg-zn:liquid`; status `assigned`
 - Structure: liquid; type `st:liquid`; liquid; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 612.07–2500 K, x(Zn) 0–1
-- Literature: 38 values (32 accepted) from 3 papers
+- Literature: 40 values (34 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:liquid)
 
-Names (10): _corpus: _corpus:phase:mg-zn:liquid  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/s0364-5916(98)00037-6:Liquid  
+Names (12): _corpus: _corpus:phase:mg-zn:liquid  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Liquid, paper:10.1016/j.calphad.2013.07.007:L, paper:10.1016/j.jallcom.2010.08.124:L, paper:10.1016/s0364-5916(98)00037-6:Liquid, paper:10.2320/jinstmet.jbw201905:L  
 _tdb: _tdb:MgZn-10Niu.tdb:LIQUID, tdb:MgZn-14Yua.tdb:LIQUID, tdb:MgZn-20Hay.tdb:LIQUID, tdb:MgZn-22Li.tdb:LIQUID, tdb:MgZn-92Aga.tdb:LIQUID, tdb:MgZn-98Lia-LB.tdb:LIQUID  
 
 
@@ -368,7 +370,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:LIQUID, tdb:MgZn-14Yua.tdb:LIQUID, tdb:MgZn-20Hay.tdb:
 29: CONST LIQUID:L : MG ZN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -376,13 +378,15 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0040-6031(97)00458-9](https://doi.org/10.1016/S0040-6031%2897%2900458-9) P. Liang, T. Tarfa, J.A. Robinson, S. Wagner, P. Ochin, M.G. Harmelin, H.J. Seifert, H.L. Lukas, F. Aldinger, Thermochim. Acta, 314, 87-110(1998).  
 _assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1992-830402](https://doi.org/10.1515/ijmr-1992-830402) R. Agarwal, S.G. Fries, H.L. Lukas, G. Petzow, F. Sommer, T.G. Chart, G. Effenberg, Z. Metallkd., 83, 216-23(1992).  
 _assessment that models this phase_
-- [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
-_assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
+_reports values for this phase_
+- [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
 _reports values for this phase_
 
 ## MG12ZN13 (Mg–Zn)
@@ -393,11 +397,11 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Mg 0.4800, Zn 0.5200
 - Stability: stable in 5 of 5 calculated diagram(s): 300–620.15 K, x(Zn) 0.52–0.52
-- Literature: 17 values (13 accepted) from 3 papers
+- Literature: 18 values (14 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg12zn13)
 
-Names (9): _corpus: _corpus:phase:mg-zn:mg12zn13  
-_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn, paper:10.1016/j.calphad.2013.07.007:Mg12Zn13, paper:10.1016/s0364-5916(98)00037-6:MgZn  
+Names (10): _corpus: _corpus:phase:mg-zn:mg12zn13  
+_paper: _paper:10.1016/j.calphad.2010.07.010:MgZn, paper:10.1016/j.calphad.2013.07.007:Mg12Zn13, paper:10.1016/s0364-5916(98)00037-6:MgZn, paper:10.2320/jinstmet.jbw201905:Mg12Zn13  
 _tdb: _tdb:MgZn-10Niu.tdb:MG12ZN13, tdb:MgZn-14Yua.tdb:MG12ZN13, tdb:MgZn-20Hay.tdb:MG12ZN13, tdb:MgZn-22Li.tdb:MG12ZN13, tdb:MgZn-98Lia-LB.tdb:MG12ZN13  
 
 
@@ -446,9 +450,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0040-6031(97)00458-9](https://doi.org/10.1016/S0040-6031%2897%2900458-9) P. Liang, T. Tarfa, J.A. Robinson, S. Wagner, P. Ochin, M.G. Harmelin, H.J. Seifert, H.L. Lukas, F. Aldinger, Thermochim. Acta, 314, 87-110(1998).  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
-_assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
@@ -539,11 +543,11 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Mg 0.4000, Zn 0.6000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–691.44 K, x(Zn) 0.6–0.6
-- Literature: 11 values (9 accepted) from 3 papers
+- Literature: 19 values (17 accepted) from 5 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg2zn3)
 
-Names (10): _corpus: _corpus:phase:mg-zn:mg2zn3  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Mg2Zn3, paper:10.1016/j.calphad.2013.07.007:Mg2Zn3, paper:10.1016/s0364-5916(98)00037-6:Mg2Zn3  
+Names (12): _corpus: _corpus:phase:mg-zn:mg2zn3  
+_paper: _paper:10.1016/j.actamat.2015.02.044:Mg2Zn3, paper:10.1016/j.calphad.2006.03.005:Mg2Zn3, paper:10.1016/j.calphad.2010.07.010:Mg2Zn3, paper:10.1016/j.calphad.2013.07.007:Mg2Zn3, paper:10.1016/s0364-5916(98)00037-6:Mg2Zn3  
 _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN3, tdb:MgZn-14Yua.tdb:MG2ZN3, tdb:MgZn-20Hay.tdb:MG2ZN3, tdb:MgZn-22Li.tdb:MG2ZN3, tdb:MgZn-92Aga.tdb:MG2ZN3, tdb:MgZn-98Lia-LB.tdb:MG2ZN3  
 
 
@@ -591,7 +595,7 @@ _tdb: _tdb:MgZn-10Niu.tdb:MG2ZN3, tdb:MgZn-14Yua.tdb:MG2ZN3, tdb:MgZn-20Hay.tdb:
 60: CONST MG2ZN3 : MG : ZN : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (10 of 13; assessments first): 
 
 - [doi:10.1016/j.calphad.2013.07.007](https://doi.org/10.1016/j.calphad.2013.07.007) Yuan Yuan, Fusheng Pan, Dajian Li, Andrew Watson, The re-assessment of the Mg–Zn and Fe–Si systems and their incorporation in thermodynamic descriptions of the Al–Mg–Zn and Fe–Si–Zn systems, Calphad 44, 54-61 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -605,8 +609,14 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
 _assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
+- [doi:10.1007/bf02651927](https://doi.org/10.1007/bf02651927) Z. P. Luo, H. X. Sui, S. Q. Zhang, On the stable Mg-Zn-Y quasicrystals, Metall Mater Trans A 27, 1779-1784 (1996).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.actamat.2015.02.044](https://doi.org/10.1016/j.actamat.2015.02.044) Joachim Gröbner, Artem Kozlov, Xi-Ya Fang, Suming Zhu, Jian-Feng Nie, Mark A. Gibson et al., Phase equilibria and transformations in ternary Mg–Gd–Zn alloys, Acta Materialia 90, 400-416 (2015).  
 _reports values for this phase_
+- [doi:10.1016/j.calphad.2006.03.005](https://doi.org/10.1016/j.calphad.2006.03.005) G. Shao, V. Varsani, Z. Fan, Thermodynamic modelling of the Y–Zn and Mg–Zn–Y systems, Calphad 30, 286-295 (2006).  
+_reports values for this phase_
+- [doi:10.1016/j.calphad.2012.01.006](https://doi.org/10.1016/j.calphad.2012.01.006) R. Schmid-Fetzer, B. Hallstedt, Calphad 37 (2012) 34.  
+_cited as the source of values for this phase_
 
 ## MG51ZN20 (Mg–Zn)
 
@@ -616,11 +626,11 @@ _reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_both, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Mg 0.7183, Zn 0.2817
 - Stability: stable in 5 of 5 calculated diagram(s): 596.08–617.96 K, x(Zn) 0.28169–0.28169
-- Literature: 15 values (11 accepted) from 3 papers
+- Literature: 16 values (12 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg51zn20)
 
-Names (9): _corpus: _corpus:phase:mg-zn:mg51zn20  
-_paper: _paper:10.1016/j.calphad.2010.07.010:Mg7Zn3, paper:10.1016/j.calphad.2013.07.007:Mg51Zn20, paper:10.1016/s0364-5916(98)00037-6:Mg51Zn20  
+Names (10): _corpus: _corpus:phase:mg-zn:mg51zn20  
+_paper: _paper:10.1016/j.calphad.2010.07.010:Mg7Zn3, paper:10.1016/j.calphad.2013.07.007:Mg51Zn20, paper:10.1016/s0364-5916(98)00037-6:Mg51Zn20, paper:10.2320/jinstmet.jbw201905:Mg51Zn20  
 _tdb: _tdb:MgZn-10Niu.tdb:MG51ZN20, tdb:MgZn-14Yua.tdb:MG51ZN20, tdb:MgZn-20Hay.tdb:MG51ZN20, tdb:MgZn-22Li.tdb:MG51ZN20, tdb:MgZn-98Lia-LB.tdb:MG51ZN20  
 
 
@@ -669,9 +679,9 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0040-6031(97)00458-9](https://doi.org/10.1016/S0040-6031%2897%2900458-9) P. Liang, T. Tarfa, J.A. Robinson, S. Wagner, P. Ochin, M.G. Harmelin, H.J. Seifert, H.L. Lukas, F. Aldinger, Thermochim. Acta, 314, 87-110(1998).  
 _assessment that models this phase; cited as the source of values for this phase_
-- [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
-_assessment that models this phase_
 - [doi:10.2320/jinstmet.JBW201905](https://doi.org/10.2320/jinstmet.JBW201905) N. Hayashi, K. Nakashima, M. Enoki, H. Ohtani, J. Jpn. Inst. Met. Mater., 84, 141-50(2020).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
@@ -683,10 +693,11 @@ _reports values for this phase_
 - Candidate (tdb_comment): Mg51Zn20 · oI158 · Immm — MgZn-92Aga.tdb: 'Prototype Mg51Zn20 (oI158, Immm)'
 - Stoichiometry: Mg 0.7000, Zn 0.3000
 - Stability: stable in 1 of 1 calculated diagram(s): 590–614.2 K, x(Zn) 0.3–0.3
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 1 values (1 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mg7zn3)
 
-Names (2): _corpus: _corpus:phase:mg-zn:mg7zn3  
+Names (3): _corpus: _corpus:phase:mg-zn:mg7zn3  
+_paper: _paper:10.1016/j.jallcom.2010.08.124:Mg7Zn3  
 _tdb: _tdb:MgZn-92Aga.tdb:MG7ZN3  
 
 
@@ -699,10 +710,12 @@ _tdb: _tdb:MgZn-92Aga.tdb:MG7ZN3
 50: CONST MG7ZN3 : MG : ZN : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1515/ijmr-1992-830402](https://doi.org/10.1515/ijmr-1992-830402) R. Agarwal, S.G. Fries, H.L. Lukas, G. Petzow, F. Sommer, T.G. Chart, G. Effenberg, Z. Metallkd., 83, 216-23(1992).  
 _assessment that models this phase_
+- [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
+_reports values for this phase_
 
 ## MGZN (Mg–Zn)
 
@@ -711,10 +724,11 @@ _assessment that models this phase_
 - Candidate (tdb_comment): Re25Zr21 · hR92 · R-3c — MgZn-92Aga.tdb: 'Prototype Re25Zr21 (hR92, R-3c)'
 - Stoichiometry: Mg 0.5000, Zn 0.5000
 - Stability: stable in 1 of 1 calculated diagram(s): 300–620.2 K, x(Zn) 0.5–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mg-zn:mgzn)
 
-Names (2): _corpus: _corpus:phase:mg-zn:mgzn  
+Names (4): _corpus: _corpus:phase:mg-zn:mgzn  
+_paper: _paper:10.1016/j.actamat.2015.02.044:MgZn, paper:10.1016/j.jallcom.2010.08.124:MgZn  
 _tdb: _tdb:MgZn-92Aga.tdb:MGZN  
 
 
@@ -727,10 +741,14 @@ _tdb: _tdb:MgZn-92Aga.tdb:MGZN
 55: CONST MGZN : MG : ZN : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1515/ijmr-1992-830402](https://doi.org/10.1515/ijmr-1992-830402) R. Agarwal, S.G. Fries, H.L. Lukas, G. Petzow, F. Sommer, T.G. Chart, G. Effenberg, Z. Metallkd., 83, 216-23(1992).  
 _assessment that models this phase_
+- [doi:10.1016/j.actamat.2015.02.044](https://doi.org/10.1016/j.actamat.2015.02.044) Joachim Gröbner, Artem Kozlov, Xi-Ya Fang, Suming Zhu, Jian-Feng Nie, Mark A. Gibson et al., Phase equilibria and transformations in ternary Mg–Gd–Zn alloys, Acta Materialia 90, 400-416 (2015).  
+_reports values for this phase_
+- [doi:10.1016/j.jallcom.2010.08.124](https://doi.org/10.1016/j.jallcom.2010.08.124) F.G. Meng, J. Wang, L.B. Liu, Z.P. Jin, Thermodynamic modeling of the Mg–Sn–Zn ternary system, Journal of Alloys and Compounds 508, 570-581 (2010).  
+_reports values for this phase_
 
 ## MGZN2_C14 (Mg–Zn)
 

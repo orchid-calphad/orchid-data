@@ -30,13 +30,13 @@ Table: Uncertainty budget of the literature values of GaSe
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -79.496 | kJ/mol-atom |  | 2.500e-4 | 8.1 (emf, calibrated) |  |  |  | 8.1 |
+| -79.496 | kJ/mol-atom |  | 2.500e-4 | 4.6 (emf, cleaned_below_threshold) |  |  |  | 4.6 |
 | -78.85 | kJ/mol-atom |  | 0.025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -73.22 | kJ/mol-atom |  | 0.0025 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
 | -71.75 | kJ/mol-atom |  | 0.025 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -79.496 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -79.496 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -78.9705 | kJ/mol-atom |  | 2.500e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -79.496 | kJ/mol-atom |  | 2.500e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -79.496 | kJ/mol-atom |  | 2.500e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -78.9705 | kJ/mol-atom |  | 2.500e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -2,11 +2,11 @@
  "dataset": "ORCHID phase registry (binary systems)",
  "registry_version": "0.1.0",
  "description": "Phases without an assigned structure type that have candidates. A decision records structure_type, reviewer identity and basis.",
- "n": 1240,
+ "n": 1236,
  "reasons": {
   "assessment_declared_blocked_by": 199,
-  "assessment_declared_compound_differs_from_model_composition": 36,
-  "assessment_declared_compound_differs_from_site_ratios": 21,
+  "assessment_declared_compound_differs_from_model_composition": 37,
+  "assessment_declared_compound_differs_from_site_ratios": 20,
   "assessment_declared_conflicts_with_dft": 2,
   "assessment_declared_order_disorder_ambiguity": 2,
   "dft_space_group_140_matches_3_structure_types": 1,
@@ -35,8 +35,8 @@
   "lattice_word_FCC_contradicts_B1": 2,
   "lattice_word_HCP_contradicts_D024": 2,
   "models_disagree_on_composition": 69,
-  "mp_oqmd_space_groups_differ": 14,
-  "name_has_descriptive_tokens": 259,
+  "mp_oqmd_space_groups_differ": 15,
+  "name_has_descriptive_tokens": 251,
   "name_suggests_B18_but_dft_space_group_63": 1,
   "name_suggests_B27_but_dft_space_group_63": 1,
   "name_suggests_B2_but_dft_space_group_62": 1,
@@ -48,16 +48,16 @@
   "name_suggests_C54_but_dft_space_group_63": 1,
   "name_suggests_D0_22_but_dft_space_group_225": 1,
   "name_suggests_L1_2_but_dft_space_group_194": 1,
-  "no_bundled_tdb_model": 26,
-  "no_on_hull_entry_in_both": 265,
+  "no_bundled_tdb_model": 3,
+  "no_on_hull_entry_in_both": 269,
   "no_on_hull_entry_in_mp": 37,
   "no_on_hull_entry_in_oqmd": 3,
-  "no_structure_token": 1051,
-  "off_stoichiometric_model": 164,
+  "no_structure_token": 1021,
+  "off_stoichiometric_model": 153,
   "order_disorder_ambiguity": 78,
-  "polymorph_family": 174,
+  "polymorph_family": 180,
   "several_structure_tokens": 1,
-  "sgte_mmc2_row_disagrees_with_dft": 36,
+  "sgte_mmc2_row_disagrees_with_dft": 37,
   "sgte_mmc2_row_disagrees_with_name": 35,
   "sgte_mmc2_row_incomplete": 338,
   "sgte_mmc2_rows_disagree": 113,
@@ -66,14 +66,12 @@
   "site_ratios_contradict_B32": 1,
   "site_ratios_contradict_B8_2": 5,
   "site_ratios_contradict_B_b": 3,
-  "site_ratios_contradict_C11_a": 7,
+  "site_ratios_contradict_C11_a": 8,
   "site_ratios_contradict_C15_b": 2,
   "site_ratios_contradict_C19": 1,
   "site_ratios_contradict_C32": 1,
   "site_ratios_contradict_D1_a": 1,
-  "site_ratios_contradict_D1_g": 4,
-  "site_ratios_contradict_D2_d": 1,
-  "site_ratios_contradict_D5_c": 1,
+  "site_ratios_contradict_D1_g": 3,
   "site_ratios_contradict_D8_3": 1,
   "site_ratios_contradict_D8_5": 1,
   "site_ratios_contradict_D8_8": 1,
@@ -125,8 +123,9 @@
   "stoichiometry_contradicts_L1_0": 2,
   "stoichiometry_contradicts_L1_2": 4,
   "structure_token_is_also_a_formula": 3,
+  "tdb_comment_names_own_prototype_Cu2P7_not_Ni7Zr2 (CuP-11Hin.tdb)": 1,
   "unary_composition": 32,
-  "unrecognised_name_tokens": 82
+  "unrecognised_name_tokens": 79
  },
  "phases": [
   {
@@ -136,7 +135,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -176,7 +177,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -1330,7 +1333,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -1355,7 +1360,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -1789,7 +1796,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -2041,7 +2050,7 @@
      "detail": "Hallstedt 2025 mmc2 row for AG2SM_ALPHA: Ag2Sm-alpha"
     }
    ],
-   "literature_values": 9
+   "literature_values": 8
   },
   {
    "id": "phase:ag-sm:ag2sm-beta",
@@ -2753,7 +2762,7 @@
      "pearson": "oP30",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 13
+     "count": 12
     },
     {
      "source": "sgte_mmc2",
@@ -3107,7 +3116,7 @@
      "detail": "AlB-99Cam.tdb: 'Prototype beta-B (hR105, R-3m)'"
     }
    ],
-   "literature_values": 6
+   "literature_values": 4
   },
   {
    "id": "phase:al-ca:a12-al12mg17",
@@ -3883,7 +3892,7 @@
      "detail": "AlCr-98Sau-LB.tdb: 'Prototype Al4Mn-mu (hP574, P6_3/mmc)'"
     }
    ],
-   "literature_values": 59
+   "literature_values": 61
   },
   {
    "id": "phase:al-cr:al7cr",
@@ -6394,7 +6403,7 @@
      "detail": "AlLi-24Liu.tdb: 'Prototype GaLi2 (oC12, Cmcm)'"
     }
    ],
-   "literature_values": 4
+   "literature_values": 8
   },
   {
    "id": "phase:al-li:bcc-4sl",
@@ -8588,7 +8597,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -8613,7 +8624,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -10207,7 +10220,7 @@
      "detail": "Hallstedt 2025 mmc2 row for ALS: AlS"
     }
    ],
-   "literature_values": 9
+   "literature_values": 10
   },
   {
    "id": "phase:al-s:s-monoclinic",
@@ -10216,7 +10229,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -10569,7 +10584,7 @@
      "detail": "Hallstedt 2025 mmc2 row for ALTE: AlTe"
     }
    ],
-   "literature_values": 6
+   "literature_values": 7
   },
   {
    "id": "phase:al-th:al3th2",
@@ -12523,7 +12538,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -12669,7 +12686,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -13777,7 +13796,7 @@
      "detail": "AuIn-92Ans-LB.tdb: 'Prototype Au7In3 (hP60, P-3)'"
     }
    ],
-   "literature_values": 22
+   "literature_values": 24
   },
   {
    "id": "phase:au-in:auin",
@@ -14046,7 +14065,7 @@
      "detail": "AuSn-88Che.tdb: 'Prototype Au5Sn (hR6, R32)'"
     }
    ],
-   "literature_values": 17
+   "literature_values": 23
   },
   {
    "id": "phase:au-te:aute2-c34",
@@ -14688,7 +14707,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -14980,7 +15001,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15020,7 +15043,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15060,7 +15085,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15100,7 +15127,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15164,7 +15193,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15228,7 +15259,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15268,7 +15301,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15332,7 +15367,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15658,7 +15695,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15698,7 +15737,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15738,7 +15779,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15802,7 +15845,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -15978,7 +16023,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16018,7 +16065,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16058,7 +16107,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16098,7 +16149,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16138,7 +16191,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16205,7 +16260,7 @@
      "detail": "HfB-97Bit-LB.tdb: 'Prototype beta-B (hR105, R-3m)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 7
   },
   {
    "id": "phase:b-ho:b-alpha-rhombo",
@@ -16214,7 +16269,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16254,7 +16311,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16294,7 +16353,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16358,7 +16419,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16442,7 +16505,7 @@
      "detail": "Hallstedt 2025 mmc2 row for LAB9: LaB9"
     }
    ],
-   "literature_values": 0
+   "literature_values": 3
   },
   {
    "id": "phase:b-lu:b-alpha-rhombo",
@@ -16451,7 +16514,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16491,7 +16556,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16531,7 +16598,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -16614,7 +16683,7 @@
      "detail": "MnB-10Sun.tdb: 'Prototype beta-B (hR105, R-3m)'"
     }
    ],
-   "literature_values": 9
+   "literature_values": 7
   },
   {
    "id": "phase:b-mn:mn2b-cb",
@@ -17177,7 +17246,7 @@
      "pearson": "hP3",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 26
+     "count": 25
     },
     {
      "source": "name_token",
@@ -17252,7 +17321,7 @@
      "detail": "MoB-91Pan-LB.tdb: 'Prototype AlB2 (hP3, P6/mmm)'"
     }
    ],
-   "literature_values": 26
+   "literature_values": 25
   },
   {
    "id": "phase:b-mo:mob2-d8i",
@@ -17341,7 +17410,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -17381,7 +17452,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -17433,10 +17506,13 @@
    "tdb_names": [
     "BN_B3"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 0.5,
+    "N": 0.5
+   },
    "review_reasons": [
     "no_structure_token",
-    "off_stoichiometric_model",
+    "polymorph_family:other phases of this system have the same composition",
     "structure_token_is_also_a_formula"
    ],
    "candidates": [
@@ -17500,13 +17576,42 @@
    "tdb_names": [
     "BN_B4"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 0.5,
+    "N": 0.5
+   },
    "review_reasons": [
     "no_structure_token",
-    "off_stoichiometric_model",
+    "polymorph_family:other phases of this system have the same composition",
     "structure_token_is_also_a_formula"
    ],
    "candidates": [
+    {
+     "source": "dft_mp",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 194,
+      "symbol": "P6_3/mmc"
+     },
+     "detail": "on-hull MP BN at x(N)=0.5000",
+     "material_id": "mp-aaaaablw"
+    },
+    {
+     "source": "dft_oqmd",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 194,
+      "symbol": "P63/mmc"
+     },
+     "detail": "on-hull OQMD B1 N1 at x(N)=0.5000",
+     "material_id": "oqmd-2019934"
+    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:b4-zns-wurtzite-hp4",
@@ -17949,7 +18054,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18102,7 +18209,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18528,7 +18637,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18568,7 +18679,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18608,7 +18721,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18660,7 +18775,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -18712,7 +18829,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19089,7 +19208,6 @@
    "stoichiometry": null,
    "review_reasons": [
     "assessment_declared_blocked_by:stoichiometry_contradicts_D1_g",
-    "site_ratios_contradict_D1_g:SiB-95Lim-LB.tdb",
     "stoichiometry_contradicts_D1_g:SiB-01Tok.tdb",
     "stoichiometry_contradicts_D1_g:SiB-03Tok.tdb",
     "stoichiometry_contradicts_D1_g:SiB-09Che.tdb"
@@ -19181,100 +19299,15 @@
    "literature_values": 7
   },
   {
-   "id": "phase:b-si:sib6",
-   "system": "B-SI",
-   "preferred_name": "SIB6",
-   "tdb_names": [
-    "SIB6"
-   ],
-   "stoichiometry": null,
-   "review_reasons": [
-    "assessment_declared_compound_differs_from_site_ratios",
-    "no_structure_token",
-    "off_stoichiometric_model"
-   ],
-   "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 21
-    },
-    {
-     "source": "sgte_mmc2",
-     "structure_type": "st:sib6-op280",
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": {
-      "number": 58,
-      "symbol": "Pnnm"
-     },
-     "detail": "Hallstedt 2025 mmc2 row for SIB6: SiB6"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": {
-      "number": null,
-      "symbol": "Pnnm"
-     },
-     "detail": "SiB-01Tok.tdb: 'Prototype SiB6 (oP280, Pnnm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": {
-      "number": null,
-      "symbol": "Pnnm"
-     },
-     "detail": "SiB-03Tok.tdb: 'Prototype SiB6 (oP280, Pnnm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": {
-      "number": null,
-      "symbol": "Pnnm"
-     },
-     "detail": "SiB-09Che.tdb: 'Prototype SiB6 (oP280, Pnnm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "SiB6",
-     "strukturbericht": null,
-     "pearson": "oP280",
-     "space_group": {
-      "number": null,
-      "symbol": "Pnnm"
-     },
-     "detail": "SiB-95Lim-LB.tdb: 'Prototype SiB6 (oP280, Pnnm)'"
-    }
-   ],
-   "literature_values": 26
-  },
-  {
    "id": "phase:b-sm:b-alpha-rhombo",
    "system": "B-SM",
    "preferred_name": "ALPHA_RHOMBO_B",
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19314,7 +19347,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19354,7 +19389,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19394,7 +19431,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19503,7 +19542,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19543,7 +19584,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19695,7 +19738,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19735,7 +19780,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19775,7 +19822,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19815,7 +19864,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -19855,7 +19906,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19931,7 +19984,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -19971,7 +20026,9 @@
    "tdb_names": [
     "ALPHA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -20011,7 +20068,9 @@
    "tdb_names": [
     "BETA_RHOMBO_B"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "B": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RHOMBO",
     "no_structure_token"
@@ -21273,7 +21332,7 @@
      "pearson": "aP*",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 10
+     "count": 9
     },
     {
      "source": "sgte_mmc2",
@@ -21352,7 +21411,7 @@
      "detail": "BiCs-15Dja.tdb: 'Prototype Rb5As4 (mC20, C2/m)'"
     }
    ],
-   "literature_values": 5
+   "literature_values": 14
   },
   {
    "id": "phase:bi-er:bier",
@@ -22253,7 +22312,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -22355,7 +22416,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BI4TE5: Bi4Te5"
     }
    ],
-   "literature_values": 4
+   "literature_values": 7
   },
   {
    "id": "phase:bi-te:bite",
@@ -22468,7 +22529,7 @@
      "detail": "BiTe-24Zho.tdb: 'Prototype BiSe (hP12, P-3m1)'"
     }
    ],
-   "literature_values": 22
+   "literature_values": 25
   },
   {
    "id": "phase:bi-ti:bi2ti",
@@ -22520,7 +22581,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BI2TI: Bi2Ti"
     }
    ],
-   "literature_values": 4
+   "literature_values": 5
   },
   {
    "id": "phase:bi-ti:bi2ti3",
@@ -22640,7 +22701,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BITI3: BiTi3"
     }
    ],
-   "literature_values": 5
+   "literature_values": 7
   },
   {
    "id": "phase:bi-u:u-tetragonal",
@@ -22944,7 +23005,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -22969,7 +23032,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -23366,7 +23431,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -23410,6 +23477,124 @@
     }
    ],
    "literature_values": 0
+  },
+  {
+   "id": "phase:c-u:uc2-c11a",
+   "system": "C-U",
+   "preferred_name": "UC2_C11A",
+   "tdb_names": [
+    "UC2_C11A"
+   ],
+   "stoichiometry": null,
+   "review_reasons": [
+    "assessment_declared_blocked_by:site_ratios_contradict_C11_a",
+    "site_ratios_contradict_C11_a:UC-01Che.tdb"
+   ],
+   "candidates": [
+    {
+     "source": "name_token",
+     "structure_type": "st:c11-a-cac2-ti6",
+     "prototype": "CaC2",
+     "strukturbericht": "C11_a",
+     "pearson": "tI6",
+     "space_group": {
+      "number": 139,
+      "symbol": "I4/mmm"
+     },
+     "detail": "Strukturbericht/word 'C11A' in the TDB name"
+    },
+    {
+     "source": "sgte_mmc2",
+     "structure_type": "st:c11-a-cac2-ti6",
+     "prototype": "CaC2",
+     "strukturbericht": "C11_a",
+     "pearson": "tI6",
+     "space_group": {
+      "number": 139,
+      "symbol": "I4/mmm"
+     },
+     "detail": "Hallstedt 2025 mmc2 row for UC2_C11A: UC2 (lt)"
+    },
+    {
+     "source": "tdb_comment",
+     "structure_type": null,
+     "prototype": "CaC2",
+     "strukturbericht": null,
+     "pearson": "tI6",
+     "space_group": {
+      "number": null,
+      "symbol": "I4/mmm"
+     },
+     "detail": "UC-01Che.tdb: 'Prototype CaC2 (tI6, I4/mmm)'"
+    },
+    {
+     "source": "tdb_comment",
+     "structure_type": null,
+     "prototype": "CaC2",
+     "strukturbericht": null,
+     "pearson": "tI6",
+     "space_group": {
+      "number": null,
+      "symbol": "I4/mmm"
+     },
+     "detail": "UC-11Gue.tdb: 'Prototype CaC2 (tI6, I4/mmm)'"
+    }
+   ],
+   "literature_values": 7
+  },
+  {
+   "id": "phase:c-v:v4c3",
+   "system": "C-V",
+   "preferred_name": "V4C3",
+   "tdb_names": [
+    "V4C3"
+   ],
+   "stoichiometry": {
+    "C": 0.379,
+    "V": 0.621
+   },
+   "review_reasons": [
+    "assessment_declared_compound_differs_from_model_composition",
+    "no_on_hull_entry_in_both",
+    "no_structure_token"
+   ],
+   "candidates": [
+    {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "Sc2Te3",
+     "strukturbericht": null,
+     "pearson": "hR8",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 4
+    },
+    {
+     "source": "sgte_mmc2",
+     "structure_type": "st:sc2te3-hr8",
+     "prototype": "Sc2Te3",
+     "strukturbericht": null,
+     "pearson": "hR8",
+     "space_group": {
+      "number": 166,
+      "symbol": "R-3m"
+     },
+     "detail": "Hallstedt 2025 mmc2 row for V4C3: V3C2 (zeta-carbide)"
+    },
+    {
+     "source": "tdb_comment",
+     "structure_type": null,
+     "prototype": "Sc2Te3",
+     "strukturbericht": null,
+     "pearson": "hR8",
+     "space_group": {
+      "number": null,
+      "symbol": "R-3m"
+     },
+     "detail": "VC-06Hu.tdb: 'Prototype Sc2Te3 (hR8, R-3m), zeta-carbide'"
+    }
+   ],
+   "literature_values": 4
   },
   {
    "id": "phase:c-y:y15c19-beta",
@@ -23459,70 +23644,6 @@
      "pearson": null,
      "space_group": null,
      "detail": "Hallstedt 2025 mmc2 row for Y2C3_BETA: beta-Y2C3"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
-   "id": "phase:c-y:y2c3-d5c",
-   "system": "C-Y",
-   "preferred_name": "Y2C3_D5C",
-   "tdb_names": [
-    "Y2C3_D5C"
-   ],
-   "stoichiometry": null,
-   "review_reasons": [
-    "assessment_declared_blocked_by:site_ratios_contradict_D5_c",
-    "site_ratios_contradict_D5_c:YC-95Gro-LB.tdb"
-   ],
-   "candidates": [
-    {
-     "source": "name_token",
-     "structure_type": "st:d5-c-pu2c3-ci40",
-     "prototype": "Pu2C3",
-     "strukturbericht": "D5_c",
-     "pearson": "cI40",
-     "space_group": {
-      "number": 220,
-      "symbol": "I-43d"
-     },
-     "detail": "Strukturbericht/word 'D5C' in the TDB name"
-    },
-    {
-     "source": "sgte_mmc2",
-     "structure_type": "st:d5-c-pu2c3-ci40",
-     "prototype": "Pu2C3",
-     "strukturbericht": "D5_c",
-     "pearson": "cI40",
-     "space_group": {
-      "number": 220,
-      "symbol": "I-43d"
-     },
-     "detail": "Hallstedt 2025 mmc2 row for Y2C3_D5C: Y2C3"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "Pu2C3",
-     "strukturbericht": null,
-     "pearson": "cI40",
-     "space_group": {
-      "number": null,
-      "symbol": "I-43d"
-     },
-     "detail": "YC-19Xu.tdb: 'Prototype Pu2C3 (cI40, I-43d)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "Pu2C3",
-     "strukturbericht": null,
-     "pearson": "cI40",
-     "space_group": {
-      "number": null,
-      "symbol": "I-43d"
-     },
-     "detail": "YC-95Gro-LB.tdb: 'Prototype Pu2C3 (cI40, I-43d)'"
     }
    ],
    "literature_values": 0
@@ -23855,7 +23976,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -23895,7 +24018,9 @@
    "tdb_names": [
     "ORTHORHOMBIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:ORTHORHOMBIC",
     "no_structure_token"
@@ -25160,7 +25285,7 @@
      "pearson": "hP38",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 14
+     "count": 12
     },
     {
      "source": "sgte_mmc2",
@@ -25969,7 +26094,7 @@
      "detail": "CeSn-13Li.tdb: 'Prototype Si3W5 (tI32, I4/mcm), low T, D8_m'"
     }
    ],
-   "literature_values": 6
+   "literature_values": 19
   },
   {
    "id": "phase:ce-te:ce2te5",
@@ -26494,126 +26619,6 @@
       "symbol": "R-3m"
      },
      "detail": "Hallstedt 2025 mmc2 row for DELTA_PHASE: Co17Gd2 (low T), see also Ni17Th2 and CaCu5"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
-   "id": "phase:co-gd:kap-liq",
-   "system": "CO-GD",
-   "preferred_name": "KAP_LIQ",
-   "tdb_names": [
-    "KAP_LIQ"
-   ],
-   "stoichiometry": null,
-   "review_reasons": [
-    "name_has_descriptive_tokens:KAP,LIQ",
-    "no_structure_token"
-   ],
-   "candidates": [
-    {
-     "source": "dft_mp",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 147,
-      "symbol": "P-3"
-     },
-     "detail": "on-hull MP Gd4Co3 at x(GD)=0.5714",
-     "material_id": "mp-aaacrtik"
-    },
-    {
-     "source": "dft_mp",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 191,
-      "symbol": "P6/mmm"
-     },
-     "detail": "on-hull MP GdCo5 at x(GD)=0.1667",
-     "material_id": "mp-aaacjhhv"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 63,
-      "symbol": "Cmcm"
-     },
-     "detail": "on-hull OQMD Co1 Gd1 at x(GD)=0.5000",
-     "material_id": "oqmd-1365577"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 139,
-      "symbol": "I4/mmm"
-     },
-     "detail": "on-hull OQMD Co12 Gd1 at x(GD)=0.0769",
-     "material_id": "oqmd-1797301"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 227,
-      "symbol": "Fd-3m"
-     },
-     "detail": "on-hull OQMD Co2 Gd1 at x(GD)=0.3333",
-     "material_id": "oqmd-31242"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 15,
-      "symbol": "C2/c"
-     },
-     "detail": "on-hull OQMD Co2 Gd5 at x(GD)=0.7143",
-     "material_id": "oqmd-1484232"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 225,
-      "symbol": "Fm-3m"
-     },
-     "detail": "on-hull OQMD Co23 Gd6 at x(GD)=0.2069",
-     "material_id": "oqmd-1280577"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 64,
-      "symbol": "Cmca"
-     },
-     "detail": "on-hull OQMD Co3 Gd2 at x(GD)=0.4000",
-     "material_id": "oqmd-1791420"
     }
    ],
    "literature_values": 0
@@ -27377,7 +27382,7 @@
      "detail": "CoNb-22Wei.tdb: 'Prototype Ni7Zr2 (mC36, C2/m)'"
     }
    ],
-   "literature_values": 22
+   "literature_values": 23
   },
   {
    "id": "phase:co-nd:co3nd2-ht",
@@ -28805,7 +28810,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -28953,31 +28960,6 @@
       "symbol": "Pm-3m, L1_2"
      },
      "detail": "CoV-20Wan.tdb: 'Prototype AuCu3 (cP4, Pm-3m, L1_2) and AuCu (tP4, P4/mmm, L1_0)'"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
-   "id": "phase:co-v:fcc-a1-2",
-   "system": "CO-V",
-   "preferred_name": "FCC-A1-2",
-   "tdb_names": [],
-   "stoichiometry": null,
-   "review_reasons": [
-    "unrecognised_name_tokens:2"
-   ],
-   "candidates": [
-    {
-     "source": "name_token",
-     "structure_type": "st:a1-cu-cf4",
-     "prototype": "Cu",
-     "strukturbericht": "A1",
-     "pearson": "cF4",
-     "space_group": {
-      "number": 225,
-      "symbol": "Fm-3m"
-     },
-     "detail": "Strukturbericht/word 'A1' in the TDB name"
     }
    ],
    "literature_values": 0
@@ -29565,7 +29547,7 @@
      "pearson": "oC8",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 16
+     "count": 15
     },
     {
      "source": "name_token",
@@ -29640,7 +29622,7 @@
      "detail": "CoY-96Du.tdb: 'Prototype CrB (oC8, Cmcm)'"
     }
    ],
-   "literature_values": 25
+   "literature_values": 24
   },
   {
    "id": "phase:co-zr:co11zr2",
@@ -29667,7 +29649,7 @@
      "pearson": "oP*",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 40
+     "count": 41
     },
     {
      "source": "sgte_mmc2",
@@ -29682,7 +29664,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CO11ZR2: Co11Zr2"
     }
    ],
-   "literature_values": 50
+   "literature_values": 51
   },
   {
    "id": "phase:co-zr:cozr2",
@@ -29726,7 +29708,7 @@
      "detail": "CoZr-06Bra.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 3
   },
   {
    "id": "phase:cr-fe:high-sigma",
@@ -29945,7 +29927,7 @@
      "detail": "CrGa-99Gro.tdb: 'Prototype Fe3Ga4 (mC42, C2/m), also Cr3Ga4'"
     }
    ],
-   "literature_values": 13
+   "literature_values": 16
   },
   {
    "id": "phase:cr-ga:crga-d810",
@@ -30101,7 +30083,7 @@
      "detail": "CrGa-99Gro.tdb: 'Prototype Hg4Pt (cI10, Im-3m), also CrGa3'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 13
   },
   {
    "id": "phase:cr-ge:cr5ge3",
@@ -30292,7 +30274,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -30317,7 +30301,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -30672,6 +30658,16 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "CrFe",
+     "strukturbericht": null,
+     "pearson": "tP30",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 6
+    },
+    {
      "source": "name_token",
      "structure_type": "st:d8-b-sigma-crfe-tp30",
      "prototype": "sigma-CrFe",
@@ -30708,7 +30704,7 @@
      "detail": "CrRu-05Che-LB.tdb: 'Prototype CrFe (tP30, P4_2/mnm) sigma'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 6
   },
   {
    "id": "phase:cr-ru:cr3ru-a15",
@@ -30732,7 +30728,7 @@
      "pearson": "cP8",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 9
+     "count": 15
     },
     {
      "source": "name_token",
@@ -30783,7 +30779,7 @@
      "detail": "CrRu-15Zhu.tdb: 'Prototype Cr3Si (cP8, Pm-3n)'"
     }
    ],
-   "literature_values": 9
+   "literature_values": 15
   },
   {
    "id": "phase:cr-s:crs",
@@ -30836,7 +30832,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -30919,7 +30917,7 @@
      "detail": "CrU-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 4
+   "literature_values": 2
   },
   {
    "id": "phase:cr-zn:crzn13",
@@ -31371,7 +31369,7 @@
      "detail": "CuDy-09Pal.tdb: 'Prototype CaCu5 (hP6, P6/mmm), HT'"
     }
    ],
-   "literature_values": 8
+   "literature_values": 11
   },
   {
    "id": "phase:cu-dy:cu7dy2",
@@ -31528,31 +31526,6 @@
     }
    ],
    "literature_values": 8
-  },
-  {
-   "id": "phase:cu-fe:fcc-a1-2",
-   "system": "CU-FE",
-   "preferred_name": "FCC-A1-2",
-   "tdb_names": [],
-   "stoichiometry": null,
-   "review_reasons": [
-    "unrecognised_name_tokens:2"
-   ],
-   "candidates": [
-    {
-     "source": "name_token",
-     "structure_type": "st:a1-cu-cf4",
-     "prototype": "Cu",
-     "strukturbericht": "A1",
-     "pearson": "cF4",
-     "space_group": {
-      "number": 225,
-      "symbol": "Fm-3m"
-     },
-     "detail": "Strukturbericht/word 'A1' in the TDB name"
-    }
-   ],
-   "literature_values": 0
   },
   {
    "id": "phase:cu-ga:cu3ga-d019",
@@ -32594,13 +32567,45 @@
    "literature_values": 2
   },
   {
+   "id": "phase:cu-p:cu2p7",
+   "system": "CU-P",
+   "preferred_name": "CU2P7",
+   "tdb_names": [
+    "CU2P7"
+   ],
+   "stoichiometry": {
+    "CU": 0.2222222222222222,
+    "P": 0.7777777777777778
+   },
+   "review_reasons": [
+    "tdb_comment_names_own_prototype_Cu2P7_not_Ni7Zr2 (CuP-11Hin.tdb)"
+   ],
+   "candidates": [
+    {
+     "source": "dft_unique_match",
+     "structure_type": "st:ni7zr2-mc36",
+     "prototype": "Ni7Zr2",
+     "strukturbericht": null,
+     "pearson": "mC36",
+     "space_group": {
+      "number": 12,
+      "symbol": "C2/m"
+     },
+     "detail": "assignment withdrawn: tdb_comment_names_own_prototype_Cu2P7_not_Ni7Zr2 (CuP-11Hin.tdb)"
+    }
+   ],
+   "literature_values": 1
+  },
+  {
    "id": "phase:cu-p:p-red",
    "system": "CU-P",
    "preferred_name": "RED_P",
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -32625,7 +32630,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -32657,16 +32664,6 @@
     "unrecognised_name_tokens:LPS"
    ],
    "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "Cu3Pd",
-     "strukturbericht": null,
-     "pearson": "tP28",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 4
-    },
     {
      "source": "name_token",
      "structure_type": "st:d1-nh3-cp16",
@@ -32704,7 +32701,7 @@
      "detail": "CuPd-08Li.tdb: 'Prototype Cu3Pd (tP28, P4/mmm), 1D-LPS'"
     }
    ],
-   "literature_values": 4
+   "literature_values": 0
   },
   {
    "id": "phase:cu-pd:fcc-2",
@@ -33613,7 +33610,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -33684,16 +33683,6 @@
    ],
    "candidates": [
     {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "BiF3",
-     "strukturbericht": null,
-     "pearson": "cF16",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 14
-    },
-    {
      "source": "name_token",
      "structure_type": "st:a2-w-ci2",
      "prototype": "W",
@@ -33718,7 +33707,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Cu3Sb (beta)"
     }
    ],
-   "literature_values": 14
+   "literature_values": 0
   },
   {
    "id": "phase:cu-sb:cu10sb3",
@@ -36319,7 +36308,7 @@
      "pearson": "?",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 24
+     "count": 23
     },
     {
      "source": "sgte_mmc2",
@@ -36331,7 +36320,7 @@
      "detail": "Hallstedt 2025 mmc2 row for CUTE_BETA: CuTe (high T)"
     }
    ],
-   "literature_values": 24
+   "literature_values": 23
   },
   {
    "id": "phase:cu-th:cu18th5",
@@ -36762,7 +36751,7 @@
      "pearson": "cP2",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 17
+     "count": 16
     },
     {
      "source": "name_token",
@@ -36801,7 +36790,7 @@
      "detail": "CuY-94Fri-LB.tdb: 'Prototype CsCl (cP2, Pm3m)'"
     }
    ],
-   "literature_values": 17
+   "literature_values": 16
   },
   {
    "id": "phase:cu-yb:cu7yb2",
@@ -39001,7 +38990,7 @@
      "pearson": "oP32",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 8
+     "count": 6
     },
     {
      "source": "sgte_mmc2",
@@ -40237,7 +40226,7 @@
      "detail": "FeNi-19Ohn.tdb: 'Prototype AuCu3 (cP4, Pm-3m, L1_2) and AuCu (tP4, P4/mmm, L1_0)'"
     }
    ],
-   "literature_values": 12
+   "literature_values": 10
   },
   {
    "id": "phase:fe-p:fep4",
@@ -40314,7 +40303,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -40339,7 +40330,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -41109,7 +41102,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -41185,7 +41180,9 @@
    "tdb_names": [
     "ORTHORHOMBIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:ORTHORHOMBIC",
     "no_structure_token"
@@ -41279,7 +41276,7 @@
      "pearson": "hP12",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 16
+     "count": 8
     },
     {
      "source": "name_token",
@@ -41330,7 +41327,7 @@
      "detail": "FeSc-16Xu.tdb: 'Prototype MgZn2 (hP12, P6_3/mmc), alpha'"
     }
    ],
-   "literature_values": 13
+   "literature_values": 8
   },
   {
    "id": "phase:fe-sc:fe2sc-c15",
@@ -43086,6 +43083,16 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "(Ga4Nb)",
+     "strukturbericht": null,
+     "pearson": "?",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 2
+    },
+    {
      "source": "sgte_mmc2",
      "structure_type": "st:ga4nb",
      "prototype": "(Ga4Nb)",
@@ -43095,7 +43102,7 @@
      "detail": "Hallstedt 2025 mmc2 row for GA4NB: Ga4Nb"
     }
    ],
-   "literature_values": 0
+   "literature_values": 2
   },
   {
    "id": "phase:ga-o:ga2o3-h11",
@@ -43156,7 +43163,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -43181,7 +43190,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -43434,7 +43445,7 @@
      "detail": "GaPt-09Wan.tdb: 'Prototype Pb3Sr (tP4, P4/mmm), high T'"
     }
    ],
-   "literature_values": 4
+   "literature_values": 6
   },
   {
    "id": "phase:ga-pu:ga11pu3",
@@ -45386,7 +45397,7 @@
      "detail": "Hallstedt 2025 mmc2 row for GE4K: Ge4K"
     }
    ],
-   "literature_values": 0
+   "literature_values": 1
   },
   {
    "id": "phase:ge-k:gek3",
@@ -45850,7 +45861,7 @@
      "detail": "Hallstedt 2025 mmc2 row for GE4NA: Ge4Na"
     }
    ],
-   "literature_values": 0
+   "literature_values": 1
   },
   {
    "id": "phase:ge-na:gena3",
@@ -46291,7 +46302,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -46316,7 +46329,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -46548,7 +46563,7 @@
      "detail": "GeS-22Che.tdb: 'Prototype GeS2 (mP48, P2_1/c) beta'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 13
   },
   {
    "id": "phase:ge-s:s-monoclinic",
@@ -46557,7 +46572,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -47309,10 +47326,13 @@
    "tdb_names": [
     "V3H2"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "H": 0.4,
+    "V": 0.6
+   },
    "review_reasons": [
+    "no_on_hull_entry_in_both",
     "no_structure_token",
-    "off_stoichiometric_model",
     "sgte_mmc2_row_incomplete"
    ],
    "candidates": [
@@ -47456,7 +47476,7 @@
      "detail": "Hallstedt 2025 mmc2 row for HCP_A3: DyH3, ErH3, GdH3, YH3"
     }
    ],
-   "literature_values": 26
+   "literature_values": 20
   },
   {
    "id": "phase:h-zr:zrh2-l2b",
@@ -48636,7 +48656,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -48661,7 +48683,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -48913,7 +48937,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -49606,10 +49632,13 @@
    "tdb_names": [
     "KTE"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "K": 0.5,
+    "TE": 0.5
+   },
    "review_reasons": [
+    "mp_oqmd_space_groups_differ",
     "no_structure_token",
-    "off_stoichiometric_model",
     "sgte_mmc2_rows_disagree"
    ],
    "candidates": [
@@ -49732,7 +49761,7 @@
      "detail": "LaMg-16Zha.tdb: 'Prototype CeMg10 (hP44, P6_3/mmc)'"
     }
    ],
-   "literature_values": 22
+   "literature_values": 24
   },
   {
    "id": "phase:la-ni:la2ni7",
@@ -49812,7 +49841,7 @@
      "detail": "LaNi-23Ye.tdb: 'Prototype Co7Gd2 (hR18, R-3m), high T'"
     }
    ],
-   "literature_values": 16
+   "literature_values": 22
   },
   {
    "id": "phase:la-ni:la2ni7-a",
@@ -50136,7 +50165,7 @@
      "detail": "LaNi-98Du.tdb: 'Prototype La7Ni16 (tI46, I-42m)'"
     }
    ],
-   "literature_values": 34
+   "literature_values": 38
   },
   {
    "id": "phase:la-o:b-r2o3",
@@ -50772,31 +50801,6 @@
    "literature_values": 2
   },
   {
-   "id": "phase:la-pu:fcc-a1-2",
-   "system": "LA-PU",
-   "preferred_name": "FCC-A1-2",
-   "tdb_names": [],
-   "stoichiometry": null,
-   "review_reasons": [
-    "unrecognised_name_tokens:2"
-   ],
-   "candidates": [
-    {
-     "source": "name_token",
-     "structure_type": "st:a1-cu-cf4",
-     "prototype": "Cu",
-     "strukturbericht": "A1",
-     "pearson": "cF4",
-     "space_group": {
-      "number": 225,
-      "symbol": "Fm-3m"
-     },
-     "detail": "Strukturbericht/word 'A1' in the TDB name"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
    "id": "phase:la-pu:pu-alpha",
    "system": "LA-PU",
    "preferred_name": "ALPHA_PU",
@@ -50811,16 +50815,6 @@
     "unary_composition"
    ],
    "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "alpha-Pu",
-     "strukturbericht": null,
-     "pearson": "mP16",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 3
-    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:alpha-pu-mp16",
@@ -50846,7 +50840,7 @@
      "detail": "LaPu-14Liu.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'"
     }
    ],
-   "literature_values": 3
+   "literature_values": 0
   },
   {
    "id": "phase:la-pu:pu-beta",
@@ -50871,7 +50865,7 @@
      "pearson": "mC34",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 5
+     "count": 3
     },
     {
      "source": "sgte_mmc2",
@@ -50898,7 +50892,7 @@
      "detail": "LaPu-14Liu.tdb: 'Prototype beta-Pu (mC34, C2/m)'"
     }
    ],
-   "literature_values": 5
+   "literature_values": 3
   },
   {
    "id": "phase:la-pu:pu-gamma",
@@ -50923,7 +50917,7 @@
      "pearson": "oF8",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 13
+     "count": 5
     },
     {
      "source": "sgte_mmc2",
@@ -50950,7 +50944,7 @@
      "detail": "LaPu-14Liu.tdb: 'Prototype gamma-Pu (oF8, Fddd)'"
     }
    ],
-   "literature_values": 13
+   "literature_values": 5
   },
   {
    "id": "phase:la-sb:la3sb2",
@@ -51699,7 +51693,7 @@
      "detail": "LiSi-17Lia.tdb: 'Prototype Li13Si4 (mP34, Pm)'"
     }
    ],
-   "literature_values": 26
+   "literature_values": 29
   },
   {
    "id": "phase:li-si:li21si5",
@@ -52733,7 +52727,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -52773,7 +52769,9 @@
    "tdb_names": [
     "ORTHORHOMBIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:ORTHORHOMBIC",
     "no_structure_token"
@@ -52929,7 +52927,7 @@
      "detail": "MgZn-92Aga.tdb: 'Prototype Mg51Zn20 (oI158, Immm)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 1
   },
   {
    "id": "phase:mg-zn:mgzn",
@@ -52960,7 +52958,7 @@
      "detail": "MgZn-92Aga.tdb: 'Prototype Re25Zr21 (hR92, R-3c)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 5
   },
   {
    "id": "phase:mn-ni:fcc-4sl",
@@ -53237,7 +53235,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -53262,7 +53262,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -53478,7 +53480,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -53542,7 +53546,9 @@
    "tdb_names": [
     "ORTHORHOMBIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:ORTHORHOMBIC",
     "no_structure_token"
@@ -53794,7 +53800,7 @@
      "detail": "MnSi-95Che.tdb: 'Prototype R-(Co,Cr,Mo) (hR53, R-3) or possibly Fe7W6 (hR13, R-3m)'"
     }
    ],
-   "literature_values": 7
+   "literature_values": 9
   },
   {
    "id": "phase:mn-si:mn9si2",
@@ -53894,7 +53900,7 @@
      "detail": "MnSi-95Che.tdb: 'Prototype Mn9Si2 (oI186, Immm), nu phase'"
     }
    ],
-   "literature_values": 9
+   "literature_values": 12
   },
   {
    "id": "phase:mn-sm:mn23sm6-d8a",
@@ -54761,61 +54767,6 @@
    "literature_values": 0
   },
   {
-   "id": "phase:mo-o:l-oxide",
-   "system": "MO-O",
-   "preferred_name": "OXIDE_L",
-   "tdb_names": [
-    "OXIDE_L"
-   ],
-   "stoichiometry": null,
-   "review_reasons": [
-    "name_has_descriptive_tokens:L",
-    "no_structure_token"
-   ],
-   "candidates": [
-    {
-     "source": "dft_mp",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 13,
-      "symbol": "P2/c"
-     },
-     "detail": "on-hull MP Mo8O23 at x(O)=0.7419",
-     "material_id": "mp-aaabfwru"
-    },
-    {
-     "source": "dft_mp",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 15,
-      "symbol": "C2/c"
-     },
-     "detail": "on-hull MP Mo9O26 at x(O)=0.7429",
-     "material_id": "mp-aaabofcs"
-    },
-    {
-     "source": "dft_oqmd",
-     "structure_type": null,
-     "prototype": null,
-     "strukturbericht": null,
-     "pearson": null,
-     "space_group": {
-      "number": 13,
-      "symbol": "P2/c"
-     },
-     "detail": "on-hull OQMD Mo9 O26 at x(O)=0.7429",
-     "material_id": "oqmd-44925"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
    "id": "phase:mo-o:mo9o26",
    "system": "MO-O",
    "preferred_name": "MO9O26",
@@ -55052,7 +55003,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -55077,7 +55030,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -55336,7 +55291,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -55662,7 +55619,7 @@
      "detail": "MoU-18Cor.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 3
+   "literature_values": 2
   },
   {
    "id": "phase:n-si:si3n4",
@@ -55991,7 +55948,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -56474,7 +56433,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -56499,7 +56460,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -56584,7 +56547,7 @@
      "detail": "NbSi-99Lia.tdb: 'Prototype W5Si3 (tI32, I4/mcm), beta-Nb5Si3'"
     }
    ],
-   "literature_values": 19
+   "literature_values": 23
   },
   {
    "id": "phase:nb-u:u-tetragonal",
@@ -57088,7 +57051,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -57785,7 +57750,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -57810,7 +57777,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -58145,16 +58114,6 @@
      "material_id": "oqmd-13816"
     },
     {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "BiF3",
-     "strukturbericht": null,
-     "pearson": "cF16",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 52
-    },
-    {
      "source": "name_token",
      "structure_type": "st:a2-w-ci2",
      "prototype": "W",
@@ -58179,7 +58138,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)"
     }
    ],
-   "literature_values": 52
+   "literature_values": 0
   },
   {
    "id": "phase:ni-sb:ni5sb2",
@@ -58203,7 +58162,7 @@
      "pearson": "mC28",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 18
+     "count": 16
     },
     {
      "source": "sgte_mmc2",
@@ -58266,7 +58225,7 @@
      "detail": "NiSb-14Kro.tdb: 'Prototype Ni5Sb2 (mC28, C2)'"
     }
    ],
-   "literature_values": 18
+   "literature_values": 16
   },
   {
    "id": "phase:ni-sc:nisc-b2",
@@ -59325,7 +59284,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Ni3Sb (high T), Ni3Sn (high T)"
     }
    ],
-   "literature_values": 12
+   "literature_values": 0
   },
   {
    "id": "phase:ni-sn:ni3sn2",
@@ -59629,7 +59588,7 @@
      "pearson": "oP20",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 4
+     "count": 3
     }
    ],
    "literature_values": 10
@@ -59808,7 +59767,7 @@
      "detail": "NiTa-94Ans.tdb: 'Prototype Pt8Ti (tI18, I4/mmm)'"
     }
    ],
-   "literature_values": 3
+   "literature_values": 4
   },
   {
    "id": "phase:ni-ta:nita-d85",
@@ -60287,7 +60246,7 @@
      "detail": "NiTh-09Wan.tdb: 'Prototype Ce2Ni7 (hP36, P6_3/mmc)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 7
   },
   {
    "id": "phase:ni-th:ni7th2-beta",
@@ -60553,7 +60512,7 @@
      "pearson": "cF96",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 12
+     "count": 10
     },
     {
      "source": "sgte_mmc2",
@@ -60724,7 +60683,7 @@
      "detail": "NiTi-99Tan.tdb: 'Prototype NiTi2 (cF96, Fd-3m)'"
     }
    ],
-   "literature_values": 20
+   "literature_values": 22
   },
   {
    "id": "phase:ni-u:ni3u",
@@ -61323,94 +61282,6 @@
      "pearson": null,
      "space_group": null,
      "detail": "Hallstedt 2025 mmc2 row for NI4Y: Ni4Y"
-    }
-   ],
-   "literature_values": 0
-  },
-  {
-   "id": "phase:ni-y:ni5y-d2d",
-   "system": "NI-Y",
-   "preferred_name": "NI5Y_D2D",
-   "tdb_names": [
-    "NI5Y_D2D"
-   ],
-   "stoichiometry": null,
-   "review_reasons": [
-    "assessment_declared_blocked_by:site_ratios_contradict_D2_d",
-    "site_ratios_contradict_D2_d:NiY-21Wan.tdb"
-   ],
-   "candidates": [
-    {
-     "source": "name_token",
-     "structure_type": "st:d2-d-cacu5-hp6",
-     "prototype": "CaCu5",
-     "strukturbericht": "D2_d",
-     "pearson": "hP6",
-     "space_group": {
-      "number": 191,
-      "symbol": "P6/mmm"
-     },
-     "detail": "Strukturbericht/word 'D2D' in the TDB name"
-    },
-    {
-     "source": "sgte_mmc2",
-     "structure_type": "st:d2-d-cacu5-hp6",
-     "prototype": "CaCu5",
-     "strukturbericht": "D2_d",
-     "pearson": "hP6",
-     "space_group": {
-      "number": 191,
-      "symbol": "P6/mmm"
-     },
-     "detail": "Hallstedt 2025 mmc2 row for NI5Y_D2D: Ni5Y"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "CaCu5",
-     "strukturbericht": null,
-     "pearson": "hP6",
-     "space_group": {
-      "number": null,
-      "symbol": "P6/mmm"
-     },
-     "detail": "NiY-15Hua.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "CaCu5",
-     "strukturbericht": null,
-     "pearson": "hP6",
-     "space_group": {
-      "number": null,
-      "symbol": "P6/mmm"
-     },
-     "detail": "NiY-21Wan.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "CaCu5",
-     "strukturbericht": null,
-     "pearson": "hP6",
-     "space_group": {
-      "number": null,
-      "symbol": "P6/mmm"
-     },
-     "detail": "NiY-96Du-LB.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'"
-    },
-    {
-     "source": "tdb_comment",
-     "structure_type": null,
-     "prototype": "CaCu5",
-     "strukturbericht": null,
-     "pearson": "hP6",
-     "space_group": {
-      "number": null,
-      "symbol": "P6/mmm"
-     },
-     "detail": "NiY-96Du-orig.tdb: 'Prototype CaCu5 (hP6, P6/mmm)'"
     }
    ],
    "literature_values": 0
@@ -62433,16 +62304,6 @@
    ],
    "candidates": [
     {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "alpha-Pu",
-     "strukturbericht": null,
-     "pearson": "mP16",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 1
-    },
-    {
      "source": "sgte_mmc2",
      "structure_type": "st:alpha-pu-mp16",
      "prototype": "alpha-Pu",
@@ -62491,7 +62352,7 @@
      "detail": "PuO-23Fou.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'"
     }
    ],
-   "literature_values": 1
+   "literature_values": 0
   },
   {
    "id": "phase:o-pu:pu-beta",
@@ -62508,16 +62369,6 @@
     "unary_composition"
    ],
    "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "beta-Pu",
-     "strukturbericht": null,
-     "pearson": "mC34",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 2
-    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:beta-pu-mc34",
@@ -62567,7 +62418,7 @@
      "detail": "PuO-23Fou.tdb: 'Prototype beta-Pu (mC34, C2/m)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 0
   },
   {
    "id": "phase:o-pu:pu-gamma",
@@ -62584,16 +62435,6 @@
     "unary_composition"
    ],
    "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "gamma-Pu",
-     "strukturbericht": null,
-     "pearson": "oF8",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 2
-    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:gamma-pu-of8",
@@ -62643,7 +62484,7 @@
      "detail": "PuO-23Fou.tdb: 'Prototype gamma-Pu (oF8, Fddd)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 0
   },
   {
    "id": "phase:o-pu:puo152-d53",
@@ -63457,7 +63298,9 @@
    "tdb_names": [
     "TETRAGONAL_U"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:TETRAGONAL",
     "no_structure_token"
@@ -63557,12 +63400,28 @@
    "tdb_names": [
     "U3O8"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "O": 0.7272727272727273,
+    "U": 0.2727272727272727
+   },
    "review_reasons": [
     "no_structure_token",
-    "off_stoichiometric_model"
+    "polymorph_family:other phases of this system have the same composition"
    ],
    "candidates": [
+    {
+     "source": "dft_mp",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 189,
+      "symbol": "P-62m"
+     },
+     "detail": "on-hull MP U3O8 at x(U)=0.2727",
+     "material_id": "mp-aaaaaalw"
+    },
     {
      "source": "tdb_comment",
      "structure_type": null,
@@ -64646,7 +64505,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -64671,7 +64532,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -64696,7 +64559,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -64721,7 +64586,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -64746,7 +64613,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -64771,7 +64640,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -64796,7 +64667,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -64821,7 +64694,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -64942,7 +64817,9 @@
    "tdb_names": [
     "RED_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:RED",
     "no_structure_token"
@@ -64967,7 +64844,9 @@
    "tdb_names": [
     "WHITE_P"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "P": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:WHITE",
     "no_structure_token"
@@ -65111,7 +64990,7 @@
      "detail": "ZnP-16Liu.tdb: 'prototype Zn3P2 (tP40, P4_2/nmc, D5_9), low T'"
     }
    ],
-   "literature_values": 21
+   "literature_values": 30
   },
   {
    "id": "phase:p-zn:zn3p2-ht",
@@ -65353,7 +65232,7 @@
      "detail": "ZnP-16Liu.tdb: 'prototype ZnAs2 (mP24, P12_1/c1), low T'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 20
   },
   {
    "id": "phase:p-zn:znp2-ht",
@@ -65873,7 +65752,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -66212,7 +66093,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -66370,7 +66253,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD2SC: Pd2Sc"
     }
    ],
-   "literature_values": 0
+   "literature_values": 3
   },
   {
    "id": "phase:pd-sc:pdsc4",
@@ -67535,7 +67418,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD2Y: Pd2Y"
     }
    ],
-   "literature_values": 4
+   "literature_values": 7
   },
   {
    "id": "phase:pd-y:pd3y2-ht",
@@ -67630,7 +67513,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD7Y: Pd7Y"
     }
    ],
-   "literature_values": 2
+   "literature_values": 5
   },
   {
    "id": "phase:pd-yb:pd21yb10-ht",
@@ -67721,7 +67604,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD2YB: Pd2Yb"
     }
    ],
-   "literature_values": 9
+   "literature_values": 16
   },
   {
    "id": "phase:pd-yb:pd2yb5-ht",
@@ -67861,7 +67744,7 @@
      "detail": "Hallstedt 2025 mmc2 row for PD7YB: Pd7Yb"
     }
    ],
-   "literature_values": 5
+   "literature_values": 12
   },
   {
    "id": "phase:pd-zn:pdzn10",
@@ -68088,6 +67971,16 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "Si2Th",
+     "strukturbericht": null,
+     "pearson": "tI12",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 3
+    },
+    {
      "source": "name_token",
      "structure_type": "st:c-c-si2th-ti12",
      "prototype": "Si2Th",
@@ -68124,7 +68017,7 @@
      "detail": "PrSi-20Xu.tdb: 'Prototype Si2Th (tI12, I4_1/amd)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 3
   },
   {
    "id": "phase:pr-zn:przn2",
@@ -69181,16 +69074,6 @@
    ],
    "candidates": [
     {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "alpha-Pu",
-     "strukturbericht": null,
-     "pearson": "mP16",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 2
-    },
-    {
      "source": "sgte_mmc2",
      "structure_type": "st:alpha-pu-mp16",
      "prototype": "alpha-Pu",
@@ -69215,7 +69098,7 @@
      "detail": "PuZn-14Liu.tdb: 'Prototype alpha-Pu (mP16, P2_1/m)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 0
   },
   {
    "id": "phase:pu-zn:pu-beta",
@@ -69232,16 +69115,6 @@
     "unary_composition"
    ],
    "candidates": [
-    {
-     "source": "literature_printed",
-     "structure_type": null,
-     "prototype": "beta-Pu",
-     "strukturbericht": null,
-     "pearson": "mC34",
-     "space_group": null,
-     "detail": "printed with a label mapped to this phase",
-     "count": 4
-    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:beta-pu-mc34",
@@ -69267,7 +69140,7 @@
      "detail": "PuZn-14Liu.tdb: 'Prototype beta-Pu (mC34, C2/m)'"
     }
    ],
-   "literature_values": 4
+   "literature_values": 0
   },
   {
    "id": "phase:pu-zn:pu-gamma",
@@ -69292,7 +69165,7 @@
      "pearson": "oF8",
      "space_group": null,
      "detail": "printed with a label mapped to this phase",
-     "count": 5
+     "count": 3
     },
     {
      "source": "sgte_mmc2",
@@ -69319,7 +69192,7 @@
      "detail": "PuZn-14Liu.tdb: 'Prototype gamma-Pu (oF8, Fddd)'"
     }
    ],
-   "literature_values": 5
+   "literature_values": 3
   },
   {
    "id": "phase:pu-zn:puzn9-ht",
@@ -69675,7 +69548,7 @@
      "detail": "ReSi-10Yan.tdb: 'Prototype Re4Si7 (mC44, Cm)'"
     }
    ],
-   "literature_values": 8
+   "literature_values": 13
   },
   {
    "id": "phase:re-ta:re3ta2-d8b",
@@ -70549,7 +70422,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -70667,7 +70542,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -70707,7 +70584,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -70747,7 +70626,9 @@
    "tdb_names": [
     "MONOCLINIC_S"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "S": 1.0
+   },
    "review_reasons": [
     "name_has_descriptive_tokens:MONOCLINIC",
     "no_structure_token"
@@ -74795,7 +74676,7 @@
      "detail": "UV-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 7
+   "literature_values": 5
   },
   {
    "id": "phase:u-w:u-tetragonal",
@@ -74847,7 +74728,7 @@
      "detail": "UW-11Ber.tdb: 'Prototype beta-U (tP30, P4_2/mnm, SB: A_b)'"
     }
    ],
-   "literature_values": 2
+   "literature_values": 1
   },
   {
    "id": "phase:u-zr:u-tetragonal",
@@ -74992,10 +74873,13 @@
    "tdb_names": [
     "U3ZR7"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "U": 0.3,
+    "ZR": 0.7
+   },
    "review_reasons": [
-    "no_structure_token",
-    "off_stoichiometric_model"
+    "no_on_hull_entry_in_both",
+    "no_structure_token"
    ],
    "candidates": [
     {
@@ -75020,10 +74904,13 @@
    "tdb_names": [
     "VZN16"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "V": 0.058823529411764705,
+    "ZN": 0.9411764705882353
+   },
    "review_reasons": [
-    "no_structure_token",
-    "off_stoichiometric_model"
+    "no_on_hull_entry_in_both",
+    "no_structure_token"
    ],
    "candidates": [
     {
@@ -75039,18 +74926,126 @@
    "literature_values": 0
   },
   {
+   "id": "phase:y-zn:y2zn17",
+   "system": "Y-ZN",
+   "preferred_name": "Y2ZN17",
+   "tdb_names": [
+    "Y2ZN17"
+   ],
+   "stoichiometry": {
+    "Y": 0.10526315789473684,
+    "ZN": 0.8947368421052632
+   },
+   "review_reasons": [
+    "assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_dft",
+    "no_structure_token",
+    "sgte_mmc2_row_disagrees_with_dft"
+   ],
+   "candidates": [
+    {
+     "source": "dft_mp",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 166,
+      "symbol": "R-3m"
+     },
+     "detail": "on-hull MP Y2Zn17 at x(ZN)=0.8947",
+     "material_id": "mp-aaaabacl"
+    },
+    {
+     "source": "dft_oqmd",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 166,
+      "symbol": "R-3m"
+     },
+     "detail": "on-hull OQMD Y2 Zn17 at x(ZN)=0.8947",
+     "material_id": "oqmd-17368"
+    },
+    {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "Ni17Th2",
+     "strukturbericht": null,
+     "pearson": "hP38",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 12
+    },
+    {
+     "source": "sgte_mmc2",
+     "structure_type": "st:ni17th2-hp38",
+     "prototype": "Ni17Th2",
+     "strukturbericht": null,
+     "pearson": "hP38",
+     "space_group": {
+      "number": 194,
+      "symbol": "P6_3/mmc"
+     },
+     "detail": "Hallstedt 2025 mmc2 row for Y2ZN17: Y2Zn17"
+    },
+    {
+     "source": "tdb_comment",
+     "structure_type": null,
+     "prototype": "Ni17Th2",
+     "strukturbericht": null,
+     "pearson": "hP38",
+     "space_group": {
+      "number": null,
+      "symbol": "P6_3/mmc"
+     },
+     "detail": "YZn-06Sha.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc)'"
+    },
+    {
+     "source": "tdb_comment",
+     "structure_type": null,
+     "prototype": "Ni17Th2",
+     "strukturbericht": null,
+     "pearson": "hP38",
+     "space_group": {
+      "number": null,
+      "symbol": "P6_3/mmc"
+     },
+     "detail": "YZn-08Liu.tdb: 'Prototype Ni17Th2 (hP38, P6_3/mmc)'"
+    }
+   ],
+   "literature_values": 25
+  },
+  {
    "id": "phase:y-zn:yzn2-ht",
    "system": "Y-ZN",
    "preferred_name": "YZN2_HT",
    "tdb_names": [
     "YZN2_HT"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "Y": 0.3333333333333333,
+    "ZN": 0.6666666666666666
+   },
    "review_reasons": [
     "no_structure_token",
-    "off_stoichiometric_model"
+    "polymorph_family:other phases of this system have the same composition"
    ],
    "candidates": [
+    {
+     "source": "dft_oqmd",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 74,
+      "symbol": "Imma"
+     },
+     "detail": "on-hull OQMD Y1 Zn2 at x(ZN)=0.6667",
+     "material_id": "oqmd-1370325"
+    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:yzn2-ht",
@@ -75070,12 +75065,28 @@
    "tdb_names": [
     "YZN2_LT"
    ],
-   "stoichiometry": null,
+   "stoichiometry": {
+    "Y": 0.3333333333333333,
+    "ZN": 0.6666666666666666
+   },
    "review_reasons": [
     "no_structure_token",
-    "off_stoichiometric_model"
+    "polymorph_family:other phases of this system have the same composition"
    ],
    "candidates": [
+    {
+     "source": "dft_oqmd",
+     "structure_type": null,
+     "prototype": null,
+     "strukturbericht": null,
+     "pearson": null,
+     "space_group": {
+      "number": 74,
+      "symbol": "Imma"
+     },
+     "detail": "on-hull OQMD Y1 Zn2 at x(ZN)=0.6667",
+     "material_id": "oqmd-1370325"
+    },
     {
      "source": "sgte_mmc2",
      "structure_type": "st:yzn2-lt",

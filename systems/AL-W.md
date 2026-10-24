@@ -1,10 +1,10 @@
 # Al–W system
 
-> Al–W system: 26 accepted literature values (invariant reaction 26) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–W system: 34 accepted literature values (invariant reaction 26, formation 8) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-W.html · Markdown: https://data.orchid-project.org/systems/AL-W.md
 
-26 accepted literature values from 2 paper(s) (experimental 5, model 10, unspecified 11); 2 calculated phase diagram(s).
+34 accepted literature values from 2 paper(s) (experimental 5, model 10, DFT 8, unspecified 11); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-W.json) · [CSV](https://data.orchid-project.org/systems/AL-W.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-W) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-W/AlW-17Wan.json) · [phases (10)](https://data.orchid-project.org/phases/pages/AL-W.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-W.html) · [Markdown](https://data.orchid-project.org/systems/AL-W.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 5 |
 | model | 10 |
+| DFT | 8 |
 | unspecified | 11 |
 
 Table: Accepted values by property group
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 | Property group | Values |
 |---|---:|
 | invariant reaction | 26 |
+| formation | 8 |
 
 ## Calculated phase diagrams
 
@@ -112,6 +114,23 @@ Table: Invariant reactions reported in the literature for the Al–W system (26)
 | 933.6 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | model | [2] Wang 2017; _cites ref. 17_ | Table 10, p. 52, row 14 |  |
 | 933.5 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | model | [2] Wang 2017 | Table 10, p. 52, row 13 |  |
 | 933 | Liq + Al12W -> (Al) | Al12W: W 0.0769231 | experimental | [2] Wang 2017; _cites ref. 63_ | Table 10, p. 52, row 15 |  |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Al–W system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Al12W |  | -7.57 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 13 |  |
+| Al12W |  | -7.53 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 11 |  |
+| Al12W |  | -7.24 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 12 |  |
+| Al2W |  | -3.09 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 18 |  |
+| Al4W |  | -14.86 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 17 |  |
+| Al5W |  | -15.82 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 22_ | Table 1, p. 36, row 16 |  |
+| Al5W |  | -15.73 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 21_ | Table 1, p. 36, row 14 |  |
+| Al5W |  | -15.44 kJ/mol-atom | 0 | DFT |  |  | [2] Wang 2017; _cites ref. 23_ | Table 1, p. 36, row 15 |  |
 
 ## Sources
 

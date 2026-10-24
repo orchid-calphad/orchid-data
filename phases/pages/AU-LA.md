@@ -12,8 +12,8 @@ Table: Phases of the Au–La system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [AU2LA](#phase-au-la-au2la); _phase:au-la:au2la_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1489.65 K, x(La) 0.33333–0.33333 | 6 | 1 |
-| [AU51LA14](#phase-au-la-au51la14); _phase:au-la:au51la14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1476.72 K, x(La) 0.21538–0.21538 | 5 | 1 |
+| [AU2LA](#phase-au-la-au2la); _phase:au-la:au2la_ | Hg2K · oI12 · Imma (74) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1489.65 K, x(La) 0.33333–0.33333 | 12 | 1 |
+| [AU51LA14](#phase-au-la-au51la14); _phase:au-la:au51la14_ | Ag51Gd14 · hP68 · P6/m (175) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1476.72 K, x(La) 0.21538–0.21538 | 8 | 1 |
 | [AU6LA](#phase-au-la-au6la); _phase:au-la:au6la_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1174.59 K, x(La) 0.14286–0.14286 | 2 | 1 |
 | [AULA_B27](#phase-au-la-aula-b27); _phase:au-la:aula-b27_ | FeB · B27 · oP8 · Pnma (62) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–932.92 K, x(La) 0.5–0.5 | 2 | 1 |
 | [AULA_B33](#phase-au-la-aula-b33); _phase:au-la:aula-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 932.92–1595.94 K, x(La) 0.5–0.5 | 8 | 1 |
@@ -32,7 +32,7 @@ Table: Phases of the Au–La system (11)
 - Caveat: not certain from the name or DFT alone (dft_space_group_74_matches_2_structure_types, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.6667, La 0.3333
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1489.65 K, x(La) 0.33333–0.33333
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-la:au2la)
 
 Names (3): _corpus: _corpus:phase:au-la:au2la  
@@ -49,10 +49,12 @@ _tdb: _tdb:AuLa-11Don.tdb:AU2LA
 57: CONST AU2LA : AU : LA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2011.01.072](https://doi.org/10.1016/j.jallcom.2011.01.072) H.Q. Dong, X.M. Tao, H.S. Liu, T. Laurila, M. Paulastro-Kröckel, Thermodynamic assessment of Au–La and Au–Er binary systems, Journal of Alloys and Compounds 509, 4439-4444 (2011).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(71)90125-1](https://doi.org/10.1016/0022-5088%2871%2990125-1) O.D McMasters, K.A Gschneidner, G Bruzzone, A Palenzona, Stoichiometry, crystal structures and some melting points of the lanthanide-gold alloys, Journal of the Less Common Metals 25, 135-160 (1971).  
+_cited as the source of values for this phase_
 
 ## AU51LA14 (Au–La)
 
@@ -62,7 +64,7 @@ _assessment that models this phase; reports values for this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_oqmd, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Au 0.7846, La 0.2154
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1476.72 K, x(La) 0.21538–0.21538
-- Literature: 5 values (5 accepted) from 1 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-la:au51la14)
 
 Names (3): _corpus: _corpus:phase:au-la:au51la14  
@@ -79,10 +81,12 @@ _tdb: _tdb:AuLa-11Don.tdb:AU51LA14
 52: CONST AU51LA14 : AU : LA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.jallcom.2011.01.072](https://doi.org/10.1016/j.jallcom.2011.01.072) H.Q. Dong, X.M. Tao, H.S. Liu, T. Laurila, M. Paulastro-Kröckel, Thermodynamic assessment of Au–La and Au–Er binary systems, Journal of Alloys and Compounds 509, 4439-4444 (2011).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(71)90125-1](https://doi.org/10.1016/0022-5088%2871%2990125-1) O.D McMasters, K.A Gschneidner, G Bruzzone, A Palenzona, Stoichiometry, crystal structures and some melting points of the lanthanide-gold alloys, Journal of the Less Common Metals 25, 135-160 (1971).  
+_cited as the source of values for this phase_
 
 ## AU6LA (Au–La)
 

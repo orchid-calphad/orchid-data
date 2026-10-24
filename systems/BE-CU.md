@@ -1,10 +1,10 @@
 # Be–Cu system
 
-> Be–Cu system: 37 accepted literature values (invariant reaction 27, crystal structure 7, phase transition 2, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Be–Cu system: 36 accepted literature values (invariant reaction 27, crystal structure 6, phase transition 2, formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BE-CU.html · Markdown: https://data.orchid-project.org/systems/BE-CU.md
 
-37 accepted literature values from 1 paper(s) (experimental 19, model 11, unspecified 7); 1 calculated phase diagram(s).
+36 accepted literature values from 1 paper(s) (experimental 19, model 11, unspecified 6); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BE-CU.json) · [CSV](https://data.orchid-project.org/systems/BE-CU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BE-CU) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BE-CU/BeCu-18Liu.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BE-CU.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BE-CU.html) · [Markdown](https://data.orchid-project.org/systems/BE-CU.md)
 
@@ -14,7 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 19 |
 | model | 11 |
-| unspecified | 7 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 27 |
 | phase transition | 2 |
 | formation | 1 |
-| crystal structure | 7 |
+| crystal structure | 6 |
 
 ## Calculated phase diagrams
 
@@ -107,14 +107,13 @@ Table: Phase transition, Be–Cu system
 | Phase transition | 1082 K | 1082 |  | model | [1] Liu 2018; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 6 | “However, the SGTE unary database \[7\] provides a melting point for the metastable pure bcc_A2 Cu at 1082 K, which is lower than the experimental three-phase equilibrium (Cu) ? liquid ? b.” |
 | Phase transition | 1133 K | 1133 | other | model | [1] Liu 2018; _cites Chakrabarti 1987_ [doi](https://doi.org/10.1007/bf02874919) | p. 6 | “Chakrabarti and Tanner \[28\] proposed a minimum at 1133 K in the liquidus line between these two peritectic equilibria.” |
 
-### Crystal structure (7)
+### Crystal structure (6)
 
 Table: Crystal structure, Be–Cu system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | Lattice a | 2.81 Å |  | β | unspecified | [1] Liu 2018 | Table 2, p. 3, row 2 |  |
-| Lattice a | 3.615 Å | 298.15 | (Cu); _alloy: Cu 1_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 1 |  |
 | Lattice a | 2.286 Å | 298.15 | (αBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 4 |  |
 | Lattice a | 2.552 Å | 298.15 | (βBe); _alloy: Cu 0_ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 6 |  |
 | Lattice a | 2.702 Å | 298.15 | γ | unspecified | [1] Liu 2018 | Table 2, p. 3, row 3 |  |

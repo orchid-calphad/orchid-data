@@ -44,27 +44,27 @@ Table: Uncertainty budget of the literature values of Ni3Sn2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -38.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.52 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.519 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38.519 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.79 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.38 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.28 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.28 | kJ/mol (basis unstated) |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -32.871 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.714 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.322 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.32 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.868 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.854 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -24 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.871 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -30.322 | kJ/mol (basis unstated) |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -38.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -38.644 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -38.52 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -38.519 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -38.519 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.79 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.38 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.28 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -31.28 | kJ/mol (basis unstated) |  | 0.005 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -32.871 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -32.714 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -31.79 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -30.322 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -30.32 | kJ/mol (basis unstated) |  | 0.005 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -28.868 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -28.854 | kJ/mol (basis unstated) |  | 5.000e-4 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -24 | kJ/mol (basis unstated) |  | 0.5 | 17 (model_calculated, calibrated) |  |  |  | 17 |
+| -32.871 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
+| -30.322 | kJ/mol (basis unstated) |  | 5.000e-4 | 17.5 (unknown, calibrated) |  |  |  | 17.5 |
 
 ## Sources
 

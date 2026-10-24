@@ -1,10 +1,10 @@
 # Sc–Th system
 
-> Sc–Th system: 11 accepted literature values (phase transition 8, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Sc–Th system: 7 accepted literature values (phase transition 4, invariant reaction 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/SC-TH.html · Markdown: https://data.orchid-project.org/systems/SC-TH.md
 
-11 accepted literature values from 1 paper(s) (experimental 6, model 5); 1 calculated phase diagram(s).
+7 accepted literature values from 1 paper(s) (experimental 4, model 3); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/SC-TH.json) · [CSV](https://data.orchid-project.org/systems/SC-TH.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#SC-TH) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#SC-TH/ScTh-09Liu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/SC-TH.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/SC-TH.html) · [Markdown](https://data.orchid-project.org/systems/SC-TH.md)
 
@@ -12,15 +12,15 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
-| model | 5 |
+| experimental | 4 |
+| model | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 3 |
-| phase transition | 8 |
+| phase transition | 4 |
 
 ## Calculated phase diagrams
 
@@ -52,16 +52,12 @@ Table: Invariant reactions reported in the literature for the Sc–Th system (3)
 
 ## Other properties
 
-### Phase transition (8)
+### Phase transition (4)
 
 Table: Phase transition, Sc–Th system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 3 |  |
-| Phase transition | 1610.15 K | 1610.15 | polymorphic: βSc -> αSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 4 |  |
-| Phase transition | 1633.15 K | 1633.15 | polymorphic: βTh -> αTh; _βTh: Th 1_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 10 |  |
-| Phase transition | 1633.15 K | 1633.15 | polymorphic: βTh -> αTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 11 |  |
 | Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | model | [1] Liu 2009 | Table 7, p. 6, row 2 |  |
 | Phase transition | 1814.15 K | 1814.15 | congruent melting: L -> βSc; _βSc: Th 0_ | experimental | [1] Liu 2009; _cites Okamoto 1991_ | Table 7, p. 6, row 1 |  |
 | Phase transition | 2028.15 K | 2028.15 | congruent melting: L -> βTh; _βTh: Th 1_ | model | [1] Liu 2009 | Table 7, p. 6, row 9 |  |

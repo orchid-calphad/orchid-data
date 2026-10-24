@@ -1,23 +1,30 @@
 # UC: enthalpy of formation
 
-> Enthalpy of formation of UC: 4 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
+> Enthalpy of formation of UC: 11 literature value(s) with sources, pages and quotes and DFT values (Materials Project / OQMD), from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/UC.html · Markdown: https://data.orchid-project.org/compounds/UC.md
 
-4 accepted literature formation-enthalpy value(s) (experimental 4); experimental median -42.677 kJ/mol-atom (n = 4); Materials Project -11.946 kJ/mol-atom (mp-aaaaadrt); OQMD -12.247 kJ/mol-atom (oqmd-4567).
+11 accepted literature formation-enthalpy value(s) (experimental 9, model 2); experimental median -46.861 kJ/mol-atom (n = 9); Materials Project -11.946 kJ/mol-atom (mp-aaaaadrt); OQMD -12.247 kJ/mol-atom (oqmd-4567).
 
 Systems: [C–U](https://data.orchid-project.org/systems/C-U.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of UC reported in the literature (4)
+Table: Enthalpy of formation of UC reported in the literature (11)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1967_ [doi](https://doi.org/10.1016/b978-1-4832-3070-2.50004-5) | Table 21, p. 17, row 7 |  |
+| -48.534 kJ/mol-atom ± 2.092 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Hultgren 1973_ | Table 21, p. 17, row 9 |  |
 | -48.534 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Storms 1965_ | Table 21, p. 17, row 6 |  |
+| -47.488 kJ/mol-atom ± 0.628 | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Tetenbaum 1971_ [doi](https://doi.org/10.1016/0022-3115%2871%2990121-8) | Table 21, p. 17, row 8 |  |
+| -46.861 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Vozella 1964_ | Table 21, p. 17, row 4 |  |
 | -43.932 kJ/mol-atom ± 2.092 | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Farr 1959_ [doi](https://doi.org/10.1021/j150579a030) | Table 21, p. 17, row 1 |  |
 | -41.422 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Droege 1959_ | Table 21, p. 17, row 2 |  |
 | -35.146 kJ/mol-atom | UC | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Robinson 1964_ | Table 21, p. 17, row 5 |  |
+| -34.727 kJ/mol-atom | C0.500U0.500 | 298.15 | experimental |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001; _cites Alcock 1962_ | Table 21, p. 17, row 3 |  |
+| -48.534 kJ/mol-atom | C0.500U0.500(fcc_B1, δ) | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 34, p. 28, row 1 |  |
+| -48.534 kJ/mol-atom | C0.500U0.500 | 298.15 | model |  | [C–U](https://data.orchid-project.org/systems/C-U.html) | [1] Chevalier 2001 | Table 21, p. 17, row 10 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +34,17 @@ Table: Uncertainty budget of the literature values of UC
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -48.534 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -43.932 | kJ/mol-atom | 2.092 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -41.422 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -35.146 | kJ/mol-atom |  | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
+| -48.534 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -48.534 | kJ/mol-atom | 2.092 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -48.534 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -47.488 | kJ/mol-atom | 0.628 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -46.861 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -43.932 | kJ/mol-atom | 2.092 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -41.422 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -35.146 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -34.727 | kJ/mol-atom |  | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -48.534 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -48.534 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

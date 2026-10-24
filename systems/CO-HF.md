@@ -1,10 +1,10 @@
 # Co–Hf system
 
-> Co–Hf system: 62 accepted literature values (invariant reaction 33, heat capacity / entropy / enthalpy 20, phase transition 8, other property 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Co–Hf system: 70 accepted literature values (invariant reaction 33, heat capacity / entropy / enthalpy 20, formation 8, phase transition 8) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CO-HF.html · Markdown: https://data.orchid-project.org/systems/CO-HF.md
 
-62 accepted literature values from 1 paper(s) (experimental 50, model 12); 3 calculated phase diagram(s).
+70 accepted literature values from 2 paper(s) (experimental 52, model 18); 3 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CO-HF.json) · [CSV](https://data.orchid-project.org/systems/CO-HF.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CO-HF) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CO-HF/CoHf-06Bra.json) · [phases (11)](https://data.orchid-project.org/phases/pages/CO-HF.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CO-HF.html) · [Markdown](https://data.orchid-project.org/systems/CO-HF.md)
 
@@ -12,8 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 50 |
-| model | 12 |
+| experimental | 52 |
+| model | 18 |
 
 Table: Accepted values by property group
 
@@ -21,6 +21,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 33 |
 | phase transition | 8 |
+| formation | 8 |
 | heat capacity / entropy / enthalpy | 20 |
 | other property | 1 |
 
@@ -118,6 +119,23 @@ Table: Invariant reactions reported in the literature for the Co–Hf system (33
 | 694.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0; (εCo): Hf 0; Co23Hf6: Hf 0.2069 | model | [1] Lu 2015 | Table 3, p. 6, row 31 |  |
 | 673.15 | eutectoid: (αCo) -> (εCo) + Co23Hf6 | (αCo): Hf 0.005; (εCo): Hf 0.004; Co23Hf6: Co 0.793103, Hf 0.206897 | model | [1] Lu 2015; _cites Svechnikov 1969_ | Table 3, p. 6, row 30 |  |
 
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Co–Hf system (8)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006 | Table 6, p. 5, row 15 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -48 kJ/mol-atom | 298.15 | model | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 14 |  |
+| Co2Hf | [Co2Hf](https://data.orchid-project.org/compounds/Co2Hf.html) | -39.4 kJ/mol-atom | 298.15 | experimental | -35.622 (mp-aaaaadlx) | -36.917 (oqmd-1795641) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 13 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -52 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006 | Table 6, p. 5, row 12 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -51 kJ/mol-atom | 298.15 | model | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 11 |  |
+| CoHf | [CoHf](https://data.orchid-project.org/compounds/CoHf.html) | -42.8 kJ/mol-atom | 298.15 | experimental | -38.703 (mp-aaacipkv) | -41.963 (oqmd-1375082) | [2] Bratberg 2006; _cites Binary 1986_ | Table 6, p. 5, row 10 |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -43 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006 | Table 6, p. 5, row 17 |  |
+| CoHf2 | [CoHf2](https://data.orchid-project.org/compounds/CoHf2.html) | -38 kJ/mol-atom | 298.15 | model | -28.174 (mp-aaacptpp) | -30.133 (oqmd-1365971) | [2] Bratberg 2006; _cites Miedema 1998_ | Table 6, p. 5, row 16 |  |
+
 ## Other properties
 
 ### Phase transition (8)
@@ -175,6 +193,7 @@ Table: Other property, Co–Hf system
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
 1. Xingxu Lu, Shuhong Liu, Kaiming Cheng, Ying Tang, Pengfei Ou, Philip Nash et al., Thermodynamic modeling of the Co–Hf system supported by key experiments and first-principles calculations, Thermochimica Acta 608, 49-58 (2015). [doi:10.1016/j.tca.2015.04.004](https://doi.org/10.1016/j.tca.2015.04.004)
+2. Johan Bratberg, Bo Jansson, Thermodynamic evaluation of the C−Co−W−Hf−Zr system for cemented carbides applications, JPED 27, 213-219 (2006). [doi:10.1361/154770306x109746](https://doi.org/10.1361/154770306x109746)
 
 ## Please cite
 

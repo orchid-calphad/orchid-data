@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of SiP
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -246.525 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -147.253 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.425 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.65 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -31.61 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -39.52 | kJ/mol-atom |  | 0.005 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -37.6 | kJ/mol-atom |  | 0.05 | 4.1 (equilibration_other, calibrated) |  |  |  | 4.1 |
-| -30.95 | kJ/mol-atom |  | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -246.525 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -147.253 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -66.425 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.8 (model_calculated, calibrated) |  |  |  | 6.8 |
+| -31.65 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.65 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -31.61 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -39.52 | kJ/mol-atom |  | 0.005 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
+| -37.6 | kJ/mol-atom |  | 0.05 | 3.5 (equilibration_other, calibrated) |  |  |  | 3.5 |
+| -30.95 | kJ/mol-atom |  | 0.005 | 3.5 (evaluated_compilation, calibrated) |  |  |  | 3.5 |
 
 ## DFT formation energies
 
@@ -51,7 +51,7 @@ Table: DFT formation energy of SiP
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaaaedq | -13.047 | -0.135227 | Cmc2_1 | 0 | 0 | no |
-| OQMD | oqmd-1784005 | -26.653 | -0.276239 | C2/m | 0.223 | 0.0023 | yes |
+| OQMD | oqmd-1784005 | -26.653 | -0.276239 | C2/m | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

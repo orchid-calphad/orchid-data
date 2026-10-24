@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Cs4O
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -67.84 | kJ/mol-atom |  | 0.01 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -59.64 | kJ/mol-atom |  | 0.01 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -67.84 | kJ/mol-atom |  | 0.01 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -59.64 | kJ/mol-atom |  | 0.01 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## Sources
 

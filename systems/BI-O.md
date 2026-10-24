@@ -1,12 +1,12 @@
 # Bi–O system
 
-> Bi–O system: 86 accepted literature values (activity / EMF / Gibbs energy 38, invariant reaction 21, formation 13, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–O system: 86 accepted literature values (model expression 38, invariant reaction 21, formation 13, phase transition 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-O.html · Markdown: https://data.orchid-project.org/systems/BI-O.md
 
 86 accepted literature values from 1 paper(s) (experimental 77, model 8, unspecified 1); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/BI-O.json) · [CSV](https://data.orchid-project.org/systems/BI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-O/BiO-95Ris-LB.json) · [phases (8)](https://data.orchid-project.org/phases/pages/BI-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-O.html) · [Markdown](https://data.orchid-project.org/systems/BI-O.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/BI-O.json) · [CSV](https://data.orchid-project.org/systems/BI-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#BI-O/BiO-95Ris-LB.json) · [phases (6)](https://data.orchid-project.org/phases/pages/BI-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-O.html) · [Markdown](https://data.orchid-project.org/systems/BI-O.md)
 
 Table: Accepted values by evidence class
 
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | phase transition | 8 |
 | formation | 13 |
 | heat capacity / entropy / enthalpy | 6 |
-| activity / EMF / Gibbs energy | 38 |
+| model expression | 38 |
 
 ## Calculated phase diagrams
 
@@ -126,50 +126,50 @@ Table: Heat capacity / entropy / enthalpy, Bi–O system
 | Heat capacity; _printed: Cp_ | 22.4 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | experimental | [1] Risold 1995; _cites C 1937_ | Table 3, p. 4, row 1 |  |
 | Heat capacity; _printed: Cp_ | 22.42 J/mol-atom/K | 298.15 | α-Bi2O3; _alloy: O 0.6_ | model | [1] Risold 1995 | Table 3, p. 4, row 3 |  |
 
-### Activity / EMF / Gibbs energy (38)
+### Model expression (38)
 
-Table: Activity / EMF / Gibbs energy, Bi–O system
+Table: Model expression, Bi–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Gibbs energy; _printed: ΔG (A)_ | -581994 J/mol | 858 | α | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 41 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -629608 J/mol | 875.5 | α | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 7, p. 6, row 24 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 334.5 J/mol/K | 875.5 | α | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 7, p. 6, row 24 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -583592 J/mol | 901.5 | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 293.9 J/mol/K | 901.5 | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 293.4 J/mol/K | 917.5 | α | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 45 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -600990 J/mol | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 315.2 J/mol/K | 938 | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -582520 J/mol | 942.5 | α | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 43 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 265.4 J/mol/K | 945 | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -560196 J/mol | 945 | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 314.42 J/mol/K | 974 | α | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 37 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 267.8 J/mol/K | 1012.5 | δ | experimental | [1] Risold 1995; _cites Cahen 1978_ | Table 7, p. 6, row 32 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 261.06 J/mol/K | 1031 | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -549700 J/mol | 1031 | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 261.1 J/mol/K | 1033.5 | δ | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 46 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -549700 J/mol | 1033.5 | δ | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 46 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -543905 J/mol | 1035 | δ | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 35 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 253.4 J/mol/K | 1035 | δ | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 35 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -572613 J/mol | 1035.5 | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 227.3 J/mol/K | 1035.5 | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 271.5 J/mol/K | 1043 | δ | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 30 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 270.3 J/mol/K | 1048.5 | δ | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 38 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 241.8 J/mol/K | 1049 | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -532247 J/mol | 1049 | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -545681 J/mol | 1121.5 | L | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 27 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 252.8 J/mol/K | 1121.5 | L | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 27 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 129.7 J/mol/K | 1148 | L | experimental | [1] Risold 1995; _cites ref. 79Hah_ | Table 7, p. 6, row 33 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -415471 J/mol | 1148 | L | experimental | [1] Risold 1995; _cites ref. 79Hah_ | Table 7, p. 6, row 33 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -373422 J/mol | 1150 | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 156.9 J/mol/K | 1150 | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 217.8 J/mol/K | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -498900 J/mol | 1159 | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 235.91 J/mol/K | 1237 | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -520840 J/mol | 1237 | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 229.7 J/mol/K | 1356.5 | L | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 36 |  |
-| Gibbs energy; _printed: ΔG (A)_ | -518007 J/mol | 1356.5 | L | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 36 |  |
-| Gibbs energy; _printed: ΔG (B, coefficient of T)_ | 253.72 J/mol/K | 1475 | δ | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 39 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -545681 J/mol |  | L | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 27 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 252.8 J/mol/K |  | L | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 27 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 229.7 J/mol/K |  | L | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 36 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -518007 J/mol |  | L | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 36 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -373422 J/mol |  | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 156.9 J/mol/K |  | L | experimental | [1] Risold 1995; _cites Codron 1972_ | Table 7, p. 6, row 25 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 217.8 J/mol/K |  | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -498900 J/mol |  | L | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 31 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 129.7 J/mol/K |  | L | experimental | [1] Risold 1995; _cites ref. 79Hah_ | Table 7, p. 6, row 33 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -415471 J/mol |  | L | experimental | [1] Risold 1995; _cites ref. 79Hah_ | Table 7, p. 6, row 33 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 235.91 J/mol/K |  | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -520840 J/mol |  | L | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 40 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -581994 J/mol |  | α | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 41 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 314.42 J/mol/K |  | α | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 37 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -629608 J/mol |  | α | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 7, p. 6, row 24 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 334.5 J/mol/K |  | α | experimental | [1] Risold 1995; _cites Rao 1971_ [doi](https://doi.org/10.1016/0036-9748%2871%2990168-2) | Table 7, p. 6, row 24 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -583592 J/mol |  | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 293.9 J/mol/K |  | α | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 34 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 293.4 J/mol/K |  | α | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 45 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -582520 J/mol |  | α | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 43 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -600990 J/mol |  | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 315.2 J/mol/K |  | α | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 29 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 265.4 J/mol/K |  | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -560196 J/mol |  | α, δ | experimental | [1] Risold 1995; _cites Chatterji 1973_ [doi](https://doi.org/10.1149/1.2403593) | Table 7, p. 6, row 28 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 267.8 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Cahen 1978_ | Table 7, p. 6, row 32 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 253.72 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites S 1984_ | Table 7, p. 6, row 39 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 241.8 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -532247 J/mol |  | δ | experimental | [1] Risold 1995; _cites Schaefer 1985_ | Table 7, p. 6, row 42 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 271.5 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Mehrotra 1976_ | Table 7, p. 6, row 30 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 270.3 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Fitzner 1980_ [doi](https://doi.org/10.1016/0040-6031%2880%2987127-9) | Table 7, p. 6, row 38 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 261.06 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -549700 J/mol |  | δ | experimental | [1] Risold 1995; _cites Kameda 1991_ [doi](https://doi.org/10.2320/jinstmet1952.55.5_536) | Table 7, p. 6, row 44 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 261.1 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 46 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -549700 J/mol |  | δ | experimental | [1] Risold 1995; _cites Kameda 1992_ [doi](https://doi.org/10.2320/jinstmet1952.56.8_900) | Table 7, p. 6, row 46 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -543905 J/mol |  | δ | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 35 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 253.4 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites B 1979_ | Table 7, p. 6, row 35 |  |
+| gibbs energy expression term; _printed: ΔG (A)_ | -572613 J/mol |  | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
+| gibbs energy expression term; _printed: ΔG (B, coefficient of T)_ | 227.3 J/mol/K |  | δ | experimental | [1] Risold 1995; _cites Rao 1975_ | Table 7, p. 6, row 26 |  |
 
 ## Sources
 

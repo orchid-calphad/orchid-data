@@ -1,10 +1,10 @@
 # B–C system
 
-> B–C system: 12 accepted literature values (phase transition 6, invariant reaction 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> B–C system: 28 accepted literature values (crystal structure 16, phase transition 6, invariant reaction 6) and 5 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/B-C.html · Markdown: https://data.orchid-project.org/systems/B-C.md
 
-12 accepted literature values from 3 paper(s) (experimental 5, model 3, DFT 1, unspecified 3); 5 calculated phase diagram(s).
+28 accepted literature values from 4 paper(s) (experimental 13, model 3, DFT 1, unspecified 11); 5 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/B-C.json) · [CSV](https://data.orchid-project.org/systems/B-C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#B-C) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#B-C/BC-12Sae.json) · [phases (5)](https://data.orchid-project.org/phases/pages/B-C.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/B-C.html) · [Markdown](https://data.orchid-project.org/systems/B-C.md)
 
@@ -12,10 +12,10 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 5 |
+| experimental | 13 |
 | model | 3 |
 | DFT | 1 |
-| unspecified | 3 |
+| unspecified | 11 |
 
 Table: Accepted values by property group
 
@@ -23,6 +23,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase transition | 6 |
+| crystal structure | 16 |
 
 ## Calculated phase diagrams
 
@@ -87,6 +88,29 @@ Table: Phase transition, B–C system
 | Phase transition | 2723 K | 2723 | congruent transformation | experimental | [2] Saengdeejing 2012; _cites Beauvy 1983_ [doi](https://doi.org/10.1016/0022-5088%2883%2990067-x) | p. 2 | “Beauvy \[15\] reported 21.6 ± 0.8 at.% C solubility at the C-rich end and the congruent melting point of B4+xC to be about 18.2 at.% C at 2723 K.” |
 | Phase transition | 2725.3 K | 2725.3 | congruent melting: B4C -> Liquid; _B4C: C 0.184; Liquid: C 0.184_ | unspecified | [1] Hämäläinen 1998 | Table I, p. 135, row 3 |  |
 
+### Crystal structure (16)
+
+Table: Crystal structure, B–C system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35 |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62 |  |
+| Lattice a | 5.651 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34 |  |
+| Lattice a | 5.607 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63 |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65 |  |
+| Lattice a | 5.597 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37 |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64 |  |
+| Lattice a | 5.598 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36 |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 35 |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 62 |  |
+| Lattice c | 12.196 Å | 298.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 5, row 34 |  |
+| Lattice c | 12.095 Å | 298.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 85Vil_ | Table 3, p. 4, row 63 |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 65 |  |
+| Lattice c | 12.12 Å | 2673.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 37 |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | unspecified | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 4, row 64 |  |
+| Lattice c | 12.12 Å | 2723.15 | B4C; _alloy: C 0.2_ | experimental | [4] Duschanek 1995; _cites ref. 86Ord_ | Table 3, p. 5, row 36 |  |
+
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
@@ -94,6 +118,7 @@ Reporting papers the values were read from (a value cited from another work name
 1. M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998). [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6)
 2. Arkapol Saengdeejing, James E. Saal, Venkateswara Rao Manga, Zi-Kui Liu, Defects in boron carbide: First-principles calculations and CALPHAD modeling, Acta Materialia 60, 7207-7215 (2012). [doi:10.1016/j.actamat.2012.09.029](https://doi.org/10.1016/j.actamat.2012.09.029)
 3. Peter F. Rogl, Jan Vřešťál, Takaho Tanaka, Satoshi Takenouchi, The B-rich side of the B–C phase diagram, Calphad 44, 3-9 (2014). [doi:10.1016/j.calphad.2013.07.016](https://doi.org/10.1016/j.calphad.2013.07.016)
+4. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
 
 ## Please cite
 

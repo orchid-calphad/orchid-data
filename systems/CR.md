@@ -1,10 +1,10 @@
 # Cr system
 
-> Cr system: 2 accepted literature values (phase transition 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cr system: 28 accepted literature values (crystal structure 13, activity / EMF / Gibbs energy 10, phase transition 4, formation 1) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CR.html · Markdown: https://data.orchid-project.org/systems/CR.md
 
-2 accepted literature values from 1 paper(s) (model 2); 0 calculated phase diagram(s).
+28 accepted literature values from 8 paper(s) (experimental 5, model 14, DFT 3, unspecified 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CR.json) · [CSV](https://data.orchid-project.org/systems/CR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CR) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CR.html) · [Markdown](https://data.orchid-project.org/systems/CR.md)
 
@@ -12,30 +12,92 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| experimental | 5 |
+| model | 14 |
+| DFT | 3 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| phase transition | 2 |
+| phase transition | 4 |
+| formation | 1 |
+| activity / EMF / Gibbs energy | 10 |
+| crystal structure | 13 |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cr system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| sigma CrCrCrCrCr |  | 12.1 kJ/mol-atom | 0 | DFT |  |  | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
 
 ## Other properties
 
-### Phase transition (2)
+### Phase transition (4)
 
 Table: Phase transition, Cr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 2136 K | 2136 |  | model | [1] He 2024; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 8 | “Therefore, they suggested to adopt a lower value (2136 K) for future Calphad assessment and that value was adopted for the 3rd generation descriptions.” |
-| Phase transition | 2180 K | 2180 |  | model | [1] He 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “In the SGTE database,\[23\] the melting point of Cr was accepted to be 2180 K which was later found to be too high by Xiong et al.\[59\] when modelling binaries, such as Fe-Cr and Cr-C.” |
+| Phase transition | 2136 K | 2136 |  | model | [2] He 2024; _cites Xiong 2010_ [doi](https://doi.org/10.1080/10408431003788472) | p. 8 | “Therefore, they suggested to adopt a lower value (2136 K) for future Calphad assessment and that value was adopted for the 3rd generation descriptions.” |
+| Phase transition | 2136.15 K | 2136.15 | Cr | experimental | [3] Campbell 2002; _cites ref. 25_ | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
+| Phase transition | 2180 K | 2180 |  | model | [2] He 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | p. 8 | “In the SGTE database,\[23\] the melting point of Cr was accepted to be 2180 K which was later found to be too high by Xiong et al.\[59\] when modelling binaries, such as Fe-Cr and Cr-C.” |
+| Phase transition | 2180.15 K | 2180.15 | Cr | model | [3] Campbell 2002 | p. 5 | “The calculated m elting temperature o f 1907 'C for c hromium i s 4 4 degrees h igher t hart the melting temperature 1863 "C \[25\], which is used in most phase diagram evaluations.” |
+
+### Activity / EMF / Gibbs energy (10)
+
+Table: Activity / EMF / Gibbs energy, Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | BCC_A2; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 27 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | FCC_A1; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 21 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
+| Gibbs energy; _printed: ΔG^φ\_Para_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
+| Gibbs energy; _printed: ΔG_Para^o_ | 4438 J/mol |  | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | -1564.84 J/mol | 0 | HCP_A3; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 33 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
+| Gibbs energy; _printed: magΔG_i^φ/SER(0 K)_ | 0 J/mol | 0 | σ; _alloy: Cr 1_ | model | [4] Santos 2024; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 2, p. 8, row 38 |  |
+
+### Crystal structure (13)
+
+Table: Crystal structure, Cr system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| Lattice a; _printed: a_ | 8.749 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
+| Lattice a | 2.885 Å | 298.15 | (Cr); _alloy: Cr 1_ | model | [6] Hu 2013; _cites Massalski 1996_ | Table 3, p. 4, row 2 |  |
+| Lattice a | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| Lattice a | 2.8848 Å | 298.15 | Cr; _Cr: Cr 1_ | unspecified | [7] Murray 1998; _cites ref. 2_ | Table 3, p. 5, row 9 |  |
+| Lattice a | 2.884 Å | 2179.95 (\<) | (Cr); _alloy: Cr 1_ | unspecified | [8] Cao 2013; _cites http://crystdb_ | Table 1, p. 2, row 4 |  |
+| Lattice c | 2.8548 Å |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| Lattice c; _printed: c_ | 4.561 Å | 0 | sigma CrCrCrCrCr; _alloy: Cr 1_ | DFT | [1] Palumbo 2010 | Table 1, p. 4, row 1 |  |
+| Lattice c | 2.8787 Å | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| lattice c a | 1 not_printed |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| lattice c a | 1 not_printed | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
+| lattice v atom | 1.16327 10^7 pm^3 |  | BCC Cr | unspecified | [5] Pavlů 2009 | Table 1, p. 2, row 2 |  |
+| lattice v atom | 1.19281 10^7 pm^3 | 298.15 | BCC Cr | experimental | [5] Pavlů 2009; _cites Villars 1991_ | Table 1, p. 2, row 1 |  |
 
 ## Sources
 
 Reporting papers the values were read from (a value cited from another work names that work in its row).
 
-1. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
+1. M. Palumbo, T. Abe, C. Kocer, H. Murakami, H. Onodera, Ab initio and thermodynamic study of the Cr–Re system, Calphad 34, 495-503 (2010). [doi:10.1016/j.calphad.2010.09.003](https://doi.org/10.1016/j.calphad.2010.09.003)
+2. Zhangting He, Qing Chen, Malin Selleby, Third Generation Calphad for Key Elements, J. Phase Equilib. Diffus. 45, 1163-1181 (2024). [doi:10.1007/s11669-024-01166-z](https://doi.org/10.1007/s11669-024-01166-z)
+3. C.E. Campbell, U.R. Kattner, Assessment of the Cr-B system and extrapolation to the Ni-Al-Cr-B quaternary system, Calphad 26, 477-490 (2002). [doi:10.1016/s0364-5916(02)00058-5](https://doi.org/10.1016/s0364-5916%2802%2900058-5)
+4. Júlio César Pereira dos Santos, Sean Griesemer, Nathalie Dupin, Ursula R. Kattner, Chuan Liu, Daniela Ivanova et al., Applying the Effective Bond Energy Formalism (EBEF) to Describe the Sigma (σ) Phase in the Co-Cr-Ni-Re System, J. Phase Equilib. Diffus. 45, 330-357 (2024). [doi:10.1007/s11669-023-01079-3](https://doi.org/10.1007/s11669-023-01079-3)
+5. J. Pavlů, J. Vřešt’ál, M. Šob, Stability of Laves phases in the Cr–Zr system, Calphad 33, 382-387 (2009). [doi:10.1016/j.calphad.2008.11.003](https://doi.org/10.1016/j.calphad.2008.11.003)
+6. Biao Hu, Wei-Wei Zhang, Yingbiao Peng, Yong Du, Shuhong Liu, Yuelan Zhang, Thermodynamic reassessment of the Al–Cr–Si system with the refined description of the Al–Cr system, Thermochimica Acta 561, 77-90 (2013). [doi:10.1016/j.tca.2013.03.033](https://doi.org/10.1016/j.tca.2013.03.033)
+7. J. L. Murray, The Al-Cr (aluminum-chromium) system, JPE 19, 367-375 (1998). [doi:10.1007/bf02735058](https://doi.org/10.1007/bf02735058)
+8. Z. Cao, J. Xin, C. Chen, S. Liu, B. Hu, C. Tang et al., Thermodynamic modeling of the Bi-M (M = Ti, Cr, V) systems, J min metall B Metall 49, 307-313 (2013). [doi:10.2298/jmmb130127033c](https://doi.org/10.2298/jmmb130127033c)
 
 ## Please cite
 

@@ -1,14 +1,14 @@
 # Sb–Sm phases
 
-> Sb–Sm system: 13 phases (tier A 8, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Sb–Sm system: 12 phases (tier A 8, tier C 2, liquid 1, needs_review 1); 11 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/SB-SM.html · Markdown: https://data.orchid-project.org/phases/pages/SB-SM.md
 
-13 phases (tier A 8, tier C 2, liquid 1, needs_review 1, unresolved_no_candidates 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+12 phases (tier A 8, tier C 2, liquid 1, needs_review 1); 11 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=SB-SM) · [full JSON](https://data.orchid-project.org/phases/systems/SB-SM.json) · [Sb–Sm system page](https://data.orchid-project.org/systems/SB-SM.html) · [Markdown](https://data.orchid-project.org/phases/pages/SB-SM.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Sb–Sm system (13)
+Table: Phases of the Sb–Sm system (12)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -22,7 +22,6 @@ Table: Phases of the Sb–Sm system (13)
 | [SB3SM4_D73](#phase-sb-sm-sb3sm4-d73); _phase:sb-sm:sb3sm4-d73_ | Th3P4 · D7_3 · cI28 · I-43d (220) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2062.7 K, x(Sm) 0.57143–0.57143 | 8 | 2 |
 | [SB3SM5_HT](#phase-sb-sm-sb3sm5); _phase:sb-sm:sb3sm5_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1293.33 K, x(Sm) 0.625–0.625 | 5 | 1 |
 | [SB3SM5_D88](#phase-sb-sm-sb3sm5-d88); _phase:sb-sm:sb3sm5-d88_ | Mn5Si3 · D8_8 · hP16 · P6_3/mcm (193) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2003.33 K, x(Sm) 0.625–0.625 | 7 | 2 |
-| [SB3SM5-HT](#phase-sb-sm-sb3sm5-ht); _phase:sb-sm:sb3sm5-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [SBSM_B1](#phase-sb-sm-sbsm-b1); _phase:sb-sm:sbsm-b1_ | NaCl · B1 · cF8 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2200.92 K, x(Sm) 0.5–0.5 | 9 | 2 |
 | [SBSM2](#phase-sb-sm-sbsm2); _phase:sb-sm:sbsm2_ | La2Sb · tI12 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1600.63 K, x(Sm) 0.66667–0.66667 | 0 | 1 |
 
@@ -73,8 +72,8 @@ _cited as the source of values for this phase_
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sm:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:sb-sm:bcc-a2  
-_paper: _paper:10.1016/j.calphad.2014.07.002:(βSm), paper:10.1016/j.calphad.2014.07.002:(γSm)  
+Names (4): _corpus: _corpus:phase:sb-sm:bcc-a2  
+_paper: _paper:10.1016/j.calphad.2014.07.002:(γSm)  
 _tdb: _tdb:SbSm-14Liu.tdb:BCC_A2, tdb:SbSm-96Cac.tdb:BCC_A2  
 
 
@@ -341,7 +340,7 @@ _cited as the source of values for this phase_
 - Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sm:sb3sm5)
 
-Names (3): _corpus: _corpus:phase:sb-sm:sb3sm5  
+Names (4): _corpus: _corpus:phase:sb-sm:sb3sm5, corpus:phase:sb-sm:sb3sm5-ht  
 _paper: _paper:10.1016/j.calphad.2014.07.002:βSb3Sm5  
 _tdb: _tdb:SbSm-14Liu.tdb:SB3SM5_HT  
 
@@ -400,17 +399,6 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase_
 - [doi:10.1016/0022-5088(88)90149-x](https://doi.org/10.1016/0022-5088%2888%2990149-x) F.M. Sadigov, N.S. Shahguliyev, O.M. Aliyev, The samarium-antimony phase diagram, Journal of the Less Common Metals 144, L5-L8 (1988).  
 _cited as the source of values for this phase_
-
-## SB3SM5-HT (Sb–Sm)
-
-- Id: `phase:sb-sm:sb3sm5-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:sb-sm:sb3sm5-ht)
-
-Names (1): _corpus: _corpus:phase:sb-sm:sb3sm5-ht  
-
 
 ## SBSM_B1 (Sb–Sm)
 

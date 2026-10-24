@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Ga3Pt5.html · Markdown: https:/
 
 2 accepted literature formation-enthalpy value(s) (model 1, DFT 1); Materials Project -53.529 kJ/mol-atom (mp-aaaabtjj); OQMD -53.883 kJ/mol-atom (oqmd-17290).
 
-Systems: [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html)
+Systems: [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html)
 
 ## Literature values
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Ga3Pt5 reported in the literature (2)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -61.68 kJ/mol-atom | Ga3Pt5 | 298.15 | model | assessed | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 29 |  |
-| -56.16 kJ/mol-atom | Ga3Pt5 | 0 | DFT | first-principles | [Ga–Ge–Pt](https://data.orchid-project.org/systems/GA-GE-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 28 |  |
+| -61.68 kJ/mol-atom | Ga3Pt5 | 298.15 | model | assessed | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 29 |  |
+| -56.16 kJ/mol-atom | Ga3Pt5 | 0 | DFT | first-principles | [Ga–Pt](https://data.orchid-project.org/systems/GA-PT.html) | [1] Wang 2009 | Table 1, p. 3, row 28 |  |
 
 ### Uncertainty budget
 
@@ -25,8 +25,8 @@ Table: Uncertainty budget of the literature values of Ga3Pt5
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -61.68 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -56.16 | kJ/mol-atom |  | 0.005 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -61.68 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -56.16 | kJ/mol-atom |  | 0.005 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 
@@ -36,8 +36,8 @@ Table: DFT formation energy of Ga3Pt5
 
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
-| Materials Project | mp-aaaabtjj | -53.529 | -0.554791 | Cmmm | 0.24 | 0.0025 | no |
-| OQMD | oqmd-17290 | -53.883 | -0.558459 | Cmmm | 1.317 | 0.0136 | no |
+| Materials Project | mp-aaaabtjj | -53.529 | -0.554791 | Cmmm | 0.2403 | 0.0025 | no |
+| OQMD | oqmd-17290 | -53.883 | -0.558459 | Cmmm | 1.3172 | 0.0137 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

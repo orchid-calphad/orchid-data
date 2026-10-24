@@ -14,7 +14,7 @@ Table: Phases of the Mo–Si system (10)
 |---|---|---|---|---:|---:|
 | [M3SI_A15](#phase-mo-si-a15-m3si); _phase:mo-si:a15-m3si_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–2336.63 K, x(Si) 0.25–0.25 | 34 | 6 |
 | [DIAMOND_A4](#phase-mo-si-a4-diamond); _phase:mo-si:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–3999.76 K, x(Si) 1–1 | 10 | 7 |
-| [BCC_A2](#phase-mo-si-bcc-a2); _phase:mo-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2912.6 K, x(Si) 0–0.06609 | 13 | 7 |
+| [BCC_A2](#phase-mo-si-bcc-a2); _phase:mo-si:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 300–2912.6 K, x(Si) 0–0.06609 | 11 | 7 |
 | [M5SI3_D8M](#phase-mo-si-d8m-m5si3); _phase:mo-si:d8m-m5si3_ | W5Si3 · D8_m · tI32 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 6 of 6 calculated diagram(s): 300–2459.54 K, x(Si) 0.3695–0.40331 | 42 | 6 |
 | [FCC_A1](#phase-mo-si-fcc-a1); _phase:mo-si:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
 | [HCP_A3](#phase-mo-si-hcp-a3); _phase:mo-si:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 7 calculated diagram(s) | 0 | 7 |
@@ -188,11 +188,11 @@ _cited as the source of values for this phase_
 - Id: `phase:mo-si:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 7 of 7 calculated diagram(s): 300–2912.6 K, x(Si) 0–0.06609
-- Literature: 13 values (13 accepted) from 3 papers
+- Literature: 11 values (11 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mo-si:bcc-a2)
 
-Names (12): _corpus: _corpus:phase:mo-si:bcc-a2  
-_paper: _paper:10.1002/adem.202302085:bcc, paper:10.1002/adem.202302085:β, paper:10.1016/j.calphad.2010.07.003:Bcc, paper:10.1016/s0966-9795(00)00068-6:bcc  
+Names (11): _corpus: _corpus:phase:mo-si:bcc-a2  
+_paper: _paper:10.1002/adem.202302085:bcc, paper:10.1016/j.calphad.2010.07.003:Bcc, paper:10.1016/s0966-9795(00)00068-6:bcc  
 _tdb: _tdb:MoSi-00Liu.tdb:BCC_A2, tdb:MoSi-03Che-LB.tdb:BCC_A2, tdb:MoSi-10Gen.tdb:BCC_A2, tdb:MoSi-12Guo.tdb:BCC_A2, tdb:MoSi-24Cze.tdb:BCC_A2, tdb:MoSi-89Vah.tdb:BCC_A2, tdb:MoSi-97Cos.tdb:BCC_A2  
 
 
@@ -251,9 +251,9 @@ Example references (7 of 7; assessments first):
 
 - [doi:10.1016/S0966-9795(00)00068-6](https://doi.org/10.1016/S0966-9795%2800%2900068-6) Y. Liu, G. Shao, P. Tsakiropoulos, Intermetallics, 8, 953-62(2000).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
-- [doi:10.1002/adem.202302085](https://doi.org/10.1002/adem.202302085) Andreas Klaus Czerny, Wenhao Ma, Clemens Simon Hausner, Peter Franke, Magnus Rohde, Hans Jürgen Seifert, Thermodynamic Assessment of the Mo–Si System, Adv Eng Mater 26 (2024).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2010.07.003](https://doi.org/10.1016/j.calphad.2010.07.003) Tai Geng, Changrong Li, Xinqing Zhao, Huibin Xu, Zhenmin Du, Cuiping Guo, Thermodynamic assessment of the Nb–Si–Mo system, Calphad 34, 363-376 (2010).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/adem.202302085](https://doi.org/10.1002/adem.202302085) Andreas Klaus Czerny, Wenhao Ma, Clemens Simon Hausner, Peter Franke, Magnus Rohde, Hans Jürgen Seifert, Thermodynamic Assessment of the Mo–Si System, Adv Eng Mater 26 (2024).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0364-5916(89)90007-2](https://doi.org/10.1016/0364-5916%2889%2990007-2) C. Vahlas, P.Y. Chevalier, E. Blanquet, A thermodynamic evaluation of four Si-M (M = Mo, Ta, Ti, W) binary systems, Calphad 13, 273-292 (1989).  
 _assessment that models this phase_

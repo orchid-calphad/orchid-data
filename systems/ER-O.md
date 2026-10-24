@@ -1,10 +1,10 @@
 # Er–O system
 
-> Er–O system: 1 accepted literature values (formation 1) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Er–O system: 23 accepted literature values (heat capacity / entropy / enthalpy 8, phase transition 6, other property 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/ER-O.html · Markdown: https://data.orchid-project.org/systems/ER-O.md
 
-1 accepted literature values from 1 paper(s) (model 1); 1 calculated phase diagram(s).
+23 accepted literature values from 1 paper(s) (experimental 7, model 16); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/ER-O.json) · [CSV](https://data.orchid-project.org/systems/ER-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#ER-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#ER-O/ErO-23Nak.json) · [phases (6)](https://data.orchid-project.org/phases/pages/ER-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/ER-O.html) · [Markdown](https://data.orchid-project.org/systems/ER-O.md)
 
@@ -12,13 +12,18 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 1 |
+| experimental | 7 |
+| model | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 6 |
 | formation | 1 |
+| heat capacity / entropy / enthalpy | 8 |
+| crystal structure | 3 |
+| other property | 5 |
 
 ## Calculated phase diagrams
 
@@ -41,6 +46,58 @@ Table: Enthalpies of formation, Er–O system (1)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | C-Er2O3 | [Er2O3](https://data.orchid-project.org/compounds/Er2O3.html) | -380.02 kJ/mol-atom | 298.15 | model | -391.449 (mp-aaaaabad) | -375.968 (oqmd-5390) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
+
+## Other properties
+
+### Phase transition (6)
+
+Table: Phase transition, Er–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 1273 K | 1273 | polymorphic: C ⇒ B; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 2.3, p. 10, row 23 |  |
+| Phase transition | 2523 K | 2523 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Coutures 1976_ | Table 2.1, p. 7, row 28 |  |
+| Phase transition | 2553 K | 2553 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 7, row 27 |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C \<=> H; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 21 |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Shevtchenko 1985_ | Table 2.1, p. 7, row 30 |  |
+| Phase transition | 2593 K | 2593 | polymorphic: C ⇔ H; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Tresvyatkii 1971_ | Table 2.1, p. 7, row 29 |  |
+
+### Heat capacity / entropy / enthalpy (8)
+
+Table: Heat capacity / entropy / enthalpy, Er–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Δtrs°S_ | 14.223 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
+| Entropy; _printed: Δtrs°S_ | 3.885 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
+| Entropy; _printed: Δtrs°S_ | 5.38 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
+| Entropy; _printed: ΔS_ | 3.873 J mol−1 K−1 |  | Er2O3; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19 |  |
+| Entropy; _printed: ΔS_ | 3.873 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Er 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Hoekstra 1966_ | Table 5.1, p. 18, row 19 |  |
+| Entropy; _printed: °S_ | 155.64 unknown | 298.15 | C-Er2O3; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 35 |  |
+| Entropy; _printed: Δtrs°S_ | 9.654 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
+| Entropy; _printed: Δtrs°S_ | 32.346 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Er–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 40.677 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
+| lattice molar volume | 39.799 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
+| lattice molar volume | 44.163 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Er 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 14 |  |
+
+### Other property (5)
+
+Table: Other property, Er–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 37614 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 40 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 12464 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 38 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 20703 unknown |  | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 39 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 25033 unknown | 2593 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 36 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 87044 unknown | 2691 | C-Er₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 37 |  |
 
 ## Sources
 

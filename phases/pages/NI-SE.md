@@ -1,14 +1,14 @@
 # Ni–Se phases
 
-> Ni–Se system: 11 phases (tier A 7, tier C 1, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Ni–Se system: 10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/NI-SE.html · Markdown: https://data.orchid-project.org/phases/pages/NI-SE.md
 
-11 phases (tier A 7, tier C 1, liquid 1, needs_review 1, unresolved_no_candidates 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+10 phases (tier A 7, tier C 1, liquid 1, needs_review 1); 8 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=NI-SE) · [full JSON](https://data.orchid-project.org/phases/systems/NI-SE.json) · [Ni–Se system page](https://data.orchid-project.org/systems/NI-SE.html) · [Markdown](https://data.orchid-project.org/phases/pages/NI-SE.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Ni–Se system (11)
+Table: Phases of the Ni–Se system (10)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
@@ -19,7 +19,6 @@ Table: Phases of the Ni–Se system (11)
 | [LIQUID](#phase-ni-se-liquid); _phase:ni-se:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 490.13–2500 K, x(Se) 0–1 | 18 | 1 |
 | [NI3SE2_HT](#phase-ni-se-ni3se2); _phase:ni-se:ni3se2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 839.29–1057.48 K, x(Se) 0.405–0.405 | 14 | 1 |
 | [NI3SE2_D5E](#phase-ni-se-ni3se2-d5e); _phase:ni-se:ni3se2-d5e_ | Ni3S2 · D5_e · hR5 · R32 (155) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–865.64 K, x(Se) 0.4–0.4 | 8 | 1 |
-| [NI3SE2-HT](#phase-ni-se-ni3se2-ht); _phase:ni-se:ni3se2-ht_ |  | unresolved_no_candidates | no calculated diagram | 0 | 0 |
 | [NI6SE5](#phase-ni-se-ni6se5); _phase:ni-se:ni6se5_ | Ni6Se5 · oP88 · Pca2_1 (29) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 672.72–920.29 K, x(Se) 0.45455–0.45455 | 8 | 1 |
 | [NISE_B81](#phase-ni-se-nise-b81); _phase:ni-se:nise-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1231.3 K, x(Se) 0.50889–0.57024 | 19 | 1 |
 | [NISE2_C2](#phase-ni-se-nise2-c2); _phase:ni-se:nise2-c2_ | beta-FeS2 · C2 · cP12 · Pa-3 (205) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1131.01 K, x(Se) 0.66667–0.66667 | 9 | 1 |
@@ -178,7 +177,7 @@ _cited as the source of values for this phase_
 - Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-se:ni3se2)
 
-Names (3): _corpus: _corpus:phase:ni-se:ni3se2  
+Names (4): _corpus: _corpus:phase:ni-se:ni3se2, corpus:phase:ni-se:ni3se2-ht  
 _paper: _paper:10.1007/s11669-021-00906-9:Ni3Se2_HT  
 _tdb: _tdb:NiSe-21Zob.tdb:NI3SE2_HT  
 
@@ -231,17 +230,6 @@ Example references (2 of 2; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf00905165](https://doi.org/10.1007/bf00905165) K. L. Komarek, K. Wessely, Die Systeme Nickel?Selen und Kobalt?Nickel-Selen, Monatshefte fr Chemie 103, 923-933 (1972).  
 _cited as the source of values for this phase_
-
-## NI3SE2-HT (Ni–Se)
-
-- Id: `phase:ni-se:ni3se2-ht`; status `unresolved_no_candidates`
-- No structure assigned. Why: no_bundled_tdb_model; no_structure_token
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ni-se:ni3se2-ht)
-
-Names (1): _corpus: _corpus:phase:ni-se:ni3se2-ht  
-
 
 ## NI6SE5 (Ni–Se)
 

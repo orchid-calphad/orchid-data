@@ -18,8 +18,8 @@ Table: Phases of the Ag–Ca system (10)
 | [AG9CA2_C15B](#phase-ag-ca-ag9ca2-c15b); _phase:ag-ca:ag9ca2-c15b_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–961.37 K, x(Ca) 0.18182–0.18182 | 14 | 3 |
 | [AGCA_B33](#phase-ag-ca-agca-b33); _phase:ag-ca:agca-b33_ | CrB · B33 · oC8 · Cmcm (63) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–938.26 K, x(Ca) 0.5–0.5 | 15 | 3 |
 | [AGCA3](#phase-ag-ca-agca3); _phase:ag-ca:agca3_ | (AgCa3) · oC16 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–756.75 K, x(Ca) 0.75–0.75 | 16 | 3 |
-| [BCC_A2](#phase-ag-ca-bcc-a2); _phase:ag-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 301.06–2500 K, x(Ca) 0.99993–1 | 8 | 3 |
-| [FCC_A1](#phase-ag-ca-fcc-a1); _phase:ag-ca:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1296.82 K, x(Ca) 0–1 | 7 | 3 |
+| [BCC_A2](#phase-ag-ca-bcc-a2); _phase:ag-ca:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 301.06–2500 K, x(Ca) 0.99993–1 | 6 | 3 |
+| [FCC_A1](#phase-ag-ca-fcc-a1); _phase:ag-ca:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1296.82 K, x(Ca) 0–1 | 5 | 3 |
 | [HCP_A3](#phase-ag-ca-hcp-a3); _phase:ag-ca:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-ag-ca-liquid); _phase:ag-ca:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 736.72–2500 K, x(Ca) 0–1 | 49 | 3 |
 
@@ -328,7 +328,7 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-ca:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 301.06–2500 K, x(Ca) 0.99993–1
-- Literature: 8 values (8 accepted) from 2 papers
+- Literature: 6 values (6 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ca:bcc-a2)
 
 Names (6): _corpus: _corpus:phase:ag-ca:bcc-a2  
@@ -361,9 +361,9 @@ _tdb: _tdb:AgCa-08Hua.tdb:BCC_A2, tdb:AgCa-14Bra.tdb:BCC_A2, tdb:AgCa-96Che-LB.t
 
 Example references (3 of 3; assessments first): 
 
-- [doi:10.1016/j.jallcom.2007.06.064](https://doi.org/10.1016/j.jallcom.2007.06.064) G.X. Huang, L.B. Liu, B.R. Jia, L.G. Zhang, Z.P. Jin, Thermodynamic modeling of the Ca–Ag binary system, Journal of Alloys and Compounds 460, 375-378 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.05.141](https://doi.org/10.1016/j.jallcom.2014.05.141) M. Helena Braga, Adam Dębski, Władysław Gąsior, Optimization and assessment of the Ag–Ca phase diagram, Journal of Alloys and Compounds 612, 280-286 (2014).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2007.06.064](https://doi.org/10.1016/j.jallcom.2007.06.064) G.X. Huang, L.B. Liu, B.R. Jia, L.G. Zhang, Z.P. Jin, Thermodynamic modeling of the Ca–Ag binary system, Journal of Alloys and Compounds 460, 375-378 (2008).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/bf02881269](https://doi.org/10.1007/bf02881269) M.R. Baren, Bull. Alloy Phase Diagram 9 (3) (1988) 228–231.  
 _cited as the source of values for this phase_
@@ -373,11 +373,11 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-ca:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1296.82 K, x(Ca) 0–1
-- Literature: 7 values (7 accepted) from 2 papers
+- Literature: 5 values (5 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-ca:fcc-a1)
 
-Names (7): _corpus: _corpus:phase:ag-ca:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2007.06.064:(Ag), paper:10.1016/j.jallcom.2007.06.064:(αCa), paper:10.1016/j.jallcom.2014.05.141:Ag (fcc A1)  
+Names (6): _corpus: _corpus:phase:ag-ca:fcc-a1  
+_paper: _paper:10.1016/j.jallcom.2007.06.064:(Ag), paper:10.1016/j.jallcom.2014.05.141:Ag (fcc A1)  
 _tdb: _tdb:AgCa-08Hua.tdb:FCC_A1, tdb:AgCa-14Bra.tdb:FCC_A1, tdb:AgCa-96Che-LB.tdb:FCC_A1  
 
 
@@ -406,13 +406,13 @@ _tdb: _tdb:AgCa-08Hua.tdb:FCC_A1, tdb:AgCa-14Bra.tdb:FCC_A1, tdb:AgCa-96Che-LB.t
 
 Example references (4 of 4; assessments first): 
 
-- [doi:10.1016/j.jallcom.2007.06.064](https://doi.org/10.1016/j.jallcom.2007.06.064) G.X. Huang, L.B. Liu, B.R. Jia, L.G. Zhang, Z.P. Jin, Thermodynamic modeling of the Ca–Ag binary system, Journal of Alloys and Compounds 460, 375-378 (2008).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2014.05.141](https://doi.org/10.1016/j.jallcom.2014.05.141) M. Helena Braga, Adam Dębski, Władysław Gąsior, Optimization and assessment of the Ag–Ca phase diagram, Journal of Alloys and Compounds 612, 280-286 (2014).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/bf02881269](https://doi.org/10.1007/bf02881269) M.R. Baren, Bull. Alloy Phase Diagram 9 (3) (1988) 228–231.  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2007.06.064](https://doi.org/10.1016/j.jallcom.2007.06.064) G.X. Huang, L.B. Liu, B.R. Jia, L.G. Zhang, Z.P. Jin, Thermodynamic modeling of the Ca–Ag binary system, Journal of Alloys and Compounds 460, 375-378 (2008).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1139/v69-093](https://doi.org/10.1139/v69-093) W. A. Alexander, L. D. Calvert, A. Desaulniers, H. S. Dunsmore, D. F. Sargent, The silver–calcium phase diagram, Can. J. Chem. 47, 611-614 (1969).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02881269](https://doi.org/10.1007/bf02881269) M.R. Baren, Bull. Alloy Phase Diagram 9 (3) (1988) 228–231.  
 _cited as the source of values for this phase_
 
 ## HCP_A3 (Ag–Ca)

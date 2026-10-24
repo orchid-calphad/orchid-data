@@ -12,20 +12,20 @@ Table: Phases of the Rh–Ti system (8)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [A2_BCC](#phase-rh-ti-bcc-a2); _phase:rh-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 535.24–1840 K, x(Ti) 0.75–1 | 0 | 2 |
+| [BCC_A2](#phase-rh-ti-bcc-a2); _phase:rh-ti:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 535.24–1840 K, x(Ti) 0.75–1 | 0 | 2 |
 | [B2_BCC](#phase-rh-ti-bcc-b2); _phase:rh-ti:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2221.79 K, x(Ti) 0.37495–1 | 0 | 1 |
-| [A1_FCC](#phase-rh-ti-fcc-a1); _phase:rh-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
+| [FCC_A1](#phase-rh-ti-fcc-a1); _phase:rh-ti:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 2 |
 | [L12_FCC](#phase-rh-ti-fcc-l12); _phase:rh-ti:fcc-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2237 K, x(Ti) 0–0.28094 | 0 | 1 |
 | [HCP_A3](#phase-rh-ti-hcp-a3); _phase:rh-ti:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1154.99 K, x(Ti) 0.99758–1 | 0 | 1 |
 | [LIQUID](#phase-rh-ti-liquid); _phase:rh-ti:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1555.98–4000 K, x(Ti) 0–1 | 0 | 1 |
 | [RH5TI3](#phase-rh-ti-rh5ti3); _phase:rh-ti:rh5ti3_ | Ge3Rh5 · oP16 · Pbam (55) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–2115.61 K, x(Ti) 0.375–0.375 | 0 | 1 |
 | [RHTI2](#phase-rh-ti-rhti2); _phase:rh-ti:rhti2_ | CuZr2 · tI6 · I4/mmm (139) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1085 K, x(Ti) 0.66667–0.66667 | 0 | 1 |
 
-## A2_BCC (Rh–Ti)
+## BCC_A2 (Rh–Ti)
 
 - Id: `phase:rh-ti:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
-- Stability: stable in 1 of 2 calculated diagram(s): 535.24–1840 K, x(Ti) 0.75–1
+- Stability: stable in 1 of 1 calculated diagram(s): 535.24–1840 K, x(Ti) 0.75–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:rh-ti:bcc-a2)
 
@@ -33,7 +33,7 @@ Names (3): _corpus: _corpus:phase:rh-ti:bcc-a2
 _tdb: _tdb:RhTi-22Hu.tdb:A2_BCC, tdb:RhTi-22Hu.tdb:BCC_A2  
 
 
-### TDB models of A2_BCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of BCC_A2 (2): PHASE and CONSTITUENT statements as written
 
 [RhTi-22Hu.tdb](https://orchid-project.org/data/databases/sgte-binary/RhTi-22Hu.tdb): A2_BCC, type code %B, sha256 `9a0f1ecc0389a4aa…`
 
@@ -82,11 +82,11 @@ Example references (1 of 1; assessments first):
 - [doi:10.1016/j.calphad.2021.102386](https://doi.org/10.1016/j.calphad.2021.102386) X. Hu, L. Chen, C. Zhan, K. Xu, M. Lou, K. Chang, Calphad, 76, 102386(2022).  
 _assessment that models this phase_
 
-## A1_FCC (Rh–Ti)
+## FCC_A1 (Rh–Ti)
 
 - Id: `phase:rh-ti:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: not stable in 2 calculated diagram(s)
+- Stability: not stable in 1 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:rh-ti:fcc-a1)
 
@@ -94,7 +94,7 @@ Names (3): _corpus: _corpus:phase:rh-ti:fcc-a1
 _tdb: _tdb:RhTi-22Hu.tdb:A1_FCC, tdb:RhTi-22Hu.tdb:FCC_A1  
 
 
-### TDB models of A1_FCC (2): PHASE and CONSTITUENT statements as written
+### TDB models of FCC_A1 (2): PHASE and CONSTITUENT statements as written
 
 [RhTi-22Hu.tdb](https://orchid-project.org/data/databases/sgte-binary/RhTi-22Hu.tdb): A1_FCC, type code %A, sha256 `9a0f1ecc0389a4aa…`
 

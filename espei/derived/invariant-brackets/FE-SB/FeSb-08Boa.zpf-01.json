@@ -13,9 +13,10 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1043.15,
-   917.15,
-   877.15
+   1045.15,
+   1001.15,
+   919.15,
+   875.15
   ]
  },
  "output": "ZPF",
@@ -37,6 +38,35 @@
     ],
     [
      0.48100000000000004
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SB"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "FESB2_C18",
+    [
+     "SB"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -145,8 +175,27 @@
     "source_observation": "ORC-EXPWQG7LGD",
     "side": "above",
     "T_invariant_K": 1023.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
+    "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq + ε-FeSb = FeSb2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "FESB_B81"
+    ],
+    "phases_below": [
+     "FESB2_C18"
+    ]
+   },
+   {
+    "source_observation": "ORC-EXPWQG7LGD",
+    "side": "below",
+    "T_invariant_K": 1023.15,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.6666666666666666,
     "hyperplane_delta": 0.01,
@@ -164,8 +213,8 @@
     "source_observation": "ORC-O4JFM2XJ4K",
     "side": "above",
     "T_invariant_K": 897.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.968,
     "hyperplane_delta": 0.01,
@@ -183,8 +232,8 @@
     "source_observation": "ORC-O4JFM2XJ4K",
     "side": "below",
     "T_invariant_K": 897.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
+    "offset_K": 22.0,
+    "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
     "x0": 0.968,
     "hyperplane_delta": 0.01,
@@ -221,9 +270,25 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
+     "sigma_effective_reason": "derived constraint, not a measurement"
+    }
+   },
+   {
+    "source_observation": "ORC-EXPWQG7LGD",
+    "temperature_K": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": null,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": null,
+     "source_invariant_sigma_effective": 11.0,
+     "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -237,9 +302,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    },
@@ -253,9 +318,9 @@
      "sigma_scatter": null,
      "sigma_conversion": null,
      "sigma_effective": null,
-     "source_invariant_sigma_effective": 10.0,
+     "source_invariant_sigma_effective": 11.0,
      "source_invariant_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-     "offset_K": 20.0,
+     "offset_K": 22.0,
      "sigma_effective_reason": "derived constraint, not a measurement"
     }
    }

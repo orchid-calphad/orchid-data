@@ -1,10 +1,10 @@
 # Al–Ce–Nd system
 
-> Al–Ce–Nd system: 17 accepted literature values (formation 17) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ce–Nd system: 16 accepted literature values (formation 16) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-CE-ND.html · Markdown: https://data.orchid-project.org/systems/AL-CE-ND.md
 
-17 accepted literature values from 1 paper(s) (DFT 17); 0 calculated phase diagram(s).
+16 accepted literature values from 1 paper(s) (DFT 16); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-CE-ND.json) · [CSV](https://data.orchid-project.org/systems/AL-CE-ND.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-CE-ND) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-CE-ND.html) · [Markdown](https://data.orchid-project.org/systems/AL-CE-ND.md)
 
@@ -12,19 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| DFT | 17 |
+| DFT | 16 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| formation | 17 |
+| formation | 16 |
 
 ## Formation enthalpies
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ce–Nd system (17)
+Table: Enthalpies of formation, Al–Ce–Nd system (16)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -44,7 +44,6 @@ Table: Enthalpies of formation, Al–Ce–Nd system (17)
 | αAlRE3 |  | -15.7849 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 9 |  |
 | βAl3RE |  | -38.4492 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
 | βAl3RE |  | -38.0536 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 3 |  |
-| βAlCe3 |  | -15.013 kJ/mol-atom | 0 | DFT |  |  | [1] Gao 2005 | Table I, p. 6, row 8 |  |
 
 ## Sources
 

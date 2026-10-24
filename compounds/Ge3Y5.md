@@ -29,8 +29,8 @@ Table: Uncertainty budget of the literature values of Ge3Y5
 |---:|---|---:|---:|---|---:|---:|---:|---:|
 | -109.7 | kJ/mol-atom | 5.7 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5.7 |
 | -89.8 | kJ/mol-atom | 5 | 0.05 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 5 |
-| -107.41 | kJ/mol-atom |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -91.861 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -107.41 | kJ/mol-atom |  | 0.005 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -91.861 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

@@ -6,14 +6,12 @@
  ],
  "phases": [
   "BCC_A2",
-  "CR3PT_A15",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325.0,
   "T": [
    1556.110248,
-   809.6102478,
    2112.110248
   ]
  },
@@ -27,17 +25,6 @@
     ],
     [
      0.02124099955
-    ]
-   ]
-  ],
-  [
-   [
-    "CR3PT_A15",
-    [
-     "PT"
-    ],
-    [
-     0.3781250856
     ]
    ]
   ],
@@ -65,15 +52,13 @@
   "target_tdb": "CrPt-09Pre.tdb",
   "record_ids": [
    "aspa-86360281045f40d1",
-   "aspa-4c058d90e204b0b4",
    "aspa-e44c87bfc37db830"
   ],
   "confidence": [
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 5,
+  "points_left_out": 6,
   "source": "assessed-phase-assemblages/espei-zpf/CR-PT-p332.json"
  },
  "orchid_uncertainty_budget": {
@@ -94,23 +79,6 @@
      "sigma_reading": 0.000672269,
      "sigma_method": 0.02,
      "sigma_boundary_margin": 0.0215232,
-     "sigma_effective": 0.02
-    }
-   },
-   {
-    "record_id": "aspa-4c058d90e204b0b4",
-    "temperature_K": {
-     "sigma_printed": null,
-     "sigma_reading": 1.067,
-     "sigma_method": 10.0,
-     "sigma_boundary_margin": 36.0,
-     "sigma_effective": 10.0
-    },
-    "composition_mole_fraction": {
-     "sigma_printed": null,
-     "sigma_reading": 0.000672269,
-     "sigma_method": 0.02,
-     "sigma_boundary_margin": 0.0250269,
      "sigma_effective": 0.02
     }
    },

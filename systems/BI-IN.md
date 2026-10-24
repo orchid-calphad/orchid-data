@@ -1,6 +1,6 @@
 # Bi–In system
 
-> Bi–In system: 21 accepted literature values (invariant reaction 17, formation 2, phase transition 2) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–In system: 21 accepted literature values (invariant reaction 17, phase transition 2, model expression 1, formation 1) and 3 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-IN.html · Markdown: https://data.orchid-project.org/systems/BI-IN.md
 
@@ -21,7 +21,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 17 |
 | phase transition | 2 |
-| formation | 2 |
+| formation | 1 |
+| model expression | 1 |
 
 ## Calculated phase diagrams
 
@@ -107,11 +108,10 @@ Table: Invariant reactions reported in the literature for the Bi–In system (17
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Bi–In system (2)
+Table: Enthalpies of formation, Bi–In system (1)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| — |  | -753 unspecified ± 42 | 273 | experimental |  |  | [1] Chevalier 1988; _cites ref. 1141_ | p. 2 | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
 | — |  | -502 unspecified ± 42 | 273 | experimental |  |  | [1] Chevalier 1988; _cites ref. 1141_ | p. 2 | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
 
 ## Other properties
@@ -124,6 +124,14 @@ Table: Phase transition, Bi–In system
 |---|---:|---:|---|---|---|---|---|
 | Phase transition | 362.65 K | 362.65 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1 | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
 | Phase transition | 383.15 K | 383.15 | congruent transformation | model | [2] Boa 1998; _cites Ansara 1986_ | p. 1 | “BiIn, BiIn2 are congruent melting compounds, the corresponding temperatures of fusion being 383.15 and 362.65 K, respectively.” |
+
+### Model expression (1)
+
+Table: Model expression, Bi–In system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| hm form expression term; _printed: AH(B)_ | -753 unspecified ± 42 |  |  | experimental | [1] Chevalier 1988; _cites ref. 1141_ | p. 2 | “The heats of formation have been measured by calorimetry by Robinson and Bever 1141 -T=273K ; AH(B)=-753+42 J/g.at ; AH(6) =-502+42 J/g.at-, Boom et al. ; AH(v)=-16952226 J/g.at-; AH(6)=-456? 1151 -T=273K ; AH(B)= -2975 ?251 J/g.at )=-732+63 J/g.at ; AH(y )=-544t63 J/g. 230 J/g.at-, and Singh 1161 -T=273K ; AHH(B at ; AH( 6)=-481?63 J/g.at-.” |
 
 ## Sources
 

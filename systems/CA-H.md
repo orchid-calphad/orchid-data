@@ -1,10 +1,10 @@
 # Ca–H system
 
-> Ca–H system: 33 accepted literature values (crystal structure 15, formation 10, phase transition 7, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–H system: 31 accepted literature values (crystal structure 13, formation 10, phase transition 7, invariant reaction 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-H.html · Markdown: https://data.orchid-project.org/systems/CA-H.md
 
-33 accepted literature values from 1 paper(s) (experimental 18, model 3, DFT 12); 2 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 17, model 3, DFT 11); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-H.json) · [CSV](https://data.orchid-project.org/systems/CA-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-H/CaH-11Wan.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CA-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-H.html) · [Markdown](https://data.orchid-project.org/systems/CA-H.md)
 
@@ -12,9 +12,9 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 17 |
 | model | 3 |
-| DFT | 12 |
+| DFT | 11 |
 
 Table: Accepted values by property group
 
@@ -23,7 +23,7 @@ Table: Accepted values by property group
 | invariant reaction | 1 |
 | phase transition | 7 |
 | formation | 10 |
-| crystal structure | 15 |
+| crystal structure | 13 |
 
 ## Calculated phase diagrams
 
@@ -101,20 +101,18 @@ Table: Phase transition, Ca–H system
 | Phase transition | 1257 K | 1257 | other: CaH2 -> liquid Ca + H2 | model | [1] Wang 2011 | p. 7 | “The complete CaeH phase diagram calculated at 1 atm in Fig. 4 shows that CaH2 decomposed to liquid Ca and H2 at 1257 K.” |
 | Phase transition | 1268 K | 1268 | liquid / bCaH2 þ liquid | model | [1] Wang 2011 | p. 7 | “It takes on singular features with the miscibility gap in the liquid phase of which composition range spans about 41.5e99.7 mol % CaH2 and an invariant reaction of liquid / bCaH2 þ liquid at 1268 K.” |
 
-### Crystal structure (15)
+### Crystal structure (13)
 
 Table: Crystal structure, Ca–H system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.545 Å | 0 | Ca fcc; _alloy: H 0_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 4 |  |
 | Lattice a | 5.157 Å | 0 | CaH; _alloy: H 0.5_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 6 |  |
 | Lattice a | 4.366 Å | 0 | CaH1.5; _alloy: H 0.6_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 7 |  |
 | Lattice a | 5.92 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8 |  |
 | Lattice a | 5.92 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1 |  |
 | Lattice a | 5.445 Å |  | βCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 10 |  |
 | Lattice a | 5.445 Å | 0 | βCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 3 |  |
-| Lattice a | 5.57 Å | 298.15 | Ca fcc; _alloy: H 0_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 5 |  |
 | Lattice a | 5.948 Å | 298.15 | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 2 |  |
 | Lattice b | 3.582 Å |  | αCaH2; _alloy: H 0.666667_ | experimental | [1] Wang 2011 | Table 3, p. 5, row 8 |  |
 | Lattice b | 3.582 Å | 0 | αCaH2; _alloy: H 0.666667_ | DFT | [1] Wang 2011 | Table 3, p. 5, row 1 |  |

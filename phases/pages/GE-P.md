@@ -15,7 +15,7 @@ Table: Phases of the Ge–P system (8)
 | [DIAMOND_A4](#phase-ge-p-a4-diamond); _phase:ge-p:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1211.4 K, x(P) 0–0.00248 | 0 | 2 |
 | [BCC_A2](#phase-ge-p-bcc-a2); _phase:ge-p:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-ge-p-fcc-a1); _phase:ge-p:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
-| [GEP](#phase-ge-p-gep); _phase:ge-p:gep_ | SiAs · mC24 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1002 K, x(P) 0.5–0.5 | 24 | 2 |
+| [GEP](#phase-ge-p-gep); _phase:ge-p:gep_ | SiAs · mC24 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–1002 K, x(P) 0.5–0.5 | 31 | 2 |
 | [HCP_A3](#phase-ge-p-hcp-a3); _phase:ge-p:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [LIQUID](#phase-ge-p-liquid); _phase:ge-p:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 841.27–2500 K, x(P) 0–1 | 1 | 2 |
 | [RED_P](#phase-ge-p-p-red); _phase:ge-p:p-red_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–852.36 K, x(P) 1–1 | 0 | 2 |
@@ -134,11 +134,11 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (no_on_hull_entry_in_mp, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Ge 0.5000, P 0.5000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1002 K, x(P) 0.5–0.5
-- Literature: 24 values (24 accepted) from 1 papers
+- Literature: 31 values (31 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-p:gep)
 
-Names (4): _corpus: _corpus:phase:ge-p:gep  
-_paper: _paper:10.1007/s11664-021-08861-4:GeP  
+Names (5): _corpus: _corpus:phase:ge-p:gep  
+_paper: _paper:10.1007/s11664-021-08861-4:GeP, paper:10.1007/s11664-022-09474-1:GeP  
 _tdb: _tdb:GeP-21Don.tdb:GEP, tdb:GeP-22Che.tdb:GEP  
 
 
@@ -163,14 +163,14 @@ Example references (7 of 7; assessments first):
 - [doi:10.1007/s11664-021-08861-4](https://doi.org/10.1007/s11664-021-08861-4) Hongqun Dong, Xiaoma Tao, Mervi Paulasto-Kröckel, Calculation of Phase Diagrams and First-Principles Study of Germanium Impacts on Phosphorus Distribution in Czochralski Silicon, Journal of Elec Materi 50, 4272-4288 (2021).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11664-022-09474-1](https://doi.org/10.1007/s11664-022-09474-1) Shanxiong Chen, Jiong Wang, Shangzhao Yu, Biao Hu, Qing Wu, Yong Du, Thermodynamic Modeling of the Ge-X (X = As, Se, S, P) Systems, J. Electron. Mater. 51, 2114-2130 (2022).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.3891/acta.chem.scand.21-0593](https://doi.org/10.3891/acta.chem.scand.21-0593) Tommy Wadsten, M. Vikan, C. Krohn, Åke Nilsson, H. Theorell, R. Blinc et al., The Crystal Structures of SiP2, SiAs2, and GeP., Acta Chem. Scand. 21, 593-594 (1967).  
+_cited as the source of values for this phase_
 - [doi:10.1038/npjcompumats.2015.10](https://doi.org/10.1038/npjcompumats.2015.10) Scott Kirklin, James E Saal, Bryce Meredig, Alex Thompson, Jeff W Doak, Muratahan Aykol et al., The Open Quantum Materials Database (OQMD): assessing the accuracy of DFT formation energies, npj Comput Mater 1 (2015).  
 _cited as the source of values for this phase_
 - [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) Anubhav Jain, Shyue Ping Ong, Geoffroy Hautier, Wei Chen, William Davidson Richards, Stephen Dacek et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.jssc.2014.04.021](https://doi.org/10.1016/j.jssc.2014.04.021) Kathleen Lee, Sarah Synnestvedt, Maverick Bellard, Kirill Kovnir, GeP and (Ge1−Sn )(P1−Ge ) (x≈0.12, y≈0.05): Synthesis, structure, and properties of two-dimensional layered tetrel phosphides, Journal of Solid State Chemistry 224, 62-70 (2015).  
-_cited as the source of values for this phase_
-- [doi:10.3891/acta.chem.scand.21-0593](https://doi.org/10.3891/acta.chem.scand.21-0593) Tommy Wadsten, M. Vikan, C. Krohn, Åke Nilsson, H. Theorell, R. Blinc et al., The Crystal Structures of SiP2, SiAs2, and GeP., Acta Chem. Scand. 21, 593-594 (1967).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.commatsci.2012.02.005](https://doi.org/10.1016/j.commatsci.2012.02.005) Stefano Curtarolo, Wahyu Setyawan, Gus L.W. Hart, Michal Jahnatek, Roman V. Chepulskii, Richard H. Taylor et al., AFLOW: An automatic framework for high-throughput materials discovery, Computational Materials Science 58, 218-226 (2012).  
 _cited as the source of values for this phase_
@@ -251,6 +251,7 @@ _assessment that models this phase_
 - Id: `phase:ge-p:p-red`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RED; no_structure_token
 - Candidate (sgte_mmc2): (Red P) — Hallstedt 2025 mmc2 row for RED_P: Red P
+- Stoichiometry: P 1.0000
 - Stability: stable in 2 of 2 calculated diagram(s): 300–852.36 K, x(P) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-p:p-red)
@@ -287,6 +288,7 @@ _assessment that models this phase_
 - Id: `phase:ge-p:p-white`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:WHITE; no_structure_token
 - Candidate (sgte_mmc2): (White P) — Hallstedt 2025 mmc2 row for WHITE_P: White P
+- Stoichiometry: P 1.0000
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ge-p:p-white)

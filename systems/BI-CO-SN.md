@@ -1,10 +1,10 @@
 # Bi–Co–Sn system
 
-> Bi–Co–Sn system: 33 accepted literature values (crystal structure 18, phase equilibrium 9, invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Bi–Co–Sn system: 15 accepted literature values (phase equilibrium 9, invariant reaction 6) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/BI-CO-SN.html · Markdown: https://data.orchid-project.org/systems/BI-CO-SN.md
 
-33 accepted literature values from 1 paper(s) (experimental 18, model 6, unspecified 9); 0 calculated phase diagram(s).
+15 accepted literature values from 1 paper(s) (experimental 9, model 6); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/BI-CO-SN.json) · [CSV](https://data.orchid-project.org/systems/BI-CO-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#BI-CO-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/BI-CO-SN.html) · [Markdown](https://data.orchid-project.org/systems/BI-CO-SN.md)
 
@@ -12,9 +12,8 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 18 |
+| experimental | 9 |
 | model | 6 |
-| unspecified | 9 |
 
 Table: Accepted values by property group
 
@@ -22,7 +21,6 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 6 |
 | phase equilibrium | 9 |
-| crystal structure | 18 |
 
 ## Invariant reactions (literature)
 
@@ -54,31 +52,6 @@ Table: Phase equilibrium, Bi–Co–Sn system
 | Phase composition |  | 523.15 | CoSn3 + CoSn2 + L; _CoSn3: Bi 0.001, Co 0.246, Sn 0.753; CoSn2: Bi 0.001, Co 0.33, Sn 0.669; L: Bi 0.53, Co 0.014, Sn 0.456_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 6 |  |
 | Phase composition |  | 523.15 | αCo3Sn2 + (Bi) + εCo; _αCo3Sn2: Bi 0.001, Co 0.596, Sn 0.403; (Bi): Bi 0.992, Co 0.004, Sn 0.004; εCo: Bi 0.001, Co 0.988, Sn 0.011_ | experimental | [1] Hu 2022 | Table 2, p. 5, row 1 |  |
 | Phase composition |  | 723.15 | αCo3Sn2 + L; _αCo3Sn2: Bi 0.003, Co 0.595, Sn 0.402; L: Bi 0.972, Co 0.013, Sn 0.015_ | experimental | [1] Hu 2022 | Table 3, p. 9, row 1 |  |
-
-### Crystal structure (18)
-
-Table: Crystal structure, Bi–Co–Sn system
-
-| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
-|---|---:|---:|---|---|---|---|---|
-| Lattice a | 5.234 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
-| Lattice a | 6.361 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [1] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
-| Lattice a | 7.085 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
-| Lattice a | 16.864 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
-| Lattice a | 4.162 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
-| Lattice a | 6.275 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
-| Lattice b | 5.234 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
-| Lattice b | 6.361 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [1] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
-| Lattice b | 5.216 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
-| Lattice b | 6.268 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
-| Lattice b | 4.162 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
-| Lattice b | 6.275 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
-| Lattice c | 4.166 Å | 298.15 | CoSn; _alloy: Co 0.5, Sn 0.5_ | unspecified | [1] Hu 2022; _cites Mikhaylushkin 2008_ [doi](https://doi.org/10.1103/physrevb.77.014102) | Table 1, p. 3, row 3 |  |
-| Lattice c | 5.458 Å | 298.15 | CoSn2; _alloy: Co 0.333333, Sn 0.666667_ | experimental | [1] Hu 2022; _cites Armbruster 2007_ | Table 1, p. 3, row 4 |  |
-| Lattice c | 8.194 Å | 298.15 | αCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 1 |  |
-| Lattice c | 6.27 Å | 298.15 | αCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 5 |  |
-| Lattice c | 5.233 Å | 298.15 | βCo3Sn2; _alloy: Co 0.6, Sn 0.4_ | unspecified | [1] Hu 2022; _cites Fjellvag 1986_ [doi](https://doi.org/10.3891/acta.chem.scand.40a-0023) | Table 1, p. 3, row 2 |  |
-| Lattice c | 33.742 Å | 298.15 | βCoSn3; _alloy: Co 0.25, Sn 0.75_ | experimental | [1] Hu 2022; _cites Lang 1996_ | Table 1, p. 3, row 6 |  |
 
 ## Sources
 

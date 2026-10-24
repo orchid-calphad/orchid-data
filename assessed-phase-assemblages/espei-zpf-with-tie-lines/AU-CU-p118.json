@@ -5,7 +5,7 @@
   "VA"
  ],
  "phases": [
-  "A1_FCC",
+  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
@@ -21,7 +21,7 @@
  "values": [
   [
    [
-    "A1_FCC",
+    "FCC_A1",
     [
      "CU"
     ],
@@ -52,7 +52,7 @@
     ]
    ],
    [
-    "A1_FCC",
+    "FCC_A1",
     [
      "CU"
     ],
@@ -63,7 +63,7 @@
   ],
   [
    [
-    "A1_FCC",
+    "FCC_A1",
     [
      "CU"
     ],

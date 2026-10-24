@@ -1,10 +1,10 @@
 # Pr–Si system
 
-> Pr–Si system: 10 accepted literature values (phase transition 6, invariant reaction 4) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Pr–Si system: 43 accepted literature values (crystal structure 30, invariant reaction 7, phase transition 6) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/PR-SI.html · Markdown: https://data.orchid-project.org/systems/PR-SI.md
 
-10 accepted literature values from 1 paper(s) (experimental 8, model 2); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+43 accepted literature values from 1 paper(s) (experimental 8, model 3, unspecified 32); 1 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/PR-SI.json) · [CSV](https://data.orchid-project.org/systems/PR-SI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#PR-SI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#PR-SI/PrSi-20Xu.json) · [phases (12)](https://data.orchid-project.org/phases/pages/PR-SI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/PR-SI.html) · [Markdown](https://data.orchid-project.org/systems/PR-SI.md)
 
@@ -13,14 +13,16 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 2 |
+| model | 3 |
+| unspecified | 32 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 4 |
+| invariant reaction | 7 |
 | phase transition | 6 |
+| crystal structure | 30 |
 
 ## Calculated phase diagrams
 
@@ -58,12 +60,15 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Pr–Si system (4)
+Table: Invariant reactions reported in the literature for the Pr–Si system (7)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1805.15 | peritectic |  | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
 | 1690.15 | peritectic |  | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
+| 1625.15 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 4, p. 10, row 68 |  |
+| 1619.65 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | unspecified | [1] Xu 2020; _cites ref. 28_ | Table 4, p. 10, row 67 |  |
+| 1610.85 | peritectoid: β-Pr5Si9 + PrSi -> Pr3Si4 |  | model | [1] Xu 2020 | Table 4, p. 10, row 66 |  |
 | 1423.15 | eutectic: L⇌(C) + SiC + Pr3Si2C2 |  | experimental | [1] Xu 2020 | p. 10 | “This peak with an average onset at 1150°C is assumed as the temperature of the corresponding ternary eutectic reaction: L⇌(C) + SiC + Pr3Si2C2 in the present calculations.” |
 | 1421.15 | eutectic: L⇌(C) + SiC + Pr3Si2C2 |  | model | [1] Xu 2020 | p. 9 | “During sintering processes, RE3Si2C2 will react with SiC and transform into liquid via different ternary eutectic reactions: L⇌ (C) + SiC + La3Si2C2 at 810°C, L⇌(C) + SiC + Ce3Si2C2 at 747°C, and L⇌(C) + SiC + Pr3Si2C2 at 1148°C respectively.” |
 
@@ -81,6 +86,43 @@ Table: Phase transition, Pr–Si system
 | Phase transition | 430.15 K | 430.15 | polymorphic | experimental | [1] Xu 2020; _cites ref. 19_ | p. 4 | “Eremenko et al19 reported the polymorphic transition between α-Pr5Si9 (orthorhombic) and β-Pr5Si9 (tetragonal) at Pr-rich Pr5Si9 to be at 157°C and the temperature was 57°C at 0.353 mole fraction Pr” |
 | Phase transition | 1625.15 K | 1625.15 | other | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
 | Phase transition | 1930.15 K | 1930.15 | congruent transformation | experimental | [1] Xu 2020 | p. 4 | “The Pr5Si3 and Pr5Si4 phases formed at 1417°C and 1532°C by peritectic reactions, while PrSi melted congruently at 1657°C and Pr3Si4 formed at 1352°C by a peritectoid reaction.” |
+
+### Crystal structure (30)
+
+Table: Crystal structure, Pr–Si system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 0.42 not_printed ± 8.000e-4 |  | β-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 23 |  |
+| Lattice a | 4.2 Å ± 0.008 |  | β-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 23 |  |
+| Lattice a | 4.3922 Å ± 2.000e-4 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice a | 0.43922 not_printed ± 2.000e-5 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice a | 8.7822 Å ± 5.000e-4 | 298.15 | Pr5Si3; _alloy: Pr 0.625, Si 0.375_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 13 |  |
+| Lattice a | 0.87822 not_printed ± 5.000e-5 | 298.15 | Pr5Si3; _alloy: Pr 0.625, Si 0.375_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 13 |  |
+| Lattice a | 0.7901 not_printed ± 2.000e-4 | 298.15 | Pr5Si4; _alloy: Pr 0.555556, Si 0.444444_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 15 |  |
+| Lattice a | 7.901 Å ± 0.002 | 298.15 | Pr5Si4; _alloy: Pr 0.555556, Si 0.444444_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 15 |  |
+| Lattice a | 8.24 Å ± 0.004 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice a | 0.824 not_printed ± 4.000e-4 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice a | 0.4166 not_printed ± 7.000e-4 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
+| Lattice a | 4.166 Å ± 0.007 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
+| Lattice b | 24.74 Å ± 0.001 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice b | 2.474 not_printed ± 1.000e-4 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice b | 0.394 not_printed ± 7.000e-4 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice b | 3.94 Å ± 0.007 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice b | 4.112 Å ± 0.002 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
+| Lattice b | 0.4112 not_printed ± 2.000e-4 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
+| Lattice c | 1.3733 not_printed ± 1.000e-4 |  | β-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 23 |  |
+| Lattice c | 13.733 Å ± 0.001 |  | β-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 23 |  |
+| Lattice c | 0.39375 not_printed ± 2.000e-5 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice c | 3.9375 Å ± 2.000e-4 | 298.15 | Pr3Si4; _alloy: Pr 0.428571, Si 0.571429_ | unspecified | [1] Xu 2020; _cites ref. 50_ | Table 1, p. 3, row 19 |  |
+| Lattice c | 1.3783 not_printed ± 5.000e-5 | 298.15 | Pr5Si3; _alloy: Pr 0.625, Si 0.375_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 13 |  |
+| Lattice c | 13.783 Å ± 0.005 | 298.15 | Pr5Si3; _alloy: Pr 0.625, Si 0.375_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 13 |  |
+| Lattice c | 14.95 Å ± 0.004 | 298.15 | Pr5Si4; _alloy: Pr 0.555556, Si 0.444444_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 15 |  |
+| Lattice c | 1.495 not_printed ± 4.000e-4 | 298.15 | Pr5Si4; _alloy: Pr 0.555556, Si 0.444444_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 15 |  |
+| Lattice c | 5.92 Å ± 0.001 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice c | 0.592 not_printed ± 1.000e-4 | 298.15 | PrSi; _alloy: Pr 0.5, Si 0.5_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 17 |  |
+| Lattice c | 13.819 Å ± 0.006 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
+| Lattice c | 1.3819 not_printed ± 6.000e-4 | 298.15 | α-PrSi1.8; _alloy: Pr 0.357143, Si 0.642857_ | unspecified | [1] Xu 2020; _cites ref. 19_ | Table 1, p. 3, row 21 |  |
 
 ## Sources
 

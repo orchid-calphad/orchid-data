@@ -1,10 +1,10 @@
 # Ce–Cu–Sn system
 
-> Ce–Cu–Sn system: 235 accepted literature values (crystal structure 161, invariant reaction 51, formation 15, phase transition 8) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ce–Cu–Sn system: 141 accepted literature values (crystal structure 75, invariant reaction 51, phase transition 8, formation 7) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CE-CU-SN.html · Markdown: https://data.orchid-project.org/systems/CE-CU-SN.md
 
-235 accepted literature values from 1 paper(s) (experimental 12, model 125, DFT 94, unspecified 4); 0 calculated phase diagram(s).
+141 accepted literature values from 1 paper(s) (experimental 12, model 83, DFT 42, unspecified 4); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CE-CU-SN.json) · [CSV](https://data.orchid-project.org/systems/CE-CU-SN.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CE-CU-SN) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CE-CU-SN.html) · [Markdown](https://data.orchid-project.org/systems/CE-CU-SN.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 125 |
-| DFT | 94 |
+| model | 83 |
+| DFT | 42 |
 | unspecified | 4 |
 
 Table: Accepted values by property group
@@ -23,8 +23,8 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 51 |
 | phase transition | 8 |
-| formation | 15 |
-| crystal structure | 161 |
+| formation | 7 |
+| crystal structure | 75 |
 
 ## Invariant reactions (literature)
 
@@ -88,18 +88,10 @@ Table: Invariant reactions reported in the literature for the Ce–Cu–Sn syste
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Ce–Cu–Sn system (15)
+Table: Enthalpies of formation, Ce–Cu–Sn system (7)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Ce11Sn10 |  | -83.97 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Ce2Sn5 |  | -71.73 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| Ce3Sn |  | -49.526 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Ce3Sn5 |  | -79.746 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| Ce3Sn7 |  | -73.449 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Ce5Sn3 |  | -73.794 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| Ce5Sn4 |  | -83.048 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| CeSn3 |  | -66.574 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 16 |  |
 | τ1—Ce5CuSn3 |  | -66.441 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 18 |  |
 | τ2—CeCuSn |  | -63.066 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | τ2—CeCuSn2 |  | -63.066 kJ/mol-atom | 0 | DFT |  |  | [1] Li 2013 | Table 1, p. 3, row 20 |  |
@@ -125,28 +117,12 @@ Table: Phase transition, Ce–Cu–Sn system
 | Phase transition | 1273.15 K | 1273.15 (>) | other: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | experimental | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 6, p. 8, row 7 |  |
 | Phase transition | 1428.15 K | 1428.15 | other: 4; _alloy: Ce 0.31, Cu 0.51, Sn 0.18_ | unspecified | [1] Li 2013 | Table 6, p. 8, row 8 |  |
 
-### Crystal structure (161)
+### Crystal structure (75)
 
 Table: Crystal structure, Ce–Cu–Sn system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Lattice a; _printed: a_ | 12.164 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Lattice a; _printed: a_ | 12.2 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 7 |  |
-| Lattice a; _printed: a_ | 4.559 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| Lattice a; _printed: a_ | 4.683 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| Lattice a; _printed: a_ | 5.044 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | DFT | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Lattice a; _printed: a_ | 4.93 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 1 |  |
-| Lattice a; _printed: a_ | 10.249 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| Lattice a; _printed: a_ | 10.128 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| Lattice a; _printed: a_ | 4.524 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| Lattice a; _printed: a_ | 4.623 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Lattice a; _printed: a_ | 12.582 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| Lattice a; _printed: a_ | 12.782 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| Lattice a; _printed: a_ | 8.4625 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| Lattice a; _printed: a_ | 8.333 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| Lattice a; _printed: a_ | 4.823 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | DFT | [1] Li 2013 | Table 1, p. 3, row 16 |  |
-| Lattice a; _printed: a_ | 4.72 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 15 |  |
 | Lattice a; _printed: a_ | 9.486 Å | 0 | τ1—Ce5CuSn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 17 |  |
 | Lattice a; _printed: a_ | 9.661 Å | 0 | τ1—Ce5CuSn3 | DFT | [1] Li 2013 | Table 1, p. 3, row 18 |  |
 | Lattice a; _printed: a_ | 4.588 Å | 0 | τ2—CeCuSn | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 19 |  |
@@ -163,21 +139,6 @@ Table: Crystal structure, Ce–Cu–Sn system
 | Lattice a; _printed: a_ | 10.669 Å | 0 | τ8—Ce2Cu9Sn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 28 |  |
 | Lattice a; _printed: a_ | 8.323 Å | 0 | τ9—CeCu5Sn | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 30 |  |
 | Lattice a; _printed: a_ | 8.438 Å | 0 | τ9—CeCu5Sn | DFT | [1] Li 2013 | Table 1, p. 3, row 31 |  |
-| Lattice b; _printed: b_ | 12.155 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Lattice b; _printed: b_ | 35.014 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| Lattice b; _printed: b_ | 36.022 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| Lattice b; _printed: b_ | 5.044 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | DFT | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Lattice b; _printed: b_ | 4.93 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 1 |  |
-| Lattice b; _printed: b_ | 8.2 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| Lattice b; _printed: b_ | 8.32 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| Lattice b; _printed: b_ | 25.742 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| Lattice b; _printed: b_ | 26.352 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Lattice b; _printed: b_ | 12.5821 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| Lattice b; _printed: b_ | 2.782 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| Lattice b; _printed: b_ | 16.24 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| Lattice b; _printed: b_ | 16.001 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| Lattice b; _printed: b_ | 4.823 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | DFT | [1] Li 2013 | Table 1, p. 3, row 16 |  |
-| Lattice b; _printed: b_ | 4.72 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 15 |  |
 | Lattice b; _printed: b_ | 9.661 Å | 0 | τ1—Ce5CuSn3 | DFT | [1] Li 2013 | Table 1, p. 3, row 18 |  |
 | Lattice b; _printed: b_ | 4.624 Å | 0 | τ2—CeCuSn | DFT | [1] Li 2013 | Table 1, p. 3, row 20 |  |
 | Lattice b; _printed: b_ | 7.099 Å | 0 | τ3—Ce3Cu4Sn4 | DFT | [1] Li 2013 | Table 1, p. 3, row 22 |  |
@@ -187,22 +148,6 @@ Table: Crystal structure, Ce–Cu–Sn system
 | Lattice b; _printed: b_ | 16.7341 Å | 0 | τ8—Ce2Cu9Sn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 28 |  |
 | Lattice b; _printed: b_ | 5.064 Å | 0 | τ9—CeCu5Sn | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 30 |  |
 | Lattice b; _printed: b_ | 5.133 Å | 0 | τ9—CeCu5Sn | DFT | [1] Li 2013 | Table 1, p. 3, row 31 |  |
-| Lattice c; _printed: c_ | 18.212 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| Lattice c; _printed: c_ | 17.9 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 7 |  |
-| Lattice c; _printed: c_ | 4.619 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| Lattice c; _printed: c_ | 4.723 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| Lattice c; _printed: c_ | 5.044 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | DFT | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| Lattice c; _printed: c_ | 4.93 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 1 |  |
-| Lattice c; _printed: c_ | 10.569 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| Lattice c; _printed: c_ | 10.776 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| Lattice c; _printed: c_ | 4.61 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| Lattice c; _printed: c_ | 4.707 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| Lattice c; _printed: c_ | 6.202 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| Lattice c; _printed: c_ | 6.347 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| Lattice c; _printed: c_ | 8.621 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| Lattice c; _printed: c_ | 8.473 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| Lattice c; _printed: c_ | 4.823 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | DFT | [1] Li 2013 | Table 1, p. 3, row 16 |  |
-| Lattice c; _printed: c_ | 4.72 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 15 |  |
 | Lattice c; _printed: c_ | 6.712 Å | 0 | τ1—Ce5CuSn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 17 |  |
 | Lattice c; _printed: c_ | 6.883 Å | 0 | τ1—Ce5CuSn3 | DFT | [1] Li 2013 | Table 1, p. 3, row 18 |  |
 | Lattice c; _printed: c_ | 7.919 Å | 0 | τ2—CeCuSn | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 19 |  |
@@ -217,45 +162,6 @@ Table: Crystal structure, Ce–Cu–Sn system
 | Lattice c; _printed: c_ | 5.066 Å | 0 | τ8—Ce2Cu9Sn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 28 |  |
 | Lattice c; _printed: c_ | 10.597 Å | 0 | τ9—CeCu5Sn | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 30 |  |
 | Lattice c; _printed: c_ | 10.729 Å | 0 | τ9—CeCu5Sn | DFT | [1] Li 2013 | Table 1, p. 3, row 31 |  |
-| lattice unspecified axis; _printed: lattice a_ | 12.164 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| lattice unspecified axis; _printed: lattice c_ | 18.212 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| lattice unspecified axis; _printed: lattice b_ | 12.155 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | DFT | [1] Li 2013 | Table 1, p. 3, row 8 |  |
-| lattice unspecified axis; _printed: lattice a_ | 12.2 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 7 |  |
-| lattice unspecified axis; _printed: lattice c_ | 17.9 Å | 0 | Ce11Sn10; _alloy: Cu 0, Sn 0.47619_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 7 |  |
-| lattice unspecified axis; _printed: lattice b_ | 35.014 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.559 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| lattice unspecified axis; _printed: lattice c_ | 4.619 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 13 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.683 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| lattice unspecified axis; _printed: lattice b_ | 36.022 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| lattice unspecified axis; _printed: lattice c_ | 4.723 Å | 0 | Ce2Sn5; _alloy: Cu 0, Sn 0.714286_ | DFT | [1] Li 2013 | Table 1, p. 3, row 14 |  |
-| lattice unspecified axis; _printed: lattice a_ | 5.044 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | DFT | [1] Li 2013 | Table 1, p. 3, row 2 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.93 Å | 0 | Ce3Sn; _alloy: Cu 0, Sn 0.25_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 1 |  |
-| lattice unspecified axis; _printed: lattice b_ | 8.2 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| lattice unspecified axis; _printed: lattice a_ | 10.249 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| lattice unspecified axis; _printed: lattice c_ | 10.569 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 9 |  |
-| lattice unspecified axis; _printed: lattice c_ | 10.776 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| lattice unspecified axis; _printed: lattice a_ | 10.128 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| lattice unspecified axis; _printed: lattice b_ | 8.32 Å | 0 | Ce3Sn5; _alloy: Cu 0, Sn 0.625_ | DFT | [1] Li 2013 | Table 1, p. 3, row 10 |  |
-| lattice unspecified axis; _printed: lattice b_ | 25.742 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.524 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| lattice unspecified axis; _printed: lattice c_ | 4.61 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 11 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.623 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| lattice unspecified axis; _printed: lattice c_ | 4.707 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| lattice unspecified axis; _printed: lattice b_ | 26.352 Å | 0 | Ce3Sn7; _alloy: Cu 0, Sn 0.7_ | DFT | [1] Li 2013 | Table 1, p. 3, row 12 |  |
-| lattice unspecified axis; _printed: lattice c_ | 6.202 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| lattice unspecified axis; _printed: lattice b_ | 12.5821 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| lattice unspecified axis; _printed: lattice a_ | 12.582 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | model | [1] Li 2013; _cites Franceschi 1988_ [doi](https://doi.org/10.1007/bf01913184) | Table 1, p. 3, row 3 |  |
-| lattice unspecified axis; _printed: lattice c_ | 6.347 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| lattice unspecified axis; _printed: lattice b_ | 2.782 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| lattice unspecified axis; _printed: lattice a_ | 12.782 Å | 0 | Ce5Sn3; _alloy: Cu 0, Sn 0.375_ | DFT | [1] Li 2013 | Table 1, p. 3, row 4 |  |
-| lattice unspecified axis; _printed: lattice c_ | 8.621 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| lattice unspecified axis; _printed: lattice a_ | 8.4625 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| lattice unspecified axis; _printed: lattice b_ | 16.24 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | DFT | [1] Li 2013 | Table 1, p. 3, row 6 |  |
-| lattice unspecified axis; _printed: lattice a_ | 8.333 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| lattice unspecified axis; _printed: lattice b_ | 16.001 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| lattice unspecified axis; _printed: lattice c_ | 8.473 Å | 0 | Ce5Sn4; _alloy: Cu 0, Sn 0.444444_ | model | [1] Li 2013; _cites Borzone 1982_ [doi](https://doi.org/10.1016/0022-5088%2882%2990070-4) | Table 1, p. 3, row 5 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.823 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | DFT | [1] Li 2013 | Table 1, p. 3, row 16 |  |
-| lattice unspecified axis; _printed: lattice a_ | 4.72 Å | 0 | CeSn3; _alloy: Cu 0, Sn 0.75_ | model | [1] Li 2013; _cites Weitzer 1991_ [doi](https://doi.org/10.1016/0022-5088%2891%2990019-z) | Table 1, p. 3, row 15 |  |
 | lattice unspecified axis; _printed: lattice a_ | 9.486 Å | 0 | τ1—Ce5CuSn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 17 |  |
 | lattice unspecified axis; _printed: lattice c_ | 6.712 Å | 0 | τ1—Ce5CuSn3 | model | [1] Li 2013; _cites Riani 1998_ [doi](https://doi.org/10.1361/105497198770342256) | Table 1, p. 3, row 17 |  |
 | lattice unspecified axis; _printed: lattice a_ | 9.661 Å | 0 | τ1—Ce5CuSn3 | DFT | [1] Li 2013 | Table 1, p. 3, row 18 |  |

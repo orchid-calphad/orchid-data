@@ -32,15 +32,15 @@ Table: Uncertainty budget of the literature values of ZrN
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -184.515 | kJ/mol-atom |  | 0.0025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -184.515 | kJ/mol-atom |  | 0.0025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -183.887 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -183.887 | kJ/mol-atom |  | 2.500e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -182.75 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -182.75 | kJ/mol-atom |  | 0.025 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -203 | kJ/mol-atom |  | 0.25 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -208.299 | kJ/mol-atom |  | 2.500e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -166.448 | kJ/mol-atom |  | 2.500e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -184.515 | kJ/mol-atom |  | 0.0025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -184.515 | kJ/mol-atom |  | 0.0025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -183.887 | kJ/mol-atom |  | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -183.887 | kJ/mol-atom |  | 2.500e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -182.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -182.75 | kJ/mol-atom |  | 0.025 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -203 | kJ/mol-atom |  | 0.25 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -208.299 | kJ/mol-atom |  | 2.500e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -166.448 | kJ/mol-atom |  | 2.500e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 

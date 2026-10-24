@@ -7,6 +7,7 @@
   "dsc_dta": "DSC / DTA-derived",
   "emf": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
   "equilibration_other": "equilibration and other methods (gas equilibria, p-c-T, solubility, estimates derived from other data)",
+  "evaluated_compilation": "evaluated / estimated / reviewed / selected values of a compilation or assessment (not an independent measurement; never paired in the calibration)",
   "experimental_unspecified": "experimental, method not named ('Exp.', 'measured')",
   "heat_content_calorimetry": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
   "kems_vapour": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
@@ -24,152 +25,244 @@
   "file": "espei/dft/CALIBRATION.json",
   "literature": {
    "all": {
-    "bias_mean": 3.895,
+    "bias_mean": 3.932,
     "bias_median": 1.078,
     "ci95": {
      "bias_median": [
-      0.29,
-      2.1
+      0.5,
+      1.7
      ],
      "q68_abs": [
-      5.104,
-      7.978
+      7.46,
+      9.702
      ],
      "q95_abs": [
-      25.041,
-      49.954
+      26.17,
+      37.058
      ],
      "rmse": [
-      13.281,
-      23.646
+      13.157,
+      19.503
      ],
      "sigma_robust": [
-      4.359,
-      6.753
+      6.114,
+      8.228
      ]
     },
-    "n": 247,
-    "n_with_printed_exp_sigma": 166,
-    "q68_abs": 6.1,
-    "q95_abs": 35.143,
-    "rmse": 18.597,
-    "rmse_over_sigma_robust": 3.55,
-    "sigma_deconvolved": 4.848,
-    "sigma_exp_median": 2.0,
-    "sigma_robust": 5.244
+    "ci95_cluster_system": {
+     "bias_median": [
+      -0.152,
+      3.01
+     ],
+     "q68_abs": [
+      6.1,
+      11.948
+     ],
+     "q95_abs": [
+      23.811,
+      46.266
+     ],
+     "rmse": [
+      11.377,
+      21.017
+     ],
+     "sigma_robust": [
+      5.282,
+      9.754
+     ]
+    },
+    "n": 479,
+    "n_systems": 81,
+    "n_with_printed_exp_sigma": 300,
+    "q68_abs": 8.69,
+    "q95_abs": 31.241,
+    "rmse": 16.264,
+    "rmse_over_sigma_robust": 2.3,
+    "sigma_deconvolved": 6.728,
+    "sigma_exp_median": 2.218,
+    "sigma_robust": 7.084
    },
    "strata": {
     "magnetic_3d": {
-     "bias_mean": 7.613,
-     "bias_median": 1.27,
+     "bias_mean": 5.813,
+     "bias_median": 0.85,
      "ci95": {
       "bias_median": [
-       0.558,
-       2.353
+       0.13,
+       1.64
       ],
       "q68_abs": [
-       3.613,
-       5.3
+       3.608,
+       4.746
       ],
       "q95_abs": [
-       17.95,
-       105.607
+       12.7,
+       102.255
       ],
       "rmse": [
-       15.155,
-       35.125
+       13.058,
+       31.44
       ],
       "sigma_robust": [
-       2.601,
-       4.595
+       2.946,
+       4.848
       ]
      },
-     "n": 90,
-     "n_with_printed_exp_sigma": 78,
-     "q68_abs": 4.311,
-     "q95_abs": 57.89,
-     "rmse": 25.852,
-     "rmse_over_sigma_robust": 7.34,
-     "sigma_deconvolved": 3.187,
-     "sigma_exp_median": 1.5,
-     "sigma_robust": 3.522
+     "ci95_cluster_system": {
+      "bias_median": [
+       -0.69,
+       2.206
+      ],
+      "q68_abs": [
+       2.75,
+       5.349
+      ],
+      "q95_abs": [
+       5.326,
+       102.255
+      ],
+      "rmse": [
+       3.033,
+       34.709
+      ],
+      "sigma_robust": [
+       2.133,
+       5.702
+      ]
+     },
+     "n": 113,
+     "n_systems": 14,
+     "n_with_printed_exp_sigma": 94,
+     "q68_abs": 4.102,
+     "q95_abs": 50.5,
+     "rmse": 23.067,
+     "rmse_over_sigma_robust": 5.94,
+     "sigma_deconvolved": 3.509,
+     "sigma_exp_median": 1.665,
+     "sigma_robust": 3.884
     },
     "metal": {
-     "bias_mean": 3.147,
-     "bias_median": 0.214,
+     "bias_mean": 4.19,
+     "bias_median": 1.113,
      "ci95": {
       "bias_median": [
-       -0.86,
-       2.9
+       0.214,
+       2.956
       ],
       "q68_abs": [
-       5.567,
-       10.567
+       7.815,
+       10.87
       ],
       "q95_abs": [
-       22.49,
-       36.055
+       21.878,
+       30.8
       ],
       "rmse": [
-       9.818,
-       15.266
+       10.62,
+       13.819
       ],
       "sigma_robust": [
-       4.783,
-       8.981
+       6.817,
+       10.008
       ]
      },
-     "n": 93,
-     "n_with_printed_exp_sigma": 63,
-     "q68_abs": 6.937,
-     "q95_abs": 29.552,
-     "rmse": 12.618,
-     "rmse_over_sigma_robust": 2.01,
-     "sigma_deconvolved": 5.953,
-     "sigma_exp_median": 2.0,
-     "sigma_robust": 6.28
+     "ci95_cluster_system": {
+      "bias_median": [
+       -0.634,
+       5.798
+      ],
+      "q68_abs": [
+       6.3,
+       13.196
+      ],
+      "q95_abs": [
+       21.449,
+       33.46
+      ],
+      "rmse": [
+       9.672,
+       14.984
+      ],
+      "sigma_robust": [
+       5.715,
+       11.365
+      ]
+     },
+     "n": 241,
+     "n_systems": 41,
+     "n_with_printed_exp_sigma": 151,
+     "q68_abs": 9.02,
+     "q95_abs": 25.666,
+     "rmse": 12.267,
+     "rmse_over_sigma_robust": 1.45,
+     "sigma_deconvolved": 8.154,
+     "sigma_exp_median": 2.3,
+     "sigma_robust": 8.472
     },
     "pblock_anion": {
-     "bias_mean": -0.246,
-     "bias_median": 1.215,
+     "bias_mean": 1.735,
+     "bias_median": 1.08,
      "ci95": {
       "bias_median": [
        -0.5,
-       4.37
+       3.687
       ],
       "q68_abs": [
-       5.967,
-       11.755
+       9.496,
+       14.802
       ],
       "q95_abs": [
-       13.918,
-       38.767
+       27.665,
+       38.964
       ],
       "rmse": [
-       8.677,
-       16.341
+       12.957,
+       18.139
       ],
       "sigma_robust": [
-       5.244,
-       11.298
+       7.116,
+       13.21
       ]
      },
-     "n": 64,
-     "n_with_printed_exp_sigma": 25,
-     "q68_abs": 10.278,
-     "q95_abs": 31.223,
-     "rmse": 12.789,
-     "rmse_over_sigma_robust": 1.86,
-     "sigma_deconvolved": 5.866,
+     "ci95_cluster_system": {
+      "bias_median": [
+       -1.667,
+       8.412
+      ],
+      "q68_abs": [
+       8.245,
+       17.87
+      ],
+      "q95_abs": [
+       22.2,
+       48.826
+      ],
+      "rmse": [
+       10.496,
+       19.835
+      ],
+      "sigma_robust": [
+       6.115,
+       15.117
+      ]
+     },
+     "n": 125,
+     "n_systems": 26,
+     "n_with_printed_exp_sigma": 55,
+     "q68_abs": 11.771,
+     "q95_abs": 32.288,
+     "rmse": 15.574,
+     "rmse_over_sigma_robust": 1.53,
+     "sigma_deconvolved": 9.528,
      "sigma_exp_median": 3.6,
-     "sigma_robust": 6.883
+     "sigma_robust": 10.185
     }
    }
   },
   "note": "sources.literature of the ESPEI DFT calibration (values only; its input hash is left out so that this file depends on values, not on the release bytes)",
   "priors": {
    "ACTIVITY": {
-    "floor": 5.3,
+    "floor": 7.1,
     "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
    },
    "CPM": {
@@ -181,19 +274,19 @@
     "text": "ORCHID assumption, 20 mV"
    },
    "GM_FORM": {
-    "floor": 5.3,
+    "floor": 7.1,
     "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
    },
    "G_MIX_PARTIAL": {
-    "floor": 5.3,
+    "floor": 7.1,
     "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
    },
    "HEAT_CONTENT": {
-    "floor": 5.3,
+    "floor": 7.1,
     "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
    },
    "H_MIX_PARTIAL": {
-    "floor": 5.3,
+    "floor": 7.1,
     "text": "prior by analogy: the calibrated DFT formation-enthalpy sigma of literature DFT values (all strata), used for other DFT energies because no DFT-vs-experiment calibration exists for them"
    },
    "LATTICE_ANGLE": {
@@ -237,6 +330,9 @@
  "estimator": "robust sigma = 1.4826 x median|d| / sqrt(2) over pairs of independent same-class measurements of one state (zero-mean differences); 95 % percentile bootstrap over states",
  "independence": "one value per primary source and state (origin.measured_in, else the single cited source, else the reporting paper for its own work, else the reporting paper marked unattributed; median of the source's values); identical values from different sources are counted once (one measurement re-listed)",
  "min_pairs": 20,
+ "min_pairs_cleaned": 5,
+ "min_states": 10,
+ "min_states_cleaned": 3,
  "model": {
   "ACTIVITY": {
    "basis": "prior",
@@ -249,8 +345,8 @@
   "CPM": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 227,
-   "n_states": 89,
+   "n_pairs": 229,
+   "n_states": 90,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
@@ -265,42 +361,42 @@
   "GM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    0.504084,
-    0.800604
+    0.563388,
+    0.874734
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 0.7,
-   "n_pairs": 192,
-   "n_states": 146,
+   "n_pairs": 204,
+   "n_states": 150,
    "sigma_robust": 0.637518
   },
   "G_MIX_PARTIAL": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 157,
-   "n_states": 103,
+   "n_pairs": 115,
+   "n_states": 87,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
   "HEAT_CONTENT": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 538,
-   "n_states": 17,
+   "n_pairs": 340,
+   "n_states": 154,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
   "HM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    2.857711,
-    4.160176
+    2.89107,
+    4.245425
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 3.3,
-   "n_pairs": 2186,
-   "n_states": 378,
-   "sigma_robust": 3.270616
+   "floor": 3.4,
+   "n_pairs": 2075,
+   "n_states": 372,
+   "sigma_robust": 3.359572
   },
   "H_MIX_PARTIAL": {
    "basis": "prior",
@@ -322,39 +418,39 @@
    "basis": "calibrated",
    "ci95": [
     0.007225,
-    0.012948
+    0.014706
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 0.0112,
-   "n_pairs": 223,
-   "n_states": 133,
-   "sigma_robust": 0.011143
+   "floor": 0.0115,
+   "n_pairs": 203,
+   "n_states": 117,
+   "sigma_robust": 0.011404
   },
   "SM_FORM": {
    "basis": "calibrated",
    "ci95": [
-    2.762084,
-    4.836686
+    1.601208,
+    4.143867
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
-   "floor": 3.7,
-   "n_pairs": 116,
-   "n_states": 51,
-   "sigma_robust": 3.60766
+   "floor": 3.3,
+   "n_pairs": 115,
+   "n_states": 39,
+   "sigma_robust": 3.203899
   },
   "S_ABS": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 240,
-   "n_states": 78,
+   "n_pairs": 257,
+   "n_states": 81,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
   "S_MIX_PARTIAL": {
    "basis": "prior",
    "floor": 1.0,
-   "n_pairs": 27,
-   "n_states": 13,
+   "n_pairs": 14,
+   "n_states": 8,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
@@ -370,12 +466,12 @@
    "basis": "calibrated",
    "ci95": [
     3.11346,
-    4.4478
+    4.388496
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 4.0,
-   "n_pairs": 14188,
-   "n_states": 5391,
+   "n_pairs": 14080,
+   "n_states": 5361,
    "sigma_robust": 3.7065
   },
   "T_TRANSITION": {
@@ -389,21 +485,21 @@
   "VOLUME": {
    "basis": "prior",
    "floor": 0.005,
-   "n_pairs": 5,
-   "n_states": 4,
+   "n_pairs": 0,
+   "n_states": 0,
    "prior_source": "orchid_assumed",
    "why_prior": "value type not calibrated against experiment (state keys of this type do not identify one state reliably enough)"
   },
   "X_PHASE": {
    "basis": "calibrated",
    "ci95": [
-    0.003855,
+    0.004448,
     0.004448
    ],
    "estimator": "1.4826 x median|model - experiment| over states with both (includes the experimental error; conservative); the models were often fitted to these experiments, so it is a lower bound of the model's error",
    "floor": 0.005,
-   "n_pairs": 16938,
-   "n_states": 8871,
+   "n_pairs": 16679,
+   "n_states": 8807,
    "sigma_robust": 0.004448
   }
  },
@@ -421,6 +517,7 @@
  "value_types": {
   "ACTIVITY": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "kJ/mol (chemical potential)",
    "classes": {
     "emf": {
@@ -448,16 +545,21 @@
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "unknown": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.73326,
+      4.289692
+     ],
      "class": "unknown",
-     "floor": 1.0,
+     "floor": 2.9,
      "floor_at_minimum": false,
      "n_pairs": 9,
      "n_states": 9,
+     "prior": 1.0,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 2.89104,
+     "sigma_robust": 2.89104,
      "text": "method not printed",
-     "why_prior": "9 pairs from 9 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "9 pairs from 9 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     }
    },
    "label": "activity (floor on mu = RT ln a)",
@@ -473,6 +575,7 @@
   },
   "CPM": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "J/K/mol",
    "classes": {
     "dsc_dta": {
@@ -500,43 +603,54 @@
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "heat_content_calorimetry": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.136286,
+      1.855591
+     ],
      "class": "heat_content_calorimetry",
-     "floor": 0.2,
-     "floor_at_minimum": true,
-     "n_pairs": 42,
-     "n_states": 7,
+     "floor": 0.5,
+     "floor_at_minimum": false,
+     "n_pairs": 43,
+     "n_states": 8,
+     "prior": 0.2,
      "prior_source": "espei",
-     "sigma_robust_insufficient_data": 0.419343,
+     "sigma_robust": 0.419343,
      "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
-     "why_prior": "42 pairs from 7 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "43 pairs from 8 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "unknown": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.256323,
+      1.118072
+     ],
      "class": "unknown",
-     "floor": 0.5,
+     "floor": 0.6,
      "floor_at_minimum": false,
      "n_pairs": 6,
      "n_states": 6,
+     "prior": 0.5,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 0.577644,
+     "sigma_robust": 0.577644,
      "text": "method not printed",
-     "why_prior": "6 pairs from 6 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "6 pairs from 6 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     }
    },
    "label": "heat capacity",
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.2,
    "pooled_all_classes": {
-    "n_pairs": 48,
-    "sigma_robust": 1.440966
+    "n_pairs": 49,
+    "sigma_robust": 1.403749
    },
    "relisted_values_counted_once": 0,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 13
+   "states_with_two_or_more_sources": 14
   },
   "EMF": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "mV",
    "classes": {
     "experimental_unspecified": {
@@ -577,6 +691,7 @@
   },
   "GM_FORM": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 1,
    "canonical_unit": "kJ/mol-atom",
    "classes": {
     "emf": {
@@ -634,13 +749,13 @@
       2.096713
      ],
      "class": "unknown",
-     "floor": 1.1,
+     "floor": 1.2,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.4975,
-     "n_pairs": 38,
-     "n_states": 18,
-     "sigma_robust": 1.085049,
-     "sigma_robust_unweighted": 0.521557,
+     "median_abs_diff": 0.5,
+     "n_pairs": 37,
+     "n_states": 17,
+     "sigma_robust": 1.121741,
+     "sigma_robust_unweighted": 0.524178,
      "text": "method not printed"
     }
    },
@@ -648,44 +763,41 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 46,
-    "sigma_robust": 0.536409
+    "n_pairs": 45,
+    "sigma_robust": 0.538156
    },
-   "relisted_values_counted_once": 5,
+   "relisted_values_counted_once": 2,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 22
+   "states_with_two_or_more_sources": 21
   },
   "G_MIX_PARTIAL": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "kJ/mol",
    "classes": {
     "emf": {
-     "basis": "calibrated",
-     "ci95": [
-      1.383831,
-      6.090951
-     ],
+     "basis": "prior",
      "class": "emf",
-     "floor": 3.2,
-     "floor_at_minimum": false,
-     "median_abs_diff": 3.09,
-     "n_pairs": 95,
-     "n_states": 15,
-     "sigma_robust": 3.166037,
-     "sigma_robust_unweighted": 3.239422,
-     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+     "floor": 0.5,
+     "floor_at_minimum": true,
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "espei",
+     "sigma_robust_insufficient_data": null,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "experimental_unspecified": {
      "basis": "prior",
      "class": "experimental_unspecified",
      "floor": 1.0,
      "floor_at_minimum": false,
-     "n_pairs": 1,
-     "n_states": 1,
+     "n_pairs": 0,
+     "n_states": 0,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 7.860577,
+     "sigma_robust_insufficient_data": null,
      "text": "experimental, method not named ('Exp.', 'measured')",
-     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "kems_vapour": {
      "basis": "prior",
@@ -700,31 +812,37 @@
      "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "unknown": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      1.109161,
+      1.980425
+     ],
      "class": "unknown",
-     "floor": 1.0,
+     "floor": 1.4,
      "floor_at_minimum": false,
      "n_pairs": 15,
      "n_states": 15,
+     "prior": 1.0,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 1.348186,
+     "sigma_robust": 1.348186,
      "text": "method not printed",
-     "why_prior": "15 pairs from 15 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "15 pairs from 15 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     }
    },
    "label": "mixing / partial Gibbs energy, chemical potential",
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 141,
-    "sigma_robust": 3.370466
+    "n_pairs": 18,
+    "sigma_robust": 1.530076
    },
    "relisted_values_counted_once": 0,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 37
+   "states_with_two_or_more_sources": 18
   },
   "HEAT_CONTENT": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "kJ/mol",
    "classes": {
     "experimental_unspecified": {
@@ -752,44 +870,54 @@
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "unknown": {
-     "basis": "prior",
+     "basis": "calibrated",
+     "ci95": [
+      0.056611,
+      0.278863
+     ],
      "class": "unknown",
-     "floor": 1.0,
-     "floor_at_minimum": false,
-     "n_pairs": 16,
-     "n_states": 4,
-     "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 12.842629,
-     "text": "method not printed",
-     "why_prior": "16 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
+     "floor": 0.5,
+     "floor_at_minimum": true,
+     "median_abs_diff": 0.155,
+     "n_pairs": 223,
+     "n_states": 79,
+     "sigma_robust": 0.13419,
+     "sigma_robust_unweighted": 0.162495,
+     "text": "method not printed"
     }
    },
    "label": "heat content H(T)-H(298)",
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 16,
-    "sigma_robust": 17.274294
+    "n_pairs": 223,
+    "sigma_robust": 0.162495
    },
-   "relisted_values_counted_once": 0,
+   "relisted_values_counted_once": 8,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 4
+   "states_with_two_or_more_sources": 79
   },
   "HM_FORM": {
-   "basis_error_pairs_excluded": 15,
+   "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 7,
    "canonical_unit": "kJ/mol-atom",
    "classes": {
     "combustion_calorimetry": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.088062,
+      5.330144
+     ],
      "class": "combustion_calorimetry",
      "floor": 1.0,
      "floor_at_minimum": false,
      "n_pairs": 15,
      "n_states": 4,
+     "prior": 1.0,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 0.880619,
+     "sigma_robust": 0.880619,
      "text": "combustion (oxygen / fluorine bomb) calorimetry",
-     "why_prior": "15 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "15 pairs from 4 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "dsc_dta": {
      "basis": "prior",
@@ -804,48 +932,54 @@
      "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "emf": {
-     "basis": "calibrated",
+     "basis": "cleaned_below_threshold",
      "ci95": [
-      3.878919,
-      14.362484
+      1.887042,
+      14.818519
      ],
      "class": "emf",
-     "floor": 8.1,
+     "floor": 4.6,
      "floor_at_minimum": false,
-     "median_abs_diff": 7.8645,
-     "n_pairs": 32,
-     "n_states": 12,
-     "sigma_robust": 8.072345,
-     "sigma_robust_unweighted": 8.2448,
-     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+     "n_pairs": 17,
+     "n_states": 8,
+     "prior": 1.0,
+     "prior_source": "kubaschewski",
+     "sigma_robust": 4.565593,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why": "17 pairs from 8 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "experimental_unspecified": {
      "basis": "calibrated",
      "ci95": [
-      1.572535,
-      5.032111
+      2.133406,
+      6.594162
      ],
      "class": "experimental_unspecified",
      "floor": 3.8,
      "floor_at_minimum": false,
-     "median_abs_diff": 3.0,
-     "n_pairs": 35,
-     "n_states": 13,
+     "median_abs_diff": 3.38,
+     "n_pairs": 30,
+     "n_states": 10,
      "sigma_robust": 3.76989,
-     "sigma_robust_unweighted": 3.14507,
+     "sigma_robust_unweighted": 3.543445,
      "text": "experimental, method not named ('Exp.', 'measured')"
     },
     "kems_vapour": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      3.354741,
+      11.722373
+     ],
      "class": "kems_vapour",
-     "floor": 3.0,
+     "floor": 5.6,
      "floor_at_minimum": false,
-     "n_pairs": 14,
-     "n_states": 12,
+     "n_pairs": 18,
+     "n_states": 13,
+     "prior": 3.0,
      "prior_source": "drowart2005",
-     "sigma_robust_insufficient_data": 7.653003,
+     "sigma_robust": 5.55629,
      "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
-     "why_prior": "14 pairs from 12 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "18 pairs from 13 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "kems_vapour_second_law": {
      "basis": "prior",
@@ -874,33 +1008,33 @@
     "solution_reaction_calorimetry": {
      "basis": "calibrated",
      "ci95": [
-      1.932121,
-      5.902247
+      2.180582,
+      5.975632
      ],
      "class": "solution_reaction_calorimetry",
      "floor": 3.5,
      "floor_at_minimum": false,
-     "median_abs_diff": 3.75,
-     "n_pairs": 74,
-     "n_states": 36,
-     "sigma_robust": 3.428126,
-     "sigma_robust_unweighted": 3.931337,
+     "median_abs_diff": 3.206667,
+     "n_pairs": 75,
+     "n_states": 42,
+     "sigma_robust": 3.496269,
+     "sigma_robust_unweighted": 3.36173,
      "text": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)"
     },
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      2.568473,
-      4.413581
+      2.41122,
+      4.298262
      ],
      "class": "unknown",
-     "floor": 4.1,
+     "floor": 3.5,
      "floor_at_minimum": false,
-     "median_abs_diff": 3.5125,
-     "n_pairs": 312,
-     "n_states": 106,
-     "sigma_robust": 4.035124,
-     "sigma_robust_unweighted": 3.682352,
+     "median_abs_diff": 3.347,
+     "n_pairs": 296,
+     "n_states": 97,
+     "sigma_robust": 3.459576,
+     "sigma_robust_unweighted": 3.508849,
      "text": "method not printed"
     }
    },
@@ -908,15 +1042,16 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.5,
    "pooled_all_classes": {
-    "n_pairs": 835,
-    "sigma_robust": 4.298262
+    "n_pairs": 756,
+    "sigma_robust": 3.564412
    },
-   "relisted_values_counted_once": 72,
+   "relisted_values_counted_once": 51,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 201
+   "states_with_two_or_more_sources": 193
   },
   "H_MIX_PARTIAL": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "kJ/mol",
    "classes": {
     "experimental_unspecified": {
@@ -963,12 +1098,13 @@
     "n_pairs": 11,
     "sigma_robust": 24.489608
    },
-   "relisted_values_counted_once": 6,
+   "relisted_values_counted_once": 1,
    "rounding_step": 0.1,
    "states_with_two_or_more_sources": 2
   },
   "LATTICE_ANGLE": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "degree",
    "classes": {
     "experimental_unspecified": {
@@ -1009,50 +1145,56 @@
   },
   "LATTICE_LENGTH": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "relative (fraction of the value)",
    "classes": {
     "experimental_unspecified": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.000481,
+      0.004794
+     ],
      "class": "experimental_unspecified",
-     "floor": 0.001,
+     "floor": 0.0013,
      "floor_at_minimum": false,
      "n_pairs": 9,
      "n_states": 9,
+     "prior": 0.001,
      "prior_source": "orchid_assumed",
-     "sigma_robust_insufficient_data": 0.001249,
+     "sigma_robust": 0.001249,
      "text": "experimental, method not named ('Exp.', 'measured')",
-     "why_prior": "9 pairs from 9 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "9 pairs from 9 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.00189,
+      0.002011,
       0.002664
      ],
      "class": "unknown",
      "floor": 0.0023,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.002183,
-     "n_pairs": 603,
-     "n_states": 194,
-     "sigma_robust": 0.00222,
-     "sigma_robust_unweighted": 0.002288,
+     "median_abs_diff": 0.002194,
+     "n_pairs": 601,
+     "n_states": 196,
+     "sigma_robust": 0.002277,
+     "sigma_robust_unweighted": 0.0023,
      "text": "method not printed"
     },
     "xrd": {
      "basis": "calibrated",
      "ci95": [
-      0.000794,
-      0.001837
+      0.000866,
+      0.0022
      ],
      "class": "xrd",
-     "floor": 0.0011,
+     "floor": 0.0013,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.001091,
-     "n_pairs": 24,
-     "n_states": 22,
-     "sigma_robust": 0.001082,
-     "sigma_robust_unweighted": 0.001144,
+     "median_abs_diff": 0.001151,
+     "n_pairs": 23,
+     "n_states": 21,
+     "sigma_robust": 0.001206,
+     "sigma_robust_unweighted": 0.001206,
      "text": "X-ray / neutron diffraction"
     }
    },
@@ -1060,15 +1202,16 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.0002,
    "pooled_all_classes": {
-    "n_pairs": 676,
-    "sigma_robust": 0.002198
+    "n_pairs": 673,
+    "sigma_robust": 0.00221
    },
-   "relisted_values_counted_once": 65,
+   "relisted_values_counted_once": 59,
    "rounding_step": 0.0001,
-   "states_with_two_or_more_sources": 233
+   "states_with_two_or_more_sources": 234
   },
   "SM_FORM": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 8,
    "canonical_unit": "J/K/mol-atom",
    "classes": {
     "emf": {
@@ -1076,11 +1219,23 @@
      "class": "emf",
      "floor": 1.0,
      "floor_at_minimum": false,
+     "n_pairs": 3,
+     "n_states": 1,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": 2.697771,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "3 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+    },
+    "equilibration_other": {
+     "basis": "prior",
+     "class": "equilibration_other",
+     "floor": 1.0,
+     "floor_at_minimum": false,
      "n_pairs": 1,
      "n_states": 1,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 2.725727,
-     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "sigma_robust_insufficient_data": 1.509633,
+     "text": "equilibration and other methods (gas equilibria, p-c-T, solubility, estimates derived from other data)",
      "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "experimental_unspecified": {
@@ -1112,12 +1267,12 @@
      "class": "kems_vapour",
      "floor": 2.0,
      "floor_at_minimum": false,
-     "n_pairs": 2,
-     "n_states": 2,
+     "n_pairs": 1,
+     "n_states": 1,
      "prior_source": "drowart2005",
-     "sigma_robust_insufficient_data": 6.803834,
+     "sigma_robust_insufficient_data": 8.491688,
      "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
-     "why_prior": "2 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "kems_vapour_second_law": {
      "basis": "prior",
@@ -1130,18 +1285,6 @@
      "sigma_robust_insufficient_data": null,
      "text": "Knudsen-effusion / vapour pressure, second-law evaluation",
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
-    },
-    "solution_reaction_calorimetry": {
-     "basis": "prior",
-     "class": "solution_reaction_calorimetry",
-     "floor": 1.0,
-     "floor_at_minimum": false,
-     "n_pairs": 1,
-     "n_states": 1,
-     "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 2.306384,
-     "text": "solution / reaction calorimetry (direct synthesis, solute-solvent drop, high-temperature solution, isoperibolic, Calvet)",
-     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "unknown": {
      "basis": "prior",
@@ -1160,15 +1303,16 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.2,
    "pooled_all_classes": {
-    "n_pairs": 23,
-    "sigma_robust": 4.82244
+    "n_pairs": 29,
+    "sigma_robust": 4.403097
    },
    "relisted_values_counted_once": 0,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 10
+   "states_with_two_or_more_sources": 7
   },
   "S_ABS": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "J/K/mol",
    "classes": {
     "emf": {
@@ -1176,12 +1320,12 @@
      "class": "emf",
      "floor": 0.5,
      "floor_at_minimum": false,
-     "n_pairs": 46,
-     "n_states": 2,
+     "n_pairs": 45,
+     "n_states": 1,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 1.79269,
+     "sigma_robust_insufficient_data": 1.991877,
      "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
-     "why_prior": "46 pairs from 2 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why_prior": "45 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "experimental_unspecified": {
      "basis": "prior",
@@ -1196,43 +1340,48 @@
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "heat_content_calorimetry": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      0.073385,
+      1.928976
+     ],
      "class": "heat_content_calorimetry",
-     "floor": 0.2,
-     "floor_at_minimum": true,
-     "n_pairs": 18,
-     "n_states": 8,
+     "floor": 1.0,
+     "floor_at_minimum": false,
+     "n_pairs": 19,
+     "n_states": 9,
+     "prior": 0.2,
      "prior_source": "espei",
-     "sigma_robust_insufficient_data": 1.018403,
+     "sigma_robust": 0.91207,
      "text": "adiabatic / drop / levitation / relaxation calorimetry for Cp and H increments",
-     "why_prior": "18 pairs from 8 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "19 pairs from 9 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "kems_vapour": {
      "basis": "prior",
      "class": "kems_vapour",
      "floor": 0.5,
      "floor_at_minimum": false,
-     "n_pairs": 3,
-     "n_states": 3,
+     "n_pairs": 4,
+     "n_states": 4,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 0.704496,
+     "sigma_robust_insufficient_data": 1.248593,
      "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
-     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why_prior": "4 pairs from 4 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.262089,
-      0.964488
+      0.285111,
+      1.174159
      ],
      "class": "unknown",
-     "floor": 0.5,
+     "floor": 0.6,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.5156,
-     "n_pairs": 91,
-     "n_states": 21,
-     "sigma_robust": 0.449296,
-     "sigma_robust_unweighted": 0.540533,
+     "median_abs_diff": 0.53003,
+     "n_pairs": 90,
+     "n_states": 20,
+     "sigma_robust": 0.594069,
+     "sigma_robust_unweighted": 0.55566,
      "text": "method not printed"
     }
    },
@@ -1240,32 +1389,29 @@
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.2,
    "pooled_all_classes": {
-    "n_pairs": 189,
-    "sigma_robust": 1.018403
+    "n_pairs": 190,
+    "sigma_robust": 1.003677
    },
    "relisted_values_counted_once": 5,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 36
+   "states_with_two_or_more_sources": 37
   },
   "S_MIX_PARTIAL": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "J/K/mol",
    "classes": {
     "emf": {
-     "basis": "calibrated",
-     "ci95": [
-      2.096713,
-      14.93908
-     ],
+     "basis": "prior",
      "class": "emf",
-     "floor": 3.9,
+     "floor": 0.5,
      "floor_at_minimum": false,
-     "median_abs_diff": 4.005,
-     "n_pairs": 30,
-     "n_states": 10,
-     "sigma_robust": 3.878919,
-     "sigma_robust_unweighted": 4.198668,
-     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)"
+     "n_pairs": 0,
+     "n_states": 0,
+     "prior_source": "kubaschewski",
+     "sigma_robust_insufficient_data": null,
+     "text": "EMF (galvanic cells, solid / molten-salt electrolytes, coulometric titration)",
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "experimental_unspecified": {
      "basis": "prior",
@@ -1279,44 +1425,33 @@
      "text": "experimental, method not named ('Exp.', 'measured')",
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
-    "kems_vapour": {
-     "basis": "prior",
-     "class": "kems_vapour",
-     "floor": 1.0,
-     "floor_at_minimum": false,
-     "n_pairs": 3,
-     "n_states": 3,
-     "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 13.55525,
-     "text": "Knudsen-effusion mass spectrometry / vapour pressure (effusion, torsion, transpiration, isopiestic, dissociation pressure)",
-     "why_prior": "3 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
-    },
     "unknown": {
      "basis": "prior",
      "class": "unknown",
      "floor": 1.0,
      "floor_at_minimum": false,
-     "n_pairs": 1,
-     "n_states": 1,
+     "n_pairs": 0,
+     "n_states": 0,
      "prior_source": "kubaschewski",
-     "sigma_robust_insufficient_data": 60.950924,
+     "sigma_robust_insufficient_data": null,
      "text": "method not printed",
-     "why_prior": "1 pairs from 1 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     }
    },
    "label": "mixing / partial / excess entropy",
    "minimum_basis": "ESPEI 0.9.1 experimental reference sigmas (500 J/mol for enthalpies and the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities; espei/error_functions, 'estimated from NIST TRC uncertainties')",
    "minimum_floor": 0.2,
    "pooled_all_classes": {
-    "n_pairs": 41,
-    "sigma_robust": 8.596523
+    "n_pairs": 0,
+    "sigma_robust": null
    },
    "relisted_values_counted_once": 0,
    "rounding_step": 0.1,
-   "states_with_two_or_more_sources": 17
+   "states_with_two_or_more_sources": 0
   },
   "T_CONDITION": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "K",
    "classes": {
     "experimental_unspecified": {
@@ -1357,6 +1492,7 @@
   },
   "T_INVARIANT": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "K",
    "classes": {
     "emf": {
@@ -1398,16 +1534,16 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      8.386852,
+      9.435209,
       10.483565
      ],
      "class": "unknown",
-     "floor": 10.0,
+     "floor": 11.0,
      "floor_at_minimum": false,
      "median_abs_diff": 10.0,
-     "n_pairs": 4981,
-     "n_states": 1688,
-     "sigma_robust": 9.435209,
+     "n_pairs": 4914,
+     "n_states": 1677,
+     "sigma_robust": 10.483565,
      "sigma_robust_unweighted": 10.483565,
      "text": "method not printed"
     }
@@ -1416,15 +1552,16 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 1.0,
    "pooled_all_classes": {
-    "n_pairs": 4986,
+    "n_pairs": 4919,
     "sigma_robust": 10.483565
    },
-   "relisted_values_counted_once": 1009,
+   "relisted_values_counted_once": 872,
    "rounding_step": 1.0,
-   "states_with_two_or_more_sources": 1691
+   "states_with_two_or_more_sources": 1680
   },
   "T_TRANSITION": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "K",
    "classes": {
     "experimental_unspecified": {
@@ -1440,16 +1577,21 @@
      "why_prior": "0 pairs from 0 states (calibration needs >= 20 pairs and >= 10 states)"
     },
     "thermal_analysis": {
-     "basis": "prior",
+     "basis": "cleaned_below_threshold",
+     "ci95": [
+      3.14507,
+      67.094817
+     ],
      "class": "thermal_analysis",
      "floor": 5.0,
      "floor_at_minimum": false,
      "n_pairs": 8,
      "n_states": 3,
+     "prior": 5.0,
      "prior_source": "orchid_assumed",
-     "sigma_robust_insufficient_data": 3.249905,
+     "sigma_robust": 3.249905,
      "text": "thermal analysis (DTA / DSC / heating-cooling curves)",
-     "why_prior": "8 pairs from 3 states (calibration needs >= 20 pairs and >= 10 states)"
+     "why": "8 pairs from 3 states (below the >= 20 pairs / >= 10 states calibration rule, >= 5 pairs from >= 3 states): floor = max(documented prior, cleaned robust sigma)"
     },
     "unknown": {
      "basis": "calibrated",
@@ -1458,13 +1600,13 @@
       31.450695
      ],
      "class": "unknown",
-     "floor": 17.0,
+     "floor": 18.0,
      "floor_at_minimum": false,
-     "median_abs_diff": 24.5,
-     "n_pairs": 220,
-     "n_states": 43,
-     "sigma_robust": 16.773704,
-     "sigma_robust_unweighted": 25.684735,
+     "median_abs_diff": 30.0,
+     "n_pairs": 256,
+     "n_states": 44,
+     "sigma_robust": 17.822061,
+     "sigma_robust_unweighted": 31.450695,
      "text": "method not printed"
     }
    },
@@ -1472,15 +1614,16 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 1.0,
    "pooled_all_classes": {
-    "n_pairs": 237,
-    "sigma_robust": 23.063843
+    "n_pairs": 273,
+    "sigma_robust": 31.450695
    },
    "relisted_values_counted_once": 33,
    "rounding_step": 1.0,
-   "states_with_two_or_more_sources": 53
+   "states_with_two_or_more_sources": 54
   },
   "VOLUME": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "relative (fraction of the value)",
    "classes": {
     "experimental_unspecified": {
@@ -1498,17 +1641,17 @@
     "unknown": {
      "basis": "calibrated",
      "ci95": [
-      0.005248,
-      0.053299
+      0.004727,
+      0.055551
      ],
      "class": "unknown",
      "floor": 0.0197,
      "floor_at_minimum": false,
-     "median_abs_diff": 0.004927,
-     "n_pairs": 50,
-     "n_states": 12,
+     "median_abs_diff": 0.004921,
+     "n_pairs": 49,
+     "n_states": 11,
      "sigma_robust": 0.019682,
-     "sigma_robust_unweighted": 0.005165,
+     "sigma_robust_unweighted": 0.005159,
      "text": "method not printed"
     }
    },
@@ -1516,15 +1659,16 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.0005,
    "pooled_all_classes": {
-    "n_pairs": 50,
-    "sigma_robust": 0.005165
+    "n_pairs": 49,
+    "sigma_robust": 0.005159
    },
    "relisted_values_counted_once": 1,
    "rounding_step": 0.0001,
-   "states_with_two_or_more_sources": 12
+   "states_with_two_or_more_sources": 11
   },
   "X_PHASE": {
    "basis_error_pairs_excluded": 0,
+   "basis_screened_values_excluded": 0,
    "canonical_unit": "mole fraction",
    "classes": {
     "experimental_unspecified": {
@@ -1579,14 +1723,14 @@
      "basis": "calibrated",
      "ci95": [
       0.010484,
-      0.01258
+      0.011532
      ],
      "class": "unknown",
      "floor": 0.011,
      "floor_at_minimum": false,
      "median_abs_diff": 0.011,
-     "n_pairs": 3139,
-     "n_states": 1453,
+     "n_pairs": 3022,
+     "n_states": 1425,
      "sigma_robust": 0.010484,
      "sigma_robust_unweighted": 0.011532,
      "text": "method not printed"
@@ -1596,13 +1740,13 @@
    "minimum_basis": "smallest meaningful floor for the quantity (ORCHID choice)",
    "minimum_floor": 0.001,
    "pooled_all_classes": {
-    "n_pairs": 3154,
+    "n_pairs": 3037,
     "sigma_robust": 0.011532
    },
-   "relisted_values_counted_once": 1821,
+   "relisted_values_counted_once": 1700,
    "rounding_step": 0.001,
-   "states_with_two_or_more_sources": 1459
+   "states_with_two_or_more_sources": 1431
   }
  },
- "version": "orchid-uncertainty-calibration 2026-10-24"
+ "version": "orchid-uncertainty-calibration 2026-10-24 (audit round 2)"
 }

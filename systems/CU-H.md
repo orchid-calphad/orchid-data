@@ -1,10 +1,10 @@
 # Cu–H system
 
-> Cu–H system: 2 accepted literature values (invariant reaction 1, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Cu–H system: 3 accepted literature values (formation 1, invariant reaction 1, phase transition 1) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CU-H.html · Markdown: https://data.orchid-project.org/systems/CU-H.md
 
-2 accepted literature values from 2 paper(s) (experimental 1, model 1); 2 calculated phase diagram(s).
+3 accepted literature values from 2 paper(s) (experimental 1, model 1, DFT 1); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CU-H.json) · [CSV](https://data.orchid-project.org/systems/CU-H.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CU-H) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CU-H/CuH-07Hua.json) · [phases (7)](https://data.orchid-project.org/phases/pages/CU-H.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CU-H.html) · [Markdown](https://data.orchid-project.org/systems/CU-H.md)
 
@@ -14,6 +14,7 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 1 |
 | model | 1 |
+| DFT | 1 |
 
 Table: Accepted values by property group
 
@@ -21,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | invariant reaction | 1 |
 | phase transition | 1 |
+| formation | 1 |
 
 ## Calculated phase diagrams
 
@@ -49,6 +51,16 @@ Table: Invariant reactions reported in the literature for the Cu–H system (1)
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
 | 1348.15 | eutectic: L = H2 + (Cu) |  | experimental | [1] Huang 2007; _cites Massalski 1990_ | p. 3 | “The Cu-H phase diagram has a simple eutectic L = H2 + (Cu) at 1075 ◦ C with ∼0.2 at.%H in fcc and ∼0.6 at.%H in the liquid at 50 MPa, as shown in Fig. 4.” |
+
+## Formation enthalpies
+
+Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
+
+Table: Enthalpies of formation, Cu–H system (1)
+
+| Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
+|---|---|---:|---:|---|---:|---:|---|---|---|
+| CuH bcc |  | 12.08 kJ/mol-atom | 298.15 | DFT |  |  | [1] Huang 2007 | Table 2, p. 6, row 2 |  |
 
 ## Other properties
 

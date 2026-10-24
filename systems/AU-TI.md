@@ -55,30 +55,30 @@ Table: Invariant reactions reported in the literature for the Au–Ti system (24
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
-| 1768 | L->TiAu | L: Au 0.005; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16 |  |
-| 1760 | L->TiAu | L: Au 0.00497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15 |  |
-| 1728 | L->TiAu2 | L: Au 0.006667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18 |  |
-| 1717 | L->TiAu2 | L: Au 0.006667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17 |  |
-| 1677 | L->TiAu+TiAu2 | L: Au 0.005921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7 |  |
-| 1668 | L->Ti3Au | L: Au 0.0025; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14 |  |
+| 1768 | L->TiAu | L: Au 0.5; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 16 |  |
+| 1760 | L->TiAu | L: Au 0.497; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 15 |  |
+| 1728 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 18 |  |
+| 1717 | L->TiAu2 | L: Au 0.6667; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 17 |  |
+| 1677 | L->TiAu+TiAu2 | L: Au 0.5921; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | model | [1] Luo 2001 | Table 4, p. 7, row 7 |  |
+| 1668 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 14 |  |
 | 1658.15 | eutectic: L->TiAu+TiAu2 | L: Ti 0.4; TiAu: Ti 0.48; TiAu2: Ti 0.333 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 4 |  |
-| 1658 | L->TiAu+TiAu2 | L: Au 0.006; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8 |  |
-| 1655 | L->Ti3Au | L: Au 0.0025; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13 |  |
+| 1658 | L->TiAu+TiAu2 | L: Au 0.6; TiAu: Au 0.5, Ti 0.5; TiAu2: Au 0.666667, Ti 0.333333 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 8 |  |
+| 1655 | L->Ti3Au | L: Au 0.25; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 13 |  |
 | 1640.15 | eutectic: L->(βTi)+Ti3Au | L: Ti 0.79; (βTi): Ti 0.85; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 1 |  |
-| 1640 | L->(βTi)+Ti3Au | L: Au 0.0021; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2 |  |
-| 1637 | L->(βTi)+Ti3Au | L: Au 0.002047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1 |  |
-| 1597 | L->Ti3Au+TiAu | L: Au 0.003287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5 |  |
+| 1640 | L->(βTi)+Ti3Au | L: Au 0.21; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 2 |  |
+| 1637 | L->(βTi)+Ti3Au | L: Au 0.2047; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 1 |  |
+| 1597 | L->Ti3Au+TiAu | L: Au 0.3287; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | model | [1] Luo 2001 | Table 4, p. 7, row 5 |  |
 | 1583.15 | eutectic: L->Ti3Au+TiAu | L: Ti 0.67; Ti3Au: Ti 0.75; TiAu: Ti 0.62 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 3 |  |
-| 1583 | L->Ti3Au+TiAu | L: Au 0.0033; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6 |  |
+| 1583 | L->Ti3Au+TiAu | L: Au 0.33; Ti3Au: Au 0.25, Ti 0.75; TiAu: Au 0.5, Ti 0.5 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 6 |  |
 | 1445.15 | peritectic: TiAu2+L->TiAu4 | TiAu2: Ti 0.333; L: Ti 0.141; TiAu4: Ti 0.2 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 5 |  |
-| 1445 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.008; TiAu4: Au 0.8, Ti 0.2 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 10 |  |
-| 1443 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.008073; TiAu4: Au 0.8, Ti 0.2 | model | [1] Luo 2001 | Table 4, p. 7, row 9 |  |
+| 1445 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8; TiAu4: Au 0.8, Ti 0.2 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 10 |  |
+| 1443 | TiAu2+L->TiAu4 | TiAu2: Au 0.666667, Ti 0.333333; L: Au 0.8073; TiAu4: Au 0.8, Ti 0.2 | model | [1] Luo 2001 | Table 4, p. 7, row 9 |  |
 | 1396.15 | peritectic: TiAu4+L->(Au) | TiAu4: Ti 0.18; L: Ti 0.11; (Au): Ti 0.13 | unspecified | [1] Luo 2001 | Table 1, p. 2, row 6 |  |
-| 1396 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.0087 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 12 |  |
-| 1395 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.00873 | model | [1] Luo 2001 | Table 4, p. 7, row 11 |  |
+| 1396 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.87 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 12 |  |
+| 1395 | TiAu4+L->(Au) | TiAu4: Au 0.8, Ti 0.2; L: Au 0.873 | model | [1] Luo 2001 | Table 4, p. 7, row 11 |  |
 | 1105.15 | eutectoid: (βTi)->(αTi)+Ti3Au | (βTi): Ti 0.958; (αTi): Ti 0.983; Ti3Au: Ti 0.75 | unspecified | [1] Luo 2001; _cites ref. 78Pli_ | Table 1, p. 2, row 2 |  |
-| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 4.200e-4; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 4 |  |
-| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 3.780e-4; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 3 |  |
+| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.042; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | experimental | [1] Luo 2001; _cites ref. 56Pie_ | Table 4, p. 7, row 4 |  |
+| 1105 | (βTi)->(αTi)+Ti3Au | (βTi): Au 0.0378; (αTi): Au 0.5, Ti 0.5; Ti3Au: Au 0.25, Ti 0.75 | model | [1] Luo 2001 | Table 4, p. 7, row 3 |  |
 
 ## Other properties
 

@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CoGa3.html · Markdown: https://
 
 6 accepted literature formation-enthalpy value(s) (experimental 2, model 2, DFT 2); experimental median -37 kJ/mol-atom (n = 2); Materials Project -25.895 kJ/mol-atom (mp-aaaabekt); OQMD -25.771 kJ/mol-atom (oqmd-29254).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) · [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html)
+Systems: [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of CoGa3 reported in the literature (6)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -45 kJ/mol-atom | CoGa3 | 298.15 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 25 |  |
-| -29 kJ/mol-atom | CoGa3 | 1100 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 27 |  |
-| -29 kJ/mol-atom | CoGa3 | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 26 |  |
+| -45 kJ/mol-atom | CoGa3 | 298.15 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 25 |  |
+| -29 kJ/mol-atom | CoGa3 | 1100 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 27 |  |
+| -29 kJ/mol-atom | CoGa3 | 298.15 | model |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 26 |  |
 | -28.666 kJ/mol-atom | CoGa3 | 298.15 | model | CALPHAD model | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [2] Chari 2010 | Table 2, p. 4, row 9 |  |
 | -32.4 kJ/mol-atom | CoGa3 | 298.15 | DFT | first-principles DFT | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [2] Chari 2010 | Table 2, p. 4, row 8 |  |
 | -25.9 kJ/mol-atom | CoGa3 | 298.15 | DFT | first-principles DFT | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [2] Chari 2010 | Table 2, p. 4, row 7 |  |
@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of CoGa3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -45 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -29 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -29 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -28.666 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32.4 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -25.9 | kJ/mol-atom |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -45 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -29 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -29 | kJ/mol-atom |  | 0.5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -28.666 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32.4 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -25.9 | kJ/mol-atom |  | 5.000e-5 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 
@@ -45,7 +45,7 @@ Table: DFT formation energy of CoGa3
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaaabekt | -25.895 | -0.268388 | P4_2/mnm | 0 | 0 | no |
-| OQMD | oqmd-29254 | -25.771 | -0.267098 | P42/mnm | 0.019 | 2.000e-4 | no |
+| OQMD | oqmd-29254 | -25.771 | -0.267098 | P42/mnm | 0 | 0 | no |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

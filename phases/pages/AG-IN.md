@@ -15,11 +15,11 @@ Table: Phases of the Ag–In system (9)
 | [TETRAGONAL_A6](#phase-ag-in-a6-tetragonal); _phase:ag-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.52 K, x(In) 1–1 | 6 | 6 |
 | [AG2IN_D83](#phase-ag-in-ag2in-d83); _phase:ag-in:ag2in-d83_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–585 K, x(In) 0.31959–0.33808 | 0 | 5 |
 | [AG3IN_L12](#phase-ag-in-ag3in-l12); _phase:ag-in:ag3in-l12_ | AuCu3 · L1_2 · cP4 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–485.03 K, x(In) 0.25–0.25 | 0 | 2 |
-| [AG9IN4_D83](#phase-ag-in-ag9in4-d83); _phase:ag-in:ag9in4-d83_ | Al4Cu9 · D8_3 · cP52 · P-43m (215) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–570 K, x(In) 0.3077–0.33623 | 18 | 1 |
+| [AG9IN4_D83](#phase-ag-in-ag9in4-d83); _phase:ag-in:ag9in4-d83_ | Al4Cu9 · D8_3 · cP52 · P-43m (215) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–570 K, x(In) 0.3077–0.33623 | 14 | 1 |
 | [AGIN2_C16](#phase-ag-in-agin2-c16); _phase:ag-in:agin2-c16_ | Al2Cu · C16 · tI12 · I4/mcm (140) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–448.95 K, x(In) 0.66667–0.66667 | 12 | 6 |
-| [BCC_A2](#phase-ag-in-bcc-a2); _phase:ag-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 6 calculated diagram(s): 932.71–981.81 K, x(In) 0.22525–0.26405 | 21 | 6 |
-| [FCC_A1](#phase-ag-in-fcc-a1); _phase:ag-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1235.93 K, x(In) 0–0.21106 | 18 | 6 |
-| [HCP_A3](#phase-ag-in-hcp-a3); _phase:ag-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–949.14 K, x(In) 0.2047–0.92 | 30 | 6 |
+| [BCC_A2](#phase-ag-in-bcc-a2); _phase:ag-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 6 calculated diagram(s): 932.71–981.81 K, x(In) 0.22525–0.26405 | 0 | 6 |
+| [FCC_A1](#phase-ag-in-fcc-a1); _phase:ag-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1235.93 K, x(In) 0–0.21106 | 0 | 6 |
+| [HCP_A3](#phase-ag-in-hcp-a3); _phase:ag-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–949.14 K, x(In) 0.2047–0.92 | 0 | 6 |
 | [LIQUID](#phase-ag-in-liquid); _phase:ag-in:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 413.27–2500 K, x(In) 0–1 | 32 | 6 |
 
 ## TETRAGONAL_A6 (Ag–In)
@@ -206,7 +206,7 @@ _assessment that models this phase_
 - Structure: Al4Cu9 · D8_3 · cP52 · P-43m (215); type `st:d8-3-al4cu9-cp52`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in AgIn-18Muz.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 300–570 K, x(In) 0.3077–0.33623
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 14 values (14 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-in:ag9in4-d83)
 
 Names (3): _corpus: _corpus:phase:ag-in:ag9in4-d83  
@@ -229,9 +229,9 @@ Example references (5 of 5; assessments first):
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1002/zaac.19352220205](https://doi.org/10.1002/zaac.19352220205) Friedrich Weibke, Hans Eggers, Das Zustandsdiagramm des Systems Silber–Indium, Z. Anorg. Allg. Chem. 222, 145-160 (1935).  
 _cited as the source of values for this phase_
-- [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
-_cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2008.10.030](https://doi.org/10.1016/j.jallcom.2008.10.030) Zahra Bahari, Mohamed Elgadi, Jacques Rivet, Jérôme Dugué, Experimental study of the ternary Ag–Cu–In phase diagram, Journal of Alloys and Compounds 477, 152-165 (2009).  
+_cited as the source of values for this phase_
+- [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
 _cited as the source of values for this phase_
 - [doi:10.1139/v70-281](https://doi.org/10.1139/v70-281) A. N. Campbell, R. Wagemann, R. B. Ferguson, The silver–indium system: thermal analysis, photomicrography, electron microprobe, and X-ray powder diffraction results, Can. J. Chem. 48, 1703-1715 (1970).  
 _cited as the source of values for this phase_
@@ -318,11 +318,10 @@ _cited as the source of values for this phase_
 - Id: `phase:ag-in:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 6 calculated diagram(s): 932.71–981.81 K, x(In) 0.22525–0.26405
-- Literature: 21 values (21 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-in:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:ag-in:bcc-a2  
-_paper: _paper:10.1007/s10853-018-1999-8:β  
+Names (7): _corpus: _corpus:phase:ag-in:bcc-a2  
 _tdb: _tdb:AgIn-01Che-LB.tdb:BCC_A2, tdb:AgIn-01Mos.tdb:BCC_A2, tdb:AgIn-12Gie.tdb:BCC_A2, tdb:AgIn-18Muz.tdb:BCC_A2, tdb:AgIn-19Fis.tdb:BCC_A2, tdb:AgIn-98Kor.tdb:BCC_A2  
 
 
@@ -370,35 +369,28 @@ _tdb: _tdb:AgIn-01Che-LB.tdb:BCC_A2, tdb:AgIn-01Mos.tdb:BCC_A2, tdb:AgIn-12Gie.t
 33: CONST BCC_A2 : AG IN : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s10853-018-1999-8](https://doi.org/10.1007/s10853-018-1999-8) Christopher P. Muzzillo, Tim Anderson, Thermodynamic assessment of Ag–Cu–In, J Mater Sci 53, 6893-6910 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-001-0138-4](https://doi.org/10.1007/s11664-001-0138-4) Z. Moser, W. Gasior, J. Pstrus, W. Zakulski, I. Ohnuma, X. J. Liu et al., Studies of the Ag-In phase diagram and surface tension measurements, J. Electron. Mater. 30, 1120-1128 (2001).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-998-0205-1](https://doi.org/10.1007/s11664-998-0205-1) T.-M. Korhonen, J. K. Kivilahti, Thermodynamics of the Sn-In-Ag solder system, Journal of Elec Materi 27, 149-158 (1998).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.001](https://doi.org/10.1016/j.calphad.2019.01.001) E. Fischer, K. Gajavalli, G. Mikaelian, P. Benigni, J. Rogez, A. Decreton et al., Experimental study and thermodynamic modelling of the Ag-Cd-In system, Calphad 64, 292-305 (2019).  
 _assessment that models this phase_
-- [doi:10.1002/zaac.19352220205](https://doi.org/10.1002/zaac.19352220205) Friedrich Weibke, Hans Eggers, Das Zustandsdiagramm des Systems Silber–Indium, Z. Anorg. Allg. Chem. 222, 145-160 (1935).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2008.10.030](https://doi.org/10.1016/j.jallcom.2008.10.030) Zahra Bahari, Mohamed Elgadi, Jacques Rivet, Jérôme Dugué, Experimental study of the ternary Ag–Cu–In phase diagram, Journal of Alloys and Compounds 477, 152-165 (2009).  
-_cited as the source of values for this phase_
-- [doi:10.1139/v70-281](https://doi.org/10.1139/v70-281) A. N. Campbell, R. Wagemann, R. B. Ferguson, The silver–indium system: thermal analysis, photomicrography, electron microprobe, and X-ray powder diffraction results, Can. J. Chem. 48, 1703-1715 (1970).  
-_cited as the source of values for this phase_
 
 ## FCC_A1 (Ag–In)
 
 - Id: `phase:ag-in:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1235.93 K, x(In) 0–0.21106
-- Literature: 18 values (18 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-in:fcc-a1)
 
-Names (8): _corpus: _corpus:phase:ag-in:fcc-a1  
-_paper: _paper:10.1007/s10853-018-1999-8:α  
+Names (7): _corpus: _corpus:phase:ag-in:fcc-a1  
 _tdb: _tdb:AgIn-01Che-LB.tdb:FCC_A1, tdb:AgIn-01Mos.tdb:FCC_A1, tdb:AgIn-12Gie.tdb:FCC_A1, tdb:AgIn-18Muz.tdb:FCC_A1, tdb:AgIn-19Fis.tdb:FCC_A1, tdb:AgIn-98Kor.tdb:FCC_A1  
 
 
@@ -446,35 +438,28 @@ _tdb: _tdb:AgIn-01Che-LB.tdb:FCC_A1, tdb:AgIn-01Mos.tdb:FCC_A1, tdb:AgIn-12Gie.t
 28: CONST FCC_A1 : AG% IN : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s10853-018-1999-8](https://doi.org/10.1007/s10853-018-1999-8) Christopher P. Muzzillo, Tim Anderson, Thermodynamic assessment of Ag–Cu–In, J Mater Sci 53, 6893-6910 (2018).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-001-0138-4](https://doi.org/10.1007/s11664-001-0138-4) Z. Moser, W. Gasior, J. Pstrus, W. Zakulski, I. Ohnuma, X. J. Liu et al., Studies of the Ag-In phase diagram and surface tension measurements, J. Electron. Mater. 30, 1120-1128 (2001).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-998-0205-1](https://doi.org/10.1007/s11664-998-0205-1) T.-M. Korhonen, J. K. Kivilahti, Thermodynamics of the Sn-In-Ag solder system, Journal of Elec Materi 27, 149-158 (1998).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.001](https://doi.org/10.1016/j.calphad.2019.01.001) E. Fischer, K. Gajavalli, G. Mikaelian, P. Benigni, J. Rogez, A. Decreton et al., Experimental study and thermodynamic modelling of the Ag-Cd-In system, Calphad 64, 292-305 (2019).  
 _assessment that models this phase_
-- [doi:10.1002/zaac.19352220205](https://doi.org/10.1002/zaac.19352220205) Friedrich Weibke, Hans Eggers, Das Zustandsdiagramm des Systems Silber–Indium, Z. Anorg. Allg. Chem. 222, 145-160 (1935).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2008.10.030](https://doi.org/10.1016/j.jallcom.2008.10.030) Zahra Bahari, Mohamed Elgadi, Jacques Rivet, Jérôme Dugué, Experimental study of the ternary Ag–Cu–In phase diagram, Journal of Alloys and Compounds 477, 152-165 (2009).  
-_cited as the source of values for this phase_
-- [doi:10.1139/v70-281](https://doi.org/10.1139/v70-281) A. N. Campbell, R. Wagemann, R. B. Ferguson, The silver–indium system: thermal analysis, photomicrography, electron microprobe, and X-ray powder diffraction results, Can. J. Chem. 48, 1703-1715 (1970).  
-_cited as the source of values for this phase_
 
 ## HCP_A3 (Ag–In)
 
 - Id: `phase:ag-in:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–949.14 K, x(In) 0.2047–0.92
-- Literature: 30 values (30 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:ag-in:hcp-a3)
 
-Names (8): _corpus: _corpus:phase:ag-in:hcp-a3  
-_paper: _paper:10.1007/s10853-018-1999-8:ζ  
+Names (7): _corpus: _corpus:phase:ag-in:hcp-a3  
 _tdb: _tdb:AgIn-01Che-LB.tdb:HCP_A3, tdb:AgIn-01Mos.tdb:HCP_A3, tdb:AgIn-12Gie.tdb:HCP_A3, tdb:AgIn-18Muz.tdb:HCP_A3, tdb:AgIn-19Fis.tdb:HCP_A3, tdb:AgIn-98Kor.tdb:HCP_A3  
 
 
@@ -522,24 +507,18 @@ _tdb: _tdb:AgIn-01Che-LB.tdb:HCP_A3, tdb:AgIn-01Mos.tdb:HCP_A3, tdb:AgIn-12Gie.t
 38: CONST HCP_A3 : AG IN : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/s10853-018-1999-8](https://doi.org/10.1007/s10853-018-1999-8) Christopher P. Muzzillo, Tim Anderson, Thermodynamic assessment of Ag–Cu–In, J Mater Sci 53, 6893-6910 (2018).  
-_assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
 - [doi:10.1007/s11664-001-0138-4](https://doi.org/10.1007/s11664-001-0138-4) Z. Moser, W. Gasior, J. Pstrus, W. Zakulski, I. Ohnuma, X. J. Liu et al., Studies of the Ag-In phase diagram and surface tension measurements, J. Electron. Mater. 30, 1120-1128 (2001).  
-_assessment that models this phase; cited as the source of values for this phase_
+_assessment that models this phase_
+- [doi:10.1007/s11664-011-1757-z](https://doi.org/10.1007/s11664-011-1757-z) Wojciech Gierlotka, Thermodynamic Description of the Quaternary Ag-Cu-In-Sn System, Journal of Elec Materi 41, 86-108 (2012).  
+_assessment that models this phase_
 - [doi:10.1007/s11664-998-0205-1](https://doi.org/10.1007/s11664-998-0205-1) T.-M. Korhonen, J. K. Kivilahti, Thermodynamics of the Sn-In-Ag solder system, Journal of Elec Materi 27, 149-158 (1998).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2019.01.001](https://doi.org/10.1016/j.calphad.2019.01.001) E. Fischer, K. Gajavalli, G. Mikaelian, P. Benigni, J. Rogez, A. Decreton et al., Experimental study and thermodynamic modelling of the Ag-Cd-In system, Calphad 64, 292-305 (2019).  
 _assessment that models this phase_
-- [doi:10.1002/zaac.19352220205](https://doi.org/10.1002/zaac.19352220205) Friedrich Weibke, Hans Eggers, Das Zustandsdiagramm des Systems Silber–Indium, Z. Anorg. Allg. Chem. 222, 145-160 (1935).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2008.10.030](https://doi.org/10.1016/j.jallcom.2008.10.030) Zahra Bahari, Mohamed Elgadi, Jacques Rivet, Jérôme Dugué, Experimental study of the ternary Ag–Cu–In phase diagram, Journal of Alloys and Compounds 477, 152-165 (2009).  
-_cited as the source of values for this phase_
-- [doi:10.1139/v70-281](https://doi.org/10.1139/v70-281) A. N. Campbell, R. Wagemann, R. B. Ferguson, The silver–indium system: thermal analysis, photomicrography, electron microprobe, and X-ray powder diffraction results, Can. J. Chem. 48, 1703-1715 (1970).  
-_cited as the source of values for this phase_
 
 ## LIQUID (Ag–In)
 

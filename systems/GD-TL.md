@@ -1,10 +1,10 @@
 # Gd–Tl system
 
-> Gd–Tl system: 40 accepted literature values (invariant reaction 21, phase transition 11, formation 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Gd–Tl system: 38 accepted literature values (invariant reaction 21, phase transition 9, formation 8) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/GD-TL.html · Markdown: https://data.orchid-project.org/systems/GD-TL.md
 
-40 accepted literature values from 1 paper(s) (experimental 12, model 28); 1 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+38 accepted literature values from 1 paper(s) (experimental 12, model 26); 1 calculated phase diagram(s). 14 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/GD-TL.json) · [CSV](https://data.orchid-project.org/systems/GD-TL.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#GD-TL) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#GD-TL/GdTl-10Guo.json) · [phases (9)](https://data.orchid-project.org/phases/pages/GD-TL.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/GD-TL.html) · [Markdown](https://data.orchid-project.org/systems/GD-TL.md)
 
@@ -13,14 +13,14 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 12 |
-| model | 28 |
+| model | 26 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 21 |
-| phase transition | 11 |
+| phase transition | 9 |
 | formation | 8 |
 
 ## Calculated phase diagrams
@@ -102,14 +102,12 @@ Table: Enthalpies of formation, Gd–Tl system (8)
 
 ## Other properties
 
-### Phase transition (11)
+### Phase transition (9)
 
 Table: Phase transition, Gd–Tl system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 31 |  |
-| Phase transition | 507 K | 507 | bcc -> hcp; _bcc: Tl 1; hcp: Tl 1_ | model | [1] Guo 2010 | Table 4, p. 5, row 32 |  |
 | Phase transition | 1263 K | 1263 | liq. -> GdTl3; _GdTl3: Tl 0.75_ | model | [1] Guo 2010 | Table 4, p. 5, row 26 |  |
 | Phase transition | 1263 K | 1263 | liq. -> GdTl3; _GdTl3: Tl 0.75_ | model | [1] Guo 2010 | Table 4, p. 5, row 25 |  |
 | Phase transition | 1263 K | 1263 | liq. -> GdTl3; _GdTl3: Tl 0.75_ | experimental | [1] Guo 2010; _cites Delfino 1983_ [doi](https://doi.org/10.1515/ijmr-1983-741007) | Table 4, p. 5, row 27 |  |

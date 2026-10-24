@@ -1,10 +1,10 @@
 # Eu–O system
 
-> Eu–O system: 2 accepted literature values (formation 2) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–O system: 31 accepted literature values (phase transition 12, heat capacity / entropy / enthalpy 9, other property 5, crystal structure 3) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-O.html · Markdown: https://data.orchid-project.org/systems/EU-O.md
 
-2 accepted literature values from 1 paper(s) (model 2); 1 calculated phase diagram(s).
+31 accepted literature values from 1 paper(s) (experimental 6, model 21, unspecified 4); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-O.json) · [CSV](https://data.orchid-project.org/systems/EU-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-O/EuO-07Zin.json) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-O.html) · [Markdown](https://data.orchid-project.org/systems/EU-O.md)
 
@@ -12,13 +12,19 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| model | 2 |
+| experimental | 6 |
+| model | 21 |
+| unspecified | 4 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
+| phase transition | 12 |
 | formation | 2 |
+| heat capacity / entropy / enthalpy | 9 |
+| crystal structure | 3 |
+| other property | 5 |
 
 ## Calculated phase diagrams
 
@@ -42,6 +48,65 @@ Table: Enthalpies of formation, Eu–O system (2)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | B-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -330.08 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
 | C-Eu2O3 | [Eu2O3](https://data.orchid-project.org/compounds/Eu2O3.html) | -331.316 kJ/mol-atom | 298.15 | model | -307.248 (mp-aaacphfp) | -276.415 (oqmd-1820519) | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+
+## Other properties
+
+### Phase transition (12)
+
+Table: Phase transition, Eu–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Phase transition | 298.15 K | 298.15 | polymorphic: B ⇒ A; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 2.3, p. 10, row 11 |  |
+| Phase transition | 298.15 K | 298.15 | polymorphic: C ⇒ B; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1992_ | Table 2.3, p. 10, row 10 |  |
+| Phase transition | 894 K | 894 | polymorphic: C \<=> B; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 2 |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B \<=> A; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 8 |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 56 |  |
+| Phase transition | 2323 K | 2323 | polymorphic: B ⟺ A; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 59 |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A \<=> H; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 15 |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 60 |  |
+| Phase transition | 2413 K | 2413 | polymorphic: A ⟺ H; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 57 |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H \<=> X; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 2.2, p. 8, row 29 |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Andrievskaya 1997_ | Table 2.1, p. 6, row 61 |  |
+| Phase transition | 2543 K | 2543 | polymorphic: H ⟺ X; _alloy: Eu 0.4, O 0.6_ | experimental | [1] ZINKEVICH 2007; _cites Foex 1966_ | Table 2.1, p. 6, row 58 |  |
+
+### Heat capacity / entropy / enthalpy (9)
+
+Table: Heat capacity / entropy / enthalpy, Eu–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: ΔS_ | 1.504 J mol−1 K−1 |  | Eu2O3; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11 |  |
+| Entropy; _printed: ΔS_ | 1.504 J mol^-1 K^-1 |  | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | unspecified | [1] ZINKEVICH 2007; _cites Chen 1994_ | Table 5.1, p. 18, row 11 |  |
+| Entropy; _printed: °S_ | 142.74 unknown | 298.15 | B-Eu₂O₃; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 4 |  |
+| Entropy; _printed: °S_ | 134.61 unknown | 298.15 | C-Eu2O3; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 3 |  |
+| Entropy; _printed: Δtrs°S_ | 4.914 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
+| Entropy; _printed: Δtrs°S_ | 1.504 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
+| Entropy; _printed: Δtrs°S_ | 13.986 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
+| Entropy; _printed: Δtrs°S_ | 4.569 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
+| Entropy; _printed: Δtrs°S_ | 41.663 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
+
+### Crystal structure (3)
+
+Table: Crystal structure, Eu–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| lattice molar volume | 44.246 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
+| lattice molar volume | 43.538 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
+| lattice molar volume | 48.328 cm3 mol-1 | 298.15 | UNKNOWN; _alloy: Eu 0.4, O 0.6_ | model | [1] ZINKEVICH 2007 | Table 3.1, p. 12, row 9 |  |
+
+### Other property (5)
+
+Table: Other property, Eu–O system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Transition enthalpy; _printed: Δtrs°H_ | 4395 unknown | 894.5 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 5 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 3494 unknown | 2323 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 6 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 33748 unknown | 2413 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 7 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 11619 unknown | 2543 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 8 |  |
+| Transition enthalpy; _printed: Δtrs°H_ | 109282 unknown | 2623 | B-Eu₂O₃ | model | [1] ZINKEVICH 2007 | Table 6.1, p. 25, row 9 |  |
 
 ## Sources
 

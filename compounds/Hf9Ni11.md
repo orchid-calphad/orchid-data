@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/Hf9Ni11.html · Markdown: https:
 
 1 accepted literature formation-enthalpy value(s) (DFT 1).
 
-Systems: [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html)
+Systems: [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of Hf9Ni11 reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -47.61 kJ/mol (basis unstated) | Hf9Ni11 | 0 | DFT | DFT | [Hf–Ni–Sn](https://data.orchid-project.org/systems/HF-NI-SN.html) | [1] Berche 2016 | Table 2, p. 4, row 7 |  |
+| -47.61 kJ/mol (basis unstated) | Hf9Ni11 | 0 | DFT | DFT | [Hf–Ni](https://data.orchid-project.org/systems/HF-NI.html) | [1] Berche 2016 | Table 2, p. 4, row 7 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of Hf9Ni11
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -47.61 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -47.61 | kJ/mol (basis unstated) |  | 0.005 | 34.96 (dft, calibrated) |  |  |  | 34.96 |
 
 ## Sources
 

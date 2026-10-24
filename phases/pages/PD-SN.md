@@ -12,8 +12,8 @@ Table: Phases of the Pd–Sn system (18)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [DIAMOND_A4](#phase-pd-sn-a4-diamond); _phase:pd-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 1 | 3 |
-| [BCT_A5](#phase-pd-sn-a5-bct); _phase:pd-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 6 | 3 |
+| [DIAMOND_A4](#phase-pd-sn-a4-diamond); _phase:pd-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
+| [BCT_A5](#phase-pd-sn-a5-bct); _phase:pd-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1 | 5 | 3 |
 | [BCC_A2](#phase-pd-sn-bcc-a2); _phase:pd-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-pd-sn-fcc-a1); _phase:pd-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1836 K, x(Sn) 0–0.20912 | 5 | 3 |
 | [HCP_A3](#phase-pd-sn-hcp-a3); _phase:pd-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
@@ -37,11 +37,10 @@ Table: Phases of the Pd–Sn system (18)
 - Structure: C (diamond) · A4 · cF8 · Fd-3m (227); type `st:a4-c-diamond-cf8`; tier A: standard phase name; confidence high
 - Stoichiometry: Sn 1.0000
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 1 values (1 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:a4-diamond)
 
-Names (5): _corpus: _corpus:phase:pd-sn:a4-diamond  
-_paper: _paper:10.1016/j.intermet.2020.106945:(α\_Sn)  
+Names (4): _corpus: _corpus:phase:pd-sn:a4-diamond  
 _tdb: _tdb:PdSn-06Viz.tdb:DIAMOND_A4, tdb:PdSn-20Cui.tdb:DIAMOND_A4, tdb:PdSn-99Gho-LB.tdb:DIAMOND_A4  
 
 
@@ -68,21 +67,19 @@ _tdb: _tdb:PdSn-06Viz.tdb:DIAMOND_A4, tdb:PdSn-20Cui.tdb:DIAMOND_A4, tdb:PdSn-99
 48: CONST DIAMOND_A4 : SN : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1002/adem.200500248](https://doi.org/10.1002/adem.200500248) J. Vizdal, A. Kroupa, J. Popovic, A. Zemanova, The Experimental and Theoretical Study of Phase Equilibria in the Pd–Zn (‐Sn) System, Adv Eng Mater 8, 164-176 (2006).  
 _assessment that models this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
-_cited as the source of values for this phase_
+- [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
+_assessment that models this phase_
 
 ## BCT_A5 (Pd–Sn)
 
 - Id: `phase:pd-sn:a5-bct`; status `assigned`
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–505.08 K, x(Sn) 1–1
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 5 values (5 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-sn:a5-bct)
 
 Names (6): _corpus: _corpus:phase:pd-sn:a5-bct, corpus:phase:pd-sn:bct-a5  
@@ -113,7 +110,7 @@ _tdb: _tdb:PdSn-06Viz.tdb:BCT_A5, tdb:PdSn-20Cui.tdb:BCT_A5, tdb:PdSn-99Gho-LB.t
 53: CONST BCT_A5 : PD SN% : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.intermet.2020.106945](https://doi.org/10.1016/j.intermet.2020.106945) Senlin Cui, Jian Wang, Zhimin You, Ralph E. Napolitano, Critical evaluation and thermodynamic modeling of the Pd–Sn system, Intermetallics 126, 106945 (2020).  
 _assessment that models this phase; reports values for this phase_
@@ -122,8 +119,6 @@ _assessment that models this phase_
 - [doi:10.1007/s11661-999-0191-9](https://doi.org/10.1007/s11661-999-0191-9) G. Ghosh, Thermodynamic modeling of the palladium-lead-tin system, Metall Mater Trans A 30, 5-18 (1999).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(59)90005-0](https://doi.org/10.1016/0022-5088%2859%2990005-0) J.R. Knight, D.W. Rhys, The systems palladium - indium and palladium - tin, Journal of the Less Common Metals 1, 292-303 (1959).  
-_cited as the source of values for this phase_
-- [doi:10.1016/0364-5916(91)90030-n](https://doi.org/10.1016/0364-5916%2891%2990030-n) A.T. Dinsdale, SGTE data for pure elements, Calphad 15, 317-425 (1991).  
 _cited as the source of values for this phase_
 
 ## BCC_A2 (Pd–Sn)

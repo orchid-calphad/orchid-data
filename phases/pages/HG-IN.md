@@ -13,7 +13,7 @@ Table: Phases of the Hg–In system (9)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBO_A10](#phase-hg-in-a10-rhombo); _phase:hg-in:a10-rhombo_ | alpha-Hg · A10 · hR1 · R-3m (166) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 4 | 2 |
-| [TETRAGONAL_A6](#phase-hg-in-a6-tetragonal); _phase:hg-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–524.75 K, x(In) 0.94442–1 | 2 | 2 |
+| [TETRAGONAL_A6](#phase-hg-in-a6-tetragonal); _phase:hg-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–524.75 K, x(In) 0.94442–1 | 0 | 2 |
 | [BCC_A2](#phase-hg-in-bcc-a2); _phase:hg-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 2 |
 | [FCC_A1](#phase-hg-in-fcc-a1); _phase:hg-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2500 K, x(In) 0–0.93234 | 6 | 2 |
 | [GAMMA_PU](#phase-hg-in-gamma-pu); _phase:hg-in:gamma-pu_ | gamma-Pu · oF8 · Fddd (70) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | not stable in 2 calculated diagram(s) | 4 | 2 |
@@ -63,11 +63,10 @@ _assessment that models this phase_
 - Id: `phase:hg-in:a6-tetragonal`; status `assigned`
 - Structure: In · A6 · tI2 · I4/mmm (139); type `st:a6-in-ti2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–524.75 K, x(In) 0.94442–1
-- Literature: 2 values (2 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:hg-in:a6-tetragonal)
 
-Names (4): _corpus: _corpus:phase:hg-in:a6-tetragonal  
-_paper: _paper:10.1016/j.tca.2009.02.020:Tetra  
+Names (3): _corpus: _corpus:phase:hg-in:a6-tetragonal  
 _tdb: _tdb:HgIn-09Gie.tdb:TETRAGONAL_A6, tdb:HgIn-98Han.tdb:TETRAGONAL_A6  
 
 
@@ -90,7 +89,7 @@ _tdb: _tdb:HgIn-09Gie.tdb:TETRAGONAL_A6, tdb:HgIn-98Han.tdb:TETRAGONAL_A6
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.tca.2009.02.020](https://doi.org/10.1016/j.tca.2009.02.020) Wojcieh Gierlotka, Piotr Jarosz, Sinn-wen Chen, Liquid phase vapor pressure measurement and thermodynamics assessment of the Hg–In binary system, Thermochimica Acta 491, 29-34 (2009).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.1016/S0364-5916(98)00036-4](https://doi.org/10.1016/S0364-5916%2898%2900036-4) S.C. Hansen, Calphad, 22, 359-73(1998).  
 _assessment that models this phase_
 

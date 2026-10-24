@@ -136,6 +136,7 @@ _assessment that models this phase_
 
 - Id: `phase:k-na:kna2-c14`; status `assigned`
 - Structure: MgZn2 · C14 · hP12 · P6_3/mmc (194); type `st:c14-mgzn2-hp12`; tier A: standard phase name; confidence high
+- Stoichiometry: K 0.3333, Na 0.6667
 - Stability: not stable in 2 calculated diagram(s)
 - Literature: 15 values (15 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:k-na:kna2-c14)

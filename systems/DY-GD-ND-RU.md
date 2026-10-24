@@ -1,10 +1,10 @@
 # Dy–Gd–Nd–Ru system
 
-> Dy–Gd–Nd–Ru system: 42 accepted literature values (crystal structure 42) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Dy–Gd–Nd–Ru system: 40 accepted literature values (crystal structure 40) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/DY-GD-ND-RU.html · Markdown: https://data.orchid-project.org/systems/DY-GD-ND-RU.md
 
-42 accepted literature values from 1 paper(s) (unspecified 42); 0 calculated phase diagram(s).
+40 accepted literature values from 1 paper(s) (unspecified 40); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/DY-GD-ND-RU.json) · [CSV](https://data.orchid-project.org/systems/DY-GD-ND-RU.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#DY-GD-ND-RU) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/DY-GD-ND-RU.html) · [Markdown](https://data.orchid-project.org/systems/DY-GD-ND-RU.md)
 
@@ -12,17 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| unspecified | 42 |
+| unspecified | 40 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| crystal structure | 42 |
+| crystal structure | 40 |
 
 ## Other properties
 
-### Crystal structure (42)
+### Crystal structure (40)
 
 Table: Crystal structure, Dy–Gd–Nd–Ru system
 
@@ -45,7 +45,6 @@ Table: Crystal structure, Dy–Gd–Nd–Ru system
 | Lattice a | 5.293 Å | 1600 (>) | NdRu₂; _NdRu₂: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 17 |  |
 | Lattice a | 7.637 Å | 1600 (>) | NdRu₂; _NdRu₂: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 14 |  |
 | Lattice a | 5.323 Å | 1600 (>) | NdRu₂; _NdRu₂: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 15 |  |
-| Lattice a | 2.7058 Å | 2334 (\<) | (Ru); _(Ru): Ru 1_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 30 |  |
 | Lattice b | 9.65 Å | 880 (\<) | Nd₃Ru; _Nd₃Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 5 |  |
 | Lattice b | 9.655 Å | 880 (\<) | Nd₃Ru; _Nd₃Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 4 |  |
 | Lattice b | 9.649 Å | 880 (\<) | Nd₃Ru; _Nd₃Ru: Ru 0.25_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 6 |  |
@@ -66,7 +65,6 @@ Table: Crystal structure, Dy–Gd–Nd–Ru system
 | Lattice c | 15.6 Å | 920 (\<) | NdRuₓ; _NdRuₓ: Ru 0.38; NdRux: Ru 0.38_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 11 |  |
 | Lattice c | 8.955 Å | 1600 (>) | NdRu₂; _NdRu₂: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 17 |  |
 | Lattice c | 9.004 Å | 1600 (>) | NdRu₂; _NdRu₂: Ru 0.667_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 15 |  |
-| Lattice c | 4.2816 Å | 2334 (\<) | (Ru); _(Ru): Ru 1_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 30 |  |
 | lattice beta | 96.66 ° | 915 (\<) | Nd₅Ru₂; _Nd₅Ru₂: Ru 0.286_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 8 |  |
 | lattice beta | 96.67 ° | 915 (\<) | Nd₅Ru₂; _Nd₅Ru₂: Ru 0.286; Nd5Ru2: Ru 0.286_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 7 |  |
 | lattice beta | 96.63 ° | 915 (\<) | Nd₅Ru₂; _Nd₅Ru₂: Ru 0.286_ | unspecified | [1] Kardellass 2023 | Table 1, p. 6, row 9 |  |

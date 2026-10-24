@@ -17,7 +17,7 @@ Table: Phases of the Mn–Nb system (8)
 | [CBCC_A12](#phase-mn-nb-cbcc-a12); _phase:mn-nb:cbcc-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1080.17 K, x(Nb) 0–0.02691 | 0 | 3 |
 | [CUB_A13](#phase-mn-nb-cub-a13); _phase:mn-nb:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 965.02–1416.28 K, x(Nb) 0–0.02333 | 0 | 3 |
 | [MU_D85](#phase-mn-nb-d85-mu); _phase:mn-nb:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1260.07 K, x(Nb) 0.46154–0.48006 | 0 | 1 |
-| [FCC_A1](#phase-mn-nb-fcc-a1); _phase:mn-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1326.58–1501 K, x(Nb) 0–0.02785 | 0 | 3 |
+| [FCC_A1](#phase-mn-nb-fcc-a1); _phase:mn-nb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1326.58–1501 K, x(Nb) 0–0.02785 | 2 | 3 |
 | [HCP_A3](#phase-mn-nb-hcp-a3); _phase:mn-nb:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [LIQUID](#phase-mn-nb-liquid); _phase:mn-nb:liquid_ | liquid | liquid | stable in 3 of 3 calculated diagram(s): 1489.4–4000 K, x(Nb) 0–1 | 1 | 3 |
 
@@ -224,10 +224,11 @@ _assessment that models this phase_
 - Id: `phase:mn-nb:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 1326.58–1501 K, x(Nb) 0–0.02785
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 2 values (2 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-nb:fcc-a1)
 
-Names (4): _corpus: _corpus:phase:mn-nb:fcc-a1  
+Names (5): _corpus: _corpus:phase:mn-nb:fcc-a1  
+_paper: _paper:10.1016/j.calphad.2012.03.004:(γMn)  
 _tdb: _tdb:MnNb-12Liu-alt.tdb:FCC_A1, tdb:MnNb-12Liu.tdb:FCC_A1, tdb:MnNb-21Yan.tdb:FCC_A1  
 
 
@@ -254,12 +255,14 @@ _tdb: _tdb:MnNb-12Liu-alt.tdb:FCC_A1, tdb:MnNb-12Liu.tdb:FCC_A1, tdb:MnNb-21Yan.
 27: CONST FCC_A1 : MN% NB : VA : !
 ~~~~
 
-Example references (2 of 2; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/j.calphad.2012.03.004](https://doi.org/10.1016/j.calphad.2012.03.004) Shuhong Liu, Bengt Hallstedt, Denis Music, Yong Du, Ab initio calculations and thermodynamic modeling for the Fe–Mn–Nb system, Calphad 38, 43-58 (2012).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2021.158715](https://doi.org/10.1016/j.jallcom.2021.158715) Xinlin Yan, Pavel Brož, Jan Vřešťál, Jiří Vlach, Jiří Buršík, Martina Mazalová et al., On the constitution and thermodynamic modeling of the phase diagrams Nb-Mn and Ta-Mn, Journal of Alloys and Compounds 865, 158715 (2021).  
 _assessment that models this phase_
+- [doi:10.1016/0022-5088(59)90036-0](https://doi.org/10.1016/0022-5088%2859%2990036-0) A. Hellawell, The constitution of manganese base alloys with metals of the second transition series, Journal of the Less Common Metals 1, 343-347 (1959).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (Mn–Nb)
 

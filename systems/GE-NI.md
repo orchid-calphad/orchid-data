@@ -193,14 +193,14 @@ Table: Enthalpies of formation, Ge–Ni system (10)
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ni19Ge12 (Ni5Ge3) |  | -32.5 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 7 |  |
 | Ni2Ge |  | -33.1 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 4 |  |
-| Ni3Ge2 (Ni5Ge3) | [Ge2Ni3](https://data.orchid-project.org/compounds/Ge2Ni3.html) | -34 kJ/mol-atom | 1063 | experimental |  | -30.984 (oqmd-1797418) | [1] Jin 2012 | Table 1, p. 2, row 13 |  |
+| Ni3Ge2 (Ni5Ge3) | [Ge2Ni3](https://data.orchid-project.org/compounds/Ge2Ni3.html) | -34 kJ/mol-atom | 298.15 | experimental |  | -30.984 (oqmd-1797418) | [1] Jin 2012 | Table 1, p. 2, row 13 |  |
 | NiGe |  | -34.9 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 10 |  |
-| NiGe | [GeNi](https://data.orchid-project.org/compounds/GeNi.html) | -30 kJ/mol-atom | 1033 | experimental | -29.425 (mp-aaaaabqh) | -30.317 (oqmd-646855) | [1] Jin 2012 | Table 1, p. 2, row 14 |  |
-| βNi3Ge | [GeNi3](https://data.orchid-project.org/compounds/GeNi3.html) | -35 kJ/mol-atom | 1063 | experimental | -27.983 (mp-aaaabfca) | -29.066 (oqmd-2169777) | [1] Jin 2012 | Table 1, p. 2, row 11 |  |
+| NiGe | [GeNi](https://data.orchid-project.org/compounds/GeNi.html) | -30 kJ/mol-atom | 298.15 | experimental | -29.425 (mp-aaaaabqh) | -30.317 (oqmd-646855) | [1] Jin 2012 | Table 1, p. 2, row 14 |  |
+| βNi3Ge | [GeNi3](https://data.orchid-project.org/compounds/GeNi3.html) | -35 kJ/mol-atom | 298.15 | experimental | -27.983 (mp-aaaabfca) | -29.066 (oqmd-2169777) | [1] Jin 2012 | Table 1, p. 2, row 11 |  |
 | βNi3Ge |  | -31.6 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 2 |  |
 | δNi5Ge2 |  | -30.3 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 3 |  |
 | ε'Ni5Ge3 |  | -33.8 kJ/mol-atom | 0 | DFT |  |  | [1] Jin 2012 | Table 1, p. 2, row 6 |  |
-| εNi5Ge3 (Ni5Ge3) | [Ge3Ni5](https://data.orchid-project.org/compounds/Ge3Ni5.html) | -37 kJ/mol-atom | 1063 | experimental | -30.009 (mp-aaaaaccy) | -31.355 (oqmd-647287) | [1] Jin 2012 | Table 1, p. 2, row 12 |  |
+| εNi5Ge3 (Ni5Ge3) | [Ge3Ni5](https://data.orchid-project.org/compounds/Ge3Ni5.html) | -37 kJ/mol-atom | 298.15 | experimental | -30.009 (mp-aaaaaccy) | -31.355 (oqmd-647287) | [1] Jin 2012 | Table 1, p. 2, row 12 |  |
 
 ## Other properties
 

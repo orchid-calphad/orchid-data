@@ -13,7 +13,7 @@ Table: Phases of the Fe–Sb system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-fe-sb-a7-rhombohedral); _phase:fe-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–903.78 K, x(Sb) 1–1 | 14 | 3 |
-| [BCC_A2](#phase-fe-sb-bcc-a2); _phase:fe-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1820.95 K, x(Sb) 0–0.05903 | 37 | 3 |
+| [BCC_A2](#phase-fe-sb-bcc-a2); _phase:fe-sb:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1820.95 K, x(Sb) 0–0.05903 | 19 | 3 |
 | [FCC_A1](#phase-fe-sb-fcc-a1); _phase:fe-sb:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 1147.46–1670.46 K, x(Sb) 0–0.01169 | 5 | 3 |
 | [FESB_B81](#phase-fe-sb-fesb-b81); _phase:fe-sb:fesb-b81_ | NiAs · B8_1 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1307.8 K, x(Sb) 0.4032–0.49486 | 17 | 3 |
 | [FESB2_C18](#phase-fe-sb-fesb2-c18); _phase:fe-sb:fesb2-c18_ | alpha-FeS2 · C18 · oP6 · Pnnm (58) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1021.34 K, x(Sb) 0.66667–0.66667 | 29 | 3 |
@@ -79,11 +79,11 @@ _cited as the source of values for this phase_
 - Id: `phase:fe-sb:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–1820.95 K, x(Sb) 0–0.05903
-- Literature: 37 values (37 accepted) from 3 papers
+- Literature: 19 values (19 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-sb:bcc-a2)
 
-Names (8): _corpus: _corpus:phase:fe-sb:bcc-a2  
-_paper: _paper:10.1016/0364-5916(95)00001-u:α-Fe, paper:10.1016/j.calphad.2008.01.001:αFe, paper:10.1016/j.calphad.2014.05.005:α(Fe), paper:10.1016/j.calphad.2014.05.005:β(FeSb)  
+Names (7): _corpus: _corpus:phase:fe-sb:bcc-a2  
+_paper: _paper:10.1016/0364-5916(95)00001-u:α-Fe, paper:10.1016/j.calphad.2008.01.001:αFe, paper:10.1016/j.calphad.2014.05.005:α(Fe)  
 _tdb: _tdb:FeSb-08Boa.tdb:BCC_A2, tdb:FeSb-14Li.tdb:BCC_A2, tdb:FeSb-95Pei-LB.tdb:BCC_A2  
 
 
@@ -110,7 +110,7 @@ _tdb: _tdb:FeSb-08Boa.tdb:BCC_A2, tdb:FeSb-14Li.tdb:BCC_A2, tdb:FeSb-95Pei-LB.td
 35: CONST BCC_A2 : FE% SB : VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2014.05.005](https://doi.org/10.1016/j.calphad.2014.05.005) Changrong Li, Daiman Zhu, Yubi Zhang, Zhenmin Du, Cuiping Guo, Junqin Li et al., Thermodynamic assessment of the Co–Fe–Sb system, Calphad 47, 23-34 (2014).  
 _assessment that models this phase; reports values for this phase_
@@ -118,15 +118,13 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2008.01.001](https://doi.org/10.1016/j.calphad.2008.01.001) D. Boa, S. Hassam, G. Kra, K.P. Kotchi, J. Rogez, The ternary bismuth–iron–antimony system: Experimental phase diagram study and thermodynamic evaluation, Calphad 32, 227-239 (2008).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/s0925-8388(96)02597-2](https://doi.org/10.1016/s0925-8388%2896%2902597-2) Klaus W. Richter, Herbert Ipser, Reinvestigation of the binary Fe-Sb phase diagram, Journal of Alloys and Compounds 247, 247-249 (1997).  
+- [doi:10.1002/srin.193900887](https://doi.org/10.1002/srin.193900887) Werner Geller, Das System Eisen‐Kobalt‐Antimon, Steel Research Intl 13, 263-266 (1939).  
 _cited as the source of values for this phase_
 - [doi:10.1002/zaac.19080580102](https://doi.org/10.1002/zaac.19080580102) N. S. Kurnakow, N. S. Konstantinow, Antimonide des Eisens und des Cadmiums, Z. Anorg. Chem. 58, 1-22 (1908).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0022-5088(89)90235-x](https://doi.org/10.1016/0022-5088%2889%2990235-x) P. Feschotte, D. Lorin, Les systemes binaires Fe-Sb, Co-Sb et Ni-Sb, Journal of the Less Common Metals 155, 255-269 (1989).  
 _cited as the source of values for this phase_
-- [doi:10.1002/srin.193900887](https://doi.org/10.1002/srin.193900887) Werner Geller, Das System Eisen‐Kobalt‐Antimon, Steel Research Intl 13, 263-266 (1939).  
-_cited as the source of values for this phase_
-- [doi:10.3891/acta.chem.scand.31a-0517](https://doi.org/10.3891/acta.chem.scand.31a-0517) Arne Kjekshus, Trond Rakke, Pentti Salomaa, H. Svanholt, Paul Hagenmuller, Arne F. Andresen, High Temperature Studies of Marcasite and Arsenopyrite Type Compounds., Acta Chem. Scand. 31a, 517-529 (1977).  
+- [doi:10.1016/s0925-8388(96)02597-2](https://doi.org/10.1016/s0925-8388%2896%2902597-2) Klaus W. Richter, Herbert Ipser, Reinvestigation of the binary Fe-Sb phase diagram, Journal of Alloys and Compounds 247, 247-249 (1997).  
 _cited as the source of values for this phase_
 
 ## FCC_A1 (Fe–Sb)

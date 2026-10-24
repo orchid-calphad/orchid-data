@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CoGa.html · Markdown: https://d
 
 5 accepted literature formation-enthalpy value(s) (experimental 4, model 1); experimental median -37 kJ/mol-atom (n = 4); Materials Project -27.209 kJ/mol-atom (mp-aaaaabrd); OQMD -27.73 kJ/mol-atom (oqmd-88346).
 
-Systems: [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html)
+Systems: [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html)
 
 ## Literature values
 
@@ -14,11 +14,11 @@ Table: Enthalpy of formation of CoGa reported in the literature (5)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -41 kJ/mol-atom | CoGa | 298.15 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20 |  |
-| -38 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24 |  |
-| -36 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23 |  |
-| -32 kJ/mol-atom | CoGa | 1100 | experimental |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22 |  |
-| -35.5 kJ/mol-atom | CoGa | 298.15 | model |  | [Co–Cr–Ga–Ni–Pd](https://data.orchid-project.org/systems/CO-CR-GA-NI-PD.html) | [1] Gröbner 1999 | Table 1, p. 2, row 21 |  |
+| -41 kJ/mol-atom | CoGa | 298.15 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Predel 1975_ [doi](https://doi.org/10.1016/0040-6031%2875%2985065-9) | Table 1, p. 2, row 20 |  |
+| -38 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Mikula 1987_ | Table 1, p. 2, row 24 |  |
+| -36 kJ/mol-atom | CoGa | 1173 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Katayama 1975_ [doi](https://doi.org/10.2320/matertrans1960.16.423) | Table 1, p. 2, row 23 |  |
+| -32 kJ/mol-atom | CoGa | 1100 | experimental |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999; _cites Th 1982_ | Table 1, p. 2, row 22 |  |
+| -35.5 kJ/mol-atom | CoGa | 298.15 | model |  | [Co–Ga](https://data.orchid-project.org/systems/CO-GA.html) | [1] Gröbner 1999 | Table 1, p. 2, row 21 |  |
 
 ### Uncertainty budget
 
@@ -28,11 +28,11 @@ Table: Uncertainty budget of the literature values of CoGa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -41 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -38 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -36 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -32 | kJ/mol-atom |  | 0.5 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -35.5 | kJ/mol-atom |  | 0.05 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -41 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -38 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -36 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -32 | kJ/mol-atom |  | 0.5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -35.5 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## DFT formation energies
 

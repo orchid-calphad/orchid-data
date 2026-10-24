@@ -29,12 +29,12 @@ Table: Uncertainty budget of the literature values of Ca2Sn
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -109.2 | kJ/mol-atom | 0.56 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -104.6 | kJ/mol-atom | 12.6 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 12.6 |
-| -92 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -83.1193 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.3582 | kJ/mol-atom |  | 5.000e-5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -66.3582 | kJ/mol-atom |  | 5.000e-5 | 6.28 (dft, calibrated) |  |  |  | 6.28 |
+| -109.2 | kJ/mol-atom | 0.56 | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -104.6 | kJ/mol-atom | 12.6 | 5.000e-5 | 3.5 (unknown, calibrated) |  |  |  | 12.6 |
+| -92 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -83.1193 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.3582 | kJ/mol-atom |  | 5.000e-5 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -66.3582 | kJ/mol-atom |  | 5.000e-5 | 8.472 (dft, calibrated) |  |  |  | 8.472 |
 
 ## DFT formation energies
 

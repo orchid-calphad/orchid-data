@@ -37,20 +37,20 @@ Table: Uncertainty budget of the literature values of NbNi3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -32 | kJ/mol-atom | 2 | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -32 | kJ/mol-atom | 2 | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
 | -32 | kJ/mol-atom |  | 0.5 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -31.715 | kJ/mol-atom | 2.218 | 5.000e-4 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -31.714 | kJ/mol (basis unstated) | 2.552 | 5.000e-4 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -31.715 | kJ/mol-atom | 2.218 | 5.000e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -31.714 | kJ/mol (basis unstated) | 2.552 | 5.000e-4 | 15.2 (experimental_unspecified, calibrated) |  |  |  | 15.2 |
 | -31.71 | kJ/mol-atom | 2.5 | 0.005 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
-| -31.71 | kJ/mol-atom |  | 0.005 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -33.925 | kJ/mol-atom |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -32 | kJ/mol-atom |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.645 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -33.41 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -33.409 | kJ/mol (basis unstated) |  | 5.000e-4 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -31.2 | kJ/mol-atom |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -28.51 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -28.38 | kJ/mol-atom |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -31.71 | kJ/mol-atom |  | 0.005 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -33.925 | kJ/mol-atom |  | 5.000e-4 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -32 | kJ/mol-atom |  | 0.05 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
+| -30.645 | kJ/mol (basis unstated) |  | 5.000e-4 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -33.41 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -33.409 | kJ/mol (basis unstated) |  | 5.000e-4 | 15.54 (dft, calibrated) |  |  |  | 15.54 |
+| -31.2 | kJ/mol-atom |  | 0.05 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -28.51 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
+| -28.38 | kJ/mol-atom |  | 0.005 | 3.884 (dft, calibrated) |  |  |  | 3.884 |
 
 ## DFT formation energies
 

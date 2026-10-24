@@ -1,27 +1,26 @@
 # Co–V phases
 
-> Co–V system: 12 phases (tier A 6, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
+> Co–V system: 11 phases (tier A 6, tier C 1, liquid 1, needs_review 3); 10 stable in a calculated diagram in the ORCHID phase registry, with names, structure type when certain, calculated stability, verbatim TDB PHASE/CONSTITUENT statements and example references.
 
 HTML: https://data.orchid-project.org/phases/pages/CO-V.html · Markdown: https://data.orchid-project.org/phases/pages/CO-V.md
 
-12 phases (tier A 6, tier C 1, liquid 1, needs_review 4); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
+11 phases (tier A 6, tier C 1, liquid 1, needs_review 3); 10 stable in a calculated diagram. Structure types are assigned only when certain (tier A: standard phase name; tier B: unique Materials Project + OQMD on-hull match, DFT-supported; tier C: one structure stated by the assessment's crystallographic table, assessor-stated); other phases list candidates and are marked needs_review. Stability is from phase diagrams calculated with pycalphad from the SGTE binary collection (evidence class: model).
 
 Data: [interactive registry](https://orchid-project.org/phases/?q=CO-V) · [full JSON](https://data.orchid-project.org/phases/systems/CO-V.json) · [Co–V system page](https://data.orchid-project.org/systems/CO-V.html) · [Markdown](https://data.orchid-project.org/phases/pages/CO-V.md) · [field reference](https://data.orchid-project.org/phases/SCHEMA.md)
 
-Table: Phases of the Co–V system (12)
+Table: Phases of the Co–V system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-v-bcc-a2); _phase:co-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(V) 0.76515–1 | 23 | 6 |
+| [BCC_A2](#phase-co-v-bcc-a2); _phase:co-v:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(V) 0.76515–1 | 21 | 6 |
 | [CO3V](#phase-co-v-co3v); _phase:co-v:co3v_ | Al3Pu · hP24 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–1344.31 K, x(V) 0.20409–0.31349 | 27 | 5 |
 | [COV3_A15](#phase-co-v-cov3-a15); _phase:co-v:cov3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1360 K, x(V) 0.75–0.75454 | 11 | 6 |
 | [SIGMA_D8B](#phase-co-v-d8b-sigma); _phase:co-v:d8b-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–1696.17 K, x(V) 0.41698–0.7184 | 31 | 4 |
 | [DIS_SIGMA](#phase-co-v-dis-sigma); _phase:co-v:dis-sigma_ |  | needs_review | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [FCC_4SL](#phase-co-v-fcc-4sl); _phase:co-v:fcc-4sl_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 666.36–1767.99 K, x(V) 0–0.36312 | 0 | 3 |
-| [FCC_A1](#phase-co-v-fcc-a1); _phase:co-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 9 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305 | 33 | 9 |
-| [FCC-A1-2](#phase-co-v-fcc-a1-2); _phase:co-v:fcc-a1-2_ |  | needs_review | no calculated diagram | 0 | 0 |
+| [FCC_A1](#phase-co-v-fcc-a1); _phase:co-v:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305 | 25 | 9 |
 | [HCP_4SL](#phase-co-v-hcp-4sl); _phase:co-v:hcp-4sl_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–1382.79 K, x(V) 0–0.26268 | 3 | 1 |
-| [HCP_A3](#phase-co-v-hcp-a3); _phase:co-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 7 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153 | 0 | 7 |
+| [HCP_A3](#phase-co-v-hcp-a3); _phase:co-v:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153 | 0 | 7 |
 | [LIQUID](#phase-co-v-liquid); _phase:co-v:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1510–4000 K, x(V) 0–1 | 12 | 6 |
 | [SIGMA_OLD](#phase-co-v-old-sigma); _phase:co-v:old-sigma_ | sigma-CrFe · D8_b · tP30 · P4_2/mnm (136) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1694.72 K, x(V) 0.41422–0.70731 | 18 | 2 |
 
@@ -30,11 +29,11 @@ Table: Phases of the Co–V system (12)
 - Id: `phase:co-v:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(V) 0.76515–1
-- Literature: 23 values (23 accepted) from 3 papers
+- Literature: 21 values (21 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:bcc-a2)
 
-Names (13): _corpus: _corpus:phase:co-v:bcc-a2  
-_paper: _paper:10.1016/j.jallcom.2004.04.131:bcc, paper:10.1016/j.matchemphys.2015.06.028:(V), paper:10.1016/j.matchemphys.2015.06.028:(εCo), paper:10.1361/105497103772084534:(V), paper:10.1361/105497103772084534:(εCo), paper:10.1361/105497103772084534:bcc  
+Names (11): _corpus: _corpus:phase:co-v:bcc-a2  
+_paper: _paper:10.1016/j.jallcom.2004.04.131:bcc, paper:10.1016/j.matchemphys.2015.06.028:(V), paper:10.1361/105497103772084534:(V), paper:10.1361/105497103772084534:bcc  
 _tdb: _tdb:CoV-03Bra-LB.tdb:BCC_A2, tdb:CoV-04Hua.tdb:BCC_A2, tdb:CoV-15Wan.tdb:BCC_A2, tdb:CoV-20Wan-mod.tdb:BCC_A2, tdb:CoV-20Wan.tdb:BCC_A2, tdb:CoV-24Sun.tdb:BCC_A2  
 
 
@@ -86,9 +85,9 @@ Example references (6 of 6; assessments first):
 
 - [doi:10.1361/105497103772084534](https://doi.org/10.1361/105497103772084534) Johan Bratberg, Bo Sundman, A thermodynamic assessment of the Co-V system, JPE 24, 495-503 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.131](https://doi.org/10.1016/j.jallcom.2004.04.131) Shuigen Huang, Lin Li, Omer Van der Biest, Jef Vleugels, Thermodynamic assessment of the Co–V and Co–V–C system, Journal of Alloys and Compounds 385, 114-118 (2004).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101729](https://doi.org/10.1016/j.calphad.2019.101729) Peisheng Wang, Thomas Hammerschmidt, Ursula R. Kattner, Gregory B. Olson, Structural stability of Co–V intermetallic phases and thermodynamic description of the Co–V system, Calphad 68, 101729 (2020).  
 _assessment that models this phase_
@@ -369,12 +368,12 @@ _assessment that models this phase_
 
 - Id: `phase:co-v:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 9 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305
-- Literature: 33 values (33 accepted) from 3 papers
+- Stability: stable in 6 of 6 calculated diagram(s): 300–1773.19 K, x(V) 0–0.36305
+- Literature: 25 values (25 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:fcc-a1)
 
-Names (15): _corpus: _corpus:phase:co-v:fcc-a1  
-_paper: _paper:10.1016/j.jallcom.2004.04.131:fcc, paper:10.1016/j.matchemphys.2015.06.028:(αfCo), paper:10.1016/j.matchemphys.2015.06.028:(αpCo), paper:10.1361/105497103772084534:(Co3V(fcc), paper:10.1361/105497103772084534:fcc  
+Names (14): _corpus: _corpus:phase:co-v:fcc-a1, corpus:phase:co-v:fcc-a1-2  
+_paper: _paper:10.1016/j.jallcom.2004.04.131:fcc, paper:10.1361/105497103772084534:(Co3V(fcc), paper:10.1361/105497103772084534:fcc  
 _tdb: _tdb:CoV-03Bra-LB.tdb:A1_FCC, tdb:CoV-03Bra-LB.tdb:FCC_A1, tdb:CoV-04Hua.tdb:FCC_A1, tdb:CoV-15Wan.tdb:FCC_A1, tdb:CoV-20Wan-mod.tdb:A1_FCC, tdb:CoV-20Wan-mod.tdb:FCC_A1, tdb:CoV-20Wan.tdb:A1_FCC, tdb:CoV-20Wan.tdb:FCC_A1, tdb:CoV-24Sun.tdb:FCC_A1  
 
 
@@ -447,30 +446,18 @@ Example references (7 of 7; assessments first):
 
 - [doi:10.1361/105497103772084534](https://doi.org/10.1361/105497103772084534) Johan Bratberg, Bo Sundman, A thermodynamic assessment of the Co-V system, JPE 24, 495-503 (2003).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
-_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.131](https://doi.org/10.1016/j.jallcom.2004.04.131) Shuigen Huang, Lin Li, Omer Van der Biest, Jef Vleugels, Thermodynamic assessment of the Co–V and Co–V–C system, Journal of Alloys and Compounds 385, 114-118 (2004).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2019.101729](https://doi.org/10.1016/j.calphad.2019.101729) Peisheng Wang, Thomas Hammerschmidt, Ursula R. Kattner, Gregory B. Olson, Structural stability of Co–V intermetallic phases and thermodynamic description of the Co–V system, Calphad 68, 101729 (2020).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2024.102762](https://doi.org/10.1016/j.calphad.2024.102762) J. Sun, C. Guo, C. Li, Z. Du, Calphad, 87, 102762(2024).  
 _assessment that models this phase_
+- [doi:10.1016/j.matchemphys.2015.06.028](https://doi.org/10.1016/j.matchemphys.2015.06.028) Cuiping Wang, Cancan Zhao, Yong Lu, Tian Li, Dongliang Peng, Ji Shi et al., Experimental observation of magnetically induced phase separation and thermodynamic assessment in the Co–V binary system, Materials Chemistry and Physics 162, 555-560 (2015).  
+_assessment that models this phase_
 - [doi:10.1016/0021-9614(76)90028-8](https://doi.org/10.1016/0021-9614%2876%2990028-8) P.J. Spencer, F.H. Putland, A calorimetric study of the cobalt + vanadium system, The Journal of Chemical Thermodynamics 8, 551-556 (1976).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1955-460307](https://doi.org/10.1515/ijmr-1955-460307) W. Köster, H. Schmid, Z. Metallkde 46 (1955) 195–197.  
 _cited as the source of values for this phase_
-
-## FCC-A1-2 (Co–V)
-
-- Id: `phase:co-v:fcc-a1-2`; status `needs_review`
-- No structure assigned. Why: unrecognised_name_tokens:2
-- Candidate (name_token): Cu · A1 · cF4 · Fm-3m (225) — Strukturbericht/word 'A1' in the TDB name
-- Stability: no calculated diagram
-- Literature: 0 values (0 accepted) from 0 papers
-- Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:fcc-a1-2)
-
-Names (1): _corpus: _corpus:phase:co-v:fcc-a1-2  
-
 
 ## HCP_4SL (Co–V)
 
@@ -509,7 +496,7 @@ _assessment that models this phase; reports values for this phase_
 
 - Id: `phase:co-v:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
-- Stability: stable in 6 of 7 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153
+- Stability: stable in 6 of 6 calculated diagram(s): 300–735.7 K, x(V) 0–0.03153
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-v:hcp-a3)
 

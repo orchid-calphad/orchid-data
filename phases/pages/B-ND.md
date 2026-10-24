@@ -32,6 +32,7 @@ Table: Phases of the B–Nd system (10)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NdB-19Che.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NdB-95Hal-LB.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NdB-98Che.tdb: 'Prototype beta-B (hR105, R-3m)'
+- Stoichiometry: B 1.0000
 - Stability: stable in 4 of 4 calculated diagram(s): 300–2349 K, x(B) 1–1
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-nd:b-beta-rhombo)

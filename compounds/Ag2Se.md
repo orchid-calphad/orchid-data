@@ -47,30 +47,30 @@ Table: Uncertainty budget of the literature values of Ag2Se
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -14.3633 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.2433 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.2433 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.2333 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.2333 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.1367 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -14.12 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13.7067 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13.54 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -13.3667 | kJ/mol-atom |  | 0.01667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.6867 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.6833 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.68 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.6733 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.67 | kJ/mol-atom |  | 0.001667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -11.6667 | kJ/mol-atom |  | 0.1667 | 4.1 (unknown, calibrated) |  |  |  | 4.1 |
-| -9.936 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -9.936 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -5.869 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -5.869 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -4.127 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -4.127 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -3.196 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -3.196 | kJ/mol-atom |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -14.3633 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.2433 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.2433 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.2333 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.2333 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.1367 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -14.12 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.7067 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.54 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -13.3667 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.6867 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.6833 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.68 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.6733 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.67 | kJ/mol-atom |  | 0.001667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -11.6667 | kJ/mol-atom |  | 0.01667 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -9.936 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -5.869 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -4.127 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
+| -3.196 | kJ/mol-atom |  | 5.000e-4 | 10.19 (dft, calibrated) |  |  |  | 10.19 |
 
 ## DFT formation energies
 
@@ -81,7 +81,7 @@ Table: DFT formation energy of Ag2Se
 | Source | Entry | kJ/mol-atom | eV/atom | Space group | E above hull (kJ/mol-atom) | E above hull (eV/atom) | Theoretical |
 |---|---|---:|---:|---|---:|---:|---|
 | Materials Project | mp-aaabgjqe | -21.663 | -0.224522 | P2_12_12_1 | 0 | 0 | no |
-| OQMD | oqmd-1374449 | -7.938 | -0.082276 | Cmcm | 0.021 | 2.000e-4 | yes |
+| OQMD | oqmd-1374449 | -7.938 | -0.082276 | Cmcm | 0 | 0 | yes |
 
 DFT sources: A. Jain et al., Commentary: The Materials Project: A materials genome approach to accelerating materials innovation, APL Materials 1 (2013) 011002. [doi:10.1063/1.4812323](https://doi.org/10.1063/1.4812323) (CC BY 4.0); J. E. Saal et al., JOM 65 (2013) 1501-1509; S. Kirklin et al., npj Comput. Mater. 1 (2015) 15010. [doi:10.1007/s11837-013-0755-4](https://doi.org/10.1007/s11837-013-0755-4) (CC BY 4.0); 
 

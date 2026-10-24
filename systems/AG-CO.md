@@ -1,10 +1,10 @@
 # Ag–Co system
 
-> Ag–Co system: 12 accepted literature values (invariant reaction 12) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ag–Co system: 10 accepted literature values (invariant reaction 10) and 2 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AG-CO.html · Markdown: https://data.orchid-project.org/systems/AG-CO.md
 
-12 accepted literature values from 2 paper(s) (experimental 6, model 6); 2 calculated phase diagram(s).
+10 accepted literature values from 2 paper(s) (experimental 4, model 6); 2 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AG-CO.json) · [CSV](https://data.orchid-project.org/systems/AG-CO.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AG-CO) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AG-CO/AgCo-09Zhu.json) · [phases (4)](https://data.orchid-project.org/phases/pages/AG-CO.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AG-CO.html) · [Markdown](https://data.orchid-project.org/systems/AG-CO.md)
 
@@ -12,14 +12,14 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 6 |
+| experimental | 4 |
 | model | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 12 |
+| invariant reaction | 10 |
 
 ## Calculated phase diagrams
 
@@ -56,7 +56,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the Ag–Co system (12)
+Table: Invariant reactions reported in the literature for the Ag–Co system (10)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -70,8 +70,6 @@ Table: Invariant reactions reported in the literature for the Ag–Co system (12
 | 1239 | L + FCC(Co) -> FCC(Ag) | L: Co 0.0042; FCC(Co): Co 0.9999; FCC(Ag): Co 0.008 | model | [2] Zhu 2009 | Table 4, p. 3, row 4 |  |
 | 695 | FCC(Co) -> HCP(Co) + FCC(Ag) | FCC(Co): Co 0.9999; HCP(Co): Co 0.9999; FCC(Ag): Co 1.000e-4 | model | [2] Zhu 2009 | Table 4, p. 3, row 6 |  |
 | 695 | fcc (Ag) + fcc (Co) -> hcp (Co) | fcc (Ag): Co 1.000e-4; fcc (Co): Co 1; hcp (Co): Co 0.9999 | model | [1] Deng 2021 | Table 3, p. 9, row 6 |  |
-| 695 | FCC(Co) -> HCP(Co) + FCC(Ag) |  | experimental | [2] Zhu 2009; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 4, p. 3, row 5 |  |
-| 695 | fcc (Ag) + fcc (Co) -> hcp (Co) |  | experimental | [1] Deng 2021; _cites Karakaya 1986_ [doi](https://doi.org/10.1007/bf02869002) | Table 3, p. 9, row 5 |  |
 
 ## Sources
 

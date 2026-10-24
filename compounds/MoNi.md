@@ -1,25 +1,27 @@
 # MoNi: enthalpy of formation
 
-> Enthalpy of formation of MoNi: 6 literature value(s) with sources, pages and quotes, from ORCHID.
+> Enthalpy of formation of MoNi: 8 literature value(s) with sources, pages and quotes, from ORCHID.
 
 HTML: https://data.orchid-project.org/compounds/MoNi.html · Markdown: https://data.orchid-project.org/compounds/MoNi.md
 
-6 accepted literature formation-enthalpy value(s) (DFT 6).
+8 accepted literature formation-enthalpy value(s) (DFT 8).
 
 Systems: [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html)
 
 ## Literature values
 
-Table: Enthalpy of formation of MoNi reported in the literature (6)
+Table: Enthalpy of formation of MoNi reported in the literature (8)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
+| -6.405 kJ/mol (basis unstated) | Ni₀.₅₀Mo₀.₅₀ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 32 |  |
 | -4.49 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005; _cites Wang 2005_ [doi](https://doi.org/10.1016/j.scriptamat.2004.09.007) | Table 2, p. 4, row 35 |  |
 | -2.8 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 36 |  |
 | -2.24 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 34 |  |
 | -0.89 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 37 |  |
 | -0.1 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 38 |  |
 | 1.98 kJ/mol (basis unstated) | δ-NiMo | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 39 |  |
+| 10.45 kJ/mol (basis unstated) | Ni₀.₅₀Mo₀.₅₀ | 0 | DFT | first-principles | [Mo–Ni](https://data.orchid-project.org/systems/MO-NI.html) | [1] Zhou 2005 | Table 2, p. 4, row 29 |  |
 
 ### Uncertainty budget
 
@@ -29,12 +31,14 @@ Table: Uncertainty budget of the literature values of MoNi
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| -6.405 | kJ/mol (basis unstated) |  | 5.000e-4 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -4.49 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -2.8 | kJ/mol (basis unstated) |  | 0.05 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -2.24 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -0.89 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| -0.1 | kJ/mol (basis unstated) |  | 0.05 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| 1.98 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
+| 10.45 | kJ/mol (basis unstated) |  | 0.005 | 7.768 (dft, calibrated) |  |  |  | 7.768 |
 
 ## Sources
 

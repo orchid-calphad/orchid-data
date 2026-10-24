@@ -1,0 +1,230 @@
+{
+ "components": [
+  "CE",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "CE16RU9"
+ ],
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   16.0,
+   9.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CE",
+    "RU"
+   ],
+   [
+    "CE",
+    "RU"
+   ],
+   [
+    "CE",
+    "RU"
+   ]
+  ]
+ },
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -31908.0,
+    -7904.8,
+    -29329.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2023, doi:10.1007/s11669-023-01043-1",
+ "bibtex": "kardellass2023_dea98d",
+ "weight": [
+  0.059228,
+  0.059228,
+  0.059228
+ ],
+ "tags": [
+  "dft_literature",
+  "orchid"
+ ],
+ "comment": "0 K DFT used as 298.15 K enthalpy. ORCHID DFT formation enthalpies (literature), Version 1, machine-extracted; TDB CeRu-23Kar.tdb (sha256 fc3e64fb7e27ed537dcb0a2ebeb81a4c0a91d3cd5583b65c906491f6bc764490), phase CE16RU9. Ids, in value order: ORC-LBUPARNRUS.272b00 ORC-NRNAL6T5LS.487fb1 ORC-ZMXNEYGZL5.09fd2e. eV/atom x 96485.33212 = J/mol-atom.",
+ "orchid": {
+  "evidence_class": "dft",
+  "dft_source": "literature",
+  "tdb": {
+   "name": "CeRu-23Kar.tdb",
+   "path": "databases/sgte-binary/CeRu-23Kar.tdb",
+   "sha256": "fc3e64fb7e27ed537dcb0a2ebeb81a4c0a91d3cd5583b65c906491f6bc764490",
+   "phase": "CE16RU9"
+  },
+  "registry_phase": "phase:ce-ru:ce16ru9",
+  "mapping": [
+   {
+    "id": "ORC-LBUPARNRUS.272b00",
+    "compound": "Ce16Ru9",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-NRNAL6T5LS.487fb1",
+    "compound": "Ce16Ru9",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   },
+   {
+    "id": "ORC-ZMXNEYGZL5.09fd2e",
+    "compound": "Ce16Ru9",
+    "basis": "registry paper_label",
+    "space_group": null,
+    "match_quality": null
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-023-01043-1"
+  ],
+  "dois": [
+   "10.1007/s11669-023-01043-1"
+  ],
+  "status": "Version 1, machine-extracted",
+  "temperature_note": "0 K DFT used as 298.15 K enthalpy"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental reference sigma_HM = 500 J/mol (used only to convert the calibrated DFT sigma into an ESPEI weight)"
+  },
+  "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
+  "sigma_rule": "sigma_effective = max(sqrt(max(printed, reading, method)^2 + composition^2 + conversion^2), scatter) (literature release `uncertainty_budget`; components kept per value in `budget`); DFT: sigma_method = calibrated sigma_DFT, no printed sigma",
+  "values": [
+   {
+    "sigma": 8442.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CE-RU",
+     "n": 235,
+     "sigma_robust_kJ": 8.442,
+     "bias_median_kJ_not_applied": 1.44,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.059228,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -31.908,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-LBUPARNRUS.272b00",
+    "compound": "Ce16Ru9",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 8442.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 8442.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 235,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CE-RU"
+    }
+   },
+   {
+    "sigma": 8442.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CE-RU",
+     "n": 235,
+     "sigma_robust_kJ": 8.442,
+     "bias_median_kJ_not_applied": 1.44,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.059228,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -7.9048,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-NRNAL6T5LS.487fb1",
+    "compound": "Ce16Ru9",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 8442.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 8442.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 235,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CE-RU"
+    }
+   },
+   {
+    "sigma": 8442.0,
+    "sigma_basis": "dft_calibrated",
+    "calibration": {
+     "source": "literature",
+     "stratum": "metal",
+     "used": "stratum",
+     "leave_system_out": true,
+     "system_left_out": "CE-RU",
+     "n": 235,
+     "sigma_robust_kJ": 8.442,
+     "bias_median_kJ_not_applied": 1.44,
+     "ci95_sigma_robust_kJ_full_stratum": [
+      6.817,
+      10.008
+     ],
+     "n_full_stratum": 241
+    },
+    "weight_used": 0.059228,
+    "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
+    "dft_value_printed": {
+     "value": -29.329,
+     "unit": "kJ/mol-atom"
+    },
+    "id": "ORC-ZMXNEYGZL5.09fd2e",
+    "compound": "Ce16Ru9",
+    "budget": {
+     "sigma_printed": null,
+     "sigma_reading": null,
+     "sigma_method": 8442.0,
+     "sigma_composition": null,
+     "sigma_scatter": null,
+     "sigma_conversion": null,
+     "sigma_effective": 8442.0,
+     "method_class": "dft_literature",
+     "method_basis": "calibrated (leave-system-out robust sigma of DFT - experiment)",
+     "method_n_pairs": 235,
+     "method_entry": "dft/CALIBRATION.json#lso/literature|metal|CE-RU"
+    }
+   }
+  ]
+ }
+}

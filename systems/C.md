@@ -1,10 +1,10 @@
 # C system
 
-> C system: 20 accepted literature values (heat capacity / entropy / enthalpy 15, other property 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> C system: 26 accepted literature values (heat capacity / entropy / enthalpy 15, crystal structure 6, other property 3, mixing / partial 2) and 0 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/C.html · Markdown: https://data.orchid-project.org/systems/C.md
 
-20 accepted literature values from 2 paper(s) (experimental 8, model 8, unspecified 4); 0 calculated phase diagram(s).
+26 accepted literature values from 3 paper(s) (experimental 8, model 10, unspecified 8); 0 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/C.json) · [CSV](https://data.orchid-project.org/systems/C.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#C) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/C.html) · [Markdown](https://data.orchid-project.org/systems/C.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 8 |
-| model | 8 |
-| unspecified | 4 |
+| model | 10 |
+| unspecified | 8 |
 
 Table: Accepted values by property group
 
@@ -22,6 +22,7 @@ Table: Accepted values by property group
 |---|---:|
 | mixing / partial | 2 |
 | heat capacity / entropy / enthalpy | 15 |
+| crystal structure | 6 |
 | other property | 3 |
 
 ## Other properties
@@ -57,6 +58,19 @@ Table: Heat capacity / entropy / enthalpy, C system
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liquid C | unspecified | [1] He 2021 | Table 2, p. 3, row 8 |  |
 | Heat capacity; _printed: C_P^liq(T_m)_ | 28 J/mol (basis unstated)/K |  | liquid C | experimental | [1] He 2021; _cites Valenzuela 1982_ [doi](https://doi.org/10.1063/1.555666) | Table 2, p. 3, row 7 |  |
 
+### Crystal structure (6)
+
+Table: Crystal structure, C system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Lattice a | 2.4612 Å | 298.15 | C; _alloy: C 1_ | model | [3] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
+| Lattice a | 2.464 Å | 2909.15 | C; _alloy: C 1_ | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 5 |  |
+| Lattice a | 2.464 Å | 3111.15 | C; _alloy: C 1_ | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 4 |  |
+| Lattice c | 6.709 Å | 298.15 | C; _alloy: C 1_ | model | [3] Duschanek 1995; _cites Massalski 1990_ | Table 3, p. 4, row 3 |  |
+| Lattice c | 6.714 Å | 2909.15 | C; _alloy: C 1_ | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 5 |  |
+| Lattice c | 6.72 Å | 3111.15 | C; _alloy: C 1_ | unspecified | [3] Duschanek 1995; _cites ref. 66Rud_ | Table 3, p. 4, row 4 |  |
+
 ### Other property (3)
 
 Table: Other property, C system
@@ -73,6 +87,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Zhangting He, Bartek Kaplan, Huahai Mao, Malin Selleby, The third generation Calphad description of Al–C including revisions of pure Al and C, Calphad 72, 102250 (2021). [doi:10.1016/j.calphad.2021.102250](https://doi.org/10.1016/j.calphad.2021.102250)
 2. Zhangting He, Malin Selleby, A third generation Calphad description of W–C including a revision of liquid C, Calphad 78, 102449 (2022). [doi:10.1016/j.calphad.2022.102449](https://doi.org/10.1016/j.calphad.2022.102449)
+3. H. Duschanek, P. Rogl, H. L. Lukas, A critical assessment and thermodynamic calculation of the boron-carbon-titanium (B-C-Ti) ternary system, JPE 16, 46-60 (1995). [doi:10.1007/bf02646248](https://doi.org/10.1007/bf02646248)
 
 ## Please cite
 

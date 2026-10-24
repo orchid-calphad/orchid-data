@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/MoTa.html · Markdown: https://d
 
 1 accepted literature formation-enthalpy value(s) (unspecified 1).
 
-Systems: [Mo–Ta–W](https://data.orchid-project.org/systems/MO-TA-W.html)
+Systems: [Mo–Ta](https://data.orchid-project.org/systems/MO-TA.html)
 
 ## Literature values
 
@@ -14,7 +14,7 @@ Table: Enthalpy of formation of MoTa reported in the literature (1)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.5 kJ/mol (basis unstated) | Ordered B2 TaMo | 0 | unspecified | TB-LMTO-CPA-GPM | [Mo–Ta–W](https://data.orchid-project.org/systems/MO-TA-W.html) | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
+| -26.5 kJ/mol (basis unstated) | Ordered B2 TaMo | 0 | unspecified | TB-LMTO-CPA-GPM | [Mo–Ta](https://data.orchid-project.org/systems/MO-TA.html) | [1] Turchi 2005 | Table I, p. 5, row 12 |  |
 
 ### Uncertainty budget
 
@@ -24,7 +24,7 @@ Table: Uncertainty budget of the literature values of MoTa
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.5 | kJ/mol (basis unstated) |  | 0.05 | 3.8 (experimental_unspecified, calibrated) |  |  |  | 3.8 |
+| -26.5 | kJ/mol (basis unstated) |  | 0.05 | 7.6 (experimental_unspecified, calibrated) |  |  |  | 7.6 |
 
 ## Sources
 

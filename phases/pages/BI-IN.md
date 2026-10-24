@@ -14,7 +14,7 @@ Table: Phases of the Bi–In system (10)
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-bi-in-a6-tetragonal); _phase:bi-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–984.75 K, x(In) 0.91868–1 | 0 | 3 |
 | [RHOMBOHEDRAL_A7](#phase-bi-in-a7-rhombohedral); _phase:bi-in:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(In) 0–0.0001 | 2 | 3 |
-| [BCC_A2](#phase-bi-in-bcc-a2); _phase:bi-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 6 | 3 |
+| [BCC_A2](#phase-bi-in-bcc-a2); _phase:bi-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [BI3IN5](#phase-bi-in-bi3in5); _phase:bi-in:bi3in5_ | Bi3In5 · tI32 · I4/mcm (140) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 3 of 3 calculated diagram(s): 300–362.01 K, x(In) 0.625–0.625 | 4 | 3 |
 | [BIIN](#phase-bi-in-biin); _phase:bi-in:biin_ | BiIn · tP4 · P4/nmm (129) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–382.93 K, x(In) 0.5–0.5 | 0 | 3 |
 | [BIIN2_B82](#phase-bi-in-biin2-b82); _phase:bi-in:biin2-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–361.34 K, x(In) 0.66667–0.66667 | 8 | 3 |
@@ -113,11 +113,10 @@ _assessment that models this phase_
 - Id: `phase:bi-in:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: not stable in 3 calculated diagram(s)
-- Literature: 6 values (6 accepted) from 1 papers
+- Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:bi-in:bcc-a2)
 
-Names (5): _corpus: _corpus:phase:bi-in:bcc-a2  
-_paper: _paper:10.1016/0364-5916(88)90040-5:BiIn(β)  
+Names (4): _corpus: _corpus:phase:bi-in:bcc-a2  
 _tdb: _tdb:BiIn-02Cui.tdb:BCC_A2, tdb:BiIn-88Che-LB.tdb:BCC_A2, tdb:BiIn-88Che-SGSOL.tdb:BCC_A2  
 
 
@@ -147,7 +146,7 @@ _tdb: _tdb:BiIn-02Cui.tdb:BCC_A2, tdb:BiIn-88Che-LB.tdb:BCC_A2, tdb:BiIn-88Che-S
 Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/0364-5916(88)90040-5](https://doi.org/10.1016/0364-5916%2888%2990040-5) Pierre-Yves Chevalier, A Thermodynamic evaluation of the Bi-In System, Calphad 12, 383-391 (1988).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase_
 - [doi:10.2320/matertrans.43.1879](https://doi.org/10.2320/matertrans.43.1879) Yuwen Cui, Satoru Ishihara, Xing&nbsp;Jun Liu, Ikuo Ohnuma, Ryosuke Kainuma, Hiroshi Ohtani et al., Thermodynamic Calculation of Phase Diagram in the Bi-In-Sb Ternary System, Mater. Trans. 43, 1879-1886 (2002).  
 _assessment that models this phase_
 

@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Cs2Mo7O22 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -196.36 kJ/mol-atom ± 8.79 | Cs2Mo7O22 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 10 |  |
-| -196.36 kJ/mol-atom ± 52.16 | Cs2Mo7O22 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 13 |  |
+| -196.36 kJ/mol-atom ± 0.283548 | Cs2Mo7O22 | 298.15 | experimental |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 2, p. 4, row 10 |  |
+| -196.36 kJ/mol-atom ± 1.68258 | Cs2Mo7O22 | 298.15 | experimental | solution calorimetry | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021; _cites Benigni 2020_ [doi](https://doi.org/10.1021/acs.jced.0c00210) | Table 3, p. 4, row 13 |  |
 | -196.4 kJ/mol-atom | Cs2Mo7O22 | 298.15 | model |  | [Cs–Mo–O](https://data.orchid-project.org/systems/CS-MO-O.html) | [1] Smith 2021 | Table 8, p. 7, row 10 |  |
 
 ### Uncertainty budget
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of Cs2Mo7O22
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -196.36 | kJ/mol-atom | 8.79 | 1.613e-4 | 4.1 (unknown, calibrated) |  |  |  | 8.79 |
-| -196.36 | kJ/mol-atom | 52.16 | 1.613e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 52.16 |
-| -196.4 | kJ/mol-atom |  | 0.001613 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
+| -196.36 | kJ/mol-atom | 0.2835 | 1.613e-4 | 3.5 (unknown, calibrated) |  |  |  | 3.5 |
+| -196.36 | kJ/mol-atom | 1.683 | 1.613e-4 | 3.5 (solution_reaction_calorimetry, calibrated) |  |  |  | 3.5 |
+| -196.4 | kJ/mol-atom |  | 0.001613 | 3.4 (model_calculated, calibrated) |  |  |  | 3.4 |
 
 ## Sources
 

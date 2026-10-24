@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/GeNb3.html · Markdown: https://
 
 4 accepted literature formation-enthalpy value(s) (model 2, DFT 2).
 
-Systems: [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html)
+Systems: [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html)
 
 ## Literature values
 
@@ -14,10 +14,10 @@ Table: Enthalpy of formation of GeNb3 reported in the literature (4)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -26.41 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
-| -25 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
-| -30.213 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 9 |  |
-| -29.387 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb–Si](https://data.orchid-project.org/systems/GE-NB-SI.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 13 |  |
+| -26.41 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 14 |  |
+| -25 kJ/mol (basis unstated) | Nb3Ge | 298.15 | model | Calphad | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017 | Table 2, p. 6, row 10 |  |
+| -30.213 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 9 |  |
+| -29.387 kJ/mol (basis unstated) | Nb3Ge | 0 | DFT | ab initio | [Ge–Nb](https://data.orchid-project.org/systems/GE-NB.html) | [1] Utton 2017; _cites Papadimitriou 2015_ [doi](https://doi.org/10.1007/s11661-015-3149-0) | Table 2, p. 6, row 13 |  |
 
 ### Uncertainty budget
 
@@ -27,10 +27,10 @@ Table: Uncertainty budget of the literature values of GeNb3
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| -26.41 | kJ/mol (basis unstated) |  | 0.005 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -25 | kJ/mol (basis unstated) |  | 0.5 | 3.3 (model_calculated, calibrated) |  |  |  | 3.3 |
-| -30.213 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
-| -29.387 | kJ/mol (basis unstated) |  | 5.000e-4 | 6.883 (dft, calibrated) |  |  |  | 6.883 |
+| -26.41 | kJ/mol (basis unstated) |  | 0.005 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -25 | kJ/mol (basis unstated) |  | 0.5 | 13.6 (model_calculated, calibrated) |  |  |  | 13.6 |
+| -30.213 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
+| -29.387 | kJ/mol (basis unstated) |  | 5.000e-4 | 33.89 (dft, calibrated) |  |  |  | 33.89 |
 
 ## Sources
 

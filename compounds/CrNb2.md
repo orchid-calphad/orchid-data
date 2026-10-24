@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/compounds/CrNb2.html · Markdown: https://
 
 3 accepted literature formation-enthalpy value(s) (DFT 3).
 
-Systems: [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html)
+Systems: [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html)
 
 ## Literature values
 
@@ -14,9 +14,9 @@ Table: Enthalpy of formation of CrNb2 reported in the literature (3)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| 75.33 kJ/mol (basis unstated) | CrNb2 (C15) | 0 | DFT | ab initio | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [1] Pavlů 2009 | Table 5, p. 4, row 3 |  |
-| 76.31 kJ/mol (basis unstated) | CrNb2 (C36) | 0 | DFT | ab initio | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [1] Pavlů 2009 | Table 5, p. 4, row 5 |  |
-| 76.52 kJ/mol (basis unstated) | CrNb2 (C14) | 0 | DFT | ab initio | [Cr–Nb–Ta](https://data.orchid-project.org/systems/CR-NB-TA.html) | [1] Pavlů 2009 | Table 5, p. 4, row 1 |  |
+| 75.33 kJ/mol (basis unstated) | CrNb2 (C15) | 0 | DFT | ab initio | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [1] Pavlů 2009 | Table 5, p. 4, row 3 |  |
+| 76.31 kJ/mol (basis unstated) | CrNb2 (C36) | 0 | DFT | ab initio | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [1] Pavlů 2009 | Table 5, p. 4, row 5 |  |
+| 76.52 kJ/mol (basis unstated) | CrNb2 (C14) | 0 | DFT | ab initio | [Cr–Nb](https://data.orchid-project.org/systems/CR-NB.html) | [1] Pavlů 2009 | Table 5, p. 4, row 1 |  |
 
 ### Uncertainty budget
 
@@ -26,9 +26,9 @@ Table: Uncertainty budget of the literature values of CrNb2
 
 | Value | Unit | Printed | Reading | Method (class, basis) | Composition | Scatter | Conversion | Effective |
 |---:|---|---:|---:|---|---:|---:|---:|---:|
-| 75.33 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 76.31 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
-| 76.52 | kJ/mol (basis unstated) |  | 0.005 | 3.522 (dft, calibrated) |  |  |  | 3.522 |
+| 75.33 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 76.31 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
+| 76.52 | kJ/mol (basis unstated) |  | 0.005 | 11.65 (dft, calibrated) |  |  |  | 11.65 |
 
 ## Sources
 

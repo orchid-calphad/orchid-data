@@ -1,10 +1,10 @@
 # Al–Ti system
 
-> Al–Ti system: 377 accepted literature values (invariant reaction 164, phase transition 142, formation 51, phase equilibrium 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Al–Ti system: 375 accepted literature values (invariant reaction 164, phase transition 142, formation 49, phase equilibrium 18) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/AL-TI.html · Markdown: https://data.orchid-project.org/systems/AL-TI.md
 
-377 accepted literature values from 8 paper(s) (experimental 188, model 145, DFT 21, unspecified 23); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+375 accepted literature values from 8 paper(s) (experimental 188, model 144, DFT 20, unspecified 23); 4 calculated phase diagram(s). 3 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/AL-TI.json) · [CSV](https://data.orchid-project.org/systems/AL-TI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#AL-TI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#AL-TI/AlTi-00Ohn.json) · [phases (18)](https://data.orchid-project.org/phases/pages/AL-TI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/AL-TI.html) · [Markdown](https://data.orchid-project.org/systems/AL-TI.md)
 
@@ -13,8 +13,8 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 188 |
-| model | 145 |
-| DFT | 21 |
+| model | 144 |
+| DFT | 20 |
 | unspecified | 23 |
 
 Table: Accepted values by property group
@@ -24,7 +24,7 @@ Table: Accepted values by property group
 | invariant reaction | 164 |
 | phase transition | 142 |
 | phase equilibrium | 18 |
-| formation | 51 |
+| formation | 49 |
 | activity / EMF / Gibbs energy | 2 |
 
 ## Calculated phase diagrams
@@ -300,7 +300,7 @@ Table: Invariant reactions reported in the literature for the Al–Ti system (16
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Al–Ti system (51)
+Table: Enthalpies of formation, Al–Ti system (49)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
@@ -327,8 +327,6 @@ Table: Enthalpies of formation, Al–Ti system (51)
 | Laves C14 |  | 7.71903 kJ/mol-atom |  | model |  |  | [5] Liang 2024 | Table 2, p. 6, row 41 |  |
 | Laves C14 |  | 12.4469 kJ/mol-atom | 0 | DFT |  |  | [5] Liang 2024 | Table 2, p. 6, row 38 |  |
 | Laves C14 |  | 12.4469 kJ/mol-atom |  | model |  |  | [5] Liang 2024 | Table 2, p. 6, row 39 |  |
-| Laves C14 |  | 27.4026 kJ/mol-atom |  | model |  |  | [5] Liang 2024 | Table 2, p. 6, row 37 |  |
-| Laves C14 |  | 27.4026 kJ/mol-atom | 0 | DFT |  |  | [5] Liang 2024 | Table 2, p. 6, row 36 |  |
 | Ti3Al |  | -30.8727 kJ/mol-atom |  | DFT |  |  | [5] Liang 2024; _cites Curtarolo 2012_ [doi](https://doi.org/10.1016/j.commatsci.2012.02.002) | Table 2, p. 6, row 31 |  |
 | Ti3Al | [AlTi3](https://data.orchid-project.org/compounds/AlTi3.html) | -27.395 kJ/mol-atom |  | model | -26.934 (mp-aaaaacsd) | -31.691 (oqmd-10598) | [5] Liang 2024 | Table 2, p. 6, row 30 |  |
 | Ti3Al |  | -27.395 kJ/mol-atom |  | DFT |  |  | [5] Liang 2024; _cites Ghosh 2005_ [doi](https://doi.org/10.1016/j.actamat.2005.03.028) | Table 2, p. 6, row 28 |  |

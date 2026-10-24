@@ -6,7 +6,7 @@ HTML: https://data.orchid-project.org/systems/CD-PR.html · Markdown: https://da
 
 29 accepted literature values from 1 paper(s) (experimental 17, model 12); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PR.json) · [CSV](https://data.orchid-project.org/systems/CD-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PR/CdPr-14Rei.json) · [phases (13)](https://data.orchid-project.org/phases/pages/CD-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PR.html) · [Markdown](https://data.orchid-project.org/systems/CD-PR.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/CD-PR.json) · [CSV](https://data.orchid-project.org/systems/CD-PR.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CD-PR) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CD-PR/CdPr-14Rei.json) · [phases (12)](https://data.orchid-project.org/phases/pages/CD-PR.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CD-PR.html) · [Markdown](https://data.orchid-project.org/systems/CD-PR.md)
 
 Table: Accepted values by evidence class
 
@@ -95,7 +95,7 @@ Table: Enthalpies of formation, Cd–Pr system (5)
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Cd2Pr | [Cd2Pr](https://data.orchid-project.org/compounds/Cd2Pr.html) | -46 kJ/mol-atom ± 2 | 298.15 | experimental | -32.91 (mp-aaaaadlk) | -34.48 (oqmd-1966356) | [1] Reichmann 2014 | Table 2, p. 3, row 4 |  |
-| Cd3Pr | [Cd3Pr](https://data.orchid-project.org/compounds/Cd3Pr.html) | -38.8 kJ/mol-atom ± 2 | 298.15 | experimental | -29.803 (mp-aaabxcgx) | -30.438 (oqmd-1788181) | [1] Reichmann 2014 | Table 2, p. 3, row 3 |  |
+| Cd3Pr | [Cd3Pr](https://data.orchid-project.org/compounds/Cd3Pr.html) | -38.8 kJ/mol-atom ± 2 | 298.15 | experimental | -29.803 (mp-aaabxcgx) | -26.884 (oqmd-314794) | [1] Reichmann 2014 | Table 2, p. 3, row 3 |  |
 | Cd58Pr13 | [Cd58Pr13](https://data.orchid-project.org/compounds/Cd58Pr13.html) | -36 kJ/mol-atom ± 2 | 298.15 | experimental | -24.804 (mp-aaabhclj) |  | [1] Reichmann 2014 | Table 2, p. 3, row 2 |  |
 | Cd58Pr13 | [Cd58Pr13](https://data.orchid-project.org/compounds/Cd58Pr13.html) | -34.3 kJ/mol-atom ± 2 | 298.15 | experimental | -24.804 (mp-aaabhclj) |  | [1] Reichmann 2014 | Table 2, p. 3, row 2 |  |
 | Cd6Pr | [Cd6Pr](https://data.orchid-project.org/compounds/Cd6Pr.html) | -24.7 kJ/mol-atom ± 2 | 298.15 | experimental | -20.248 (mp-aaacroas) |  | [1] Reichmann 2014 | Table 2, p. 3, row 1 |  |

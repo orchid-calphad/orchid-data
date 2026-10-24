@@ -1,10 +1,10 @@
 # Eu–Ni system
 
-> Eu–Ni system: 47 accepted literature values (invariant reaction 27, formation 20) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Eu–Ni system: 55 accepted literature values (invariant reaction 27, formation 19, heat capacity / entropy / enthalpy 9) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/EU-NI.html · Markdown: https://data.orchid-project.org/systems/EU-NI.md
 
-47 accepted literature values from 1 paper(s) (experimental 18, model 29); 1 calculated phase diagram(s).
+55 accepted literature values from 1 paper(s) (experimental 18, model 37); 1 calculated phase diagram(s).
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/EU-NI.json) · [CSV](https://data.orchid-project.org/systems/EU-NI.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#EU-NI) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#EU-NI/EuNi-16Kar.json) · [phases (8)](https://data.orchid-project.org/phases/pages/EU-NI.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/EU-NI.html) · [Markdown](https://data.orchid-project.org/systems/EU-NI.md)
 
@@ -13,14 +13,15 @@ Table: Accepted values by evidence class
 | Evidence class | Values |
 |---|---:|
 | experimental | 18 |
-| model | 29 |
+| model | 37 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 27 |
-| formation | 20 |
+| formation | 19 |
+| heat capacity / entropy / enthalpy | 9 |
 
 ## Calculated phase diagrams
 
@@ -87,39 +88,54 @@ Table: Invariant reactions reported in the literature for the Eu–Ni system (27
 
 Literature values in kJ/mol-atom where the per-atom basis is known. DFT columns: the lowest-energy entry at the same composition (Materials Project 2026.04.13, OQMD v1.8; different energy references, never averaged), from [dft_parity.json](https://data.orchid-project.org/literature/dft_parity.json).
 
-Table: Enthalpies of formation, Eu–Ni system (10)
+Table: Enthalpies of formation, Eu–Ni system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
 | Ni17Eu2 |  | -48 kJ/mol (basis unstated) ± 4 | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
 | Ni17Eu2 |  | -9.9 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
+| Ni17Eu2 | [Eu2Ni17](https://data.orchid-project.org/compounds/Eu2Ni17.html) | -9 kJ/mol-atom | 298.15 | model | -6.408 (mp-aaacqixi) | -12.136 (oqmd-30108) | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
 | Ni17Eu2 |  | -9 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
 | Ni2Eu |  | -16.36 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 6 |  |
+| Ni2Eu | [EuNi2](https://data.orchid-project.org/compounds/EuNi2.html) | -16.36 kJ/mol-atom | 298.15 | model |  | -37.69 (oqmd-1591127) | [1] Kardellass 2016 | Table 4, p. 7, row 10 |  |
 | Ni2Eu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
 | Ni2Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7 |  |
 | Ni5Eu |  | -15.6 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
+| Ni5Eu | [EuNi5](https://data.orchid-project.org/compounds/EuNi5.html) | -14.47 kJ/mol-atom | 298.15 | model | -12.017 (mp-aaaabhad) | -21.135 (oqmd-30109) | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
 | Ni5Eu |  | -14.47 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
 | NiEu |  | -16.22 kJ/mol (basis unstated) |  | model |  |  | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
+| NiEu | [EuNi](https://data.orchid-project.org/compounds/EuNi.html) | -16.22 kJ/mol-atom | 298.15 | model |  | -30.347 (oqmd-1366256) | [1] Kardellass 2016 | Table 4, p. 7, row 14 |  |
 | NiEu |  | -13 kJ/mol (basis unstated) | 298.15 | experimental |  |  | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
 
 ## Other properties
 
-### Formation (10)
+### Formation (5)
 
 Table: Formation, Eu–Ni system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: Entropies of formation_ | 37.79 J/mol (basis unstated)/K |  | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 49.55 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 6 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 41.19 J/mol (basis unstated)/K |  | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
-| Entropy of formation; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
 | Entropy of formation; _printed: Entropies of formation_ | 2 J/mol (basis unstated)/K ± 0.2 | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Cignini 2003_ [doi](https://doi.org/10.1016/s0966-9795%2803%2900155-9) | Table 7, p. 13, row 3 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 2 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -0.2 J/mol (basis unstated)/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 7 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -0.1 J/mol (basis unstated)/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 5 |  |
 | Entropy of formation; _printed: Entropies of formation_ | -2 J/mol (basis unstated)/K | 298.15 | NiEu; _alloy: Ni 0.5_ | experimental | [1] Kardellass 2016; _cites Berezutskii 2014_ [doi](https://doi.org/10.1134/s0036024414090064) | Table 7, p. 13, row 9 |  |
+
+### Heat capacity / entropy / enthalpy (9)
+
+Table: Heat capacity / entropy / enthalpy, Eu–Ni system
+
+| Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
+|---|---:|---:|---|---|---|---|---|
+| Entropy; _printed: Entropies of formation_ | 37.79 J/mol (basis unstated)/K |  | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 1 |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
+| Entropy; _printed: Entropies of formation_ | 49.55 J/mol (basis unstated)/K |  | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 6 |  |
+| Entropy; _printed: Entropies of formation_ | 41.19 J/mol (basis unstated)/K |  | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 4 |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol (basis unstated)/K |  | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 7, p. 13, row 8 |  |
+| Entropy; _printed: Entropies of formation_ | 37.78 J/mol-atom/K | 298.15 | Ni17Eu2; _alloy: Ni 0.894737_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 3 |  |
+| Entropy; _printed: Entropies of formation_ | 49.55 J/mol-atom/K | 298.15 | Ni2Eu; _alloy: Ni 0.666667_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 10 |  |
+| Entropy; _printed: Entropies of formation_ | 41.19 J/mol-atom/K | 298.15 | Ni5Eu; _alloy: Ni 0.833333_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 6 |  |
+| Entropy; _printed: Entropies of formation_ | 57.74 J/mol-atom/K | 298.15 | NiEu; _alloy: Ni 0.5_ | model | [1] Kardellass 2016 | Table 4, p. 7, row 14 |  |
 
 ## Sources
 

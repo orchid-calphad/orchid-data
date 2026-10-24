@@ -1,12 +1,12 @@
 # La–V system
 
-> La–V system: 16 accepted literature values (invariant reaction 16) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> La–V system: 13 accepted literature values (invariant reaction 13) and 1 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/LA-V.html · Markdown: https://data.orchid-project.org/systems/LA-V.md
 
-16 accepted literature values from 1 paper(s) (experimental 3, model 4, unspecified 9); 1 calculated phase diagram(s).
+13 accepted literature values from 1 paper(s) (experimental 3, model 4, unspecified 6); 1 calculated phase diagram(s).
 
-Data: [JSON](https://data.orchid-project.org/literature/systems/LA-V.json) · [CSV](https://data.orchid-project.org/systems/LA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-V/LaV-10Cha.json) · [phases (6)](https://data.orchid-project.org/phases/pages/LA-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-V.html) · [Markdown](https://data.orchid-project.org/systems/LA-V.md)
+Data: [JSON](https://data.orchid-project.org/literature/systems/LA-V.json) · [CSV](https://data.orchid-project.org/systems/LA-V.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#LA-V) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#LA-V/LaV-10Cha.json) · [phases (5)](https://data.orchid-project.org/phases/pages/LA-V.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/LA-V.html) · [Markdown](https://data.orchid-project.org/systems/LA-V.md)
 
 Table: Accepted values by evidence class
 
@@ -14,13 +14,13 @@ Table: Accepted values by evidence class
 |---|---:|
 | experimental | 3 |
 | model | 4 |
-| unspecified | 9 |
+| unspecified | 6 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
-| invariant reaction | 16 |
+| invariant reaction | 13 |
 
 ## Calculated phase diagrams
 
@@ -46,7 +46,7 @@ Convex hulls: [Materials Project DFT hull](https://data.orchid-project.org/hulls
 
 ## Invariant reactions (literature)
 
-Table: Invariant reactions reported in the literature for the La–V system (16)
+Table: Invariant reactions reported in the literature for the La–V system (13)
 
 | T (K) | Reaction / phases | Compositions (mole fraction) | Class | Source | Location | Quote |
 |---:|---|---|---|---|---|---|
@@ -62,9 +62,6 @@ Table: Invariant reactions reported in the literature for the La–V system (16)
 | 1138.15 | γLa -> V + βLa | V: V 1 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 11 |  |
 | 1137.65 | γLa -> V + βLa | γLa: V 0.0015; V: V 1; βLa: V 9.950e-4 | model | [1] Chan 2010 | Table 3, p. 5, row 12 |  |
 | 973.15 | γLa -> V + βLa |  | unspecified | [1] Chan 2010; _cites Efimov 2010_ | Table 3, p. 5, row 10 |  |
-| 583.15 | βLa -> V + αLa | βLa: V 0; αLa: V 0 | unspecified | [1] Chan 2010; _cites Massalski 1990_ | Table 3, p. 5, row 13 |  |
-| 558.15 | βLa -> V + αLa | βLa: V 0; αLa: V 0 | unspecified | [1] Chan 2010; _cites Gschneidner 2010_ | Table 3, p. 5, row 14 |  |
-| 550.05 | βLa -> V + αLa | βLa: V 0; αLa: V 0 | unspecified | [1] Chan 2010; _cites Dinsdale 1991_ [doi](https://doi.org/10.1016/0364-5916%2891%2990030-n) | Table 3, p. 5, row 15 |  |
 | 549.95 | βLa -> V + αLa | βLa: V 0; V: V 1; αLa: V 0 | model | [1] Chan 2010 | Table 3, p. 5, row 16 |  |
 
 ## Sources

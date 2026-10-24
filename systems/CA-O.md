@@ -1,10 +1,10 @@
 # Ca–O system
 
-> Ca–O system: 67 accepted literature values (heat capacity / entropy / enthalpy 26, phase equilibrium 18, formation 14, phase transition 5) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
+> Ca–O system: 73 accepted literature values (heat capacity / entropy / enthalpy 26, phase equilibrium 18, formation 14, phase transition 11) and 4 calculated phase diagram(s) from ORCHID, each value with evidence class, source, page and quote.
 
 HTML: https://data.orchid-project.org/systems/CA-O.html · Markdown: https://data.orchid-project.org/systems/CA-O.md
 
-67 accepted literature values from 2 paper(s) (experimental 12, model 49, DFT 6); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
+73 accepted literature values from 3 paper(s) (experimental 15, model 49, DFT 6, unspecified 3); 4 calculated phase diagram(s). 1 further extracted value(s) not accepted by the reader-agreement checks are only in the JSON/CSV.
 
 Data: [JSON](https://data.orchid-project.org/literature/systems/CA-O.json) · [CSV](https://data.orchid-project.org/systems/CA-O.csv) · [interactive explorer](https://orchid-project.org/data-explorer/#CA-O) · [interactive phase diagram](https://orchid-project.org/phase-diagrams/#CA-O/CaO-18Lia.json) · [phases (9)](https://data.orchid-project.org/phases/pages/CA-O.html) · [papers (bibliography)](https://data.orchid-project.org/bibliography/pages/systems/CA-O.html) · [Markdown](https://data.orchid-project.org/systems/CA-O.md)
 
@@ -12,16 +12,17 @@ Table: Accepted values by evidence class
 
 | Evidence class | Values |
 |---|---:|
-| experimental | 12 |
+| experimental | 15 |
 | model | 49 |
 | DFT | 6 |
+| unspecified | 3 |
 
 Table: Accepted values by property group
 
 | Property group | Values |
 |---|---:|
 | invariant reaction | 4 |
-| phase transition | 5 |
+| phase transition | 11 |
 | phase equilibrium | 18 |
 | formation | 14 |
 | heat capacity / entropy / enthalpy | 26 |
@@ -67,29 +68,35 @@ Table: Enthalpies of formation, Ca–O system (14)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| CaO(cr) |  | -634.6 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.55 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
+| CaO(cr) |  | -317.3 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
 | CaO(cr) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -317 kJ/mol-atom ± 0.75 | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 4 |  |
-| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -600.9 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
-| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -565.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
-| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -557.3 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
-| CaO(liq-am) | [CaO](https://data.orchid-project.org/compounds/CaO.html) | -555.6 kJ/mol-atom | 298.15 | model | -318.981 (mp-aaaaadwf) | -308.324 (oqmd-1443085) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
-| CaO2(cr) |  | -648.1 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
+| CaO(liq-am) |  | -300.45 kJ/mol-atom | 298.15 | model |  |  | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
+| CaO(liq-am) |  | -282.8 kJ/mol-atom | 298.15 | model |  |  | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
+| CaO(liq-am) |  | -278.65 kJ/mol-atom | 298.15 | model |  |  | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
+| CaO(liq-am) |  | -277.8 kJ/mol-atom | 298.15 | model |  |  | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
 | CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -219.667 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
 | CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -217.567 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
+| CaO2(cr) |  | -216.033 kJ/mol-atom | 298.15 | DFT |  |  | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
 | CaO2(cr) | [CaO2](https://data.orchid-project.org/compounds/CaO2.html) | -216.033 kJ/mol-atom | 298.15 | model | -212.9 (mp-aaabkddr) | -219.972 (oqmd-1367693) | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
 
 ## Other properties
 
-### Phase transition (5)
+### Phase transition (11)
 
 Table: Phase transition, Ca–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
+| Phase transition | 1133 K | 1133 | CaO min, exp., 0.01 bar O2; _alloy: Ca 0.5, O 0.5_ | experimental | [3] Hallstedt 2003; _cites Margulies 1996_ [doi](https://doi.org/10.1016/0921-4534%2896%2900289-4) | Table 8, p. 12, row 21 |  |
+| Phase transition | 1198 K | 1198 | CaO min, calc., 0.01 bar O2; _alloy: Ca 0.5, O 0.5_ | unspecified | [3] Hallstedt 2003 | Table 8, p. 12, row 24 |  |
+| Phase transition | 1210 K | 1210 | CaO min, exp., 0.21 bar O2; _alloy: Ca 0.5, O 0.5_ | experimental | [3] Hallstedt 2003; _cites Margulies 1996_ [doi](https://doi.org/10.1016/0921-4534%2896%2900289-4) | Table 8, p. 12, row 20 |  |
+| Phase transition | 1239 K | 1239 | CaO min, exp., 1.01 bar O2; _alloy: Ca 0.5, O 0.5_ | experimental | [3] Hallstedt 2003; _cites Margulies 1996_ [doi](https://doi.org/10.1016/0921-4534%2896%2900289-4) | Table 8, p. 12, row 19 |  |
+| Phase transition | 1263 K | 1263 | CaO min, calc., 0.21 bar O2; _alloy: Ca 0.5, O 0.5_ | unspecified | [3] Hallstedt 2003 | Table 8, p. 12, row 23 |  |
+| Phase transition | 1295 K | 1295 | CaO min, calc., 1.01 bar O2; _alloy: Ca 0.5, O 0.5_ | unspecified | [3] Hallstedt 2003 | Table 8, p. 12, row 22 |  |
 | Phase transition | 2845 K | 2845 |  | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | p. 17 | “Compared to previous modellings of the system, the description of Lindberg et al. \[17\] features a discontinuity in heat content at their selected melting point of 2845 K, and the one of Liang et al. \[18\] does not reproduce the very high temperature increase in heat content observed experimentally by Chekhovskoi et al. \[34\] and in molecular dynamics simulations conducted by Alvares et al. \[37\].” |
 | Phase transition | 3217 K | 3217 | other | model | [1] Liang 2018 | p. 6 | “At 3217 K the three-phase equilibrium, Gas (0.8 at.% O) + L + CaO(s) is calculated in the binary Ca-O system at 1 bar.” |
 | Phase transition | 3221.8 K | 3221.8 | congruent transformation | model | [1] Liang 2018 | p. 14 | “However, in the binary Ca-O system the congruent melting point of CaO occurs at 3221.8 K.” |
@@ -127,32 +134,32 @@ Table: Heat capacity / entropy / enthalpy, Ca–O system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy; _printed: S°_ | 38.21 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
-| Entropy; _printed: S°_ | 38.1 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
-| Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
-| Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
-| Entropy; _printed: S°_ | 37.75 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| Entropy; _printed: S°_ | 62.32 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
-| Entropy; _printed: S°_ | 58.69 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
-| Entropy; _printed: S°_ | 40.35 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
-| Entropy; _printed: S°_ | 65.69 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
-| Entropy; _printed: S°_ | 83.68 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
-| Entropy; _printed: S°_ | 59.6 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
-| Entropy; _printed: S°_ | 59.6 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
-| Entropy; _printed: S°_ | 83.68 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
-| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
-| Heat capacity; _printed: Cp°_ | 42.05 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
-| Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
-| Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
-| Heat capacity; _printed: Cp°_ | 42.02 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
-| Heat capacity; _printed: Cp°_ | 42.12 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
-| Heat capacity; _printed: Cp°_ | 42.04 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
-| Heat capacity; _printed: Cp°_ | 42.73 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
-| Heat capacity; _printed: Cp°_ | 42.02 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
-| Heat capacity; _printed: Cp°_ | 82.84 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
-| Heat capacity; _printed: Cp°_ | 61.58 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
-| Heat capacity; _printed: Cp°_ | 61.63 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
-| Heat capacity; _printed: Cp°_ | 82.84 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
+| Entropy; _printed: S°_ | 19.105 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
+| Entropy; _printed: S°_ | 19.05 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
+| Entropy; _printed: S°_ | 20.175 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
+| Entropy; _printed: S°_ | 20.175 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
+| Entropy; _printed: S°_ | 18.875 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
+| Entropy; _printed: S°_ | 31.16 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
+| Entropy; _printed: S°_ | 29.345 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
+| Entropy; _printed: S°_ | 20.175 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
+| Entropy; _printed: S°_ | 32.845 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
+| Entropy; _printed: S°_ | 27.8933 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
+| Entropy; _printed: S°_ | 19.8667 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
+| Entropy; _printed: S°_ | 19.8667 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
+| Entropy; _printed: S°_ | 27.8933 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
+| Heat capacity; _printed: Cp°_ | 21.06 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 6 |  |
+| Heat capacity; _printed: Cp°_ | 21.025 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 2 |  |
+| Heat capacity; _printed: Cp°_ | 21.365 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 1 |  |
+| Heat capacity; _printed: Cp°_ | 21.365 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 5 |  |
+| Heat capacity; _printed: Cp°_ | 21.01 J/mol-atom/K | 298.15 | CaO(cr); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 3 |  |
+| Heat capacity; _printed: Cp°_ | 21.06 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Chase 1998_ | Table 3, p. 17, row 10 |  |
+| Heat capacity; _printed: Cp°_ | 21.02 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 8 |  |
+| Heat capacity; _printed: Cp°_ | 21.365 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 7 |  |
+| Heat capacity; _printed: Cp°_ | 21.01 J/mol-atom/K | 298.15 | CaO(liq-am); _alloy: O 0.5_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 9 |  |
+| Heat capacity; _printed: Cp°_ | 27.6133 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Lindberg 2009_ [doi](https://doi.org/10.1016/j.jct.2009.04.018) | Table 3, p. 17, row 13 |  |
+| Heat capacity; _printed: Cp°_ | 20.5267 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | DFT | [2] Deffrennes 2020; _cites Pisch_ | Table 3, p. 17, row 14 |  |
+| Heat capacity; _printed: Cp°_ | 20.5433 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020 | Table 3, p. 17, row 11 |  |
+| Heat capacity; _printed: Cp°_ | 27.6133 J/mol-atom/K | 298.15 | CaO2(cr); _alloy: O 0.666667_ | model | [2] Deffrennes 2020; _cites Liang 2018_ [doi](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015) | Table 3, p. 17, row 12 |  |
 
 ## Sources
 
@@ -160,6 +167,7 @@ Reporting papers the values were read from (a value cited from another work name
 
 1. Song-Mao Liang, Rainer Schmid-Fetzer, Complete thermodynamic description of the Mg-Ca-O phase diagram including the Ca-O, Mg-O and CaO-MgO subsystems, Journal of the European Ceramic Society 38, 4768-4785 (2018). [doi:10.1016/j.jeurceramsoc.2018.06.015](https://doi.org/10.1016/j.jeurceramsoc.2018.06.015)
 2. Guillaume Deffrennes, Noël Jakse, Cecilia M.S. Alvares, Ioana Nuta, Alain Pasturel, Alexandra Khvan et al., Thermodynamic modelling of the Ca–O system including 3rd generation description of CaO and CaO2, Calphad 69, 101764 (2020). [doi:10.1016/j.calphad.2020.101764](https://doi.org/10.1016/j.calphad.2020.101764)
+3. Bengt Hallstedt, Ludwig J. Gauckler, Revision of the thermodynamic descriptions of the Cu–O, Ag–O, Ag–Cu–O, Bi–Sr–O, Bi–Ca–O, Bi–Cu–O, Sr–Cu–O, Ca–Cu–O and Sr–Ca–Cu–O systems, Calphad 27, 177-191 (2003). [doi:10.1016/s0364-5916(03)00050-6](https://doi.org/10.1016/s0364-5916%2803%2900050-6)
 
 ## Please cite
 

@@ -12,7 +12,7 @@ Table: Phases of the Au–Bi system (6)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [RHOMBOHEDRAL_A7](#phase-au-bi-a7-rhombohedral); _phase:au-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 0.99641–1 | 25 | 3 |
+| [RHOMBOHEDRAL_A7](#phase-au-bi-a7-rhombohedral); _phase:au-bi:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 0.99641–1 | 23 | 3 |
 | [AU2BI_C15](#phase-au-bi-au2bi-c15); _phase:au-bi:au2bi-c15_ | Cu2Mg · C15 · cF24 · Fd-3m (227) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 349.81–651.15 K, x(Bi) 0.33333–0.33333 | 39 | 3 |
 | [BCC_A2](#phase-au-bi-bcc-a2); _phase:au-bi:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
 | [FCC_A1](#phase-au-bi-fcc-a1); _phase:au-bi:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1372.33 K, x(Bi) 0–0.00068 | 24 | 3 |
@@ -24,11 +24,11 @@ Table: Phases of the Au–Bi system (6)
 - Id: `phase:au-bi:a7-rhombohedral`; status `assigned`
 - Structure: alpha-As · A7 · hR2 · R-3m (166); type `st:a7-alpha-as-hr2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–544.55 K, x(Bi) 0.99641–1
-- Literature: 25 values (25 accepted) from 2 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-bi:a7-rhombohedral)
 
-Names (8): _corpus: _corpus:phase:au-bi:a7-rhombohedral, corpus:phase:au-bi:rhombohedral-a7  
-_paper: _paper:10.1016/0040-6031(88)87046-1:Bi(liq), paper:10.1016/0040-6031(88)87046-1:Bi(rho), paper:10.1016/j.calphad.2006.07.002:(Bi)  
+Names (7): _corpus: _corpus:phase:au-bi:a7-rhombohedral, corpus:phase:au-bi:rhombohedral-a7  
+_paper: _paper:10.1016/0040-6031(88)87046-1:Bi(rho), paper:10.1016/j.calphad.2006.07.002:(Bi)  
 _tdb: _tdb:AuBi-06Ser.tdb:RHOMBOHEDRAL_A7, tdb:AuBi-07Wan.tdb:RHOMBOHEDRAL_A7, tdb:AuBi-88Che-LB.tdb:RHOMBOHEDRAL_A7  
 
 
@@ -57,15 +57,15 @@ _tdb: _tdb:AuBi-06Ser.tdb:RHOMBOHEDRAL_A7, tdb:AuBi-07Wan.tdb:RHOMBOHEDRAL_A7, t
 
 Example references (6 of 6; assessments first): 
 
-- [doi:10.1016/0040-6031(88)87046-1](https://doi.org/10.1016/0040-6031%2888%2987046-1) P.-Y. Chevalier, Thermodynamic evaluation of the Au-Bi system, Thermochimica Acta 130, 15-24 (1988).  
-_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2006.07.002](https://doi.org/10.1016/j.calphad.2006.07.002) C. Servant, E. Zoro, B. Legendre, Thermodynamic reassessment of the Au–Bi system, Calphad 30, 443-448 (2006).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0040-6031(88)87046-1](https://doi.org/10.1016/0040-6031%2888%2987046-1) P.-Y. Chevalier, Thermodynamic evaluation of the Au-Bi system, Thermochimica Acta 130, 15-24 (1988).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1007/s11664-007-0090-z](https://doi.org/10.1007/s11664-007-0090-z) J. Wang, F.G. Meng, H.S. Liu, L.B. Liu, Z.P. Jin, Thermodynamic Modeling of the Au-Bi-Sb Ternary System, Journal of Elec Materi 36, 568-577 (2007).  
 _assessment that models this phase_
-- [doi:10.1007/bf02868093](https://doi.org/10.1007/bf02868093) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 4, 401 (1983).  
-_cited as the source of values for this phase_
 - [doi:10.1002/zaac.19060500116](https://doi.org/10.1002/zaac.19060500116) Rudolf Vogel, Metallographische Mitteilungen aus dem Institut für anorganische Chemie der Universität Göttingen. XXXIII. Über die Legierungen des Goldes mit Wismut und Antimon, Z. Anorg. Chem. 50, 145-157 (1906).  
+_cited as the source of values for this phase_
+- [doi:10.1007/bf02868093](https://doi.org/10.1007/bf02868093) H. Okamoto and T.B. Massalski, Bull. Alloy Phase Diagrams 4, 401 (1983).  
 _cited as the source of values for this phase_
 - [doi:10.1016/0040-6031(81)80143-8](https://doi.org/10.1016/0040-6031%2881%2980143-8) Peter C. Wallbrecht, Roger Blachnik, Kennth C. Mills, The heat capacity and enthalpy of some Hume—Rothery phases formed by copper, silver and gold. Part I. Cu + Sb, Ag + Sb, Au + Sb, Au + Bi systems, Thermochimica Acta 45, 189-198 (1981).  
 _cited as the source of values for this phase_
