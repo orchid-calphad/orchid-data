@@ -169,6 +169,11 @@ def test_valid_data_and_conversion(repo):
     assert r["uncertainty"] == {"value": 0.6, "basis": "printed", "note": "2 sd"}
     assert r["reference_state"]["ZR"]["phase"] == "HCP_A3"
     assert oc.contribution_id(value()) == r["id"]   # deterministic
+    # release fields: source system and machine-learning folds as tools/ml_folds.py computes them
+    import hashlib
+    assert r["source_system"] == r["chemical_system"] == "CU-ZR" and r["paper_id"] == "doi:10.5281/zenodo.0000000"
+    assert r["fold_lso"] == int(hashlib.sha256(b"CU-ZR").hexdigest(), 16) % 5
+    assert r["fold_lpo"] == int(hashlib.sha256(b"doi:10.5281/zenodo.0000000").hexdigest(), 16) % 5
 
 
 def test_data_errors(repo):

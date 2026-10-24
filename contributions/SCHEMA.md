@@ -39,7 +39,7 @@ the checks reject unknown contributor fields.
 | `old` | must equal the value in the release (otherwise the record has changed; a correction whose `new` is already in the release is reported as applied) |
 | `new` | parses for the field: numbers; temperatures in K, (1, 6000]; pressure > 0 Pa; controlled vocabularies (`evidence_class`, `transition_kind`, property codes, system ids); mole fractions in [0, 1], elements of the record's system, summing to 1; the plausible range and sign of the property in its release unit (table below); a sign change or a unit other than the release unit is a warning for the maintainers |
 | `evidence.page` | the printed page (`5`, `S3`) |
-| `evidence.quote` | the sentence or table row that shows the right value, at most 240 characters (fair use) |
+| `evidence.quote` | the sentence or table row that shows the right value, at most 240 characters: a short excerpt kept for verification, under the publisher's copyright |
 | `contributor` | `name` required; `orcid` optional, checksum-verified |
 | `licence_consent` | exactly `"CC-BY-4.0"` |
 
@@ -101,7 +101,7 @@ warning: the value is accepted but not ESPEI-ready); **duplicates** within the p
 
 `orchid_contrib.py convert FILE` prints the ORCHID records (literature `SCHEMA.md` fields): a new id `ORC-C...`
 (a hash of the content, stable), `source: "contributed"`, `record_kind: "contributed"`, `contribution {type, file,
-line, dataset_doi, licence}`, `contributors [{name, orcid, role}]`, the state fields, `uncertainty` (the printed
+line, dataset_doi, licence}`, `contributors [{name, orcid, role}]`, `source_system`, the machine-learning folds (`chemical_system`, `paper_id`, `fold_lso`, `fold_lpo`, as tools/ml_folds.py), the state fields, `uncertainty` (the printed
 sigma), `uncertainty_contributed` (the components as given), and
 `flags {review_state: contributed_unverified, contribution_tier: contributed_unverified, extraction_accepted: false,
 espei_ready: false, espei_certified: false}`. A contributed value never overwrites a released value.

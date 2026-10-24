@@ -163,6 +163,11 @@ def system_ok(system):
             and "-".join(els) == str(system))
 
 
+def ml_fold(key, n=5):
+    """Machine-learning fold of the release (tools/ml_folds.py): int(sha256(key), 16) mod 5."""
+    return int(hashlib.sha256(str(key).encode("utf-8")).hexdigest(), 16) % n
+
+
 def contribution_id(row):
     """Deterministic id of a contributed value: hash of its content without the contributor."""
     body = {k: v for k, v in row.items() if k not in ("contributor", "licence_consent", "note")}
@@ -322,7 +327,7 @@ def check_quote(quote, rep, f, line, required=True):
             rep.error(f, line, "quote: the sentence or table row on the page that states the value is required")
         return False
     if len(q) > QUOTE_MAX:
-        rep.error(f, line, "quote: %d characters; at most %d (one sentence or table row, reproduced under fair use)"
+        rep.error(f, line, "quote: %d characters; at most %d (one sentence or table row: a short excerpt kept for verification)"
                   % (len(q), QUOTE_MAX))
         return False
     return True
@@ -626,6 +631,12 @@ def to_record(row, f=None, line=None):
                   "contribution_tier": "contributed_unverified", "espei_ready": False, "espei_certified": False,
                   "calphad_check": "not_available"},
     }
+    # release fields of every record: source system and the machine-learning folds (tools/ml_folds.py)
+    rec["source_system"] = row.get("system")
+    rec["chemical_system"] = row.get("system")
+    rec["paper_id"] = rec.get("paper")
+    rec["fold_lso"] = ml_fold(row.get("system")) if row.get("system") else None
+    rec["fold_lpo"] = ml_fold(rec["paper"]) if rec.get("paper") else None
     return {k: v for k, v in rec.items() if v is not None}
 
 

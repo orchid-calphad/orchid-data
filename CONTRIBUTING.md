@@ -52,8 +52,9 @@ python3 -m pytest -q contributions/tests          # if you changed the tools
 
 - **Data** you contribute (values, corrections, metadata) are released under
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), with credit to you. Each line or value carries
-  `licence_consent: "CC-BY-4.0"`. Quotes are single sentences or table rows, reproduced under fair use so the value
-  can be checked; do not add PDFs, page images or longer text.
+  `licence_consent: "CC-BY-4.0"`. Quotes are short excerpts (a sentence or table row, at most 240 characters) kept so
+  that the value can be checked; they remain under the publisher's copyright and are not relicensed. Do not add PDFs,
+  page images or longer text.
 - **TDB files** keep their own open licence, which you state in `metadata.json`; you confirm that you may release
   the file under it.
 - **Code** (`contributions/tools/`) is under the MIT licence of the ORCHID tools. Sign off every commit
