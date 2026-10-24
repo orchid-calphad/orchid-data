@@ -1,0 +1,74 @@
+# Checks on every pull request (and on pushes to main) that touch contributions: the contribution validator
+# (corrections, new values, paper suggestions, TDB files, contributors) against the released data and the release's
+# physical phase rule, its tests, the credit files, and the DCO sign-off of every commit of the pull request.
+name: contributions
+on:
+  pull_request:
+    paths: ["contributions/**", "contributors.json", "CONTRIBUTORS.md", ".github/workflows/contributions.yml"]
+  push:
+    branches: [main]
+    paths: ["contributions/**", "contributors.json", "CONTRIBUTORS.md", ".github/workflows/contributions.yml"]
+permissions:
+  contents: read
+  pull-requests: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the contribution files and the released data the checks need
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            contributions
+            contributors.json
+            CONTRIBUTORS.md
+            CITATION.cff
+            .zenodo.json
+            zenodo
+            literature/orchid-literature.jsonl.gz
+            literature/papers.json
+            phases/systems
+            phase-diagrams
+          sparse-checkout-cone-mode: false
+      - name: Check out the release tools (physical phase rule) from orchid-project.org
+        uses: actions/checkout@v4
+        with:
+          repository: orchid-calphad/orchid-project.org
+          path: release-site
+          sparse-checkout: tools
+          token: ${{ secrets.ORCHID_SITE_TOKEN || github.token }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: python -m pip install "pytest==9.1.1"
+      - name: Validate the contributions
+        run: >-
+          python contributions/tools/orchid_contrib.py validate --require-release-tools
+          --release-tools release-site/tools --json contribution-report.json
+      - name: Tests of the contribution checks
+        env:
+          ORCHID_RELEASE_TOOLS: release-site/tools
+        run: python -m pytest -q -p no:cacheprovider contributions/tests
+      - name: Credit files up to date
+        run: python contributions/tools/orchid_contrib.py credit --check
+      - name: Keep the report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: contribution-report
+          path: contribution-report.json
+          if-no-files-found: ignore
+  dco:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Every commit is signed off (Developer Certificate of Origin, git commit -s)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          missing=$(gh api "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/commits" \
+            --paginate --jq '.[] | select(.commit.message | test("(?m)^Signed-off-by: .+ <.+>") | not) | .sha')
+          if [ -n "$missing" ]; then
+            echo "::error::commits without a Signed-off-by line (use git commit -s; see CONTRIBUTING.md): $missing"
+            exit 1
+          fi

@@ -1,0 +1,44 @@
+name: Contribute data
+description: New values, your own measurements, calculated data or a TDB file (by pull request).
+title: "[data] "
+labels: ["data-contribution", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Data are contributed by **pull request**, so that every value is checked automatically before review:
+
+        1. Copy `contributions/data/TEMPLATE.json` or `TEMPLATE.csv` (values; types B, C, D) or make
+           `contributions/tdb/<name>/` (a TDB file and `metadata.json`; type E).
+        2. Give every value as an equilibrium state (phases, temperature, pressure, composition, reference state),
+           with its evidence class and a DOI. Unpublished measurements: deposit them first (e.g. on Zenodo) and cite
+           that DOI.
+        3. Run `python3 contributions/tools/orchid_contrib.py validate <your file>` and open the pull request
+           (commits signed off: `git commit -s`).
+
+        Field reference: contributions/SCHEMA.md. Use this issue only to ask a question or to tell us what you plan
+        to contribute before you start.
+  - type: dropdown
+    id: type
+    attributes:
+      label: What do you plan to contribute?
+      options:
+        - B - values I read from a published paper
+        - C - my own measurements (with a DOI)
+        - D - calculated data (DFT, CALPHAD model, ...)
+        - E - a CALPHAD assessment / TDB file
+        - not sure
+    validations:
+      required: true
+  - type: input
+    id: systems
+    attributes:
+      label: Chemical system(s)
+      placeholder: "CU-ZR"
+  - type: textarea
+    id: details
+    attributes:
+      label: Details or question
+      description: Properties, number of values, DOI of the paper or dataset, licence of a TDB file.
+    validations:
+      required: true

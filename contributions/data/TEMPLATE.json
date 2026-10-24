@@ -1,0 +1,38 @@
+{
+  "records": [
+    {
+      "contribution_type": "B | C | D (delete two)",
+      "system": "CU-ZR",
+      "property": "HM_FORM",
+      "value": -16.2,
+      "unit": "kJ/mol-atom",
+      "value_printed": "-16.2 ± 0.6 (as printed, optional)",
+      "unit_printed": "kJ/mol of atoms (as printed, optional)",
+      "state": {
+        "phases": [{"label": "CuZr2 (as printed)", "model_phase": "CUZR2 (TDB phase name, optional)"}],
+        "temperature_K": 298.15,
+        "pressure_Pa": 101325,
+        "overall_composition": {"CU": 0.3333, "ZR": 0.6667},
+        "phase_compositions": [],
+        "reference_state": {"CU": {"phase": "FCC_A1"}, "ZR": {"phase": "HCP_A3"}},
+        "reaction": {"printed": "L = CuZr2 + (βZr) (invariants only)", "type": "eutectic"}
+      },
+      "evidence_class": "experimental | model | dft",
+      "method": {"kind": "drop solution calorimetry", "details": "free text (optional)",
+                 "code": "type D, DFT: e.g. VASP 6.4", "functional": "type D, DFT: e.g. PBE",
+                 "software": "type D, model: e.g. pycalphad 0.11", "tdb_or_model": "type D, model: TDB file / DOI"},
+      "provenance": {"doi": "10.xxxx/paper (types B, C, D)", "dataset_doi": "10.5281/zenodo.xxxxxxx (C, D: deposited data)",
+                     "page": "5 (type B: required)", "table": "2 (optional)", "row": 3,
+                     "quote": "type B: the sentence or table row that states the value, at most 240 characters"},
+      "uncertainty": {
+        "sigma_printed": {"value": 0.6, "kind": "as printed: standard deviation, 2 sd, range half-width, ..."},
+        "sigma_method": {"value": 1.0, "basis": "your estimate of the method's systematic error (optional)"},
+        "sigma_composition": {"value": 0.3, "dx": 0.01},
+        "sigma_scatter": {"value": 0.8, "n_sources": 3},
+        "sigma_conversion": {"value": 0.2, "note": "reference-state or unit conversion you applied"}
+      },
+      "contributor": {"name": "Your Name (or GitHub handle)", "orcid": "0000-0000-0000-0000 (optional)", "credit_opt_in": true},
+      "licence_consent": "CC-BY-4.0"
+    }
+  ]
+}

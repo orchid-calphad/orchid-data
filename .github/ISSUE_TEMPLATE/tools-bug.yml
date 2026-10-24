@@ -1,0 +1,40 @@
+name: Bug in the tools, MCP server or website
+description: Something does not work in orchid-mcp, the data pages, the explorer or the release tools.
+title: "[bug] "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For a wrong value, use "Report an error in a value" instead. Bugs in the MCP server can also go to
+        orchid-calphad/orchid-mcp, and bugs in the extraction pipeline to orchid-calphad/orchid-pipeline.
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      options:
+        - MCP server (orchid-mcp)
+        - data pages (data.orchid-project.org)
+        - website / explorer / phase-diagram viewer (orchid-project.org)
+        - release tools (validators, builders)
+        - extraction pipeline (orchid-pipeline)
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How to reproduce
+      description: The page URL, tool call (name and arguments) or command, and its output.
+      render: text
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: ORCHID release (e.g. 2026.10), orchid-mcp version, browser.

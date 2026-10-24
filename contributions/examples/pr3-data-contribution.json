@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "contribution_type": "C",
+      "system": "CU-ZR",
+      "property": "HM_FORM",
+      "value": -16.2,
+      "unit": "kJ/mol-atom",
+      "value_printed": "-16.2 ± 0.6",
+      "unit_printed": "kJ/mol of atoms",
+      "state": {
+        "phases": [{"label": "CuZr2", "model_phase": "CUZR2"}],
+        "temperature_K": 298.15,
+        "pressure_Pa": 101325,
+        "overall_composition": {"CU": 0.3333, "ZR": 0.6667},
+        "reference_state": {"CU": {"phase": "FCC_A1"}, "ZR": {"phase": "HCP_A3"}}
+      },
+      "evidence_class": "experimental",
+      "method": {"kind": "drop solution calorimetry", "details": "SYNTHETIC EXAMPLE: high-temperature drop calorimetry in liquid Al at 1073 K"},
+      "provenance": {"dataset_doi": "10.5281/zenodo.0000000"},
+      "uncertainty": {"sigma_printed": {"value": 0.6, "kind": "two standard deviations of the mean"}, "sigma_composition": {"value": 0.3}},
+      "contributor": {"name": "Example Contributor", "orcid": "0000-0002-1825-0097"},
+      "licence_consent": "CC-BY-4.0"
+    }
+  ]
+}

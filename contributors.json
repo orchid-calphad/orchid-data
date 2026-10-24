@@ -1,0 +1,5 @@
+{
+  "description": "Accepted ORCHID contributors (contributions/SCHEMA.md, Credit). Maintainers add a contributor when a contribution is accepted; credit_opt_in records the contributor's choice to be listed in the Zenodo metadata (and, with cff_authors, in CITATION.cff). CONTRIBUTORS.md is written from this file by contributions/tools/orchid_contrib.py credit.",
+  "cff_authors": false,
+  "contributors": []
+}

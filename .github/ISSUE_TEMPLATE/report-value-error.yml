@@ -1,0 +1,98 @@
+name: Report an error in a value
+description: A value on an ORCHID page or in the data differs from what the paper prints.
+title: "[value] "
+labels: ["value-error", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. The **report** link next to each value fills in the first fields for you. A maintainer will check
+        the page of the paper; accepted corrections appear in the next release with credit to you. Please do not put
+        an e-mail address or other personal data in this form, and do not attach the paper (a page number and one
+        sentence or table row are enough).
+  - type: input
+    id: record_id
+    attributes:
+      label: Record id
+      description: The ORCHID id of the value (ORC-...).
+      placeholder: ORC-RZXYDDJGWB
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Chemical system
+      placeholder: CU-ZR
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Source (DOI and page)
+      description: The paper the value was read from and the page ORCHID gives.
+      placeholder: "doi:10.1016/j.jallcom.2004.04.126, p. 2"
+    validations:
+      required: false
+  - type: input
+    id: value_shown
+    attributes:
+      label: What ORCHID shows
+      placeholder: "590.15 K"
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which part is wrong?
+      options:
+        - value
+        - unit
+        - temperature
+        - phases or reaction
+        - composition
+        - reference state
+        - evidence class (experimental / model / DFT)
+        - page or table location
+        - it is not a value of this paper (misread)
+        - other / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: page_says
+    attributes:
+      label: What the paper says
+      description: The value (and unit, phases, temperature) as printed in the paper.
+      placeholder: "Table 1, row 1: 318 °C"
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: Page and quote
+      description: The printed page number and the one sentence or table row that shows it (at most 240 characters).
+      placeholder: "p. 2: ..."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Other evidence (optional)
+      description: E.g. another paper that confirms the value (DOI and page), or a note on units or reference states.
+    validations:
+      required: false
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Licence and credit
+      options:
+        - label: I agree that my correction is released under CC BY 4.0 as part of ORCHID.
+          required: true
+        - label: Credit me in CONTRIBUTORS.md and the Zenodo metadata of the release (by my GitHub name, or the name and ORCID I give below).
+          required: false
+  - type: input
+    id: credit_name
+    attributes:
+      label: Name and ORCID for credit (optional)
+      placeholder: "Ada Lovelace, 0000-0002-1825-0097"
+    validations:
+      required: false

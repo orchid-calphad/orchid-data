@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How to contribute to ORCHID
+    url: https://orchid-project.org/contribute/
+    about: Plain-English guide to reporting errors, suggesting papers and contributing data.
+  - name: Contribution file formats and checks
+    url: https://github.com/orchid-calphad/orchid-data/blob/main/contributions/SCHEMA.md
+    about: Fields of corrections and new values, the automatic checks and how contributions are accepted.
+  - name: MCP server issues
+    url: https://github.com/orchid-calphad/orchid-mcp/issues
+    about: Bugs and feature requests for the ORCHID MCP server.
+  - name: Code of conduct
+    url: https://github.com/orchid-calphad/orchid-data/blob/main/CODE_OF_CONDUCT.md
+    about: Contributor Covenant 2.1; reports to conduct@orchid-project.org.

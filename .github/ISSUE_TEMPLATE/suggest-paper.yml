@@ -1,0 +1,51 @@
+name: Suggest a paper or assessment
+description: A paper, dataset or CALPHAD assessment that ORCHID should read.
+title: "[paper] "
+labels: ["paper-suggestion", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        DOIs only, please: do not attach PDFs. Suggestions are added to the extraction queue
+        (`contributions/papers/queue.jsonl`); you can also add a line there in a pull request.
+  - type: textarea
+    id: dois
+    attributes:
+      label: DOI(s)
+      description: One per line.
+      placeholder: "10.1016/j.calphad.2023.102563"
+    validations:
+      required: true
+  - type: input
+    id: systems
+    attributes:
+      label: Chemical system(s)
+      placeholder: "CU-ZR, AL-CU-ZR"
+    validations:
+      required: true
+  - type: dropdown
+    id: data_types
+    attributes:
+      label: Kind of data
+      multiple: true
+      options:
+        - invariant reactions
+        - phase boundaries / compositions
+        - phase transitions
+        - formation enthalpy
+        - mixing / partial quantities
+        - heat capacity / entropy
+        - activity / EMF / vapour pressure
+        - crystal structure / lattice
+        - CALPHAD assessment (TDB)
+        - DFT / calculated
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why this paper?
+      description: E.g. new measurements, a re-assessment, a system ORCHID does not cover yet, a TDB file under an open licence.
+    validations:
+      required: false

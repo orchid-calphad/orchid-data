@@ -17,6 +17,7 @@ served at <https://data.orchid-project.org> and browsable at <https://orchid-pro
 | `parquet/` | Analysis-ready Parquet tables of the same release (see Formats). |
 | `zenodo/` | Zenodo deposition metadata and file manifests of the nine release records; DOIs in `zenodo/dois.json`. |
 | `systems/`, `compounds/`, `papers/`, `bibliography/pages/` | Static no-JavaScript pages (HTML, Markdown, CSV) generated from the data; not part of the Zenodo records. |
+| `contributions/` | Corrections, new values, paper suggestions and TDB files contributed by pull request, with their templates, checks (`contributions/tools/orchid_contrib.py`) and tests; not part of the Zenodo records. See `CONTRIBUTING.md`. |
 
 ## Machine-learning use
 Literature values, DFT parity rows and assessed phase-assemblage points carry `chemical_system`, `paper_id` and two
@@ -32,6 +33,13 @@ derived; cite ORCHID and the original sources. Each literature value carries its
 it was read from: a short excerpt kept for verification, which remains under the publisher's copyright and is not
 relicensed. Source papers, page images and full texts are not redistributed. Attributions, the Kim et al. 2017 (MIT)
 and Crossref (CC0) notices and statements of changes: `NOTICE.md`; licence per folder: `LICENSES.md`.
+
+## Contributing
+Found a wrong value, or know a paper ORCHID should read? Every value on the data pages has a **report** link that
+opens a pre-filled GitHub issue; papers can be suggested with an issue form, and data are contributed by pull request
+to `contributions/`, where every value is checked automatically and then against its page by a maintainer. See
+`CONTRIBUTING.md` (licences: CC BY 4.0 for data, MIT and DCO sign-off for code), `CODE_OF_CONDUCT.md`,
+`GOVERNANCE.md` and `CONTRIBUTORS.md`, or https://orchid-project.org/contribute/.
 
 ## Citing
 Release v2026.10 is archived on Zenodo as eight citable datasets, each its own record and DOI, plus an umbrella
