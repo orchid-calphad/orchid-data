@@ -35,7 +35,7 @@
  "reference": "Wang 2013, doi:10.1016/j.tca.2013.05.024",
  "bibtex": "wang2013_68160a",
  "weight": [
-  0.080425
+  0.079554
  ],
  "tags": [
   "dft_literature",
@@ -83,7 +83,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 6217.0,
+    "sigma": 6285.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -92,15 +92,15 @@
      "leave_system_out": true,
      "system_left_out": "BI-ER",
      "n": 91,
-     "sigma_robust_kJ": 6.217,
-     "bias_median_kJ_not_applied": 0.214,
+     "sigma_robust_kJ": 6.285,
+     "bias_median_kJ_not_applied": 0.192,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.683,
-      9.095
+      4.783,
+      8.981
      ],
      "n_full_stratum": 93
     },
-    "weight_used": 0.080425,
+    "weight_used": 0.079554,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -82.069,

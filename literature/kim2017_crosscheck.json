@@ -8,7 +8,7 @@
  "inputs": {
   "literature": {
    "path": "data/literature/orchid-literature.jsonl.gz",
-   "sha256": "8dc622ff5ca85040b8612084ecfab5c9dd29698306ffc6015c531200a442ef32"
+   "sha256": "63bef7562ee527c54c762ca5e841ce8c3132ce8dd5d6fccffbe81726b8bc3b22"
   }
  },
  "orchid_candidates": {
@@ -239,25 +239,6 @@
     "orchid_median": -42.32
    },
    {
-    "difference": -11.591,
-    "formula": "CuZr",
-    "kim_median": -9.05,
-    "kim_values": [
-     -9.05
-    ],
-    "orchid_ids": [
-     "ORC-6KVB57WVNQ.3bf3a8",
-     "ORC-BOQ5VV67YX.8db5c2",
-     "ORC-CARTMZD2NZ",
-     "ORC-DQ35XUMV5X",
-     "ORC-KHVTE32LGI",
-     "ORC-OXE64SWUWN.758ad3",
-     "ORC-RPTAM6KOJB",
-     "ORC-ZY5COVKYWI"
-    ],
-    "orchid_median": -20.641
-   },
-   {
     "difference": -11.198,
     "formula": "AuCe",
     "kim_median": -62.802,
@@ -284,6 +265,25 @@
      "ORC-H5OLRJ7EH6"
     ],
     "orchid_median": -12.5
+   },
+   {
+    "difference": -10.539,
+    "formula": "CuZr",
+    "kim_median": -9.05,
+    "kim_values": [
+     -9.05
+    ],
+    "orchid_ids": [
+     "ORC-6KVB57WVNQ.3bf3a8",
+     "ORC-BOQ5VV67YX.8db5c2",
+     "ORC-CARTMZD2NZ",
+     "ORC-DQ35XUMV5X",
+     "ORC-KHVTE32LGI",
+     "ORC-OXE64SWUWN.758ad3",
+     "ORC-RPTAM6KOJB",
+     "ORC-ZY5COVKYWI"
+    ],
+    "orchid_median": -19.59
    },
    {
     "difference": 10.399,
@@ -319,7 +319,7 @@
     "orchid_median": -14.225
    }
   ],
-  "mae": 3.886,
+  "mae": 3.879,
   "median_abs_difference": 0.985,
   "n_differ_more_than_10": 20,
   "n_overlap_formulas": 159,

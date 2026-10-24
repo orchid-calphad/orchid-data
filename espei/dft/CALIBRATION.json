@@ -21,43 +21,43 @@
    "above_hull": "lowest DFT entry at the composition lies above the hull"
   }
  },
- "pairs_release": "dft_parity.json inputs literature sha256 8dc622ff5ca85040b8612084ecfab5c9dd29698306ffc6015c531200a442ef32",
+ "pairs_release": "dft_parity.json inputs literature sha256 63bef7562ee527c54c762ca5e841ce8c3132ce8dd5d6fccffbe81726b8bc3b22",
  "sources": {
   "literature": {
    "all": {
     "n": 247,
-    "bias_mean": 3.936,
+    "bias_mean": 3.895,
     "bias_median": 1.078,
-    "sigma_robust": 5.221,
+    "sigma_robust": 5.244,
     "q68_abs": 6.1,
     "q95_abs": 35.143,
-    "rmse": 18.606,
+    "rmse": 18.597,
     "ci95": {
      "bias_median": [
-      0.3,
+      0.29,
       2.1
      ],
      "q68_abs": [
       5.104,
-      8.676
+      7.978
      ],
      "q95_abs": [
       25.041,
       49.954
      ],
      "rmse": [
-      13.29,
-      23.649
+      13.281,
+      23.646
      ],
      "sigma_robust": [
-      4.277,
-      6.682
+      4.359,
+      6.753
      ]
     },
     "sigma_exp_median": 2.0,
-    "n_with_printed_exp_sigma": 178,
-    "sigma_deconvolved": 4.823,
-    "rmse_over_sigma_robust": 3.56
+    "n_with_printed_exp_sigma": 166,
+    "sigma_deconvolved": 4.848,
+    "rmse_over_sigma_robust": 3.55
    },
    "strata": {
     "magnetic_3d": {
@@ -97,12 +97,12 @@
     },
     "metal": {
      "n": 93,
-     "bias_mean": 3.257,
-     "bias_median": 0.302,
-     "sigma_robust": 6.263,
-     "q68_abs": 7.513,
+     "bias_mean": 3.147,
+     "bias_median": 0.214,
+     "sigma_robust": 6.28,
+     "q68_abs": 6.937,
      "q95_abs": 29.552,
-     "rmse": 12.651,
+     "rmse": 12.618,
      "ci95": {
       "bias_median": [
        -0.86,
@@ -110,25 +110,25 @@
       ],
       "q68_abs": [
        5.567,
-       11.023
+       10.567
       ],
       "q95_abs": [
        22.49,
        36.055
       ],
       "rmse": [
-       9.85,
-       15.31
+       9.818,
+       15.266
       ],
       "sigma_robust": [
-       4.683,
-       9.095
+       4.783,
+       8.981
       ]
      },
-     "sigma_exp_median": 1.3,
-     "n_with_printed_exp_sigma": 75,
-     "sigma_deconvolved": 6.127,
-     "rmse_over_sigma_robust": 2.02
+     "sigma_exp_median": 2.0,
+     "n_with_printed_exp_sigma": 63,
+     "sigma_deconvolved": 5.953,
+     "rmse_over_sigma_robust": 2.01
     },
     "pblock_anion": {
      "n": 64,
@@ -170,12 +170,12 @@
   "mp": {
    "all": {
     "n": 1199,
-    "bias_mean": 4.067,
+    "bias_mean": 4.059,
     "bias_median": 2.532,
-    "sigma_robust": 8.916,
+    "sigma_robust": 8.937,
     "q68_abs": 11.213,
     "q95_abs": 32.886,
-    "rmse": 18.676,
+    "rmse": 18.675,
     "ci95": {
      "bias_median": [
       1.78,
@@ -190,17 +190,17 @@
       36.197
      ],
      "rmse": [
-      15.819,
-      21.756
+      15.818,
+      21.755
      ],
      "sigma_robust": [
-      8.08,
-      9.951
+      8.082,
+      9.973
      ]
     },
     "sigma_exp_median": 2.0,
-    "n_with_printed_exp_sigma": 544,
-    "sigma_deconvolved": 8.689,
+    "n_with_printed_exp_sigma": 537,
+    "sigma_deconvolved": 8.71,
     "rmse_over_sigma_robust": 2.09
    },
    "strata": {
@@ -241,15 +241,15 @@
     },
     "above_hull|metal": {
      "n": 124,
-     "bias_mean": 8.151,
+     "bias_mean": 8.128,
      "bias_median": 6.556,
      "sigma_robust": 7.567,
      "q68_abs": 10.363,
      "q95_abs": 31.271,
-     "rmse": 13.634,
+     "rmse": 13.63,
      "ci95": {
       "bias_median": [
-       4.832,
+       4.642,
        7.61
       ],
       "q68_abs": [
@@ -262,15 +262,15 @@
       ],
       "rmse": [
        10.978,
-       16.044
+       16.038
       ],
       "sigma_robust": [
-       5.729,
+       5.732,
        8.48
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 57,
+     "n_with_printed_exp_sigma": 54,
      "sigma_deconvolved": 7.298,
      "rmse_over_sigma_robust": 1.8
     },
@@ -346,16 +346,16 @@
     },
     "on_hull_single|metal": {
      "n": 257,
-     "bias_mean": 6.67,
-     "bias_median": 5.187,
-     "sigma_robust": 9.489,
+     "bias_mean": 6.656,
+     "bias_median": 5.075,
+     "sigma_robust": 9.496,
      "q68_abs": 10.77,
      "q95_abs": 29.374,
-     "rmse": 13.238,
+     "rmse": 13.237,
      "ci95": {
       "bias_median": [
        3.705,
-       6.585
+       6.551
       ],
       "q68_abs": [
        9.135,
@@ -366,18 +366,18 @@
        31.489
       ],
       "rmse": [
-       11.6,
-       14.877
+       11.603,
+       14.876
       ],
       "sigma_robust": [
-       7.951,
-       10.558
+       7.938,
+       10.506
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 124,
-     "sigma_deconvolved": 9.276,
-     "rmse_over_sigma_robust": 1.4
+     "n_with_printed_exp_sigma": 121,
+     "sigma_deconvolved": 9.283,
+     "rmse_over_sigma_robust": 1.39
     },
     "on_hull_single|pblock_anion": {
      "n": 129,
@@ -451,19 +451,19 @@
     },
     "polymorph_ambiguous|metal": {
      "n": 99,
-     "bias_mean": 8.616,
-     "bias_median": 5.252,
-     "sigma_robust": 7.116,
+     "bias_mean": 8.588,
+     "bias_median": 4.852,
+     "sigma_robust": 7.303,
      "q68_abs": 10.132,
      "q95_abs": 35.228,
-     "rmse": 15.963,
+     "rmse": 15.953,
      "ci95": {
       "bias_median": [
        3.395,
-       6.856
+       6.56
       ],
       "q68_abs": [
-       7.274,
+       7.271,
        12.998
       ],
       "q95_abs": [
@@ -471,18 +471,18 @@
        48.057
       ],
       "rmse": [
-       11.725,
-       21.088
+       11.724,
+       21.067
       ],
       "sigma_robust": [
-       5.472,
-       10.396
+       5.391,
+       10.443
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 39,
-     "sigma_deconvolved": 6.829,
-     "rmse_over_sigma_robust": 2.24
+     "n_with_printed_exp_sigma": 38,
+     "sigma_deconvolved": 7.024,
+     "rmse_over_sigma_robust": 2.18
     },
     "polymorph_ambiguous|pblock_anion": {
      "n": 325,
@@ -556,16 +556,16 @@
     },
     "chem:metal": {
      "n": 480,
-     "bias_mean": 7.454,
-     "bias_median": 5.681,
-     "sigma_robust": 8.813,
+     "bias_mean": 7.434,
+     "bias_median": 5.639,
+     "sigma_robust": 8.861,
      "q68_abs": 10.423,
      "q95_abs": 30.857,
-     "rmse": 13.943,
+     "rmse": 13.939,
      "ci95": {
       "bias_median": [
-       4.74,
-       6.419
+       4.639,
+       6.318
       ],
       "q68_abs": [
        9.453,
@@ -576,18 +576,18 @@
        33.618
       ],
       "rmse": [
-       12.373,
-       15.535
+       12.366,
+       15.532
       ],
       "sigma_robust": [
-       7.627,
-       9.317
+       7.554,
+       9.338
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 220,
-     "sigma_deconvolved": 8.583,
-     "rmse_over_sigma_robust": 1.58
+     "n_with_printed_exp_sigma": 213,
+     "sigma_deconvolved": 8.632,
+     "rmse_over_sigma_robust": 1.57
     },
     "chem:pblock_anion": {
      "n": 528,
@@ -626,12 +626,12 @@
     },
     "match:above_hull": {
      "n": 237,
-     "bias_mean": 9.501,
+     "bias_mean": 9.489,
      "bias_median": 6.201,
      "sigma_robust": 8.295,
      "q68_abs": 12.613,
      "q95_abs": 32.813,
-     "rmse": 20.878,
+     "rmse": 20.877,
      "ci95": {
       "bias_median": [
        5.066,
@@ -646,27 +646,27 @@
        44.709
       ],
       "rmse": [
-       14.457,
+       14.452,
        27.397
       ],
       "sigma_robust": [
-       6.912,
+       6.964,
        9.664
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 111,
+     "n_with_printed_exp_sigma": 108,
      "sigma_deconvolved": 8.05,
      "rmse_over_sigma_robust": 2.52
     },
     "match:on_hull_single": {
      "n": 456,
-     "bias_mean": 4.214,
+     "bias_mean": 4.206,
      "bias_median": 2.889,
      "sigma_robust": 8.079,
      "q68_abs": 9.813,
      "q95_abs": 29.515,
-     "rmse": 13.181,
+     "rmse": 13.18,
      "ci95": {
       "bias_median": [
        1.837,
@@ -681,27 +681,27 @@
        31.93
       ],
       "rmse": [
-       11.882,
-       14.567
+       11.886,
+       14.565
       ],
       "sigma_robust": [
        6.905,
-       9.11
+       9.154
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 224,
+     "n_with_printed_exp_sigma": 221,
      "sigma_deconvolved": 7.828,
      "rmse_over_sigma_robust": 1.63
     },
     "match:polymorph_ambiguous": {
      "n": 506,
-     "bias_mean": 1.39,
+     "bias_mean": 1.384,
      "bias_median": 0.481,
-     "sigma_robust": 8.872,
+     "sigma_robust": 8.795,
      "q68_abs": 11.749,
      "q95_abs": 36.483,
-     "rmse": 21.581,
+     "rmse": 21.58,
      "ci95": {
       "bias_median": [
        -0.581,
@@ -716,34 +716,34 @@
        46.427
       ],
       "rmse": [
-       16.528,
-       26.739
+       16.524,
+       26.738
       ],
       "sigma_robust": [
-       7.52,
+       7.492,
        11.236
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 209,
-     "sigma_deconvolved": 8.644,
-     "rmse_over_sigma_robust": 2.43
+     "n_with_printed_exp_sigma": 208,
+     "sigma_deconvolved": 8.565,
+     "rmse_over_sigma_robust": 2.45
     }
    }
   },
   "oqmd": {
    "all": {
     "n": 1251,
-    "bias_mean": 4.954,
+    "bias_mean": 4.947,
     "bias_median": 2.364,
-    "sigma_robust": 7.649,
+    "sigma_robust": 7.655,
     "q68_abs": 9.094,
     "q95_abs": 28.955,
-    "rmse": 17.173,
+    "rmse": 17.172,
     "ci95": {
      "bias_median": [
       1.779,
-      2.808
+      2.802
      ],
      "q68_abs": [
       8.388,
@@ -754,18 +754,18 @@
       34.19
      ],
      "rmse": [
-      14.403,
+      14.402,
       19.965
      ],
      "sigma_robust": [
-      6.944,
-      8.51
+      6.947,
+      8.536
      ]
     },
     "sigma_exp_median": 2.0,
-    "n_with_printed_exp_sigma": 579,
-    "sigma_deconvolved": 7.383,
-    "rmse_over_sigma_robust": 2.25
+    "n_with_printed_exp_sigma": 573,
+    "sigma_deconvolved": 7.389,
+    "rmse_over_sigma_robust": 2.24
    },
    "strata": {
     "above_hull|magnetic_3d": {
@@ -805,15 +805,15 @@
     },
     "above_hull|metal": {
      "n": 212,
-     "bias_mean": 7.015,
+     "bias_mean": 7.005,
      "bias_median": 4.806,
      "sigma_robust": 8.494,
      "q68_abs": 10.22,
      "q95_abs": 28.046,
-     "rmse": 13.102,
+     "rmse": 13.099,
      "ci95": {
       "bias_median": [
-       3.211,
+       3.124,
        5.772
       ],
       "q68_abs": [
@@ -829,12 +829,12 @@
        14.873
       ],
       "sigma_robust": [
-       7.129,
+       7.162,
        10.059
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 103,
+     "n_with_printed_exp_sigma": 102,
      "sigma_deconvolved": 8.255,
      "rmse_over_sigma_robust": 1.54
     },
@@ -910,19 +910,19 @@
     },
     "on_hull_single|metal": {
      "n": 39,
-     "bias_mean": 5.344,
-     "bias_median": 5.307,
-     "sigma_robust": 10.657,
+     "bias_mean": 5.251,
+     "bias_median": 4.962,
+     "sigma_robust": 10.989,
      "q68_abs": 11.581,
      "q95_abs": 23.497,
-     "rmse": 12.547,
+     "rmse": 12.536,
      "ci95": {
       "bias_median": [
        0.737,
        10.219
       ],
       "q68_abs": [
-       6.912,
+       6.73,
        14.245
       ],
       "q95_abs": [
@@ -930,18 +930,18 @@
        37.117
       ],
       "rmse": [
-       9.119,
-       15.823
+       9.111,
+       15.829
       ],
       "sigma_robust": [
        5.948,
-       13.112
+       13.108
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 24,
-     "sigma_deconvolved": 10.468,
-     "rmse_over_sigma_robust": 1.18
+     "n_with_printed_exp_sigma": 20,
+     "sigma_deconvolved": 10.805,
+     "rmse_over_sigma_robust": 1.14
     },
     "on_hull_single|pblock_anion": {
      "n": 25,
@@ -1015,19 +1015,19 @@
     },
     "polymorph_ambiguous|metal": {
      "n": 234,
-     "bias_mean": 4.275,
+     "bias_mean": 4.263,
      "bias_median": 1.955,
-     "sigma_robust": 6.187,
+     "sigma_robust": 6.04,
      "q68_abs": 7.429,
      "q95_abs": 21.765,
-     "rmse": 11.79,
+     "rmse": 11.784,
      "ci95": {
       "bias_median": [
        1.149,
        3.507
       ],
       "q68_abs": [
-       6.583,
+       6.503,
        9.09
       ],
       "q95_abs": [
@@ -1035,18 +1035,18 @@
        36.123
       ],
       "rmse": [
-       9.391,
-       14.187
+       9.384,
+       14.183
       ],
       "sigma_robust": [
-       4.9,
-       7.284
+       4.843,
+       7.282
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 106,
-     "sigma_deconvolved": 5.855,
-     "rmse_over_sigma_robust": 1.91
+     "n_with_printed_exp_sigma": 105,
+     "sigma_deconvolved": 5.699,
+     "rmse_over_sigma_robust": 1.95
     },
     "polymorph_ambiguous|pblock_anion": {
      "n": 354,
@@ -1120,16 +1120,16 @@
     },
     "chem:metal": {
      "n": 485,
-     "bias_mean": 5.559,
-     "bias_median": 3.507,
-     "sigma_robust": 7.641,
+     "bias_mean": 5.541,
+     "bias_median": 3.469,
+     "sigma_robust": 7.669,
      "q68_abs": 9.329,
      "q95_abs": 26.556,
-     "rmse": 12.44,
+     "rmse": 12.435,
      "ci95": {
       "bias_median": [
        2.423,
-       4.325
+       4.306
       ],
       "q68_abs": [
        8.259,
@@ -1140,18 +1140,18 @@
        29.387
       ],
       "rmse": [
-       11.04,
-       13.923
+       11.033,
+       13.921
       ],
       "sigma_robust": [
-       6.599,
-       8.632
+       6.596,
+       8.644
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 233,
-     "sigma_deconvolved": 7.375,
-     "rmse_over_sigma_robust": 1.63
+     "n_with_printed_exp_sigma": 227,
+     "sigma_deconvolved": 7.404,
+     "rmse_over_sigma_robust": 1.62
     },
     "chem:pblock_anion": {
      "n": 546,
@@ -1190,12 +1190,12 @@
     },
     "match:above_hull": {
      "n": 477,
-     "bias_mean": 4.988,
+     "bias_mean": 4.983,
      "bias_median": 3.732,
      "sigma_robust": 8.172,
      "q68_abs": 10.203,
      "q95_abs": 27.826,
-     "rmse": 13.45,
+     "rmse": 13.448,
      "ci95": {
       "bias_median": [
        2.723,
@@ -1210,34 +1210,34 @@
        31.947
       ],
       "rmse": [
-       12.123,
-       14.777
+       12.122,
+       14.776
       ],
       "sigma_robust": [
-       7.118,
-       9.189
+       7.104,
+       9.143
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 228,
+     "n_with_printed_exp_sigma": 227,
      "sigma_deconvolved": 7.923,
      "rmse_over_sigma_robust": 1.65
     },
     "match:on_hull_single": {
      "n": 78,
-     "bias_mean": 4.197,
+     "bias_mean": 4.15,
      "bias_median": 2.607,
      "sigma_robust": 7.365,
      "q68_abs": 11.358,
      "q95_abs": 24.121,
-     "rmse": 11.501,
+     "rmse": 11.495,
      "ci95": {
       "bias_median": [
        0.989,
-       5.061
+       4.858
       ],
       "q68_abs": [
-       5.645,
+       5.452,
        13.967
       ],
       "q95_abs": [
@@ -1245,27 +1245,27 @@
        29.229
       ],
       "rmse": [
-       9.166,
-       13.643
+       9.145,
+       13.642
       ],
       "sigma_robust": [
-       4.657,
-       10.766
+       4.549,
+       10.835
       ]
      },
      "sigma_exp_median": 2.0,
-     "n_with_printed_exp_sigma": 48,
+     "n_with_printed_exp_sigma": 44,
      "sigma_deconvolved": 7.088,
      "rmse_over_sigma_robust": 1.56
     },
     "match:polymorph_ambiguous": {
      "n": 696,
-     "bias_mean": 5.016,
+     "bias_mean": 5.012,
      "bias_median": 1.213,
-     "sigma_robust": 7.57,
+     "sigma_robust": 7.555,
      "q68_abs": 8.294,
      "q95_abs": 32.271,
-     "rmse": 19.781,
+     "rmse": 19.78,
      "ci95": {
       "bias_median": [
        0.744,
@@ -1281,17 +1281,17 @@
       ],
       "rmse": [
        15.587,
-       24.142
+       24.141
       ],
       "sigma_robust": [
-       6.781,
+       6.726,
        8.236
       ]
      },
      "sigma_exp_median": 2.09,
-     "n_with_printed_exp_sigma": 303,
-     "sigma_deconvolved": 7.276,
-     "rmse_over_sigma_robust": 2.61
+     "n_with_printed_exp_sigma": 302,
+     "sigma_deconvolved": 7.26,
+     "rmse_over_sigma_robust": 2.62
     }
    }
   }
@@ -1410,8 +1410,8 @@
    "stratum": "metal",
    "system": "AG-SM",
    "n": 91,
-   "sigma_robust_kJ": 6.252,
-   "bias_median_kJ": 0.214,
+   "sigma_robust_kJ": 6.313,
+   "bias_median_kJ": 0.192,
    "fallback": null
   },
   "literature|metal|AL-CA": {
@@ -1419,8 +1419,8 @@
    "stratum": "metal",
    "system": "AL-CA",
    "n": 81,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 2.43,
+   "sigma_robust_kJ": 7.02,
+   "bias_median_kJ": 2.276,
    "fallback": null
   },
   "literature|metal|AL-IR": {
@@ -1428,8 +1428,8 @@
    "stratum": "metal",
    "system": "AL-IR",
    "n": 91,
-   "sigma_robust_kJ": 6.217,
-   "bias_median_kJ": 0.214,
+   "sigma_robust_kJ": 6.285,
+   "bias_median_kJ": 0.192,
    "fallback": null
   },
   "literature|metal|AL-MG": {
@@ -1437,8 +1437,8 @@
    "stratum": "metal",
    "system": "AL-MG",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|AL-SR": {
@@ -1446,8 +1446,8 @@
    "stratum": "metal",
    "system": "AL-SR",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|AL-TI": {
@@ -1455,8 +1455,8 @@
    "stratum": "metal",
    "system": "AL-TI",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|AU-CE": {
@@ -1464,8 +1464,8 @@
    "stratum": "metal",
    "system": "AU-CE",
    "n": 89,
-   "sigma_robust_kJ": 7.077,
-   "bias_median_kJ": 0.851,
+   "sigma_robust_kJ": 6.755,
+   "bias_median_kJ": 0.302,
    "fallback": null
   },
   "literature|metal|AU-SN": {
@@ -1473,8 +1473,8 @@
    "stratum": "metal",
    "system": "AU-SN",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|BE-V": {
@@ -1482,8 +1482,8 @@
    "stratum": "metal",
    "system": "BE-V",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|BI-ER": {
@@ -1491,8 +1491,8 @@
    "stratum": "metal",
    "system": "BI-ER",
    "n": 91,
-   "sigma_robust_kJ": 6.217,
-   "bias_median_kJ": 0.214,
+   "sigma_robust_kJ": 6.285,
+   "bias_median_kJ": 0.192,
    "fallback": null
   },
   "literature|metal|BI-RB": {
@@ -1500,8 +1500,8 @@
    "stratum": "metal",
    "system": "BI-RB",
    "n": 83,
-   "sigma_robust_kJ": 6.755,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.624,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|CA-GE": {
@@ -1509,8 +1509,8 @@
    "stratum": "metal",
    "system": "CA-GE",
    "n": 90,
-   "sigma_robust_kJ": 6.248,
-   "bias_median_kJ": 0.258,
+   "sigma_robust_kJ": 6.352,
+   "bias_median_kJ": 0.203,
    "fallback": null
   },
   "literature|metal|CA-SN": {
@@ -1518,8 +1518,8 @@
    "stratum": "metal",
    "system": "CA-SN",
    "n": 90,
-   "sigma_robust_kJ": 6.248,
-   "bias_median_kJ": 0.203,
+   "sigma_robust_kJ": 6.352,
+   "bias_median_kJ": 0.177,
    "fallback": null
   },
   "literature|metal|CU-HF": {
@@ -1527,8 +1527,8 @@
    "stratum": "metal",
    "system": "CU-HF",
    "n": 84,
-   "sigma_robust_kJ": 7.07,
-   "bias_median_kJ": 1.014,
+   "sigma_robust_kJ": 7.243,
+   "bias_median_kJ": 0.934,
    "fallback": null
   },
   "literature|metal|CU-ND": {
@@ -1536,8 +1536,8 @@
    "stratum": "metal",
    "system": "CU-ND",
    "n": 91,
-   "sigma_robust_kJ": 7.018,
-   "bias_median_kJ": 0.851,
+   "sigma_robust_kJ": 6.555,
+   "bias_median_kJ": 0.302,
    "fallback": null
   },
   "literature|metal|CU-ZR": {
@@ -1554,8 +1554,8 @@
    "stratum": "metal",
    "system": "GE-HF",
    "n": 88,
-   "sigma_robust_kJ": 6.143,
-   "bias_median_kJ": 0.577,
+   "sigma_robust_kJ": 6.192,
+   "bias_median_kJ": 0.258,
    "fallback": null
   },
   "literature|metal|GE-LI": {
@@ -1563,8 +1563,8 @@
    "stratum": "metal",
    "system": "GE-LI",
    "n": 91,
-   "sigma_robust_kJ": 6.347,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.424,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|GE-YB": {
@@ -1572,8 +1572,8 @@
    "stratum": "metal",
    "system": "GE-YB",
    "n": 87,
-   "sigma_robust_kJ": 6.122,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.217,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|LI-PB": {
@@ -1581,8 +1581,8 @@
    "stratum": "metal",
    "system": "LI-PB",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|MG-PB": {
@@ -1590,8 +1590,8 @@
    "stratum": "metal",
    "system": "MG-PB",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|TI-ZN": {
@@ -1599,8 +1599,8 @@
    "stratum": "metal",
    "system": "TI-ZN",
    "n": 93,
-   "sigma_robust_kJ": 6.263,
-   "bias_median_kJ": 0.302,
+   "sigma_robust_kJ": 6.28,
+   "bias_median_kJ": 0.214,
    "fallback": null
   },
   "literature|metal|ZN-ZR": {
@@ -1608,7 +1608,7 @@
    "stratum": "metal",
    "system": "ZN-ZR",
    "n": 83,
-   "sigma_robust_kJ": 5.337,
+   "sigma_robust_kJ": 5.514,
    "bias_median_kJ": -0.4,
    "fallback": null
   },
@@ -2184,8 +2184,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-BA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-CA": {
@@ -2193,8 +2193,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-CA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-DY": {
@@ -2202,8 +2202,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-DY",
    "n": 255,
-   "sigma_robust_kJ": 9.511,
-   "bias_median_kJ": 5.202,
+   "sigma_robust_kJ": 9.489,
+   "bias_median_kJ": 5.187,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-ER": {
@@ -2211,8 +2211,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-ER",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.323,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-GD": {
@@ -2220,8 +2220,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-GD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-HO": {
@@ -2229,8 +2229,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-HO",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-LU": {
@@ -2238,8 +2238,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-LU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-NA": {
@@ -2247,8 +2247,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-NA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-ND": {
@@ -2256,8 +2256,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-ND",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-SC": {
@@ -2265,8 +2265,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-SM": {
@@ -2274,8 +2274,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-SM",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-SR": {
@@ -2283,8 +2283,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-Y": {
@@ -2292,8 +2292,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-Y",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AG-ZR": {
@@ -2301,8 +2301,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-BA": {
@@ -2310,8 +2310,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-BA",
    "n": 247,
-   "sigma_robust_kJ": 9.268,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.164,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-DY": {
@@ -2319,8 +2319,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-DY",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-ER": {
@@ -2328,8 +2328,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-ER",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-GD": {
@@ -2337,8 +2337,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-GD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-HF": {
@@ -2346,8 +2346,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-HF",
    "n": 256,
-   "sigma_robust_kJ": 9.5,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.467,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-HO": {
@@ -2355,8 +2355,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-HO",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-IR": {
@@ -2365,7 +2365,7 @@
    "system": "AL-IR",
    "n": 256,
    "sigma_robust_kJ": 9.409,
-   "bias_median_kJ": 5.131,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-LA": {
@@ -2373,8 +2373,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-LA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-MO": {
@@ -2382,8 +2382,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-MO",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-NP": {
@@ -2391,8 +2391,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-NP",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-PD": {
@@ -2400,8 +2400,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-PR": {
@@ -2409,8 +2409,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-PT": {
@@ -2418,8 +2418,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PT",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-PU": {
@@ -2427,8 +2427,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-RE": {
@@ -2436,8 +2436,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-RE",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-SC": {
@@ -2445,8 +2445,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-SM": {
@@ -2454,8 +2454,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-SM",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-SR": {
@@ -2463,8 +2463,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-TH": {
@@ -2472,8 +2472,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-TH",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-W": {
@@ -2481,8 +2481,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-W",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-Y": {
@@ -2490,8 +2490,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-Y",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AL-ZR": {
@@ -2499,8 +2499,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-ZR",
    "n": 241,
-   "sigma_robust_kJ": 9.73,
-   "bias_median_kJ": 5.787,
+   "sigma_robust_kJ": 9.739,
+   "bias_median_kJ": 5.765,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-BI": {
@@ -2508,8 +2508,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-BI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-CE": {
@@ -2517,8 +2517,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-CE",
    "n": 252,
-   "sigma_robust_kJ": 9.467,
-   "bias_median_kJ": 5.131,
+   "sigma_robust_kJ": 9.518,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-DY": {
@@ -2526,8 +2526,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-DY",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-ER": {
@@ -2535,8 +2535,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-ER",
    "n": 253,
-   "sigma_robust_kJ": 9.478,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 9.468,
+   "bias_median_kJ": 5.202,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-GA": {
@@ -2544,8 +2544,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-GA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-HF": {
@@ -2553,8 +2553,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-HF",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-HO": {
@@ -2562,8 +2562,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-HO",
    "n": 255,
-   "sigma_robust_kJ": 9.511,
-   "bias_median_kJ": 5.202,
+   "sigma_robust_kJ": 9.489,
+   "bias_median_kJ": 5.187,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-IN": {
@@ -2571,8 +2571,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-IN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-LA": {
@@ -2580,8 +2580,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-LA",
    "n": 256,
-   "sigma_robust_kJ": 9.478,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.409,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-LU": {
@@ -2589,8 +2589,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-LU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-ND": {
@@ -2598,8 +2598,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-ND",
    "n": 255,
-   "sigma_robust_kJ": 9.468,
-   "bias_median_kJ": 5.202,
+   "sigma_robust_kJ": 9.446,
+   "bias_median_kJ": 5.187,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-PB": {
@@ -2607,8 +2607,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-PB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-PR": {
@@ -2616,8 +2616,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-PR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-SC": {
@@ -2625,8 +2625,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-TB": {
@@ -2634,8 +2634,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-TB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-TH": {
@@ -2643,8 +2643,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-TH",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-TM": {
@@ -2652,8 +2652,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-TM",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.541,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|AU-ZR": {
@@ -2661,8 +2661,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BA-BI": {
@@ -2670,8 +2670,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-BI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BA-CU": {
@@ -2679,8 +2679,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-CU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BA-GA": {
@@ -2688,8 +2688,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-GA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BA-GE": {
@@ -2697,8 +2697,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-GE",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BA-PB": {
@@ -2706,8 +2706,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-PB",
    "n": 251,
-   "sigma_robust_kJ": 9.311,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.207,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-HF": {
@@ -2715,8 +2715,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-HF",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-MO": {
@@ -2724,8 +2724,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-MO",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-PU": {
@@ -2733,8 +2733,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-PU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-TI": {
@@ -2742,8 +2742,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-V": {
@@ -2751,8 +2751,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-V",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BE-ZR": {
@@ -2760,8 +2760,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-CS": {
@@ -2769,8 +2769,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-CS",
    "n": 255,
-   "sigma_robust_kJ": 9.446,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.323,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-K": {
@@ -2778,8 +2778,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-K",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-LU": {
@@ -2787,8 +2787,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-LU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-NA": {
@@ -2797,7 +2797,7 @@
    "system": "BI-NA",
    "n": 254,
    "sigma_robust_kJ": 9.409,
-   "bias_median_kJ": 5.072,
+   "bias_median_kJ": 5.069,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-ND": {
@@ -2805,8 +2805,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-ND",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-RB": {
@@ -2814,8 +2814,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-RB",
    "n": 256,
-   "sigma_robust_kJ": 9.478,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.409,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-RH": {
@@ -2823,8 +2823,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-RH",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-SR": {
@@ -2832,8 +2832,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-TI": {
@@ -2841,8 +2841,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|BI-ZR": {
@@ -2850,8 +2850,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-CU": {
@@ -2859,8 +2859,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-CU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-GA": {
@@ -2868,8 +2868,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-GA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-GE": {
@@ -2877,8 +2877,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-GE",
    "n": 254,
-   "sigma_robust_kJ": 9.532,
-   "bias_median_kJ": 5.227,
+   "sigma_robust_kJ": 9.5,
+   "bias_median_kJ": 5.194,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-PB": {
@@ -2886,8 +2886,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-PB",
    "n": 249,
-   "sigma_robust_kJ": 9.735,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.72,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-SN": {
@@ -2895,8 +2895,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-SN",
    "n": 253,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.541,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CA-ZN": {
@@ -2904,8 +2904,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CD-CE": {
@@ -2913,8 +2913,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-CE",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CD-GD": {
@@ -2922,8 +2922,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-GD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CD-PR": {
@@ -2931,8 +2931,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-PR",
    "n": 255,
-   "sigma_robust_kJ": 9.496,
-   "bias_median_kJ": 5.075,
+   "sigma_robust_kJ": 9.503,
+   "bias_median_kJ": 5.07,
    "fallback": null
   },
   "mp|on_hull_single|metal|CD-SR": {
@@ -2940,8 +2940,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CE-GA": {
@@ -2949,8 +2949,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-GA",
    "n": 251,
-   "sigma_robust_kJ": 9.268,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.164,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|CE-PT": {
@@ -2958,8 +2958,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-PT",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CE-RH": {
@@ -2967,8 +2967,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-RH",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CE-SN": {
@@ -2977,7 +2977,7 @@
    "system": "CE-SN",
    "n": 254,
    "sigma_robust_kJ": 9.409,
-   "bias_median_kJ": 5.131,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|CE-ZN": {
@@ -2985,8 +2985,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CS-IN": {
@@ -2994,8 +2994,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CS-IN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-EU": {
@@ -3003,8 +3003,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-EU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-HF": {
@@ -3012,8 +3012,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-HF",
    "n": 254,
-   "sigma_robust_kJ": 9.51,
-   "bias_median_kJ": 5.227,
+   "sigma_robust_kJ": 9.478,
+   "bias_median_kJ": 5.194,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-IN": {
@@ -3021,8 +3021,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-IN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-LA": {
@@ -3030,8 +3030,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-LA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-ND": {
@@ -3039,8 +3039,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-ND",
    "n": 256,
-   "sigma_robust_kJ": 9.478,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.409,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-PR": {
@@ -3048,8 +3048,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-PR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-SC": {
@@ -3057,8 +3057,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-SM": {
@@ -3066,8 +3066,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-SM",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-SR": {
@@ -3075,8 +3075,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-TH": {
@@ -3084,8 +3084,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-TH",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-TI": {
@@ -3093,8 +3093,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-TM": {
@@ -3102,8 +3102,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-TM",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|CU-ZR": {
@@ -3120,8 +3120,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-GE",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|DY-PD": {
@@ -3129,8 +3129,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|DY-RU": {
@@ -3138,8 +3138,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-RU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|DY-SN": {
@@ -3147,8 +3147,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-SN",
    "n": 255,
-   "sigma_robust_kJ": 9.541,
-   "bias_median_kJ": 5.075,
+   "sigma_robust_kJ": 9.533,
+   "bias_median_kJ": 5.07,
    "fallback": null
   },
   "mp|on_hull_single|metal|DY-ZN": {
@@ -3156,8 +3156,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|ER-GE": {
@@ -3165,8 +3165,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-GE",
    "n": 252,
-   "sigma_robust_kJ": 9.313,
-   "bias_median_kJ": 5.069,
+   "sigma_robust_kJ": 9.259,
+   "bias_median_kJ": 5.032,
    "fallback": null
   },
   "mp|on_hull_single|metal|ER-PD": {
@@ -3174,8 +3174,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|ER-ZN": {
@@ -3183,8 +3183,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|EU-GA": {
@@ -3192,8 +3192,8 @@
    "stratum": "on_hull_single|metal",
    "system": "EU-GA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|EU-PB": {
@@ -3201,8 +3201,8 @@
    "stratum": "on_hull_single|metal",
    "system": "EU-PB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|EU-PD": {
@@ -3210,8 +3210,8 @@
    "stratum": "on_hull_single|metal",
    "system": "EU-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|EU-SN": {
@@ -3219,8 +3219,8 @@
    "stratum": "on_hull_single|metal",
    "system": "EU-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-GD": {
@@ -3228,8 +3228,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-GD",
    "n": 253,
-   "sigma_robust_kJ": 9.541,
-   "bias_median_kJ": 5.075,
+   "sigma_robust_kJ": 9.533,
+   "bias_median_kJ": 5.07,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-HO": {
@@ -3237,8 +3237,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-HO",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-LA": {
@@ -3246,8 +3246,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-LA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-LU": {
@@ -3255,8 +3255,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-LU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-MG": {
@@ -3264,8 +3264,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-MG",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-NA": {
@@ -3273,8 +3273,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-NA",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.541,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-NB": {
@@ -3282,8 +3282,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-NB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-PD": {
@@ -3292,7 +3292,7 @@
    "system": "GA-PD",
    "n": 256,
    "sigma_robust_kJ": 9.409,
-   "bias_median_kJ": 5.131,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-PR": {
@@ -3300,8 +3300,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-PT": {
@@ -3309,8 +3309,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PT",
    "n": 256,
-   "sigma_robust_kJ": 9.5,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.467,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-PU": {
@@ -3318,8 +3318,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-SC": {
@@ -3327,8 +3327,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-SR": {
@@ -3336,8 +3336,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-TB": {
@@ -3345,8 +3345,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-TB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-TI": {
@@ -3354,8 +3354,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-U": {
@@ -3363,8 +3363,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-U",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-V": {
@@ -3372,8 +3372,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-V",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-Y": {
@@ -3381,8 +3381,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-Y",
    "n": 246,
-   "sigma_robust_kJ": 9.732,
-   "bias_median_kJ": 5.194,
+   "sigma_robust_kJ": 9.692,
+   "bias_median_kJ": 5.131,
    "fallback": null
   },
   "mp|on_hull_single|metal|GA-ZR": {
@@ -3390,8 +3390,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GD-GE": {
@@ -3399,8 +3399,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GD-GE",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GD-MG": {
@@ -3408,8 +3408,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GD-MG",
    "n": 255,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GD-TL": {
@@ -3417,8 +3417,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GD-TL",
    "n": 255,
-   "sigma_robust_kJ": 9.323,
-   "bias_median_kJ": 5.075,
+   "sigma_robust_kJ": 9.315,
+   "bias_median_kJ": 5.07,
    "fallback": null
   },
   "mp|on_hull_single|metal|GD-ZN": {
@@ -3426,8 +3426,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GD-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-HF": {
@@ -3435,8 +3435,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-HF",
    "n": 255,
-   "sigma_robust_kJ": 9.446,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.323,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-LI": {
@@ -3444,8 +3444,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-LI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-LU": {
@@ -3453,8 +3453,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-LU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-PT": {
@@ -3462,8 +3462,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-PT",
    "n": 254,
-   "sigma_robust_kJ": 9.548,
-   "bias_median_kJ": 5.227,
+   "sigma_robust_kJ": 9.532,
+   "bias_median_kJ": 5.194,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-SC": {
@@ -3471,8 +3471,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-SR": {
@@ -3480,8 +3480,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-TA": {
@@ -3489,8 +3489,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-TA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-TI": {
@@ -3498,8 +3498,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-TI",
    "n": 255,
-   "sigma_robust_kJ": 9.511,
-   "bias_median_kJ": 5.202,
+   "sigma_robust_kJ": 9.489,
+   "bias_median_kJ": 5.187,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-TM": {
@@ -3508,7 +3508,7 @@
    "system": "GE-TM",
    "n": 256,
    "sigma_robust_kJ": 9.409,
-   "bias_median_kJ": 5.131,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-V": {
@@ -3516,8 +3516,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-V",
    "n": 253,
-   "sigma_robust_kJ": 9.315,
-   "bias_median_kJ": 5.07,
+   "sigma_robust_kJ": 9.311,
+   "bias_median_kJ": 5.067,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-Y": {
@@ -3525,8 +3525,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-Y",
    "n": 253,
-   "sigma_robust_kJ": 9.315,
-   "bias_median_kJ": 5.07,
+   "sigma_robust_kJ": 9.311,
+   "bias_median_kJ": 5.067,
    "fallback": null
   },
   "mp|on_hull_single|metal|GE-ZR": {
@@ -3534,8 +3534,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|HF-SN": {
@@ -3543,8 +3543,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HF-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|HG-MG": {
@@ -3552,8 +3552,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HG-MG",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|HO-PD": {
@@ -3561,8 +3561,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|HO-SN": {
@@ -3570,8 +3570,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|HO-ZN": {
@@ -3579,8 +3579,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IN-LA": {
@@ -3588,8 +3588,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-LA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IN-LI": {
@@ -3597,8 +3597,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-LI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IN-PD": {
@@ -3606,8 +3606,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IN-SC": {
@@ -3615,8 +3615,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IN-Y": {
@@ -3624,8 +3624,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-Y",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|IR-ZR": {
@@ -3633,8 +3633,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IR-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|LA-PB": {
@@ -3642,8 +3642,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-PB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|LA-PT": {
@@ -3651,8 +3651,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-PT",
    "n": 247,
-   "sigma_robust_kJ": 9.419,
-   "bias_median_kJ": 5.487,
+   "sigma_robust_kJ": 9.585,
+   "bias_median_kJ": 5.252,
    "fallback": null
   },
   "mp|on_hull_single|metal|LA-SN": {
@@ -3660,8 +3660,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|LA-ZN": {
@@ -3669,8 +3669,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|LU-PB": {
@@ -3678,8 +3678,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LU-PB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|MG-PD": {
@@ -3687,8 +3687,8 @@
    "stratum": "on_hull_single|metal",
    "system": "MG-PD",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|MG-SR": {
@@ -3696,8 +3696,8 @@
    "stratum": "on_hull_single|metal",
    "system": "MG-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|MG-ZN": {
@@ -3705,8 +3705,8 @@
    "stratum": "on_hull_single|metal",
    "system": "MG-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|NA-SN": {
@@ -3714,8 +3714,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NA-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|NA-ZN": {
@@ -3723,8 +3723,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NA-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|NB-SN": {
@@ -3732,8 +3732,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NB-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|NB-ZN": {
@@ -3741,8 +3741,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NB-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|ND-SN": {
@@ -3750,8 +3750,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ND-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|ND-ZN": {
@@ -3759,8 +3759,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ND-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PB-PU": {
@@ -3768,8 +3768,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PB-PU",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PB-SC": {
@@ -3777,8 +3777,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PB-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PB-Y": {
@@ -3786,8 +3786,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PB-Y",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PD-SC": {
@@ -3795,8 +3795,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PD-SM": {
@@ -3804,8 +3804,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-SM",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PD-TB": {
@@ -3813,8 +3813,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-TB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PD-TI": {
@@ -3822,8 +3822,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PD-Y": {
@@ -3831,8 +3831,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-Y",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PR-ZN": {
@@ -3840,8 +3840,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PR-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|PT-SN": {
@@ -3849,8 +3849,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PT-SN",
    "n": 243,
-   "sigma_robust_kJ": 9.735,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.72,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|PT-TI": {
@@ -3858,8 +3858,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PT-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RE-TI": {
@@ -3867,8 +3867,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RE-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RE-Y": {
@@ -3876,8 +3876,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RE-Y",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RH-TI": {
@@ -3885,8 +3885,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RH-TI",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RU-SC": {
@@ -3894,8 +3894,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-SC",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RU-SM": {
@@ -3903,8 +3903,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-SM",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RU-SN": {
@@ -3912,8 +3912,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RU-U": {
@@ -3921,8 +3921,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-U",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|RU-Y": {
@@ -3930,8 +3930,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-Y",
    "n": 255,
-   "sigma_robust_kJ": 9.468,
-   "bias_median_kJ": 5.202,
+   "sigma_robust_kJ": 9.446,
+   "bias_median_kJ": 5.187,
    "fallback": null
   },
   "mp|on_hull_single|metal|SC-ZN": {
@@ -3939,8 +3939,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SC-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SM-SN": {
@@ -3948,8 +3948,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SM-SN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SM-ZN": {
@@ -3957,8 +3957,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SM-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-SR": {
@@ -3966,8 +3966,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-SR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-TA": {
@@ -3975,8 +3975,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-TA",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-TB": {
@@ -3984,8 +3984,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-TB",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-U": {
@@ -3993,8 +3993,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-U",
    "n": 251,
-   "sigma_robust_kJ": 9.268,
-   "bias_median_kJ": 5.067,
+   "sigma_robust_kJ": 9.164,
+   "bias_median_kJ": 4.997,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-Y": {
@@ -4002,8 +4002,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-Y",
    "n": 252,
-   "sigma_robust_kJ": 9.406,
-   "bias_median_kJ": 5.131,
+   "sigma_robust_kJ": 9.319,
+   "bias_median_kJ": 5.072,
    "fallback": null
   },
   "mp|on_hull_single|metal|SN-ZR": {
@@ -4011,8 +4011,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-ZR",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|SR-ZN": {
@@ -4020,8 +4020,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SR-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|TB-ZN": {
@@ -4029,8 +4029,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TB-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|TH-ZN": {
@@ -4038,8 +4038,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TH-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|TI-ZN": {
@@ -4047,8 +4047,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TI-ZN",
    "n": 257,
-   "sigma_robust_kJ": 9.489,
-   "bias_median_kJ": 5.187,
+   "sigma_robust_kJ": 9.496,
+   "bias_median_kJ": 5.075,
    "fallback": null
   },
   "mp|on_hull_single|metal|ZN-ZR": {
@@ -4056,8 +4056,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ZN-ZR",
    "n": 254,
-   "sigma_robust_kJ": 9.319,
-   "bias_median_kJ": 5.072,
+   "sigma_robust_kJ": 9.313,
+   "bias_median_kJ": 5.069,
    "fallback": null
   },
   "mp|on_hull_single|pblock_anion|AG-P": {
@@ -4866,8 +4866,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-AU",
    "n": 95,
-   "sigma_robust_kJ": 7.062,
-   "bias_median_kJ": 5.477,
+   "sigma_robust_kJ": 7.044,
+   "bias_median_kJ": 5.419,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-DY": {
@@ -4875,8 +4875,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-DY",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-PR": {
@@ -4884,8 +4884,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-PR",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-PT": {
@@ -4893,8 +4893,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-PT",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-RE": {
@@ -4902,8 +4902,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-RE",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-SC": {
@@ -4911,8 +4911,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-SC",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-TH": {
@@ -4920,8 +4920,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-TH",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AL-ZR": {
@@ -4938,8 +4938,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-GA",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AU-IN": {
@@ -4947,8 +4947,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-IN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AU-TI": {
@@ -4956,8 +4956,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-TI",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|AU-ZN": {
@@ -4965,8 +4965,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-ZN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BA-GA": {
@@ -4974,8 +4974,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BA-GA",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BA-GE": {
@@ -4983,8 +4983,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BA-GE",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BE-TI": {
@@ -4992,8 +4992,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BE-TI",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BI-CE": {
@@ -5001,8 +5001,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-CE",
    "n": 98,
-   "sigma_robust_kJ": 7.013,
-   "bias_median_kJ": 5.052,
+   "sigma_robust_kJ": 7.107,
+   "bias_median_kJ": 4.828,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BI-IN": {
@@ -5010,8 +5010,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-IN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|BI-LI": {
@@ -5019,8 +5019,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-LI",
    "n": 96,
-   "sigma_robust_kJ": 6.574,
-   "bias_median_kJ": 4.828,
+   "sigma_robust_kJ": 6.61,
+   "bias_median_kJ": 4.696,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|CA-GE": {
@@ -5028,8 +5028,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-GE",
    "n": 98,
-   "sigma_robust_kJ": 7.085,
-   "bias_median_kJ": 5.335,
+   "sigma_robust_kJ": 7.506,
+   "bias_median_kJ": 5.052,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|CA-PB": {
@@ -5037,8 +5037,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-PB",
    "n": 95,
-   "sigma_robust_kJ": 7.966,
-   "bias_median_kJ": 4.804,
+   "sigma_robust_kJ": 8.288,
+   "bias_median_kJ": 4.587,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|CA-SN": {
@@ -5046,8 +5046,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-SN",
    "n": 97,
-   "sigma_robust_kJ": 6.91,
-   "bias_median_kJ": 4.852,
+   "sigma_robust_kJ": 6.982,
+   "bias_median_kJ": 4.804,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|CU-EU": {
@@ -5055,8 +5055,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-EU",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|EU-PD": {
@@ -5064,8 +5064,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "EU-PD",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GA-MG": {
@@ -5073,8 +5073,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-MG",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GA-PD": {
@@ -5083,7 +5083,7 @@
    "system": "GA-PD",
    "n": 98,
    "sigma_robust_kJ": 7.506,
-   "bias_median_kJ": 5.052,
+   "bias_median_kJ": 4.828,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GA-PT": {
@@ -5091,8 +5091,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-PT",
    "n": 98,
-   "sigma_robust_kJ": 7.085,
-   "bias_median_kJ": 5.335,
+   "sigma_robust_kJ": 7.506,
+   "bias_median_kJ": 5.052,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GA-TI": {
@@ -5100,8 +5100,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-TI",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GA-ZR": {
@@ -5109,8 +5109,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-ZR",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-HF": {
@@ -5118,8 +5118,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-HF",
    "n": 98,
-   "sigma_robust_kJ": 7.013,
-   "bias_median_kJ": 5.052,
+   "sigma_robust_kJ": 7.107,
+   "bias_median_kJ": 4.828,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-K": {
@@ -5127,8 +5127,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-K",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-MG": {
@@ -5136,8 +5136,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-MG",
    "n": 98,
-   "sigma_robust_kJ": 7.013,
-   "bias_median_kJ": 5.052,
+   "sigma_robust_kJ": 7.107,
+   "bias_median_kJ": 4.828,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-PT": {
@@ -5145,8 +5145,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-PT",
    "n": 98,
-   "sigma_robust_kJ": 7.085,
-   "bias_median_kJ": 5.335,
+   "sigma_robust_kJ": 7.506,
+   "bias_median_kJ": 5.052,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-SC": {
@@ -5154,8 +5154,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-SC",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|GE-TA": {
@@ -5163,8 +5163,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-TA",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|HF-IR": {
@@ -5172,8 +5172,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HF-IR",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|IN-PD": {
@@ -5181,8 +5181,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-PD",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|IN-PT": {
@@ -5190,8 +5190,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-PT",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|IN-SC": {
@@ -5199,8 +5199,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-SC",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|IR-MO": {
@@ -5208,8 +5208,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IR-MO",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|MG-PB": {
@@ -5217,8 +5217,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "MG-PB",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|MG-PD": {
@@ -5226,8 +5226,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "MG-PD",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|PB-PT": {
@@ -5235,8 +5235,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PB-PT",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|PD-TI": {
@@ -5244,8 +5244,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-TI",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|PD-ZN": {
@@ -5253,8 +5253,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-ZN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|SN-SR": {
@@ -5262,8 +5262,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-SR",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|TH-ZN": {
@@ -5271,8 +5271,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "TH-ZN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|TI-ZN": {
@@ -5280,8 +5280,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "TI-ZN",
    "n": 99,
-   "sigma_robust_kJ": 7.116,
-   "bias_median_kJ": 5.252,
+   "sigma_robust_kJ": 7.303,
+   "bias_median_kJ": 4.852,
    "fallback": null
   },
   "mp|polymorph_ambiguous|metal|ZN-ZR": {
@@ -5289,8 +5289,8 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "ZN-ZR",
    "n": 98,
-   "sigma_robust_kJ": 7.013,
-   "bias_median_kJ": 5.052,
+   "sigma_robust_kJ": 7.107,
+   "bias_median_kJ": 4.828,
    "fallback": null
   },
   "mp|polymorph_ambiguous|pblock_anion|AL-AS": {
@@ -5775,7 +5775,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-CO",
    "n": 1249,
-   "sigma_robust_kJ": 7.717,
+   "sigma_robust_kJ": 7.72,
    "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5784,7 +5784,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-CR",
    "n": 1243,
-   "sigma_robust_kJ": 7.572,
+   "sigma_robust_kJ": 7.578,
    "bias_median_kJ": 2.302,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5793,7 +5793,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "AL-MN",
    "n": 1243,
-   "sigma_robust_kJ": 7.736,
+   "sigma_robust_kJ": 7.742,
    "bias_median_kJ": 2.423,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5802,7 +5802,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CA-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5811,7 +5811,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-HF",
    "n": 1249,
-   "sigma_robust_kJ": 7.655,
+   "sigma_robust_kJ": 7.664,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5820,7 +5820,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-TH",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5829,7 +5829,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "CO-ZN",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5838,7 +5838,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "DY-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5847,7 +5847,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "ER-MN",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5856,7 +5856,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "EU-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5865,7 +5865,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "FE-TH",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5874,7 +5874,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "GA-NI",
    "n": 1241,
-   "sigma_robust_kJ": 7.689,
+   "sigma_robust_kJ": 7.699,
    "bias_median_kJ": 2.358,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5883,7 +5883,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "GD-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5892,7 +5892,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "HO-MN",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5901,7 +5901,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "HO-NI",
    "n": 1246,
-   "sigma_robust_kJ": 7.647,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.361,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5910,7 +5910,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "IN-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5919,7 +5919,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MN-PD",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5928,7 +5928,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MN-TM",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5937,7 +5937,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "MO-NI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5946,7 +5946,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-PR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5955,7 +5955,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-SM",
    "n": 1245,
-   "sigma_robust_kJ": 7.744,
+   "sigma_robust_kJ": 7.753,
    "bias_median_kJ": 2.424,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5964,7 +5964,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-TB",
    "n": 1248,
-   "sigma_robust_kJ": 7.616,
+   "sigma_robust_kJ": 7.624,
    "bias_median_kJ": 2.34,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5973,7 +5973,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-TH",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5982,7 +5982,7 @@
    "stratum": "on_hull_single|magnetic_3d",
    "system": "NI-U",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -5991,8 +5991,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-BA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AG-CA": {
@@ -6000,8 +6000,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-CA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AG-LU": {
@@ -6009,8 +6009,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-LU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AG-SC": {
@@ -6018,8 +6018,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-SC",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AG-SR": {
@@ -6027,8 +6027,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AG-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-BA": {
@@ -6036,8 +6036,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-BA",
    "n": 37,
-   "sigma_robust_kJ": 9.876,
-   "bias_median_kJ": 4.962,
+   "sigma_robust_kJ": 10.031,
+   "bias_median_kJ": 4.857,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-HF": {
@@ -6045,8 +6045,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-HF",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-IR": {
@@ -6054,8 +6054,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-IR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-MO": {
@@ -6063,8 +6063,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-MO",
    "n": 38,
-   "sigma_robust_kJ": 11.079,
-   "bias_median_kJ": 5.135,
+   "sigma_robust_kJ": 10.911,
+   "bias_median_kJ": 4.909,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-NP": {
@@ -6072,8 +6072,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-NP",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-PD": {
@@ -6081,8 +6081,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-PT": {
@@ -6090,8 +6090,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PT",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AL-PU": {
@@ -6099,8 +6099,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AL-PU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-BI": {
@@ -6108,8 +6108,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-BI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-CE": {
@@ -6117,8 +6117,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-CE",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-ER": {
@@ -6126,8 +6126,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-ER",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-HO": {
@@ -6135,8 +6135,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-HO",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-LU": {
@@ -6144,8 +6144,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-LU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-ND": {
@@ -6153,8 +6153,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-ND",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-TH": {
@@ -6162,8 +6162,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-TH",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|AU-TM": {
@@ -6171,8 +6171,8 @@
    "stratum": "on_hull_single|metal",
    "system": "AU-TM",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BA-BI": {
@@ -6180,8 +6180,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-BI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BA-CU": {
@@ -6189,8 +6189,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-CU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BA-GA": {
@@ -6198,8 +6198,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BA-GA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BE-HF": {
@@ -6207,8 +6207,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-HF",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BE-MO": {
@@ -6216,8 +6216,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-MO",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BE-PU": {
@@ -6225,8 +6225,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-PU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BE-ZR": {
@@ -6234,8 +6234,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BE-ZR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BI-ND": {
@@ -6243,8 +6243,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-ND",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BI-RH": {
@@ -6252,8 +6252,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-RH",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BI-SR": {
@@ -6261,8 +6261,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|BI-TI": {
@@ -6270,8 +6270,8 @@
    "stratum": "on_hull_single|metal",
    "system": "BI-TI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CA-GA": {
@@ -6279,8 +6279,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-GA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CA-SN": {
@@ -6288,8 +6288,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CA-ZN": {
@@ -6297,8 +6297,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CA-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CD-CE": {
@@ -6306,8 +6306,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-CE",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CD-PR": {
@@ -6315,8 +6315,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-PR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CD-SR": {
@@ -6324,8 +6324,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CD-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CE-PT": {
@@ -6333,8 +6333,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-PT",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CE-RH": {
@@ -6342,8 +6342,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-RH",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CE-SN": {
@@ -6351,8 +6351,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CE-ZN": {
@@ -6360,8 +6360,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CE-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-LA": {
@@ -6369,8 +6369,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-LA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-PR": {
@@ -6378,8 +6378,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-PR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-SR": {
@@ -6387,8 +6387,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-TH": {
@@ -6396,8 +6396,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-TH",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-TI": {
@@ -6405,8 +6405,8 @@
    "stratum": "on_hull_single|metal",
    "system": "CU-TI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|CU-ZR": {
@@ -6423,8 +6423,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|DY-SN": {
@@ -6432,8 +6432,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|DY-ZN": {
@@ -6441,8 +6441,8 @@
    "stratum": "on_hull_single|metal",
    "system": "DY-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ER-GE": {
@@ -6450,8 +6450,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-GE",
    "n": 36,
-   "sigma_robust_kJ": 10.119,
-   "bias_median_kJ": 4.297,
+   "sigma_robust_kJ": 10.041,
+   "bias_median_kJ": 4.245,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ER-PD": {
@@ -6459,8 +6459,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ER-ZN": {
@@ -6468,8 +6468,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ER-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|EU-PD": {
@@ -6477,8 +6477,8 @@
    "stratum": "on_hull_single|metal",
    "system": "EU-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-GD": {
@@ -6486,8 +6486,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-GD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-LA": {
@@ -6495,8 +6495,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-LA",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-MG": {
@@ -6504,8 +6504,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-MG",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-NA": {
@@ -6513,8 +6513,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-NA",
    "n": 37,
-   "sigma_robust_kJ": 11.716,
-   "bias_median_kJ": 5.452,
+   "sigma_robust_kJ": 11.501,
+   "bias_median_kJ": 5.307,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-PD": {
@@ -6522,8 +6522,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-PR": {
@@ -6531,8 +6531,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-PT": {
@@ -6540,8 +6540,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PT",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-PU": {
@@ -6549,8 +6549,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-PU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-SR": {
@@ -6558,8 +6558,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-V": {
@@ -6567,8 +6567,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-V",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GA-ZR": {
@@ -6576,8 +6576,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GA-ZR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-HF": {
@@ -6585,8 +6585,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-HF",
    "n": 38,
-   "sigma_robust_kJ": 9.942,
-   "bias_median_kJ": 5.38,
+   "sigma_robust_kJ": 10.509,
+   "bias_median_kJ": 5.135,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-LI": {
@@ -6594,8 +6594,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-LI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-LU": {
@@ -6603,8 +6603,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-LU",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-TM": {
@@ -6612,8 +6612,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-TM",
    "n": 38,
-   "sigma_robust_kJ": 10.266,
-   "bias_median_kJ": 5.135,
+   "sigma_robust_kJ": 10.432,
+   "bias_median_kJ": 4.909,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-Y": {
@@ -6621,8 +6621,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-Y",
    "n": 37,
-   "sigma_robust_kJ": 10.989,
-   "bias_median_kJ": 4.962,
+   "sigma_robust_kJ": 10.833,
+   "bias_median_kJ": 4.857,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|GE-ZR": {
@@ -6630,8 +6630,8 @@
    "stratum": "on_hull_single|metal",
    "system": "GE-ZR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|HF-SN": {
@@ -6639,8 +6639,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HF-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|HO-PD": {
@@ -6648,8 +6648,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|HO-SN": {
@@ -6657,8 +6657,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|HO-ZN": {
@@ -6666,8 +6666,8 @@
    "stratum": "on_hull_single|metal",
    "system": "HO-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|IN-LI": {
@@ -6675,8 +6675,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-LI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|IN-PD": {
@@ -6684,8 +6684,8 @@
    "stratum": "on_hull_single|metal",
    "system": "IN-PD",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|LA-PB": {
@@ -6693,8 +6693,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-PB",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|LA-PT": {
@@ -6702,8 +6702,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-PT",
    "n": 37,
-   "sigma_robust_kJ": 11.716,
-   "bias_median_kJ": 5.452,
+   "sigma_robust_kJ": 11.501,
+   "bias_median_kJ": 5.307,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|LA-ZN": {
@@ -6711,8 +6711,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LA-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|LU-PB": {
@@ -6720,8 +6720,8 @@
    "stratum": "on_hull_single|metal",
    "system": "LU-PB",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|MG-SR": {
@@ -6729,8 +6729,8 @@
    "stratum": "on_hull_single|metal",
    "system": "MG-SR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|MG-ZN": {
@@ -6738,8 +6738,8 @@
    "stratum": "on_hull_single|metal",
    "system": "MG-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|NA-SN": {
@@ -6747,8 +6747,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NA-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|NA-ZN": {
@@ -6756,8 +6756,8 @@
    "stratum": "on_hull_single|metal",
    "system": "NA-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ND-SN": {
@@ -6765,8 +6765,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ND-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ND-ZN": {
@@ -6774,8 +6774,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ND-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PB-SC": {
@@ -6783,8 +6783,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PB-SC",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PB-Y": {
@@ -6792,8 +6792,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PB-Y",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PD-SM": {
@@ -6801,8 +6801,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-SM",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PD-TB": {
@@ -6810,8 +6810,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-TB",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PD-Y": {
@@ -6819,8 +6819,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PD-Y",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PR-ZN": {
@@ -6828,8 +6828,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PR-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|PT-TI": {
@@ -6837,8 +6837,8 @@
    "stratum": "on_hull_single|metal",
    "system": "PT-TI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|RE-TI": {
@@ -6846,8 +6846,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RE-TI",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|RU-SC": {
@@ -6855,8 +6855,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-SC",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|RU-SN": {
@@ -6864,8 +6864,8 @@
    "stratum": "on_hull_single|metal",
    "system": "RU-SN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|SC-ZN": {
@@ -6873,8 +6873,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SC-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|SM-ZN": {
@@ -6882,8 +6882,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SM-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|SN-Y": {
@@ -6891,8 +6891,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-Y",
    "n": 36,
-   "sigma_robust_kJ": 11.079,
-   "bias_median_kJ": 5.135,
+   "sigma_robust_kJ": 10.911,
+   "bias_median_kJ": 4.909,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|SN-ZR": {
@@ -6900,8 +6900,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SN-ZR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|SR-ZN": {
@@ -6909,8 +6909,8 @@
    "stratum": "on_hull_single|metal",
    "system": "SR-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|TB-ZN": {
@@ -6918,8 +6918,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TB-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|TH-ZN": {
@@ -6927,8 +6927,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TH-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|TI-ZN": {
@@ -6936,8 +6936,8 @@
    "stratum": "on_hull_single|metal",
    "system": "TI-ZN",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|metal|ZN-ZR": {
@@ -6945,8 +6945,8 @@
    "stratum": "on_hull_single|metal",
    "system": "ZN-ZR",
    "n": 39,
-   "sigma_robust_kJ": 10.657,
-   "bias_median_kJ": 5.307,
+   "sigma_robust_kJ": 10.989,
+   "bias_median_kJ": 4.962,
    "fallback": null
   },
   "oqmd|on_hull_single|pblock_anion|AG-P": {
@@ -6954,7 +6954,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "AG-P",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -6963,7 +6963,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-BA",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -6972,7 +6972,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-CA",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -6981,7 +6981,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-CE",
    "n": 1246,
-   "sigma_robust_kJ": 7.728,
+   "sigma_robust_kJ": 7.735,
    "bias_median_kJ": 2.415,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -6990,7 +6990,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-DY",
    "n": 1249,
-   "sigma_robust_kJ": 7.714,
+   "sigma_robust_kJ": 7.717,
    "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -6999,7 +6999,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-ER",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7008,7 +7008,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-GD",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7017,7 +7017,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-HO",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7026,7 +7026,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-LA",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7035,7 +7035,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-LU",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7044,7 +7044,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-MG",
    "n": 1229,
-   "sigma_robust_kJ": 7.736,
+   "sigma_robust_kJ": 7.742,
    "bias_median_kJ": 2.423,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7053,7 +7053,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-NB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7062,7 +7062,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-ND",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7071,7 +7071,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-PR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7080,7 +7080,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-SM",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7089,7 +7089,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-SR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7098,7 +7098,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TA",
    "n": 1248,
-   "sigma_robust_kJ": 7.687,
+   "sigma_robust_kJ": 7.699,
    "bias_median_kJ": 2.415,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7107,7 +7107,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7116,7 +7116,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7125,7 +7125,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "B-TM",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7134,7 +7134,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-CE",
    "n": 1242,
-   "sigma_robust_kJ": 7.523,
+   "sigma_robust_kJ": 7.527,
    "bias_median_kJ": 2.266,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7143,7 +7143,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-CR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7152,7 +7152,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-MN",
    "n": 1244,
-   "sigma_robust_kJ": 7.735,
+   "sigma_robust_kJ": 7.741,
    "bias_median_kJ": 2.386,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7161,7 +7161,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "C-PU",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7170,7 +7170,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "CA-SB",
    "n": 1248,
-   "sigma_robust_kJ": 7.606,
+   "sigma_robust_kJ": 7.628,
    "bias_median_kJ": 2.361,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7179,7 +7179,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-P",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7188,7 +7188,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-S",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7197,7 +7197,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "CU-SE",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7206,7 +7206,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "DY-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7215,7 +7215,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "HF-SI",
    "n": 1247,
-   "sigma_robust_kJ": 7.714,
+   "sigma_robust_kJ": 7.717,
    "bias_median_kJ": 2.408,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7224,7 +7224,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "HO-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7233,7 +7233,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "NB-P",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7242,7 +7242,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "ND-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7251,7 +7251,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-S",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7260,7 +7260,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7269,7 +7269,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PD-TE",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7278,7 +7278,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PR-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7287,7 +7287,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PT-SB",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7296,7 +7296,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "PT-SI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7305,7 +7305,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "SB-Y",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7314,7 +7314,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "SI-TI",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7323,7 +7323,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "SI-ZR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7332,7 +7332,7 @@
    "stratum": "on_hull_single|pblock_anion",
    "system": "TE-ZR",
    "n": 1251,
-   "sigma_robust_kJ": 7.649,
+   "sigma_robust_kJ": 7.655,
    "bias_median_kJ": 2.364,
    "fallback": "source_level (stratum has < 30 pairs after leaving the system out)"
   },
@@ -7728,7 +7728,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-BA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7746,7 +7746,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-ER",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7755,7 +7755,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-GD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7764,7 +7764,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-HO",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7773,7 +7773,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-NA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7782,7 +7782,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-ND",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7791,7 +7791,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7809,7 +7809,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7818,7 +7818,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-Y",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7827,7 +7827,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AG-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7836,7 +7836,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-AU",
    "n": 228,
-   "sigma_robust_kJ": 6.321,
+   "sigma_robust_kJ": 6.2,
    "bias_median_kJ": 2.063,
    "fallback": null
   },
@@ -7845,7 +7845,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-BA",
    "n": 226,
-   "sigma_robust_kJ": 5.881,
+   "sigma_robust_kJ": 5.772,
    "bias_median_kJ": 1.919,
    "fallback": null
   },
@@ -7854,7 +7854,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-DY",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7863,7 +7863,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-ER",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7872,7 +7872,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-GD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7881,7 +7881,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-HF",
    "n": 231,
-   "sigma_robust_kJ": 6.307,
+   "sigma_robust_kJ": 6.003,
    "bias_median_kJ": 1.93,
    "fallback": null
   },
@@ -7890,7 +7890,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-HO",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7899,7 +7899,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-LA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7908,7 +7908,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-PR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7917,7 +7917,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-PT",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7926,7 +7926,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-PU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7935,7 +7935,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-RE",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7944,7 +7944,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7953,7 +7953,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-SM",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7962,7 +7962,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7971,7 +7971,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-TH",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7980,7 +7980,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-W",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -7989,7 +7989,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AL-Y",
    "n": 231,
-   "sigma_robust_kJ": 6.291,
+   "sigma_robust_kJ": 5.987,
    "bias_median_kJ": 1.919,
    "fallback": null
   },
@@ -8007,7 +8007,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-DY",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8016,7 +8016,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-ER",
    "n": 230,
-   "sigma_robust_kJ": 6.339,
+   "sigma_robust_kJ": 6.187,
    "bias_median_kJ": 2.01,
    "fallback": null
   },
@@ -8025,7 +8025,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-GA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8034,7 +8034,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-HF",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8052,7 +8052,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-IN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8061,7 +8061,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-LA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8070,7 +8070,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-LU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8079,7 +8079,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-ND",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8088,7 +8088,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-PB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8097,7 +8097,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-PR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8106,7 +8106,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8115,7 +8115,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-TB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8124,7 +8124,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-TH",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8133,7 +8133,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8142,7 +8142,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-TM",
    "n": 232,
-   "sigma_robust_kJ": 6.299,
+   "sigma_robust_kJ": 6.147,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8151,7 +8151,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8160,7 +8160,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "AU-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8169,7 +8169,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BA-GA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8178,7 +8178,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BA-GE",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8187,7 +8187,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BA-PB",
    "n": 232,
-   "sigma_robust_kJ": 5.995,
+   "sigma_robust_kJ": 5.889,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8196,7 +8196,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BE-MO",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8205,7 +8205,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BE-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8214,7 +8214,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BE-V",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8232,7 +8232,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-CS",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8241,7 +8241,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-IN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8259,7 +8259,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-LI",
    "n": 229,
-   "sigma_robust_kJ": 5.987,
+   "sigma_robust_kJ": 5.775,
    "bias_median_kJ": 1.919,
    "fallback": null
   },
@@ -8268,7 +8268,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-LU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8286,7 +8286,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-RB",
    "n": 233,
-   "sigma_robust_kJ": 6.307,
+   "sigma_robust_kJ": 6.003,
    "bias_median_kJ": 1.93,
    "fallback": null
   },
@@ -8295,7 +8295,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "BI-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8304,7 +8304,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-CU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8322,7 +8322,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-GE",
    "n": 230,
-   "sigma_robust_kJ": 6.299,
+   "sigma_robust_kJ": 6.147,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8340,7 +8340,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-SN",
    "n": 232,
-   "sigma_robust_kJ": 5.995,
+   "sigma_robust_kJ": 5.889,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8349,7 +8349,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CA-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8358,7 +8358,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CD-GD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8367,7 +8367,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CD-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8376,7 +8376,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CE-GA",
    "n": 231,
-   "sigma_robust_kJ": 5.987,
+   "sigma_robust_kJ": 5.775,
    "bias_median_kJ": 1.919,
    "fallback": null
   },
@@ -8385,7 +8385,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CE-PT",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8394,7 +8394,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CE-RH",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8412,7 +8412,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CS-IN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8421,7 +8421,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-EU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8430,7 +8430,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-HF",
    "n": 233,
-   "sigma_robust_kJ": 6.297,
+   "sigma_robust_kJ": 6.077,
    "bias_median_kJ": 1.98,
    "fallback": null
   },
@@ -8439,7 +8439,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-IN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8448,7 +8448,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-LA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8466,7 +8466,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-PR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8475,7 +8475,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8484,7 +8484,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-SM",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8493,7 +8493,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-TH",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8502,7 +8502,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "CU-TM",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8511,7 +8511,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "DY-GE",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8520,7 +8520,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "DY-RU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8529,7 +8529,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "DY-SN",
    "n": 233,
-   "sigma_robust_kJ": 6.307,
+   "sigma_robust_kJ": 6.003,
    "bias_median_kJ": 1.93,
    "fallback": null
   },
@@ -8547,7 +8547,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "ER-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8556,7 +8556,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "EU-GA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8565,7 +8565,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "EU-PB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8574,7 +8574,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "EU-PD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8583,7 +8583,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "EU-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8592,7 +8592,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-GD",
    "n": 230,
-   "sigma_robust_kJ": 5.995,
+   "sigma_robust_kJ": 5.889,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8601,7 +8601,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-HO",
    "n": 232,
-   "sigma_robust_kJ": 5.995,
+   "sigma_robust_kJ": 5.889,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8610,7 +8610,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-LA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8619,7 +8619,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-LU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8628,7 +8628,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-MG",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8637,7 +8637,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-NB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8655,7 +8655,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-PR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8664,7 +8664,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-PT",
    "n": 232,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.122,
    "bias_median_kJ": 2.01,
    "fallback": null
   },
@@ -8673,7 +8673,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8682,7 +8682,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8691,7 +8691,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-TB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8700,7 +8700,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8709,7 +8709,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-U",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8718,7 +8718,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-Y",
    "n": 223,
-   "sigma_robust_kJ": 6.28,
+   "sigma_robust_kJ": 5.976,
    "bias_median_kJ": 1.912,
    "fallback": null
   },
@@ -8727,7 +8727,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GA-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8736,7 +8736,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GD-GE",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8745,7 +8745,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GD-MG",
    "n": 232,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8754,7 +8754,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GD-TL",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8763,7 +8763,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GD-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8772,7 +8772,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-HF",
    "n": 232,
-   "sigma_robust_kJ": 5.995,
+   "sigma_robust_kJ": 5.889,
    "bias_median_kJ": 1.925,
    "fallback": null
   },
@@ -8781,7 +8781,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-K",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8799,7 +8799,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-PT",
    "n": 230,
-   "sigma_robust_kJ": 6.426,
+   "sigma_robust_kJ": 6.339,
    "bias_median_kJ": 2.01,
    "fallback": null
   },
@@ -8808,7 +8808,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8817,7 +8817,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8826,7 +8826,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-TA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8835,7 +8835,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-TI",
    "n": 232,
-   "sigma_robust_kJ": 6.339,
+   "sigma_robust_kJ": 6.187,
    "bias_median_kJ": 2.01,
    "fallback": null
   },
@@ -8844,7 +8844,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-TM",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8871,7 +8871,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "GE-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8880,7 +8880,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HF-IR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8889,7 +8889,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HF-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8898,7 +8898,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HG-MG",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8907,7 +8907,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HO-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8916,7 +8916,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "HO-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8925,7 +8925,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-LA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8934,7 +8934,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-PD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8943,7 +8943,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-PT",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8952,7 +8952,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8961,7 +8961,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IN-Y",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8970,7 +8970,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IR-MO",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8979,7 +8979,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "IR-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8988,7 +8988,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "LA-PB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -8997,7 +8997,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "LA-PT",
    "n": 227,
-   "sigma_robust_kJ": 6.307,
+   "sigma_robust_kJ": 6.003,
    "bias_median_kJ": 1.93,
    "fallback": null
   },
@@ -9006,7 +9006,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "LA-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9015,7 +9015,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "LA-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9024,7 +9024,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "MG-PB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9033,7 +9033,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "MG-PD",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9042,7 +9042,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "NB-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9051,7 +9051,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "NB-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9060,7 +9060,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "ND-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9069,7 +9069,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "ND-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9078,7 +9078,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PB-PT",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9087,7 +9087,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PB-PU",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9096,7 +9096,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-SC",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9105,7 +9105,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9114,7 +9114,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-Y",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9123,7 +9123,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PD-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9132,7 +9132,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "PR-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9150,7 +9150,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "RE-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9159,7 +9159,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "RE-Y",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9168,7 +9168,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "RH-TI",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9177,7 +9177,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "RU-SM",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9186,7 +9186,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "RU-U",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9204,7 +9204,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SC-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9213,7 +9213,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SM-SN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9222,7 +9222,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SM-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9231,7 +9231,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-SR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9240,7 +9240,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-TA",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9249,7 +9249,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-TB",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9258,7 +9258,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-U",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9276,7 +9276,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SN-ZR",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9285,7 +9285,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "SR-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9294,7 +9294,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "TH-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },
@@ -9303,7 +9303,7 @@
    "stratum": "polymorph_ambiguous|metal",
    "system": "TI-ZN",
    "n": 234,
-   "sigma_robust_kJ": 6.187,
+   "sigma_robust_kJ": 6.04,
    "bias_median_kJ": 1.955,
    "fallback": null
   },

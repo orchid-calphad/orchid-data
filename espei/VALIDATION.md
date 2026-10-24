@@ -8,7 +8,7 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
-| experimental | 975 | 975 | ok |
+| experimental | 984 | 984 | ok |
 | model | 526 | 526 | ok |
 | invariants | 1656 | 1656 | ok |
 | dft/literature | 441 | 441 | ok |
@@ -61,18 +61,18 @@ Invalid files in the final bundle: **0**.
 
 Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
 
-Datasets evaluated in the final bundle: **8256**; all finite: **yes**.
+Datasets evaluated in the final bundle: **8265**; all finite: **yes**.
 
 | folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
 |---|---|---:|---:|---:|---:|
 | assessed | zpf_driving_force_J | 650 | 13911 | 0.000171 | 1.3915 |
 | derived/invariant-brackets | zpf_driving_force_J | 1141 | 8051 | 3.8223 | 171.5162 |
 | derived/liquid-stability | zpf_driving_force_J | 431 | 3879 | 0.0 | 0.0 |
-| dft/literature | nonequilibrium_log_likelihood | 441 | 441 | 19.0937 | 46.5692 |
-| dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1759 | 11.4916 |
-| dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1549 | 11.744 |
+| dft/literature | nonequilibrium_log_likelihood | 441 | 441 | 19.1066 | 46.5692 |
+| dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1757 | 11.4902 |
+| dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1552 | 11.748 |
 | experimental | activity_residual | 71 | 181 | 1389.0925 | 11930.0598 |
-| experimental | nonequilibrium_log_likelihood | 445 | 445 | 12.2937 | 193.3778 |
+| experimental | nonequilibrium_log_likelihood | 454 | 454 | 11.8308 | 196.1753 |
 | experimental | residual | 260 | 1137 | 442.0926 | 30285.5 |
 | experimental | zpf_driving_force_J | 199 | 1448 | 0.4715 | 489.5108 |
 | invariants | zpf_driving_force_J | 1656 | 15330 | 16.9353 | 830.7196 |
@@ -573,12 +573,12 @@ Not written after the evaluation: 474 datasets (derived_from_excluded_dataset 3,
 
 | fix | what | count |
 |---|---|---:|
-| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6400 |
+| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6409 |
 | E2 | line-compound ZPF vertices written with composition null (datasets) | 6191 vertices (1219 datasets; 177 hyperplanes added) |
 | E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 731 (131) |
 | E4 | values read twice from the same printed row, counted once | 1151 |
 | E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 114 / 64 / 84 |
-| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 845 / 30 |
+| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 854 / 32 |
 
 Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
@@ -612,7 +612,7 @@ Liquid-stability systems: above_a_boiling_point 83, element_not_a_condensed_liqu
 | formation_magnitude_implausible: formation enthalpy / Gibbs energy outside [-450, +100] kJ/mol-atom (per-formula value or unit error) | 2 |
 | gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 28 |
 | not_accepted: published with extraction_accepted = false | 16 |
-| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 402 |
+| not_espei_ready:literature_gate: a literature-level gate (tools/literature_gates.py) marks the published value not_espei_ready or not accepted (e.g. G6 reaction phase / liquid count, a temperature range stored as a point); every such value is excluded | 393 |
 | phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 87 |
 | phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 579 |
 | phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 3 |
@@ -654,7 +654,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `gas_without_printed_pressure;zpf_region_inert`: 1
 - `not_accepted`: 7
 - `not_accepted;temperature_differs_from_release`: 1
-- `not_espei_ready:literature_gate`: 69
+- `not_espei_ready:literature_gate`: 60
 - `not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable`: 2
 - `not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped`: 6
 - `not_espei_ready:literature_gate;phase_rule:phase_not_printed`: 171
@@ -682,7 +682,7 @@ Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 - `value_differs_from_release`: 38
 - `zpf_region_inert`: 286
 
-Datasets kept with some values removed: **1211** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 14169 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **1211** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 14178 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 

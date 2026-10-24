@@ -4,7 +4,7 @@
 
 HTML: https://data.orchid-project.org/compounds/Cu8Zr3.html · Markdown: https://data.orchid-project.org/compounds/Cu8Zr3.md
 
-7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -14.665 kJ/mol-atom (n = 2); Materials Project -16.12 kJ/mol-atom (mp-aaacqazd); OQMD -15.764 kJ/mol-atom (oqmd-2052365).
+7 accepted literature formation-enthalpy value(s) (experimental 2, model 4, DFT 1); experimental median -14.091 kJ/mol-atom (n = 2); Materials Project -16.12 kJ/mol-atom (mp-aaacqazd); OQMD -15.764 kJ/mol-atom (oqmd-2052365).
 
 Systems: [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html)
 
@@ -14,8 +14,8 @@ Table: Enthalpy of formation of Cu8Zr3 reported in the literature (7)
 
 | Value | Phase as printed | T (K) | Class | Method | System | Source | Location | Quote |
 |---:|---|---:|---|---|---|---|---|---|
-| -16.2 kJ/mol-atom | Cu8Zr3 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 10 |  |
-| -13.129 kJ/mol-atom ± 0.083 | Cu8Zr3 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 9 |  |
+| -16.2 kJ/mol-atom | Cu8Zr3 | 298.15 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 10 |  |
+| -11.982 kJ/mol-atom ± 0.083 | Cu8Zr3 | 1123 | experimental |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 9 |  |
 | -15.816 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 7 |  |
 | -14.788 kJ/mol-atom | Cu8Zr3 | 1123 | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [1] Turchanin 2008 | Table 3, p. 10, row 11 |  |
 | -13.4603 kJ/mol-atom | Cu8Zr3 |  | model |  | [Cu–Zr](https://data.orchid-project.org/systems/CU-ZR.html) | [2] Zeng 1994 | Table 1, p. 1, row 9 |  |

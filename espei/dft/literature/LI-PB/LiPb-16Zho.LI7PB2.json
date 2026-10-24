@@ -45,9 +45,9 @@
  "reference": "Zhou 2016, doi:10.1016/j.jnucmat.2016.04.061",
  "bibtex": "zhou2016_a3b83e",
  "weight": [
-  0.079834,
-  0.079834,
-  0.079834
+  0.079618,
+  0.079618,
+  0.079618
  ],
  "tags": [
   "dft_literature",
@@ -105,7 +105,7 @@
   "weight_rule": "weight per value = 500 J/mol / calibrated sigma_DFT (leave-system-out robust sigma of the value's stratum; bias recorded, not applied)",
   "values": [
    {
-    "sigma": 6263.0,
+    "sigma": 6280.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -114,15 +114,15 @@
      "leave_system_out": true,
      "system_left_out": "LI-PB",
      "n": 93,
-     "sigma_robust_kJ": 6.263,
-     "bias_median_kJ_not_applied": 0.302,
+     "sigma_robust_kJ": 6.28,
+     "bias_median_kJ_not_applied": 0.214,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.683,
-      9.095
+      4.783,
+      8.981
      ],
      "n_full_stratum": 93
     },
-    "weight_used": 0.079834,
+    "weight_used": 0.079618,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -35.14,
@@ -132,7 +132,7 @@
     "compound": "Li7Pb2"
    },
    {
-    "sigma": 6263.0,
+    "sigma": 6280.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -141,15 +141,15 @@
      "leave_system_out": true,
      "system_left_out": "LI-PB",
      "n": 93,
-     "sigma_robust_kJ": 6.263,
-     "bias_median_kJ_not_applied": 0.302,
+     "sigma_robust_kJ": 6.28,
+     "bias_median_kJ_not_applied": 0.214,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.683,
-      9.095
+      4.783,
+      8.981
      ],
      "n_full_stratum": 93
     },
-    "weight_used": 0.079834,
+    "weight_used": 0.079618,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -33.48,
@@ -159,7 +159,7 @@
     "compound": "Li7Pb2"
    },
    {
-    "sigma": 6263.0,
+    "sigma": 6280.0,
     "sigma_basis": "dft_calibrated",
     "calibration": {
      "source": "literature",
@@ -168,15 +168,15 @@
      "leave_system_out": true,
      "system_left_out": "LI-PB",
      "n": 93,
-     "sigma_robust_kJ": 6.263,
-     "bias_median_kJ_not_applied": 0.302,
+     "sigma_robust_kJ": 6.28,
+     "bias_median_kJ_not_applied": 0.214,
      "ci95_sigma_robust_kJ_full_stratum": [
-      4.683,
-      9.095
+      4.783,
+      8.981
      ],
      "n_full_stratum": 93
     },
-    "weight_used": 0.079834,
+    "weight_used": 0.079618,
     "weight_meaning": "ESPEI's experimental reference sigma_HM (500 J/mol) / calibrated DFT sigma: the conversion that makes ESPEI use the calibrated sigma; 500 J/mol is not a DFT uncertainty",
     "dft_value_printed": {
      "value": -31.03,

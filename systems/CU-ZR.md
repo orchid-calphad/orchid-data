@@ -706,52 +706,52 @@ Table: Enthalpies of formation, Cu–Zr system (71)
 
 | Phase | Compound | Value | T (K) | Class | MP DFT (kJ/mol-atom) | OQMD DFT (kJ/mol-atom) | Source | Location | Quote |
 |---|---|---:|---:|---|---:|---:|---|---|---|
-| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -22.9 kJ/mol-atom | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 14 |  |
-| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -22.004 kJ/mol-atom ± 0.259 | 1123 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 13 |  |
+| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -22.9 kJ/mol-atom | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 14 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -21.226 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 10 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -20.466 kJ/mol-atom | 1123 | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008 | Table 3, p. 10, row 15 |  |
+| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -20.272 kJ/mol-atom | 1123 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 13 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -14.2206 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994 | Table 1, p. 1, row 12 |  |
-| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -12.31 kJ/mol-atom ± 0.24 | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 12 |  |
+| Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -12.31 kJ/mol-atom | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [2] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 10, row 12 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -12.31 kJ/mol-atom | 298.15 | experimental | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 13 |  |
 | Cu10Zr7 | [Cu10Zr7](https://data.orchid-project.org/compounds/Cu10Zr7.html) | -6.73512 kJ/mol-atom |  | model | -15.275 (mp-aaacppnh) | -15.415 (oqmd-20874) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 11 |  |
 | Cu10Zr7-φ |  | -18.75 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 12 |  |
 | Cu10Zr7-φ |  | -16.13 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 11 |  |
-| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -25.2 kJ/mol-atom | 298.15 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 7 |  |
-| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.07 kJ/mol-atom ± 1.24 | 298.15 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 5 |  |
+| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -25.2 kJ/mol-atom | 298.15 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 7 |  |
+| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.07 kJ/mol-atom | 298.15 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 10, row 5 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.07 kJ/mol-atom | 298.15 | experimental | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 6 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -12.9756 kJ/mol-atom |  | model | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994 | Table 1, p. 1, row 5 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -12.601 kJ/mol-atom | 1123 | model | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008 | Table 3, p. 10, row 8 |  |
-| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -11.241 kJ/mol-atom ± 0.076 | 1123 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 6 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -11.23 kJ/mol-atom |  | model | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 3 |  |
+| Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -10.335 kJ/mol-atom ± 0.076 | 1123 | experimental | -15.74 (mp-aaacrfmf) |  | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 6 |  |
 | Cu51Zr14 | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -2.90594 kJ/mol-atom |  | model | -15.74 (mp-aaacrfmf) |  | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 4 |  |
 | Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -24.3 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Meschel 2003_ | Table 2, p. 3, row 9 |  |
 | Cu51Zr14-β |  | -20.24 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 6 |  |
 | Cu51Zr14-β | [Cu51Zr14](https://data.orchid-project.org/compounds/Cu51Zr14.html) | -14.38 kJ/mol-atom | 0 | experimental | -15.74 (mp-aaacrfmf) |  | [6] Zhou 2010; _cites Weihs 1996_ | Table 2, p. 3, row 8 |  |
 | Cu51Zr14-β |  | -8.64 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 7 |  |
-| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -23.8 kJ/mol-atom | 298.15 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 3 |  |
-| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -10.389 kJ/mol-atom ± 0.077 | 1123 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 2 |  |
+| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -23.8 kJ/mol-atom | 298.15 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 3 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -10.299 kJ/mol-atom |  | model | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [7] Zeng 1994 | Table 1, p. 1, row 2 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -10.286 kJ/mol-atom | 1123 | model | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008 | Table 3, p. 10, row 4 |  |
-| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -8.7 kJ/mol-atom ± 1.9 | 298.15 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites ref. 34_ | Table 3, p. 10, row 1 |  |
+| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -9.624 kJ/mol-atom | 1123 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 2 |  |
+| Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -8.7 kJ/mol-atom | 298.15 | experimental | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [2] Turchanin 2008; _cites Sommer 1989_ [doi](https://doi.org/10.1515/ijmr-1989-800410) | Table 3, p. 10, row 1 |  |
 | Cu5Zr | [Cu5Zr](https://data.orchid-project.org/compounds/Cu5Zr.html) | -2.20724 kJ/mol-atom |  | model | -11.236 (mp-aaaabthb) | -11.305 (oqmd-17177) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 1 |  |
 | Cu5Zr-C15b |  | -12.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 5 |  |
 | Cu5Zr-C15b |  | -11.37 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010 | Table 2, p. 3, row 3 |  |
 | Cu5Zr-C15b |  | -11.25 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 4 |  |
-| Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -16.2 kJ/mol-atom | 298.15 | experimental | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 10 |  |
+| Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -16.2 kJ/mol-atom | 298.15 | experimental | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 10 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -15.816 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 7 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -14.788 kJ/mol-atom | 1123 | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008 | Table 3, p. 10, row 11 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -13.4603 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994 | Table 1, p. 1, row 9 |  |
-| Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -13.129 kJ/mol-atom ± 0.083 | 1123 | experimental | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 9 |  |
+| Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -11.982 kJ/mol-atom ± 0.083 | 1123 | experimental | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 9 |  |
 | Cu8Zr3 | [Cu8Zr3](https://data.orchid-project.org/compounds/Cu8Zr3.html) | -3.24593 kJ/mol-atom |  | model | -16.12 (mp-aaacqazd) | -15.764 (oqmd-2052365) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 8 |  |
 | Cu8Zr3-δ |  | -18.21 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 10 |  |
-| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites ref. 44_ | Table 3, p. 10, row 16 |  |
-| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites 1 1982_ | Table 1, p. 1, row 18 |  |
+| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 3, p. 10, row 16 |  |
+| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.4 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 1, p. 1, row 18 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24.012 kJ/mol-atom |  | model | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 14 |  |
-| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites ref. 45_ | Table 3, p. 10, row 17 |  |
-| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -17.282 kJ/mol-atom ± 0.309 | 1123 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 19 |  |
+| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -24 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites Sidorov 1989_ | Table 3, p. 10, row 17 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -17.014 kJ/mol-atom | 1123 | model | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008 | Table 3, p. 10, row 20 |  |
+| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -15.179 kJ/mol-atom | 1123 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 19 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -10.0521 kJ/mol-atom |  | model | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994 | Table 1, p. 1, row 16 |  |
-| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -9.05 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 18 |  |
+| CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -9.05 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [2] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 10, row 18 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -9.05 kJ/mol-atom | 298.15 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 17 |  |
 | CuZr | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -7.33717 kJ/mol-atom |  | model | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 15 |  |
 | CuZr-B19' |  | -11.97 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Zhou 2008_ | Table 2, p. 3, row 19 |  |
@@ -762,14 +762,14 @@ Table: Enthalpies of formation, Cu–Zr system (71)
 | CuZr-B2 | [CuZr](https://data.orchid-project.org/compounds/CuZr.html) | -9.05 kJ/mol-atom | 0 | experimental | -12.296 (mp-aaacjlri) | -12.626 (oqmd-756640) | [6] Zhou 2010; _cites Kleppa 1982_ | Table 2, p. 3, row 17 |  |
 | CuZr-B33 |  | -12.13 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Zhou 2008_ | Table 2, p. 3, row 18 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -23.635 kJ/mol-atom | 1123 | model | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008 | Table 3, p. 10, row 25 |  |
-| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -19.797 kJ/mol-atom ± 0.357 | 1123 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 23 |  |
-| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites ref. 44_ | Table 3, p. 10, row 21 |  |
-| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites 1 1982_ | Table 1, p. 1, row 23 |  |
+| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 3, p. 10, row 21 |  |
+| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites Ansara 1982_ [doi](https://doi.org/10.1002/pssa.2210690203) | Table 1, p. 1, row 23 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.167 kJ/mol-atom |  | model | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites Saunders 1985_ [doi](https://doi.org/10.1016/0364-5916%2885%2990001-x) | Table 1, p. 1, row 19 |  |
-| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -16.6 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 24 |  |
+| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -16.992 kJ/mol-atom | 1123 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 23 |  |
+| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -16.6 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 24 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -14.6347 kJ/mol-atom |  | model | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994 | Table 1, p. 1, row 21 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -12.7269 kJ/mol-atom |  | model | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites Luoma 1991_ | Table 1, p. 1, row 20 |  |
-| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites ref. 33_ | Table 3, p. 10, row 22 |  |
+| CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [2] Turchanin 2008; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 3, p. 10, row 22 |  |
 | CuZr2 | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -10.95 kJ/mol-atom | 298.15 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [7] Zeng 1994; _cites Kleppa 1982_ [doi](https://doi.org/10.1007/bf02667755) | Table 1, p. 1, row 22 |  |
 | CuZr2-C11b | [CuZr2](https://data.orchid-project.org/compounds/CuZr2.html) | -17.3 kJ/mol-atom | 0 | experimental | -12.941 (mp-aaaaaahl) | -13.274 (oqmd-1895393) | [6] Zhou 2010; _cites Ansara 1982_ | Table 2, p. 3, row 22 |  |
 | CuZr2-C11b |  | -14.52 kJ/mol-atom | 0 | DFT |  |  | [6] Zhou 2010; _cites Ghosh 2007_ | Table 2, p. 3, row 21 |  |
@@ -876,17 +876,17 @@ Table: Formation, Cu–Zr system
 
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
-| Entropy of formation; _printed: ΔfS_ | -7.28 J/mol-atom/K ± 0.27 | 1123 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 13 |  |
+| Entropy of formation; _printed: ΔfS_ | -7.28 J/mol-atom/K ± 0.27 | 1123 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 13 |  |
 | Entropy of formation; _printed: ΔfS_ | -4.28 J/mol-atom/K | 1123 | Cu10Zr7; _alloy: Zr 0.411765_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 15 |  |
-| Entropy of formation; _printed: ΔfS_ | 0 J/mol-atom/K ± 0.08 | 1123 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 6 |  |
+| Entropy of formation; _printed: ΔfS_ | 0 J/mol-atom/K ± 0.08 | 1123 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 6 |  |
 | Entropy of formation; _printed: ΔfS_ | 0 J/mol-atom/K | 1123 | Cu51Zr14; _alloy: Zr 0.215385_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 8 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.3 J/mol-atom/K | 1123 | Cu5Zr; _alloy: Zr 0.166667_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 4 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.6 J/mol-atom/K ± 0.08 | 1123 | Cu5Zr; _alloy: Zr 0.166667_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 2 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.6 J/mol-atom/K ± 0.08 | 1123 | Cu5Zr; _alloy: Zr 0.166667_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 2 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.88 J/mol-atom/K | 1123 | Cu8Zr3; _alloy: Zr 0.272727_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 11 |  |
-| Entropy of formation; _printed: ΔfS_ | -0.71 J/mol-atom/K ± 0.09 | 1123 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 9 |  |
+| Entropy of formation; _printed: ΔfS_ | -0.71 J/mol-atom/K ± 0.09 | 1123 | Cu8Zr3; _alloy: Zr 0.272727_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 9 |  |
 | Entropy of formation; _printed: ΔfS_ | -0.87 J/mol-atom/K | 1123 | CuZr; _alloy: Zr 0.5_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 20 |  |
-| Entropy of formation; _printed: ΔfS_ | -3.05 J/mol-atom/K ± 0.31 | 1123 | CuZr; _alloy: Zr 0.5_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 19 |  |
-| Entropy of formation; _printed: ΔfS_ | -6.68 J/mol-atom/K ± 0.34 | 1123 | CuZr2; _alloy: Zr 0.666667_ | experimental | [2] Turchanin 2008; _cites ref. 46_ | Table 3, p. 10, row 23 |  |
+| Entropy of formation; _printed: ΔfS_ | -3.05 J/mol-atom/K ± 0.31 | 1123 | CuZr; _alloy: Zr 0.5_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 19 |  |
+| Entropy of formation; _printed: ΔfS_ | -6.68 J/mol-atom/K ± 0.34 | 1123 | CuZr2; _alloy: Zr 0.666667_ | experimental | [2] Turchanin 2008; _cites Zaitsev 2003_ [doi](https://doi.org/10.1023/a:1022372503921) | Table 3, p. 10, row 23 |  |
 | Entropy of formation; _printed: ΔfS_ | -7.76 J/mol-atom/K | 1123 | CuZr2; _alloy: Zr 0.666667_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 25 |  |
 
 ### Heat capacity / entropy / enthalpy (6)
@@ -896,11 +896,11 @@ Table: Heat capacity / entropy / enthalpy, Cu–Zr system
 | Property | Value | T (K) | Phases / composition | Class | Source | Location | Quote |
 |---|---:|---:|---|---|---|---|---|
 | sm fusion; _printed: ΔmS_ | 9.95 J/(mole · K) | 1165 | Cu10Zr7; _alloy: Zr 0.411765_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 29 |  |
-| sm fusion; _printed: ΔmS_ | 12.61 J/(mole · K) | 1185 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 28 |  |
-| sm fusion; _printed: ΔmS_ | 8.6 J/(mole · K) | 1279 | CuZr2; _alloy: Zr 0.666667_ | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 30 |  |
+| sm fusion; _printed: ΔmS_ | 12.61 J/(mole · K) | 1185 | Cu10Zr7; _alloy: Zr 0.411765_ | experimental | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 28 |  |
+| sm fusion; _printed: ΔmS_ | 8.6 J/(mole · K) | 1279 | CuZr2; _alloy: Zr 0.666667_ | experimental | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 30 |  |
 | sm fusion; _printed: ΔmS_ | 15.65 J/(mole · K) | 1282 | CuZr2; _alloy: Zr 0.666667_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 31 |  |
 | sm fusion; _printed: ΔmS_ | 9.69 J/(mole · K) | 1382 | Cu51Zr14; _alloy: Zr 0.215385_ | model | [2] Turchanin 2008 | Table 3, p. 10, row 27 |  |
-| sm fusion; _printed: ΔmS_ | 12.82 J/(mole · K) | 1393 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [2] Turchanin 2008; _cites ref. 27_ | Table 3, p. 10, row 26 |  |
+| sm fusion; _printed: ΔmS_ | 12.82 J/(mole · K) | 1393 | Cu51Zr14; _alloy: Zr 0.215385_ | experimental | [2] Turchanin 2008; _cites Yamaguchi 2008_ [doi](https://doi.org/10.1016/j.jallcom.2007.01.173) | Table 3, p. 10, row 26 |  |
 
 ### Activity / EMF / Gibbs energy (84)
 

@@ -35,8 +35,8 @@ Open-access licence deposited with Crossref: 326 papers. Chemical systems: 4126.
 
 | edge type | edges |
 |---|---:|
-| `cites` | 3789 |
-| `used_in_assessment` | 3789 |
+| `cites` | 3792 |
+| `used_in_assessment` | 3792 |
 | `models_system_in_tdb` | 3757 |
 | `reassesses` | 1536 |
 | `handbook_reproduces` | 2466 |

@@ -2,6 +2,24 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**Cu-Zr compound formation enthalpies: over-exclusion fixed (2026-10-24, PI).** After the targeted cleanup no
+measured formation enthalpy of Cu5Zr, Cu51Zr14, Cu8Zr3 or Cu10Zr7 was ESPEI-ready. Rechecked on the rendered pages of
+Turchanin 2008 (Table 3 p. 437, text p. 435, Fig. 4 p. 436, references pp. 444-445) and Zeng 1994 (Table 1):
+(1) Cu4Zr / Cu9Zr2, Cu3Zr and Cu3Zr2 are the historical formulas of Cu5Zr, Cu51Zr14 and Cu10Zr7, which the table
+note itself attributes to the modern phases: `stoichiometry_mismatch` is now flag-only and the value is used for the
+modern phase with sigma = sqrt(sigma_printed^2 + (|dx| x local hull slope)^2) (`uncertainty.basis =
+printed_with_composition_offset`; slope = median of the 298.15 K lower-hull segment in nine Cu-Zr assessments:
+49.7 / 51.8 / 40.1 / 40.1 kJ/mol per unit x; sigma_comp 1.66 / 0.78 / 1.39 / 0.47 kJ/mol-atom). (2) The [46]
+values (Zaitsev and Zaitseva 2003) are enthalpies at 1123 K from fcc-Cu and bcc-Zr (text p. 435; Fig. 4 replots them
+for fcc-Cu / hcp-Zr): converted to fcc-Cu / hcp-Zr at 1123 K with the SGTE unary lattice stability H(BCC_A2,Zr) -
+H(HCP_A3,Zr) = 4206.77 J/mol at 1123 K, x_Zr-weighted (conversion in the record's `corrections`, printed value
+kept; T stays 1123 K, which is how ESPEI 0.9.1 evaluates _FORM data; its format has no per-dataset reference phase).
+(3) Cu10Zr7 [33] and converted [46] disagree by 8 kJ/mol-atom (13 sigma): `mutually_inconsistent` (not certified),
+scatter sigma 5.63 kJ/mol-atom; converted [46] CuZr / CuZr2 take their group sigmas (8.75 / 3.48). (4) Primary works
+linked in `cited_sources` (Kleppa-Watanabe 1982, Ansara 1982, Sommer-Choi 1989, Yamaguchi 2008, Zaitsev 2003; Sidorov
+1989 has no DOI). espei_ready 11,919 -> 11,928 (9 Cu-Zr values); ESPEI experimental datasets 975 -> 984
+(2,932 -> 2,941 values); all Cu-Zr datasets give finite ESPEI likelihoods.
+
 **Targeted cleanup of flagged records (2026-10-24, PI-approved).** Every remaining flagged invariant table and
 value group was checked on the rendered PDF page (642 new page checks in `tools/literature_visual_checks.json`, one
 per table group or record: page, image hash, verdict, what was seen; no images published). Invariant phase lists:

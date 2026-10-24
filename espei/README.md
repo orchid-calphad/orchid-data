@@ -4,7 +4,7 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 975 | 2932 | 192 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| experimental | 984 | 2941 | 192 | experimental thermochemical tables and phase-composition (ZPF) tables |
 | model | 526 | 828 | 84 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
 | invariants | 1656 | 5486 | 483 | ZPF datasets from experimental invariant-reaction tables |
 | dft/literature | 441 | 1050 | 44 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
@@ -71,6 +71,8 @@ system:
 - A printed sigma below 0.1 x ESPEI's experimental default (e.g. +-0.011 kJ/mol) is below any measurement resolution: the dataset weight uses the default for that value (`sigma_floor_applied` in `orchid_uncertainty`; the printed sigma is kept).
 - `experimental/MG-O/MgO-18Lia.zpf-00.json`, `invariants/PD-TI/PdTi-11Guo.zpf-00.json` and `invariants/AL-S/AlS-19Shi.zpf-01.json` are left out: their pycalphad driving-force evaluation is not reproducible (`pycalphad_evaluation_unstable`).
 - A compound whose independent measured formation enthalpies disagree by more than their printed sigmas carries a scatter-aware sigma (`uncertainty.basis = scatter_between_sources`, sample standard deviation of the independent values; page-checked); the dataset weight uses it.
+- A formation enthalpy that the source measured at the historical formula of a phase (e.g. Cu4Zr or Cu9Zr2 for Cu5Zr, Cu3Zr for Cu51Zr14, Cu3Zr2 for Cu10Zr7, as the source table itself attributes them) is used for the modern phase with sigma = sqrt(sigma_printed^2 + (|dx| x local hull slope)^2) (`uncertainty.basis = printed_with_composition_offset`; the flag `stoichiometry_mismatch` stays, flag-only).
+- A value printed relative to a non-SER reference phase that the page states (e.g. bcc-Zr at 1123 K) is written converted to the TDB's SER phases at the same temperature with the SGTE unary lattice stability (`orchid_value_note`; the record's `corrections` entry gives the conversion and keeps the printed value).
 
 ## Phase assignment
 
@@ -113,7 +115,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Optional minimum-sigma policy (E6)
 
-Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 30 of 845 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
+Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 32 of 854 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
 
 ## Phase constraints (optional)
 

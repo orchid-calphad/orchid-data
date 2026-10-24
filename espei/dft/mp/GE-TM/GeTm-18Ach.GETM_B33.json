@@ -86,10 +86,10 @@
      "system_left_out": "GE-TM",
      "n": 256,
      "sigma_robust_kJ": 9.409,
-     "bias_median_kJ_not_applied": 5.131,
+     "bias_median_kJ_not_applied": 5.072,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.951,
-      10.558
+      7.938,
+      10.506
      ],
      "n_full_stratum": 257
     },

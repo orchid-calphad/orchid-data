@@ -601,7 +601,7 @@ _tdb: _tdb:CuZr-06He.tdb:CU5ZR_C15B, tdb:CuZr-08Tur.tdb:CU5ZR_C15B, tdb:CuZr-10Z
 41: CONST CU5ZR_C15B : CU : ZR : !
 ~~~~
 
-Example references (10 of 11; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1007/s11106-008-9039-x](https://doi.org/10.1007/s11106-008-9039-x) M. A. Turchanin, P. G. Agraval, A. R. Abdulov, Thermodynamic assessment of the Cu-Ti-Zr system. II. Cu-Zr and Ti-Zr systems, Powder Metall Met Ceram 47, 428-446 (2008).  
 _assessment that models this phase; reports values for this phase_
@@ -617,11 +617,11 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/0022-5088(85)90279-6](https://doi.org/10.1016/0022-5088%2885%2990279-6) J.L. Glimois, P. Forey, J.L. Feron, Etudes structurales et physiques d'alliages riches en cuivre dans le systeme CuZr, Journal of the Less Common Metals 113, 213-224 (1985).  
 _cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2007.01.173](https://doi.org/10.1016/j.jallcom.2007.01.173) Katsunori Yamaguchi, Young-Cheol Song, Toshiaki Yoshida, Kimio Itagaki, Thermodynamic investigation of the Cu–Zr system, Journal of Alloys and Compounds 452, 73-79 (2008).  
+_cited as the source of values for this phase_
 - [doi:10.1007/bf02898260](https://doi.org/10.1007/bf02898260) D. Arias, J. P. Abriata, Cu-Zr (Copper-Zirconium), Bulletin of Alloy Phase Diagrams 11, 452-459 (1990).  
 _cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2006.06.002](https://doi.org/10.1016/j.calphad.2006.06.002) Na Wang, Changrong Li, Zhenmin Du, Fuming Wang, Weijing Zhang, The thermodynamic re-assessment of the Cu–Zr system, Calphad 30, 461-469 (2006).  
-_cited as the source of values for this phase_
-- [doi:10.1016/j.jallcom.2007.01.173](https://doi.org/10.1016/j.jallcom.2007.01.173) Katsunori Yamaguchi, Young-Cheol Song, Toshiaki Yoshida, Kimio Itagaki, Thermodynamic investigation of the Cu–Zr system, Journal of Alloys and Compounds 452, 73-79 (2008).  
 _cited as the source of values for this phase_
 
 ## CU5ZR2 (Cu–Zr)
@@ -1036,7 +1036,7 @@ _tdb: _tdb:CuZr-06Abe.tdb:CUZR_B2, tdb:CuZr-06He.tdb:CUZR_B2, tdb:CuZr-06Wan.tdb
 61: CONST CUZR_B2 : CU : ZR : !
 ~~~~
 
-Example references (10 of 17; assessments first): 
+Example references (10 of 18; assessments first): 
 
 - [doi:10.1016/j.actamat.2009.12.004](https://doi.org/10.1016/j.actamat.2009.12.004) S.H. Zhou, R.E. Napolitano, Phase stability for the Cu–Zr system: First-principles, experiments and solution-based modeling, Acta Materialia 58, 2186-2196 (2010).  
 _assessment that models this phase; reports values for this phase_

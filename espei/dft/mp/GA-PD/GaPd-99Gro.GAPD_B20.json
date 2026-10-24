@@ -87,10 +87,10 @@
      "system_left_out": "GA-PD",
      "n": 98,
      "sigma_robust_kJ": 7.506,
-     "bias_median_kJ_not_applied": 5.052,
+     "bias_median_kJ_not_applied": 4.828,
      "ci95_sigma_robust_kJ_full_stratum": [
-      5.472,
-      10.396
+      5.391,
+      10.443
      ],
      "n_full_stratum": 99
     },

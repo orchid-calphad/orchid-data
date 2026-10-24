@@ -22,17 +22,17 @@
   "literature/kim2017_crosscheck.*"
  ],
  "n_files": 1427,
- "total_bytes": 179885311,
+ "total_bytes": 179990047,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 24238,
-   "sha256": "96e360ba7a3625b559e471c6b99b9bfaa5110da80828506325cde89ea50037bb"
+   "bytes": 26114,
+   "sha256": "94b5d9fe577c9e038d5827f01e8af1c290e67a0687a01a60e8303199cb877f6d"
   },
   {
    "path": "DATASET_CARD.md",
    "bytes": 51847,
-   "sha256": "a94a3d668edaf5c11ee757f5de00e7bcc0e77f846e63d4993e968d67c873a474"
+   "sha256": "3aeeb5c98e88e3ab6186b915e84b5974876bcb7e1369e3d7def0d6856d8873f0"
   },
   {
    "path": "LICENSE",
@@ -66,13 +66,13 @@
   },
   {
    "path": "literature/QUALITY_FIXES.md",
-   "bytes": 257309,
-   "sha256": "753446773440b5ace8f18f1253441a31b936e9a5fcdf9f2c58eb5ed4316211e4"
+   "bytes": 257465,
+   "sha256": "fb9df8405ee285af5c22c4657203ebc972b2b21fc3b1b9a686c458bee7225320"
   },
   {
    "path": "literature/SCHEMA.md",
-   "bytes": 19677,
-   "sha256": "60ff87643e332f74dbeca452eafad2f0fdfef4744f9a4f0dbde1f597335b089b"
+   "bytes": 20080,
+   "sha256": "8583fd47cd36d7deb7cb3baabce5f601ddbc91e8341e61c9ac51e472359ea65f"
   },
   {
    "path": "literature/contexts.json",
@@ -82,17 +82,17 @@
   {
    "path": "literature/index.json",
    "bytes": 416122,
-   "sha256": "9d4439e9c2443035a9f8b519d365c72fc27f01ea981dbce37bc0e25a3e4832a5"
+   "sha256": "509ba79e2d96884c68a83201b6020f6b2ceeca230dad84b6cb16965cf38385c2"
   },
   {
    "path": "literature/orchid-literature.csv.gz",
-   "bytes": 7104823,
-   "sha256": "407da553019cf5499f4cfdd1edc6bb814a836255a05fc75d12aa11df9291d3bd"
+   "bytes": 7110489,
+   "sha256": "ac90b5262077cfebe2f44fe1d69b80ec205b1bf277cc5a1efa5135590943334d"
   },
   {
    "path": "literature/orchid-literature.jsonl.gz",
-   "bytes": 7047864,
-   "sha256": "8dc622ff5ca85040b8612084ecfab5c9dd29698306ffc6015c531200a442ef32"
+   "bytes": 7052891,
+   "sha256": "63bef7562ee527c54c762ca5e841ce8c3132ce8dd5d6fccffbe81726b8bc3b22"
   },
   {
    "path": "literature/papers.json",
@@ -101,8 +101,8 @@
   },
   {
    "path": "literature/quality_fixes.json",
-   "bytes": 1561093,
-   "sha256": "fc2bf63a61d55da93d96bc5b65edee9aef46e3f36f212118b9b8aabd6ba2b5fc"
+   "bytes": 1583248,
+   "sha256": "b2e1a70c206fe501f1399cf63b5dec4c92e2e906d1c7635c9d55435d28438b99"
   },
   {
    "path": "literature/systems/AG-AL-CU.json",
@@ -3881,8 +3881,8 @@
   },
   {
    "path": "literature/systems/CU-ZR.json",
-   "bytes": 1582900,
-   "sha256": "9ad0c1466f913cd28a7a266ae23380e3b6a19cb7c72b3207482a35ec969d0936"
+   "bytes": 1646609,
+   "sha256": "ceac7d74a1e2872b9f641a7c475d67d14f14daddd3ecfa362ef9b36b53adb664"
   },
   {
    "path": "literature/systems/DY-ER-EU-GD-HO-LU-ND-O-PR-SC-SM-TB-TM-Y-YB.json",
@@ -7137,7 +7137,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 23487,
-   "sha256": "858b3072c7406f2bf0de39061cd4d529b135b3b97cb299f0e29f68b10242d48a"
+   "sha256": "9999e4a358b13c932010bcce8286faf3d0a84d9887487bd522e22ef696e9bab7"
   },
   {
    "path": "parquet/experimental_context.parquet",
@@ -7146,8 +7146,8 @@
   },
   {
    "path": "parquet/literature_values.parquet",
-   "bytes": 6205504,
-   "sha256": "f46e5ca24f3d8510b213c4102b7422d4b0908292e725c25b89e5ce552c57d30c"
+   "bytes": 6211248,
+   "sha256": "471f880bcdfb12e1d52c4be7c2663f3f1911bf647349c8280b37fdbf3deb33fd"
   },
   {
    "path": "parquet/papers.parquet",

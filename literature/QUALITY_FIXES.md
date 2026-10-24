@@ -548,15 +548,15 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | count | n |
 |---|---:|
 | espei_certified | 1917 |
-| espei_ready | 11919 |
+| espei_ready | 11928 |
 | espei_ready_calphad_disagrees | 323 |
-| espei_ready_no_prediction | 9679 |
+| espei_ready_no_prediction | 9688 |
 | phase_rule_fail_compound_property_not_fittable | 359 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 71 |
 | phase_rule_fail_phase_label_not_mapped | 619 |
 | phase_rule_fail_phase_not_printed | 265 |
-| phase_rule_pass | 11919 |
+| phase_rule_pass | 11928 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -1889,10 +1889,10 @@ Every value was checked against its table, its paper, the physics of its quantit
 |---|---:|---:|
 | records | 77540 | 73538 |
 | extraction_accepted | 76600 | 72359 |
-| espei_ready (before the ESPEI phase rule) | 14205 | 13236 |
-| records with corrections | | 4060 |
+| espei_ready (before the ESPEI phase rule) | 14205 | 13245 |
+| records with corrections | | 4062 |
 | records with gate failures | | 1988 |
-| visual checks on file | | 1253 |
+| visual checks on file | | 1255 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -1971,19 +1971,21 @@ Every value was checked against its table, its paper, the physics of its quantit
 | G9 compositions | `overall_composition_sum_not_one` | flagged | 49 |
 | G9 compositions | `phase_composition_sum_not_one` | flagged | 72 |
 | page page checks (visual) | `composition_misread_on_page` | flagged | 2 |
-| page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 12 |
+| page page checks (visual) | `derived_at_high_temperature_from_bcc_zr` | flagged | 6 |
 | page page checks (visual) | `misread_on_page` | demoted | 88 |
-| page page checks (visual) | `mutually_inconsistent` | flagged | 8 |
+| page page checks (visual) | `mutually_inconsistent` | flagged | 10 |
+| page page checks (visual) | `page_fix_cited_sources` | corrected | 30 |
 | page page checks (visual) | `page_fix_evidence_class` | corrected | 24 |
 | page page checks (visual) | `page_fix_property` | corrected | 8 |
 | page page checks (visual) | `page_fix_reference_state` | corrected | 12 |
 | page page checks (visual) | `page_fix_temperature_K` | corrected | 28 |
 | page page checks (visual) | `page_fix_temperature_basis` | corrected | 12 |
-| page page checks (visual) | `page_fix_uncertainty` | corrected | 6 |
+| page page checks (visual) | `page_fix_uncertainty` | corrected | 13 |
 | page page checks (visual) | `page_fix_unit` | corrected | 113 |
-| page page checks (visual) | `page_fix_value` | corrected | 92 |
+| page page checks (visual) | `page_fix_value` | corrected | 98 |
 | page page checks (visual) | `phase_label_not_the_value_phase` | flagged | 36 |
 | page page checks (visual) | `phase_list_misread_corrected` | corrected | 28 |
+| page page checks (visual) | `reference_state_converted_to_ser` | flagged | 6 |
 | page page checks (visual) | `same_measurement_listed_in_other_paper` | flagged | 6 |
 | page page checks (visual) | `stoichiometry_mismatch` | flagged | 7 |
 | page page checks (visual) | `temperature_not_printed` | flagged | 12 |
@@ -2002,7 +2004,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | evidence_table | mixed | 4 |
 | evidence_table | model | 2 |
 | invariant_table | checked | 160 |
-| page_fix | corrected | 187 |
+| page_fix | corrected | 189 |
 | page_flag | confirmed | 93 |
 | per_formula | corrected | 1 |
 | record_T | as_stored | 28 |

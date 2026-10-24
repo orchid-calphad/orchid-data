@@ -352,7 +352,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 73538
-  download_size: 6205504
+  download_size: 6211248
 - config_name: papers
   features:
   - name: id
@@ -558,7 +558,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 7696
-  download_size: 269912
+  download_size: 270010
 - config_name: phase_diagram_invariants
   features:
   - name: system
@@ -746,7 +746,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 10496
-  download_size: 450361
+  download_size: 450362
 - config_name: structure_types
   features:
   - name: id
@@ -960,7 +960,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537281
+  download_size: 1537288
 - config_name: bibliography_edges
   features:
   - name: id
@@ -989,8 +989,8 @@ dataset_info:
     dtype: string
   splits:
   - name: full
-    num_examples: 60225
-  download_size: 1081875
+    num_examples: 60231
+  download_size: 1081876
 ---
 
 # ORCHID data: analysis-ready tables
@@ -1240,7 +1240,7 @@ structured target (`property`, `value`, `unit`, `temperature_K`, `phases`, `comp
 
 **Uses to avoid.** Do not treat `model` or `unspecified` values as measurements, do not average across evidence
 classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready`
-(11,919 true) means the value can be used in ESPEI: the pipeline's completeness and format checks plus the physical
+(11,928 true) means the value can be used in ESPEI: the pipeline's completeness and format checks plus the physical
 phase rule (printed phase mapped to a model phase, physically possible at its temperature; literature/QUALITY_FIXES.md
 section 6). `flag_espei_certified` (1,917 true) adds agreement with a pycalphad calculation from the linked TDB
 (`calphad_check`: agrees / disagrees / not_available; 323 ready values disagree, 9,679 have no prediction). Neither

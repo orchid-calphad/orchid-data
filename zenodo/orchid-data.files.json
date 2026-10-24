@@ -18,12 +18,12 @@
  ],
  "exclude": [],
  "n_files": 19,
- "total_bytes": 193730,
+ "total_bytes": 195606,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 24238,
-   "sha256": "96e360ba7a3625b559e471c6b99b9bfaa5110da80828506325cde89ea50037bb"
+   "bytes": 26114,
+   "sha256": "94b5d9fe577c9e038d5827f01e8af1c290e67a0687a01a60e8303199cb877f6d"
   },
   {
    "path": "CITATION.cff",
@@ -33,7 +33,7 @@
   {
    "path": "DATASET_CARD.md",
    "bytes": 51847,
-   "sha256": "a94a3d668edaf5c11ee757f5de00e7bcc0e77f846e63d4993e968d67c873a474"
+   "sha256": "3aeeb5c98e88e3ab6186b915e84b5974876bcb7e1369e3d7def0d6856d8873f0"
   },
   {
    "path": "LICENSE",
@@ -58,7 +58,7 @@
   {
    "path": "parquet/MANIFEST.json",
    "bytes": 23487,
-   "sha256": "858b3072c7406f2bf0de39061cd4d529b135b3b97cb299f0e29f68b10242d48a"
+   "sha256": "9999e4a358b13c932010bcce8286faf3d0a84d9887487bd522e22ef696e9bab7"
   },
   {
    "path": "zenodo/README.md",

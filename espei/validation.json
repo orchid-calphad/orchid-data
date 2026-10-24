@@ -26,8 +26,8 @@
    "loaded": 1218
   },
   "experimental": {
-   "files": 975,
-   "loaded": 975
+   "files": 984,
+   "loaded": 984
   },
   "invariants": {
    "files": 1656,
@@ -3265,7 +3265,7 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8256,
+  "datasets_evaluated": 8265,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
@@ -3289,20 +3289,20 @@
    "dft/literature|nonequilibrium_log_likelihood": {
     "datasets": 441,
     "values": 441,
-    "median_of_dataset_median_abs": 19.0937,
+    "median_of_dataset_median_abs": 19.1066,
     "p90_of_dataset_median_abs": 46.5692
    },
    "dft/mp|nonequilibrium_log_likelihood": {
     "datasets": 1218,
     "values": 1218,
-    "median_of_dataset_median_abs": 10.1759,
-    "p90_of_dataset_median_abs": 11.4916
+    "median_of_dataset_median_abs": 10.1757,
+    "p90_of_dataset_median_abs": 11.4902
    },
    "dft/oqmd|nonequilibrium_log_likelihood": {
     "datasets": 1218,
     "values": 1218,
-    "median_of_dataset_median_abs": 10.1549,
-    "p90_of_dataset_median_abs": 11.744
+    "median_of_dataset_median_abs": 10.1552,
+    "p90_of_dataset_median_abs": 11.748
    },
    "experimental|activity_residual": {
     "datasets": 71,
@@ -3311,10 +3311,10 @@
     "p90_of_dataset_median_abs": 11930.0598
    },
    "experimental|nonequilibrium_log_likelihood": {
-    "datasets": 445,
-    "values": 445,
-    "median_of_dataset_median_abs": 12.2937,
-    "p90_of_dataset_median_abs": 193.3778
+    "datasets": 454,
+    "values": 454,
+    "median_of_dataset_median_abs": 11.8308,
+    "p90_of_dataset_median_abs": 196.1753
    },
    "experimental|residual": {
     "datasets": 260,
@@ -5737,69 +5737,6 @@
     "value_differs_from_release"
    ],
    "values": 2
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-00.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-01.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-03.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-04.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-06.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-08.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-09.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-13.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-17.json",
-   "reason": [
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 1
   },
   {
    "source": "general/espei/CuZr-08Tur/smr-02.json",
@@ -22670,60 +22607,6 @@
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-2KRHGPYFBW.8277c4",
    "same_as": "ORC-2KRHGPYFBW.8277c4"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-00.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-56OXWXS2EA"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-01.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-NZAYQW3LOM.274579"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-03.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-24JPYAVIYR"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-04.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-JTZAQ5DB2I.28d5ac"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-06.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-UGI6UJCAPF.4d8255"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-08.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-HY37OYY4XL"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-09.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-BGGPICFMTF.a7b5c8"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-13.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-BOQ5VV67YX.8db5c2"
-  },
-  {
-   "source": "general/espei/CuZr-08Tur/hmr-17.json",
-   "index": 0,
-   "reason": "not_espei_ready:literature_gate",
-   "orchid_id": "ORC-OEHV7BOUW4.30a770"
   },
   {
    "source": "general/espei/CuZr-08Tur/smr-02.json",
@@ -142388,11 +142271,11 @@
  ],
  "fixes": {
   "summary": {
-   "E1_va_added_datasets": 6400,
+   "E1_va_added_datasets": 6409,
    "E1_basis": {
     "metallic_system": 25,
     "system_tdbs": 1,
-    "target_tdb": 6374
+    "target_tdb": 6383
    },
    "E2_vertices_nulled": 6191,
    "E2_datasets": 1219,
@@ -142407,8 +142290,8 @@
     "printed": 102
    },
    "E5_records_disagreeing_with_paper": 84,
-   "E6_datasets_with_floor_suggestion": 845,
-   "E6_datasets_where_floor_changes_weight": 30
+   "E6_datasets_with_floor_suggestion": 854,
+   "E6_datasets_where_floor_changes_weight": 32
   },
   "e3_merged": [
    {
@@ -160275,12 +160158,12 @@
   }
  },
  "summary": {
-  "datasets": 6034,
-  "values": 12732,
+  "datasets": 6043,
+  "values": 12741,
   "by_folder": {
    "experimental": {
-    "datasets": 975,
-    "values": 2932,
+    "datasets": 984,
+    "values": 2941,
     "systems": 192
    },
    "model": {
@@ -160327,7 +160210,7 @@
    "experimental/CPM": 64,
    "experimental/GMR": 38,
    "experimental/HMR": 136,
-   "experimental/HM_FORM": 400,
+   "experimental/HM_FORM": 409,
    "experimental/SM": 17,
    "experimental/SMR": 5,
    "experimental/SM_FORM": 45,
@@ -160375,7 +160258,7 @@
    "gas_without_printed_pressure;zpf_region_inert": 1,
    "not_accepted": 7,
    "not_accepted;temperature_differs_from_release": 1,
-   "not_espei_ready:literature_gate": 69,
+   "not_espei_ready:literature_gate": 60,
    "not_espei_ready:literature_gate;phase_rule:compound_property_not_fittable": 2,
    "not_espei_ready:literature_gate;phase_rule:phase_label_not_mapped": 6,
    "not_espei_ready:literature_gate;phase_rule:phase_not_printed": 171,
@@ -160422,7 +160305,7 @@
    "formation_magnitude_implausible": 2,
    "gas_without_printed_pressure": 28,
    "not_accepted": 16,
-   "not_espei_ready:literature_gate": 402,
+   "not_espei_ready:literature_gate": 393,
    "phase_not_in_target_tdb": 87,
    "phase_rule:compound_property_not_fittable": 579,
    "phase_rule:liquid_impossible_at_T": 3,
@@ -160440,7 +160323,7 @@
    "zpf_region_inert": 1474
   },
   "reader_agreement": {
-   "experimental/multi_reader": 2871,
+   "experimental/multi_reader": 2880,
    "experimental/single_reader": 10,
    "experimental/single_reader_text_layer": 74,
    "invariants/multi_reader": 5985,
@@ -160451,7 +160334,7 @@
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 14169
+   "id": 14178
   },
   "datasets_with_espei_evaluation": 2,
   "dft_candidates": {
@@ -160473,11 +160356,11 @@
    "oqmd/not_in_phase_registry": 6824
   },
   "fixes": {
-   "E1_va_added_datasets": 6400,
+   "E1_va_added_datasets": 6409,
    "E1_basis": {
     "metallic_system": 25,
     "system_tdbs": 1,
-    "target_tdb": 6374
+    "target_tdb": 6383
    },
    "E2_vertices_nulled": 6191,
    "E2_datasets": 1219,
@@ -160492,8 +160375,8 @@
     "printed": 102
    },
    "E5_records_disagreeing_with_paper": 84,
-   "E6_datasets_with_floor_suggestion": 845,
-   "E6_datasets_where_floor_changes_weight": 30
+   "E6_datasets_with_floor_suggestion": 854,
+   "E6_datasets_where_floor_changes_weight": 32
   },
   "phase_constraints": {
    "folders": {

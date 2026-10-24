@@ -14,12 +14,12 @@
  ],
  "exclude": [],
  "n_files": 2157,
- "total_bytes": 26081978,
+ "total_bytes": 26083854,
  "files": [
   {
    "path": "CHANGELOG.md",
-   "bytes": 24238,
-   "sha256": "96e360ba7a3625b559e471c6b99b9bfaa5110da80828506325cde89ea50037bb"
+   "bytes": 26114,
+   "sha256": "94b5d9fe577c9e038d5827f01e8af1c290e67a0687a01a60e8303199cb877f6d"
   },
   {
    "path": "LICENSE",

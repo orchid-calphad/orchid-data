@@ -86,10 +86,10 @@
      "system_left_out": "BI-NA",
      "n": 254,
      "sigma_robust_kJ": 9.409,
-     "bias_median_kJ_not_applied": 5.072,
+     "bias_median_kJ_not_applied": 5.069,
      "ci95_sigma_robust_kJ_full_stratum": [
-      7.951,
-      10.558
+      7.938,
+      10.506
      ],
      "n_full_stratum": 257
     },
