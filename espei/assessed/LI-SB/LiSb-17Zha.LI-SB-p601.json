@@ -12,7 +12,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   692.7296897,
    894.7296897,
    875.7296897,
    773.7296897,
@@ -23,17 +22,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "RHOMBOHEDRAL_A7",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -184,7 +172,6 @@
   "diagram": "LI-SB-p601",
   "target_tdb": "LiSb-17Zha.tdb",
   "record_ids": [
-   "aspa-bb20028b2890a246",
    "aspa-9a07200045eb53eb",
    "aspa-428c01b66ffbd8aa",
    "aspa-0c317ae8cef8d40c",
@@ -198,10 +185,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/LI-SB-p601.json"
  }
 }

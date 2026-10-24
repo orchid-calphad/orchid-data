@@ -24,7 +24,6 @@
    283.6295488,
    350.1295488,
    304.1295488,
-   521.1295488,
    538.6295488,
    544.1295488,
    423.6295488,
@@ -191,17 +190,6 @@
     ],
     [
      0.8336329404
-    ]
-   ]
-  ],
-  [
-   [
-    "AU10SN_D024",
-    [
-     "SN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -448,7 +436,6 @@
    "aspa-6c8465a27173ca5c",
    "aspa-ce8f4c0bda209cf1",
    "aspa-fb58231e00938b4c",
-   "aspa-4c21a597c991dd54",
    "aspa-3c408782c5ad9b1f",
    "aspa-7ce0ab3e300e6f3e",
    "aspa-cec3385dd64e51ba",
@@ -468,7 +455,6 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "high",
    "medium",
@@ -477,7 +463,7 @@
    "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AU-SN-p131.json"
  }
 }

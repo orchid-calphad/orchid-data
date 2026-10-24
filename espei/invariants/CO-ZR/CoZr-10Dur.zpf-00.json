@@ -7,21 +7,17 @@
  "phases": [
   "B2_BCC",
   "BCC_A2",
-  "C15_LAVES",
   "CO11ZR2",
   "CO23ZR6_D8A",
   "COZR2_C16",
   "COZR3",
-  "FCC_A1",
   "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1503.0,
    1544.0,
-   1616.0,
    1337.0,
    1254.0,
    1258.0,
@@ -30,35 +26,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO11ZR2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -94,35 +61,6 @@
     ],
     [
      0.18037150000000002
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -259,25 +197,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3AT65YHRZJ ORC-LRCAVGIO2V ORC-UFKI47ATAA ORC-NJTEN5DRKW ORC-UUNXJ7EP5C ORC-OXPU7TTAX7 ORC-HDVQVK3NYQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LRCAVGIO2V ORC-NJTEN5DRKW ORC-UUNXJ7EP5C ORC-OXPU7TTAX7 ORC-HDVQVK3NYQ",
  "bibtex": "liu2009_077ad7",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-3AT65YHRZJ",
-    "paper": "doi:10.1016/j.calphad.2010.02.006",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
-    "also_reported_as": [
-     {
-      "id": "ORC-SIL4GEA7FE",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:f1fbd1e29892bba4",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-04.json"
-     }
-    ]
-   },
    {
     "id": "ORC-LRCAVGIO2V",
     "paper": "doi:10.1016/j.calphad.2010.02.006",
@@ -291,19 +216,6 @@
      },
      {
       "id": "ORC-BNZ652FZXN",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:f1fbd1e29892bba4",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-04.json"
-     }
-    ]
-   },
-   {
-    "id": "ORC-UFKI47ATAA",
-    "paper": "doi:10.1016/j.calphad.2010.02.006",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
-    "also_reported_as": [
-     {
-      "id": "ORC-SNECZBAHSF",
       "paper": "doi:10.1007/s11669-020-00859-5",
       "measured_in": "ref:f1fbd1e29892bba4",
       "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-04.json"
@@ -337,42 +249,20 @@
    {
     "id": "ORC-OXPU7TTAX7",
     "paper": "doi:10.1016/j.calphad.2010.02.006",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
-    "also_reported_as": [
-     {
-      "id": "ORC-TEVYLLVPYS",
-      "paper": "doi:10.1007/s11669-020-00805-5",
-      "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
-      "dataset": "invariants/CO-ZR/CoZr-20Agr.zpf-01.json"
-     },
-     {
-      "id": "ORC-RU3QBVFK32",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:f1fbd1e29892bba4",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-04.json"
-     }
-    ]
+    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
    },
    {
     "id": "ORC-HDVQVK3NYQ",
     "paper": "doi:10.1016/j.calphad.2010.02.006",
-    "measured_in": "doi:10.1016/j.jallcom.2009.04.032",
-    "also_reported_as": [
-     {
-      "id": "ORC-UU2N4VAE3C",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:f1fbd1e29892bba4",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-04.json"
-     }
-    ]
+    "measured_in": "doi:10.1016/j.jallcom.2009.04.032"
    }
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2009.04.032",
    "doi:10.1016/j.calphad.2010.02.006",
+   "doi:10.1007/s11669-020-00805-5",
    "ref:f1fbd1e29892bba4",
    "doi:10.1007/s11669-020-00859-5",
-   "doi:10.1007/s11669-020-00805-5",
    "doi:10.1007/s11106-016-9751-x"
   ],
   "dois": [
@@ -383,19 +273,12 @@
    "10.1016/j.jallcom.2009.04.032"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoZr-10Dur/zpf-00.json",
-  "e3_merged": 9
+  "values_dropped": 2,
+  "e3_merged": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -420,8 +303,40 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 4,
+  "line_compound_vertices_null": 2,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-LRCAVGIO2V",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-NJTEN5DRKW",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-UUNXJ7EP5C",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OXPU7TTAX7",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-HDVQVK3NYQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

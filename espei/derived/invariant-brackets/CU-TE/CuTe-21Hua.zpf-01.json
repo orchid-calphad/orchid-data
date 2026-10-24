@@ -7,19 +7,18 @@
  "phases": [
   "CU2TE_EPSILON",
   "CU4TE3_BETA",
-  "CU4TE3_C38",
   "CUTE_BETA",
+  "HEXAGONAL_A8",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    930.25,
-   662.65,
-   642.65,
    703.95,
    683.95,
-   632.85
+   632.85,
+   612.85
   ]
  },
  "output": "ZPF",
@@ -36,64 +35,6 @@
    ],
    [
     "CU2TE_EPSILON",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.418571
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.438571
-    ]
-   ]
-  ],
-  [
-   [
-    "CU4TE3_BETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.418571
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.438571
-    ]
-   ]
-  ],
-  [
-   [
-    "CU4TE3_C38",
     [
      "TE"
     ],
@@ -215,6 +156,44 @@
      0.72
     ]
    ]
+  ],
+  [
+   [
+    "CUTE_BETA",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HEXAGONAL_A8",
+    [
+     "TE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.7
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TE"
+    ],
+    [
+     0.72
+    ]
+   ]
   ]
  ],
  "reference": "Huang 2021, doi:10.1016/j.jallcom.2020.157373",
@@ -225,7 +204,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-21Hua.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6KVSD6S5RG ORC-JJHLSQGNU5 ORC-KDZLFFSARW ORC-LK3I3DYKIP",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-21Hua.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JJHLSQGNU5 ORC-KDZLFFSARW ORC-LK3I3DYKIP",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-TE/CuTe-21Hua.zpf-01.json",
@@ -249,42 +228,6 @@
     ],
     "phases_below": [
      "CU4TE3_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-6KVSD6S5RG",
-    "side": "above",
-    "T_invariant_K": 652.65,
-    "offset_K": 10.0,
-    "T_sigma_K": 1.8,
-    "T_sigma_basis": "printed",
-    "x0": 0.428571,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "H-Cu4Te3 ↔ L-Cu4Te3",
-    "reaction_type": null,
-    "phases_above": [
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CU4TE3_C38"
-    ]
-   },
-   {
-    "source_observation": "ORC-6KVSD6S5RG",
-    "side": "below",
-    "T_invariant_K": 652.65,
-    "offset_K": 10.0,
-    "T_sigma_K": 1.8,
-    "T_sigma_basis": "printed",
-    "x0": 0.428571,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "H-Cu4Te3 ↔ L-Cu4Te3",
-    "reaction_type": null,
-    "phases_above": [
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CU4TE3_C38"
     ]
    },
    {
@@ -328,6 +271,25 @@
    {
     "source_observation": "ORC-LK3I3DYKIP",
     "side": "above",
+    "T_invariant_K": 622.85,
+    "offset_K": 10.0,
+    "T_sigma_K": 0.3,
+    "T_sigma_basis": "printed",
+    "x0": 0.71,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ H-CuTe + (Te)",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CUTE_BETA",
+     "HEXAGONAL_A8"
+    ]
+   },
+   {
+    "source_observation": "ORC-LK3I3DYKIP",
+    "side": "below",
     "T_invariant_K": 622.85,
     "offset_K": 10.0,
     "T_sigma_K": 0.3,

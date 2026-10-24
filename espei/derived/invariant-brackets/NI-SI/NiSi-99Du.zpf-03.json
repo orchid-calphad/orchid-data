@@ -5,20 +5,16 @@
   "VA"
  ],
  "phases": [
-  "DIAMOND_A4",
   "LIQUID",
   "NI2SI_THETA",
   "NI3SI2",
   "NI5SI2",
-  "NISI2_C1",
   "NISI_B31"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1446.15,
-   1276.15,
-   1256.15,
    1128.15,
    1108.15
   ]
@@ -60,73 +56,6 @@
     ],
     [
      0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6566666667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6766666667
-    ]
-   ]
-  ],
-  [
-   [
-    "NISI2_C1",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6566666667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.6766666667
     ]
    ]
   ],
@@ -206,7 +135,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SI/NiSi-99Du.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6YRE66LMVX ORC-ERCD4DLWW4 ORC-P3L64S3ESK",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SI/NiSi-99Du.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6YRE66LMVX ORC-ERCD4DLWW4",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/NI-SI/NiSi-99Du.zpf-03.json",
@@ -230,44 +159,6 @@
     ],
     "phases_below": [
      "NI3SI_H"
-    ]
-   },
-   {
-    "source_observation": "ORC-P3L64S3ESK",
-    "side": "above",
-    "T_invariant_K": 1266.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.6666666666666666,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + (Si) ↔ NiSi2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "DIAMOND_A4"
-    ],
-    "phases_below": [
-     "NISI2_C1"
-    ]
-   },
-   {
-    "source_observation": "ORC-P3L64S3ESK",
-    "side": "below",
-    "T_invariant_K": 1266.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.6666666666666666,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + (Si) ↔ NiSi2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "DIAMOND_A4"
-    ],
-    "phases_below": [
-     "NISI2_C1"
     ]
    },
    {

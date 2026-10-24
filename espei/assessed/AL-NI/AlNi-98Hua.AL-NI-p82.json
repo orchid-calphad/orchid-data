@@ -19,7 +19,6 @@
    1014.512103,
    1317.012103,
    825.012103,
-   693.512103,
    1008.512103,
    1811.012103,
    1253.012103,
@@ -135,17 +134,6 @@
     ],
     [
      0.6208863503
-    ]
-   ]
-  ],
-  [
-   [
-    "AL3NI5",
-    [
-     "NI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -293,7 +281,6 @@
    "aspa-5ed797a2c1aab97c",
    "aspa-8018224a50fc1a2b",
    "aspa-98e84c0a30961190",
-   "aspa-d60e422e6d692d68",
    "aspa-846ccd76c1d03c24",
    "aspa-b4f09202f2c13905",
    "aspa-ff38f8eafe351931",
@@ -310,10 +297,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 1,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/AL-NI-p82.json"
  }
 }

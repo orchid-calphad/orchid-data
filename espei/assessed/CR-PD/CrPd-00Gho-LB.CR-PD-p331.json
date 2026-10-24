@@ -16,9 +16,7 @@
   "T": [
    1563.173636,
    707.1736361,
-   694.1736361,
    691.6736361,
-   650.1736361,
    678.1736361,
    1188.673636,
    810.1736361,
@@ -71,17 +69,6 @@
   ],
   [
    [
-    "CRPD_L10",
-    [
-     "PD"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "CR2PD3_L12",
     [
      "PD"
@@ -106,17 +93,6 @@
     ],
     [
      0.544348414
-    ]
-   ]
-  ],
-  [
-   [
-    "CR2PD3_L12",
-    [
-     "PD"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -272,9 +248,7 @@
   "record_ids": [
    "aspa-23f5a318bae8dc41",
    "aspa-9946f601307b916d",
-   "aspa-1296b0367654af7b",
    "aspa-4d66c844fc440e55",
-   "aspa-641c8fe040dfdd53",
    "aspa-f3caba63e7cafc79",
    "aspa-dca517a39227d617",
    "aspa-ed36838ecafc600d",
@@ -291,11 +265,9 @@
    "high",
    "high",
    "high",
-   "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/CR-PD-p331.json"
  }
 }

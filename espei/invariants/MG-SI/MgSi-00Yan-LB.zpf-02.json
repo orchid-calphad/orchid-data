@@ -152,13 +152,11 @@
   "papers": [
    "doi:10.1361/105497100770339914",
    "doi:10.1016/j.calphad.2009.08.004",
-   "doi:10.1016/j.calphad.2012.02.001",
    "doi:10.1002/zaac.19412450404"
   ],
   "dois": [
    "10.1002/zaac.19412450404",
    "10.1016/j.calphad.2009.08.004",
-   "10.1016/j.calphad.2012.02.001",
    "10.1361/105497100770339914"
   ],
   "source_dataset": "db-v2.1/invariants/espei/MgSi-00Yan-LB/zpf-02.json",
@@ -186,5 +184,27 @@
   "line_compound_vertices_null": 3,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-VVXSGSL7ZT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-R3MS6HADTZ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-Z3JTIVS2DT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

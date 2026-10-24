@@ -21,8 +21,7 @@
    508.4578276,
    577.4578276,
    917.9578276,
-   848.9578276,
-   954.9578276
+   848.9578276
   ]
  },
  "output": "ZPF",
@@ -240,17 +239,6 @@
      0.656925136
     ]
    ]
-  ],
-  [
-   [
-    "BINA3_D018",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "J. Sangster and A.D. Pelton, J. Phase Equilibria, 12(4), 451-456 (1991) doi:10.1007/bf02645967; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 198",
@@ -271,8 +259,7 @@
    "aspa-141555b34da36cd8",
    "aspa-870a6dfaa2f2008d",
    "aspa-c6fef27c1e0aabb8",
-   "aspa-f22dcd2c419e45d1",
-   "aspa-56eb287f69a1f149"
+   "aspa-f22dcd2c419e45d1"
   ],
   "confidence": [
    "medium",
@@ -282,10 +269,9 @@
    "medium",
    "medium",
    "high",
-   "medium",
-   "high"
+   "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/BI-NA-p198.json"
  }
 }

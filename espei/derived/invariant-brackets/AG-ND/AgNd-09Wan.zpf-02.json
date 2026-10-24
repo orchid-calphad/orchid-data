@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AG2ND_ALPHA",
   "AG2ND_BETA",
   "AG51ND14",
   "AGND_B2",
@@ -24,8 +23,6 @@
    1073.15,
    1103.15,
    1083.15,
-   903.15,
-   883.15,
    1238.15,
    1218.15,
    1088.15,
@@ -295,64 +292,6 @@
   ],
   [
    [
-    "AG2ND_BETA",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
-    "AG2ND_ALPHA",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ND"
@@ -485,7 +424,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-ND/AgNd-09Wan.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-334KGXB4N3 ORC-6QTBPCZFZC ORC-BJQGJPORNC ORC-CKRSXWMDHI ORC-HJE5R4QMUY ORC-ODGD3SOGZF ORC-QV77F3ZW2F",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-ND/AgNd-09Wan.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-334KGXB4N3 ORC-6QTBPCZFZC ORC-BJQGJPORNC ORC-HJE5R4QMUY ORC-ODGD3SOGZF ORC-QV77F3ZW2F",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AG-ND/AgNd-09Wan.zpf-02.json",
@@ -640,42 +579,6 @@
     ],
     "phases_below": [
      "AG2ND_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-CKRSXWMDHI",
-    "side": "above",
-    "T_invariant_K": 893.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βAg2Nd ↔ αAg2Nd",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "AG2ND_BETA"
-    ],
-    "phases_below": [
-     "AG2ND_ALPHA"
-    ]
-   },
-   {
-    "source_observation": "ORC-CKRSXWMDHI",
-    "side": "below",
-    "T_invariant_K": 893.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βAg2Nd ↔ αAg2Nd",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "AG2ND_BETA"
-    ],
-    "phases_below": [
-     "AG2ND_ALPHA"
     ]
    },
    {

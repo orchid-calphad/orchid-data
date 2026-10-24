@@ -1,0 +1,121 @@
+{
+ "components": [
+  "AL",
+  "CA",
+  "VA"
+ ],
+ "phases": [
+  "AL2CA_C15"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 800.0
+ },
+ "output": "SM_FORM",
+ "values": [
+  [
+   [
+    -6.1
+   ]
+  ]
+ ],
+ "reference": "ISLAM 2005, doi:10.1179/cmq.2005.44.4.523",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVWHCHSGOM.38c47c",
+ "weight": 0.181818,
+ "bibtex": "islam2005_0b1b3d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-EVWHCHSGOM.38c47c",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1179/cmq.2005.44.4.523"
+   }
+  ],
+  "papers": [
+   "doi:10.1179/cmq.2005.44.4.523"
+  ],
+  "dois": [
+   "10.1179/cmq.2005.44.4.523"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCa-05Isl/smr-04.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_SM = 0.2 J/mol/K / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1.1,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.1,
+     "unit": "J/mol-atom/K",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.181818,
+    "weight_used": 0.181818
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.181818,
+  "weight_written": 0.181818,
+  "changes_weight": false,
+  "sigma_floor": 0.2,
+  "sigma_floor_unit": "J/mol/K",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "AL2CA_C15"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "AlCa-05Isl.tdb",
+   "path": "databases/sgte-binary/AlCa-05Isl.tdb",
+   "sha256": "595cde9e1659c565d74079d9104fdf1eaac723bfec572a9ee04c021587b6c00b",
+   "phase": "AL2CA_C15",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "CA"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-EVWHCHSGOM.38c47c",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

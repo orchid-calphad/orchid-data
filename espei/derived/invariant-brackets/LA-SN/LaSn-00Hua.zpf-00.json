@@ -11,6 +11,7 @@
   "LA3SN5",
   "LA5SN3_D8M",
   "LA5SN4",
+  "LASN3_L12",
   "LASN_B33",
   "LIQUID"
  ],
@@ -29,7 +30,8 @@
    1463.0,
    1466.0,
    1438.0,
-   1396.0
+   1396.0,
+   1376.0
   ]
  },
  "output": "ZPF",
@@ -464,6 +466,44 @@
      0.715
     ]
    ]
+  ],
+  [
+   [
+    "LA3SN5",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "LASN3_L12",
+    [
+     "SN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.695
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SN"
+    ],
+    [
+     0.715
+    ]
+   ]
   ]
  ],
  "reference": "Huang 2000, doi:10.1016/s0925-8388(00)01077-x",
@@ -712,6 +752,25 @@
    {
     "source_observation": "ORC-MPCMZ32YLK",
     "side": "above",
+    "T_invariant_K": 1386.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 3.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.705,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liq.->La3Sn5 +LaSn3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "LA3SN5",
+     "LASN3_L12"
+    ]
+   },
+   {
+    "source_observation": "ORC-MPCMZ32YLK",
+    "side": "below",
     "T_invariant_K": 1386.0,
     "offset_K": 10.0,
     "T_sigma_K": 3.0,

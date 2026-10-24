@@ -438,5 +438,131 @@
     "weight_used": 1.0
    }
   ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 22
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-2ONBIZ5QZD.9e6ce3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SRCS7D3CLK.abcf12",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3KZ7CXWTIN.0cfc73",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-QHUP23G423.74d7e8",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3YFBHRXVXT.2e7db3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-GYEUU662WB.41e3c6",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XWQGCKTD5H.2926fb",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IVZDCJNU66.fcf6cd",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-MDVKI5CEM2.834c02",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-A4IL4QZU5T.4124be",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-F4LLL3VMUO.1aa105",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WWLIGUWMYR.941944",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4JISTRC7KB.d22e70",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6KRFX3QKF7.2cf362",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XE3MV4GHUI.3ae41d",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3FEKBGTQDG.ba344f",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-P6BUQGUDCD.542181",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-PQ42CIC557.c0550e",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IBP6PUFL7L.8213ff",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WB3ZUG3WTP.f56ed1",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-NJ7MIM3AKA.07836a",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-FGPT7OEDVL.b86bab",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

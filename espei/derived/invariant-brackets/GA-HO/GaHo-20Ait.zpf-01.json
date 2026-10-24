@@ -13,8 +13,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1583.15,
-   1563.15,
    1168.15,
    1148.15,
    599.15,
@@ -23,64 +21,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "HO"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
-    "GA2HO_C32",
-    [
-     "HO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "HO"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
   [
    [
     "GA3HO",
@@ -224,49 +164,13 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GA-HO/GaHo-20Ait.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-MMDMJSX5GT ORC-SX3VFDK42Z ORC-VNWK3SLGRW",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GA-HO/GaHo-20Ait.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-MMDMJSX5GT ORC-SX3VFDK42Z",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GA-HO/GaHo-20Ait.zpf-01.json",
   "derivation": "invariant_bracket",
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
-   {
-    "source_observation": "ORC-VNWK3SLGRW",
-    "side": "above",
-    "T_invariant_K": 1573.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq <=> HoGa2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "GA2HO_C32"
-    ]
-   },
-   {
-    "source_observation": "ORC-VNWK3SLGRW",
-    "side": "below",
-    "T_invariant_K": 1573.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq <=> HoGa2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "GA2HO_C32"
-    ]
-   },
    {
     "source_observation": "ORC-MMDMJSX5GT",
     "side": "above",

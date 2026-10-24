@@ -8,6 +8,7 @@
   "AG2CA",
   "AG7CA2",
   "AG9CA2_C15B",
+  "AGCA3",
   "LIQUID"
  ],
  "conditions": {
@@ -18,7 +19,8 @@
    969.0,
    949.0,
    881.0,
-   861.0
+   861.0,
+   737.0
   ]
  },
  "output": "ZPF",
@@ -223,6 +225,35 @@
      0.343333
     ]
    ]
+  ],
+  [
+   [
+    "AGCA3",
+    [
+     "CA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.74
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "CA"
+    ],
+    [
+     0.76
+    ]
+   ]
   ]
  ],
  "reference": "Braga 2014, doi:10.1016/j.jallcom.2014.05.141",
@@ -233,7 +264,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-CA/AgCa-14Bra.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SKY4ZYCSO ORC-XFQENERPS2 ORC-YL5WJ5D5P4",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-CA/AgCa-14Bra.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SKY4ZYCSO ORC-J2O3LCREKB ORC-XFQENERPS2 ORC-YL5WJ5D5P4",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AG-CA/AgCa-14Bra.zpf-01.json",
@@ -352,6 +383,24 @@
     ],
     "phases_below": [
      "AG2CA"
+    ]
+   },
+   {
+    "source_observation": "ORC-J2O3LCREKB",
+    "side": "below",
+    "T_invariant_K": 747.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.75,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid <-> AgCa3",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "AGCA3"
     ]
    }
   ],

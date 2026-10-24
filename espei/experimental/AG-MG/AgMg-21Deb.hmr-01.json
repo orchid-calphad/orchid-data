@@ -433,5 +433,91 @@
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 14
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-LYUSMKZDEB.deec2c",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4W6T3ICZIG.9d1ab9",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-5BZY5GRORQ.219132",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-U2PCO2SDRR.31e67a",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6HHKAQX3T5.21bf41",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-TUCLD4GVW5.40025e",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-GB5GW42HLU.1b3248",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-YDXV67V7T2.2b0fc9",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-TN3WLU6ZLT.65a42b",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-CEU7U6V4GF.c3820b",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4DGGWXUTZP.5e6ffb",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OIYJ2ORV6Q.bac776",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RNGVKEETAU.1423dd",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-YC6IQIAXZC.6a1582",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

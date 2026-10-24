@@ -21,6 +21,7 @@
    1368.15,
    1348.15,
    1313.15,
+   1293.15,
    1193.15,
    1173.15,
    1183.15,
@@ -175,6 +176,35 @@
    ],
    [
     "CA14SI19",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "CASI2_C12",
     [
      "SI"
     ],
@@ -430,6 +460,25 @@
    {
     "source_observation": "ORC-PNL7QGM67R",
     "side": "above",
+    "T_invariant_K": 1303.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Ca14Si19 = CaSi2",
+    "reaction_type": "other",
+    "phases_above": [
+     "LIQUID",
+     "CA14SI19"
+    ],
+    "phases_below": [
+     "CASI2_C12"
+    ]
+   },
+   {
+    "source_observation": "ORC-PNL7QGM67R",
+    "side": "below",
     "T_invariant_K": 1303.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

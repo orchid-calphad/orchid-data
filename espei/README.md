@@ -4,20 +4,20 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 1668 | 4786 | 246 | experimental thermochemical tables and phase-composition (ZPF) tables |
-| model | 758 | 1667 | 126 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
-| invariants | 2018 | 7062 | 537 | ZPF datasets from experimental invariant-reaction tables |
-| dft/literature | 479 | 1092 | 49 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
-| dft/mp | 1290 | 1290 | 399 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
-| dft/oqmd | 1290 | 1290 | 399 | OQMD on-hull formation energies, HM_FORM endmember datasets |
+| experimental | 909 | 2905 | 180 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| model | 464 | 733 | 75 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
+| invariants | 1672 | 5576 | 486 | ZPF datasets from experimental invariant-reaction tables |
+| dft/literature | 442 | 1051 | 44 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
+| dft/mp | 1218 | 1218 | 373 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
+| dft/oqmd | 1218 | 1218 | 373 | OQMD on-hull formation energies, HM_FORM endmember datasets |
 
 Optional phase constraints (separate folders; never mixed with measured data; see "Phase constraints"):
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 708 | 8441 | 522 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
-| derived/invariant-brackets | 1305 | 6590 | 433 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
-| derived/liquid-stability | 457 | 4113 | 329 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
+| assessed | 654 | 7702 | 482 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
+| derived/invariant-brackets | 1145 | 5661 | 402 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/liquid-stability | 434 | 3906 | 312 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
 
@@ -50,6 +50,25 @@ apply_tags(ds, {'single_reader': {'weight': 0.5}, 'model': {'disabled': True}})
 
 Tags: evidence class (`experimental`, `model`, `dft_literature`, `dft_mp`, `dft_oqmd`), quality (`single_reader`, `single_reader_text_layer`, `no_printed_uncertainty`, `polymorph_ambiguous`, `above_hull`, `orchid_caveat`), plus the corpus tags (`thermochemical_table`, `invariant_table`, `via_assessment`, ...).
 
+To restrict a fit to evidence certified against a CALPHAD prediction (`calphad_certified`: every value of the dataset is `espei_certified` in the literature release, i.e. espei_ready and its pycalphad calculation from the linked TDB agrees within 25 K / 0.05; per-value detail in `orchid_certification`):
+
+```yaml
+system:
+  phase_models: my-phases.json
+  datasets: orchid-espei/experimental
+  tags:
+    orchid: {disabled: true}             # every ORCHID dataset (literature and DFT) off ...
+    calphad_certified: {disabled: false}  # ... except the certified ones (tags apply in this order)
+```
+
+(ESPEI applies `tags` before it removes disabled datasets, so the second tag re-enables.)
+
+## Phase assignment
+
+Physical phase rule (tools/phase_rule.py): a literature value is assigned to a phase only when the paper names that phase (printed phase label of the value; when no label is printed, a table caption that names the liquid) and the phase registry maps the label to a model phase; no default phase is assigned. A liquid assignment must be physically possible: not below the lowest liquid temperature of any calculated SGTE diagram of the system minus max(100 K, 10 %) (twice that for printed invariant and phase-composition records; no calculated diagram: not below 0.40 x the lowest element melting point). Formation enthalpies and entropies of a stoichiometric compound go to that compound's TDB endmember (ESPEI non-equilibrium dataset, `solver`); other properties of a compound are not used in ESPEI. A solution-phase assignment outside the phase's field in the calculated diagram of the target TDB is flagged (`outside_calculated_field`), not excluded. Temperatures: T <= 1 K is not a measured state; a printed phase equilibrium (invariant, phase composition, transition) below 0.25 x the lowest element melting point is a misreading. A value flagged `unsigned_in_print` / `magnitude_suspect` / `system_mismatch` / `source_disputed` is not ESPEI-ready.
+
+Every value's phase comes from its published literature record (printed label -> phase registry -> the target TDB's phase name), never from a default. Values with different phases in one source table are written as separate datasets (`<TDB>.<file>-<PHASES>.json`). Formation enthalpies / entropies of a phase that is stoichiometric in the target TDB are written as ESPEI non-equilibrium datasets (`solver`, the compound's endmember, output `HM_FORM` / `SM_FORM`, tag `compound_formation_endmember`) when the printed composition matches the formula and the printed reference state is the TDB's SER; other properties of compounds are not written. `orchid_phase_assignment` gives the phases, the basis (printed labels or caption) and, flag only, values outside the phase's field in the calculated diagram of the target TDB (`outside_calculated_field`). Also excluded (VALIDATION.md, `drop_reasons`): activities outside (0, 1], negative absolute entropies, increments printed as absolute values, per-gram heat capacities, formation / mixing values outside physical ranges, values flagged unsigned_in_print / magnitude_suspect / system_mismatch / source_disputed, reference phases that the TDB does not have, binary three-phase ZPF regions away from every calculated invariant, ZPF regions with a gas and no printed pressure, and ZPF regions that carry no composition and no hyperplane (zero driving force in ESPEI 0.9.1).
+
 ## Uncertainties
 
 ESPEI 0.9.1 has no per-value uncertainty field: the sigma it uses is a reference sigma divided by the dataset's `weight` (500 J/mol for HM, 0.2 J/K/mol for SM and CPM, 500 J/mol on the chemical potential for activities; ESPEI: "estimated from NIST TRC uncertainties", i.e. for experiments). Every value carries its sigma in physical units in `orchid_uncertainty.values[]` (`sigma`, `sigma_basis`, printed text and coverage or calibration provenance, `weight_used`). **Weights are derived from these sigmas; you can recompute your own weights from them.**
@@ -75,7 +94,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 - **Machine-extracted (Version 1).** Literature values were read by language-model readers and accepted on reader agreement plus deterministic checks; a hand-checked precision sample is in progress. Check a value against its paper (DOI) before relying on it.
 - **Single reader.** Values read by one visual reader carry `reader_agreement: single_reader` in `orchid.observations` and the tag `single_reader`. Reader agreement is taken from the literature release.
 - **Weights are your choice.** The weights written follow the rules above; tags and `orchid_uncertainty` let you set your own.
-- **DFT.** 0 K energies used as 298.15 K enthalpies; one DFT source per fit; a value is written only where the compound maps to exactly one TDB phase (phase registry: DFT entry id or paper label) and exactly one endmember of that TDB model at the compound's composition (one dataset per system, TDB file and phase; `solver` site ratios and configurations as in the TDB). Excluded compounds are listed in validation.json with reasons. ESPEI 0.9.1 evaluates HM_FORM against each element's SER phase named on the TDB's ELEMENT line, which must exist as a phase in the TDB; in some binary TDB files it does not (e.g. GRAPHITE, ORTHORHOMBIC_GA, 1/2_MOLE_O2(G)), and ESPEI then stops with a KeyError: add the element phase to your working TDB or fit those datasets with another.
+- **DFT.** 0 K energies used as 298.15 K enthalpies; one DFT source per fit; a value is written only where the compound maps to exactly one TDB phase (phase registry: DFT entry id or paper label) and exactly one endmember of that TDB model at the compound's composition (one dataset per system, TDB file and phase; `solver` site ratios and configurations as in the TDB). Excluded compounds are listed in validation.json with reasons. ESPEI 0.9.1 evaluates HM_FORM against each element's SER phase named on the TDB's ELEMENT line, which must exist as a phase in the TDB; in some binary TDB files it does not (e.g. GRAPHITE, ORTHORHOMBIC_GA, 1/2_MOLE_O2(G)), and ESPEI then stops with a KeyError. Such datasets are not written (likelihood evaluation gate, VALIDATION.md); to use those values, add the element phase to your working TDB and rebuild from the literature release.
 - **Energy basis.** ESPEI reads energies per mole of atoms. Literature values whose per-atom basis was not printed carry the caveat `energy_basis_unstated`.
 - **ZPF encoding.** Phase labels are mapped to the model phases of the assessment the source folder is named after (tag `via_assessment`); a printed compound composition that is its formula rounded is written at the exact formula value; a `__HYPERPLANE__` vertex is added only where every known composition comes from stoichiometry. Range temperatures are written at the midpoint (`orchid_value_bases`).
 - **Line compounds (E2).** A ZPF vertex of a phase that is stoichiometric in the target TDB is written with composition null: ESPEI 0.9.1 / pycalphad 0.11.2 return NaN for a line compound at a fixed composition (one NaN makes the ZPF likelihood -inf), and with null ESPEI evaluates the compound at its formula composition. Where that leaves a region with no known composition, a `__HYPERPLANE__` is added at the mean of the compound compositions. Known limitation of ESPEI 0.9.1: a single-phase vertex at a line-compound composition gives an undefined target hyperplane (zero driving force) once the compound is stable there, so a congruent melting point constrains the model in one direction only; the invariant brackets below constrain both.
@@ -85,7 +104,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Optional minimum-sigma policy (E6)
 
-Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 52 of 1377 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
+Printed uncertainties are kept as printed. Some are much smaller than the scatter between independent measurements of the same quantity (e.g. formation enthalpies printed with ±80 J/mol-atom while other measurements of the same compound differ by 1-2 kJ/mol-atom); with the weight derived from such a sigma a few values can dominate a fit. Every experimental thermochemical dataset carries `orchid_weight_floor` (`suggested_weight` = min(weight, 1), i.e. sigma_eff = max(sigma, ESPEI's experimental default)). The floor changes the weight of 39 of 772 datasets. It is a suggestion, not applied: `d['weight'] = d['orchid_weight_floor']['suggested_weight']` before `load_datasets` applies it.
 
 ## Phase constraints (optional)
 

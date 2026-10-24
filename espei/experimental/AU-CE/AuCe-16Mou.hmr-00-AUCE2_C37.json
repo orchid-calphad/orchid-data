@@ -1,0 +1,127 @@
+{
+ "components": [
+  "AU",
+  "CE",
+  "VA"
+ ],
+ "phases": [
+  "AUCE2_C37"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -55000.0
+   ]
+  ]
+ ],
+ "reference": "Moustaine 2016, doi:10.1016/j.jallcom.2016.05.116",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-YG5VZSJBNB",
+ "weight": 0.5,
+ "bibtex": "moustaine2016_b20dda",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-YG5VZSJBNB",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2016.05.116",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2016.05.116",
+   "doi:10.1016/s0925-8388(01)00969-0"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2016.05.116",
+   "10.1016/s0925-8388(01)00969-0"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AuCe-16Mou/hmr-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.5,
+    "weight_used": 0.5
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.5,
+  "weight_written": 0.5,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "AUCE2_C37"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "AuCe-16Mou.tdb",
+   "path": "databases/sgte-binary/AuCe-16Mou.tdb",
+   "sha256": "2e0b5c8707b4c9af4d79f2f8a23a54c3d860e9e16ddd9f45fdac4e56998d2aa7",
+   "phase": "AUCE2_C37",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AU",
+    "CE"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-YG5VZSJBNB",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

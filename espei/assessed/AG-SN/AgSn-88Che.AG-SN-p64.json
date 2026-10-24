@@ -18,7 +18,6 @@
    579.1734742,
    641.1734742,
    476.1734742,
-   478.1734742,
    389.6734742,
    604.6734742,
    993.6734742,
@@ -106,17 +105,6 @@
     ],
     [
      0.2124467792
-    ]
-   ]
-  ],
-  [
-   [
-    "AG3SN_D0A",
-    [
-     "SN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -292,7 +280,6 @@
    "aspa-bdaf086de234c742",
    "aspa-d3a5abbafb69c645",
    "aspa-1303cc516e304fcd",
-   "aspa-8f50629f4c621a31",
    "aspa-495fb3ff632aa96c",
    "aspa-adbebf90134ac13f",
    "aspa-cab3d5774ed44374",
@@ -305,7 +292,6 @@
    "medium",
    "high",
    "medium",
-   "medium",
    "high",
    "high",
    "high",
@@ -313,7 +299,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-SN-p64.json"
  }
 }

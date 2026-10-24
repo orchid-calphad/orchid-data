@@ -1,0 +1,119 @@
+{
+ "components": [
+  "NI",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "NI5SI2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -45100.0
+   ]
+  ]
+ ],
+ "reference": "Tokunaga 2003, doi:10.1016/s0364-5916(03)00049-x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ATSWCPLHI3.21019e",
+ "bibtex": "tokunaga2003_832b45",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ATSWCPLHI3.21019e",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0364-5916(03)00049-x"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0364-5916(03)00049-x",
+   "doi:10.1016/s0925-8388(97)00528-8"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(03)00049-x",
+   "10.1016/s0925-8388(97)00528-8"
+  ],
+  "source_dataset": "db-v2.1/general/espei/NiSi-03Tok/hmr-02.json",
+  "values_dropped": 1
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.0,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "NI5SI2"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "NiSi-03Tok.tdb",
+   "path": "databases/sgte-binary/NiSi-03Tok.tdb",
+   "sha256": "ee5e3bdd5a592a96a3bea647db8007d37877bc343d1cba350167281726a1d333",
+   "phase": "NI5SI2",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   5.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NI",
+    "SI"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-ATSWCPLHI3.21019e",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

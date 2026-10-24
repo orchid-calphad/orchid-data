@@ -26,8 +26,6 @@
    1412.15,
    1208.15,
    1188.15,
-   1359.15,
-   1327.15,
    2343.15,
    2323.15
   ]
@@ -371,64 +369,6 @@
   ],
   [
    [
-    "BETA_SC3SI5",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.59
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.61
-    ]
-   ]
-  ],
-  [
-   [
-    "ALPHA_SC3SI5_C32",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.59
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.61
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SI"
@@ -494,7 +434,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SC-SI/ScSi-15Qin.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-AXBNWQ4KUA ORC-BF4OWCWJ5X ORC-I5I6DC2SDZ ORC-KQBB62IPBY ORC-R7L6SCZX4M ORC-WYKTNDZZAU ORC-YMSQ23JBYN",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SC-SI/ScSi-15Qin.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-AXBNWQ4KUA ORC-BF4OWCWJ5X ORC-I5I6DC2SDZ ORC-R7L6SCZX4M ORC-WYKTNDZZAU ORC-YMSQ23JBYN",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/SC-SI/ScSi-15Qin.zpf-00.json",
@@ -689,42 +629,6 @@
     "phases_below": [
      "SCSI_B33",
      "DIAMOND_A4"
-    ]
-   },
-   {
-    "source_observation": "ORC-KQBB62IPBY",
-    "side": "above",
-    "T_invariant_K": 1343.15,
-    "offset_K": 16.0,
-    "T_sigma_K": 8.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.6,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βSc3Si5 -> αSc3Si5",
-    "reaction_type": null,
-    "phases_above": [
-     "BETA_SC3SI5"
-    ],
-    "phases_below": [
-     "ALPHA_SC3SI5_C32"
-    ]
-   },
-   {
-    "source_observation": "ORC-KQBB62IPBY",
-    "side": "below",
-    "T_invariant_K": 1343.15,
-    "offset_K": 16.0,
-    "T_sigma_K": 8.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.6,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βSc3Si5 -> αSc3Si5",
-    "reaction_type": null,
-    "phases_above": [
-     "BETA_SC3SI5"
-    ],
-    "phases_below": [
-     "ALPHA_SC3SI5_C32"
     ]
    },
    {

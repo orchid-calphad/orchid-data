@@ -18,8 +18,6 @@
    1383.0,
    2413.0,
    2393.0,
-   2123.0,
-   2103.0,
    1063.0,
    1043.0
   ]
@@ -153,64 +151,6 @@
   ],
   [
    [
-    "GDSB_BETA",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "GDSB_B1",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SB"
@@ -285,7 +225,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-SB/GdSb-07Li.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-SUY3GDVDUI ORC-TNRTGPESEY ORC-WMRQ2UZJCK ORC-X4TSSZ4CCW",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-SB/GdSb-07Li.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-SUY3GDVDUI ORC-TNRTGPESEY ORC-WMRQ2UZJCK",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GD-SB/GdSb-07Li.zpf-00.json",
@@ -364,42 +304,6 @@
     ],
     "phases_below": [
      "GDSB_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-X4TSSZ4CCW",
-    "side": "above",
-    "T_invariant_K": 2113.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "BGdSb -> αGdSb",
-    "reaction_type": null,
-    "phases_above": [
-     "GDSB_BETA"
-    ],
-    "phases_below": [
-     "GDSB_B1"
-    ]
-   },
-   {
-    "source_observation": "ORC-X4TSSZ4CCW",
-    "side": "below",
-    "T_invariant_K": 2113.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "BGdSb -> αGdSb",
-    "reaction_type": null,
-    "phases_above": [
-     "GDSB_BETA"
-    ],
-    "phases_below": [
-     "GDSB_B1"
     ]
    },
    {

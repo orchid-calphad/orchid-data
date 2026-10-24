@@ -17,7 +17,8 @@
    1168.15,
    1148.15,
    1257.15,
-   1237.15
+   1237.15,
+   1191.15
   ]
  },
  "output": "ZPF",
@@ -155,6 +156,44 @@
      0.6766666667
     ]
    ]
+  ],
+  [
+   [
+    "FEZR2_C16",
+    [
+     "ZR"
+    ],
+    [
+     0.6666666666666666
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.77
+    ]
+   ]
   ]
  ],
  "reference": "Malakhova 1981, doi:10.1016/0022-5088(81)90035-7",
@@ -165,7 +204,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-ZR/FeZr-01Jia.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-F3YASUTMXM ORC-IIJ7WETS47",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-ZR/FeZr-01Jia.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5XFUY5JEYT ORC-F3YASUTMXM ORC-IIJ7WETS47",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-ZR/FeZr-01Jia.zpf-03.json",
@@ -246,6 +285,25 @@
     ],
     "phases_below": [
      "FEZR2_C16"
+    ]
+   },
+   {
+    "source_observation": "ORC-5XFUY5JEYT",
+    "side": "below",
+    "T_invariant_K": 1201.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.76,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> FeZr2 + βZr",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FEZR2_C16",
+     "BCC_A2"
     ]
    }
   ],

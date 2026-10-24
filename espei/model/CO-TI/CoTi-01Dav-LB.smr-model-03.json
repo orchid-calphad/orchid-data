@@ -5,8 +5,7 @@
   "VA"
  ],
  "phases": [
-  "C36_LAVES",
-  "LIQUID"
+  "C36_LAVES"
  ],
  "conditions": {
   "P": 101325,
@@ -103,6 +102,35 @@
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "C36_LAVES"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "outside_calculated_field": [
+   {
+    "id": "ORC-4P6ZI6VCXK.35a900",
+    "phase": "C36_LAVES",
+    "x": 0.31,
+    "T_K": 298.0
+   }
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-4P6ZI6VCXK.35a900",
+    "espei_certified": false,
+    "calphad_check": "not_available"
    }
   ]
  }

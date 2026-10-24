@@ -5,52 +5,19 @@
   "VA"
  ],
  "phases": [
-  "BCC_A2",
   "BINA3_D018",
   "BINA_L10",
-  "LIQUID",
-  "RHOMBOHEDRAL_A7"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   489,
    717,
-   1121,
-   370.7
+   1121
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RHOMBOHEDRAL_A7",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BINA_L10",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -99,35 +66,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BINA3_D018",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "NA"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Johnson 1970, doi:10.1016/0022-5088(70)90008-1",
@@ -137,17 +75,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-CFP2OWKT55 ORC-RANBVQKT5J ORC-5RI3HOD5YM ORC-6ZY7QZMGSD",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RANBVQKT5J ORC-5RI3HOD5YM",
  "bibtex": "johnson1970_37ca68",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-CFP2OWKT55",
-    "paper": "doi:10.1016/j.tca.2013.01.029",
-    "measured_in": "doi:10.1016/0022-5088(70)90008-1"
-   },
    {
     "id": "ORC-RANBVQKT5J",
     "paper": "doi:10.1016/j.tca.2013.01.029",
@@ -165,11 +98,6 @@
       "dataset": "invariants/BI-NA/BiNa-13Liu.zpf-04.json"
      }
     ]
-   },
-   {
-    "id": "ORC-6ZY7QZMGSD",
-    "paper": "doi:10.1016/j.tca.2013.01.029",
-    "measured_in": "doi:10.1016/0022-5088(70)90008-1"
    }
   ],
   "papers": [
@@ -182,6 +110,7 @@
    "10.1016/j.tca.2013.01.029"
   ],
   "source_dataset": "db-v2.1/invariants/espei/BiNa-13Liu/zpf-02.json",
+  "values_dropped": 2,
   "e3_merged": 1
  },
  "orchid_uncertainty": {
@@ -194,21 +123,30 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 5,
+  "line_compound_vertices_null": 3,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-RANBVQKT5J",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-5RI3HOD5YM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

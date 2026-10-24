@@ -21,7 +21,6 @@
   "P": 101325.0,
   "T": [
    1246.270892,
-   1308.770892,
    1143.770892,
    1256.770892,
    1239.770892,
@@ -70,17 +69,6 @@
     ],
     [
      0.05001743252
-    ]
-   ]
-  ],
-  [
-   [
-    "CO17HO2",
-    [
-     "HO"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -601,7 +589,6 @@
   "target_tdb": "CoHo-09Jin.tdb",
   "record_ids": [
    "aspa-01ff4a85e30f11ae",
-   "aspa-fad7055af34961e2",
    "aspa-ab7e65ba850e9287",
    "aspa-12d45924930bf8a0",
    "aspa-a017018892b7def8",
@@ -624,7 +611,6 @@
   "confidence": [
    "high",
    "high",
-   "high",
    "medium",
    "medium",
    "medium",
@@ -643,7 +629,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CO-HO-p305.json"
  }
 }

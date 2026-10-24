@@ -1,0 +1,109 @@
+{
+ "components": [
+  "VA",
+  "Y",
+  "ZN"
+ ],
+ "phases": [
+  "YZN3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1173.15,
+  "X_ZN": [
+   0.75
+  ]
+ },
+ "output": "GMR",
+ "values": [
+  [
+   [
+    -27000.0
+   ]
+  ]
+ ],
+ "reference": "Liu 2008, doi:10.1016/j.jallcom.2006.11.029",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UMASVPDMZM",
+ "reference_states": {
+  "Y": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "ZN": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "weight": 0.001,
+ "bibtex": "liu2008_46e2dc",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-UMASVPDMZM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2006.11.029"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.11.029"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.11.029"
+  ],
+  "source_dataset": "db-v2.1/general/espei/YZn-08Liu/gmr-03.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 1.0,
+   "name": "ESPEI fallback sigma = 1 (no default for GM)"
+  },
+  "weight_rule": "dataset weight = ESPEI fallback sigma = 1 (no default for GM) / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 1000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.001,
+    "weight_used": 0.001
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "YZN3"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-UMASVPDMZM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

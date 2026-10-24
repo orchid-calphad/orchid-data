@@ -5,7 +5,6 @@
   "ZN"
  ],
  "phases": [
-  "BCC_A2",
   "CRZN13",
   "CRZN17",
   "LIQUID"
@@ -14,9 +13,7 @@
   "P": 101325,
   "T": [
    747.0,
-   727.0,
-   763.15,
-   743.15
+   727.0
   ]
  },
  "output": "ZPF",
@@ -87,73 +84,6 @@
      0.9523809524
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.9185714286
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.9385714286
-    ]
-   ]
-  ],
-  [
-   [
-    "CRZN13",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.9185714286
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.9385714286
-    ]
-   ]
   ]
  ],
  "reference": "Reumont 2003, doi:10.1007/s11669-003-0006-4",
@@ -164,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CR-ZN/CrZn-03Reu-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B6FLASPY5Z ORC-STTUF6BGKJ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CR-ZN/CrZn-03Reu-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B6FLASPY5Z",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CR-ZN/CrZn-03Reu-LB.zpf-00.json",
@@ -208,55 +138,13 @@
     "phases_below": [
      "CRZN17"
     ]
-   },
-   {
-    "source_observation": "ORC-STTUF6BGKJ",
-    "side": "above",
-    "T_invariant_K": 753.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.9285714285714286,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + bcc_A2 -> CrZn13",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "CRZN13"
-    ]
-   },
-   {
-    "source_observation": "ORC-STTUF6BGKJ",
-    "side": "below",
-    "T_invariant_K": 753.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.9285714285714286,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + bcc_A2 -> CrZn13",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "CRZN13"
-    ]
    }
   ],
   "dois": [
-   "10.1007/s11669-003-0006-4",
-   "10.1016/j.jallcom.2010.02.087",
-   "10.1515/ijmr-1948-390202"
+   "10.1007/s11669-003-0006-4"
   ],
   "papers": [
-   "doi:10.1007/s11669-003-0006-4",
-   "doi:10.1515/ijmr-1948-390202",
-   "doi:10.1016/j.jallcom.2010.02.087"
+   "doi:10.1007/s11669-003-0006-4"
   ]
  }
 }

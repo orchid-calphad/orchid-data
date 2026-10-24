@@ -19,7 +19,6 @@
   "T": [
    544.2326873,
    544.2326873,
-   744.2326873,
    704.2326873,
    673.2326873,
    436.7326873,
@@ -95,17 +94,6 @@
     ],
     [
      0.1912548558
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51LA14",
-    [
-     "LA"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -569,7 +557,6 @@
   "record_ids": [
    "aspa-bd0ffa38171685f4",
    "aspa-f3b6c6246c6a6851",
-   "aspa-dfeae6211b0c2efc",
    "aspa-03edae4ffb9561df",
    "aspa-2a6ae1ad5947c074",
    "aspa-29a867161f2b553f",
@@ -592,7 +579,6 @@
    "high",
    "medium",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -608,7 +594,7 @@
    "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-LA-p55.json"
  }
 }

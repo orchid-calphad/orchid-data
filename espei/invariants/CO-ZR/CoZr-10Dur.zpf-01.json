@@ -6,20 +6,16 @@
  ],
  "phases": [
   "B2_BCC",
-  "C15_LAVES",
   "CO11ZR2",
   "CO23ZR6_D8A",
   "COZR2_C16",
-  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1363.0,
-   1513.0,
    1543.0,
-   1623.0,
    1313.0
   ]
  },
@@ -42,35 +38,6 @@
     ],
     [
      0.666667
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO11ZR2",
-    [
-     "ZR"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -123,35 +90,6 @@
     ]
    ],
    [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CO23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
     "B2_BCC",
     [
      "ZR"
@@ -178,7 +116,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AYMXC73A7U ORC-5OXQYSB32P ORC-EHLWXBPBE5 ORC-AHIC454V5B ORC-2CLYOTB3EG",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AYMXC73A7U ORC-EHLWXBPBE5 ORC-2CLYOTB3EG",
  "bibtex": "durga2010_54c702",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -200,10 +138,6 @@
       "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-02.json"
      }
     ]
-   },
-   {
-    "id": "ORC-5OXQYSB32P",
-    "paper": "doi:10.1016/j.calphad.2010.02.006"
    },
    {
     "id": "ORC-EHLWXBPBE5",
@@ -234,18 +168,6 @@
     ]
    },
    {
-    "id": "ORC-AHIC454V5B",
-    "paper": "doi:10.1016/j.calphad.2010.02.006",
-    "also_reported_as": [
-     {
-      "id": "ORC-KZV3B4XJF3",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:3f08bd7729c2514e",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-02.json"
-     }
-    ]
-   },
-   {
     "id": "ORC-2CLYOTB3EG",
     "paper": "doi:10.1016/j.calphad.2010.02.006"
    }
@@ -255,8 +177,7 @@
    "doi:10.1007/s11669-020-00805-5",
    "ref:3f08bd7729c2514e",
    "doi:10.1007/s11669-020-00859-5",
-   "ref:2fa38316f4bb5325",
-   "ref:7c601a5ebcdd3aec"
+   "ref:2fa38316f4bb5325"
   ],
   "dois": [
    "10.1007/s11669-020-00805-5",
@@ -264,19 +185,12 @@
    "10.1016/j.calphad.2010.02.006"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoZr-10Dur/zpf-01.json",
-  "e3_merged": 7
+  "values_dropped": 2,
+  "e3_merged": 6
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -293,8 +207,30 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 4,
+  "line_compound_vertices_null": 2,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-AYMXC73A7U",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-EHLWXBPBE5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2CLYOTB3EG",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

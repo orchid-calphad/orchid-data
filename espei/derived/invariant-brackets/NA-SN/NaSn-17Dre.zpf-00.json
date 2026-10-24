@@ -7,9 +7,7 @@
  "phases": [
   "LIQUID",
   "NA15SN4_D86",
-  "NA9SN4",
-  "NASN_HT",
-  "NASN_LT"
+  "NA9SN4"
  ],
  "conditions": {
   "P": 101325,
@@ -17,9 +15,7 @@
    688.0,
    668.0,
    760.0,
-   740.0,
-   766.0,
-   746.0
+   740.0
   ]
  },
  "output": "ZPF",
@@ -148,64 +144,6 @@
      0.343
     ]
    ]
-  ],
-  [
-   [
-    "NASN_HT",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "NASN_LT",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.51
-    ]
-   ]
   ]
  ],
  "reference": "Dreval 2017, doi:10.1016/j.jallcom.2016.11.003",
@@ -216,7 +154,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NA-SN/NaSn-17Dre.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BHC4MDGUCQ ORC-QZ25BXX5RF ORC-YYLKXAWZKW",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NA-SN/NaSn-17Dre.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BHC4MDGUCQ ORC-QZ25BXX5RF",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/NA-SN/NaSn-17Dre.zpf-00.json",
@@ -296,55 +234,17 @@
     "phases_below": [
      "NA9SN4"
     ]
-   },
-   {
-    "source_observation": "ORC-YYLKXAWZKW",
-    "side": "above",
-    "T_invariant_K": 756.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "(αNaSn) -> (βNaSn)",
-    "reaction_type": null,
-    "phases_above": [
-     "NASN_HT"
-    ],
-    "phases_below": [
-     "NASN_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-YYLKXAWZKW",
-    "side": "below",
-    "T_invariant_K": 756.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "(αNaSn) -> (βNaSn)",
-    "reaction_type": null,
-    "phases_above": [
-     "NASN_HT"
-    ],
-    "phases_below": [
-     "NASN_LT"
-    ]
    }
   ],
   "dois": [
    "10.1002/cber.191104403192",
    "10.1002/zaac.19050460107",
-   "10.1016/j.jallcom.2016.11.003",
-   "10.1039/jr9280000947"
+   "10.1016/j.jallcom.2016.11.003"
   ],
   "papers": [
    "doi:10.1016/j.jallcom.2016.11.003",
    "doi:10.1002/cber.191104403192",
-   "doi:10.1002/zaac.19050460107",
-   "doi:10.1039/jr9280000947"
+   "doi:10.1002/zaac.19050460107"
   ]
  }
 }

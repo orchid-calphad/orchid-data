@@ -8,7 +8,6 @@
   "BI2RB3",
   "BI2RB_C15",
   "BI4RB5",
-  "BIRB3_D018",
   "BIRB3_D03",
   "LIQUID"
  ],
@@ -20,8 +19,7 @@
    893.0,
    873.0,
    925.0,
-   905.0,
-   493.0
+   905.0
   ]
  },
  "output": "ZPF",
@@ -208,35 +206,6 @@
      0.76
     ]
    ]
-  ],
-  [
-   [
-    "BIRB3_D018",
-    [
-     "RB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RB"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RB"
-    ],
-    [
-     0.76
-    ]
-   ]
   ]
  ],
  "reference": "Liu 2013, doi:10.1016/j.tca.2012.10.012",
@@ -247,7 +216,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-RB/BiRb-13Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5TKQTQWYKV ORC-H4MF7LICSF ORC-N6E4BZ4DN2 ORC-VRQFA2O22K",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-RB/BiRb-13Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5TKQTQWYKV ORC-H4MF7LICSF ORC-N6E4BZ4DN2",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/BI-RB/BiRb-13Liu.zpf-00.json",
@@ -362,24 +331,6 @@
     ],
     "phases_below": [
      "BIRB3_D03"
-    ]
-   },
-   {
-    "source_observation": "ORC-VRQFA2O22K",
-    "side": "below",
-    "T_invariant_K": 503.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β-BiRb3 -> α-BiRb3",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "BIRB3_D03"
-    ],
-    "phases_below": [
-     "BIRB3_D018"
     ]
    }
   ],

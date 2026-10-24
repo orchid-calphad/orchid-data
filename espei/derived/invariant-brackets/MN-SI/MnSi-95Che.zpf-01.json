@@ -7,13 +7,15 @@
  "phases": [
   "LIQUID",
   "M5SI3_D88",
+  "MN11SI19",
   "MSI_B20"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1524.15,
-   1504.15
+   1504.15,
+   1406.15
   ]
  },
  "output": "ZPF",
@@ -84,6 +86,35 @@
      0.464
     ]
    ]
+  ],
+  [
+   [
+    "MN11SI19",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.623333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.643333
+    ]
+   ]
   ]
  ],
  "reference": "Chevalier 1995, doi:10.1016/0364-5916(95)00007-2",
@@ -94,7 +125,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MN-SI/MnSi-95Che.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-CRGLOFWHVG",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MN-SI/MnSi-95Che.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-CLOISFAMZ6 ORC-CRGLOFWHVG",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/MN-SI/MnSi-95Che.zpf-01.json",
@@ -137,6 +168,25 @@
     "phases_below": [
      "M5SI3_D88",
      "MSI_B20"
+    ]
+   },
+   {
+    "source_observation": "ORC-CLOISFAMZ6",
+    "side": "below",
+    "T_invariant_K": 1416.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.633333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Mn1Si1 <=> Mn11Si19",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "MSI_B20"
+    ],
+    "phases_below": [
+     "MN11SI19"
     ]
    }
   ],

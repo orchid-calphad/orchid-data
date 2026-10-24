@@ -131,5 +131,31 @@
   "written_before_audit": [
    "FCC_A1"
   ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-H2OOKTUZCC.ab499c",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IEVSXBE66O.bb9826",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

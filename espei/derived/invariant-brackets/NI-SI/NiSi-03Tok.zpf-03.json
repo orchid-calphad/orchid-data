@@ -18,8 +18,6 @@
   "T": [
    1426.15,
    1406.15,
-   1398.15,
-   1378.15,
    1298.15,
    1273.15,
    1253.15,
@@ -97,64 +95,6 @@
     ],
     [
      0.224
-    ]
-   ]
-  ],
-  [
-   [
-    "NI3SI_M",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "NI3SI_H",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SI"
-    ],
-    [
-     0.26
     ]
    ]
   ],
@@ -455,7 +395,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SI/NiSi-03Tok.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3GUBZ2SQKP ORC-4DSAY2ZWO2 ORC-EDQOG34Y54 ORC-FEWCJ3IEMT ORC-G7KXJYHCY2 ORC-IXKYMI3X6D ORC-JGBCX2VJ2N",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-SI/NiSi-03Tok.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3GUBZ2SQKP ORC-4DSAY2ZWO2 ORC-EDQOG34Y54 ORC-FEWCJ3IEMT ORC-G7KXJYHCY2 ORC-IXKYMI3X6D",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/NI-SI/NiSi-03Tok.zpf-03.json",
@@ -497,42 +437,6 @@
     ],
     "phases_below": [
      "FCC_A1",
-     "NI3SI_H"
-    ]
-   },
-   {
-    "source_observation": "ORC-JGBCX2VJ2N",
-    "side": "above",
-    "T_invariant_K": 1388.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β2 -> β3",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "NI3SI_M"
-    ],
-    "phases_below": [
-     "NI3SI_H"
-    ]
-   },
-   {
-    "source_observation": "ORC-JGBCX2VJ2N",
-    "side": "below",
-    "T_invariant_K": 1388.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β2 -> β3",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "NI3SI_M"
-    ],
-    "phases_below": [
      "NI3SI_H"
     ]
    },
@@ -707,14 +611,12 @@
    }
   ],
   "dois": [
-   "10.1016/j.calphad.2005.08.001",
    "10.1016/s0364-5916(03)00049-x",
    "10.1515/ijmr-1983-740105"
   ],
   "papers": [
    "doi:10.1515/ijmr-1983-740105",
-   "doi:10.1016/s0364-5916(03)00049-x",
-   "doi:10.1016/j.calphad.2005.08.001"
+   "doi:10.1016/s0364-5916(03)00049-x"
   ]
  }
 }

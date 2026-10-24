@@ -12,24 +12,12 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   704.012103,
    754.012103,
    1336.512103
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "CU2TE_DELTA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "FCC_A1",
@@ -100,16 +88,14 @@
   "diagram": "CU-TE-p367",
   "target_tdb": "CuTe-22Yu.tdb",
   "record_ids": [
-   "aspa-986f3e075913ec78",
    "aspa-5d63ebc7831d0244",
    "aspa-be6a5e3f178626c7"
   ],
   "confidence": [
    "medium",
-   "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CU-TE-p367.json"
  }
 }

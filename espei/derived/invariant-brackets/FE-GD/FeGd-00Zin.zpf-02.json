@@ -21,6 +21,7 @@
    1215.0,
    1195.0,
    1628.0,
+   1588.0,
    1373.0,
    1333.0,
    1117.0,
@@ -180,6 +181,35 @@
     ],
     [
      0.009000000000000001
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.0952631579
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GD"
+    ],
+    [
+     0.1152631579
+    ]
+   ]
+  ],
+  [
+   [
+    "FE17GD2_HT",
+    [
+     "GD"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -430,6 +460,25 @@
    {
     "source_observation": "ORC-VZBFZFPXN7",
     "side": "above",
+    "T_invariant_K": 1608,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.10526315789473684,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + γFe <-> Fe17Gd2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "FCC_A1"
+    ],
+    "phases_below": [
+     "FE17GD2_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-VZBFZFPXN7",
+    "side": "below",
     "T_invariant_K": 1608,
     "offset_K": 20.0,
     "T_sigma_K": 10.0,

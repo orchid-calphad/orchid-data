@@ -17,7 +17,6 @@
   "T": [
    2637.484445,
    2644.984445,
-   2769.984445,
    2192.984445,
    2469.484445,
    2383.984445,
@@ -66,17 +65,6 @@
     ],
     [
      0.3971455558
-    ]
-   ]
-  ],
-  [
-   [
-    "TA3B4_D7B",
-    [
-     "TA"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -261,7 +249,6 @@
   "record_ids": [
    "aspa-69ea51f63e6adf2f",
    "aspa-1e5cf9ed2c7242ca",
-   "aspa-93e09f111a363265",
    "aspa-32426e235193a081",
    "aspa-92df8a38611b7eae",
    "aspa-cbb3fda1eb2aaed7",
@@ -273,7 +260,6 @@
   "confidence": [
    "high",
    "high",
-   "medium",
    "high",
    "medium",
    "high",
@@ -282,7 +268,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/B-TA-p154.json"
  }
 }

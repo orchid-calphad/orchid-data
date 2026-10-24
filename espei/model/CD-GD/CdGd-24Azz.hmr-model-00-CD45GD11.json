@@ -1,0 +1,134 @@
+{
+ "components": [
+  "CD",
+  "GD",
+  "VA"
+ ],
+ "phases": [
+  "CD45GD11"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0,
+  "X_GD": [
+   0.196429
+  ]
+ },
+ "output": "HMR",
+ "values": [
+  [
+   [
+    -30410.0
+   ]
+  ]
+ ],
+ "reference": "Azza 2024, doi:10.1007/s11669-024-01127-6",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FCGD7HVFTG",
+ "reference_states": {
+  "CD": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  },
+  "GD": {
+   "phase": "HCP_A3",
+   "fixed_state_variables": {
+    "T": 298.15
+   }
+  }
+ },
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CdGd-24Azz.tdb",
+   "path": "databases/sgte-binary/CdGd-24Azz.tdb",
+   "sha256": "4917656bbc153c995a56b1e3266d95eeda49b6d1c0d0b0b1887916bcb1231b8b",
+   "catalog_entry": {
+    "name": "CdGd-24Azz.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11669-024-01127-6",
+   "doi": "10.1007/s11669-024-01127-6",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Phase Equilib. Diffus., 45, 714-22(2024).",
+    "year": "2024"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "azza2024_7bea06",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-FCGD7HVFTG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11669-024-01127-6",
+    "measured_in": "doi:10.1007/s11669-024-01127-6",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11669-024-01127-6"
+  ],
+  "dois": [
+   "10.1007/s11669-024-01127-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CdGd-24Azz/hmr-model-00.json",
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "CD45GD11"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-FCGD7HVFTG",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

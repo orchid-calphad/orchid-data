@@ -17,7 +17,6 @@
   "P": 101325.0,
   "T": [
    720.4208745,
-   282.4208745,
    813.4208745,
    882.4208745,
    870.9208745,
@@ -64,17 +63,6 @@
     ],
     [
      0.1597018144
-    ]
-   ]
-  ],
-  [
-   [
-    "GD2TL_B82",
-    [
-     "TL"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -501,7 +489,6 @@
   "target_tdb": "GdTl-10Guo.tdb",
   "record_ids": [
    "aspa-80cc01086d37a19a",
-   "aspa-82a76dbc12acd89a",
    "aspa-3c4e5c777b7602e1",
    "aspa-7c9ee4c5cbf5fa3c",
    "aspa-a7dc71901e85f14f",
@@ -521,7 +508,6 @@
   ],
   "confidence": [
    "high",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -539,7 +525,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 5,
+  "points_left_out": 6,
   "source": "assessed-phase-assemblages/espei-zpf/GD-TL-p469.json"
  }
 }

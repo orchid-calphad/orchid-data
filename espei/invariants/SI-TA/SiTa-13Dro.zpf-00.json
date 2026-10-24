@@ -23,8 +23,7 @@
    2713,
    2613,
    2313,
-   2823,
-   2433.5
+   2823
   ]
  },
  "output": "ZPF",
@@ -213,26 +212,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "SI3TA5_D8L",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "SI3TA5_D8M",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "1990, T.D. Massalski, Si–Ta (Silicium-Tantalum), in: T.D. Massalski (Ed.), Binary Alloys Phase Diagrams, second ed., vol. 3, ASM International, Metals Park, Ohio, 1990, pp. 3364–3366.",
@@ -242,7 +221,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JLZ2YTIJ37 ORC-GTHAIGCD5K ORC-2AX7Z2U6G7 ORC-RCUXKKXDLQ ORC-AY5R7HRCFV ORC-RCBHQLDBYC ORC-XYQHG3SW7C ORC-YXLDCRH5JK",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JLZ2YTIJ37 ORC-GTHAIGCD5K ORC-2AX7Z2U6G7 ORC-RCUXKKXDLQ ORC-AY5R7HRCFV ORC-RCBHQLDBYC ORC-XYQHG3SW7C",
  "bibtex": "massalski1990_6cdc41",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -298,11 +277,6 @@
     "id": "ORC-XYQHG3SW7C",
     "paper": "doi:10.1016/j.jallcom.2012.09.148",
     "measured_in": "ref:d0239d5fb22f2ee0"
-   },
-   {
-    "id": "ORC-YXLDCRH5JK",
-    "paper": "doi:10.1016/j.jallcom.2012.09.148",
-    "measured_in": "ref:d0239d5fb22f2ee0"
    }
   ],
   "papers": [
@@ -316,6 +290,7 @@
    "10.1016/j.jallcom.2012.09.148"
   ],
   "source_dataset": "db-v2.1/invariants/espei/SiTa-13Dro/zpf-00.json",
+  "values_dropped": 1,
   "e3_merged": 2
  },
  "orchid_uncertainty": {
@@ -348,17 +323,55 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 12,
+  "line_compound_vertices_null": 10,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 4,
+  "values": [
+   {
+    "id": "ORC-JLZ2YTIJ37",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-GTHAIGCD5K",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-2AX7Z2U6G7",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RCUXKKXDLQ",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-AY5R7HRCFV",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-RCBHQLDBYC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XYQHG3SW7C",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

@@ -20,12 +20,8 @@
   "T": [
    928.0,
    908.0,
-   869.0,
-   849.0,
    809.0,
    789.0,
-   771.0,
-   751.0,
    745.0,
    725.0,
    728.0,
@@ -108,73 +104,6 @@
   ],
   [
    [
-    "BCC_A2",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2SB_C38",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SB"
@@ -237,73 +166,6 @@
     ],
     [
      0.64
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.14
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.16
-    ]
-   ]
-  ],
-  [
-   [
-    "CU17SB3_A3",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.14
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.16
     ]
    ]
   ],
@@ -622,7 +484,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SB/CuSb-09Gie.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BRP3FBNZCE ORC-CD74424HHN ORC-E7N26RHGD6 ORC-GH2ETFCMQS ORC-KF6Z73N2LO ORC-LDZPZXHV5H ORC-MLNYRBP3EI ORC-QZSZVB54Y6 ORC-TUOWAHA3M2",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-SB/CuSb-09Gie.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BRP3FBNZCE ORC-CD74424HHN ORC-E7N26RHGD6 ORC-GH2ETFCMQS ORC-LDZPZXHV5H ORC-MLNYRBP3EI ORC-QZSZVB54Y6",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-SB/CuSb-09Gie.zpf-00.json",
@@ -668,44 +530,6 @@
     ]
    },
    {
-    "source_observation": "ORC-TUOWAHA3M2",
-    "side": "above",
-    "T_invariant_K": 859,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β+L=η",
-    "reaction_type": null,
-    "phases_above": [
-     "BCC_A2",
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU2SB_C38"
-    ]
-   },
-   {
-    "source_observation": "ORC-TUOWAHA3M2",
-    "side": "below",
-    "T_invariant_K": 859,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β+L=η",
-    "reaction_type": null,
-    "phases_above": [
-     "BCC_A2",
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU2SB_C38"
-    ]
-   },
-   {
     "source_observation": "ORC-GH2ETFCMQS",
     "side": "above",
     "T_invariant_K": 799,
@@ -741,44 +565,6 @@
     "phases_below": [
      "CU2SB_C38",
      "RHOMBOHEDRAL_A7"
-    ]
-   },
-   {
-    "source_observation": "ORC-KF6Z73N2LO",
-    "side": "above",
-    "T_invariant_K": 761,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.15,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "FCC_A1+β=γ",
-    "reaction_type": null,
-    "phases_above": [
-     "FCC_A1",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "CU17SB3_A3"
-    ]
-   },
-   {
-    "source_observation": "ORC-KF6Z73N2LO",
-    "side": "below",
-    "T_invariant_K": 761,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.15,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "FCC_A1+β=γ",
-    "reaction_type": null,
-    "phases_above": [
-     "FCC_A1",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "CU17SB3_A3"
     ]
    },
    {

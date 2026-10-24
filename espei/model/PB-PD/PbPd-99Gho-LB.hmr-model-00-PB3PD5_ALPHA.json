@@ -1,0 +1,134 @@
+{
+ "components": [
+  "PB",
+  "PD",
+  "VA"
+ ],
+ "phases": [
+  "PB3PD5_ALPHA"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -39445.0
+   ]
+  ]
+ ],
+ "reference": "Ghosh 1999, doi:10.1361/105497199770335820",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DVZD6JTFN2",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "PbPd-99Gho-LB.tdb",
+   "path": "databases/sgte-binary/PbPd-99Gho-LB.tdb",
+   "sha256": "a6b12a66bf798e9fbbc9f8bc89fc96d764ac410419df12a0ecf3cebe978940d7",
+   "catalog_entry": {
+    "name": "PbPd-99Gho-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1361-105497199770335820",
+   "doi": "10.1361/105497199770335820",
+   "citation": {
+    "authors": "see doi",
+    "title": "G. Ghosh, J. Phase Equilib., 20, 309-15(1999).",
+    "year": "1999"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "ghosh1999_7d0dba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-DVZD6JTFN2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497199770335820",
+    "measured_in": "doi:10.1361/105497199770335820"
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770335820"
+  ],
+  "dois": [
+   "10.1361/105497199770335820"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/PbPd-99Gho-LB/hmr-model-00.json",
+  "values_dropped": 3
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "PB3PD5_ALPHA"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "PbPd-99Gho-LB.tdb",
+   "path": "databases/sgte-binary/PbPd-99Gho-LB.tdb",
+   "sha256": "a6b12a66bf798e9fbbc9f8bc89fc96d764ac410419df12a0ecf3cebe978940d7",
+   "phase": "PB3PD5_ALPHA",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   0.375,
+   0.625
+  ],
+  "sublattice_configurations": [
+   [
+    "PB",
+    "PD"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-DVZD6JTFN2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

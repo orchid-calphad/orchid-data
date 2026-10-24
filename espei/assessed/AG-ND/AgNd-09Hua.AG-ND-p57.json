@@ -18,7 +18,6 @@
   "P": 101325.0,
   "T": [
    925.6063762,
-   1011.606376,
    840.6063762,
    840.6063762,
    842.6063762,
@@ -67,17 +66,6 @@
     ],
     [
      0.1076142541
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51ND14",
-    [
-     "ND"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -562,7 +550,6 @@
   "target_tdb": "AgNd-09Hua.tdb",
   "record_ids": [
    "aspa-fed1f200d4149502",
-   "aspa-00662541a347ffa2",
    "aspa-eadeb3a74095fc96",
    "aspa-c4f8099cabb5e12d",
    "aspa-40a26318d4320cbe",
@@ -587,7 +574,6 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "high",
    "medium",
@@ -604,7 +590,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-ND-p57.json"
  }
 }

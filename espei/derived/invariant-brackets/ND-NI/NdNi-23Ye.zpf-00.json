@@ -14,6 +14,7 @@
   "T": [
    901.0,
    881.0,
+   881.0,
    1102.0,
    1082.0
   ]
@@ -28,6 +29,35 @@
     ],
     [
      0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "ND3NI_D011",
+    [
+     "NI"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -164,6 +194,24 @@
    {
     "source_observation": "ORC-TUT4DNI3A7",
     "side": "above",
+    "T_invariant_K": 891.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <-> Nd3Ni",
+    "reaction_type": "congruent melting",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ND3NI_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-TUT4DNI3A7",
+    "side": "below",
     "T_invariant_K": 891.0,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

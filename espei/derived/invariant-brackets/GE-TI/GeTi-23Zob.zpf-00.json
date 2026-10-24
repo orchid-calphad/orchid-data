@@ -6,6 +6,7 @@
  ],
  "phases": [
   "BCC_A2",
+  "DIAMOND_A4",
   "GE2TI_C54",
   "GE3TI5_D88",
   "GE5TI6",
@@ -21,6 +22,8 @@
    1588.0,
    1358.0,
    1338.0,
+   1183.0,
+   1163.0,
    1143.0,
    1123.0
   ]
@@ -230,6 +233,73 @@
   ],
   [
    [
+    "LIQUID",
+    [
+     "TI"
+    ],
+    [
+     0.107
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.097
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.117
+    ]
+   ]
+  ],
+  [
+   [
+    "DIAMOND_A4",
+    [
+     "TI"
+    ],
+    [
+     0.038
+    ]
+   ],
+   [
+    "GE2TI_C54",
+    [
+     "TI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.097
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TI"
+    ],
+    [
+     0.117
+    ]
+   ]
+  ],
+  [
+   [
     "GE3TI5_D88",
     [
      "TI"
@@ -304,7 +374,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-TI/GeTi-23Zob.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-56CI556MO3 ORC-6KCDWOSGLY ORC-GIE5NCSNJT ORC-LLIDQYIQV7",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-TI/GeTi-23Zob.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-56CI556MO3 ORC-6KCDWOSGLY ORC-GIE5NCSNJT ORC-LLIDQYIQV7 ORC-W72GSDW4ES",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GE-TI/GeTi-23Zob.zpf-00.json",
@@ -422,6 +492,44 @@
      "GE5TI6"
     ],
     "phases_below": [
+     "GE2TI_C54"
+    ]
+   },
+   {
+    "source_observation": "ORC-W72GSDW4ES",
+    "side": "above",
+    "T_invariant_K": 1173,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.107,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (Ge) + Ge2Ti",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "DIAMOND_A4",
+     "GE2TI_C54"
+    ]
+   },
+   {
+    "source_observation": "ORC-W72GSDW4ES",
+    "side": "below",
+    "T_invariant_K": 1173,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.107,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L ↔ (Ge) + Ge2Ti",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "DIAMOND_A4",
      "GE2TI_C54"
     ]
    },

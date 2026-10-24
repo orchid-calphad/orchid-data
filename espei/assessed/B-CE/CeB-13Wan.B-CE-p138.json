@@ -14,7 +14,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   1492.208685,
    1357.708685,
    702.7086854,
    1030.208685,
@@ -26,17 +25,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "CEB6_D21",
-    [
-     "CE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "CEB4_D1E",
@@ -234,7 +222,6 @@
   "diagram": "B-CE-p138",
   "target_tdb": "CeB-13Wan.tdb",
   "record_ids": [
-   "aspa-d9ef7193a197a628",
    "aspa-b24b3ea8a4453dac",
    "aspa-96157d73893507b1",
    "aspa-d37147d69688245a",
@@ -246,14 +233,13 @@
   "confidence": [
    "high",
    "high",
-   "high",
    "medium",
    "high",
    "high",
    "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/B-CE-p138.json"
  }
 }

@@ -11,14 +11,17 @@
   "CU51ZR14",
   "CU5ZR8",
   "CU8ZR3",
+  "CU9ZR2_C15B",
   "CUZR2_HT",
   "CUZR_B2",
+  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1281.0,
+   1261.0,
    1399.0,
    1379.0,
    1321.0,
@@ -42,6 +45,44 @@
     ],
     [
      0.106
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.096
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.116
+    ]
+   ]
+  ],
+  [
+   [
+    "FCC_A1",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU9ZR2_C15B",
+    [
+     "ZR"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -437,6 +478,25 @@
    {
     "source_observation": "ORC-JVFHSHSGKY",
     "side": "above",
+    "T_invariant_K": 1271.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.106,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> (Cu) + Cu9Zr2",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "FCC_A1",
+     "CU9ZR2_C15B"
+    ]
+   },
+   {
+    "source_observation": "ORC-JVFHSHSGKY",
+    "side": "below",
     "T_invariant_K": 1271.0,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

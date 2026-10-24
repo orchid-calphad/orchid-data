@@ -5,7 +5,7 @@
   "VA"
  ],
  "phases": [
-  "LIQUID"
+  "FE2TI_C14"
  ],
  "conditions": {
   "P": 101325,
@@ -115,6 +115,46 @@
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "FE2TI_C14"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "outside_calculated_field": [
+   {
+    "id": "ORC-T7BNVZPSWU",
+    "phase": "FE2TI_C14",
+    "x": 0.333333,
+    "T_K": 973.0
+   },
+   {
+    "id": "ORC-VYALI4MXIW",
+    "phase": "FE2TI_C14",
+    "x": 0.333333,
+    "T_K": 973.0
+   }
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-T7BNVZPSWU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-VYALI4MXIW",
+    "espei_certified": false,
+    "calphad_check": "not_available"
    }
   ]
  }

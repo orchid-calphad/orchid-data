@@ -8,8 +8,6 @@
   "CS2TE3",
   "CS2TE5",
   "CS2TE_HT",
-  "CSTE4",
-  "HEXAGONAL_A8",
   "LIQUID"
  ],
  "conditions": {
@@ -20,9 +18,7 @@
    678.0,
    658.0,
    518.0,
-   498.0,
-   546.0,
-   526.0
+   498.0
   ]
  },
  "output": "ZPF",
@@ -209,73 +205,6 @@
      0.724286
     ]
    ]
-  ],
-  [
-   [
-    "CSTE4",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.79
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.81
-    ]
-   ]
-  ],
-  [
-   [
-    "HEXAGONAL_A8",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.79
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.81
-    ]
-   ]
   ]
  ],
  "reference": "Thi 2015, doi:10.1016/j.calphad.2014.10.006",
@@ -286,7 +215,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CS-TE/CsTe-15Pha.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7DDVUB7P2Q ORC-7JFIUPPMGK ORC-GRYTTBC6AU ORC-PGVAQDZDD2",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CS-TE/CsTe-15Pha.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7DDVUB7P2Q ORC-7JFIUPPMGK ORC-GRYTTBC6AU",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CS-TE/CsTe-15Pha.zpf-01.json",
@@ -401,44 +330,6 @@
     "phases_below": [
      "LIQUID",
      "CS2TE3"
-    ]
-   },
-   {
-    "source_observation": "ORC-PGVAQDZDD2",
-    "side": "above",
-    "T_invariant_K": 536.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.8,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "CsTe4 -> Te + L",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "CSTE4"
-    ],
-    "phases_below": [
-     "HEXAGONAL_A8",
-     "LIQUID"
-    ]
-   },
-   {
-    "source_observation": "ORC-PGVAQDZDD2",
-    "side": "below",
-    "T_invariant_K": 536.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.8,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "CsTe4 -> Te + L",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "CSTE4"
-    ],
-    "phases_below": [
-     "HEXAGONAL_A8",
-     "LIQUID"
     ]
    }
   ],

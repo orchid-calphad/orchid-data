@@ -1,0 +1,124 @@
+{
+ "components": [
+  "AL",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "AL2ZR_C14"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -51300.0
+   ]
+  ]
+ ],
+ "reference": "2001, doi:10.1007/s12385-001-0072-4",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "no_printed_uncertainty",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-URPRRVRDVW",
+ "bibtex": "wang2001_50f0ac",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-URPRRVRDVW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s12385-001-0072-4"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s12385-001-0072-4"
+  ],
+  "dois": [
+   "10.1007/s12385-001-0072-4"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlZr-01Wan/hmr-03.json",
+  "also_reported_as": [
+   {
+    "dataset": "experimental/AL-ZR/AlZr-15Fis.hmr-04-AL2ZR_C14.json",
+    "ids": [
+     "ORC-I4SWEZOOEZ.94c27f"
+    ]
+   }
+  ]
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_printed": null,
+    "sigma_assumed": 500.0,
+    "sigma_basis": "espei_default_experimental (assumed, not printed)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 1.0,
+  "weight_written": 1.0,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "AL2ZR_C14"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "AlZr-01Wan.tdb",
+   "path": "databases/sgte-binary/AlZr-01Wan.tdb",
+   "sha256": "4b09f4b519f6d63968ee503b8e6207577e1d003895d9a321f3f727f6341ee565",
+   "phase": "AL2ZR_C14",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "ZR"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-URPRRVRDVW",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

@@ -20,8 +20,7 @@
    0.6,
    0.7,
    0.8,
-   0.9,
-   1.0
+   0.9
   ]
  },
  "output": "ACR_CO",
@@ -37,8 +36,7 @@
     0.746,
     0.703,
     0.61,
-    0.413,
-    0.0
+    0.413
    ]
   ]
  ],
@@ -50,7 +48,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TR6KLBVTSD.4dbe74 ORC-7Q6GTFL6KA.8134fe ORC-3RZGRHX4QP.853002 ORC-ROR6FAZ425.6961aa ORC-VBBQTFHUJL.5d4d1c ORC-PTBBESK7CF.eca613 ORC-3X4RSXHHJB.5ad3c2 ORC-66G22ACQWU.923eda ORC-S3GQ53FH2A.b85ce4 ORC-KO7WAXW372.b551bf ORC-XFCMBPD5UQ.f42952",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-TR6KLBVTSD.4dbe74 ORC-7Q6GTFL6KA.8134fe ORC-3RZGRHX4QP.853002 ORC-ROR6FAZ425.6961aa ORC-VBBQTFHUJL.5d4d1c ORC-PTBBESK7CF.eca613 ORC-3X4RSXHHJB.5ad3c2 ORC-66G22ACQWU.923eda ORC-S3GQ53FH2A.b85ce4 ORC-KO7WAXW372.b551bf",
  "reference_state": {
   "phases": [
    "LIQUID"
@@ -137,12 +135,6 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1361/105497100770340165",
     "measured_in": "doi:10.1361/105497100770340165"
-   },
-   {
-    "id": "ORC-XFCMBPD5UQ.f42952",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1361/105497100770340165",
-    "measured_in": "doi:10.1361/105497100770340165"
    }
   ],
   "papers": [
@@ -151,7 +143,8 @@
   "dois": [
    "10.1361/105497100770340165"
   ],
-  "source_dataset": "db-v2.1/general/espei/CoCu-00Kub-LB/acr_co-03.json"
+  "source_dataset": "db-v2.1/general/espei/CoCu-00Kub-LB/acr_co-03.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "1 (activity)",
@@ -161,13 +154,6 @@
   },
   "weight_rule": "no printed uncertainty: weight left at 1 (ESPEI default)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_printed": null,
-    "sigma_assumed": 500.0,
-    "sigma_basis": "espei_default_experimental (assumed, not printed)",
-    "weight_used": 1.0
-   },
    {
     "sigma": null,
     "sigma_printed": null,
@@ -258,5 +244,71 @@
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 10
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-TR6KLBVTSD.4dbe74",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7Q6GTFL6KA.8134fe",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3RZGRHX4QP.853002",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-ROR6FAZ425.6961aa",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-VBBQTFHUJL.5d4d1c",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-PTBBESK7CF.eca613",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3X4RSXHHJB.5ad3c2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-66G22ACQWU.923eda",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-S3GQ53FH2A.b85ce4",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-KO7WAXW372.b551bf",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

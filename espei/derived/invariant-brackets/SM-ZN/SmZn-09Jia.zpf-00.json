@@ -5,6 +5,7 @@
   "ZN"
  ],
  "phases": [
+  "BCC_A2",
   "LIQUID",
   "SM13ZN58",
   "SM2ZN17",
@@ -19,6 +20,7 @@
   "P": 101325,
   "T": [
    963.0,
+   943.0,
    1173.0,
    1153.0,
    1138.0,
@@ -42,6 +44,44 @@
     ],
     [
      0.239
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.229
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZN"
+    ],
+    [
+     0.249
+    ]
+   ]
+  ],
+  [
+   [
+    "SMZN_B2",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -455,6 +495,25 @@
    {
     "source_observation": "ORC-PBFAXWNAIZ",
     "side": "above",
+    "T_invariant_K": 953,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.239,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> SmZn + Bcc",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "SMZN_B2",
+     "BCC_A2"
+    ]
+   },
+   {
+    "source_observation": "ORC-PBFAXWNAIZ",
+    "side": "below",
     "T_invariant_K": 953,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

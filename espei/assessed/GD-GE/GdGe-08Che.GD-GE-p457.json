@@ -24,16 +24,13 @@
    1120.891784,
    1059.391784,
    688.391784,
-   688.391784,
    571.891784,
    976.391784,
    1293.891784,
-   1260.391784,
    1163.891784,
    1874.391784,
    1249.391784,
    1480.391784,
-   1538.391784,
    1640.891784,
    1586.891784,
    1752.891784,
@@ -161,17 +158,6 @@
   ],
   [
    [
-    "GD2GE3_C32",
-    [
-     "GE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "DIAMOND_A4",
     [
      "GE"
@@ -254,17 +240,6 @@
     ],
     [
      0.544348414
-    ]
-   ]
-  ],
-  [
-   [
-    "GD2GE3_BETA",
-    [
-     "GE"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -363,17 +338,6 @@
     ],
     [
      0.6760698406
-    ]
-   ]
-  ],
-  [
-   [
-    "GD2GE3_GAMMA",
-    [
-     "GE"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -538,16 +502,13 @@
    "aspa-355a7233ad780e1f",
    "aspa-f043942d5cd69a12",
    "aspa-2d14839539bed588",
-   "aspa-e30bc6930c3022eb",
    "aspa-d04730abaf328052",
    "aspa-d7e9d70f3dbd52dd",
    "aspa-fb0701af692edb97",
-   "aspa-c6bbe3d7d4c31224",
    "aspa-a111f2769dd15eac",
    "aspa-da836c467ff09e4d",
    "aspa-88224183f8db363c",
    "aspa-e553772b4213f8ae",
-   "aspa-6829280d6d470d46",
    "aspa-b0bd885e2c39f14c",
    "aspa-2e52574db445403f",
    "aspa-34549bbd5878e706",
@@ -562,20 +523,17 @@
    "high",
    "high",
    "high",
-   "high",
-   "high",
    "medium",
    "high",
    "medium",
    "high",
-   "medium",
    "medium",
    "high",
    "medium",
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/GD-GE-p457.json"
  }
 }

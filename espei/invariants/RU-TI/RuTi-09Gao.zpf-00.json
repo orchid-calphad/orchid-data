@@ -184,5 +184,32 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 2,
+  "values": [
+   {
+    "id": "ORC-CK2EU35OFV",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6BQ7UFO2YN",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-EHQJ2ODWE5",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-G4MAFNB76D",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

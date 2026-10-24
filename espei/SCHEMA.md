@@ -35,6 +35,8 @@ from `values` and the matching `conditions` entries.
 | `orchid_value_bases` | ZPF from ranges / central values: how a temperature was derived, keyed by ORCHID id |
 | `orchid_model_evidence` | model datasets: `tdb` (name, path, SHA-256, catalog entry), `link_basis`, `model_citation`, `model_reproduction` |
 | `orchid_uncertainty` | see below |
+| `orchid_phase_assignment` | literature property datasets: `phases`, `basis` (counts: `printed_labels`, `caption_names_liquid`), `rule`, `outside_calculated_field[]` {id, phase, x, T_K} (flag only), `endmember` {tdb, path, sha256, phase, reference} for compound formation datasets |
+| `orchid_certification` | literature datasets: `basis` (`pycalphad_invariant_agreement`), `all_values_certified`, `n_certified`, `values[]` {id, espei_certified, calphad_check}; tag `calphad_certified` when all values are certified |
 | `orchid_reference_state` | activities (E5): `element`, `phase` written, `basis` (`printed` / `not_printed_implied`), `quote`, `where`, `record_reference_state_agrees`, `written_before_audit` |
 | `orchid_weight_floor` | experimental thermochemical data (E6, optional): `suggested_weight` = min(weight, 1), `weight_written`, `changes_weight`, `sigma_floor` (+ unit), `rule` |
 | `orchid_zpf_encoding` | ZPF (E2): number of line-compound vertices written with composition null, hyperplanes added, rule |

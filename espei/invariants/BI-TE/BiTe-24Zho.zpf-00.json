@@ -207,7 +207,8 @@
   "experimental",
   "invariant_table",
   "via_assessment",
-  "orchid"
+  "orchid",
+  "calphad_certified"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LFBHE3QDDA ORC-IC2ORRGPPX ORC-7ZIC4T27SM ORC-CSB7XCCD7T ORC-33VBYNYU6Q ORC-J6MXXD66TY",
  "bibtex": "hasanova2021_c258c0",
@@ -290,5 +291,42 @@
   "line_compound_vertices_null": 11,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": true,
+  "n_certified": 6,
+  "values": [
+   {
+    "id": "ORC-LFBHE3QDDA",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-IC2ORRGPPX",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-7ZIC4T27SM",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-CSB7XCCD7T",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-33VBYNYU6Q",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-J6MXXD66TY",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

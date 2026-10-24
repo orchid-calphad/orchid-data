@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "BI2MG3_BETA",
   "BI2MG3_D52",
   "HCP_A3",
   "LIQUID"
@@ -13,10 +12,7 @@
  "conditions": {
   "P": 101325,
   "T": [
-   826.0,
-   961.0,
-   976.0,
-   1094.0
+   826.0
   ]
  },
  "output": "ZPF",
@@ -49,75 +45,6 @@
      0.6
     ]
    ]
-  ],
-  [
-   [
-    "BI2MG3_BETA",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BI2MG3_D52",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "BI2MG3_BETA",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BI2MG3_D52",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BI2MG3_BETA",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "2012, doi:10.11890/1006-7191-121-19",
@@ -127,7 +54,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWPW5MKGV2 ORC-HEF2U5KIAG ORC-K7OIA5V5DP ORC-33JFTBFP2P",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZWPW5MKGV2",
  "bibtex": "acta2012_074a69",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -135,18 +62,6 @@
   "observations": [
    {
     "id": "ORC-ZWPW5MKGV2",
-    "paper": "doi:10.11890/1006-7191-121-19"
-   },
-   {
-    "id": "ORC-HEF2U5KIAG",
-    "paper": "doi:10.11890/1006-7191-121-19"
-   },
-   {
-    "id": "ORC-K7OIA5V5DP",
-    "paper": "doi:10.11890/1006-7191-121-19"
-   },
-   {
-    "id": "ORC-33JFTBFP2P",
     "paper": "doi:10.11890/1006-7191-121-19"
    }
   ],
@@ -156,7 +71,8 @@
   "dois": [
    "10.11890/1006-7191-121-19"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/BiMg-12Niu/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/BiMg-12Niu/zpf-00.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -164,20 +80,20 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-ZWPW5MKGV2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

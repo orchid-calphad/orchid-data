@@ -5,113 +5,18 @@
   "VA"
  ],
  "phases": [
-  "CBCC_A12",
-  "CUB_A13",
-  "HCP_A3",
   "LIQUID",
   "MN23SM6_D8A",
-  "MN2SM_C14",
-  "RHOMB_C19"
+  "MN2SM_C14"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1000.15,
-   1007.15,
-   1068.15,
-   1203.15,
-   1298.15
+   1203.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "CUB_A13",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MN23SM6_D8A",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CBCC_A12",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "HCP_A3",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MN2SM_C14",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "RHOMB_C19",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MN2SM_C14",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -149,35 +54,6 @@
      0.2701149425
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUB_A13",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MN23SM6_D8A",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "1990, T.B. Massalski, H. Okamoto, P.R. Subramanian, L. Kacprzak, Binary Alloy Phase Diagrams, second ed., ASM International, 1990, pp. 2605–2606.",
@@ -185,36 +61,17 @@
   "experimental",
   "invariant_table",
   "via_assessment",
-  "orchid"
+  "orchid",
+  "calphad_certified"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-AO7C5QFU2R ORC-XRGTJSPHUZ ORC-ZD6HGAAXYZ ORC-PC4H33GTDW ORC-GSIG6XLJDX",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-PC4H33GTDW",
  "bibtex": "massalski1990_a3124a",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
    {
-    "id": "ORC-AO7C5QFU2R",
-    "paper": "doi:10.1016/j.jallcom.2009.03.121",
-    "measured_in": "ref:ad4e041dffff58e8"
-   },
-   {
-    "id": "ORC-XRGTJSPHUZ",
-    "paper": "doi:10.1016/j.jallcom.2009.03.121",
-    "measured_in": "ref:ad4e041dffff58e8"
-   },
-   {
-    "id": "ORC-ZD6HGAAXYZ",
-    "paper": "doi:10.1016/j.jallcom.2009.03.121",
-    "measured_in": "ref:ad4e041dffff58e8"
-   },
-   {
     "id": "ORC-PC4H33GTDW",
-    "paper": "doi:10.1016/j.jallcom.2009.03.121",
-    "measured_in": "ref:ad4e041dffff58e8"
-   },
-   {
-    "id": "ORC-GSIG6XLJDX",
     "paper": "doi:10.1016/j.jallcom.2009.03.121",
     "measured_in": "ref:ad4e041dffff58e8"
    }
@@ -226,27 +83,12 @@
   "dois": [
    "10.1016/j.jallcom.2009.03.121"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/MnSm-09Wan/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/MnSm-09Wan/zpf-00.json",
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -255,8 +97,20 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 6,
+  "line_compound_vertices_null": 2,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": true,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-PC4H33GTDW",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

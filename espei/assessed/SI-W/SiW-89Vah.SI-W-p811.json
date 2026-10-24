@@ -18,7 +18,6 @@
    1769.70223,
    1847.70223,
    2425.70223,
-   2141.70223,
    3077.20223,
    1956.20223,
    2340.20223,
@@ -124,17 +123,6 @@
     ],
     [
      0.9845884673
-    ]
-   ]
-  ],
-  [
-   [
-    "SI3W5_D8M",
-    [
-     "W"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -310,7 +298,6 @@
    "aspa-11513a3f702d0ae9",
    "aspa-6ddc0cac9a72e0fd",
    "aspa-b380d726c98dc8fa",
-   "aspa-9722017845cea133",
    "aspa-2e6a3f471e701ad5",
    "aspa-0db777184f1796ad",
    "aspa-9615df6d2673f120",
@@ -328,10 +315,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/SI-W-p811.json"
  }
 }

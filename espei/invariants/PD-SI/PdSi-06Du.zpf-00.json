@@ -25,7 +25,6 @@
   "T": [
    1089.0,
    1129.0,
-   1084.0,
    1082.0,
    1068.0,
    1092.0,
@@ -33,8 +32,6 @@
    1065.0,
    1037.0,
    1026.0,
-   1337.0,
-   1326.0,
    1677.0,
    1363.0,
    1353.0,
@@ -92,35 +89,6 @@
     ],
     [
      null
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "SI"
-    ],
-    [
-     0.009
-    ]
-   ],
-   [
-    "PD5SI",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PD21SI4",
-    [
-     "SI"
-    ],
-    [
-     0.16
     ]
    ]
   ],
@@ -370,64 +338,6 @@
      "SI"
     ],
     [
-     0.242
-    ]
-   ],
-   [
-    "PD2SI_BETA",
-    [
-     "SI"
-    ],
-    [
-     0.33
-    ]
-   ],
-   [
-    "PD3SI_D011",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "PD3SI_D011",
-    [
-     "SI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "PD2SI_BETA",
-    [
-     "SI"
-    ],
-    [
-     0.33
-    ]
-   ],
-   [
-    "PD2SI_C22",
-    [
-     "SI"
-    ],
-    [
-     0.33
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SI"
-    ],
-    [
      0.335
     ]
    ],
@@ -614,7 +524,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P7E2OMVP3I ORC-D46XZYBZS2 ORC-DVWTAM54NB ORC-G4UTY4LJLX ORC-NQUVOEQPM5 ORC-AABLQGUSIA ORC-4GDHELJ6OH ORC-4JUG2APUI3 ORC-KP3DGRPGZY ORC-Z7QYSEIDMQ ORC-N73YD5CKV3 ORC-62BU47WLJ4 ORC-6WA7BDBTCA ORC-DR5A34FQKQ ORC-7JIU3AS47V ORC-RTXVYACUYK ORC-WXKVLKAGTC ORC-QXUHUKFBXL ORC-RHL6PSSJZF",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-P7E2OMVP3I ORC-D46XZYBZS2 ORC-G4UTY4LJLX ORC-NQUVOEQPM5 ORC-AABLQGUSIA ORC-4GDHELJ6OH ORC-4JUG2APUI3 ORC-KP3DGRPGZY ORC-Z7QYSEIDMQ ORC-6WA7BDBTCA ORC-DR5A34FQKQ ORC-7JIU3AS47V ORC-RTXVYACUYK ORC-WXKVLKAGTC ORC-QXUHUKFBXL ORC-RHL6PSSJZF",
  "bibtex": "du2006_3f4a43",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -626,10 +536,6 @@
    },
    {
     "id": "ORC-D46XZYBZS2",
-    "paper": "doi:10.1016/j.intermet.2005.09.008"
-   },
-   {
-    "id": "ORC-DVWTAM54NB",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
@@ -658,14 +564,6 @@
    },
    {
     "id": "ORC-Z7QYSEIDMQ",
-    "paper": "doi:10.1016/j.intermet.2005.09.008"
-   },
-   {
-    "id": "ORC-N73YD5CKV3",
-    "paper": "doi:10.1016/j.intermet.2005.09.008"
-   },
-   {
-    "id": "ORC-62BU47WLJ4",
     "paper": "doi:10.1016/j.intermet.2005.09.008"
    },
    {
@@ -705,23 +603,12 @@
    "10.1016/0925-8388(93)90406-d",
    "10.1016/j.intermet.2005.09.008"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/PdSi-06Du/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/PdSi-06Du/zpf-00.json",
+  "values_dropped": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -793,5 +680,92 @@
   "line_compound_vertices_null": 30,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-P7E2OMVP3I",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-D46XZYBZS2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-G4UTY4LJLX",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-NQUVOEQPM5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-AABLQGUSIA",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4GDHELJ6OH",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4JUG2APUI3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-KP3DGRPGZY",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-Z7QYSEIDMQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6WA7BDBTCA",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-DR5A34FQKQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7JIU3AS47V",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RTXVYACUYK",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WXKVLKAGTC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-QXUHUKFBXL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RHL6PSSJZF",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

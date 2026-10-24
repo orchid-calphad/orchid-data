@@ -14,7 +14,6 @@
   "T": [
    605.3172226,
    471.3172226,
-   446.8172226,
    391.3172226,
    463.8172226,
    813.8172226,
@@ -61,17 +60,6 @@
     ],
     [
      0.2209735837
-    ]
-   ]
-  ],
-  [
-   [
-    "DIAMOND_A4",
-    [
-     "SN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -198,7 +186,6 @@
   "record_ids": [
    "aspa-4b564c5717703db1",
    "aspa-4a59e670e81b79a0",
-   "aspa-23be50798702c73a",
    "aspa-25617e76eba8ea57",
    "aspa-a1792ecb3a0c5491",
    "aspa-e20eee8b798cb082",
@@ -211,11 +198,10 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "medium"
   ],
-  "points_left_out": 2,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/SB-SN-p793.json"
  }
 }

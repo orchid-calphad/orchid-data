@@ -21,7 +21,6 @@
    791.9897442,
    864.9897442,
    545.9897442,
-   1263.489744,
    1405.989744,
    770.4897442,
    773.4897442,
@@ -177,17 +176,6 @@
     ],
     [
      0.1488960124
-    ]
-   ]
-  ],
-  [
-   [
-    "CENI5_D2D",
-    [
-     "NI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -451,7 +439,6 @@
    "aspa-89fc72e53921240b",
    "aspa-08dc5bafb080df93",
    "aspa-d3b5fd711d0ba686",
-   "aspa-55661d992273d94f",
    "aspa-3290b8a5981ba22e",
    "aspa-6364a371db9d78a9",
    "aspa-3d55700fa34485bc",
@@ -468,7 +455,6 @@
    "high",
    "high",
    "high",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -479,7 +465,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CE-NI-p275.json"
  }
 }

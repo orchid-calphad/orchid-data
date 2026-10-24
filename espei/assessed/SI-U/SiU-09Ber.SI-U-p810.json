@@ -21,7 +21,6 @@
    497.891784,
    1061.891784,
    1042.391784,
-   1578.891784,
    1239.891784,
    1230.891784,
    1528.891784,
@@ -150,17 +149,6 @@
     ],
     [
      0.5493391864
-    ]
-   ]
-  ],
-  [
-   [
-    "DIAMOND_A4",
-    [
-     "U"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -463,7 +451,6 @@
    "aspa-ea57e90090ce2bf4",
    "aspa-4a2ab3b2746dd79b",
    "aspa-8541b97219852b82",
-   "aspa-22798805b875bdb6",
    "aspa-e91b95dfd79d153a",
    "aspa-ca0bb17c25db10c6",
    "aspa-99b45b201fef33c8",
@@ -485,7 +472,6 @@
    "medium",
    "medium",
    "medium",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -494,7 +480,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/SI-U-p810.json"
  }
 }

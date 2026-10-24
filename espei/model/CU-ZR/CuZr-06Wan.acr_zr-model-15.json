@@ -115,5 +115,26 @@
   "written_before_audit": [
    "HCP_A3"
   ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LIQUID"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-EH6IAUO2NG.e302fc",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

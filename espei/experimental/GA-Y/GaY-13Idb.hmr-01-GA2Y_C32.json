@@ -1,0 +1,187 @@
+{
+ "components": [
+  "GA",
+  "VA",
+  "Y"
+ ],
+ "phases": [
+  "GA2Y_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -68100.0,
+    -72100.0,
+    -74600.0
+   ]
+  ]
+ ],
+ "reference": "Idbenali 2013, doi:10.1007/s10973-012-2861-x",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5K3AIJTOR3 ORC-AK4MEPFDCO ORC-D62AZ3EOOF",
+ "weight": 0.333333,
+ "bibtex": "idbenali2013_69be61",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5K3AIJTOR3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-AK4MEPFDCO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-D62AZ3EOOF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-012-2861-x",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-012-2861-x",
+   "doi:10.1016/s0925-8388(99)00599-x"
+  ],
+  "dois": [
+   "10.1007/s10973-012-2861-x",
+   "10.1016/s0925-8388(99)00599-x"
+  ],
+  "source_dataset": "db-v2.1/general/espei/GaY-13Idb/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 2300.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 2.3,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.217391,
+    "weight_used": 0.333333
+   },
+   {
+    "sigma": 1300.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.3,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.384615,
+    "weight_used": 0.333333
+   },
+   {
+    "sigma": 1500.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 1.5,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.333333,
+    "weight_used": 0.333333
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.333333,
+  "weight_written": 0.333333,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GA2Y_C32"
+  ],
+  "basis": {
+   "printed_labels": 3
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GaY-13Idb.tdb",
+   "path": "databases/sgte-binary/GaY-13Idb.tdb",
+   "sha256": "cbddd22351605c045afe0d705d5ffd6c73c043a0c067ec7e6ee22e023b3785de",
+   "phase": "GA2Y_C32",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GA",
+    "Y"
+   ],
+   [
+    "GA",
+    "Y"
+   ],
+   [
+    "GA",
+    "Y"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-5K3AIJTOR3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-AK4MEPFDCO",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-D62AZ3EOOF",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

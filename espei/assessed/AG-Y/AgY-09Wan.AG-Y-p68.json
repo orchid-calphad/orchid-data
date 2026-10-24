@@ -17,7 +17,6 @@
   "P": 101325.0,
   "T": [
    767.9208745,
-   838.9208745,
    823.4208745,
    844.9208745,
    815.4208745,
@@ -61,17 +60,6 @@
     ],
     [
      0.1111025007
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51Y14",
-    [
-     "Y"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -429,7 +417,6 @@
   "target_tdb": "AgY-09Wan.tdb",
   "record_ids": [
    "aspa-1dcf5e4c7537d778",
-   "aspa-1531512d957fcaa2",
    "aspa-c3add40af63ec07f",
    "aspa-383dc1a87b6d7607",
    "aspa-5e187b7d939289e1",
@@ -448,7 +435,6 @@
    "medium",
    "medium",
    "medium",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -461,7 +447,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-Y-p68.json"
  }
 }

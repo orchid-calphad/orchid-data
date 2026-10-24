@@ -1,0 +1,137 @@
+{
+ "components": [
+  "SI",
+  "VA",
+  "ZR"
+ ],
+ "phases": [
+  "SIZR"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -83670.0
+   ]
+  ]
+ ],
+ "reference": "Gueneau 1994, doi:10.1016/0364-5916(94)90036-1",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-65NX6YTYQD",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SiZr-94Gue-LB.tdb",
+   "path": "databases/sgte-binary/SiZr-94Gue-LB.tdb",
+   "sha256": "92268ff222aab9da3e7bb6db1562bcdea53428d397b85eabd4dc4af810b613aa",
+   "catalog_entry": {
+    "name": "SiZr-94Gue-LB.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-0364-5916-94-90036-1",
+   "doi": "10.1016/0364-5916(94)90036-1",
+   "citation": {
+    "authors": "see doi",
+    "title": "C. Gueneau, C. Servant, I. Ansara, N. Dupin, Calphad, 18, 319-27(1994).",
+    "year": "1994"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "gueneau1994_57d6ba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-65NX6YTYQD",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/0364-5916(94)90036-1",
+    "measured_in": "doi:10.1016/0364-5916(94)90036-1",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/0364-5916(94)90036-1"
+  ],
+  "dois": [
+   "10.1016/0364-5916(94)90036-1"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SiZr-94Gue-LB/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "SIZR"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "SiZr-94Gue-LB.tdb",
+   "path": "databases/sgte-binary/SiZr-94Gue-LB.tdb",
+   "sha256": "92268ff222aab9da3e7bb6db1562bcdea53428d397b85eabd4dc4af810b613aa",
+   "phase": "SIZR",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SI",
+    "ZR"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-65NX6YTYQD",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

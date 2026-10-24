@@ -114,7 +114,8 @@
   "experimental",
   "invariant_table",
   "via_assessment",
-  "orchid"
+  "orchid",
+  "calphad_certified"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FRKUDYFKEV ORC-5GMZNRQHMW ORC-2NZQ4XQ43A",
  "bibtex": "gellingsnd_48aca6",
@@ -166,5 +167,27 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": true,
+  "n_certified": 3,
+  "values": [
+   {
+    "id": "ORC-FRKUDYFKEV",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-5GMZNRQHMW",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-2NZQ4XQ43A",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

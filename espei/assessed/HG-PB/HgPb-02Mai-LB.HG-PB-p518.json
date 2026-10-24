@@ -13,7 +13,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   10.07510549,
    193.0751055,
    241.5751055,
    159.0751055,
@@ -24,17 +23,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "HGPB2_L10",
-    [
-     "PB"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "FCC_A1",
@@ -185,7 +173,6 @@
   "diagram": "HG-PB-p518",
   "target_tdb": "HgPb-02Mai-LB.tdb",
   "record_ids": [
-   "aspa-f110cceecb5075cf",
    "aspa-abf12a11e12963f2",
    "aspa-30a7321ee47280fc",
    "aspa-c25f58b18addc327",
@@ -199,10 +186,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/HG-PB-p518.json"
  }
 }

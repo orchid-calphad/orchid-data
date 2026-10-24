@@ -14,6 +14,7 @@
   "P": 101325,
   "T": [
    967.0,
+   947.0,
    950.0,
    930.0,
    590.0,
@@ -30,6 +31,35 @@
     ],
     [
      0.3
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.29
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "IN"
+    ],
+    [
+     0.31
+    ]
+   ]
+  ],
+  [
+   [
+    "CU7IN3",
+    [
+     "IN"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -204,6 +234,24 @@
    {
     "source_observation": "ORC-3EX3DXNGMC",
     "side": "above",
+    "T_invariant_K": 957.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.3,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L -> γ",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CU7IN3"
+    ]
+   },
+   {
+    "source_observation": "ORC-3EX3DXNGMC",
+    "side": "below",
     "T_invariant_K": 957.0,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

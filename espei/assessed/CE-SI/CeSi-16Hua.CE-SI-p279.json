@@ -25,7 +25,6 @@
    941.3871612,
    1023.887161,
    1040.387161,
-   927.3871612,
    871.8871612,
    621.8871612,
    948.8871612,
@@ -186,17 +185,6 @@
     ],
     [
      0.5568694621
-    ]
-   ]
-  ],
-  [
-   [
-    "CESI2_CC",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -605,7 +593,6 @@
    "aspa-691a98e7734ec89d",
    "aspa-110e0779695dbdcd",
    "aspa-442996608252b45e",
-   "aspa-18ff4c6ed6a30f27",
    "aspa-2b3d5f9bcc0a2c48",
    "aspa-2de4f15a38f632c1",
    "aspa-b130ed596d42f370",
@@ -640,10 +627,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CE-SI-p279.json"
  }
 }

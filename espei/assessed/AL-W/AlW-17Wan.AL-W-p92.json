@@ -25,7 +25,6 @@
    2950.696147,
    1333.696147,
    1767.696147,
-   1711.696147,
    1809.196147,
    2484.196147
   ]
@@ -248,17 +247,6 @@
     [
      null
     ]
-   ]
-  ],
-  [
-   [
-    "AL2W_C40",
-    [
-     "W"
-    ],
-    [
-     null
-    ]
    ],
    [
     "LIQUID",
@@ -329,7 +317,6 @@
    "aspa-38cb93e3feb65457",
    "aspa-521e4663a5e8b577",
    "aspa-87df4a7a514a1ade",
-   "aspa-36595058570708e8",
    "aspa-f874b9589f671b52",
    "aspa-f6544557473aa8a4"
   ],
@@ -343,11 +330,10 @@
    "high",
    "medium",
    "high",
-   "medium",
    "high",
    "medium"
   ],
-  "points_left_out": 2,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/AL-W-p92.json"
  }
 }

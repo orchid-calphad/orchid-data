@@ -1,0 +1,133 @@
+{
+ "components": [
+  "ER",
+  "FE",
+  "VA"
+ ],
+ "phases": [
+  "ERFE3"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -11600.0
+   ]
+  ]
+ ],
+ "reference": "Zhou 2010, doi:10.1016/j.physb.2010.05.046",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-COS2QTPNWM",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "ErFe-10Zho.tdb",
+   "path": "databases/sgte-binary/ErFe-10Zho.tdb",
+   "sha256": "1040d981d623df87d259303a659860caded5369ac3b846b25f0865fedbb0a14a",
+   "catalog_entry": {
+    "name": "ErFe-10Zho.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-physb-2010-05-046",
+   "doi": "10.1016/j.physb.2010.05.046",
+   "citation": {
+    "authors": "see doi",
+    "title": "G.J. Zhou, Z.W. Liu, D.C. Zeng, Z.P. Jin, Physica B, 405, 3590-93(2010).",
+    "year": "2010"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "zhou2010_25594e",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-COS2QTPNWM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.physb.2010.05.046",
+    "measured_in": "doi:10.1016/j.physb.2010.05.046"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.physb.2010.05.046"
+  ],
+  "dois": [
+   "10.1016/j.physb.2010.05.046"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/ErFe-10Zho/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "ERFE3"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "ErFe-10Zho.tdb",
+   "path": "databases/sgte-binary/ErFe-10Zho.tdb",
+   "sha256": "1040d981d623df87d259303a659860caded5369ac3b846b25f0865fedbb0a14a",
+   "phase": "ERFE3",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "ER",
+    "FE"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-COS2QTPNWM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

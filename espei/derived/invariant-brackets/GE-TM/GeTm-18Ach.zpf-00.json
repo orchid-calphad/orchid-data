@@ -6,6 +6,7 @@
  ],
  "phases": [
   "GE10TM11",
+  "GE20TM9_C49",
   "GE2TM_HT",
   "GE2TM_LT",
   "GE3TM2_C32",
@@ -17,8 +18,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   2243.15,
-   2223.15,
    2059.15,
    2039.15,
    2003.15,
@@ -29,69 +28,12 @@
    1535.15,
    1323.15,
    1303.15,
-   1178.15
+   1178.15,
+   1138.15
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TM"
-    ],
-    [
-     0.625
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TM"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TM"
-    ],
-    [
-     0.635
-    ]
-   ]
-  ],
-  [
-   [
-    "GE3TM5_D88",
-    [
-     "TM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TM"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TM"
-    ],
-    [
-     0.635
-    ]
-   ]
-  ],
   [
    [
     "GE3TM5_D88",
@@ -464,6 +406,35 @@
      0.320345
     ]
    ]
+  ],
+  [
+   [
+    "GE20TM9_C49",
+    [
+     "TM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.300345
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TM"
+    ],
+    [
+     0.320345
+    ]
+   ]
   ]
  ],
  "reference": "Idbenali 2013, doi:10.1007/s10973-012-2271-0",
@@ -474,49 +445,13 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-TM/GeTm-18Ach.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6RXKX7WGLS ORC-6ZUNZLAM6C ORC-GTPII2BOOQ ORC-METAIWQ3HJ ORC-MZKQNRQ36L ORC-PT4XCDUUIK ORC-W46D73VAXU",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-TM/GeTm-18Ach.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6RXKX7WGLS ORC-6ZUNZLAM6C ORC-METAIWQ3HJ ORC-MZKQNRQ36L ORC-PT4XCDUUIK ORC-W46D73VAXU",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GE-TM/GeTm-18Ach.zpf-00.json",
   "derivation": "invariant_bracket",
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
-   {
-    "source_observation": "ORC-GTPII2BOOQ",
-    "side": "above",
-    "T_invariant_K": 2233.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L ↔ Tm5Ge3",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "GE3TM5_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-GTPII2BOOQ",
-    "side": "below",
-    "T_invariant_K": 2233.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L ↔ Tm5Ge3",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "GE3TM5_D88"
-    ]
-   },
    {
     "source_observation": "ORC-MZKQNRQ36L",
     "side": "above",
@@ -710,6 +645,25 @@
    {
     "source_observation": "ORC-W46D73VAXU",
     "side": "above",
+    "T_invariant_K": 1158.15,
+    "offset_K": 20.0,
+    "T_sigma_K": 10.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.310345,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Tm5Ge9_LT + L ↔ Tm0.9Ge2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "GE2TM_LT",
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GE20TM9_C49"
+    ]
+   },
+   {
+    "source_observation": "ORC-W46D73VAXU",
+    "side": "below",
     "T_invariant_K": 1158.15,
     "offset_K": 20.0,
     "T_sigma_K": 10.0,

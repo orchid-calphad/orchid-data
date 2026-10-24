@@ -21,13 +21,15 @@
   "P": 101325,
   "T": [
    1108.15,
+   1088.15,
    938.15,
    918.15,
+   1093.15,
+   1073.15,
    1753.15,
    1733.15,
-   1643.15,
-   713.15,
    1533.15,
+   1513.15,
    1363.15,
    1343.15,
    1453.15,
@@ -52,6 +54,44 @@
     ],
     [
      0.99
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.985
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.995
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
+     0.9
+    ]
+   ],
+   [
+    "DHCP",
+    [
+     "ND"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -147,6 +187,73 @@
      "ND"
     ],
     [
+     0.7
+    ]
+   ],
+   [
+    "AUND_B33",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "AUND2_C37",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.6566666667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.6766666667
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ND"
+    ],
+    [
      0.5
     ]
    ],
@@ -200,64 +307,6 @@
   ],
   [
    [
-    "AUND_B2",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "AUND_B33",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ND"
@@ -268,6 +317,35 @@
    ],
    [
     "AUND_B33",
+    [
+     "ND"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.4217857143
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ND"
+    ],
+    [
+     0.4353571429
+    ]
+   ]
+  ],
+  [
+   [
+    "AU4ND3",
     [
      "ND"
     ],
@@ -687,7 +765,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-ND/AuNd-15Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2BV4K4WBVG ORC-455K56VBCG ORC-5M4WIQJZDC ORC-77SEMCFB23 ORC-7WJ7XUHZPO ORC-CQ6FD6BVXV ORC-LQOS626CAP ORC-MP7I2EDA64 ORC-NDRLARY4FY ORC-PXFCMNVB5T ORC-TF2YSVOJJW ORC-UJCGCCVJCG",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-ND/AuNd-15Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2BV4K4WBVG ORC-455K56VBCG ORC-5M4WIQJZDC ORC-77SEMCFB23 ORC-7WJ7XUHZPO ORC-CQ6FD6BVXV ORC-MP7I2EDA64 ORC-NDRLARY4FY ORC-RVKRWJSLQ3 ORC-TF2YSVOJJW ORC-UJCGCCVJCG",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AU-ND/AuNd-15Wan.zpf-00.json",
@@ -697,6 +775,25 @@
    {
     "source_observation": "ORC-TF2YSVOJJW",
     "side": "above",
+    "T_invariant_K": 1098.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.99,
+    "hyperplane_delta": 0.0050000000000000044,
+    "reaction_printed": "βNd <-> L + αNd",
+    "reaction_type": "metatectic/catatectic",
+    "phases_above": [
+     "BCC_A2"
+    ],
+    "phases_below": [
+     "LIQUID",
+     "DHCP"
+    ]
+   },
+   {
+    "source_observation": "ORC-TF2YSVOJJW",
+    "side": "below",
     "T_invariant_K": 1098.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
@@ -752,6 +849,44 @@
     ]
    },
    {
+    "source_observation": "ORC-RVKRWJSLQ3",
+    "side": "above",
+    "T_invariant_K": 1083.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βAuNd <-> AuNd2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AUND_B33"
+    ],
+    "phases_below": [
+     "AUND2_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-RVKRWJSLQ3",
+    "side": "below",
+    "T_invariant_K": 1083.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6666666666666666,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + βAuNd <-> AuNd2",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AUND_B33"
+    ],
+    "phases_below": [
+     "AUND2_C37"
+    ]
+   },
+   {
     "source_observation": "ORC-455K56VBCG",
     "side": "above",
     "T_invariant_K": 1743.15,
@@ -788,44 +923,27 @@
     ]
    },
    {
-    "source_observation": "ORC-LQOS626CAP",
+    "source_observation": "ORC-NDRLARY4FY",
     "side": "above",
-    "T_invariant_K": 1633.15,
+    "T_invariant_K": 1523.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
     "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "γAuNd <-> βAuNd",
-    "reaction_type": "polymorphic",
+    "x0": 0.42857142857142855,
+    "hyperplane_delta": 0.006785714285714284,
+    "reaction_printed": "L + βAuNd <-> Au4Nd3",
+    "reaction_type": "peritectic",
     "phases_above": [
-     "AUND_B2"
-    ],
-    "phases_below": [
-     "AUND_B33"
-    ]
-   },
-   {
-    "source_observation": "ORC-PXFCMNVB5T",
-    "side": "above",
-    "T_invariant_K": 703.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βAuNd <-> αAuNd",
-    "reaction_type": "polymorphic",
-    "phases_above": [
+     "LIQUID",
      "AUND_B33"
     ],
     "phases_below": [
-     "AUND_B27"
+     "AU4ND3"
     ]
    },
    {
     "source_observation": "ORC-NDRLARY4FY",
-    "side": "above",
+    "side": "below",
     "T_invariant_K": 1523.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

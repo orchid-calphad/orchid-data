@@ -32,7 +32,6 @@
    1608.387161,
    1463.887161,
    1522.887161,
-   1746.387161,
    1819.887161
   ]
  },
@@ -435,17 +434,6 @@
     [
      null
     ]
-   ]
-  ],
-  [
-   [
-    "GD5PB3_D88",
-    [
-     "PB"
-    ],
-    [
-     null
-    ]
    ],
    [
     "LIQUID",
@@ -492,7 +480,6 @@
    "aspa-3d5055b9c0d46f3b",
    "aspa-66e56f9ee052d2b3",
    "aspa-d381523bd8d115a0",
-   "aspa-ba8c305b2cf36ed6",
    "aspa-7b2eb4c98d84b36d"
   ],
   "confidence": [
@@ -510,10 +497,9 @@
    "high",
    "medium",
    "high",
-   "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/GD-PB-p462.json"
  }
 }

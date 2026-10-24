@@ -1,0 +1,137 @@
+{
+ "components": [
+  "FE",
+  "TI",
+  "VA"
+ ],
+ "phases": [
+  "FETI_B2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -24400.0
+   ]
+  ]
+ ],
+ "reference": "Jonsson 1998, doi:10.1007/s11663-998-0113-z",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-RDRHNUXZ4D.b0b4c2",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "FeTi-98Jon.tdb",
+   "path": "databases/sgte-binary/FeTi-98Jon.tdb",
+   "sha256": "d6efa66564a03f46cc102c8f207f0b820cd8f12a91a0f8d748e43b1aaab1bfaa",
+   "catalog_entry": {
+    "name": "FeTi-98Jon.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s11663-998-0113-z",
+   "doi": "10.1007/s11663-998-0113-z",
+   "citation": {
+    "authors": "see doi",
+    "title": "S. Jonsson, Metall. Mater. Trans. B, 29B, 361-70(1998).",
+    "year": "1998"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "jonsson1998_d69561",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-RDRHNUXZ4D.b0b4c2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s11663-998-0113-z",
+    "measured_in": "doi:10.1007/s11663-998-0113-z",
+    "also_read_as": [
+     "ORC-RDRHNUXZ4D.b0b4c2"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s11663-998-0113-z"
+  ],
+  "dois": [
+   "10.1007/s11663-998-0113-z"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/FeTi-98Jon/hmr-model-00.json",
+  "values_dropped": 1
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "FETI_B2"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "FeTi-98Jon.tdb",
+   "path": "databases/sgte-binary/FeTi-98Jon.tdb",
+   "sha256": "d6efa66564a03f46cc102c8f207f0b820cd8f12a91a0f8d748e43b1aaab1bfaa",
+   "phase": "FETI_B2",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "FE",
+    "TI"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-RDRHNUXZ4D.b0b4c2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

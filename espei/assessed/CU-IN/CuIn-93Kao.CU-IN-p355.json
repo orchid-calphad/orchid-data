@@ -16,7 +16,6 @@
   "T": [
    810.9752616,
    546.9752616,
-   583.9752616,
    349.4752616,
    502.4752616
   ]
@@ -60,17 +59,6 @@
     ],
     [
      0.1694180987
-    ]
-   ]
-  ],
-  [
-   [
-    "CU7IN3",
-    [
-     "IN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -146,7 +134,6 @@
   "record_ids": [
    "aspa-4a113c287b18eda7",
    "aspa-b1c52989a80d8774",
-   "aspa-71e57632805062d2",
    "aspa-4486c1aab0c99e4f",
    "aspa-05218ba0330b53d9"
   ],
@@ -154,10 +141,9 @@
    "high",
    "medium",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CU-IN-p355.json"
  }
 }

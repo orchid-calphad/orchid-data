@@ -10,7 +10,7 @@
   "CE5CO19",
   "CECO2_C15",
   "CECO3",
-  "FCC_A1",
+  "CECO5_D2D",
   "LIQUID"
  ],
  "conditions": {
@@ -23,8 +23,7 @@
    1438.0,
    1418.0,
    1498.0,
-   1513.0,
-   1493.0
+   1478.0
   ]
  },
  "output": "ZPF",
@@ -270,16 +269,7 @@
   ],
   [
    [
-    "LIQUID",
-    [
-     "CO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "FCC_A1",
+    "CECO5_D2D",
     [
      "CO"
     ],
@@ -293,7 +283,7 @@
      "CO"
     ],
     [
-     0.8847368421
+     0.8233333333
     ]
    ],
    [
@@ -302,36 +292,7 @@
      "CO"
     ],
     [
-     0.9047368421
-    ]
-   ]
-  ],
-  [
-   [
-    "CE2CO17",
-    [
-     "CO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "CO"
-    ],
-    [
-     0.8847368421
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "CO"
-    ],
-    [
-     0.9047368421
+     0.8433333333
     ]
    ]
   ]
@@ -344,7 +305,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CE-CO/CeCo-98Su.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2IC72NGQ3L ORC-32II63CBK7 ORC-4FPQMLN4KR ORC-FSGTDWDU2E ORC-MADFAKH5V2",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CE-CO/CeCo-98Su.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2IC72NGQ3L ORC-4FPQMLN4KR ORC-FSGTDWDU2E ORC-MADFAKH5V2",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CE-CO/CeCo-98Su.zpf-01.json",
@@ -485,41 +446,22 @@
     ]
    },
    {
-    "source_observation": "ORC-32II63CBK7",
-    "side": "above",
-    "T_invariant_K": 1503,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.8947368421052632,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq. + α-Co(fcc)->Co17Ce2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "FCC_A1"
-    ],
-    "phases_below": [
-     "CE2CO17"
-    ]
-   },
-   {
-    "source_observation": "ORC-32II63CBK7",
+    "source_observation": "ORC-4FPQMLN4KR",
     "side": "below",
-    "T_invariant_K": 1503,
+    "T_invariant_K": 1488,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
     "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.8947368421052632,
+    "x0": 0.8333333333333334,
     "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq. + α-Co(fcc)->Co17Ce2",
+    "reaction_printed": "Liq. + Co17Ce2->Co5Ce",
     "reaction_type": null,
     "phases_above": [
      "LIQUID",
-     "FCC_A1"
+     "CE2CO17"
     ],
     "phases_below": [
-     "CE2CO17"
+     "CECO5_D2D"
     ]
    }
   ],

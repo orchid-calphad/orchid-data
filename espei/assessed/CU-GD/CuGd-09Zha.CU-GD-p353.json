@@ -22,7 +22,6 @@
   "T": [
    817.1734742,
    904.6734742,
-   905.1734742,
    883.6734742,
    858.1734742,
    804.1734742,
@@ -100,17 +99,6 @@
     ],
     [
      0.1523997832
-    ]
-   ]
-  ],
-  [
-   [
-    "CU5GD_C15B",
-    [
-     "GD"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -614,7 +602,6 @@
   "record_ids": [
    "aspa-4073f9073485a1ad",
    "aspa-6ff4f64551eaee4f",
-   "aspa-893f800bc8120527",
    "aspa-3128b19439b21a1b",
    "aspa-0f2da5e25190222f",
    "aspa-6e511477efa11ddd",
@@ -638,7 +625,6 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "high",
    "medium",
@@ -657,7 +643,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CU-GD-p353.json"
  }
 }

@@ -6,7 +6,6 @@
  ],
  "phases": [
   "PD20SN13",
-  "PD3SN2_ALPHA",
   "PD3SN2_BETA",
   "PD3SN2_DELTA",
   "PDSN_B31"
@@ -19,9 +18,7 @@
    803.15,
    783.15,
    943.15,
-   923.15,
-   825.15,
-   805.15
+   923.15
   ]
  },
  "output": "ZPF",
@@ -208,64 +205,6 @@
      0.41
     ]
    ]
-  ],
-  [
-   [
-    "PD3SN2_ALPHA",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.39
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.41
-    ]
-   ]
-  ],
-  [
-   [
-    "PD3SN2_BETA",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.39
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.41
-    ]
-   ]
   ]
  ],
  "reference": "Cui 2020, doi:10.1016/j.intermet.2020.106945",
@@ -276,7 +215,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PD-SN/PdSn-20Cui.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-426IS52ILC ORC-4JNN372X4I ORC-BS36CP264A ORC-ZTGKQOGHGE",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PD-SN/PdSn-20Cui.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-426IS52ILC ORC-BS36CP264A ORC-ZTGKQOGHGE",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/PD-SN/PdSn-20Cui.zpf-02.json",
@@ -388,42 +327,6 @@
     "reaction_type": null,
     "phases_above": [
      "PD20SN13"
-    ],
-    "phases_below": [
-     "PD3SN2_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-4JNN372X4I",
-    "side": "above",
-    "T_invariant_K": 815.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.4,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "α_Pd3Sn2 = β_Pd3Sn2",
-    "reaction_type": null,
-    "phases_above": [
-     "PD3SN2_ALPHA"
-    ],
-    "phases_below": [
-     "PD3SN2_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-4JNN372X4I",
-    "side": "below",
-    "T_invariant_K": 815.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.4,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "α_Pd3Sn2 = β_Pd3Sn2",
-    "reaction_type": null,
-    "phases_above": [
-     "PD3SN2_ALPHA"
     ],
     "phases_below": [
      "PD3SN2_BETA"

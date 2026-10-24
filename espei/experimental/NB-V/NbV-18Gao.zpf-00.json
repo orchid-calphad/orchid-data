@@ -153,13 +153,8 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.jallcom.2018.07.254",
     "measured_in": "doi:10.1016/j.jallcom.2018.07.254",
-    "also_reported_as": [
-     {
-      "id": "ORC-UAC6H4TAJJ",
-      "paper": "doi:10.1016/j.jallcom.2018.07.254",
-      "measured_in": "doi:10.1016/j.jallcom.2018.07.254",
-      "dataset": "experimental/NB-V/NbV-18Gao.zpf-00.json"
-     }
+    "also_read_as": [
+     "ORC-UAC6H4TAJJ"
     ]
    },
    {
@@ -206,7 +201,6 @@
    "10.1016/j.jallcom.2018.07.254"
   ],
   "source_dataset": "db-v2.1/general/espei/NbV-18Gao/zpf-00.json",
-  "e3_merged": 1,
   "values_dropped": 1
  },
  "orchid_uncertainty": {
@@ -242,5 +236,47 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-6D45JY4PGG",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2FYRV5SGLU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6ZE4J4ICN2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-TYW5XCMKP5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-AVAY6BBQRB",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XBR4KSI53X",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-YUHBPV6Y4J",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

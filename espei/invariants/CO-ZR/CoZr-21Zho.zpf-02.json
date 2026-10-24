@@ -6,13 +6,10 @@
  ],
  "phases": [
   "B2_BCC",
-  "BCC_A2",
   "C15_LAVES",
   "CO11ZR2",
   "COZR2_C16",
-  "COZR3",
   "FCC_A1",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
@@ -21,8 +18,7 @@
    1513,
    1533,
    1643,
-   1313,
-   1103
+   1313
   ]
  },
  "output": "ZPF",
@@ -133,35 +129,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "COZR3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "1970, S.K. Bataleva, V.V. Kuprina, V.V. Burnasheva, V.Y. Markiv, G.N. Ronami, and S.M. Kurnetsova, S.K. Bataleva, V.V. Kuprina, V.V. Burnasheva, V.Y. Markiv, G.N. Ronami, and S.M. Kurnetsova, Phase Diagram of Cobalt– Zirconium System, Moscow Univ. Chem. Bull., 1970, 25(5), p 33–36",
@@ -172,7 +139,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EL2YJQLNM2 ORC-4GXIXUIBPM ORC-SLUDWGGEYR ORC-SQW7GCGPWW ORC-UVNDEODUNE",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EL2YJQLNM2 ORC-4GXIXUIBPM ORC-SLUDWGGEYR ORC-SQW7GCGPWW",
  "bibtex": "bataleva1970_0212a0",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -203,40 +170,21 @@
     "caveats": [
      "plausibility_fail"
     ]
-   },
-   {
-    "id": "ORC-UVNDEODUNE",
-    "paper": "doi:10.1007/s11669-020-00859-5",
-    "measured_in": "ref:3f08bd7729c2514e",
-    "also_reported_as": [
-     {
-      "id": "ORC-IG55O5GH53",
-      "paper": "doi:10.1007/s11669-020-00859-5",
-      "measured_in": "ref:7c601a5ebcdd3aec",
-      "dataset": "invariants/CO-ZR/CoZr-21Zho.zpf-03.json"
-     }
-    ]
    }
   ],
   "papers": [
    "ref:3f08bd7729c2514e",
-   "doi:10.1007/s11669-020-00859-5",
-   "ref:7c601a5ebcdd3aec"
+   "doi:10.1007/s11669-020-00859-5"
   ],
   "dois": [
    "10.1007/s11669-020-00859-5"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoZr-21Zho/zpf-02.json",
-  "e3_merged": 1,
-  "values_dropped": 3
+  "values_dropped": 4
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -257,8 +205,35 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 3,
+  "line_compound_vertices_null": 2,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-EL2YJQLNM2",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-4GXIXUIBPM",
+    "espei_certified": false,
+    "calphad_check": "disagrees"
+   },
+   {
+    "id": "ORC-SLUDWGGEYR",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SQW7GCGPWW",
+    "espei_certified": false,
+    "calphad_check": "disagrees"
+   }
+  ]
  }
 }

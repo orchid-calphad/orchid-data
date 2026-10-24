@@ -26,7 +26,6 @@
    1404.894512,
    1369.394512,
    1682.394512,
-   1619.394512,
    1466.394512,
    1593.894512,
    1603.894512,
@@ -282,17 +281,6 @@
   ],
   [
    [
-    "FCC_A1",
-    [
-     "FE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "ER6FE23_D8A",
     [
      "FE"
@@ -486,7 +474,6 @@
    "aspa-996c4a1423dca818",
    "aspa-2efa27d4f4a1a142",
    "aspa-eef119fac145cdc9",
-   "aspa-521702dca93ed690",
    "aspa-6f80b3127e26ad03",
    "aspa-1aa17048d9f582aa",
    "aspa-59d67c8331d7a5bf",
@@ -504,7 +491,6 @@
    "medium",
    "medium",
    "high",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -512,7 +498,7 @@
    "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/ER-FE-p389.json"
  }
 }

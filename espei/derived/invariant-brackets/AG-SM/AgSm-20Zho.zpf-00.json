@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AG2SM_ALPHA",
   "AG2SM_BETA",
   "AG51SM14",
   "AGSM_B2",
@@ -18,13 +17,13 @@
    1043.15,
    1023.15,
    1073.15,
+   1053.15,
    1058.15,
    1038.15,
    1243.15,
    1223.15,
    1218.15,
-   1198.15,
-   977.15
+   1198.15
   ]
  },
  "output": "ZPF",
@@ -108,6 +107,35 @@
    ],
    [
     "AG51SM14",
+    [
+     "SM"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SM"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "AG2SM_BETA",
     [
      "SM"
     ],
@@ -316,35 +344,6 @@
      0.225385
     ]
    ]
-  ],
-  [
-   [
-    "AG2SM_ALPHA",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.343333
-    ]
-   ]
   ]
  ],
  "reference": "Zhou 2020, doi:10.1007/s11669-020-00813-5",
@@ -355,7 +354,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-SM/AgSm-20Zho.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4D5SM7PL5F ORC-6BEC3UMCOQ ORC-IRW6JSZ3S5 ORC-SCOO5GMNOC ORC-TJCC5T5NS7 ORC-UDHVZN7EMQ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AG-SM/AgSm-20Zho.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4D5SM7PL5F ORC-IRW6JSZ3S5 ORC-SCOO5GMNOC ORC-TJCC5T5NS7 ORC-UDHVZN7EMQ",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AG-SM/AgSm-20Zho.zpf-00.json",
@@ -403,6 +402,25 @@
    {
     "source_observation": "ORC-SCOO5GMNOC",
     "side": "above",
+    "T_invariant_K": 1063.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + Ag51Sm14 -> βAg2Sm",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "AG51SM14"
+    ],
+    "phases_below": [
+     "AG2SM_BETA"
+    ]
+   },
+   {
+    "source_observation": "ORC-SCOO5GMNOC",
+    "side": "below",
     "T_invariant_K": 1063.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
@@ -527,24 +545,6 @@
     ],
     "phases_below": [
      "AG51SM14"
-    ]
-   },
-   {
-    "source_observation": "ORC-6BEC3UMCOQ",
-    "side": "above",
-    "T_invariant_K": 967.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αAg2Sm -> βAg2Sm",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "AG2SM_ALPHA"
-    ],
-    "phases_below": [
-     "AG2SM_BETA"
     ]
    }
   ],

@@ -9,6 +9,7 @@
   "LIQUID",
   "ND2NI7_HT",
   "ND2NI7_LT",
+  "ND3NI_D011",
   "ND7NI3_D102",
   "NDNI2_C15",
   "NDNI3",
@@ -20,14 +21,13 @@
   "T": [
    901.15,
    881.15,
+   881.15,
    1102.15,
    1082.15,
    1247.15,
    1227.15,
    1351.15,
    1331.15,
-   1455.15,
-   1435.15,
    1455.15,
    1435.15,
    1476.15,
@@ -45,6 +45,35 @@
     ],
     [
      0.25
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.24
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "ND3NI_D011",
+    [
+     "NI"
+    ],
+    [
+     null
     ]
    ],
    [
@@ -365,64 +394,6 @@
   ],
   [
    [
-    "ND2NI7_LT",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.767778
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.787778
-    ]
-   ]
-  ],
-  [
-   [
-    "ND2NI7_HT",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.767778
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.787778
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "NI"
@@ -535,7 +506,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ND-NI/NdNi-05Hua.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4VVTQTYG4B ORC-5H4UWBJYVZ ORC-AU3X7CULTQ ORC-J6NUG6RT73 ORC-L4YFZFNIKE ORC-NFVYEQD3JH ORC-P35XU3CXZ5 ORC-PSC573BQM7 ORC-WMAEANH5CF",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ND-NI/NdNi-05Hua.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4VVTQTYG4B ORC-5H4UWBJYVZ ORC-AU3X7CULTQ ORC-J6NUG6RT73 ORC-L4YFZFNIKE ORC-NFVYEQD3JH ORC-P35XU3CXZ5 ORC-WMAEANH5CF",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/ND-NI/NdNi-05Hua.zpf-00.json",
@@ -545,6 +516,24 @@
    {
     "source_observation": "ORC-4VVTQTYG4B",
     "side": "above",
+    "T_invariant_K": 891.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.25,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid <-> Nd3Ni",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "ND3NI_D011"
+    ]
+   },
+   {
+    "source_observation": "ORC-4VVTQTYG4B",
+    "side": "below",
     "T_invariant_K": 891.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
@@ -727,42 +716,6 @@
     ],
     "phases_below": [
      "ND2NI7_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-PSC573BQM7",
-    "side": "above",
-    "T_invariant_K": 1445.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.777778,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αNd2Ni7 <-> βNd2Ni7",
-    "reaction_type": null,
-    "phases_above": [
-     "ND2NI7_LT"
-    ],
-    "phases_below": [
-     "ND2NI7_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-PSC573BQM7",
-    "side": "below",
-    "T_invariant_K": 1445.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.777778,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αNd2Ni7 <-> βNd2Ni7",
-    "reaction_type": null,
-    "phases_above": [
-     "ND2NI7_LT"
-    ],
-    "phases_below": [
-     "ND2NI7_HT"
     ]
    },
    {

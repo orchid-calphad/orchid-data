@@ -25,6 +25,7 @@
    1388.15,
    1368.15,
    1260.15,
+   1240.15,
    1238.15,
    1218.15
   ]
@@ -321,6 +322,35 @@
   ],
   [
    [
+    "ALY2_C37",
+    [
+     "Y"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "Y"
+    ],
+    [
+     0.676667
+    ]
+   ]
+  ],
+  [
+   [
     "LIQUID",
     [
      "Y"
@@ -553,6 +583,25 @@
    {
     "source_observation": "ORC-X4DIZ25YRX",
     "side": "above",
+    "T_invariant_K": 1250.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 2.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Al2Y3 <=> AlY2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "AL2Y3"
+    ],
+    "phases_below": [
+     "ALY2_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-X4DIZ25YRX",
+    "side": "below",
     "T_invariant_K": 1250.15,
     "offset_K": 10.0,
     "T_sigma_K": 2.0,

@@ -7,16 +7,13 @@
  "phases": [
   "BCC_A2",
   "LIQUID",
-  "MO2S3_HT",
-  "MO2S3_LT"
+  "MO2S3_HT"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1913.15,
-   1853.15,
-   1843.15,
-   1823.15
+   1853.15
   ]
  },
  "output": "ZPF",
@@ -87,64 +84,6 @@
      0.42
     ]
    ]
-  ],
-  [
-   [
-    "MO2S3_LT",
-    [
-     "S"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "S"
-    ],
-    [
-     0.59
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "S"
-    ],
-    [
-     0.61
-    ]
-   ]
-  ],
-  [
-   [
-    "MO2S3_HT",
-    [
-     "S"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "S"
-    ],
-    [
-     0.59
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "S"
-    ],
-    [
-     0.61
-    ]
-   ]
   ]
  ],
  "reference": "Cui 2018, doi:10.1016/j.tca.2017.12.011",
@@ -155,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MO-S/MoS-18Cui.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5FPTDVVJTX ORC-MPCYTTAV2X",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MO-S/MoS-18Cui.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5FPTDVVJTX",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/MO-S/MoS-18Cui.zpf-00.json",
@@ -197,42 +136,6 @@
     ],
     "phases_below": [
      "BCC_A2",
-     "MO2S3_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-MPCYTTAV2X",
-    "side": "above",
-    "T_invariant_K": 1833.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.6,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "α_Mo2S3 = β_Mo2S3",
-    "reaction_type": null,
-    "phases_above": [
-     "MO2S3_LT"
-    ],
-    "phases_below": [
-     "MO2S3_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-MPCYTTAV2X",
-    "side": "below",
-    "T_invariant_K": 1833.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.6,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "α_Mo2S3 = β_Mo2S3",
-    "reaction_type": null,
-    "phases_above": [
-     "MO2S3_LT"
-    ],
-    "phases_below": [
      "MO2S3_HT"
     ]
    }

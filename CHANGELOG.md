@@ -2,6 +2,26 @@
 
 ## Unreleased — ESPEI datasets, bibliography, literature re-export (2026-10-23)
 
+**ESPEI phase assignment fixed; ESPEI readiness split into ready / certified (2026-10-23).** Root cause: the corpus
+ESPEI writer gave every thermochemical dataset the phase LIQUID when no printed label mapped to a model phase, and
+added LIQUID beside every mapped phase, so compound formation enthalpies (e.g. Fe17Y2, Saenko 2017 table 5, 973 K)
+were written as liquid data; the literature records themselves were correct. Each ESPEI value's phase is now taken
+from its published record by a physical phase rule (`tools/phase_rule.py`; literature/QUALITY_FIXES.md section 6;
+espei/README.md "Phase assignment"): printed label or caption only, never a default; liquid only where physically
+possible; formation enthalpies / entropies of line compounds as `solver` endmember datasets (tag
+`compound_formation_endmember`); other compound properties not used. New ESPEI gates (activities outside (0, 1],
+negative absolute entropies, increments, per-gram heat capacities, implausible magnitudes, reference phases absent
+from the TDB, gas without pressure, off-invariant binary three-phase regions, inert ZPF regions, duplicates) and a
+likelihood evaluation of every dataset against its TDB with ESPEI 0.9.1 (all 8,156 written datasets finite).
+Literature: `flags.espei_ready` now also requires the phase rule and no blocking flag (12,221 true, was 14,205);
+new `espei_certified` (ready and agreeing with the pycalphad cross-check; 1,928), `espei_certified_basis`,
+`calphad_check` (323 ready values disagree, 9,970 have no prediction), `espei_ready_upstream`, `espei_phase_rule`,
+`espei_blocked_by`; reference phase names `1` / `A1` completed to `1/2_MOLE_X2(G)` / `FCC_A1` (1,675; section 5b).
+No printed value or label changed. ESPEI bundle: experimental 909, model 464, invariants 1,672, DFT literature 442,
+Materials Project 1,218, OQMD 1,218, assessed 654 datasets (VALIDATION.md). Parquet columns `flag_espei_certified`,
+`flag_espei_ready_upstream`, `calphad_check`, `espei_certified_basis`, `espei_phase_rule_result/_reason`,
+`espei_blocked_by`.
+
 **Literature values re-exported** from the record store db-v2.1 v2.1.19r: 77,540 values (was 76,432; general
 tables 45,088), 76,600 accepted, 1,391 systems, 4,881 papers and cited works. Every table value now carries
 `reader_agreement` / `reader_agreement_label`: `multi_reader` 41,809, `single_reader_text_layer` 2,385,

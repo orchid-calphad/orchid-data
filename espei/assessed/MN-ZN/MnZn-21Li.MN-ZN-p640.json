@@ -20,7 +20,6 @@
    84.88331326,
    411.8833133,
    251.3833133,
-   225.3833133,
    260.8833133,
    323.3833133,
    1285.883313,
@@ -35,7 +34,6 @@
    842.8833133,
    1067.383313,
    985.8833133,
-   1065.883313,
    1050.883313
   ]
  },
@@ -107,17 +105,6 @@
     ],
     [
      0.345089532
-    ]
-   ]
-  ],
-  [
-   [
-    "MNZN_B2",
-    [
-     "ZN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -421,17 +408,6 @@
   ],
   [
    [
-    "MNZN_B2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ZN"
@@ -474,7 +450,6 @@
    "aspa-7cba72c471f00e66",
    "aspa-ffba01803f37c0d1",
    "aspa-2fedce7052fde1c2",
-   "aspa-a1182a794bd3f0c7",
    "aspa-7ee7058704960e4d",
    "aspa-f397e2140e904794",
    "aspa-32d1996a38fd16c4",
@@ -489,7 +464,6 @@
    "aspa-26e87e6ad670f348",
    "aspa-188a181aaa06b763",
    "aspa-b3cb401495135742",
-   "aspa-0141d0061caea3a7",
    "aspa-fc925c3393734025"
   ],
   "confidence": [
@@ -497,7 +471,6 @@
    "high",
    "medium",
    "high",
-   "high",
    "medium",
    "high",
    "high",
@@ -509,12 +482,11 @@
    "high",
    "high",
    "high",
-   "medium",
    "medium",
    "medium",
    "medium"
   ],
-  "points_left_out": 7,
+  "points_left_out": 9,
   "source": "assessed-phase-assemblages/espei-zpf/MN-ZN-p640.json"
  }
 }

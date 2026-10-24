@@ -18,7 +18,6 @@
    490.7685806,
    472.7685806,
    685.7685806,
-   862.7685806,
    699.7685806,
    758.7685806,
    996.2685806,
@@ -141,17 +140,6 @@
     ],
     [
      0.1296512988
-    ]
-   ]
-  ],
-  [
-   [
-    "NA3SB_D018",
-    [
-     "SB"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -298,7 +286,6 @@
    "aspa-ea04994adcc136f5",
    "aspa-18be83e62135f626",
    "aspa-75d2567b74bc0140",
-   "aspa-5f93df8713540095",
    "aspa-42aa5cab9d734412",
    "aspa-9f5adb390cc236ed",
    "aspa-16741c2ec1481fe9",
@@ -312,12 +299,11 @@
    "high",
    "medium",
    "medium",
-   "medium",
    "high",
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/NA-SB-p663.json"
  }
 }

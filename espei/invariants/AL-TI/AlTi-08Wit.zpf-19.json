@@ -6,39 +6,17 @@
  ],
  "phases": [
   "ALTI_L10",
-  "BCC_A2",
   "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1983.0,
    1737.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -76,16 +54,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5XEHP6OR2S ORC-BS7CVC42Z6",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BS7CVC42Z6",
  "bibtex": "witusiewicz2008_676ecf",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-5XEHP6OR2S",
-    "paper": "doi:10.1016/j.jallcom.2007.10.061"
-   },
    {
     "id": "ORC-BS7CVC42Z6",
     "paper": "doi:10.1016/j.jallcom.2007.10.061"
@@ -97,7 +71,8 @@
   "dois": [
    "10.1016/j.jallcom.2007.10.061"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-19.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-19.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -105,12 +80,20 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-BS7CVC42Z6",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

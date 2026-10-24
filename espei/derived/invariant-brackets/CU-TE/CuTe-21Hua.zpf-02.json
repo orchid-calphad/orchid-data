@@ -7,7 +7,6 @@
  "phases": [
   "CU2TE_EPSILON",
   "CU4TE3_BETA",
-  "CU4TE3_C38",
   "CUTE_BETA",
   "LIQUID"
  ],
@@ -16,8 +15,6 @@
   "T": [
    913.15,
    893.15,
-   658.15,
-   638.15,
    698.15,
    678.15
   ]
@@ -65,64 +62,6 @@
   [
    [
     "CU4TE3_BETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.418571
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.438571
-    ]
-   ]
-  ],
-  [
-   [
-    "CU4TE3_BETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.418571
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TE"
-    ],
-    [
-     0.438571
-    ]
-   ]
-  ],
-  [
-   [
-    "CU4TE3_C38",
     [
      "TE"
     ],
@@ -225,7 +164,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-21Hua.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-25QBW6GQEB ORC-AI53BXU3B2 ORC-RCEYJGIW7B",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TE/CuTe-21Hua.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-25QBW6GQEB ORC-RCEYJGIW7B",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-TE/CuTe-21Hua.zpf-02.json",
@@ -268,42 +207,6 @@
     ],
     "phases_below": [
      "CU4TE3_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-AI53BXU3B2",
-    "side": "above",
-    "T_invariant_K": 648.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.428571,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "H-Cu4Te3 ↔ L-Cu4Te3",
-    "reaction_type": null,
-    "phases_above": [
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CU4TE3_C38"
-    ]
-   },
-   {
-    "source_observation": "ORC-AI53BXU3B2",
-    "side": "below",
-    "T_invariant_K": 648.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.428571,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "H-Cu4Te3 ↔ L-Cu4Te3",
-    "reaction_type": null,
-    "phases_above": [
-     "CU4TE3_BETA"
-    ],
-    "phases_below": [
-     "CU4TE3_C38"
     ]
    },
    {

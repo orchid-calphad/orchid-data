@@ -19,12 +19,9 @@
    411.8833133,
    1285.883313,
    642.8833133,
-   617.8833133,
    662.3833133,
    840.8833133,
    614.8833133,
-   756.8833133,
-   689.8833133,
    718.3833133,
    828.3833133,
    1050.383313,
@@ -99,17 +96,6 @@
   ],
   [
    [
-    "MNZN9",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "CUB_A13",
     [
      "ZN"
@@ -174,28 +160,6 @@
     ],
     [
      0.8751600048
-    ]
-   ]
-  ],
-  [
-   [
-    "MNZN9",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "MNZN9",
-    [
-     "ZN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -371,12 +335,9 @@
    "aspa-ffba01803f37c0d1",
    "aspa-32d1996a38fd16c4",
    "aspa-54afef837e9feae8",
-   "aspa-43d81bb1eb7ae177",
    "aspa-133cfef3167ce53f",
    "aspa-701b9c4914bd4715",
    "aspa-be5457e51818ac92",
-   "aspa-e07cca887186f39f",
-   "aspa-46f8132213b1a7d8",
    "aspa-49c653ca33a6b239",
    "aspa-6594ef4022d46205",
    "aspa-973d84cda07bb7bb",
@@ -389,9 +350,6 @@
    "high",
    "high",
    "high",
-   "high",
-   "medium",
-   "high",
    "medium",
    "high",
    "medium",
@@ -402,7 +360,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 11,
+  "points_left_out": 14,
   "source": "assessed-phase-assemblages/espei-zpf/MN-ZN-p640.json"
  }
 }

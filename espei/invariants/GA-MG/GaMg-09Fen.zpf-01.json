@@ -6,105 +6,21 @@
  ],
  "phases": [
   "GA2MG",
-  "GA2MG5_D8G",
   "GA5MG2",
   "GAMG",
   "GAMG2",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   693.0,
-   736.0,
-   718.0,
    639.0,
-   642.0,
    583.0,
    476.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA2MG5_D8G",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA2MG5_D8G",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GA2MG5_D8G",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GAMG2",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -140,26 +56,6 @@
     ],
     [
      0.5833335
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MG"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "GAMG",
-    [
-     "MG"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -247,27 +143,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-52JDG6HBUY ORC-BOLZNZSTXR ORC-TSD7KMST55 ORC-DY6GWJHTPI ORC-ZZLH6AIBBJ ORC-3QO6RY6LLE ORC-6QG2OFFHHN",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DY6GWJHTPI ORC-3QO6RY6LLE ORC-6QG2OFFHHN",
  "bibtex": "notin1991_7d3ed0",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-52JDG6HBUY",
-    "paper": "doi:10.1016/j.jallcom.2009.07.010",
-    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
-   },
-   {
-    "id": "ORC-BOLZNZSTXR",
-    "paper": "doi:10.1016/j.jallcom.2009.07.010",
-    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
-   },
-   {
-    "id": "ORC-TSD7KMST55",
-    "paper": "doi:10.1016/j.jallcom.2009.07.010",
-    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
-   },
    {
     "id": "ORC-DY6GWJHTPI",
     "paper": "doi:10.1016/j.jallcom.2009.07.010",
@@ -279,11 +160,6 @@
       "dataset": "invariants/GA-MG/GaMg-10Men.zpf-07.json"
      }
     ]
-   },
-   {
-    "id": "ORC-ZZLH6AIBBJ",
-    "paper": "doi:10.1016/j.jallcom.2009.07.010",
-    "measured_in": "doi:10.1016/0925-8388(91)90007-i"
    },
    {
     "id": "ORC-3QO6RY6LLE",
@@ -319,27 +195,12 @@
    "10.1016/s1003-6326(09)60161-8"
   ],
   "source_dataset": "db-v2.1/invariants/espei/GaMg-09Fen/zpf-01.json",
+  "values_dropped": 4,
   "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -359,5 +220,27 @@
   "line_compound_vertices_null": 6,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-DY6GWJHTPI",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3QO6RY6LLE",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6QG2OFFHHN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

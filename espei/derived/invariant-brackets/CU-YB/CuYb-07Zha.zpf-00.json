@@ -21,8 +21,6 @@
    1020.0,
    1108.0,
    1088.0,
-   1220.0,
-   1200.0,
    1160.0,
    1140.0
   ]
@@ -237,64 +235,6 @@
      "YB"
     ],
     [
-     0.181818
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.171818
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.191818
-    ]
-   ]
-  ],
-  [
-   [
-    "CU9YB2",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.171818
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.191818
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "YB"
-    ],
-    [
      null
     ]
    ],
@@ -364,7 +304,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-YB/CuYb-07Zha.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4XPDI3MXH6 ORC-CWF3DJCIBP ORC-NPYDMH7YZH ORC-TQXMKCJLAL ORC-XIYOV4ICJG",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-YB/CuYb-07Zha.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4XPDI3MXH6 ORC-CWF3DJCIBP ORC-NPYDMH7YZH ORC-XIYOV4ICJG",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-YB/CuYb-07Zha.zpf-00.json",
@@ -483,42 +423,6 @@
     ],
     "phases_below": [
      "CU7YB2"
-    ]
-   },
-   {
-    "source_observation": "ORC-TQXMKCJLAL",
-    "side": "above",
-    "T_invariant_K": 1210.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.181818,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> Cu9Yb2",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU9YB2"
-    ]
-   },
-   {
-    "source_observation": "ORC-TQXMKCJLAL",
-    "side": "below",
-    "T_invariant_K": 1210.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.181818,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> Cu9Yb2",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "CU9YB2"
     ]
    },
    {

@@ -14,10 +14,8 @@
   "P": 101325.0,
   "T": [
    976.6199549,
-   730.1199549,
    706.1199549,
    785.1199549,
-   820.6199549,
    1300.619955,
    1528.619955,
    1216.119955
@@ -33,17 +31,6 @@
     ],
     [
      0.04828773567
-    ]
-   ]
-  ],
-  [
-   [
-    "CU19SI6",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -102,17 +89,6 @@
     ],
     [
      0.6264099227
-    ]
-   ]
-  ],
-  [
-   [
-    "CU19SI6",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -198,25 +174,21 @@
   "target_tdb": "CuSi-00Yan.tdb",
   "record_ids": [
    "aspa-03b9144d273e3753",
-   "aspa-e62f85247a53c226",
    "aspa-14d83032d14889b0",
    "aspa-d8adf3b19c6caf93",
-   "aspa-522d7019a1d76f8b",
    "aspa-04ec51cf3e8021d3",
    "aspa-0b1144435c65a150",
    "aspa-014016f4779af23e"
   ],
   "confidence": [
    "high",
-   "medium",
    "high",
    "high",
-   "medium",
    "medium",
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/CU-SI-p365.json"
  }
 }

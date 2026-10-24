@@ -17,10 +17,8 @@
   "P": 101325.0,
   "T": [
    851.5698721,
-   923.0698721,
    700.5698721,
    820.5698721,
-   1026.569872,
    1066.069872,
    977.0698721,
    1307.569872,
@@ -62,17 +60,6 @@
     ],
     [
      0.1083347316
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51SM14",
-    [
-     "SM"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -131,17 +118,6 @@
     ],
     [
      0.416166026
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "SM"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -459,10 +435,8 @@
   "target_tdb": "AgSm-20Zho.tdb",
   "record_ids": [
    "aspa-67b479932f033fd4",
-   "aspa-5c3ac87cb4fe932e",
    "aspa-575d098555cd69ba",
    "aspa-7d12074f905d9172",
-   "aspa-b71008a5e5acdae1",
    "aspa-1f3206b855302742",
    "aspa-a6217f2b997057ef",
    "aspa-b252c49add8c1620",
@@ -479,8 +453,6 @@
    "medium",
    "high",
    "high",
-   "high",
-   "medium",
    "medium",
    "high",
    "high",
@@ -493,7 +465,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/AG-SM-p64.json"
  }
 }

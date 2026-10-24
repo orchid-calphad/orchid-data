@@ -24,8 +24,6 @@
    1388.15,
    1243.15,
    1223.15,
-   1383.15,
-   1363.15,
    1408.15,
    1388.15,
    1708.15,
@@ -290,64 +288,6 @@
   ],
   [
    [
-    "CO7TH2_BETA",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.212222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.232222
-    ]
-   ]
-  ],
-  [
-   [
-    "CO7TH2_ALPHA",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.212222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.232222
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "TH"
@@ -605,7 +545,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-TH/CoTh-08Wan.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-27HR6HNCZA ORC-42WORZMR6R ORC-5JE4PB4NH5 ORC-BVKCWFS2BU ORC-EFHTIIL5ZA ORC-FIPIR5RYAZ ORC-LKRK7QYFYM ORC-XDIWKXOSEZ ORC-XHIFVDA7AQ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-TH/CoTh-08Wan.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-27HR6HNCZA ORC-42WORZMR6R ORC-5JE4PB4NH5 ORC-BVKCWFS2BU ORC-FIPIR5RYAZ ORC-LKRK7QYFYM ORC-XDIWKXOSEZ ORC-XHIFVDA7AQ",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-TH/CoTh-08Wan.zpf-01.json",
@@ -757,42 +697,6 @@
     ],
     "phases_below": [
      "COTH_B33",
-     "CO7TH2_ALPHA"
-    ]
-   },
-   {
-    "source_observation": "ORC-EFHTIIL5ZA",
-    "side": "above",
-    "T_invariant_K": 1373.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βCo7Th2 <-> αCo7Th2",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "CO7TH2_BETA"
-    ],
-    "phases_below": [
-     "CO7TH2_ALPHA"
-    ]
-   },
-   {
-    "source_observation": "ORC-EFHTIIL5ZA",
-    "side": "below",
-    "T_invariant_K": 1373.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βCo7Th2 <-> αCo7Th2",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "CO7TH2_BETA"
-    ],
-    "phases_below": [
      "CO7TH2_ALPHA"
     ]
    },

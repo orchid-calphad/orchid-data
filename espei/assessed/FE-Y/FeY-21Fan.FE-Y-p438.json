@@ -26,7 +26,6 @@
    1395.02914,
    1650.02914,
    1403.52914,
-   1478.02914,
    1479.52914,
    1603.02914,
    1561.02914,
@@ -265,17 +264,6 @@
   ],
   [
    [
-    "FE23Y6_D8A",
-    [
-     "Y"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "FE3Y",
     [
      "Y"
@@ -498,7 +486,6 @@
    "aspa-2166f50837ca0f75",
    "aspa-f7d4a5fa735e5101",
    "aspa-2bab84fcdfc91028",
-   "aspa-06de87a2a8d67fb9",
    "aspa-03032c01c65f2707",
    "aspa-a055a493778c9e47",
    "aspa-e2074e9059c440de",
@@ -517,7 +504,6 @@
    "high",
    "high",
    "high",
-   "medium",
    "high",
    "high",
    "medium",
@@ -526,7 +512,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/FE-Y-p438.json"
  }
 }

@@ -8,7 +8,6 @@
   "BCC_A2",
   "LA11SN10",
   "LA5SN3_D88",
-  "LA5SN3_D8M",
   "LA5SN4",
   "LASN3_L12",
   "LASN_B33",
@@ -21,8 +20,6 @@
    1010.0,
    1783.0,
    1763.0,
-   683.0,
-   663.0,
    1578.0,
    1558.0,
    1430.0,
@@ -110,64 +107,6 @@
    ],
    [
     "LA5SN4",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.365
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.385
-    ]
-   ]
-  ],
-  [
-   [
-    "LA5SN3_D88",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.365
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SN"
-    ],
-    [
-     0.385
-    ]
-   ]
-  ],
-  [
-   [
-    "LA5SN3_D8M",
     [
      "SN"
     ],
@@ -357,7 +296,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/LA-SN/LaSn-09Idb.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5KFHHYWYQW ORC-7J4FOAI7LM ORC-AA4PC77ZXV ORC-P6HUUKJ2VA ORC-X6XHLIRI7Q",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/LA-SN/LaSn-09Idb.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5KFHHYWYQW ORC-7J4FOAI7LM ORC-P6HUUKJ2VA ORC-X6XHLIRI7Q",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/LA-SN/LaSn-09Idb.zpf-00.json",
@@ -435,42 +374,6 @@
     "phases_above": [
      "LIQUID",
      "LA5SN4"
-    ],
-    "phases_below": [
-     "LA5SN3_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-AA4PC77ZXV",
-    "side": "above",
-    "T_invariant_K": 673.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.375,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αLa5Sn3 <=> βLa5Sn3",
-    "reaction_type": null,
-    "phases_above": [
-     "LA5SN3_D8M"
-    ],
-    "phases_below": [
-     "LA5SN3_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-AA4PC77ZXV",
-    "side": "below",
-    "T_invariant_K": 673.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.375,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αLa5Sn3 <=> βLa5Sn3",
-    "reaction_type": null,
-    "phases_above": [
-     "LA5SN3_D8M"
     ],
     "phases_below": [
      "LA5SN3_D88"

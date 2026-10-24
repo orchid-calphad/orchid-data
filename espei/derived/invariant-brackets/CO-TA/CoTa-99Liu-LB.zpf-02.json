@@ -6,7 +6,6 @@
  ],
  "phases": [
   "C36_LAVES",
-  "CO7TA2",
   "FCC_A1",
   "LIQUID"
  ],
@@ -14,9 +13,7 @@
   "P": 101325,
   "T": [
    1561.0,
-   1541.0,
-   1291.0,
-   1271.0
+   1541.0
   ]
  },
  "output": "ZPF",
@@ -87,73 +84,6 @@
      0.148
     ]
    ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C36_LAVES",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TA"
-    ],
-    [
-     0.2122222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TA"
-    ],
-    [
-     0.2322222222
-    ]
-   ]
-  ],
-  [
-   [
-    "CO7TA2",
-    [
-     "TA"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TA"
-    ],
-    [
-     0.2122222222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TA"
-    ],
-    [
-     0.2322222222
-    ]
-   ]
   ]
  ],
  "reference": "reference [16] of doi:10-1016-s0364-5916-00-00005-5 (no printed entry could be read)",
@@ -164,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-TA/CoTa-99Liu-LB.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-NGOFNNK6VE ORC-OWD7U73JTN",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-TA/CoTa-99Liu-LB.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-NGOFNNK6VE",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-TA/CoTa-99Liu-LB.zpf-02.json",
@@ -207,44 +137,6 @@
     "phases_below": [
      "FCC_A1",
      "C36_LAVES"
-    ]
-   },
-   {
-    "source_observation": "ORC-OWD7U73JTN",
-    "side": "above",
-    "T_invariant_K": 1281,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.2222222222222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "fcc+C36= Co7Ta2",
-    "reaction_type": null,
-    "phases_above": [
-     "FCC_A1",
-     "C36_LAVES"
-    ],
-    "phases_below": [
-     "CO7TA2"
-    ]
-   },
-   {
-    "source_observation": "ORC-OWD7U73JTN",
-    "side": "below",
-    "T_invariant_K": 1281,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.2222222222222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "fcc+C36= Co7Ta2",
-    "reaction_type": null,
-    "phases_above": [
-     "FCC_A1",
-     "C36_LAVES"
-    ],
-    "phases_below": [
-     "CO7TA2"
     ]
    }
   ],

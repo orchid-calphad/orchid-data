@@ -1,0 +1,134 @@
+{
+ "components": [
+  "SC",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "SC5SI3_D88"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -90300.0
+   ]
+  ]
+ ],
+ "reference": "Qin 2015, doi:10.1007/s10973-014-4216-2",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-A4XBUGH2M5.4b4a26",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "ScSi-15Qin.tdb",
+   "path": "databases/sgte-binary/ScSi-15Qin.tdb",
+   "sha256": "e29b1390094334c403d0e8446dcef984869b8038d410ecc2cecba790547f15e6",
+   "catalog_entry": {
+    "name": "ScSi-15Qin.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1007-s10973-014-4216-2",
+   "doi": "10.1007/s10973-014-4216-2",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Thermal Analysis Calorim., 119, 1315-21(2015).",
+    "year": "2015"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "qin2015_5d8bcf",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-A4XBUGH2M5.4b4a26",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10973-014-4216-2",
+    "measured_in": "doi:10.1007/s10973-014-4216-2"
+   }
+  ],
+  "papers": [
+   "doi:10.1007/s10973-014-4216-2"
+  ],
+  "dois": [
+   "10.1007/s10973-014-4216-2"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/ScSi-15Qin/hmr-model-00.json",
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "SC5SI3_D88"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "ScSi-15Qin.tdb",
+   "path": "databases/sgte-binary/ScSi-15Qin.tdb",
+   "sha256": "e29b1390094334c403d0e8446dcef984869b8038d410ecc2cecba790547f15e6",
+   "phase": "SC5SI3_D88",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   5.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SC",
+    "SI"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-A4XBUGH2M5.4b4a26",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

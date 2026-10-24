@@ -14,8 +14,10 @@
   "T": [
    1195.0,
    1216.0,
+   1289.0,
    1405.0,
    1381.0,
+   1253.0,
    1233.0
   ]
  },
@@ -86,6 +88,35 @@
      "ZR"
     ],
     [
+     0.6667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6567
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.6767
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
      0.2154
     ]
    ],
@@ -139,6 +170,44 @@
   ],
   [
    [
+    "LIQUID",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU51ZR14",
+    [
+     "ZR"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.2627272727
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "ZR"
+    ],
+    [
+     0.2827272727
+    ]
+   ]
+  ],
+  [
+   [
     "CU8ZR3",
     [
      "ZR"
@@ -175,7 +244,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-ZR/CuZr-08Tur.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6NSN5PDW4I ORC-F7APSYWJLH ORC-TB6X5GL4ZL ORC-YWAVRM5E6J",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-ZR/CuZr-08Tur.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6NSN5PDW4I ORC-F7APSYWJLH ORC-SOALR52AHT ORC-TB6X5GL4ZL ORC-YWAVRM5E6J",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-ZR/CuZr-08Tur.zpf-01.json",
@@ -219,6 +288,24 @@
     ]
    },
    {
+    "source_observation": "ORC-SOALR52AHT",
+    "side": "above",
+    "T_invariant_K": 1279.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.6667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L <=> CuZr2",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "CUZR2"
+    ]
+   },
+   {
     "source_observation": "ORC-TB6X5GL4ZL",
     "side": "above",
     "T_invariant_K": 1393.0,
@@ -252,6 +339,25 @@
     ],
     "phases_below": [
      "CU51ZR14"
+    ]
+   },
+   {
+    "source_observation": "ORC-YWAVRM5E6J",
+    "side": "above",
+    "T_invariant_K": 1243.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.2727272727272727,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L + Cu51Zr14 <=> Cu8Zr3",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "CU51ZR14"
+    ],
+    "phases_below": [
+     "CU8ZR3"
     ]
    },
    {

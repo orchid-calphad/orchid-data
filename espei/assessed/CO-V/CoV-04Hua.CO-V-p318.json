@@ -19,7 +19,6 @@
    495.5409757,
    849.0409757,
    1518.540976,
-   1128.540976,
    837.5409757,
    1150.040976,
    1064.540976,
@@ -137,17 +136,6 @@
     ],
     [
      0.9369908375
-    ]
-   ]
-  ],
-  [
-   [
-    "CO3V",
-    [
-     "V"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -353,7 +341,6 @@
    "aspa-ef2889381480c16b",
    "aspa-896da8d63f1f9495",
    "aspa-51e3f4c22b57734d",
-   "aspa-e66df946fb7f78d5",
    "aspa-d872107ac170f6ba",
    "aspa-0722916e22ccda76",
    "aspa-7523637bd41bed7d",
@@ -370,14 +357,13 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "medium",
    "medium",
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CO-V-p318.json"
  }
 }

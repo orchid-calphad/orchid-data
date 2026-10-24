@@ -6,7 +6,6 @@
  ],
  "phases": [
   "FCC_A1",
-  "FE2SC_C14",
   "FE2SC_C15",
   "FE2SC_C36",
   "LIQUID"
@@ -18,8 +17,6 @@
    1543.15,
    1848.15,
    1828.15,
-   1483.15,
-   1463.15,
    1808.15,
    1788.15
   ]
@@ -153,64 +150,6 @@
   ],
   [
    [
-    "FE2SC_C36",
-    [
-     "SC"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SC"
-    ],
-    [
-     0.3233333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SC"
-    ],
-    [
-     0.3433333333
-    ]
-   ]
-  ],
-  [
-   [
-    "FE2SC_C14",
-    [
-     "SC"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SC"
-    ],
-    [
-     0.3233333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SC"
-    ],
-    [
-     0.3433333333
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SC"
@@ -285,7 +224,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-SC/FeSc-08Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-DQLBLI2BZD ORC-I577LCSKMC ORC-NXHYHKNVNT ORC-PN2YHCTPKQ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-SC/FeSc-08Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-DQLBLI2BZD ORC-I577LCSKMC ORC-NXHYHKNVNT",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-SC/FeSc-08Liu.zpf-00.json",
@@ -364,42 +303,6 @@
     ],
     "phases_below": [
      "FE2SC_C36"
-    ]
-   },
-   {
-    "source_observation": "ORC-PN2YHCTPKQ",
-    "side": "above",
-    "T_invariant_K": 1473.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.3333333333333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βFe2Sc -> αFe2Sc",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "FE2SC_C36"
-    ],
-    "phases_below": [
-     "FE2SC_C14"
-    ]
-   },
-   {
-    "source_observation": "ORC-PN2YHCTPKQ",
-    "side": "below",
-    "T_invariant_K": 1473.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.3333333333333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βFe2Sc -> αFe2Sc",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "FE2SC_C36"
-    ],
-    "phases_below": [
-     "FE2SC_C14"
     ]
    },
    {

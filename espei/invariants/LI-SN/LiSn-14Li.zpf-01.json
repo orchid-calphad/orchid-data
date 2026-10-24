@@ -5,8 +5,6 @@
   "VA"
  ],
  "phases": [
-  "BCC_A2",
-  "LI17SN4",
   "LI2SN5",
   "LI5SN2",
   "LI7SN2",
@@ -17,46 +15,15 @@
  "conditions": {
   "P": 101325,
   "T": [
-   455,
    1052,
    782,
    746,
    759,
-   600,
-   453.6
+   600
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LI17SN4",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -210,35 +177,6 @@
      0.6071428569999999
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LI17SN4",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Li 2014, doi:10.1016/j.calphad.2014.09.002",
@@ -248,17 +186,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-NESUOHX7T6 ORC-MQ6BOSUJBN ORC-XLMGHJNWKJ ORC-UOD5B25VHE.d37a1b ORC-33HWD7L4Q2 ORC-W5OP32PL6L ORC-6NF5NFIVD5",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-MQ6BOSUJBN ORC-XLMGHJNWKJ ORC-UOD5B25VHE.d37a1b ORC-33HWD7L4Q2 ORC-W5OP32PL6L",
  "bibtex": "li2014_61c8d5",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-NESUOHX7T6",
-    "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
-   },
    {
     "id": "ORC-MQ6BOSUJBN",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
@@ -283,11 +216,6 @@
     "id": "ORC-W5OP32PL6L",
     "paper": "doi:10.1016/j.calphad.2014.09.002",
     "measured_in": "doi:10.1016/j.calphad.2014.09.002"
-   },
-   {
-    "id": "ORC-6NF5NFIVD5",
-    "paper": "doi:10.1016/j.calphad.2014.09.002",
-    "measured_in": "doi:10.1016/j.calphad.2014.09.002"
    }
   ],
   "papers": [
@@ -297,19 +225,11 @@
    "10.1016/j.calphad.2014.09.002"
   ],
   "source_dataset": "db-v2.1/invariants/espei/LiSn-14Li/zpf-01.json",
-  "values_dropped": 4
+  "values_dropped": 6
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -334,8 +254,40 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 9,
+  "line_compound_vertices_null": 7,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 3,
+  "values": [
+   {
+    "id": "ORC-MQ6BOSUJBN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XLMGHJNWKJ",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-UOD5B25VHE.d37a1b",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-33HWD7L4Q2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-W5OP32PL6L",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

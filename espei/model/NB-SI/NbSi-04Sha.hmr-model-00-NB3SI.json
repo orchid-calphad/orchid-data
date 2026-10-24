@@ -1,0 +1,133 @@
+{
+ "components": [
+  "NB",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "NB3SI"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -29642.5
+   ]
+  ]
+ ],
+ "reference": "Shao 2004, doi:10.1016/j.intermet.2004.03.011",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-LNB6D3ORYX",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NbSi-04Sha.tdb",
+   "path": "databases/sgte-binary/NbSi-04Sha.tdb",
+   "sha256": "025b4cfcca64b229fc714a3993cc60d403790447934344f527d27ed6ab88b8eb",
+   "catalog_entry": {
+    "name": "NbSi-04Sha.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-intermet-2004-03-011",
+   "doi": "10.1016/j.intermet.2004.03.011",
+   "citation": {
+    "authors": "see doi",
+    "title": "G. Shao, Intermetallics, 12, 655-64(2004).",
+    "year": "2004"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "shao2004_494bbe",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-LNB6D3ORYX",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2004.03.011",
+    "measured_in": "doi:10.1016/j.intermet.2004.03.011"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2004.03.011"
+  ],
+  "dois": [
+   "10.1016/j.intermet.2004.03.011"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NbSi-04Sha/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "NB3SI"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "NbSi-04Sha.tdb",
+   "path": "databases/sgte-binary/NbSi-04Sha.tdb",
+   "sha256": "025b4cfcca64b229fc714a3993cc60d403790447934344f527d27ed6ab88b8eb",
+   "phase": "NB3SI",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   3.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NB",
+    "SI"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-LNB6D3ORYX",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

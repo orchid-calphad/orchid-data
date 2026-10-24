@@ -21,7 +21,6 @@
    851.9877101,
    847.4877101,
    1256.48771,
-   1341.98771,
    1421.98771,
    2116.98771,
    954.4877101,
@@ -122,17 +121,6 @@
     ],
     [
      0.5097180836
-    ]
-   ]
-  ],
-  [
-   [
-    "ALMO3_A15",
-    [
-     "MO"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -463,7 +451,6 @@
    "aspa-f5e59d7eba12977e",
    "aspa-99b11145e7981157",
    "aspa-254b2000b7a73e7b",
-   "aspa-a1697f0c595a6b5c",
    "aspa-087f1e001ea677ab",
    "aspa-ed98aba0fcceb89d",
    "aspa-9d8c15593ae53fb4",
@@ -481,7 +468,6 @@
    "high",
    "medium",
    "high",
-   "medium",
    "high",
    "high",
    "medium",
@@ -495,7 +481,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 8,
+  "points_left_out": 9,
   "source": "assessed-phase-assemblages/espei-zpf/AL-MO-p81.json"
  }
 }

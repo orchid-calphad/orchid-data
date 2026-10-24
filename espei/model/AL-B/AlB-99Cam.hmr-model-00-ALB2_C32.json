@@ -1,0 +1,137 @@
+{
+ "components": [
+  "AL",
+  "B",
+  "VA"
+ ],
+ "phases": [
+  "ALB2_C32"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -19100.0
+   ]
+  ]
+ ],
+ "reference": "Campbell 1999, doi:10.1361/105497199770340743",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OFWRUQIJOX.6e4d8b",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "AlB-99Cam.tdb",
+   "path": "databases/sgte-binary/AlB-99Cam.tdb",
+   "sha256": "4d78ca2cbf5a40960c80f7c5f391436a9dcb84eb31043f50d80d526478484e73",
+   "catalog_entry": {
+    "name": "AlB-99Cam.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1361-105497199770340743",
+   "doi": "10.1361/105497199770340743",
+   "citation": {
+    "authors": "see doi",
+    "title": "C.E. Campbell, U.R. Kattner, J. Phase Equilib., 20, 485-96(1999).",
+    "year": "1999"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "campbell1999_ce0f46",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-OFWRUQIJOX.6e4d8b",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1361/105497199770340743",
+    "measured_in": "doi:10.1361/105497199770340743",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1361/105497199770340743"
+  ],
+  "dois": [
+   "10.1361/105497199770340743"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/AlB-99Cam/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "ALB2_C32"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "AlB-99Cam.tdb",
+   "path": "databases/sgte-binary/AlB-99Cam.tdb",
+   "sha256": "4d78ca2cbf5a40960c80f7c5f391436a9dcb84eb31043f50d80d526478484e73",
+   "phase": "ALB2_C32",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "AL",
+    "B"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-OFWRUQIJOX.6e4d8b",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

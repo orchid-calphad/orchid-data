@@ -36,8 +36,6 @@
    1219.0,
    1261.0,
    1241.0,
-   1058.0,
-   1038.0,
    1026.0,
    1006.0
   ]
@@ -564,64 +562,6 @@
   ],
   [
    [
-    "PR2ZN17_HT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.884737
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.904737
-    ]
-   ]
-  ],
-  [
-   [
-    "PR2ZN17_LT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.884737
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.904737
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ZN"
@@ -696,7 +636,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PR-ZN/PrZn-08Hua.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3RXW662JCG ORC-5RYGX4DHNI ORC-D24ALMAZUY ORC-H2IBJ3GPHZ ORC-HM5RYIMFOE ORC-LO5I2HE4N2 ORC-MR34CHQTAR ORC-RG5Y6PQEL5 ORC-SLQFZPCHIQ ORC-TO2KTHLALQ ORC-XOBQAVPTEL",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PR-ZN/PrZn-08Hua.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3RXW662JCG ORC-5RYGX4DHNI ORC-D24ALMAZUY ORC-H2IBJ3GPHZ ORC-HM5RYIMFOE ORC-LO5I2HE4N2 ORC-MR34CHQTAR ORC-RG5Y6PQEL5 ORC-TO2KTHLALQ ORC-XOBQAVPTEL",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/PR-ZN/PrZn-08Hua.zpf-00.json",
@@ -999,42 +939,6 @@
     ],
     "phases_below": [
      "PR2ZN17_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-SLQFZPCHIQ",
-    "side": "above",
-    "T_invariant_K": 1048.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.894737,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Pr2Zn17-H -> Pr2Zn17-L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "PR2ZN17_HT"
-    ],
-    "phases_below": [
-     "PR2ZN17_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-SLQFZPCHIQ",
-    "side": "below",
-    "T_invariant_K": 1048.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.894737,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Pr2Zn17-H -> Pr2Zn17-L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "PR2ZN17_HT"
-    ],
-    "phases_below": [
-     "PR2ZN17_LT"
     ]
    },
    {

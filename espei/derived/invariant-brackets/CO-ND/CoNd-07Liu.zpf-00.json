@@ -10,7 +10,6 @@
   "CO2ND_C15",
   "CO3ND",
   "CO3ND2_HT",
-  "CO3ND2_LT",
   "CO3ND4",
   "CO5ND_D2D",
   "CO7ND2",
@@ -34,8 +33,6 @@
    1313.0,
    933.0,
    913.0,
-   866.0,
-   846.0,
    882.0,
    862.0,
    849.0,
@@ -454,64 +451,6 @@
   ],
   [
    [
-    "CO3ND2_HT",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.39
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.41
-    ]
-   ]
-  ],
-  [
-   [
-    "CO3ND2_LT",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.39
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ND"
-    ],
-    [
-     0.41
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ND"
@@ -845,7 +784,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-ND/CoNd-07Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2W5IZGLEG6 ORC-4QZJWTL3WJ ORC-BF4TP56N3M ORC-KA6LENTYCA ORC-M36E43DXYU ORC-N32DSSBHWO ORC-S255B3KK6S ORC-U6ABOFC2GQ ORC-UNCE5VXIKR ORC-XB2ET67YKQ ORC-XKMGYMTT3V ORC-XYFC3PBK7T ORC-ZKVEYZYQYO",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-ND/CoNd-07Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2W5IZGLEG6 ORC-4QZJWTL3WJ ORC-BF4TP56N3M ORC-KA6LENTYCA ORC-M36E43DXYU ORC-N32DSSBHWO ORC-S255B3KK6S ORC-U6ABOFC2GQ ORC-UNCE5VXIKR ORC-XB2ET67YKQ ORC-XYFC3PBK7T ORC-ZKVEYZYQYO",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-ND/CoNd-07Liu.zpf-00.json",
@@ -1078,42 +1017,6 @@
     ],
     "phases_below": [
      "CO3ND2_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-XKMGYMTT3V",
-    "side": "above",
-    "T_invariant_K": 856.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.4,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βCo3Nd2 -> αCo3Nd2",
-    "reaction_type": null,
-    "phases_above": [
-     "CO3ND2_HT"
-    ],
-    "phases_below": [
-     "CO3ND2_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-XKMGYMTT3V",
-    "side": "below",
-    "T_invariant_K": 856.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.4,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βCo3Nd2 -> αCo3Nd2",
-    "reaction_type": null,
-    "phases_above": [
-     "CO3ND2_HT"
-    ],
-    "phases_below": [
-     "CO3ND2_LT"
     ]
    },
    {

@@ -20,8 +20,6 @@
    1068.0,
    1698.0,
    1658.0,
-   1983.0,
-   1923.0,
    1843.0,
    1783.0
   ]
@@ -169,64 +167,6 @@
      "YB"
     ],
     [
-     0.571429
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.561429
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.581429
-    ]
-   ]
-  ],
-  [
-   [
-    "SB3YB4_D73",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.561429
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.581429
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "YB"
-    ],
-    [
      null
     ]
    ],
@@ -296,7 +236,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SB-YB/SbYb-23Paz.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SCQHLOEXD ORC-AL2DJH444F ORC-QAKRYGLH4V ORC-U56MX7ZDGP",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SB-YB/SbYb-23Paz.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SCQHLOEXD ORC-AL2DJH444F ORC-QAKRYGLH4V",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/SB-YB/SbYb-23Paz.zpf-01.json",
@@ -377,42 +317,6 @@
     ],
     "phases_below": [
      "SB10YB11"
-    ]
-   },
-   {
-    "source_observation": "ORC-U56MX7ZDGP",
-    "side": "above",
-    "T_invariant_K": 1953.0,
-    "offset_K": 30.0,
-    "T_sigma_K": 15.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.571429,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid -> Yb4Sb3",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "SB3YB4_D73"
-    ]
-   },
-   {
-    "source_observation": "ORC-U56MX7ZDGP",
-    "side": "below",
-    "T_invariant_K": 1953.0,
-    "offset_K": 30.0,
-    "T_sigma_K": 15.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.571429,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid -> Yb4Sb3",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "SB3YB4_D73"
     ]
    },
    {

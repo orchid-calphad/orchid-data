@@ -5,14 +5,12 @@
   "VA"
  ],
  "phases": [
-  "HCP_A3",
   "LIQUID",
   "NI2TB_C15",
   "NI3TB",
   "NI5TB_D2D",
   "NI7TB2",
-  "NITB",
-  "NITB3_D011"
+  "NITB"
  ],
  "conditions": {
   "P": 101325,
@@ -26,9 +24,7 @@
    1397.0,
    1276.0,
    1256.0,
-   1012.0,
-   1065.0,
-   1045.0
+   1012.0
   ]
  },
  "output": "ZPF",
@@ -358,73 +354,6 @@
      0.61
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.76
-    ]
-   ]
-  ],
-  [
-   [
-    "NITB3_D011",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.76
-    ]
-   ]
   ]
  ],
  "reference": "Rong 2004, doi:10.1016/s0925-8388(03)00667-4",
@@ -435,7 +364,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-TB/NiTb-04Ron.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2C2DDUPOYM ORC-3A3CQATMUW ORC-6E67ARBUZP ORC-LRMLKFEMOQ ORC-N3MX3V55EA ORC-QKUBK66NKF ORC-YXRUEVYFDU",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/NI-TB/NiTb-04Ron.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2C2DDUPOYM ORC-6E67ARBUZP ORC-LRMLKFEMOQ ORC-N3MX3V55EA ORC-QKUBK66NKF ORC-YXRUEVYFDU",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/NI-TB/NiTb-04Ron.zpf-00.json",
@@ -626,44 +555,6 @@
     ],
     "phases_below": [
      "NI2TB3"
-    ]
-   },
-   {
-    "source_observation": "ORC-3A3CQATMUW",
-    "side": "above",
-    "T_invariant_K": 1055.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq + (α-Tb) -> NiTb3",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "NITB3_D011"
-    ]
-   },
-   {
-    "source_observation": "ORC-3A3CQATMUW",
-    "side": "below",
-    "T_invariant_K": 1055.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liq + (α-Tb) -> NiTb3",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "NITB3_D011"
     ]
    }
   ],

@@ -22,8 +22,6 @@
    1633.15,
    1493.15,
    1473.15,
-   1468.15,
-   1448.15,
    1383.15,
    1363.15,
    1133.15,
@@ -226,64 +224,6 @@
   ],
   [
    [
-    "FE7TH2_BETA",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.212222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.232222
-    ]
-   ]
-  ],
-  [
-   [
-    "FE7TH2_ALPHA",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.212222
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TH"
-    ],
-    [
-     0.232222
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "TH"
@@ -425,7 +365,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-TH/FeTh-08Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-767F3GUQPI ORC-GMCJE6WTAP ORC-HUSLRHINJZ ORC-IOJLM54IOD ORC-LPK5RV6R5F ORC-XP4GJUJE6P",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-TH/FeTh-08Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-767F3GUQPI ORC-HUSLRHINJZ ORC-IOJLM54IOD ORC-LPK5RV6R5F ORC-XP4GJUJE6P",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-TH/FeTh-08Wan.zpf-00.json",
@@ -542,42 +482,6 @@
     ],
     "phases_below": [
      "FE7TH2_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-GMCJE6WTAP",
-    "side": "above",
-    "T_invariant_K": 1458.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βFe7Th2 -> αFe7Th2",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "FE7TH2_BETA"
-    ],
-    "phases_below": [
-     "FE7TH2_ALPHA"
-    ]
-   },
-   {
-    "source_observation": "ORC-GMCJE6WTAP",
-    "side": "below",
-    "T_invariant_K": 1458.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.222222,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βFe7Th2 -> αFe7Th2",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "FE7TH2_BETA"
-    ],
-    "phases_below": [
-     "FE7TH2_ALPHA"
     ]
    },
    {

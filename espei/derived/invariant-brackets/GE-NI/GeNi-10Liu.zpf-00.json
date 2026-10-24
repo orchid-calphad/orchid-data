@@ -6,8 +6,8 @@
  ],
  "phases": [
   "BCC_A2",
+  "GE2NI5",
   "GE3NI5_B82",
-  "GENI2_C37",
   "GENI3_B32",
   "LIQUID"
  ],
@@ -17,9 +17,9 @@
    1428.15,
    1408.15,
    1389.15,
-   1338.15,
-   789.15,
-   769.15
+   1369.15,
+   1358.15,
+   1338.15
   ]
  },
  "output": "ZPF",
@@ -131,6 +131,73 @@
     ]
    ],
    [
+    "GE2NI5",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.741
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.747
+    ]
+   ]
+  ],
+  [
+   [
+    "GE2NI5",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.71
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.73
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "NI"
+    ],
+    [
+     0.75
+    ]
+   ],
+   [
     "GE3NI5_B82",
     [
      "NI"
@@ -157,73 +224,6 @@
      0.73
     ]
    ]
-  ],
-  [
-   [
-    "GE3NI5_B82",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.655
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.675
-    ]
-   ]
-  ],
-  [
-   [
-    "GENI2_C37",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.655
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.675
-    ]
-   ]
   ]
  ],
  "reference": "Liu 2010, doi:10.1016/j.jallcom.2009.11.036",
@@ -234,7 +234,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-NI/GeNi-10Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SFRCCICQG ORC-6NGU7AVKMI ORC-DIAQMRJ5RQ ORC-FJ7P3JBLUF",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GE-NI/GeNi-10Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4SFRCCICQG ORC-6NGU7AVKMI ORC-FJ7P3JBLUF",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GE-NI/GeNi-10Liu.zpf-00.json",
@@ -299,8 +299,27 @@
     ]
    },
    {
-    "source_observation": "ORC-4SFRCCICQG",
+    "source_observation": "ORC-6NGU7AVKMI",
     "side": "below",
+    "T_invariant_K": 1379.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.744,
+    "hyperplane_delta": 0.0030000000000000027,
+    "reaction_printed": "γNi3Ge -> βNi3Ge + δNi5Ge2",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "GENI3_B32"
+    ],
+    "phases_below": [
+     "BCC_A2",
+     "GE2NI5"
+    ]
+   },
+   {
+    "source_observation": "ORC-4SFRCCICQG",
+    "side": "above",
     "T_invariant_K": 1348.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
@@ -318,41 +337,22 @@
     ]
    },
    {
-    "source_observation": "ORC-DIAQMRJ5RQ",
-    "side": "above",
-    "T_invariant_K": 779.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.665,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "εNi5Ge3 + βNi3Ge -> Ni2Ge",
-    "reaction_type": "peritectoid",
-    "phases_above": [
-     "GE3NI5_B82",
-     "BCC_A2"
-    ],
-    "phases_below": [
-     "GENI2_C37"
-    ]
-   },
-   {
-    "source_observation": "ORC-DIAQMRJ5RQ",
+    "source_observation": "ORC-4SFRCCICQG",
     "side": "below",
-    "T_invariant_K": 779.15,
+    "T_invariant_K": 1348.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,
     "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.665,
+    "x0": 0.72,
     "hyperplane_delta": 0.01,
-    "reaction_printed": "εNi5Ge3 + βNi3Ge -> Ni2Ge",
-    "reaction_type": "peritectoid",
+    "reaction_printed": "δNi5Ge2 -> βNi3Ge + εNi5Ge3",
+    "reaction_type": "eutectoid",
     "phases_above": [
-     "GE3NI5_B82",
-     "BCC_A2"
+     "GE2NI5"
     ],
     "phases_below": [
-     "GENI2_C37"
+     "BCC_A2",
+     "GE3NI5_B82"
     ]
    }
   ],

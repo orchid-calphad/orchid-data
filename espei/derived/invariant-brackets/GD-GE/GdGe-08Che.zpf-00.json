@@ -7,7 +7,6 @@
  "phases": [
   "DIAMOND_A4",
   "GD2GE3_BETA",
-  "GD2GE3_C32",
   "GD2GE3_GAMMA",
   "GD2GE5",
   "GD5GE3_D88",
@@ -33,9 +32,7 @@
    1173.0,
    1153.0,
    1133.0,
-   1113.0,
-   1116.0,
-   1096.0
+   1113.0
   ]
  },
  "output": "ZPF",
@@ -566,64 +563,6 @@
      0.729888
     ]
    ]
-  ],
-  [
-   [
-    "GD2GE3_BETA",
-    [
-     "GE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GE"
-    ],
-    [
-     0.58
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GE"
-    ],
-    [
-     0.6
-    ]
-   ]
-  ],
-  [
-   [
-    "GD2GE3_C32",
-    [
-     "GE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GE"
-    ],
-    [
-     0.58
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GE"
-    ],
-    [
-     0.6
-    ]
-   ]
   ]
  ],
  "reference": "Chen 2008, doi:10.1016/j.jallcom.2007.07.105",
@@ -634,7 +573,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-GE/GdGe-08Che.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-62DIQ2FIR7 ORC-75T43SHD35 ORC-DLPOYBO2CE ORC-EVK34Z2MRN ORC-GSX656ENZ6 ORC-RIGDWXY3H7 ORC-W2QZISNQG3 ORC-X53IUZ5RF2 ORC-YAITKNUDNH",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-GE/GdGe-08Che.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-62DIQ2FIR7 ORC-75T43SHD35 ORC-DLPOYBO2CE ORC-EVK34Z2MRN ORC-GSX656ENZ6 ORC-W2QZISNQG3 ORC-X53IUZ5RF2 ORC-YAITKNUDNH",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GD-GE/GdGe-08Che.zpf-00.json",
@@ -941,42 +880,6 @@
     "phases_below": [
      "GD2GE3_BETA",
      "DIAMOND_A4"
-    ]
-   },
-   {
-    "source_observation": "ORC-RIGDWXY3H7",
-    "side": "above",
-    "T_invariant_K": 1106.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.59,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β-Gd2Ge3 -> α-Gd2Ge3",
-    "reaction_type": null,
-    "phases_above": [
-     "GD2GE3_BETA"
-    ],
-    "phases_below": [
-     "GD2GE3_C32"
-    ]
-   },
-   {
-    "source_observation": "ORC-RIGDWXY3H7",
-    "side": "below",
-    "T_invariant_K": 1106.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.59,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "β-Gd2Ge3 -> α-Gd2Ge3",
-    "reaction_type": null,
-    "phases_above": [
-     "GD2GE3_BETA"
-    ],
-    "phases_below": [
-     "GD2GE3_C32"
     ]
    }
   ],

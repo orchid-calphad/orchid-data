@@ -5,8 +5,7 @@
   "W"
  ],
  "phases": [
-  "FCC_A1",
-  "LIQUID"
+  "FCC_A1"
  ],
  "conditions": {
   "P": 101325,
@@ -112,6 +111,32 @@
     },
     "weight_per_value_equivalent": 0.003145,
     "weight_used": 0.003676
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "FCC_A1"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-OY7HXVDK3P.5b9aeb",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OI5GVURH5M.3b2a92",
+    "espei_certified": false,
+    "calphad_check": "not_available"
    }
   ]
  }

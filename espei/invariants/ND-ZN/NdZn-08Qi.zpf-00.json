@@ -6,7 +6,6 @@
  ],
  "phases": [
   "BCC_A2",
-  "DHCP",
   "HCP_A3",
   "LIQUID",
   "ND13ZN58",
@@ -22,14 +21,12 @@
   "P": 101325,
   "T": [
    903.0,
-   895.0,
    1141.0,
    1127.0,
    1143.0,
    1175.0,
    1223.0,
    1053.0,
-   813.0,
    693.0
   ]
  },
@@ -47,35 +44,6 @@
    ],
    [
     "BCC_A2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "NDZN_B2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "BCC_A2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "DHCP",
     [
      "ZN"
     ],
@@ -305,26 +273,6 @@
   ],
   [
    [
-    "NDZN11_HT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "NDZN11_LT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ZN"
@@ -360,7 +308,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FQA2FHLZ6F ORC-ZYKETIRH7T ORC-MJFPZIVIQR ORC-ZEYDBTUY3O ORC-VSMRRA2BYR ORC-W6BH4FZULU ORC-2X76UB4MIC ORC-3SW7WMZNBN ORC-C7SZSMZXAG ORC-7WTV5G6IHS",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-FQA2FHLZ6F ORC-MJFPZIVIQR ORC-ZEYDBTUY3O ORC-VSMRRA2BYR ORC-W6BH4FZULU ORC-2X76UB4MIC ORC-3SW7WMZNBN ORC-7WTV5G6IHS",
  "bibtex": "mason1972_b7290d",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -368,11 +316,6 @@
   "observations": [
    {
     "id": "ORC-FQA2FHLZ6F",
-    "paper": "doi:10.1016/j.jallcom.2007.03.134",
-    "measured_in": "doi:10.1007/bf02652852"
-   },
-   {
-    "id": "ORC-ZYKETIRH7T",
     "paper": "doi:10.1016/j.jallcom.2007.03.134",
     "measured_in": "doi:10.1007/bf02652852"
    },
@@ -439,11 +382,6 @@
     ]
    },
    {
-    "id": "ORC-C7SZSMZXAG",
-    "paper": "doi:10.1016/j.jallcom.2007.03.134",
-    "measured_in": "doi:10.1007/bf02652852"
-   },
-   {
     "id": "ORC-7WTV5G6IHS",
     "paper": "doi:10.1016/j.jallcom.2007.03.134",
     "measured_in": "doi:10.1007/bf02652852",
@@ -468,20 +406,12 @@
    "10.1016/j.jallcom.2010.07.056"
   ],
   "source_dataset": "db-v2.1/invariants/espei/NdZn-08Qi/zpf-00.json",
-  "e3_merged": 5,
-  "values_dropped": 4
+  "values_dropped": 6,
+  "e3_merged": 5
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -518,8 +448,55 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 17,
+  "line_compound_vertices_null": 14,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-FQA2FHLZ6F",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-MJFPZIVIQR",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-ZEYDBTUY3O",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-VSMRRA2BYR",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-W6BH4FZULU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2X76UB4MIC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3SW7WMZNBN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7WTV5G6IHS",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "AL2U_C15",
   "AL3U_L12",
   "AL4U_BETA",
   "LIQUID"
@@ -14,9 +13,7 @@
   "P": 101325,
   "T": [
    1015.15,
-   995.15,
-   1633.15,
-   1613.15
+   995.15
   ]
  },
  "output": "ZPF",
@@ -87,73 +84,6 @@
      0.21
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AL2U_C15",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "AL3U_L12",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.26
-    ]
-   ]
   ]
  ],
  "reference": "Wang 2008, doi:10.1016/j.jnucmat.2007.06.023",
@@ -164,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-U/AlU-08Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-43XSMSGLQO ORC-KHE6DQ3MZS",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-U/AlU-08Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-KHE6DQ3MZS",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AL-U/AlU-08Wan.zpf-00.json",
@@ -207,44 +137,6 @@
     ],
     "phases_below": [
      "AL4U_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-43XSMSGLQO",
-    "side": "above",
-    "T_invariant_K": 1623.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + Al2U -> Al3U",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "AL2U_C15"
-    ],
-    "phases_below": [
-     "AL3U_L12"
-    ]
-   },
-   {
-    "source_observation": "ORC-43XSMSGLQO",
-    "side": "below",
-    "T_invariant_K": 1623.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + Al2U -> Al3U",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "AL2U_C15"
-    ],
-    "phases_below": [
-     "AL3U_L12"
     ]
    }
   ],

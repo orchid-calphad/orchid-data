@@ -1,0 +1,107 @@
+{
+ "components": [
+  "FE",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "FEZN13",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   692.55
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "FEZN13",
+    [
+     "ZN"
+    ],
+    [
+     0.928571
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "ZN"
+    ],
+    [
+     null
+    ]
+   ]
+  ]
+ ],
+ "reference": "Xiong 2009, doi:10.1016/j.calphad.2009.01.002",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C3NGD3YJKQ",
+ "bibtex": "xiong2009_c0de67",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-C3NGD3YJKQ",
+    "paper": "doi:10.1016/j.calphad.2009.01.002",
+    "also_reported_as": [
+     {
+      "id": "ORC-3K2JT5T4AT",
+      "paper": "doi:10.1016/j.calphad.2009.01.002",
+      "dataset": "invariants/FE-ZN/FeZn-09Xio.zpf-02.json"
+     }
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2009.01.002"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2009.01.002"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/FeZn-09Xio/zpf-01.json",
+  "e3_merged": 1,
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature only)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-C3NGD3YJKQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

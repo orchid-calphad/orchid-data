@@ -18,7 +18,6 @@
   "T": [
    752.3172226,
    668.8172226,
-   914.3172226,
    849.8172226,
    937.3172226,
    1081.317223,
@@ -68,17 +67,6 @@
     ],
     [
      0.9632724611
-    ]
-   ]
-  ],
-  [
-   [
-    "MG3M_D03",
-    [
-     "MG"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -292,7 +280,6 @@
   "record_ids": [
    "aspa-d92d752c43bfe6e9",
    "aspa-e34df3b43f1686ab",
-   "aspa-ee6121a0c4e5390f",
    "aspa-955c0c3b8c00722f",
    "aspa-0d030396488fd5af",
    "aspa-2c4cbc58058f18e8",
@@ -307,7 +294,6 @@
    "high",
    "medium",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -315,7 +301,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CE-MG-p273.json"
  }
 }

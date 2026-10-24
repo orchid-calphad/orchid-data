@@ -15,7 +15,6 @@
   "P": 101325.0,
   "T": [
    561.5767047,
-   570.0767047,
    547.0767047,
    614.5767047,
    853.0767047,
@@ -57,17 +56,6 @@
     ],
     [
      0.3309721064
-    ]
-   ]
-  ],
-  [
-   [
-    "MOU2_C11B",
-    [
-     "U"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -331,7 +319,6 @@
   "target_tdb": "MoU-10Zha.tdb",
   "record_ids": [
    "aspa-ac1bca648f2dc89b",
-   "aspa-5ac90937bcd1370e",
    "aspa-58a2b957f336a2ed",
    "aspa-37eb995e832fbf45",
    "aspa-a3ea832bd8d036ee",
@@ -346,7 +333,6 @@
   ],
   "confidence": [
    "high",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -359,7 +345,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/MO-U-p654.json"
  }
 }

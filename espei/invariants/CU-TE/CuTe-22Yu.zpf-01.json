@@ -11,7 +11,6 @@
   "CU2TE_IOTA",
   "CU2TE_KAPPA",
   "CU2TE_LAMBDA",
-  "CU2TE_THETA",
   "CU2TE_ZETA",
   "CU4TE3_BETA",
   "CU4TE3_C38",
@@ -28,9 +27,7 @@
    920.0,
    698.0,
    613.0,
-   450.0,
    518.0,
-   520.0,
    593.0,
    618.0,
    1076.0,
@@ -157,26 +154,6 @@
   ],
   [
    [
-    "CU2TE_ETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU2TE_THETA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "CU2TE_LAMBDA",
     [
      "TE"
@@ -210,26 +187,6 @@
     ],
     [
      0.352
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2TE_KAPPA",
-    [
-     "TE"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CU2TE_IOTA",
-    [
-     "TE"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -375,7 +332,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ULMRQVMPB2 ORC-IVG2W3Y6DA ORC-BRSPTJ6PVE ORC-2RJDUWH7DC ORC-OYSNB6BUPY ORC-PA6F7DGBLF ORC-2KPTPWJ4AS ORC-KXP4BGORKC ORC-NSGUC3FLRD ORC-BNYN4QVATS ORC-6KAJCVFIRL",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ULMRQVMPB2 ORC-IVG2W3Y6DA ORC-BRSPTJ6PVE ORC-2RJDUWH7DC ORC-PA6F7DGBLF ORC-KXP4BGORKC ORC-NSGUC3FLRD ORC-BNYN4QVATS ORC-6KAJCVFIRL",
  "bibtex": "yu2022_0fe98f",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -398,15 +355,7 @@
     "paper": "doi:10.1007/s11669-022-00950-z"
    },
    {
-    "id": "ORC-OYSNB6BUPY",
-    "paper": "doi:10.1007/s11669-022-00950-z"
-   },
-   {
     "id": "ORC-PA6F7DGBLF",
-    "paper": "doi:10.1007/s11669-022-00950-z"
-   },
-   {
-    "id": "ORC-2KPTPWJ4AS",
     "paper": "doi:10.1007/s11669-022-00950-z"
    },
    {
@@ -434,7 +383,8 @@
    "10.1007/s11669-022-00950-z",
    "10.1023/a:1024003932461"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuTe-22Yu/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/CuTe-22Yu/zpf-01.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -461,18 +411,6 @@
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
     "temperature_sigma_K": 3.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 7.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 5.0,
     "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
    },
    {
@@ -509,8 +447,60 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 25,
+  "line_compound_vertices_null": 21,
   "hyperplanes_added": 3,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-ULMRQVMPB2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IVG2W3Y6DA",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-BRSPTJ6PVE",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2RJDUWH7DC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-PA6F7DGBLF",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-KXP4BGORKC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-NSGUC3FLRD",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-BNYN4QVATS",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-6KAJCVFIRL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

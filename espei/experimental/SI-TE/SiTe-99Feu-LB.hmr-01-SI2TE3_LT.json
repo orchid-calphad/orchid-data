@@ -1,0 +1,151 @@
+{
+ "components": [
+  "SI",
+  "TE"
+ ],
+ "phases": [
+  "SI2TE3_LT"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.15
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -13800.0,
+    -14400.0
+   ]
+  ]
+ ],
+ "reference": "reference [13] of doi:10-1016-s0364-5916-00-00007-9 (no printed entry could be read)",
+ "tags": [
+  "experimental",
+  "thermochemical_table",
+  "single_reader_text_layer",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q77N3JJJ37 ORC-T5IN5YOYEN",
+ "weight": 0.083333,
+ "bibtex": "referencend_a4a4ab",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-Q77N3JJJ37",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/s0364-5916(00)00007-9",
+    "measured_in": "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13"
+   },
+   {
+    "id": "ORC-T5IN5YOYEN",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1016/s0364-5916(00)00007-9",
+    "measured_in": "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13"
+   }
+  ],
+  "papers": [
+   "unresolved:source:doi:10-1016-s0364-5916-00-00007-9#13",
+   "doi:10.1016/s0364-5916(00)00007-9"
+  ],
+  "dois": [
+   "10.1016/s0364-5916(00)00007-9"
+  ],
+  "source_dataset": "db-v2.1/general/espei/SiTe-99Feu-LB/hmr-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "dataset weight = ESPEI experimental default sigma_HM = 500 J/mol / median sigma of the dataset's values (printed sigma; assumed default where none was printed); ESPEI 0.9.1 equilibrium data take one weight per dataset",
+  "values": [
+   {
+    "sigma": 7000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 7.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.071429,
+    "weight_used": 0.083333
+   },
+   {
+    "sigma": 5000.0,
+    "sigma_basis": "printed",
+    "printed": {
+     "value": 5.0,
+     "unit": "kJ/mol-atom",
+     "interval": "±x printed; coverage not stated, taken as 1 sigma",
+     "coverage": "1sigma_assumed"
+    },
+    "weight_per_value_equivalent": 0.1,
+    "weight_used": 0.083333
+   }
+  ]
+ },
+ "orchid_weight_floor": {
+  "suggested_weight": 0.083333,
+  "weight_written": 0.083333,
+  "changes_weight": false,
+  "sigma_floor": 500.0,
+  "sigma_floor_unit": "J/mol",
+  "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "SI2TE3_LT"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "SiTe-99Feu-LB.tdb",
+   "path": "databases/sgte-binary/SiTe-99Feu-LB.tdb",
+   "sha256": "0d62124cd250a55a5554101c3b5f31292094d5a990a1b3e8e227e9fa23feeb44",
+   "phase": "SI2TE3_LT",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   2.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SI",
+    "TE"
+   ],
+   [
+    "SI",
+    "TE"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-Q77N3JJJ37",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-T5IN5YOYEN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

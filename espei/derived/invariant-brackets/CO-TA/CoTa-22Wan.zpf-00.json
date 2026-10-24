@@ -35,6 +35,7 @@
    1346.15,
    1326.15,
    1241.15,
+   1221.15,
    899.15,
    879.15
   ]
@@ -617,6 +618,44 @@
     ]
    ],
    [
+    "CO2TA_C15",
+    [
+     "TA"
+    ],
+    [
+     0.265
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.256
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "TA"
+    ],
+    [
+     0.262
+    ]
+   ]
+  ],
+  [
+   [
+    "CO7TA2",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
     "__HYPERPLANE__",
     [
      "TA"
@@ -996,6 +1035,25 @@
    {
     "source_observation": "ORC-QUPMC3ZF6H",
     "side": "above",
+    "T_invariant_K": 1231.15,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.259,
+    "hyperplane_delta": 0.0030000000000000027,
+    "reaction_printed": "λ3 ↔ Co7Ta2 + λ2",
+    "reaction_type": "eutectoid",
+    "phases_above": [
+     "CO2TA_C36"
+    ],
+    "phases_below": [
+     "CO7TA2",
+     "CO2TA_C15"
+    ]
+   },
+   {
+    "source_observation": "ORC-QUPMC3ZF6H",
+    "side": "below",
     "T_invariant_K": 1231.15,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

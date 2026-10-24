@@ -21,8 +21,6 @@
    1843.15,
    1793.15,
    1733.15,
-   1703.15,
-   1663.15,
    1398.15,
    1358.15
   ]
@@ -223,64 +221,6 @@
   ],
   [
    [
-    "BI3TB5_LT",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.635
-    ]
-   ]
-  ],
-  [
-   [
-    "BI3TB5_D88",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.635
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "TB"
@@ -355,7 +295,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-TB/BiTb-11Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-IXEIHCNIJM ORC-JKPEHGBLSO ORC-JSNJZPPAHA ORC-LQEJCV6O54 ORC-ZWVWWMTCTC",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-TB/BiTb-11Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JKPEHGBLSO ORC-JSNJZPPAHA ORC-LQEJCV6O54 ORC-ZWVWWMTCTC",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/BI-TB/BiTb-11Wan.zpf-00.json",
@@ -469,42 +409,6 @@
     "phases_above": [
      "LIQUID",
      "BI3TB4_D73"
-    ],
-    "phases_below": [
-     "BI3TB5_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-IXEIHCNIJM",
-    "side": "above",
-    "T_invariant_K": 1683.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αBi3Tb5 -> βBi3Tb5",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "BI3TB5_LT"
-    ],
-    "phases_below": [
-     "BI3TB5_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-IXEIHCNIJM",
-    "side": "below",
-    "T_invariant_K": 1683.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αBi3Tb5 -> βBi3Tb5",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "BI3TB5_LT"
     ],
     "phases_below": [
      "BI3TB5_D88"

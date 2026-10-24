@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "CUB_A13",
   "LIQUID",
   "MN23SM6_D8A",
   "MN2SM_C14"
@@ -14,9 +13,7 @@
   "P": 101325,
   "T": [
    1213.15,
-   1193.15,
-   1308.15,
-   1288.15
+   1193.15
   ]
  },
  "output": "ZPF",
@@ -87,73 +84,6 @@
      0.3433333333
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUB_A13",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.1968965517
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.2168965517
-    ]
-   ]
-  ],
-  [
-   [
-    "MN23SM6_D8A",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.1968965517
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SM"
-    ],
-    [
-     0.2168965517
-    ]
-   ]
   ]
  ],
  "reference": "1990, T.B. Massalski, H. Okamoto, P.R. Subramanian, L. Kacprzak, Binary Alloy Phase Diagrams, second ed., ASM International, 1990, pp. 2605–2606.",
@@ -164,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MN-SM/MnSm-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-GSIG6XLJDX ORC-PC4H33GTDW",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/MN-SM/MnSm-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-PC4H33GTDW",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/MN-SM/MnSm-09Wan.zpf-00.json",
@@ -207,44 +137,6 @@
     ],
     "phases_below": [
      "MN2SM_C14"
-    ]
-   },
-   {
-    "source_observation": "ORC-GSIG6XLJDX",
-    "side": "above",
-    "T_invariant_K": 1298.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.20689655172413793,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + βMn ↔ Mn23Sm6",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "CUB_A13"
-    ],
-    "phases_below": [
-     "MN23SM6_D8A"
-    ]
-   },
-   {
-    "source_observation": "ORC-GSIG6XLJDX",
-    "side": "below",
-    "T_invariant_K": 1298.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.20689655172413793,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + βMn ↔ Mn23Sm6",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "CUB_A13"
-    ],
-    "phases_below": [
-     "MN23SM6_D8A"
     ]
    }
   ],

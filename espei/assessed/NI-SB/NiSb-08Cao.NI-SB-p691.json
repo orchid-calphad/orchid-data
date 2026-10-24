@@ -22,7 +22,6 @@
    572.1736361,
    583.1736361,
    895.1736361,
-   1159.673636,
    1107.173636,
    1561.173636,
    1098.673636,
@@ -170,17 +169,6 @@
     ],
     [
      0.2568651482
-    ]
-   ]
-  ],
-  [
-   [
-    "NI5SB2_LT",
-    [
-     "SB"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -416,7 +404,6 @@
    "aspa-d2cb3a782f534c27",
    "aspa-28f937759c0e2520",
    "aspa-05d6ef464c5f5334",
-   "aspa-82285e487683c42b",
    "aspa-f5db1ae68c2aa1d6",
    "aspa-a2668bbedb534dce",
    "aspa-0322e4b21523d0f0",
@@ -433,7 +420,6 @@
    "high",
    "medium",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -443,7 +429,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/NI-SB-p691.json"
  }
 }

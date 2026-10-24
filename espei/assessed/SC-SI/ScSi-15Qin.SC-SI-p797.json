@@ -16,7 +16,6 @@
   "P": 101325.0,
   "T": [
    1465.173474,
-   1522.173474,
    1598.173474,
    2146.173474,
    1586.673474,
@@ -54,17 +53,6 @@
     ],
     [
      0.1874374915
-    ]
-   ]
-  ],
-  [
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -266,7 +254,6 @@
   "target_tdb": "ScSi-15Qin.tdb",
   "record_ids": [
    "aspa-4aa1c2dbdd7ab146",
-   "aspa-01dc45747a1b7b84",
    "aspa-8cc424e544a4141c",
    "aspa-818b714f1b69decd",
    "aspa-ad4522c32d3eaeff",
@@ -278,7 +265,6 @@
   "confidence": [
    "high",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -286,7 +272,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/SC-SI-p797.json"
  }
 }

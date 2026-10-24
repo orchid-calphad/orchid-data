@@ -1,0 +1,188 @@
+{
+ "components": [
+  "NI",
+  "SC",
+  "VA"
+ ],
+ "phases": [
+  "NI7SC2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -33000.0,
+    -23019.0,
+    -24319.0
+   ]
+  ]
+ ],
+ "reference": "Kardellass 2013, doi:10.1016/j.calphad.2013.07.003",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-JQHZES3A5L ORC-PXT3CD3SBO ORC-52JZHLHQYZ",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "NiSc-13Kar.tdb",
+   "path": "databases/sgte-binary/NiSc-13Kar.tdb",
+   "sha256": "49e8d54d4d81024bf4f03f2711f379f7f638cc4bd238e7c82e9347ccdbb733c3",
+   "catalog_entry": {
+    "name": "NiSc-13Kar.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-calphad-2013-07-003",
+   "doi": "10.1016/j.calphad.2013.07.003",
+   "citation": {
+    "authors": "see doi",
+    "title": "Calphad, 42, 59-65(2013).",
+    "year": "2013"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "kardellass2013_a827fa",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-JQHZES3A5L",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-PXT3CD3SBO",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   },
+   {
+    "id": "ORC-52JZHLHQYZ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2014.11.005",
+    "measured_in": "doi:10.1016/j.calphad.2013.07.003",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2013.07.003",
+   "doi:10.1016/j.calphad.2014.11.005"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2013.07.003",
+   "10.1016/j.calphad.2014.11.005"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/NiSc-13Kar/hmr-model-01.json",
+  "values_dropped": 4
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "NI7SC2"
+  ],
+  "basis": {
+   "printed_labels": 3
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "NiSc-13Kar.tdb",
+   "path": "databases/sgte-binary/NiSc-13Kar.tdb",
+   "sha256": "49e8d54d4d81024bf4f03f2711f379f7f638cc4bd238e7c82e9347ccdbb733c3",
+   "phase": "NI7SC2",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   7.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "NI",
+    "SC"
+   ],
+   [
+    "NI",
+    "SC"
+   ],
+   [
+    "NI",
+    "SC"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-JQHZES3A5L",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-PXT3CD3SBO",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-52JZHLHQYZ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

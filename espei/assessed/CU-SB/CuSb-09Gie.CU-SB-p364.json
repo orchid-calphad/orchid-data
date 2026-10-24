@@ -14,8 +14,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   708.770892,
-   635.770892,
    835.270892,
    824.770892,
    1184.270892,
@@ -25,28 +23,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "CU2SB_C38",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "CU2SB_C38",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "RHOMBOHEDRAL_A7",
@@ -186,8 +162,6 @@
   "diagram": "CU-SB-p364",
   "target_tdb": "CuSb-09Gie.tdb",
   "record_ids": [
-   "aspa-54f54a9bf99310a4",
-   "aspa-67f73964f2e77cae",
    "aspa-adea403a5c5b7f7b",
    "aspa-f97ec00b55dedad3",
    "aspa-668ea6dfe1436be0",
@@ -198,12 +172,10 @@
    "high",
    "high",
    "high",
-   "high",
-   "high",
    "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/CU-SB-p364.json"
  }
 }

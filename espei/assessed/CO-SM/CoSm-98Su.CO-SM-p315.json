@@ -37,7 +37,6 @@
    1294.076153,
    1465.076153,
    1249.076153,
-   1523.576153,
    1400.576153,
    1492.576153,
    1528.076153,
@@ -478,17 +477,6 @@
   ],
   [
    [
-    "CO17SM2",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "CO3SM",
     [
      "SM"
@@ -689,7 +677,6 @@
    "aspa-118bed7548692080",
    "aspa-d7a6b7aaf4ca9af4",
    "aspa-79e2a1288a50e944",
-   "aspa-212e3b70a40e973d",
    "aspa-d2f81a6d24c829ca",
    "aspa-ae50c135a32694ea",
    "aspa-7e11ed912507b0b0",
@@ -714,7 +701,6 @@
    "high",
    "medium",
    "high",
-   "high",
    "medium",
    "medium",
    "medium",
@@ -722,7 +708,7 @@
    "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CO-SM-p315.json"
  }
 }

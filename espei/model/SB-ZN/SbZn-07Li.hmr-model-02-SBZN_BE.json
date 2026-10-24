@@ -1,0 +1,137 @@
+{
+ "components": [
+  "SB",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "SBZN_BE"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 700.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -11455.0
+   ]
+  ]
+ ],
+ "reference": "Li 2007, doi:10.1016/j.jallcom.2006.08.035",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-N4ABGBP2DJ.0ae061",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "SbZn-07Li.tdb",
+   "path": "databases/sgte-binary/SbZn-07Li.tdb",
+   "sha256": "6e6072cc45a32d331379e105afb36e76a0030c9d5cb3c31db974f889a8e8b865",
+   "catalog_entry": {
+    "name": "SbZn-07Li.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2006-08-035",
+   "doi": "10.1016/j.jallcom.2006.08.035",
+   "citation": {
+    "authors": "see doi",
+    "title": "J.-B. Li, M.-C. Record, J.-C. Tedenac, J. Alloys Compd., 438, 171-77(2007).",
+    "year": "2007"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "li2007_b05ed4",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-N4ABGBP2DJ.0ae061",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2006.08.035",
+    "measured_in": "doi:10.1016/j.jallcom.2006.08.035",
+    "also_read_as": [
+     "ORC-N4ABGBP2DJ.0ae061"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2006.08.035"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2006.08.035"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/SbZn-07Li/hmr-model-02.json",
+  "values_dropped": 1
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "SBZN_BE"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "SbZn-07Li.tdb",
+   "path": "databases/sgte-binary/SbZn-07Li.tdb",
+   "sha256": "6e6072cc45a32d331379e105afb36e76a0030c9d5cb3c31db974f889a8e8b865",
+   "phase": "SBZN_BE",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "SB",
+    "ZN"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-N4ABGBP2DJ.0ae061",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

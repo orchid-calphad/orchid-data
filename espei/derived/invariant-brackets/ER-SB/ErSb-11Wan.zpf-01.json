@@ -15,8 +15,6 @@
   "T": [
    1923.15,
    1903.15,
-   2093.15,
-   2073.15,
    2323.15,
    2303.15
   ]
@@ -92,64 +90,6 @@
   ],
   [
    [
-    "ERSB_B1",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "ERSB_BETA",
-    [
-     "SB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "SB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "SB"
@@ -215,7 +155,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ER-SB/ErSb-11Wan.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-HOKARMQTUY ORC-HXRTN6NP2R ORC-TZGKTMDGEO",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ER-SB/ErSb-11Wan.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-HOKARMQTUY ORC-HXRTN6NP2R",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/ER-SB/ErSb-11Wan.zpf-01.json",
@@ -258,42 +198,6 @@
     ],
     "phases_below": [
      "ER5SB3"
-    ]
-   },
-   {
-    "source_observation": "ORC-TZGKTMDGEO",
-    "side": "above",
-    "T_invariant_K": 2083.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αErSb -> βErSb",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "ERSB_B1"
-    ],
-    "phases_below": [
-     "ERSB_BETA"
-    ]
-   },
-   {
-    "source_observation": "ORC-TZGKTMDGEO",
-    "side": "below",
-    "T_invariant_K": 2083.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "αErSb -> βErSb",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "ERSB_B1"
-    ],
-    "phases_below": [
-     "ERSB_BETA"
     ]
    },
    {

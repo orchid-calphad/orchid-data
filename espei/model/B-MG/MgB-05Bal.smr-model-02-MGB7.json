@@ -1,0 +1,161 @@
+{
+ "components": [
+  "B",
+  "MG",
+  "VA"
+ ],
+ "phases": [
+  "MGB7"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "SM_FORM",
+ "values": [
+  [
+   [
+    -1.21,
+    -0.1
+   ]
+  ]
+ ],
+ "reference": "Balducci 2005, doi:10.1016/j.jpcs.2004.06.063",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WQU35CG3FF.3838fa ORC-H65ITY2A2I.0d2abb",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MgB-05Bal.tdb",
+   "path": "databases/sgte-binary/MgB-05Bal.tdb",
+   "sha256": "560f62e9d31af938fa0aca4727c2058964218246a52d0ca33b9b8adef66e49e5",
+   "catalog_entry": {
+    "name": "MgB-05Bal.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jpcs-2004-06-063",
+   "doi": "10.1016/j.jpcs.2004.06.063",
+   "citation": {
+    "authors": "see doi",
+    "title": "M.F. Butman, L. Kudin, J. Phys. Chem. Solids, 66, 292-97(2005).",
+    "year": "2005"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "balducci2005_a76e01",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-WQU35CG3FF.3838fa",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jpcs.2004.06.063",
+    "measured_in": "doi:10.1016/j.jpcs.2004.06.063",
+    "also_read_as": [
+     "ORC-WQU35CG3FF.3838fa"
+    ]
+   },
+   {
+    "id": "ORC-H65ITY2A2I.0d2abb",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jpcs.2004.06.063",
+    "measured_in": "doi:10.1016/j.jpcs.2004.06.063",
+    "also_read_as": [
+     "ORC-H65ITY2A2I.0d2abb"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jpcs.2004.06.063"
+  ],
+  "dois": [
+   "10.1016/j.jpcs.2004.06.063"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MgB-05Bal/smr-model-02.json",
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "MGB7"
+  ],
+  "basis": {
+   "printed_labels": 2
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "MgB-05Bal.tdb",
+   "path": "databases/sgte-binary/MgB-05Bal.tdb",
+   "sha256": "560f62e9d31af938fa0aca4727c2058964218246a52d0ca33b9b8adef66e49e5",
+   "phase": "MGB7",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   7.0
+  ],
+  "sublattice_configurations": [
+   [
+    "MG",
+    "B"
+   ],
+   [
+    "MG",
+    "B"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-WQU35CG3FF.3838fa",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-H65ITY2A2I.0d2abb",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

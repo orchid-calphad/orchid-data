@@ -187,7 +187,6 @@
  "tags": [
   "experimental",
   "phase_compositions_table",
-  "single_reader_text_layer",
   "orchid"
  ],
  "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OCDMYFMDNM ORC-DDXKABG2G5 ORC-LZGVU2S4IC ORC-7PGZY4LG5N ORC-AI5CENZG2B ORC-BSGJJ7WOUJ ORC-2Y25BM2YYX ORC-IVVU2E7GVL ORC-V4377CYUQK ORC-C4CVHC52WL ORC-SKWSP5A3RU ORC-DHRK2BETQZ ORC-AJEPOVSTW2 ORC-P52H3UKPKM",
@@ -200,12 +199,8 @@
     "id": "ORC-OCDMYFMDNM",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2005.06.004",
-    "also_reported_as": [
-     {
-      "id": "ORC-WJ2CYIFRM7",
-      "paper": "doi:10.1016/j.calphad.2005.06.004",
-      "dataset": "experimental/SI-YB/SiYb-05Bru.zpf-15.json"
-     }
+    "also_read_as": [
+     "ORC-WJ2CYIFRM7"
     ]
    },
    {
@@ -283,7 +278,6 @@
    "10.1016/j.optmat.2004.08.040"
   ],
   "source_dataset": "db-v2.1/general/espei/SiYb-05Bru/zpf-15.json",
-  "e3_merged": 1,
   "values_dropped": 1
  },
  "orchid_uncertainty": {
@@ -347,5 +341,82 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-OCDMYFMDNM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-DDXKABG2G5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-LZGVU2S4IC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7PGZY4LG5N",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-AI5CENZG2B",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-BSGJJ7WOUJ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2Y25BM2YYX",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IVVU2E7GVL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-V4377CYUQK",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-C4CVHC52WL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SKWSP5A3RU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-DHRK2BETQZ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-AJEPOVSTW2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-P52H3UKPKM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

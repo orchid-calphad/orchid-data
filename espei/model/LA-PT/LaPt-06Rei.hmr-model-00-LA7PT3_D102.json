@@ -1,0 +1,137 @@
+{
+ "components": [
+  "LA",
+  "PT",
+  "VA"
+ ],
+ "phases": [
+  "LA7PT3_D102"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1073.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -65600.0
+   ]
+  ]
+ ],
+ "reference": "Reimann 2006, doi:10.1016/j.jallcom.2005.10.016",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-25QNPCCKID.e86d7a",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "LaPt-06Rei.tdb",
+   "path": "databases/sgte-binary/LaPt-06Rei.tdb",
+   "sha256": "2f34d1537e937633404ef7152a048739a206e64f163cf8036dd88ed698acc25f",
+   "catalog_entry": {
+    "name": "LaPt-06Rei.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2005-10-016",
+   "doi": "10.1016/j.jallcom.2005.10.016",
+   "citation": {
+    "authors": "see doi",
+    "title": "S. Reimann, H.-J. Schaller, J. Alloys Compd., 419, 133-39(2006).",
+    "year": "2006"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "reimann2006_266a2d",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-25QNPCCKID.e86d7a",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2005.10.016",
+    "measured_in": "doi:10.1016/j.jallcom.2005.10.016",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2005.10.016"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2005.10.016"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/LaPt-06Rei/hmr-model-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "LA7PT3_D102"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "LaPt-06Rei.tdb",
+   "path": "databases/sgte-binary/LaPt-06Rei.tdb",
+   "sha256": "2f34d1537e937633404ef7152a048739a206e64f163cf8036dd88ed698acc25f",
+   "phase": "LA7PT3_D102",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   7.0,
+   3.0
+  ],
+  "sublattice_configurations": [
+   [
+    "LA",
+    "PT"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-25QNPCCKID.e86d7a",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

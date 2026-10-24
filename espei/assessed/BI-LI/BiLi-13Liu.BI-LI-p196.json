@@ -16,7 +16,6 @@
   "T": [
    393.5326707,
    471.0326707,
-   800.5326707,
    359.0326707,
    807.5326707,
    1098.032671,
@@ -82,17 +81,6 @@
     ],
     [
      0.6198852729
-    ]
-   ]
-  ],
-  [
-   [
-    "BILI3_D03",
-    [
-     "LI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -266,7 +254,6 @@
   "record_ids": [
    "aspa-825ba8425807381a",
    "aspa-084fd14eabdfdb67",
-   "aspa-37ccc67d20cd925f",
    "aspa-f114b50647138f77",
    "aspa-b9b592832c493a8a",
    "aspa-d743121af09b65b0",
@@ -277,7 +264,6 @@
   "confidence": [
    "high",
    "high",
-   "medium",
    "high",
    "medium",
    "high",
@@ -285,7 +271,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/BI-LI-p196.json"
  }
 }

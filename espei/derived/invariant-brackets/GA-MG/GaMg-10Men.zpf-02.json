@@ -16,6 +16,7 @@
   "T": [
    753.0,
    733.0,
+   733.0,
    713.0,
    488.0,
    468.0
@@ -78,6 +79,44 @@
     ],
     [
      0.724286
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "GA2MG5_D8G",
+    [
+     "MG"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.656667
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "MG"
+    ],
+    [
+     0.676667
     ]
    ]
   ],
@@ -227,6 +266,25 @@
     ],
     "phases_below": [
      "GA2MG5_D8G"
+    ]
+   },
+   {
+    "source_observation": "ORC-52AAWN37KU",
+    "side": "above",
+    "T_invariant_K": 723.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.666667,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "L+Mg5Ga2->Mg2Ga",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GA2MG5_D8G"
+    ],
+    "phases_below": [
+     "GAMG2"
     ]
    },
    {

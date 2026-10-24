@@ -24,7 +24,6 @@
    428.4359797,
    603.9359797,
    496.9359797,
-   636.9359797,
    533.9359797,
    596.4359797,
    629.9359797,
@@ -200,17 +199,6 @@
     ],
     [
      0.9192344228
-    ]
-   ]
-  ],
-  [
-   [
-    "INLI2",
-    [
-     "LI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -436,7 +424,6 @@
    "aspa-3ce490e243f5f35d",
    "aspa-0c1ce58f911709de",
    "aspa-144b84d31b7dabef",
-   "aspa-0af06b40444be2f1",
    "aspa-f09e7bd0ca8a2c46",
    "aspa-ba8b36f7f358044b",
    "aspa-ddcc86ed04c80bf9",
@@ -453,7 +440,6 @@
    "high",
    "high",
    "medium",
-   "high",
    "medium",
    "medium",
    "high",
@@ -462,7 +448,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 2,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/IN-LI-p550.json"
  }
 }

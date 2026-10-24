@@ -36,7 +36,6 @@
    1082.770892,
    1059.270892,
    1103.270892,
-   1135.770892,
    1162.270892,
    1158.270892,
    1189.770892,
@@ -495,17 +494,6 @@
   ],
   [
    [
-    "SMZN2",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "ZN"
@@ -706,7 +694,6 @@
    "aspa-ad04a2f68e0415f4",
    "aspa-caebe933c56977bf",
    "aspa-cdf289d2980d66f1",
-   "aspa-9613db79a85b2ff3",
    "aspa-6c2d9c709153c565",
    "aspa-2f8e460f6314ad6a",
    "aspa-74917c592f675571",
@@ -731,7 +718,6 @@
    "high",
    "high",
    "medium",
-   "medium",
    "high",
    "medium",
    "medium",
@@ -739,7 +725,7 @@
    "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/SM-ZN-p816.json"
  }
 }

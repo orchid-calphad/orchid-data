@@ -17,7 +17,6 @@
   "T": [
    1080.677221,
    1051.177221,
-   1068.677221,
    1043.677221,
    999.1772209,
    1482.177221,
@@ -67,17 +66,6 @@
     ],
     [
      0.265862656
-    ]
-   ]
-  ],
-  [
-   [
-    "AGTI_B11",
-    [
-     "TI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -291,7 +279,6 @@
   "record_ids": [
    "aspa-d3ebc426a1a6202f",
    "aspa-ca8a51330b0e8f96",
-   "aspa-c73819d6663cf3a4",
    "aspa-800c98ebe0a49b3e",
    "aspa-637951f96eb42a34",
    "aspa-e4d178fb7cb6fb3b",
@@ -304,7 +291,6 @@
   "confidence": [
    "high",
    "high",
-   "medium",
    "high",
    "high",
    "high",
@@ -314,7 +300,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-TI-p66.json"
  }
 }

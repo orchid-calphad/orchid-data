@@ -18,8 +18,6 @@
    745.6310389,
    769.1310389,
    639.6310389,
-   676.1310389,
-   679.6310389,
    1023.131039,
    1213.631039,
    1059.131039,
@@ -105,28 +103,6 @@
     ],
     [
      0.2014525748
-    ]
-   ]
-  ],
-  [
-   [
-    "CU3GE_D0A",
-    [
-     "GE"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "CU3GE_D0A",
-    [
-     "GE"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -244,8 +220,6 @@
    "aspa-9c6f6d647558b52a",
    "aspa-f533e5d87c442aa1",
    "aspa-b1fa760335f9a39f",
-   "aspa-7c1dad8980e5d503",
-   "aspa-a72038933bf660bf",
    "aspa-2fdbf10484ebca4c",
    "aspa-8d3ba8252178263e",
    "aspa-ebed7c7d041d5ea9",
@@ -259,11 +233,9 @@
    "medium",
    "high",
    "medium",
-   "high",
-   "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/CU-GE-p353.json"
  }
 }

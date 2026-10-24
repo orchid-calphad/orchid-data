@@ -20,7 +20,6 @@
    1175.699811,
    1153.199811,
    1279.199811,
-   1400.199811,
    1435.199811,
    1480.699811,
    1495.199811,
@@ -147,17 +146,6 @@
     ],
     [
      0.1446765566
-    ]
-   ]
-  ],
-  [
-   [
-    "DIAMOND_A4",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -402,7 +390,6 @@
    "aspa-91b366790bc60600",
    "aspa-e3ec3bfaf6e6c1ea",
    "aspa-b3661e1ef6e05380",
-   "aspa-9d0f23bd089922ff",
    "aspa-6784e733d23dc166",
    "aspa-43528a8bb9cb6148",
    "aspa-ac3ab17e0f1da0ca",
@@ -420,7 +407,6 @@
    "high",
    "medium",
    "medium",
-   "medium",
    "high",
    "high",
    "high",
@@ -429,7 +415,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CO-SI-p315.json"
  }
 }

@@ -6,48 +6,17 @@
  ],
  "phases": [
   "ALTI_L10",
-  "BCC_A2",
   "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1759.0,
    1715.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -85,16 +54,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-T53AVKVNWT ORC-5AUXD4C4TD",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5AUXD4C4TD",
  "bibtex": "witusiewicz2008_676ecf",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-T53AVKVNWT",
-    "paper": "doi:10.1016/j.jallcom.2007.10.061"
-   },
    {
     "id": "ORC-5AUXD4C4TD",
     "paper": "doi:10.1016/j.jallcom.2007.10.061"
@@ -108,7 +73,8 @@
    "10.1016/0956-7151(90)90208-x",
    "10.1016/j.jallcom.2007.10.061"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/AlTi-08Wit/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -116,12 +82,20 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-5AUXD4C4TD",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

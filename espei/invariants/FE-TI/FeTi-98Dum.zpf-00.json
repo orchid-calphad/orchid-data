@@ -14,8 +14,7 @@
   "P": 101325,
   "T": [
    1599,
-   1589,
-   1359
+   1589
   ]
  },
  "output": "ZPF",
@@ -86,35 +85,6 @@
      0.4166666665
     ]
    ]
-  ],
-  [
-   [
-    "FETI_B2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "1979, P.H. Booker, 'q'emary Phase Equilibria in the Systems Ti-Fe-C, Ti-Co-C and Ti-Ni-C,\" Ph.D. Thesis, Oregon Graduate Center (1979).",
@@ -125,7 +95,7 @@
   "orchid_caveat",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVFCA6NKVJ ORC-Z5225J6WZS ORC-2D6EQMCVQV",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-EVFCA6NKVJ ORC-Z5225J6WZS",
  "bibtex": "booker1979_ccf988",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -143,11 +113,6 @@
     "id": "ORC-Z5225J6WZS",
     "paper": "doi:10.1361/105497198770341923",
     "measured_in": "ref:258b1b82c4fa88f1"
-   },
-   {
-    "id": "ORC-2D6EQMCVQV",
-    "paper": "doi:10.1361/105497198770341923",
-    "measured_in": "ref:258b1b82c4fa88f1"
    }
   ],
   "papers": [
@@ -157,15 +122,12 @@
   "dois": [
    "10.1361/105497198770341923"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeTi-98Dum/zpf-00.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeTi-98Dum/zpf-00.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -178,8 +140,25 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 2,
+  "line_compound_vertices_null": 1,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-EVFCA6NKVJ",
+    "espei_certified": false,
+    "calphad_check": "disagrees"
+   },
+   {
+    "id": "ORC-Z5225J6WZS",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

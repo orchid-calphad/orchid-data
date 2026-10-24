@@ -18,9 +18,7 @@
    1137.862204,
    709.3622043,
    511.8622043,
-   493.8622043,
    610.8622043,
-   367.8622043,
    389.8622043,
    774.8622043,
    1494.862204,
@@ -101,17 +99,6 @@
   ],
   [
    [
-    "NI3SN2",
-    [
-     "SN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "NI3SN4",
     [
      "SN"
@@ -136,17 +123,6 @@
     ],
     [
      0.4737297023
-    ]
-   ]
-  ],
-  [
-   [
-    "NI3SN4",
-    [
-     "SN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -292,9 +268,7 @@
    "aspa-67036a7250c894f4",
    "aspa-ace37f0ad26158b7",
    "aspa-d08bc5262ef95f9f",
-   "aspa-956e3cecc9d300ed",
    "aspa-1c51d73fe764f307",
-   "aspa-a0eac4e8db06dab0",
    "aspa-5d4c42f5884090cb",
    "aspa-bd67dc57a8510ad7",
    "aspa-f32e00fc9c79730f",
@@ -305,8 +279,6 @@
    "high",
    "high",
    "high",
-   "medium",
-   "high",
    "high",
    "high",
    "medium",
@@ -314,7 +286,7 @@
    "high",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/NI-SN-p693.json"
  }
 }

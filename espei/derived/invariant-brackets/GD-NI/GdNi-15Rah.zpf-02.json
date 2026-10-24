@@ -8,18 +8,15 @@
   "FCC_A1",
   "GD2NI17",
   "GD2NI7",
-  "GD3NI_HT",
   "GDNI2_C15",
   "GDNI3",
+  "GDNI5_D2D",
   "GDNI_B33",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1018.0,
-   998.0,
    1163.0,
    1143.0,
    1293.0,
@@ -27,78 +24,12 @@
    1393.0,
    1373.0,
    1463.0,
+   1568.0,
    1538.0
   ]
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "GD3NI_HT",
-    [
-     "NI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "NI"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -331,6 +262,44 @@
   ],
   [
    [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.9400000000000001
+    ]
+   ],
+   [
+    "GDNI5_D2D",
+    [
+     "NI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.8847368421
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.9047368421
+    ]
+   ]
+  ],
+  [
+   [
     "GD2NI17",
     [
      "NI"
@@ -376,51 +345,13 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-NI/GdNi-15Rah.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2VVSGX3S65 ORC-EISLPD5SM7 ORC-PMY5GS5FKS ORC-PPKOHK4ZTJ ORC-T5SICUQ4SO ORC-WP64ORLNKA",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/GD-NI/GdNi-15Rah.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-EISLPD5SM7 ORC-PMY5GS5FKS ORC-PPKOHK4ZTJ ORC-T5SICUQ4SO ORC-UDGCBD6TE3 ORC-WP64ORLNKA",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/GD-NI/GdNi-15Rah.zpf-02.json",
   "derivation": "invariant_bracket",
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
-   {
-    "source_observation": "ORC-2VVSGX3S65",
-    "side": "above",
-    "T_invariant_K": 1008,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + α-Gd ↔ Gd3Ni_HT",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "GD3NI_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-2VVSGX3S65",
-    "side": "below",
-    "T_invariant_K": 1008,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + α-Gd ↔ Gd3Ni_HT",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "GD3NI_HT"
-    ]
-   },
    {
     "source_observation": "ORC-T5SICUQ4SO",
     "side": "above",
@@ -552,6 +483,25 @@
     ],
     "phases_below": [
      "GD2NI7"
+    ]
+   },
+   {
+    "source_observation": "ORC-UDGCBD6TE3",
+    "side": "above",
+    "T_invariant_K": 1558,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.8947368421052632,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid + GdNi5 ↔ Gd2Ni17",
+    "reaction_type": "peritectic",
+    "phases_above": [
+     "LIQUID",
+     "GDNI5_D2D"
+    ],
+    "phases_below": [
+     "GD2NI17"
     ]
    },
    {

@@ -20,8 +20,7 @@
    1048.15,
    948.15,
    1233.15,
-   1208.15,
-   967.15
+   1208.15
   ]
  },
  "output": "ZPF",
@@ -190,26 +189,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "AG2SM_ALPHA",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AG2SM_BETA",
-    [
-     "SM"
-    ],
-    [
-     null
-    ]
-   ]
   ]
  ],
  "reference": "Zhou 2020, doi:10.1007/s11669-020-00813-5",
@@ -219,7 +198,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UDHVZN7EMQ ORC-SCOO5GMNOC ORC-IRW6JSZ3S5 ORC-RUR57CXJV6 ORC-4D5SM7PL5F ORC-TJCC5T5NS7 ORC-6BEC3UMCOQ",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UDHVZN7EMQ ORC-SCOO5GMNOC ORC-IRW6JSZ3S5 ORC-RUR57CXJV6 ORC-4D5SM7PL5F ORC-TJCC5T5NS7",
  "bibtex": "zhou2020_5fa710",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -255,10 +234,6 @@
    {
     "id": "ORC-TJCC5T5NS7",
     "paper": "doi:10.1007/s11669-020-00813-5"
-   },
-   {
-    "id": "ORC-6BEC3UMCOQ",
-    "paper": "doi:10.1007/s11669-020-00813-5"
    }
   ],
   "papers": [
@@ -270,6 +245,7 @@
    "10.1016/0022-5088(80)90217-9"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AgSm-20Zho/zpf-00.json",
+  "values_dropped": 1,
   "e3_merged": 1
  },
  "orchid_uncertainty": {
@@ -298,17 +274,50 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 11,
+  "line_compound_vertices_null": 9,
   "hyperplanes_added": 1,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-UDHVZN7EMQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SCOO5GMNOC",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IRW6JSZ3S5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RUR57CXJV6",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-4D5SM7PL5F",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-TJCC5T5NS7",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

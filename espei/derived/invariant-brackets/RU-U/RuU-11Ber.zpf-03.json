@@ -5,28 +5,20 @@
   "VA"
  ],
  "phases": [
-  "HCP_A3",
   "LIQUID",
   "RU3U_L12",
   "RU4U3",
   "RU5U3",
   "RUU2",
-  "RUU_HT",
-  "RUU_LT"
+  "RUU_HT"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1078.15,
-   1058.15,
-   2133.0,
-   2113.0,
    1465.0,
    1445.0,
    1446.0,
    1426.0,
-   1078.0,
-   1058.0,
    1441.0,
    1220.0,
    1200.0
@@ -34,131 +26,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "RUU_HT",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.51
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.53
-    ]
-   ]
-  ],
-  [
-   [
-    "RUU_LT",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.51
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.53
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "RU3U_L12",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -295,64 +162,6 @@
   ],
   [
    [
-    "RUU_HT",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.51
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.53
-    ]
-   ]
-  ],
-  [
-   [
-    "RUU_LT",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.51
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.53
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "U"
@@ -456,7 +265,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/RU-U/RuU-11Ber.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2G2VSJMCNK ORC-4Y2W3NPX3V ORC-7SND6GE674 ORC-J2C7F4QUH3 ORC-MRYVUJSEYY ORC-VWPRQZSR5E ORC-XS2ZYSTSVR",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/RU-U/RuU-11Ber.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4Y2W3NPX3V ORC-7SND6GE674 ORC-MRYVUJSEYY ORC-XS2ZYSTSVR",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/RU-U/RuU-11Ber.zpf-03.json",
@@ -464,80 +273,6 @@
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
    {
-    "source_observation": "ORC-VWPRQZSR5E",
-    "side": "above",
-    "T_invariant_K": 1068.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.52,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "RuU-H -> RuU-L",
-    "reaction_type": null,
-    "phases_above": [
-     "RUU_HT"
-    ],
-    "phases_below": [
-     "RUU_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-VWPRQZSR5E",
-    "side": "below",
-    "T_invariant_K": 1068.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.52,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "RuU-H -> RuU-L",
-    "reaction_type": null,
-    "phases_above": [
-     "RUU_HT"
-    ],
-    "phases_below": [
-     "RUU_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-J2C7F4QUH3",
-    "side": "above",
-    "T_invariant_K": 2123.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + hcp <=> Ru3U",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "RU3U_L12"
-    ]
-   },
-   {
-    "source_observation": "ORC-J2C7F4QUH3",
-    "side": "below",
-    "T_invariant_K": 2123.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Liquid + hcp <=> Ru3U",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "RU3U_L12"
-    ]
-   },
-   {
     "source_observation": "ORC-XS2ZYSTSVR",
     "side": "above",
     "T_invariant_K": 1455.0,
@@ -611,42 +346,6 @@
     ],
     "phases_below": [
      "RU4U3"
-    ]
-   },
-   {
-    "source_observation": "ORC-2G2VSJMCNK",
-    "side": "above",
-    "T_invariant_K": 1068.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.52,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "RuU-H <=> RuU-L",
-    "reaction_type": null,
-    "phases_above": [
-     "RUU_HT"
-    ],
-    "phases_below": [
-     "RUU_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-2G2VSJMCNK",
-    "side": "below",
-    "T_invariant_K": 1068.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.52,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "RuU-H <=> RuU-L",
-    "reaction_type": null,
-    "phases_above": [
-     "RUU_HT"
-    ],
-    "phases_below": [
-     "RUU_LT"
     ]
    },
    {

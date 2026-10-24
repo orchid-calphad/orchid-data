@@ -29,7 +29,6 @@
    1190.012103,
    1132.012103,
    1037.512103,
-   1301.012103,
    1236.012103,
    1680.512103,
    1331.512103,
@@ -268,17 +267,6 @@
     ],
     [
      0.2715279914
-    ]
-   ]
-  ],
-  [
-   [
-    "M3SI_D03",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -615,7 +603,6 @@
    "aspa-d79bd58832b8d16b",
    "aspa-d21381fc61715306",
    "aspa-6e080cc5c83aeca8",
-   "aspa-09fbb98a9466aa87",
    "aspa-8368da4732534948",
    "aspa-fbbf9ac6d9432aa2",
    "aspa-2111cdb676d139f7",
@@ -639,7 +626,6 @@
    "high",
    "high",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -653,7 +639,7 @@
    "medium",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/MN-SI-p635.json"
  }
 }

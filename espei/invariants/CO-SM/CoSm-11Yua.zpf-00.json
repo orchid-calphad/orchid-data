@@ -446,15 +446,7 @@
    {
     "id": "ORC-X2YA4XD4ZE",
     "paper": "doi:10.1016/j.calphad.2011.06.001",
-    "measured_in": "doi:10.1016/0022-5088(68)90037-4",
-    "also_reported_as": [
-     {
-      "id": "ORC-MZ7TEMZHWT",
-      "paper": "doi:10.1016/s0925-8388(97)00540-9",
-      "measured_in": "doi:10.1016/0022-5088(68)90037-4",
-      "dataset": "invariants/CO-SM/CoSm-98Su.zpf-00.json"
-     }
-    ]
+    "measured_in": "doi:10.1016/0022-5088(68)90037-4"
    }
   ],
   "papers": [
@@ -472,7 +464,7 @@
    "10.1515/ijmr-1993-840306"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoSm-11Yua/zpf-00.json",
-  "e3_merged": 9
+  "e3_merged": 8
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -520,5 +512,57 @@
   "line_compound_vertices_null": 11,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 7,
+  "values": [
+   {
+    "id": "ORC-CIKNDHXPYU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RDDYLEOQSY",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-U52UBSELLD",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-MQNGBPUKMR",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-GBPMHEV3PI",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-5ZWWQGTBO4",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-NTIRGRWO7O",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-GDNLJSB7DN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-X2YA4XD4ZE",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

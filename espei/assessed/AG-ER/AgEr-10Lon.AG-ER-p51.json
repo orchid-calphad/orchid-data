@@ -17,7 +17,6 @@
   "T": [
    971.7219595,
    865.7219595,
-   696.7219595,
    918.2219595,
    969.7219595,
    939.2219595,
@@ -70,17 +69,6 @@
     ],
     [
      0.1168615362
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51ER14",
-    [
-     "ER"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -399,7 +387,6 @@
   "record_ids": [
    "aspa-ccd07df2dfb1a7fb",
    "aspa-94edeba11b86ba76",
-   "aspa-e0462898036c499d",
    "aspa-ba8a00a86a0b0bb4",
    "aspa-0167d5b322c03823",
    "aspa-3402b2b2a8953aed",
@@ -425,10 +412,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AG-ER-p51.json"
  }
 }

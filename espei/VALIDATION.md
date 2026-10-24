@@ -8,15 +8,15 @@ Every file was checked with `espei.datasets.check_dataset` and `clean_dataset` (
 
 | folder | files | loaded by load_datasets | result |
 |---|---:|---:|---|
-| experimental | 1668 | 1668 | ok |
-| model | 758 | 758 | ok |
-| invariants | 2018 | 2018 | ok |
-| dft/literature | 479 | 479 | ok |
-| dft/mp | 1290 | 1290 | ok |
-| dft/oqmd | 1290 | 1290 | ok |
-| assessed | 708 | 708 | ok |
-| derived/invariant-brackets | 1305 | 1305 | ok |
-| derived/liquid-stability | 457 | 457 | ok |
+| experimental | 909 | 909 | ok |
+| model | 464 | 464 | ok |
+| invariants | 1672 | 1672 | ok |
+| dft/literature | 442 | 442 | ok |
+| dft/mp | 1218 | 1218 | ok |
+| dft/oqmd | 1218 | 1218 | ok |
+| assessed | 654 | 654 | ok |
+| derived/invariant-brackets | 1145 | 1145 | ok |
+| derived/liquid-stability | 434 | 434 | ok |
 
 Invalid files in the final bundle: **0**.
 
@@ -57,16 +57,523 @@ Invalid files in the final bundle: **0**.
 | null_in_composition | invariants/GA-GD-NB/binary-subsystems-Ga-Gd-Nb.zpf-ternary-47.json | db-v2.1/invariants/espei/binary-subsystems-Ga-Gd-Nb/zpf-ternary-47.json |
 | null_in_composition | invariants/MG-SN-ZN/binary-subsystems-Mg-Sn-Zn.zpf-ternary-49.json | db-v2.1/invariants/espei/binary-subsystems-Mg-Sn-Zn/zpf-ternary-49.json |
 
+### Likelihood evaluation against each target TDB (ESPEI 0.9.1)
+
+Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).
+
+Datasets evaluated in the final bundle: **8156**; all finite: **yes**.
+
+| folder | quantity | datasets | values | median of dataset median abs | p90 of dataset median abs |
+|---|---|---:|---:|---:|---:|
+| assessed | zpf_driving_force_J | 654 | 13966 | 0.000171 | 1.3816 |
+| derived/invariant-brackets | zpf_driving_force_J | 1145 | 8124 | 3.8593 | 178.4644 |
+| derived/liquid-stability | zpf_driving_force_J | 434 | 3906 | 0.0 | 0.0 |
+| dft/literature | nonequilibrium_log_likelihood | 442 | 442 | 19.3624 | 46.2887 |
+| dft/mp | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1991 | 11.5188 |
+| dft/oqmd | nonequilibrium_log_likelihood | 1218 | 1218 | 10.1395 | 11.6175 |
+| experimental | activity_residual | 71 | 181 | 1389.0925 | 11930.0598 |
+| experimental | nonequilibrium_log_likelihood | 411 | 411 | 9.5234 | 112.5106 |
+| experimental | residual | 227 | 1138 | 634.0765 | 30895.1148 |
+| experimental | zpf_driving_force_J | 200 | 1462 | 0.417 | 489.5108 |
+| invariants | zpf_driving_force_J | 1672 | 15588 | 16.6665 | 853.3876 |
+| model | activity_residual | 43 | 53 | 10.3512 | 47.6979 |
+| model | nonequilibrium_log_likelihood | 266 | 266 | 7.1335 | 29.7175 |
+| model | residual | 144 | 206 | 48.5 | 38116.6912 |
+| model | zpf_driving_force_J | 11 | 187 | 0.665 | 11.8035 |
+
+(Residuals: J/mol-atom, J/K/mol-atom or activity; driving forces J/mol; non-equilibrium: log likelihood. Against the TDB's own parameters, i.e. how far the published values lie from the assessment the folder is named after.)
+
+Not written after the evaluation: 469 datasets (derived_from_excluded_dataset 3, espei_evaluation_error 256, espei_evaluation_nonfinite 182, espei_evaluation_tdb_error 23, espei_evaluation_tdb_not_found 5); ZPF regions cut: 84 in 52 datasets.
+
+| reason | path (not written) | error |
+|---|---|---|
+| espei_evaluation_nonfinite | assessed/AL-CR/AlCr-13Hu.AL-CR-p73.json |  |
+| espei_evaluation_nonfinite | assessed/AL-CR/AlCr-15Wit.AL-CR-p73.json |  |
+| espei_evaluation_nonfinite | assessed/AL-CR/AlCr-17Cui-incomplete.AL-CR-p73.json |  |
+| espei_evaluation_tdb_error | assessed/AL-TI/AlTi-92Kat.AL-TI-p90.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_nonfinite | assessed/AU-TI/AuTi-01Luo-LB.AU-TI-p133.json |  |
+| espei_evaluation_nonfinite | assessed/C-NB/NbC-90Hua.C-NB-p225.json |  |
+| espei_evaluation_nonfinite | assessed/C-TA/TaC-96Fri-LB.C-TA-p230.json |  |
+| espei_evaluation_nonfinite | assessed/C-TI/TiC-96Sei.C-TI-p231.json |  |
+| espei_evaluation_nonfinite | assessed/C-U/UC-01Che.C-U-p231.json |  |
+| espei_evaluation_nonfinite | assessed/C-V/VC-06Hu.C-V-p232.json |  |
+| espei_evaluation_nonfinite | assessed/GE-NI/GeNi-10Liu.GE-NI-p477.json |  |
+| espei_evaluation_nonfinite | assessed/GE-TE/GeTe-99Sch-LB.GE-TE-p484.json |  |
+| espei_evaluation_error | assessed/MG-PR/MgPr-08Guo.MG-PR-p621.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | assessed/MG-TB/MgTb-06Guo.MG-TB-p624.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_nonfinite | assessed/N-U/UN-00Che.N-U-p659.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AG-ER/AgEr-10Wan.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-03.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AG-TB/AgTb-09Wan.zpf-01.json |  |
+| espei_evaluation_error | derived/invariant-brackets/AL-CR/AlCr-15Wit.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | derived/invariant-brackets/AL-CR/AlCr-15Wit.zpf-06.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AL-LA/AlLa-06Zho.zpf-00.json |  |
+| espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-02.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | derived/invariant-brackets/AL-MN/AlMn-99Liu-LB.zpf-04.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_tdb_error | derived/invariant-brackets/AL-TI/AlTi-92Kat.zpf-02.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | derived/invariant-brackets/AL-TI/AlTi-92Kat.zpf-05.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | derived/invariant-brackets/AL-TI/AlTi-92Kat.zpf-06.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AU-HF/AuHf-03Du-LB.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AU-ND/AuNd-16Mou.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/AU-ND/AuNd-16Mou.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/B-CR/CrB-02Cam.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/B-TA/TaB-17OuY.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/B-TA/TaB-17OuY.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CD-GD/CdGd-24Azz.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CO-GE/CoGe-19Zen-ass.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CO-GE/CoGe-19Zen-ass.zpf-02.json |  |
+| espei_evaluation_tdb_error | derived/invariant-brackets/CR-RE/CrRe-10Pal.zpf-00.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | derived/invariant-brackets/CR-RE/CrRe-10Pal.zpf-01.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_nonfinite | derived/invariant-brackets/CU-GA/CuGa-08Li.zpf-03.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/GE-TI/GeTi-23Zob.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/HO-TE/HoTe-13Gha.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/K-NA/KNa-06Zha.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/K-NA/KNa-06Zha.zpf-06.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/LI-O/LiO-11Cha.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/LI-PB/LiPb-16Zho.zpf-00.json |  |
+| espei_evaluation_error | derived/invariant-brackets/MG-TB/MgTb-06Guo.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_nonfinite | derived/invariant-brackets/MN-ZN/MnZn-21Li.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/N-U/UN-00Che.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/N-U/UN-00Che.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NB-SI/NbSi-03Yan.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-SI/NiSi-03Tok.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-SI/NiSi-03Tok.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-04.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-ZR/NiZr-20Jan.zpf-04.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/NI-ZR/NiZr-20Jan.zpf-06.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-03.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-04.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-05.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/O-PU/PuO-08Gue.zpf-06.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/PD-SI/PdSi-06Du.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/PD-SN/PdSn-20Cui.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/PD-SN/PdSn-20Cui.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/PD-TE/PdTe-11Gos.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/PU-ZN/PuZn-14Liu.zpf-03.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/SI-SR/SiSr-11Li-ass.zpf-02.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/V-ZN/VZn-10Cha.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/Y-ZN/YZn-08Liu.zpf-00.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/Y-ZN/YZn-08Liu.zpf-01.json |  |
+| espei_evaluation_nonfinite | derived/invariant-brackets/Y-ZN/YZn-08Liu.zpf-02.json |  |
+| espei_evaluation_tdb_error | derived/liquid-stability/AL-TI/AlTi-92Kat.liquid-stability.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_error | dft/literature/AL-C/AlC-04Oht.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/AL-C/AlC-19Def.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/AL-C/AlC-21He-3g.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/AL-C/AlC-91Har.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/AL-C/AlC-94Qiu.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/AL-C/AlC-95Gro-LB.AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_tdb_error | dft/literature/AL-TI/AlTi-92Kat.AL2TI.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_error | dft/literature/C-MN/MnC-10Dju.CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-10Dju.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-10Dju.M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-10Dju.M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-18Tan.CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-18Tan.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-18Tan.M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-18Tan.M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-19Mie.CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-19Mie.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-19Mie.M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-19Mie.M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-89Lee.CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-89Lee.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-89Lee.M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-89Lee.M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-90Hua-LB.CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-90Hua-LB.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-90Hua-LB.M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/C-MN/MnC-90Hua-LB.M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/literature/CS-O/CsO-15Gue.CS3O.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/literature/CS-O/CsO-15Gue.CS4O.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/literature/CS-O/CsO-15Gue.CS7O.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/literature/CS-O/CsO-15Gue.CS7O2.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/literature/H-ZR/ZrH-07Uki.ZRH2_L2B.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/literature/H-ZR/ZrH-12Zho.ZRH2_L2B.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/literature/H-ZR/ZrH-97Ans-LB.ZRH2_L2B.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/literature/H-ZR/ZrH-99Dup.ZRH2_L2B.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/literature/N-ZR/ZrN-04Ma.FCC_A1.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/literature/N-ZR/ZrN-17Sri.FCC_A1.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/AL-NI/AlNi-88Ans.AL3NI_D011.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | dft/mp/AS-GA/GaAs-90Cha-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/BE-C/BeC-21Liu.BE2C_C1.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-04Ten.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-04Ten.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-12Khv.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-12Khv.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-87And-LB.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-87And-LB.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-92Lee.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-CR/CrC-92Lee.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-MN/MnC-10Dju.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-MN/MnC-18Tan.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-MN/MnC-19Mie.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-MN/MnC-89Lee.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-MN/MnC-90Hua-LB.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-PU/PuC-08Fis.PU2C3_D5C.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/C-PU/PuC-11Gue.PU2C3_D5C.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/mp/CE-GA/CeGa-13Idb.CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/CE-GA/CeGa-19Liu.CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/CS-O/CsO-15Gue.CS3O.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/mp/EU-GA/EuGa-20Li.EUGA4_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/F-NA/NaF-06Zha.NAF_B1.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | dft/mp/F-NB/NbF-18Cap.NBF5.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | dft/mp/GA-LA/GaLa-11Idb.GA6LA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-LA/GaLa-11Idb.GALA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-LA/GaLa-22Bou.GA6LA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-LA/GaLa-22Bou.GALA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-05Fra-LB.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-05Fra-LB.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-05Fra-LB.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-09Fen.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-09Fen.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-09Fen.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-10Men.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-10Men.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-10Men.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-91Not.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-91Not.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-MG/GaMg-91Not.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-N/GaN-03Unl.GAN_B4.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-N/GaN-98Dav.GAN_B4.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-NA/GaNa-07Wan.GA4NA_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-P/GaP-94Ans-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-PR/GaPr-22Bou.GA2PR_C32.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-PR/GaPr-22Bou.GA3PR_D019.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-PR/GaPr-22Bou.GA6PR.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-PR/GaPr-22Bou.GAPR_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-SB/GaSb-94Ans-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-SB/GaSb-97Xie.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-V/GaV-15Lin.GA41V8.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/GA-V/GaV-15Lin.GA5V2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/mp/H-LI/LiH-12Wan.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-LI/LiH-17Lia.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-LI/LiH-93Pel.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-MG/MgH-07Pal.MGH2_C4.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-MG/MgH-99Zen.MGH2_C4.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-NA/NaH-06Qiu.NAH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/H-NA/NaH-93Pel.NAH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/mp/LI-N/LiN-05Fra-LB.LI3N.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/MG-N/MgN-15Hal.MG3N2_D53.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-08And-A.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-08And-B.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-90Oht.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-91Vah.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-96Jon-LB.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/N-TI/TiN-96Zen.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/mp/NB-O/NbO-07Jer.NBO.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/mp/NB-O/NbO-97Dup-LB.NBO.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/mp/PD-S/PdS-10Hu.PD16S7.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_error | dft/mp/PD-S/PdS-10Hu.PD4S.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_error | dft/mp/S-SN/SnS-16Lin.SNS2_C6.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_error | dft/oqmd/AL-NI/AlNi-88Ans.AL3NI_D011.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | dft/oqmd/AS-GA/GaAs-90Cha-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/BE-C/BeC-21Liu.BE2C_C1.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-04Ten.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-04Ten.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-12Khv.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-12Khv.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-87And-LB.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-87And-LB.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-92Lee.CR3C2_D510.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-CR/CrC-92Lee.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-MN/MnC-10Dju.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-MN/MnC-18Tan.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-MN/MnC-19Mie.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-MN/MnC-89Lee.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-MN/MnC-90Hua-LB.M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-PU/PuC-08Fis.PU2C3_D5C.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/C-PU/PuC-11Gue.PU2C3_D5C.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | dft/oqmd/CE-GA/CeGa-13Idb.CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/CE-GA/CeGa-19Liu.CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/CS-O/CsO-15Gue.CS3O.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/oqmd/EU-GA/EuGa-20Li.EUGA4_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/F-NA/NaF-06Zha.NAF_B1.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | dft/oqmd/F-NB/NbF-18Cap.NBF5.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | dft/oqmd/GA-LA/GaLa-11Idb.GA6LA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-LA/GaLa-11Idb.GALA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-LA/GaLa-22Bou.GA6LA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-LA/GaLa-22Bou.GALA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-05Fra-LB.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-05Fra-LB.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-05Fra-LB.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-09Fen.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-09Fen.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-09Fen.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-10Men.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-10Men.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-10Men.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-91Not.GA2MG5_D8G.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-91Not.GA5MG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-MG/GaMg-91Not.GAMG2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-N/GaN-03Unl.GAN_B4.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-N/GaN-98Dav.GAN_B4.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-NA/GaNa-07Wan.GA4NA_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-P/GaP-94Ans-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-PR/GaPr-22Bou.GA2PR_C32.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-PR/GaPr-22Bou.GA3PR_D019.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-PR/GaPr-22Bou.GA6PR.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-PR/GaPr-22Bou.GAPR_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-SB/GaSb-94Ans-LB.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-SB/GaSb-97Xie.ZINCBLENDE_B3.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-V/GaV-15Lin.GA41V8.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/GA-V/GaV-15Lin.GA5V2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | dft/oqmd/H-LI/LiH-12Wan.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-LI/LiH-17Lia.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-LI/LiH-93Pel.LIH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-MG/MgH-07Pal.MGH2_C4.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-MG/MgH-99Zen.MGH2_C4.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-NA/NaH-06Qiu.NAH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/H-NA/NaH-93Pel.NAH_B1.json | KeyError: '1/2_MOLE_H2(G)' |
+| espei_evaluation_error | dft/oqmd/LI-N/LiN-05Fra-LB.LI3N.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/MG-N/MgN-15Hal.MG3N2_D53.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-08And-A.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-08And-B.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-90Oht.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-91Vah.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-96Jon-LB.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/N-TI/TiN-96Zen.TI2N_C4.json | KeyError: '1/2_MOLE_N2(G)' |
+| espei_evaluation_error | dft/oqmd/NB-O/NbO-07Jer.NBO.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/oqmd/NB-O/NbO-97Dup-LB.NBO.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_error | dft/oqmd/PD-S/PdS-10Hu.PD16S7.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_error | dft/oqmd/PD-S/PdS-10Hu.PD4S.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_error | dft/oqmd/S-SN/SnS-16Lin.SNS2_C6.json | KeyError: 'ORTHORHOMBIC_S' |
+| espei_evaluation_nonfinite | experimental/AG-O/AgO-97Ass-LB.cpm-00.json |  |
+| espei_evaluation_nonfinite | experimental/AG-O/AgO-97Ass-LB.cpm-02.json |  |
+| espei_evaluation_nonfinite | experimental/AG-O/AgO-97Ass-LB.sm-01.json |  |
+| espei_evaluation_error | experimental/AL-C/AlC-19Def.hmr-00-AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_tdb_error | experimental/AL-CR/AlCr-00Sub.hmr-00-AL7CR.json | ValueError: C_S does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | experimental/AL-CR/AlCr-00Sub.hmr-02-AL11CR2.json | ValueError: C_S does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | experimental/AL-CR/AlCr-00Sub.hmr-04-AL4CR.json | ValueError: C_S does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | experimental/AL-CR/AlCr-00Sub.hmr-08-ALCR2_C11B.json | ValueError: C_S does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | experimental/AL-MG-ZN/AlMgZn.zpf-00.json | ParseException: Invalid TDB syntax.
+      PARAMETER G(LIQUID,AL;0)  2.98130E+02  +GALLIQ#;         3.00000E+03  N REF: 0 |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-02-M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-03-M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-05-M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-06-M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-08-CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-10-M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | experimental/C-MN/MnC-10Dju.hmr-11-M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_nonfinite | experimental/C-V/VC-06Hu.zpf-00.json |  |
+| espei_evaluation_nonfinite | experimental/C-V/VC-06Hu.zpf-01.json |  |
+| espei_evaluation_nonfinite | experimental/C-V/VC-06Hu.zpf-02.json |  |
+| espei_evaluation_tdb_error | experimental/C-W/WC-22He-3g.sm-00.json | ParseException: Invalid TDB syntax.
+  PAR  LNTHETA1(GRAPHITE_A9,C),,         +LN(1953.2502);,,             N 18BIG 
+     |
+| espei_evaluation_error | experimental/CE-GA/CeGa-13Idb.hmr-00-CEGA6_HT.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/CE-GA/CeGa-13Idb.hmr-05-CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-05.json |  |
+| espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-06.json |  |
+| espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-07.json |  |
+| espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-08.json |  |
+| espei_evaluation_nonfinite | experimental/CE-O/CeO-06Zin.zpf-10.json |  |
+| espei_evaluation_nonfinite | experimental/CO-O/CoO-03Che-LB.sm-00-SPINEL_H11.json |  |
+| espei_evaluation_nonfinite | experimental/CO-O/CoO-03Che-LB.sm-01.json |  |
+| espei_evaluation_nonfinite | experimental/CO-V/CoV-03Bra-LB.hmr-01.json |  |
+| espei_evaluation_tdb_not_found | experimental/CR-NB/no-model-.zpf-00.json |  |
+| espei_evaluation_nonfinite | experimental/ER-GE/ErGe-17Ach.gmr-02.json |  |
+| espei_evaluation_nonfinite | experimental/ER-GE/ErGe-17Ach.hmr-00.json |  |
+| espei_evaluation_nonfinite | experimental/ER-GE/ErGe-17Ach.smr-01.json |  |
+| espei_evaluation_error | experimental/FE-NI-W/mc_ni_v2.034.pycalphad.zpf-02.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | experimental/GA-N/GaN-03Unl.hmr-00-GAN_B4.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-NA/GaNa-07Wan.hmr-00-GA4NA_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-NA/GaNa-07Wan.hmr-01-GA4NA_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-NA/GaNa-07Wan.hmr-02-GA39NA22.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-NA/GaNa-07Wan.hmr-03-GA39NA22.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-08-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-08-GASE.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-09-GASE.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-10-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-10-GASE.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-11-GASE.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-12-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-13-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | experimental/GA-SE/GaSe-08Zhe.hmr-14-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_nonfinite | experimental/NI-ZR/NiZr-20Jan.hmr-00.json |  |
+| espei_evaluation_nonfinite | experimental/NI-ZR/NiZr-20Jan.hmr-01.json |  |
+| espei_evaluation_nonfinite | experimental/NI-ZR/NiZr-20Jan.hmr-02.json |  |
+| espei_evaluation_nonfinite | experimental/O-PB/PbO-98Ris-LB.sm-09.json |  |
+| espei_evaluation_nonfinite | experimental/O-U/UO-02Che.sm-11-U3O8.json |  |
+| espei_evaluation_nonfinite | experimental/O-U/UO-02Che.sm-11-U4O9.json |  |
+| espei_evaluation_nonfinite | experimental/O-U/UO-02Che.sm-12.json |  |
+| espei_evaluation_nonfinite | experimental/O-U/UO-02Che.sm-13.json |  |
+| espei_evaluation_nonfinite | experimental/O-U/UO-02Che.sm-14.json |  |
+| espei_evaluation_nonfinite | experimental/SI-SR/SiSr-11Li-ass.hmr-03.json |  |
+| espei_evaluation_nonfinite | experimental/SI-V/SiV-08Zha.hmr-00-SIV3_A15.json |  |
+| espei_evaluation_nonfinite | experimental/SI-V/SiV-08Zha.hmr-01-SIV3_A15.json |  |
+| espei_evaluation_nonfinite | experimental/SI-V/SiV-08Zha.hmr-02-SIV3_A15.json |  |
+| espei_evaluation_nonfinite | experimental/SI-V/SiV-08Zha.hmr-03-SIV3_A15.json |  |
+| espei_evaluation_nonfinite | experimental/SI-V/SiV-08Zha.hmr-05.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-01.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-02.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-04.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-05.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-06.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-07.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-06Sha.hmr-08.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-00-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-00-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-00-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-00-YZN2_LT.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-00-YZN5.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-Y13ZN58.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-YZN2_LT.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-01-YZN5.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-02-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-02-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-02-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-02-YZN2_LT.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-02-YZN5.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-03-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-03-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-03-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-03-YZN2_HT.json |  |
+| espei_evaluation_nonfinite | experimental/Y-ZN/YZn-08Liu.gmr-03-YZN5.json |  |
+| derived_from_excluded_dataset | derived/invariant-brackets/AL-CR/AlCr-13Hu.zpf-01.json |  |
+| espei_evaluation_nonfinite | invariants/AL-CR/AlCr-13Hu.zpf-01.json |  |
+| espei_evaluation_error | invariants/AL-CR/AlCr-15Wit.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-CR/AlCr-15Wit.zpf-04.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-CR/AlCr-15Wit.zpf-06.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-CR/AlCr-15Wit.zpf-08.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-FE-MN/mc_al_v2.032.pycalphad.zpf-ternary-03.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-FE-MN/mc_al_v2.032.pycalphad.zpf-ternary-04.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-FE-MN/mc_al_v2.032.pycalphad.zpf-ternary-05.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-MG-SI/mc_al_v2.032.pycalphad.zpf-ternary-08.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-MG-SI/mc_al_v2.032.pycalphad.zpf-ternary-13.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-MG-SI/mc_al_v2.032.pycalphad.zpf-ternary-16.json | KeyError: 'FCC_A1' |
+| espei_evaluation_error | invariants/AL-MN/AlMn-99Liu-LB.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-MN/AlMn-99Liu-LB.zpf-01.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-MN/AlMn-99Liu-LB.zpf-02.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/AL-MN/AlMn-99Liu-LB.zpf-03.json | KeyError: 'A2_BCC' |
+| espei_evaluation_error | invariants/AL-MN/AlMn-99Liu-LB.zpf-04.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_tdb_error | invariants/AL-MO-TI/COST507.pycalphad.zpf-ternary-19.json | ParseException: Invalid TDB syntax.
+ PARAMETER L(LAVES_C14,AL,CU:CU;0)  298.15 -24000+2.44*T; 6000.0  N  REF: 0 
+        |
+| espei_evaluation_tdb_error | invariants/AL-TI/AlTi-92Kat.zpf-01.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | invariants/AL-TI/AlTi-92Kat.zpf-02.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | invariants/AL-TI/AlTi-92Kat.zpf-05.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | invariants/AL-TI/AlTi-92Kat.zpf-06.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_tdb_error | invariants/AL-TI/AlTi-92Kat.zpf-07.json | ValueError: The B2_BCC phase is not in the database, but is defined by: `TYPE_DEFINTION O GES AMEND_PHASE_DESCRIPTION B2 |
+| espei_evaluation_nonfinite | invariants/AU-ND/AuNd-16Mou.zpf-01.json |  |
+| espei_evaluation_nonfinite | invariants/B-TA/TaB-17OuY.zpf-02.json |  |
+| espei_evaluation_tdb_not_found | invariants/BI-PB-SN/binary-subsystems-Bi-Pb-Sn.zpf-ternary-22.json |  |
+| espei_evaluation_tdb_not_found | invariants/BI-PB-SN/binary-subsystems-Bi-Pb-Sn.zpf-ternary-23.json |  |
+| espei_evaluation_nonfinite | invariants/C-CO-W/mc_fe_v2.059.pycalphad.zpf-ternary-24.json |  |
+| espei_evaluation_nonfinite | invariants/C-CO-W/mc_fe_v2.059.pycalphad.zpf-ternary-25.json |  |
+| espei_evaluation_nonfinite | invariants/C-CO-W/mc_fe_v2.059.pycalphad.zpf-ternary-26.json |  |
+| espei_evaluation_nonfinite | invariants/CD-GD/CdGd-24Azz.zpf-00.json |  |
+| espei_evaluation_nonfinite | invariants/CD-GD/CdGd-24Azz.zpf-01.json |  |
+| espei_evaluation_tdb_error | invariants/CR-RE/CrRe-10Pal.zpf-00.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_error | invariants/CR-RE/CrRe-10Pal.zpf-01.json | ValueError: STATUS does not match ['DISORDERED_PART', 'MAGNETIC', 'NEVER_DISORDER'] |
+| espei_evaluation_tdb_not_found | invariants/FE-MN-P/binary-subsystems-Fe-Mn-P.zpf-ternary-42.json |  |
+| espei_evaluation_tdb_not_found | invariants/FE-MO-P/binary-subsystems-Fe-Mo-P.zpf-ternary-43.json |  |
+| espei_evaluation_nonfinite | invariants/K-NA/KNa-06Zha.zpf-01.json |  |
+| espei_evaluation_nonfinite | invariants/K-NA/KNa-06Zha.zpf-06.json |  |
+| espei_evaluation_nonfinite | invariants/LI-O/LiO-11Cha.zpf-02.json |  |
+| derived_from_excluded_dataset | derived/invariant-brackets/MG-PR/MgPr-08Guo.zpf-00.json |  |
+| espei_evaluation_error | invariants/MG-PR/MgPr-08Guo.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_error | invariants/MG-TB/MgTb-06Guo.zpf-00.json | AttributeError: 'NoneType' object has no attribute 'constituents' |
+| espei_evaluation_nonfinite | invariants/NB-SI/NbSi-03Yan.zpf-00.json |  |
+| espei_evaluation_nonfinite | invariants/NI-SI/NiSi-05Mie.zpf-03.json |  |
+| espei_evaluation_nonfinite | invariants/O-PU/PuO-08Gue.zpf-03.json |  |
+| espei_evaluation_nonfinite | invariants/O-PU/PuO-08Gue.zpf-05.json |  |
+| espei_evaluation_nonfinite | invariants/PD-TE/PdTe-11Gos.zpf-02.json |  |
+| derived_from_excluded_dataset | derived/invariant-brackets/SB-TE/SbTe-14Guo.zpf-00.json |  |
+| espei_evaluation_nonfinite | invariants/SB-TE/SbTe-14Guo.zpf-00.json |  |
+| espei_evaluation_nonfinite | invariants/SI-SR/SiSr-11Li-ass.zpf-00.json |  |
+| espei_evaluation_nonfinite | invariants/SI-SR/SiSr-11Li-ass.zpf-01.json |  |
+| espei_evaluation_nonfinite | invariants/Y-ZN/YZn-08Liu.zpf-01.json |  |
+| espei_evaluation_nonfinite | invariants/Y-ZN/YZn-08Liu.zpf-02.json |  |
+| espei_evaluation_nonfinite | model/AG-O/AgO-97Ass-LB.cpm-model-00.json |  |
+| espei_evaluation_nonfinite | model/AG-O/AgO-97Ass-LB.sm-model-01.json |  |
+| espei_evaluation_error | model/AL-C/AlC-19Def.hmr-model-00-AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/AL-C/AlC-21He-3g.hmr-model-00-AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/AL-C/AlC-95Gro-LB.hmr-model-00-AL4C3_D71.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/AL-FE/AlFe-18Zie.gmr-model-02.json | DofError: AL5FE2: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species |
+| espei_evaluation_error | model/AL-FE/AlFe-18Zie.gmr-model-05.json | DofError: AL2FE: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species( |
+| espei_evaluation_error | model/AL-FE/AlFe-18Zie.gmr-model-08.json | DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Specie |
+| espei_evaluation_error | model/AL-FE/AlFe-23Ila.gmr-model-02.json | DofError: AL5FE2: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Species |
+| espei_evaluation_error | model/AL-FE/AlFe-23Ila.gmr-model-08.json | DofError: AL13FE4: Sublattice frozenset({Species('FE', 'FE1')}) of (frozenset({Species('AL', 'AL1')}), frozenset({Specie |
+| espei_evaluation_nonfinite | model/BA-O/BaO-95Zim.sm-model-01.json |  |
+| espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-02-M7C3_D101.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-03-M5C2.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-04-CEMENTITE_D011.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_error | model/C-MN/MnC-10Dju.hmr-model-05-M23C6_D84.json | KeyError: 'GRAPHITE' |
+| espei_evaluation_nonfinite | model/C-TI/TiC-03Fri.sm-model-01.json |  |
+| espei_evaluation_nonfinite | model/C-V/VC-06Hu.zpf-model-00.json |  |
+| espei_evaluation_tdb_error | model/C-W/WC-22He-3g.sm-model-00.json | ParseException: Invalid TDB syntax.
+  PAR  LNTHETA1(GRAPHITE_A9,C),,         +LN(1953.2502);,,             N 18BIG 
+     |
+| espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-00-CEGA6_HT.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-01-CEGA6_LT.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-03-CEGA_B33.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-04-CE3GA2.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/CE-GA/CeGa-13Idb.hmr-model-05-CE3GA_L12.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_nonfinite | model/CO-O/CoO-03Che-LB.sm-model-00-SPINEL_H11.json |  |
+| espei_evaluation_nonfinite | model/CO-V/CoV-03Bra-LB.hmr-model-01.json |  |
+| espei_evaluation_error | model/CS-O/CsO-15Gue.hmr-model-00-CS7O2.json | KeyError: '1/2_MOLE_O2(G)' |
+| espei_evaluation_nonfinite | model/ER-GE/ErGe-17Ach.gmr-model-02.json |  |
+| espei_evaluation_nonfinite | model/ER-GE/ErGe-17Ach.hmr-model-00.json |  |
+| espei_evaluation_nonfinite | model/ER-GE/ErGe-17Ach.smr-model-01.json |  |
+| espei_evaluation_error | model/F-NB/NbF-18Cap.hmr-model-03-NBF3_D09.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | model/F-NB/NbF-18Cap.hmr-model-06-NBF4.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_error | model/F-NB/NbF-18Cap.hmr-model-09-NBF5.json | KeyError: '1/2_MOLE_F2(G)' |
+| espei_evaluation_nonfinite | model/FE-MO/FeMo-14Raj.hmr-model-01.json |  |
+| espei_evaluation_error | model/GA-NA/GaNa-07Wan.hmr-model-00-GA4NA_D13.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/GA-NA/GaNa-07Wan.hmr-model-01-GA39NA22.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/GA-SE/GaSe-08Zhe.hmr-model-02-GA2SE3_BETA.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_error | model/GA-SE/GaSe-08Zhe.hmr-model-02-GASE.json | KeyError: 'ORTHORHOMBIC_GA' |
+| espei_evaluation_nonfinite | model/HO-NI/HoNi-15Kar.cpm-model-14.json |  |
+| espei_evaluation_nonfinite | model/HO-NI/HoNi-15Kar.hmr-model-12.json |  |
+| espei_evaluation_nonfinite | model/HO-NI/HoNi-15Kar.smr-model-13.json |  |
+| espei_evaluation_nonfinite | model/MN-O/MnO-03Gru-LB.sm-model-07.json |  |
+| espei_evaluation_nonfinite | model/NP-O/NpO-16Smi.sm-model-01.json |  |
+| espei_evaluation_nonfinite | model/O-PB/PbO-98Ris-LB.sm-model-05.json |  |
+| espei_evaluation_nonfinite | model/O-PB/PbO-98Ris-LB.sm-model-07.json |  |
+| espei_evaluation_nonfinite | model/O-PB/PbO-98Ris-LB.sm-model-10.json |  |
+| espei_evaluation_nonfinite | model/O-PU/PuO-08Gue.cpm-model-07.json |  |
+| espei_evaluation_nonfinite | model/O-PU/PuO-08Gue.sm-model-06.json |  |
+| espei_evaluation_nonfinite | model/O-U/UO-02Che.sm-model-02-U3O8.json |  |
+| espei_evaluation_nonfinite | model/O-U/UO-02Che.sm-model-02-U4O9.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-Y13ZN58.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-YZN2_LT.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-00-YZN5.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-Y13ZN58.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-YZN2_LT.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-01-YZN5.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-Y13ZN58.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-Y2ZN17.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-Y3ZN11.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-YZN12_D2B.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-YZN2_HT.json |  |
+| espei_evaluation_nonfinite | model/Y-ZN/YZn-08Liu.gmr-model-02-YZN5.json |  |
+
 ## Encoding fixes (E1-E6)
 
 | fix | what | count |
 |---|---|---:|
-| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 7423 |
-| E2 | line-compound ZPF vertices written with composition null (datasets) | 7072 vertices (1380 datasets; 177 hyperplanes added) |
-| E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 873 (136) |
-| E4 | values read twice from the same printed row, counted once | 1362 |
-| E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 132 / 64 / 84 |
-| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 1377 / 52 |
+| E1 | VA added to `components` (target TDB has a vacancy sublattice; else system TDBs; else metallic system) | 6275 |
+| E2 | line-compound ZPF vertices written with composition null (datasets) | 6230 vertices (1223 datasets; 177 hyperplanes added) |
+| E3 | identical ZPF regions written once (regions removed; datasets left empty and dropped) | 683 (123) |
+| E4 | values read twice from the same printed row, counted once | 1316 |
+| E5 | activity datasets audited / reference state changed to the stated one / literature records listed for correction | 114 / 64 / 84 |
+| E6 | thermochemical datasets with a minimum-sigma weight suggestion / where it changes the weight | 772 / 39 |
 
 Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
@@ -74,38 +581,102 @@ Records to correct in the literature release: UPSTREAM_CORRECTIONS.md.
 
 | folder | datasets | ZPF points | systems |
 |---|---:|---:|---:|
-| assessed | 708 | 8441 | 522 |
-| derived/invariant-brackets | 1305 | 6590 | 433 |
-| derived/liquid-stability | 457 | 4113 | 329 |
+| assessed | 654 | 7702 | 482 |
+| derived/invariant-brackets | 1145 | 5661 | 402 |
+| derived/liquid-stability | 434 | 3906 | 312 |
 
-Invariant brackets written: above 3311, below 3279; skipped: another_invariant_within_offset (above) 592, another_invariant_within_offset (below) 624, composition_not_between_the_two_phases 186, invariant_composition_unknown 1143, phase_unmapped_or_repeated 53, reaction_label_not_matched 872, reaction_not_parsed 190, reaction_phases_differ_from_dataset 12, reaction_type_magnetic 10, reaction_type_order-disorder 4, unary_reaction 77.
-Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 154, phase_not_in_tdb 295.
-Liquid-stability systems: above_a_boiling_point 88, element_not_a_condensed_liquid_at_1_atm 26, liquid_miscibility_gap_in_sources 69, no_assessed_diagram 32, no_single_phase_liquid_field 17, written 329.
+Invariant brackets written: above 3056, below 3037; skipped: another_invariant_within_offset (above) 520, another_invariant_within_offset (below) 539, composition_not_between_the_two_phases 175, invariant_composition_unknown 431, phase_unmapped_or_repeated 53, reaction_label_not_matched 730, reaction_not_parsed 152, reaction_phases_differ_from_dataset 9, reaction_type_magnetic 3, reaction_type_order-disorder 4, unary_reaction 67.
+Assessed points left out (phase not in the TDB, or ambiguous): phase_ambiguous_in_tdb 142, phase_not_in_tdb 291, region_inert_no_composition 115.
+Liquid-stability systems: above_a_boiling_point 84, element_not_a_condensed_liquid_at_1_atm 25, liquid_miscibility_gap_in_sources 66, no_assessed_diagram 25, no_single_phase_liquid_field 10, written 312.
 
 ## Inclusion gate (same rules as the published literature values)
 
 | reason | values removed |
 |---|---:|
+| absolute_entropy_negative: negative absolute entropy (a formation entropy or a model parameter printed as S) | 18 |
+| activity_out_of_range: activity outside (0, 1] (a printed scale factor such as x10^3 not applied, or a zero endpoint that gives -inf in ESPEI); excluded, not rescaled | 54 |
+| blocked_by_flag:magnitude_suspect: the published value is flagged magnitude_suspect | 17 |
+| blocked_by_flag:system_mismatch: the published value is flagged system_mismatch | 18 |
+| blocked_by_flag:unsigned_in_print: the published value is flagged unsigned_in_print (minus sign absent in print; sign uncertain) | 2 |
 | composition_differs_from_release: a ZPF vertex composition is not among the published phase compositions | 6 |
-| duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 873 |
-| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1362 |
+| composition_not_at_compound: compound formation value whose printed composition differs from the compound's formula composition in the target TDB by more than 0.01 | 47 |
+| duplicate_identical_zpf: E3: identical ZPF region (same phases, temperature and compositions) already written from another dataset (another assessment folder or another paper quoting the same invariant); kept once with every source in `also_reported_as` | 683 |
+| duplicate_read_same_row: E4: the same printed table row read twice (same ORCHID row id `pid`, conditions and value); counted once, the other id kept as `also_read_as` | 1316 |
+| duplicate_value_same_dataset: identical conditions and value under another id in the same dataset (another row or paper quoting the same value): counted once, the other id in `also_read_as` | 30 |
+| espei_evaluation_nonfinite_region: ZPF region with a non-finite driving force against the target TDB (ESPEI 0.9.1 likelihood evaluation); region not written | 84 |
 | evidence_class_mismatch: published evidence class differs from the folder's class (classes are never mixed) | 2 |
+| formation_magnitude_implausible: formation enthalpy / Gibbs energy outside [-450, +100] kJ/mol-atom (per-formula value or unit error) | 15 |
+| gas_without_printed_pressure: ZPF region with a gas phase and no printed pressure | 28 |
+| heat_capacity_unit_implausible: heat capacity below 5 J/K/mol-atom above 100 K (a per-gram value) | 171 |
+| increment_not_absolute: printed quantity is an increment (H(T)-H(298), S(T)-S(298)), not the absolute property of the dataset | 30 |
 | magnitude_implausible: physically implausible magnitude for fitting (|S| > 150 J/K/mol-atom, |Cp| > 200 J/K/mol-atom, |H| or |G| > 1000 kJ/mol-atom): a unit error in the source or the extraction; the value stays in the literature release with its flags | 57 |
+| phase_not_in_target_tdb: the value's phase has no model in the target TDB (the assessment folder) | 81 |
+| phase_rule:compound_property_not_fittable: physical phase rule: a property of a stoichiometric compound that ESPEI 0.9.1 cannot fit (only HM_FORM / SM_FORM of endmembers) | 547 |
+| phase_rule:liquid_impossible_at_T: physical phase rule: liquid printed at a temperature below the lowest possible liquid temperature of the system | 8 |
+| phase_rule:phase_label_ambiguous: physical phase rule: the printed label maps to several registry phases | 98 |
+| phase_rule:phase_label_not_mapped: physical phase rule: the printed phase label is not mapped to a model phase by the phase registry | 551 |
+| phase_rule:phase_not_printed: physical phase rule: no phase printed for the value and the caption does not name the liquid (no default phase is assigned) | 668 |
+| phase_rule:temperature_implausible: physical phase rule: the temperature is zero, a composition, or (phase equilibria) below 0.25 x the lowest element melting point | 31 |
+| phase_several_models_in_target_tdb: the value's registry phase has several models in the target TDB | 25 |
+| reference_phase_not_in_target_tdb: a reference-state phase is not a phase of the target TDB (e.g. the SER name 1/2_MOLE_O2(G), truncated to '1' by the record builder); ESPEI 0.9.1 stops with a KeyError | 64 |
+| reference_state_not_ser: compound formation value relative to a reference phase other than the TDB's SER phase (ESPEI _FORM is relative to SER) | 68 |
+| three_phase_region_off_invariant: binary three-phase ZPF region more than 50 K from every calculated invariant of the system (a binary three-phase equilibrium is invariant) | 15 |
 | value_differs_from_release: dataset value differs from the published value (e.g. a quality fix applied in the release: per-formula -> per-atom basis); the dataset value is not used | 29 |
+| zpf_region_inert: ZPF region without any composition and without a hyperplane after E2: ESPEI 0.9.1 gives it zero driving force, so it constrains nothing (not written, not counted) | 1479 |
 
 Datasets dropped (listed in `validation.json`, `dropped_datasets`):
 
+- `absolute_entropy_negative`: 4
+- `absolute_entropy_negative;phase_rule:compound_property_not_fittable;phase_rule:phase_label_ambiguous`: 1
+- `activity_out_of_range`: 16
+- `blocked_by_flag:magnitude_suspect`: 8
+- `blocked_by_flag:magnitude_suspect;formation_magnitude_implausible;phase_rule:phase_not_printed`: 1
+- `blocked_by_flag:system_mismatch;blocked_by_flag:unsigned_in_print`: 1
 - `composition_differs_from_release`: 1
+- `composition_not_at_compound`: 2
+- `composition_not_at_compound;phase_rule:phase_label_ambiguous`: 4
+- `composition_not_at_compound;phase_rule:phase_label_not_mapped`: 1
 - `dft_superseded`: 124 (the corpus's DFT datasets are replaced by the endmember HM_FORM datasets in `dft/literature/`, written only where a TDB endmember is unambiguous)
-- `duplicate_identical_zpf`: 136
+- `duplicate_identical_property_dataset`: 35
+- `duplicate_identical_zpf`: 123
+- `espei_evaluation_error`: 67
+- `espei_evaluation_nonfinite`: 122
+- `espei_evaluation_tdb_error`: 15
+- `espei_evaluation_tdb_not_found`: 5
+- `formation_magnitude_implausible`: 8
+- `formation_magnitude_implausible;phase_rule:phase_label_not_mapped`: 1
+- `formation_magnitude_implausible;value_differs_from_release`: 2
+- `gas_without_printed_pressure`: 15
+- `gas_without_printed_pressure;zpf_region_inert`: 1
+- `heat_capacity_unit_implausible;phase_rule:phase_not_printed`: 171
+- `increment_not_absolute`: 1
 - `magnitude_implausible`: 18
+- `magnitude_implausible;phase_rule:phase_not_printed`: 2
+- `phase_not_in_target_tdb`: 22
+- `phase_not_in_target_tdb;phase_rule:phase_label_not_mapped`: 5
+- `phase_rule:compound_property_not_fittable`: 233
+- `phase_rule:compound_property_not_fittable;phase_rule:phase_label_not_mapped`: 1
+- `phase_rule:compound_property_not_fittable;phase_rule:phase_not_printed`: 2
+- `phase_rule:liquid_impossible_at_T`: 2
+- `phase_rule:phase_label_ambiguous`: 54
+- `phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped`: 1
+- `phase_rule:phase_label_ambiguous;reference_state_not_ser`: 2
+- `phase_rule:phase_label_not_mapped`: 291
+- `phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb`: 5
+- `phase_rule:phase_not_printed`: 145
+- `phase_rule:temperature_implausible`: 11
+- `phase_several_models_in_target_tdb`: 18
+- `reference_phase_not_in_target_tdb`: 41
+- `reference_phase_not_in_target_tdb;value_differs_from_release`: 1
+- `reference_state_not_ser`: 57
 - `value_differs_from_release`: 16
+- `zpf_region_inert`: 287
 
-Datasets kept with some values removed: **955** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 15839 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
+Datasets kept with some values removed: **1017** (`orchid.values_dropped`, index `n_values_dropped`). Observation match: id 15551 (`id`: same ORCHID id as in the release; `row`: the only published value of the same table row, value check passed).
 
 ## DFT endmember datasets
 
-Candidates (on-hull binary compounds of the published hull layers; accepted literature DFT HM_FORM values in kJ/mol-atom): literature 331, mp 658, oqmd 658. Values written (one per TDB model that has exactly one endmember at the compound's composition): literature 1092, mp 1290, oqmd 1290. Exclusions (compound or compound x TDB model) by reason:
+Candidates (on-hull binary compounds of the published hull layers; accepted literature DFT HM_FORM values in kJ/mol-atom): literature 331, mp 658, oqmd 658. Values written (one per TDB model that has exactly one endmember at the compound's composition): literature 1051, mp 1218, oqmd 1218. Exclusions (compound or compound x TDB model) by reason:
 
 | source | reason | count |
 |---|---|---:|

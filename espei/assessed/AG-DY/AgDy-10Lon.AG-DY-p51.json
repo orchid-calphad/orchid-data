@@ -18,9 +18,7 @@
   "T": [
    1063.270892,
    922.270892,
-   786.770892,
    975.270892,
-   1000.270892,
    997.270892,
    965.270892,
    1132.270892,
@@ -78,17 +76,6 @@
   ],
   [
    [
-    "AG51DY14",
-    [
-     "DY"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "AG2DY_C11B",
     [
      "DY"
@@ -113,17 +100,6 @@
     ],
     [
      0.2869156638
-    ]
-   ]
-  ],
-  [
-   [
-    "AG2DY_C11B",
-    [
-     "DY"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -442,9 +418,7 @@
   "record_ids": [
    "aspa-8908616440c2a935",
    "aspa-d7732004ebbc4a2a",
-   "aspa-1392b13cfa0c9fe0",
    "aspa-69ed144d68cd3acd",
-   "aspa-0148a3f72228a5ed",
    "aspa-6a202abebd7112ad",
    "aspa-63e49a0881da524d",
    "aspa-a3d75ce8cc678f7f",
@@ -471,11 +445,9 @@
    "high",
    "high",
    "high",
-   "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 2,
   "source": "assessed-phase-assemblages/espei-zpf/AG-DY-p51.json"
  }
 }

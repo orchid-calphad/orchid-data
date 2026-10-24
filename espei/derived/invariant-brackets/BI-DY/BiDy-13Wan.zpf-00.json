@@ -13,9 +13,7 @@
   "P": 101325,
   "T": [
    1729.0,
-   1709.0,
-   2058.0,
-   2038.0
+   1709.0
   ]
  },
  "output": "ZPF",
@@ -86,64 +84,6 @@
      0.635
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "DY"
-    ],
-    [
-     0.5
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "DY"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "DY"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "BIDY_B1",
-    [
-     "DY"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "DY"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "DY"
-    ],
-    [
-     0.51
-    ]
-   ]
   ]
  ],
  "reference": "Wang 2013, doi:10.1016/j.tca.2013.05.024",
@@ -154,7 +94,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-DY/BiDy-13Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6VK3JGW32R ORC-EK4Z5T7V3D",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-DY/BiDy-13Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6VK3JGW32R",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/BI-DY/BiDy-13Wan.zpf-00.json",
@@ -197,42 +137,6 @@
     ],
     "phases_below": [
      "BI3DY5"
-    ]
-   },
-   {
-    "source_observation": "ORC-EK4Z5T7V3D",
-    "side": "above",
-    "T_invariant_K": 2048.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> BiDy",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "BIDY_B1"
-    ]
-   },
-   {
-    "source_observation": "ORC-EK4Z5T7V3D",
-    "side": "below",
-    "T_invariant_K": 2048.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L -> BiDy",
-    "reaction_type": "congruent melting",
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "BIDY_B1"
     ]
    }
   ],

@@ -6,7 +6,7 @@
  ],
  "phases": [
   "CO5GE3_B82",
-  "LIQUID"
+  "FCC_A1"
  ],
  "conditions": {
   "P": 101325,
@@ -101,6 +101,36 @@
     "sigma": null,
     "sigma_basis": "none (model-calculated; no measurement uncertainty)",
     "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "CO5GE3_B82",
+   "FCC_A1"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "outside_calculated_field": [
+   {
+    "id": "ORC-XYYZTH6FP3.b6e438",
+    "phase": "FCC_A1",
+    "x": 0.32,
+    "T_K": 1060.0
+   }
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-XYYZTH6FP3.b6e438",
+    "espei_certified": false,
+    "calphad_check": "not_available"
    }
   ]
  }

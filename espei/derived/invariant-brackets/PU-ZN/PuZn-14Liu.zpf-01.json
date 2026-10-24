@@ -17,8 +17,6 @@
   "T": [
    1211.15,
    1191.15,
-   1053.15,
-   1033.15,
    1173.15,
    1153.15,
    1095.15,
@@ -84,64 +82,6 @@
     ],
     [
      0.905
-    ]
-   ]
-  ],
-  [
-   [
-    "PUZN9_HT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.89
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.91
-    ]
-   ]
-  ],
-  [
-   [
-    "PUZN9_LT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.89
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.91
     ]
    ]
   ],
@@ -355,7 +295,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PU-ZN/PuZn-14Liu.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-32NE6PPXUB ORC-BYK3OZGQWZ ORC-MWZ5IDROTE ORC-NIJ6DJUAOB ORC-UVIL64FWAW",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/PU-ZN/PuZn-14Liu.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-32NE6PPXUB ORC-BYK3OZGQWZ ORC-MWZ5IDROTE ORC-NIJ6DJUAOB",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/PU-ZN/PuZn-14Liu.zpf-01.json",
@@ -396,42 +336,6 @@
     ],
     "phases_below": [
      "PU2ZN17"
-    ]
-   },
-   {
-    "source_observation": "ORC-UVIL64FWAW",
-    "side": "above",
-    "T_invariant_K": 1043.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 3.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.9,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "κ ↔ κ′",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "PUZN9_HT"
-    ],
-    "phases_below": [
-     "PUZN9_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-UVIL64FWAW",
-    "side": "below",
-    "T_invariant_K": 1043.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 3.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.9,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "κ ↔ κ′",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "PUZN9_HT"
-    ],
-    "phases_below": [
-     "PUZN9_LT"
     ]
    },
    {

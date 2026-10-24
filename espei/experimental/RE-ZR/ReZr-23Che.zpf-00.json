@@ -15,9 +15,7 @@
   "P": 101325,
   "T": [
    1223.0,
-   1223.0,
    1373.0,
-   1223.0,
    1223.0,
    1373.0,
    3453.0,
@@ -55,35 +53,6 @@
   ],
   [
    [
-    "HCP_A3",
-    [
-     "ZR"
-    ],
-    [
-     0.9886
-    ]
-   ],
-   [
-    "RE25ZR21",
-    [
-     "ZR"
-    ],
-    [
-     0.4617
-    ]
-   ],
-   [
-    "C14_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.344
-    ]
-   ]
-  ],
-  [
-   [
     "RE25ZR21",
     [
      "ZR"
@@ -99,35 +68,6 @@
     ],
     [
      0.9855
-    ]
-   ]
-  ],
-  [
-   [
-    "C14_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.3893
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "ZR"
-    ],
-    [
-     0.9925
-    ]
-   ],
-   [
-    "RE25ZR21",
-    [
-     "ZR"
-    ],
-    [
-     0.4708
     ]
    ]
   ],
@@ -277,7 +217,7 @@
   "phase_compositions_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J6SJV6DM2G ORC-LCMYQ2LN4C ORC-XRNXWJ5BZ4 ORC-FJRNIV7OG7 ORC-YBAJBY7MK7 ORC-WIFXHLFT6W ORC-3U2ATTVYOO ORC-SL3AKFZIY5 ORC-3IHAYIM746 ORC-B3VCN5QQ33 ORC-CBVS3X6Y7K ORC-HAS52NZKRX ORC-UOWQQSR2FJ ORC-OE5AHWCWLT ORC-BXJIY3V3LM",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-J6SJV6DM2G ORC-XRNXWJ5BZ4 ORC-YBAJBY7MK7 ORC-WIFXHLFT6W ORC-3U2ATTVYOO ORC-SL3AKFZIY5 ORC-3IHAYIM746 ORC-B3VCN5QQ33 ORC-CBVS3X6Y7K ORC-HAS52NZKRX ORC-UOWQQSR2FJ ORC-OE5AHWCWLT ORC-BXJIY3V3LM",
  "bibtex": "che2023_03cab4",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -290,19 +230,7 @@
     "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
    },
    {
-    "id": "ORC-LCMYQ2LN4C",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
-    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
-   },
-   {
     "id": "ORC-XRNXWJ5BZ4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1016/j.ijrmhm.2023.106259",
-    "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
-   },
-   {
-    "id": "ORC-FJRNIV7OG7",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.ijrmhm.2023.106259",
     "measured_in": "doi:10.1016/j.ijrmhm.2023.106259"
@@ -396,19 +324,12 @@
    "10.1016/j.matchar.2020.110285",
    "10.1080/09506608.2018.1516713"
   ],
-  "source_dataset": "db-v2.1/general/espei/ReZr-23Che/zpf-00.json"
+  "source_dataset": "db-v2.1/general/espei/ReZr-23Che/zpf-00.json",
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -481,5 +402,77 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-J6SJV6DM2G",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XRNXWJ5BZ4",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-YBAJBY7MK7",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WIFXHLFT6W",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3U2ATTVYOO",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SL3AKFZIY5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3IHAYIM746",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-B3VCN5QQ33",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-CBVS3X6Y7K",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-HAS52NZKRX",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-UOWQQSR2FJ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OE5AHWCWLT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-BXJIY3V3LM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

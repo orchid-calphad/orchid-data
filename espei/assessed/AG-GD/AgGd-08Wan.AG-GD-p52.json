@@ -17,12 +17,9 @@
   "P": 101325.0,
   "T": [
    873.6734742,
-   743.6734742,
    887.6734742,
    885.1734742,
    867.6734742,
-   818.1734742,
-   1039.173474,
    1182.173474,
    1231.173474,
    1445.173474,
@@ -61,17 +58,6 @@
     ],
     [
      0.1123390411
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51GD14",
-    [
-     "GD"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -159,28 +145,6 @@
     ],
     [
      0.7500253323
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51GD14",
-    [
-     "GD"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "AG51GD14",
-    [
-     "GD"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -411,12 +375,9 @@
   "target_tdb": "AgGd-08Wan.tdb",
   "record_ids": [
    "aspa-5c2efcde4a0de72b",
-   "aspa-593270648ab5b3f9",
    "aspa-a217f6db237b1f2e",
    "aspa-2a300c753d158b35",
    "aspa-23e99fcd5303f613",
-   "aspa-81779359cf424575",
-   "aspa-70d15759e22c90ab",
    "aspa-11a44c98f1d4ecd3",
    "aspa-b40b772e0f4dc618",
    "aspa-786ac40e8693ae71",
@@ -428,12 +389,9 @@
   ],
   "confidence": [
    "high",
-   "medium",
    "high",
    "medium",
    "high",
-   "high",
-   "medium",
    "medium",
    "high",
    "medium",
@@ -443,7 +401,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/AG-GD-p52.json"
  }
 }

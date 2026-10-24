@@ -11,7 +11,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   1825.463154,
    1476.963154,
    2449.963154,
    2095.463154,
@@ -21,17 +20,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "NDB6_D21",
-    [
-     "ND"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "NDB4_D1E",
@@ -171,7 +159,6 @@
   "diagram": "B-ND-p146",
   "target_tdb": "NdB-95Hal-LB.tdb",
   "record_ids": [
-   "aspa-4a2ca1d6d2515683",
    "aspa-5f6d152d48fcf127",
    "aspa-298543b53c6a4a9f",
    "aspa-2b558129c4eb1b6a",
@@ -183,10 +170,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/B-ND-p146.json"
  }
 }

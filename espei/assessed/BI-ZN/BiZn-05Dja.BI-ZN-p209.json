@@ -12,7 +12,6 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   505.7721449,
    500.2721449,
    532.7721449,
    603.7721449,
@@ -22,17 +21,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "RHOMBOHEDRAL_A7",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "RHOMBOHEDRAL_A7",
@@ -172,7 +160,6 @@
   "diagram": "BI-ZN-p209",
   "target_tdb": "BiZn-05Dja.tdb",
   "record_ids": [
-   "aspa-ddf7288b8242919e",
    "aspa-259e9bda76c832cf",
    "aspa-b4538a7827bd63c5",
    "aspa-1b68495bb8fea9cc",
@@ -184,10 +171,9 @@
    "high",
    "high",
    "high",
-   "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/BI-ZN-p209.json"
  }
 }

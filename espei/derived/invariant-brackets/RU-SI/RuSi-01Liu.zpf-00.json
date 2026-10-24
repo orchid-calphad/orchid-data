@@ -17,6 +17,7 @@
    1843.0,
    1823.0,
    1827.0,
+   1807.0,
    1528.0,
    1508.0
   ]
@@ -102,6 +103,35 @@
    ],
    [
     "RU4SI3",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.323333
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.343333
+    ]
+   ]
+  ],
+  [
+   [
+    "RU2SI_C37",
     [
      "SI"
     ],
@@ -252,6 +282,25 @@
    {
     "source_observation": "ORC-2BTOY7ZBR5",
     "side": "above",
+    "T_invariant_K": 1817.0,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "printed",
+    "x0": 0.333333,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "liquid + Ru4Si3 = Ru2Si",
+    "reaction_type": null,
+    "phases_above": [
+     "LIQUID",
+     "RU4SI3"
+    ],
+    "phases_below": [
+     "RU2SI_C37"
+    ]
+   },
+   {
+    "source_observation": "ORC-2BTOY7ZBR5",
+    "side": "below",
     "T_invariant_K": 1817.0,
     "offset_K": 10.0,
     "T_sigma_K": 5.0,

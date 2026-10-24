@@ -12,7 +12,6 @@
   "SB2YB_C49",
   "SB3YB4_D73",
   "SB3YB5_D88",
-  "SB3YB5_HT",
   "SBYB_B1"
  ],
  "conditions": {
@@ -23,8 +22,6 @@
    1843.15,
    1698.15,
    1658.15,
-   1573.15,
-   1533.15,
    1368.15,
    1328.15,
    1093.15,
@@ -197,64 +194,6 @@
     ],
     [
      0.5338095238
-    ]
-   ]
-  ],
-  [
-   [
-    "SB3YB5_HT",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.635
-    ]
-   ]
-  ],
-  [
-   [
-    "SB3YB5_D88",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.615
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "YB"
-    ],
-    [
-     0.635
     ]
    ]
   ],
@@ -535,7 +474,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SB-YB/SbYb-12Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4XM7OQCHEB ORC-5Y3LBFDGLK ORC-6AQ7JXN6OB ORC-FZAW5YN7QE ORC-HPO3DBJ2BD ORC-NNITGX7755 ORC-PJ7SIREDW6 ORC-TBWQQGUE43",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/SB-YB/SbYb-12Liu.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4XM7OQCHEB ORC-6AQ7JXN6OB ORC-FZAW5YN7QE ORC-HPO3DBJ2BD ORC-NNITGX7755 ORC-PJ7SIREDW6 ORC-TBWQQGUE43",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/SB-YB/SbYb-12Liu.zpf-00.json",
@@ -633,42 +572,6 @@
     ],
     "phases_below": [
      "SB10YB11"
-    ]
-   },
-   {
-    "source_observation": "ORC-5Y3LBFDGLK",
-    "side": "above",
-    "T_invariant_K": 1553.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βSb3Yb5 -> αSb3Yb5",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "SB3YB5_HT"
-    ],
-    "phases_below": [
-     "SB3YB5_D88"
-    ]
-   },
-   {
-    "source_observation": "ORC-5Y3LBFDGLK",
-    "side": "below",
-    "T_invariant_K": 1553.15,
-    "offset_K": 20.0,
-    "T_sigma_K": 10.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.625,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βSb3Yb5 -> αSb3Yb5",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "SB3YB5_HT"
-    ],
-    "phases_below": [
-     "SB3YB5_D88"
     ]
    },
    {

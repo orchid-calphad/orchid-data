@@ -9,7 +9,6 @@
   "CU2TI",
   "CU3TI2",
   "CU4TI",
-  "CU4TI3",
   "CUTI2",
   "CUTI_B11",
   "LIQUID"
@@ -17,8 +16,6 @@
  "conditions": {
   "P": 101325,
   "T": [
-   1201.0,
-   1181.0,
    1243.0,
    1223.0,
    1298.0,
@@ -31,73 +28,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "CUTI_B11",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.4185714286
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.4385714286
-    ]
-   ]
-  ],
-  [
-   [
-    "CU4TI3",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.4185714286
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.4385714286
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -375,51 +305,13 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TI/CuTi-08Tur.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7KY2LKRUNV ORC-LKZ5GVT4NO ORC-QKHFILK4QI ORC-V3QOGJZH5K ORC-W3HWC2ILIS ORC-XFWKGY4FLL",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-TI/CuTi-08Tur.zpf-02.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-7KY2LKRUNV ORC-LKZ5GVT4NO ORC-QKHFILK4QI ORC-V3QOGJZH5K ORC-XFWKGY4FLL",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-TI/CuTi-08Tur.zpf-02.json",
   "derivation": "invariant_bracket",
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (else u = 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
-   {
-    "source_observation": "ORC-W3HWC2ILIS",
-    "side": "above",
-    "T_invariant_K": 1191.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.42857142857142855,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + CuTi -> Cu4Ti3",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "CUTI_B11"
-    ],
-    "phases_below": [
-     "CU4TI3"
-    ]
-   },
-   {
-    "source_observation": "ORC-W3HWC2ILIS",
-    "side": "below",
-    "T_invariant_K": 1191.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.42857142857142855,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + CuTi -> Cu4Ti3",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID",
-     "CUTI_B11"
-    ],
-    "phases_below": [
-     "CU4TI3"
-    ]
-   },
    {
     "source_observation": "ORC-V3QOGJZH5K",
     "side": "above",

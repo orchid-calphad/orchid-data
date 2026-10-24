@@ -16,7 +16,6 @@
   "P": 101325.0,
   "T": [
    774.4027842,
-   384.9027842,
    287.9027842,
    412.4027842,
    1084.902784,
@@ -37,17 +36,6 @@
     ],
     [
      0.09183460171
-    ]
-   ]
-  ],
-  [
-   [
-    "CUGA2",
-    [
-     "GA"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -260,7 +248,6 @@
   "target_tdb": "CuGa-15Jen.tdb",
   "record_ids": [
    "aspa-c8c8ff69b9788553",
-   "aspa-b65e60a7a721ebc1",
    "aspa-1692419f35f53bf5",
    "aspa-b520b4591fcfcf3e",
    "aspa-58398ed531f5fa6b",
@@ -272,7 +259,6 @@
   ],
   "confidence": [
    "high",
-   "high",
    "medium",
    "medium",
    "high",
@@ -282,7 +268,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/CU-GA-p353.json"
  }
 }

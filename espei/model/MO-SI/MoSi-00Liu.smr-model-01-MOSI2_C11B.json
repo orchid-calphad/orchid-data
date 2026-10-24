@@ -1,0 +1,135 @@
+{
+ "components": [
+  "MO",
+  "SI",
+  "VA"
+ ],
+ "phases": [
+  "MOSI2_C11B"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "SM_FORM",
+ "values": [
+  [
+   [
+    -0.223
+   ]
+  ]
+ ],
+ "reference": "Liu 2000, doi:10.1016/s0966-9795(00)00068-6",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-OSSPFCUL4M.9d59f2",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "MoSi-00Liu.tdb",
+   "path": "databases/sgte-binary/MoSi-00Liu.tdb",
+   "sha256": "1dbd5badc77a086616c5947a1127d2dfcad467bc7bbf665d5b16f2d436b915cc",
+   "catalog_entry": {
+    "name": "MoSi-00Liu.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-s0966-9795-00-00068-6",
+   "doi": "10.1016/S0966-9795(00)00068-6",
+   "citation": {
+    "authors": "see doi",
+    "title": "",
+    "year": null
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "liu2000_1b78f0",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-OSSPFCUL4M.9d59f2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.07.003",
+    "measured_in": "doi:10.1016/s0966-9795(00)00068-6"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/s0966-9795(00)00068-6",
+   "doi:10.1016/j.calphad.2010.07.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2010.07.003",
+   "10.1016/s0966-9795(00)00068-6"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/MoSi-00Liu/smr-model-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom/K",
+  "default_sigma": {
+   "value": 0.2,
+   "name": "ESPEI experimental default sigma_SM = 0.2 J/mol/K"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "MOSI2_C11B"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "MoSi-00Liu.tdb",
+   "path": "databases/sgte-binary/MoSi-00Liu.tdb",
+   "sha256": "1dbd5badc77a086616c5947a1127d2dfcad467bc7bbf665d5b16f2d436b915cc",
+   "phase": "MOSI2_C11B",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   2.0
+  ],
+  "sublattice_configurations": [
+   [
+    "MO",
+    "SI"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-OSSPFCUL4M.9d59f2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

@@ -8,7 +8,6 @@
   "AU2TI_C11B",
   "AU4TI_D1A",
   "AUTI",
-  "AUTI3_A15",
   "LIQUID"
  ],
  "conditions": {
@@ -16,12 +15,8 @@
   "T": [
    1455.0,
    1435.0,
-   1678.0,
-   1658.0,
    1778.0,
-   1758.0,
-   1738.0,
-   1718.0
+   1758.0
   ]
  },
  "output": "ZPF",
@@ -100,64 +95,6 @@
      "TI"
     ],
     [
-     0.75
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.76
-    ]
-   ]
-  ],
-  [
-   [
-    "AUTI3_A15",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.76
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
      0.5
     ]
    ],
@@ -208,64 +145,6 @@
      0.51
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "TI"
-    ],
-    [
-     0.333333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.343333
-    ]
-   ]
-  ],
-  [
-   [
-    "AU2TI_C11B",
-    [
-     "TI"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.323333
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TI"
-    ],
-    [
-     0.343333
-    ]
-   ]
   ]
  ],
  "reference": "Luo 2001, doi:10.1016/s0364-5916(01)00026-8",
@@ -276,7 +155,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TI/AuTi-01Luo-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-4MS26CPXAA ORC-ET7HS3G32D ORC-V6BSUBQBF5 ORC-WKZHMSEBAD",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TI/AuTi-01Luo-LB.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-ET7HS3G32D ORC-V6BSUBQBF5",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AU-TI/AuTi-01Luo-LB.zpf-00.json",
@@ -322,42 +201,6 @@
     ]
    },
    {
-    "source_observation": "ORC-4MS26CPXAA",
-    "side": "above",
-    "T_invariant_K": 1668.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L->Ti3Au",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AUTI3_A15"
-    ]
-   },
-   {
-    "source_observation": "ORC-4MS26CPXAA",
-    "side": "below",
-    "T_invariant_K": 1668.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L->Ti3Au",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AUTI3_A15"
-    ]
-   },
-   {
     "source_observation": "ORC-V6BSUBQBF5",
     "side": "above",
     "T_invariant_K": 1768.0,
@@ -391,42 +234,6 @@
     ],
     "phases_below": [
      "AUTI"
-    ]
-   },
-   {
-    "source_observation": "ORC-WKZHMSEBAD",
-    "side": "above",
-    "T_invariant_K": 1728.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L->TiAu2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AU2TI_C11B"
-    ]
-   },
-   {
-    "source_observation": "ORC-WKZHMSEBAD",
-    "side": "below",
-    "T_invariant_K": 1728.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L->TiAu2",
-    "reaction_type": null,
-    "phases_above": [
-     "LIQUID"
-    ],
-    "phases_below": [
-     "AU2TI_C11B"
     ]
    }
   ],

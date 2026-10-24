@@ -23,7 +23,6 @@
    905.6921941,
    1008.692194,
    1060.192194,
-   956.6921941,
    876.1921941,
    790.1921941,
    1107.692194,
@@ -154,17 +153,6 @@
     ],
     [
      0.4722440062
-    ]
-   ]
-  ],
-  [
-   [
-    "LASI2_CC",
-    [
-     "SI"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -525,7 +513,6 @@
    "aspa-32d985560e789751",
    "aspa-4cb7f8cd0346fffd",
    "aspa-3702c66832662112",
-   "aspa-c52adefa26237378",
    "aspa-4c1a9b0c488353a7",
    "aspa-7191aed887166897",
    "aspa-80f5ea499ee41135",
@@ -545,7 +532,6 @@
    "medium",
    "medium",
    "medium",
-   "medium",
    "high",
    "high",
    "medium",
@@ -560,7 +546,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/LA-SI-p589.json"
  }
 }

@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "BCC_A2",
   "BETA_RHOMBO_B",
   "LIQUID",
   "MO2B5_D8I",
@@ -17,11 +16,9 @@
  "conditions": {
   "P": 101325,
   "T": [
-   2823.0,
    2623.0,
    2543.0,
    2273.0,
-   2473.0,
    2473.0,
    2223.0,
    2173.0,
@@ -30,26 +27,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "LIQUID",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MOB_B33",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "LIQUID",
@@ -161,35 +138,6 @@
     ],
     [
      0.5833335
-    ]
-   ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "MO"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "MO2B_C16",
-    [
-     "MO"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -344,16 +292,12 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-UOXSWWOY27 ORC-DSVUWVSCJ5 ORC-LIPCWRMLTW ORC-WRI4XRYH4M ORC-GVHL3HSVP6 ORC-DRWJYETSKN ORC-RAWYVSQRYN ORC-22IWBSHLXU ORC-3VOJTKXRYP",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DSVUWVSCJ5 ORC-LIPCWRMLTW ORC-WRI4XRYH4M ORC-DRWJYETSKN ORC-RAWYVSQRYN ORC-22IWBSHLXU ORC-3VOJTKXRYP",
  "bibtex": "witusiewicz2016_ee3968",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-UOXSWWOY27",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
-   },
    {
     "id": "ORC-DSVUWVSCJ5",
     "paper": "doi:10.1016/j.jallcom.2015.09.158"
@@ -372,10 +316,6 @@
       "dataset": "invariants/B-MO/MoB-16Wit.zpf-10.json"
      }
     ]
-   },
-   {
-    "id": "ORC-GVHL3HSVP6",
-    "paper": "doi:10.1016/j.jallcom.2015.09.158"
    },
    {
     "id": "ORC-DRWJYETSKN",
@@ -415,15 +355,12 @@
    "10.1016/j.jallcom.2015.09.158"
   ],
   "source_dataset": "db-v2.1/invariants/espei/MoB-16Wit/zpf-03.json",
+  "values_dropped": 2,
   "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -439,12 +376,6 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
-    "temperature_sigma_K": 50.0,
-    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)"
    },
    {
     "sigma": null,
@@ -466,5 +397,47 @@
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-DSVUWVSCJ5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-LIPCWRMLTW",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WRI4XRYH4M",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-DRWJYETSKN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-RAWYVSQRYN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-22IWBSHLXU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-3VOJTKXRYP",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

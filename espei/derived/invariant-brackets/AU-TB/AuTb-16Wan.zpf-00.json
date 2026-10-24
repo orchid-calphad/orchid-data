@@ -24,8 +24,6 @@
    1263.15,
    1873.15,
    1853.15,
-   1733.15,
-   1713.15,
    1623.15,
    1603.15,
    1493.15,
@@ -144,64 +142,6 @@
   [
    [
     "AUTB_B2",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "AUTB_B2",
-    [
-     "TB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.49
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "TB"
-    ],
-    [
-     0.51
-    ]
-   ]
-  ],
-  [
-   [
-    "AUTB_B33",
     [
      "TB"
     ],
@@ -735,7 +675,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TB/AuTb-16Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3UNHEXJUIF ORC-CW673WZ3OF ORC-CZEPNBLXI7 ORC-JK5DKTXZOB ORC-QDFPOX3S26 ORC-RU7U5RGE7X ORC-TGY44S24IC ORC-UYTAVZDGJ5 ORC-WOIZO2SDBO ORC-X3DBETZOGC ORC-YLTF7XZRP2 ORC-YUTJOKMAQP",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AU-TB/AuTb-16Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-3UNHEXJUIF ORC-CW673WZ3OF ORC-CZEPNBLXI7 ORC-JK5DKTXZOB ORC-QDFPOX3S26 ORC-RU7U5RGE7X ORC-TGY44S24IC ORC-UYTAVZDGJ5 ORC-WOIZO2SDBO ORC-X3DBETZOGC ORC-YUTJOKMAQP",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AU-TB/AuTb-16Wan.zpf-00.json",
@@ -814,42 +754,6 @@
     ],
     "phases_below": [
      "AUTB_B2"
-    ]
-   },
-   {
-    "source_observation": "ORC-YLTF7XZRP2",
-    "side": "above",
-    "T_invariant_K": 1723.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βAuTb <-> αAuTb",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "AUTB_B2"
-    ],
-    "phases_below": [
-     "AUTB_B33"
-    ]
-   },
-   {
-    "source_observation": "ORC-YLTF7XZRP2",
-    "side": "below",
-    "T_invariant_K": 1723.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.5,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "βAuTb <-> αAuTb",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "AUTB_B2"
-    ],
-    "phases_below": [
-     "AUTB_B33"
     ]
    },
    {

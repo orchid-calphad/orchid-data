@@ -81,7 +81,7 @@
   {
    "path": "phases/registry.json",
    "bytes": 7849485,
-   "sha256": "3b2d950b2de6be1a5d6c86d251d693831a43c275453e449c62191523107d9867"
+   "sha256": "5b31502c27ced6299d823a75fd4a2b9f2f27d847717366b33e4a9c86acc88793"
   },
   {
    "path": "phases/registry.jsonld",
@@ -106,7 +106,7 @@
   {
    "path": "phases/structure_types.json",
    "bytes": 914034,
-   "sha256": "08f1e0ded701c7ecef440dce478c8887c05bedb2c086c2dcb7f637a1ea7882b6"
+   "sha256": "e1b60c6e32f2ffb75b431b8b123b44363c01a81968f5780bafde35289821738b"
   },
   {
    "path": "phases/structure_types.parquet",

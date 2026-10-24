@@ -11,8 +11,6 @@
   "CO5ER_D2D",
   "CO7ER12",
   "CO7ER2",
-  "COER3_D011",
-  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
@@ -27,9 +25,7 @@
    1639.15,
    1610.15,
    1078.15,
-   1058.15,
-   1195.15,
-   1175.15
+   1058.15
   ]
  },
  "output": "ZPF",
@@ -368,73 +364,6 @@
      0.5725
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "ER"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "HCP_A3",
-    [
-     "ER"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ER"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ER"
-    ],
-    [
-     0.76
-    ]
-   ]
-  ],
-  [
-   [
-    "COER3_D011",
-    [
-     "ER"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ER"
-    ],
-    [
-     0.74
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ER"
-    ],
-    [
-     0.76
-    ]
-   ]
   ]
  ],
  "reference": "1993, C.H. Wu, Y.C. Chuang, X.M. Jin, Z. Metallkd. 84 (1993) 3.",
@@ -445,7 +374,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-ER/CoEr-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6UMAFZNQS7 ORC-7BFU6NKNL4 ORC-HNFIUPCN5J ORC-J3E4AVZYVQ ORC-JITDL2477P ORC-TDIPYKGU7E ORC-TF6YGISMKO ORC-YT4VWU4IZL",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-ER/CoEr-09Wan.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-6UMAFZNQS7 ORC-7BFU6NKNL4 ORC-J3E4AVZYVQ ORC-JITDL2477P ORC-TDIPYKGU7E ORC-TF6YGISMKO ORC-YT4VWU4IZL",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CO-ER/CoEr-09Wan.zpf-00.json",
@@ -640,44 +569,6 @@
     "phases_below": [
      "CO2ER_C15",
      "CO7ER12"
-    ]
-   },
-   {
-    "source_observation": "ORC-HNFIUPCN5J",
-    "side": "above",
-    "T_invariant_K": 1185.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + (Er) -> CoEr3",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "COER3_D011"
-    ]
-   },
-   {
-    "source_observation": "ORC-HNFIUPCN5J",
-    "side": "below",
-    "T_invariant_K": 1185.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.75,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + (Er) -> CoEr3",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "HCP_A3"
-    ],
-    "phases_below": [
-     "COER3_D011"
     ]
    }
   ],

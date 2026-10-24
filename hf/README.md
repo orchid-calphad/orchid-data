@@ -253,6 +253,10 @@ dataset_info:
     dtype: bool
   - name: flag_reference_state_dropped_not_in_quote
     dtype: bool
+  - name: flag_espei_certified
+    dtype: bool
+  - name: flag_espei_ready_upstream
+    dtype: bool
   - name: flag_state_fully_specified
     dtype: bool
   - name: flag_value_in_quote
@@ -273,6 +277,16 @@ dataset_info:
     dtype: float64
   - name: plausibility_model
     dtype: string
+  - name: calphad_check
+    dtype: string
+  - name: espei_certified_basis
+    dtype: string
+  - name: espei_phase_rule_result
+    dtype: string
+  - name: espei_phase_rule_reason
+    dtype: string
+  - name: espei_blocked_by
+    list: string
   - name: method
     dtype: string
   - name: method_basis
@@ -338,7 +352,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 77540
-  download_size: 6136349
+  download_size: 6177361
 - config_name: papers
   features:
   - name: id
@@ -946,7 +960,7 @@ dataset_info:
   splits:
   - name: full
     num_examples: 9568
-  download_size: 1537638
+  download_size: 1537583
 - config_name: bibliography_edges
   features:
   - name: id
@@ -1219,8 +1233,11 @@ structured target (`property`, `value`, `unit`, `temperature_K`, `phases`, `comp
 
 **Uses to avoid.** Do not treat `model` or `unspecified` values as measurements, do not average across evidence
 classes, and do not feed values to an optimizer (ESPEI etc.) without review: `flag_espei_ready`
-(14,132 true, all of them accepted experimental or DFT values) comes from the extraction pipeline's automatic
-completeness checks; it is not a review verdict.
+(12,221 true) means the value can be used in ESPEI: the pipeline's completeness and format checks plus the physical
+phase rule (printed phase mapped to a model phase, physically possible at its temperature; literature/QUALITY_FIXES.md
+section 6). `flag_espei_certified` (1,928 true) adds agreement with a pycalphad calculation from the linked TDB
+(`calphad_check`: agrees / disagrees / not_available; 323 ready values disagree, 9,970 have no prediction). Neither
+is a review verdict.
 
 ## Distribution
 

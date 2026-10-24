@@ -1,0 +1,141 @@
+{
+ "components": [
+  "CA",
+  "GE",
+  "VA"
+ ],
+ "phases": [
+  "CA7GE6"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 1000.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -66900.0
+   ]
+  ]
+ ],
+ "reference": "Djaballah 2010, doi:10.1016/j.jallcom.2010.02.189",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid_caveat",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DCWEGUBHZF.cf736d",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "CaGe-10Dja.tdb",
+   "path": "databases/sgte-binary/CaGe-10Dja.tdb",
+   "sha256": "cb8f461fa9247dd95d26913b91736503e7ccb96dfcb54222eba9e42e0c08a7c5",
+   "catalog_entry": {
+    "name": "CaGe-10Dja.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2010-02-189",
+   "doi": "10.1016/j.jallcom.2010.02.189",
+   "citation": {
+    "authors": "see doi",
+    "title": "J. Alloys Compd., 497, 74-79(2010).",
+    "year": "2010"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "djaballah2010_82bd45",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-DCWEGUBHZF.cf736d",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2010.02.189",
+    "measured_in": "doi:10.1016/j.jallcom.2010.02.189",
+    "caveats": [
+     "basis_inferred_from_magnitude"
+    ],
+    "also_read_as": [
+     "ORC-DCWEGUBHZF.cf736d"
+    ]
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2010.02.189"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2010.02.189"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/CaGe-10Dja/hmr-model-02.json",
+  "values_dropped": 1
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "CA7GE6"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "CaGe-10Dja.tdb",
+   "path": "databases/sgte-binary/CaGe-10Dja.tdb",
+   "sha256": "cb8f461fa9247dd95d26913b91736503e7ccb96dfcb54222eba9e42e0c08a7c5",
+   "phase": "CA7GE6",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   7.0,
+   6.0
+  ],
+  "sublattice_configurations": [
+   [
+    "CA",
+    "GE"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-DCWEGUBHZF.cf736d",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

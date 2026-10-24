@@ -24,7 +24,6 @@
    664.3177468,
    643.3177468,
    606.8177468,
-   1202.817747,
    986.8177468,
    1034.317747,
    1545.817747,
@@ -181,17 +180,6 @@
     ],
     [
      0.9277345761
-    ]
-   ]
-  ],
-  [
-   [
-    "NI5U_C15B",
-    [
-     "U"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -484,7 +472,6 @@
    "aspa-c0885b239835b4bf",
    "aspa-69544b88702c65b4",
    "aspa-35e54752fabc5fd2",
-   "aspa-c8c0a0d635e28ea0",
    "aspa-b5987e8ed690deee",
    "aspa-8eec9d546e515ac1",
    "aspa-3f6c3fe4f7444706",
@@ -502,7 +489,6 @@
    "high",
    "medium",
    "high",
-   "medium",
    "high",
    "medium",
    "high",
@@ -514,7 +500,7 @@
    "medium",
    "medium"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/NI-U-p696.json"
  }
 }

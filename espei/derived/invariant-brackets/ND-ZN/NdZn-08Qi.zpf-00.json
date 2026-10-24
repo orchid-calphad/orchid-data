@@ -10,8 +10,7 @@
   "ND2ZN17",
   "ND3ZN11",
   "ND3ZN22",
-  "NDZN11_HT",
-  "NDZN11_LT"
+  "NDZN11_HT"
  ],
  "conditions": {
   "P": 101325,
@@ -24,9 +23,7 @@
    1233.0,
    1213.0,
    1063.0,
-   1043.0,
-   823.0,
-   803.0
+   1043.0
   ]
  },
  "output": "ZPF",
@@ -327,64 +324,6 @@
      0.926667
     ]
    ]
-  ],
-  [
-   [
-    "NDZN11_HT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.906667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.926667
-    ]
-   ]
-  ],
-  [
-   [
-    "NDZN11_LT",
-    [
-     "ZN"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.906667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZN"
-    ],
-    [
-     0.926667
-    ]
-   ]
   ]
  ],
  "reference": "Mason 1972, doi:10.1007/bf02652852",
@@ -395,7 +334,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ND-ZN/NdZn-08Qi.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2X76UB4MIC ORC-3SW7WMZNBN ORC-C7SZSMZXAG ORC-FQA2FHLZ6F ORC-VSMRRA2BYR ORC-W6BH4FZULU",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ND-ZN/NdZn-08Qi.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-2X76UB4MIC ORC-3SW7WMZNBN ORC-FQA2FHLZ6F ORC-VSMRRA2BYR ORC-W6BH4FZULU",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/ND-ZN/NdZn-08Qi.zpf-00.json",
@@ -571,42 +510,6 @@
     ],
     "phases_below": [
      "NDZN11_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-C7SZSMZXAG",
-    "side": "above",
-    "T_invariant_K": 813.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.916667,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "NdZn11 -H -> NdZn11 -L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "NDZN11_HT"
-    ],
-    "phases_below": [
-     "NDZN11_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-C7SZSMZXAG",
-    "side": "below",
-    "T_invariant_K": 813.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.916667,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "NdZn11 -H -> NdZn11 -L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "NDZN11_HT"
-    ],
-    "phases_below": [
-     "NDZN11_LT"
     ]
    }
   ],

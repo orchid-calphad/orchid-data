@@ -1,0 +1,134 @@
+{
+ "components": [
+  "GE",
+  "RU",
+  "VA"
+ ],
+ "phases": [
+  "GERU"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": 298.0
+ },
+ "output": "HM_FORM",
+ "values": [
+  [
+   [
+    -31241.0
+   ]
+  ]
+ ],
+ "reference": "Long 2009, doi:10.1016/j.jallcom.2009.01.079",
+ "tags": [
+  "model_value",
+  "evidence_class:model",
+  "thermochemical_table",
+  "model",
+  "orchid",
+  "compound_formation_endmember"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: model. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-HPMJ57MGDU",
+ "orchid_model_evidence": {
+  "tdb": {
+   "name": "GeRu-09Lon.tdb",
+   "path": "databases/sgte-binary/GeRu-09Lon.tdb",
+   "sha256": "f71e50a0da5d0d634cf2f66570fe84e9eb0ae638410f9368c38811006ee8531b",
+   "catalog_entry": {
+    "name": "GeRu-09Lon.tdb",
+    "tier": "bundled",
+    "license": "CC BY 4.0",
+    "source_url": "https://doi.org/10.1016/j.calphad.2025.102833"
+   }
+  },
+  "link_basis": "reporting_paper_own_model (TDB header cites this paper)",
+  "model_citation": {
+   "source": "source:doi:10-1016-j-jallcom-2009-01-079",
+   "doi": "10.1016/j.jallcom.2009.01.079",
+   "citation": {
+    "authors": "see doi",
+    "title": "Z.H. Long, H.S. Liu, Z.P. Jin, J. Alloys Compd., 479, 262-67(2009).",
+    "year": "2009"
+   }
+  },
+  "model_reproduction": null
+ },
+ "weight": 1.0,
+ "bibtex": "long2009_cec8d5",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "model",
+  "observations": [
+   {
+    "id": "ORC-HPMJ57MGDU",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.jallcom.2009.01.079",
+    "measured_in": "doi:10.1016/j.jallcom.2009.01.079"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2009.01.079"
+  ],
+  "dois": [
+   "10.1016/j.jallcom.2009.01.079"
+  ],
+  "source_dataset": "db-v2.1/general/espei-model/GeRu-09Lon/hmr-model-00.json",
+  "values_dropped": 1
+ },
+ "orchid_uncertainty": {
+  "unit": "J/mol-atom",
+  "default_sigma": {
+   "value": 500.0,
+   "name": "ESPEI experimental default sigma_HM = 500 J/mol"
+  },
+  "weight_rule": "weight 1 only because ESPEI needs a value; model-calculated values have no measurement uncertainty: choose your own weight or exclude them with the `model` tag",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "none (model-calculated; no measurement uncertainty)",
+    "weight_used": 1.0
+   }
+  ]
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "GERU"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "endmember": {
+   "tdb": "GeRu-09Lon.tdb",
+   "path": "databases/sgte-binary/GeRu-09Lon.tdb",
+   "sha256": "f71e50a0da5d0d634cf2f66570fe84e9eb0ae638410f9368c38811006ee8531b",
+   "phase": "GERU",
+   "reference": "SER phases of the TDB's ELEMENT lines (ESPEI _FORM convention); the value's printed reference state names the same phases (or none)"
+  }
+ },
+ "solver": {
+  "mode": "manual",
+  "sublattice_site_ratios": [
+   1.0,
+   1.0
+  ],
+  "sublattice_configurations": [
+   [
+    "GE",
+    "RU"
+   ]
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-HPMJ57MGDU",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

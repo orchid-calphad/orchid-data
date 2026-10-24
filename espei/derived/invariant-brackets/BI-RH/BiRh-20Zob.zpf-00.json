@@ -6,7 +6,6 @@
  ],
  "phases": [
   "BI2RH_HT",
-  "BI2RH_LT",
   "BI4RH",
   "BIRH_B81",
   "LIQUID",
@@ -19,8 +18,6 @@
    1039.15,
    749.15,
    729.15,
-   653.15,
-   633.15,
    549.15,
    529.15
   ]
@@ -163,64 +160,6 @@
   ],
   [
    [
-    "BI2RH_HT",
-    [
-     "RH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RH"
-    ],
-    [
-     0.323
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RH"
-    ],
-    [
-     0.343
-    ]
-   ]
-  ],
-  [
-   [
-    "BI2RH_LT",
-    [
-     "RH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RH"
-    ],
-    [
-     0.323
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "RH"
-    ],
-    [
-     0.343
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "RH"
@@ -295,7 +234,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-RH/BiRh-20Zob.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BKLTKP64S4 ORC-DMW6CAPU2U ORC-DTE3DTRFWA ORC-J4VQK72JSS",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/BI-RH/BiRh-20Zob.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-BKLTKP64S4 ORC-DMW6CAPU2U ORC-J4VQK72JSS",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/BI-RH/BiRh-20Zob.zpf-00.json",
@@ -376,42 +315,6 @@
     ],
     "phases_below": [
      "BI4RH"
-    ]
-   },
-   {
-    "source_observation": "ORC-DTE3DTRFWA",
-    "side": "above",
-    "T_invariant_K": 643.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Bi2Rh_HT -> Bi2Rh_LT",
-    "reaction_type": null,
-    "phases_above": [
-     "BI2RH_HT"
-    ],
-    "phases_below": [
-     "BI2RH_LT"
-    ]
-   },
-   {
-    "source_observation": "ORC-DTE3DTRFWA",
-    "side": "below",
-    "T_invariant_K": 643.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.333,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Bi2Rh_HT -> Bi2Rh_LT",
-    "reaction_type": null,
-    "phases_above": [
-     "BI2RH_HT"
-    ],
-    "phases_below": [
-     "BI2RH_LT"
     ]
    },
    {

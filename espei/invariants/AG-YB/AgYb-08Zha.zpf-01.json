@@ -11,7 +11,6 @@
   "AG7YB2",
   "AG9YB2",
   "AGYB_B2",
-  "AGYB_B27",
   "FCC_A1",
   "LIQUID"
  ],
@@ -24,7 +23,6 @@
    919,
    865,
    997,
-   729,
    905,
    825,
    719
@@ -190,26 +188,6 @@
   ],
   [
    [
-    "AGYB_B2",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "AGYB_B27",
-    [
-     "YB"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
     "LIQUID",
     [
      "YB"
@@ -303,7 +281,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WORVIKIHQA ORC-EHK2ZMHI5T ORC-QN3WPGOBYY ORC-SEUZMW6CNL ORC-F5DG7XJDSA ORC-PRGHU4WZ5E ORC-4PWP377JVR ORC-VCM64B6Q3L ORC-RFBBSDDP6S ORC-7JRYK5QZU3",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-WORVIKIHQA ORC-EHK2ZMHI5T ORC-QN3WPGOBYY ORC-SEUZMW6CNL ORC-F5DG7XJDSA ORC-PRGHU4WZ5E ORC-VCM64B6Q3L ORC-RFBBSDDP6S ORC-7JRYK5QZU3",
  "bibtex": "palenzona1970_946380",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -340,11 +318,6 @@
     "measured_in": "doi:10.1016/0022-5088(70)90049-4"
    },
    {
-    "id": "ORC-4PWP377JVR",
-    "paper": "doi:10.1016/j.jallcom.2006.11.022",
-    "measured_in": "doi:10.1016/0022-5088(70)90049-4"
-   },
-   {
     "id": "ORC-VCM64B6Q3L",
     "paper": "doi:10.1016/j.jallcom.2006.11.022",
     "measured_in": "doi:10.1016/0022-5088(70)90049-4"
@@ -368,15 +341,12 @@
    "10.1016/0022-5088(70)90049-4",
    "10.1016/j.jallcom.2006.11.022"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/AgYb-08Zha/zpf-01.json"
+  "source_dataset": "db-v2.1/invariants/espei/AgYb-08Zha/zpf-01.json",
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -417,8 +387,60 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 16,
+  "line_compound_vertices_null": 14,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 7,
+  "values": [
+   {
+    "id": "ORC-WORVIKIHQA",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-EHK2ZMHI5T",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-QN3WPGOBYY",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-SEUZMW6CNL",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-F5DG7XJDSA",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-PRGHU4WZ5E",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-VCM64B6Q3L",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-RFBBSDDP6S",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-7JRYK5QZU3",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   }
+  ]
  }
 }

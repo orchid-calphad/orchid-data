@@ -28,7 +28,6 @@
    328.1974742,
    487.6974742,
    600.6974742,
-   1128.697474,
    893.1974742,
    758.1974742,
    991.6974742,
@@ -251,17 +250,6 @@
     ],
     [
      0.8336329404
-    ]
-   ]
-  ],
-  [
-   [
-    "AU51ND14",
-    [
-     "ND"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -770,7 +758,6 @@
    "aspa-e9a483a36d890a33",
    "aspa-7d4b00fb315bf2d9",
    "aspa-a43bf3e4255249b0",
-   "aspa-cc477de5f66d76bd",
    "aspa-c328c79fefeeea9b",
    "aspa-1d058fff245af68d",
    "aspa-86bec0ab27351308",
@@ -807,7 +794,6 @@
    "high",
    "high",
    "high",
-   "high",
    "medium",
    "high",
    "high",
@@ -818,7 +804,7 @@
    "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 1,
   "source": "assessed-phase-assemblages/espei-zpf/AU-ND-p125.json"
  }
 }

@@ -6,17 +6,13 @@
  ],
  "phases": [
   "FE2U_C15",
-  "FEU6_D2C",
-  "LIQUID",
-  "TETRAGONAL_U"
+  "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
    1517.0,
-   1497.0,
-   1112.0,
-   1092.0
+   1497.0
   ]
  },
  "output": "ZPF",
@@ -78,73 +74,6 @@
      0.343333
     ]
    ]
-  ],
-  [
-   [
-    "LIQUID",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "TETRAGONAL_U",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.847143
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.867143
-    ]
-   ]
-  ],
-  [
-   [
-    "FEU6_D2C",
-    [
-     "U"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.847143
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "U"
-    ],
-    [
-     0.867143
-    ]
-   ]
   ]
  ],
  "reference": "Chatain 2003, doi:10.1361/105497103770330730",
@@ -155,7 +84,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-U/FeU-03Cha.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-SHWVCWZWXY ORC-XU4TL2U24U",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/FE-U/FeU-03Cha.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-XU4TL2U24U",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/FE-U/FeU-03Cha.zpf-03.json",
@@ -196,44 +125,6 @@
     ],
     "phases_below": [
      "FE2U_C15"
-    ]
-   },
-   {
-    "source_observation": "ORC-SHWVCWZWXY",
-    "side": "above",
-    "T_invariant_K": 1102.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.857143,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + bcc - U <-> FeU6",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "TETRAGONAL_U"
-    ],
-    "phases_below": [
-     "FEU6_D2C"
-    ]
-   },
-   {
-    "source_observation": "ORC-SHWVCWZWXY",
-    "side": "below",
-    "T_invariant_K": 1102.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 2.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.857143,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "L + bcc - U <-> FeU6",
-    "reaction_type": "peritectic",
-    "phases_above": [
-     "LIQUID",
-     "TETRAGONAL_U"
-    ],
-    "phases_below": [
-     "FEU6_D2C"
     ]
    }
   ],

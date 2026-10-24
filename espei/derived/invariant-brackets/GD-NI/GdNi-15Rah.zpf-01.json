@@ -21,6 +21,7 @@
   "T": [
    1049.0,
    1029.0,
+   987.0,
    967.0,
    1182.0,
    1162.0,
@@ -98,6 +99,35 @@
     ],
     [
      0.26
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "NI"
+    ],
+    [
+     0.33
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.32
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "NI"
+    ],
+    [
+     0.34
     ]
    ]
   ],
@@ -468,6 +498,25 @@
     ],
     "phases_below": [
      "GD3NI_HT"
+    ]
+   },
+   {
+    "source_observation": "ORC-YROE6QYJCV",
+    "side": "above",
+    "T_invariant_K": 977,
+    "offset_K": 10.0,
+    "T_sigma_K": 5.0,
+    "T_sigma_basis": "default (no printed temperature uncertainty)",
+    "x0": 0.33,
+    "hyperplane_delta": 0.01,
+    "reaction_printed": "Liquid ↔ Gd3Ni_HT + GdNi",
+    "reaction_type": "eutectic",
+    "phases_above": [
+     "LIQUID"
+    ],
+    "phases_below": [
+     "GD3NI_HT",
+     "GDNI_B33"
     ]
    },
    {

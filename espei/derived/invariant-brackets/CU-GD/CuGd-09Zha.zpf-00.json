@@ -7,7 +7,6 @@
  "phases": [
   "BCC_A2",
   "CU2GD",
-  "CU5GD_C15B",
   "CU5GD_D2D",
   "CU6GD",
   "CU7GD2",
@@ -21,8 +20,6 @@
   "T": [
    1123.0,
    1148.0,
-   943.0,
-   923.0,
    1213.0,
    1153.0,
    1133.0,
@@ -113,64 +110,6 @@
     ],
     [
      0.152857
-    ]
-   ]
-  ],
-  [
-   [
-    "CU5GD_D2D",
-    [
-     "GD"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GD"
-    ],
-    [
-     0.156667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GD"
-    ],
-    [
-     0.176667
-    ]
-   ]
-  ],
-  [
-   [
-    "CU5GD_C15B",
-    [
-     "GD"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GD"
-    ],
-    [
-     0.156667
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "GD"
-    ],
-    [
-     0.176667
     ]
    ]
   ],
@@ -596,7 +535,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-GD/CuGd-09Zha.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5EPMI7MMP4 ORC-D2AN325NBB ORC-DT66UOMDC7 ORC-EBTEOAHEYL ORC-GFK6U26WMU ORC-HEVN5JDX7E ORC-KWLQHFFAHT ORC-PF6COYUG2F ORC-SQMWZCPHZ2 ORC-Y62NQCLM5M ORC-YATPZNHNM4",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CU-GD/CuGd-09Zha.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-5EPMI7MMP4 ORC-DT66UOMDC7 ORC-EBTEOAHEYL ORC-GFK6U26WMU ORC-HEVN5JDX7E ORC-KWLQHFFAHT ORC-PF6COYUG2F ORC-SQMWZCPHZ2 ORC-Y62NQCLM5M ORC-YATPZNHNM4",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/CU-GD/CuGd-09Zha.zpf-00.json",
@@ -639,42 +578,6 @@
     ],
     "phases_below": [
      "CU6GD"
-    ]
-   },
-   {
-    "source_observation": "ORC-D2AN325NBB",
-    "side": "above",
-    "T_invariant_K": 933.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.166667,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Cu5Gd_H -> Cu5Gd_L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "CU5GD_D2D"
-    ],
-    "phases_below": [
-     "CU5GD_C15B"
-    ]
-   },
-   {
-    "source_observation": "ORC-D2AN325NBB",
-    "side": "below",
-    "T_invariant_K": 933.0,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "default (no printed temperature uncertainty)",
-    "x0": 0.166667,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Cu5Gd_H -> Cu5Gd_L",
-    "reaction_type": "polymorphic",
-    "phases_above": [
-     "CU5GD_D2D"
-    ],
-    "phases_below": [
-     "CU5GD_C15B"
     ]
    },
    {

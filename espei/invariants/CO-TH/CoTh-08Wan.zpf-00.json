@@ -28,8 +28,7 @@
    1573.15,
    1735.15,
    1660.15,
-   1768.15,
-   695.15
+   1768.15
   ]
  },
  "output": "ZPF",
@@ -336,35 +335,6 @@
      null
     ]
    ]
-  ],
-  [
-   [
-    "CO7TH2_ALPHA",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "BCC_A2",
-    [
-     "TH"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "TH"
-    ],
-    [
-     0.0
-    ]
-   ]
   ]
  ],
  "reference": "Wang 2008, doi:10.1016/j.jallcom.2007.03.003",
@@ -374,7 +344,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2HSQFKHDY5 ORC-LXDFOERLAM ORC-XZBQENE6TL ORC-PMJO36WKBK ORC-MWQIZ7DZXA ORC-X6NKZ45UXL ORC-J7SVG2D2WP ORC-72UATHKH3S ORC-7O2BJZAXU2 ORC-WFPXJ4ACKJ ORC-QQXFHXO7DI ORC-HPQQANFDLP ORC-W4VI3EMFMR",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2HSQFKHDY5 ORC-LXDFOERLAM ORC-XZBQENE6TL ORC-PMJO36WKBK ORC-MWQIZ7DZXA ORC-X6NKZ45UXL ORC-J7SVG2D2WP ORC-72UATHKH3S ORC-7O2BJZAXU2 ORC-WFPXJ4ACKJ ORC-QQXFHXO7DI ORC-HPQQANFDLP",
  "bibtex": "wang2008_fad884",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -448,17 +418,6 @@
       "dataset": "invariants/CO-TH/CoTh-08Wan.zpf-01.json"
      }
     ]
-   },
-   {
-    "id": "ORC-W4VI3EMFMR",
-    "paper": "doi:10.1016/j.jallcom.2007.03.003",
-    "also_reported_as": [
-     {
-      "id": "ORC-JUCGQY5M4A",
-      "paper": "doi:10.1016/j.jallcom.2007.03.003",
-      "dataset": "invariants/CO-TH/CoTh-08Wan.zpf-01.json"
-     }
-    ]
    }
   ],
   "papers": [
@@ -472,7 +431,8 @@
    "10.1016/j.jallcom.2007.03.003"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoTh-08Wan/zpf-00.json",
-  "e3_merged": 4
+  "values_dropped": 1,
+  "e3_merged": 3
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
@@ -542,17 +502,80 @@
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 19,
+  "line_compound_vertices_null": 18,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-2HSQFKHDY5",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-LXDFOERLAM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XZBQENE6TL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-PMJO36WKBK",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-MWQIZ7DZXA",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-X6NKZ45UXL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-J7SVG2D2WP",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-72UATHKH3S",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7O2BJZAXU2",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WFPXJ4ACKJ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-QQXFHXO7DI",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-HPQQANFDLP",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

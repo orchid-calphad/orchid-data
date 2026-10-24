@@ -17,14 +17,11 @@
  "conditions": {
   "P": 101325.0,
   "T": [
-   670.4844452,
-   567.4844452,
    560.9844452,
    1176.984445,
    814.4844452,
    821.9844452,
    578.4844452,
-   580.4844452,
    906.9844452,
    1383.484445,
    1070.984445,
@@ -35,28 +32,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "GE3MN5_D88",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
-  [
-   [
-    "GEMN3_D022",
-    [
-     "MN"
-    ],
-    [
-     null
-    ]
-   ]
-  ],
   [
    [
     "FCC_A1",
@@ -163,17 +138,6 @@
     ],
     [
      0.9667585851
-    ]
-   ]
-  ],
-  [
-   [
-    "CBCC_A12",
-    [
-     "MN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -327,14 +291,11 @@
   "diagram": "GE-MN-p476",
   "target_tdb": "GeMn-14Ber.tdb",
   "record_ids": [
-   "aspa-a95346f9753bb4b4",
-   "aspa-7cc376762d1522e5",
    "aspa-d60dd501de243d2a",
    "aspa-69a9ca59d265892a",
    "aspa-1c37643d455b7690",
    "aspa-feffa70fa6310c34",
    "aspa-abe1d7b8080c1e70",
-   "aspa-54c8c835e0372ff9",
    "aspa-5358e44e9f2903c6",
    "aspa-cd4ac5bb5012352c",
    "aspa-34438481772946e1",
@@ -345,10 +306,7 @@
   "confidence": [
    "high",
    "high",
-   "high",
-   "high",
    "medium",
-   "high",
    "high",
    "high",
    "medium",
@@ -358,7 +316,7 @@
    "high",
    "high"
   ],
-  "points_left_out": 0,
+  "points_left_out": 3,
   "source": "assessed-phase-assemblages/espei-zpf/GE-MN-p476.json"
  }
 }

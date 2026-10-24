@@ -18,7 +18,6 @@
   "T": [
    1467.171097,
    852.171097,
-   784.671097,
    1002.671097,
    942.671097,
    849.671097,
@@ -68,17 +67,6 @@
     ],
     [
      0.07371917076
-    ]
-   ]
-  ],
-  [
-   [
-    "AL4MN_MU",
-    [
-     "MN"
-    ],
-    [
-     null
     ]
    ]
   ],
@@ -238,7 +226,6 @@
   "record_ids": [
    "aspa-0b3c2aa16cedbcb6",
    "aspa-f2b0c842e37e69c4",
-   "aspa-b92a289648c59f43",
    "aspa-8bfea35ad42f088d",
    "aspa-f599bb8a0dc17288",
    "aspa-2f9eff988e276297",
@@ -251,7 +238,6 @@
   "confidence": [
    "high",
    "high",
-   "medium",
    "high",
    "high",
    "medium",
@@ -261,7 +247,7 @@
    "high",
    "high"
   ],
-  "points_left_out": 4,
+  "points_left_out": 5,
   "source": "assessed-phase-assemblages/espei-zpf/AL-MN-p80.json"
  }
 }

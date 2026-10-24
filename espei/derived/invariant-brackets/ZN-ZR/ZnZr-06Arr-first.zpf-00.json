@@ -25,8 +25,6 @@
    1268.15,
    1403.15,
    1353.15,
-   1193.15,
-   1173.15,
    1043.15,
    1003.15,
    1123.15,
@@ -206,64 +204,6 @@
   [
    [
     "ZN3ZR_HT",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "ZN3ZR_HT",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.24
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "ZR"
-    ],
-    [
-     0.26
-    ]
-   ]
-  ],
-  [
-   [
-    "ZN3ZR_D023",
     [
      "ZR"
     ],
@@ -605,7 +545,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ZN-ZR/ZnZr-06Arr-first.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-364JAIFHNA ORC-B4ZNVGXWHL ORC-BVLLDGKZOM ORC-FGRV5ALVWS ORC-KME5Y5CAHY ORC-NF4VBMUZXG ORC-RXXB2BUERT ORC-SIMVSBBSCI ORC-V6LN5UVZEK ORC-Z4NWMN2LEN",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/ZN-ZR/ZnZr-06Arr-first.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-B4ZNVGXWHL ORC-BVLLDGKZOM ORC-FGRV5ALVWS ORC-KME5Y5CAHY ORC-NF4VBMUZXG ORC-RXXB2BUERT ORC-SIMVSBBSCI ORC-V6LN5UVZEK ORC-Z4NWMN2LEN",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/ZN-ZR/ZnZr-06Arr-first.zpf-00.json",
@@ -722,42 +662,6 @@
     ],
     "phases_below": [
      "ZN3ZR_HT"
-    ]
-   },
-   {
-    "source_observation": "ORC-364JAIFHNA",
-    "side": "above",
-    "T_invariant_K": 1183.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Zn3Zr h -> Zn3Zr l",
-    "reaction_type": null,
-    "phases_above": [
-     "ZN3ZR_HT"
-    ],
-    "phases_below": [
-     "ZN3ZR_D023"
-    ]
-   },
-   {
-    "source_observation": "ORC-364JAIFHNA",
-    "side": "below",
-    "T_invariant_K": 1183.15,
-    "offset_K": 10.0,
-    "T_sigma_K": 5.0,
-    "T_sigma_basis": "printed",
-    "x0": 0.25,
-    "hyperplane_delta": 0.01,
-    "reaction_printed": "Zn3Zr h -> Zn3Zr l",
-    "reaction_type": null,
-    "phases_above": [
-     "ZN3ZR_HT"
-    ],
-    "phases_below": [
-     "ZN3ZR_D023"
     ]
    },
    {

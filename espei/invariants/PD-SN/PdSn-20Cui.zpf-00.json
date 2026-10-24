@@ -23,7 +23,6 @@
   "T": [
    1566.15,
    1599.15,
-   1504.15,
    1560.15,
    1202.15,
    1098.15,
@@ -84,35 +83,6 @@
     ],
     [
      0.25
-    ]
-   ]
-  ],
-  [
-   [
-    "PD3SN_L12",
-    [
-     "SN"
-    ],
-    [
-     0.26
-    ]
-   ],
-   [
-    "PD2SN_B82",
-    [
-     "SN"
-    ],
-    [
-     0.33
-    ]
-   ],
-   [
-    "LIQUID",
-    [
-     "SN"
-    ],
-    [
-     0.302
     ]
    ]
   ],
@@ -405,7 +375,7 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VIRZC6QQMD ORC-FIEODYEWIQ ORC-DXAWHCON7M ORC-GJSPG6I6YT ORC-H63S2MKQ5X ORC-2F4UEK362J ORC-YUMZUMHJNY ORC-OGYIZLFBLR ORC-Z3XTJJOCOT ORC-A7VR33JSL4 ORC-7H3BEHWGQL ORC-XLDXTNV5HS ORC-GNYFBJJT5U",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-VIRZC6QQMD ORC-FIEODYEWIQ ORC-GJSPG6I6YT ORC-H63S2MKQ5X ORC-2F4UEK362J ORC-YUMZUMHJNY ORC-OGYIZLFBLR ORC-Z3XTJJOCOT ORC-A7VR33JSL4 ORC-7H3BEHWGQL ORC-XLDXTNV5HS ORC-GNYFBJJT5U",
  "bibtex": "knight1959_cd8a06",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -418,11 +388,6 @@
    },
    {
     "id": "ORC-FIEODYEWIQ",
-    "paper": "doi:10.1016/j.intermet.2020.106945",
-    "measured_in": "doi:10.1016/0022-5088(59)90005-0"
-   },
-   {
-    "id": "ORC-DXAWHCON7M",
     "paper": "doi:10.1016/j.intermet.2020.106945",
     "measured_in": "doi:10.1016/0022-5088(59)90005-0"
    },
@@ -493,15 +458,12 @@
    "10.1016/j.intermet.2020.106945"
   ],
   "source_dataset": "db-v2.1/invariants/espei/PdSn-20Cui/zpf-00.json",
-  "e3_merged": 1
+  "e3_merged": 1,
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -557,5 +519,72 @@
   "line_compound_vertices_null": 3,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-VIRZC6QQMD",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-FIEODYEWIQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-GJSPG6I6YT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-H63S2MKQ5X",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-2F4UEK362J",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-YUMZUMHJNY",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OGYIZLFBLR",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-Z3XTJJOCOT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-A7VR33JSL4",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-7H3BEHWGQL",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-XLDXTNV5HS",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-GNYFBJJT5U",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

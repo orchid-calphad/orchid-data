@@ -5,7 +5,6 @@
   "VA"
  ],
  "phases": [
-  "LIQUID",
   "NBNI3_D0A"
  ],
  "conditions": {
@@ -66,7 +65,15 @@
    "10.1016/j.jallcom.2014.08.200"
   ],
   "source_dataset": "db-v2.1/general/espei/NbNi-04Jou/hmr-04.json",
-  "values_dropped": 1
+  "values_dropped": 1,
+  "also_reported_as": [
+   {
+    "dataset": "experimental/NB-NI/NbNi-23Sun.hmr-01.json",
+    "ids": [
+     "ORC-MP75CMWX4X.7e46f8"
+    ]
+   }
+  ]
  },
  "orchid_uncertainty": {
   "unit": "J/mol-atom",
@@ -97,5 +104,34 @@
   "sigma_floor": 500.0,
   "sigma_floor_unit": "J/mol",
   "rule": "optional minimum-sigma policy (E6): sigma_eff = max(sigma, sigma_floor) with sigma_floor = ESPEI's experimental default for the property (500 J/mol for enthalpies and for the chemical potential of activities, 0.2 J/mol/K for entropies and heat capacities); suggested_weight = min(weight, 1). The printed sigma is unchanged (orchid_uncertainty); use suggested_weight when printed sigmas are much smaller than the scatter between sources (e.g. formation enthalpies printed with +-80 J/mol-atom while other measurements differ by 1-2 kJ/mol-atom)"
+ },
+ "orchid_phase_assignment": {
+  "phases": [
+   "NBNI3_D0A"
+  ],
+  "basis": {
+   "printed_labels": 1
+  },
+  "rule": "tools/phase_rule.py; README.md, 'Phase assignment'",
+  "outside_calculated_field": [
+   {
+    "id": "ORC-33IFFGWUUH.08e033",
+    "phase": "NBNI3_D0A",
+    "x": 0.75,
+    "T_K": 298.15
+   }
+  ]
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-33IFFGWUUH.08e033",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }

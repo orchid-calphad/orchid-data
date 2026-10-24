@@ -17,15 +17,6 @@
    1373.0,
    1373.0,
    1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
-   1373.0,
    1273.0,
    1273.0,
    1273.0,
@@ -38,93 +29,6 @@
  },
  "output": "ZPF",
  "values": [
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.01
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.279
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.008
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.285
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.007
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.281
-    ]
-   ]
-  ],
   [
    [
     "FE23ZR6_D8A",
@@ -147,73 +51,6 @@
   ],
   [
    [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.01
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.282
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.009
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.278
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.007
-    ]
-   ],
-   [
     "FE23ZR6_D8A",
     [
      "ZR"
@@ -229,113 +66,6 @@
     ],
     [
      0.283
-    ]
-   ]
-  ],
-  [
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.283
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.011
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.279
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.009
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.278
-    ]
-   ]
-  ],
-  [
-   [
-    "FCC_A1",
-    [
-     "ZR"
-    ],
-    [
-     0.006
-    ]
-   ],
-   [
-    "FE23ZR6_D8A",
-    [
-     "ZR"
-    ],
-    [
-     null
-    ]
-   ],
-   [
-    "C15_LAVES",
-    [
-     "ZR"
-    ],
-    [
-     0.281
     ]
    ]
   ],
@@ -562,30 +292,12 @@
   "phase_compositions_table",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-Q347FR7PTK ORC-22PROMBQNQ ORC-Q2UKJLOIDH ORC-4C7WLLPVQT ORC-NK2NTJKUXB ORC-IHI576MLWS ORC-ZRCQTGK3NI ORC-IB2FU4GT6N ORC-SD7IVO25Q2 ORC-NW6DXWM5B4 ORC-VKA7HHKDRU ORC-WWVSZGYIUV ORC-OVQWEHZ6TT ORC-OVX2CRKR6O ORC-WWI7FFOTB6 ORC-CON54WZNIQ ORC-OXHVU6BQ4W ORC-UFZLLXQXQ4 ORC-ZJ637ABZNK ORC-S5BHDQN7K3",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-4C7WLLPVQT ORC-IB2FU4GT6N ORC-WWVSZGYIUV ORC-OVQWEHZ6TT ORC-OVX2CRKR6O ORC-WWI7FFOTB6 ORC-CON54WZNIQ ORC-OXHVU6BQ4W ORC-UFZLLXQXQ4 ORC-ZJ637ABZNK ORC-S5BHDQN7K3",
  "bibtex": "du2021_e59688",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
-   {
-    "id": "ORC-Q347FR7PTK",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-22PROMBQNQ",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-Q2UKJLOIDH",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
    {
     "id": "ORC-4C7WLLPVQT",
     "reader_agreement": "multi_reader",
@@ -593,43 +305,7 @@
     "measured_in": "doi:10.1007/s42243-021-00570-w"
    },
    {
-    "id": "ORC-NK2NTJKUXB",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-IHI576MLWS",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-ZRCQTGK3NI",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
     "id": "ORC-IB2FU4GT6N",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-SD7IVO25Q2",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-NW6DXWM5B4",
-    "reader_agreement": "multi_reader",
-    "paper": "doi:10.1007/s42243-021-00570-w",
-    "measured_in": "doi:10.1007/s42243-021-00570-w"
-   },
-   {
-    "id": "ORC-VKA7HHKDRU",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w"
@@ -675,13 +351,8 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w",
-    "also_reported_as": [
-     {
-      "id": "ORC-HUV7FI2SCB",
-      "paper": "doi:10.1007/s42243-021-00570-w",
-      "measured_in": "doi:10.1007/s42243-021-00570-w",
-      "dataset": "experimental/FE-ZR/FeZr-21Du.zpf-00.json"
-     }
+    "also_read_as": [
+     "ORC-HUV7FI2SCB"
     ]
    },
    {
@@ -689,13 +360,8 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w",
-    "also_reported_as": [
-     {
-      "id": "ORC-3X4JTYSMGJ",
-      "paper": "doi:10.1007/s42243-021-00570-w",
-      "measured_in": "doi:10.1007/s42243-021-00570-w",
-      "dataset": "experimental/FE-ZR/FeZr-21Du.zpf-00.json"
-     }
+    "also_read_as": [
+     "ORC-3X4JTYSMGJ"
     ]
    },
    {
@@ -703,13 +369,8 @@
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1007/s42243-021-00570-w",
     "measured_in": "doi:10.1007/s42243-021-00570-w",
-    "also_reported_as": [
-     {
-      "id": "ORC-EPMW7WQODE",
-      "paper": "doi:10.1007/s42243-021-00570-w",
-      "measured_in": "doi:10.1007/s42243-021-00570-w",
-      "dataset": "experimental/FE-ZR/FeZr-21Du.zpf-00.json"
-     }
+    "also_read_as": [
+     "ORC-EPMW7WQODE"
     ]
    }
   ],
@@ -720,48 +381,11 @@
    "10.1007/s42243-021-00570-w"
   ],
   "source_dataset": "db-v2.1/general/espei/FeZr-21Du/zpf-00.json",
-  "e3_merged": 3,
-  "values_dropped": 3
+  "values_dropped": 12
  },
  "orchid_uncertainty": {
   "unit": "K (temperature only)",
   "values": [
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
-   {
-    "sigma": null,
-    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
-   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)"
@@ -810,8 +434,70 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 17,
+  "line_compound_vertices_null": 8,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-4C7WLLPVQT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-IB2FU4GT6N",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WWVSZGYIUV",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OVQWEHZ6TT",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OVX2CRKR6O",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-WWI7FFOTB6",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-CON54WZNIQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-OXHVU6BQ4W",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-UFZLLXQXQ4",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-ZJ637ABZNK",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-S5BHDQN7K3",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
  }
 }
