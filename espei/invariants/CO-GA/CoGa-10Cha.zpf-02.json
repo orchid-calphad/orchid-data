@@ -6,17 +6,49 @@
  ],
  "phases": [
   "COGA3",
+  "COGA_B2",
+  "FCC_A1",
   "LIQUID",
   "ORTHORHOMBIC_A11"
  ],
  "conditions": {
   "P": 101325,
   "T": [
+   1128.0,
    303.5
   ]
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "GA"
+    ],
+    [
+     0.8
+    ]
+   ],
+   [
+    "COGA_B2",
+    [
+     "GA"
+    ],
+    [
+     0.645
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "GA"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
   [
    [
     "LIQUID",
@@ -54,12 +86,18 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-DGCPQPH5BW",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-D3EBOT52SM ORC-DGCPQPH5BW",
+ "orchid_phase_alias_note": "2 ZPF region(s): vertex phase names from the per-system alias table (tools/phase_aliases.json; record phases with model_phase_basis system_alias:<id>), not the corpus mapping",
  "bibtex": "chari2010_125166",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
+   {
+    "id": "ORC-D3EBOT52SM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2010.02.004"
+   },
    {
     "id": "ORC-DGCPQPH5BW",
     "reader_agreement": "multi_reader",
@@ -73,11 +111,43 @@
    "10.1016/j.calphad.2010.02.004"
   ],
   "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-02.json",
-  "values_dropped": 2
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
   "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -123,6 +193,11 @@
   "all_values_certified": false,
   "n_certified": 0,
   "values": [
+   {
+    "id": "ORC-D3EBOT52SM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
    {
     "id": "ORC-DGCPQPH5BW",
     "espei_certified": false,

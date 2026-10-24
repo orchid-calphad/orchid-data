@@ -7,7 +7,7 @@
  "phases": [
   "AL12MG17_A12",
   "AL8MG5_BETA",
-  "FCC_A1",
+  "ALMG_EPS",
   "HCP_A3",
   "LIQUID"
  ],
@@ -15,7 +15,7 @@
   "P": 101325,
   "T": [
    745.15,
-   701.15,
+   699.15,
    747.15,
    689.15
   ]
@@ -53,16 +53,16 @@
   ],
   [
    [
-    "FCC_A1",
+    "AL8MG5_BETA",
     [
      "MG"
     ],
     [
-     0.165
+     null
     ]
    ],
    [
-    "AL8MG5_BETA",
+    "ALMG_EPS",
     [
      "MG"
     ],
@@ -76,7 +76,7 @@
      "MG"
     ],
     [
-     0.361
+     0.3995
     ]
    ],
    [
@@ -85,7 +85,7 @@
      "MG"
     ],
     [
-     0.377
+     0.4165
     ]
    ]
   ],
@@ -174,7 +174,7 @@
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-MG/AlMg-93Zuo.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-SUUEF56DWR ORC-TH6YXROASY ORC-X3IZSKGHCU",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-MG/AlMg-93Zuo.zpf-00.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-HGDN54MVOU ORC-SUUEF56DWR ORC-TH6YXROASY ORC-X3IZSKGHCU",
  "orchid": {
   "evidence_class": "derived",
   "derived_from": "invariants/AL-MG/AlMg-93Zuo.zpf-00.json",
@@ -201,22 +201,22 @@
     ]
    },
    {
-    "source_observation": "ORC-TH6YXROASY",
+    "source_observation": "ORC-HGDN54MVOU",
     "side": "below",
-    "T_invariant_K": 723.15,
+    "T_invariant_K": 721.15,
     "offset_K": 22.0,
     "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.369,
-    "hyperplane_delta": 0.008000000000000007,
-    "reaction_printed": "L= (Al) + β",
+    "x0": 0.408,
+    "hyperplane_delta": 0.008500000000000008,
+    "reaction_printed": "L= β + ε",
     "reaction_type": null,
     "phases_above": [
      "LIQUID"
     ],
     "phases_below": [
-     "FCC_A1",
-     "AL8MG5_BETA"
+     "AL8MG5_BETA",
+     "ALMG_EPS"
     ]
    },
    {
@@ -286,7 +286,7 @@
     }
    },
    {
-    "source_observation": "ORC-TH6YXROASY",
+    "source_observation": "ORC-HGDN54MVOU",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

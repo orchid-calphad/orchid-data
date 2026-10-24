@@ -1,0 +1,274 @@
+{
+ "components": [
+  "AG",
+  "IN",
+  "VA"
+ ],
+ "phases": [
+  "AG9IN4_D83",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   944.5,
+   934.4,
+   557.4
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.192
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.233
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.228
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.261
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.253
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.316
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.327
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.327
+    ]
+   ]
+  ]
+ ],
+ "reference": "Bahari 2009, doi:10.1016/j.jallcom.2008.10.030",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-5PCN6RG23M ORC-JRSIOS6CR5 ORC-IB6I5BULNQ",
+ "bibtex": "bahari2009_79ec76",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-5PCN6RG23M",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030"
+   },
+   {
+    "id": "ORC-JRSIOS6CR5",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-IB6I5BULNQ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "doi:10.1016/j.jallcom.2008.10.030"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.jallcom.2008.10.030",
+   "doi:10.1007/s10853-018-1999-8"
+  ],
+  "dois": [
+   "10.1007/s10853-018-1999-8",
+   "10.1016/j.jallcom.2008.10.030"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-02.json",
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 18.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 18.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 256,
+      "method_entry": "value_types/T_TRANSITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-5PCN6RG23M",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-JRSIOS6CR5",
+    "espei_certified": false,
+    "calphad_check": "disagrees"
+   },
+   {
+    "id": "ORC-IB6I5BULNQ",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

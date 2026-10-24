@@ -48,7 +48,7 @@ literature_accepted_values, literature_papers, references_listed, total_papers}`
 | `structure` | `{structure_type, basis, tier, confidence, label, prototype, strukturbericht, pearson, space_group, caveats[], dft?}` or `null`. `basis`: `standard_name` (tier A: the TDB name encodes one structure and the model stoichiometry / sublattices and DFT do not contradict it), `dft_unique_match` (tier B, label "DFT-supported": a stoichiometric compound matching exactly one on-hull entry in both Materials Project and OQMD with the same space group, one structure type for that space group and stoichiometry, and no other phase of the system at that composition), `assessment_declared` (tier C, confidence `assessor-stated`: tiers A and B do not assign it, the Hallstedt 2025 crystallographic table (mmc2) rows for this TDB phase name whose listed compound has exactly this system's elements all give one structure type with Pearson symbol and space group, nothing in tiers A/B contradicts it (name structure token, DFT ground state, model stoichiometry/sublattices, order/disorder), and every model's fixed composition or two-sublattice site ratio equals the listed compound; `source` cites mmc2 with its rows), `liquid`, `gas`. Phases whose mmc2 rows disagree stay `needs_review` (`sgte_mmc2_rows_disagree`) |
 | `candidates` | for unassigned phases: `{source, structure_type, prototype, strukturbericht, pearson, space_group, detail, material_id?, count?}`; `source` is `name_token`, `sgte_mmc2` (Hallstedt 2025 crystallographic table row for that name), `tdb_comment` (the compiler's comment above the PHASE line), `dft_mp` / `dft_oqmd` (on-hull entries at the composition or within the calculated homogeneity range), `dft_space_group_and_stoichiometry`, `literature_printed` (Pearson / prototype printed beside a label mapped to the phase) |
 | `review_reasons` | why no structure was assigned (`off_stoichiometric_model`, `polymorph_family`, `no_on_hull_entry_in_*`, `mp_oqmd_space_groups_differ`, `dft_space_group_*_matches_n_structure_types`, `order_disorder_ambiguity`, `stoichiometry_contradicts_*`, `name_suggests_*_but_dft_space_group_*`, `unrecognised_name_tokens`, `no_structure_token`, ...) |
-| `names` | every name: `{name, namespace, label, ...}`; namespaces `tdb` (`tdb:<file>:<NAME>`), `corpus` (`corpus:<canonical id>` and its older aliases), `paper` (`paper:<doi>:<label>`, or `paper:sha256-<prefix>:<label>` for papers without DOI; `basis` says how the label was linked), `mp` / `oqmd` (only for assigned phases whose DFT entry was matched) |
+| `names` | every name: `{name, namespace, label, ...}`; namespaces `tdb` (`tdb:<file>:<NAME>`), `corpus` (`corpus:<canonical id>` and its older aliases), `system_alias` (`system_alias:<id>`: the conventional name of the phase in its system from tools/phase_aliases.json, with the handbook composition range and basis), `paper` (`paper:<doi>:<label>`, or `paper:sha256-<prefix>:<label>` for papers without DOI; `basis` says how the label was linked), `mp` / `oqmd` (only for assigned phases whose DFT entry was matched) |
 | `models` | `{tdb, path, sha256, phase_name, type_code, sublattices[{site_ratio, constituents}], stoichiometric, composition, disordered_part?, disordered_part_of?, tdb_comment_structure?, tdb_definition}` |
 | `models[].tdb_definition` | the model as written in the TDB (bundled, licence-confirmed files only). `verbatim`: `{phase, constituent, type_definitions[]}`, each `{line_start, line_end, text}` with the exact statement from its first character to the terminating `!` (only line breaks normalised to LF; bytes decoded as UTF-8, Latin-1 fallback, see `provenance.decoded_as`); `type_definitions` are every TYPE_DEFINITION whose code is in the phase's type code (`%` SEQ, magnetic `GES AMEND_PHASE_DESCRIPTION ... MAGNETIC`, `DIS_PART`, ...), each with `type_code` and `amends` (`@` = every phase with that code). `parsed`: `{phase_name, type_code, type_codes[], n_sublattices, site_ratios[], constituents[[...]] (spelling and `%` major-constituent markers as printed), major_constituents[[...]], magnetic {type_code, afm_factor, structure_fraction, line} or null, disordered_part, ordered_partner}`. `parameters`: counts only, never expressions: `{total, by_kind {G, L, TC, BM, BMAG, BMAGN, THETA, ...as spelled}, L_by_order, interaction_orders[] (orders of parameters with an interacting sublattice, any kind; a missing order counts as 0), endmember_G}`. `provenance`: `{path, sha256, decoded_as, website_url (https://orchid-project.org/data/<path>, when the site copy has the same SHA-256), github_url (orchid-calphad/orchid-pipeline blob, when that repository holds the same git blob)}`. Statement boundaries follow open-tdb `scripts/validate_tdb.py` (each span is checked to reduce to its statement); parameter keys follow `check_subsystem_compat.py` / `audit_tdb_models.py`. TDB text is never executed |
 | `stoichiometry` | mole fractions when every model of the phase is stoichiometric and they agree |
@@ -70,12 +70,13 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
 {
  "systems": 1241,
  "phases": 10430,
- "names": 42969,
+ "names": 43142,
  "names_by_namespace": {
   "corpus": 10916,
   "mp": 677,
   "oqmd": 677,
-  "paper": 8143,
+  "paper": 8241,
+  "system_alias": 75,
   "tdb": 22556
  },
  "structure_types": 1563,
@@ -232,12 +233,12 @@ not confirmed by mmc2 carry `%TODO verify`. `st:liquid` and `st:gas` are definit
  "phases_with_models": 10427,
  "corpus_only_phases": 69,
  "corpus_phase_mappings_linked": 3212,
- "phases_with_literature_values": 4892,
- "literature_phase_mentions_linked": 69026,
- "literature_phase_mentions_unlinked": 26632,
+ "phases_with_literature_values": 4928,
+ "literature_phase_mentions_linked": 70039,
+ "literature_phase_mentions_unlinked": 25619,
  "phases_with_references": 9914,
- "references_listed": 25161,
- "distinct_reference_dois": 3041,
+ "references_listed": 25225,
+ "distinct_reference_dois": 3051,
  "phases_with_stability": 8544,
  "tdb_definitions": {
   "models_with_definition": 22556,

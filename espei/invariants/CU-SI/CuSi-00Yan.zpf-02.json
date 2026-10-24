@@ -5,21 +5,197 @@
   "VA"
  ],
  "phases": [
+  "BCC_A2",
+  "CU15SI4",
   "CU19SI6",
   "CU33SI7",
+  "CU56SI11_A13",
   "DIAMOND_A4",
+  "FCC_A1",
+  "HCP_A3",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
+   825.15,
+   956.15,
+   1008.15,
+   1059.15,
+   1078.15,
    1074.15,
    1089.15,
+   1093.15,
+   1119.15,
+   1125.15,
    1132.15
   ]
  },
  "output": "ZPF",
  "values": [
+  [
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.105
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.09300000000000001
+    ]
+   ],
+   [
+    "CU56SI11_A13",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU15SI4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU56SI11_A13",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.1796666667
+    ]
+   ]
+  ],
+  [
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.121
+    ]
+   ],
+   [
+    "CU56SI11_A13",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.154
+    ]
+   ],
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.125
+    ]
+   ]
+  ],
+  [
+   [
+    "CU19SI6",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "CU15SI4",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "SI"
+    ],
+    [
+     0.205
+    ]
+   ]
+  ],
   [
    [
     "LIQUID",
@@ -85,6 +261,93 @@
      "SI"
     ],
     [
+     0.18600000000000003
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.16899999999999998
+    ]
+   ],
+   [
+    "CU33SI7",
+    [
+     "SI"
+    ],
+    [
+     null
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.147
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.113
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "SI"
+    ],
+    [
+     0.11800000000000001
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
+     0.154
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "SI"
+    ],
+    [
+     0.11199999999999999
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "SI"
+    ],
+    [
+     0.146
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "SI"
+    ],
+    [
      0.24
     ]
    ],
@@ -106,12 +369,43 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-C7CA6XGUFP ORC-I4HAK3E5T2 ORC-RK5OC4HXNO",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-2JXA32SNQJ ORC-T6PHYCYZO4 ORC-CK6HJUCKC3 ORC-AURNPJIIBS ORC-BMRGG6ZHZN ORC-C7CA6XGUFP ORC-I4HAK3E5T2 ORC-64BLRYXLGN ORC-W5I2ZVOKVF ORC-WLOAS5OR5C ORC-RK5OC4HXNO",
+ "orchid_phase_alias_note": "2 ZPF region(s): vertex phase names from the per-system alias table (tools/phase_aliases.json; record phases with model_phase_basis system_alias:<id>), not the corpus mapping",
  "bibtex": "buhler1998_b9cc12",
  "orchid": {
   "status": "Version 1, machine-extracted",
   "evidence_class": "experimental",
   "observations": [
+   {
+    "id": "ORC-2JXA32SNQJ",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-T6PHYCYZO4",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-CK6HJUCKC3",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-AURNPJIIBS",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-BMRGG6ZHZN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
    {
     "id": "ORC-C7CA6XGUFP",
     "reader_agreement": "multi_reader",
@@ -120,6 +414,24 @@
    },
    {
     "id": "ORC-I4HAK3E5T2",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-64BLRYXLGN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-W5I2ZVOKVF",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/s0925-8388(00)00983-x",
+    "measured_in": "ref:8989ed9ad46e27b9"
+   },
+   {
+    "id": "ORC-WLOAS5OR5C",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/s0925-8388(00)00983-x",
     "measured_in": "ref:8989ed9ad46e27b9"
@@ -138,12 +450,267 @@
   "dois": [
    "10.1016/s0925-8388(00)00983-x"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-02.json",
-  "values_dropped": 8
+  "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-02.json"
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
   "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
    {
     "sigma": null,
     "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
@@ -244,15 +811,40 @@
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 4,
-  "hyperplanes_added": 0,
+  "line_compound_vertices_null": 15,
+  "hyperplanes_added": 2,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  },
  "orchid_certification": {
   "basis": "pycalphad_invariant_agreement",
   "all_values_certified": false,
-  "n_certified": 2,
+  "n_certified": 8,
   "values": [
+   {
+    "id": "ORC-2JXA32SNQJ",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-T6PHYCYZO4",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-CK6HJUCKC3",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-AURNPJIIBS",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-BMRGG6ZHZN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
    {
     "id": "ORC-C7CA6XGUFP",
     "espei_certified": true,
@@ -260,6 +852,21 @@
    },
    {
     "id": "ORC-I4HAK3E5T2",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-64BLRYXLGN",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-W5I2ZVOKVF",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-WLOAS5OR5C",
     "espei_certified": true,
     "calphad_check": "agrees"
    },

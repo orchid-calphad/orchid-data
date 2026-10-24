@@ -17,7 +17,7 @@ Table: Phases of the Mn–Zn system (14)
 | [CUB_A13](#phase-mn-zn-cub-a13); _phase:mn-zn:cub-a13_ | beta-Mn · A13 · cP20 · P4_132 (213) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 421.29–1366.99 K, x(Zn) 0–0.33813 | 10 | 4 |
 | [FCC_A1](#phase-mn-zn-fcc-a1); _phase:mn-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 789.79–1411.01 K, x(Zn) 0–0.3447 | 18 | 4 |
 | [HCP_A3](#phase-mn-zn-hcp-a3); _phase:mn-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 300–693.78 K, x(Zn) 0.99048–1 | 9 | 4 |
-| [HCP_IM_A3](#phase-mn-zn-hcp-a3-im); _phase:mn-zn:hcp-a3-im_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1103 K, x(Zn) 0.41852–0.84662 | 0 | 4 |
+| [HCP_IM_A3](#phase-mn-zn-hcp-a3-im); _phase:mn-zn:hcp-a3-im_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 300–1103 K, x(Zn) 0.41852–0.84662 | 49 | 4 |
 | [LIQUID](#phase-mn-zn-liquid); _phase:mn-zn:liquid_ | liquid | liquid | stable in 4 of 4 calculated diagram(s): 686.78–2500 K, x(Zn) 0–1 | 32 | 4 |
 | [MN5ZN21_D82](#phase-mn-zn-mn5zn21-d82); _phase:mn-zn:mn5zn21-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–688.96 K, x(Zn) 0.78145–0.82951 | 13 | 3 |
 | [MNZN_B2](#phase-mn-zn-mnzn-b2); _phase:mn-zn:mnzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–550 K, x(Zn) 0.5–0.5 | 2 | 3 |
@@ -328,10 +328,12 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (unrecognised_name_tokens:IM); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 4 of 4 calculated diagram(s): 300–1103 K, x(Zn) 0.41852–0.84662
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 49 values (42 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:mn-zn:hcp-a3-im)
 
-Names (5): _corpus: _corpus:phase:mn-zn:hcp-a3-im  
+Names (7): _corpus: _corpus:phase:mn-zn:hcp-a3-im  
+_paper: _paper:10.1016/j.jallcom.2020.158484:ε  
+_system_alias: _system_alias:mn-zn:epsilon  
 _tdb: _tdb:MnZn-04Mie.tdb:HCP_IM_A3, tdb:MnZn-20Li.tdb:HCP_IM_A3, tdb:MnZn-21Li.tdb:HCP_IM_A3, tdb:MnZn-22Li.tdb:HCP_IM_A3  
 
 
@@ -365,16 +367,24 @@ _tdb: _tdb:MnZn-04Mie.tdb:HCP_IM_A3, tdb:MnZn-20Li.tdb:HCP_IM_A3, tdb:MnZn-21Li.
 44: CONST HCP_IM_A3 : MN ZN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (8 of 8; assessments first): 
 
-- [doi:10.1016/j.calphad.2004.09.003](https://doi.org/10.1016/j.calphad.2004.09.003) Jyrki Miettinen, Thermodynamic description of the Cu–Mn–Zn system in the copper-rich corner, Calphad 28, 313-320 (2004).  
-_assessment that models this phase_
+- [doi:10.1016/j.jallcom.2020.158484](https://doi.org/10.1016/j.jallcom.2020.158484) Xiaojing Li, Shuhong Liu, Jinhui Huang, Dandan Huang, Yong Du, Phase equilibria, crystal structure of δ1-MnZn9 and thermodynamic re-assessment of the Zn-Mn system, Journal of Alloys and Compounds 863, 158484 (2021).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2020.101770](https://doi.org/10.1016/j.calphad.2020.101770) X.J. Li, S.H. Liu, K. Xu, Y.H. Zhang, Y. Du, Thermodynamic re-assessment and experimental confirmation for the Zn-Mn system, Calphad 69 (2020) 101770.  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.1016/j.calphad.2004.09.003](https://doi.org/10.1016/j.calphad.2004.09.003) Jyrki Miettinen, Thermodynamic description of the Cu–Mn–Zn system in the copper-rich corner, Calphad 28, 313-320 (2004).  
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2022.102479](https://doi.org/10.1016/j.calphad.2022.102479) X. Li, S. Liu, D. Huang, Y. Du, Calphad, 79, 102479(2022).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2020.158484](https://doi.org/10.1016/j.jallcom.2020.158484) Xiaojing Li, Shuhong Liu, Jinhui Huang, Dandan Huang, Yong Du, Phase equilibria, crystal structure of δ1-MnZn9 and thermodynamic re-assessment of the Zn-Mn system, Journal of Alloys and Compounds 863, 158484 (2021).  
-_assessment that models this phase_
+- [doi:10.1016/j.calphad.2013.01.008](https://doi.org/10.1016/j.calphad.2013.01.008) P. Ghosh, M. Medraj, Thermodynamic calculation of the Mg-Mn-Zn and Mg-MnCe systems and re-optimization of their constitutive binaries, Calphad 41 (2013) 89–107. Further reading  
+_cited as the source of values for this phase_
+- [doi:10.1515/ijmr-1940-321201](https://doi.org/10.1515/ijmr-1940-321201) J. Schramm, The system manganese-zinc with 0 to 50% Mn, Z. Metallkunde 32 (1940) 399–407.  
+_cited as the source of values for this phase_
+- [doi:10.1515/ijmr-1967-580108](https://doi.org/10.1515/ijmr-1967-580108) E. Wachtel, K. Tsiuplakis, Magnetic properties of zinc-rich zinc-manganese alloys in the liquid and solid state, Z. Metallkunde 58 (1967) 41–45.  
+_cited as the source of values for this phase_
+- [doi:10.1515/ijmr-1971-621112](https://doi.org/10.1515/ijmr-1971-621112) O. Romer, E. Wachtel, Constitution of the zinc-manganese and the zinc-manganese-aluminum systems, Z. Metallkunde 62 (1971) 820–825.  
+_cited as the source of values for this phase_
 
 ## LIQUID (Mn–Zn)
 

@@ -6,13 +6,16 @@
  ],
  "phases": [
   "AL13FE4",
+  "AL2FE",
   "AL5FE2",
+  "AL5FE4",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1422.0
+   1422.0,
+   1419.2
   ]
  },
  "output": "ZPF",
@@ -54,6 +57,44 @@
      0.267857
     ]
    ]
+  ],
+  [
+   [
+    "AL5FE2",
+    [
+     "FE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL5FE4",
+    [
+     "FE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL2FE",
+    [
+     "FE"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "FE"
+    ],
+    [
+     0.3095235
+    ]
+   ]
   ]
  ],
  "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
@@ -63,7 +104,8 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BGQANZE4RK",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BGQANZE4RK ORC-LBVAPUB4XS",
+ "orchid_phase_alias_note": "1 ZPF region(s): vertex phase names from the per-system alias table (tools/phase_aliases.json; record phases with model_phase_basis system_alias:<id>), not the corpus mapping",
  "bibtex": "jacobs2009_bf4023",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -71,6 +113,11 @@
   "observations": [
    {
     "id": "ORC-BGQANZE4RK",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2008.07.010"
+   },
+   {
+    "id": "ORC-LBVAPUB4XS",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.calphad.2008.07.010"
    }
@@ -84,7 +131,7 @@
    "10.3139/146.101512"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AlFe-09Jac/zpf-00.json",
-  "values_dropped": 3
+  "values_dropped": 2
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -122,12 +169,46 @@
       "method_entry": "value_types/X_PHASE/classes/unknown"
      }
     }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 2.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": 2.0,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 5e-07,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
    }
   ],
   "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
  },
  "orchid_zpf_encoding": {
-  "line_compound_vertices_null": 1,
+  "line_compound_vertices_null": 3,
   "hyperplanes_added": 0,
   "rule": "E2: vertices of phases that are stoichiometric in the target TDB are written with composition null (ESPEI evaluates a line compound at its own formula composition; a fixed composition gives NaN in ESPEI 0.9.1 / pycalphad 0.11.2); the printed composition stays in the literature release (orchid.observations ids)"
  },
@@ -138,6 +219,11 @@
   "values": [
    {
     "id": "ORC-BGQANZE4RK",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-LBVAPUB4XS",
     "espei_certified": false,
     "calphad_check": "not_available"
    }

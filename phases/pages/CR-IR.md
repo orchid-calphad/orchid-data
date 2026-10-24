@@ -15,7 +15,7 @@ Table: Phases of the Cr–Ir system (5)
 | [BCC_A2](#phase-cr-ir-bcc-a2); _phase:cr-ir:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2180.98 K, x(Ir) 0–0.10881 | 2 | 1 |
 | [CR3IR_A15](#phase-cr-ir-cr3ir-a15); _phase:cr-ir:cr3ir-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2013.31 K, x(Ir) 0.17169–0.27098 | 4 | 1 |
 | [FCC_A1](#phase-cr-ir-fcc-a1); _phase:cr-ir:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2722.02 K, x(Ir) 0.71515–1 | 2 | 1 |
-| [HCP_A3](#phase-cr-ir-hcp-a3); _phase:cr-ir:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2475.91 K, x(Ir) 0.33375–0.67944 | 0 | 1 |
+| [HCP_A3](#phase-cr-ir-hcp-a3); _phase:cr-ir:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–2475.91 K, x(Ir) 0.33375–0.67944 | 4 | 1 |
 | [LIQUID](#phase-cr-ir-liquid); _phase:cr-ir:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 1964.05–4000 K, x(Ir) 0–1 | 6 | 1 |
 
 ## BCC_A2 (Cr–Ir)
@@ -111,10 +111,12 @@ _cited as the source of values for this phase_
 - Id: `phase:cr-ir:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–2475.91 K, x(Ir) 0.33375–0.67944
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cr-ir:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:cr-ir:hcp-a3  
+Names (4): _corpus: _corpus:phase:cr-ir:hcp-a3  
+_paper: _paper:10.1016/j.calphad.2008.12.009:ε  
+_system_alias: _system_alias:cr-ir:epsilon  
 _tdb: _tdb:CrIr-09Zha.tdb:HCP_A3  
 
 
@@ -127,10 +129,12 @@ _tdb: _tdb:CrIr-09Zha.tdb:HCP_A3
 41: CONST HCP_A3 : CR IR : VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (2 of 2; assessments first): 
 
 - [doi:10.1016/j.calphad.2008.12.009](https://doi.org/10.1016/j.calphad.2008.12.009) C. Zhang, J. Zhu, D. Morgan, Y. Yang, F. Zhang, W.S. Cao et al., Thermodynamic modeling of the Cr–Ir binary system using the cluster/site approximation (CSA) coupling with first-principles energetic calculation, Calphad 33, 420-424 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0022-5088(73)90073-8](https://doi.org/10.1016/0022-5088%2873%2990073-8) R.M. Waterstrat, R.C. Manuszewski, The chromium-iridium constitution diagram, Journal of the Less Common Metals 32, 79-89 (1973).  
+_cited as the source of values for this phase_
 
 ## LIQUID (Cr–Ir)
 

@@ -1,19 +1,19 @@
 {
  "components": [
-  "AL",
-  "FE",
+  "CO",
+  "GA",
   "VA"
  ],
  "phases": [
-  "AL13FE4",
-  "AL5FE2",
+  "COGA_B2",
+  "FCC_A1",
   "LIQUID"
  ],
  "conditions": {
   "P": 101325,
   "T": [
-   1446.35,
-   1402.35
+   1502.0,
+   1458.0
   ]
  },
  "output": "ZPF",
@@ -22,138 +22,138 @@
    [
     "LIQUID",
     [
-     "FE"
+     "GA"
     ],
     [
-     null
+     0.3
     ]
    ],
    [
-    "AL5FE2",
+    "FCC_A1",
     [
-     "FE"
+     "GA"
     ],
     [
-     0.285714
-    ]
-   ],
-   [
-    "__HYPERPLANE__",
-    [
-     "FE"
-    ],
-    [
-     0.225294
+     0.13
     ]
    ],
    [
     "__HYPERPLANE__",
     [
-     "FE"
+     "GA"
     ],
     [
-     0.245294
+     0.265
+    ]
+   ],
+   [
+    "__HYPERPLANE__",
+    [
+     "GA"
+    ],
+    [
+     0.285
     ]
    ]
   ],
   [
    [
-    "AL13FE4",
+    "COGA_B2",
     [
-     "FE"
+     "GA"
     ],
     [
-     0.235294
+     0.275
     ]
    ],
    [
     "__HYPERPLANE__",
     [
-     "FE"
+     "GA"
     ],
     [
-     0.225294
+     0.265
     ]
    ],
    [
     "__HYPERPLANE__",
     [
-     "FE"
+     "GA"
     ],
     [
-     0.245294
+     0.285
     ]
    ]
   ]
  ],
- "reference": "Han 2016, doi:10.1016/j.jallcom.2016.01.215",
- "bibtex": "han2016_5e99c0",
+ "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+ "bibtex": "su2005_68c393",
  "tags": [
   "derived",
   "derived_bracket",
   "orchid",
   "via_assessment"
  ],
- "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/AL-FE/AlFe-18Zie.zpf-01.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JEO3ZI5JDZ",
+ "comment": "DERIVED phase constraints (not measured): invariant-temperature brackets from the printed invariant reactions of invariants/CO-GA/CoGa-05Su.zpf-03.json (ORCHID literature values, Version 1, machine-extracted). Rule: README.md, 'Phase constraints'. Source ORCHID observation ids: ORC-JADTAFFN24",
  "orchid": {
   "evidence_class": "derived",
-  "derived_from": "invariants/AL-FE/AlFe-18Zie.zpf-01.json",
+  "derived_from": "invariants/CO-GA/CoGa-05Su.zpf-03.json",
   "derivation": "invariant_bracket",
   "rule": "For each binary invariant reaction (eutectic, peritectic, monotectic, eutectoid, peritectoid, metatectic, syntectic, congruent melting or transformation, polymorphic) with printed temperature T and printed temperature uncertainty u (u = sigma_effective of the value's uncertainty budget: the printed sigma or the method floor, whichever is larger; else the printed sigma; else 5 K, documented default), two ZPF points are written at the invariant composition x0: at T + max(2u, 10 K) the phase set stable above the reaction and at T - max(2u, 10 K) the set stable below. The reaction is read as printed with the cooling convention (left side = high temperature; a reaction written on heating, i.e. a single liquid formed from solids, is turned round). x0 is the composition of the phase alone on its side (eutectic: the liquid; peritectic: the product; congruent: the common composition); the other side's phases are written with their printed compositions (null where not printed or for line compounds, E2). The target hyperplane is estimated at x0 - d and x0 + d (d = min(0.01, half the distance to the nearest printed composition or to a pure element)) so that a line compound at x0 cannot make the hyperplane undefined (ESPEI 0.9.1 returns zero driving force when the equilibrium at the hyperplane composition is a single phase without internal degrees of freedom). A point is not written when another invariant of the system that shares a non-liquid phase (or a liquid within 0.05 in composition of x0) lies between T and the bracket temperature. These points encode the semantics of the printed reaction (which phases are stable on which side); they are DERIVED, not measured.",
   "points": [
    {
-    "source_observation": "ORC-JEO3ZI5JDZ",
+    "source_observation": "ORC-JADTAFFN24",
     "side": "above",
-    "T_invariant_K": 1424.35,
+    "T_invariant_K": 1480.0,
     "offset_K": 22.0,
     "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.235294,
+    "x0": 0.275,
     "hyperplane_delta": 0.01,
-    "reaction_printed": "L + η -> θ",
+    "reaction_printed": "Liq. + (αCo) -> β",
     "reaction_type": null,
     "phases_above": [
      "LIQUID",
-     "AL5FE2"
+     "FCC_A1"
     ],
     "phases_below": [
-     "AL13FE4"
+     "COGA_B2"
     ]
    },
    {
-    "source_observation": "ORC-JEO3ZI5JDZ",
+    "source_observation": "ORC-JADTAFFN24",
     "side": "below",
-    "T_invariant_K": 1424.35,
+    "T_invariant_K": 1480.0,
     "offset_K": 22.0,
     "T_sigma_K": 11.0,
     "T_sigma_basis": "sigma_effective of the uncertainty budget (method class unknown, calibrated)",
-    "x0": 0.235294,
+    "x0": 0.275,
     "hyperplane_delta": 0.01,
-    "reaction_printed": "L + η -> θ",
+    "reaction_printed": "Liq. + (αCo) -> β",
     "reaction_type": null,
     "phases_above": [
      "LIQUID",
-     "AL5FE2"
+     "FCC_A1"
     ],
     "phases_below": [
-     "AL13FE4"
+     "COGA_B2"
     ]
    }
   ],
   "dois": [
-   "10.1016/j.jallcom.2016.01.215",
-   "10.1016/j.jallcom.2018.01.316"
+   "10.1016/j.calphad.2010.02.004",
+   "10.1016/j.intermet.2004.08.003"
   ],
   "papers": [
-   "doi:10.1016/j.jallcom.2016.01.215",
-   "doi:10.1016/j.jallcom.2018.01.316"
+   "doi:10.1016/j.intermet.2004.08.003",
+   "doi:10.1016/j.calphad.2010.02.004"
   ]
  },
  "orchid_uncertainty_budget": {
   "sigma_rule": "derived point: placed offset_K = max(2u, 10 K) beyond the invariant, u = the invariant temperature's sigma_effective; the constraint holds while the invariant's error is below offset_K (no sigma of its own)",
   "points": [
    {
-    "source_observation": "ORC-JEO3ZI5JDZ",
+    "source_observation": "ORC-JADTAFFN24",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,
@@ -169,7 +169,7 @@
     }
    },
    {
-    "source_observation": "ORC-JEO3ZI5JDZ",
+    "source_observation": "ORC-JADTAFFN24",
     "temperature_K": {
      "sigma_printed": null,
      "sigma_reading": null,

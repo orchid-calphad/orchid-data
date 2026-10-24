@@ -12,7 +12,7 @@ Table: Phases of the B–Ni system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BETA_RHOMBO_B](#phase-b-ni-b-beta-rhombo); _phase:b-ni:b-beta-rhombo_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(B) 1–1 | 0 | 6 |
+| [BETA_RHOMBO_B](#phase-b-ni-b-beta-rhombo); _phase:b-ni:b-beta-rhombo_ |  | needs_review | stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(B) 1–1 | 3 | 6 |
 | [BCC_A2](#phase-b-ni-bcc-a2); _phase:b-ni:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [FCC_A1](#phase-b-ni-fcc-a1); _phase:b-ni:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.86 K, x(B) 0–0.00409 | 3 | 6 |
 | [HCP_A3](#phase-b-ni-hcp-a3); _phase:b-ni:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
@@ -28,6 +28,7 @@ Table: Phases of the B–Ni system (11)
 
 - Id: `phase:b-ni:b-beta-rhombo`; status `needs_review`
 - No structure assigned. Why: name_has_descriptive_tokens:RHOMBO; no_structure_token
+- Candidate (literature_printed): beta-B · hR105 — printed with a label mapped to this phase
 - Candidate (sgte_mmc2): beta-B · hR105 · R-3m (166) — Hallstedt 2025 mmc2 row for BETA_RHOMBO_B: beta-B
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-01Tok.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-03Tok.tdb: 'Prototype beta-B (hR105, R-3m)'
@@ -37,10 +38,12 @@ Table: Phases of the B–Ni system (11)
 - Candidate (tdb_comment): beta-B · hR105 · R-3m — NiB-99Cam.tdb: 'Prototype beta-B (hR105, R-3m)'
 - Stoichiometry: B 1.0000
 - Stability: stable in 6 of 6 calculated diagram(s): 300–3999.25 K, x(B) 1–1
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 3 values (3 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:b-ni:b-beta-rhombo)
 
-Names (8): _corpus: _corpus:phase:b-ni:b-beta-rhombo, corpus:phase:b-ni:beta-rhombo-b  
+Names (10): _corpus: _corpus:phase:b-ni:b-beta-rhombo, corpus:phase:b-ni:beta-rhombo-b  
+_paper: _paper:10.1361/105497199770340743:β  
+_system_alias: _system_alias:b-ni:beta  
 _tdb: _tdb:NiB-01Tok.tdb:BETA_RHOMBO_B, tdb:NiB-03Tok.tdb:BETA_RHOMBO_B, tdb:NiB-09Sun.tdb:BETA_RHOMBO_B, tdb:NiB-10Kau.tdb:BETA_RHOMBO_B, tdb:NiB-91Pan-LB.tdb:BETA_RHOMBO_B, tdb:NiB-99Cam.tdb:BETA_RHOMBO_B  
 
 
@@ -88,18 +91,20 @@ _tdb: _tdb:NiB-01Tok.tdb:BETA_RHOMBO_B, tdb:NiB-03Tok.tdb:BETA_RHOMBO_B, tdb:NiB
 54: CONST BETA_RHOMBO_B : B : !
 ~~~~
 
-Example references (5 of 5; assessments first): 
+Example references (6 of 6; assessments first): 
 
+- [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2009.10.005](https://doi.org/10.1016/j.calphad.2009.10.005) This is actually the assessment from 91Pan, but with B modelled as substitutional in fcc.  
 _assessment that models this phase_
 - [doi:10.1361/105497101770338798](https://doi.org/10.1361/105497101770338798) T. Tokunaga, K. Nishio, M. Hasebe, Thermodynamic study of phase equilibria in the Ni-Si-B system, JPE 22, 291-299 (2001).  
-_assessment that models this phase_
-- [doi:10.1361/105497199770340743](https://doi.org/10.1361/105497199770340743) C. E. Campbell, U. R. Kattner, A thermodynamic assessment of the Ni-Al-B system, JPE 20, 485-496 (1999).  
 _assessment that models this phase_
 - [doi:10.2320/matertrans.44.1651](https://doi.org/10.2320/matertrans.44.1651) Tatsuya Tokunaga, Kazumasa Nishio, Hiroshi Ohtani, Mitsuhiro Hasebe, Phase Equilibria in the Ni-Si-B System, Mater. Trans. 44, 1651-1654 (2003).  
 _assessment that models this phase_
 - [doi:10.3139/146.101786](https://doi.org/10.3139/146.101786) W.-H. Sun, Y. Du, Y. Kong, H.-H. Xu, W. Xiong, S.-H. Liu, Int. J. Mater. Res., 100, 59-67(2009).  
 _assessment that models this phase_
+- [doi:10.1179/mst.1993.9.3.205](https://doi.org/10.1179/mst.1993.9.3.205) O. Teppo and P. Taskinen, Thermodynamic assessment of NiB Phase Diagram, Mater. Sci. Technol., Vol 9, 1993, p 205-212  
+_cited as the source of values for this phase_
 
 ## BCC_A2 (B–Ni)
 

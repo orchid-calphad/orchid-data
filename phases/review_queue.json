@@ -7081,7 +7081,7 @@
      "detail": "AlMg-98Zak.tdb: 'Prototype Al30Mg23 (hR53, R-3), possibly same as R-(Co,Cr,Mo)'"
     }
    ],
-   "literature_values": 10
+   "literature_values": 18
   },
   {
    "id": "phase:al-mg:almg-zeta",
@@ -18218,6 +18218,16 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "beta-B",
+     "strukturbericht": null,
+     "pearson": "hR105",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 3
+    },
+    {
      "source": "sgte_mmc2",
      "structure_type": "st:beta-b-hr105",
      "prototype": "beta-B",
@@ -18302,7 +18312,7 @@
      "detail": "NiB-99Cam.tdb: 'Prototype beta-B (hR105, R-3m)'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 3
   },
   {
    "id": "phase:b-ni:ni2b-c16",
@@ -33683,6 +33693,26 @@
    ],
    "candidates": [
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "BiF3",
+     "strukturbericht": null,
+     "pearson": "cF16",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 7
+    },
+    {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "W",
+     "strukturbericht": null,
+     "pearson": "cI2",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 1
+    },
+    {
      "source": "name_token",
      "structure_type": "st:a2-w-ci2",
      "prototype": "W",
@@ -33707,7 +33737,7 @@
      "detail": "Hallstedt 2025 mmc2 row for BCC_A2: Cu3Sb (beta)"
     }
    ],
-   "literature_values": 0
+   "literature_values": 8
   },
   {
    "id": "phase:cu-sb:cu10sb3",
@@ -34253,6 +34283,16 @@
      "material_id": "oqmd-44350"
     },
     {
+     "source": "literature_printed",
+     "structure_type": null,
+     "prototype": "Cu15Si4",
+     "strukturbericht": null,
+     "pearson": "cI76",
+     "space_group": null,
+     "detail": "printed with a label mapped to this phase",
+     "count": 20
+    },
+    {
      "source": "tdb_comment",
      "structure_type": null,
      "prototype": "Cu15Si4",
@@ -34313,7 +34353,7 @@
      "detail": "CuSi-99Fri-alt.tdb: 'Prototype Cu15Si4 (cI76, I-43d), epsilon'"
     }
    ],
-   "literature_values": 0
+   "literature_values": 20
   },
   {
    "id": "phase:cu-si:cu19si6",
@@ -42780,7 +42820,7 @@
      "detail": "FeZn-11Tan.tdb: 'Prototype Fe11Zn40 (cF408, F-43m), Gamma_1'"
     }
    ],
-   "literature_values": 12
+   "literature_values": 21
   },
   {
    "id": "phase:fe-zr:fe147zr53-c36",

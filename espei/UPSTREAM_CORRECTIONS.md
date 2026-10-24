@@ -599,6 +599,8 @@ Two published records with the same row id (`pid`), conditions and value; the bu
 | ORC-KGEHUOP3SH.248101 | ORC-KGEHUOP3SH.248101 | sha256:fc2eb898db6c0244/p8/tab-v/r16#equilibrium_property |
 | ORC-IOZPT2WUPA.697e74 | ORC-IOZPT2WUPA.697e74 | sha256:fc2eb898db6c0244/p8/tab-v/r20#equilibrium_property |
 | ORC-IRVRKYRVYA.a76274 | ORC-IRVRKYRVYA.a76274 | sha256:fc2eb898db6c0244/p8/tab-v/r17#equilibrium_property |
+| ORC-LQVRUTMRZB.80a30c | ORC-LQVRUTMRZB.80a30c | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r06#equilibrium_property |
+| ORC-XVHMK36SNQ.1a8a1b | ORC-XVHMK36SNQ.1a8a1b | doi:10.1016/j.calphad.2022.102491/p31/tab-5/r07#equilibrium_property |
 | ORC-MBFNTRXGAI.905300 | ORC-MBFNTRXGAI.905300 | doi:10.1016/j.calphad.2023.102541/p27/tab-1/r15#equilibrium_property |
 | ORC-YVLBOQ5WZM.2cc9d4 | ORC-YVLBOQ5WZM.2cc9d4 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r02#equilibrium_property |
 | ORC-2MDAMARU3A.3ab478 | ORC-2MDAMARU3A.3ab478 | doi:10.1016/j.jallcom.2006.08.035/p4/tab-4/r06#equilibrium_property |

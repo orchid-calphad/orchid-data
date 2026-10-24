@@ -15,7 +15,7 @@ Table: Phases of the Al–Mg system (12)
 | [AL12MG17_A12](#phase-al-mg-al12mg17-a12); _phase:al-mg:al12mg17-a12_ | alpha-Mn · A12 · cI58 · I-43m (217) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–740 K, x(Mg) 0.46709–0.70207 | 58 | 10 |
 | [AL8MG5_BETA](#phase-al-mg-al8mg5-beta); _phase:al-mg:al8mg5-beta_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–724.3 K, x(Mg) 0.38462–0.38462 | 9 | 1 |
 | [ALMG_BETA](#phase-al-mg-almg-beta); _phase:al-mg:almg-beta_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 300–728.45 K, x(Mg) 0.385–0.41517 | 15 | 9 |
-| [ALMG_EPS](#phase-al-mg-almg-eps); _phase:al-mg:almg-eps_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 457.89–724.18 K, x(Mg) 0.43396–0.47001 | 10 | 9 |
+| [ALMG_EPS](#phase-al-mg-almg-eps); _phase:al-mg:almg-eps_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 457.89–724.18 K, x(Mg) 0.43396–0.47001 | 18 | 9 |
 | [ALMG_ZETA](#phase-al-mg-almg-zeta); _phase:al-mg:almg-zeta_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 638.08–726.59 K, x(Mg) 0.47475–0.475 | 4 | 4 |
 | [BCC_A2](#phase-al-mg-bcc-a2); _phase:al-mg:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 10 calculated diagram(s) | 0 | 10 |
 | [C14_LAVES](#phase-al-mg-c14-laves); _phase:al-mg:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -282,11 +282,12 @@ _reports values for this phase_
 - Candidate (tdb_comment): Al30Mg23 · hR53 · R-3 — AlMg-13Tok.tdb: 'Prototype Al30Mg23 (hR53, R-3), possibly same as R-(Co,Cr,Mo)'
 - Candidate (tdb_comment): Al30Mg23 · hR53 · R-3 — AlMg-20Shi.tdb: 'Prototype Al30Mg23 (hR53, R-3), possibly same as R-(Co,Cr,Mo)'
 - Stability: stable in 9 of 9 calculated diagram(s): 457.89–724.18 K, x(Mg) 0.43396–0.47001
-- Literature: 10 values (10 accepted) from 2 papers
+- Literature: 18 values (18 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mg:almg-eps)
 
-Names (12): _corpus: _corpus:phase:al-mg:almg-eps  
-_paper: _paper:10.1016/j.calphad.2005.08.004:ε-Al30Mg23, paper:10.1016/s0364-5916(98)00037-6:AlMg-ε  
+Names (15): _corpus: _corpus:phase:al-mg:almg-eps  
+_paper: _paper:10.1016/0364-5916(93)90017-6:ε, paper:10.1016/j.calphad.2005.08.004:ε, paper:10.1016/j.calphad.2005.08.004:ε-Al30Mg23, paper:10.1016/s0364-5916(98)00037-6:AlMg-ε  
+_system_alias: _system_alias:al-mg:epsilon  
 _tdb: _tdb:AlMg-05Zho.tdb:ALMG_EPS, tdb:AlMg-12Tan.tdb:ALMG_EPS, tdb:AlMg-13Tok.tdb:ALMG_EPS, tdb:AlMg-20Shi.tdb:ALMG_EPS, tdb:AlMg-23Hal.tdb:ALMG_EPS, tdb:AlMg-90Sau.tdb:ALMG_EPS, tdb:AlMg-93Zuo.tdb:ALMG_EPS, tdb:AlMg-98Lia-LB.tdb:ALMG_EPS, tdb:AlMg-98Zak.tdb:ALMG_EPS  
 
 
@@ -355,13 +356,13 @@ _tdb: _tdb:AlMg-05Zho.tdb:ALMG_EPS, tdb:AlMg-12Tan.tdb:ALMG_EPS, tdb:AlMg-13Tok.
 48: CONST ALMG_EPS : AL : MG : !
 ~~~~
 
-Example references (9 of 9; assessments first): 
+Example references (10 of 12; assessments first): 
 
 - [doi:10.1016/j.calphad.2005.08.004](https://doi.org/10.1016/j.calphad.2005.08.004) Yu Zhong, Mei Yang, Zi-Kui Liu, Contribution of first-principles energetics to Al–Mg thermodynamic modeling, Calphad 29, 303-311 (2005).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
-_assessment that models this phase_
 - [doi:10.1016/0364-5916(93)90017-6](https://doi.org/10.1016/0364-5916%2893%2990017-6) Y. Zuo, Y.A. Chang, Thermodynamic calculation of the AlMg phase diagram, Calphad 17, 161-174 (1993).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/0364-5916(90)90040-7](https://doi.org/10.1016/0364-5916%2890%2990040-7) N. Saunders, Calphad, 14, 61-70 (1990).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2023.102577](https://doi.org/10.1016/j.calphad.2023.102577) B. Hallstedt, M. Noori, Calphad, 82, 102577(2023).  
 _assessment that models this phase_
@@ -375,6 +376,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
+- [doi:10.1007/bf02670245](https://doi.org/10.1007/bf02670245) N. C. Goel, J. R. Cahoon, B. Mikkelsen, An experimental technique for the rapid determination of binary phase diagrams: The Al-Mg system, Metall Trans A 20, 197-203 (1989).  
+_cited as the source of values for this phase_
 
 ## ALMG_ZETA (Al–Mg)
 

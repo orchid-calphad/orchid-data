@@ -13,7 +13,7 @@ Table: Phases of the Fe–Ta system (7)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-fe-ta-bcc-a2); _phase:fe-ta:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–3999.95 K, x(Ta) 0–1 | 63 | 3 |
-| [C14_LAVES](#phase-fe-ta-c14-laves); _phase:fe-ta:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2136.48 K, x(Ta) 0.26945–0.42799 | 31 | 3 |
+| [C14_LAVES](#phase-fe-ta-c14-laves); _phase:fe-ta:c14-laves_ | MgZn2 · C14 · hP12 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2136.48 K, x(Ta) 0.26945–0.42799 | 83 | 3 |
 | [MU_D85](#phase-fe-ta-d85-mu); _phase:fe-ta:d85-mu_ | Fe7W6 · D8_5 · hR13 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2064.99 K, x(Ta) 0.46154–0.61526 | 49 | 3 |
 | [FCC_A1](#phase-fe-ta-fcc-a1); _phase:fe-ta:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 777.33–1742.46 K, x(Ta) 0–0.01061 | 38 | 3 |
 | [FE2TA3](#phase-fe-ta-fe2ta3); _phase:fe-ta:fe2ta3_ |  | needs_review | not stable in 1 calculated diagram(s) | 3 | 1 |
@@ -83,11 +83,12 @@ _cited as the source of values for this phase_
 - Caveat: partitioned order/disorder model in FeTa-11Wit.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeTa-15Raj.tdb also describes the disordered state
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2136.48 K, x(Ta) 0.26945–0.42799
-- Literature: 31 values (31 accepted) from 1 papers
+- Literature: 83 values (83 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-ta:c14-laves)
 
-Names (5): _corpus: _corpus:phase:fe-ta:c14-laves  
-_paper: _paper:10.1016/j.intermet.2011.03.018:λ  
+Names (8): _corpus: _corpus:phase:fe-ta:c14-laves  
+_paper: _paper:10.1016/j.calphad.2014.12.006:ε, paper:10.1016/j.intermet.2011.03.018:λ, paper:10.1016/s0022-3115(03)00196-x:ε  
+_system_alias: _system_alias:fe-ta:epsilon  
 _tdb: _tdb:FeTa-03Dan.tdb:C14_LAVES, tdb:FeTa-11Wit.tdb:C14_LAVES, tdb:FeTa-15Raj.tdb:C14_LAVES  
 
 
@@ -114,21 +115,25 @@ _tdb: _tdb:FeTa-03Dan.tdb:C14_LAVES, tdb:FeTa-11Wit.tdb:C14_LAVES, tdb:FeTa-15Ra
 44: CONST C14_LAVES : FE% TA : FE TA% : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.intermet.2011.03.018](https://doi.org/10.1016/j.intermet.2011.03.018) V.T. Witusiewicz, A.A. Bondar, U. Hecht, V.M. Voblikov, O.S. Fomichov, V.M. Petyukh et al., Experimental study and thermodynamic re-assessment of the binary Fe–Ta system, Intermetallics 19, 1059-1075 (2011).  
-_assessment that models this phase; reports values for this phase_
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2014.12.006](https://doi.org/10.1016/j.calphad.2014.12.006) V.B. Rajkumar, K.C. Hari Kumar, Gibbs energy modeling of Fe–Ta system by Calphad method assisted by experiments and ab initio calculations, Calphad 48, 157-165 (2015).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0022-3115(03)00196-X](https://doi.org/10.1016/S0022-3115%2803%2900196-X) A. Danon, C. Servant, J. Nucl. Mater., 321, 8-18(2003).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/0925-8388(94)90747-1](https://doi.org/10.1016/0925-8388%2894%2990747-1) S. Srikanth, A. Petric, Optimization and calculation of the FeTa phase diagram, Journal of Alloys and Compounds 203, 281-288 (1994).  
-_cited as the source of values for this phase_
-- [doi:10.1016/s0921-5093(02)00632-9](https://doi.org/10.1016/s0921-5093%2802%2900632-9) A Danon, C Servant, A Alamo, J.C Brachet, Heterogeneous austenite grain growth in 9Cr martensitic steels: influence of the heating rate and the austenitization temperature, Materials Science and Engineering: A 348, 122-132 (2003).  
 _cited as the source of values for this phase_
 - [doi:10.1002/srin.197001633](https://doi.org/10.1002/srin.197001633) Wilhelm Anton Fischer, Klaus Lorenz, Heinz Fabritius, Dieter Schlegel, Untersuchung der α/γ‐Umwandlung in hochreinen Zweistofflegierungen des Eisens mit Molybdän, Vanadin, Wolfram, Niob, Tantal, Zirkon und Kobalt, Steel Research Intl 41, 489-498 (1970).  
 _cited as the source of values for this phase_
+- [doi:10.1016/s0921-5093(02)00632-9](https://doi.org/10.1016/s0921-5093%2802%2900632-9) A Danon, C Servant, A Alamo, J.C Brachet, Heterogeneous austenite grain growth in 9Cr martensitic steels: influence of the heating rate and the austenitization temperature, Materials Science and Engineering: A 348, 122-132 (2003).  
+_cited as the source of values for this phase_
 - [doi:10.2355/isijinternational.29.843](https://doi.org/10.2355/isijinternational.29.843) Eiji Ichise, Ken-ichi Horikawa, Thermodynamic study of Fe-Ta and Fe-Nb alloys by means of the Knudsen cell mass spectrometry., ISIJ International 29, 843-851 (1989).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0022-5088(70)90137-2](https://doi.org/10.1016/0022-5088%2870%2990137-2) G.B. Barbi, Determination of thermodynamic stability of the Fe2Ta intermetallic phase by non-stationary e.m.f. measurements on solid galvanic chains, Journal of the Less Common Metals 22, 487-494 (1970).  
+_cited as the source of values for this phase_
+- [doi:10.1002/pssb.19680270149](https://doi.org/10.1002/pssb.19680270149) K. Wetzig, Some Investigations Concerning the Position and the Melting Point of TaFe Lamellas in the System TaFe‐TaFe\<sub>2\</sub>, Physica Status Solidi (b) 27 (1968).  
 _cited as the source of values for this phase_
 
 ## MU_D85 (Fe–Ta)

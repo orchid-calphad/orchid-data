@@ -1,0 +1,130 @@
+{
+ "components": [
+  "NI",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "B2_BCC",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1313
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.528
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.40399999999999997
+    ]
+   ],
+   [
+    "B2_BCC",
+    [
+     "ZN"
+    ],
+    [
+     0.5
+    ]
+   ]
+  ]
+ ],
+ "reference": "1932, W. Heike, J. Schramm, O. Vaupel, Der gefuegeaufbau der Nickel–Zink– Legierungen I, Metallwirtsch. Metallwiss. Metalltech. 11 (1932) 525–530.",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-BDQETFWLRW",
+ "orchid_phase_alias_note": "1 ZPF region(s): vertex phase names from the per-system alias table (tools/phase_aliases.json; record phases with model_phase_basis system_alias:<id>), not the corpus mapping",
+ "bibtex": "heike1932_d43c02",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-BDQETFWLRW",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.03.003",
+    "measured_in": "ref:a3a29140fabdde13"
+   }
+  ],
+  "papers": [
+   "ref:a3a29140fabdde13",
+   "doi:10.1016/j.calphad.2011.03.003"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.03.003"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/NiZn-11Xio/zpf-01.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-BDQETFWLRW",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

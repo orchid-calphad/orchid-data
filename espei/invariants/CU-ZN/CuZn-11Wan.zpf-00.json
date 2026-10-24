@@ -1,0 +1,200 @@
+{
+ "components": [
+  "CU",
+  "VA",
+  "ZN"
+ ],
+ "phases": [
+  "BCC_A2",
+  "CU5ZN8_D82",
+  "FCC_A1",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1176.0,
+   1108.0
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.368
+    ]
+   ],
+   [
+    "FCC_A1",
+    [
+     "ZN"
+    ],
+    [
+     0.319
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.361
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "ZN"
+    ],
+    [
+     0.591
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "ZN"
+    ],
+    [
+     0.558
+    ]
+   ],
+   [
+    "CU5ZN8_D82",
+    [
+     "ZN"
+    ],
+    [
+     0.586
+    ]
+   ]
+  ]
+ ],
+ "reference": "Wang 2011, doi:10.1016/j.calphad.2011.02.001",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-3FM2R4KIXA ORC-Z3YCQHTEAM",
+ "bibtex": "wang2011_19db3c",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-3FM2R4KIXA",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.02.001"
+   },
+   {
+    "id": "ORC-Z3YCQHTEAM",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.calphad.2011.02.001"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.calphad.2011.02.001"
+  ],
+  "dois": [
+   "10.1016/j.calphad.2011.02.001"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/CuZn-11Wan/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-3FM2R4KIXA",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-Z3YCQHTEAM",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

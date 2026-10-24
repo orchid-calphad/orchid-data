@@ -1,0 +1,112 @@
+{
+ "components": [
+  "AL",
+  "CU",
+  "VA"
+ ],
+ "phases": [
+  "BCC_A2"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   1082.65
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "BCC_A2",
+    [
+     "CU"
+    ],
+    [
+     0.82
+    ]
+   ]
+  ]
+ ],
+ "reference": "Ponweiser 2011, doi:10.1016/j.intermet.2011.07.007",
+ "tags": [
+  "experimental",
+  "phase_compositions_table",
+  "single_reader_text_layer",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-GOVPCZZH47",
+ "bibtex": "ponweiser2011_07e1e9",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-GOVPCZZH47",
+    "reader_agreement": "single_reader_text_layer",
+    "paper": "doi:10.1007/s10853-020-05423-7",
+    "measured_in": "doi:10.1016/j.intermet.2011.07.007"
+   }
+  ],
+  "papers": [
+   "doi:10.1016/j.intermet.2011.07.007",
+   "doi:10.1007/s10853-020-05423-7"
+  ],
+  "dois": [
+   "10.1007/s10853-020-05423-7",
+   "10.1016/j.intermet.2011.07.007"
+  ],
+  "source_dataset": "db-v2.1/general/espei/AlCu-21Kro/zpf-00.json"
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 242.5,
+    "temperature_sigma_basis": "printed_range (half-width)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": 242.5,
+      "sigma_reading": 0.5,
+      "sigma_method": 5.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 242.5,
+      "method_class": "unknown",
+      "method_basis": "prior",
+      "method_n_pairs": 0,
+      "method_entry": "value_types/T_CONDITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 0,
+  "values": [
+   {
+    "id": "ORC-GOVPCZZH47",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

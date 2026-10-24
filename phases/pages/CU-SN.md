@@ -13,19 +13,19 @@ Table: Phases of the Cu–Sn system (16)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [DIAMOND_A4](#phase-cu-sn-a4-diamond); _phase:cu-sn:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 9 calculated diagram(s) | 0 | 9 |
-| [BCT_A5](#phase-cu-sn-a5-bct); _phase:cu-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–505.08 K, x(Sn) 0.99989–1 | 9 | 9 |
+| [BCT_A5](#phase-cu-sn-a5-bct); _phase:cu-sn:a5-bct_ | beta-Sn · A5 · tI4 · I4_1/amd (141) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–505.08 K, x(Sn) 0.99989–1 | 7 | 9 |
 | [BCC_4SL](#phase-cu-sn-bcc-4sl); _phase:cu-sn:bcc-4sl_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 787.82–1071.43 K, x(Sn) 0.14285–0.30069 | 20 | 3 |
-| [BCC_A2](#phase-cu-sn-bcc-a2); _phase:cu-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 793.31–1089.42 K, x(Sn) 0.12402–0.31298 | 13 | 13 |
+| [BCC_A2](#phase-cu-sn-bcc-a2); _phase:cu-sn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 793.31–1089.42 K, x(Sn) 0.12402–0.31298 | 22 | 13 |
 | [B2_BCC](#phase-cu-sn-bcc-b2); _phase:cu-sn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 846.04–1040 K, x(Sn) 0.15409–0.23704 | 0 | 1 |
 | [CU10SN3](#phase-cu-sn-cu10sn3); _phase:cu-sn:cu10sn3_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 783.21–953.8 K, x(Sn) 0.23077–0.231 | 18 | 9 |
 | [CU3SN](#phase-cu-sn-cu3sn); _phase:cu-sn:cu3sn_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–960 K, x(Sn) 0.25–0.25 | 0 | 2 |
 | [CU3SN_D03](#phase-cu-sn-cu3sn-d03); _phase:cu-sn:cu3sn-d03_ | BiF3 · D0_3 · cF16 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 791.8–1030.43 K, x(Sn) 0.15876–0.28152 | 21 | 3 |
-| [CU3SN_L](#phase-cu-sn-cu3sn-l); _phase:cu-sn:cu3sn-l_ | Cu3Sn · oC80 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–960 K, x(Sn) 0.25–0.25 | 0 | 7 |
+| [CU3SN_L](#phase-cu-sn-cu3sn-l); _phase:cu-sn:cu3sn-l_ | Cu3Sn · oC80 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 7 of 7 calculated diagram(s): 300–960 K, x(Sn) 0.25–0.25 | 41 | 7 |
 | [CU41SN11](#phase-cu-sn-cu41sn11); _phase:cu-sn:cu41sn11_ |  | needs_review | stable in 9 of 9 calculated diagram(s): 545.12–900 K, x(Sn) 0.21154–0.212 | 24 | 9 |
 | [CU6SN5](#phase-cu-sn-cu6sn5); _phase:cu-sn:cu6sn5_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–689.63 K, x(Sn) 0.45316–0.4666 | 0 | 2 |
 | [CU6SN5_B81](#phase-cu-sn-cu6sn5-b81); _phase:cu-sn:cu6sn5-b81_ |  | needs_review | stable in 8 of 8 calculated diagram(s): 457.14–700.05 K, x(Sn) 0.4488–0.4609 | 15 | 8 |
 | [CU6SN5_L](#phase-cu-sn-cu6sn5-l); _phase:cu-sn:cu6sn5-l_ |  | needs_review | stable in 7 of 7 calculated diagram(s): 300–470.74 K, x(Sn) 0.45421–0.455 | 4 | 7 |
-| [FCC_A1](#phase-cu-sn-fcc-a1); _phase:cu-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–1917.68 K, x(Sn) 0–0.47926 | 12 | 9 |
+| [FCC_A1](#phase-cu-sn-fcc-a1); _phase:cu-sn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 9 of 9 calculated diagram(s): 300–1917.68 K, x(Sn) 0–0.47926 | 23 | 9 |
 | [HCP_A3](#phase-cu-sn-hcp-a3); _phase:cu-sn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 9 calculated diagram(s) | 0 | 9 |
 | [LIQUID](#phase-cu-sn-liquid); _phase:cu-sn:liquid_ | liquid | liquid | stable in 9 of 9 calculated diagram(s): 497.6–2500 K, x(Sn) 0–1 | 31 | 9 |
 
@@ -131,11 +131,11 @@ _assessment that models this phase_
 - Id: `phase:cu-sn:a5-bct`; status `assigned`
 - Structure: beta-Sn · A5 · tI4 · I4_1/amd (141); type `st:a5-beta-sn-ti4`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 300–505.08 K, x(Sn) 0.99989–1
-- Literature: 9 values (9 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sn:a5-bct)
 
-Names (14): _corpus: _corpus:phase:cu-sn:a5-bct, corpus:phase:cu-sn:bct-a5  
-_paper: _paper:10.1007/s11661-002-0173-7:Sn, paper:10.1016/j.intermet.2012.10.010:(Sn), paper:10.1016/j.intermet.2012.10.010:β  
+Names (13): _corpus: _corpus:phase:cu-sn:a5-bct, corpus:phase:cu-sn:bct-a5  
+_paper: _paper:10.1007/s11661-002-0173-7:Sn, paper:10.1016/j.intermet.2012.10.010:(Sn)  
 _tdb: _tdb:CuSn-02Mie.tdb:BCT_A5, tdb:CuSn-04Liu.tdb:BCT_A5, tdb:CuSn-11Wan.tdb:BCT_A5, tdb:CuSn-12Gie.tdb:BCT_A5, tdb:CuSn-13Li.tdb:BCT_A5, tdb:CuSn-14Don.tdb:BCT_A5, tdb:CuSn-24Oik.tdb:BCT_A5, tdb:CuSn-96Shi-LB.tdb:BCT_A5, tdb:CuSn-96Shi-SGSOL.tdb:BCT_A5  
 
 
@@ -279,11 +279,12 @@ _assessment that models this phase_
 - Id: `phase:cu-sn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 793.31–1089.42 K, x(Sn) 0.12402–0.31298
-- Literature: 13 values (13 accepted) from 2 papers
+- Literature: 22 values (22 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sn:bcc-a2)
 
-Names (17): _corpus: _corpus:phase:cu-sn:bcc-a2  
-_paper: _paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:10.1007/s11661-004-0073-0:β(bcc)  
+Names (19): _corpus: _corpus:phase:cu-sn:bcc-a2  
+_paper: _paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:10.1007/s11661-004-0073-0:β(bcc), paper:10.1016/j.intermet.2012.10.010:β  
+_system_alias: _system_alias:cu-sn:beta  
 _tdb: _tdb:CuSn-02Mie.tdb:BCC_A2, tdb:CuSn-04Liu.tdb:A2_BCC, tdb:CuSn-04Liu.tdb:BCC_A2, tdb:CuSn-11Wan.tdb:BCC_A2, tdb:CuSn-12Gie.tdb:BCC_A2, tdb:CuSn-13Li.tdb:A2_BCC, tdb:CuSn-13Li.tdb:BCC_A2, tdb:CuSn-14Don.tdb:A2_BCC, tdb:CuSn-14Don.tdb:BCC_A2, tdb:CuSn-24Oik.tdb:A2_BCC, tdb:CuSn-24Oik.tdb:BCC_A2, tdb:CuSn-96Shi-LB.tdb:BCC_A2, tdb:CuSn-96Shi-SGSOL.tdb:BCC_A2  
 
 
@@ -384,6 +385,8 @@ Example references (8 of 8; assessments first):
 
 - [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7) J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-004-0073-0](https://doi.org/10.1007/s11661-004-0073-0) X. J. Liu, R. Kainuma, C. P. Wang, I. Ohnuma, K. Ishida, Experimental investigation and thermodynamic calculation of the phase equilibria in the Cu-Sn and Cu-Sn-Mn systems, Metall Mater Trans A 35, 1641-1654 (2004).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-1996-870310](https://doi.org/10.1515/ijmr-1996-870310) J.-H. Shim, C.-S. Oh, B.-J. Lee, and D.N. Lee: Z. Metallkd., 1996, vol. 87, pp. 205-12.  
@@ -393,8 +396,6 @@ _assessment that models this phase_
 - [doi:10.1007/s11669-024-01112-z](https://doi.org/10.1007/s11669-024-01112-z) Katsunari Oikawa, Nobufumi Ueshima, Thermodynamic Reassessment of the Binary Cu-Sn, Cu-P, and Sn-P and Ternary Cu-Sn-P Systems, J. Phase Equilib. Diffus. 45, 547-566 (2024).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.12.006](https://doi.org/10.1016/j.calphad.2010.12.006) Jiang Wang, Chunlei Liu, Christian Leinenbach, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Experimental investigation and thermodynamic assessment of the Cu–Sn–Ti ternary system, Calphad 35, 82-94 (2011).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2013.11.041](https://doi.org/10.1016/j.jallcom.2013.11.041) H.Q. Dong, V. Vuorinen, X.M. Tao, T. Laurila, M. Paulasto-Kröckel, Thermodynamic reassessment of Au–Cu–Sn ternary system, Journal of Alloys and Compounds 588, 449-460 (2014).  
 _assessment that models this phase_
@@ -543,7 +544,8 @@ _assessment that models this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sn:cu3sn)
 
-Names (3): _corpus: _corpus:phase:cu-sn:cu3sn  
+Names (4): _corpus: _corpus:phase:cu-sn:cu3sn  
+_system_alias: _system_alias:cu-sn:epsilon  
 _tdb: _tdb:CuSn-12Gie.tdb:CU3SN, tdb:CuSn-14Don.tdb:CU3SN_LT  
 
 
@@ -625,10 +627,12 @@ _assessment that models this phase_
 - Caveat: not certain from the name or DFT alone (name_has_descriptive_tokens:L, no_structure_token); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stoichiometry: Cu 0.7500, Sn 0.2500
 - Stability: stable in 7 of 7 calculated diagram(s): 300–960 K, x(Sn) 0.25–0.25
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 41 values (41 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sn:cu3sn-l)
 
-Names (8): _corpus: _corpus:phase:cu-sn:cu3sn-l  
+Names (12): _corpus: _corpus:phase:cu-sn:cu3sn-l  
+_paper: _paper:10.1007/s11661-002-0173-7:ε, paper:10.1016/j.intermet.2012.10.010:ε, paper:10.1016/j.intermet.2012.10.010:ε (Cu3Sn)  
+_system_alias: _system_alias:cu-sn:epsilon  
 _tdb: _tdb:CuSn-02Mie.tdb:CU3SN_L, tdb:CuSn-04Liu.tdb:CU3SN_L, tdb:CuSn-11Wan.tdb:CU3SN_L, tdb:CuSn-13Li.tdb:CU3SN_L, tdb:CuSn-24Oik.tdb:CU3SN_L, tdb:CuSn-96Shi-LB.tdb:CU3SN_L, tdb:CuSn-96Shi-SGSOL.tdb:CU3SN_L  
 
 
@@ -683,20 +687,26 @@ _tdb: _tdb:CuSn-02Mie.tdb:CU3SN_L, tdb:CuSn-04Liu.tdb:CU3SN_L, tdb:CuSn-11Wan.td
 82: CONST CU3SN_L : CU : SN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (9 of 9; assessments first): 
 
+- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7) J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1515/ijmr-1996-870310](https://doi.org/10.1515/ijmr-1996-870310) J.-H. Shim, C.-S. Oh, B.-J. Lee, and D.N. Lee: Z. Metallkd., 1996, vol. 87, pp. 205-12.  
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11661-004-0073-0](https://doi.org/10.1007/s11661-004-0073-0) X. J. Liu, R. Kainuma, C. P. Wang, I. Ohnuma, K. Ishida, Experimental investigation and thermodynamic calculation of the phase equilibria in the Cu-Sn and Cu-Sn-Mn systems, Metall Mater Trans A 35, 1641-1654 (2004).  
 _assessment that models this phase_
 - [doi:10.1007/s11669-024-01112-z](https://doi.org/10.1007/s11669-024-01112-z) Katsunari Oikawa, Nobufumi Ueshima, Thermodynamic Reassessment of the Binary Cu-Sn, Cu-P, and Sn-P and Ternary Cu-Sn-P Systems, J. Phase Equilib. Diffus. 45, 547-566 (2024).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.12.006](https://doi.org/10.1016/j.calphad.2010.12.006) Jiang Wang, Chunlei Liu, Christian Leinenbach, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Experimental investigation and thermodynamic assessment of the Cu–Sn–Ti ternary system, Calphad 35, 82-94 (2011).  
 _assessment that models this phase_
-- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
-_assessment that models this phase_
-- [doi:10.1515/ijmr-1996-870310](https://doi.org/10.1515/ijmr-1996-870310) J.-H. Shim, C.-S. Oh, B.-J. Lee, and D.N. Lee: Z. Metallkd., 1996, vol. 87, pp. 205-12.  
-_assessment that models this phase_
+- [doi:10.1002/zaac.19241340104](https://doi.org/10.1002/zaac.19241340104) Wilhlem Biltz, Beiträge zur systematischen Verwandtschaftslehre XXVIII. Über die Bildungswärmen intermetallischer verbindungen V. Kobalt‐ Aluminiumlegierunge n; Kupferlegierungen, Z. Anorg. Allg. Chem. 134, 25-36 (1924).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.tca.2007.04.004](https://doi.org/10.1016/j.tca.2007.04.004) H. Flandorfer, U. Saeed, C. Luef, A. Sabbar, H. Ipser, Interfaces in lead-free solder alloys: Enthalpy of formation of binary Ag–Sn, Cu–Sn and Ni–Sn intermetallic compounds, Thermochimica Acta 459, 34-39 (2007).  
+_cited as the source of values for this phase_
+- [doi:10.1021/j150541a003](https://doi.org/10.1021/j150541a003) O. J. Kleppa, A Calorimetric Investigation of Some Binary and Ternary Liquid Alloys Rich in Tin, J. Phys. Chem. 60, 842-846 (1956).  
+_cited as the source of values for this phase_
 
 ## CU41SN11 (Cu–Sn)
 
@@ -1029,11 +1039,12 @@ _assessment that models this phase_
 - Id: `phase:cu-sn:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 9 of 9 calculated diagram(s): 300–1917.68 K, x(Sn) 0–0.47926
-- Literature: 12 values (12 accepted) from 1 papers
+- Literature: 23 values (23 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sn:fcc-a1)
 
-Names (11): _corpus: _corpus:phase:cu-sn:fcc-a1  
-_paper: _paper:10.1007/s11661-002-0173-7:Fcc  
+Names (13): _corpus: _corpus:phase:cu-sn:fcc-a1  
+_paper: _paper:10.1007/s11661-002-0173-7:Fcc, paper:10.1016/j.intermet.2012.10.010:α  
+_system_alias: _system_alias:cu-sn:alpha  
 _tdb: _tdb:CuSn-02Mie.tdb:FCC_A1, tdb:CuSn-04Liu.tdb:FCC_A1, tdb:CuSn-11Wan.tdb:FCC_A1, tdb:CuSn-12Gie.tdb:FCC_A1, tdb:CuSn-13Li.tdb:FCC_A1, tdb:CuSn-14Don.tdb:FCC_A1, tdb:CuSn-24Oik.tdb:FCC_A1, tdb:CuSn-96Shi-LB.tdb:FCC_A1, tdb:CuSn-96Shi-SGSOL.tdb:FCC_A1  
 
 
@@ -1106,6 +1117,8 @@ Example references (8 of 8; assessments first):
 
 - [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7) J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1515/ijmr-1996-870310](https://doi.org/10.1515/ijmr-1996-870310) J.-H. Shim, C.-S. Oh, B.-J. Lee, and D.N. Lee: Z. Metallkd., 1996, vol. 87, pp. 205-12.  
 _assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1007/s11661-004-0073-0](https://doi.org/10.1007/s11661-004-0073-0) X. J. Liu, R. Kainuma, C. P. Wang, I. Ohnuma, K. Ishida, Experimental investigation and thermodynamic calculation of the phase equilibria in the Cu-Sn and Cu-Sn-Mn systems, Metall Mater Trans A 35, 1641-1654 (2004).  
@@ -1115,8 +1128,6 @@ _assessment that models this phase_
 - [doi:10.1007/s11669-024-01112-z](https://doi.org/10.1007/s11669-024-01112-z) Katsunari Oikawa, Nobufumi Ueshima, Thermodynamic Reassessment of the Binary Cu-Sn, Cu-P, and Sn-P and Ternary Cu-Sn-P Systems, J. Phase Equilib. Diffus. 45, 547-566 (2024).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2010.12.006](https://doi.org/10.1016/j.calphad.2010.12.006) Jiang Wang, Chunlei Liu, Christian Leinenbach, Ulrich E. Klotz, Peter J. Uggowitzer, Jörg F. Löffler, Experimental investigation and thermodynamic assessment of the Cu–Sn–Ti ternary system, Calphad 35, 82-94 (2011).  
-_assessment that models this phase_
-- [doi:10.1016/j.intermet.2012.10.010](https://doi.org/10.1016/j.intermet.2012.10.010) D. Li, P. Franke, S. Fürtauer, D. Cupid, H. Flandorfer, The Cu–Sn phase diagram part II: New thermodynamic assessment, Intermetallics 34, 148-158 (2013).  
 _assessment that models this phase_
 - [doi:10.1016/j.jallcom.2013.11.041](https://doi.org/10.1016/j.jallcom.2013.11.041) H.Q. Dong, V. Vuorinen, X.M. Tao, T. Laurila, M. Paulasto-Kröckel, Thermodynamic reassessment of Au–Cu–Sn ternary system, Journal of Alloys and Compounds 588, 449-460 (2014).  
 _assessment that models this phase_

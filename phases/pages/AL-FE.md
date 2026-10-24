@@ -16,8 +16,8 @@ Table: Phases of the Al–Fe system (13)
 | [AL13FE4](#phase-al-fe-al13fe4); _phase:al-fe:al13fe4_ |  | needs_review | stable in 11 of 11 calculated diagram(s): 300–1428.53 K, x(Fe) 0.23435–0.26518 | 49 | 11 |
 | [AL2FE](#phase-al-fe-al2fe); _phase:al-fe:al2fe_ | Al2Fe · aP18 · P1 (1) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1430.68 K, x(Fe) 0.32943–0.36234 | 68 | 11 |
 | [AL5FE2](#phase-al-fe-al5fe2); _phase:al-fe:al5fe2_ | Al5Fe2 · oC24 · Cmcm (63) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 11 of 11 calculated diagram(s): 300–1434.57 K, x(Fe) 0.27179–0.31257 | 106 | 11 |
-| [AL5FE4](#phase-al-fe-al5fe4); _phase:al-fe:al5fe4_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1357.33–1501.79 K, x(Fe) 0.36411–0.43508 | 0 | 4 |
-| [AL8FE5_D82](#phase-al-fe-al8fe5-d82); _phase:al-fe:al8fe5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1367.89–2500 K, x(Fe) 0.15389–0.44414 | 4 | 7 |
+| [AL5FE4](#phase-al-fe-al5fe4); _phase:al-fe:al5fe4_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 4 of 4 calculated diagram(s): 1357.33–1501.79 K, x(Fe) 0.36411–0.43508 | 6 | 4 |
+| [AL8FE5_D82](#phase-al-fe-al8fe5-d82); _phase:al-fe:al8fe5-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 7 of 7 calculated diagram(s): 1367.89–2500 K, x(Fe) 0.15389–0.44414 | 126 | 7 |
 | [BCC_4SL](#phase-al-fe-bcc-4sl); _phase:al-fe:bcc-4sl_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–1810 K, x(Fe) 0.47196–1 | 0 | 4 |
 | [BCC_A2](#phase-al-fe-bcc-a2); _phase:al-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 11 of 11 calculated diagram(s): 300–1820 K, x(Fe) 0.44948–1 | 0 | 21 |
 | [B2_BCC](#phase-al-fe-bcc-b2); _phase:al-fe:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 10 of 10 calculated diagram(s): 300–1825.37 K, x(Fe) 0.45451–1 | 59 | 10 |
@@ -433,10 +433,12 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 4 of 4 calculated diagram(s): 1357.33–1501.79 K, x(Fe) 0.36411–0.43508
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al5fe4)
 
-Names (5): _corpus: _corpus:phase:al-fe:al5fe4  
+Names (7): _corpus: _corpus:phase:al-fe:al5fe4  
+_paper: _paper:10.1016/j.calphad.2008.07.010:ε  
+_system_alias: _system_alias:al-fe:epsilon  
 _tdb: _tdb:AlFe-07Zha.tdb:AL5FE4, tdb:AlFe-09Jac.tdb:AL5FE4, tdb:AlFe-15Mie.tdb:AL5FE4, tdb:AlFe-93Sei-LB.tdb:AL5FE4  
 
 
@@ -472,11 +474,11 @@ _tdb: _tdb:AlFe-07Zha.tdb:AL5FE4, tdb:AlFe-09Jac.tdb:AL5FE4, tdb:AlFe-15Mie.tdb:
 
 Example references (3 of 3; assessments first): 
 
+- [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010) Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-015-0383-5](https://doi.org/10.1007/s11669-015-0383-5) Jyrki Miettinen, Seppo Louhenkilpi, Gueorgui Vassilev, Thermodynamic Description of Ternary Fe-X-P Systems. Part 9: Fe-Al-P, J. Phase Equilib. Diffus. 36, 317-326 (2015).  
 _assessment that models this phase_
 - [doi:10.1016/j.calphad.2007.03.003](https://doi.org/10.1016/j.calphad.2007.03.003) Lijun Zhang, Yong Du, Thermodynamic description of the Al–Fe–Ni system over the whole composition and temperature ranges: Modeling coupled with key experiment, Calphad 31, 529-540 (2007).  
-_assessment that models this phase_
-- [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010) Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009).  
 _assessment that models this phase_
 
 ## AL8FE5_D82 (Al–Fe)
@@ -490,11 +492,12 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in AlFe-21Mur.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in AlFe-23Ila.tdb also describes the disordered state
 - Stability: stable in 7 of 7 calculated diagram(s): 1367.89–2500 K, x(Fe) 0.15389–0.44414
-- Literature: 4 values (4 accepted) from 1 papers
+- Literature: 126 values (122 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-fe:al8fe5-d82)
 
-Names (9): _corpus: _corpus:phase:al-fe:al8fe5-d82  
-_paper: _paper:10.1016/s0364-5916(98)00037-6:Al5Fe4  
+Names (13): _corpus: _corpus:phase:al-fe:al8fe5-d82  
+_paper: _paper:10.1016/j.calphad.2008.07.010:ε, paper:10.1016/j.jallcom.2018.01.316:ε, paper:10.1016/j.jallcom.2022.168361:ε, paper:10.1016/s0364-5916(98)00037-6:Al5Fe4  
+_system_alias: _system_alias:al-fe:epsilon  
 _tdb: _tdb:AlFe-09Sun-no-option-F.tdb:AL8FE5_D82, tdb:AlFe-09Sun.tdb:AL8FE5_D82, tdb:AlFe-17Zhe.tdb:AL8FE5_D82, tdb:AlFe-18Zie.tdb:AL8FE5_D82, tdb:AlFe-19Ran.tdb:AL8FE5_D82, tdb:AlFe-21Mur.tdb:AL8FE5_D82, tdb:AlFe-23Ila.tdb:AL8FE5_D82  
 
 
@@ -549,22 +552,28 @@ _tdb: _tdb:AlFe-09Sun-no-option-F.tdb:AL8FE5_D82, tdb:AlFe-09Sun.tdb:AL8FE5_D82,
 80: CONST AL8FE5_D82 : AL FE : FE : AL FE : AL : !
 ~~~~
 
-Example references (7 of 7; assessments first): 
+Example references (10 of 12; assessments first): 
 
+- [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
+_assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2022.168361](https://doi.org/10.1016/j.jallcom.2022.168361) M. Ilatovskaia, H. Becker, O. Fabrichnaya, A. Leineweber, The η-Al5Fe2 phase in the Al–Fe system: The issue with the sublattice model, Journal of Alloys and Compounds 936, 168361 (2023).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.actamat.2009.02.046](https://doi.org/10.1016/j.actamat.2009.02.046) Bo Sundman, Ikuo Ohnuma, Nathalie Dupin, Ursula R. Kattner, Suzana G. Fries, An assessment of the entire Al–Fe system including D03 ordering, Acta Materialia 57, 2896-2908 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2017.05.003](https://doi.org/10.1016/j.calphad.2017.05.003) W. Zheng, S. He, M. Selleby, Y. He, L. Li, X.-G. Lu, J. Ågren, Thermodynamic assessment of the Al-C-Fe system, Calphad 58 (2017) 34e49, https://doi.org/ 10.1016/j.calphad.2017.05.003. http://www.sciencedirect.com/science/ article/pii/S0364591617300482.  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
+- [doi:10.3139/146.111765](https://doi.org/10.3139/146.111765) M. Rank, P. Franke, H.J. Seifert, Thermodynamic investigations in the Al–Fe system: thermodynamic modeling using CALPHAD, Int. J. Mater. Res. 110 (2019) 406–421, https://doi.org/10.3139/146.111765  
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.calphad.2021.102360](https://doi.org/10.1016/j.calphad.2021.102360) H. Murdoch, A. Giri, D. Field, E. Hernandez-Rivera, M. Guziewski, Calphad, 75, 102360(2021).  
 _assessment that models this phase_
-- [doi:10.1016/j.jallcom.2018.01.316](https://doi.org/10.1016/j.jallcom.2018.01.316) Tilo Zienert, Olga Fabrichnaya, Experimental investigation and thermodynamic assessment of the Al-Fe system, Journal of Alloys and Compounds 743, 795-811 (2018).  
-_assessment that models this phase_
-- [doi:10.1016/j.jallcom.2022.168361](https://doi.org/10.1016/j.jallcom.2022.168361) M. Ilatovskaia, H. Becker, O. Fabrichnaya, A. Leineweber, The η-Al5Fe2 phase in the Al–Fe system: The issue with the sublattice model, Journal of Alloys and Compounds 936, 168361 (2023).  
-_assessment that models this phase_
-- [doi:10.3139/146.111765](https://doi.org/10.3139/146.111765) M. Rank, P. Franke, H.J. Seifert, Thermodynamic investigations in the Al–Fe system: thermodynamic modeling using CALPHAD, Int. J. Mater. Res. 110 (2019) 406–421, https://doi.org/10.3139/146.111765  
-_assessment that models this phase_
-- [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
+- [doi:10.1016/j.calphad.2008.07.010](https://doi.org/10.1016/j.calphad.2008.07.010) Michel H.G. Jacobs, Rainer Schmid-Fetzer, Phase behavior and thermodynamic properties in the system Fe–Al, Calphad 33, 170-178 (2009).  
 _reports values for this phase_
+- [doi:10.1007/s11669-015-0446-7](https://doi.org/10.1007/s11669-015-0446-7) Xiaolin Li, Anke Scherf, Martin Heilmaier, Frank Stein, The Al-Rich Part of the Fe-Al Phase Diagram, J. Phase Equilib. Diffus. 37, 162-173 (2016).  
+_cited as the source of values for this phase_
+- [doi:10.1016/j.jallcom.2016.01.215](https://doi.org/10.1016/j.jallcom.2016.01.215) K. Han, I. Ohnuma, R. Kainuma, Experimental determination of phase equilibria of Al-rich portion in the Al–Fe binary system, Journal of Alloys and Compounds 668, 97-106 (2016).  
+_cited as the source of values for this phase_
+- [doi:10.3139/146.101512](https://doi.org/10.3139/146.101512) Frank Stein, Martin Palm, Re-determination of transition temperatures in the Fe–Al system by differential thermal analysis, International Journal of Materials Research 98, 580-588 (2007).  
+_cited as the source of values for this phase_
 
 ## BCC_4SL (Al–Fe)
 

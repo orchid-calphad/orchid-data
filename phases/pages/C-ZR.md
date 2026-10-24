@@ -15,8 +15,8 @@ Table: Phases of the C–Zr system (6)
 | [DIAMOND_A4](#phase-c-zr-a4-diamond); _phase:c-zr:a4-diamond_ | C (diamond) · A4 · cF8 · Fd-3m (227) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
 | [GRAPHITE_A9](#phase-c-zr-a9-graphite); _phase:c-zr:a9-graphite_ | C (graphite) · A9 · hP4 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–4000 K, x(C) 1–1 | 0 | 1 |
 | [BCC_A2](#phase-c-zr-bcc-a2); _phase:c-zr:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1139.58–2130 K, x(C) 0–0.00528 | 9 | 1 |
-| [FCC_A1](#phase-c-zr-fcc-a1); _phase:c-zr:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5 | 0 | 1 |
-| [HCP_A3](#phase-c-zr-hcp-a3); _phase:c-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1159 K, x(C) 0–0.00735 | 0 | 1 |
+| [FCC_A1](#phase-c-zr-fcc-a1); _phase:c-zr:fcc-a1_ | NaCl · B1 · cF8 · Fm-3m (225) | assigned | stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5 | 35 | 1 |
+| [HCP_A3](#phase-c-zr-hcp-a3); _phase:c-zr:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1159 K, x(C) 0–0.00735 | 8 | 1 |
 | [LIQUID](#phase-c-zr-liquid); _phase:c-zr:liquid_ | liquid | liquid | stable in 1 of 1 calculated diagram(s): 2127.01–4000 K, x(C) 0–0.78212 | 16 | 1 |
 
 ## DIAMOND_A4 (C–Zr)
@@ -107,10 +107,12 @@ _reports values for this phase_
 - Id: `phase:c-zr:fcc-a1`; status `assigned`
 - Structure: NaCl · B1 · cF8 · Fm-3m (225); type `st:b1-nacl-cf8`; interstitial_fcc_a1_compound; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–3693.27 K, x(C) 0.35911–0.5
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 35 values (35 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:fcc-a1)
 
-Names (2): _corpus: _corpus:phase:c-zr:fcc-a1  
+Names (4): _corpus: _corpus:phase:c-zr:fcc-a1  
+_paper: _paper:10.1016/0925-8388(94)01310-e:γ  
+_system_alias: _system_alias:c-zr:gamma  
 _tdb: _tdb:ZrC-95Fer-LB.tdb:FCC_A1  
 
 
@@ -123,20 +125,26 @@ _tdb: _tdb:ZrC-95Fer-LB.tdb:FCC_A1
 26: CONST FCC_A1 : ZR : C% VA : !
 ~~~~
 
-Example references (1 of 1; assessments first): 
+Example references (3 of 3; assessments first): 
 
 - [doi:10.1016/0925-8388(94)01310-E](https://doi.org/10.1016/0925-8388%2894%2901310-E) A. Fernandez Guillermet, J. Alloys Compd., 217, 69-89(1995).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/zaac.19311980122](https://doi.org/10.1002/zaac.19311980122) C. Agte, K. Moers, Methoden zur Reindarstellung hochschmelzender Carbide, Nitride und Boride und Beschreibung einiger ihrer Eigenschaften, Z. Anorg. Allg. Chem. 198, 233-275 (1931).  
+_cited as the source of values for this phase_
+- [doi:10.1021/j100798a019](https://doi.org/10.1021/j100798a019) T. C. Wallace, C. P. Gutierrez, P. L. Stone, THE MOLYBDENUM—ZIRCONIUM—CARBON SYSTEM\<sup>1\</sup>, J. Phys. Chem. 67, 796-801 (1963).  
+_cited as the source of values for this phase_
 
 ## HCP_A3 (C–Zr)
 
 - Id: `phase:c-zr:hcp-a3`; status `assigned`
 - Structure: Mg · A3 · hP2 · P6_3/mmc (194); type `st:a3-mg-hp2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1159 K, x(C) 0–0.00735
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 8 values (8 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:c-zr:hcp-a3)
 
-Names (2): _corpus: _corpus:phase:c-zr:hcp-a3  
+Names (4): _corpus: _corpus:phase:c-zr:hcp-a3  
+_paper: _paper:10.1016/0925-8388(94)01310-e:α  
+_system_alias: _system_alias:c-zr:alpha  
 _tdb: _tdb:ZrC-95Fer-LB.tdb:HCP_A3  
 
 
@@ -152,7 +160,7 @@ _tdb: _tdb:ZrC-95Fer-LB.tdb:HCP_A3
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/0925-8388(94)01310-E](https://doi.org/10.1016/0925-8388%2894%2901310-E) A. Fernandez Guillermet, J. Alloys Compd., 217, 69-89(1995).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## LIQUID (C–Zr)
 

@@ -13,14 +13,14 @@ Table: Phases of the Pd–Zn system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-pd-zn-bcc-a2); _phase:pd-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 2 calculated diagram(s) | 0 | 3 |
-| [B2_BCC](#phase-pd-zn-bcc-b2); _phase:pd-zn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 834.01–1661.96 K, x(Zn) 0.30181–0.63676 | 0 | 1 |
+| [B2_BCC](#phase-pd-zn-bcc-b2); _phase:pd-zn:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 834.01–1661.96 K, x(Zn) 0.30181–0.63676 | 4 | 1 |
 | [FCC_A1](#phase-pd-zn-fcc-a1); _phase:pd-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1834.71 K, x(Zn) 0–0.24892 | 0 | 2 |
 | [HCP_A3](#phase-pd-zn-hcp-a3); _phase:pd-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–2499.83 K, x(Zn) 0.98541–1 | 2 | 2 |
 | [LIQUID](#phase-pd-zn-liquid); _phase:pd-zn:liquid_ | liquid | liquid | stable in 2 of 2 calculated diagram(s): 681.08–2500 K, x(Zn) 0–1 | 7 | 2 |
 | [PD2ZN_C37](#phase-pd-zn-pd2zn-c37); _phase:pd-zn:pd2zn-c37_ | Co2Si · C37 · oP12 · Pnma (62) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–964.49 K, x(Zn) 0.33333–0.33333 | 0 | 2 |
 | [PD2ZN9_D82](#phase-pd-zn-pd2zn9-d82); _phase:pd-zn:pd2zn9-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1158.39 K, x(Zn) 0.765–0.8462 | 9 | 2 |
 | [PDZN_B2](#phase-pd-zn-pdzn-b2); _phase:pd-zn:pdzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 837.82–1653.1 K, x(Zn) 0.29653–0.65716 | 0 | 1 |
-| [PDZN_L2A](#phase-pd-zn-pdzn-l2a); _phase:pd-zn:pdzn-l2a_ | CuTi-delta · L2_a · tP2 · P4/mmm (123) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1500 K, x(Zn) 0.3543–0.61878 | 0 | 2 |
+| [PDZN_L2A](#phase-pd-zn-pdzn-l2a); _phase:pd-zn:pdzn-l2a_ | CuTi-delta · L2_a · tP2 · P4/mmm (123) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1500 K, x(Zn) 0.3543–0.61878 | 10 | 2 |
 | [PDZN10](#phase-pd-zn-pdzn10); _phase:pd-zn:pdzn10_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 560–707.35 K, x(Zn) 0.91–0.91 | 7 | 2 |
 | [PDZN2](#phase-pd-zn-pdzn2); _phase:pd-zn:pdzn2_ | PdZn2 · oC48 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 2 of 2 calculated diagram(s): 300–800 K, x(Zn) 0.66667–0.66667 | 10 | 2 |
 
@@ -73,10 +73,12 @@ _assessment that models this phase_
 - Caveat: PdZn-22Gon.tdb: ordered phase with disordered part A2_BCC (order/disorder model)
 - Caveat: partitioned order/disorder model in PdZn-22Gon.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 834.01–1661.96 K, x(Zn) 0.30181–0.63676
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-zn:bcc-b2)
 
-Names (2): _corpus: _corpus:phase:pd-zn:bcc-b2  
+Names (4): _corpus: _corpus:phase:pd-zn:bcc-b2  
+_paper: _paper:10.1016/j.calphad.2022.102491:β  
+_system_alias: _system_alias:pd-zn:beta  
 _tdb: _tdb:PdZn-22Gon.tdb:B2_BCC  
 
 
@@ -92,7 +94,7 @@ _tdb: _tdb:PdZn-22Gon.tdb:B2_BCC
 Example references (1 of 1; assessments first): 
 
 - [doi:10.1016/j.calphad.2022.102491](https://doi.org/10.1016/j.calphad.2022.102491) Rushi Gong, Shun-Li Shang, Hui Sun, Michael J. Janik, Zi-Kui Liu, Thermodynamic modeling of the Pd–Zn system with uncertainty quantification and its implication to tailor catalysts, Calphad 79, 102491 (2022).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 
 ## FCC_A1 (Pd–Zn)
 
@@ -287,7 +289,8 @@ _assessment that models this phase_
 - Literature: 0 values (0 accepted) from 0 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-zn:pdzn-b2)
 
-Names (2): _corpus: _corpus:phase:pd-zn:pdzn-b2  
+Names (3): _corpus: _corpus:phase:pd-zn:pdzn-b2  
+_system_alias: _system_alias:pd-zn:beta  
 _tdb: _tdb:PdZn-06Viz.tdb:PDZN_B2  
 
 
@@ -310,10 +313,12 @@ _assessment that models this phase_
 - Id: `phase:pd-zn:pdzn-l2a`; status `assigned`
 - Structure: CuTi-delta · L2_a · tP2 · P4/mmm (123); type `st:l2-a-cuti-delta-tp2`; tier A: standard phase name; confidence high
 - Stability: stable in 2 of 2 calculated diagram(s): 300–1500 K, x(Zn) 0.3543–0.61878
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 10 values (9 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:pd-zn:pdzn-l2a)
 
-Names (3): _corpus: _corpus:phase:pd-zn:pdzn-l2a  
+Names (6): _corpus: _corpus:phase:pd-zn:pdzn-l2a  
+_paper: _paper:10.1016/j.calphad.2022.102491:β1, paper:10.1016/j.calphad.2022.102491:β1 phase  
+_system_alias: _system_alias:pd-zn:beta1  
 _tdb: _tdb:PdZn-06Viz.tdb:PDZN_L2A, tdb:PdZn-22Gon.tdb:PDZN_L2A  
 
 
@@ -335,9 +340,9 @@ _tdb: _tdb:PdZn-06Viz.tdb:PDZN_L2A, tdb:PdZn-22Gon.tdb:PDZN_L2A
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1002/adem.200500248](https://doi.org/10.1002/adem.200500248) J. Vizdal, A. Kroupa, J. Popovic, A. Zemanova, The Experimental and Theoretical Study of Phase Equilibria in the Pd–Zn (‐Sn) System, Adv Eng Mater 8, 164-176 (2006).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2022.102491](https://doi.org/10.1016/j.calphad.2022.102491) Rushi Gong, Shun-Li Shang, Hui Sun, Michael J. Janik, Zi-Kui Liu, Thermodynamic modeling of the Pd–Zn system with uncertainty quantification and its implication to tailor catalysts, Calphad 79, 102491 (2022).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1002/adem.200500248](https://doi.org/10.1002/adem.200500248) J. Vizdal, A. Kroupa, J. Popovic, A. Zemanova, The Experimental and Theoretical Study of Phase Equilibria in the Pd–Zn (‐Sn) System, Adv Eng Mater 8, 164-176 (2006).  
 _assessment that models this phase_
 
 ## PDZN10 (Pd–Zn)

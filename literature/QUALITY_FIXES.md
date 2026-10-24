@@ -544,15 +544,15 @@ Before this rule, the corpus ESPEI export assigned every thermochemical value wi
 | count | n |
 |---|---:|
 | espei_certified | 1917 |
-| espei_ready | 11858 |
+| espei_ready | 11877 |
 | espei_ready_calphad_disagrees | 322 |
-| espei_ready_no_prediction | 9619 |
+| espei_ready_no_prediction | 9638 |
 | phase_rule_fail_compound_property_not_fittable | 406 |
 | phase_rule_fail_liquid_impossible_at_T | 3 |
 | phase_rule_fail_phase_label_ambiguous | 79 |
-| phase_rule_fail_phase_label_not_mapped | 564 |
+| phase_rule_fail_phase_label_not_mapped | 545 |
 | phase_rule_fail_phase_not_printed | 265 |
-| phase_rule_pass | 11858 |
+| phase_rule_pass | 11877 |
 
 Values whose `espei_ready` the phase rule turned false:
 
@@ -1109,19 +1109,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-QL67TSGS6J | AL-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-UWBYNJLERZ | AL-CR | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-Z6W4NXL7QJ.80139e | AL-CR | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
-| ORC-4NPK7P5GRQ | AL-FE | CPM | 1440.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-54YDYKMATH | AL-FE | CPM | 1415.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-5TNYKHKWRK | AL-FE | CPM | 1430.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-D5KQJQELKF | AL-FE | CPM | 1405.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-LCHH7KCE3J | AL-FE | CPM | 1455.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-MJD7XBVFTA | AL-FE | CPM | 1410.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-PHSPK3J5L5 | AL-FE | CPM | 1400.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-PISPO7TC7M | AL-FE | CPM | 1445.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-SKKA6YFMAR | AL-FE | CPM | 1425.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-SPVEMYPFHH | AL-FE | CPM | 1395.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-URKGI5XYRG | AL-FE | CPM | 1435.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-V4IGIN4OMQ | AL-FE | CPM | 1420.0 | ε | phase_label_not_mapped | label 'ε' |
-| ORC-XV3NXQANGS | AL-FE | CPM | 1450.0 | ε | phase_label_not_mapped | label 'ε' |
 | ORC-5N5TJPYRTK.a04419 | AL-MG | HM_FORM | 0.0 | Al2Mg-C15 | phase_label_not_mapped | label 'Al2Mg-C15' |
 | ORC-RNUDMKJN4F.a61040 | AL-MG | HM_FORM | 0.0 | Al2Mg-C36 | phase_label_not_mapped | label 'Al2Mg-C36' |
 | ORC-YZTJPJLSUX.2fae14 | AL-MG | HM_FORM | 0.0 | Al2Mg-C14 | phase_label_not_mapped | label 'Al2Mg-C14' |
@@ -1129,8 +1116,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-5SQ6ZVI24R.5bc4e5 | AL-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-M7BUHEGWBV | AL-NI | HM_MIX | 0.0 | γ | phase_label_not_mapped | label 'γ' |
 | ORC-TJ27BEONTE.3fade8 | AL-NI | HM_FORM | 0.0 | B2-β | phase_label_not_mapped | label 'B2-β' |
-| ORC-ZE6LY3IVHZ | AL-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
-| ORC-ZMIZRHWGHR | AL-NI | HM_MIX | 0.0 | γ’ | phase_label_not_mapped | label 'γ’' |
 | ORC-BCJLH5QZP3.d8e17e | AL-NI-Y | HM_FORM | 298.15 | τ7 NiAl2Y | phase_label_not_mapped | label 'τ7 NiAl2Y' |
 | ORC-ERGDTKCCNO.dbe85d | AL-NI-Y | HM_FORM | 298.15 | τ2 Ni3Al9Y | phase_label_not_mapped | label 'τ2 Ni3Al9Y' |
 | ORC-HPNGKBHL7Q.7e48ad | AL-NI-Y | HM_FORM | 298.15 | τ10 Ni6Al2Y3 | phase_label_not_mapped | label 'τ10 Ni6Al2Y3' |
@@ -1571,10 +1556,6 @@ Values whose `espei_ready` the phase rule turned false:
 | ORC-ZLK2AFKPJQ.c4d86a | PD-SN | HM_FORM | 320.0 | PdSn4 | phase_label_not_mapped | label 'PdSn4' |
 | ORC-2Z6HTHMIDZ.1076b3 | PD-ZN | HM_FORM | 0.0 | γ phase | phase_label_not_mapped | label 'γ phase' |
 | ORC-I5ERKJ6ASU.0d9345 | PD-ZN | HM_FORM | 300.0 | γ phase | phase_label_not_mapped | label 'γ phase' |
-| ORC-LQVRUTMRZB.80a30c | PD-ZN | HM_FORM | 1273.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
-| ORC-QCJMEXFBBK.7200da | PD-ZN | HM_FORM | 0.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
-| ORC-XA7QNJ77Y6.469806 | PD-ZN | HM_FORM | 0.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
-| ORC-XVHMK36SNQ.1a8a1b | PD-ZN | HM_FORM | 1273.0 | β1 phase | phase_label_not_mapped | label 'β1 phase' |
 | ORC-AZHIIJFVVN.0f8013 | PU-U | CPM | 773.0 | α | phase_label_not_mapped | label 'α' |
 | ORC-K3HZTEHG2L.f8e0f3 | PU-U | CPM | 673.0 | α | phase_label_not_mapped | label 'α' |
 | ORC-KSXPAH2RSB.4db829 | PU-U | CPM | 840.0 | α | phase_label_not_mapped | label 'α' |
@@ -1888,8 +1869,8 @@ Every value was checked against its table, its paper, the physics of its quantit
 | espei_ready (after the gates, before the ESPEI phase rule and blocking flags; released count in `espei.espei_ready`) | 14205 | 13175 |
 | records with corrections | | 13902 |
 | records with gate failures | | 2779 |
-| page-check ledger entries (tools/literature_visual_checks.json) | | 1534 |
-| page-check keys looked up by the gates (table entries expanded to rows) | | 1575 |
+| page-check ledger entries (tools/literature_visual_checks.json) | | 1549 |
+| page-check keys looked up by the gates (table entries expanded to rows) | | 1590 |
 
 | gate | code | action | n |
 |---|---|---|---:|
@@ -2055,6 +2036,7 @@ Visual checks (rendered PDF pages inspected one by one: every table-level group,
 | page_fix | corrected | 200 |
 | page_flag | confirmed | 93 |
 | per_formula | corrected | 1 |
+| phase_alias | confirmed | 15 |
 | record_T | as_stored | 28 |
 | record_T | corrected | 11 |
 | record_T | misread | 16 |
@@ -2111,62 +2093,127 @@ Gate rules:
 
 `tools/phase_label_check.py` (phase-label-check 2026-10-24 (audit round 2, A2 class 1)). A model phase attached by the corpus mapping is removed when the printed label cannot name it; the printed label is unchanged, the removed model phase, its Pearson symbol / prototype and the reason are kept in `phases[].model_phase_rejected`, and the record gets a `corrections` entry (gate `PL`). Pearson symbols and prototypes that remain come from the mapped model phase, not from the page: `phases[].structure_basis = mapped_model_phase`.
 
-Rules: (a rejected mapping is removed; the model phase, its structure and the reason are kept in `model_phase_rejected`; the printed label is never changed): R1 element-structure model (FCC_A1, BCC_A2, HCP_A3, DIAMOND_A4 ... GRAPHITE_A9, DHCP, A1_FCC ...): kept only when the printed label names a terminal solution or pure element ("(Fe)", "(alphaTi)", "gamma-Fe", "(Cu,Ni)"), names the structure itself ("beta (bcc)", "A2", "fcc"), or is an interstitial compound M X_n (X = C, N, H, O, B) that the target model holds on an interstitial (X, VA) sublattice (SGTE convention, e.g. TiC -> FCC_A1, V2C -> HCP_A3). A bare Greek letter is kept only when it is the conventional name of a polymorph of one of the system's elements with that structure (no other Greek -> structure fallback; Hume-Rothery names such as beta brass are left unmapped) (alpha-Ti hcp, beta-Zr bcc, gamma-Fe fcc, delta-Pu fcc ...; POLYMORPH); a Greek-prefixed compound, a primed / numbered Greek label or any other compound is never mapped to an element structure; an element label whose Greek polymorph contradicts the model (beta-B -> BCC_A2) is rejected. R2 a structure word in the label that contradicts the model (label "bcc", model FCC_A1) rejects the mapping. R3 a label that names a liquid ("L(phi2)", "L + ...") is never mapped to a non-liquid model. R3b a Greek / compound label mapped to the same model as a terminal-solution label of the same row ("(deltaMn)" and "eps" both BCC_A2) is rejected: two printed phases of one equilibrium are not one model phase. R4 a printed mole-fraction composition of the phase must lie inside the model phase's calculated stability range in the system (data/phases stability rows, any assessment) +- 0.1; otherwise the mapping is rejected.
+Rules: (a rejected mapping is removed; the model phase, its structure and the reason are kept in `model_phase_rejected`; the printed label is never changed): R1 element-structure model (FCC_A1, BCC_A2, HCP_A3, DIAMOND_A4 ... GRAPHITE_A9, DHCP, A1_FCC ...): kept only when the printed label names a terminal solution or pure element ("(Fe)", "(alphaTi)", "gamma-Fe", "(Cu,Ni)"), names the structure itself ("beta (bcc)", "A2", "fcc"), or is an interstitial compound M X_n (X = C, N, H, O, B) that the target model holds on an interstitial (X, VA) sublattice (SGTE convention, e.g. TiC -> FCC_A1, V2C -> HCP_A3). A bare Greek letter is kept only when it is the conventional name of a polymorph of one of the system's elements with that structure (no other Greek -> structure fallback; Hume-Rothery names such as beta brass are left unmapped) (alpha-Ti hcp, beta-Zr bcc, gamma-Fe fcc, delta-Pu fcc ...; POLYMORPH); a Greek-prefixed compound, a primed / numbered Greek label or any other compound is never mapped to an element structure; an element label whose Greek polymorph contradicts the model (beta-B -> BCC_A2) is rejected. R2 a structure word in the label that contradicts the model (label "bcc", model FCC_A1) rejects the mapping. R3 a label that names a liquid ("L(phi2)", "L + ...") is never mapped to a non-liquid model. R3b a Greek / compound label mapped to the same model as a terminal-solution label of the same row ("(deltaMn)" and "eps" both BCC_A2) is rejected: two printed phases of one equilibrium are not one model phase. R4 a printed mole-fraction composition of the phase must lie inside the model phase's calculated stability range in the system (data/phases stability rows, any assessment) +- 0.1; otherwise the mapping is rejected. Per-system aliases (tools/phase_aliases.py, tools/phase_aliases.json; 2026-10-24) are applied BEFORE these rules: a printed label that is a conventional name of a phase of the record's binary system (beta brass -> BCC_A2 in Cu-Zn, eps -> Cu3Sn in Cu-Sn, kappa -> HCP_A3 in Cu-Si ...) is mapped to that system's TDB phase when the printed composition / temperature agree with the alias; the phase gets `model_phase_basis: system_alias:<id>` (a changed mapping also a `corrections` entry, rule `system_alias:<id>`) and is not re-checked by the Greek rule. Two printed phases of one row are never put on one model phase by an alias.
 
 | result | phase mentions |
 |---|---:|
-| kept | 75576 |
-| rejected | 3093 |
-| rejected:composition_outside_model_phase_range | 293 |
+| alias_applied | 671 |
+| alias_applied:no_corpus_mapping | 182 |
+| alias_applied:replaced_corpus_mapping | 489 |
+| alias_confirms_corpus_mapping | 607 |
+| alias_not_applied:alias_excluded_in_record_tdb | 10 |
+| alias_not_applied:composition_outside_alias_range | 37 |
+| alias_not_applied:printed_formula_differs_from_alias | 2 |
+| alias_not_applied:same_model_as_another_phase_of_the_row | 29 |
+| alias_not_applied:temperature_outside_alias_range | 5 |
+| kept | 75311 |
+| kept_by_system_alias | 1278 |
+| rejected | 2262 |
+| rejected:composition_outside_model_phase_range | 286 |
 | rejected:element_polymorph_contradicts_model | 412 |
-| rejected:greek_label_not_an_element_polymorph_of_this_structure | 1067 |
-| rejected:greek_or_compound_label_mapped_to_element_structure | 949 |
-| rejected:label_not_a_solution_or_structure_name | 209 |
+| rejected:greek_label_not_an_element_polymorph_of_this_structure | 327 |
+| rejected:greek_or_compound_label_mapped_to_element_structure | 915 |
+| rejected:label_not_a_solution_or_structure_name | 205 |
 | rejected:liquid_label_mapped_to_non_liquid_model | 52 |
-| rejected:same_model_as_another_phase_of_the_row | 66 |
+| rejected:same_model_as_another_phase_of_the_row | 20 |
 | rejected:structure_word_contradicts_model | 45 |
+
+Per-system aliases (`tools/phase_aliases.json`, 64 aliases in 32 systems) applied before the rules: a conventional phase name of the record's binary system is mapped to that system's TDB phase when the printed composition / temperature agree (`model_phase_basis: system_alias:<id>`).
+
+| alias | label | model phase | phase mentions mapped |
+|---|---|---|---:|
+| al-fe:epsilon | ε | AL8FE5_D82 | 122 |
+| fe-ta:epsilon | ε | C14_LAVES | 52 |
+| mn-zn:epsilon | ε | HCP_IM_A3 | 49 |
+| ni-zn:beta | β | NIZN_B2 | 39 |
+| cu-sn:epsilon | ε | CU3SN_L | 35 |
+| ni-zn:beta1 | β1 | NIZN_L10 | 25 |
+| al-mn:epsilon | ε | HCP_A3 | 23 |
+| al-nb:epsilon | ε | AL3NB_D022 | 21 |
+| co-ga:beta | β | COGA_B2 | 21 |
+| c-zr:gamma | γ | FCC_A1 | 19 |
+| cu-si:epsilon | ε | CU15SI4 | 19 |
+| al-ni:gammaprime | γ′ (Ni3Al) | L12_FCC | 18 |
+| al-ta:epsilon | ε | AL3TA_D022 | 17 |
+| cu-in:delta | δ | CU7IN3 | 16 |
+| al-cd:alpha | α(Al) | FCC_A1 | 14 |
+| cu-zn:delta | δ | BCC_A2 | 13 |
+| cu-zn:epsilon | ε | HCP_IM_A3 | 12 |
+| al-ni:gammaprime | γ' | L12_FCC | 10 |
+| cu-sn:beta | β | BCC_A2 | 9 |
+| fe-zn:Gamma1 | Γ1 | FEZN4 | 9 |
+| mo-pd:epsilon | ε | HCP_A3 | 9 |
+| c-zr:alpha | α | HCP_A3 | 8 |
+| cu-sn:alpha | α | FCC_A1 | 8 |
+| ni-zn:beta | beta | NIZN_B2 | 7 |
+| ag-sb:epsilon | ε | AG3SB | 6 |
+| al-fe:epsilon | ε | AL5FE4 | 6 |
+| al-mg:epsilon | ε | ALMG_EPS | 6 |
+| cu-sn:epsilon | ε (Cu3Sn) | CU3SN_L | 6 |
+| cu-zn:epsilon | ϵ | HCP_IM_A3 | 6 |
+| fe-zn:zeta | ζ | FEZN13 | 6 |
+| pd-zn:beta1 | β1 | PDZN_L2A | 6 |
+| ag-al:zeta | ζ | HCP_A3 | 5 |
+| ag-in:alphaprime | α' | AG3IN_L12 | 4 |
+| ag-zn:epsilon | ε | HCP_IM_A3 | 4 |
+| cr-ir:epsilon | ε | HCP_A3 | 4 |
+| fe-zn:delta | δ | FEZN10 | 4 |
+| ni-zn:beta1 | β1 | NIZN_B11 | 4 |
+| pd-zn:beta | β | B2_BCC | 4 |
+| pd-zn:beta1 | β1 phase | PDZN_L2A | 4 |
+| al-ni:gamma | γ | FCC_A1 | 3 |
+| b-ni:beta | β | BETA_RHOMBO_B | 3 |
+| ni-zn:beta1 | beta1 | NIZN_L10 | 3 |
+| al-mg:epsilon | ε-Al30Mg23 | ALMG_EPS | 2 |
+| au-zn:betaprime | β' | AUZN_B2 | 2 |
+| au-zn:betaprime | β’ | AUZN_B2 | 2 |
+| fe-zn:Gamma | Γ | FE3ZN7_D82 | 2 |
+| al-ni:gammaprime | γ’ | L12_FCC | 1 |
+| cu-fe:epsilon | ε | FCC_A1 | 1 |
+| cu-sb:beta | β (Cu3Sb) | BCC_A2 | 1 |
+| cu-si:epsilon | ε-Cu15Si4 | CU15SI4 | 1 |
 
 Most frequent rejected mappings:
 
 | system | label | model phase | reason | n |
 |---|---|---|---|---:|
-| AL-FE | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 128 |
 | C-U | φ1 | GRAPHITE_A9 | greek_or_compound_label_mapped_to_element_structure | 97 |
 | C-U | φ2 | GRAPHITE_A9 | greek_or_compound_label_mapped_to_element_structure | 97 |
-| CU-SI | κ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 41 |
 | GE-NI | βNi3Ge | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 38 |
-| MN-ZN | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 38 |
-| CU-SN | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 36 |
 | NI-SB | (βNi5Sb2) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 34 |
 | C-U | L(φ1) | GRAPHITE_A9 | liquid_label_mapped_to_non_liquid_model | 34 |
-| CU-SI | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 32 |
 | AU-CE | βCeAu | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 31 |
-| CU-FE | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 31 |
-| AG-IN | ζ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 30 |
 | AL-MO | AlMo | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 30 |
-| NI-ZN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 29 |
+| CU-FE | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 30 |
 | AL-TI | ε(h) | BCC_A2 | label_not_a_solution_or_structure_name | 28 |
-| AG-AL | ζ | HCP_A3 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
 | AL-SM | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
-| FE-TA | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 27 |
 | CO-SB | (βCoSb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 26 |
-| FE-TA | ε | BCC_A2 | same_model_as_another_phase_of_the_row | 26 |
 | SB-ZN | β-Zn3Sb2 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 26 |
 | SB-ZN | β-Zn9Sb7 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 23 |
-| AL-CU | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 22 |
 | AL-NB-TI | α2 | DIAMOND_A4 | greek_or_compound_label_mapped_to_element_structure | 22 |
-| AG-IN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 21 |
-| AL-NB | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 21 |
-| AG-AL | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
 | AL-MN | γ | A2_BCC | greek_label_not_an_element_polymorph_of_this_structure | 20 |
 | AL-NB-TI | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
-| CU-ZN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 20 |
 | SB-ZN | β-Zn13Sb10 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 20 |
-| CU-SI | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 19 |
-| AG-IN | α | FCC_A1 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
-| CO-GA | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
-| CU-IN | β | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 18 |
 | FE-SB | β(FeSb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 18 |
-| AL-TA | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 17 |
 | AU-CE | βCe14Au51 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 17 |
 | AL-CU | ε | BCC_A2 | greek_label_not_an_element_polymorph_of_this_structure | 16 |
+| CO-GE | α(Co) | DIAMOND_A4 | element_polymorph_contradicts_model | 16 |
+| AL-NI-W | α | DIAMOND_A4 | greek_label_not_an_element_polymorph_of_this_structure | 16 |
+| PT-TI | βTiPt | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 15 |
+| C-U | L(φ2) | GRAPHITE_A9 | liquid_label_mapped_to_non_liquid_model | 15 |
+| AU-IN | α1 | DHCP | greek_or_compound_label_mapped_to_element_structure | 14 |
+| GE-SC | (αSc) | DIAMOND_A4 | element_polymorph_contradicts_model | 14 |
+| NI-SB | (βNi3Sb) | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 14 |
+| AL-CR | βCr5Al8 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 13 |
+| AU-CE | αCe14Au51 | AUCE_B27 | composition_outside_model_phase_range | 13 |
+| AU-ND | βNdAu | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 13 |
+| CO-GE | ε(Co) | BCC_A2 | element_polymorph_contradicts_model | 13 |
+| CO-TI | β-Ti | HCP_A3 | element_polymorph_contradicts_model | 13 |
+| SN-YB | βYb5Sn3 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 12 |
+| FE-TA | λ, ε, TaFe2 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 12 |
+| NI-SN | Ni3Sn_HT | BCC_A2 | label_not_a_solution_or_structure_name | 12 |
+| AL-NB-TI | α | DIAMOND_A4 | greek_label_not_an_element_polymorph_of_this_structure | 11 |
+| C-CO-W | M2C | HCP_A3 | greek_or_compound_label_mapped_to_element_structure | 11 |
+| CR-GE | βCr5Ge3 | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 11 |
+| IN-MN | β-Mn | BCC_A2 | element_polymorph_contradicts_model | 11 |
+| SB-SN | β-SnSb | BCC_A2 | greek_or_compound_label_mapped_to_element_structure | 11 |

@@ -14,10 +14,10 @@ Table: Phases of the Fe–Zn system (8)
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-fe-zn-bcc-a2); _phase:fe-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1841.7 K, x(Zn) 0–0.46428 | 14 | 5 |
 | [FCC_A1](#phase-fe-zn-fcc-a1); _phase:fe-zn:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 1084.45–1701.07 K, x(Zn) 0–0.40105 | 0 | 5 |
-| [FE3ZN7_D82](#phase-fe-zn-fe3zn7-d82); _phase:fe-zn:fe3zn7-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1056.68 K, x(Zn) 0.66339–0.81554 | 42 | 5 |
-| [FEZN10](#phase-fe-zn-fezn10); _phase:fe-zn:fezn10_ | FeZn10 · hP632 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–945.49 K, x(Zn) 0.85904–0.92268 | 52 | 5 |
-| [FEZN13](#phase-fe-zn-fezn13); _phase:fe-zn:fezn13_ | CoZn13 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–805.07 K, x(Zn) 0.92788–0.94125 | 39 | 5 |
-| [FEZN4](#phase-fe-zn-fezn4); _phase:fe-zn:fezn4_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–824.1 K, x(Zn) 0.74689–0.84076 | 12 | 5 |
+| [FE3ZN7_D82](#phase-fe-zn-fe3zn7-d82); _phase:fe-zn:fe3zn7-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1056.68 K, x(Zn) 0.66339–0.81554 | 44 | 5 |
+| [FEZN10](#phase-fe-zn-fezn10); _phase:fe-zn:fezn10_ | FeZn10 · hP632 · P6_3/mmc (194) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–945.49 K, x(Zn) 0.85904–0.92268 | 56 | 5 |
+| [FEZN13](#phase-fe-zn-fezn13); _phase:fe-zn:fezn13_ | CoZn13 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–805.07 K, x(Zn) 0.92788–0.94125 | 45 | 5 |
+| [FEZN4](#phase-fe-zn-fezn4); _phase:fe-zn:fezn4_ |  | needs_review | stable in 5 of 5 calculated diagram(s): 300–824.1 K, x(Zn) 0.74689–0.84076 | 21 | 5 |
 | [HCP_A3](#phase-fe-zn-hcp-a3); _phase:fe-zn:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–692.98 K, x(Zn) 0.99932–1 | 15 | 5 |
 | [LIQUID](#phase-fe-zn-liquid); _phase:fe-zn:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 300.36–2500 K, x(Zn) 0–1 | 58 | 5 |
 
@@ -156,11 +156,12 @@ _assessment that models this phase_
 - Caveat: partitioned order/disorder model in FeZn-09Xio.tdb also describes the disordered state
 - Caveat: partitioned order/disorder model in FeZn-11Tan.tdb also describes the disordered state
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1056.68 K, x(Zn) 0.66339–0.81554
-- Literature: 42 values (42 accepted) from 3 papers
+- Literature: 44 values (44 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zn:fe3zn7-d82)
 
-Names (9): _corpus: _corpus:phase:fe-zn:fe3zn7-d82  
+Names (10): _corpus: _corpus:phase:fe-zn:fe3zn7-d82  
 _paper: _paper:10.1016/j.calphad.2009.01.002:Γ, paper:10.1016/s0925-8388(01)01273-7:Γ, paper:10.2298/jmmb1101001t:Γ  
+_system_alias: _system_alias:fe-zn:Gamma  
 _tdb: _tdb:FeZn-00Reu-LB.tdb:FE3ZN7_D82, tdb:FeZn-01Su.tdb:FE3ZN7_D82, tdb:FeZn-05Su.tdb:FE3ZN7_D82, tdb:FeZn-09Xio.tdb:FE3ZN7_D82, tdb:FeZn-11Tan.tdb:FE3ZN7_D82  
 
 
@@ -201,7 +202,7 @@ _tdb: _tdb:FeZn-00Reu-LB.tdb:FE3ZN7_D82, tdb:FeZn-01Su.tdb:FE3ZN7_D82, tdb:FeZn-
 47: CONST FE3ZN7_D82 : FE ZN : FE ZN : FE ZN : ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.01.002](https://doi.org/10.1016/j.calphad.2009.01.002) Wei Xiong, Yi Kong, Yong Du, Zi-Kui Liu, Malin Selleby, Wei-Hua Sun, Thermodynamic investigation of the galvanizing systems, I: Refinement of the thermodynamic description for the Fe–Zn system, Calphad 33, 433-440 (2009).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -215,6 +216,8 @@ _assessment that models this phase_
 _assessment that models this phase_
 - [doi:10.1515/ijmr-1980-710303](https://doi.org/10.1515/ijmr-1980-710303) P.J. Gellings, G. Gierman, D. Koster, J. Kuit, Z. Metallkd., 71 (1980) 150.  
 _cited as the source of values for this phase_
+- [doi:10.1006/jssc.2000.8626](https://doi.org/10.1006/jssc.2000.8626) Claude H.E. Belin, Renaud C.H. Belin, Synthesis and Crystal Structure Determinations in the Γ and δ Phase Domains of the Iron–Zinc System: Electronic and Bonding Analysis of Fe13Zn39 and FeZn10, a Subtle Deviation from the Hume–Rothery Standard?, Journal of Solid State Chemistry 151, 85-95 (2000).  
+_cited as the source of values for this phase_
 
 ## FEZN10 (Fe–Zn)
 
@@ -223,11 +226,12 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–945.49 K, x(Zn) 0.85904–0.92268
-- Literature: 52 values (52 accepted) from 4 papers
+- Literature: 56 values (56 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zn:fezn10)
 
-Names (10): _corpus: _corpus:phase:fe-zn:fezn10  
+Names (11): _corpus: _corpus:phase:fe-zn:fezn10  
 _paper: _paper:10.1016/j.calphad.2009.01.002:δ, paper:10.1016/s0925-8388(01)01273-7:δ, paper:10.1361/105497100770339905:δ1, paper:10.2298/jmmb1101001t:δ  
+_system_alias: _system_alias:fe-zn:delta  
 _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN10, tdb:FeZn-01Su.tdb:FEZN10, tdb:FeZn-05Su.tdb:FEZN10, tdb:FeZn-09Xio.tdb:FEZN10, tdb:FeZn-11Tan.tdb:FEZN10  
 
 
@@ -268,7 +272,7 @@ _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN10, tdb:FeZn-01Su.tdb:FEZN10, tdb:FeZn-05Su.tdb
 57: CONST FEZN10 : FE : FE ZN : ZN : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.01.002](https://doi.org/10.1016/j.calphad.2009.01.002) Wei Xiong, Yi Kong, Yong Du, Zi-Kui Liu, Malin Selleby, Wei-Hua Sun, Thermodynamic investigation of the galvanizing systems, I: Refinement of the thermodynamic description for the Fe–Zn system, Calphad 33, 433-440 (2009).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -280,6 +284,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.12.031](https://doi.org/10.1016/j.jallcom.2004.12.031) Xuping Su, Fucheng Yin, Zhi Li, Nai-Yong Tang, Manxiu Zhao, Thermodynamic calculation of the Fe–Zn–Si system, Journal of Alloys and Compounds 396, 156-163 (2005).  
 _assessment that models this phase_
+- [doi:10.1006/jssc.2000.8626](https://doi.org/10.1006/jssc.2000.8626) Claude H.E. Belin, Renaud C.H. Belin, Synthesis and Crystal Structure Determinations in the Γ and δ Phase Domains of the Iron–Zinc System: Electronic and Bonding Analysis of Fe13Zn39 and FeZn10, a Subtle Deviation from the Hume–Rothery Standard?, Journal of Solid State Chemistry 151, 85-95 (2000).  
+_cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1980-710303](https://doi.org/10.1515/ijmr-1980-710303) P.J. Gellings, G. Gierman, D. Koster, J. Kuit, Z. Metallkd., 71 (1980) 150.  
 _cited as the source of values for this phase_
 - [doi:10.1002/srin.198004874](https://doi.org/10.1002/srin.198004874) Peter Reutner, Hans-Jürgen Engeil, Elektrochemische Untersuchungen über die Thermodynamik der intermetallischen Phasen des Systems Esen-Znk, Archiv für das Eisenhüttenwesen 51, 457-462 (1980).  
@@ -294,11 +300,12 @@ _cited as the source of values for this phase_
 - Structure source: B. Hallstedt, The SGTE collection of binary datasets, Calphad 89 (2025) 102833, supplementary crystallographic table (mmc2) [doi:10.1016/j.calphad.2025.102833](https://doi.org/10.1016/j.calphad.2025.102833)
 - Caveat: not certain from the name or DFT alone (no_structure_token, off_stoichiometric_model); structure as stated in the SGTE crystallographic table for this phase name and system
 - Stability: stable in 5 of 5 calculated diagram(s): 300–805.07 K, x(Zn) 0.92788–0.94125
-- Literature: 39 values (39 accepted) from 4 papers
+- Literature: 45 values (45 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zn:fezn13)
 
-Names (10): _corpus: _corpus:phase:fe-zn:fezn13  
+Names (11): _corpus: _corpus:phase:fe-zn:fezn13  
 _paper: _paper:10.1016/j.calphad.2009.01.002:ζ, paper:10.1016/s0925-8388(01)01273-7:ζ, paper:10.1361/105497100770339905:ζ, paper:10.2298/jmmb1101001t:ζ  
+_system_alias: _system_alias:fe-zn:zeta  
 _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN13, tdb:FeZn-01Su.tdb:FEZN13, tdb:FeZn-05Su.tdb:FEZN13, tdb:FeZn-09Xio.tdb:FEZN13, tdb:FeZn-11Tan.tdb:FEZN13  
 
 
@@ -339,7 +346,7 @@ _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN13, tdb:FeZn-01Su.tdb:FEZN13, tdb:FeZn-05Su.tdb
 62: CONST FEZN13 : FE VA : ZN : ZN VA : !
 ~~~~
 
-Example references (8 of 8; assessments first): 
+Example references (9 of 9; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.01.002](https://doi.org/10.1016/j.calphad.2009.01.002) Wei Xiong, Yi Kong, Yong Du, Zi-Kui Liu, Malin Selleby, Wei-Hua Sun, Thermodynamic investigation of the galvanizing systems, I: Refinement of the thermodynamic description for the Fe–Zn system, Calphad 33, 433-440 (2009).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
@@ -351,6 +358,8 @@ _assessment that models this phase; reports values for this phase_
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.12.031](https://doi.org/10.1016/j.jallcom.2004.12.031) Xuping Su, Fucheng Yin, Zhi Li, Nai-Yong Tang, Manxiu Zhao, Thermodynamic calculation of the Fe–Zn–Si system, Journal of Alloys and Compounds 396, 156-163 (2005).  
 _assessment that models this phase_
+- [doi:10.1007/bf02830333](https://doi.org/10.1007/bf02830333) Oswald N. C. Uwakweh, Zhentong Liu, Aszetta Jordan, Bryan Chakoumakos, Stephen Spooner, Philip Maziasz, Neutron diffraction and phase evolution of the mechanically alloyed intermetallic compound ζ-FeZn13, Metall Mater Trans A 31, 2739-2745 (2000).  
+_cited as the source of values for this phase_
 - [doi:10.1002/srin.198004874](https://doi.org/10.1002/srin.198004874) Peter Reutner, Hans-Jürgen Engeil, Elektrochemische Untersuchungen über die Thermodynamik der intermetallischen Phasen des Systems Esen-Znk, Archiv für das Eisenhüttenwesen 51, 457-462 (1980).  
 _cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1980-710303](https://doi.org/10.1515/ijmr-1980-710303) P.J. Gellings, G. Gierman, D. Koster, J. Kuit, Z. Metallkd., 71 (1980) 150.  
@@ -370,11 +379,12 @@ _cited as the source of values for this phase_
 - Candidate (tdb_comment): Fe11Zn40 · cF408 · F-43m — FeZn-09Xio.tdb: 'Prototype Fe11Zn40 (cF408, F-43m), Gamma_1'
 - Candidate (tdb_comment): Fe11Zn40 · cF408 · F-43m — FeZn-11Tan.tdb: 'Prototype Fe11Zn40 (cF408, F-43m), Gamma_1'
 - Stability: stable in 5 of 5 calculated diagram(s): 300–824.1 K, x(Zn) 0.74689–0.84076
-- Literature: 12 values (12 accepted) from 3 papers
+- Literature: 21 values (21 accepted) from 4 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:fe-zn:fezn4)
 
-Names (9): _corpus: _corpus:phase:fe-zn:fezn4  
-_paper: _paper:10.1016/j.calphad.2009.01.002:Γ1, paper:10.1016/s0925-8388(01)01273-7:Γ1, paper:10.2298/jmmb1101001t:Γ1  
+Names (11): _corpus: _corpus:phase:fe-zn:fezn4  
+_paper: _paper:10.1016/j.calphad.2009.01.002:Γ1, paper:10.1016/s0925-8388(01)01273-7:Γ1, paper:10.1361/105497100770339905:Γ1, paper:10.2298/jmmb1101001t:Γ1  
+_system_alias: _system_alias:fe-zn:Gamma1  
 _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN4, tdb:FeZn-01Su.tdb:FEZN4, tdb:FeZn-05Su.tdb:FEZN4, tdb:FeZn-09Xio.tdb:FEZN4, tdb:FeZn-11Tan.tdb:FEZN4  
 
 
@@ -415,18 +425,22 @@ _tdb: _tdb:FeZn-00Reu-LB.tdb:FEZN4, tdb:FeZn-01Su.tdb:FEZN4, tdb:FeZn-05Su.tdb:F
 52: CONST FEZN4 : FE : FE ZN : ZN : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (8 of 8; assessments first): 
 
 - [doi:10.1016/j.calphad.2009.01.002](https://doi.org/10.1016/j.calphad.2009.01.002) Wei Xiong, Yi Kong, Yong Du, Zi-Kui Liu, Malin Selleby, Wei-Hua Sun, Thermodynamic investigation of the galvanizing systems, I: Refinement of the thermodynamic description for the Fe–Zn system, Calphad 33, 433-440 (2009).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
+- [doi:10.1361/105497100770339905](https://doi.org/10.1361/105497100770339905) G. Reumont, P. Perrot, J. M. Fiorani, J. Hertz, Thermodynamic assessment of the Fe-Zn system, JPE 21, 371-378 (2000).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/S0925-8388(01)01273-7](https://doi.org/10.1016/S0925-8388%2801%2901273-7) X. Su, N.-Y. Tang, J.M. Toguri, J. Alloys Compd., 325, 129-36(2001).  
 _assessment that models this phase; cited as the source of values for this phase; reports values for this phase_
 - [doi:10.2298/JMMB1101001T](https://doi.org/10.2298/JMMB1101001T) Y. Tang, X. Yuan, Y. Du, W. Xiong, J. Mining Metall. B, 47, 1-10(2011).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.jallcom.2004.12.031](https://doi.org/10.1016/j.jallcom.2004.12.031) Xuping Su, Fucheng Yin, Zhi Li, Nai-Yong Tang, Manxiu Zhao, Thermodynamic calculation of the Fe–Zn–Si system, Journal of Alloys and Compounds 396, 156-163 (2005).  
 _assessment that models this phase_
-- [doi:10.1361/105497100770339905](https://doi.org/10.1361/105497100770339905) G. Reumont, P. Perrot, J. M. Fiorani, J. Hertz, Thermodynamic assessment of the Fe-Zn system, JPE 21, 371-378 (2000).  
-_assessment that models this phase_
+- [doi:10.1002/srin.198004874](https://doi.org/10.1002/srin.198004874) Peter Reutner, Hans-Jürgen Engeil, Elektrochemische Untersuchungen über die Thermodynamik der intermetallischen Phasen des Systems Esen-Znk, Archiv für das Eisenhüttenwesen 51, 457-462 (1980).  
+_cited as the source of values for this phase_
+- [doi:10.1016/0040-6031(88)87199-5](https://doi.org/10.1016/0040-6031%2888%2987199-5) Stephan Petersen, Philip J. Spencer, Klaus Hack, A thermodynamic evaluation of the iron-zinc system, Thermochimica Acta 129, 77-87 (1988).  
+_cited as the source of values for this phase_
 - [doi:10.1515/ijmr-1980-710303](https://doi.org/10.1515/ijmr-1980-710303) P.J. Gellings, G. Gierman, D. Koster, J. Kuit, Z. Metallkd., 71 (1980) 150.  
 _cited as the source of values for this phase_
 

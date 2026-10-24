@@ -116,8 +116,9 @@ _cited as the source of values for this phase_
 - Literature: 12 values (12 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-ga:cu3ga-d019)
 
-Names (5): _corpus: _corpus:phase:cu-ga:cu3ga-d019  
+Names (6): _corpus: _corpus:phase:cu-ga:cu3ga-d019  
 _paper: _paper:10.1016/j.calphad.2008.03.006:zeta', paper:10.1016/j.jallcom.2014.08.037:CU0778GA0222  
+_system_alias: _system_alias:cu-ga:zetaprime  
 _tdb: _tdb:CuGa-08Li.tdb:CU3GA_D019, tdb:CuGa-15Jen.tdb:CU3GA_D019  
 
 

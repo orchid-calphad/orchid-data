@@ -6,6 +6,7 @@
  ],
  "phases": [
   "AL38TA48",
+  "AL3TA_D022",
   "AL69TA39",
   "LIQUID",
   "SIGMA_D8B"
@@ -14,6 +15,7 @@
   "P": 101325,
   "T": [
    1883.0,
+   1822.0,
    1733.0
   ]
  },
@@ -45,6 +47,35 @@
     ],
     [
      0.376
+    ]
+   ]
+  ],
+  [
+   [
+    "LIQUID",
+    [
+     "TA"
+    ],
+    [
+     null
+    ]
+   ],
+   [
+    "AL69TA39",
+    [
+     "TA"
+    ],
+    [
+     0.359
+    ]
+   ],
+   [
+    "AL3TA_D022",
+    [
+     "TA"
+    ],
+    [
+     0.249
     ]
    ]
   ],
@@ -85,7 +116,8 @@
   "via_assessment",
   "orchid"
  ],
- "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L43EHLAPSG ORC-4C3LNAWLLP",
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-L43EHLAPSG ORC-ZUBACZFP2G ORC-4C3LNAWLLP",
+ "orchid_phase_alias_note": "2 ZPF region(s): vertex phase names from the per-system alias table (tools/phase_aliases.json; record phases with model_phase_basis system_alias:<id>), not the corpus mapping",
  "bibtex": "witusiewicz2010_4304ae",
  "orchid": {
   "status": "Version 1, machine-extracted",
@@ -93,6 +125,12 @@
   "observations": [
    {
     "id": "ORC-L43EHLAPSG",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1016/j.intermet.2009.06.015",
+    "measured_in": "doi:10.1016/j.intermet.2009.06.015"
+   },
+   {
+    "id": "ORC-ZUBACZFP2G",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2009.06.015",
     "measured_in": "doi:10.1016/j.intermet.2009.06.015"
@@ -111,7 +149,7 @@
    "10.1016/j.intermet.2009.06.015"
   ],
   "source_dataset": "db-v2.1/invariants/espei/AlTa-10Wit/zpf-00.json",
-  "values_dropped": 2
+  "values_dropped": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",
@@ -124,6 +162,40 @@
     "budget": {
      "temperature_K": {
       "sigma_printed": 10.0,
+      "sigma_reading": 0.05,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "temperature_sigma_K": 8.0,
+    "temperature_sigma_basis": "printed (coverage not stated, taken as 1 sigma)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": 8.0,
       "sigma_reading": 0.05,
       "sigma_method": 11.0,
       "sigma_composition": null,
@@ -194,6 +266,11 @@
   "values": [
    {
     "id": "ORC-L43EHLAPSG",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   },
+   {
+    "id": "ORC-ZUBACZFP2G",
     "espei_certified": false,
     "calphad_check": "not_available"
    },

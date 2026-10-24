@@ -4,9 +4,9 @@ ESPEI-format datasets built from the ORCHID literature values (Version 1, machin
 
 | folder | datasets | values | systems | content |
 |---|---:|---:|---:|---|
-| experimental | 947 | 2886 | 185 | experimental thermochemical tables and phase-composition (ZPF) tables |
+| experimental | 963 | 2902 | 187 | experimental thermochemical tables and phase-composition (ZPF) tables |
 | model | 486 | 776 | 82 | values the papers calculated with a CALPHAD model, TDB (SHA-256) named where known |
-| invariants | 1535 | 4987 | 465 | ZPF datasets from experimental invariant-reaction tables |
+| invariants | 1568 | 5144 | 470 | ZPF datasets from experimental invariant-reaction tables |
 | dft/literature | 774 | 1859 | 90 | literature DFT formation enthalpies, HM_FORM endmember datasets (`solver`) |
 | dft/mp | 1251 | 1251 | 381 | Materials Project on-hull formation energies, HM_FORM endmember datasets |
 | dft/oqmd | 1251 | 1251 | 381 | OQMD on-hull formation energies, HM_FORM endmember datasets |
@@ -15,9 +15,9 @@ Optional phase constraints (separate folders; never mixed with measured data; se
 
 | folder | datasets | ZPF points | systems | content |
 |---|---:|---:|---:|---|
-| assessed | 636 | 6683 | 471 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
-| derived/invariant-brackets | 1055 | 4693 | 385 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
-| derived/liquid-stability | 418 | 3762 | 302 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
+| assessed | 642 | 6730 | 476 | assessed (handbook) phase-field points, Dataset assessed-phase-assemblages, in the phase names of each TDB that has ZPF datasets here (tag `assessed_phase_diagram`) |
+| derived/invariant-brackets | 1075 | 4758 | 391 | DERIVED: phase sets just above and below each printed invariant (tag `derived_bracket`) |
+| derived/liquid-stability | 421 | 3789 | 305 | DERIVED: single-phase liquid above the highest liquidus where the sources show complete liquid miscibility (tag `derived_liquid_stability`) |
 
 ## Use with ESPEI
 
@@ -179,7 +179,7 @@ ESPEI-native content (`components`, `phases`, `conditions`, `output`, `values`, 
 
 ## Former optional minimum-sigma policy (E6, superseded)
 
-Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1332 datasets, weight lower than before in 1236, higher in 1, unchanged in 95.
+Until 2026-10-23 every experimental thermochemical dataset carried `orchid_weight_floor.suggested_weight` (sigma floor = ESPEI's experimental default, 500 J/mol), which users had to opt into. Since 2026-10-24 the written `weight` follows sigma_effective (method floors) by default. The block is kept, with `superseded`, the former suggestion and `weight_before_2026_10_24`, for comparison: 1347 datasets, weight lower than before in 1250, higher in 1, unchanged in 96.
 
 ## Phase constraints (optional)
 

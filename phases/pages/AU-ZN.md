@@ -19,7 +19,7 @@ Table: Phases of the Au–Zn system (15)
 | [AU4ZN](#phase-au-zn-au4zn); _phase:au-zn:au4zn_ | Cu3Pd · oP320 · Pnnm (58) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–572.77 K, x(Zn) 0.13248–0.18763 | 2 | 1 |
 | [AU4ZN9_D82](#phase-au-zn-au4zn9-d82); _phase:au-zn:au4zn9-d82_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–953.76 K, x(Zn) 0.64654–0.74205 | 10 | 1 |
 | [AU5ZN3](#phase-au-zn-au5zn3); _phase:au-zn:au5zn3_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–578.49 K, x(Zn) 0.375–0.375 | 2 | 1 |
-| [AUZN_B2](#phase-au-zn-auzn-b2); _phase:au-zn:auzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1007.77 K, x(Zn) 0.3688–0.57227 | 15 | 1 |
+| [AUZN_B2](#phase-au-zn-auzn-b2); _phase:au-zn:auzn-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 300–1007.77 K, x(Zn) 0.3688–0.57227 | 19 | 1 |
 | [AUZN3](#phase-au-zn-auzn3); _phase:au-zn:auzn3_ | UH3 · cP32 · Pm-3n (223) | tier B: DFT-supported (unique MP + OQMD match) | stable in 1 of 1 calculated diagram(s): 300–830 K, x(Zn) 0.75–0.75 | 2 | 1 |
 | [AUZN4](#phase-au-zn-auzn4); _phase:au-zn:auzn4_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 307.05–857.88 K, x(Zn) 0.80019–0.84616 | 8 | 1 |
 | [BCC_A2](#phase-au-zn-bcc-a2); _phase:au-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 1 calculated diagram(s) | 0 | 1 |
@@ -201,8 +201,9 @@ _cited as the source of values for this phase_
 - Literature: 10 values (10 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-zn:au4zn9-d82)
 
-Names (3): _corpus: _corpus:phase:au-zn:au4zn9-d82  
+Names (4): _corpus: _corpus:phase:au-zn:au4zn9-d82  
 _paper: _paper:10.1016/s0966-9795(03)00115-8:γ  
+_system_alias: _system_alias:au-zn:gamma  
 _tdb: _tdb:AuZn-03Liu.tdb:AU4ZN9_D82  
 
 
@@ -261,11 +262,12 @@ _cited as the source of values for this phase_
 - Structure: CsCl · B2 · cP2 · Pm-3m (221); type `st:b2-cscl-cp2`; tier A: standard phase name; confidence high
 - Caveat: partitioned order/disorder model in AuZn-03Liu.tdb also describes the disordered state
 - Stability: stable in 1 of 1 calculated diagram(s): 300–1007.77 K, x(Zn) 0.3688–0.57227
-- Literature: 15 values (15 accepted) from 1 papers
+- Literature: 19 values (19 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-zn:auzn-b2)
 
-Names (3): _corpus: _corpus:phase:au-zn:auzn-b2  
-_paper: _paper:10.1016/s0966-9795(03)00115-8:β'  
+Names (5): _corpus: _corpus:phase:au-zn:auzn-b2  
+_paper: _paper:10.1016/s0966-9795(03)00115-8:β', paper:10.1016/s0966-9795(03)00115-8:β’  
+_system_alias: _system_alias:au-zn:betaprime  
 _tdb: _tdb:AuZn-03Liu.tdb:AUZN_B2  
 
 
@@ -446,8 +448,9 @@ _cited as the source of values for this phase_
 - Literature: 6 values (6 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:au-zn:hcp-a3-im)
 
-Names (5): _corpus: _corpus:phase:au-zn:hcp-a3-im, corpus:phase:au-zn:hcp-im-a3  
+Names (6): _corpus: _corpus:phase:au-zn:hcp-a3-im, corpus:phase:au-zn:hcp-im-a3  
 _paper: _paper:10.1016/s0966-9795(03)00115-8:ε, paper:10.1016/s0966-9795(03)00115-8:ϵ  
+_system_alias: _system_alias:au-zn:epsilon  
 _tdb: _tdb:AuZn-03Liu.tdb:HCP_IM_A3  
 
 

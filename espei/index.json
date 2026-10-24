@@ -25,13 +25,13 @@
   }
  },
  "totals": {
-  "datasets": 6244,
-  "values": 13010,
+  "datasets": 6293,
+  "values": 13183,
   "by_folder": {
    "experimental": {
-    "datasets": 947,
-    "values": 2886,
-    "systems": 185
+    "datasets": 963,
+    "values": 2902,
+    "systems": 187
    },
    "model": {
     "datasets": 486,
@@ -39,9 +39,9 @@
     "systems": 82
    },
    "invariants": {
-    "datasets": 1535,
-    "values": 4987,
-    "systems": 465
+    "datasets": 1568,
+    "values": 5144,
+    "systems": 470
    },
    "dft/literature": {
     "datasets": 774,
@@ -74,15 +74,15 @@
    "experimental/ACR_TL": 4,
    "experimental/ACR_YB": 13,
    "experimental/ACR_ZR": 16,
-   "experimental/CPM": 64,
+   "experimental/CPM": 77,
    "experimental/GMR": 26,
-   "experimental/HMR": 125,
+   "experimental/HMR": 127,
    "experimental/HM_FORM": 404,
    "experimental/SM": 12,
    "experimental/SMR": 5,
    "experimental/SM_FORM": 42,
-   "experimental/ZPF": 198,
-   "invariants/ZPF": 1535,
+   "experimental/ZPF": 199,
+   "invariants/ZPF": 1568,
    "model/ACR_CU": 16,
    "model/ACR_MO": 11,
    "model/ACR_ZR": 16,
@@ -95,7 +95,7 @@
    "model/SM_FORM": 43,
    "model/ZPF": 12
   },
-  "systems_total": 691,
+  "systems_total": 695,
   "source_datasets": {
    "general/espei": 1823,
    "general/espei-model": 774,
@@ -115,10 +115,10 @@
    "composition_not_at_compound;phase_rule:phase_label_not_mapped": 1,
    "dft_superseded": 124,
    "duplicate_identical_property_dataset": 54,
-   "duplicate_identical_zpf": 124,
+   "duplicate_identical_zpf": 128,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
-   "espei_evaluation_nonfinite": 62,
+   "espei_evaluation_nonfinite": 61,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
    "evidence_class_mismatch": 6,
@@ -126,10 +126,9 @@
    "gas_without_printed_pressure": 14,
    "gas_without_printed_pressure;model_phase_rejected_by_label_check": 1,
    "gas_without_printed_pressure;zpf_region_inert": 1,
-   "model_phase_rejected_by_label_check": 110,
-   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate": 1,
-   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 3,
-   "model_phase_rejected_by_label_check;zpf_region_inert": 41,
+   "model_phase_rejected_by_label_check": 66,
+   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 2,
+   "model_phase_rejected_by_label_check;zpf_region_inert": 39,
    "not_accepted": 8,
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
@@ -152,7 +151,7 @@
    "phase_rule:phase_label_ambiguous": 65,
    "phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 7,
    "phase_rule:phase_label_ambiguous;reference_state_not_ser": 4,
-   "phase_rule:phase_label_not_mapped": 300,
+   "phase_rule:phase_label_not_mapped": 285,
    "phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb": 1,
    "phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb": 5,
    "phase_rule:phase_not_printed": 13,
@@ -161,8 +160,9 @@
    "pycalphad_evaluation_unstable": 3,
    "reference_phase_not_in_target_tdb": 36,
    "reference_state_not_ser": 57,
+   "system_alias_vertex_ambiguous": 8,
    "value_differs_from_release": 47,
-   "zpf_region_inert": 244
+   "zpf_region_inert": 247
   },
   "datasets_excluded_by_espei": {
    "mole_fractions_sum_above_one": 1,
@@ -175,15 +175,15 @@
    "blocked_by_flag:system_mismatch": 18,
    "composition_differs_from_release": 93,
    "composition_not_at_compound": 43,
-   "duplicate_identical_zpf": 685,
+   "duplicate_identical_zpf": 699,
    "duplicate_of_other_dataset": 1,
-   "duplicate_read_same_row": 1171,
+   "duplicate_read_same_row": 1173,
    "duplicate_value_same_dataset": 25,
-   "espei_evaluation_nonfinite_region": 46,
+   "espei_evaluation_nonfinite_region": 52,
    "evidence_class_mismatch": 13,
    "formation_magnitude_implausible": 2,
    "gas_without_printed_pressure": 27,
-   "model_phase_rejected_by_label_check": 599,
+   "model_phase_rejected_by_label_check": 392,
    "not_accepted": 40,
    "not_espei_ready:literature_gate": 463,
    "phase_not_in_target_tdb": 116,
@@ -191,30 +191,32 @@
    "phase_rule:liquid_impossible_at_T": 3,
    "phase_rule:not_espei_ready": 4,
    "phase_rule:phase_label_ambiguous": 148,
-   "phase_rule:phase_label_not_mapped": 706,
+   "phase_rule:phase_label_not_mapped": 689,
    "phase_rule:phase_not_printed": 269,
    "phase_rule:temperature_implausible": 22,
    "phase_several_models_in_target_tdb": 9,
    "reference_phase_not_in_target_tdb": 60,
    "reference_state_not_ser": 74,
+   "system_alias_phase_not_in_target_tdb": 6,
+   "system_alias_vertex_ambiguous": 18,
    "temperature_differs_from_release": 5,
    "three_phase_region_off_invariant": 9,
    "value_differs_from_release": 101,
-   "zpf_region_inert": 1377
+   "zpf_region_inert": 1385
   },
   "reader_agreement": {
-   "experimental/multi_reader": 2824,
+   "experimental/multi_reader": 2839,
    "experimental/single_reader": 10,
-   "experimental/single_reader_text_layer": 74,
-   "invariants/multi_reader": 5440,
-   "invariants/single_reader_text_layer": 32,
+   "experimental/single_reader_text_layer": 75,
+   "invariants/multi_reader": 5608,
+   "invariants/single_reader_text_layer": 33,
    "model/multi_reader": 760,
    "model/single_reader": 7,
    "model/single_reader_text_layer": 9
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13979
+   "id": 13996
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {
@@ -236,18 +238,18 @@
    "oqmd/not_in_phase_registry": 6805
   },
   "fixes": {
-   "E1_va_added_datasets": 6559,
+   "E1_va_added_datasets": 6608,
    "E1_basis": {
     "metallic_system": 23,
     "system_tdbs": 1,
-    "target_tdb": 6535
+    "target_tdb": 6584
    },
-   "E2_vertices_nulled": 5979,
-   "E2_datasets": 1183,
-   "E2_hyperplanes_added": 166,
-   "E3_regions_removed": 685,
-   "E3_datasets_emptied_and_dropped": 124,
-   "E4_values_removed": 1171,
+   "E2_vertices_nulled": 6061,
+   "E2_datasets": 1190,
+   "E2_hyperplanes_added": 179,
+   "E3_regions_removed": 699,
+   "E3_datasets_emptied_and_dropped": 128,
+   "E4_values_removed": 1173,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -256,71 +258,119 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1332,
-    "weight_lower_than_before": 1236,
+    "datasets": 1347,
+    "weight_lower_than_before": 1250,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 95,
+    "weight_unchanged": 96,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 719,
+     "lower:experimental": 733,
      "lower:model": 517,
-     "same:experimental": 95
+     "same:experimental": 96
     }
    }
   },
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 636,
-     "points": 6683,
-     "systems": 471
+     "datasets": 642,
+     "points": 6730,
+     "systems": 476
     },
     "derived/invariant-brackets": {
-     "datasets": 1055,
-     "points": 4693,
-     "systems": 385
+     "datasets": 1075,
+     "points": 4758,
+     "systems": 391
     },
     "derived/liquid-stability": {
-     "datasets": 418,
-     "points": 3762,
-     "systems": 302
+     "datasets": 421,
+     "points": 3789,
+     "systems": 305
     }
    },
    "brackets": {
     "made": {
-     "above": 2495,
-     "below": 2442
+     "above": 2535,
+     "below": 2476
     },
     "skipped": {
-     "another_invariant_within_offset (above)": 705,
-     "another_invariant_within_offset (below)": 758,
-     "composition_not_between_the_two_phases": 154,
-     "invariant_composition_unknown": 379,
-     "phase_unmapped_or_repeated": 32,
-     "reaction_label_not_matched": 652,
-     "reaction_not_parsed": 130,
-     "reaction_phases_differ_from_dataset": 9,
+     "another_invariant_within_offset (above)": 761,
+     "another_invariant_within_offset (below)": 820,
+     "composition_not_between_the_two_phases": 156,
+     "invariant_composition_unknown": 395,
+     "phase_unmapped_or_repeated": 46,
+     "reaction_label_not_matched": 660,
+     "reaction_not_parsed": 135,
+     "reaction_phases_differ_from_dataset": 14,
      "reaction_type_magnetic": 3,
      "reaction_type_order-disorder": 4,
      "unary_reaction": 50
     }
    },
    "assessed_points_left_out": {
-    "phase_ambiguous_in_tdb": 135,
+    "phase_ambiguous_in_tdb": 137,
     "phase_not_in_tdb": 266,
     "region_inert_no_composition": 91
    },
    "liquid_stability_systems": {
-    "above_a_boiling_point": 81,
+    "above_a_boiling_point": 83,
     "element_not_a_condensed_liquid_at_1_atm": 24,
     "liquid_miscibility_gap_in_sources": 64,
     "no_assessed_diagram": 24,
     "no_single_phase_liquid_field": 9,
-    "written": 302
+    "written": 305
    }
   }
  },
  "datasets": [
+  {
+   "path": "assessed/AG-AL/AgAl-04Wit.AG-AL-p46.json",
+   "folder": "assessed",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 14,
+   "n_values_dropped": 0,
+   "T_min_K": 568.6017171,
+   "T_max_K": 1127.101717,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "A.J. McAlister, Bull. Alloy Phase Diagrams, 8(6), 526-533 (1987) doi:10.1007/bf02879428; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 46",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgAl-04Wit.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-AL-p46.json"
+  },
   {
    "path": "assessed/AG-CA/AgCa-14Bra.AG-CA-p49.json",
    "folder": "assessed",
@@ -990,6 +1040,54 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-HO-p54.json"
   },
   {
+   "path": "assessed/AG-IN/AgIn-18Muz.AG-IN-p54.json",
+   "folder": "assessed",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AGIN2_C16",
+    "BCC_A2",
+    "FCC_A1",
+    "LIQUID",
+    "TETRAGONAL_A6"
+   ],
+   "n_values": 7,
+   "n_values_dropped": 0,
+   "T_min_K": 344.1734742,
+   "T_max_K": 1064.173474,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "M.R. Baren, Phase Diagrams of Indium Alloys and Their Engineering Applications, C.E.T. White and H. Okamoto, ed., ASM International, Materials Park, OH, 15-19 (1992); H. Okamoto, J. Phase Equilibria Diffusion, 27(5), 536 (2006) doi:10.1361/154770306x136539; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 54",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgIn-18Muz.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-IN-p54.json"
+  },
+  {
    "path": "assessed/AG-LA/AgLa-00Li.AG-LA-p55.json",
    "folder": "assessed",
    "system": "AG-LA",
@@ -1375,6 +1473,53 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-PU-p61.json"
+  },
+  {
+   "path": "assessed/AG-SB/AgSb-07Zor.AG-SB-p62.json",
+   "folder": "assessed",
+   "system": "AG-SB",
+   "components": [
+    "AG",
+    "SB",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID",
+    "RHOMBOHEDRAL_A7"
+   ],
+   "n_values": 7,
+   "n_values_dropped": 0,
+   "T_min_K": 681.6017171,
+   "T_max_K": 1071.101717,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 28(4), 403 (2007) doi:10.1007/s11669-007-9113-y; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 62",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgSb-07Zor.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-SB-p62.json"
   },
   {
    "path": "assessed/AG-SC/AgSc-09Liu.AG-SC-p63.json",
@@ -1865,6 +2010,54 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-YB-p68.json"
+  },
+  {
+   "path": "assessed/AG-ZN/AgZn-98Gom.AG-ZN-p68.json",
+   "folder": "assessed",
+   "system": "AG-ZN",
+   "components": [
+    "AG",
+    "ZN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG5ZN8_D82",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 9,
+   "n_values_dropped": 0,
+   "T_min_K": 456.7685806,
+   "T_max_K": 1188.768581,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria, 23(5), 454 (2002) doi:10.1361/105497102770331488; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 68",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgZn-98Gom.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/AG-ZN-p68.json"
   },
   {
    "path": "assessed/AL-AU/AlAu-04Li.AL-AU-p69.json",
@@ -14784,6 +14977,52 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-YB-p370.json"
   },
   {
+   "path": "assessed/CU-ZN/CuZn-11Wan.CU-ZN-p371.json",
+   "folder": "assessed",
+   "system": "CU-ZN",
+   "components": [
+    "CU",
+    "ZN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 7,
+   "n_values_dropped": 0,
+   "T_min_K": 525.1734742,
+   "T_max_K": 1256.173474,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "A.P. Miodownik, Phase Diagrams of Binary Copper Alloys, P.R. Subramanian, D.J. Chakrabarti, and D.E. Laughlin, ed., ASM International, Materials Park, OH, 487-496 (1994); compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 371",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "CuZn-11Wan.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/CU-ZN-p371.json"
+  },
+  {
    "path": "assessed/CU-ZR/CuZr-06Wan.CU-ZR-p371.json",
    "folder": "assessed",
    "system": "CU-ZR",
@@ -26559,6 +26798,53 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/NI-YB-p697.json"
   },
   {
+   "path": "assessed/NI-ZN/NiZn-02Su.NI-ZN-p698.json",
+   "folder": "assessed",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "ZN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID",
+    "NI2ZN11_D82"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 0,
+   "T_min_K": 482.3458556,
+   "T_max_K": 1468.845856,
+   "evidence_class": "assessed_phase_diagram",
+   "reference": "H. Okamoto, J. Phase Equilibria Diffusion, 24(3), 280-281 (2003) doi:10.1361/105497103770330695; compiled in H. Okamoto, Desk Handbook: Phase Diagrams for Binary Alloys, 2nd ed., ASM International, Materials Park, OH (2010), p. 698",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "assessed_phase_diagram",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "NiZn-02Su.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "assessed-phase-assemblages/espei-zpf/NI-ZN-p698.json"
+  },
+  {
    "path": "assessed/NI-ZN/NiZn-03Mie.NI-ZN-p698.json",
    "folder": "assessed",
    "system": "NI-ZN",
@@ -31442,6 +31728,63 @@
    "source_dataset": "assessed-phase-assemblages/espei-zpf/Y-ZN-p851.json"
   },
   {
+   "path": "derived/invariant-brackets/AG-AL/AgAl-04Wit.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_A3"
+   ],
+   "n_values": 4,
+   "n_values_dropped": 0,
+   "T_min_K": 706.0,
+   "T_max_K": 905.0,
+   "evidence_class": "derived",
+   "reference": "reference [69] of doi:10-1016-j-jallcom-2004-04-126 (no printed entry could be read)",
+   "bibtex": "referencend_06f65f",
+   "dois": [
+    "10.1007/bf00810049",
+    "10.1016/j.jallcom.2004.04.126"
+   ],
+   "papers": [
+    "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69",
+    "doi:10.1016/j.jallcom.2004.04.126",
+    "ref:6f4d13ea417231ef",
+    "doi:10.1007/bf00810049"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-AL/AgAl-04Wit.zpf-01.json"
+  },
+  {
    "path": "derived/invariant-brackets/AG-CA/AgCa-14Bra.zpf-00.json",
    "folder": "derived/invariant-brackets",
    "system": "AG-CA",
@@ -32713,6 +33056,276 @@
    "source_dataset": "invariants/AG-HO/AgHo-09Wan.zpf-01.json"
   },
   {
+   "path": "derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 911.0,
+   "T_max_K": 962.0,
+   "evidence_class": "derived",
+   "reference": "Weibke 1935, doi:10.1002/zaac.19352220205",
+   "bibtex": "weibke1935_cd6518",
+   "dois": [
+    "10.1002/zaac.19352220205",
+    "10.1007/s10853-018-1999-8"
+   ],
+   "papers": [
+    "doi:10.1002/zaac.19352220205",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-IN/AgIn-18Muz.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 966.0,
+   "T_max_K": 966.0,
+   "evidence_class": "derived",
+   "reference": "Moser 2001, doi:10.1007/s11664-001-0138-4",
+   "bibtex": "moser2001_1be8bb",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1007/s11664-001-0138-4"
+   ],
+   "papers": [
+    "doi:10.1007/s11664-001-0138-4",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-IN/AgIn-18Muz.zpf-01.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-02.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 912.4,
+   "T_max_K": 966.5,
+   "evidence_class": "derived",
+   "reference": "Bahari 2009, doi:10.1016/j.jallcom.2008.10.030",
+   "bibtex": "bahari2009_79ec76",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1016/j.jallcom.2008.10.030"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2008.10.030",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-IN/AgIn-18Muz.zpf-02.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-03.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 965.0,
+   "T_max_K": 965.0,
+   "evidence_class": "derived",
+   "reference": "Campbell 1970, doi:10.1139/v70-281",
+   "bibtex": "campbell1970_f6aa72",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1139/v70-281"
+   ],
+   "papers": [
+    "doi:10.1139/v70-281",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-IN/AgIn-18Muz.zpf-03.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-IN/AgIn-18Muz.zpf-04.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 911.0,
+   "T_max_K": 962.0,
+   "evidence_class": "derived",
+   "reference": "1951, Hellner E (1951) Das zweistoffsystem silber-indium. Z Metallk 42:17–19",
+   "bibtex": "hellner1951_6359ba",
+   "dois": [
+    "10.1007/s10853-018-1999-8"
+   ],
+   "papers": [
+    "ref:534e1c0c5c5f8a5c",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-IN/AgIn-18Muz.zpf-04.json"
+  },
+  {
    "path": "derived/invariant-brackets/AG-MG/AgMg-15Dai.zpf-00.json",
    "folder": "derived/invariant-brackets",
    "system": "AG-MG",
@@ -33270,6 +33883,62 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/AG-PU/AgPu-20Zho.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-SB/AgSb-07Zor.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-SB",
+   "components": [
+    "AG",
+    "SB",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG3SB",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID",
+    "RHOMBOHEDRAL_A7"
+   ],
+   "n_values": 6,
+   "n_values_dropped": 0,
+   "T_min_K": 736.2,
+   "T_max_K": 997.7,
+   "evidence_class": "derived",
+   "reference": "doi:10.1007/bf02671976",
+   "bibtex": "okamotond_a393f0",
+   "dois": [
+    "10.1007/bf02671976",
+    "10.1007/s11669-007-9085-y"
+   ],
+   "papers": [
+    "doi:10.1007/bf02671976",
+    "doi:10.1007/s11669-007-9085-y"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-SB/AgSb-07Zor.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/AG-SC/AgSc-09Liu.zpf-00.json",
@@ -34194,6 +34863,62 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/AG-YB/AgYb-08Zha.zpf-01.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AG-ZN/AgZn-98Gom.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AG-ZN",
+   "components": [
+    "AG",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG5ZN8_D82",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "HCP_IM_A3",
+    "LIQUID"
+   ],
+   "n_values": 9,
+   "n_values_dropped": 0,
+   "T_min_K": 569.0,
+   "T_max_K": 1005.0,
+   "evidence_class": "derived",
+   "reference": "reference [90Mas] of doi:10-1016-s0364-5916-98-00024-8 (no printed entry could be read)",
+   "bibtex": "referencend_5582c4",
+   "dois": [
+    "10.1016/s0364-5916(98)00024-8"
+   ],
+   "papers": [
+    "unresolved:source:doi:10-1016-s0364-5916-98-00024-8#90mas",
+    "doi:10.1016/s0364-5916(98)00024-8"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AG-ZN/AgZn-98Gom.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/AL-AU/AlAu-04Li.zpf-00.json",
@@ -35931,326 +36656,6 @@
    "source_dataset": "invariants/AL-CU/AlCu-21Kro.zpf-01.json"
   },
   {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-09Jac.zpf-00.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1400.0,
-   "T_max_K": 1444.0,
-   "evidence_class": "derived",
-   "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
-   "bibtex": "jacobs2009_bf4023",
-   "dois": [
-    "10.1016/j.calphad.2008.07.010",
-    "10.3139/146.101512"
-   ],
-   "papers": [
-    "doi:10.1016/j.calphad.2008.07.010",
-    "doi:10.3139/146.101512"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-09Jac.zpf-00.json"
-  },
-  {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-09Jac.zpf-01.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1396.6,
-   "T_max_K": 1440.6,
-   "evidence_class": "derived",
-   "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
-   "bibtex": "jacobs2009_bf4023",
-   "dois": [
-    "10.1016/j.calphad.2008.07.010"
-   ],
-   "papers": [
-    "doi:10.1016/j.calphad.2008.07.010"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-09Jac.zpf-01.json"
-  },
-  {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-18Zie.zpf-00.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1401.15,
-   "T_max_K": 1445.15,
-   "evidence_class": "derived",
-   "reference": "Li 2016, doi:10.1007/s11669-015-0446-7",
-   "bibtex": "li2016_70b26f",
-   "dois": [
-    "10.1007/s11669-015-0446-7",
-    "10.1016/j.jallcom.2018.01.316"
-   ],
-   "papers": [
-    "doi:10.1007/s11669-015-0446-7",
-    "doi:10.1016/j.jallcom.2018.01.316"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-18Zie.zpf-00.json"
-  },
-  {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-18Zie.zpf-01.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1402.35,
-   "T_max_K": 1446.35,
-   "evidence_class": "derived",
-   "reference": "Han 2016, doi:10.1016/j.jallcom.2016.01.215",
-   "bibtex": "han2016_5e99c0",
-   "dois": [
-    "10.1016/j.jallcom.2016.01.215",
-    "10.1016/j.jallcom.2018.01.316"
-   ],
-   "papers": [
-    "doi:10.1016/j.jallcom.2016.01.215",
-    "doi:10.1016/j.jallcom.2018.01.316"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-18Zie.zpf-01.json"
-  },
-  {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-18Zie.zpf-02.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1403.24,
-   "T_max_K": 1447.24,
-   "evidence_class": "derived",
-   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
-   "bibtex": "zienert2018_83e03a",
-   "dois": [
-    "10.1016/j.jallcom.2018.01.316"
-   ],
-   "papers": [
-    "doi:10.1016/j.jallcom.2018.01.316"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-18Zie.zpf-02.json"
-  },
-  {
-   "path": "derived/invariant-brackets/AL-FE/AlFe-18Zie.zpf-03.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 0,
-   "T_min_K": 1400.1,
-   "T_max_K": 1444.1,
-   "evidence_class": "derived",
-   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
-   "bibtex": "zienert2018_83e03a",
-   "dois": [
-    "10.1016/j.jallcom.2018.01.316",
-    "10.3139/146.101512"
-   ],
-   "papers": [
-    "doi:10.1016/j.jallcom.2018.01.316",
-    "doi:10.3139/146.101512"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-FE/AlFe-18Zie.zpf-03.json"
-  },
-  {
    "path": "derived/invariant-brackets/AL-IR/AlIr-06Jia.zpf-01.json",
    "folder": "derived/invariant-brackets",
    "system": "AL-IR",
@@ -36797,7 +37202,7 @@
    "phases": [
     "AL12MG17_A12",
     "AL8MG5_BETA",
-    "FCC_A1",
+    "ALMG_EPS",
     "HCP_A3",
     "LIQUID"
    ],
@@ -36892,6 +37297,110 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/AL-MO/AlMo-09Du.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AL-MO/AlMo-10Cup.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AL-MO",
+   "components": [
+    "AL",
+    "MO",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "ALMO3_A15",
+    "BCC_A2",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 2401.0,
+   "T_max_K": 2445.0,
+   "evidence_class": "derived",
+   "reference": "Cupid 2010, doi:10.1016/j.intermet.2010.03.010",
+   "bibtex": "cupid2010_04047a",
+   "dois": [
+    "10.1016/j.intermet.2010.03.010"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2010.03.010"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AL-MO/AlMo-10Cup.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/AL-NB/AlNb-09Wit.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "AL-NB",
+   "components": [
+    "AL",
+    "NB",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "ALNB3_A15",
+    "BCC_A2",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 2306.0,
+   "T_max_K": 2366.0,
+   "evidence_class": "derived",
+   "reference": "Witusiewicz 2009, doi:10.1016/j.jallcom.2008.05.008",
+   "bibtex": "witusiewicz2009_3d70c5",
+   "dois": [
+    "10.1016/j.jallcom.2008.05.008"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2008.05.008"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/AL-NB/AlNb-09Wit.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/AL-NB/AlNb-15He.zpf-00.json",
@@ -38367,58 +38876,6 @@
    "source_dataset": "invariants/AL-SR/AlSr-03Wan-LB.zpf-06.json"
   },
   {
-   "path": "derived/invariant-brackets/AL-TA/AlTa-10Wit.zpf-00.json",
-   "folder": "derived/invariant-brackets",
-   "system": "AL-TA",
-   "components": [
-    "AL",
-    "TA",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL69TA39",
-    "LIQUID",
-    "SIGMA_D8B"
-   ],
-   "n_values": 3,
-   "n_values_dropped": 0,
-   "T_min_K": 1755.0,
-   "T_max_K": 1905.0,
-   "evidence_class": "derived",
-   "reference": "Witusiewicz 2010, doi:10.1016/j.intermet.2009.06.015",
-   "bibtex": "witusiewicz2010_4304ae",
-   "dois": [
-    "10.1016/j.intermet.2009.06.015"
-   ],
-   "papers": [
-    "doi:10.1016/j.intermet.2009.06.015"
-   ],
-   "observation_ids": [],
-   "reader_agreement": {},
-   "reader_agreement_source": null,
-   "caveats": [],
-   "tags": [
-    "derived",
-    "derived_bracket",
-    "orchid",
-    "via_assessment"
-   ],
-   "weight": null,
-   "sigma_unit": null,
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {},
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "invariants/AL-TA/AlTa-10Wit.zpf-00.json"
-  },
-  {
    "path": "derived/invariant-brackets/AL-TA/AlTa-96Du-LB.zpf-00.json",
    "folder": "derived/invariant-brackets",
    "system": "AL-TA",
@@ -38633,8 +39090,6 @@
    ],
    "output": "ZPF",
    "phases": [
-    "AL3TA2",
-    "AL3TA_D022",
     "AL69TA39",
     "AL7TA5",
     "ALTA",
@@ -38642,9 +39097,9 @@
     "LIQUID",
     "SIGMA_D8B"
    ],
-   "n_values": 8,
+   "n_values": 7,
    "n_values_dropped": 0,
-   "T_min_K": 1350.0,
+   "T_min_K": 1520.0,
    "T_max_K": 2453.0,
    "evidence_class": "derived",
    "reference": "Du 1996, doi:10.1007/bf02665557",
@@ -50003,6 +50458,163 @@
    "source_dataset": "invariants/CO-ER/CoEr-09Wan.zpf-00.json"
   },
   {
+   "path": "derived/invariant-brackets/CO-GA/CoGa-05Su.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA3"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1084.0,
+   "T_max_K": 1084.0,
+   "evidence_class": "derived",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
+   "dois": [
+    "10.1016/j.intermet.2004.08.003"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2004.08.003"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CO-GA/CoGa-05Su.zpf-01.json"
+  },
+  {
+   "path": "derived/invariant-brackets/CO-GA/CoGa-05Su.zpf-02.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA_B2",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1150.0,
+   "T_max_K": 1150.0,
+   "evidence_class": "derived",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004",
+    "10.1016/j.intermet.2004.08.003"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2004.08.003",
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CO-GA/CoGa-05Su.zpf-02.json"
+  },
+  {
+   "path": "derived/invariant-brackets/CO-GA/CoGa-05Su.zpf-03.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1458.0,
+   "T_max_K": 1502.0,
+   "evidence_class": "derived",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004",
+    "10.1016/j.intermet.2004.08.003"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2004.08.003",
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CO-GA/CoGa-05Su.zpf-03.json"
+  },
+  {
    "path": "derived/invariant-brackets/CO-GD/CoGd-95Liu-LB.zpf-01.json",
    "folder": "derived/invariant-brackets",
    "system": "CO-GD",
@@ -53327,16 +53939,18 @@
    ],
    "output": "ZPF",
    "phases": [
+    "BCC_A2",
     "CO2ZN15",
     "CO5ZN21_D83",
     "COZN13",
     "COZN7",
+    "FCC_A1",
     "LIQUID"
    ],
-   "n_values": 6,
+   "n_values": 7,
    "n_values_dropped": 0,
    "T_min_K": 817.0,
-   "T_max_K": 1041.0,
+   "T_max_K": 1220.0,
    "evidence_class": "derived",
    "reference": "Vassilev 2004, doi:10.1361/15477030419522",
    "bibtex": "vassilev2004_11b4a8",
@@ -53432,14 +54046,16 @@
    ],
    "output": "ZPF",
    "phases": [
+    "BCC_A2",
     "COZN13",
     "COZN7",
+    "FCC_A1",
     "LIQUID"
    ],
-   "n_values": 2,
+   "n_values": 5,
    "n_values_dropped": 0,
    "T_min_K": 817.0,
-   "T_max_K": 861.0,
+   "T_max_K": 1220.0,
    "evidence_class": "derived",
    "reference": "Vassilev 2004, doi:10.1361/15477030419522",
    "bibtex": "vassilev2004_11b4a8",
@@ -56679,6 +57295,60 @@
    "source_dataset": "invariants/CU-SB/CuSb-09Gie.zpf-00.json"
   },
   {
+   "path": "derived/invariant-brackets/CU-SI/CuSi-00Yan.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU33SI7",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 0,
+   "T_min_K": 847.15,
+   "T_max_K": 1147.15,
+   "evidence_class": "derived",
+   "reference": "1940, C.S. Smith, Trans. AIME 137 (1940) 313.",
+   "bibtex": "smith1940_1e1b6a",
+   "dois": [
+    "10.1016/s0925-8388(00)00983-x"
+   ],
+   "papers": [
+    "ref:71e6eab5d52c8e74",
+    "doi:10.1016/s0925-8388(00)00983-x"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CU-SI/CuSi-00Yan.zpf-01.json"
+  },
+  {
    "path": "derived/invariant-brackets/CU-SI/CuSi-00Yan.zpf-02.json",
    "folder": "derived/invariant-brackets",
    "system": "CU-SI",
@@ -56689,13 +57359,17 @@
    ],
    "output": "ZPF",
    "phases": [
-    "CU19SI6",
-    "DIAMOND_A4"
+    "CU15SI4",
+    "CU33SI7",
+    "CU56SI11_A13",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
    ],
-   "n_values": 1,
+   "n_values": 6,
    "n_values_dropped": 0,
-   "T_min_K": 1052.15,
-   "T_max_K": 1052.15,
+   "T_min_K": 847.15,
+   "T_max_K": 1147.15,
    "evidence_class": "derived",
    "reference": "1998, T. ¨ Buhler, COST507-Thermochemical Database for Light Metal Alloys, Vol. 2, I. Ansara, A.T. Dinsdale, M.H. Rand (Eds.), European Communities, July 1998, p. 178.",
    "bibtex": "buhler1998_b9cc12",
@@ -56741,12 +57415,18 @@
    ],
    "output": "ZPF",
    "phases": [
+    "CU15SI4",
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "CU3SI_HT",
+    "FCC_A1",
+    "HCP_A3",
     "LIQUID"
    ],
-   "n_values": 1,
+   "n_values": 4,
    "n_values_dropped": 0,
-   "T_min_K": 1117.0,
-   "T_max_K": 1117.0,
+   "T_min_K": 803.0,
+   "T_max_K": 1149.0,
    "evidence_class": "derived",
    "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
    "bibtex": "sufryd2011_3c1030",
@@ -56756,7 +57436,9 @@
    ],
    "papers": [
     "doi:10.1016/j.intermet.2011.05.017",
-    "doi:10.1016/j.jct.2012.07.025"
+    "doi:10.1016/j.jct.2012.07.025",
+    "ref:55d1645cbef0e446",
+    "ref:5acdd2367da2d00a"
    ],
    "observation_ids": [],
    "reader_agreement": {},
@@ -56783,6 +57465,166 @@
    "source_dataset": "invariants/CU-SI/CuSi-13Gie.zpf-00.json"
   },
   {
+   "path": "derived/invariant-brackets/CU-SI/CuSi-13Gie.zpf-02.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU33SI7_A13",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 803.0,
+   "T_max_K": 1148.0,
+   "evidence_class": "derived",
+   "reference": "2013, Xinyan Yan, Y.A. Chang, J. Alloys Compounds 308 (2000) 221. 38 W. Gierlotka, Md. Azizul Haque / J. Chem. Thermodynamics 57 (2013) 32–38",
+   "bibtex": "xinyan2013_b03178",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:5acdd2367da2d00a",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CU-SI/CuSi-13Gie.zpf-02.json"
+  },
+  {
+   "path": "derived/invariant-brackets/CU-SI/CuSi-13Gie.zpf-03.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 0,
+   "T_min_K": 803.0,
+   "T_max_K": 1147.0,
+   "evidence_class": "derived",
+   "reference": "1940, C.S. Smith, Trans. AIME 137 (1940) 313.",
+   "bibtex": "smith1940_1e1b6a",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:71e6eab5d52c8e74",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CU-SI/CuSi-13Gie.zpf-03.json"
+  },
+  {
+   "path": "derived/invariant-brackets/CU-SI/CuSi-13Gie.zpf-04.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU15SI4",
+    "CU33SI7_A13"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 961.0,
+   "T_max_K": 961.0,
+   "evidence_class": "derived",
+   "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
+   "bibtex": "smith1929_ee726e",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:f034243d77309ce7",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CU-SI/CuSi-13Gie.zpf-04.json"
+  },
+  {
    "path": "derived/invariant-brackets/CU-SI/CuSi-24Kro.zpf-00.json",
    "folder": "derived/invariant-brackets",
    "system": "CU-SI",
@@ -56793,14 +57635,12 @@
    ],
    "output": "ZPF",
    "phases": [
-    "CU15SI4_D86",
-    "CU33SI7_A13",
     "CU33SI7_HT"
    ],
-   "n_values": 3,
+   "n_values": 1,
    "n_values_dropped": 0,
-   "T_min_K": 986.15,
-   "T_max_K": 1051.15,
+   "T_min_K": 1030.15,
+   "T_max_K": 1030.15,
    "evidence_class": "derived",
    "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
    "bibtex": "sufryd2011_3c1030",
@@ -56848,12 +57688,15 @@
    "output": "ZPF",
    "phases": [
     "BCC_4SL",
-    "CU10SN3"
+    "CU10SN3",
+    "CU3SN_L",
+    "CU41SN11",
+    "FCC_A1"
    ],
-   "n_values": 1,
+   "n_values": 4,
    "n_values_dropped": 0,
-   "T_min_K": 898.0,
-   "T_max_K": 898.0,
+   "T_min_K": 769.0,
+   "T_max_K": 944.0,
    "evidence_class": "derived",
    "reference": "Li 2013, doi:10.1016/j.intermet.2012.10.010",
    "bibtex": "li2013_50b6d1",
@@ -57932,6 +58775,59 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/CU-YB/CuYb-07Zha.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/CU-ZN/CuZn-11Wan.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "CU-ZN",
+   "components": [
+    "CU",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU5ZN8_D82",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 4,
+   "n_values_dropped": 0,
+   "T_min_K": 1086.0,
+   "T_max_K": 1198.0,
+   "evidence_class": "derived",
+   "reference": "Wang 2011, doi:10.1016/j.calphad.2011.02.001",
+   "bibtex": "wang2011_19db3c",
+   "dois": [
+    "10.1016/j.calphad.2011.02.001"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2011.02.001"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/CU-ZN/CuZn-11Wan.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/CU-ZR/CuZr-06Wan.zpf-00.json",
@@ -76513,13 +77409,15 @@
    ],
    "output": "ZPF",
    "phases": [
+    "HCP_IM_A3",
     "LIQUID",
-    "MNZN9_HT"
+    "MNZN9_HT",
+    "MNZN9_LT"
    ],
-   "n_values": 1,
+   "n_values": 5,
    "n_values_dropped": 0,
-   "T_min_K": 725.15,
-   "T_max_K": 725.15,
+   "T_min_K": 631.15,
+   "T_max_K": 757.15,
    "evidence_class": "derived",
    "reference": "doi:10.1515/ijmr-1967-580108",
    "bibtex": "wachtelnd_769b72",
@@ -76554,6 +77452,113 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/MN-ZN/MnZn-21Li.zpf-03.json"
+  },
+  {
+   "path": "derived/invariant-brackets/MN-ZN/MnZn-21Li.zpf-04.json",
+   "folder": "derived/invariant-brackets",
+   "system": "MN-ZN",
+   "components": [
+    "MN",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_IM_A3"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 781.15,
+   "T_max_K": 825.15,
+   "evidence_class": "derived",
+   "reference": "doi:10.1515/ijmr-1971-621112",
+   "bibtex": "romernd_044113",
+   "dois": [
+    "10.1016/j.jallcom.2020.158484",
+    "10.1515/ijmr-1971-621112"
+   ],
+   "papers": [
+    "doi:10.1515/ijmr-1971-621112",
+    "doi:10.1016/j.jallcom.2020.158484"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/MN-ZN/MnZn-21Li.zpf-04.json"
+  },
+  {
+   "path": "derived/invariant-brackets/MN-ZN/MnZn-21Li.zpf-05.json",
+   "folder": "derived/invariant-brackets",
+   "system": "MN-ZN",
+   "components": [
+    "MN",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_IM_A3"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 805.15,
+   "T_max_K": 849.15,
+   "evidence_class": "derived",
+   "reference": "1949, E.V. Potter, R.W. Huber, Manganese-zinc phase diagram from 0 to 50% Zinc, Trans. ASM 41 (1949) 1001–1022.",
+   "bibtex": "potter1949_5cb13c",
+   "dois": [
+    "10.1016/j.jallcom.2020.158484"
+   ],
+   "papers": [
+    "ref:7003ecd22975e215",
+    "doi:10.1016/j.jallcom.2020.158484"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/MN-ZN/MnZn-21Li.zpf-05.json"
   },
   {
    "path": "derived/invariant-brackets/MN-ZN/MnZn-21Li.zpf-06.json",
@@ -76713,6 +77718,60 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/MO-NI/MoNi-05Zho.zpf-01.json"
+  },
+  {
+   "path": "derived/invariant-brackets/MO-PD/MoPd-00Gho.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "MO-PD",
+   "components": [
+    "MO",
+    "PD",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1951.0,
+   "T_max_K": 1995.0,
+   "evidence_class": "derived",
+   "reference": "Anderson 1964, doi:10.1016/0022-5088(64)90009-8",
+   "bibtex": "anderson1964_4601e8",
+   "dois": [
+    "10.1016/0022-5088(64)90009-8",
+    "10.1361/105497100770340390"
+   ],
+   "papers": [
+    "doi:10.1016/0022-5088(64)90009-8",
+    "doi:10.1361/105497100770340390"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/MO-PD/MoPd-00Gho.zpf-01.json"
   },
   {
    "path": "derived/invariant-brackets/MO-RE/MoRe-08Mao-oldsigma.zpf-00.json",
@@ -82147,6 +83206,261 @@
    "source_dataset": "invariants/NI-W/NiW-86Fer-LB.zpf-02.json"
   },
   {
+   "path": "derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1170.0,
+   "T_max_K": 1170.0,
+   "evidence_class": "derived",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1007/978-3-642-47516-0",
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125",
+    "doi:10.1007/978-3-642-47516-0"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/NI-ZN/NiZn-02Su.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-01.json",
+   "folder": "derived/invariant-brackets",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1286.0,
+   "T_max_K": 1286.0,
+   "evidence_class": "derived",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/NI-ZN/NiZn-02Su.zpf-01.json"
+  },
+  {
+   "path": "derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-02.json",
+   "folder": "derived/invariant-brackets",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1291.0,
+   "T_max_K": 1291.0,
+   "evidence_class": "derived",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/NI-ZN/NiZn-02Su.zpf-02.json"
+  },
+  {
+   "path": "derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-04.json",
+   "folder": "derived/invariant-brackets",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1170.0,
+   "T_max_K": 1170.0,
+   "evidence_class": "derived",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/NI-ZN/NiZn-02Su.zpf-04.json"
+  },
+  {
+   "path": "derived/invariant-brackets/NI-ZN/NiZn-02Su.zpf-05.json",
+   "folder": "derived/invariant-brackets",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "LIQUID",
+    "NI2ZN11_D82",
+    "NIZN_B2"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1123.0,
+   "T_max_K": 1340.0,
+   "evidence_class": "derived",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/NI-ZN/NiZn-02Su.zpf-05.json"
+  },
+  {
    "path": "derived/invariant-brackets/NI-ZN/NiZn-11Xio.zpf-02.json",
    "folder": "derived/invariant-brackets",
    "system": "NI-ZN",
@@ -84000,6 +85314,60 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "invariants/PD-YB/PdYb-20Kar.zpf-00.json"
+  },
+  {
+   "path": "derived/invariant-brackets/PD-ZN/PdZn-22Gon.zpf-00.json",
+   "folder": "derived/invariant-brackets",
+   "system": "PD-ZN",
+   "components": [
+    "PD",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "B2_BCC",
+    "LIQUID",
+    "PD2ZN9_D82",
+    "PDZN2",
+    "PDZN_L2A"
+   ],
+   "n_values": 4,
+   "n_values_dropped": 0,
+   "T_min_K": 781.0,
+   "T_max_K": 1140.0,
+   "evidence_class": "derived",
+   "reference": "Gong 2022, doi:10.1016/j.calphad.2022.102491",
+   "bibtex": "gong2022_c08556",
+   "dois": [
+    "10.1016/j.calphad.2022.102491"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2022.102491"
+   ],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_bracket",
+    "orchid",
+    "via_assessment"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "invariants/PD-ZN/PdZn-22Gon.zpf-00.json"
   },
   {
    "path": "derived/invariant-brackets/PD-ZN/PdZn-22Gon.zpf-01.json",
@@ -89018,6 +90386,51 @@
    "source_dataset": "invariants/ZN-ZR/ZnZr-06Arr-first.zpf-00.json"
   },
   {
+   "path": "derived/liquid-stability/AG-AL/AgAl-04Wit.liquid-stability.json",
+   "folder": "derived/liquid-stability",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID"
+   ],
+   "n_values": 9,
+   "n_values_dropped": 0,
+   "T_min_K": 1284.93,
+   "T_max_K": 1284.93,
+   "evidence_class": "derived",
+   "reference": "derived by ORCHID from the system's sources (see orchid.basis)",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_liquid_stability",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgAl-04Wit.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": null
+  },
+  {
    "path": "derived/liquid-stability/AG-CA/AgCa-14Bra.liquid-stability.json",
    "folder": "derived/liquid-stability",
    "system": "AG-CA",
@@ -89603,6 +91016,51 @@
    "source_dataset": null
   },
   {
+   "path": "derived/liquid-stability/AG-IN/AgIn-18Muz.liquid-stability.json",
+   "folder": "derived/liquid-stability",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID"
+   ],
+   "n_values": 9,
+   "n_values_dropped": 0,
+   "T_min_K": 1284.93,
+   "T_max_K": 1284.93,
+   "evidence_class": "derived",
+   "reference": "derived by ORCHID from the system's sources (see orchid.basis)",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_liquid_stability",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgIn-18Muz.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": null
+  },
+  {
    "path": "derived/liquid-stability/AG-LA/AgLa-00Li.liquid-stability.json",
    "folder": "derived/liquid-stability",
    "system": "AG-LA",
@@ -89822,6 +91280,51 @@
    "sigma_basis_counts": {},
    "dft_calibration_stratum": null,
    "tdb": "AgPr-00Yin.tdb",
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": null
+  },
+  {
+   "path": "derived/liquid-stability/AG-SB/AgSb-07Zor.liquid-stability.json",
+   "folder": "derived/liquid-stability",
+   "system": "AG-SB",
+   "components": [
+    "AG",
+    "SB",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID"
+   ],
+   "n_values": 9,
+   "n_values_dropped": 0,
+   "T_min_K": 1284.93,
+   "T_max_K": 1284.93,
+   "evidence_class": "derived",
+   "reference": "derived by ORCHID from the system's sources (see orchid.basis)",
+   "bibtex": null,
+   "dois": [],
+   "papers": [],
+   "observation_ids": [],
+   "reader_agreement": {},
+   "reader_agreement_source": null,
+   "caveats": [],
+   "tags": [
+    "derived",
+    "derived_liquid_stability",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": null,
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {},
+   "dft_calibration_stratum": null,
+   "tdb": "AgSb-07Zor.tdb",
    "tdb_sha256": null,
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
@@ -282838,6 +284341,64 @@
    "source_dataset": "db-v2.1/general/espei/AlCr-86Sau/hmr-01.json"
   },
   {
+   "path": "experimental/AL-CU/AlCu-21Kro.zpf-00.json",
+   "folder": "experimental",
+   "system": "AL-CU",
+   "components": [
+    "AL",
+    "CU",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1082.65,
+   "T_max_K": 1082.65,
+   "evidence_class": "experimental",
+   "reference": "Ponweiser 2011, doi:10.1016/j.intermet.2011.07.007",
+   "bibtex": "ponweiser2011_07e1e9",
+   "dois": [
+    "10.1007/s10853-020-05423-7",
+    "10.1016/j.intermet.2011.07.007"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2011.07.007",
+    "doi:10.1007/s10853-020-05423-7"
+   ],
+   "observation_ids": [
+    "ORC-GOVPCZZH47"
+   ],
+   "reader_agreement": {
+    "single_reader_text_layer": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "phase_compositions_table",
+    "single_reader_text_layer",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlCu-21Kro/zpf-00.json"
+  },
+  {
    "path": "experimental/AL-FE-NB/mc_ni_v2.034.pycalphad.zpf-03.json",
    "folder": "experimental",
    "system": "AL-FE-NB",
@@ -282933,6 +284494,812 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/general/espei/mc_ni_v2.034.pycalphad/zpf-03.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-00.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1395.0,
+   "T_max_K": 1395.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-SPVEMYPFHH"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-00.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-01.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1400.0,
+   "T_max_K": 1400.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-PHSPK3J5L5"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-01.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-02.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1405.0,
+   "T_max_K": 1405.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-D5KQJQELKF"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-02.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-03.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1410.0,
+   "T_max_K": 1410.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-MJD7XBVFTA"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-03.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-04.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1415.0,
+   "T_max_K": 1415.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-54YDYKMATH"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-04.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-05.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1420.0,
+   "T_max_K": 1420.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-V4IGIN4OMQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-05.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-06.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1425.0,
+   "T_max_K": 1425.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-SKKA6YFMAR"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-06.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-07.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1430.0,
+   "T_max_K": 1430.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-5TNYKHKWRK"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-07.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-08.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1435.0,
+   "T_max_K": 1435.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-URKGI5XYRG"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-08.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-09.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1440.0,
+   "T_max_K": 1440.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-4NPK7P5GRQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-09.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-10.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1445.0,
+   "T_max_K": 1445.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-PISPO7TC7M"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-10.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-11.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1450.0,
+   "T_max_K": 1450.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-XV3NXQANGS"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-11.json"
+  },
+  {
+   "path": "experimental/AL-FE/AlFe-18Zie.cpm-12.json",
+   "folder": "experimental",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "CPM",
+   "phases": [
+    "AL8FE5_D82"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1455.0,
+   "T_max_K": 1455.0,
+   "evidence_class": "experimental",
+   "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
+   "bibtex": "zienert2018_83e03a",
+   "dois": [
+    "10.1016/j.jallcom.2018.01.316"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2018.01.316"
+   ],
+   "observation_ids": [
+    "ORC-LCHH7KCE3J"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "energy_basis_unstated"
+   ],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": 0.333333,
+   "sigma_unit": "J/mol-atom/K",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 0.6,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/AlFe-18Zie/cpm-12.json"
   },
   {
    "path": "experimental/AL-FE/AlFe-23Ila.hmr-00.json",
@@ -327727,6 +330094,123 @@
    "source_dataset": "db-v2.1/general/espei/PdSn-06Viz/hmr-00.json"
   },
   {
+   "path": "experimental/PD-ZN/PdZn-22Gon.hmr-03.json",
+   "folder": "experimental",
+   "system": "PD-ZN",
+   "components": [
+    "PD",
+    "VA",
+    "ZN"
+   ],
+   "output": "HMR",
+   "phases": [
+    "PDZN_L2A"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1273.0,
+   "T_max_K": 1273.0,
+   "evidence_class": "experimental",
+   "reference": "Gong 2022, doi:10.1016/j.calphad.2022.102491",
+   "bibtex": "gong2022_c08556",
+   "dois": [
+    "10.1016/j.calphad.2022.102491"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2022.102491"
+   ],
+   "observation_ids": [
+    "ORC-LQVRUTMRZB.80a30c"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "orchid"
+   ],
+   "weight": 0.05,
+   "sigma_unit": "J/mol-atom",
+   "sigma_min": 10000.0,
+   "sigma_median": 10000.0,
+   "sigma_max": 10000.0,
+   "sigma_effective_median": 10000.0,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 0,
+    "sigma_lowered_vs_before": 0,
+    "printed": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/PdZn-22Gon/hmr-03.json"
+  },
+  {
+   "path": "experimental/PD-ZN/PdZn-22Gon.hmr-04.json",
+   "folder": "experimental",
+   "system": "PD-ZN",
+   "components": [
+    "PD",
+    "VA",
+    "ZN"
+   ],
+   "output": "HMR",
+   "phases": [
+    "PDZN_L2A"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1273.0,
+   "T_max_K": 1273.0,
+   "evidence_class": "experimental",
+   "reference": "Gong 2022, doi:10.1016/j.calphad.2022.102491",
+   "bibtex": "gong2022_c08556",
+   "dois": [
+    "10.1016/j.calphad.2022.102491"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2022.102491"
+   ],
+   "observation_ids": [
+    "ORC-XVHMK36SNQ.1a8a1b"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "thermochemical_table",
+    "no_printed_uncertainty",
+    "orchid"
+   ],
+   "weight": 0.089286,
+   "sigma_unit": "J/mol-atom",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": 5600.0,
+   "sigma_basis_counts": {
+    "sigma_raised_vs_before": 1,
+    "sigma_lowered_vs_before": 0,
+    "not_printed_method_floor": 1,
+    "method_cleaned_below_threshold": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/general/espei/PdZn-22Gon/hmr-04.json"
+  },
+  {
    "path": "experimental/PT-SN/PtSn-21Cui.zpf-00.json",
    "folder": "experimental",
    "system": "PT-SN",
@@ -336899,6 +339383,192 @@
    "source_dataset": "db-v2.1/general/espei/YZn-06Sha/hmr-08.json"
   },
   {
+   "path": "invariants/AG-AL/AgAl-04Wit.zpf-00.json",
+   "folder": "invariants",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 838,
+   "T_max_K": 838,
+   "evidence_class": "experimental",
+   "reference": "Witusiewicz 2004, doi:10.1016/j.jallcom.2004.04.126",
+   "bibtex": "witusiewicz2004_4893db",
+   "dois": [
+    "10.1016/j.jallcom.2004.04.126"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2004.04.126"
+   ],
+   "observation_ids": [
+    "ORC-LSPWJMZAVQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid",
+    "calphad_certified"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgAl-04Wit/zpf-00.json"
+  },
+  {
+   "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+   "folder": "invariants",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 5,
+   "n_values_dropped": 0,
+   "T_min_K": 728,
+   "T_max_K": 1053,
+   "evidence_class": "experimental",
+   "reference": "reference [69] of doi:10-1016-j-jallcom-2004-04-126 (no printed entry could be read)",
+   "bibtex": "referencend_06f65f",
+   "dois": [
+    "10.1007/bf00810049",
+    "10.1016/j.jallcom.2004.04.126"
+   ],
+   "papers": [
+    "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#69",
+    "doi:10.1016/j.jallcom.2004.04.126",
+    "ref:6f4d13ea417231ef",
+    "doi:10.1007/bf00810049"
+   ],
+   "observation_ids": [
+    "ORC-243NHKDVGC",
+    "ORC-QONZXTYQJR",
+    "ORC-AR6QJ2C7M4",
+    "ORC-T5NUSXFWFL",
+    "ORC-GIZCPPFHRG"
+   ],
+   "reader_agreement": {
+    "multi_reader": 5
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid",
+    "calphad_certified"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 5
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgAl-04Wit/zpf-01.json"
+  },
+  {
+   "path": "invariants/AG-AL/AgAl-04Wit.zpf-02.json",
+   "folder": "invariants",
+   "system": "AG-AL",
+   "components": [
+    "AG",
+    "AL",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "HCP_A3"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 875,
+   "T_max_K": 875,
+   "evidence_class": "experimental",
+   "reference": "reference [23] of doi:10-1016-j-jallcom-2004-04-126 (no printed entry could be read)",
+   "bibtex": "referencend_801ec3",
+   "dois": [
+    "10.1016/j.jallcom.2004.04.126"
+   ],
+   "papers": [
+    "unresolved:source:doi:10-1016-j-jallcom-2004-04-126#23",
+    "doi:10.1016/j.jallcom.2004.04.126"
+   ],
+   "observation_ids": [
+    "ORC-7ZH5DXQQ6X"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgAl-04Wit/zpf-02.json"
+  },
+  {
    "path": "invariants/AG-CA/AgCa-14Bra.zpf-00.json",
    "folder": "invariants",
    "system": "AG-CA",
@@ -339362,6 +342032,329 @@
    "source_dataset": "db-v2.1/invariants/espei/AgHo-09Wan/zpf-03.json"
   },
   {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-00.json",
+   "folder": "invariants",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG9IN4_D83",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 2,
+   "T_min_K": 574,
+   "T_max_K": 940,
+   "evidence_class": "experimental",
+   "reference": "Weibke 1935, doi:10.1002/zaac.19352220205",
+   "bibtex": "weibke1935_cd6518",
+   "dois": [
+    "10.1002/zaac.19352220205",
+    "10.1007/s10853-018-1999-8"
+   ],
+   "papers": [
+    "doi:10.1002/zaac.19352220205",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [
+    "ORC-3UZCZHAE6P",
+    "ORC-XQZWANXRUQ",
+    "ORC-IFDLSOLEXC"
+   ],
+   "reader_agreement": {
+    "multi_reader": 4
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "plausibility_fail"
+   ],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 4
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-00.json"
+  },
+  {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-01.json",
+   "folder": "invariants",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 2,
+   "T_min_K": 944,
+   "T_max_K": 944,
+   "evidence_class": "experimental",
+   "reference": "Moser 2001, doi:10.1007/s11664-001-0138-4",
+   "bibtex": "moser2001_1be8bb",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1007/s11664-001-0138-4"
+   ],
+   "papers": [
+    "doi:10.1007/s11664-001-0138-4",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [
+    "ORC-3HOJYZSAD2"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid",
+    "calphad_certified"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-01.json"
+  },
+  {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-02.json",
+   "folder": "invariants",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG9IN4_D83",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 2,
+   "T_min_K": 557.4,
+   "T_max_K": 944.5,
+   "evidence_class": "experimental",
+   "reference": "Bahari 2009, doi:10.1016/j.jallcom.2008.10.030",
+   "bibtex": "bahari2009_79ec76",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1016/j.jallcom.2008.10.030"
+   ],
+   "papers": [
+    "doi:10.1016/j.jallcom.2008.10.030",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [
+    "ORC-5PCN6RG23M",
+    "ORC-JRSIOS6CR5",
+    "ORC-IB6I5BULNQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 3
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "plausibility_fail"
+   ],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 3
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-02.json"
+  },
+  {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-03.json",
+   "folder": "invariants",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG9IN4_D83",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 3,
+   "T_min_K": 570,
+   "T_max_K": 943,
+   "evidence_class": "experimental",
+   "reference": "Campbell 1970, doi:10.1139/v70-281",
+   "bibtex": "campbell1970_f6aa72",
+   "dois": [
+    "10.1007/s10853-018-1999-8",
+    "10.1139/v70-281"
+   ],
+   "papers": [
+    "doi:10.1139/v70-281",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [
+    "ORC-YQI3OS4YPK",
+    "ORC-QR4UVEPKLS"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-03.json"
+  },
+  {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-04.json",
+   "folder": "invariants",
+   "system": "AG-IN",
+   "components": [
+    "AG",
+    "IN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG9IN4_D83",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 2,
+   "T_min_K": 572,
+   "T_max_K": 940,
+   "evidence_class": "experimental",
+   "reference": "1951, Hellner E (1951) Das zweistoffsystem silber-indium. Z Metallk 42:17–19",
+   "bibtex": "hellner1951_6359ba",
+   "dois": [
+    "10.1007/s10853-018-1999-8"
+   ],
+   "papers": [
+    "ref:534e1c0c5c5f8a5c",
+    "doi:10.1007/s10853-018-1999-8"
+   ],
+   "observation_ids": [
+    "ORC-ZSPB6ZALBT",
+    "ORC-ESMQ7TMI5T",
+    "ORC-DYHL4WYVPN"
+   ],
+   "reader_agreement": {
+    "multi_reader": 4
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "plausibility_fail"
+   ],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 4
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-04.json"
+  },
+  {
    "path": "invariants/AG-LA/AgLa-00Li.zpf-00.json",
    "folder": "invariants",
    "system": "AG-LA",
@@ -340092,6 +343085,70 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/AgPu-20Zho/zpf-00.json"
+  },
+  {
+   "path": "invariants/AG-SB/AgSb-07Zor.zpf-00.json",
+   "folder": "invariants",
+   "system": "AG-SB",
+   "components": [
+    "AG",
+    "SB",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG3SB",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID",
+    "RHOMBOHEDRAL_A7"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 0,
+   "T_min_K": 758.2,
+   "T_max_K": 975.7,
+   "evidence_class": "experimental",
+   "reference": "doi:10.1007/bf02671976",
+   "bibtex": "okamotond_a393f0",
+   "dois": [
+    "10.1007/bf02671976",
+    "10.1007/s11669-007-9085-y"
+   ],
+   "papers": [
+    "doi:10.1007/bf02671976",
+    "doi:10.1007/s11669-007-9085-y"
+   ],
+   "observation_ids": [
+    "ORC-6IM7WQUJBI",
+    "ORC-4OOFBCGA7E",
+    "ORC-A6RB3GXHQQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 3
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 3
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgSb-07Zor/zpf-00.json"
   },
   {
    "path": "invariants/AG-SC/AgSc-09Liu.zpf-00.json",
@@ -342081,6 +345138,77 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/AgYb-08Zha/zpf-01.json"
+  },
+  {
+   "path": "invariants/AG-ZN/AgZn-98Gom.zpf-00.json",
+   "folder": "invariants",
+   "system": "AG-ZN",
+   "components": [
+    "AG",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AG5ZN8_D82",
+    "AGZN_BB",
+    "BCC_A2",
+    "FCC_A1",
+    "HCP_A3",
+    "HCP_IM_A3",
+    "LIQUID"
+   ],
+   "n_values": 6,
+   "n_values_dropped": 0,
+   "T_min_K": 531,
+   "T_max_K": 983,
+   "evidence_class": "experimental",
+   "reference": "reference [90Mas] of doi:10-1016-s0364-5916-98-00024-8 (no printed entry could be read)",
+   "bibtex": "referencend_5582c4",
+   "dois": [
+    "10.1016/s0364-5916(98)00024-8"
+   ],
+   "papers": [
+    "unresolved:source:doi:10-1016-s0364-5916-98-00024-8#90mas",
+    "doi:10.1016/s0364-5916(98)00024-8"
+   ],
+   "observation_ids": [
+    "ORC-2W6UWTOOHT",
+    "ORC-NXFKNHSONY",
+    "ORC-JQQZQIRHFY",
+    "ORC-SCHBZFPOPU",
+    "ORC-MK2OOW2RTI",
+    "ORC-GBUV6RPBAV"
+   ],
+   "reader_agreement": {
+    "multi_reader": 6
+   },
+   "reader_agreement_source": "release",
+   "caveats": [
+    "plausibility_fail"
+   ],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid_caveat",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 6
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AgZn-98Gom/zpf-00.json"
   },
   {
    "path": "invariants/AL-AU/AlAu-04Li.zpf-00.json",
@@ -344886,12 +348014,14 @@
    "output": "ZPF",
    "phases": [
     "AL13FE4",
+    "AL2FE",
     "AL5FE2",
+    "AL5FE4",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
-   "T_min_K": 1422.0,
+   "n_values": 2,
+   "n_values_dropped": 2,
+   "T_min_K": 1419.2,
    "T_max_K": 1422.0,
    "evidence_class": "experimental",
    "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
@@ -344905,67 +348035,8 @@
     "doi:10.3139/146.101512"
    ],
    "observation_ids": [
-    "ORC-BGQANZE4RK"
-   ],
-   "reader_agreement": {
-    "multi_reader": 1
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 1
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/AlFe-09Jac/zpf-00.json"
-  },
-  {
-   "path": "invariants/AL-FE/AlFe-09Jac.zpf-01.json",
-   "folder": "invariants",
-   "system": "AL-FE",
-   "components": [
-    "AL",
-    "FE",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL13FE4",
-    "AL5FE2",
-    "FCC_A1",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 5,
-   "T_min_K": 925.2,
-   "T_max_K": 1418.6,
-   "evidence_class": "experimental",
-   "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
-   "bibtex": "jacobs2009_bf4023",
-   "dois": [
-    "10.1016/j.calphad.2008.07.010"
-   ],
-   "papers": [
-    "doi:10.1016/j.calphad.2008.07.010"
-   ],
-   "observation_ids": [
-    "ORC-J2SVQZ7AXV",
-    "ORC-R7OHUAERMY"
+    "ORC-BGQANZE4RK",
+    "ORC-LBVAPUB4XS"
    ],
    "reader_agreement": {
     "multi_reader": 2
@@ -344992,6 +348063,72 @@
    "tdb_sha256": null,
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AlFe-09Jac/zpf-00.json"
+  },
+  {
+   "path": "invariants/AL-FE/AlFe-09Jac.zpf-01.json",
+   "folder": "invariants",
+   "system": "AL-FE",
+   "components": [
+    "AL",
+    "FE",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AL13FE4",
+    "AL2FE",
+    "AL5FE2",
+    "AL5FE4",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 4,
+   "n_values_dropped": 3,
+   "T_min_K": 925.2,
+   "T_max_K": 1418.6,
+   "evidence_class": "experimental",
+   "reference": "Jacobs 2009, doi:10.1016/j.calphad.2008.07.010",
+   "bibtex": "jacobs2009_bf4023",
+   "dois": [
+    "10.1016/j.calphad.2008.07.010"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2008.07.010"
+   ],
+   "observation_ids": [
+    "ORC-J2SVQZ7AXV",
+    "ORC-R7OHUAERMY",
+    "ORC-6Y5JJB7A7A",
+    "ORC-YIADGUXWWB"
+   ],
+   "reader_agreement": {
+    "multi_reader": 3,
+    "single_reader_text_layer": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "single_reader_text_layer",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 4
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/AlFe-09Jac/zpf-01.json"
   },
   {
@@ -345006,29 +348143,37 @@
    "output": "ZPF",
    "phases": [
     "AL13FE4",
+    "AL2FE",
     "AL5FE2",
+    "AL8FE5_D82",
+    "B2_BCC",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
-   "T_min_K": 1423.15,
-   "T_max_K": 1423.15,
+   "n_values": 4,
+   "n_values_dropped": 0,
+   "T_min_K": 1368.15,
+   "T_max_K": 1428.65,
    "evidence_class": "experimental",
    "reference": "Li 2016, doi:10.1007/s11669-015-0446-7",
    "bibtex": "li2016_70b26f",
    "dois": [
     "10.1007/s11669-015-0446-7",
-    "10.1016/j.jallcom.2018.01.316"
+    "10.1016/j.jallcom.2018.01.316",
+    "10.3139/146.101512"
    ],
    "papers": [
     "doi:10.1007/s11669-015-0446-7",
-    "doi:10.1016/j.jallcom.2018.01.316"
+    "doi:10.1016/j.jallcom.2018.01.316",
+    "doi:10.3139/146.101512"
    ],
    "observation_ids": [
+    "ORC-ZYEQGTY2CI",
+    "ORC-BTG53X34WY",
+    "ORC-DAJEBNC3UI",
     "ORC-EAOUAEHTIX"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -345045,7 +348190,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -345066,13 +348211,16 @@
    "output": "ZPF",
    "phases": [
     "AL13FE4",
+    "AL2FE",
     "AL5FE2",
+    "AL8FE5_D82",
+    "B2_BCC",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
-   "T_min_K": 1424.35,
-   "T_max_K": 1424.35,
+   "n_values": 4,
+   "n_values_dropped": 0,
+   "T_min_K": 1368.35,
+   "T_max_K": 1430.25,
    "evidence_class": "experimental",
    "reference": "Han 2016, doi:10.1016/j.jallcom.2016.01.215",
    "bibtex": "han2016_5e99c0",
@@ -345085,10 +348233,13 @@
     "doi:10.1016/j.jallcom.2018.01.316"
    ],
    "observation_ids": [
+    "ORC-EDYC5P7L2M",
+    "ORC-BRZHVZYHPG",
+    "ORC-F2ILF4C3JZ",
     "ORC-JEO3ZI5JDZ"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -345105,7 +348256,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -345128,12 +348279,13 @@
     "AL13FE4",
     "AL2FE",
     "AL5FE2",
+    "AL8FE5_D82",
     "B2_BCC",
     "LIQUID"
    ],
-   "n_values": 8,
-   "n_values_dropped": 29,
-   "T_min_K": 1421,
+   "n_values": 35,
+   "n_values_dropped": 2,
+   "T_min_K": 1369,
    "T_max_K": 1551,
    "evidence_class": "experimental",
    "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
@@ -345145,17 +348297,44 @@
     "doi:10.1016/j.jallcom.2018.01.316"
    ],
    "observation_ids": [
+    "ORC-IDLO5VUDYU",
+    "ORC-YJCJTR73Y5",
     "ORC-26LB6G5OUX",
     "ORC-O7RHXX4ZPR",
+    "ORC-NTKKPE5VQV.87a764",
+    "ORC-F6KICL5QH2",
+    "ORC-JJRDGRSQ5I",
+    "ORC-CCPHOTC7MM.a72dd4",
+    "ORC-JCGZLDT4ZA",
+    "ORC-ZHICAY6FW5",
+    "ORC-GZED5IT7NE",
+    "ORC-GWNM6KQSA3",
+    "ORC-A2HP3LC5AY",
+    "ORC-KDIJ77FNAY",
+    "ORC-6KSIWA2HES.a8c0fc",
+    "ORC-L5BK3Y24OY",
+    "ORC-6KSIWA2HES.0af83a",
+    "ORC-6KSIWA2HES.4c624a",
     "ORC-PZGLORLJOB",
     "ORC-NR6UYP3UWH",
     "ORC-435P4ZZA3N.0f918c",
     "ORC-435P4ZZA3N.f0673f",
     "ORC-435P4ZZA3N.89741b",
-    "ORC-HYYN3KVPUN"
+    "ORC-435P4ZZA3N.2a15e1",
+    "ORC-BJXRXMGLDB",
+    "ORC-RFG5BAOLGN.15774c",
+    "ORC-RFG5BAOLGN.69fec2",
+    "ORC-TS4EOOIEUV",
+    "ORC-N4JJ2EQ7XZ",
+    "ORC-HYYN3KVPUN",
+    "ORC-SYVQTLD7MQ",
+    "ORC-WPBJS6IV2Z.bc1b66",
+    "ORC-WPBJS6IV2Z.25861b",
+    "ORC-ERSBFERVVO",
+    "ORC-WPBJS6IV2Z.bda220"
    ],
    "reader_agreement": {
-    "multi_reader": 8
+    "multi_reader": 36
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -345172,7 +348351,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 8
+    "zpf": 36
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -345193,13 +348372,15 @@
    "output": "ZPF",
    "phases": [
     "AL13FE4",
+    "AL2FE",
     "AL5FE2",
+    "AL8FE5_D82",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
-   "T_min_K": 1422.1,
-   "T_max_K": 1422.1,
+   "n_values": 3,
+   "n_values_dropped": 1,
+   "T_min_K": 1419.1,
+   "T_max_K": 1428.1,
    "evidence_class": "experimental",
    "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
    "bibtex": "zienert2018_83e03a",
@@ -345212,10 +348393,12 @@
     "doi:10.3139/146.101512"
    ],
    "observation_ids": [
+    "ORC-NYYU546GBE",
+    "ORC-IJECNXYJQI",
     "ORC-5MOTCQEP7U"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -345232,7 +348415,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -345253,13 +348436,17 @@
    "output": "ZPF",
    "phases": [
     "AL13FE4",
+    "AL2FE",
+    "AL5FE2",
+    "AL8FE5_D82",
+    "B2_BCC",
     "FCC_A1",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
+   "n_values": 4,
+   "n_values_dropped": 0,
    "T_min_K": 925.2,
-   "T_max_K": 925.2,
+   "T_max_K": 1426.6,
    "evidence_class": "experimental",
    "reference": "Zienert 2018, doi:10.1016/j.jallcom.2018.01.316",
    "bibtex": "zienert2018_83e03a",
@@ -345270,10 +348457,13 @@
     "doi:10.1016/j.jallcom.2018.01.316"
    ],
    "observation_ids": [
+    "ORC-SHE652PMC4",
+    "ORC-GKQOAM6LNI",
+    "ORC-YMEX665PZW",
     "ORC-PTKUZCU75C"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -345290,7 +348480,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -346123,13 +349313,14 @@
    "phases": [
     "AL12MG17_A12",
     "AL8MG5_BETA",
+    "ALMG_EPS",
     "ALMG_ZETA",
     "FCC_A1",
     "HCP_A3",
     "LIQUID"
    ],
-   "n_values": 4,
-   "n_values_dropped": 2,
+   "n_values": 6,
+   "n_values_dropped": 0,
    "T_min_K": 711.15,
    "T_max_K": 735.15,
    "evidence_class": "experimental",
@@ -346144,12 +349335,14 @@
    ],
    "observation_ids": [
     "ORC-TH6YXROASY",
+    "ORC-HGDN54MVOU",
+    "ORC-KU52HGDGED",
     "ORC-SUUEF56DWR",
     "ORC-X3IZSKGHCU",
     "ORC-2SGGJWKKHL"
    ],
    "reader_agreement": {
-    "multi_reader": 4
+    "multi_reader": 6
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -346166,7 +349359,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 4
+    "zpf": 6
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -346310,6 +349503,64 @@
    "source_dataset": "db-v2.1/invariants/espei/AlMo-09Du/zpf-00.json"
   },
   {
+   "path": "invariants/AL-MO/AlMo-10Cup.zpf-00.json",
+   "folder": "invariants",
+   "system": "AL-MO",
+   "components": [
+    "AL",
+    "MO",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "ALMO3_A15",
+    "BCC_A2",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 2423.0,
+   "T_max_K": 2423.0,
+   "evidence_class": "experimental",
+   "reference": "Cupid 2010, doi:10.1016/j.intermet.2010.03.010",
+   "bibtex": "cupid2010_04047a",
+   "dois": [
+    "10.1016/j.intermet.2010.03.010"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2010.03.010"
+   ],
+   "observation_ids": [
+    "ORC-YFFFSQ42EQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AlMo-10Cup/zpf-00.json"
+  },
+  {
    "path": "invariants/AL-MO/AlMo-10Cup.zpf-01.json",
    "folder": "invariants",
    "system": "AL-MO",
@@ -346436,13 +349687,14 @@
    "output": "ZPF",
    "phases": [
     "ALNB3_A15",
+    "BCC_A2",
     "LIQUID",
     "SIGMA_D8B"
    ],
-   "n_values": 1,
-   "n_values_dropped": 1,
+   "n_values": 2,
+   "n_values_dropped": 0,
    "T_min_K": 2208.0,
-   "T_max_K": 2208.0,
+   "T_max_K": 2336.0,
    "evidence_class": "experimental",
    "reference": "Witusiewicz 2009, doi:10.1016/j.jallcom.2008.05.008",
    "bibtex": "witusiewicz2009_3d70c5",
@@ -346453,10 +349705,11 @@
     "doi:10.1016/j.jallcom.2008.05.008"
    ],
    "observation_ids": [
+    "ORC-OVKGPZRXI2",
     "ORC-547LAHHPW7"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 2
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -346473,7 +349726,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 2
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -349236,12 +352489,13 @@
    "output": "ZPF",
    "phases": [
     "AL38TA48",
+    "AL3TA_D022",
     "AL69TA39",
     "LIQUID",
     "SIGMA_D8B"
    ],
-   "n_values": 2,
-   "n_values_dropped": 2,
+   "n_values": 3,
+   "n_values_dropped": 1,
    "T_min_K": 1733.0,
    "T_max_K": 1883.0,
    "evidence_class": "experimental",
@@ -349255,10 +352509,11 @@
    ],
    "observation_ids": [
     "ORC-L43EHLAPSG",
+    "ORC-ZUBACZFP2G",
     "ORC-4C3LNAWLLP"
    ],
    "reader_agreement": {
-    "multi_reader": 2
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -349275,7 +352530,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 2
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -349283,6 +352538,66 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/AlTa-10Wit/zpf-00.json"
+  },
+  {
+   "path": "invariants/AL-TA/AlTa-10Wit.zpf-02.json",
+   "folder": "invariants",
+   "system": "AL-TA",
+   "components": [
+    "AL",
+    "TA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "AL3TA_D022",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 941.0,
+   "T_max_K": 941.0,
+   "evidence_class": "experimental",
+   "reference": "Witusiewicz 2010, doi:10.1016/j.intermet.2009.06.015",
+   "bibtex": "witusiewicz2010_4304ae",
+   "dois": [
+    "10.1007/bf02665557",
+    "10.1016/j.intermet.2009.06.015"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2009.06.015",
+    "doi:10.1007/bf02665557"
+   ],
+   "observation_ids": [
+    "ORC-ROOOKSGIAB"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/AlTa-10Wit/zpf-02.json"
   },
   {
    "path": "invariants/AL-TA/AlTa-96Du-LB.zpf-00.json",
@@ -349587,64 +352902,6 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/AlTa-96Du-LB/zpf-04.json"
-  },
-  {
-   "path": "invariants/AL-TA/AlTa-96Du-LB.zpf-05.json",
-   "folder": "invariants",
-   "system": "AL-TA",
-   "components": [
-    "AL",
-    "TA",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "AL3TA_D022",
-    "FCC_A1",
-    "LIQUID"
-   ],
-   "n_values": 1,
-   "n_values_dropped": 0,
-   "T_min_K": 941.0,
-   "T_max_K": 941.0,
-   "evidence_class": "experimental",
-   "reference": "Du 1996, doi:10.1007/bf02665557",
-   "bibtex": "du1996_d7bebe",
-   "dois": [
-    "10.1007/bf02665557"
-   ],
-   "papers": [
-    "doi:10.1007/bf02665557"
-   ],
-   "observation_ids": [
-    "ORC-Y2YJSO5TRY"
-   ],
-   "reader_agreement": {
-    "multi_reader": 1
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 1
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/AlTa-96Du-LB/zpf-05.json"
   },
   {
    "path": "invariants/AL-TE/AlTe-19Shi.zpf-00.json",
@@ -369485,7 +372742,7 @@
    "source_dataset": "db-v2.1/invariants/espei/CoEr-09Wan/zpf-00.json"
   },
   {
-   "path": "invariants/CO-GA/CoGa-10Cha.zpf-02.json",
+   "path": "invariants/CO-GA/CoGa-05Su.zpf-01.json",
    "folder": "invariants",
    "system": "CO-GA",
    "components": [
@@ -369496,24 +372753,24 @@
    "output": "ZPF",
    "phases": [
     "COGA3",
-    "LIQUID",
-    "ORTHORHOMBIC_A11"
+    "COGA_B2",
+    "LIQUID"
    ],
    "n_values": 1,
-   "n_values_dropped": 2,
-   "T_min_K": 303.5,
-   "T_max_K": 303.5,
+   "n_values_dropped": 0,
+   "T_min_K": 1106.0,
+   "T_max_K": 1106.0,
    "evidence_class": "experimental",
-   "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
-   "bibtex": "chari2010_125166",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
    "dois": [
-    "10.1016/j.calphad.2010.02.004"
+    "10.1016/j.intermet.2004.08.003"
    ],
    "papers": [
-    "doi:10.1016/j.calphad.2010.02.004"
+    "doi:10.1016/j.intermet.2004.08.003"
    ],
    "observation_ids": [
-    "ORC-DGCPQPH5BW"
+    "ORC-H67MZGDJH3"
    ],
    "reader_agreement": {
     "multi_reader": 1
@@ -369534,6 +372791,307 @@
    "sigma_effective_median": null,
    "sigma_basis_counts": {
     "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CoGa-05Su/zpf-01.json"
+  },
+  {
+   "path": "invariants/CO-GA/CoGa-05Su.zpf-02.json",
+   "folder": "invariants",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA3",
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1128.0,
+   "T_max_K": 1483.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004",
+    "10.1016/j.intermet.2004.08.003"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2004.08.003",
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [
+    "ORC-EL3AF7O6D5",
+    "ORC-73HCJRFXGB"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CoGa-05Su/zpf-02.json"
+  },
+  {
+   "path": "invariants/CO-GA/CoGa-05Su.zpf-03.json",
+   "folder": "invariants",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA3",
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1111.0,
+   "T_max_K": 1480.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2005, doi:10.1016/j.intermet.2004.08.003",
+   "bibtex": "su2005_68c393",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004",
+    "10.1016/j.intermet.2004.08.003"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2004.08.003",
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [
+    "ORC-JADTAFFN24",
+    "ORC-XN2Y5VE4PE"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CoGa-05Su/zpf-03.json"
+  },
+  {
+   "path": "invariants/CO-GA/CoGa-10Cha.zpf-00.json",
+   "folder": "invariants",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1111.0,
+   "T_max_K": 1111.0,
+   "evidence_class": "experimental",
+   "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
+   "bibtex": "chari2010_125166",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [
+    "ORC-UCZO7ZVBCL"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-00.json"
+  },
+  {
+   "path": "invariants/CO-GA/CoGa-10Cha.zpf-01.json",
+   "folder": "invariants",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1106.0,
+   "T_max_K": 1106.0,
+   "evidence_class": "experimental",
+   "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
+   "bibtex": "chari2010_125166",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [
+    "ORC-DS3W366XFQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CoGa-10Cha/zpf-01.json"
+  },
+  {
+   "path": "invariants/CO-GA/CoGa-10Cha.zpf-02.json",
+   "folder": "invariants",
+   "system": "CO-GA",
+   "components": [
+    "CO",
+    "GA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "COGA3",
+    "COGA_B2",
+    "FCC_A1",
+    "LIQUID",
+    "ORTHORHOMBIC_A11"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 1,
+   "T_min_K": 303.5,
+   "T_max_K": 1128.0,
+   "evidence_class": "experimental",
+   "reference": "Chari 2010, doi:10.1016/j.calphad.2010.02.004",
+   "bibtex": "chari2010_125166",
+   "dois": [
+    "10.1016/j.calphad.2010.02.004"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2010.02.004"
+   ],
+   "observation_ids": [
+    "ORC-D3EBOT52SM",
+    "ORC-DGCPQPH5BW"
+   ],
+   "reader_agreement": {
+    "multi_reader": 3
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 3
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -374875,16 +378433,19 @@
    ],
    "output": "ZPF",
    "phases": [
+    "BCC_A2",
     "CO2ZN15",
     "CO5ZN21_D83",
     "COZN13",
     "COZN7",
+    "COZN_A13",
+    "FCC_A1",
     "LIQUID"
    ],
-   "n_values": 4,
-   "n_values_dropped": 4,
+   "n_values": 6,
+   "n_values_dropped": 2,
    "T_min_K": 839.0,
-   "T_max_K": 1019.0,
+   "T_max_K": 1198.0,
    "evidence_class": "experimental",
    "reference": "Vassilev 2004, doi:10.1361/15477030419522",
    "bibtex": "vassilev2004_11b4a8",
@@ -374898,10 +378459,12 @@
     "ORC-PV3OMDLX3E",
     "ORC-RDH6NFJP2V",
     "ORC-NLWQ7K4AV2",
-    "ORC-Y4XLPRG24R"
+    "ORC-Y4XLPRG24R",
+    "ORC-2VZ4LHXTEY",
+    "ORC-OUAM7AHPYS"
    ],
    "reader_agreement": {
-    "multi_reader": 5
+    "multi_reader": 7
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -374918,7 +378481,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 5
+    "zpf": 7
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -374996,14 +378559,17 @@
    ],
    "output": "ZPF",
    "phases": [
+    "BCC_A2",
     "COZN13",
     "COZN7",
+    "COZN_A13",
+    "FCC_A1",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 3,
+   "n_values": 4,
+   "n_values_dropped": 0,
    "T_min_K": 839.0,
-   "T_max_K": 839.0,
+   "T_max_K": 1239.0,
    "evidence_class": "experimental",
    "reference": "Vassilev 2004, doi:10.1361/15477030419522",
    "bibtex": "vassilev2004_11b4a8",
@@ -375014,10 +378580,13 @@
     "doi:10.1361/15477030419522"
    ],
    "observation_ids": [
+    "ORC-QWBXOZQYNW",
+    "ORC-SFSA7BYXGB",
+    "ORC-JM2D3RTCWU",
     "ORC-II32GETFDS"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 4
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -375034,7 +378603,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 4
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -380682,7 +384251,7 @@
    "source_dataset": "db-v2.1/invariants/espei/CuSc-10Bo/zpf-00.json"
   },
   {
-   "path": "invariants/CU-SI/CuSi-00Yan.zpf-02.json",
+   "path": "invariants/CU-SI/CuSi-00Yan.zpf-00.json",
    "folder": "invariants",
    "system": "CU-SI",
    "components": [
@@ -380692,32 +384261,29 @@
    ],
    "output": "ZPF",
    "phases": [
+    "CU15SI4",
     "CU19SI6",
-    "CU33SI7",
-    "DIAMOND_A4",
-    "LIQUID"
+    "CU33SI7"
    ],
-   "n_values": 3,
-   "n_values_dropped": 8,
-   "T_min_K": 1074.15,
-   "T_max_K": 1132.15,
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1073.15,
+   "T_max_K": 1073.15,
    "evidence_class": "experimental",
-   "reference": "1998, T. ¨ Buhler, COST507-Thermochemical Database for Light Metal Alloys, Vol. 2, I. Ansara, A.T. Dinsdale, M.H. Rand (Eds.), European Communities, July 1998, p. 178.",
-   "bibtex": "buhler1998_b9cc12",
+   "reference": "1931, K. Iokibe, Kinzoku-no-Kenkyu 8 (1931) 433.",
+   "bibtex": "iokibe1931_e1f414",
    "dois": [
     "10.1016/s0925-8388(00)00983-x"
    ],
    "papers": [
-    "ref:8989ed9ad46e27b9",
+    "ref:55d1645cbef0e446",
     "doi:10.1016/s0925-8388(00)00983-x"
    ],
    "observation_ids": [
-    "ORC-C7CA6XGUFP",
-    "ORC-I4HAK3E5T2",
-    "ORC-RK5OC4HXNO"
+    "ORC-7UXBU5P57N"
    ],
    "reader_agreement": {
-    "multi_reader": 3
+    "multi_reader": 1
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -380734,377 +384300,54 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 3
+    "zpf": 1
    },
    "dft_calibration_stratum": null,
    "tdb": null,
    "tdb_sha256": null,
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-02.json"
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-00.json"
   },
   {
-   "path": "invariants/CU-SI/CuSi-00Yan.zpf-03.json",
+   "path": "invariants/CU-SI/CuSi-00Yan.zpf-01.json",
    "folder": "invariants",
    "system": "CU-SI",
    "components": [
     "CU",
     "SI",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "CU19SI6",
-    "CU33SI7",
-    "DIAMOND_A4",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 1,
-   "T_min_K": 1075.15,
-   "T_max_K": 1093.15,
-   "evidence_class": "experimental",
-   "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
-   "bibtex": "smith1929_ee726e",
-   "dois": [
-    "10.1016/s0925-8388(00)00983-x"
-   ],
-   "papers": [
-    "ref:f034243d77309ce7",
-    "doi:10.1016/s0925-8388(00)00983-x"
-   ],
-   "observation_ids": [
-    "ORC-EBEZXBUYKC",
-    "ORC-UL7OUDF3RG"
-   ],
-   "reader_agreement": {
-    "multi_reader": 2
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid",
-    "calphad_certified"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 2
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-03.json"
-  },
-  {
-   "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
-   "folder": "invariants",
-   "system": "CU-SI",
-   "components": [
-    "CU",
-    "SI",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "CU33SI7_HT",
-    "CU3SI_HT",
-    "DIAMOND_A4",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 8,
-   "T_min_K": 1079,
-   "T_max_K": 1095,
-   "evidence_class": "experimental",
-   "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
-   "bibtex": "sufryd2011_3c1030",
-   "dois": [
-    "10.1016/j.intermet.2011.05.017",
-    "10.1016/j.jct.2012.07.025"
-   ],
-   "papers": [
-    "doi:10.1016/j.intermet.2011.05.017",
-    "doi:10.1016/j.jct.2012.07.025"
-   ],
-   "observation_ids": [
-    "ORC-U3PDKPEEF3",
-    "ORC-WBL7SBLTGO"
-   ],
-   "reader_agreement": {
-    "multi_reader": 2
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid",
-    "calphad_certified"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 2
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-00.json"
-  },
-  {
-   "path": "invariants/CU-SI/CuSi-13Gie.zpf-02.json",
-   "folder": "invariants",
-   "system": "CU-SI",
-   "components": [
-    "CU",
-    "SI",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "CU33SI7_HT",
-    "CU3SI_HT",
-    "DIAMOND_A4",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 6,
-   "T_min_K": 1075,
-   "T_max_K": 1093,
-   "evidence_class": "experimental",
-   "reference": "2013, Xinyan Yan, Y.A. Chang, J. Alloys Compounds 308 (2000) 221. 38 W. Gierlotka, Md. Azizul Haque / J. Chem. Thermodynamics 57 (2013) 32–38",
-   "bibtex": "xinyan2013_b03178",
-   "dois": [
-    "10.1016/j.jct.2012.07.025"
-   ],
-   "papers": [
-    "ref:5acdd2367da2d00a",
-    "doi:10.1016/j.jct.2012.07.025"
-   ],
-   "observation_ids": [
-    "ORC-FEOIDWXNA4",
-    "ORC-ZCWI6YBUDV"
-   ],
-   "reader_agreement": {
-    "multi_reader": 2
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid",
-    "calphad_certified"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 2
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-02.json"
-  },
-  {
-   "path": "invariants/CU-SI/CuSi-13Gie.zpf-03.json",
-   "folder": "invariants",
-   "system": "CU-SI",
-   "components": [
-    "CU",
-    "SI",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "CU33SI7_HT",
-    "CU3SI_HT",
-    "DIAMOND_A4",
-    "LIQUID"
-   ],
-   "n_values": 2,
-   "n_values_dropped": 5,
-   "T_min_K": 1075,
-   "T_max_K": 1093,
-   "evidence_class": "experimental",
-   "reference": "1940, C.S. Smith, Trans. AIME 137 (1940) 313.",
-   "bibtex": "smith1940_1e1b6a",
-   "dois": [
-    "10.1016/j.jct.2012.07.025"
-   ],
-   "papers": [
-    "ref:71e6eab5d52c8e74",
-    "doi:10.1016/j.jct.2012.07.025"
-   ],
-   "observation_ids": [
-    "ORC-G2G6PPIWWX",
-    "ORC-EX3KKJEQTL"
-   ],
-   "reader_agreement": {
-    "multi_reader": 2
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid",
-    "calphad_certified"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 2
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-03.json"
-  },
-  {
-   "path": "invariants/CU-SI/CuSi-24Kro.zpf-00.json",
-   "folder": "invariants",
-   "system": "CU-SI",
-   "components": [
-    "CU",
-    "SI",
-    "VA"
-   ],
-   "output": "ZPF",
-   "phases": [
-    "CU15SI4_D86",
-    "CU33SI7_A13",
-    "CU33SI7_HT",
-    "CU3SI_HT",
-    "CU3SI_LT",
-    "CU3SI_MT",
-    "DIAMOND_A4",
-    "LIQUID"
-   ],
-   "n_values": 8,
-   "n_values_dropped": 6,
-   "T_min_K": 740.15,
-   "T_max_K": 1091.15,
-   "evidence_class": "experimental",
-   "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
-   "bibtex": "sufryd2011_3c1030",
-   "dois": [
-    "10.1007/s11669-024-01160-5",
-    "10.1016/j.intermet.2011.05.017"
-   ],
-   "papers": [
-    "doi:10.1016/j.intermet.2011.05.017",
-    "doi:10.1007/s11669-024-01160-5"
-   ],
-   "observation_ids": [
-    "ORC-4Z4OE73X5F",
-    "ORC-GDJWHJU26S",
-    "ORC-SCO36FPZ5O",
-    "ORC-55GXGDRP4P",
-    "ORC-GI3ICFUEXH",
-    "ORC-SJKEAQ2D2L",
-    "ORC-QB7RLDHCKN",
-    "ORC-XNYMHAZDTQ"
-   ],
-   "reader_agreement": {
-    "multi_reader": 8
-   },
-   "reader_agreement_source": "release",
-   "caveats": [],
-   "tags": [
-    "experimental",
-    "invariant_table",
-    "via_assessment",
-    "orchid"
-   ],
-   "weight": null,
-   "sigma_unit": "K (temperature), mole fraction (composition)",
-   "sigma_min": null,
-   "sigma_median": null,
-   "sigma_max": null,
-   "sigma_effective_median": null,
-   "sigma_basis_counts": {
-    "zpf": 8
-   },
-   "dft_calibration_stratum": null,
-   "tdb": null,
-   "tdb_sha256": null,
-   "model_link_basis": null,
-   "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSi-24Kro/zpf-00.json"
-  },
-  {
-   "path": "invariants/CU-SN/CuSn-02Mie.zpf-00.json",
-   "folder": "invariants",
-   "system": "CU-SN",
-   "components": [
-    "CU",
-    "SN",
     "VA"
    ],
    "output": "ZPF",
    "phases": [
     "BCC_A2",
-    "BCT_A5",
-    "CU10SN3",
-    "CU3SN_D03",
-    "CU41SN11",
-    "CU6SN5_B81",
+    "CU33SI7",
+    "CU56SI11_A13",
     "FCC_A1",
+    "HCP_A3",
     "LIQUID"
    ],
    "n_values": 6,
-   "n_values_dropped": 6,
-   "T_min_K": 500.15,
-   "T_max_K": 1071.15,
+   "n_values_dropped": 0,
+   "T_min_K": 825.15,
+   "T_max_K": 1125.15,
    "evidence_class": "experimental",
-   "reference": "1994, G.V. Raynor: Annotated Equilibrium Diagram Series, The Institute of Metals, London, 1994, No. 2.",
-   "bibtex": "raynor1994_48ce4c",
+   "reference": "1940, C.S. Smith, Trans. AIME 137 (1940) 313.",
+   "bibtex": "smith1940_1e1b6a",
    "dois": [
-    "10.1007/s11661-002-0173-7"
+    "10.1016/s0925-8388(00)00983-x"
    ],
    "papers": [
-    "ref:29a5586709bcad9e",
-    "doi:10.1007/s11661-002-0173-7"
+    "ref:71e6eab5d52c8e74",
+    "doi:10.1016/s0925-8388(00)00983-x"
    ],
    "observation_ids": [
-    "ORC-RCUI47LTAX",
-    "ORC-DC655CDVSG",
-    "ORC-5VIJ7J7CVD",
-    "ORC-36ON32FBOO",
-    "ORC-ZV7P52AFLA",
-    "ORC-QPVGLARUSI"
+    "ORC-2YD5UGTVYC",
+    "ORC-D3X2AYBQKK",
+    "ORC-SNXIO5ETLD",
+    "ORC-66Y3VENTQW",
+    "ORC-RLNIL6B3KC",
+    "ORC-UFL4XDBQ3W"
    ],
    "reader_agreement": {
     "multi_reader": 6
@@ -381132,41 +384375,341 @@
    "tdb_sha256": null,
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
-   "source_dataset": "db-v2.1/invariants/espei/CuSn-02Mie/zpf-00.json"
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-01.json"
   },
   {
-   "path": "invariants/CU-SN/CuSn-13Li.zpf-00.json",
+   "path": "invariants/CU-SI/CuSi-00Yan.zpf-02.json",
    "folder": "invariants",
-   "system": "CU-SN",
+   "system": "CU-SI",
    "components": [
     "CU",
-    "SN",
+    "SI",
     "VA"
    ],
    "output": "ZPF",
    "phases": [
-    "BCC_4SL",
-    "CU10SN3",
-    "CU41SN11"
+    "BCC_A2",
+    "CU15SI4",
+    "CU19SI6",
+    "CU33SI7",
+    "CU56SI11_A13",
+    "DIAMOND_A4",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 6,
-   "T_min_K": 876,
-   "T_max_K": 876,
+   "n_values": 11,
+   "n_values_dropped": 0,
+   "T_min_K": 825.15,
+   "T_max_K": 1132.15,
    "evidence_class": "experimental",
-   "reference": "Li 2013, doi:10.1016/j.intermet.2012.10.010",
-   "bibtex": "li2013_50b6d1",
+   "reference": "1998, T. ¨ Buhler, COST507-Thermochemical Database for Light Metal Alloys, Vol. 2, I. Ansara, A.T. Dinsdale, M.H. Rand (Eds.), European Communities, July 1998, p. 178.",
+   "bibtex": "buhler1998_b9cc12",
    "dois": [
-    "10.1016/j.intermet.2012.10.010"
+    "10.1016/s0925-8388(00)00983-x"
    ],
    "papers": [
-    "doi:10.1016/j.intermet.2012.10.010"
+    "ref:8989ed9ad46e27b9",
+    "doi:10.1016/s0925-8388(00)00983-x"
    ],
    "observation_ids": [
-    "ORC-WWC7PUXCXT"
+    "ORC-2JXA32SNQJ",
+    "ORC-T6PHYCYZO4",
+    "ORC-CK6HJUCKC3",
+    "ORC-AURNPJIIBS",
+    "ORC-BMRGG6ZHZN",
+    "ORC-C7CA6XGUFP",
+    "ORC-I4HAK3E5T2",
+    "ORC-64BLRYXLGN",
+    "ORC-W5I2ZVOKVF",
+    "ORC-WLOAS5OR5C",
+    "ORC-RK5OC4HXNO"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 11
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 11
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-02.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-00Yan.zpf-03.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU15SI4",
+    "CU19SI6",
+    "CU33SI7",
+    "CU56SI11_A13",
+    "DIAMOND_A4",
+    "LIQUID"
+   ],
+   "n_values": 3,
+   "n_values_dropped": 0,
+   "T_min_K": 983.15,
+   "T_max_K": 1093.15,
+   "evidence_class": "experimental",
+   "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
+   "bibtex": "smith1929_ee726e",
+   "dois": [
+    "10.1016/s0925-8388(00)00983-x"
+   ],
+   "papers": [
+    "ref:f034243d77309ce7",
+    "doi:10.1016/s0925-8388(00)00983-x"
+   ],
+   "observation_ids": [
+    "ORC-MASOC5YGGW",
+    "ORC-EBEZXBUYKC",
+    "ORC-UL7OUDF3RG"
+   ],
+   "reader_agreement": {
+    "multi_reader": 3
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 3
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-00Yan/zpf-03.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU15SI4",
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "CU3SI_HT",
+    "CU3SI_MT",
+    "DIAMOND_A4",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 10,
+   "n_values_dropped": 0,
+   "T_min_K": 825,
+   "T_max_K": 1127,
+   "evidence_class": "experimental",
+   "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
+   "bibtex": "sufryd2011_3c1030",
+   "dois": [
+    "10.1016/j.intermet.2011.05.017",
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2011.05.017",
+    "doi:10.1016/j.jct.2012.07.025",
+    "ref:55d1645cbef0e446",
+    "ref:5acdd2367da2d00a"
+   ],
+   "observation_ids": [
+    "ORC-ORTYFH5S6A",
+    "ORC-4YJSW3NTYP",
+    "ORC-SDAOZD2SOS.ae1547",
+    "ORC-JW32VFDSNQ",
+    "ORC-IYI7ST6E6R",
+    "ORC-U3PDKPEEF3",
+    "ORC-WBL7SBLTGO",
+    "ORC-ZKGIUDSUJW",
+    "ORC-A7BTRVRPIM",
+    "ORC-OFFVRTUKVQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 10
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 10
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-00.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-13Gie.zpf-02.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU15SI4",
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "CU3SI_HT",
+    "DIAMOND_A4",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 7,
+   "n_values_dropped": 1,
+   "T_min_K": 825,
+   "T_max_K": 1126,
+   "evidence_class": "experimental",
+   "reference": "2013, Xinyan Yan, Y.A. Chang, J. Alloys Compounds 308 (2000) 221. 38 W. Gierlotka, Md. Azizul Haque / J. Chem. Thermodynamics 57 (2013) 32–38",
+   "bibtex": "xinyan2013_b03178",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:5acdd2367da2d00a",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [
+    "ORC-74LQXZ7Q2T",
+    "ORC-LOYWGLOHGQ",
+    "ORC-FEOIDWXNA4",
+    "ORC-ZCWI6YBUDV",
+    "ORC-F62AK3PPEQ",
+    "ORC-3OC6LV65XW",
+    "ORC-KTL2RQXNHD"
+   ],
+   "reader_agreement": {
+    "multi_reader": 8
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 8
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-02.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-13Gie.zpf-03.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "CU3SI_HT",
+    "DIAMOND_A4",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 7,
+   "n_values_dropped": 0,
+   "T_min_K": 825,
+   "T_max_K": 1125,
+   "evidence_class": "experimental",
+   "reference": "1940, C.S. Smith, Trans. AIME 137 (1940) 313.",
+   "bibtex": "smith1940_1e1b6a",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:71e6eab5d52c8e74",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [
+    "ORC-T3UHBEVC3X",
+    "ORC-SUUO3BTZCF",
+    "ORC-G2G6PPIWWX",
+    "ORC-EX3KKJEQTL",
+    "ORC-GJ4I3OWHLV",
+    "ORC-HUCI3AD43K",
+    "ORC-W2FHRY6QOH"
+   ],
+   "reader_agreement": {
+    "multi_reader": 7
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -381184,7 +384727,285 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
+    "zpf": 7
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-03.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-13Gie.zpf-04.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU15SI4",
+    "CU33SI7_A13",
+    "CU33SI7_HT"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 983,
+   "T_max_K": 983,
+   "evidence_class": "experimental",
+   "reference": "1929, C.S. Smith, Trans. AIME 83 (1929) 414.",
+   "bibtex": "smith1929_ee726e",
+   "dois": [
+    "10.1016/j.jct.2012.07.025"
+   ],
+   "papers": [
+    "ref:f034243d77309ce7",
+    "doi:10.1016/j.jct.2012.07.025"
+   ],
+   "observation_ids": [
+    "ORC-EDYZUZFPTO"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
     "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-04.json"
+  },
+  {
+   "path": "invariants/CU-SI/CuSi-24Kro.zpf-00.json",
+   "folder": "invariants",
+   "system": "CU-SI",
+   "components": [
+    "CU",
+    "SI",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CU15SI4_D86",
+    "CU33SI7_A13",
+    "CU33SI7_HT",
+    "CU3SI_HT",
+    "CU3SI_LT",
+    "CU3SI_MT",
+    "DIAMOND_A4",
+    "FCC_A1",
+    "HCP_A3",
+    "LIQUID"
+   ],
+   "n_values": 10,
+   "n_values_dropped": 4,
+   "T_min_K": 740.15,
+   "T_max_K": 1091.15,
+   "evidence_class": "experimental",
+   "reference": "Sufryd 2011, doi:10.1016/j.intermet.2011.05.017",
+   "bibtex": "sufryd2011_3c1030",
+   "dois": [
+    "10.1007/s11669-024-01160-5",
+    "10.1016/j.intermet.2011.05.017"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2011.05.017",
+    "doi:10.1007/s11669-024-01160-5"
+   ],
+   "observation_ids": [
+    "ORC-4Z4OE73X5F",
+    "ORC-GDJWHJU26S",
+    "ORC-SCO36FPZ5O",
+    "ORC-55GXGDRP4P",
+    "ORC-GBVOBHCVKC",
+    "ORC-GI3ICFUEXH",
+    "ORC-SJKEAQ2D2L",
+    "ORC-QB7RLDHCKN",
+    "ORC-RBZP7M3LS5",
+    "ORC-XNYMHAZDTQ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 10
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 10
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSi-24Kro/zpf-00.json"
+  },
+  {
+   "path": "invariants/CU-SN/CuSn-02Mie.zpf-00.json",
+   "folder": "invariants",
+   "system": "CU-SN",
+   "components": [
+    "CU",
+    "SN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "BCT_A5",
+    "CU10SN3",
+    "CU3SN_D03",
+    "CU3SN_L",
+    "CU41SN11",
+    "CU6SN5_B81",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 12,
+   "n_values_dropped": 0,
+   "T_min_K": 500.15,
+   "T_max_K": 1071.15,
+   "evidence_class": "experimental",
+   "reference": "1994, G.V. Raynor: Annotated Equilibrium Diagram Series, The Institute of Metals, London, 1994, No. 2.",
+   "bibtex": "raynor1994_48ce4c",
+   "dois": [
+    "10.1007/s11661-002-0173-7"
+   ],
+   "papers": [
+    "ref:29a5586709bcad9e",
+    "doi:10.1007/s11661-002-0173-7"
+   ],
+   "observation_ids": [
+    "ORC-RCUI47LTAX",
+    "ORC-DC655CDVSG",
+    "ORC-7OPMC4CQIO",
+    "ORC-RC23HBHO6E",
+    "ORC-G2A2IB6XOL",
+    "ORC-5VIJ7J7CVD",
+    "ORC-36ON32FBOO",
+    "ORC-U5DFG7BXTZ",
+    "ORC-ZV7P52AFLA",
+    "ORC-ZC2Q5QDWJR",
+    "ORC-PQRL42YYBC",
+    "ORC-QPVGLARUSI"
+   ],
+   "reader_agreement": {
+    "multi_reader": 12
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 12
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuSn-02Mie/zpf-00.json"
+  },
+  {
+   "path": "invariants/CU-SN/CuSn-13Li.zpf-00.json",
+   "folder": "invariants",
+   "system": "CU-SN",
+   "components": [
+    "CU",
+    "SN",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_4SL",
+    "BCC_A2",
+    "CU10SN3",
+    "CU3SN_L",
+    "CU41SN11",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 6,
+   "n_values_dropped": 1,
+   "T_min_K": 791,
+   "T_max_K": 1031,
+   "evidence_class": "experimental",
+   "reference": "Li 2013, doi:10.1016/j.intermet.2012.10.010",
+   "bibtex": "li2013_50b6d1",
+   "dois": [
+    "10.1016/j.intermet.2012.10.010"
+   ],
+   "papers": [
+    "doi:10.1016/j.intermet.2012.10.010"
+   ],
+   "observation_ids": [
+    "ORC-D3Y5HHGAEN",
+    "ORC-M2IJOXVV35",
+    "ORC-OQ7EZMOE6J",
+    "ORC-WWC7PUXCXT",
+    "ORC-2YEBZ4EDKU",
+    "ORC-SPZGU7U272"
+   ],
+   "reader_agreement": {
+    "multi_reader": 6
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 6
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -382496,6 +386317,66 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/CuYb-07Zha/zpf-00.json"
+  },
+  {
+   "path": "invariants/CU-ZN/CuZn-11Wan.zpf-00.json",
+   "folder": "invariants",
+   "system": "CU-ZN",
+   "components": [
+    "CU",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "BCC_A2",
+    "CU5ZN8_D82",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1108.0,
+   "T_max_K": 1176.0,
+   "evidence_class": "experimental",
+   "reference": "Wang 2011, doi:10.1016/j.calphad.2011.02.001",
+   "bibtex": "wang2011_19db3c",
+   "dois": [
+    "10.1016/j.calphad.2011.02.001"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2011.02.001"
+   ],
+   "observation_ids": [
+    "ORC-3FM2R4KIXA",
+    "ORC-Z3YCQHTEAM"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/CuZn-11Wan/zpf-00.json"
   },
   {
    "path": "invariants/CU-ZR/CuZr-06Wan.zpf-00.json",
@@ -389551,11 +393432,14 @@
    "reference": "1958, Elliot RP, Rostoker W. Metall Trans ASM 1958;50:617.",
    "bibtex": "elliot1958_fb862b",
    "dois": [
+    "10.1016/j.calphad.2014.12.006",
     "10.1016/j.intermet.2011.03.018"
    ],
    "papers": [
     "ref:ed3076204a51c8cd",
-    "doi:10.1016/j.intermet.2011.03.018"
+    "doi:10.1016/j.intermet.2011.03.018",
+    "ref:9800b8f9b741c6b7",
+    "doi:10.1016/j.calphad.2014.12.006"
    ],
    "observation_ids": [
     "ORC-SBE3FUO55Y"
@@ -389644,6 +393528,64 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-01.json"
+  },
+  {
+   "path": "invariants/FE-TA/FeTa-15Raj.zpf-02.json",
+   "folder": "invariants",
+   "system": "FE-TA",
+   "components": [
+    "FE",
+    "TA",
+    "VA"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "C14_LAVES",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 2152,
+   "T_max_K": 2152,
+   "evidence_class": "experimental",
+   "reference": "1998, A.V. Keitz, G. Sauthoff, P. Neumann, Laves phase for high temperatures— structure stability and constitution, Z. Metallkd. 89 (12) (1998) 803–810.",
+   "bibtex": "keitz1998_f08ad4",
+   "dois": [
+    "10.1016/j.calphad.2014.12.006"
+   ],
+   "papers": [
+    "ref:3ae4b8f4f03fcbf2",
+    "doi:10.1016/j.calphad.2014.12.006"
+   ],
+   "observation_ids": [
+    "ORC-4V5M3EKHM6"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-02.json"
   },
   {
    "path": "invariants/FE-TH/FeTh-08Wan.zpf-00.json",
@@ -410644,6 +414586,68 @@
    "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-01.json"
   },
   {
+   "path": "invariants/MN-ZN/MnZn-21Li.zpf-02.json",
+   "folder": "invariants",
+   "system": "MN-ZN",
+   "components": [
+    "MN",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "HCP_IM_A3",
+    "LIQUID",
+    "MNZN9_HT",
+    "MNZN9_LT"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 6,
+   "T_min_K": 688.15,
+   "T_max_K": 735.15,
+   "evidence_class": "experimental",
+   "reference": "doi:10.1515/ijmr-1940-321201",
+   "bibtex": "schrammnd_52905f",
+   "dois": [
+    "10.1016/j.jallcom.2020.158484",
+    "10.1515/ijmr-1940-321201"
+   ],
+   "papers": [
+    "doi:10.1515/ijmr-1940-321201",
+    "doi:10.1016/j.jallcom.2020.158484"
+   ],
+   "observation_ids": [
+    "ORC-RJPL2EF2ZW",
+    "ORC-GXOND2OIOK"
+   ],
+   "reader_agreement": {
+    "multi_reader": 5
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 5
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-02.json"
+  },
+  {
    "path": "invariants/MN-ZN/MnZn-21Li.zpf-03.json",
    "folder": "invariants",
    "system": "MN-ZN",
@@ -410654,14 +414658,17 @@
    ],
    "output": "ZPF",
    "phases": [
+    "HCP_IM_A3",
     "LIQUID",
+    "MN5ZN21_D82",
     "MNZN13",
-    "MNZN9_HT"
+    "MNZN9_HT",
+    "MNZN9_LT"
    ],
-   "n_values": 1,
-   "n_values_dropped": 5,
-   "T_min_K": 703.15,
-   "T_max_K": 703.15,
+   "n_values": 4,
+   "n_values_dropped": 2,
+   "T_min_K": 653.15,
+   "T_max_K": 735.15,
    "evidence_class": "experimental",
    "reference": "doi:10.1515/ijmr-1967-580108",
    "bibtex": "wachtelnd_769b72",
@@ -410674,10 +414681,13 @@
     "doi:10.1016/j.jallcom.2020.158484"
    ],
    "observation_ids": [
+    "ORC-NWMUXVNKYG",
+    "ORC-5OD47PERD5",
+    "ORC-ZO6ST6EYB3",
     "ORC-AEHBFDPQVF"
    ],
    "reader_agreement": {
-    "multi_reader": 2
+    "multi_reader": 5
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -410685,8 +414695,7 @@
     "experimental",
     "invariant_table",
     "via_assessment",
-    "orchid",
-    "calphad_certified"
+    "orchid"
    ],
    "weight": null,
    "sigma_unit": "K (temperature), mole fraction (composition)",
@@ -410695,7 +414704,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 2
+    "zpf": 5
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -410703,6 +414712,125 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-03.json"
+  },
+  {
+   "path": "invariants/MN-ZN/MnZn-21Li.zpf-04.json",
+   "folder": "invariants",
+   "system": "MN-ZN",
+   "components": [
+    "MN",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_IM_A3"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 2,
+   "T_min_K": 803.15,
+   "T_max_K": 803.15,
+   "evidence_class": "experimental",
+   "reference": "doi:10.1515/ijmr-1971-621112",
+   "bibtex": "romernd_044113",
+   "dois": [
+    "10.1016/j.jallcom.2020.158484",
+    "10.1515/ijmr-1971-621112"
+   ],
+   "papers": [
+    "doi:10.1515/ijmr-1971-621112",
+    "doi:10.1016/j.jallcom.2020.158484"
+   ],
+   "observation_ids": [
+    "ORC-AP4AH6KVV3"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-04.json"
+  },
+  {
+   "path": "invariants/MN-ZN/MnZn-21Li.zpf-05.json",
+   "folder": "invariants",
+   "system": "MN-ZN",
+   "components": [
+    "MN",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "CUB_A13",
+    "FCC_A1",
+    "HCP_IM_A3"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 827.15,
+   "T_max_K": 827.15,
+   "evidence_class": "experimental",
+   "reference": "1949, E.V. Potter, R.W. Huber, Manganese-zinc phase diagram from 0 to 50% Zinc, Trans. ASM 41 (1949) 1001–1022.",
+   "bibtex": "potter1949_5cb13c",
+   "dois": [
+    "10.1016/j.jallcom.2020.158484"
+   ],
+   "papers": [
+    "ref:7003ecd22975e215",
+    "doi:10.1016/j.jallcom.2020.158484"
+   ],
+   "observation_ids": [
+    "ORC-ZKEKX2J72T"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/MnZn-21Li/zpf-05.json"
   },
   {
    "path": "invariants/MN-ZN/MnZn-21Li.zpf-06.json",
@@ -410957,11 +415085,12 @@
    "output": "ZPF",
    "phases": [
     "FCC_A1",
+    "HCP_A3",
     "LIQUID"
    ],
-   "n_values": 1,
-   "n_values_dropped": 2,
-   "T_min_K": 2033,
+   "n_values": 2,
+   "n_values_dropped": 1,
+   "T_min_K": 1973,
    "T_max_K": 2033,
    "evidence_class": "experimental",
    "reference": "Anderson 1964, doi:10.1016/0022-5088(64)90009-8",
@@ -410975,10 +415104,11 @@
     "doi:10.1361/105497100770340390"
    ],
    "observation_ids": [
+    "ORC-6OZVB3XFHD",
     "ORC-NY6QJQMKU2"
    ],
    "reader_agreement": {
-    "multi_reader": 1
+    "multi_reader": 2
    },
    "reader_agreement_source": "release",
    "caveats": [],
@@ -410995,7 +415125,7 @@
    "sigma_max": null,
    "sigma_effective_median": null,
    "sigma_basis_counts": {
-    "zpf": 1
+    "zpf": 2
    },
    "dft_calibration_stratum": null,
    "tdb": null,
@@ -421295,6 +425425,357 @@
    "source_dataset": "db-v2.1/invariants/espei/NiYb-17Hu/zpf-00.json"
   },
   {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-00.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID",
+    "NI2ZN11_D82",
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 2,
+   "T_min_K": 1148.0,
+   "T_max_K": 1148.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1007/978-3-642-47516-0",
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125",
+    "doi:10.1007/978-3-642-47516-0"
+   ],
+   "observation_ids": [
+    "ORC-X2J5SG4I4F"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-00.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-01.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "LIQUID",
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1308.0,
+   "T_max_K": 1308.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [
+    "ORC-A62RYTELYY"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-01.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-02.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "LIQUID",
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1313.0,
+   "T_max_K": 1313.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [
+    "ORC-6C6M3P2B5G"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-02.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-03.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1083.0,
+   "T_max_K": 1083.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [
+    "ORC-45ZAWLI6KX"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-03.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-04.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "LIQUID",
+    "NI2ZN11_D82",
+    "NIZN_B2"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 1,
+   "T_min_K": 1148.0,
+   "T_max_K": 1148.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [
+    "ORC-NETPFDWXYD"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-04.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-02Su.zpf-05.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "FCC_A1",
+    "LIQUID",
+    "NI2ZN11_D82",
+    "NIZN_B2"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 1145.0,
+   "T_max_K": 1318.0,
+   "evidence_class": "experimental",
+   "reference": "Su 2002, doi:10.1361/1054971023604125",
+   "bibtex": "su2002_d836a5",
+   "dois": [
+    "10.1361/1054971023604125"
+   ],
+   "papers": [
+    "doi:10.1361/1054971023604125"
+   ],
+   "observation_ids": [
+    "ORC-KZFMGDZMU2",
+    "ORC-SJPWLHZ4HZ"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-02Su/zpf-05.json"
+  },
+  {
    "path": "invariants/NI-ZN/NiZn-03Mie.zpf-00.json",
    "folder": "invariants",
    "system": "NI-ZN",
@@ -421486,6 +425967,124 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/NiZn-03Mie/zpf-02.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-11Xio.zpf-00.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "B2_BCC",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 2,
+   "T_min_K": 1316,
+   "T_max_K": 1316,
+   "evidence_class": "experimental",
+   "reference": "1932, K. Tamaru, On equilibrium diagram of Nickel–Zinc system, Sci. Rep. Tohoku Imp. Univ. 21 (1932) 345–363.",
+   "bibtex": "tamaru1932_bbe78f",
+   "dois": [
+    "10.1016/j.calphad.2011.03.003"
+   ],
+   "papers": [
+    "ref:9485d127f2ff328c",
+    "doi:10.1016/j.calphad.2011.03.003"
+   ],
+   "observation_ids": [
+    "ORC-KJSBYXD4V2"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-11Xio/zpf-00.json"
+  },
+  {
+   "path": "invariants/NI-ZN/NiZn-11Xio.zpf-01.json",
+   "folder": "invariants",
+   "system": "NI-ZN",
+   "components": [
+    "NI",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "B2_BCC",
+    "FCC_A1",
+    "LIQUID"
+   ],
+   "n_values": 1,
+   "n_values_dropped": 0,
+   "T_min_K": 1313,
+   "T_max_K": 1313,
+   "evidence_class": "experimental",
+   "reference": "1932, W. Heike, J. Schramm, O. Vaupel, Der gefuegeaufbau der Nickel–Zink– Legierungen I, Metallwirtsch. Metallwiss. Metalltech. 11 (1932) 525–530.",
+   "bibtex": "heike1932_d43c02",
+   "dois": [
+    "10.1016/j.calphad.2011.03.003"
+   ],
+   "papers": [
+    "ref:a3a29140fabdde13",
+    "doi:10.1016/j.calphad.2011.03.003"
+   ],
+   "observation_ids": [
+    "ORC-BDQETFWLRW"
+   ],
+   "reader_agreement": {
+    "multi_reader": 1
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 1
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/NiZn-11Xio/zpf-01.json"
   },
   {
    "path": "invariants/NI-ZN/NiZn-11Xio.zpf-02.json",
@@ -425641,6 +430240,67 @@
    "model_link_basis": null,
    "espei_median_abs_driving_force_J": null,
    "source_dataset": "db-v2.1/invariants/espei/PdYb-20Kar/zpf-00.json"
+  },
+  {
+   "path": "invariants/PD-ZN/PdZn-22Gon.zpf-00.json",
+   "folder": "invariants",
+   "system": "PD-ZN",
+   "components": [
+    "PD",
+    "VA",
+    "ZN"
+   ],
+   "output": "ZPF",
+   "phases": [
+    "B2_BCC",
+    "LIQUID",
+    "PD2ZN9_D82",
+    "PDZN2",
+    "PDZN_L2A"
+   ],
+   "n_values": 2,
+   "n_values_dropped": 0,
+   "T_min_K": 803.0,
+   "T_max_K": 1118.0,
+   "evidence_class": "experimental",
+   "reference": "Gong 2022, doi:10.1016/j.calphad.2022.102491",
+   "bibtex": "gong2022_c08556",
+   "dois": [
+    "10.1016/j.calphad.2022.102491"
+   ],
+   "papers": [
+    "doi:10.1016/j.calphad.2022.102491"
+   ],
+   "observation_ids": [
+    "ORC-FUTCGME3WN",
+    "ORC-3AFCJT2SVY"
+   ],
+   "reader_agreement": {
+    "multi_reader": 2
+   },
+   "reader_agreement_source": "release",
+   "caveats": [],
+   "tags": [
+    "experimental",
+    "invariant_table",
+    "via_assessment",
+    "orchid"
+   ],
+   "weight": null,
+   "sigma_unit": "K (temperature), mole fraction (composition)",
+   "sigma_min": null,
+   "sigma_median": null,
+   "sigma_max": null,
+   "sigma_effective_median": null,
+   "sigma_basis_counts": {
+    "zpf": 2
+   },
+   "dft_calibration_stratum": null,
+   "tdb": null,
+   "tdb_sha256": null,
+   "model_link_basis": null,
+   "espei_median_abs_driving_force_J": null,
+   "source_dataset": "db-v2.1/invariants/espei/PdZn-22Gon/zpf-00.json"
   },
   {
    "path": "invariants/PD-ZN/PdZn-22Gon.zpf-01.json",

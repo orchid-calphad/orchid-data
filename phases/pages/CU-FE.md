@@ -13,7 +13,7 @@ Table: Phases of the Cu–Fe system (4)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [BCC_A2](#phase-cu-fe-bcc-a2); _phase:cu-fe:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2499.7 K, x(Fe) 0.93114–1 | 33 | 6 |
-| [FCC_A1](#phase-cu-fe-fcc-a1); _phase:cu-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1781.58 K, x(Fe) 0–1 | 52 | 6 |
+| [FCC_A1](#phase-cu-fe-fcc-a1); _phase:cu-fe:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–1781.58 K, x(Fe) 0–1 | 53 | 6 |
 | [HCP_A3](#phase-cu-fe-hcp-a3); _phase:cu-fe:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
 | [LIQUID](#phase-cu-fe-liquid); _phase:cu-fe:liquid_ | liquid | liquid | stable in 6 of 6 calculated diagram(s): 1357.77–2500 K, x(Fe) 0–1 | 74 | 6 |
 
@@ -94,11 +94,12 @@ _cited as the source of values for this phase_
 - Id: `phase:cu-fe:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–1781.58 K, x(Fe) 0–1
-- Literature: 52 values (52 accepted) from 2 papers
+- Literature: 53 values (53 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-fe:fcc-a1)
 
-Names (10): _corpus: _corpus:phase:cu-fe:fcc-a1, corpus:phase:cu-fe:fcc-a1-2  
-_paper: _paper:10.1007/bf02664678:γ, paper:10.1361/105497103770330280:γ  
+Names (12): _corpus: _corpus:phase:cu-fe:fcc-a1, corpus:phase:cu-fe:fcc-a1-2  
+_paper: _paper:10.1007/bf02664678:γ, paper:10.1361/105497103770330280:γ, paper:10.1361/105497103770330280:ε  
+_system_alias: _system_alias:cu-fe:epsilon  
 _tdb: _tdb:CuFe-03Tur.tdb:FCC_A1, tdb:CuFe-15Ste.tdb:FCC_A1, tdb:CuFe-87Jan.tdb:FCC_A1, tdb:CuFe-93Ans-LB.tdb:FCC_A1, tdb:CuFe-93Swa.tdb:FCC_A1, tdb:CuFe-95Che.tdb:FCC_A1  
 
 

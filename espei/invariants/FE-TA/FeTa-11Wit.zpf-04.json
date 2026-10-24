@@ -54,17 +54,29 @@
     "id": "ORC-SBE3FUO55Y",
     "reader_agreement": "multi_reader",
     "paper": "doi:10.1016/j.intermet.2011.03.018",
-    "measured_in": "ref:ed3076204a51c8cd"
+    "measured_in": "ref:ed3076204a51c8cd",
+    "also_reported_as": [
+     {
+      "id": "ORC-7P3CTG46LB",
+      "paper": "doi:10.1016/j.calphad.2014.12.006",
+      "measured_in": "ref:9800b8f9b741c6b7",
+      "dataset": "invariants/FE-TA/FeTa-15Raj.zpf-05.json"
+     }
+    ]
    }
   ],
   "papers": [
    "ref:ed3076204a51c8cd",
-   "doi:10.1016/j.intermet.2011.03.018"
+   "doi:10.1016/j.intermet.2011.03.018",
+   "ref:9800b8f9b741c6b7",
+   "doi:10.1016/j.calphad.2014.12.006"
   ],
   "dois": [
+   "10.1016/j.calphad.2014.12.006",
    "10.1016/j.intermet.2011.03.018"
   ],
-  "source_dataset": "db-v2.1/invariants/espei/FeTa-11Wit/zpf-04.json"
+  "source_dataset": "db-v2.1/invariants/espei/FeTa-11Wit/zpf-04.json",
+  "e3_merged": 1
  },
  "orchid_uncertainty": {
   "unit": "K (temperature), mole fraction (composition)",

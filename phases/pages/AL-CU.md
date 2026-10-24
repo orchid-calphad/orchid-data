@@ -29,7 +29,7 @@ Table: Phases of the Al–Cu system (23)
 | [ALCU_ETA_HT](#phase-al-cu-alcu-eta-ht); _phase:al-cu:alcu-eta-ht_ | AlCu(h) · oC32 · Cmmm (65) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 846.77–897.67 K, x(Cu) 0.51175–0.5165 | 17 | 1 |
 | [ALCU_ETA_LT](#phase-al-cu-alcu-eta-lt); _phase:al-cu:alcu-eta-lt_ | AlCu(r) · mC20 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–871.89 K, x(Cu) 0.5–0.53158 | 11 | 1 |
 | [ALCU3_D022](#phase-al-cu-alcu3-d022); _phase:al-cu:alcu3-d022_ |  | needs_review | stable in 2 of 2 calculated diagram(s): 300–640 K, x(Cu) 0.77–0.77 | 0 | 2 |
-| [BCC_A2](#phase-al-cu-bcc-a2); _phase:al-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1329.45 K, x(Cu) 0.32085–0.81606 | 17 | 5 |
+| [BCC_A2](#phase-al-cu-bcc-a2); _phase:al-cu:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1329.45 K, x(Cu) 0.32085–0.81606 | 38 | 5 |
 | [GAMMA_D82](#phase-al-cu-d82-gamma); _phase:al-cu:d82-gamma_ | Cu5Zn8 · D8_2 · cI52 · I-43m (217) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 1050.72–1286.31 K, x(Cu) 0.64361–0.69815 | 16 | 2 |
 | [GAMMA_D83](#phase-al-cu-d83-gamma); _phase:al-cu:d83-gamma_ | Al4Cu9 · D8_3 · cP52 · P-43m (215) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–1145.67 K, x(Cu) 0.62085–0.69906 | 20 | 2 |
 | [FCC_A1](#phase-al-cu-fcc-a1); _phase:al-cu:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1358.62 K, x(Cu) 0–1 | 16 | 5 |
@@ -693,11 +693,12 @@ _assessment that models this phase_
 - Id: `phase:al-cu:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1329.45 K, x(Cu) 0.32085–0.81606
-- Literature: 17 values (17 accepted) from 2 papers
+- Literature: 38 values (35 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-cu:bcc-a2)
 
-Names (9): _corpus: _corpus:phase:al-cu:bcc-a2  
-_paper: _paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+Names (11): _corpus: _corpus:phase:al-cu:bcc-a2  
+_paper: _paper:10.1007/s10853-020-05423-7:β, paper:10.1007/s11661-002-0173-7:Bcc, paper:10.1007/s11661-002-0173-7:bcc, paper:10.1016/s0364-5916(98)00037-6:bcc-A2  
+_system_alias: _system_alias:al-cu:beta  
 _tdb: _tdb:AlCu-02Mie.tdb:BCC_A2, tdb:AlCu-04Wit.tdb:BCC_A2, tdb:AlCu-15Lia.tdb:BCC_A2, tdb:AlCu-21Kro.tdb:BCC_A2, tdb:AlCu-98Sau-LB.tdb:BCC_A2  
 
 
@@ -738,18 +739,20 @@ _tdb: _tdb:AlCu-02Mie.tdb:BCC_A2, tdb:AlCu-04Wit.tdb:BCC_A2, tdb:AlCu-15Lia.tdb:
 48: CONST BCC_A2 : AL CU : VA : !
 ~~~~
 
-Example references (6 of 6; assessments first): 
+Example references (7 of 7; assessments first): 
 
+- [doi:10.1007/s10853-020-05423-7](https://doi.org/10.1007/s10853-020-05423-7) Aleš Kroupa, Ondřej Zobač, Klaus W. Richter, The thermodynamic reassessment of the binary Al–Cu system, J Mater Sci 56, 3430-3443 (2021).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11661-002-0173-7](https://doi.org/10.1007/s11661-002-0173-7) J. Miettinen, Thermodynamic description of the Cu-Al-Sn system in the copper-rich corner, Metall Mater Trans A 33, 1639-1648 (2002).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1007/s10853-020-05423-7](https://doi.org/10.1007/s10853-020-05423-7) Aleš Kroupa, Ondřej Zobač, Klaus W. Richter, The thermodynamic reassessment of the binary Al–Cu system, J Mater Sci 56, 3430-3443 (2021).  
-_assessment that models this phase_
 - [doi:10.1016/j.calphad.2015.10.004](https://doi.org/10.1016/j.calphad.2015.10.004) Liang SM, Schmid-Fetzer R (2015) Thermodynamic assessment of the Al–Cu–Zn system, part II: Al–Cu binary system. CALPHAD 51:252–260  
-_assessment that models this phase_
+_assessment that models this phase; cited as the source of values for this phase_
 - [doi:10.1016/j.jallcom.2004.04.126](https://doi.org/10.1016/j.jallcom.2004.04.126) V.T. Witusiewicz, U. Hecht, S.G. Fries, S. Rex, The Ag–Al–Cu system, Journal of Alloys and Compounds 385, 133-143 (2004).  
 _assessment that models this phase_
 - [doi:10.1016/s0364-5916(98)00037-6](https://doi.org/10.1016/s0364-5916%2898%2900037-6) M. Hämäläinen, K. Zeng, Thermodynamic evaluation of the Mg-Zr system, Calphad 22, 375-380 (1998).  
 _reports values for this phase_
+- [doi:10.1016/j.intermet.2011.07.007](https://doi.org/10.1016/j.intermet.2011.07.007) Norbert Ponweiser, Christian L. Lengauer, Klaus W. Richter, Re-investigation of phase equilibria in the system Al–Cu and structural analysis of the high-temperature phase η1-Al1−δCu, Intermetallics 19, 1737-1746 (2011).  
+_cited as the source of values for this phase_
 - [doi:10.1179/imr.1985.30.1.211](https://doi.org/10.1179/imr.1985.30.1.211) J. L. Murray, The aluminium-copper system, International Materials Reviews 30, 211-234 (1985).  
 _cited as the source of values for this phase_
 

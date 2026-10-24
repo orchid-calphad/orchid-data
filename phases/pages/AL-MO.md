@@ -22,7 +22,7 @@ Table: Phases of the Al–Mo system (15)
 | [AL8MO3](#phase-al-mo-al8mo3); _phase:al-mo:al8mo3_ | Al8Mo3 · mC22 · C2/m (12) | tier B: DFT-supported (unique MP + OQMD match) | stable in 6 of 6 calculated diagram(s): 300–1855.47 K, x(Mo) 0.27273–0.27273 | 43 | 6 |
 | [ALMO_A2](#phase-al-mo-almo-a2); _phase:al-mo:almo-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 1 calculated diagram(s): 1462.8–2028.92 K, x(Mo) 0.5–0.5 | 0 | 1 |
 | [ALMO3_A15](#phase-al-mo-almo3-a15); _phase:al-mo:almo3-a15_ | Cr3Si · A15 · cP8 · Pm-3n (223) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–2423.16 K, x(Mo) 0.70774–0.77614 | 20 | 6 |
-| [BCC_A2](#phase-al-mo-bcc-a2); _phase:al-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.87 K, x(Mo) 0.44747–1 | 4 | 8 |
+| [BCC_A2](#phase-al-mo-bcc-a2); _phase:al-mo:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–3999.87 K, x(Mo) 0.44747–1 | 7 | 8 |
 | [B2_BCC](#phase-al-mo-bcc-b2); _phase:al-mo:bcc-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 2 of 2 calculated diagram(s): 300–3999.77 K, x(Mo) 0.46835–1 | 0 | 2 |
 | [FCC_A1](#phase-al-mo-fcc-a1); _phase:al-mo:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 6 of 6 calculated diagram(s): 300–934 K, x(Mo) 0–0.00099 | 4 | 6 |
 | [HCP_A3](#phase-al-mo-hcp-a3); _phase:al-mo:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 6 calculated diagram(s) | 0 | 6 |
@@ -652,11 +652,12 @@ _cited as the source of values for this phase_
 - Id: `phase:al-mo:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 6 of 6 calculated diagram(s): 300–3999.87 K, x(Mo) 0.44747–1
-- Literature: 4 values (4 accepted) from 2 papers
+- Literature: 7 values (7 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:al-mo:bcc-a2)
 
-Names (12): _corpus: _corpus:phase:al-mo:bcc-a2  
-_paper: _paper:10.1007/s11669-009-9564-4:bcc(Mo), paper:10.1007/s11669-997-0063-1:(Mo), paper:10.1007/s11669-997-0063-1:Mo  
+Names (14): _corpus: _corpus:phase:al-mo:bcc-a2  
+_paper: _paper:10.1007/s11669-009-9564-4:bcc(Mo), paper:10.1007/s11669-997-0063-1:(Mo), paper:10.1007/s11669-997-0063-1:Mo, paper:10.1016/j.intermet.2010.03.010:β  
+_system_alias: _system_alias:al-mo:beta  
 _tdb: _tdb:AlMo-09Du.tdb:BCC_A2, tdb:AlMo-10Cup.tdb:BCC_A2, tdb:AlMo-16Pen.tdb:A2_BCC, tdb:AlMo-16Pen.tdb:BCC_A2, tdb:AlMo-97Cos.tdb:BCC_A2, tdb:AlMo-97Sau.tdb:BCC_A2, tdb:AlMo-98Sau-LB.tdb:A2_BCC, tdb:AlMo-98Sau-LB.tdb:BCC_A2  
 
 
@@ -720,12 +721,12 @@ _tdb: _tdb:AlMo-09Du.tdb:BCC_A2, tdb:AlMo-10Cup.tdb:BCC_A2, tdb:AlMo-16Pen.tdb:A
 
 Example references (6 of 6; assessments first): 
 
+- [doi:10.1016/j.intermet.2010.03.010](https://doi.org/10.1016/j.intermet.2010.03.010) Damian M. Cupid, Olga Fabrichnaya, Fereshteh Ebrahimi, Hans J. Seifert, Thermodynamic assessment of the Al–Mo system and of the Ti–Al–Mo System from 0 to 20at.% Ti, Intermetallics 18, 1185-1196 (2010).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-009-9564-4](https://doi.org/10.1007/s11669-009-9564-4) Zhenmin Du, Cuiping Guo, Changrong Li, Weijing Zhang, Thermodynamic Description of the Al-Mo and Al-Fe-Mo Systems, J. Phase Equilib. Diffus. 30, 487-501 (2009).  
 _assessment that models this phase; reports values for this phase_
 - [doi:10.1007/s11669-997-0063-1](https://doi.org/10.1007/s11669-997-0063-1) Thermotech Ltd., N. Saunders, The Al-Mo system (aluminum-molybdenum), JPE 18, 370-378 (1997).  
 _assessment that models this phase; reports values for this phase_
-- [doi:10.1016/j.intermet.2010.03.010](https://doi.org/10.1016/j.intermet.2010.03.010) Damian M. Cupid, Olga Fabrichnaya, Fereshteh Ebrahimi, Hans J. Seifert, Thermodynamic assessment of the Al–Mo system and of the Ti–Al–Mo System from 0 to 20at.% Ti, Intermetallics 18, 1185-1196 (2010).  
-_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2016.03.044](https://doi.org/10.1016/j.jallcom.2016.03.044) Jian Peng, Peter Franke, Dario Manara, Tyson Watkins, Rudy J.M. Konings, Hans J. Seifert, Experimental investigation and thermodynamic re-assessment of the Al–Mo–Ni system, Journal of Alloys and Compounds 674, 305-314 (2016).  
 _assessment that models this phase_
 - [doi:10.3139/ijmr-1997-0159](https://doi.org/10.3139/ijmr-1997-0159) A. Costa e Silva, M.J. Kaufman, Z. Metallkd., 88, 854-65(1997).  

@@ -2,16 +2,16 @@
  "espei_version": "0.9.1",
  "folders": {
   "assessed": {
-   "files": 636,
-   "loaded": 636
+   "files": 642,
+   "loaded": 642
   },
   "derived/invariant-brackets": {
-   "files": 1055,
-   "loaded": 1055
+   "files": 1075,
+   "loaded": 1075
   },
   "derived/liquid-stability": {
-   "files": 418,
-   "loaded": 418
+   "files": 421,
+   "loaded": 421
   },
   "dft/literature": {
    "files": 774,
@@ -26,12 +26,12 @@
    "loaded": 1251
   },
   "experimental": {
-   "files": 947,
-   "loaded": 947
+   "files": 963,
+   "loaded": 963
   },
   "invariants": {
-   "files": 1535,
-   "loaded": 1535
+   "files": 1568,
+   "loaded": 1568
   },
   "model": {
    "files": 486,
@@ -245,6 +245,12 @@
    "source": "invariants/AL-CR/AlCr-15Wit.zpf-06.json",
    "reason": "espei_evaluation_error",
    "error": "AttributeError: 'NoneType' object has no attribute 'constituents'"
+  },
+  {
+   "path": "derived/invariant-brackets/AL-TA/AlTa-10Wit.zpf-00.json",
+   "source": "invariants/AL-TA/AlTa-10Wit.zpf-00.json",
+   "reason": "espei_evaluation_nonfinite",
+   "error": null
   },
   {
    "path": "derived/invariant-brackets/AL-TI/AlTi-92Kat.zpf-02.json",
@@ -2203,12 +2209,6 @@
    "error": "AttributeError: 'NoneType' object has no attribute 'constituents'"
   },
   {
-   "path": "invariants/MN-ZN/MnZn-21Li.zpf-02.json",
-   "source": "db-v2.1/invariants/espei/MnZn-21Li/zpf-02.json",
-   "reason": "espei_evaluation_nonfinite",
-   "error": null
-  },
-  {
    "path": "invariants/NB-SI/NbSi-03Yan.zpf-00.json",
    "source": "db-v2.1/invariants/espei/NbSi-03Yan/zpf-00.json",
    "reason": "espei_evaluation_nonfinite",
@@ -2565,7 +2565,19 @@
    "regions": 2
   },
   {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-00.json",
+   "regions": 1
+  },
+  {
+   "path": "invariants/AG-IN/AgIn-18Muz.zpf-04.json",
+   "regions": 1
+  },
+  {
    "path": "invariants/AL-LA/AlLa-06Zho.zpf-00.json",
+   "regions": 1
+  },
+  {
+   "path": "invariants/AL-TA/AlTa-10Wit.zpf-00.json",
    "regions": 1
   },
   {
@@ -2603,6 +2615,10 @@
   {
    "path": "invariants/LI-PB/LiPb-16Zho.zpf-00.json",
    "regions": 1
+  },
+  {
+   "path": "invariants/MN-ZN/MnZn-21Li.zpf-02.json",
+   "regions": 3
   },
   {
    "path": "invariants/MN-ZN/MnZn-21Li.zpf-03.json",
@@ -2671,24 +2687,24 @@
  ],
  "likelihood_evaluation": {
   "rule": "Every dataset is evaluated against its target TDB with the ESPEI 0.9.1 likelihood functions and the TDB's own parameters (tools/espei_evaluate.py: ZPF driving forces, equilibrium-property residuals, activity residuals and likelihood, non-equilibrium likelihood). A ZPF region with a non-finite driving force is cut (`espei_evaluation_nonfinite_region`); a dataset that raises an error (e.g. a KeyError for an SER phase such as GRAPHITE or 1/2_MOLE_O2(G) that the TDB does not define), gives a non-finite value, times out, or whose TDB pycalphad cannot load is not written (`espei_evaluation_<status>`).",
-  "datasets_evaluated": 8353,
+  "datasets_evaluated": 8431,
   "all_finite": true,
   "by_folder_kind": {
    "assessed|zpf_driving_force_J": {
-    "datasets": 636,
-    "values": 11975,
-    "median_of_dataset_median_abs": 0.0042,
-    "p90_of_dataset_median_abs": 1.4159
+    "datasets": 642,
+    "values": 12050,
+    "median_of_dataset_median_abs": 0.005,
+    "p90_of_dataset_median_abs": 1.3968
    },
    "derived/invariant-brackets|zpf_driving_force_J": {
-    "datasets": 1055,
-    "values": 6786,
-    "median_of_dataset_median_abs": 2.7142,
-    "p90_of_dataset_median_abs": 112.2646
+    "datasets": 1075,
+    "values": 6894,
+    "median_of_dataset_median_abs": 2.7757,
+    "p90_of_dataset_median_abs": 108.7677
    },
    "derived/liquid-stability|zpf_driving_force_J": {
-    "datasets": 418,
-    "values": 3762,
+    "datasets": 421,
+    "values": 3789,
     "median_of_dataset_median_abs": 0.0,
     "p90_of_dataset_median_abs": 0.0
    },
@@ -2723,22 +2739,22 @@
     "p90_of_dataset_median_abs": 17.6779
    },
    "experimental|residual": {
-    "datasets": 232,
-    "values": 1109,
-    "median_of_dataset_median_abs": 204.8138,
-    "p90_of_dataset_median_abs": 18568.7393
+    "datasets": 247,
+    "values": 1124,
+    "median_of_dataset_median_abs": 181.0765,
+    "p90_of_dataset_median_abs": 20027.3067
    },
    "experimental|zpf_driving_force_J": {
-    "datasets": 198,
-    "values": 1417,
+    "datasets": 199,
+    "values": 1418,
     "median_of_dataset_median_abs": 0.417,
     "p90_of_dataset_median_abs": 489.0143
    },
    "invariants|zpf_driving_force_J": {
-    "datasets": 1535,
-    "values": 13928,
-    "median_of_dataset_median_abs": 12.8182,
-    "p90_of_dataset_median_abs": 483.6964
+    "datasets": 1568,
+    "values": 14382,
+    "median_of_dataset_median_abs": 13.435,
+    "p90_of_dataset_median_abs": 461.0282
    },
    "model|activity_residual": {
     "datasets": 43,
@@ -4306,104 +4322,6 @@
     "phase_not_in_target_tdb"
    ],
    "values": 2
-  },
-  {
-   "source": "general/espei/AlCu-21Kro/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-00.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-01.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-02.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-03.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-04.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-05.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-06.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-07.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-08.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-09.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-10.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-11.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-12.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 1
   },
   {
    "source": "general/espei/AlIr-06Jia/hmr-00.json",
@@ -7412,20 +7330,6 @@
     "dft_superseded"
    ],
    "values": null
-  },
-  {
-   "source": "general/espei/PdZn-22Gon/hmr-03.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 2
-  },
-  {
-   "source": "general/espei/PdZn-22Gon/hmr-04.json",
-   "reason": [
-    "phase_rule:phase_label_not_mapped"
-   ],
-   "values": 2
   },
   {
    "source": "general/espei/PrZn-08Wan/gmr-00.json",
@@ -11981,34 +11885,6 @@
    "values": 8
   },
   {
-   "source": "invariants/espei/AgAl-04Wit/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 5
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-02.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 5
-  },
-  {
    "source": "invariants/espei/AgDy-10Lon/zpf-01.json",
    "reason": [
     "zpf_region_inert"
@@ -12023,54 +11899,11 @@
    "values": 1
   },
   {
-   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 5
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 3
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-02.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 5
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-03.json",
-   "reason": [
-    "model_phase_rejected_by_label_check",
-    "not_espei_ready:literature_gate"
-   ],
-   "values": 5
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 5
-  },
-  {
    "source": "invariants/espei/AgNd-09Wan/zpf-04.json",
    "reason": [
     "zpf_region_inert"
    ],
    "values": 1
-  },
-  {
-   "source": "invariants/espei/AgSb-07Zor/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 3
   },
   {
    "source": "invariants/espei/AgSe-18Li/zpf-04.json",
@@ -12113,13 +11946,6 @@
     "zpf_region_inert"
    ],
    "values": 1
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 6
   },
   {
    "source": "invariants/espei/AlCr-17Cui-incomplete/zpf-08.json",
@@ -12200,16 +12026,9 @@
    "values": 2
   },
   {
-   "source": "invariants/espei/AlMo-10Cup/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
    "source": "invariants/espei/AlNb-09Wit/zpf-01.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "zpf_region_inert"
    ],
    "values": 1
   },
@@ -12266,13 +12085,6 @@
   },
   {
    "source": "invariants/espei/AlTa-10Wit/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/AlTa-10Wit/zpf-02.json",
    "reason": [
     "model_phase_rejected_by_label_check"
    ],
@@ -12932,41 +12744,6 @@
    "values": 1
   },
   {
-   "source": "invariants/espei/CoGa-05Su/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-02.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-03.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
    "source": "invariants/espei/CoLa-08Wan/zpf-00.json",
    "reason": [
     "zpf_region_inert"
@@ -13074,7 +12851,6 @@
   {
    "source": "invariants/espei/CrIr-09Zha/zpf-00.json",
    "reason": [
-    "model_phase_rejected_by_label_check",
     "zpf_region_inert"
    ],
    "values": 2
@@ -13165,34 +12941,6 @@
    "values": 1
   },
   {
-   "source": "invariants/espei/CuSi-00Yan/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 6
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-04.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
    "source": "invariants/espei/CuTe-22Yu/zpf-02.json",
    "reason": [
     "zpf_region_inert"
@@ -13205,13 +12953,6 @@
     "zpf_region_inert"
    ],
    "values": 1
-  },
-  {
-   "source": "invariants/espei/CuZn-11Wan/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
   },
   {
    "source": "invariants/espei/CuZn-93Kow-LB/zpf-00.json",
@@ -13502,14 +13243,14 @@
   {
    "source": "invariants/espei/FeTa-03Dan/zpf-00.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 1
   },
   {
    "source": "invariants/espei/FeTa-03Dan/zpf-01.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 1
   },
@@ -13523,37 +13264,23 @@
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-00.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 2
   },
   {
-   "source": "invariants/espei/FeTa-15Raj/zpf-02.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
    "source": "invariants/espei/FeTa-15Raj/zpf-03.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 3
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-04.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 2
-  },
-  {
-   "source": "invariants/espei/FeTa-15Raj/zpf-05.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
   },
   {
    "source": "invariants/espei/FeTi-19Wit/zpf-00.json",
@@ -14243,20 +13970,6 @@
    "values": 4
   },
   {
-   "source": "invariants/espei/MnZn-21Li/zpf-04.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 3
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-05.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
    "source": "invariants/espei/MoB-16Wit/zpf-00.json",
    "reason": [
     "zpf_region_inert"
@@ -14273,21 +13986,21 @@
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-00.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 2
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-02.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 1
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-03.json",
    "reason": [
-    "model_phase_rejected_by_label_check"
+    "system_alias_vertex_ambiguous"
    ],
    "values": 1
   },
@@ -14413,7 +14126,6 @@
   {
    "source": "invariants/espei/NiB-99Cam/zpf-00.json",
    "reason": [
-    "model_phase_rejected_by_label_check",
     "zpf_region_inert"
    ],
    "values": 10
@@ -14488,64 +14200,6 @@
    "source": "invariants/espei/NiW-86Fer-LB/zpf-03.json",
    "reason": [
     "zpf_region_inert"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 3
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-02.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 1
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-03.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-04.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-05.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
-  },
-  {
-   "source": "invariants/espei/NiZn-11Xio/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check",
-    "not_espei_ready:literature_gate",
-    "zpf_region_inert"
-   ],
-   "values": 3
-  },
-  {
-   "source": "invariants/espei/NiZn-11Xio/zpf-01.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
    ],
    "values": 1
   },
@@ -14655,13 +14309,6 @@
    ],
    "values": 10,
    "note": "the ESPEI 0.9.1 / pycalphad ZPF driving force of this dataset is NaN in about one evaluation in four (four repeated full evaluations, 2026-10-24); left out so that every written dataset evaluates deterministically"
-  },
-  {
-   "source": "invariants/espei/PdZn-22Gon/zpf-00.json",
-   "reason": [
-    "model_phase_rejected_by_label_check"
-   ],
-   "values": 2
   },
   {
    "source": "invariants/espei/PtTi-08Li/zpf-00.json",
@@ -15382,6 +15029,13 @@
    "values": 1
   },
   {
+   "source": "db-v2.1/invariants/espei/AgAl-87Spe/zpf-00.json",
+   "reason": [
+    "duplicate_identical_zpf"
+   ],
+   "values": 5
+  },
+  {
    "source": "db-v2.1/invariants/espei/AgCo-21Den/zpf-00.json",
    "reason": [
     "duplicate_identical_zpf"
@@ -15450,6 +15104,13 @@
     "duplicate_identical_zpf"
    ],
    "values": 3
+  },
+  {
+   "source": "db-v2.1/invariants/espei/AlTa-96Du-LB/zpf-05.json",
+   "reason": [
+    "duplicate_identical_zpf"
+   ],
+   "values": 1
   },
   {
    "source": "db-v2.1/invariants/espei/AlZr-20Lon/zpf-01.json",
@@ -15775,6 +15436,13 @@
   },
   {
    "source": "db-v2.1/invariants/espei/FeSn-10Hua/zpf-04.json",
+   "reason": [
+    "duplicate_identical_zpf"
+   ],
+   "values": 1
+  },
+  {
+   "source": "db-v2.1/invariants/espei/FeTa-15Raj/zpf-05.json",
    "reason": [
     "duplicate_identical_zpf"
    ],
@@ -16502,6 +16170,13 @@
    "values": 1
   },
   {
+   "source": "db-v2.1/invariants/espei/CuSi-13Gie/zpf-01.json",
+   "reason": [
+    "duplicate_identical_zpf"
+   ],
+   "values": 1
+  },
+  {
    "source": "db-v2.1/invariants/espei/CuZr-17Liu/zpf-00.json",
    "reason": [
     "duplicate_identical_zpf"
@@ -17144,13 +16819,6 @@
     "espei_evaluation_error"
    ],
    "values": 7
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
-   "reason": [
-    "espei_evaluation_nonfinite"
-   ],
-   "values": 3
   },
   {
    "source": "invariants/espei/NbSi-03Yan/zpf-00.json",
@@ -20598,90 +20266,6 @@
    "reason": "duplicate_read_same_row",
    "orchid_id": "ORC-LSLZ6CGKOQ.67d367",
    "same_as": "ORC-LSLZ6CGKOQ.67d367"
-  },
-  {
-   "source": "general/espei/AlCu-21Kro/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GOVPCZZH47"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-00.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-SPVEMYPFHH"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-01.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-PHSPK3J5L5"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-02.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-D5KQJQELKF"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-03.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-MJD7XBVFTA"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-04.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-54YDYKMATH"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-05.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-V4IGIN4OMQ"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-06.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-SKKA6YFMAR"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-07.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-5TNYKHKWRK"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-08.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-URKGI5XYRG"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-09.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-4NPK7P5GRQ"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-10.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-PISPO7TC7M"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-11.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-XV3NXQANGS"
-  },
-  {
-   "source": "general/espei/AlFe-18Zie/cpm-12.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-LCHH7KCE3J"
   },
   {
    "source": "general/espei/AlFe-23Ila/hmr-00.json",
@@ -28631,27 +28215,17 @@
   },
   {
    "source": "general/espei/PdZn-22Gon/hmr-03.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-LQVRUTMRZB.80a30c"
-  },
-  {
-   "source": "general/espei/PdZn-22Gon/hmr-03.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-LQVRUTMRZB.80a30c"
-  },
-  {
-   "source": "general/espei/PdZn-22Gon/hmr-04.json",
-   "index": 0,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-XVHMK36SNQ.1a8a1b"
+   "reason": "duplicate_read_same_row",
+   "orchid_id": "ORC-LQVRUTMRZB.80a30c",
+   "same_as": "ORC-LQVRUTMRZB.80a30c"
   },
   {
    "source": "general/espei/PdZn-22Gon/hmr-04.json",
    "index": 1,
-   "reason": "phase_rule:phase_label_not_mapped",
-   "orchid_id": "ORC-XVHMK36SNQ.1a8a1b"
+   "reason": "duplicate_read_same_row",
+   "orchid_id": "ORC-XVHMK36SNQ.1a8a1b",
+   "same_as": "ORC-XVHMK36SNQ.1a8a1b"
   },
   {
    "source": "general/espei/PrZn-08Wan/gmr-00.json",
@@ -42611,78 +42185,6 @@
    "orchid_id": "ORC-H54BDNR4CF"
   },
   {
-   "source": "invariants/espei/AgAl-04Wit/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-LSPWJMZAVQ"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-243NHKDVGC"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-QONZXTYQJR"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-AR6QJ2C7M4"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-T5NUSXFWFL"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-01.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GIZCPPFHRG"
-  },
-  {
-   "source": "invariants/espei/AgAl-04Wit/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-7ZH5DXQQ6X"
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-XWGGGF223Y"
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SGL3MTF5EH"
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-TOTSGOQCNM"
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-WF2C56PEMB"
-  },
-  {
-   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-46V4FZTKZN"
-  },
-  {
    "source": "invariants/espei/AgCa-14Bra/zpf-01.json",
    "index": 0,
    "reason": "zpf_region_inert",
@@ -42725,40 +42227,10 @@
    "orchid_id": "ORC-VX4QH5GEOK"
   },
   {
-   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-3UZCZHAE6P"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-XQZWANXRUQ"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IFDLSOLEXC"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SEXO6LESS6"
-  },
-  {
    "source": "invariants/espei/AgIn-18Muz/zpf-01.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-GYPM2ARS3F"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-01.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-3HOJYZSAD2"
   },
   {
    "source": "invariants/espei/AgIn-18Muz/zpf-01.json",
@@ -42771,24 +42243,6 @@
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-4IUBXY3676"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-5PCN6RG23M"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JRSIOS6CR5"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-02.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IB6I5BULNQ"
   },
   {
    "source": "invariants/espei/AgIn-18Muz/zpf-02.json",
@@ -42810,51 +42264,15 @@
   },
   {
    "source": "invariants/espei/AgIn-18Muz/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-YQI3OS4YPK"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-03.json",
    "index": 2,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-USOLJQWAOI"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-03.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-QR4UVEPKLS"
   },
   {
    "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-MRKXIUZNWY"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZSPB6ZALBT"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ESMQ7TMI5T"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-DYHL4WYVPN"
-  },
-  {
-   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-7KC3RIW7OS"
   },
   {
    "source": "invariants/espei/AgNd-09Hua/zpf-00.json",
@@ -42923,24 +42341,6 @@
    "orchid_id": "ORC-BZEQYRGGEQ"
   },
   {
-   "source": "invariants/espei/AgSb-07Zor/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6IM7WQUJBI"
-  },
-  {
-   "source": "invariants/espei/AgSb-07Zor/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-4OOFBCGA7E"
-  },
-  {
-   "source": "invariants/espei/AgSb-07Zor/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-A6RB3GXHQQ"
-  },
-  {
    "source": "invariants/espei/AgSe-18Li/zpf-04.json",
    "index": 0,
    "reason": "phase_not_in_target_tdb",
@@ -42999,42 +42399,6 @@
    "index": 6,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-4PWP377JVR"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-2W6UWTOOHT"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-NXFKNHSONY"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JQQZQIRHFY"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SCHBZFPOPU"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-MK2OOW2RTI"
-  },
-  {
-   "source": "invariants/espei/AgZn-98Gom/zpf-00.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GBUV6RPBAV"
   },
   {
    "source": "invariants/espei/AlBa-19Ben/zpf-01.json",
@@ -43147,296 +42511,38 @@
   {
    "source": "invariants/espei/AlFe-09Jac/zpf-00.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-M262WMQN6H"
   },
   {
    "source": "invariants/espei/AlFe-09Jac/zpf-00.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-LFHERFEYMX"
-  },
-  {
-   "source": "invariants/espei/AlFe-09Jac/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-LBVAPUB4XS"
   },
   {
    "source": "invariants/espei/AlFe-09Jac/zpf-01.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-RIZL6RY45O"
   },
   {
    "source": "invariants/espei/AlFe-09Jac/zpf-01.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-LMP2HZDGFA"
   },
   {
    "source": "invariants/espei/AlFe-09Jac/zpf-01.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6Y5JJB7A7A"
-  },
-  {
-   "source": "invariants/espei/AlFe-09Jac/zpf-01.json",
    "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-C2GRIN2W3U"
-  },
-  {
-   "source": "invariants/espei/AlFe-09Jac/zpf-01.json",
-   "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-YIADGUXWWB"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZYEQGTY2CI"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BTG53X34WY"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-DAJEBNC3UI"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-EDYC5P7L2M"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-01.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BRZHVZYHPG"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-01.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-F2ILF4C3JZ"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-OY4SC5VEBN"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IDLO5VUDYU"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-YJCJTR73Y5"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-NTKKPE5VQV.87a764"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-F6KICL5QH2"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JJRDGRSQ5I"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 8,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-CCPHOTC7MM.a72dd4"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 9,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JCGZLDT4ZA"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 10,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZHICAY6FW5"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 11,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GZED5IT7NE"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 12,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GWNM6KQSA3"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 13,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-A2HP3LC5AY"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 14,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-KDIJ77FNAY"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 15,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6KSIWA2HES.a8c0fc"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 16,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-L5BK3Y24OY"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 17,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6KSIWA2HES.0af83a"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 18,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6KSIWA2HES.4c624a"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 24,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-435P4ZZA3N.2a15e1"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 25,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BJXRXMGLDB"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 26,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RFG5BAOLGN.15774c"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 27,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RFG5BAOLGN.69fec2"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 28,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-TS4EOOIEUV"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 29,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-N4JJ2EQ7XZ"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 31,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SYVQTLD7MQ"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 32,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-WPBJS6IV2Z.bc1b66"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 33,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-WPBJS6IV2Z.25861b"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 34,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ERSBFERVVO"
   },
   {
    "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
    "index": 35,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-WPBJS6IV2Z.a47136"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
-   "index": 36,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-WPBJS6IV2Z.bda220"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-NYYU546GBE"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IJECNXYJQI"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-03.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-EVEZUHUSKG"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-04.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SHE652PMC4"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-04.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GKQOAM6LNI"
-  },
-  {
-   "source": "invariants/espei/AlFe-18Zie/zpf-04.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-YMEX665PZW"
   },
   {
    "source": "invariants/espei/AlHf-02Wan/zpf-00.json",
@@ -43491,18 +42597,6 @@
    "index": 0,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-TRK3JJQVQD"
-  },
-  {
-   "source": "invariants/espei/AlMg-93Zuo/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-HGDN54MVOU"
-  },
-  {
-   "source": "invariants/espei/AlMg-93Zuo/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-KU52HGDGED"
   },
   {
    "source": "invariants/espei/AlMn-99Liu-LB/zpf-00.json",
@@ -43571,12 +42665,6 @@
    "orchid_id": "ORC-FCSX2GDIF5"
   },
   {
-   "source": "invariants/espei/AlMo-10Cup/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-YFFFSQ42EQ"
-  },
-  {
    "source": "invariants/espei/AlMo-10Cup/zpf-01.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
@@ -43601,15 +42689,9 @@
    "orchid_id": "ORC-J6FVTSOC57"
   },
   {
-   "source": "invariants/espei/AlNb-09Wit/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-OVKGPZRXI2"
-  },
-  {
    "source": "invariants/espei/AlNb-09Wit/zpf-01.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-FJXRDYXVOV"
   },
   {
@@ -43739,28 +42821,10 @@
    "orchid_id": "ORC-2ECWAFLKRI"
   },
   {
-   "source": "invariants/espei/AlTa-10Wit/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZUBACZFP2G"
-  },
-  {
-   "source": "invariants/espei/AlTa-10Wit/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GIMMJSMQAB"
-  },
-  {
    "source": "invariants/espei/AlTa-10Wit/zpf-01.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-CTQBGESW77"
-  },
-  {
-   "source": "invariants/espei/AlTa-10Wit/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ROOOKSGIAB"
   },
   {
    "source": "invariants/espei/AlTi-08Wit/zpf-00.json",
@@ -46103,70 +45167,10 @@
    "orchid_id": "ORC-6WHPPZVLIQ"
   },
   {
-   "source": "invariants/espei/CoGa-05Su/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-H67MZGDJH3"
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-EL3AF7O6D5"
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-73HCJRFXGB"
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JADTAFFN24"
-  },
-  {
-   "source": "invariants/espei/CoGa-05Su/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-XN2Y5VE4PE"
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-D6WNBGBJOB"
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-UCZO7ZVBCL"
-  },
-  {
    "source": "invariants/espei/CoGa-10Cha/zpf-01.json",
    "index": 0,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-VZGOVUAXK3"
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-01.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-DS3W366XFQ"
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-57OLQ3UZSY"
-  },
-  {
-   "source": "invariants/espei/CoGa-10Cha/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-D3EBOT52SM"
   },
   {
    "source": "invariants/espei/CoGd-95Liu-LB/zpf-00.json",
@@ -46847,36 +45851,6 @@
    "orchid_id": "ORC-ST6TDIBGV4"
   },
   {
-   "source": "invariants/espei/CoZn-04Vas-LB/zpf-00.json",
-   "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-2VZ4LHXTEY"
-  },
-  {
-   "source": "invariants/espei/CoZn-04Vas-LB/zpf-00.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-OUAM7AHPYS"
-  },
-  {
-   "source": "invariants/espei/CoZn-04Vas-LB/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-QWBXOZQYNW"
-  },
-  {
-   "source": "invariants/espei/CoZn-04Vas-LB/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SFSA7BYXGB"
-  },
-  {
-   "source": "invariants/espei/CoZn-04Vas-LB/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JM2D3RTCWU"
-  },
-  {
    "source": "invariants/espei/CoZr-09Liu/zpf-00.json",
    "index": 0,
    "reason": "zpf_region_inert",
@@ -47131,7 +46105,7 @@
   {
    "source": "invariants/espei/CrIr-09Zha/zpf-00.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-PU3W2PZMGX"
   },
   {
@@ -47353,260 +46327,38 @@
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-MLNYRBP3EI"
   },
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-TUOWAHA3M2"
   },
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-KF6Z73N2LO"
   },
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-CD74424HHN"
   },
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-E7N26RHGD6"
   },
   {
    "source": "invariants/espei/CuSb-09Gie/zpf-00.json",
    "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_phase_not_in_target_tdb",
    "orchid_id": "ORC-XZY4UFZGPT"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-7UXBU5P57N"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-2YD5UGTVYC"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-D3X2AYBQKK"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SNXIO5ETLD"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-66Y3VENTQW"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RLNIL6B3KC"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-01.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-UFL4XDBQ3W"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-2JXA32SNQJ"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-T6PHYCYZO4"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-CK6HJUCKC3"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-AURNPJIIBS"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BMRGG6ZHZN"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-64BLRYXLGN"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 8,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-W5I2ZVOKVF"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-02.json",
-   "index": 9,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-WLOAS5OR5C"
-  },
-  {
-   "source": "invariants/espei/CuSi-00Yan/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-MASOC5YGGW"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ORTYFH5S6A"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-4YJSW3NTYP"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SDAOZD2SOS.ae1547"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-JW32VFDSNQ"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IYI7ST6E6R"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZKGIUDSUJW"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 8,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-A7BTRVRPIM"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-00.json",
-   "index": 9,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-OFFVRTUKVQ"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BPIKL3VG5J"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-74LQXZ7Q2T"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-LOYWGLOHGQ"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-DEU7DZJC6O"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-F62AK3PPEQ"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-3OC6LV65XW"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-KTL2RQXNHD"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-T3UHBEVC3X"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SUUO3BTZCF"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-03.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GJ4I3OWHLV"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-03.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-HUCI3AD43K"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-03.json",
-   "index": 6,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-W2FHRY6QOH"
-  },
-  {
-   "source": "invariants/espei/CuSi-13Gie/zpf-04.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-EDYZUZFPTO"
   },
   {
    "source": "invariants/espei/CuSi-24Kro/zpf-00.json",
@@ -47633,88 +46385,10 @@
    "orchid_id": "ORC-OYSMCQJ6TG"
   },
   {
-   "source": "invariants/espei/CuSi-24Kro/zpf-00.json",
-   "index": 8,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GBVOBHCVKC"
-  },
-  {
-   "source": "invariants/espei/CuSi-24Kro/zpf-00.json",
-   "index": 12,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RBZP7M3LS5"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-7OPMC4CQIO"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RC23HBHO6E"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-G2A2IB6XOL"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 7,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-U5DFG7BXTZ"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 9,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZC2Q5QDWJR"
-  },
-  {
-   "source": "invariants/espei/CuSn-02Mie/zpf-00.json",
-   "index": 10,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-PQRL42YYBC"
-  },
-  {
    "source": "invariants/espei/CuSn-13Li/zpf-00.json",
    "index": 6,
    "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-CEBLLGC2QC"
-  },
-  {
-   "source": "invariants/espei/CuSn-13Li/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-D3Y5HHGAEN"
-  },
-  {
-   "source": "invariants/espei/CuSn-13Li/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-M2IJOXVV35"
-  },
-  {
-   "source": "invariants/espei/CuSn-13Li/zpf-00.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-OQ7EZMOE6J"
-  },
-  {
-   "source": "invariants/espei/CuSn-13Li/zpf-00.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-2YEBZ4EDKU"
-  },
-  {
-   "source": "invariants/espei/CuSn-13Li/zpf-00.json",
-   "index": 5,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SPZGU7U272"
   },
   {
    "source": "invariants/espei/CuTe-21Hua/zpf-00.json",
@@ -47877,18 +46551,6 @@
    "index": 6,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-4FLCRDRWAL"
-  },
-  {
-   "source": "invariants/espei/CuZn-11Wan/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-3FM2R4KIXA"
-  },
-  {
-   "source": "invariants/espei/CuZn-11Wan/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-Z3YCQHTEAM"
   },
   {
    "source": "invariants/espei/CuZn-93Kow-LB/zpf-00.json",
@@ -48667,13 +47329,13 @@
   {
    "source": "invariants/espei/FeTa-03Dan/zpf-00.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-7R5JK2WKMG"
   },
   {
    "source": "invariants/espei/FeTa-03Dan/zpf-01.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-7NZ2LTXUIS"
   },
   {
@@ -48691,56 +47353,44 @@
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-00.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-BACNHOSW5O"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-00.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-UNASOYRSGQ"
-  },
-  {
-   "source": "invariants/espei/FeTa-15Raj/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-4V5M3EKHM6"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-03.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-HNPYFSK6DW"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-03.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-VTBX5QYTO4"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-03.json",
    "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-NQ6WPYCR7E"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-04.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-VUPRFQ23TZ"
   },
   {
    "source": "invariants/espei/FeTa-15Raj/zpf-04.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-IJFCPAUX4U"
-  },
-  {
-   "source": "invariants/espei/FeTa-15Raj/zpf-05.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-7P3CTG46LB"
   },
   {
    "source": "invariants/espei/FeTh-08Wan/zpf-00.json",
@@ -51643,20 +50293,8 @@
   {
    "source": "invariants/espei/MnZn-21Li/zpf-02.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-TC47H3FOKC"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-RJPL2EF2ZW"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
-   "index": 4,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-GXOND2OIOK"
   },
   {
    "source": "invariants/espei/MnZn-21Li/zpf-03.json",
@@ -51665,52 +50303,22 @@
    "orchid_id": "ORC-OU3NGQWRSP"
   },
   {
-   "source": "invariants/espei/MnZn-21Li/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-NWMUXVNKYG"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-5OD47PERD5"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-03.json",
-   "index": 3,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZO6ST6EYB3"
-  },
-  {
    "source": "invariants/espei/MnZn-21Li/zpf-04.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-P4NELSAPZE"
   },
   {
    "source": "invariants/espei/MnZn-21Li/zpf-04.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-YLWVNOZSO2"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-04.json",
-   "index": 2,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-AP4AH6KVV3"
   },
   {
    "source": "invariants/espei/MnZn-21Li/zpf-05.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-N5E4FFRJ4R"
-  },
-  {
-   "source": "invariants/espei/MnZn-21Li/zpf-05.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-ZKEKX2J72T"
   },
   {
    "source": "invariants/espei/MoB-16Wit/zpf-00.json",
@@ -51781,37 +50389,31 @@
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-00.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-JKI762QB5U"
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-00.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-MWEL72HK75"
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6OZVB3XFHD"
-  },
-  {
-   "source": "invariants/espei/MoPd-00Gho/zpf-01.json",
    "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-KEWMU54TQE"
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-02.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-435YRFR4UJ"
   },
   {
    "source": "invariants/espei/MoPd-00Gho/zpf-03.json",
    "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "system_alias_vertex_ambiguous",
    "orchid_id": "ORC-DFZMBAXEL5"
   },
   {
@@ -52291,7 +50893,7 @@
   {
    "source": "invariants/espei/NiB-99Cam/zpf-00.json",
    "index": 9,
-   "reason": "model_phase_rejected_by_label_check",
+   "reason": "zpf_region_inert",
    "orchid_id": "ORC-LC25MN2V4W"
   },
   {
@@ -52926,12 +51528,6 @@
   },
   {
    "source": "invariants/espei/NiZn-02Su/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-X2J5SG4I4F"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-00.json",
    "index": 1,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-65YHKZNJLP"
@@ -52943,52 +51539,10 @@
    "orchid_id": "ORC-KHZGYGCSK2"
   },
   {
-   "source": "invariants/espei/NiZn-02Su/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-A62RYTELYY"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-02.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-6C6M3P2B5G"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-03.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-IHQWHXWVNS"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-03.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-45ZAWLI6KX"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-04.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-NETPFDWXYD"
-  },
-  {
    "source": "invariants/espei/NiZn-02Su/zpf-04.json",
    "index": 1,
    "reason": "model_phase_rejected_by_label_check",
    "orchid_id": "ORC-JTKZKZJA6H"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-05.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-KZFMGDZMU2"
-  },
-  {
-   "source": "invariants/espei/NiZn-02Su/zpf-05.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-SJPWLHZ4HZ"
   },
   {
    "source": "invariants/espei/NiZn-03Mie/zpf-01.json",
@@ -53004,21 +51558,9 @@
   },
   {
    "source": "invariants/espei/NiZn-11Xio/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-KJSBYXD4V2"
-  },
-  {
-   "source": "invariants/espei/NiZn-11Xio/zpf-00.json",
    "index": 2,
    "reason": "zpf_region_inert",
    "orchid_id": "ORC-N2VZZWLQ2F"
-  },
-  {
-   "source": "invariants/espei/NiZn-11Xio/zpf-01.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-BDQETFWLRW"
   },
   {
    "source": "invariants/espei/NiZn-11Xio/zpf-03.json",
@@ -53415,18 +51957,6 @@
    "index": 0,
    "reason": "not_espei_ready:literature_gate",
    "orchid_id": "ORC-672UAJZP4C"
-  },
-  {
-   "source": "invariants/espei/PdZn-22Gon/zpf-00.json",
-   "index": 0,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-FUTCGME3WN"
-  },
-  {
-   "source": "invariants/espei/PdZn-22Gon/zpf-00.json",
-   "index": 1,
-   "reason": "model_phase_rejected_by_label_check",
-   "orchid_id": "ORC-3AFCJT2SVY"
   },
   {
    "source": "invariants/espei/PdZn-22Gon/zpf-01.json",
@@ -56347,6 +54877,56 @@
    }
   },
   {
+   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-XWGGGF223Y",
+   "kept_in": {
+    "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+    "index": 0
+   }
+  },
+  {
+   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
+   "index": 1,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-SGL3MTF5EH",
+   "kept_in": {
+    "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+    "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
+   "index": 2,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-TOTSGOQCNM",
+   "kept_in": {
+    "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+    "index": 2
+   }
+  },
+  {
+   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
+   "index": 3,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-WF2C56PEMB",
+   "kept_in": {
+    "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+    "index": 3
+   }
+  },
+  {
+   "source": "invariants/espei/AgAl-87Spe/zpf-00.json",
+   "index": 4,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-46V4FZTKZN",
+   "kept_in": {
+    "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+    "index": 4
+   }
+  },
+  {
    "source": "invariants/espei/AgCe-02Yin-LB/zpf-02.json",
    "index": 4,
    "reason": "duplicate_identical_zpf",
@@ -56827,6 +55407,26 @@
    }
   },
   {
+   "source": "invariants/espei/AlFe-18Zie/zpf-02.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-OY4SC5VEBN",
+   "kept_in": {
+    "path": "invariants/AL-FE/AlFe-18Zie.zpf-01.json",
+    "index": 0
+   }
+  },
+  {
+   "source": "invariants/espei/AlFe-18Zie/zpf-03.json",
+   "index": 2,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-EVEZUHUSKG",
+   "kept_in": {
+    "path": "invariants/AL-FE/AlFe-18Zie.zpf-00.json",
+    "index": 2
+   }
+  },
+  {
    "source": "invariants/espei/AlLa-06Zho/zpf-00.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -56984,6 +55584,16 @@
    "kept_in": {
     "path": "invariants/AL-SR/AlSr-03Wan-LB.zpf-01.json",
     "index": 1
+   }
+  },
+  {
+   "source": "invariants/espei/AlTa-96Du-LB/zpf-05.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-Y2YJSO5TRY",
+   "kept_in": {
+    "path": "invariants/AL-TA/AlTa-10Wit.zpf-02.json",
+    "index": 0
    }
   },
   {
@@ -58237,6 +56847,26 @@
    }
   },
   {
+   "source": "invariants/espei/CoGa-10Cha/zpf-00.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-D6WNBGBJOB",
+   "kept_in": {
+    "path": "invariants/CO-GA/CoGa-05Su.zpf-03.json",
+    "index": 0
+   }
+  },
+  {
+   "source": "invariants/espei/CoGa-10Cha/zpf-02.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-57OLQ3UZSY",
+   "kept_in": {
+    "path": "invariants/CO-GA/CoGa-05Su.zpf-02.json",
+    "index": 0
+   }
+  },
+  {
    "source": "invariants/espei/CoNb-20Zho/zpf-00.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -59373,6 +58003,16 @@
    "orchid_id": "ORC-FUNK6KUKBT",
    "kept_in": {
     "path": "invariants/FE-SN/FeSn-10Hua.zpf-02.json",
+    "index": 0
+   }
+  },
+  {
+   "source": "invariants/espei/FeTa-15Raj/zpf-05.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-7P3CTG46LB",
+   "kept_in": {
+    "path": "invariants/FE-TA/FeTa-11Wit.zpf-04.json",
     "index": 0
    }
   },
@@ -61487,6 +60127,16 @@
    }
   },
   {
+   "source": "invariants/espei/NiZn-02Su/zpf-03.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-IHQWHXWVNS",
+   "kept_in": {
+    "path": "invariants/NI-ZN/NiZn-02Su.zpf-02.json",
+    "index": 0
+   }
+  },
+  {
    "source": "invariants/espei/NiZn-11Xio/zpf-03.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -62184,6 +60834,26 @@
    }
   },
   {
+   "source": "invariants/espei/CuSi-13Gie/zpf-01.json",
+   "index": 0,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-BPIKL3VG5J",
+   "kept_in": {
+    "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
+    "index": 4
+   }
+  },
+  {
+   "source": "invariants/espei/CuSi-13Gie/zpf-02.json",
+   "index": 2,
+   "reason": "duplicate_identical_zpf",
+   "orchid_id": "ORC-DEU7DZJC6O",
+   "kept_in": {
+    "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
+    "index": 4
+   }
+  },
+  {
    "source": "invariants/espei/CuTi-08Tur/zpf-09.json",
    "index": 0,
    "reason": "duplicate_identical_zpf",
@@ -62398,10 +61068,28 @@
    "orchid_id": "ORC-CRT7O4DQ5G"
   },
   {
+   "source": "invariants/espei/AgIn-18Muz/zpf-00.json",
+   "index": 3,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-SEXO6LESS6"
+  },
+  {
+   "source": "invariants/espei/AgIn-18Muz/zpf-04.json",
+   "index": 3,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-7KC3RIW7OS"
+  },
+  {
    "source": "invariants/espei/AlLa-06Zho/zpf-00.json",
    "index": 4,
    "reason": "espei_evaluation_nonfinite_region",
    "orchid_id": "ORC-XAYQYGAOMU"
+  },
+  {
+   "source": "invariants/espei/AlTa-10Wit/zpf-00.json",
+   "index": 3,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-GIMMJSMQAB"
   },
   {
    "source": "invariants/espei/AuGa-10Liu/zpf-00.json",
@@ -62470,8 +61158,26 @@
    "orchid_id": "ORC-RQ26TIHAY6"
   },
   {
+   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
+   "index": 2,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-CRI56OCJKM"
+  },
+  {
+   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
+   "index": 3,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-4PEYYE3K6E"
+  },
+  {
+   "source": "invariants/espei/MnZn-21Li/zpf-02.json",
+   "index": 4,
+   "reason": "espei_evaluation_nonfinite_region",
+   "orchid_id": "ORC-CQHQZZ2B2E"
+  },
+  {
    "source": "invariants/espei/MnZn-21Li/zpf-03.json",
-   "index": 1,
+   "index": 4,
    "reason": "espei_evaluation_nonfinite_region",
    "orchid_id": "ORC-GEEKUJWFAI"
   },
@@ -62652,6 +61358,8 @@
  ],
  "drop_reasons": {
   "model_phase_rejected_by_label_check": "the record's model phase was rejected by the printed-label check (tools/phase_label_check.py; audit round 2, A2 class 1)",
+  "system_alias_phase_not_in_target_tdb": "the record's phase was re-mapped by the per-system alias table (tools/phase_aliases.json) and the target TDB does not model that phase",
+  "system_alias_vertex_ambiguous": "a ZPF vertex name of the corpus dataset is the old mapping of an aliased phase and also the model phase of another printed phase of the row",
   "not_in_release": "observation not published in the literature release (added or re-read after the release)",
   "not_accepted": "published with extraction_accepted = false",
   "evidence_class_mismatch": "published evidence class differs from the folder's class (classes are never mixed)",
@@ -147829,18 +146537,18 @@
  ],
  "fixes": {
   "summary": {
-   "E1_va_added_datasets": 6559,
+   "E1_va_added_datasets": 6608,
    "E1_basis": {
     "metallic_system": 23,
     "system_tdbs": 1,
-    "target_tdb": 6535
+    "target_tdb": 6584
    },
-   "E2_vertices_nulled": 5979,
-   "E2_datasets": 1183,
-   "E2_hyperplanes_added": 166,
-   "E3_regions_removed": 685,
-   "E3_datasets_emptied_and_dropped": 124,
-   "E4_values_removed": 1171,
+   "E2_vertices_nulled": 6061,
+   "E2_datasets": 1190,
+   "E2_hyperplanes_added": 179,
+   "E3_regions_removed": 699,
+   "E3_datasets_emptied_and_dropped": 128,
+   "E4_values_removed": 1173,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -147849,15 +146557,15 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1332,
-    "weight_lower_than_before": 1236,
+    "datasets": 1347,
+    "weight_lower_than_before": 1250,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 95,
+    "weight_unchanged": 96,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 719,
+     "lower:experimental": 733,
      "lower:model": 517,
-     "same:experimental": 95
+     "same:experimental": 96
     }
    }
   },
@@ -148680,6 +147388,66 @@
    },
    {
     "kept": {
+     "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+     "index": 2
+    },
+    "removed": {
+     "path": "invariants/AG-AL/AgAl-87Spe.zpf-00.json",
+     "index": 2
+    },
+    "kept_id": "ORC-AR6QJ2C7M4",
+    "removed_id": "ORC-TOTSGOQCNM"
+   },
+   {
+    "kept": {
+     "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/AG-AL/AgAl-87Spe.zpf-00.json",
+     "index": 0
+    },
+    "kept_id": "ORC-243NHKDVGC",
+    "removed_id": "ORC-XWGGGF223Y"
+   },
+   {
+    "kept": {
+     "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+     "index": 1
+    },
+    "removed": {
+     "path": "invariants/AG-AL/AgAl-87Spe.zpf-00.json",
+     "index": 1
+    },
+    "kept_id": "ORC-QONZXTYQJR",
+    "removed_id": "ORC-SGL3MTF5EH"
+   },
+   {
+    "kept": {
+     "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+     "index": 3
+    },
+    "removed": {
+     "path": "invariants/AG-AL/AgAl-87Spe.zpf-00.json",
+     "index": 3
+    },
+    "kept_id": "ORC-T5NUSXFWFL",
+    "removed_id": "ORC-WF2C56PEMB"
+   },
+   {
+    "kept": {
+     "path": "invariants/AG-AL/AgAl-04Wit.zpf-01.json",
+     "index": 4
+    },
+    "removed": {
+     "path": "invariants/AG-AL/AgAl-87Spe.zpf-00.json",
+     "index": 4
+    },
+    "kept_id": "ORC-GIZCPPFHRG",
+    "removed_id": "ORC-46V4FZTKZN"
+   },
+   {
+    "kept": {
      "path": "invariants/AG-CE/AgCe-02Yin-LB.zpf-00.json",
      "index": 4
     },
@@ -149256,6 +148024,30 @@
    },
    {
     "kept": {
+     "path": "invariants/AL-FE/AlFe-18Zie.zpf-01.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/AL-FE/AlFe-18Zie.zpf-02.json",
+     "index": 0
+    },
+    "kept_id": "ORC-EDYC5P7L2M",
+    "removed_id": "ORC-OY4SC5VEBN"
+   },
+   {
+    "kept": {
+     "path": "invariants/AL-FE/AlFe-18Zie.zpf-00.json",
+     "index": 2
+    },
+    "removed": {
+     "path": "invariants/AL-FE/AlFe-18Zie.zpf-03.json",
+     "index": 2
+    },
+    "kept_id": "ORC-DAJEBNC3UI",
+    "removed_id": "ORC-EVEZUHUSKG"
+   },
+   {
+    "kept": {
      "path": "invariants/AL-LA/AlLa-00Yin.zpf-01.json",
      "index": 5
     },
@@ -149445,6 +148237,18 @@
     },
     "kept_id": "ORC-L7Z5GQ7JXI",
     "removed_id": "ORC-IFG6BRMCEK"
+   },
+   {
+    "kept": {
+     "path": "invariants/AL-TA/AlTa-10Wit.zpf-02.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/AL-TA/AlTa-96Du-LB.zpf-05.json",
+     "index": 0
+    },
+    "kept_id": "ORC-ROOOKSGIAB",
+    "removed_id": "ORC-Y2YJSO5TRY"
    },
    {
     "kept": {
@@ -150948,6 +149752,30 @@
    },
    {
     "kept": {
+     "path": "invariants/CO-GA/CoGa-05Su.zpf-03.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CO-GA/CoGa-10Cha.zpf-00.json",
+     "index": 0
+    },
+    "kept_id": "ORC-JADTAFFN24",
+    "removed_id": "ORC-D6WNBGBJOB"
+   },
+   {
+    "kept": {
+     "path": "invariants/CO-GA/CoGa-05Su.zpf-02.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/CO-GA/CoGa-10Cha.zpf-02.json",
+     "index": 0
+    },
+    "kept_id": "ORC-EL3AF7O6D5",
+    "removed_id": "ORC-57OLQ3UZSY"
+   },
+   {
+    "kept": {
      "path": "invariants/CO-NB/CoNb-15He.zpf-00.json",
      "index": 0
     },
@@ -152433,6 +151261,18 @@
     },
     "kept_id": "ORC-GPG7MSSQW5",
     "removed_id": "ORC-FUNK6KUKBT"
+   },
+   {
+    "kept": {
+     "path": "invariants/FE-TA/FeTa-11Wit.zpf-04.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/FE-TA/FeTa-15Raj.zpf-05.json",
+     "index": 0
+    },
+    "kept_id": "ORC-SBE3FUO55Y",
+    "removed_id": "ORC-7P3CTG46LB"
    },
    {
     "kept": {
@@ -155028,6 +153868,18 @@
    },
    {
     "kept": {
+     "path": "invariants/NI-ZN/NiZn-02Su.zpf-02.json",
+     "index": 0
+    },
+    "removed": {
+     "path": "invariants/NI-ZN/NiZn-02Su.zpf-03.json",
+     "index": 0
+    },
+    "kept_id": "ORC-6C6M3P2B5G",
+    "removed_id": "ORC-IHQWHXWVNS"
+   },
+   {
+    "kept": {
      "path": "invariants/NI-ZN/NiZn-03Mie.zpf-02.json",
      "index": 0
     },
@@ -155817,6 +154669,30 @@
     },
     "kept_id": "ORC-3ORZP4VGO7",
     "removed_id": "ORC-3GYMD4KJTQ"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
+     "index": 4
+    },
+    "removed": {
+     "path": "invariants/CU-SI/CuSi-13Gie.zpf-01.json",
+     "index": 0
+    },
+    "kept_id": "ORC-IYI7ST6E6R",
+    "removed_id": "ORC-BPIKL3VG5J"
+   },
+   {
+    "kept": {
+     "path": "invariants/CU-SI/CuSi-13Gie.zpf-00.json",
+     "index": 4
+    },
+    "removed": {
+     "path": "invariants/CU-SI/CuSi-13Gie.zpf-02.json",
+     "index": 2
+    },
+    "kept_id": "ORC-IYI7ST6E6R",
+    "removed_id": "ORC-DEU7DZJC6O"
    },
    {
     "kept": {
@@ -160467,6 +159343,18 @@
     "duplicate_id": "ORC-IRVRKYRVYA.a76274",
     "pid": "sha256:fc2eb898db6c0244/p8/tab-v/r17#equilibrium_property",
     "dataset": "general/espei/PdSn-06Viz/hmr-01.json"
+   },
+   {
+    "kept_id": "ORC-LQVRUTMRZB.80a30c",
+    "duplicate_id": "ORC-LQVRUTMRZB.80a30c",
+    "pid": "doi:10.1016/j.calphad.2022.102491/p31/tab-5/r06#equilibrium_property",
+    "dataset": "general/espei/PdZn-22Gon/hmr-03.json"
+   },
+   {
+    "kept_id": "ORC-XVHMK36SNQ.1a8a1b",
+    "duplicate_id": "ORC-XVHMK36SNQ.1a8a1b",
+    "pid": "doi:10.1016/j.calphad.2022.102491/p31/tab-5/r07#equilibrium_property",
+    "dataset": "general/espei/PdZn-22Gon/hmr-04.json"
    },
    {
     "kept_id": "ORC-MBFNTRXGAI.905300",
@@ -165245,62 +164133,62 @@
  "phase_constraints": {
   "folders": {
    "assessed": {
-    "datasets": 636,
-    "points": 6683,
-    "systems": 471
+    "datasets": 642,
+    "points": 6730,
+    "systems": 476
    },
    "derived/invariant-brackets": {
-    "datasets": 1055,
-    "points": 4693,
-    "systems": 385
+    "datasets": 1075,
+    "points": 4758,
+    "systems": 391
    },
    "derived/liquid-stability": {
-    "datasets": 418,
-    "points": 3762,
-    "systems": 302
+    "datasets": 421,
+    "points": 3789,
+    "systems": 305
    }
   },
   "brackets": {
    "made": {
-    "above": 2495,
-    "below": 2442
+    "above": 2535,
+    "below": 2476
    },
    "skipped": {
-    "another_invariant_within_offset (above)": 705,
-    "another_invariant_within_offset (below)": 758,
-    "composition_not_between_the_two_phases": 154,
-    "invariant_composition_unknown": 379,
-    "phase_unmapped_or_repeated": 32,
-    "reaction_label_not_matched": 652,
-    "reaction_not_parsed": 130,
-    "reaction_phases_differ_from_dataset": 9,
+    "another_invariant_within_offset (above)": 761,
+    "another_invariant_within_offset (below)": 820,
+    "composition_not_between_the_two_phases": 156,
+    "invariant_composition_unknown": 395,
+    "phase_unmapped_or_repeated": 46,
+    "reaction_label_not_matched": 660,
+    "reaction_not_parsed": 135,
+    "reaction_phases_differ_from_dataset": 14,
     "reaction_type_magnetic": 3,
     "reaction_type_order-disorder": 4,
     "unary_reaction": 50
    }
   },
   "assessed_points_left_out": {
-   "phase_ambiguous_in_tdb": 135,
+   "phase_ambiguous_in_tdb": 137,
    "phase_not_in_tdb": 266,
    "region_inert_no_composition": 91
   },
   "liquid_stability_systems": {
-   "above_a_boiling_point": 81,
+   "above_a_boiling_point": 83,
    "element_not_a_condensed_liquid_at_1_atm": 24,
    "liquid_miscibility_gap_in_sources": 64,
    "no_assessed_diagram": 24,
    "no_single_phase_liquid_field": 9,
-   "written": 302
+   "written": 305
   }
  },
  "summary": {
-  "datasets": 6244,
-  "values": 13010,
+  "datasets": 6293,
+  "values": 13183,
   "by_folder": {
    "experimental": {
-    "datasets": 947,
-    "values": 2886,
-    "systems": 185
+    "datasets": 963,
+    "values": 2902,
+    "systems": 187
    },
    "model": {
     "datasets": 486,
@@ -165308,9 +164196,9 @@
     "systems": 82
    },
    "invariants": {
-    "datasets": 1535,
-    "values": 4987,
-    "systems": 465
+    "datasets": 1568,
+    "values": 5144,
+    "systems": 470
    },
    "dft/literature": {
     "datasets": 774,
@@ -165343,15 +164231,15 @@
    "experimental/ACR_TL": 4,
    "experimental/ACR_YB": 13,
    "experimental/ACR_ZR": 16,
-   "experimental/CPM": 64,
+   "experimental/CPM": 77,
    "experimental/GMR": 26,
-   "experimental/HMR": 125,
+   "experimental/HMR": 127,
    "experimental/HM_FORM": 404,
    "experimental/SM": 12,
    "experimental/SMR": 5,
    "experimental/SM_FORM": 42,
-   "experimental/ZPF": 198,
-   "invariants/ZPF": 1535,
+   "experimental/ZPF": 199,
+   "invariants/ZPF": 1568,
    "model/ACR_CU": 16,
    "model/ACR_MO": 11,
    "model/ACR_ZR": 16,
@@ -165364,7 +164252,7 @@
    "model/SM_FORM": 43,
    "model/ZPF": 12
   },
-  "systems_total": 691,
+  "systems_total": 695,
   "source_datasets": {
    "general/espei": 1823,
    "general/espei-model": 774,
@@ -165384,10 +164272,10 @@
    "composition_not_at_compound;phase_rule:phase_label_not_mapped": 1,
    "dft_superseded": 124,
    "duplicate_identical_property_dataset": 54,
-   "duplicate_identical_zpf": 124,
+   "duplicate_identical_zpf": 128,
    "duplicate_of_other_dataset": 1,
    "espei_evaluation_error": 68,
-   "espei_evaluation_nonfinite": 62,
+   "espei_evaluation_nonfinite": 61,
    "espei_evaluation_tdb_error": 13,
    "espei_evaluation_tdb_not_found": 3,
    "evidence_class_mismatch": 6,
@@ -165395,10 +164283,9 @@
    "gas_without_printed_pressure": 14,
    "gas_without_printed_pressure;model_phase_rejected_by_label_check": 1,
    "gas_without_printed_pressure;zpf_region_inert": 1,
-   "model_phase_rejected_by_label_check": 110,
-   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate": 1,
-   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 3,
-   "model_phase_rejected_by_label_check;zpf_region_inert": 41,
+   "model_phase_rejected_by_label_check": 66,
+   "model_phase_rejected_by_label_check;not_espei_ready:literature_gate;zpf_region_inert": 2,
+   "model_phase_rejected_by_label_check;zpf_region_inert": 39,
    "not_accepted": 8,
    "not_accepted;phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 1,
    "not_accepted;temperature_differs_from_release": 1,
@@ -165421,7 +164308,7 @@
    "phase_rule:phase_label_ambiguous": 65,
    "phase_rule:phase_label_ambiguous;phase_rule:phase_label_not_mapped": 7,
    "phase_rule:phase_label_ambiguous;reference_state_not_ser": 4,
-   "phase_rule:phase_label_not_mapped": 300,
+   "phase_rule:phase_label_not_mapped": 285,
    "phase_rule:phase_label_not_mapped;phase_several_models_in_target_tdb": 1,
    "phase_rule:phase_label_not_mapped;reference_phase_not_in_target_tdb": 5,
    "phase_rule:phase_not_printed": 13,
@@ -165430,8 +164317,9 @@
    "pycalphad_evaluation_unstable": 3,
    "reference_phase_not_in_target_tdb": 36,
    "reference_state_not_ser": 57,
+   "system_alias_vertex_ambiguous": 8,
    "value_differs_from_release": 47,
-   "zpf_region_inert": 244
+   "zpf_region_inert": 247
   },
   "datasets_excluded_by_espei": {
    "mole_fractions_sum_above_one": 1,
@@ -165444,15 +164332,15 @@
    "blocked_by_flag:system_mismatch": 18,
    "composition_differs_from_release": 93,
    "composition_not_at_compound": 43,
-   "duplicate_identical_zpf": 685,
+   "duplicate_identical_zpf": 699,
    "duplicate_of_other_dataset": 1,
-   "duplicate_read_same_row": 1171,
+   "duplicate_read_same_row": 1173,
    "duplicate_value_same_dataset": 25,
-   "espei_evaluation_nonfinite_region": 46,
+   "espei_evaluation_nonfinite_region": 52,
    "evidence_class_mismatch": 13,
    "formation_magnitude_implausible": 2,
    "gas_without_printed_pressure": 27,
-   "model_phase_rejected_by_label_check": 599,
+   "model_phase_rejected_by_label_check": 392,
    "not_accepted": 40,
    "not_espei_ready:literature_gate": 463,
    "phase_not_in_target_tdb": 116,
@@ -165460,30 +164348,32 @@
    "phase_rule:liquid_impossible_at_T": 3,
    "phase_rule:not_espei_ready": 4,
    "phase_rule:phase_label_ambiguous": 148,
-   "phase_rule:phase_label_not_mapped": 706,
+   "phase_rule:phase_label_not_mapped": 689,
    "phase_rule:phase_not_printed": 269,
    "phase_rule:temperature_implausible": 22,
    "phase_several_models_in_target_tdb": 9,
    "reference_phase_not_in_target_tdb": 60,
    "reference_state_not_ser": 74,
+   "system_alias_phase_not_in_target_tdb": 6,
+   "system_alias_vertex_ambiguous": 18,
    "temperature_differs_from_release": 5,
    "three_phase_region_off_invariant": 9,
    "value_differs_from_release": 101,
-   "zpf_region_inert": 1377
+   "zpf_region_inert": 1385
   },
   "reader_agreement": {
-   "experimental/multi_reader": 2824,
+   "experimental/multi_reader": 2839,
    "experimental/single_reader": 10,
-   "experimental/single_reader_text_layer": 74,
-   "invariants/multi_reader": 5440,
-   "invariants/single_reader_text_layer": 32,
+   "experimental/single_reader_text_layer": 75,
+   "invariants/multi_reader": 5608,
+   "invariants/single_reader_text_layer": 33,
    "model/multi_reader": 760,
    "model/single_reader": 7,
    "model/single_reader_text_layer": 9
   },
   "reader_agreement_source": "release",
   "observation_match": {
-   "id": 13979
+   "id": 13996
   },
   "datasets_with_espei_evaluation": 0,
   "dft_candidates": {
@@ -165505,18 +164395,18 @@
    "oqmd/not_in_phase_registry": 6805
   },
   "fixes": {
-   "E1_va_added_datasets": 6559,
+   "E1_va_added_datasets": 6608,
    "E1_basis": {
     "metallic_system": 23,
     "system_tdbs": 1,
-    "target_tdb": 6535
+    "target_tdb": 6584
    },
-   "E2_vertices_nulled": 5979,
-   "E2_datasets": 1183,
-   "E2_hyperplanes_added": 166,
-   "E3_regions_removed": 685,
-   "E3_datasets_emptied_and_dropped": 124,
-   "E4_values_removed": 1171,
+   "E2_vertices_nulled": 6061,
+   "E2_datasets": 1190,
+   "E2_hyperplanes_added": 179,
+   "E3_regions_removed": 699,
+   "E3_datasets_emptied_and_dropped": 128,
+   "E4_values_removed": 1173,
    "E5_activity_datasets_audited": 114,
    "E5_reference_state_changed": 64,
    "E5_basis": {
@@ -165525,67 +164415,67 @@
    },
    "E5_records_disagreeing_with_paper": 84,
    "E6_weights_from_sigma_effective": {
-    "datasets": 1332,
-    "weight_lower_than_before": 1236,
+    "datasets": 1347,
+    "weight_lower_than_before": 1250,
     "weight_higher_than_before": 1,
-    "weight_unchanged": 95,
+    "weight_unchanged": 96,
     "by_class": {
      "higher:experimental": 1,
-     "lower:experimental": 719,
+     "lower:experimental": 733,
      "lower:model": 517,
-     "same:experimental": 95
+     "same:experimental": 96
     }
    }
   },
   "phase_constraints": {
    "folders": {
     "assessed": {
-     "datasets": 636,
-     "points": 6683,
-     "systems": 471
+     "datasets": 642,
+     "points": 6730,
+     "systems": 476
     },
     "derived/invariant-brackets": {
-     "datasets": 1055,
-     "points": 4693,
-     "systems": 385
+     "datasets": 1075,
+     "points": 4758,
+     "systems": 391
     },
     "derived/liquid-stability": {
-     "datasets": 418,
-     "points": 3762,
-     "systems": 302
+     "datasets": 421,
+     "points": 3789,
+     "systems": 305
     }
    },
    "brackets": {
     "made": {
-     "above": 2495,
-     "below": 2442
+     "above": 2535,
+     "below": 2476
     },
     "skipped": {
-     "another_invariant_within_offset (above)": 705,
-     "another_invariant_within_offset (below)": 758,
-     "composition_not_between_the_two_phases": 154,
-     "invariant_composition_unknown": 379,
-     "phase_unmapped_or_repeated": 32,
-     "reaction_label_not_matched": 652,
-     "reaction_not_parsed": 130,
-     "reaction_phases_differ_from_dataset": 9,
+     "another_invariant_within_offset (above)": 761,
+     "another_invariant_within_offset (below)": 820,
+     "composition_not_between_the_two_phases": 156,
+     "invariant_composition_unknown": 395,
+     "phase_unmapped_or_repeated": 46,
+     "reaction_label_not_matched": 660,
+     "reaction_not_parsed": 135,
+     "reaction_phases_differ_from_dataset": 14,
      "reaction_type_magnetic": 3,
      "reaction_type_order-disorder": 4,
      "unary_reaction": 50
     }
    },
    "assessed_points_left_out": {
-    "phase_ambiguous_in_tdb": 135,
+    "phase_ambiguous_in_tdb": 137,
     "phase_not_in_tdb": 266,
     "region_inert_no_composition": 91
    },
    "liquid_stability_systems": {
-    "above_a_boiling_point": 81,
+    "above_a_boiling_point": 83,
     "element_not_a_condensed_liquid_at_1_atm": 24,
     "liquid_miscibility_gap_in_sources": 64,
     "no_assessed_diagram": 24,
     "no_single_phase_liquid_field": 9,
-    "written": 302
+    "written": 305
    }
   }
  }

@@ -13,7 +13,7 @@ Table: Phases of the Cu–Sb system (11)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [RHOMBOHEDRAL_A7](#phase-cu-sb-a7-rhombohedral); _phase:cu-sb:a7-rhombohedral_ | alpha-As · A7 · hR2 · R-3m (166) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2498.78 K, x(Sb) 1–1 | 2 | 3 |
-| [BCC_A2](#phase-cu-sb-bcc-a2); _phase:cu-sb:bcc-a2_ |  | needs_review | stable in 2 of 3 calculated diagram(s): 707.36–959.57 K, x(Sb) 0.20425–0.31329 | 0 | 3 |
+| [BCC_A2](#phase-cu-sb-bcc-a2); _phase:cu-sb:bcc-a2_ |  | needs_review | stable in 2 of 3 calculated diagram(s): 707.36–959.57 K, x(Sb) 0.20425–0.31329 | 8 | 3 |
 | [CU10SB3](#phase-cu-sb-cu10sb3); _phase:cu-sb:cu10sb3_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 415.18–715.39 K, x(Sb) 0.23–0.23077 | 8 | 3 |
 | [CU17SB3_A3](#phase-cu-sb-cu17sb3-a3); _phase:cu-sb:cu17sb3-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 653.17–761.35 K, x(Sb) 0.15–0.15 | 8 | 3 |
 | [CU2SB_C38](#phase-cu-sb-cu2sb-c38); _phase:cu-sb:cu2sb-c38_ |  | needs_review | stable in 3 of 3 calculated diagram(s): 300–858.09 K, x(Sb) 0.33–0.33333 | 12 | 3 |
@@ -74,13 +74,17 @@ _assessment that models this phase_
 
 - Id: `phase:cu-sb:bcc-a2`; status `needs_review`
 - No structure assigned. Why: assessment_declared_blocked_by:sgte_mmc2_row_disagrees_with_name; sgte_mmc2_row_disagrees_with_name:BCC_A2
+- Candidate (literature_printed): BiF3 · cF16 — printed with a label mapped to this phase
+- Candidate (literature_printed): W · cI2 — printed with a label mapped to this phase
 - Candidate (name_token): W · A2 · cI2 · Im-3m (229) — Strukturbericht/word 'A2' in the TDB name
 - Candidate (sgte_mmc2): BiF3 · D0_3 · cF16 · Fm-3m (225) — Hallstedt 2025 mmc2 row for BCC_A2: Cu3Sb (beta)
 - Stability: stable in 2 of 3 calculated diagram(s): 707.36–959.57 K, x(Sb) 0.20425–0.31329
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 8 values (8 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-sb:bcc-a2)
 
-Names (4): _corpus: _corpus:phase:cu-sb:bcc-a2  
+Names (7): _corpus: _corpus:phase:cu-sb:bcc-a2  
+_paper: _paper:10.1007/s11669-023-01074-8:β (Cu3Sb), paper:10.1016/j.jallcom.2009.05.056:β  
+_system_alias: _system_alias:cu-sb:beta  
 _tdb: _tdb:CuSb-00Liu-LB.tdb:BCC_A2, tdb:CuSb-09Gie.tdb:BCC_A2, tdb:CuSb-23Liu.tdb:BCC_A2  
 
 
@@ -107,14 +111,16 @@ _tdb: _tdb:CuSb-00Liu-LB.tdb:BCC_A2, tdb:CuSb-09Gie.tdb:BCC_A2, tdb:CuSb-23Liu.t
 41: CONST BCC_A2 : CU SB : VA : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
-- [doi:10.1007/s11669-023-01074-8](https://doi.org/10.1007/s11669-023-01074-8) Runlin Liu, Jiong Wang, Dongyu Cui, Thermodynamic Modeling of the Cu-Sb-Se System, J. Phase Equilib. Diffus. 44, 687-703 (2023).  
-_assessment that models this phase_
 - [doi:10.1016/j.jallcom.2009.05.056](https://doi.org/10.1016/j.jallcom.2009.05.056) Wojciech Gierlotka, Dominika Jendrzejczyk-Handzlik, Thermodynamic description of the Cu–Sb binary system, Journal of Alloys and Compounds 484, 172-176 (2009).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1007/s11669-023-01074-8](https://doi.org/10.1007/s11669-023-01074-8) Runlin Liu, Jiong Wang, Dongyu Cui, Thermodynamic Modeling of the Cu-Sb-Se System, J. Phase Equilib. Diffus. 44, 687-703 (2023).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497100770339608](https://doi.org/10.1361/105497100770339608) X. J. Liu, C. P. Wang, I. Ohnuma, R. Kainuma, K. Ishida, Thermodynamic assessment of the phase diagrams of the Cu-Sb and Sb-Zn systems, JPE 21, 432-442 (2000).  
 _assessment that models this phase_
+- [doi:10.1515/ijmr-1941-331103](https://doi.org/10.1515/ijmr-1941-331103) Wilhelm Hofmann, Zur Überstruktur von Cu;Sb, International Journal of Materials Research 33, 373-373 (1941).  
+_cited as the source of values for this phase_
 
 ## CU10SB3 (Cu–Sb)
 

@@ -1,0 +1,273 @@
+{
+ "components": [
+  "AG",
+  "IN",
+  "VA"
+ ],
+ "phases": [
+  "AG9IN4_D83",
+  "BCC_A2",
+  "FCC_A1",
+  "HCP_A3",
+  "LIQUID"
+ ],
+ "conditions": {
+  "P": 101325,
+  "T": [
+   940,
+   933,
+   572
+  ]
+ },
+ "output": "ZPF",
+ "values": [
+  [
+   [
+    "FCC_A1",
+    [
+     "IN"
+    ],
+    [
+     0.18100000000000002
+    ]
+   ],
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.237
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.231
+    ]
+   ]
+  ],
+  [
+   [
+    "BCC_A2",
+    [
+     "IN"
+    ],
+    [
+     0.247
+    ]
+   ],
+   [
+    "LIQUID",
+    [
+     "IN"
+    ],
+    [
+     0.242
+    ]
+   ],
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.311
+    ]
+   ]
+  ],
+  [
+   [
+    "HCP_A3",
+    [
+     "IN"
+    ],
+    [
+     0.314
+    ]
+   ],
+   [
+    "AG9IN4_D83",
+    [
+     "IN"
+    ],
+    [
+     0.314
+    ]
+   ]
+  ]
+ ],
+ "reference": "1951, Hellner E (1951) Das zweistoffsystem silber-indium. Z Metallk 42:17–19",
+ "tags": [
+  "experimental",
+  "invariant_table",
+  "via_assessment",
+  "orchid_caveat",
+  "orchid"
+ ],
+ "comment": "ORCHID literature values, Version 1, machine-extracted. Evidence class: experimental. ORCHID observation ids (orchid-literature `id`, one per value, in value order): ORC-ZSPB6ZALBT ORC-ESMQ7TMI5T ORC-DYHL4WYVPN",
+ "bibtex": "hellner1951_6359ba",
+ "orchid": {
+  "status": "Version 1, machine-extracted",
+  "evidence_class": "experimental",
+  "observations": [
+   {
+    "id": "ORC-ZSPB6ZALBT",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c"
+   },
+   {
+    "id": "ORC-ESMQ7TMI5T",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c",
+    "caveats": [
+     "plausibility_fail"
+    ]
+   },
+   {
+    "id": "ORC-DYHL4WYVPN",
+    "reader_agreement": "multi_reader",
+    "paper": "doi:10.1007/s10853-018-1999-8",
+    "measured_in": "ref:534e1c0c5c5f8a5c"
+   }
+  ],
+  "papers": [
+   "ref:534e1c0c5c5f8a5c",
+   "doi:10.1007/s10853-018-1999-8"
+  ],
+  "dois": [
+   "10.1007/s10853-018-1999-8"
+  ],
+  "source_dataset": "db-v2.1/invariants/espei/AgIn-18Muz/zpf-04.json",
+  "values_dropped": 2
+ },
+ "orchid_uncertainty": {
+  "unit": "K (temperature), mole fraction (composition)",
+  "values": [
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 11.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 11.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 4914,
+      "method_entry": "value_types/T_INVARIANT/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   },
+   {
+    "sigma": null,
+    "sigma_basis": "zpf (ESPEI weighs ZPF data by a driving-force tolerance, not a value sigma; no weight set)",
+    "budget": {
+     "temperature_K": {
+      "sigma_printed": null,
+      "sigma_reading": 0.5,
+      "sigma_method": 18.0,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 18.0,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 256,
+      "method_entry": "value_types/T_TRANSITION/classes/unknown"
+     },
+     "composition_mole_fraction": {
+      "sigma_printed": null,
+      "sigma_reading": 0.0005,
+      "sigma_method": 0.011,
+      "sigma_composition": null,
+      "sigma_scatter": null,
+      "sigma_conversion": null,
+      "sigma_effective": 0.011,
+      "method_class": "unknown",
+      "method_basis": "calibrated",
+      "method_n_pairs": 3022,
+      "method_entry": "value_types/X_PHASE/classes/unknown"
+     }
+    }
+   }
+  ],
+  "weight_rule": "none: ZPF scale is ESPEI's driving-force tolerance; weight left at 1 (the temperature and composition budgets are information for the user)"
+ },
+ "orchid_certification": {
+  "basis": "pycalphad_invariant_agreement",
+  "all_values_certified": false,
+  "n_certified": 1,
+  "values": [
+   {
+    "id": "ORC-ZSPB6ZALBT",
+    "espei_certified": true,
+    "calphad_check": "agrees"
+   },
+   {
+    "id": "ORC-ESMQ7TMI5T",
+    "espei_certified": false,
+    "calphad_check": "disagrees"
+   },
+   {
+    "id": "ORC-DYHL4WYVPN",
+    "espei_certified": false,
+    "calphad_check": "not_available"
+   }
+  ]
+ }
+}

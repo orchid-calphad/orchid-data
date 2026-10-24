@@ -12,7 +12,7 @@ Table: Phases of the Co–Zn system (11)
 
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
-| [BCC_A2](#phase-co-zn-bcc-a2); _phase:co-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266 | 0 | 2 |
+| [BCC_A2](#phase-co-zn-bcc-a2); _phase:co-zn:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266 | 12 | 2 |
 | [CO2ZN15](#phase-co-zn-co2zn15); _phase:co-zn:co2zn15_ | Co2Zn15 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 948.09–1016.39 K, x(Zn) 0.88235–0.88235 | 12 | 1 |
 | [CO2ZN28](#phase-co-zn-co2zn28); _phase:co-zn:co2zn28_ | CoZn13 · mC28 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–850.44 K, x(Zn) 0.93333–0.93333 | 0 | 1 |
 | [CO3ZN22](#phase-co-zn-co3zn22); _phase:co-zn:co3zn22_ | CoZn7 · hP60 · P6_2 (171) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 1 of 1 calculated diagram(s): 300–1020 K, x(Zn) 0.88–0.88 | 2 | 1 |
@@ -29,10 +29,12 @@ Table: Phases of the Co–Zn system (11)
 - Id: `phase:co-zn:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 1 of 2 calculated diagram(s): 1193.31–1246.52 K, x(Zn) 0.49323–0.53266
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 12 values (12 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-zn:bcc-a2)
 
-Names (3): _corpus: _corpus:phase:co-zn:bcc-a2  
+Names (5): _corpus: _corpus:phase:co-zn:bcc-a2  
+_paper: _paper:10.1361/15477030419522:β  
+_system_alias: _system_alias:co-zn:beta  
 _tdb: _tdb:CoZn-04Iso.tdb:BCC_A2, tdb:CoZn-04Vas-LB.tdb:BCC_A2  
 
 
@@ -54,9 +56,9 @@ _tdb: _tdb:CoZn-04Iso.tdb:BCC_A2, tdb:CoZn-04Vas-LB.tdb:BCC_A2
 
 Example references (2 of 2; assessments first): 
 
-- [doi:10.1016/j.jallcom.2003.12.002](https://doi.org/10.1016/j.jallcom.2003.12.002) I Isomäki, M Hämäläinen, Thermodynamic evaluation of the Co–Zn system, Journal of Alloys and Compounds 375, 191-195 (2004).  
-_assessment that models this phase_
 - [doi:10.1361/15477030419522](https://doi.org/10.1361/15477030419522) George Penev Vassilev, Min Jiang, Thermodynamic Optimization of the Co-Zn System, Journal of Phase Equilibria &amp; Diffusion 25, 259-268 (2004).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.jallcom.2003.12.002](https://doi.org/10.1016/j.jallcom.2003.12.002) I Isomäki, M Hämäläinen, Thermodynamic evaluation of the Co–Zn system, Journal of Alloys and Compounds 375, 191-195 (2004).  
 _assessment that models this phase_
 
 ## CO2ZN15 (Co–Zn)

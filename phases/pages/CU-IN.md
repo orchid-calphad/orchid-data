@@ -13,15 +13,15 @@ Table: Phases of the Cu–In system (12)
 | Phase | Structure | Basis | Stability (calculated) | Literature values | TDB models |
 |---|---|---|---|---:|---:|
 | [TETRAGONAL_A6](#phase-cu-in-a6-tetragonal); _phase:cu-in:a6-tetragonal_ | In · A6 · tI2 · I4/mmm (139) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–429.75 K, x(In) 1–1 | 2 | 5 |
-| [BCC_A2](#phase-cu-in-bcc-a2); _phase:cu-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 5 calculated diagram(s): 840.77–984.32 K, x(In) 0.18704–0.24672 | 0 | 5 |
+| [BCC_A2](#phase-cu-in-bcc-a2); _phase:cu-in:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | stable in 4 of 5 calculated diagram(s): 840.77–984.32 K, x(In) 0.18704–0.24672 | 15 | 5 |
 | [CU11IN9](#phase-cu-in-cu11in9); _phase:cu-in:cu11in9_ | AlCu(r) · mC20 · C2/m (12) | tier C: assessor-stated (Hallstedt 2025 crystallographic table) | stable in 5 of 5 calculated diagram(s): 300–610 K, x(In) 0.45–0.45 | 7 | 5 |
 | [CU2IN_LT](#phase-cu-in-cu2in); _phase:cu-in:cu2in_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 300–939.33 K, x(In) 0.33333–0.36 | 7 | 4 |
 | [CU2IN_B82](#phase-cu-in-cu2in-b82); _phase:cu-in:cu2in-b82_ | InNi2 · B8_2 · hP6 · P6_3/mmc (194) | tier A: standard phase name | stable in 4 of 4 calculated diagram(s): 334.9–942.76 K, x(In) 0.3266–0.40007 | 0 | 4 |
 | [CU4IN](#phase-cu-in-cu4in); _phase:cu-in:cu4in_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 864.81–983.67 K, x(In) 0.2–0.2 | 0 | 1 |
-| [CU7IN3](#phase-cu-in-cu7in3); _phase:cu-in:cu7in3_ | Cu7In3 · aP40 · P-1 (2) | tier B: DFT-supported (unique MP + OQMD match) | stable in 5 of 5 calculated diagram(s): 300–955.77 K, x(In) 0.3–0.3 | 9 | 5 |
+| [CU7IN3](#phase-cu-in-cu7in3); _phase:cu-in:cu7in3_ | Cu7In3 · aP40 · P-1 (2) | tier B: DFT-supported (unique MP + OQMD match) | stable in 5 of 5 calculated diagram(s): 300–955.77 K, x(In) 0.3–0.3 | 25 | 5 |
 | [CU9IN4_D83](#phase-cu-in-cu9in4-d83); _phase:cu-in:cu9in4-d83_ |  | needs_review | stable in 4 of 4 calculated diagram(s): 886.25–961.64 K, x(In) 0.27969–0.33886 | 10 | 4 |
 | [CUIN2](#phase-cu-in-cuin2); _phase:cu-in:cuin2_ |  | needs_review | stable in 1 of 1 calculated diagram(s): 300–380.76 K, x(In) 0.667–0.667 | 0 | 1 |
-| [FCC_A1](#phase-cu-in-fcc-a1); _phase:cu-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1359.77 K, x(In) 0–0.10397 | 0 | 5 |
+| [FCC_A1](#phase-cu-in-fcc-a1); _phase:cu-in:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 5 of 5 calculated diagram(s): 300–1359.77 K, x(In) 0–0.10397 | 4 | 5 |
 | [HCP_A3](#phase-cu-in-hcp-a3); _phase:cu-in:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | not stable in 5 calculated diagram(s) | 0 | 5 |
 | [LIQUID](#phase-cu-in-liquid); _phase:cu-in:liquid_ | liquid | liquid | stable in 5 of 5 calculated diagram(s): 425.92–2500 K, x(In) 0–1 | 12 | 5 |
 
@@ -92,10 +92,12 @@ _assessment that models this phase_
 - Id: `phase:cu-in:bcc-a2`; status `assigned`
 - Structure: W · A2 · cI2 · Im-3m (229); type `st:a2-w-ci2`; tier A: standard phase name; confidence high
 - Stability: stable in 4 of 5 calculated diagram(s): 840.77–984.32 K, x(In) 0.18704–0.24672
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 15 values (15 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-in:bcc-a2)
 
-Names (6): _corpus: _corpus:phase:cu-in:bcc-a2  
+Names (10): _corpus: _corpus:phase:cu-in:bcc-a2  
+_paper: _paper:10.1007/bf02652158:β, paper:10.1361/105497102770331163:β, paper:10.1361/105497102770331352:β  
+_system_alias: _system_alias:cu-in:beta  
 _tdb: _tdb:CuIn-02Her.tdb:BCC_A2, tdb:CuIn-02Liu-LB.tdb:BCC_A2, tdb:CuIn-02Liu-orig.tdb:BCC_A2, tdb:CuIn-24Cha.tdb:BCC_A2, tdb:CuIn-93Kao.tdb:BCC_A2  
 
 
@@ -139,12 +141,12 @@ _tdb: _tdb:CuIn-02Her.tdb:BCC_A2, tdb:CuIn-02Liu-LB.tdb:BCC_A2, tdb:CuIn-02Liu-o
 Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02652158](https://doi.org/10.1007/BF02652158) C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).  
-_assessment that models this phase_
-- [doi:10.1016/j.calphad.2024.102700](https://doi.org/10.1016/j.calphad.2024.102700) F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163) Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497102770331352](https://doi.org/10.1361/105497102770331352) H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1016/j.calphad.2024.102700](https://doi.org/10.1016/j.calphad.2024.102700) F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).  
 _assessment that models this phase_
 
 ## CU11IN9 (Cu–In)
@@ -351,13 +353,14 @@ _assessment that models this phase_
 - Structure: Cu7In3 · aP40 · P-1 (2); type `st:cu7in3-ap40`; tier B: DFT-supported (unique MP + OQMD match); confidence high
 - Stoichiometry: Cu 0.7000, In 0.3000
 - Stability: stable in 5 of 5 calculated diagram(s): 300–955.77 K, x(In) 0.3–0.3
-- Literature: 9 values (9 accepted) from 1 papers
+- Literature: 25 values (25 accepted) from 3 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-in:cu7in3)
 
-Names (10): _corpus: _corpus:phase:cu-in:cu7in3  
+Names (14): _corpus: _corpus:phase:cu-in:cu7in3  
 _mp: _mp:mp-aaaabgnp  
 _oqmd: _oqmd:oqmd-2051515  
-_paper: _paper:10.1007/bf02652158:γ, paper:10.1007/bf02652158:δCu7In3  
+_paper: _paper:10.1007/bf02652158:γ, paper:10.1007/bf02652158:δ, paper:10.1007/bf02652158:δCu7In3, paper:10.1361/105497102770331163:δ, paper:10.1361/105497102770331352:δ  
+_system_alias: _system_alias:cu-in:delta  
 _tdb: _tdb:CuIn-02Her.tdb:CU7IN3, tdb:CuIn-02Liu-LB.tdb:CU7IN3, tdb:CuIn-02Liu-orig.tdb:CU7IN3, tdb:CuIn-24Cha.tdb:CU7IN3, tdb:CuIn-93Kao.tdb:CU7IN3  
 
 
@@ -398,16 +401,18 @@ _tdb: _tdb:CuIn-02Her.tdb:CU7IN3, tdb:CuIn-02Liu-LB.tdb:CU7IN3, tdb:CuIn-02Liu-o
 71: CONST CU7IN3 : CU : IN : !
 ~~~~
 
-Example references (4 of 4; assessments first): 
+Example references (5 of 5; assessments first): 
 
 - [doi:10.1007/BF02652158](https://doi.org/10.1007/BF02652158) C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).  
 _assessment that models this phase; reports values for this phase_
+- [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163) Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).  
+_assessment that models this phase; reports values for this phase_
+- [doi:10.1361/105497102770331352](https://doi.org/10.1361/105497102770331352) H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).  
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2024.102700](https://doi.org/10.1016/j.calphad.2024.102700) F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).  
 _assessment that models this phase_
-- [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163) Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).  
-_assessment that models this phase_
-- [doi:10.1361/105497102770331352](https://doi.org/10.1361/105497102770331352) H. S. Liu, Y. Cui, K. Ishida, X. J. Liu, C. P. Wang, I. Ohnuma et al., Thermodynamic assessment of the Cu-In binary system, JPE 23, 409-415 (2002).  
-_assessment that models this phase_
+- [doi:10.1021/j150541a005](https://doi.org/10.1021/j150541a005) O. J. Kleppa, Heat of Formation of Solid and Liquid Binary Alloys of Copper with Cadmium, Indium, Tin and Antimony at 450°, J. Phys. Chem. 60, 852-858 (1956).  
+_cited as the source of values for this phase_
 
 ## CU9IN4_D83 (Cu–In)
 
@@ -502,10 +507,12 @@ _assessment that models this phase_
 - Id: `phase:cu-in:fcc-a1`; status `assigned`
 - Structure: Cu · A1 · cF4 · Fm-3m (225); type `st:a1-cu-cf4`; tier A: standard phase name; confidence high
 - Stability: stable in 5 of 5 calculated diagram(s): 300–1359.77 K, x(In) 0–0.10397
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 4 values (4 accepted) from 1 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:cu-in:fcc-a1)
 
-Names (6): _corpus: _corpus:phase:cu-in:fcc-a1  
+Names (8): _corpus: _corpus:phase:cu-in:fcc-a1  
+_paper: _paper:10.1007/bf02652158:α  
+_system_alias: _system_alias:cu-in:alpha  
 _tdb: _tdb:CuIn-02Her.tdb:FCC_A1, tdb:CuIn-02Liu-LB.tdb:FCC_A1, tdb:CuIn-02Liu-orig.tdb:FCC_A1, tdb:CuIn-24Cha.tdb:FCC_A1, tdb:CuIn-93Kao.tdb:FCC_A1  
 
 
@@ -549,7 +556,7 @@ _tdb: _tdb:CuIn-02Her.tdb:FCC_A1, tdb:CuIn-02Liu-LB.tdb:FCC_A1, tdb:CuIn-02Liu-o
 Example references (4 of 4; assessments first): 
 
 - [doi:10.1007/BF02652158](https://doi.org/10.1007/BF02652158) C.R. Kao, A. Bolcavage, S.-L. Chen, S.W. Chen, Y.A. Chang, A.D. Romig, J. Phase Equilib., 14, 22-30(1993).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.calphad.2024.102700](https://doi.org/10.1016/j.calphad.2024.102700) F.-L. Chang, Y.-H. Lin, H.-T. Hung, C.R. Kao, Calphad, 85, 102700(2024).  
 _assessment that models this phase_
 - [doi:10.1361/105497102770331163](https://doi.org/10.1361/105497102770331163) Jean Hertz, Khadija Aissaoui, Lahcen Bouirden, A thermodynamic optimization of the Cu-In system, JPE 23, 473-479 (2002).  

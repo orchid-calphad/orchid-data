@@ -14,7 +14,7 @@ Table: Phases of the Co–Ga system (7)
 |---|---|---|---|---:|---:|
 | [ORTHORHOMBIC_A11](#phase-co-ga-a11-orthorhombic); _phase:co-ga:a11-orthorhombic_ | alpha-Ga · A11 · oC8 · Cmce (64) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–302.91 K, x(Ga) 1–1 | 2 | 3 |
 | [BCC_A2](#phase-co-ga-bcc-a2); _phase:co-ga:bcc-a2_ | W · A2 · cI2 · Im-3m (229) | tier A: standard phase name | not stable in 3 calculated diagram(s) | 0 | 3 |
-| [COGA_B2](#phase-co-ga-coga-b2); _phase:co-ga:coga-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Ga) 0.22551–0.71442 | 0 | 3 |
+| [COGA_B2](#phase-co-ga-coga-b2); _phase:co-ga:coga-b2_ | CsCl · B2 · cP2 · Pm-3m (221) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Ga) 0.22551–0.71442 | 21 | 3 |
 | [COGA3](#phase-co-ga-coga3); _phase:co-ga:coga3_ | In3Ir · tP16 · P4_2/mnm (136) | tier B: DFT-supported (unique MP + OQMD match) | stable in 3 of 3 calculated diagram(s): 300–1132.33 K, x(Ga) 0.75–0.75 | 15 | 3 |
 | [FCC_A1](#phase-co-ga-fcc-a1); _phase:co-ga:fcc-a1_ | Cu · A1 · cF4 · Fm-3m (225) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–1768.99 K, x(Ga) 0–0.19684 | 12 | 3 |
 | [HCP_A3](#phase-co-ga-hcp-a3); _phase:co-ga:hcp-a3_ | Mg · A3 · hP2 · P6_3/mmc (194) | tier A: standard phase name | stable in 3 of 3 calculated diagram(s): 300–701.98 K, x(Ga) 0–0.10938 | 0 | 3 |
@@ -115,10 +115,12 @@ _assessment that models this phase_
 - Id: `phase:co-ga:coga-b2`; status `assigned`
 - Structure: CsCl · B2 · cP2 · Pm-3m (221); type `st:b2-cscl-cp2`; tier A: standard phase name; confidence high
 - Stability: stable in 3 of 3 calculated diagram(s): 300–2500 K, x(Ga) 0.22551–0.71442
-- Literature: 0 values (0 accepted) from 0 papers
+- Literature: 21 values (21 accepted) from 2 papers
 - Interactive: [phase registry entry](https://orchid-project.org/phases/#phase:co-ga:coga-b2)
 
-Names (4): _corpus: _corpus:phase:co-ga:coga-b2  
+Names (7): _corpus: _corpus:phase:co-ga:coga-b2  
+_paper: _paper:10.1016/j.calphad.2010.02.004:β, paper:10.1016/j.intermet.2004.08.003:β  
+_system_alias: _system_alias:co-ga:beta  
 _tdb: _tdb:CoGa-05Su.tdb:COGA_B2, tdb:CoGa-10Cha.tdb:COGA_B2, tdb:CoGa-99Gro.tdb:COGA_B2  
 
 
@@ -145,14 +147,16 @@ _tdb: _tdb:CoGa-05Su.tdb:COGA_B2, tdb:CoGa-10Cha.tdb:COGA_B2, tdb:CoGa-99Gro.tdb
 49: CONST COGA_B2 : CO% VA : CO GA% : !
 ~~~~
 
-Example references (3 of 3; assessments first): 
+Example references (4 of 4; assessments first): 
 
 - [doi:10.1016/j.calphad.2010.02.004](https://doi.org/10.1016/j.calphad.2010.02.004) Arpita Chari, Andres Garay, Raymundo Arróyave, Thermodynamic remodeling of the Co–Ga system, Calphad 34, 189-195 (2010).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1016/j.intermet.2004.08.003](https://doi.org/10.1016/j.intermet.2004.08.003) Xuping Su, Jean-Claude Tedenac, Thermodynamic modeling of the cobalt–gallium system, Intermetallics 13, 467-473 (2005).  
-_assessment that models this phase_
+_assessment that models this phase; reports values for this phase_
 - [doi:10.1361/105497199770340608](https://doi.org/10.1361/105497199770340608) J. Gröbner, R. Wenzel, G. G. Fischer, R. Schmid-Fetzer, Thermodynamic calculation of the binary systems M-Ga and investigation of ternary M-Ga-N phase equilibria (M=Ni, Co, Pd, Cr), JPE 20, 615-625 (1999).  
 _assessment that models this phase_
+- [doi:10.1088/0305-4608/10/10/008](https://doi.org/10.1088/0305-4608/10/10/008) G L Whittle, P E Clark, R Cywinski, Vacancies and site occupation in Co-Ga-Fe alloys (Mossbauer study), J. Phys. F: Met. Phys. 10, 2093-2104 (1980).  
+_cited as the source of values for this phase_
 
 ## COGA3 (Co–Ga)
 
